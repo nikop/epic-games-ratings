@@ -2912,7 +2912,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72544,
+  "EOS_Progressed": 72545,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 1,
@@ -15487,6 +15487,11 @@
       "Time": "2023-09-15T08:07:05.1594429+00:00",
       "NumProgressed": 72544,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-15T09:07:07.6991191+00:00",
+      "NumProgressed": 72545,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15738,7 +15743,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13783
+      "UsersEstimate": 13784
     },
     {
       "ID": "FREEZE_3",
@@ -15802,7 +15807,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25390
+      "UsersEstimate": 25391
     },
     {
       "ID": "HARLEY_2",
@@ -15922,7 +15927,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12332
+      "UsersEstimate": 12333
     },
     {
       "ID": "MYSTERY_06",
@@ -15985,13 +15990,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72544,
+      "Progressed": 72545,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42824,
+      "Progressed": 42825,
       "Completed": 2663
     }
   ],
@@ -15999,8 +16004,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-15T07:58:53.2049483+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:07:05.159442+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:07:07.6991185+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:58:53.2049491+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:07:05.1595984+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:59:17.6078288+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:07:07.6992892+00:00"
 }

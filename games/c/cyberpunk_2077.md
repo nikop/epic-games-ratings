@@ -1,27 +1,27 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 349)  
+Rating: 4.62 (Ranked 350)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,593 |
-| Right Back At Ya | 40.00% | ~350,489 |
+| The Fool | 69.00% | ~604,595 |
+| Right Back At Ya | 40.00% | ~350,490 |
 | The Lovers | 35.00% | ~306,678 |
-| Stanislavski's Method | 29.00% | ~254,104 |
-| The Wheel of Fortune | 28.00% | ~245,342 |
+| Stanislavski's Method | 29.00% | ~254,105 |
+| The Wheel of Fortune | 28.00% | ~245,343 |
 | The Hermit | 25.00% | ~219,056 |
-| Christmas Tree Attack | 23.00% | ~201,531 |
-| True Soldier | 23.00% | ~201,531 |
+| Christmas Tree Attack | 23.00% | ~201,532 |
+| True Soldier | 23.00% | ~201,532 |
 | The High Priestess | 22.00% | ~192,769 |
 | Legend of The Afterlife | 22.00% | ~192,769 |
 | Life of the Road | 21.00% | ~184,007 |
-| Full Body Conversion | 19.00% | ~166,482 |
-| The World | 19.00% | ~166,482 |
+| Full Body Conversion | 19.00% | ~166,483 |
+| The World | 19.00% | ~166,483 |
 | Bushido and Chill | 17.00% | ~148,958 |
 | Gun Fu | 16.00% | ~140,196 |
-| True Warrior | 15.00% | ~131,433 |
+| True Warrior | 15.00% | ~131,434 |
 | To Protect and Serve | 14.00% | ~122,671 |
 | Master Crafter | 14.00% | ~122,671 |
 | I Am The Law | 14.00% | ~122,671 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,762 |
 | Rough Landing | 0.50% | ~4,381 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,222 (Ranked 15)  
+Progressed: 876,224 (Ranked 15)  
 Completed: 2,087 (0.24%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2,087 (0.24%) (Ranked 191)
 | 2023-09-12 | 875,908 | 2,083 |
 | 2023-09-13 | 876,046 | 2,084 |
 | 2023-09-14 | 876,177 | 2,086 |
-| 2023-09-15 | 876,222 | 2,087 |
+| 2023-09-15 | 876,224 | 2,087 |
 ## Awards
 Max (Character Customization): 78,551  (Ranked 9)  
 Sum: 210,154 (Ranked 13)  

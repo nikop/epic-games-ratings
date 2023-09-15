@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 3242,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -522,7 +522,7 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19438,
+  "EOS_Progressed": 19437,
   "EOS_Completed": 37,
   "EOS_NewPlayers": -98,
   "EOS_NewCompleters": 0,
@@ -6077,6 +6077,11 @@
       "Time": "2023-09-15T07:05:51.7477851+00:00",
       "NumProgressed": 19438,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-09-15T09:05:20.5556928+00:00",
+      "NumProgressed": 19437,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -6120,7 +6125,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16134
+      "UsersEstimate": 16133
     },
     {
       "ID": "ach.060.goingdistance",
@@ -6128,7 +6133,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10497
+      "UsersEstimate": 10496
     },
     {
       "ID": "ach.070.8kenough",
@@ -6144,7 +6149,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13607
+      "UsersEstimate": 13606
     },
     {
       "ID": "ach.090.perfectionist",
@@ -6182,9 +6187,9 @@
       "ID": "ach.130.minimalist",
       "SetID": "384aaja",
       "Name": "Minimalist",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17494
+      "UsersEstimate": 17688
     },
     {
       "ID": "ach.140.legacy",
@@ -6192,7 +6197,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19049
+      "UsersEstimate": 19048
     },
     {
       "ID": "ach.150.pocket",
@@ -6200,7 +6205,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 12829
+      "UsersEstimate": 12828
     },
     {
       "ID": "ach.160.box",
@@ -6232,7 +6237,7 @@
       "Name": "The scenic route",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 5443
+      "UsersEstimate": 5442
     },
     {
       "ID": "ach.200.light",
@@ -6240,7 +6245,7 @@
       "Name": "Let There be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6415
+      "UsersEstimate": 6414
     },
     {
       "ID": "ach.210.baron",
@@ -6256,7 +6261,7 @@
       "Name": "Hot Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6026
+      "UsersEstimate": 6025
     },
     {
       "ID": "ach.230.infinity",
@@ -6280,7 +6285,7 @@
       "Name": "Before the Downfall",
       "Percentage": 94,
       "XP": 60,
-      "UsersEstimate": 18272
+      "UsersEstimate": 18271
     },
     {
       "ID": "ach.260.investor",
@@ -6336,7 +6341,7 @@
       "Name": "Industrialist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4859
     },
     {
       "ID": "ach.330.water",
@@ -6344,7 +6349,7 @@
       "Name": "Money like Water",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 17883
+      "UsersEstimate": 17882
     },
     {
       "ID": "ach.340.steel",
@@ -6383,7 +6388,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19438,
+      "Progressed": 19437,
       "Completed": 37
     }
   ],
@@ -6391,8 +6396,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-06T12:01:41.553383+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:05:23.04883+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:05:20.5556923+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:31.0069073+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:59:00.8175512+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:05:23.0488975+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:59:25.2584699+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:05:20.5557688+00:00"
 }

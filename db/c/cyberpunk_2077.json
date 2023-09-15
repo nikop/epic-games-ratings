@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 350,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
@@ -11909,9 +11909,9 @@
       "Count": 5928
     }
   ],
-  "EOS_Progressed": 876222,
+  "EOS_Progressed": 876224,
   "EOS_Completed": 2087,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1075,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -28424,6 +28424,11 @@
       "Time": "2023-09-15T08:06:51.0708309+00:00",
       "NumProgressed": 876222,
       "NumCompleted": 2087
+    },
+    {
+      "Time": "2023-09-15T09:06:53.9364664+00:00",
+      "NumProgressed": 876224,
+      "NumCompleted": 2087
     }
   ],
   "TotalAchievements": 44,
@@ -28459,7 +28464,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 166482
+      "UsersEstimate": 166483
     },
     {
       "ID": "Denied",
@@ -28467,7 +28472,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 350489
+      "UsersEstimate": 350490
     },
     {
       "ID": "FollowingTheRiver",
@@ -28555,7 +28560,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 201531
+      "UsersEstimate": 201532
     },
     {
       "ID": "MaxPain",
@@ -28611,7 +28616,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 254104
+      "UsersEstimate": 254105
     },
     {
       "ID": "Specialist",
@@ -28651,7 +28656,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604593
+      "UsersEstimate": 604595
     },
     {
       "ID": "TheHermit",
@@ -28699,7 +28704,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 245342
+      "UsersEstimate": 245343
     },
     {
       "ID": "TheWorld",
@@ -28707,7 +28712,7 @@
       "Name": "The World",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 166482
+      "UsersEstimate": 166483
     },
     {
       "ID": "ThisIsPacifica",
@@ -28731,7 +28736,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 201531
+      "UsersEstimate": 201532
     },
     {
       "ID": "TrueWarrior",
@@ -28739,7 +28744,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 131433
+      "UsersEstimate": 131434
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -28786,21 +28791,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 876222,
+      "Progressed": 876224,
       "Completed": 2087
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4845,
-      "Completed": 4845
+      "Progressed": 4847,
+      "Completed": 4847
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-14T22:57:30.3352597+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:06:51.0708303+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:06:53.9364659+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:57:24.7003159+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:06:51.0709648+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:57:40.6224576+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:06:53.9366471+00:00"
 }

@@ -3594,7 +3594,7 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 9663,
+  "EOS_Progressed": 9664,
   "EOS_Completed": 218,
   "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 4,
@@ -12694,6 +12694,11 @@
       "Time": "2023-09-15T08:04:16.758292+00:00",
       "NumProgressed": 9663,
       "NumCompleted": 218
+    },
+    {
+      "Time": "2023-09-15T09:04:14.3795428+00:00",
+      "NumProgressed": 9664,
+      "NumCompleted": 218
     }
   ],
   "TotalAchievements": 15,
@@ -12721,7 +12726,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4638
+      "UsersEstimate": 4639
     },
     {
       "ID": "Chef_Cook",
@@ -12769,7 +12774,7 @@
       "Name": "Generous",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "Goofys_Investor",
@@ -12793,7 +12798,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "Renovator",
@@ -12801,7 +12806,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 4928
+      "UsersEstimate": 4929
     },
     {
       "ID": "Thorn_Cleaner",
@@ -12824,7 +12829,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9663,
+      "Progressed": 9664,
       "Completed": 218
     }
   ],
@@ -12832,8 +12837,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-09-15T01:39:52.2436865+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:04:16.7582916+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:04:14.3795424+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.9722146+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:57:16.5341+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:04:16.7583542+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:57:33.6615431+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:04:14.379632+00:00"
 }

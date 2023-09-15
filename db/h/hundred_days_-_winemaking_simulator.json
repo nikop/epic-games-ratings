@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 766,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 169,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 7669,
   "RatingHistory": [
     {
@@ -920,10 +920,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1462,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-09-15T08:57:24.2608945+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1463,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1462,
+  "NumberOfAwards": 1463,
   "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -937,7 +943,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -988,7 +994,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3101,
+  "EOS_Progressed": 3104,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 2,
@@ -2883,6 +2889,11 @@
       "Time": "2023-09-15T08:05:36.1692312+00:00",
       "NumProgressed": 3101,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T09:05:34.3771014+00:00",
+      "NumProgressed": 3104,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2943,7 +2954,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "a_19",
@@ -3142,16 +3153,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3101,
+      "Progressed": 3104,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:05:36.1692306+00:00",
+  "LastChanged": "2023-09-15T08:57:24.2608944+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:05:34.3771007+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:57:09.4009149+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:05:36.1692655+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:57:24.2608951+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:05:34.3771388+00:00"
 }

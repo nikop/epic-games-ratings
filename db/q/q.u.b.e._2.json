@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -1423,6 +1423,11 @@
       "Time": "2023-09-15T08:06:31.0170599+00:00",
       "NumProgressed": 320,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T09:06:33.2632051+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1441,9 +1446,9 @@
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 42
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1601,9 +1606,9 @@
       "ID": "ACH_PEAK",
       "SetID": "232494e",
       "Name": "There\u0027s No Place Like Home",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_PROPELL",
@@ -1627,15 +1632,15 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_S5",
@@ -1659,22 +1664,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:06:31.017059+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:06:33.2632046+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:00:41.0793043+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:06:31.017088+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:01:02.2094424+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:06:33.2632352+00:00"
 }

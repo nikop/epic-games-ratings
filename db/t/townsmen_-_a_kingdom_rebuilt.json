@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4275,
+  "EOS_Progressed": 4276,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1190,6 +1190,11 @@
       "Time": "2023-09-15T04:09:35.5766839+00:00",
       "NumProgressed": 4275,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T09:09:17.4023037+00:00",
+      "NumProgressed": 4276,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1233,7 +1238,7 @@
       "Name": "Bread for the people I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_BREAD2",
@@ -1273,7 +1278,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -1497,7 +1502,7 @@
       "Name": "Completionist I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_QUESTS2",
@@ -1977,7 +1982,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -2008,15 +2013,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4275,
+      "Progressed": 4276,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:08:30.850968+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:09:17.4023032+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:21.3448212+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:57:39.7226963+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:08:30.851098+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:58:02.153454+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:09:17.4024439+00:00"
 }

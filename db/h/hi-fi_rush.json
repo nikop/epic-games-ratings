@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4043,
+  "EOS_Progressed": 4044,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -6489,6 +6489,11 @@
       "Time": "2023-09-15T06:07:51.3569292+00:00",
       "NumProgressed": 4043,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-15T09:06:32.9250062+00:00",
+      "NumProgressed": 4044,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6516,7 +6521,7 @@
       "Name": "This will cost you big time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Ach004",
@@ -6628,7 +6633,7 @@
       "Name": "I play my own way!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Ach018",
@@ -6708,7 +6713,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Ach028",
@@ -6756,7 +6761,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Ach034",
@@ -6780,7 +6785,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Ach037",
@@ -7067,13 +7072,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4043,
+      "Progressed": 4044,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2564,
+      "Progressed": 2565,
       "Completed": 1929
     }
   ],
@@ -7081,8 +7086,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:06:30.5642596+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:06:32.9250058+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:57:22.1574985+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:06:30.5643728+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:57:38.294217+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:06:32.925139+00:00"
 }

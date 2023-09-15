@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 513,
+  "EOS_Progressed": 514,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1200,6 +1200,11 @@
       "Time": "2023-09-14T20:05:58.9088974+00:00",
       "NumProgressed": 513,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T09:05:17.8308844+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1235,7 +1240,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Chapter10",
@@ -1267,7 +1272,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Chapter5",
@@ -1363,7 +1368,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "GollumChoices",
@@ -1498,14 +1503,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 513,
+      "Progressed": 514,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:05:20.1978832+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:05:17.8308832+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.8512741+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:03:09.0400556+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:05:20.1979222+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:03:06.0031673+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:05:17.8309217+00:00"
 }

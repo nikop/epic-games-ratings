@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 93.00% | ~85 |
-| You're spelunkin' now! | 84.00% | ~76 |
+| We've only just begun | 95.00% | ~86 |
+| You're spelunkin' now! | 85.00% | ~77 |
 | The Birdman of The Caves | 49.00% | ~45 |
 | I've Fallen & I Can't Get Up | 48.00% | ~44 |
 | Charmin' the Snake | 35.00% | ~32 |

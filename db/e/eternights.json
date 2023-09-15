@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -436,9 +436,9 @@
       "ID": "ACHIEVEMENT_24_TentacleMan",
       "SetID": "9bke6f1",
       "Name": "TentacleMAN",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -460,9 +460,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -523,8 +523,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:04:00.0979722+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:03:58.1289251+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:58:19.8756871+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:04:00.0979931+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:58:43.7750703+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:03:58.1289466+00:00"
 }

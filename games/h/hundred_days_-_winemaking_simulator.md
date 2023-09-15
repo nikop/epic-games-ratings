@@ -1,12 +1,12 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.34 (Ranked 766)  
+Rating: 4.35 (Ranked 756)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 35.00% | ~1,085 |
+| Bye Bye | 35.00% | ~1,086 |
 | It's a good start | 9.00% | ~279 |
 | Bonjour! | 7.00% | ~217 |
 | Quack | 6.00% | ~186 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.20% | ~6 |
 | Unsuitable Terroir | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,101 (Ranked 169)  
+Progressed: 3,104 (Ranked 169)  
 Completed: 5 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,17 +59,17 @@ Completed: 5 (0.16%) (Ranked 203)
 | 2023-09-12 | 2,750 | 5 |
 | 2023-09-13 | 2,903 | 5 |
 | 2023-09-14 | 3,062 | 5 |
-| 2023-09-15 | 3,101 | 5 |
+| 2023-09-15 | 3,104 | 5 |
 ## Awards
 Max (Relaxing): 205  (Ranked 273)  
-Sum: 1,462 (Ranked 224)  
+Sum: 1,463 (Ranked 224)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 205 |
 | This game is Extremely Fun | 203 |
 | This game has Quickly Understood Controls | 201 |
-| This game is Great for Beginners | 199 |
+| This game is Great for Beginners | 200 |
 | This game is Highly Recommended | 193 |
 | This game is Educational | 177 |
 | This game has Amazing Storytelling | 175 |
@@ -134,3 +134,4 @@ Diff (max vs sum): 49
 | 2023-09-09 | 4.34 | - | 204 | 1,460 |
 | 2023-09-11 | 4.34 | - | 204 | 1,461 |
 | 2023-09-12 | 4.34 | - | 205 | 1,462 |
+| 2023-09-15 | 4.35 | - | 205 | 1,463 |

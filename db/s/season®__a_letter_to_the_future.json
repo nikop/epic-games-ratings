@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1219,
+  "EOS_Progressed": 1220,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
@@ -2236,6 +2236,11 @@
       "Time": "2023-09-15T06:04:34.2357216+00:00",
       "NumProgressed": 1219,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-15T09:04:09.4676502+00:00",
+      "NumProgressed": 1220,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 16,
@@ -2279,7 +2284,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -2335,7 +2340,7 @@
       "Name": "Outside World Seer",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2349,9 +2354,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 500
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_THEEND",
@@ -2359,7 +2364,7 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -2374,7 +2379,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1219,
+      "Progressed": 1220,
       "Completed": 51
     }
   ],
@@ -2382,8 +2387,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:04:11.8733693+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:04:09.4676497+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:42.2600513+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:57:56.1516198+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:04:11.8733945+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:58:17.8368474+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:04:09.4676807+00:00"
 }

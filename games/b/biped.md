@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 37.00% | ~2,066 |
-| Dense Forest | 30.00% | ~1,676 |
+| Dense Forest | 31.00% | ~1,731 |
 | Cactus Vally | 22.00% | ~1,229 |
 | Rainy Ruins | 13.00% | ~726 |
 | Telepathic | 10.00% | ~558 |

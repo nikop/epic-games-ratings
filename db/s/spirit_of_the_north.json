@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 68851,
+  "EOS_Progressed": 68852,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -16439,6 +16439,11 @@
       "Time": "2023-09-15T08:05:29.1130251+00:00",
       "NumProgressed": 68851,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-09-15T09:05:26.6230616+00:00",
+      "NumProgressed": 68852,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 24,
@@ -16482,7 +16487,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17901
+      "UsersEstimate": 17902
     },
     {
       "ID": "ERADICATE",
@@ -16530,7 +16535,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36491
+      "UsersEstimate": 36492
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -16641,7 +16646,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 68851,
+      "Progressed": 68852,
       "Completed": 358
     }
   ],
@@ -16649,8 +16654,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:05:29.1130243+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:05:26.6230612+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:49.8305044+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:58:12.0654308+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:05:29.1131358+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:58:35.7874989+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:05:26.6232103+00:00"
 }

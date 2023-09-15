@@ -2614,9 +2614,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30379,
+  "EOS_Progressed": 30380,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18704,6 +18704,11 @@
       "Time": "2023-09-15T08:05:18.3871558+00:00",
       "NumProgressed": 30379,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-09-15T09:05:15.9279102+00:00",
+      "NumProgressed": 30380,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 60,
@@ -18723,7 +18728,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13974
+      "UsersEstimate": 13975
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -18731,7 +18736,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17316
+      "UsersEstimate": 17317
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -18755,7 +18760,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6683
+      "UsersEstimate": 6684
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -18763,7 +18768,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -18851,7 +18856,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9417
+      "UsersEstimate": 9418
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -18867,7 +18872,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -18875,7 +18880,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11240
+      "UsersEstimate": 11241
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -18907,7 +18912,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11240
+      "UsersEstimate": 11241
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -18939,7 +18944,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10936
+      "UsersEstimate": 10937
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -18947,7 +18952,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12455
+      "UsersEstimate": 12456
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -18955,7 +18960,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8202
+      "UsersEstimate": 8203
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -19027,7 +19032,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -19075,7 +19080,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9417
+      "UsersEstimate": 9418
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -19171,7 +19176,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -19194,15 +19199,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30379,
+      "Progressed": 30380,
       "Completed": 249
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-14T21:58:59.0567322+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:05:18.3871553+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:05:15.9279098+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.8890263+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:58:33.6818204+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:05:18.3873026+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:58:59.8097763+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:05:15.9281036+00:00"
 }

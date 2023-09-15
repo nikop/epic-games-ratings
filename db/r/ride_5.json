@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2023-09-15T08:06:38.9453981+00:00",
       "NumProgressed": 810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T09:06:41.1933385+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -977,7 +982,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1025,15 +1030,15 @@
       "Name": "Is It the Right Size?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 203
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1049,7 +1054,7 @@
       "Name": "Legendary!!!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1137,7 +1142,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -1161,7 +1166,7 @@
       "Name": "Evangelist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -1255,9 +1260,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 268
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -1352,14 +1357,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-15T08:06:38.9453974+00:00",
+  "LastChanged_Achievements": "2023-09-15T09:06:41.193338+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:57:59.1015052+00:00",
-  "LastUpdate_Achievements": "2023-09-15T08:06:38.945451+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:58:20.885707+00:00",
+  "LastUpdate_Achievements": "2023-09-15T09:06:41.1933882+00:00"
 }

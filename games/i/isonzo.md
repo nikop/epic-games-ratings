@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.55 (Ranked 484)  
+Rating: 4.56 (Ranked 468)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,16 +9,16 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 55.00% | ~3,770 |
 | Tutti Eroi! | 55.00% | ~3,770 |
 | You Shall Not Pass | 53.00% | ~3,633 |
-| Avanti Savoia! | 47.00% | ~3,221 |
+| Avanti Savoia! | 47.00% | ~3,222 |
 | Mamma Mia! | 38.00% | ~2,605 |
-| Conrad von Hotzensocks | 36.00% | ~2,467 |
-| Gabriele D'Annunzio | 34.00% | ~2,330 |
+| Conrad von Hotzensocks | 36.00% | ~2,468 |
+| Gabriele D'Annunzio | 34.00% | ~2,331 |
 | Silver Lining | 30.00% | ~2,056 |
 | Aurelio Baruzzi | 24.00% | ~1,645 |
 | Decimation | 22.00% | ~1,508 |
 | Donatello | 22.00% | ~1,508 |
 | Veni Vidi Vici | 22.00% | ~1,508 |
-| The Italian Job | 21.00% | ~1,439 |
+| The Italian Job | 21.00% | ~1,440 |
 | Insubordination | 20.00% | ~1,371 |
 | Ragazzi del '99 | 18.00% | ~1,234 |
 | The Lion of the Isonzo | 18.00% | ~1,234 |
@@ -29,10 +29,10 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 13.00% | ~891 |
 | Shaken, Not Stirred | 13.00% | ~891 |
 | Thus With A Kiss | 13.00% | ~891 |
-| The Devil's Paintbrush | 12.00% | ~822 |
+| The Devil's Paintbrush | 12.00% | ~823 |
 | Dante's Inferno | 11.00% | ~754 |
-| I Have the High Ground | 10.00% | ~685 |
-| Millenial | 10.00% | ~685 |
+| I Have the High Ground | 10.00% | ~686 |
+| Millenial | 10.00% | ~686 |
 | The Show Must Go On | 9.00% | ~617 |
 | Tosca | 9.00% | ~617 |
 | 12th Bottle of the Isonzo | 7.00% | ~480 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,854 (Ranked 141)  
+Progressed: 6,855 (Ranked 141)  
 Completed: 8 (0.12%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 8 (0.12%) (Ranked 214)
 | 2023-09-12 | 6,807 | 8 |
 | 2023-09-13 | 6,829 | 8 |
 | 2023-09-14 | 6,847 | 8 |
-| 2023-09-15 | 6,854 | 8 |
+| 2023-09-15 | 6,855 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 443)  
 Sum: 273 (Ranked 352)  
@@ -322,3 +322,4 @@ Diff (max vs sum): 91
 | 2023-09-02 | 4.56 | - | 36 | 271 |
 | 2023-09-10 | 4.56 | - | 36 | 273 |
 | 2023-09-12 | 4.55 | - | 36 | 273 |
+| 2023-09-15 | 4.56 | - | 36 | 273 |
