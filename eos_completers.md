@@ -23,8 +23,8 @@
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.16% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.00% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
+| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -97,8 +97,8 @@
 | 95 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 95 | [FORECLOSED](games/f/foreclosed.md) | 1.98% |
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
-| 98 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.87% |
-| 99 | [Night Book](games/n/night_book.md) | 1.86% |
+| 98 | [Night Book](games/n/night_book.md) | 1.86% |
+| 98 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.86% |
 | 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 101 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
 | 102 | [Frogun](games/f/frogun.md) | 1.80% |
@@ -114,7 +114,7 @@
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.35% |
-| 115 | [Chorus](games/c/chorus.md) | 1.28% |
+| 115 | [Chorus](games/c/chorus.md) | 1.27% |
 | 116 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 117 | [Infindustry](games/i/infindustry.md) | 1.20% |
 | 118 | [Trifox](games/t/trifox.md) | 1.10% |
@@ -133,7 +133,7 @@
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.83% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 134 | [Eternights](games/e/eternights.md) | 0.79% |
+| 134 | [Eternights](games/e/eternights.md) | 0.78% |
 | 135 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 136 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 137 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
