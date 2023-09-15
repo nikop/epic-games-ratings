@@ -10,13 +10,13 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.81% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.54% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 15 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.86% |
-| 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 17 | [Island Cities](games/i/island_cities.md) | 15.21% |
+| 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
+| 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.24% |
+| 17 | [Island Cities](games/i/island_cities.md) | 15.35% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
@@ -57,7 +57,7 @@
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
-| 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
+| 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.14% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
@@ -74,7 +74,7 @@
 | 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.14% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.96% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.79% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -90,8 +90,8 @@
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.34% |
 | 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.28% |
-| 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
-| 92 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.22% |
+| 91 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.26% |
+| 92 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 93 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 95 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
@@ -143,9 +143,9 @@
 | 141 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.65% |
 | 141 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 143 | [Haven](games/h/haven.md) | 0.63% |
-| 144 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 144 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 146 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
+| 145 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
+| 145 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
 | 147 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.58% |
 | 147 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 147 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
