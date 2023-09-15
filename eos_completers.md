@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.92% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.76% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.55% |
@@ -30,8 +30,8 @@
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.11% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 8.61% |
-| 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 32 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.57% |
+| 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.57% |
+| 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 35 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.69% |
@@ -39,14 +39,14 @@
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.38% |
-| 40 | [Scorn](games/s/scorn.md) | 7.05% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
+| 40 | [Scorn](games/s/scorn.md) | 7.04% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.45% |
 | 42 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.33% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.83% |
+| 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.81% |
 | 48 | [JARS](games/j/jars.md) | 5.71% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.44% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
@@ -74,9 +74,9 @@
 | 72 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.14% |
 | 74 | [HordeCore](games/h/hordecore.md) | 3.13% |
-| 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
+| 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.97% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.79% |
+| 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.78% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 80 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.67% |
@@ -99,12 +99,12 @@
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 98 | [Night Book](games/n/night_book.md) | 1.86% |
 | 99 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
+| 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
-| 103 | [Somerville](games/s/somerville.md) | 1.71% |
-| 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
-| 105 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.63% |
+| 103 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.73% |
+| 104 | [Somerville](games/s/somerville.md) | 1.71% |
+| 105 | [Five Dates](games/f/five_dates.md) | 1.67% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.55% |
 | 108 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.53% |
@@ -127,7 +127,7 @@
 | 125 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
-| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.92% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.91% |
 | 129 | [Hades](games/h/hades.md) | 0.90% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.83% |
@@ -150,9 +150,9 @@
 | 147 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 147 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 150 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
+| 151 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 151 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 152 | [Aragami 2](games/a/aragami_2.md) | 0.54% |
-| 152 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
+| 153 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
 | 154 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
 | 154 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 156 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.51% |
