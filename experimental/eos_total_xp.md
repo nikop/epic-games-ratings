@@ -556,6 +556,7 @@
 | [The Entropy Centre](../games/t/the_entropy_centre.md) | 27 | 1,000 |
 | [The Evil Within 2](../games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 51 | 1,000 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 30 | 1,000 |
+| [The Fabulous Fear Machine](../games/t/the_fabulous_fear_machine.md) | 47 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [The Forest Quartet](../games/a/a3100205e194489088c7625c8c5c1596.md) | 9 | 1,000 |
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 32 | 1,000 |
