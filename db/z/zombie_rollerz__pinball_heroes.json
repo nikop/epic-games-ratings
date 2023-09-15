@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -36,11 +36,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:48.5975235+00:00",
@@ -551,6 +551,11 @@
       "Time": "2023-09-06T01:47:18.7967728+00:00",
       "NumProgressed": 152,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T12:05:54.7921462+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -584,7 +589,7 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 129
     },
@@ -608,7 +613,7 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 135
     },
@@ -642,7 +647,7 @@
       "Name": "The Penguin",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -738,15 +743,15 @@
       "Name": "I\u0027m Rich",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "PRG_BOSS_BIRD",
       "SetID": "89cjc9l",
       "Name": "The Bird",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -770,7 +775,7 @@
       "Name": "The Shaman",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -810,7 +815,7 @@
       "Name": "The Slime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PRG_BOSS_THROWER",
@@ -818,7 +823,7 @@
       "Name": "The Thrower",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -826,15 +831,15 @@
       "Name": "The Tunneler",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 116
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -842,7 +847,7 @@
       "Name": "Duscot Steamcity",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -1072,9 +1077,9 @@
       "ID": "PRG_NORMAL_10004",
       "SetID": "89cjc9l",
       "Name": "Iron",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "PRG_NORMAL_10005",
@@ -1088,9 +1093,9 @@
       "ID": "PRG_NORMAL_10006",
       "SetID": "89cjc9l",
       "Name": "Tested",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "PRG_NORMAL_10007",
@@ -1136,16 +1141,16 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 1
     }
   ],
@@ -1153,8 +1158,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-09-15T11:05:46.9235485+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:05:54.7921457+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.9620484+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:01:17.3504353+00:00",
-  "LastUpdate_Achievements": "2023-09-15T11:05:46.9236316+00:00"
+  "LastUpdate_Ratings": "2023-09-15T12:01:18.9038124+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:05:54.7922081+00:00"
 }

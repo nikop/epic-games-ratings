@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3175,
+  "EOS_Progressed": 3176,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 5.45,
   "EosHistory": [
@@ -4655,6 +4655,11 @@
       "Time": "2023-09-15T10:02:27.9497706+00:00",
       "NumProgressed": 3175,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-09-15T12:03:10.4705373+00:00",
+      "NumProgressed": 3176,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 24,
@@ -4674,7 +4679,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "11",
@@ -4706,7 +4711,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "15",
@@ -4818,7 +4823,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "6",
@@ -4826,7 +4831,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "7",
@@ -4857,13 +4862,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3175,
+      "Progressed": 3176,
       "Completed": 173
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-15T10:02:27.9497702+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:03:10.4705356+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:18.3778011+00:00",
-  "LastUpdate_Ratings": "2023-09-15T10:59:01.8716702+00:00",
-  "LastUpdate_Achievements": "2023-09-15T10:02:27.9498098+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:59:03.0051911+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:03:10.4724928+00:00"
 }

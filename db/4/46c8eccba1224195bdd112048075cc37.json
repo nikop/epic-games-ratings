@@ -2,9 +2,9 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.7,
+  "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -666,6 +666,11 @@
       "Time": "2023-09-15T10:06:57.29644+00:00",
       "NumProgressed": 143,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T12:08:06.4551112+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -741,15 +746,15 @@
       "Name": "Scull",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "FourthBoss",
@@ -781,7 +786,7 @@
       "Name": "Leprechaun",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "MonsterSlayer",
@@ -795,9 +800,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ReturnShell",
@@ -813,7 +818,7 @@
       "Name": "Spider",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TenLevel",
@@ -836,14 +841,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-15T11:07:54.925144+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:08:06.455111+00:00",
   "LastUpdate_AppInfo": "2023-09-11T13:02:43.6830105+00:00",
-  "LastUpdate_Ratings": "2023-09-15T10:57:11.7820862+00:00",
-  "LastUpdate_Achievements": "2023-09-15T11:07:54.9251676+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:57:13.7516403+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:08:06.455124+00:00"
 }

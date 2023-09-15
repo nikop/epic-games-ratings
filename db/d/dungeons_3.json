@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2540,10 +2540,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 2637,
       "NumberOfAwardsMax": 345
+    },
+    {
+      "Time": "2023-09-15T11:59:23.3060447+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2638,
+      "NumberOfAwardsMax": 345
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2637,
+  "NumberOfAwards": 2638,
   "NumberOfAwardsMax": 345,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2605,7 +2611,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 294
+      "Count": 295
     },
     {
       "Text": "This game has a Silly Community",
@@ -2614,9 +2620,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30387,
+  "EOS_Progressed": 30388,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18719,6 +18725,11 @@
       "Time": "2023-09-15T11:05:53.6468384+00:00",
       "NumProgressed": 30387,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-09-15T12:06:01.003926+00:00",
+      "NumProgressed": 30388,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 60,
@@ -18730,7 +18741,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17624
+      "UsersEstimate": 17625
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -18778,7 +18789,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -18882,7 +18893,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -18890,7 +18901,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11243
+      "UsersEstimate": 11244
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -18922,7 +18933,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11243
+      "UsersEstimate": 11244
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -18930,7 +18941,7 @@
       "Name": "Night of the Living Dead (on Speed)",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ACH_D3_Campaign_Graves_Completed",
@@ -18938,7 +18949,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13066
+      "UsersEstimate": 13067
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -18954,7 +18965,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10939
+      "UsersEstimate": 10940
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -18970,7 +18981,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8204
+      "UsersEstimate": 8205
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -18986,7 +18997,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8508
+      "UsersEstimate": 8509
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -19018,7 +19029,7 @@
       "Name": "I need a hero!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ACH_D3_Campaign_Pain_2",
@@ -19058,7 +19069,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8812
+      "UsersEstimate": 8813
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -19114,7 +19125,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13674
+      "UsersEstimate": 13675
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -19122,7 +19133,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8812
+      "UsersEstimate": 8813
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -19130,7 +19141,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20967
+      "UsersEstimate": 20968
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -19154,7 +19165,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6078
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -19209,15 +19220,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30387,
+      "Progressed": 30388,
       "Completed": 249
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2023-09-14T21:58:59.0567322+00:00",
-  "LastChanged_Achievements": "2023-09-15T11:05:53.6468378+00:00",
+  "LastChanged": "2023-09-15T11:59:23.3060446+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:06:01.0039255+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.8890263+00:00",
-  "LastUpdate_Ratings": "2023-09-15T10:59:22.4243689+00:00",
-  "LastUpdate_Achievements": "2023-09-15T11:05:53.6470336+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:59:23.3060451+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:06:01.0040461+00:00"
 }

@@ -27,6 +27,7 @@
 | Dr. Dreinstein III | 13.00% | ~5 |
 | Orcharion Boost | 13.00% | ~5 |
 | Case Closed | 13.00% | ~5 |
+| Scheming Away | 10.00% | ~4 |
 | Fishing for Fissures | 10.00% | ~4 |
 | You did it? You did it! | 10.00% | ~4 |
 | All Beefed Up | 10.00% | ~4 |
@@ -40,7 +41,6 @@
 | With a Little Help from My Friends | 10.00% | ~4 |
 | Gotta Collect Them All | 8.00% | ~3 |
 | Keeping Things Tidy | 8.00% | ~3 |
-| Scheming Away | 8.00% | ~3 |
 | Eremagu Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Eremagu Domain | 8.00% | ~3 |
 | An Electrifying Personality | 8.00% | ~3 |

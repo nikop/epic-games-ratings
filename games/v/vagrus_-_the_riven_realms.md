@@ -22,6 +22,7 @@
 | Harbinger | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
 | Spiritual Journey | 5.00% | ~7 |
+| Pilgrimage's End | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~6 |
 | Strategist | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
@@ -29,7 +30,6 @@
 | The Voice of Hereafter | 4.00% | ~6 |
 | Been There | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
-| Pilgrimage's End | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
 | Merchant | 4.00% | ~6 |
 | Trouble at Fort Larius | 4.00% | ~6 |

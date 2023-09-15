@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1177,
+  "EOS_Progressed": 1178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2350,6 +2350,11 @@
       "Time": "2023-09-15T08:06:28.6897901+00:00",
       "NumProgressed": 1177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T12:07:28.8617953+00:00",
+      "NumProgressed": 1178,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2417,7 +2422,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "EXPERT_1",
@@ -2457,7 +2462,7 @@
       "Name": "Head Burst",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "INDY_1",
@@ -2481,7 +2486,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2521,7 +2526,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "PACIFIST",
@@ -2648,15 +2653,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1177,
+      "Progressed": 1178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-15T11:07:22.5840644+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:07:28.8617948+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:12.2066392+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:00:39.6610275+00:00",
-  "LastUpdate_Achievements": "2023-09-15T11:07:22.5841641+00:00"
+  "LastUpdate_Ratings": "2023-09-15T12:00:40.4540159+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:07:28.8618261+00:00"
 }

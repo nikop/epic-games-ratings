@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "SMELTER_BLUEPRINTS",
       "SetID": "1g58k92",
       "Name": "Scheming Away",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_DEFLECT",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-09-15T11:06:07.8161841+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:06:14.7009955+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:15.7665363+00:00",
-  "LastUpdate_Ratings": "2023-09-15T10:59:14.2549702+00:00",
-  "LastUpdate_Achievements": "2023-09-15T11:06:07.8162556+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:59:13.3516529+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:06:14.701031+00:00"
 }

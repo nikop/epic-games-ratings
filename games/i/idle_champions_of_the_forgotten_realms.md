@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,288 |
+| A Brief Tour of the Realms | 1.00% | ~2,289 |
 | Beast Intentions | 0.70% | ~1,602 |
 | The Cursed Farmer | 0.60% | ~1,373 |
 | The Mad Wizard | 0.50% | ~1,144 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,848 (Ranked 55)  
+Progressed: 228,854 (Ranked 55)  
 Completed: 2,282 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -675,10 +675,10 @@ Completed: 2,282 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,848 | 2,282 |
+| 2023-09-15 | 228,854 | 2,282 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
-Sum: 31,588 (Ranked 39)  
+Sum: 31,591 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -688,7 +688,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,652 |
 | This game has Amazing Characters | 4,117 |
 | This game is Highly Recommended | 4,107 |
-| This game has Playful Visuals | 3,416 |
+| This game has Playful Visuals | 3,419 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -924,4 +924,4 @@ Diff (max vs sum): 28
 | 2023-09-12 | 4.06 | - | 5,266 | 31,551 |
 | 2023-09-13 | 4.06 | - | 5,270 | 31,567 |
 | 2023-09-14 | 4.06 | - | 5,276 | 31,587 |
-| 2023-09-15 | 4.06 | - | 5,276 | 31,588 |
+| 2023-09-15 | 4.06 | - | 5,276 | 31,591 |

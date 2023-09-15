@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 68857,
+  "EOS_Progressed": 68858,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -16454,6 +16454,11 @@
       "Time": "2023-09-15T11:06:07.6583762+00:00",
       "NumProgressed": 68857,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-09-15T12:06:14.4174235+00:00",
+      "NumProgressed": 68858,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 24,
@@ -16513,7 +16518,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18591
+      "UsersEstimate": 18592
     },
     {
       "ID": "FOXIN_AROUND",
@@ -16545,7 +16550,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36494
+      "UsersEstimate": 36495
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -16656,7 +16661,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 68857,
+      "Progressed": 68858,
       "Completed": 358
     }
   ],
@@ -16664,8 +16669,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-15T11:06:07.6583755+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:06:14.4174228+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:49.8305044+00:00",
-  "LastUpdate_Ratings": "2023-09-15T10:58:52.8978746+00:00",
-  "LastUpdate_Achievements": "2023-09-15T11:06:07.6585253+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:58:53.0403964+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:06:14.4175101+00:00"
 }

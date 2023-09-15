@@ -358,9 +358,9 @@
       "ID": "ACHIEVEMENT_AV_10",
       "SetID": "b50kim2",
       "Name": "MISSION 10",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_AV_11",
@@ -693,8 +693,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-15T11:04:35.699567+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:04:46.1543413+00:00",
   "LastUpdate_AppInfo": "2023-09-12T02:11:10.9088436+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:01:06.8940262+00:00",
-  "LastUpdate_Achievements": "2023-09-15T11:04:35.6996162+00:00"
+  "LastUpdate_Ratings": "2023-09-15T12:01:07.2177089+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:04:46.1543763+00:00"
 }

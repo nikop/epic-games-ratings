@@ -12,7 +12,7 @@ Number of Ratings: 209  (23.09.2022)
 | Speed | 97.00% | ~2,170 |
 | High Jump | 96.00% | ~2,148 |
 | Knee bending | 96.00% | ~2,148 |
-| Pickaxe | 94.00% | ~2,103 |
+| Pickaxe | 95.00% | ~2,125 |
 | Revenge | 94.00% | ~2,103 |
 | Cage Town | 94.00% | ~2,103 |
 | Force Beam | 93.00% | ~2,080 |
@@ -60,7 +60,7 @@ Number of Ratings: 209  (23.09.2022)
 | Too hot | 19.00% | ~425 |
 | All the chests | 14.00% | ~313 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,237 (Ranked 179)  
+Progressed: 2,237 (Ranked 180)  
 Completed: 272 (12.16%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |

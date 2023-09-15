@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7114,18 +7114,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 27732,
       "NumberOfAwardsMax": 7443
+    },
+    {
+      "Time": "2023-09-15T11:58:28.6168634+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27737,
+      "NumberOfAwardsMax": 7448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27732,
-  "NumberOfAwardsMax": 7443,
+  "NumberOfAwards": 27737,
+  "NumberOfAwardsMax": 7448,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7443
+      "Count": 7448
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7200,9 +7206,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 801352,
+  "EOS_Progressed": 801353,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 990,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23600,6 +23606,11 @@
       "Time": "2023-09-15T11:07:53.371221+00:00",
       "NumProgressed": 801352,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-15T12:08:04.7711584+00:00",
+      "NumProgressed": 801353,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 82,
@@ -24091,7 +24102,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160270
+      "UsersEstimate": 160271
     },
     {
       "ID": "RevenantOfLedechko",
@@ -24131,7 +24142,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160270
+      "UsersEstimate": 160271
     },
     {
       "ID": "SerialKiller",
@@ -24266,15 +24277,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 801352,
+      "Progressed": 801353,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-15T01:40:29.7767547+00:00",
-  "LastChanged_Achievements": "2023-09-15T11:07:53.3712203+00:00",
+  "LastChanged": "2023-09-15T11:58:28.6168629+00:00",
+  "LastChanged_Achievements": "2023-09-15T12:08:04.771158+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.0692878+00:00",
-  "LastUpdate_Ratings": "2023-09-15T10:58:29.3232469+00:00",
-  "LastUpdate_Achievements": "2023-09-15T11:07:53.3714557+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:58:28.6168638+00:00",
+  "LastUpdate_Achievements": "2023-09-15T12:08:04.7713024+00:00"
 }

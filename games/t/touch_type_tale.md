@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 89.00% | ~2,964 |
-| Flanked! | 78.00% | ~2,597 |
-| Economics 101 | 63.00% | ~2,098 |
-| Get Rich Quick | 46.00% | ~1,532 |
-| Do the Splits | 40.00% | ~1,332 |
-| Maestro | 27.00% | ~899 |
+| You and what Army? | 89.00% | ~2,965 |
+| Flanked! | 78.00% | ~2,599 |
+| Economics 101 | 63.00% | ~2,099 |
+| Get Rich Quick | 46.00% | ~1,533 |
+| Do the Splits | 40.00% | ~1,333 |
+| Maestro | 27.00% | ~900 |
 | Full Employment | 19.00% | ~633 |
 | Clay Fighter | 17.00% | ~566 |
 | Nowhere left to Hide | 14.00% | ~466 |
 | All Ovens Blazing | 13.00% | ~433 |
 | Boulder Clash | 13.00% | ~433 |
 | Held Back by the Roots | 12.00% | ~400 |
-| Well Supplied | 11.00% | ~366 |
-| Damage Control | 8.00% | ~266 |
-| Master of the Brawl | 8.00% | ~266 |
+| Well Supplied | 11.00% | ~367 |
+| Damage Control | 8.00% | ~267 |
+| Master of the Brawl | 8.00% | ~267 |
 | Sniped | 7.00% | ~233 |
 | Leave Them no Cake | 7.00% | ~233 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~233 |
 | A Secret Recipe | 6.00% | ~200 |
-| Your Biggest Fans | 5.00% | ~166 |
-| An Ally in Need | 5.00% | ~166 |
-| For the Queen | 5.00% | ~166 |
-| Not a Drop Wasted | 5.00% | ~166 |
+| Your Biggest Fans | 5.00% | ~167 |
+| An Ally in Need | 5.00% | ~167 |
+| For the Queen | 5.00% | ~167 |
+| Not a Drop Wasted | 5.00% | ~167 |
 | Reinforcements | 4.00% | ~133 |
 | Sweet Revenge | 4.00% | ~133 |
 | We Have the Technology | 4.00% | ~133 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~33 |
 | All Geared Up | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,330 (Ranked 163)  
+Progressed: 3,332 (Ranked 163)  
 Completed: 11 (0.33%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 11 (0.33%) (Ranked 177)
 | 2023-09-12 | 3,170 | 11 |
 | 2023-09-13 | 3,222 | 11 |
 | 2023-09-14 | 3,296 | 11 |
-| 2023-09-15 | 3,330 | 11 |
+| 2023-09-15 | 3,332 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

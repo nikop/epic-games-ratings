@@ -10,8 +10,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Cavalier | 25.00% | ~200,338 |
 | Fatso | 23.00% | ~184,311 |
 | Awakening | 21.00% | ~168,284 |
-| Ranger | 20.00% | ~160,270 |
-| Scrooge | 20.00% | ~160,270 |
+| Ranger | 20.00% | ~160,271 |
+| Scrooge | 20.00% | ~160,271 |
 | Anorectic | 16.00% | ~128,216 |
 | Bookworm | 15.00% | ~120,203 |
 | Firestarter | 15.00% | ~120,203 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~801 |
 | Wingman | 0.10% | ~801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,352 (Ranked 16)  
+Progressed: 801,353 (Ranked 16)  
 Completed: 46 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,14 +237,14 @@ Completed: 46 (0.01%) (Ranked 261)
 | 2023-09-12 | 801,077 | 45 |
 | 2023-09-13 | 801,187 | 45 |
 | 2023-09-14 | 801,299 | 46 |
-| 2023-09-15 | 801,352 | 46 |
+| 2023-09-15 | 801,353 | 46 |
 ## Awards
-Max (Character Customization): 7,443  (Ranked 47)  
-Sum: 27,732 (Ranked 47)  
+Max (Character Customization): 7,448  (Ranked 47)  
+Sum: 27,737 (Ranked 47)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,443 |
+| This game has Inclusive Character Customization | 7,448 |
 | This game has Great Boss Battles | 5,481 |
 | This game has Challenging Combat | 1,737 |
 | This game has Amazing Storytelling | 1,696 |
@@ -491,4 +491,4 @@ Diff (max vs sum): 0
 | 2023-09-12 | 4.71 | - | 7,441 | 27,716 |
 | 2023-09-13 | 4.71 | - | 7,443 | 27,728 |
 | 2023-09-14 | 4.71 | - | 7,443 | 27,731 |
-| 2023-09-15 | 4.71 | - | 7,443 | 27,732 |
+| 2023-09-15 | 4.71 | - | 7,448 | 27,737 |

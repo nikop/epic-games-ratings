@@ -6,16 +6,16 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,121 |
-| First Steps | 80.00% | ~34,513 |
-| Control the Shadows | 67.00% | ~28,904 |
+| Awakening | 93.00% | ~40,122 |
+| First Steps | 80.00% | ~34,514 |
+| Control the Shadows | 67.00% | ~28,905 |
 | Tools of the Trade | 63.00% | ~27,179 |
 | Apprentice | 60.00% | ~25,885 |
-| Secret Seeker | 57.00% | ~24,590 |
+| Secret Seeker | 57.00% | ~24,591 |
 | Forge of Assassins | 55.00% | ~23,728 |
-| Revenant | 52.00% | ~22,433 |
-| I don’t Care! | 45.00% | ~19,413 |
-| Bird of Prey | 37.00% | ~15,962 |
+| Revenant | 52.00% | ~22,434 |
+| I don’t Care! | 45.00% | ~19,414 |
+| Bird of Prey | 37.00% | ~15,963 |
 | Engraved with Power | 32.00% | ~13,805 |
 | Lady | 31.00% | ~13,374 |
 | Fashionable Assassin | 27.00% | ~11,648 |
@@ -23,7 +23,7 @@ Number of Ratings: 88  (23.09.2022)
 | Soul Reaver | 22.00% | ~9,491 |
 | Embers | 21.00% | ~9,060 |
 | Wall Lizard | 20.00% | ~8,628 |
-| Clinging to Life | 18.00% | ~7,765 |
+| Clinging to Life | 18.00% | ~7,766 |
 | Burning | 17.00% | ~7,334 |
 | Look Behind You | 16.00% | ~6,903 |
 | Sleeping on the Job | 16.00% | ~6,903 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~863 |
 | Anger Management | 1.00% | ~431 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,141 (Ranked 96)  
-Completed: 234 (0.54%) (Ranked 152)  
+Progressed: 43,142 (Ranked 96)  
+Completed: 235 (0.54%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 234 (0.54%) (Ranked 152)
 | 2023-09-12 | 42,993 | 231 |
 | 2023-09-13 | 43,054 | 231 |
 | 2023-09-14 | 43,109 | 232 |
-| 2023-09-15 | 43,141 | 234 |
+| 2023-09-15 | 43,142 | 235 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
