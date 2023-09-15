@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 91.00% | ~68 |
-| Lightbulb Seeker | 88.00% | ~66 |
-| Grilled Mouse | 85.00% | ~64 |
-| Lightbulbs Collector | 77.00% | ~58 |
-| Energy Collector | 75.00% | ~56 |
-| East Street Energy | 52.00% | ~39 |
+| Energy Seeker | 89.00% | ~68 |
+| Lightbulb Seeker | 88.00% | ~67 |
+| Grilled Mouse | 86.00% | ~65 |
+| Lightbulbs Collector | 76.00% | ~58 |
+| Energy Collector | 74.00% | ~56 |
+| East Street Energy | 51.00% | ~39 |
 | Lightbulbs Expert | 45.00% | ~34 |
 | That's one way to travel | 45.00% | ~34 |
-| Energy Expert | 44.00% | ~33 |
+| Energy Expert | 43.00% | ~33 |
 | The Old Man and the Café | 41.00% | ~31 |
 | South Town Energy | 33.00% | ~25 |
 | Photogenic | 32.00% | ~24 |
@@ -21,14 +21,14 @@
 | OK, I heard you!! | 28.00% | ~21 |
 | Lightbulb Detective | 25.00% | ~19 |
 | Unlimited Power!! | 24.00% | ~18 |
-| Cartographer | 23.00% | ~17 |
+| Cartographer | 22.00% | ~17 |
 | The Quiche and the Hair Dryer | 21.00% | ~16 |
-| South Square Lightbulbs | 19.00% | ~14 |
+| South Square Lightbulbs | 18.00% | ~14 |
 | The Ghost and the Lamps | 17.00% | ~13 |
 | The Woman and the Pizzeria | 17.00% | ~13 |
 | West Residence Energy | 16.00% | ~12 |
 | The Painter and the Lights | 16.00% | ~12 |
-| Riddle Master | 15.00% | ~11 |
+| Riddle Master | 14.00% | ~11 |
 | At your service | 13.00% | ~10 |
 | West Residence Lightbulbs | 13.00% | ~10 |
 | Out of service | 11.00% | ~8 |
@@ -45,7 +45,7 @@
 | Warm Bed | 3.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 375)  
+Progressed: 76 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,6 +55,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-07-09 | 72 | 0 |
 | 2023-07-15 | 73 | 0 |
 | 2023-07-24 | 75 | 0 |
+| 2023-09-15 | 76 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

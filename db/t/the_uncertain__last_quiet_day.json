@@ -741,9 +741,9 @@
       "ID": "METICULOUS",
       "SetID": "2iigf77",
       "Name": "Meticulous",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "NOT_CLUMSY",
@@ -870,8 +870,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:05:30.2533417+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:05:12.2178323+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:20.3531611+00:00",
-  "LastUpdate_Ratings": "2023-09-15T05:58:54.1584317+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:05:30.2533679+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:58:29.0508253+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:05:12.2178608+00:00"
 }

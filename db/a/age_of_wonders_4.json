@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,9 +336,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5175,
+  "EOS_Progressed": 5176,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6126,6 +6126,11 @@
       "Time": "2023-09-14T15:06:36.4993626+00:00",
       "NumProgressed": 5175,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-15T07:06:34.5702904+00:00",
+      "NumProgressed": 5176,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6249,7 +6254,7 @@
       "Name": "Realm Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "23",
@@ -6257,7 +6262,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "24",
@@ -6273,7 +6278,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "26",
@@ -6281,7 +6286,7 @@
       "Name": "Bone Peddler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "27",
@@ -6297,7 +6302,7 @@
       "Name": "From Friends to Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "29",
@@ -6329,7 +6334,7 @@
       "Name": "Magical Synergy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "32",
@@ -6345,7 +6350,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "34",
@@ -6409,7 +6414,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "41",
@@ -6497,7 +6502,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "47",
@@ -6536,13 +6541,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5175,
+      "Progressed": 5176,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5175,
+      "Progressed": 5176,
       "Completed": 6
     }
   ],
@@ -6550,8 +6555,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:07:06.6853594+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:06:34.5702899+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:36.514266+00:00",
-  "LastUpdate_Ratings": "2023-09-15T05:59:14.4241692+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:07:06.6854431+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:58:44.557148+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:06:34.570374+00:00"
 }

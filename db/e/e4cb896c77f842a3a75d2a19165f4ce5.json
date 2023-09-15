@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -1242,17 +1242,17 @@
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 95,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_019",
@@ -1305,8 +1305,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:08:32.8217077+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:07:48.5759815+00:00",
   "LastUpdate_AppInfo": "2023-09-11T21:57:06.6069937+00:00",
-  "LastUpdate_Ratings": "2023-09-15T06:01:51.5238358+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:08:32.8217375+00:00"
+  "LastUpdate_Ratings": "2023-09-15T07:00:56.2232759+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:07:48.5760001+00:00"
 }

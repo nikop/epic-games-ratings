@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -184,9 +184,9 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 72,
+      "Percentage": 76,
       "XP": 70,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "EpicACHV_11",
@@ -304,9 +304,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 72,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -319,8 +319,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:04:12.5283825+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:04:07.0170241+00:00",
   "LastUpdate_AppInfo": "2023-09-13T05:57:11.6073515+00:00",
-  "LastUpdate_Ratings": "2023-09-15T05:59:03.9558348+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:04:12.5284144+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:58:36.6780173+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:04:07.0170487+00:00"
 }

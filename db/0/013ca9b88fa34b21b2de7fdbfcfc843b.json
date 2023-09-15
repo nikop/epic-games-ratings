@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2762,
+  "EOS_Progressed": 2767,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2725,
+  "EOS_NewPlayers": 2730,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -942,6 +942,11 @@
       "Time": "2023-09-15T06:08:00.2762928+00:00",
       "NumProgressed": 2762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T07:07:20.6530194+00:00",
+      "NumProgressed": 2767,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -954,7 +959,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2020
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -962,15 +967,15 @@
       "Name": "A Thorny Situation",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1854
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Calm Sailing",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 581
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -1032,9 +1037,9 @@
       "ID": "COLLECT_FISH",
       "SetID": "9eia0f5",
       "Name": "Angling Authority",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "COLLECT_LOGS",
@@ -1042,7 +1047,7 @@
       "Name": "Lumberjack",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -1050,7 +1055,7 @@
       "Name": "Miner 49er",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 913
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -1058,7 +1063,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1134
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -1066,7 +1071,7 @@
       "Name": "Beach Comber",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -1090,7 +1095,7 @@
       "Name": "Humble Collector",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -1106,7 +1111,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1494
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -1114,7 +1119,7 @@
       "Name": "Mist Walker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -1130,7 +1135,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -1170,15 +1175,15 @@
       "Name": "Oui, Chef!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
       "SetID": "9eia0f5",
       "Name": "Botanical Breakthrough",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 221
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -1233,14 +1238,14 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 2762,
+      "Progressed": 2767,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:08:00.276292+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:07:20.653019+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:57:17.8773822+00:00",
-  "LastUpdate_Ratings": "2023-09-15T06:01:55.8980675+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:08:00.276348+00:00"
+  "LastUpdate_Ratings": "2023-09-15T07:00:59.6595688+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:07:20.6530507+00:00"
 }

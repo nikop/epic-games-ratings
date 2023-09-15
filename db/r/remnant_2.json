@@ -1986,9 +1986,9 @@
       "Count": 155
     }
   ],
-  "EOS_Progressed": 180914,
+  "EOS_Progressed": 180924,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 4412,
+  "EOS_NewPlayers": 4409,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8581,6 +8581,11 @@
       "Time": "2023-09-15T06:04:12.2226335+00:00",
       "NumProgressed": 180914,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-09-15T07:04:06.804735+00:00",
+      "NumProgressed": 180924,
+      "NumCompleted": 291
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -8593,7 +8598,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12664
+      "UsersEstimate": 12665
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -8609,7 +8614,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -8657,7 +8662,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Defeat_Guardian",
@@ -8673,7 +8678,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14473
+      "UsersEstimate": 14474
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -8713,7 +8718,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12664
+      "UsersEstimate": 12665
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -8729,7 +8734,7 @@
       "Name": "The Agenda",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Meet_Custodian",
@@ -8761,7 +8766,7 @@
       "Name": "Tall Tales",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Meet_Nimue",
@@ -8777,7 +8782,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16282
+      "UsersEstimate": 16283
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -8809,7 +8814,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -8833,7 +8838,7 @@
       "Name": "Strapped",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Obtain_Guns_B",
@@ -8849,7 +8854,7 @@
       "Name": "Edgelord",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -8897,7 +8902,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14473
+      "UsersEstimate": 14474
     },
     {
       "ID": "Obtain_Traits_B",
@@ -8929,7 +8934,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -8961,7 +8966,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -8992,7 +8997,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 180914,
+      "Progressed": 180924,
       "Completed": 291
     }
   ],
@@ -9000,8 +9005,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-15T01:42:13.7239423+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:04:12.2226329+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:04:06.8047348+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:47.049346+00:00",
-  "LastUpdate_Ratings": "2023-09-15T06:00:41.674958+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:04:12.2227415+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:59:59.5421279+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:04:06.8048155+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "a-frogs-job-b1ac70",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T11:57:08.6834023+00:00",
-  "LastUpdate_Ratings": "2023-09-15T06:00:33.5646067+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:07:37.5937816+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:59:52.8846334+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:07:01.523734+00:00"
 }

@@ -13,15 +13,15 @@
 | Locked Away | 35.00% | ~14 |
 | A Little Renovating | 33.00% | ~13 |
 | Deflect This! | 30.00% | ~12 |
-| It's a Sign! | 28.00% | ~11 |
+| It's a Sign! | 30.00% | ~12 |
 | Just Some Improvements | 23.00% | ~9 |
+| A Little Extra Love | 20.00% | ~8 |
 | Final Announcement | 20.00% | ~8 |
 | A New Strategy | 20.00% | ~8 |
 | My Precious Gems! | 18.00% | ~7 |
-| A Little Extra Love | 18.00% | ~7 |
+| Isn't It Beautiful? | 18.00% | ~7 |
+| A Generous Leader | 18.00% | ~7 |
 | An Unexpected Visitor | 18.00% | ~7 |
-| Isn't It Beautiful? | 15.00% | ~6 |
-| A Generous Leader | 15.00% | ~6 |
 | How Do You Like Them Apples? | 15.00% | ~6 |
 | A Terrible Way to Go | 15.00% | ~6 |
 | Dr. Dreinstein III | 13.00% | ~5 |
@@ -30,6 +30,7 @@
 | Fishing for Fissures | 10.00% | ~4 |
 | You did it? You did it! | 10.00% | ~4 |
 | All Beefed Up | 10.00% | ~4 |
+| Isn't It Grand? | 10.00% | ~4 |
 | The Smelter | 10.00% | ~4 |
 | What's Yours Is Mine | 10.00% | ~4 |
 | We're Breaking Up | 10.00% | ~4 |
@@ -46,7 +47,6 @@
 | Back for More? | 8.00% | ~3 |
 | Gurabi Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Gurabi Domain | 8.00% | ~3 |
-| Isn't It Grand? | 8.00% | ~3 |
 | I am the Trial! | 8.00% | ~3 |
 | I Like Rocks! | 8.00% | ~3 |
 | Nutoro Trial Extraordinaire | 8.00% | ~3 |

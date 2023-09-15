@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5972,10 +5972,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27227,
       "NumberOfAwardsMax": 4741
+    },
+    {
+      "Time": "2023-09-15T06:57:36.5466868+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27228,
+      "NumberOfAwardsMax": 4741
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27227,
+  "NumberOfAwards": 27228,
   "NumberOfAwardsMax": 4741,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6007,7 +6013,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3994
+      "Count": 3995
     },
     {
       "Text": "This game is Relaxing",
@@ -6028,10 +6034,10 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136193,
+  "EOS_Progressed": 136194,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 372,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 373,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -21228,6 +21234,11 @@
       "Time": "2023-09-15T06:08:50.758489+00:00",
       "NumProgressed": 136193,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-15T07:08:13.9023175+00:00",
+      "NumProgressed": 136194,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -22134,15 +22145,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136193,
+      "Progressed": 136194,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-14T13:57:26.7031757+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:08:50.7584885+00:00",
+  "LastChanged": "2023-09-15T06:57:36.5466866+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:08:13.9023172+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-15T05:57:52.395123+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:08:50.7587244+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:57:36.5466875+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:08:13.9025663+00:00"
 }

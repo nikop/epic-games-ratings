@@ -894,9 +894,9 @@
       "ID": "questDetective",
       "SetID": "ci65fo0",
       "Name": "True Detective",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "questEnemyTask",
@@ -1038,9 +1038,9 @@
       "ID": "questTheft",
       "SetID": "ci65fo0",
       "Name": "Dark business",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "questWellCleaner",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:04:10.4143849+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:04:05.228874+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.2829646+00:00",
-  "LastUpdate_Ratings": "2023-09-15T06:01:21.4935561+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:04:10.4144778+00:00"
+  "LastUpdate_Ratings": "2023-09-15T07:00:32.6900863+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:04:05.2289596+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 524  (23.09.2022)
 | Float Like a Butterfly | 32.00% | ~20,892 |
 | Nordic Walking | 25.00% | ~16,322 |
 | Bright Falls' Finest | 25.00% | ~16,322 |
-| Under a Thin Layer of Skin | 22.00% | ~14,363 |
+| Under a Thin Layer of Skin | 22.00% | ~14,364 |
 | Park Ranger | 18.00% | ~11,752 |
 | Paging Mr. Wake | 18.00% | ~11,752 |
 | Back! Back, I Say! | 17.00% | ~11,099 |
@@ -22,10 +22,10 @@ Number of Ratings: 524  (23.09.2022)
 | Damn Good Cup of Coffee | 15.00% | ~9,793 |
 | Wheels Within Wheels | 14.00% | ~9,140 |
 | The Six-Gun Scribe | 14.00% | ~9,140 |
-| Heavy Metal | 13.00% | ~8,487 |
-| Iron Horse | 13.00% | ~8,487 |
-| Collateral Carnage | 13.00% | ~8,487 |
-| Come One, Come All | 13.00% | ~8,487 |
+| Heavy Metal | 13.00% | ~8,488 |
+| Iron Horse | 13.00% | ~8,488 |
+| Collateral Carnage | 13.00% | ~8,488 |
+| Come One, Come All | 13.00% | ~8,488 |
 | Perchance to Dream | 12.00% | ~7,835 |
 | It's Not Just a Typewriter Brand | 12.00% | ~7,835 |
 | Thunder and Lightning | 12.00% | ~7,835 |
@@ -36,7 +36,7 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 9.00% | ~5,876 |
 | Right of Way | 9.00% | ~5,876 |
 | Tornado Wrangler | 8.00% | ~5,223 |
-| A Friend in Need | 8.00% | ~2,300 |
+| A Friend in Need | 8.00% | ~2,301 |
 | Departure | 7.00% | ~4,570 |
 | Drink 'Em Both Up | 6.00% | ~3,917 |
 | Hardboiled Writer | 6.00% | ~3,917 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,288 (Ranked 88)  
+Progressed: 65,289 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 65 (0.10%) (Ranked 221)
 | 2023-09-12 | 64,967 | 65 |
 | 2023-09-13 | 65,148 | 65 |
 | 2023-09-14 | 65,260 | 65 |
-| 2023-09-15 | 65,288 | 65 |
+| 2023-09-15 | 65,289 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

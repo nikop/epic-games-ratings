@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -2890,9 +2890,9 @@
       "Count": 192
     }
   ],
-  "EOS_Progressed": 725671,
+  "EOS_Progressed": 725672,
   "EOS_Completed": 734,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19285,6 +19285,11 @@
       "Time": "2023-09-15T06:04:06.3975059+00:00",
       "NumProgressed": 725671,
       "NumCompleted": 734
+    },
+    {
+      "Time": "2023-09-15T07:03:52.0989367+00:00",
+      "NumProgressed": 725672,
+      "NumCompleted": 734
     }
   ],
   "TotalAchievements": 98,
@@ -19328,7 +19333,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 217701
+      "UsersEstimate": 217702
     },
     {
       "ID": "BallShooter",
@@ -19512,7 +19517,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 348322
+      "UsersEstimate": 348323
     },
     {
       "ID": "FireFlies",
@@ -19656,7 +19661,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 399119
+      "UsersEstimate": 399120
     },
     {
       "ID": "Healthregen",
@@ -19664,7 +19669,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 341065
+      "UsersEstimate": 341066
     },
     {
       "ID": "HelpedAStar",
@@ -19688,7 +19693,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 166904
+      "UsersEstimate": 166905
     },
     {
       "ID": "Horticultural",
@@ -19736,7 +19741,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 268498
+      "UsersEstimate": 268499
     },
     {
       "ID": "MacGuffin",
@@ -19808,7 +19813,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 718414
+      "UsersEstimate": 718415
     },
     {
       "ID": "PanicLights",
@@ -19880,7 +19885,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 188674
+      "UsersEstimate": 188675
     },
     {
       "ID": "RedstonePickaxe",
@@ -19928,7 +19933,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 478943
+      "UsersEstimate": 478944
     },
     {
       "ID": "Strong",
@@ -19960,7 +19965,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 166904
+      "UsersEstimate": 166905
     },
     {
       "ID": "The_Blues",
@@ -19968,7 +19973,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 616820
+      "UsersEstimate": 616821
     },
     {
       "ID": "ThroughPipe",
@@ -20079,15 +20084,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 725671,
+      "Progressed": 725672,
       "Completed": 734
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-09-13T19:57:34.2679644+00:00",
-  "LastChanged_Achievements": "2023-09-15T06:04:06.3975053+00:00",
+  "LastChanged_Achievements": "2023-09-15T07:03:52.0989363+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:37.72906+00:00",
-  "LastUpdate_Ratings": "2023-09-15T05:58:15.9371791+00:00",
-  "LastUpdate_Achievements": "2023-09-15T06:04:06.3977493+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:57:55.6465492+00:00",
+  "LastUpdate_Achievements": "2023-09-15T07:03:52.0991582+00:00"
 }
