@@ -30,7 +30,7 @@
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.12% |
 | 30 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.82% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 8.65% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 8.63% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 33 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.33% |
@@ -62,7 +62,7 @@
 | 60 | [ZZT!](games/z/zzt!.md) | 4.14% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.80% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.79% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -71,10 +71,10 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.27% |
 | 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 71 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.14% |
-| 73 | [HordeCore](games/h/hordecore.md) | 3.13% |
-| 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.94% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
+| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.14% |
+| 74 | [HordeCore](games/h/hordecore.md) | 3.13% |
+| 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.79% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -94,10 +94,10 @@
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 94 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
-| 95 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.03% |
-| 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
-| 96 | [FORECLOSED](games/f/foreclosed.md) | 1.98% |
-| 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
+| 95 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
+| 95 | [FORECLOSED](games/f/foreclosed.md) | 1.98% |
+| 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
+| 98 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.87% |
 | 99 | [Night Book](games/n/night_book.md) | 1.86% |
 | 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 101 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
@@ -127,8 +127,8 @@
 | 125 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
-| 128 | [Hades](games/h/hades.md) | 0.90% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.92% |
+| 129 | [Hades](games/h/hades.md) | 0.90% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.83% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
