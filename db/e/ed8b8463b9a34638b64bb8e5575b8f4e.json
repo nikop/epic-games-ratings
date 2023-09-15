@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-12T09:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -242,9 +242,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "the_swell_celebration",
@@ -281,8 +281,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:03:45.8144282+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:03:33.8298153+00:00",
   "LastUpdate_AppInfo": "2023-09-08T19:57:03.5562653+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:01:35.1654361+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:03:45.8144497+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:01:07.793469+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:03:33.8298294+00:00"
 }

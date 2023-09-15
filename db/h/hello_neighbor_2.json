@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -402,10 +402,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2864,
+  "EOS_Progressed": 2865,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 17,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
     {
@@ -3232,6 +3232,11 @@
       "Time": "2023-09-15T16:03:39.4942899+00:00",
       "NumProgressed": 2864,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-15T20:04:13.9420768+00:00",
+      "NumProgressed": 2865,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 14,
@@ -3315,7 +3320,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH_REUNION",
@@ -3347,14 +3352,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2864,
+      "Progressed": 2865,
       "Completed": 114
     }
   ],
@@ -3362,8 +3367,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-09-08T11:57:12.3304907+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:04:19.4405807+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:04:13.9420764+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:11.471651+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:01:12.5874522+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:04:19.4406124+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:00:50.243442+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:04:13.9420988+00:00"
 }

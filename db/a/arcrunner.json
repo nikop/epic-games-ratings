@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1701,9 +1701,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHV_CITY",
@@ -1924,8 +1924,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:08:18.9377236+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:07:48.0973886+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:59.8548825+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:00:03.7982512+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:08:18.9377582+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:59:43.1737865+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:07:48.0974127+00:00"
 }

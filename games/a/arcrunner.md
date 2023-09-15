@@ -11,8 +11,8 @@
 | Nanonic I | 16.00% | ~120 |
 | The City | 14.00% | ~105 |
 | Terminated II | 14.00% | ~105 |
+| Challenge Mastered | 12.00% | ~90 |
 | Terminated III | 12.00% | ~90 |
-| Challenge Mastered | 11.00% | ~82 |
 | Nanonic II | 10.00% | ~75 |
 | Supply Run | 8.00% | ~60 |
 | Starship Docks | 7.00% | ~53 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 867,
+  "EOS_Progressed": 868,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2155,6 +2155,11 @@
       "Time": "2023-09-15T00:06:55.9549209+00:00",
       "NumProgressed": 867,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T20:08:14.7750629+00:00",
+      "NumProgressed": 868,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2190,7 +2195,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2214,7 +2219,7 @@
       "Name": "Like Clockwork",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ClovemaryGift",
@@ -2294,7 +2299,7 @@
       "Name": "The Betrayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2350,7 +2355,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "LacunaCompleted",
@@ -2358,7 +2363,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "MapCompletion1",
@@ -2446,7 +2451,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "RewindDamage1",
@@ -2542,7 +2547,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "WarwickDefeated",
@@ -2574,7 +2579,7 @@
       "Name": "The Brass Boss",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2582,14 +2587,14 @@
       "Name": "The Family Fortune",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 867,
+      "Progressed": 868,
       "Completed": 5
     }
   ],
@@ -2597,8 +2602,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:08:49.8925804+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:08:14.7750625+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:00:21.6402545+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:08:49.8926536+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:59:59.9664362+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:08:14.7751117+00:00"
 }

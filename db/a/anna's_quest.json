@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -228,9 +228,9 @@
       "ID": "aq_achievement_20",
       "SetID": "7jh86ne",
       "Name": "Beekeeper",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "aq_achievement_21",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:06:14.706224+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:05:51.1556322+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:39.1897283+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:59:07.915775+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:06:14.7062691+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:58:55.0380278+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:05:51.1556587+00:00"
 }

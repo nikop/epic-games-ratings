@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7167,9 +7167,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61106,
+  "EOS_Progressed": 61107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22847,6 +22847,11 @@
       "Time": "2023-09-15T19:07:49.2043242+00:00",
       "NumProgressed": 61106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T20:07:20.1120468+00:00",
+      "NumProgressed": 61107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22874,7 +22879,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "Best served cold",
@@ -22898,7 +22903,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4889
     },
     {
       "ID": "Catch",
@@ -23018,7 +23023,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "I can do it",
@@ -23090,7 +23095,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23831
+      "UsersEstimate": 23832
     },
     {
       "ID": "Lawmaker",
@@ -23098,7 +23103,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "Long live the Empire",
@@ -23234,7 +23239,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "Undercover",
@@ -23256,24 +23261,24 @@
       "ID": "What have the Romans ever done for us",
       "SetID": "den0lp1",
       "Name": "What have the Romans ever done for us?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5500
+      "UsersEstimate": 6111
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61106,
+      "Progressed": 61107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-15T17:00:57.3527892+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:07:49.2043235+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:07:20.1120464+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:00:34.3775224+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:07:49.2044837+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:00:10.4927536+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:07:20.1121453+00:00"
 }

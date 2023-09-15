@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
     "PcReleaseDate": "2018-05-17T08:30:00+00:00",
@@ -171,9 +171,9 @@
       "ID": "beebot",
       "SetID": "94981fl",
       "Name": "bee bot",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "destroy_battle_cruiser",
@@ -251,9 +251,9 @@
       "ID": "invincible",
       "SetID": "94981fl",
       "Name": "the invincible",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "killing_machine",
@@ -267,17 +267,17 @@
       "ID": "laserbot",
       "SetID": "94981fl",
       "Name": "laserbot",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "machinegun",
       "SetID": "94981fl",
       "Name": "machine gun",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "max_hp",
@@ -291,9 +291,9 @@
       "ID": "missile",
       "SetID": "94981fl",
       "Name": "missile",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "no_scratches",
@@ -307,9 +307,9 @@
       "ID": "plasmagun",
       "SetID": "94981fl",
       "Name": "plasma gun",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "resistance",
@@ -331,9 +331,9 @@
       "ID": "snipergun",
       "SetID": "94981fl",
       "Name": "sniper gun",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "space_car",
@@ -418,8 +418,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:07:46.1512898+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:07:17.0741745+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.9397468+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:02:07.2441587+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:07:46.1513149+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:01:41.5328847+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:07:17.0741928+00:00"
 }

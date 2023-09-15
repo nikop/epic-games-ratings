@@ -11,15 +11,15 @@ Number of Ratings: 38  (23.09.2022)
 | Mushroom Picker | 57.00% | ~214 |
 | Scrapper | 47.00% | ~177 |
 | Teleport | 45.00% | ~169 |
-| Cook | 43.00% | ~162 |
+| Cook | 44.00% | ~165 |
 | Scrap Master | 39.00% | ~147 |
 | Smelter | 36.00% | ~135 |
 | Digger | 34.00% | ~128 |
 | Electro-Scrap Gatherer | 34.00% | ~128 |
 | Survivor | 33.00% | ~124 |
 | Robot Destroyer | 31.00% | ~117 |
+| Herbalist | 30.00% | ~113 |
 | Lumberjack | 30.00% | ~113 |
-| Herbalist | 29.00% | ~109 |
 | Electro-Scrap Master | 25.00% | ~94 |
 | Prepper | 25.00% | ~94 |
 | Robot Hunter | 22.00% | ~83 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -1226,6 +1226,11 @@
       "Time": "2023-09-14T21:08:07.9053741+00:00",
       "NumProgressed": 611,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-15T20:09:16.8853851+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1238,7 +1243,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "BostonHayDay",
@@ -1262,7 +1267,7 @@
       "Name": "Cartographer",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Causality",
@@ -1294,7 +1299,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "DustDancing",
@@ -1358,7 +1363,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "TerraTourGuide",
@@ -1372,9 +1377,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 324
+      "UsersEstimate": 318
     },
     {
       "ID": "TragedyDocumented",
@@ -1390,21 +1395,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:09:46.5234776+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:09:16.8853845+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:01.9364829+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:00:28.2396518+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:09:46.5235017+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:00:04.9444969+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:09:16.8854009+00:00"
 }

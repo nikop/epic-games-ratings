@@ -6,25 +6,25 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~363 |
+| Getting started | 78.00% | ~364 |
 | Close call! | 72.00% | ~336 |
-| Builder | 52.00% | ~242 |
+| Builder | 52.00% | ~243 |
 | Pangs of conscience | 47.00% | ~219 |
 | Living it large! | 44.00% | ~205 |
 | Collector | 42.00% | ~196 |
 | Need to think | 41.00% | ~191 |
 | Completely nuts! | 39.00% | ~182 |
 | Just in time! | 33.00% | ~154 |
-| Europe | 31.00% | ~144 |
+| Europe | 31.00% | ~145 |
 | It's no coincidence. | 30.00% | ~140 |
 | Madness! | 29.00% | ~135 |
 | Philatelist | 26.00% | ~121 |
 | Let's roll! | 26.00% | ~121 |
-| Ouroboros | 25.00% | ~116 |
+| Ouroboros | 25.00% | ~117 |
 | Non Stop! | 24.00% | ~112 |
 | Foreman | 22.00% | ~103 |
-| Missed it! | 20.00% | ~93 |
 | Russia | 19.00% | ~89 |
+| Missed it! | 19.00% | ~89 |
 | America | 17.00% | ~79 |
 | Sabotage | 17.00% | ~79 |
 | Woodcutter | 11.00% | ~51 |
@@ -33,9 +33,9 @@ Number of Ratings: 28  (23.09.2022)
 | Japan | 10.00% | ~47 |
 | Tycoon | 8.00% | ~37 |
 | Germany | 6.00% | ~28 |
-| Peacemaker | 5.00% | ~23 |
 | Chuck Norris | 5.00% | ~23 |
 | Сhancellor | 4.00% | ~19 |
+| Peacemaker | 4.00% | ~19 |
 | Supercrash! | 4.00% | ~19 |
 | Forgotten | 3.00% | ~14 |
 | Lucky vandal | 2.00% | ~9 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466 (Ranked 251)  
+Progressed: 467 (Ranked 251)  
 Completed: 2 (0.43%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.43%) (Ranked 163)
 | 2023-09-12 | 460 | 2 |
 | 2023-09-13 | 461 | 2 |
 | 2023-09-14 | 465 | 2 |
-| 2023-09-15 | 466 | 2 |
+| 2023-09-15 | 467 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

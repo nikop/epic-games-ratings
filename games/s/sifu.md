@@ -9,6 +9,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.20% | ~1,430 |
 | The Assault | 0.20% | ~1,430 |
 | The Hateful Pole Fighter | 0.20% | ~1,430 |
+| Street Fighting | 0.20% | ~1,430 |
 | Life is your teacher | 0.20% | ~1,430 |
 | State of constant learning | 0.20% | ~1,430 |
 | Lightning Hands | 0.20% | ~1,430 |
@@ -32,7 +33,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Healing Memory | 0.10% | ~715 |
 | Stuntmaster | 0.10% | ~715 |
 | Dance of the Praying Mantis | 0.10% | ~715 |
-| Street Fighting | 0.10% | ~715 |
 | Qi Gong: Mind | 0.10% | ~715 |
 | Qi Gong: Breath | 0.10% | ~715 |
 | Qi Gong: Essence | 0.10% | ~715 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,999 (Ranked 20)  
-Completed: 12,893 (1.80%) (Ranked 101)  
+Progressed: 715,002 (Ranked 20)  
+Completed: 12,893 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,14 +215,14 @@ Completed: 12,893 (1.80%) (Ranked 101)
 | 2023-09-12 | 714,851 | 12,891 |
 | 2023-09-13 | 714,933 | 12,891 |
 | 2023-09-14 | 714,971 | 12,892 |
-| 2023-09-15 | 714,999 | 12,893 |
+| 2023-09-15 | 715,002 | 12,893 |
 ## Awards
-Max (Great Boss Battles): 6,501  (Ranked 53)  
-Sum: 11,236 (Ranked 81)  
+Max (Great Boss Battles): 6,512  (Ranked 53)  
+Sum: 11,247 (Ranked 81)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,501 |
+| This game has Great Boss Battles | 6,512 |
 | This game has Diverse Characters | 598 |
 | This game has Challenging Combat | 560 |
 | This game has Quickly Understood Controls | 549 |
@@ -478,4 +478,4 @@ Diff (max vs sum): -28
 | 2023-09-12 | 4.82 | - | 6,484 | 11,188 |
 | 2023-09-13 | 4.82 | - | 6,494 | 11,212 |
 | 2023-09-14 | 4.82 | - | 6,501 | 11,229 |
-| 2023-09-15 | 4.82 | - | 6,501 | 11,236 |
+| 2023-09-15 | 4.82 | - | 6,512 | 11,247 |

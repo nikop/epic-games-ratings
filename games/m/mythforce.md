@@ -21,8 +21,8 @@ Number of Ratings: 285  (23.09.2022)
 | Horder Better Faster Stronger | 0.80% | ~17 |
 | Deadication | 0.70% | ~15 |
 | Spending Spree | 0.70% | ~15 |
-| Season Finale | 0.60% | ~12 |
-| The Harder They Fall | 0.50% | ~10 |
+| Season Finale | 0.60% | ~13 |
+| The Harder They Fall | 0.50% | ~11 |
 | Next Time on MythForce... | 0.40% | ~8 |
 | On this Episode! | 0.40% | ~8 |
 | The Fourth Gate | 0.30% | ~6 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~4 |
 | Deadalus and Loving It | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,082 (Ranked 182)  
+Progressed: 2,101 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
-| 2023-09-15 | 2,082 | 0 |
+| 2023-09-15 | 2,101 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 355)  

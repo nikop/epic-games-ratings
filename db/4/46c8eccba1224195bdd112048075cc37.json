@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -676,6 +676,11 @@
       "Time": "2023-09-15T16:07:15.7580355+00:00",
       "NumProgressed": 145,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T20:08:23.1353296+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -685,9 +690,9 @@
       "ID": "AllSkills",
       "SetID": "7g1kpc8",
       "Name": "Ready for Battle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "AllTogether",
@@ -711,7 +716,7 @@
       "Name": "Unlucky",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CollectGold",
@@ -733,9 +738,9 @@
       "ID": "FinalBoss",
       "SetID": "7g1kpc8",
       "Name": "Creature",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "FirstBlood",
@@ -743,15 +748,15 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "FirstStep",
@@ -759,7 +764,7 @@
       "Name": "Start of the Path",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "FourthBoss",
@@ -797,9 +802,9 @@
       "ID": "MonsterSlayer",
       "SetID": "7g1kpc8",
       "Name": "Monster Slayer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "Persistence",
@@ -807,15 +812,15 @@
       "Name": "Persistence",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "SecondBoss",
@@ -823,7 +828,7 @@
       "Name": "Spider",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "TenLevel",
@@ -839,21 +844,21 @@
       "Name": "Flower",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:08:59.2050236+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:08:23.1353292+00:00",
   "LastUpdate_AppInfo": "2023-09-11T13:02:43.6830105+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:57:13.2238008+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:08:59.2050448+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:57:00.9997782+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:08:23.1353433+00:00"
 }

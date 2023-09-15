@@ -6,9 +6,9 @@
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -8000,9 +8000,9 @@
       "ID": "SoulShopOverload",
       "SetID": "3ojhj46",
       "Name": "Just the Beginning",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 69
     },
     {
       "ID": "StoryTutorial",
@@ -8054,8 +8054,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-13T01:39:38.1300342+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:08:15.3434723+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:07:44.897965+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.659404+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:59:18.9805857+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:08:15.3435554+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:59:03.6039211+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:07:44.8980191+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 39936,
+  "EOS_Progressed": 39937,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8461,6 +8461,11 @@
       "Time": "2023-09-15T18:05:52.6615829+00:00",
       "NumProgressed": 39936,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T20:07:11.279166+00:00",
+      "NumProgressed": 39937,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8895,22 +8900,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39936,
+      "Progressed": 39937,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4773,
-      "Completed": 4773
+      "Progressed": 4774,
+      "Completed": 4774
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-01T09:58:46.1320611+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:07:40.087798+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:07:11.2791656+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.8257912+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:58:36.296813+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:07:40.0879037+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:58:24.8599283+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:07:11.2792399+00:00"
 }

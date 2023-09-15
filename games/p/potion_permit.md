@@ -5,20 +5,20 @@ Rating: 3.83 (Ranked 970)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,531 |
-| The First Step | 89.00% | ~1,390 |
+| Welcome to Moonbury | 98.00% | ~1,532 |
+| The First Step | 89.00% | ~1,391 |
 | Moonbury Traveller | 64.00% | ~1,000 |
-| Rookie Chemist | 63.00% | ~984 |
+| Rookie Chemist | 63.00% | ~985 |
 | Great Doctor | 51.00% | ~797 |
-| Dog Whisperer | 49.00% | ~765 |
+| Dog Whisperer | 49.00% | ~766 |
 | Friendly | 48.00% | ~750 |
 | The Capitalist | 45.00% | ~703 |
 | K.O.! | 43.00% | ~672 |
 | Intermediate Chemist | 40.00% | ~625 |
 | Decorative Mind | 32.00% | ~500 |
-| Lumber Specialist | 31.00% | ~484 |
-| Kind-hearted | 25.00% | ~390 |
-| Catch of the Day | 25.00% | ~390 |
+| Lumber Specialist | 31.00% | ~485 |
+| Kind-hearted | 25.00% | ~391 |
+| Catch of the Day | 25.00% | ~391 |
 | Amateur Chef | 22.00% | ~344 |
 | Fishing Guru | 21.00% | ~328 |
 | Spark of Love | 18.00% | ~281 |
@@ -27,7 +27,7 @@ Rating: 3.83 (Ranked 970)
 | Stone Specialist | 14.00% | ~219 |
 | Sociable | 13.00% | ~203 |
 | Ablutomaniac | 13.00% | ~203 |
-| Line Cook | 12.00% | ~187 |
+| Line Cook | 12.00% | ~188 |
 | Production Sorter | 11.00% | ~172 |
 | Good Samaritan | 10.00% | ~156 |
 | Acrobatic Adventurer | 9.00% | ~141 |
@@ -35,8 +35,8 @@ Rating: 3.83 (Ranked 970)
 | Adolescent Love | 6.00% | ~94 |
 | Mail Carrier | 6.00% | ~94 |
 | Plantation Exterminator | 5.00% | ~78 |
-| Sous Chef | 4.00% | ~62 |
-| Grape Supplier | 4.00% | ~62 |
+| Sous Chef | 4.00% | ~63 |
+| Grape Supplier | 4.00% | ~63 |
 | Being forgetful... | 2.00% | ~31 |
 | Community Advisor | 2.00% | ~31 |
 | Rock Exterminator | 2.00% | ~31 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 970)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,562 (Ranked 194)  
+Progressed: 1,563 (Ranked 194)  
 Completed: 9 (0.58%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,10 +151,10 @@ Completed: 9 (0.58%) (Ranked 147)
 | 2023-09-04 | 1,554 | 9 |
 | 2023-09-11 | 1,556 | 9 |
 | 2023-09-14 | 1,557 | 9 |
-| 2023-09-15 | 1,562 | 9 |
+| 2023-09-15 | 1,563 | 9 |
 ## Awards
-Max (Character Customization): 69  (Ranked 381)  
-Sum: 69 (Ranked 441)  
+Max (Character Customization): 69  (Ranked 382)  
+Sum: 69 (Ranked 442)  
 Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |

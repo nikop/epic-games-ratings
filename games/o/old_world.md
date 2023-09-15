@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~139 |
 | Win a Single Player Game | 1.00% | ~139 |
 | Ready | 0.90% | ~125 |
+| Landowners | 0.90% | ~125 |
 | Riders | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
 | Industrial Progress | 0.90% | ~125 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.80% | ~111 |
 | Strong Difficulty | 0.80% | ~111 |
 | Hunters | 0.80% | ~111 |
-| Landowners | 0.80% | ~111 |
 | Adur Burzen-Mihr | 0.80% | ~111 |
 | Babylonia | 0.80% | ~111 |
 | Carthage | 0.80% | ~111 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,924 (Ranked 123)  
+Progressed: 13,925 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,7 +451,7 @@ Completed: 5 (0.04%) (Ranked 243)
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
-| 2023-09-15 | 13,924 | 5 |
+| 2023-09-15 | 13,925 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

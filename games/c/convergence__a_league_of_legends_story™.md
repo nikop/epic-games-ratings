@@ -8,10 +8,10 @@ Rating: 4.60 (Ranked 395)
 | Time Heals All Wounds | 27.00% | ~234 |
 | The Mysterious Stranger | 22.00% | ~191 |
 | Rail Rat | 22.00% | ~191 |
-| Make Up For Lost Time | 20.00% | ~173 |
-| The Prince in Heels | 20.00% | ~173 |
-| Immaculate Aim | 20.00% | ~173 |
-| The Brass Boss | 20.00% | ~173 |
+| Make Up For Lost Time | 20.00% | ~174 |
+| The Prince in Heels | 20.00% | ~174 |
+| Immaculate Aim | 20.00% | ~174 |
+| The Brass Boss | 20.00% | ~174 |
 | The Steel Shadow | 19.00% | ~165 |
 | Time Flies | 19.00% | ~165 |
 | The Harder They Fall | 19.00% | ~165 |
@@ -22,16 +22,16 @@ Rating: 4.60 (Ranked 395)
 | Immaculate Aim | 19.00% | ~165 |
 | The Wicked Twins | 18.00% | ~156 |
 | Golem Chaser | 18.00% | ~156 |
-| Like Clockwork | 17.00% | ~147 |
-| The Betrayer | 17.00% | ~147 |
-| The Loose Cannon | 17.00% | ~147 |
-| The Family Fortune | 17.00% | ~147 |
+| Like Clockwork | 17.00% | ~148 |
+| The Betrayer | 17.00% | ~148 |
+| The Loose Cannon | 17.00% | ~148 |
+| The Family Fortune | 17.00% | ~148 |
 | Right On Time | 16.00% | ~139 |
 | The Man Who Shattered Time | 16.00% | ~139 |
 | Check Your Pulse | 16.00% | ~139 |
 | Street Style | 15.00% | ~130 |
 | Cartographer | 15.00% | ~130 |
-| Treasure Trove | 14.00% | ~121 |
+| Treasure Trove | 14.00% | ~122 |
 | Whiz Kid | 13.00% | ~113 |
 | Good Neighbor | 12.00% | ~104 |
 | Chaincrawler Explorer | 11.00% | ~95 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867 (Ranked 218)  
+Progressed: 868 (Ranked 218)  
 Completed: 5 (0.58%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 5 (0.58%) (Ranked 147)
 | 2023-09-12 | 863 | 5 |
 | 2023-09-13 | 865 | 5 |
 | 2023-09-14 | 866 | 5 |
-| 2023-09-15 | 867 | 5 |
+| 2023-09-15 | 868 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

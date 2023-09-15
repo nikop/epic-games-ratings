@@ -3,12 +3,12 @@
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
   "Ranking_Rating": 19,
-  "Ranking_Popularity": 33,
+  "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -10556,10 +10556,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 95431,
       "NumberOfAwardsMax": 11506
+    },
+    {
+      "Time": "2023-09-15T20:00:08.719722+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 95439,
+      "NumberOfAwardsMax": 11506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 95431,
+  "NumberOfAwards": 95439,
   "NumberOfAwardsMax": 11506,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10573,7 +10579,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10369
+      "Count": 10377
     },
     {
       "Text": "This game is Relaxing",
@@ -10641,8 +10647,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-09-15T17:00:55.5732477+00:00",
+  "LastChanged": "2023-09-15T20:00:08.7197218+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.6706527+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:00:32.1268242+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:04:17.2899717+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:00:08.7197226+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:04:11.9627659+00:00"
 }

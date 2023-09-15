@@ -2,10 +2,10 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 376,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -811,6 +811,11 @@
       "Time": "2023-09-15T17:05:44.7078116+00:00",
       "NumProgressed": 371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T20:05:12.8613284+00:00",
+      "NumProgressed": 376,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -886,7 +891,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 286
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -958,7 +963,7 @@
       "Name": "Amateur hitchhiker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -1060,9 +1065,9 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -1198,7 +1203,7 @@
       "Name": "Drama queen",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_223",
@@ -1206,7 +1211,7 @@
       "Name": "Mr. Whiting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_224",
@@ -1526,7 +1531,7 @@
       "Name": "Reliability expert",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_308",
@@ -1550,7 +1555,7 @@
       "Name": "Hattrick",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_311",
@@ -1940,9 +1945,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "76k7b7p",
       "Name": "Photo shoot",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -2062,7 +2067,7 @@
       "Name": "On the top",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_93",
@@ -2117,14 +2122,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 376,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:05:33.5789146+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:05:12.861328+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.9573421+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:57:12.8377571+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:05:33.5792922+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:57:00.6242965+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:05:12.8615985+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -250,7 +250,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18007,
+  "EOS_Progressed": 18008,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 2,
@@ -10245,6 +10245,11 @@
       "Time": "2023-09-15T15:07:10.9674921+00:00",
       "NumProgressed": 18007,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T20:07:00.0583668+00:00",
+      "NumProgressed": 18008,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10318,9 +10323,9 @@
       "ID": "0009",
       "SetID": "2n2feee",
       "Name": "Mainframe Hacker",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3962
+      "UsersEstimate": 4142
     },
     {
       "ID": "0010",
@@ -10384,7 +10389,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "0018",
@@ -10543,7 +10548,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18007,
+      "Progressed": 18008,
       "Completed": 3
     }
   ],
@@ -10551,8 +10556,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:07:28.3065655+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:07:00.0583665+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:00:30.9668532+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:07:28.3066584+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:00:07.4276377+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:07:00.0584349+00:00"
 }

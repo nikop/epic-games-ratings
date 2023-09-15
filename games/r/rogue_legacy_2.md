@@ -27,13 +27,13 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Love | 0.30% | ~69 |
 | For Pride | 0.30% | ~69 |
 | K.O. | 0.30% | ~69 |
+| Just the Beginning | 0.30% | ~69 |
 | Jack of all Trades | 0.30% | ~69 |
 | Color Coordination | 0.30% | ~69 |
 | For Greed | 0.20% | ~46 |
 | For Penance | 0.20% | ~46 |
 | Good Practice | 0.20% | ~46 |
 | A Glimpse of the Future | 0.20% | ~46 |
-| Just the Beginning | 0.20% | ~46 |
 | Wasted Betrayal | 0.20% | ~46 |
 | Black-shoppe | 0.10% | ~23 |
 | Full House | 0.10% | ~23 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23,075 (Ranked 109)  
-Completed: 35 (0.15%) (Ranked 209)  
+Completed: 35 (0.15%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

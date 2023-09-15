@@ -26,10 +26,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.80% | ~1,090 |
 | Flooding the Market | 0.80% | ~1,090 |
 | Where it Hurts | 0.80% | ~1,090 |
+| Gild-Gotten Goods | 0.80% | ~1,090 |
 | Dungeon Imports | 0.80% | ~1,090 |
 | Ascended | 0.70% | ~953 |
 | Blank Page Syndrome | 0.70% | ~953 |
-| Gild-Gotten Goods | 0.70% | ~953 |
 | Accomplished Merchant | 0.70% | ~953 |
 | Did we pack lunch? | 0.70% | ~953 |
 | Arcane Industries | 0.70% | ~953 |

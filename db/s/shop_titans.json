@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6048,7 +6048,7 @@
   ],
   "EOS_Progressed": 136214,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21793,9 +21793,9 @@
       "ID": "gold03",
       "SetID": "anfd17p",
       "Name": "Gild-Gotten Goods",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 1090
     },
     {
       "ID": "gold04",
@@ -22209,8 +22209,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-15T15:57:59.161521+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:03:23.1541324+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:03:13.0486506+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:58:12.6765817+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:03:23.1544761+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:58:01.3544927+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:03:13.0488895+00:00"
 }

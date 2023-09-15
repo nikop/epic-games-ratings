@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
     "PcReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -100,9 +100,9 @@
       "ID": "SMELTER_ALL_COLLECTIBLES",
       "SetID": "1g58k92",
       "Name": "Gotta Collect Them All",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_ALL_DESTROYABLES",
@@ -300,17 +300,17 @@
       "ID": "SMELTER_MASTER_CHALLENGER",
       "SetID": "1g58k92",
       "Name": "I am the Trial!",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_MAX_SMELTPOWER",
       "SetID": "1g58k92",
       "Name": "The Smelter",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_MOAF",
@@ -340,17 +340,17 @@
       "ID": "SMELTER_NUTORO_CHALLENGES",
       "SetID": "1g58k92",
       "Name": "Nutoro Trial Extraordinaire",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_NUTORO_COLLECTIBLES",
       "SetID": "1g58k92",
       "Name": "Scour the Nutoro Domain",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_NUTORO_RUNE",
@@ -364,9 +364,9 @@
       "ID": "SMELTER_NUTORO_UPGRADES",
       "SetID": "1g58k92",
       "Name": "Let the Undershell Flow",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_PLATFORMER_HP20",
@@ -460,9 +460,9 @@
       "ID": "SMELTER_UPGRADES",
       "SetID": "1g58k92",
       "Name": "In Her Prime",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_WELCOME_TO_RUMBLYLANDS",
@@ -476,9 +476,9 @@
       "ID": "SMELTER_XELADO",
       "SetID": "1g58k92",
       "Name": "A Wingman Falls",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_ZIRMARMOR",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-09-15T19:06:56.6292262+00:00",
+  "LastChanged_Achievements": "2023-09-15T20:06:29.4931409+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:15.7665363+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:59:33.8030628+00:00",
-  "LastUpdate_Achievements": "2023-09-15T19:06:56.6292828+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:59:17.8437387+00:00",
+  "LastUpdate_Achievements": "2023-09-15T20:06:29.4931769+00:00"
 }

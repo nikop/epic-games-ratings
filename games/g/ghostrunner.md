@@ -11,8 +11,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Running out of breath | 54.00% | ~9,608 |
 | Wallrunner | 54.00% | ~9,608 |
 | Homerunner | 45.00% | ~8,006 |
+| I call it luck | 44.00% | ~7,828 |
 | Out of order | 44.00% | ~7,828 |
-| I call it luck | 43.00% | ~7,651 |
 | Where are my Keys? | 40.00% | ~7,117 |
 | Back to hell | 36.00% | ~6,405 |
 | Perfection | 32.00% | ~5,693 |
