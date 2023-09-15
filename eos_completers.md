@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.57% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.92% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.35% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.46% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -95,7 +95,7 @@
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 94 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
 | 95 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
-| 95 | [FORECLOSED](games/f/foreclosed.md) | 1.98% |
+| 96 | [FORECLOSED](games/f/foreclosed.md) | 1.96% |
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 98 | [Night Book](games/n/night_book.md) | 1.86% |
 | 99 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -104,7 +104,7 @@
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
 | 103 | [Somerville](games/s/somerville.md) | 1.71% |
 | 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
-| 104 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.67% |
+| 105 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.63% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.55% |
 | 108 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.53% |
@@ -149,8 +149,8 @@
 | 147 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.58% |
 | 147 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 147 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
-| 150 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
-| 150 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 150 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
+| 151 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 152 | [Aragami 2](games/a/aragami_2.md) | 0.54% |
 | 152 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
 | 154 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
@@ -194,10 +194,10 @@
 | 191 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 193 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
 | 193 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.23% |
-| 193 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
-| 196 | [Blanc](games/b/blanc.md) | 0.22% |
-| 196 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 196 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
+| 195 | [Blanc](games/b/blanc.md) | 0.22% |
+| 195 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 195 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
+| 195 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 199 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 199 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
