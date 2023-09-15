@@ -28,13 +28,13 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.13% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.12% |
 | 30 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.82% |
-| 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.70% |
-| 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.69% |
-| 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 34 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
-| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.33% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 8.67% |
+| 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
+| 33 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
+| 33 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.33% |
+| 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.33% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
@@ -100,15 +100,15 @@
 | 98 | [Night Book](games/n/night_book.md) | 1.86% |
 | 99 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 101 | [Frogun](games/f/frogun.md) | 1.80% |
-| 101 | [Sifu](games/s/sifu.md) | 1.80% |
-| 103 | [Somerville](games/s/somerville.md) | 1.71% |
-| 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
-| 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
-| 105 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
-| 105 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.56% |
-| 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
-| 109 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.53% |
+| 101 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.81% |
+| 102 | [Frogun](games/f/frogun.md) | 1.80% |
+| 102 | [Sifu](games/s/sifu.md) | 1.80% |
+| 104 | [Somerville](games/s/somerville.md) | 1.71% |
+| 105 | [Five Dates](games/f/five_dates.md) | 1.67% |
+| 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
+| 107 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.55% |
+| 108 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.53% |
+| 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.53% |
 | 110 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 111 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.43% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
@@ -127,11 +127,11 @@
 | 125 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
-| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.91% |
-| 129 | [Hades](games/h/hades.md) | 0.90% |
+| 128 | [Hades](games/h/hades.md) | 0.90% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.84% |
-| 132 | [Eternights](games/e/eternights.md) | 0.83% |
+| 131 | [Eternights](games/e/eternights.md) | 0.83% |
+| 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.83% |
 | 133 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 134 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 135 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
