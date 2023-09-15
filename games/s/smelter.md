@@ -15,11 +15,11 @@
 | Deflect This! | 30.00% | ~12 |
 | It's a Sign! | 30.00% | ~12 |
 | Just Some Improvements | 23.00% | ~9 |
+| My Precious Gems! | 20.00% | ~8 |
 | A Little Extra Love | 20.00% | ~8 |
 | An Unexpected Visitor | 20.00% | ~8 |
 | Final Announcement | 20.00% | ~8 |
 | A New Strategy | 20.00% | ~8 |
-| My Precious Gems! | 18.00% | ~7 |
 | Isn't It Beautiful? | 18.00% | ~7 |
 | A Generous Leader | 18.00% | ~7 |
 | Orcharion Boost | 15.00% | ~6 |

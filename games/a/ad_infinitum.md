@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 65.00% | ~11 |
-| Path of Despair | 65.00% | ~11 |
-| Hunger | 24.00% | ~4 |
-| Not alone | 24.00% | ~4 |
-| Awaken | 18.00% | ~3 |
+| Morgengrauen | 71.00% | ~12 |
+| Path of Despair | 71.00% | ~12 |
+| Not alone | 35.00% | ~6 |
+| Hunger | 29.00% | ~5 |
+| Awaken | 24.00% | ~4 |
 | Path of Corruption | 18.00% | ~3 |
 | Hope | 12.00% | ~2 |
 | An act of mercy | 6.00% | ~1 |

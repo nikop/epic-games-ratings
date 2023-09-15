@@ -1,17 +1,17 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 503)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 2.00% | ~13,603 |
-| Break A Leg | 2.00% | ~13,603 |
-| Coup de Grâce | 2.00% | ~13,603 |
-| Hazardous Materials | 2.00% | ~13,603 |
-| Hotel California | 2.00% | ~13,603 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,603 |
-| Welcome To Hell-A | 2.00% | ~13,603 |
+| Git Gutte! | 2.00% | ~13,604 |
+| Break A Leg | 2.00% | ~13,604 |
+| Coup de Grâce | 2.00% | ~13,604 |
+| Hazardous Materials | 2.00% | ~13,604 |
+| Hotel California | 2.00% | ~13,604 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,604 |
+| Welcome To Hell-A | 2.00% | ~13,604 |
 | Dr. Reed, I Presume? | 1.00% | ~6,802 |
 | Anger Management | 1.00% | ~6,802 |
 | Perks of the Job | 1.00% | ~6,802 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 503)
 | Stacking the Deck | 1.00% | ~6,802 |
 | Our True Nature | 1.00% | ~6,802 |
 | This is My Weapon | 1.00% | ~6,802 |
-| Making Your Mark | 0.80% | ~5,441 |
-| Humanity Distilled | 0.80% | ~5,441 |
-| Down with the Sickness | 0.80% | ~5,441 |
+| Making Your Mark | 0.80% | ~5,442 |
+| Humanity Distilled | 0.80% | ~5,442 |
+| Down with the Sickness | 0.80% | ~5,442 |
 | Max Headroom | 0.70% | ~4,761 |
 | Go, Bobcats! | 0.60% | ~4,081 |
 | Smorgasbord | 0.50% | ~3,401 |
@@ -41,17 +41,17 @@ Rating: 4.54 (Ranked 503)
 | On Safari | 0.40% | ~2,721 |
 | Not Even My Final Form | 0.40% | ~2,721 |
 | Internet Famous | 0.40% | ~2,721 |
-| Make it So | 0.30% | ~2,040 |
-| LA Influential | 0.30% | ~2,040 |
-| Gore Horse | 0.30% | ~2,040 |
-| Variety is the Spice of Death | 0.30% | ~2,040 |
+| Make it So | 0.30% | ~2,041 |
+| LA Influential | 0.30% | ~2,041 |
+| Gore Horse | 0.30% | ~2,041 |
+| Variety is the Spice of Death | 0.30% | ~2,041 |
 | Sole Survivor | 0.20% | ~1,360 |
 | Sharpest Tool in the Box | 0.20% | ~1,360 |
 | Survival Skills | 0.20% | ~1,360 |
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,155 (Ranked 22)  
+Progressed: 680,196 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
-| 2023-09-15 | 680,155 | 2,143 |
+| 2023-09-15 | 680,196 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,061  (Ranked 57)  
 Sum: 8,982 (Ranked 94)  

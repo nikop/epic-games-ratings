@@ -251,9 +251,9 @@
       "ID": "0000_achv_spotforms",
       "SetID": "dhn82m5",
       "Name": "The Green, the Fat, the Ugly",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "0000_achv_spotinteract",
@@ -459,9 +459,9 @@
       "ID": "3003_achv_useAllCandlesWithAllObjects",
       "SetID": "dhn82m5",
       "Name": "Fastidious Clown",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "3004_achv_sneeze",
@@ -475,9 +475,9 @@
       "ID": "3005_achv_getting_rich",
       "SetID": "dhn82m5",
       "Name": "Unfullfilled dreams",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "3011_achv_magicbox",
@@ -548,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:04:29.285259+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:03:26.7485869+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:02.5979745+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:00:47.8193009+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:04:29.2853257+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:59:21.5269604+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:03:26.7486223+00:00"
 }

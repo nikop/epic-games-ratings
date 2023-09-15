@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2930,9 +2930,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72556,
+  "EOS_Progressed": 72557,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15540,6 +15540,11 @@
       "Time": "2023-09-15T17:03:44.5958401+00:00",
       "NumProgressed": 72556,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-15T18:02:14.7478786+00:00",
+      "NumProgressed": 72557,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15639,7 +15644,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10883
+      "UsersEstimate": 10884
     },
     {
       "ID": "CHALLENGES_1",
@@ -15775,7 +15780,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     },
     {
       "ID": "FREEZE_1_5",
@@ -15895,7 +15900,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37729
+      "UsersEstimate": 37730
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15959,7 +15964,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "MYSTERY_04",
@@ -16038,13 +16043,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72556,
+      "Progressed": 72557,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42836,
+      "Progressed": 42837,
       "Completed": 2663
     }
   ],
@@ -16052,8 +16057,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-15T15:59:21.1579793+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:03:44.5958395+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:02:14.747878+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:00:35.4050471+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:03:44.5959975+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:59:13.2549423+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:02:14.7480424+00:00"
 }

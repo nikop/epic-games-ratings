@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 78,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 145,
@@ -2846,9 +2846,9 @@
       "Count": 318
     }
   ],
-  "EOS_Progressed": 16612,
+  "EOS_Progressed": 16613,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10526,6 +10526,11 @@
       "Time": "2023-09-15T16:07:29.5290073+00:00",
       "NumProgressed": 16612,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-15T18:07:01.8877258+00:00",
+      "NumProgressed": 16613,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 50,
@@ -10673,7 +10678,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "WinNearCrystals",
@@ -10697,7 +10702,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "WinNearFishmen",
@@ -10761,7 +10766,7 @@
       "Name": "Lost Colonies",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "WinNearStatue",
@@ -10849,7 +10854,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "WinWIthCaches",
@@ -10936,15 +10941,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16612,
+      "Progressed": 16613,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-14T02:59:13.0669786+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:09:28.7669448+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:07:01.8877252+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.2014091+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:02:01.7927998+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:09:28.7670392+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:00:10.9730351+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:07:01.8878301+00:00"
 }

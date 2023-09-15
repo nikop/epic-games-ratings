@@ -2,12 +2,12 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 792,
+  "Ranking_Rating": 782,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -1829,10 +1829,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 2735,
       "NumberOfAwardsMax": 361
+    },
+    {
+      "Time": "2023-09-15T17:57:31.5661487+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 2736,
+      "NumberOfAwardsMax": 361
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2735,
+  "NumberOfAwards": 2736,
   "NumberOfAwardsMax": 361,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1858,7 +1864,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 342
+      "Count": 343
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1908,8 +1914,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-09-14T21:57:26.1430178+00:00",
+  "LastChanged": "2023-09-15T17:57:31.5661485+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:18.3394396+00:00",
-  "LastUpdate_Ratings": "2023-09-15T16:58:14.2485132+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:04:26.8907704+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:57:31.566149+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:03:24.8648785+00:00"
 }

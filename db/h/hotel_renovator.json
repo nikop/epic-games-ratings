@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -110,9 +110,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 982,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -1500,6 +1500,11 @@
       "Time": "2023-09-15T08:07:11.5637894+00:00",
       "NumProgressed": 981,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-15T18:07:03.5937897+00:00",
+      "NumProgressed": 982,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1535,7 +1540,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1575,7 +1580,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1599,7 +1604,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1615,7 +1620,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1671,7 +1676,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_STAR_3",
@@ -1679,7 +1684,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_STAR_4",
@@ -1687,7 +1692,7 @@
       "Name": "Nearly there",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_STAR_5",
@@ -1726,7 +1731,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 982,
       "Completed": 15
     }
   ],
@@ -1734,8 +1739,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-03T08:57:16.8385197+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:09:31.1545869+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:07:03.5937891+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.6707548+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:03:11.5101018+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:09:31.1546153+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:01:00.6218496+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:07:03.5938233+00:00"
 }

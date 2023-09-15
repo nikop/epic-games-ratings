@@ -4,10 +4,10 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 350,
   "Ranking_Popularity": 148,
-  "Ranking_PopularitySum": 125,
+  "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -6578,11 +6578,17 @@
       "Rating": 4.62,
       "NumberOfAwards": 5619,
       "NumberOfAwardsMax": 954
+    },
+    {
+      "Time": "2023-09-15T18:02:08.3479978+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 5631,
+      "NumberOfAwardsMax": 962
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5619,
-  "NumberOfAwardsMax": 954,
+  "NumberOfAwards": 5631,
+  "NumberOfAwardsMax": 962,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6595,13 +6601,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 954
+      "Count": 962
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 781
+      "Count": 785
     },
     {
       "Text": "This game has a Creative Community",
@@ -6672,9 +6678,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-09-15T15:03:03.4426546+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:05:45.6137898+00:00",
+  "LastChanged": "2023-09-15T18:02:08.3479976+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:04:21.8666529+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.6902383+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:03:34.0848919+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:05:45.6137955+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:02:08.3479982+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:04:21.866656+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Ranking_Rating": 792,
+  "Ranking_Rating": 793,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1544,18 +1544,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 1931,
       "NumberOfAwardsMax": 965
+    },
+    {
+      "Time": "2023-09-15T17:57:47.1921828+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1932,
+      "NumberOfAwardsMax": 966
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1931,
-  "NumberOfAwardsMax": 965,
+  "NumberOfAwards": 1932,
+  "NumberOfAwardsMax": 966,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 965
+      "Count": 966
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1619,10 +1625,10 @@
     }
   ],
   "EOS_Progressed": 66223,
-  "EOS_Completed": 1215,
+  "EOS_Completed": 1216,
   "EOS_NewPlayers": 92,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.83,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:04.9867144+00:00",
@@ -10163,6 +10169,11 @@
       "Time": "2023-09-15T17:06:23.1475284+00:00",
       "NumProgressed": 66223,
       "NumCompleted": 1215
+    },
+    {
+      "Time": "2023-09-15T18:04:48.79634+00:00",
+      "NumProgressed": 66223,
+      "NumCompleted": 1216
     }
   ],
   "TotalAchievements": 53,
@@ -10598,14 +10609,14 @@
       "ID": "2jelldm",
       "IsBase": true,
       "Progressed": 66223,
-      "Completed": 1215
+      "Completed": 1216
     }
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2023-09-14T17:57:29.0149995+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:06:23.1475276+00:00",
+  "LastChanged": "2023-09-15T17:57:47.1921826+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:04:48.7963396+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.8270886+00:00",
-  "LastUpdate_Ratings": "2023-09-15T16:58:34.1851117+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:06:23.147724+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:57:47.1921832+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:04:48.796434+00:00"
 }

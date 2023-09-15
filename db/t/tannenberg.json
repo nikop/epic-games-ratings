@@ -5,7 +5,7 @@
   "Ranking_Rating": 721,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 173,
-  "Ranking_EOS_Progress": 69,
+  "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 108,
@@ -3368,7 +3368,7 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 130558,
+  "EOS_Progressed": 130567,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 0,
@@ -19903,6 +19903,11 @@
       "Time": "2023-09-15T17:08:53.6783135+00:00",
       "NumProgressed": 130558,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-09-15T18:06:36.7587466+00:00",
+      "NumProgressed": 130567,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 67,
@@ -19914,7 +19919,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 88779
+      "UsersEstimate": 88786
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -19922,7 +19927,7 @@
       "Name": "Anyone Else?",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 49612
+      "UsersEstimate": 49615
     },
     {
       "ID": "TANNENBERG_ACH_ATLEAST_THIS_WAY_I_CAN_WIN",
@@ -19930,7 +19935,7 @@
       "Name": "At Least This Way I Can Win...",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 22195
+      "UsersEstimate": 22196
     },
     {
       "ID": "TANNENBERG_ACH_BEFORE_THE_LEAVES_FALL",
@@ -19938,7 +19943,7 @@
       "Name": "Before the Leaves Fall",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 13056
+      "UsersEstimate": 13057
     },
     {
       "ID": "TANNENBERG_ACH_BOSSING_AROUND",
@@ -19946,7 +19951,7 @@
       "Name": "Bossing Around",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 58751
+      "UsersEstimate": 58755
     },
     {
       "ID": "TANNENBERG_ACH_BUTCHER",
@@ -19954,7 +19959,7 @@
       "Name": "Butcher",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15667
+      "UsersEstimate": 15668
     },
     {
       "ID": "TANNENBERG_ACH_CHEEKI_BREEKI",
@@ -19978,7 +19983,7 @@
       "Name": "Close Call",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13056
+      "UsersEstimate": 13057
     },
     {
       "ID": "TANNENBERG_ACH_COMEBACK",
@@ -19986,7 +19991,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 107058
+      "UsersEstimate": 107065
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -20002,7 +20007,7 @@
       "Name": "Democracy Works!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 26112
+      "UsersEstimate": 26113
     },
     {
       "ID": "TANNENBERG_ACH_DEVELOPERS_DEVELOPERS_DEVELOPERS_DEVELOPERS",
@@ -20010,7 +20015,7 @@
       "Name": "Developers, Developers, Developers, Developers!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 20889
+      "UsersEstimate": 20891
     },
     {
       "ID": "TANNENBERG_ACH_EQUALITY_FOR_ALL",
@@ -20018,7 +20023,7 @@
       "Name": "Equality For All",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9139
+      "UsersEstimate": 9140
     },
     {
       "ID": "TANNENBERG_ACH_EXPRESS_TO_PETROGRAD",
@@ -20034,7 +20039,7 @@
       "Name": "Fog of War",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 53529
+      "UsersEstimate": 53532
     },
     {
       "ID": "TANNENBERG_ACH_FORWARD_OBSERVER",
@@ -20042,7 +20047,7 @@
       "Name": "Forward Observer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 67890
+      "UsersEstimate": 67895
     },
     {
       "ID": "TANNENBERG_ACH_FOR_THE_EMPEROR",
@@ -20074,7 +20079,7 @@
       "Name": "Frostbite",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 58751
+      "UsersEstimate": 58755
     },
     {
       "ID": "TANNENBERG_ACH_GAVRILO_PRINCIP",
@@ -20082,7 +20087,7 @@
       "Name": "Gavrilo Princip",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 35251
+      "UsersEstimate": 35253
     },
     {
       "ID": "TANNENBERG_ACH_GOTT_MIT_UNS",
@@ -20090,7 +20095,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "TANNENBERG_ACH_HAWK_EYE",
@@ -20106,7 +20111,7 @@
       "Name": "H\u00F6tzendorf",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 9139
+      "UsersEstimate": 9140
     },
     {
       "ID": "TANNENBERG_ACH_HYDRA",
@@ -20114,7 +20119,7 @@
       "Name": "Hydra",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 47001
+      "UsersEstimate": 47004
     },
     {
       "ID": "TANNENBERG_ACH_IMMOVABLE_OBJECT",
@@ -20122,7 +20127,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 116197
+      "UsersEstimate": 116205
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -20130,7 +20135,7 @@
       "Name": "Indivisibiliter ac Inseparabiliter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "TANNENBERG_ACH_INFORMATION_IS_KEY",
@@ -20138,7 +20143,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 104446
+      "UsersEstimate": 104454
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -20146,7 +20151,7 @@
       "Name": "I\u0027ve Seen It All",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 23500
+      "UsersEstimate": 23502
     },
     {
       "ID": "TANNENBERG_ACH_KESSELSCHLACHT",
@@ -20154,7 +20159,7 @@
       "Name": "Kesselschlacht",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 28723
+      "UsersEstimate": 28725
     },
     {
       "ID": "TANNENBERG_ACH_LEAD_HARVEST",
@@ -20162,7 +20167,7 @@
       "Name": "Lead Harvest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 32640
+      "UsersEstimate": 32642
     },
     {
       "ID": "TANNENBERG_ACH_LEEROY",
@@ -20170,7 +20175,7 @@
       "Name": "Leeroy",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 43084
+      "UsersEstimate": 43087
     },
     {
       "ID": "TANNENBERG_ACH_LIVING_ON_THE_EDGE",
@@ -20178,7 +20183,7 @@
       "Name": "Living on the Edge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "TANNENBERG_ACH_LOST_BATALLION",
@@ -20186,7 +20191,7 @@
       "Name": "Lost Batallion",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 43084
+      "UsersEstimate": 43087
     },
     {
       "ID": "TANNENBERG_ACH_LUCKY_SHOT",
@@ -20194,7 +20199,7 @@
       "Name": "Lucky Shot",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 69196
+      "UsersEstimate": 69201
     },
     {
       "ID": "TANNENBERG_ACH_NA_NOZH",
@@ -20210,7 +20215,7 @@
       "Name": "Night Owl",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 57446
+      "UsersEstimate": 57449
     },
     {
       "ID": "TANNENBERG_ACH_OOPS",
@@ -20218,7 +20223,7 @@
       "Name": "Oops!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 22195
+      "UsersEstimate": 22196
     },
     {
       "ID": "TANNENBERG_ACH_OVERACHIEVER",
@@ -20250,7 +20255,7 @@
       "Name": "Pinpoint",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13056
+      "UsersEstimate": 13057
     },
     {
       "ID": "TANNENBERG_ACH_PULCEJATIES_ZEM",
@@ -20274,7 +20279,7 @@
       "Name": "Rasputin",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 50918
+      "UsersEstimate": 50921
     },
     {
       "ID": "TANNENBERG_ACH_RING_RING",
@@ -20282,7 +20287,7 @@
       "Name": "Ring Ring!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 67890
+      "UsersEstimate": 67895
     },
     {
       "ID": "TANNENBERG_ACH_ROAD_TO_BERLIN",
@@ -20306,7 +20311,7 @@
       "Name": "Skynet Confirmed",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 30028
+      "UsersEstimate": 30030
     },
     {
       "ID": "TANNENBERG_ACH_STEADY_SUPPLY",
@@ -20314,7 +20319,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 78335
+      "UsersEstimate": 78340
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -20322,7 +20327,7 @@
       "Name": "Strength in Numbers",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 57446
+      "UsersEstimate": 57449
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD",
@@ -20330,7 +20335,7 @@
       "Name": "Stronghold",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 45695
+      "UsersEstimate": 45698
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD_DENIED",
@@ -20338,7 +20343,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 50918
+      "UsersEstimate": 50921
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -20346,7 +20351,7 @@
       "Name": "Switch, Please!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 24806
+      "UsersEstimate": 24808
     },
     {
       "ID": "TANNENBERG_ACH_S_NAMI_BOG",
@@ -20370,7 +20375,7 @@
       "Name": "Tannenberg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11750
+      "UsersEstimate": 11751
     },
     {
       "ID": "TANNENBERG_ACH_THIS_BELONGS_TO_US_NOW",
@@ -20378,7 +20383,7 @@
       "Name": "This Belongs to Us Now",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 47001
+      "UsersEstimate": 47004
     },
     {
       "ID": "TANNENBERG_ACH_THIS_IS_MY_MACHINE_GUN",
@@ -20386,7 +20391,7 @@
       "Name": "This is MY Machine Gun!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 41779
+      "UsersEstimate": 41781
     },
     {
       "ID": "TANNENBERG_ACH_TOGETHER_AS_ONE",
@@ -20394,7 +20399,7 @@
       "Name": "Together As One",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 40473
+      "UsersEstimate": 40476
     },
     {
       "ID": "TANNENBERG_ACH_TOURIST",
@@ -20402,7 +20407,7 @@
       "Name": "Tourist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 23500
+      "UsersEstimate": 23502
     },
     {
       "ID": "TANNENBERG_ACH_TO_ARMS_TO_ARMS",
@@ -20418,7 +20423,7 @@
       "Name": "Unlucky",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 92696
+      "UsersEstimate": 92703
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -20426,7 +20431,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 84863
+      "UsersEstimate": 84869
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -20449,15 +20454,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 130558,
+      "Progressed": 130567,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-09-15T12:00:40.8948779+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:08:53.6783129+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:06:36.7587461+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:12.3364947+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:01:45.1986871+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:08:53.6784859+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:59:59.1641783+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:06:36.7589153+00:00"
 }

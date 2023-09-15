@@ -2248,9 +2248,9 @@
       "ID": "ID_26_MOVIE_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Movie Maniac",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -2336,8 +2336,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:03:50.7410357+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:02:19.347334+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.7477215+00:00",
-  "LastUpdate_Ratings": "2023-09-15T16:57:37.7341792+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:03:50.7410996+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:57:03.4290603+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:02:19.3473773+00:00"
 }

@@ -757,9 +757,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 39272,
+  "EOS_Progressed": 39278,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 779,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17257,6 +17257,11 @@
       "Time": "2023-09-15T17:07:57.8502619+00:00",
       "NumProgressed": 39272,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T18:05:56.7172676+00:00",
+      "NumProgressed": 39278,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -17292,7 +17297,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "distance500000",
@@ -17300,7 +17305,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "goals10",
@@ -17308,7 +17313,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10211
+      "UsersEstimate": 10212
     },
     {
       "ID": "goals180",
@@ -17324,7 +17329,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3534
+      "UsersEstimate": 3535
     },
     {
       "ID": "goals75",
@@ -17332,7 +17337,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "hoistthemainsail",
@@ -17348,7 +17353,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "journeyer",
@@ -17388,7 +17393,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "novice",
@@ -17412,7 +17417,7 @@
       "Name": "Unlock Izel",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "playerMaya",
@@ -17452,7 +17457,7 @@
       "Name": "Human Flight",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "pro",
@@ -17476,7 +17481,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10211
+      "UsersEstimate": 10212
     },
     {
       "ID": "sandboarder",
@@ -17492,7 +17497,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "ultimate",
@@ -17508,7 +17513,7 @@
       "Name": "Here Comes Felipe",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "unlockfinal",
@@ -17532,7 +17537,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "unlockpaz",
@@ -17579,15 +17584,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 39272,
+      "Progressed": 39278,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-12T18:58:26.6680109+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:07:57.8502613+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:05:56.7172671+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.6421316+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:00:10.4610909+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:07:57.8503968+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:58:53.0448843+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:05:56.717386+00:00"
 }

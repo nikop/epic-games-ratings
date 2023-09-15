@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -166,9 +166,9 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_CLARITY",
@@ -214,9 +214,9 @@
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_JIGSAW",
@@ -246,9 +246,9 @@
       "ID": "ACH_MORGENGRAUEN",
       "SetID": "88d7anj",
       "Name": "Morgengrauen",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -262,9 +262,9 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 24,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_PAIN",
@@ -286,9 +286,9 @@
       "ID": "ACH_PATHOFDESPAIR",
       "SetID": "88d7anj",
       "Name": "Path of Despair",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -348,8 +348,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:06:48.3664247+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:05:06.7832363+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.6150442+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:00:03.1794999+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:06:48.3664485+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:58:46.5675823+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:05:06.7832586+00:00"
 }

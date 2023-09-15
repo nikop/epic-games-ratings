@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6046,7 +6046,7 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136207,
+  "EOS_Progressed": 136210,
   "EOS_Completed": 151,
   "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 4,
@@ -21286,6 +21286,11 @@
       "Time": "2023-09-15T17:03:44.0679821+00:00",
       "NumProgressed": 136207,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-15T18:02:14.466423+00:00",
+      "NumProgressed": 136210,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21559,9 +21564,9 @@
       "ID": "craft01",
       "SetID": "anfd17p",
       "Name": "Disintermediation",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1362
+      "UsersEstimate": 2724
     },
     {
       "ID": "craft02",
@@ -22192,15 +22197,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136207,
+      "Progressed": 136210,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-15T15:57:59.161521+00:00",
-  "LastChanged_Achievements": "2023-09-15T17:03:44.0679815+00:00",
+  "LastChanged_Achievements": "2023-09-15T18:02:14.4664226+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-15T16:58:34.9163705+00:00",
-  "LastUpdate_Achievements": "2023-09-15T17:03:44.0683154+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:57:47.569959+00:00",
+  "LastUpdate_Achievements": "2023-09-15T18:02:14.4667417+00:00"
 }

@@ -28,7 +28,7 @@
 | Pathfinder | 5.00% | ~8 |
 | Supersoldier | 4.00% | ~7 |
 | Outdoor Decorator | 4.00% | ~7 |
-| Training Camp | 3.00% | ~5 |
+| Training Camp | 4.00% | ~7 |
 | Tear Down the Wall! | 2.00% | ~3 |
 | Economist | 2.00% | ~3 |
 | No News is Good News | 2.00% | ~3 |

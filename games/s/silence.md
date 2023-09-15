@@ -23,13 +23,13 @@
 | Handyman | 23.00% | ~26 |
 | Shadow on the wall | 22.00% | ~25 |
 | Mirror mirror on the wall... | 22.00% | ~25 |
+| Fastidious Clown | 21.00% | ~24 |
 | Pacifist | 20.00% | ~23 |
-| Fastidious Clown | 20.00% | ~23 |
 | It's not easy being green! | 19.00% | ~22 |
 | Home is where the heart is | 19.00% | ~22 |
 | Master of Thermodynamics | 16.00% | ~18 |
 | Death is a part of life | 16.00% | ~18 |
-| Unfullfilled dreams | 13.00% | ~15 |
+| Unfullfilled dreams | 14.00% | ~16 |
 | To err is human... | 12.00% | ~14 |
 | Nothing can stop me | 11.00% | ~13 |
 | Mumbo Jumbo | 11.00% | ~13 |
@@ -43,10 +43,10 @@
 | Fartjokes! | 5.00% | ~6 |
 | Life is but a dream | 4.00% | ~5 |
 | Shut up clown! | 4.00% | ~5 |
+| The Green, the Fat, the Ugly | 3.00% | ~3 |
 | Checkmate in 8 moves | 3.00% | ~3 |
 | Summit attempt | 2.00% | ~2 |
 | Fine Listener | 2.00% | ~2 |
-| The Green, the Fat, the Ugly | 2.00% | ~2 |
 | Sherlock Holmes | 0.90% | ~1 |
 | Done. First! | 0.90% | ~1 |
 | Do not feed the fish! | 0.90% | ~1 |
