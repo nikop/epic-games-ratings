@@ -14,8 +14,8 @@
 | Chess ✔ | 11.00% | ~29 |
 | Master of Unlocking ✔ | 9.00% | ~24 |
 | Survival ✔ | 8.00% | ~21 |
+| Hospital ✔ | 8.00% | ~21 |
 | Thirst ✔ | 8.00% | ~21 |
-| Hospital ✔ | 7.00% | ~19 |
 | Alice ✔ | 6.00% | ~16 |
 | Antivirus ✔ | 6.00% | ~16 |
 | Betty ✔ | 6.00% | ~16 |

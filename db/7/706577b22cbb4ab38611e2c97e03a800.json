@@ -302,9 +302,9 @@
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "b50kim2",
       "Name": "MISSION 03",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -318,9 +318,9 @@
       "ID": "ACHIEVEMENT_AV_05",
       "SetID": "b50kim2",
       "Name": "MISSION 05",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_AV_06",
@@ -550,9 +550,9 @@
       "ID": "ACHIEVEMENT_RW_02",
       "SetID": "b50kim2",
       "Name": "RUNAWAY 02",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_RW_03",
@@ -693,8 +693,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:09:42.7386236+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:04:14.5343785+00:00",
   "LastUpdate_AppInfo": "2023-09-12T02:11:10.9088436+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:06:04.6178813+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:09:42.7386601+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:00:22.6974966+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:04:14.5344136+00:00"
 }

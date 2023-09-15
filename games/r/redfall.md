@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.52 (Ranked 987)  
+Rating: 3.52 (Ranked 988)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,7 +20,7 @@ Rating: 3.52 (Ranked 987)
 | Wounded Whispers | 0.50% | ~9 |
 | Catch and Release | 0.50% | ~9 |
 | Heart Attack | 0.50% | ~9 |
-| Neighborhood Revitalization | 0.30% | ~5 |
+| Neighborhood Revitalization | 0.40% | ~7 |
 | Bad Wiring | 0.30% | ~5 |
 | Sic Transit Umbra | 0.30% | ~5 |
 | Radio Silence | 0.30% | ~5 |

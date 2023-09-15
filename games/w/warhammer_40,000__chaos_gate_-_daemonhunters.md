@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Look Over There! | 5.00% | ~160 |
 | Executioner | 5.00% | ~160 |
 | Watch Where You Step... | 5.00% | ~160 |
-| Look Over There! | 4.00% | ~128 |
 | Not So Fast... | 4.00% | ~128 |
 | Purging Spree | 4.00% | ~128 |
 | An Ill Omen | 4.00% | ~128 |
@@ -38,10 +38,10 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 0.70% | ~22 |
 | Mind Like a Fortress | 0.60% | ~19 |
 | Preservationist | 0.60% | ~19 |
+| Patron of Deimos | 0.50% | ~16 |
 | For the Machine God | 0.50% | ~16 |
 | Engine Kill | 0.50% | ~16 |
 | Death Comes For All | 0.50% | ~16 |
-| Patron of Deimos | 0.40% | ~13 |
 | Harvest No More | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
 | Hands-On Research | 0.30% | ~10 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,190 (Ranked 165)  
+Progressed: 3,191 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-11 | 3,185 | 0 |
 | 2023-09-12 | 3,186 | 0 |
 | 2023-09-13 | 3,187 | 0 |
-| 2023-09-15 | 3,190 | 0 |
+| 2023-09-15 | 3,191 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
 Sum: 474 (Ranked 306)  

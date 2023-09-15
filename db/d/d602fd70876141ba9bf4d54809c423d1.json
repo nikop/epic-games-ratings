@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -464,6 +464,11 @@
       "Time": "2023-09-15T08:06:17.1400067+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T14:06:22.0584167+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -474,7 +479,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 28
     },
@@ -498,7 +503,7 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "ap8553i",
       "Name": "Two on Two",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -650,7 +655,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -1043,20 +1048,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:12:24.4080854+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:06:22.0584162+00:00",
   "LastUpdate_AppInfo": "2023-09-13T20:57:01.3403061+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:04:43.2246623+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:12:24.4081491+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:59:15.5281355+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:06:22.0584834+00:00"
 }

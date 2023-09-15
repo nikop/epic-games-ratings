@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1602,
+  "EOS_Progressed": 1603,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3644,6 +3644,11 @@
       "Time": "2023-09-14T19:03:45.2501624+00:00",
       "NumProgressed": 1602,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T14:03:45.6400672+00:00",
+      "NumProgressed": 1603,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3727,7 +3732,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3807,7 +3812,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -3829,9 +3834,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 529
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3847,7 +3852,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3879,7 +3884,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3903,7 +3908,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4038,7 +4043,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1602,
+      "Progressed": 1603,
       "Completed": 0
     }
   ],
@@ -4046,8 +4051,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-10T18:59:07.5245979+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:09:06.5977508+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:03:45.6400668+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.1992932+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:06:51.5701195+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:09:06.5977993+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:00:55.5061568+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:03:45.640117+00:00"
 }

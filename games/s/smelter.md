@@ -16,19 +16,20 @@
 | It's a Sign! | 30.00% | ~12 |
 | Just Some Improvements | 23.00% | ~9 |
 | A Little Extra Love | 20.00% | ~8 |
+| An Unexpected Visitor | 20.00% | ~8 |
 | Final Announcement | 20.00% | ~8 |
 | A New Strategy | 20.00% | ~8 |
 | My Precious Gems! | 18.00% | ~7 |
 | Isn't It Beautiful? | 18.00% | ~7 |
 | A Generous Leader | 18.00% | ~7 |
-| An Unexpected Visitor | 18.00% | ~7 |
+| Orcharion Boost | 15.00% | ~6 |
 | How Do You Like Them Apples? | 15.00% | ~6 |
 | A Terrible Way to Go | 15.00% | ~6 |
 | Dr. Dreinstein III | 13.00% | ~5 |
-| Orcharion Boost | 13.00% | ~5 |
+| Fishing for Fissures | 13.00% | ~5 |
 | Case Closed | 13.00% | ~5 |
 | Scheming Away | 10.00% | ~4 |
-| Fishing for Fissures | 10.00% | ~4 |
+| An Electrifying Personality | 10.00% | ~4 |
 | You did it? You did it! | 10.00% | ~4 |
 | All Beefed Up | 10.00% | ~4 |
 | Isn't It Grand? | 10.00% | ~4 |
@@ -36,6 +37,7 @@
 | What's Yours Is Mine | 10.00% | ~4 |
 | We're Breaking Up | 10.00% | ~4 |
 | Remains of the Rumbly Lands | 10.00% | ~4 |
+| He Who Smelt It Dealt It | 10.00% | ~4 |
 | Smelter's Got Your Back | 10.00% | ~4 |
 | A Wingman Falls | 10.00% | ~4 |
 | With a Little Help from My Friends | 10.00% | ~4 |
@@ -43,7 +45,6 @@
 | Keeping Things Tidy | 8.00% | ~3 |
 | Eremagu Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Eremagu Domain | 8.00% | ~3 |
-| An Electrifying Personality | 8.00% | ~3 |
 | Back for More? | 8.00% | ~3 |
 | Gurabi Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Gurabi Domain | 8.00% | ~3 |
@@ -52,7 +53,6 @@
 | Nutoro Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Nutoro Domain | 8.00% | ~3 |
 | Let the Undershell Flow | 8.00% | ~3 |
-| He Who Smelt It Dealt It | 8.00% | ~3 |
 | In Her Prime | 8.00% | ~3 |
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

@@ -35,7 +35,7 @@ Number of Ratings: 209  (23.09.2022)
 | Beat the big arena | 83.00% | ~1,857 |
 | Force Cube | 82.00% | ~1,834 |
 | Got Battery | 81.00% | ~1,812 |
-| Guard Distracted | 80.00% | ~1,790 |
+| Guard Distracted | 81.00% | ~1,812 |
 | Translocator | 80.00% | ~1,790 |
 | Inner Peace | 78.00% | ~1,745 |
 | Diamond Pickaxe | 77.00% | ~1,722 |

@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 52.00% | ~59 |
-| Chapter I | 50.00% | ~56 |
+| Fire in the... nevermind | 53.00% | ~60 |
+| Chapter I | 51.00% | ~58 |
 | Haute cuisine | 46.00% | ~52 |
-| I didn't do it! | 42.00% | ~47 |
-| Demolition expert | 36.00% | ~41 |
+| I didn't do it! | 41.00% | ~47 |
+| Demolition expert | 37.00% | ~42 |
 | Wooooooow! | 36.00% | ~41 |
 | Artistic fool | 35.00% | ~40 |
 | Keep away from children | 35.00% | ~40 |
-| Open up wide | 34.00% | ~38 |
+| Open up wide | 33.00% | ~38 |
 | Let the boot talk | 29.00% | ~33 |
 | Chapter II | 28.00% | ~32 |
-| Achoo!! | 27.00% | ~31 |
-| Chapter III | 26.00% | ~29 |
-| Like a moth in the Wind | 26.00% | ~29 |
+| Achoo!! | 26.00% | ~30 |
+| Chapter III | 25.00% | ~28 |
+| Like a moth in the Wind | 25.00% | ~28 |
+| Handyman | 23.00% | ~26 |
 | Bubblekillerfamily | 23.00% | ~26 |
 | Quite a buggy game | 22.00% | ~25 |
 | Shadow on the wall | 22.00% | ~25 |
-| Handyman | 22.00% | ~25 |
 | Mirror mirror on the wall... | 22.00% | ~25 |
 | Pacifist | 20.00% | ~23 |
 | Fastidious Clown | 20.00% | ~23 |
-| It's not easy being green! | 19.00% | ~21 |
-| Home is where the heart is | 19.00% | ~21 |
+| It's not easy being green! | 19.00% | ~22 |
+| Home is where the heart is | 19.00% | ~22 |
 | Master of Thermodynamics | 15.00% | ~17 |
 | Death is a part of life | 15.00% | ~17 |
 | Unfullfilled dreams | 13.00% | ~15 |
 | To err is human... | 12.00% | ~14 |
-| Nothing can stop me | 11.00% | ~12 |
-| Mumbo Jumbo | 11.00% | ~12 |
+| Nothing can stop me | 11.00% | ~13 |
+| Mumbo Jumbo | 11.00% | ~13 |
 | Useless but beautiful | 8.00% | ~9 |
 | Lollipop | 8.00% | ~9 |
 | Where there is life, there is hope | 8.00% | ~9 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.90% | ~1 |
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 342)  
+Progressed: 114 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-08-22 | 110 | 0 |
 | 2023-09-03 | 111 | 0 |
 | 2023-09-13 | 112 | 0 |
-| 2023-09-15 | 113 | 0 |
+| 2023-09-15 | 114 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

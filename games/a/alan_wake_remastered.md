@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,779 |
-| Let There Be Light | 33.00% | ~21,554 |
-| Float Like a Butterfly | 32.00% | ~20,901 |
-| Nordic Walking | 25.00% | ~16,329 |
-| Bright Falls' Finest | 25.00% | ~16,329 |
-| Under a Thin Layer of Skin | 22.00% | ~14,369 |
+| Follow the Light | 41.00% | ~26,780 |
+| Let There Be Light | 33.00% | ~21,555 |
+| Float Like a Butterfly | 32.00% | ~20,902 |
+| Nordic Walking | 25.00% | ~16,330 |
+| Bright Falls' Finest | 25.00% | ~16,330 |
+| Under a Thin Layer of Skin | 22.00% | ~14,370 |
 | Park Ranger | 18.00% | ~11,757 |
 | Paging Mr. Wake | 18.00% | ~11,757 |
 | Back! Back, I Say! | 17.00% | ~11,104 |
 | Finders Keepers | 17.00% | ~11,104 |
-| They're Heeeeeere! | 15.00% | ~9,797 |
-| Sound and Fury | 15.00% | ~9,797 |
-| Missed by a Mile | 15.00% | ~9,797 |
-| Damn Good Cup of Coffee | 15.00% | ~9,797 |
-| Wheels Within Wheels | 14.00% | ~9,144 |
-| The Six-Gun Scribe | 14.00% | ~9,144 |
+| They're Heeeeeere! | 15.00% | ~9,798 |
+| Sound and Fury | 15.00% | ~9,798 |
+| Missed by a Mile | 15.00% | ~9,798 |
+| Damn Good Cup of Coffee | 15.00% | ~9,798 |
+| Wheels Within Wheels | 14.00% | ~9,145 |
+| The Six-Gun Scribe | 14.00% | ~9,145 |
 | Heavy Metal | 13.00% | ~8,491 |
 | Iron Horse | 13.00% | ~8,491 |
 | Collateral Carnage | 13.00% | ~8,491 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 11.00% | ~7,185 |
 | Energized! | 11.00% | ~7,185 |
 | The Lady of the Light | 10.00% | ~6,532 |
-| What Light Through Yonder Window | 9.00% | ~5,878 |
-| Right of Way | 9.00% | ~5,878 |
+| What Light Through Yonder Window | 9.00% | ~5,879 |
+| Right of Way | 9.00% | ~5,879 |
 | Tornado Wrangler | 8.00% | ~5,225 |
 | A Friend in Need | 8.00% | ~2,303 |
 | Departure | 7.00% | ~4,572 |
@@ -46,16 +46,16 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 4.00% | ~2,613 |
 | If It Flies, It Burns | 4.00% | ~2,613 |
 | KBF-FM | 4.00% | ~2,613 |
-| Carny | 3.00% | ~1,959 |
-| Kill Your Darlings | 3.00% | ~863 |
-| Heartbreaker | 3.00% | ~863 |
+| Carny | 3.00% | ~1,960 |
+| Kill Your Darlings | 3.00% | ~864 |
+| Heartbreaker | 3.00% | ~864 |
 | Medical Opinions | 2.00% | ~1,306 |
 | Taken Season | 2.00% | ~1,306 |
 | An Idyllic Small Town | 2.00% | ~1,306 |
 | Couch Potato | 2.00% | ~1,306 |
 | Iron Will | 2.00% | ~576 |
 | Go Gentle Into That Good Light | 1.00% | ~288 |
-| Words Will Never Harm You | 0.70% | ~201 |
+| Words Will Never Harm You | 0.70% | ~202 |
 | Cardboard Companions | 0.60% | ~173 |
 | Fast and Furious | 0.50% | ~144 |
 | Creative Space | 0.50% | ~144 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,315 (Ranked 88)  
+Progressed: 65,318 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 65 (0.10%) (Ranked 221)
 | 2023-09-12 | 64,967 | 65 |
 | 2023-09-13 | 65,148 | 65 |
 | 2023-09-14 | 65,260 | 65 |
-| 2023-09-15 | 65,315 | 65 |
+| 2023-09-15 | 65,318 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

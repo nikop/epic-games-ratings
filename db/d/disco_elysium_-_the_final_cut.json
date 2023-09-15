@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1295,9 +1295,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127729,
+  "EOS_Progressed": 127740,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15985,6 +15985,11 @@
       "Time": "2023-09-15T13:12:28.0713203+00:00",
       "NumProgressed": 127729,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-15T14:06:24.6308856+00:00",
+      "NumProgressed": 127740,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16028,7 +16033,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22991
+      "UsersEstimate": 22993
     },
     {
       "ID": "ACH_COP_BAD",
@@ -16044,7 +16049,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11496
+      "UsersEstimate": 11497
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -16052,7 +16057,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30655
+      "UsersEstimate": 30658
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -16060,7 +16065,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "ACH_COP_DORK",
@@ -16076,7 +16081,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35764
+      "UsersEstimate": 35767
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16092,7 +16097,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -16100,7 +16105,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20437
+      "UsersEstimate": 20438
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -16108,7 +16113,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 26823
+      "UsersEstimate": 26825
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -16124,7 +16129,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16605
+      "UsersEstimate": 16606
     },
     {
       "ID": "ACH_COP_STAR",
@@ -16132,7 +16137,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20437
+      "UsersEstimate": 20438
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -16140,7 +16145,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "ACH_CUNO",
@@ -16156,7 +16161,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11496
+      "UsersEstimate": 11497
     },
     {
       "ID": "ACH_GLUTEN",
@@ -16212,7 +16217,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17882
+      "UsersEstimate": 17884
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -16276,7 +16281,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 17882
+      "UsersEstimate": 17884
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -16292,7 +16297,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -16315,15 +16320,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127729,
+      "Progressed": 127740,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-13T20:58:14.5797989+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:12:28.0713197+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:06:24.6308853+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:04:13.4058429+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:12:28.0714138+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:58:54.5742132+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:06:24.6309789+00:00"
 }

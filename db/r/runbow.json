@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249287,
+  "EOS_Progressed": 249288,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14079,6 +14079,11 @@
       "Time": "2023-09-15T12:06:37.0538801+00:00",
       "NumProgressed": 249287,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T14:05:49.9631314+00:00",
+      "NumProgressed": 249288,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14194,7 +14199,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49857
+      "UsersEstimate": 49858
     },
     {
       "ID": "didYourTime",
@@ -14266,7 +14271,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132122
+      "UsersEstimate": 132123
     },
     {
       "ID": "indegestible",
@@ -14457,7 +14462,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249287,
+      "Progressed": 249288,
       "Completed": 5
     }
   ],
@@ -14465,8 +14470,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:11:42.9931085+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:05:49.9631311+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.341728+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:04:13.7019331+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:11:42.9932067+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:58:54.7025767+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:05:49.9632257+00:00"
 }

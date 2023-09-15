@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1972,9 +1972,9 @@
       "ID": "GuardDistracted",
       "SetID": "5lok9mm",
       "Name": "Guard Distracted",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1812
     },
     {
       "ID": "HighJump",
@@ -2212,8 +2212,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-30T16:59:25.1228046+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:11:50.8073335+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:05:56.3157056+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.5185713+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:04:45.4649762+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:11:50.8073804+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:59:18.4705553+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:05:56.315748+00:00"
 }

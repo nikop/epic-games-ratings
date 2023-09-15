@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -799,9 +799,9 @@
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -1023,9 +1023,9 @@
       "ID": "ACHIEVEMENT_ID_5",
       "SetID": "c504de6",
       "Name": "Desert Rat",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ID_6",
@@ -1070,8 +1070,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:12:55.5643462+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:06:46.9815014+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.5181295+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:03:08.7626869+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:12:55.5643812+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:58:02.1326283+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:06:46.9815447+00:00"
 }

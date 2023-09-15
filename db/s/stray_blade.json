@@ -649,9 +649,9 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
@@ -705,9 +705,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -768,8 +768,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:13:41.1887439+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:07:22.2601061+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.5901526+00:00",
-  "LastUpdate_Ratings": "2023-09-15T12:02:23.3472765+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:13:41.1887777+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:56:57.2479264+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:07:22.2601378+00:00"
 }

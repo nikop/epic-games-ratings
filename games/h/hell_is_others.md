@@ -5,21 +5,21 @@ Rating: 4.42 (Ranked 678)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,437 |
+| Survivor | 31.00% | ~79,438 |
 | Predator I | 22.00% | ~56,375 |
 | Fixer I | 10.00% | ~25,625 |
 | A week in Century City | 10.00% | ~25,625 |
-| The Wait | 7.00% | ~17,937 |
+| The Wait | 7.00% | ~17,938 |
 | Green thumb I | 6.00% | ~15,375 |
 | Cleaning Company | 6.00% | ~15,375 |
-| Well-oiled machine | 5.00% | ~12,812 |
-| Saver I | 5.00% | ~12,812 |
+| Well-oiled machine | 5.00% | ~12,813 |
+| Saver I | 5.00% | ~12,813 |
 | The Ascent | 4.00% | ~10,250 |
 | Pacifist | 4.00% | ~10,250 |
 | Vandalism | 4.00% | ~10,250 |
 | Capitalist I | 4.00% | ~10,250 |
-| Fixer II | 3.00% | ~7,687 |
-| Adrenaline | 3.00% | ~7,687 |
+| Fixer II | 3.00% | ~7,688 |
+| Adrenaline | 3.00% | ~7,688 |
 | By a hair | 2.00% | ~5,125 |
 | It took a while | 2.00% | ~5,125 |
 | Samurai | 2.00% | ~5,125 |
@@ -27,17 +27,17 @@ Rating: 4.42 (Ranked 678)
 | Predator II | 2.00% | ~5,125 |
 | Truffle Dog | 2.00% | ~5,125 |
 | A month in Century City | 2.00% | ~5,125 |
-| The Strengthening | 1.00% | ~2,562 |
-| Saver II | 1.00% | ~2,562 |
-| It's the last one, I swear | 1.00% | ~2,562 |
-| Botanist | 1.00% | ~2,562 |
-| Green thumb II | 1.00% | ~2,562 |
-| Don't try this at home | 1.00% | ~2,562 |
-| Bricklayer | 1.00% | ~2,562 |
-| Run the Economy | 1.00% | ~2,562 |
+| The Strengthening | 1.00% | ~2,563 |
+| Saver II | 1.00% | ~2,563 |
+| It's the last one, I swear | 1.00% | ~2,563 |
+| Botanist | 1.00% | ~2,563 |
+| Green thumb II | 1.00% | ~2,563 |
+| Don't try this at home | 1.00% | ~2,563 |
+| Bricklayer | 1.00% | ~2,563 |
+| Run the Economy | 1.00% | ~2,563 |
 | Committed Relationship | 0.80% | ~2,050 |
 | Number 1 | 0.70% | ~1,794 |
-| Interior designer | 0.60% | ~1,537 |
+| Interior designer | 0.60% | ~1,538 |
 | The Gamble | 0.50% | ~1,281 |
 | The Descent | 0.50% | ~1,281 |
 | A major purchase | 0.50% | ~1,281 |
@@ -48,9 +48,9 @@ Rating: 4.42 (Ranked 678)
 | Fixer III | 0.30% | ~769 |
 | AML questionnaire | 0.30% | ~769 |
 | Heartbreaker | 0.30% | ~769 |
-| Workhorse | 0.20% | ~512 |
-| Homerun | 0.20% | ~512 |
-| A season in Century City | 0.20% | ~512 |
+| Workhorse | 0.20% | ~513 |
+| Homerun | 0.20% | ~513 |
+| A season in Century City | 0.20% | ~513 |
 | Saver III | 0.10% | ~256 |
 | Collector | 0.10% | ~256 |
 | Mansion | 0.10% | ~256 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 678)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,248 (Ranked 47)  
+Progressed: 256,251 (Ranked 47)  
 Completed: 3 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 3 (0.00%) (Ranked 275)
 | 2023-09-12 | 256,165 | 3 |
 | 2023-09-13 | 256,198 | 3 |
 | 2023-09-14 | 256,223 | 3 |
-| 2023-09-15 | 256,248 | 3 |
+| 2023-09-15 | 256,251 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 37  (Ranked 436)  
 Sum: 255 (Ranked 357)  

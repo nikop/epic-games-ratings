@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1011,9 +1011,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 131
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1051,9 +1051,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 204
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1331,9 +1331,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -1378,8 +1378,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:12:53.4084414+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:06:45.432415+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:03:18.1055045+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:12:53.4084876+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:58:11.8412198+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:06:45.4324536+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -899,9 +899,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "Compiling",
@@ -931,9 +931,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "Fusses",
@@ -971,17 +971,17 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 70,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "SecretRoom",
@@ -1010,8 +1010,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:12:18.1759241+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:06:17.2357158+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:05:49.4338938+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:12:18.1759382+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:00:10.2254499+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:06:17.2357292+00:00"
 }

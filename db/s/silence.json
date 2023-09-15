@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -157,6 +157,11 @@
       "Time": "2023-09-15T12:03:48.2234738+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T14:03:33.9614008+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -272,7 +277,7 @@
       "Name": "Nothing can stop me",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "1001_achv_shadowplay",
@@ -294,7 +299,7 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -302,33 +307,33 @@
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "1006_achv_fixbomb",
       "SetID": "dhn82m5",
       "Name": "Handyman",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "1006_achv_pacifist",
@@ -350,7 +355,7 @@
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -462,9 +467,9 @@
       "ID": "3004_achv_sneeze",
       "SetID": "dhn82m5",
       "Name": "Achoo!!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -480,7 +485,7 @@
       "Name": "Mumbo Jumbo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "3014_achv_sendspot",
@@ -488,7 +493,7 @@
       "Name": "It\u0027s not easy being green!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "3014_achv_shootgate",
@@ -502,17 +507,17 @@
       "ID": "3017_achv_chapter3",
       "SetID": "dhn82m5",
       "Name": "Chapter III",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "3017_achv_flycloud",
       "SetID": "dhn82m5",
       "Name": "Like a moth in the Wind",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "4004_achv_home",
@@ -520,7 +525,7 @@
       "Name": "Home is where the heart is",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "4004_achv_mirror",
@@ -535,7 +540,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 0
     }
   ],
@@ -543,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:08:51.5238394+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:03:33.9614004+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:02.5979745+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:04:46.8258898+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:08:51.5238721+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:59:20.0895771+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:03:33.9614335+00:00"
 }

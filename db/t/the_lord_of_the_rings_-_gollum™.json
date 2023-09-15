@@ -1283,9 +1283,9 @@
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "Chapter6",
@@ -1514,8 +1514,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:11:07.2033507+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:05:21.7591792+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.8512741+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:07:33.359384+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:11:07.2033797+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:02:15.4509805+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:05:21.7592059+00:00"
 }

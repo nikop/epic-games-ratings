@@ -2,12 +2,12 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 216,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -455,8 +455,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:08:42.0712926+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:03:26.5552659+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:35.9218677+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:04:13.8923681+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:08:42.0712954+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:58:54.8290829+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:03:26.5552707+00:00"
 }

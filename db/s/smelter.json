@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -180,17 +180,17 @@
       "ID": "SMELTER_EREMAGU_UPGRADES",
       "SetID": "1g58k92",
       "Name": "An Electrifying Personality",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_FARM_BONUS",
       "SetID": "1g58k92",
       "Name": "Orcharion Boost",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SMELTER_FELZAPPER",
@@ -212,9 +212,9 @@
       "ID": "SMELTER_FISSURES",
       "SetID": "1g58k92",
       "Name": "Fishing for Fissures",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_GAME_CLEARED",
@@ -380,9 +380,9 @@
       "ID": "SMELTER_RIVEL1",
       "SetID": "1g58k92",
       "Name": "An Unexpected Visitor",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SMELTER_RIVEL2",
@@ -436,9 +436,9 @@
       "ID": "SMELTER_SMELT_PART2",
       "SetID": "1g58k92",
       "Name": "He Who Smelt It Dealt It",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_SPIRE",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:11:19.4199687+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:05:31.3838334+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:15.7665363+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:03:59.0948663+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:11:19.4200045+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:58:44.2428264+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:05:31.3838689+00:00"
 }

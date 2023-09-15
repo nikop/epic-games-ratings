@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -516,6 +516,11 @@
       "Time": "2023-09-15T01:48:14.9152603+00:00",
       "NumProgressed": 120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T14:05:52.2348235+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -528,7 +533,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -558,15 +563,15 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
       "UsersEstimate": 62
     },
@@ -606,7 +611,7 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
       "UsersEstimate": 56
     },
@@ -614,9 +619,9 @@
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Picky Eater",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "NOT_FAINT_HOUSEWARMING",
@@ -646,9 +651,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -656,7 +661,7 @@
       "Name": "Sleepyhead",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -670,7 +675,7 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 50,
       "UsersEstimate": 86
     },
@@ -687,14 +692,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:11:45.4857218+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:05:52.2348225+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:06:45.4240902+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:11:45.4857351+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:00:51.2325737+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:05:52.2348584+00:00"
 }

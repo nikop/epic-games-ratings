@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -720,9 +720,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3190,
+  "EOS_Progressed": 3191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3305,6 +3305,11 @@
       "Time": "2023-09-15T12:06:07.8803417+00:00",
       "NumProgressed": 3190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T14:05:25.4309528+00:00",
+      "NumProgressed": 3191,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3330,9 +3335,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 160
     },
     {
       "ID": "BloodAndIron",
@@ -3378,9 +3383,9 @@
       "ID": "CompletedAllShipUpgrades",
       "SetID": "3jha1np",
       "Name": "Patron of Deimos",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "Dominus",
@@ -3859,21 +3864,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3190,
+      "Progressed": 3191,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3190,
+      "Progressed": 3191,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-15T13:11:11.8796502+00:00",
+  "LastChanged_Achievements": "2023-09-15T14:05:25.4309524+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:06.3915871+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:03:23.8824448+00:00",
-  "LastUpdate_Achievements": "2023-09-15T13:11:11.879719+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:58:17.1363421+00:00",
+  "LastUpdate_Achievements": "2023-09-15T14:05:25.4310195+00:00"
 }

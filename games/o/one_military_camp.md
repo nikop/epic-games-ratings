@@ -11,13 +11,13 @@
 | There's something in those trees | 11.00% | ~18 |
 | Indebted | 11.00% | ~18 |
 | Green Energy | 11.00% | ~18 |
+| Desert Rat | 10.00% | ~16 |
 | Desert Power | 9.00% | ~15 |
-| Desert Rat | 9.00% | ~15 |
+| Health Care | 8.00% | ~13 |
 | Fuel Tycoon | 8.00% | ~13 |
 | Ammo Tycoon | 8.00% | ~13 |
 | Jantine: the Misfortunes of Evil | 7.00% | ~11 |
 | Perfect Soldier | 7.00% | ~11 |
-| Health Care | 7.00% | ~11 |
 | Good payer | 7.00% | ~11 |
 | Food Tycoon | 7.00% | ~11 |
 | Self-sufficient | 6.00% | ~10 |
