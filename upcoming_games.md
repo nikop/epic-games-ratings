@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Spinner Invaders](games/7/76917f4859d54d499bb1660d5347de6c.md) | 2023-09-15 | - |  | - | - |
 | [Inside Soccer](games/6/65e4752cd52f4294aca9f238fb056c22.md) | 2023-09-15 | - |  | - | - |
 | [Tornado](games/1/16c70af19f5741d183d8a943b5a13100.md) | 2023-09-15 | - |  | - | - |
 | [Car Mechanic - City Driving](games/3/3582d65783144a76a49256c3ac01444d.md) | 2023-09-17 | - |  | - | - |

@@ -24,18 +24,18 @@
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
-| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
+| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.97% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.34% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.12% |
 | 30 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.82% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 8.63% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 8.61% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 33 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.33% |
-| 35 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.00% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
+| 34 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.00% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
+| 36 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.69% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.32% |
@@ -102,9 +102,9 @@
 | 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
-| 103 | [Somerville](games/s/somerville.md) | 1.71% |
-| 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
-| 105 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.66% |
+| 103 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.74% |
+| 104 | [Somerville](games/s/somerville.md) | 1.71% |
+| 105 | [Five Dates](games/f/five_dates.md) | 1.67% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.55% |
 | 108 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.53% |
