@@ -19,21 +19,21 @@ Rating: 4.44 (Ranked 649)
 | Right through the middle | 57.00% | ~1,084 |
 | Poor Devil | 54.00% | ~1,027 |
 | Facility Manager | 53.00% | ~1,008 |
-| Producer | 50.00% | ~950 |
-| Apprentice | 41.00% | ~779 |
-| Bridge Builder | 41.00% | ~779 |
-| Access granted | 35.00% | ~665 |
-| Going once, going twice, sold | 35.00% | ~665 |
-| Bull and bear | 33.00% | ~627 |
-| Stoker | 32.00% | ~608 |
-| Full Steam ahead | 32.00% | ~608 |
-| All mine | 30.00% | ~570 |
-| Mole | 30.00% | ~570 |
-| Financial Shark | 30.00% | ~570 |
-| Socializer | 29.00% | ~551 |
-| General Manager | 27.00% | ~513 |
-| Country Life | 27.00% | ~513 |
-| Hostile Takeover | 25.00% | ~475 |
+| Producer | 50.00% | ~951 |
+| Apprentice | 41.00% | ~780 |
+| Bridge Builder | 41.00% | ~780 |
+| Access granted | 35.00% | ~666 |
+| Going once, going twice, sold | 35.00% | ~666 |
+| Bull and bear | 33.00% | ~628 |
+| Stoker | 32.00% | ~609 |
+| Full Steam ahead | 32.00% | ~609 |
+| All mine | 30.00% | ~571 |
+| Mole | 30.00% | ~571 |
+| Financial Shark | 30.00% | ~571 |
+| Socializer | 29.00% | ~552 |
+| General Manager | 27.00% | ~514 |
+| Country Life | 27.00% | ~514 |
+| Hostile Takeover | 25.00% | ~476 |
 | Seven at one stroke | 24.00% | ~456 |
 | Trailblazer | 21.00% | ~399 |
 | Traffic Junction | 21.00% | ~399 |
@@ -61,7 +61,7 @@ Rating: 4.44 (Ranked 649)
 | Three Cheers for Progress | 0.50% | ~10 |
 | United States | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,901 (Ranked 185)  
+Progressed: 1,902 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-11 | 1,890 | 0 |
 | 2023-09-13 | 1,895 | 0 |
 | 2023-09-14 | 1,896 | 0 |
-| 2023-09-15 | 1,901 | 0 |
+| 2023-09-15 | 1,902 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

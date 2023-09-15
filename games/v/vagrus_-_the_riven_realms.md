@@ -7,8 +7,8 @@
 | A Second Chance | 56.00% | ~80 |
 | Press-ganged | 40.00% | ~57 |
 | The Package | 25.00% | ~36 |
-| Randomized | 18.00% | ~26 |
 | Conquered | 18.00% | ~26 |
+| Randomized | 17.00% | ~24 |
 | Scribe | 9.00% | ~13 |
 | Tactician | 9.00% | ~13 |
 | Breached | 8.00% | ~11 |
@@ -26,17 +26,17 @@
 | Quartermaster | 4.00% | ~6 |
 | Strategist | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
-| Deputized | 4.00% | ~6 |
-| The Voice of Hereafter | 4.00% | ~6 |
-| Been There | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
-| Merchant | 4.00% | ~6 |
-| Trouble at Fort Larius | 4.00% | ~6 |
 | Supercargo | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
+| Deputized | 3.00% | ~4 |
+| The Voice of Hereafter | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |
+| Been There | 3.00% | ~4 |
 | Life... Finds a Way | 3.00% | ~4 |
+| Merchant | 3.00% | ~4 |
+| Trouble at Fort Larius | 3.00% | ~4 |
 | Unseen Patterns | 3.00% | ~4 |
 | Bounty Hunter | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 332)  
+Progressed: 143 (Ranked 332)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 138 | 0 |
 | 2023-09-13 | 140 | 0 |
 | 2023-09-14 | 142 | 0 |
+| 2023-09-15 | 143 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
@@ -7970,10 +7970,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 33323,
       "NumberOfAwardsMax": 5401
+    },
+    {
+      "Time": "2023-09-15T21:58:40.0271987+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 33327,
+      "NumberOfAwardsMax": 5401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33323,
+  "NumberOfAwards": 33327,
   "NumberOfAwardsMax": 5401,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7999,7 +8005,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4844
+      "Count": 4848
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8037,8 +8043,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-09-15T20:58:46.0070114+00:00",
+  "LastChanged": "2023-09-15T21:58:40.0271983+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:01.6586461+00:00",
-  "LastUpdate_Ratings": "2023-09-15T20:58:46.007012+00:00",
-  "LastUpdate_Achievements": "2023-09-15T21:06:33.3716625+00:00"
+  "LastUpdate_Ratings": "2023-09-15T21:58:40.0271994+00:00",
+  "LastUpdate_Achievements": "2023-09-15T22:06:43.7488293+00:00"
 }

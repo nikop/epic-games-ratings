@@ -8,8 +8,8 @@ Number of Ratings: 180  (23.09.2022)
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,273 |
 | First bus stop | 71.00% | ~1,174 |
+| First cargo item on board | 71.00% | ~1,174 |
 | First cargo item waiting | 71.00% | ~1,174 |
-| First cargo item on board | 70.00% | ~1,157 |
 | First passenger on board | 67.00% | ~1,108 |
 | First passenger waiting | 67.00% | ~1,108 |
 | First bus arrived | 66.00% | ~1,091 |

@@ -536,9 +536,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -703,8 +703,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-15T21:05:50.3138028+00:00",
+  "LastChanged_Achievements": "2023-09-15T22:05:58.7481199+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:01:09.6720392+00:00",
-  "LastUpdate_Achievements": "2023-09-15T21:05:50.3138214+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:00:59.6543755+00:00",
+  "LastUpdate_Achievements": "2023-09-15T22:05:58.7481448+00:00"
 }

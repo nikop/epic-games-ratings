@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -402,9 +402,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2865,
+  "EOS_Progressed": 2866,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
@@ -3237,6 +3237,11 @@
       "Time": "2023-09-15T20:04:13.9420768+00:00",
       "NumProgressed": 2865,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-15T22:03:43.6776068+00:00",
+      "NumProgressed": 2866,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 14,
@@ -3256,7 +3261,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -3296,7 +3301,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -3352,14 +3357,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2865,
+      "Progressed": 2866,
       "Completed": 114
     }
   ],
@@ -3367,8 +3372,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-09-08T11:57:12.3304907+00:00",
-  "LastChanged_Achievements": "2023-09-15T21:03:46.9467654+00:00",
+  "LastChanged_Achievements": "2023-09-15T22:03:43.6776059+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:11.471651+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:00:07.8520052+00:00",
-  "LastUpdate_Achievements": "2023-09-15T21:03:46.9468295+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:00:00.4495414+00:00",
+  "LastUpdate_Achievements": "2023-09-15T22:03:43.6776354+00:00"
 }

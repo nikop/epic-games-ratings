@@ -1588,9 +1588,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 436
     },
     {
       "ID": "AC09",
@@ -1901,8 +1901,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-15T21:05:41.1096502+00:00",
+  "LastChanged_Achievements": "2023-09-15T22:05:49.5698122+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:00:47.4795379+00:00",
-  "LastUpdate_Achievements": "2023-09-15T21:05:41.1096957+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:00:38.4143734+00:00",
+  "LastUpdate_Achievements": "2023-09-15T22:05:49.5698606+00:00"
 }

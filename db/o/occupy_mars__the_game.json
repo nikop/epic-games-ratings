@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1604,
+  "EOS_Progressed": 1605,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3654,6 +3654,11 @@
       "Time": "2023-09-15T18:03:38.1582088+00:00",
       "NumProgressed": 1604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T22:03:47.2695487+00:00",
+      "NumProgressed": 1605,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3785,7 +3790,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3841,7 +3846,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4048,7 +4053,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1604,
+      "Progressed": 1605,
       "Completed": 0
     }
   ],
@@ -4056,8 +4061,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-10T18:59:07.5245979+00:00",
-  "LastChanged_Achievements": "2023-09-15T21:03:50.2786085+00:00",
+  "LastChanged_Achievements": "2023-09-15T22:03:47.2695482+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.1992932+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:01:13.0183691+00:00",
-  "LastUpdate_Achievements": "2023-09-15T21:03:50.2787509+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:01:03.4660054+00:00",
+  "LastUpdate_Achievements": "2023-09-15T22:03:47.2696065+00:00"
 }

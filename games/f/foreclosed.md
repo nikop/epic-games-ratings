@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Through | 68.00% | ~70 |
-| Silent Overload | 59.00% | ~61 |
-| Symbiotic Weapon | 54.00% | ~56 |
-| A.I. Training | 49.00% | ~50 |
-| Sniper | 37.00% | ~38 |
+| Breaking Through | 69.00% | ~71 |
+| Silent Overload | 60.00% | ~62 |
+| Symbiotic Weapon | 55.00% | ~57 |
+| A.I. Training | 50.00% | ~52 |
+| Sniper | 38.00% | ~39 |
 | The Red Herring | 33.00% | ~34 |
 | Telekinesis | 28.00% | ~29 |
 | Sapper | 22.00% | ~23 |

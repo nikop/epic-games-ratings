@@ -6,29 +6,29 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 93.00% | ~443 |
-| Newbie Hero | 82.00% | ~390 |
-| Welcome to Sonic CD | 73.00% | ~347 |
-| Welcome to Sonic the Hedgehog 2 | 72.00% | ~343 |
+| Welcome to Sonic the Hedgehog | 93.00% | ~444 |
+| Newbie Hero | 82.00% | ~391 |
+| Welcome to Sonic CD | 73.00% | ~348 |
 | Welcome to Sonic 3 & Knuckles | 72.00% | ~343 |
+| Welcome to Sonic the Hedgehog 2 | 71.00% | ~339 |
 | Time Traveler | 68.00% | ~324 |
 | Ring Collector | 68.00% | ~324 |
 | Everyone's Hero | 64.00% | ~305 |
-| Miles "Tails" Prower | 61.00% | ~290 |
 | Easy Peasy with Shields | 60.00% | ~286 |
 | Gallant Spin Dash | 60.00% | ~286 |
 | Knuckles the Echidna | 60.00% | ~286 |
-| Bubbly Breath | 58.00% | ~276 |
-| Boss Rush Attempt | 53.00% | ~252 |
+| Miles "Tails" Prower | 60.00% | ~286 |
+| Bubbly Breath | 58.00% | ~277 |
+| Boss Rush Attempt | 53.00% | ~253 |
 | Cleared Sonic the Hedgehog | 50.00% | ~238 |
-| Super Sonic | 45.00% | ~214 |
-| Beware Stingers! | 44.00% | ~209 |
-| Very First Mission Clear! | 44.00% | ~209 |
+| Super Sonic | 45.00% | ~215 |
+| Beware Stingers! | 44.00% | ~210 |
+| Very First Mission Clear! | 44.00% | ~210 |
 | Shut Down Metal Sonic | 43.00% | ~205 |
 | Museum Time | 43.00% | ~205 |
 | Cleared Sonic the Hedgehog 2 | 42.00% | ~200 |
-| Beware Moto Bugs! | 41.00% | ~195 |
-| Cleared Sonic CD | 40.00% | ~190 |
+| Beware Moto Bugs! | 40.00% | ~191 |
+| Cleared Sonic CD | 40.00% | ~191 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 37.00% | ~176 |
 | Lucky Hedgehog | 31.00% | ~148 |
 | All Clear! | 31.00% | ~148 |
@@ -38,12 +38,12 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog Mission Master | 18.00% | ~86 |
 | Art Appreciator | 17.00% | ~81 |
 | Beware Rhinobots! | 16.00% | ~76 |
-| Sonic CD Mission Master | 15.00% | ~71 |
+| Sonic CD Mission Master | 15.00% | ~72 |
 | S3 & K Mission Master | 14.00% | ~67 |
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476 (Ranked 250)  
-Completed: 41 (8.61%) (Ranked 31)  
+Progressed: 477 (Ranked 250)  
+Completed: 41 (8.60%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 41 (8.61%) (Ranked 31)
 | 2023-09-12 | 467 | 41 |
 | 2023-09-13 | 469 | 41 |
 | 2023-09-14 | 471 | 41 |
-| 2023-09-15 | 476 | 41 |
+| 2023-09-15 | 477 | 41 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 313)  
 Sum: 128 (Ranked 406)  

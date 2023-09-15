@@ -6,42 +6,42 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 45.00% | ~31,453 |
-| To The Nines | 41.00% | ~28,657 |
-| Optimized | 36.00% | ~25,162 |
-| Performance Review | 35.00% | ~24,463 |
-| Making a Name | 34.00% | ~23,764 |
-| Tune Up | 32.00% | ~22,366 |
-| Wet Work | 31.00% | ~21,667 |
-| Landlord | 31.00% | ~21,667 |
-| The Side Job | 30.00% | ~20,968 |
-| Wrecking Ball | 27.00% | ~18,872 |
-| Food for Thought | 26.00% | ~18,173 |
-| Finders Keepers | 25.00% | ~17,474 |
-| A Young Empire | 25.00% | ~17,474 |
-| Work Ethic | 23.00% | ~16,076 |
-| Picking Fights | 19.00% | ~13,280 |
-| Quality Time | 18.00% | ~12,581 |
-| Power Players | 18.00% | ~12,581 |
-| Showdown | 16.00% | ~11,183 |
-| Et tu? | 16.00% | ~11,183 |
-| Took It to The Limit | 16.00% | ~11,183 |
-| Kitted Out | 14.00% | ~9,785 |
-| Masters of Santo Ileso | 12.00% | ~8,387 |
-| Hijacked | 11.00% | ~7,688 |
-| The Spins | 10.00% | ~6,990 |
-| The Mechanic | 10.00% | ~6,990 |
-| We could go home, or… | 7.00% | ~4,893 |
-| Challenge Accepted | 7.00% | ~4,893 |
-| A Golden Age | 7.00% | ~4,893 |
-| Closet Space | 7.00% | ~4,893 |
-| Producer Credit | 7.00% | ~2,907 |
-| Face Off | 6.00% | ~2,492 |
-| The Professional | 5.00% | ~3,495 |
-| Chaos Tamer | 5.00% | ~3,495 |
-| Untouchable | 5.00% | ~3,495 |
-| Free Refills | 5.00% | ~3,495 |
-| Smooth Moves | 5.00% | ~3,495 |
+| First F#@!ing Day | 45.00% | ~31,460 |
+| To The Nines | 41.00% | ~28,664 |
+| Optimized | 36.00% | ~25,168 |
+| Performance Review | 35.00% | ~24,469 |
+| Making a Name | 34.00% | ~23,770 |
+| Tune Up | 32.00% | ~22,372 |
+| Wet Work | 31.00% | ~21,673 |
+| Landlord | 31.00% | ~21,673 |
+| The Side Job | 30.00% | ~20,974 |
+| Wrecking Ball | 27.00% | ~18,876 |
+| Food for Thought | 26.00% | ~18,177 |
+| Finders Keepers | 25.00% | ~17,478 |
+| A Young Empire | 25.00% | ~17,478 |
+| Work Ethic | 23.00% | ~16,080 |
+| Picking Fights | 19.00% | ~13,283 |
+| Quality Time | 18.00% | ~12,584 |
+| Power Players | 18.00% | ~12,584 |
+| Showdown | 16.00% | ~11,186 |
+| Et tu? | 16.00% | ~11,186 |
+| Took It to The Limit | 16.00% | ~11,186 |
+| Kitted Out | 14.00% | ~9,788 |
+| Masters of Santo Ileso | 12.00% | ~8,389 |
+| Hijacked | 11.00% | ~7,690 |
+| The Spins | 10.00% | ~6,991 |
+| The Mechanic | 10.00% | ~6,991 |
+| We could go home, or… | 7.00% | ~4,894 |
+| Challenge Accepted | 7.00% | ~4,894 |
+| A Golden Age | 7.00% | ~4,894 |
+| Closet Space | 7.00% | ~4,894 |
+| Producer Credit | 7.00% | ~2,908 |
+| Face Off | 6.00% | ~2,493 |
+| The Professional | 5.00% | ~3,496 |
+| Chaos Tamer | 5.00% | ~3,496 |
+| Untouchable | 5.00% | ~3,496 |
+| Free Refills | 5.00% | ~3,496 |
+| Smooth Moves | 5.00% | ~3,496 |
 | Hazardous Heist | 5.00% | ~2,077 |
 | Neighborly | 4.00% | ~2,796 |
 | Prankster | 4.00% | ~2,796 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~140 |
 | Fiesta Time | 0.20% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,895 (Ranked 84)  
+Progressed: 69,912 (Ranked 84)  
 Completed: 48 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,10 +208,10 @@ Completed: 48 (0.07%) (Ranked 232)
 | 2023-09-12 | 68,841 | 47 |
 | 2023-09-13 | 69,168 | 47 |
 | 2023-09-14 | 69,523 | 47 |
-| 2023-09-15 | 69,895 | 48 |
+| 2023-09-15 | 69,912 | 48 |
 ## Awards
 Max (Extremely Fun): 1,065  (Ranked 141)  
-Sum: 8,629 (Ranked 97)  
+Sum: 8,631 (Ranked 97)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): 44
 | This game has Quickly Understood Controls | 1,037 |
 | This game is Highly Recommended | 1,001 |
 | This game is Great for Beginners | 998 |
-| This game has Diverse Characters | 995 |
+| This game has Diverse Characters | 997 |
 | This game has Amazing Characters | 983 |
 | This game is Relaxing | 981 |
 | This game has Amazing Storytelling | 969 |
@@ -403,3 +403,4 @@ Diff (max vs sum): 44
 | 2023-09-11 | 3.79 | - | 1,064 | 8,626 |
 | 2023-09-12 | 3.79 | - | 1,065 | 8,628 |
 | 2023-09-14 | 3.79 | - | 1,065 | 8,629 |
+| 2023-09-15 | 3.79 | - | 1,065 | 8,631 |

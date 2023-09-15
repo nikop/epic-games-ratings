@@ -3810,9 +3810,9 @@
       "ID": "achFirstCargoTransported",
       "SetID": "dgl390n",
       "Name": "First cargo item on board",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1174
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -4090,8 +4090,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-11T02:13:49.1784923+00:00",
-  "LastChanged_Achievements": "2023-09-15T21:04:43.1530975+00:00",
+  "LastChanged_Achievements": "2023-09-15T22:04:50.2332534+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.7877575+00:00",
-  "LastUpdate_Ratings": "2023-09-15T20:59:41.3055603+00:00",
-  "LastUpdate_Achievements": "2023-09-15T21:04:43.1531736+00:00"
+  "LastUpdate_Ratings": "2023-09-15T21:59:32.7260669+00:00",
+  "LastUpdate_Achievements": "2023-09-15T22:04:50.2333285+00:00"
 }

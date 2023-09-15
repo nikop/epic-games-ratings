@@ -34,8 +34,8 @@ Number of Ratings: 836  (23.09.2022)
 | War Never Changes | 19.00% | ~1,712 |
 | Friendly | 17.00% | ~1,532 |
 | Big Game Hunter | 17.00% | ~1,532 |
+| Around the World | 17.00% | ~1,532 |
 | Spreading Influence | 17.00% | ~1,532 |
-| Around the World | 16.00% | ~1,442 |
 | Bookworm | 15.00% | ~1,352 |
 | Famous Adventurer | 14.00% | ~1,262 |
 | Prepared for Anything | 13.00% | ~1,172 |

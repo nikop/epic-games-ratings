@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -646,7 +646,7 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 9945,
+  "EOS_Progressed": 9946,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -9481,6 +9481,11 @@
       "Time": "2023-09-15T21:07:10.5716875+00:00",
       "NumProgressed": 9945,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-15T22:07:11.9779427+00:00",
+      "NumProgressed": 9946,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9508,7 +9513,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH04",
@@ -9763,7 +9768,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9945,
+      "Progressed": 9946,
       "Completed": 56
     }
   ],
@@ -9771,8 +9776,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-13T17:57:32.0415645+00:00",
-  "LastChanged_Achievements": "2023-09-15T21:07:10.571687+00:00",
+  "LastChanged_Achievements": "2023-09-15T22:07:11.9779421+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-15T20:58:15.8995633+00:00",
-  "LastUpdate_Achievements": "2023-09-15T21:07:10.571767+00:00"
+  "LastUpdate_Ratings": "2023-09-15T21:58:08.8510454+00:00",
+  "LastUpdate_Achievements": "2023-09-15T22:07:11.9780262+00:00"
 }

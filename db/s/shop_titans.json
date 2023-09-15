@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6052,9 +6052,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136217,
+  "EOS_Progressed": 136220,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21307,6 +21307,11 @@
       "Time": "2023-09-15T21:03:08.3087863+00:00",
       "NumProgressed": 136217,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-15T22:02:23.9484526+00:00",
+      "NumProgressed": 136220,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -22004,9 +22009,9 @@
       "ID": "master05",
       "SetID": "anfd17p",
       "Name": "The Greatest Grind",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 272
     },
     {
       "ID": "masterpiece",
@@ -22213,15 +22218,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136217,
+      "Progressed": 136220,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-15T20:57:55.9321384+00:00",
-  "LastChanged_Achievements": "2023-09-15T21:03:08.3087858+00:00",
+  "LastChanged_Achievements": "2023-09-15T22:02:23.948452+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-15T20:57:55.9321391+00:00",
-  "LastUpdate_Achievements": "2023-09-15T21:03:08.3090408+00:00"
+  "LastUpdate_Ratings": "2023-09-15T21:57:51.6873988+00:00",
+  "LastUpdate_Achievements": "2023-09-15T22:02:23.9487178+00:00"
 }

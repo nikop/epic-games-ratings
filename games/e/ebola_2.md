@@ -7,7 +7,7 @@
 | Statue ✔ | 64.00% | ~179 |
 | Recluse ✔ | 35.00% | ~98 |
 | Witch ✔ | 22.00% | ~61 |
-| Scent of Meat ✔ | 20.00% | ~56 |
+| Scent of Meat ✔ | 21.00% | ~59 |
 | Survival ✔ | 3.00% | ~8 |
 | Voodoo ✔ | 0.00% | ~0 |
 | Light will show the truth ✔ | 0.00% | ~0 |
