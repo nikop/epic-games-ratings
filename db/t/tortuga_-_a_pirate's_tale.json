@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16199,
+  "EOS_Progressed": 16200,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -4441,6 +4441,11 @@
       "Time": "2023-09-15T13:08:19.4697037+00:00",
       "NumProgressed": 16199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T17:03:55.311339+00:00",
+      "NumProgressed": 16200,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4452,7 +4457,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15389
+      "UsersEstimate": 15390
     },
     {
       "ID": "ACH001",
@@ -4460,7 +4465,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14093
+      "UsersEstimate": 14094
     },
     {
       "ID": "ACH0010",
@@ -4548,7 +4553,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11663
+      "UsersEstimate": 11664
     },
     {
       "ID": "ACH0020",
@@ -4604,7 +4609,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8909
+      "UsersEstimate": 8910
     },
     {
       "ID": "ACH004",
@@ -4612,7 +4617,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14255
+      "UsersEstimate": 14256
     },
     {
       "ID": "ACH005",
@@ -4659,7 +4664,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16199,
+      "Progressed": 16200,
       "Completed": 0
     }
   ],
@@ -4667,8 +4672,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:03:05.2324671+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:03:55.3113382+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:47.5236295+00:00",
-  "LastUpdate_Ratings": "2023-09-15T16:00:04.569734+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:03:05.2325489+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:01:39.8576056+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:03:55.3114243+00:00"
 }

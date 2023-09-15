@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2348,9 +2348,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 794
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2397,8 +2397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:04:14.1791179+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:05:13.6329975+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:42.2600513+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:58:19.539245+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:04:14.179146+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:59:07.3625939+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:05:13.633024+00:00"
 }

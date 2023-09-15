@@ -5,19 +5,19 @@ Rating: 4.02 (Ranked 942)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,802 |
-| World Map | 79.00% | ~1,531 |
+| Victor | 93.00% | ~1,803 |
+| World Map | 79.00% | ~1,532 |
 | Temple of Eternals | 57.00% | ~1,105 |
 | Prestigious | 54.00% | ~1,047 |
 | Fellowship Power | 41.00% | ~795 |
 | Guild Power | 26.00% | ~504 |
-| Prestigious x10 | 22.00% | ~426 |
+| Prestigious x10 | 22.00% | ~427 |
 | The game is on | 21.00% | ~407 |
 | Exotic Merchant | 19.00% | ~368 |
-| Dragon Clicker | 17.00% | ~329 |
-| Full Party | 17.00% | ~329 |
-| Inspection | 17.00% | ~329 |
-| Miner Clicker | 17.00% | ~329 |
+| Dragon Clicker | 17.00% | ~330 |
+| Full Party | 17.00% | ~330 |
+| Inspection | 17.00% | ~330 |
+| Miner Clicker | 17.00% | ~330 |
 | Dragon Master | 15.00% | ~291 |
 | Enlightenment | 15.00% | ~291 |
 | Hero inspection | 15.00% | ~291 |
@@ -39,22 +39,22 @@ Rating: 4.02 (Ranked 942)
 | Frostfire Liberator | 10.00% | ~194 |
 | Moving Up The Ladder | 10.00% | ~194 |
 | Scroll Master | 10.00% | ~194 |
-| Here We Go Again | 9.00% | ~174 |
-| Master Enchanter | 9.00% | ~174 |
-| The father of Dragons | 9.00% | ~174 |
-| Trader | 9.00% | ~174 |
+| Here We Go Again | 9.00% | ~175 |
+| Master Enchanter | 9.00% | ~175 |
+| The father of Dragons | 9.00% | ~175 |
+| Trader | 9.00% | ~175 |
 | Crystal Mining | 8.00% | ~155 |
 | Dragon Slayer | 8.00% | ~155 |
 | Enchanting skill | 8.00% | ~155 |
 | Weekly Quest Completionist | 8.00% | ~155 |
 | Blueprint Upgrades | 7.00% | ~136 |
 | Engineer Mastery | 7.00% | ~136 |
-| Lock And Load | 7.00% | ~136 |
 | Sailor | 7.00% | ~136 |
 | The Expeditioner | 7.00% | ~136 |
 | Ancient Knowledge | 6.00% | ~116 |
 | How Do You Turn This On? | 6.00% | ~116 |
 | Legendary | 6.00% | ~116 |
+| Lock And Load | 6.00% | ~116 |
 | Missions Dedication | 6.00% | ~116 |
 | The Alchemist | 6.00% | ~116 |
 | Active Member | 5.00% | ~97 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 942)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,938 (Ranked 184)  
+Progressed: 1,939 (Ranked 184)  
 Completed: 2 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 2 (0.10%) (Ranked 221)
 | 2023-09-11 | 1,928 | 2 |
 | 2023-09-12 | 1,929 | 2 |
 | 2023-09-14 | 1,936 | 2 |
-| 2023-09-15 | 1,938 | 2 |
+| 2023-09-15 | 1,939 | 2 |
 ## Awards
 Max (Great for Beginners): 22  (Ranked 498)  
 Sum: 43 (Ranked 462)  

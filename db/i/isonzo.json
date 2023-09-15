@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6864,
+  "EOS_Progressed": 6865,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5397,6 +5397,11 @@
       "Time": "2023-09-15T16:03:12.3261701+00:00",
       "NumProgressed": 6864,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-15T17:04:05.2131478+00:00",
+      "NumProgressed": 6865,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5408,7 +5413,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -5416,7 +5421,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5424,7 +5429,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -5576,7 +5581,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -5600,7 +5605,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3776
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5656,7 +5661,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -5696,7 +5701,7 @@
       "Name": "The Italian Job",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -5736,7 +5741,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3776
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -5767,7 +5772,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6864,
+      "Progressed": 6865,
       "Completed": 8
     }
   ],
@@ -5775,8 +5780,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:03:12.3261695+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:04:05.2131472+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:57:35.1315934+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:03:12.3262818+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:58:06.6139038+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:04:05.2132797+00:00"
 }

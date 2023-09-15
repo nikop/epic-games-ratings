@@ -3,9 +3,9 @@
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 96,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.98,
+  "EOS_Completed_Percentage": 1.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -186,6 +186,11 @@
       "Time": "2023-09-14T22:06:59.4930151+00:00",
       "NumProgressed": 101,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-15T17:08:18.3491734+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -259,7 +264,7 @@
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 50
     },
@@ -275,7 +280,7 @@
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 38
     },
@@ -291,7 +296,7 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 34
     },
@@ -379,7 +384,7 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 29
     }
@@ -388,7 +393,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 2
     }
   ],
@@ -396,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:06:27.7407542+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:08:18.3491728+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:26.6499591+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:57:47.9201339+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:06:27.7407777+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:58:22.7417757+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:08:18.3491945+00:00"
 }

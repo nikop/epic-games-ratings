@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -964,9 +964,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256254,
+  "EOS_Progressed": 256255,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15939,6 +15939,11 @@
       "Time": "2023-09-15T16:03:34.0704292+00:00",
       "NumProgressed": 256254,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T17:04:33.1950745+00:00",
+      "NumProgressed": 256255,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -16054,7 +16059,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25625
+      "UsersEstimate": 25626
     },
     {
       "ID": "CreditLevel2",
@@ -16342,7 +16347,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25625
+      "UsersEstimate": 25626
     },
     {
       "ID": "ReachNDays2",
@@ -16397,7 +16402,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256254,
+      "Progressed": 256255,
       "Completed": 3
     }
   ],
@@ -16405,8 +16410,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-15T04:00:43.6238077+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:03:34.0704283+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:04:33.1950737+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.9065613+00:00",
-  "LastUpdate_Ratings": "2023-09-15T16:00:01.6822213+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:03:34.0705725+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:01:36.326788+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:04:33.1952201+00:00"
 }

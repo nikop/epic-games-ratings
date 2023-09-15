@@ -3,12 +3,12 @@
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
   "Ranking_Rating": 202,
-  "Ranking_Popularity": 214,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -1119,18 +1119,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 507,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-09-15T17:01:18.7032451+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 508,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507,
-  "NumberOfAwardsMax": 416,
+  "NumberOfAwards": 508,
+  "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 416
+      "Count": 417
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1168,8 +1174,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-09-12T13:03:21.8475724+00:00",
+  "LastChanged": "2023-09-15T17:01:18.7032448+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.8719552+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:59:48.4527377+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:06:08.7075066+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:01:18.7032457+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:07:51.0698561+00:00"
 }

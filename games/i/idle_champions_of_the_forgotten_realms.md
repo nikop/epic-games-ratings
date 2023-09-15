@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.70% | ~1,602 |
 | The Cursed Farmer | 0.60% | ~1,373 |
 | The Mad Wizard | 0.50% | ~1,144 |
-| The Ring of Regeneration | 0.40% | ~915 |
-| Seeking Allies | 0.40% | ~915 |
+| The Ring of Regeneration | 0.40% | ~916 |
+| Seeking Allies | 0.40% | ~916 |
 | Maddening | 0.30% | ~687 |
 | Were-verpowered | 0.30% | ~687 |
 | A Persistent Buzzing | 0.30% | ~687 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,874 (Ranked 55)  
+Progressed: 228,881 (Ranked 55)  
 Completed: 2,283 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -675,15 +675,15 @@ Completed: 2,283 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,874 | 2,283 |
+| 2023-09-15 | 228,881 | 2,283 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
-Sum: 31,592 (Ranked 39)  
+Sum: 31,596 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,276 |
-| This game is Great for Beginners | 5,256 |
+| This game is Great for Beginners | 5,260 |
 | This game has Quickly Understood Controls | 4,764 |
 | This game is Relaxing | 4,652 |
 | This game has Amazing Characters | 4,117 |
@@ -924,4 +924,4 @@ Diff (max vs sum): 28
 | 2023-09-12 | 4.06 | - | 5,266 | 31,551 |
 | 2023-09-13 | 4.06 | - | 5,270 | 31,567 |
 | 2023-09-14 | 4.06 | - | 5,276 | 31,587 |
-| 2023-09-15 | 4.06 | - | 5,276 | 31,592 |
+| 2023-09-15 | 4.06 | - | 5,276 | 31,596 |

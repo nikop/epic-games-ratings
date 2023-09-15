@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6620,10 +6620,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31592,
       "NumberOfAwardsMax": 5276
+    },
+    {
+      "Time": "2023-09-15T16:58:09.4468492+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31596,
+      "NumberOfAwardsMax": 5276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31592,
+  "NumberOfAwards": 31596,
   "NumberOfAwardsMax": 5276,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6631,7 +6637,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5256
+      "Count": 5260
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6670,9 +6676,9 @@
       "Count": 3419
     }
   ],
-  "EOS_Progressed": 228874,
+  "EOS_Progressed": 228881,
   "EOS_Completed": 2283,
-  "EOS_NewPlayers": 950,
+  "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23075,6 +23081,11 @@
       "Time": "2023-09-15T16:05:31.1886314+00:00",
       "NumProgressed": 228874,
       "NumCompleted": 2283
+    },
+    {
+      "Time": "2023-09-15T17:07:01.1734237+00:00",
+      "NumProgressed": 228881,
+      "NumCompleted": 2283
     }
   ],
   "TotalAchievements": 520,
@@ -24766,7 +24777,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "objective_completed_35",
@@ -24878,7 +24889,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "objective_completed_390",
@@ -27245,21 +27256,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195148,
+      "Progressed": 195155,
       "Completed": 3430
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228874,
+      "Progressed": 228881,
       "Completed": 2283
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-15T13:02:20.7761621+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:05:31.1886309+00:00",
+  "LastChanged": "2023-09-15T16:58:09.446849+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:07:01.173423+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:57:37.0436128+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:05:31.1919217+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:58:09.4468499+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:07:01.1778162+00:00"
 }

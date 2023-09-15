@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65327,
+  "EOS_Progressed": 65330,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2166,
+  "EOS_NewPlayers": 2144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14752,6 +14752,11 @@
       "Time": "2023-09-15T16:07:22.9327255+00:00",
       "NumProgressed": 65327,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-15T17:09:19.6100838+00:00",
+      "NumProgressed": 65330,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14763,7 +14768,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26784
+      "UsersEstimate": 26785
     },
     {
       "ID": "02",
@@ -14795,7 +14800,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14372
+      "UsersEstimate": 14373
     },
     {
       "ID": "06",
@@ -14851,7 +14856,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7839
+      "UsersEstimate": 7840
     },
     {
       "ID": "13",
@@ -14923,7 +14928,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9799
+      "UsersEstimate": 9800
     },
     {
       "ID": "22",
@@ -14947,7 +14952,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7839
+      "UsersEstimate": 7840
     },
     {
       "ID": "25",
@@ -14955,7 +14960,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "26",
@@ -14963,7 +14968,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7839
+      "UsersEstimate": 7840
     },
     {
       "ID": "27",
@@ -14987,7 +14992,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9799
+      "UsersEstimate": 9800
     },
     {
       "ID": "30",
@@ -15011,7 +15016,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20905
+      "UsersEstimate": 20906
     },
     {
       "ID": "33",
@@ -15019,7 +15024,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9799
+      "UsersEstimate": 9800
     },
     {
       "ID": "34",
@@ -15035,7 +15040,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21558
+      "UsersEstimate": 21559
     },
     {
       "ID": "36",
@@ -15075,7 +15080,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "41",
@@ -15123,7 +15128,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9799
+      "UsersEstimate": 9800
     },
     {
       "ID": "47",
@@ -15298,21 +15303,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65327,
+      "Progressed": 65330,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 28795,
+      "Progressed": 28798,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:07:22.9327248+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:09:19.610083+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:15.1520424+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:57:19.7417514+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:07:22.9330336+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:57:43.8034726+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:09:19.6103668+00:00"
 }

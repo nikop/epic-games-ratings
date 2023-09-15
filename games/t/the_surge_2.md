@@ -5,11 +5,11 @@ Rating: 4.24 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,602 |
-| Don't I Know You...? | 77.00% | ~1,542 |
-| Jailbreak | 66.00% | ~1,322 |
-| Suited and Booted | 39.00% | ~781 |
-| HEADSHOT! | 38.00% | ~761 |
+| Rigged And Ready | 80.00% | ~1,603 |
+| Don't I Know You...? | 77.00% | ~1,543 |
+| Jailbreak | 65.00% | ~1,303 |
+| Suited and Booted | 39.00% | ~782 |
+| HEADSHOT! | 38.00% | ~762 |
 | Sleeping With The Fishes | 36.00% | ~721 |
 | Overheated | 30.00% | ~601 |
 | High Performance | 30.00% | ~601 |
@@ -26,13 +26,13 @@ Rating: 4.24 (Ranked 843)
 | Clean Cut | 19.00% | ~381 |
 | Dead Again | 18.00% | ~361 |
 | Full Arsenal | 17.00% | ~341 |
-| Can't Trust Banks | 15.00% | ~300 |
-| Mommy Dearest | 14.00% | ~280 |
-| Bad Dog | 13.00% | ~260 |
-| Where It All Began | 13.00% | ~260 |
-| Risk Tolerant | 13.00% | ~260 |
-| Sorry, Didn't See You There | 13.00% | ~260 |
-| What A Catchy Song | 13.00% | ~260 |
+| Can't Trust Banks | 15.00% | ~301 |
+| Mommy Dearest | 14.00% | ~281 |
+| Bad Dog | 13.00% | ~261 |
+| Where It All Began | 13.00% | ~261 |
+| Risk Tolerant | 13.00% | ~261 |
+| Sorry, Didn't See You There | 13.00% | ~261 |
+| What A Catchy Song | 13.00% | ~261 |
 | Corrupted Beauty | 12.00% | ~240 |
 | Marked For Success | 12.00% | ~240 |
 | Stimulating The Local Economy | 10.00% | ~200 |
@@ -63,8 +63,8 @@ Rating: 4.24 (Ranked 843)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,003 (Ranked 183)  
-Completed: 11 (0.55%) (Ranked 150)  
+Progressed: 2,004 (Ranked 183)  
+Completed: 11 (0.55%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 11 (0.55%) (Ranked 150)
 | 2023-09-11 | 1,997 | 11 |
 | 2023-09-12 | 1,999 | 11 |
 | 2023-09-14 | 2,001 | 11 |
-| 2023-09-15 | 2,003 | 11 |
+| 2023-09-15 | 2,004 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

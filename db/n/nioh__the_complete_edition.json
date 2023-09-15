@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-11-07T00:00:00+00:00",
@@ -6782,10 +6782,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 18210,
       "NumberOfAwardsMax": 7828
+    },
+    {
+      "Time": "2023-09-15T17:02:24.6257769+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 18218,
+      "NumberOfAwardsMax": 7828
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18210,
+  "NumberOfAwards": 18218,
   "NumberOfAwardsMax": 7828,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6811,25 +6817,25 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 828
+      "Count": 829
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 853
+      "Count": 855
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 830
+      "Count": 833
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 821
+      "Count": 823
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6861,8 +6867,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-09-14T23:01:25.9970392+00:00",
+  "LastChanged": "2023-09-15T17:02:24.6257767+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:52.7361098+00:00",
-  "LastUpdate_Ratings": "2023-09-15T16:00:37.1658335+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:04:48.5496737+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:02:24.6257777+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:06:02.2006835+00:00"
 }

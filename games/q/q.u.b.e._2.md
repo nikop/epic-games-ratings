@@ -15,9 +15,9 @@ Number of Ratings: 94  (23.09.2022)
 | Mission Success | 24.00% | ~77 |
 | There's No Place Like Home | 21.00% | ~67 |
 | Green Cube Killer | 20.00% | ~64 |
+| Infinity Loop | 17.00% | ~55 |
 | Path to Salvation | 17.00% | ~55 |
-| Infinity Loop | 16.00% | ~51 |
-| Descendants | 15.00% | ~48 |
+| Descendants | 16.00% | ~51 |
 | The Flawed Teacher | 13.00% | ~42 |
 | To Infinity and Beyond | 6.00% | ~19 |
 | The Truthful Enemy | 5.00% | ~16 |
@@ -27,10 +27,10 @@ Number of Ratings: 94  (23.09.2022)
 | Gold collector | 0.60% | ~2 |
 | Silver collector | 0.60% | ~2 |
 | Get me out of here | 0.60% | ~2 |
+| Puzzle Master | 0.60% | ~2 |
+| Coming Home | 0.60% | ~2 |
 | King of the Collectables | 0.30% | ~1 |
 | Competent Collector | 0.30% | ~1 |
-| Puzzle Master | 0.30% | ~1 |
-| Coming Home | 0.30% | ~1 |
 | Master Collector | 0.30% | ~1 |
 | QUBE Master | 0.30% | ~1 |
 | Expert Collector | 0.30% | ~1 |

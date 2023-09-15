@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,252 |
-| Alt+F4 | 5.00% | ~11,209 |
-| Where's that freaking Dwarf? | 4.00% | ~8,967 |
-| Déjà vu | 3.00% | ~6,725 |
-| Sock! SOCK! | 3.00% | ~6,725 |
-| Speedrun | 3.00% | ~6,725 |
-| Livin' in a dwarven paradise | 2.00% | ~4,483 |
-| Way of the Wimp | 2.00% | ~4,483 |
-| A beer, two curses, three companions | 2.00% | ~4,483 |
-| The plot thickens... At the tavern | 2.00% | ~4,483 |
-| GG EZ | 2.00% | ~4,483 |
-| DM intervention | 2.00% | ~4,483 |
-| Fireproof Wizardess | 2.00% | ~4,483 |
+| Sowwy! | 30.00% | ~67,257 |
+| Alt+F4 | 5.00% | ~11,210 |
+| Where's that freaking Dwarf? | 4.00% | ~8,968 |
+| Déjà vu | 3.00% | ~6,726 |
+| Sock! SOCK! | 3.00% | ~6,726 |
+| Speedrun | 3.00% | ~6,726 |
+| Livin' in a dwarven paradise | 2.00% | ~4,484 |
+| Way of the Wimp | 2.00% | ~4,484 |
+| A beer, two curses, three companions | 2.00% | ~4,484 |
+| The plot thickens... At the tavern | 2.00% | ~4,484 |
+| GG EZ | 2.00% | ~4,484 |
+| DM intervention | 2.00% | ~4,484 |
+| Fireproof Wizardess | 2.00% | ~4,484 |
 | Shiny and Crôm | 1.00% | ~2,242 |
 | The demons' feast | 1.00% | ~2,242 |
 | The Great Library | 1.00% | ~2,242 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.90% | ~2,018 |
 | %#*!$*! | 0.90% | ~2,018 |
 | Look but don't touch | 0.90% | ~2,018 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,793 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,794 |
 | Lust and Debauchery | 0.70% | ~1,569 |
 | Dead for good | 0.60% | ~1,345 |
 | Gargantua | 0.60% | ~1,345 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,173 (Ranked 57)  
+Progressed: 224,190 (Ranked 57)  
 Completed: 3 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,14 +202,14 @@ Completed: 3 (0.00%) (Ranked 275)
 | 2023-09-12 | 223,556 | 2 |
 | 2023-09-13 | 223,808 | 2 |
 | 2023-09-14 | 224,052 | 2 |
-| 2023-09-15 | 224,173 | 3 |
+| 2023-09-15 | 224,190 | 3 |
 ## Awards
-Max (Character Customization): 195  (Ranked 276)  
-Sum: 314 (Ranked 338)  
-Diff (max vs sum): -62  
+Max (Character Customization): 196  (Ranked 275)  
+Sum: 315 (Ranked 338)  
+Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 195 |
+| This game has Inclusive Character Customization | 196 |
 | This game is Relaxing | 28 |
 | This game is Great for Beginners | 26 |
 | This game has Amazing Characters | 24 |
@@ -349,3 +349,4 @@ Diff (max vs sum): -62
 | 2023-09-12 | 4.59 | - | 194 | 309 |
 | 2023-09-13 | 4.59 | - | 194 | 313 |
 | 2023-09-14 | 4.59 | - | 195 | 314 |
+| 2023-09-15 | 4.59 | - | 196 | 315 |

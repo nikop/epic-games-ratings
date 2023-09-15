@@ -14,8 +14,8 @@
 | Artistic fool | 35.00% | ~40 |
 | Open up wide | 33.00% | ~38 |
 | Let the boot talk | 30.00% | ~34 |
-| Chapter II | 28.00% | ~32 |
-| Achoo!! | 26.00% | ~30 |
+| Chapter II | 29.00% | ~33 |
+| Achoo!! | 27.00% | ~31 |
 | Chapter III | 25.00% | ~28 |
 | Like a moth in the Wind | 25.00% | ~28 |
 | Bubblekillerfamily | 24.00% | ~27 |
@@ -28,7 +28,7 @@
 | It's not easy being green! | 19.00% | ~22 |
 | Home is where the heart is | 19.00% | ~22 |
 | Master of Thermodynamics | 16.00% | ~18 |
-| Death is a part of life | 15.00% | ~17 |
+| Death is a part of life | 16.00% | ~18 |
 | Unfullfilled dreams | 13.00% | ~15 |
 | To err is human... | 12.00% | ~14 |
 | Nothing can stop me | 11.00% | ~13 |

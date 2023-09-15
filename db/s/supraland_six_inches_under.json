@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -1900,9 +1900,9 @@
       "ID": "Escape",
       "SetID": "5lok9mm",
       "Name": "You\u0027re unsure if you broke the game or not",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 962
     },
     {
       "ID": "FireGun",
@@ -2212,8 +2212,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-30T16:59:25.1228046+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:06:01.881837+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:07:41.2479987+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.5185713+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:59:30.0383655+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:06:01.8819037+00:00"
+  "LastUpdate_Ratings": "2023-09-15T17:00:45.6186312+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:07:41.2480979+00:00"
 }

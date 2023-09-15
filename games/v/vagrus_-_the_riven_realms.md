@@ -60,8 +60,10 @@
 | Voracity Confronted | 1.00% | ~1 |
 | Ever After | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
+| Forager | 0.70% | ~1 |
 | Forged in Battle | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |
+| Huntsmaster | 0.70% | ~1 |
 | Moving At Odd Angles | 0.70% | ~1 |
 | Escort | 0.70% | ~1 |
 | Despoiler | 0.70% | ~1 |
@@ -85,11 +87,9 @@
 | Hired Help | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Factotum | 0.00% | ~0 |
-| Forager | 0.00% | ~0 |
 | Metropolitan | 0.00% | ~0 |
 | All Geared Up | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
-| Huntsmaster | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
 | Chromatic Collector | 0.00% | ~0 |
 | Loader | 0.00% | ~0 |

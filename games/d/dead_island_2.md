@@ -12,24 +12,24 @@ Rating: 4.54 (Ranked 503)
 | Hotel California | 2.00% | ~13,603 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,603 |
 | Welcome To Hell-A | 2.00% | ~13,603 |
-| Dr. Reed, I Presume? | 1.00% | ~6,801 |
-| Anger Management | 1.00% | ~6,801 |
-| Perks of the Job | 1.00% | ~6,801 |
-| Bookworm | 1.00% | ~6,801 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,801 |
-| But Doctor, I am Butcho | 1.00% | ~6,801 |
-| Slayer Squad | 1.00% | ~6,801 |
-| Can't Handle the Truth | 1.00% | ~6,801 |
-| Like Riding a Bike | 1.00% | ~6,801 |
-| Friends Like These | 1.00% | ~6,801 |
-| Apex Predator | 1.00% | ~6,801 |
-| Zombologist | 1.00% | ~6,801 |
-| Ooh, Shiny! | 1.00% | ~6,801 |
-| A Patton Emerges | 1.00% | ~6,801 |
-| I Am the Resurrection | 1.00% | ~6,801 |
-| Stacking the Deck | 1.00% | ~6,801 |
-| Our True Nature | 1.00% | ~6,801 |
-| This is My Weapon | 1.00% | ~6,801 |
+| Dr. Reed, I Presume? | 1.00% | ~6,802 |
+| Anger Management | 1.00% | ~6,802 |
+| Perks of the Job | 1.00% | ~6,802 |
+| Bookworm | 1.00% | ~6,802 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,802 |
+| But Doctor, I am Butcho | 1.00% | ~6,802 |
+| Slayer Squad | 1.00% | ~6,802 |
+| Can't Handle the Truth | 1.00% | ~6,802 |
+| Like Riding a Bike | 1.00% | ~6,802 |
+| Friends Like These | 1.00% | ~6,802 |
+| Apex Predator | 1.00% | ~6,802 |
+| Zombologist | 1.00% | ~6,802 |
+| Ooh, Shiny! | 1.00% | ~6,802 |
+| A Patton Emerges | 1.00% | ~6,802 |
+| I Am the Resurrection | 1.00% | ~6,802 |
+| Stacking the Deck | 1.00% | ~6,802 |
+| Our True Nature | 1.00% | ~6,802 |
+| This is My Weapon | 1.00% | ~6,802 |
 | Making Your Mark | 0.80% | ~5,441 |
 | Humanity Distilled | 0.80% | ~5,441 |
 | Down with the Sickness | 0.80% | ~5,441 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,126 (Ranked 22)  
+Progressed: 680,155 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
-| 2023-09-15 | 680,126 | 2,143 |
+| 2023-09-15 | 680,155 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,061  (Ranked 57)  
 Sum: 8,982 (Ranked 94)  

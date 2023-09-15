@@ -4,8 +4,8 @@
   "ProductSlug": "gravity-oddity-a66e76",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -67,9 +67,9 @@
       "ID": "ACH_02",
       "SetID": "6dj72a4",
       "Name": "Sharp Shooter",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_03",
@@ -322,8 +322,8 @@
   ],
   "FirstSeen": "2023-09-14T17:57:45.1242056+00:00",
   "FirstSeenAchievements": "2023-08-29T18:02:15.6403686+00:00",
-  "LastChanged_Achievements": "2023-09-15T16:06:44.9956115+00:00",
+  "LastChanged_Achievements": "2023-09-15T17:08:41.2502431+00:00",
   "LastUpdate_AppInfo": "2023-09-12T18:57:14.2220961+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:58:15.8864628+00:00",
-  "LastUpdate_Achievements": "2023-09-15T16:06:44.9956543+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:59:01.2035576+00:00",
+  "LastUpdate_Achievements": "2023-09-15T17:08:41.2502857+00:00"
 }

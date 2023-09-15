@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 89.00% | ~2,984 |
-| Flanked! | 78.00% | ~2,615 |
-| Economics 101 | 62.00% | ~2,079 |
-| Get Rich Quick | 45.00% | ~1,509 |
-| Do the Splits | 40.00% | ~1,341 |
-| Maestro | 27.00% | ~905 |
-| Full Employment | 19.00% | ~637 |
-| Clay Fighter | 17.00% | ~570 |
-| Nowhere left to Hide | 14.00% | ~469 |
-| All Ovens Blazing | 13.00% | ~436 |
-| Boulder Clash | 13.00% | ~436 |
-| Held Back by the Roots | 12.00% | ~402 |
-| Well Supplied | 11.00% | ~369 |
-| Damage Control | 8.00% | ~268 |
-| Master of the Brawl | 8.00% | ~268 |
+| You and what Army? | 89.00% | ~2,990 |
+| Flanked! | 78.00% | ~2,621 |
+| Economics 101 | 62.00% | ~2,083 |
+| Get Rich Quick | 45.00% | ~1,512 |
+| Do the Splits | 40.00% | ~1,344 |
+| Maestro | 27.00% | ~907 |
+| Full Employment | 19.00% | ~638 |
+| Clay Fighter | 17.00% | ~571 |
+| Nowhere left to Hide | 14.00% | ~470 |
+| All Ovens Blazing | 13.00% | ~437 |
+| Boulder Clash | 13.00% | ~437 |
+| Held Back by the Roots | 12.00% | ~403 |
+| Well Supplied | 11.00% | ~370 |
+| Damage Control | 8.00% | ~269 |
+| Master of the Brawl | 8.00% | ~269 |
 | Sniped | 7.00% | ~235 |
 | Leave Them no Cake | 7.00% | ~235 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~235 |
-| A Secret Recipe | 6.00% | ~201 |
+| A Secret Recipe | 6.00% | ~202 |
 | Your Biggest Fans | 5.00% | ~168 |
 | An Ally in Need | 5.00% | ~168 |
 | For the Queen | 5.00% | ~168 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~34 |
 | All Geared Up | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,353 (Ranked 164)  
+Progressed: 3,360 (Ranked 163)  
 Completed: 11 (0.33%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 11 (0.33%) (Ranked 177)
 | 2023-09-12 | 3,170 | 11 |
 | 2023-09-13 | 3,222 | 11 |
 | 2023-09-14 | 3,296 | 11 |
-| 2023-09-15 | 3,353 | 11 |
+| 2023-09-15 | 3,360 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
