@@ -16,11 +16,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 1.00% | ~1,362 |
 | It's Free Real Estate | 1.00% | ~1,362 |
 | Pretty Penny | 1.00% | ~1,362 |
+| One-Armed Bandit | 1.00% | ~1,362 |
 | Budding Merchant | 1.00% | ~1,362 |
 | Capitalism Ho! | 1.00% | ~1,362 |
 | Own the Means of Production | 1.00% | ~1,362 |
 | The Daily Grind | 0.90% | ~1,226 |
-| One-Armed Bandit | 0.90% | ~1,226 |
 | Through Repetition, Perfection | 0.90% | ~1,226 |
 | Bounty Hunters | 0.80% | ~1,090 |
 | Demand for Supplies | 0.80% | ~1,090 |
@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.60% | ~817 |
 | Research & Development | 0.60% | ~817 |
 | Vanity, Verily | 0.60% | ~817 |
+| Power of Love | 0.60% | ~817 |
 | Efficient Floor Space | 0.60% | ~817 |
 | Flawless Fusion | 0.60% | ~817 |
 | Gem Expert | 0.60% | ~817 |
@@ -50,7 +51,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 0.50% | ~681 |
 | This Power Level...! | 0.50% | ~681 |
 | Hidden Potential | 0.50% | ~681 |
-| Power of Love | 0.50% | ~681 |
 | Expansion in Session | 0.50% | ~681 |
 | Trash to Treasure | 0.50% | ~681 |
 | Royal Ransom | 0.50% | ~681 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,197 (Ranked 68)  
+Progressed: 136,199 (Ranked 68)  
 Completed: 151 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 151 (0.11%) (Ranked 218)
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
-| 2023-09-15 | 136,197 | 151 |
+| 2023-09-15 | 136,199 | 151 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 71)  
 Sum: 27,230 (Ranked 48)  

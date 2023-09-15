@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 367,
+  "Ranking_Rating": 368,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1348,
+  "EOS_Progressed": 1349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2475,6 +2475,11 @@
       "Time": "2023-09-15T05:06:31.108672+00:00",
       "NumProgressed": 1348,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T10:06:40.3579903+00:00",
+      "NumProgressed": 1349,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2598,7 +2603,7 @@
       "Name": "Grenadier",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Hard_Serpent",
@@ -2638,7 +2643,7 @@
       "Name": "Spice It Up",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "KillAllM2",
@@ -2725,15 +2730,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1348,
+      "Progressed": 1349,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:06:40.3513719+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:06:40.3579901+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:59:02.615541+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:06:40.3514145+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:58:44.8550831+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:06:40.3580158+00:00"
 }

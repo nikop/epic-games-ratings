@@ -6,12 +6,12 @@ Rating: 4.46 (Ranked 624)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,662 |
-| Confirming Suspicions | 41.00% | ~1,481 |
-| The Kraken Wakes | 36.00% | ~1,300 |
+| Confirming Suspicions | 40.00% | ~1,445 |
+| The Kraken Wakes | 36.00% | ~1,301 |
 | It's Starting to Crack | 33.00% | ~1,192 |
 | Change the Channel | 30.00% | ~1,084 |
-| Lord of War | 29.00% | ~1,047 |
-| Taking it back | 28.00% | ~1,011 |
+| Lord of War | 29.00% | ~1,048 |
+| Taking it back | 28.00% | ~1,012 |
 | Resourceful | 26.00% | ~939 |
 | Target America | 26.00% | ~939 |
 | The Kraken Sleeps | 23.00% | ~831 |
@@ -42,10 +42,10 @@ Rating: 4.46 (Ranked 624)
 | It'll Buff Right Out | 5.00% | ~181 |
 | Don't hold your breath | 5.00% | ~181 |
 | Operation Foxley | 5.00% | ~178 |
-| Strategist | 4.00% | ~144 |
-| Tinkerer | 4.00% | ~144 |
-| Locomotion Commotion | 4.00% | ~144 |
-| Road Rage | 4.00% | ~144 |
+| Strategist | 4.00% | ~145 |
+| Tinkerer | 4.00% | ~145 |
+| Locomotion Commotion | 4.00% | ~145 |
+| Road Rage | 4.00% | ~145 |
 | Last Resort | 4.00% | ~143 |
 | Siegebreaker | 4.00% | ~143 |
 | Ghost of Falaise | 4.00% | ~143 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 624)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,612 (Ranked 159)  
+Progressed: 3,613 (Ranked 159)  
 Completed: 10 (0.28%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 10 (0.28%) (Ranked 186)
 | 2023-09-12 | 3,609 | 10 |
 | 2023-09-13 | 3,610 | 10 |
 | 2023-09-14 | 3,612 | 10 |
+| 2023-09-15 | 3,613 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

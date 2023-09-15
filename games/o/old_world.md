@@ -11,11 +11,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 5.00% | ~696 |
 | Play a Single Player Game | 5.00% | ~696 |
 | The Clergy | 5.00% | ~696 |
-| Able | 4.00% | ~556 |
-| Architect | 4.00% | ~556 |
-| Intrepid | 4.00% | ~556 |
-| Strong | 4.00% | ~556 |
-| Hanging Gardens | 4.00% | ~556 |
+| Able | 4.00% | ~557 |
+| Architect | 4.00% | ~557 |
+| Intrepid | 4.00% | ~557 |
+| Strong | 4.00% | ~557 |
+| Hanging Gardens | 4.00% | ~557 |
 | Ambitious | 3.00% | ~417 |
 | Enlightened | 3.00% | ~417 |
 | Glorious | 3.00% | ~417 |
@@ -110,6 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
 | Assyrian Paganism | 0.90% | ~125 |
+| Industrial Progress | 0.90% | ~125 |
 | Military Prestige | 0.90% | ~125 |
 | Gnosticism | 0.90% | ~125 |
 | Veneration | 0.90% | ~125 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.80% | ~111 |
 | Babylonia | 0.80% | ~111 |
 | Carthage | 0.80% | ~111 |
-| Industrial Progress | 0.80% | ~111 |
 | Enlightenment | 0.80% | ~111 |
 | Revelation | 0.80% | ~111 |
 | Kushite Cavalry | 0.80% | ~111 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,912 (Ranked 123)  
+Progressed: 13,913 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,7 +451,7 @@ Completed: 5 (0.04%) (Ranked 243)
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
-| 2023-09-15 | 13,912 | 5 |
+| 2023-09-15 | 13,913 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

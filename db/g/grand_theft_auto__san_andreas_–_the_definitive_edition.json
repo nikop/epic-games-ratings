@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -892,7 +892,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12246,
+  "EOS_Progressed": 12248,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -10292,6 +10292,11 @@
       "Time": "2023-09-15T09:04:43.4861461+00:00",
       "NumProgressed": 12246,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-15T10:04:45.7393352+00:00",
+      "NumProgressed": 12248,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10303,7 +10308,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9919
+      "UsersEstimate": 9921
     },
     {
       "ID": "ACH02",
@@ -10351,7 +10356,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "ACH08",
@@ -10359,7 +10364,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6245
+      "UsersEstimate": 6246
     },
     {
       "ID": "ACH09",
@@ -10582,7 +10587,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12246,
+      "Progressed": 12248,
       "Completed": 45
     }
   ],
@@ -10590,8 +10595,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-14T03:58:16.8359703+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:04:43.4861455+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:04:45.7393347+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.8211098+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:59:08.5967153+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:04:43.4862885+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:58:50.7702153+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:04:45.7393969+00:00"
 }

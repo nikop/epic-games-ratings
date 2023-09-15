@@ -6,7 +6,7 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 46.00% | ~212 |
+| Self Defense | 46.00% | ~213 |
 | Grand Opening | 41.00% | ~189 |
 | Circus Electrique Proudly Presents... | 41.00% | ~189 |
 | Path of Learning | 41.00% | ~189 |
@@ -26,8 +26,8 @@ Number of Ratings: 22  (23.09.2022)
 | King of District 2 | 13.00% | ~60 |
 | Time Travel! | 11.00% | ~51 |
 | Marketing Manager | 11.00% | ~51 |
-| Circus Versus Circus | 9.00% | ~41 |
-| King of District 3 | 9.00% | ~41 |
+| Circus Versus Circus | 9.00% | ~42 |
+| King of District 3 | 9.00% | ~42 |
 | Club Member | 7.00% | ~32 |
 | Hundred Percent Second | 7.00% | ~32 |
 | Spirits High | 7.00% | ~32 |
@@ -52,12 +52,12 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Sixth | 1.00% | ~5 |
 | London Liberator | 1.00% | ~5 |
 | Vicious Busters | 1.00% | ~5 |
-| Devastating Blow | 0.70% | ~3 |
+| Devastating Blow | 0.60% | ~3 |
 | Clown Care | 0.40% | ~2 |
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461 (Ranked 252)  
+Progressed: 462 (Ranked 252)  
 Completed: 1 (0.22%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.22%) (Ranked 196)
 | 2023-09-02 | 458 | 1 |
 | 2023-09-11 | 459 | 1 |
 | 2023-09-14 | 460 | 1 |
-| 2023-09-15 | 461 | 1 |
+| 2023-09-15 | 462 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

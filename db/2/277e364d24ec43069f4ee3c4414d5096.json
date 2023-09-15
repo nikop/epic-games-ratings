@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107706,
+  "EOS_Progressed": 107707,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 870,
   "EOS_NewCompleters": 2,
@@ -10941,6 +10941,11 @@
       "Time": "2023-09-15T09:09:08.6339305+00:00",
       "NumProgressed": 107706,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-15T10:08:07.9146164+00:00",
+      "NumProgressed": 107707,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -11024,7 +11029,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38774
+      "UsersEstimate": 38775
     },
     {
       "ID": "EAwards_18",
@@ -11184,7 +11189,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8616
+      "UsersEstimate": 8617
     },
     {
       "ID": "EAwards_36",
@@ -11312,7 +11317,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8616
+      "UsersEstimate": 8617
     },
     {
       "ID": "EAwards_7",
@@ -11343,7 +11348,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107706,
+      "Progressed": 107707,
       "Completed": 42
     }
   ],
@@ -11351,8 +11356,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:09:08.6339301+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:08:07.9146159+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:10.7751349+00:00",
-  "LastUpdate_Ratings": "2023-09-15T09:00:38.9385856+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:09:08.6340652+00:00"
+  "LastUpdate_Ratings": "2023-09-15T10:00:25.2719264+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:08:07.914704+00:00"
 }

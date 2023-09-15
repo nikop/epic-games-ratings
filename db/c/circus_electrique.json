@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -429,6 +429,11 @@
       "Time": "2023-09-15T01:49:03.2564552+00:00",
       "NumProgressed": 461,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T10:06:36.4485632+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -472,7 +477,7 @@
       "Name": "Circus Versus Circus",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -688,7 +693,7 @@
       "Name": "King of District 3",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -760,13 +765,13 @@
       "Name": "Self Defense",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT_42",
       "SetID": "631ndc2",
       "Name": "Devastating Blow",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -839,7 +844,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 1
     }
   ],
@@ -847,8 +852,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:06:36.436058+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:06:36.4485628+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:28.7261895+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:57:38.7842026+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:06:36.4361101+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:57:24.9068602+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:06:36.4485989+00:00"
 }

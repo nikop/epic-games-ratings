@@ -5,11 +5,11 @@ Rating: 4.02 (Ranked 941)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,801 |
-| World Map | 79.00% | ~1,530 |
-| Temple of Eternals | 57.00% | ~1,104 |
-| Prestigious | 54.00% | ~1,046 |
-| Fellowship Power | 41.00% | ~794 |
+| Victor | 93.00% | ~1,802 |
+| World Map | 79.00% | ~1,531 |
+| Temple of Eternals | 57.00% | ~1,105 |
+| Prestigious | 54.00% | ~1,047 |
+| Fellowship Power | 41.00% | ~795 |
 | Guild Power | 26.00% | ~504 |
 | Prestigious x10 | 22.00% | ~426 |
 | The game is on | 21.00% | ~407 |
@@ -27,7 +27,7 @@ Rating: 4.02 (Ranked 941)
 | Superior | 14.00% | ~271 |
 | The Unstoppable | 14.00% | ~271 |
 | Milestone collector | 13.00% | ~252 |
-| Scientist | 12.00% | ~232 |
+| Scientist | 12.00% | ~233 |
 | Challenger | 11.00% | ~213 |
 | Daily Quest Completionist | 11.00% | ~213 |
 | Doing My Part | 11.00% | ~213 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 941)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,937 (Ranked 182)  
+Progressed: 1,938 (Ranked 183)  
 Completed: 2 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,14 +227,14 @@ Completed: 2 (0.10%) (Ranked 221)
 | 2023-09-11 | 1,928 | 2 |
 | 2023-09-12 | 1,929 | 2 |
 | 2023-09-14 | 1,936 | 2 |
-| 2023-09-15 | 1,937 | 2 |
+| 2023-09-15 | 1,938 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 21  (Ranked 506)  
-Sum: 42 (Ranked 462)  
-Diff (max vs sum): 44  
+Max (Great for Beginners): 22  (Ranked 498)  
+Sum: 43 (Ranked 462)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 21 |
+| This game is Great for Beginners | 22 |
 | This game is Great for Quick Sessions | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -273,3 +273,4 @@ Diff (max vs sum): 44
 | 2023-09-07 | 4.03 | 21 | 41 |
 | 2023-09-08 | 4.00 | 21 | 42 |
 | 2023-09-13 | 4.02 | 21 | 42 |
+| 2023-09-15 | 4.02 | 22 | 43 |

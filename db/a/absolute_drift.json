@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1540315,
+  "EOS_Progressed": 1540320,
   "EOS_Completed": 688,
-  "EOS_NewPlayers": 1053,
+  "EOS_NewPlayers": 1056,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17013,6 +17013,11 @@
       "Time": "2023-09-15T09:04:12.5601466+00:00",
       "NumProgressed": 1540315,
       "NumCompleted": 688
+    },
+    {
+      "Time": "2023-09-15T10:04:13.4590216+00:00",
+      "NumProgressed": 1540320,
+      "NumCompleted": 688
     }
   ],
   "TotalAchievements": 20,
@@ -17056,7 +17061,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46209
+      "UsersEstimate": 46210
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -17072,7 +17077,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 138628
+      "UsersEstimate": 138629
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -17104,7 +17109,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46209
+      "UsersEstimate": 46210
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -17136,7 +17141,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138628
+      "UsersEstimate": 138629
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -17183,15 +17188,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1540315,
+      "Progressed": 1540320,
       "Completed": 688
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-06T23:02:05.1723132+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:04:12.5601459+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:04:13.4590213+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:01.4060769+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:59:32.7308674+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:04:12.5603135+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:59:14.4503757+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:04:13.4591073+00:00"
 }

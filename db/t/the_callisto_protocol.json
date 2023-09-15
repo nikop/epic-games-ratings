@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1172,9 +1172,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15935,
+  "EOS_Progressed": 15936,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6942,6 +6942,11 @@
       "Time": "2023-09-14T15:05:33.3913514+00:00",
       "NumProgressed": 15935,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-15T10:05:10.595998+00:00",
+      "NumProgressed": 15936,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -7057,7 +7062,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -7328,13 +7333,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15935,
+      "Progressed": 15936,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3861,
+      "Progressed": 3862,
       "Completed": 29
     }
   ],
@@ -7342,8 +7347,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-11T20:00:03.1009674+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:05:07.5222791+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:05:10.5959975+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:20.3899843+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:58:01.0345891+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:05:07.522372+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:57:42.7420265+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:05:10.5960563+00:00"
 }

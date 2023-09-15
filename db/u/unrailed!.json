@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2642,9 +2642,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 643755,
+  "EOS_Progressed": 643757,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1790,
+  "EOS_NewPlayers": 1781,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19172,6 +19172,11 @@
       "Time": "2023-09-15T09:06:50.9437734+00:00",
       "NumProgressed": 643755,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-15T10:06:51.287944+00:00",
+      "NumProgressed": 643757,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -19223,7 +19228,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 109438
+      "UsersEstimate": 109439
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -19503,7 +19508,7 @@
       "Name": "Climate Change",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 96563
+      "UsersEstimate": 96564
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -19598,15 +19603,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 643755,
+      "Progressed": 643757,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-14T10:00:55.0260284+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:06:50.9437729+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:06:51.2879435+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.8163161+00:00",
-  "LastUpdate_Ratings": "2023-09-15T09:00:27.5615164+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:06:50.9439548+00:00"
+  "LastUpdate_Ratings": "2023-09-15T10:00:14.5510146+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:06:51.2880632+00:00"
 }

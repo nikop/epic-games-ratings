@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 367,
+  "Ranking_Rating": 368,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
@@ -2595,9 +2595,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533197,
+  "EOS_Progressed": 533198,
   "EOS_Completed": 1544,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -18695,6 +18695,11 @@
       "Time": "2023-09-15T09:05:49.9991018+00:00",
       "NumProgressed": 533197,
       "NumCompleted": 1544
+    },
+    {
+      "Time": "2023-09-15T10:05:53.5129349+00:00",
+      "NumProgressed": 533198,
+      "NumCompleted": 1544
     }
   ],
   "TotalAchievements": 37,
@@ -18882,7 +18887,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95975
+      "UsersEstimate": 95976
     },
     {
       "ID": "THE_KEEP",
@@ -18962,7 +18967,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341246
+      "UsersEstimate": 341247
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -19001,15 +19006,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533197,
+      "Progressed": 533198,
       "Completed": 1544
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-14T21:58:42.4713987+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:05:49.9991013+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:05:53.5129345+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.1792582+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:58:43.5212427+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:05:49.9992684+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:58:25.5598573+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:05:53.5130295+00:00"
 }

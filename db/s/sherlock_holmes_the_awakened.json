@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -70,11 +70,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 659,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.8,
+  "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2400,6 +2400,11 @@
       "Time": "2023-09-14T19:05:37.8795755+00:00",
       "NumProgressed": 658,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-15T10:05:25.1530247+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2411,7 +2416,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "MQ01_2",
@@ -2451,15 +2456,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 356
     },
     {
       "ID": "MQ03_2",
@@ -2467,7 +2472,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "MQ03_3",
@@ -2499,15 +2504,15 @@
       "Name": "Going Once...",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 257
     },
     {
       "ID": "MQ04_3",
@@ -2515,7 +2520,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "MQ05_1",
@@ -2531,7 +2536,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "MQ05_3",
@@ -2555,7 +2560,7 @@
       "Name": "Brain Food",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "MQ06_2",
@@ -2587,7 +2592,7 @@
       "Name": "Read It And Weep",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MQ07_2",
@@ -2634,7 +2639,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 25
     }
   ],
@@ -2642,8 +2647,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-14T06:02:12.3857175+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:05:21.5937812+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:05:25.1530243+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:57:13.1390947+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:05:21.5938232+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:56:58.4281402+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:05:25.1530512+00:00"
 }

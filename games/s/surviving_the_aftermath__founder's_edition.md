@@ -10,20 +10,20 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 60.00% | ~5,399 |
 | Explorer | 53.00% | ~4,769 |
 | Healer | 52.00% | ~4,679 |
-| Aspiring Inventor | 44.00% | ~3,959 |
-| Adventurer | 41.00% | ~3,689 |
-| Famous Healer | 38.00% | ~3,419 |
-| Local Leader | 35.00% | ~3,149 |
-| Famous Explorer | 34.00% | ~3,059 |
-| New Opportunities | 34.00% | ~3,059 |
-| Energized | 33.00% | ~2,969 |
-| The Long Haul | 33.00% | ~2,969 |
-| Survivor | 32.00% | ~2,879 |
-| The Great Healer | 31.00% | ~2,789 |
-| Legendary Explorer | 28.00% | ~2,519 |
-| Cleaner | 28.00% | ~2,519 |
-| Catastrofan | 28.00% | ~2,519 |
-| Finders, Keepers | 26.00% | ~2,339 |
+| Aspiring Inventor | 44.00% | ~3,960 |
+| Adventurer | 41.00% | ~3,690 |
+| Famous Healer | 38.00% | ~3,420 |
+| Local Leader | 35.00% | ~3,150 |
+| Famous Explorer | 34.00% | ~3,060 |
+| New Opportunities | 34.00% | ~3,060 |
+| Energized | 33.00% | ~2,970 |
+| The Long Haul | 33.00% | ~2,970 |
+| Survivor | 32.00% | ~2,880 |
+| The Great Healer | 31.00% | ~2,790 |
+| Legendary Explorer | 28.00% | ~2,520 |
+| Cleaner | 28.00% | ~2,520 |
+| Catastrofan | 28.00% | ~2,520 |
+| Finders, Keepers | 26.00% | ~2,340 |
 | Top Notch | 25.00% | ~2,250 |
 | Great Leader | 23.00% | ~2,070 |
 | Mentor | 23.00% | ~2,070 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,998 (Ranked 135)  
+Progressed: 8,999 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 8,962 | 0 |
 | 2023-09-13 | 8,981 | 0 |
 | 2023-09-14 | 8,993 | 0 |
-| 2023-09-15 | 8,998 | 0 |
+| 2023-09-15 | 8,999 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 335)  
-Sum: 700 (Ranked 279)  
+Sum: 701 (Ranked 279)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 56
 | This game has Quickly Understood Controls | 82 |
 | This game is Highly Recommended | 72 |
 | This game has Amazing Characters | 69 |
-| This game has Diverse Characters | 68 |
+| This game has Diverse Characters | 69 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 45 |
 ## Ratings History
@@ -352,3 +352,4 @@ Diff (max vs sum): 56
 | 2023-09-05 | 4.48 | - | 102 | 698 |
 | 2023-09-06 | 4.48 | - | 103 | 699 |
 | 2023-09-12 | 4.48 | - | 103 | 700 |
+| 2023-09-15 | 4.48 | - | 103 | 701 |

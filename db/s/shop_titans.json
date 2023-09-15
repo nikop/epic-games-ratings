@@ -6040,9 +6040,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136197,
+  "EOS_Progressed": 136199,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21250,6 +21250,11 @@
       "Time": "2023-09-15T08:08:07.1764288+00:00",
       "NumProgressed": 136197,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-15T10:07:14.8294611+00:00",
+      "NumProgressed": 136199,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21619,9 +21624,9 @@
       "ID": "energy02",
       "SetID": "anfd17p",
       "Name": "Power of Love",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 817
     },
     {
       "ID": "energy03",
@@ -21811,9 +21816,9 @@
       "ID": "jackslot01",
       "SetID": "anfd17p",
       "Name": "One-Armed Bandit",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1362
     },
     {
       "ID": "jackslot02",
@@ -22156,15 +22161,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136197,
+      "Progressed": 136199,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-15T07:57:34.491495+00:00",
-  "LastChanged_Achievements": "2023-09-15T09:07:14.0173353+00:00",
+  "LastChanged_Achievements": "2023-09-15T10:07:14.8294606+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-15T08:57:54.7535323+00:00",
-  "LastUpdate_Achievements": "2023-09-15T09:07:14.0176195+00:00"
+  "LastUpdate_Ratings": "2023-09-15T09:57:37.6730137+00:00",
+  "LastUpdate_Achievements": "2023-09-15T10:07:14.8296547+00:00"
 }
