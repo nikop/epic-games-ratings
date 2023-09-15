@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -135,8 +135,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-09-15T07:07:19.1714812+00:00",
+  "LastChanged_Achievements": "2023-09-15T08:06:35.5968292+00:00",
   "LastUpdate_AppInfo": "2023-09-08T10:57:06.0888342+00:00",
-  "LastUpdate_Ratings": "2023-09-15T07:00:48.9075054+00:00",
-  "LastUpdate_Achievements": "2023-09-15T07:07:19.1714932+00:00"
+  "LastUpdate_Ratings": "2023-09-15T08:00:16.8011184+00:00",
+  "LastUpdate_Achievements": "2023-09-15T08:06:35.5968383+00:00"
 }

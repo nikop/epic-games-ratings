@@ -15,12 +15,12 @@
 | Cadence | 1.00% | ~8 |
 | Maestro Mountain Glyph | 0.90% | ~7 |
 | Silent City: Reprise | 0.90% | ~7 |
-| Coda Cave | 0.80% | ~6 |
-| Solo Sea | 0.80% | ~6 |
+| Coda Cave | 0.70% | ~6 |
+| Solo Sea | 0.70% | ~6 |
 | Coda Cave Glyph | 0.60% | ~5 |
 | Antiphony | 0.50% | ~4 |
 | Silent City Glyph | 0.50% | ~4 |
-| Symphony | 0.30% | ~2 |
+| Symphony | 0.20% | ~2 |
 | Musica Universalis | 0.10% | ~1 |
 | Consonance | 0.10% | ~1 |
 | Dissonance | 0.10% | ~1 |
@@ -33,7 +33,7 @@
 | Rondo | 0.00% | ~0 |
 | Tritone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 221)  
+Progressed: 801 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-08-12 | 798 | 0 |
 | 2023-08-19 | 799 | 0 |
 | 2023-08-20 | 800 | 0 |
+| 2023-09-15 | 801 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

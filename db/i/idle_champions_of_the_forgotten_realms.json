@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6658,10 +6658,10 @@
       "Count": 3416
     }
   ],
-  "EOS_Progressed": 228832,
-  "EOS_Completed": 2280,
-  "EOS_NewPlayers": 965,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 228835,
+  "EOS_Completed": 2282,
+  "EOS_NewPlayers": 963,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23018,6 +23018,11 @@
       "Time": "2023-09-15T07:05:49.7603877+00:00",
       "NumProgressed": 228832,
       "NumCompleted": 2280
+    },
+    {
+      "Time": "2023-09-15T08:05:21.9331596+00:00",
+      "NumProgressed": 228835,
+      "NumCompleted": 2282
     }
   ],
   "TotalAchievements": 520,
@@ -23037,7 +23042,7 @@
       "Name": "Maddening",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_100",
@@ -23893,7 +23898,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_1203",
@@ -24005,7 +24010,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_130",
@@ -24149,7 +24154,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_150",
@@ -24221,7 +24226,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_165",
@@ -24253,7 +24258,7 @@
       "Name": "Building Trust",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_17",
@@ -24717,7 +24722,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_36",
@@ -24821,7 +24826,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_390",
@@ -24893,7 +24898,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_40",
@@ -25165,7 +25170,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_54",
@@ -26245,7 +26250,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_80",
@@ -26773,7 +26778,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_902",
@@ -27188,21 +27193,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195106,
+      "Progressed": 195109,
       "Completed": 3427
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228832,
-      "Completed": 2280
+      "Progressed": 228835,
+      "Completed": 2282
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-15T03:57:25.8320533+00:00",
-  "LastChanged_Achievements": "2023-09-15T07:05:49.7603872+00:00",
+  "LastChanged_Achievements": "2023-09-15T08:05:21.9331591+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-15T06:57:16.6610443+00:00",
-  "LastUpdate_Achievements": "2023-09-15T07:05:49.7635633+00:00"
+  "LastUpdate_Ratings": "2023-09-15T07:57:17.5676267+00:00",
+  "LastUpdate_Achievements": "2023-09-15T08:05:21.9359537+00:00"
 }

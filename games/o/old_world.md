@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |
+| One True Faith | 0.70% | ~97 |
 | Hittite Paganism | 0.70% | ~97 |
 | Turreted Elephant | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.60% | ~83 |
 | Egypt | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
-| One True Faith | 0.60% | ~83 |
 | All Nations | 0.60% | ~83 |
 | Carthage - Ox Hide | 0.50% | ~70 |
 | Noble Difficulty | 0.50% | ~70 |

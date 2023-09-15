@@ -11,18 +11,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.60% | ~1,373 |
 | The Mad Wizard | 0.50% | ~1,144 |
 | The Ring of Regeneration | 0.40% | ~915 |
-| Maddening | 0.30% | ~686 |
-| Were-verpowered | 0.30% | ~686 |
-| A Persistent Buzzing | 0.30% | ~686 |
-| Terror in the Dark | 0.30% | ~686 |
-| A Mysterious Summons | 0.30% | ~686 |
-| Building Trust | 0.30% | ~686 |
-| The Crumbling Temple | 0.30% | ~686 |
-| Seeking Allies | 0.30% | ~686 |
-| Are Ya Chicken? | 0.30% | ~686 |
-| Mad Cow Disease | 0.30% | ~686 |
-| Friendly Imps | 0.30% | ~686 |
-| Pure Energy | 0.30% | ~686 |
+| Maddening | 0.30% | ~687 |
+| Were-verpowered | 0.30% | ~687 |
+| A Persistent Buzzing | 0.30% | ~687 |
+| Terror in the Dark | 0.30% | ~687 |
+| A Mysterious Summons | 0.30% | ~687 |
+| Building Trust | 0.30% | ~687 |
+| The Crumbling Temple | 0.30% | ~687 |
+| Seeking Allies | 0.30% | ~687 |
+| Are Ya Chicken? | 0.30% | ~687 |
+| Mad Cow Disease | 0.30% | ~687 |
+| Friendly Imps | 0.30% | ~687 |
+| Pure Energy | 0.30% | ~687 |
 | Legends and Lore | 0.30% | ~585 |
 | Tall Tales | 0.20% | ~390 |
 | The Witchlight Carnival | 0.20% | ~390 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,832 (Ranked 55)  
-Completed: 2,280 (1.00%) (Ranked 123)  
+Progressed: 228,835 (Ranked 55)  
+Completed: 2,282 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -675,7 +675,7 @@ Completed: 2,280 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,832 | 2,280 |
+| 2023-09-15 | 228,835 | 2,282 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,588 (Ranked 39)  

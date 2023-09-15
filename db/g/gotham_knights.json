@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2838,10 +2838,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4425,
       "NumberOfAwardsMax": 2667
+    },
+    {
+      "Time": "2023-09-15T07:58:53.2049486+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4428,
+      "NumberOfAwardsMax": 2667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4425,
+  "NumberOfAwards": 4428,
   "NumberOfAwardsMax": 2667,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2885,7 +2891,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 220
+      "Count": 223
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2906,10 +2912,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72542,
+  "EOS_Progressed": 72544,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 455,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -15476,6 +15482,11 @@
       "Time": "2023-09-15T07:08:05.1450158+00:00",
       "NumProgressed": 72542,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-15T08:07:05.1594429+00:00",
+      "NumProgressed": 72544,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15575,7 +15586,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10881
+      "UsersEstimate": 10882
     },
     {
       "ID": "CHALLENGES_1",
@@ -15647,7 +15658,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -15695,7 +15706,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -15711,7 +15722,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21037
+      "UsersEstimate": 21038
     },
     {
       "ID": "FREEZE_1_5",
@@ -15807,7 +15818,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14508
+      "UsersEstimate": 14509
     },
     {
       "ID": "HARLEY_4",
@@ -15831,7 +15842,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37722
+      "UsersEstimate": 37723
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15855,7 +15866,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14508
+      "UsersEstimate": 14509
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -15863,7 +15874,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -15879,7 +15890,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24664
+      "UsersEstimate": 24665
     },
     {
       "ID": "MYSTERY_02",
@@ -15895,7 +15906,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15959
+      "UsersEstimate": 15960
     },
     {
       "ID": "MYSTERY_04",
@@ -15903,7 +15914,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14508
+      "UsersEstimate": 14509
     },
     {
       "ID": "MYSTERY_05",
@@ -15927,7 +15938,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "MYSTERY_08",
@@ -15974,22 +15985,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72542,
+      "Progressed": 72544,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42822,
+      "Progressed": 42824,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-15T02:16:33.0243381+00:00",
-  "LastChanged_Achievements": "2023-09-15T07:08:05.1450139+00:00",
+  "LastChanged": "2023-09-15T07:58:53.2049483+00:00",
+  "LastChanged_Achievements": "2023-09-15T08:07:05.159442+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-15T06:59:12.9321884+00:00",
-  "LastUpdate_Achievements": "2023-09-15T07:08:05.1451676+00:00"
+  "LastUpdate_Ratings": "2023-09-15T07:58:53.2049491+00:00",
+  "LastUpdate_Achievements": "2023-09-15T08:07:05.1595984+00:00"
 }
