@@ -118,7 +118,7 @@
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 469 |
 | 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,316 | 23 |
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 517 |
-| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,330 | 91 |
+| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,331 | 91 |
 | 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 951 | 149 |
 | 117 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 687 | 172 |
 | 117 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,519 | 75 |
@@ -500,7 +500,7 @@
 | 484 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 517 |
 | 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 350 | 227 |
 | 484 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 366 |
-| 484 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,268 | 134 |
+| 484 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,269 | 134 |
 | 502 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
 | 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,431 | 128 |
 | 502 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,038 | 57 |
@@ -911,8 +911,8 @@
 | 907 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
 | 910 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 517 |
 | 910 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
-| 910 | [SYNCED](games/s/synced.md) | 4.13 | 0 | 517 |
-| 913 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
+| 912 | [SYNCED](games/s/synced.md) | 4.12 | 0 | 517 |
+| 912 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
 | 914 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 89 | 357 |
 | 914 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,514 | 101 |
 | 916 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 517 |
@@ -956,13 +956,13 @@
 | 953 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 3.97 | 0 | 517 |
 | 955 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 418 |
 | 956 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 517 |
-| 956 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.94 | 0 | 517 |
 | 956 | [Patron](games/p/patron.md) | 3.94 | 0 | 517 |
-| 959 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 466 |
-| 959 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 27 | 473 |
-| 959 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 517 |
-| 959 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 436 | 209 |
-| 963 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.92 | 0 | 517 |
+| 958 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 466 |
+| 958 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 27 | 473 |
+| 958 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 517 |
+| 958 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 436 | 209 |
+| 962 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.92 | 0 | 517 |
+| 962 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.92 | 0 | 517 |
 | 964 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 335 |
 | 964 | [Warface](games/w/warface.md) | 3.91 | 414 | 215 |
 | 966 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 517 |

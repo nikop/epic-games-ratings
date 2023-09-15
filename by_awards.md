@@ -90,7 +90,7 @@
 | 88 | [Gloomhaven](games/g/gloomhaven.md) | 3,522 | 4.47 | 612 |
 | 89 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,510 | 4.68 | 242 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,347 | 4.68 | 242 |
-| 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,330 | 4.76 | 117 |
+| 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,331 | 4.76 | 117 |
 | 92 | [Trackmania](games/t/trackmania.md) | 3,315 | 4.67 | 259 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,261 | 4.57 | 450 |
 | 94 | [Hades](games/h/hades.md) | 3,259 | 4.92 | 4 |
@@ -133,7 +133,7 @@
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,322 | 4.41 | 689 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,319 | 4.70 | 202 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 280 |
-| 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,268 | 4.55 | 484 |
+| 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,269 | 4.55 | 484 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,202 | 4.42 | 678 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,189 | 4.61 | 367 |
 | 136 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,189 | 4.69 | 216 |
@@ -208,7 +208,7 @@
 | 206 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 455 | 4.40 | 711 |
 | 207 | [Loop Hero](games/l/loop_hero.md) | 452 | 4.67 | 259 |
 | 208 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 440 | 4.60 | 395 |
-| 209 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 436 | 3.93 | 959 |
+| 209 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 436 | 3.93 | 958 |
 | 210 | [RimWorld](games/r/rimworld.md) | 434 | 4.89 | 13 |
 | 211 | [Against the Storm](games/a/against_the_storm.md) | 430 | 4.81 | 78 |
 | 212 | [Into the Breach](games/i/into_the_breach.md) | 422 | 4.84 | 51 |
@@ -465,7 +465,7 @@
 | 463 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 842 |
 | 463 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 31 | 4.57 | 450 |
 | 465 | [Northgard](games/n/northgard.md) | 30 | 4.70 | 202 |
-| 466 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 959 |
+| 466 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 958 |
 | 466 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 781 |
 | 466 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 666 |
 | 469 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 28 | 4.61 | 367 |
@@ -473,7 +473,7 @@
 | 469 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 109 |
 | 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 548 |
 | 473 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 766 |
-| 473 | [Chimeraland](games/c/chimeraland.md) | 27 | 3.93 | 959 |
+| 473 | [Chimeraland](games/c/chimeraland.md) | 27 | 3.93 | 958 |
 | 473 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 468 |
 | 473 | [Forspoken](games/f/forspoken.md) | 27 | 4.15 | 896 |
 | 473 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 907 |
