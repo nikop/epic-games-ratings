@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -381,6 +381,11 @@
       "Time": "2023-09-16T07:04:05.584597+00:00",
       "NumProgressed": 149,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T11:05:31.0791836+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -391,7 +396,7 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
       "UsersEstimate": 116
     },
@@ -465,7 +470,7 @@
       "Name": "Romantic",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -473,7 +478,7 @@
       "Name": "Shelter Escape",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -527,9 +532,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -537,7 +542,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -577,7 +582,7 @@
       "Name": "Stone Retriever",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -592,14 +597,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:05:07.3899598+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:05:31.0791832+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-16T09:59:47.9586501+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:05:07.3899884+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:00:15.2838058+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:05:31.0792064+00:00"
 }

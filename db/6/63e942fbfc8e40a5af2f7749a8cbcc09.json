@@ -4,7 +4,7 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -94,9 +94,9 @@
       "ID": "ClearA01",
       "SetID": "94lmepd",
       "Name": "The Beginning of the End",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearC01",
@@ -357,8 +357,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:09:11.7553082+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:10:07.7310014+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:14.2650607+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:02:27.0211116+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:09:11.7553383+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:03:28.9963617+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:10:07.7310501+00:00"
 }

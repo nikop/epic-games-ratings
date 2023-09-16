@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 394)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 27.00% | ~234 |
+| Time Heals All Wounds | 28.00% | ~243 |
 | The Mysterious Stranger | 22.00% | ~191 |
 | Rail Rat | 22.00% | ~191 |
 | Make Up For Lost Time | 20.00% | ~174 |
@@ -30,20 +30,20 @@ Rating: 4.60 (Ranked 394)
 | Right On Time | 16.00% | ~139 |
 | The Man Who Shattered Time | 16.00% | ~139 |
 | Street Style | 15.00% | ~130 |
-| Cartographer | 15.00% | ~130 |
 | Treasure Trove | 14.00% | ~122 |
+| Cartographer | 14.00% | ~122 |
 | Whiz Kid | 13.00% | ~113 |
 | Good Neighbor | 12.00% | ~104 |
-| Chaincrawler Explorer | 11.00% | ~95 |
-| Family Memories | 11.00% | ~95 |
+| Chaincrawler Explorer | 11.00% | ~96 |
+| Family Memories | 11.00% | ~96 |
 | Syron for Hope | 10.00% | ~87 |
 | Theater Explorer | 10.00% | ~87 |
 | Ask Questions Later | 10.00% | ~87 |
 | Factorywood Explorer | 9.00% | ~78 |
 | Fairgrounds Explorer | 9.00% | ~78 |
 | Sump Explorer | 9.00% | ~78 |
-| Cultivair Explorer | 8.00% | ~69 |
-| Entresol Explorer | 8.00% | ~69 |
+| Cultivair Explorer | 8.00% | ~70 |
+| Entresol Explorer | 8.00% | ~70 |
 | Corin Goes Home | 7.00% | ~61 |
 | Sartorialist | 7.00% | ~61 |
 | Golem Hunter | 6.00% | ~52 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 394)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 868 (Ranked 218)  
+Progressed: 869 (Ranked 218)  
 Completed: 5 (0.58%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 5 (0.58%) (Ranked 147)
 | 2023-09-13 | 865 | 5 |
 | 2023-09-14 | 866 | 5 |
 | 2023-09-15 | 868 | 5 |
+| 2023-09-16 | 869 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

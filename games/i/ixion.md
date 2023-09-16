@@ -7,8 +7,8 @@ Rating: 4.55 (Ranked 485)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 27.00% | ~855 |
 | Sputnik 2049 | 24.00% | ~760 |
+| Without Breaking Some Eggs... | 22.00% | ~697 |
 | Infinite Growth... | 22.00% | ~697 |
-| Without Breaking Some Eggs... | 21.00% | ~665 |
 | Space Society | 16.00% | ~507 |
 | A Thousand Strong | 16.00% | ~507 |
 | Ready for a New World | 16.00% | ~507 |

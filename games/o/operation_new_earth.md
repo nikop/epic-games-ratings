@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 29.00% | ~384 |
-| Defenses Online | 25.00% | ~331 |
+| It's Good to have Allies | 29.00% | ~385 |
+| Defenses Online | 25.00% | ~332 |
 | Facility Online | 21.00% | ~278 |
 | Corporal | 14.00% | ~186 |
 | Sergeant | 11.00% | ~146 |
@@ -27,12 +27,12 @@
 | Brothers in Arms | 4.00% | ~53 |
 | Moving On Up | 3.00% | ~40 |
 | Major | 3.00% | ~40 |
-| Gold Achiever | 2.00% | ~26 |
-| Advanced Warfare | 2.00% | ~26 |
-| Colonel | 2.00% | ~26 |
-| Resourceful | 2.00% | ~26 |
-| Battle Ready | 2.00% | ~26 |
-| Control the Skies | 2.00% | ~26 |
+| Gold Achiever | 2.00% | ~27 |
+| Advanced Warfare | 2.00% | ~27 |
+| Colonel | 2.00% | ~27 |
+| Resourceful | 2.00% | ~27 |
+| Battle Ready | 2.00% | ~27 |
+| Control the Skies | 2.00% | ~27 |
 | General | 1.00% | ~13 |
 | Seek & Destroy | 1.00% | ~13 |
 | Titan Tanks | 1.00% | ~13 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 202)  
+Progressed: 1,326 (Ranked 202)  
 Completed: 1 (0.08%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,4 +143,4 @@ Completed: 1 (0.08%) (Ranked 231)
 | 2023-09-13 | 1,303 | 1 |
 | 2023-09-14 | 1,314 | 1 |
 | 2023-09-15 | 1,324 | 1 |
-| 2023-09-16 | 1,325 | 1 |
+| 2023-09-16 | 1,326 | 1 |

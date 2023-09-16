@@ -583,9 +583,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:07:05.7196391+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:07:50.8293432+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:02.5081406+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:01:55.4099789+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:07:05.7196929+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:02:52.3665212+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:07:50.8293924+00:00"
 }

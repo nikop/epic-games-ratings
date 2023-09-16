@@ -15,24 +15,24 @@ Rating: 4.30 (Ranked 800)
 | The Shaman | 47.00% | ~72 |
 | The Penguin | 45.00% | ~69 |
 | The Magician | 42.00% | ~65 |
-| The Tunneler | 39.00% | ~60 |
+| The Tunneler | 40.00% | ~62 |
 | Level Up!! | 38.00% | ~59 |
 | The Shield | 38.00% | ~59 |
 | Kill-streak | 31.00% | ~48 |
-| Topped up | 28.00% | ~43 |
+| Topped up | 29.00% | ~45 |
 | The Idol | 27.00% | ~42 |
 | The Bird | 27.00% | ~42 |
 | The Ninja | 27.00% | ~42 |
 | Inferno Ruins | 25.00% | ~38 |
 | 1 is all I need | 23.00% | ~35 |
 | I'm Rich | 23.00% | ~35 |
+| The Slime | 22.00% | ~34 |
 | Untouchable | 21.00% | ~32 |
-| The Slime | 21.00% | ~32 |
 | The Flower | 17.00% | ~26 |
 | The Giant | 17.00% | ~26 |
+| The Ooze | 17.00% | ~26 |
 | Out of the Frying Pan... | 17.00% | ~26 |
 | The Blacksmith | 16.00% | ~25 |
-| The Ooze | 16.00% | ~25 |
 | Ember | 16.00% | ~25 |
 | The Assistant | 14.00% | ~22 |
 | The Steampunk | 14.00% | ~22 |

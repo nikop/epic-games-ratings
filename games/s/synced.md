@@ -1,17 +1,17 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.15 (Ranked 897)  
+Rating: 4.16 (Ranked 891)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 5.00% | ~2,353 |
-| As Far Away As Possible | 3.00% | ~1,412 |
-| A Most Unstable Organism | 2.00% | ~941 |
-| No Time to Follow Protocol | 1.00% | ~471 |
-| Float Like a Butterfly... | 1.00% | ~471 |
-| Nano Connoisseur | 0.50% | ~235 |
-| In Two Places At Once | 0.50% | ~235 |
+| Your Lucky Day | 5.00% | ~2,358 |
+| As Far Away As Possible | 3.00% | ~1,415 |
+| A Most Unstable Organism | 2.00% | ~943 |
+| No Time to Follow Protocol | 1.00% | ~472 |
+| Float Like a Butterfly... | 1.00% | ~472 |
+| Nano Connoisseur | 0.50% | ~236 |
+| In Two Places At Once | 0.50% | ~236 |
 | Pulling Your Weight | 0.20% | ~94 |
 | Reaping Rivals | 0.20% | ~94 |
 | fifteenth Time's the Charm | 0.10% | ~47 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 897)
 | Past Master | 0.10% | ~47 |
 | Memory Keeper | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,060 (Ranked 94)  
+Progressed: 47,156 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,7 +42,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 39,115 | 0 |
 | 2023-09-14 | 42,687 | 0 |
 | 2023-09-15 | 45,912 | 0 |
-| 2023-09-16 | 47,060 | 0 |
+| 2023-09-16 | 47,156 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -53,3 +53,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 4.09 | 0 | 0 |
 | 2023-09-14 | 4.13 | 0 | 0 |
 | 2023-09-15 | 4.16 | 0 | 0 |
+| 2023-09-16 | 4.16 | 0 | 0 |

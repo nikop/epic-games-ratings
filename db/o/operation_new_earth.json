@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1326,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -4771,6 +4771,11 @@
       "Time": "2023-09-16T01:44:00.0389101+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T11:05:28.7662572+00:00",
+      "NumProgressed": 1326,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4814,7 +4819,7 @@
       "Name": "Gold Achiever",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -4878,7 +4883,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_headquarters_5",
@@ -4934,7 +4939,7 @@
       "Name": "Colonel",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -4958,7 +4963,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4998,7 +5003,7 @@
       "Name": "Resourceful",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -5014,7 +5019,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -5038,7 +5043,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5078,21 +5083,21 @@
       "Name": "Control the Skies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1326,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:05:05.4855325+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:05:28.7662568+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:01:55.084326+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:05:05.4856388+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:02:52.0018586+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:05:28.7663276+00:00"
 }

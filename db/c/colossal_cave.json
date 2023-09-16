@@ -178,9 +178,9 @@
       "ID": "08-TreasureSeeker",
       "SetID": "5iij4gg",
       "Name": "Treasure Seeker",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "09-IveFallenAndICantGetUp",
@@ -323,8 +323,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:07:08.2847951+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:07:53.9289368+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:13.2420987+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:02:04.4409119+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:07:08.2848184+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:03:01.8132598+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:07:53.92897+00:00"
 }

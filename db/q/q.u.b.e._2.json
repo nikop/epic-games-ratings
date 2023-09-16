@@ -1494,9 +1494,9 @@
       "ID": "ACH_CUBEKILLER",
       "SetID": "232494e",
       "Name": "Green Cube Killer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -1718,8 +1718,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:08:07.6311897+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:09:04.1108715+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-16T09:57:42.2544541+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:08:07.6312208+00:00"
+  "LastUpdate_Ratings": "2023-09-16T10:57:48.3303345+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:09:04.110905+00:00"
 }

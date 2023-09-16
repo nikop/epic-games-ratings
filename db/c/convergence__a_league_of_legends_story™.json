@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 869,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2160,6 +2160,11 @@
       "Time": "2023-09-15T20:08:14.7750629+00:00",
       "NumProgressed": 868,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T11:09:30.8081406+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2187,7 +2192,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ChestCompletion1",
@@ -2251,7 +2256,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "EntresolChests1",
@@ -2259,7 +2264,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2267,7 +2272,7 @@
       "Name": "Family Memories",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "FactorywoodChests1",
@@ -2369,9 +2374,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 122
     },
     {
       "ID": "NoCritterSump",
@@ -2457,9 +2462,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 243
     },
     {
       "ID": "RewindParry",
@@ -2594,7 +2599,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 869,
       "Completed": 5
     }
   ],
@@ -2602,8 +2607,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:08:30.365081+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:09:30.8081402+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:00:35.9369113+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:08:30.3651441+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:01:12.8676293+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:09:30.8081933+00:00"
 }

@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224371,
+  "EOS_Progressed": 224387,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1912,
+  "EOS_NewPlayers": 1913,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11078,6 +11078,11 @@
       "Time": "2023-09-16T10:09:15.8928526+00:00",
       "NumProgressed": 224371,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T11:10:12.6783137+00:00",
+      "NumProgressed": 224387,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11089,7 +11094,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "100Fail",
@@ -11121,7 +11126,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "BookCollection",
@@ -11137,7 +11142,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6731
+      "UsersEstimate": 6732
     },
     {
       "ID": "Chapter2",
@@ -11145,7 +11150,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "Chapter3",
@@ -11153,7 +11158,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "Chapter4",
@@ -11521,7 +11526,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6731
+      "UsersEstimate": 6732
     },
     {
       "ID": "ElfEpic",
@@ -11537,7 +11542,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67311
+      "UsersEstimate": 67316
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11553,7 +11558,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "EndCombatOneHp",
@@ -11561,7 +11566,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "EndGameCursed",
@@ -11601,7 +11606,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "InsultLoose",
@@ -11625,7 +11630,7 @@
       "Name": "We come in peace",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "MinistrelEpic",
@@ -11737,7 +11742,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6731
+      "UsersEstimate": 6732
     },
     {
       "ID": "SupportCount4",
@@ -11785,28 +11790,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224371,
+      "Progressed": 224387,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224371,
+      "Progressed": 224387,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:09:15.8928518+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:10:12.6783133+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-16T09:59:01.7356657+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:09:15.8931512+00:00"
+  "LastUpdate_Ratings": "2023-09-16T10:59:25.7036087+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:10:12.678732+00:00"
 }

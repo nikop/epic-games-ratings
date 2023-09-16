@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 515,
+  "EOS_Progressed": 516,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1210,6 +1210,11 @@
       "Time": "2023-09-15T13:11:07.2033512+00:00",
       "NumProgressed": 515,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T11:07:27.3311329+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1245,7 +1250,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Chapter10",
@@ -1269,7 +1274,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Chapter4",
@@ -1285,7 +1290,7 @@
       "Name": "The Traitor",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Chapter6",
@@ -1508,14 +1513,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 515,
+      "Progressed": 516,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:06:45.5238238+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:07:27.3311325+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.8512741+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:03:19.0269357+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:06:45.5238865+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:03:57.3570138+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:07:27.3311985+00:00"
 }

@@ -363,9 +363,9 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_50_CATCHES",
@@ -500,8 +500,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:05:25.0528773+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:05:52.1142151+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:38.6556024+00:00",
-  "LastUpdate_Ratings": "2023-09-16T09:58:59.4716468+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:05:25.052915+00:00"
+  "LastUpdate_Ratings": "2023-09-16T10:59:22.9850847+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:05:52.1142384+00:00"
 }

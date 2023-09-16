@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1360,
+  "EOS_Progressed": 1361,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2525,6 +2525,11 @@
       "Time": "2023-09-16T10:08:17.4460355+00:00",
       "NumProgressed": 1360,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T11:09:15.5912519+00:00",
+      "NumProgressed": 1361,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2568,7 +2573,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Commandos",
@@ -2582,9 +2587,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 231
     },
     {
       "ID": "Defense_Common",
@@ -2616,7 +2621,7 @@
       "Name": "E1M1",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Everyone_is_here",
@@ -2752,7 +2757,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "We_were_not_here",
@@ -2768,22 +2773,22 @@
       "Name": "Your Answer",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1360,
+      "Progressed": 1361,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-16T10:08:17.4460349+00:00",
+  "LastChanged_Achievements": "2023-09-16T11:09:15.5912515+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:00:09.7445241+00:00",
-  "LastUpdate_Achievements": "2023-09-16T10:08:17.4460779+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:00:40.4888391+00:00",
+  "LastUpdate_Achievements": "2023-09-16T11:09:15.591286+00:00"
 }

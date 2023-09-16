@@ -30,7 +30,7 @@ Rating: 4.54 (Ranked 505)
 | Stacking the Deck | 1.00% | ~6,806 |
 | Our True Nature | 1.00% | ~6,806 |
 | This is My Weapon | 1.00% | ~6,806 |
-| Humanity Distilled | 0.90% | ~6,125 |
+| Humanity Distilled | 0.90% | ~6,126 |
 | Making Your Mark | 0.80% | ~5,445 |
 | Down with the Sickness | 0.80% | ~5,445 |
 | Max Headroom | 0.70% | ~4,764 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~681 |
 | Bucket List | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,588 (Ranked 22)  
+Progressed: 680,619 (Ranked 22)  
 Completed: 2,144 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 2,144 (0.32%) (Ranked 177)
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
-| 2023-09-16 | 680,588 | 2,144 |
+| 2023-09-16 | 680,619 | 2,144 |
 ## Awards
 Max (Great Boss Battles): 6,061  (Ranked 57)  
-Sum: 8,990 (Ranked 94)  
+Sum: 8,992 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): -37
 | This game has Quickly Understood Controls | 395 |
 | This game is Relaxing | 376 |
 | This game has Amazing Storytelling | 351 |
-| This game is Extremely Fun | 335 |
+| This game is Extremely Fun | 337 |
 | This game has Amazing Characters | 325 |
 | This game is Highly Recommended | 322 |
 ## Ratings History
@@ -367,4 +367,4 @@ Diff (max vs sum): -37
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
 | 2023-09-14 | 4.54 | 6,038 | 8,954 |
 | 2023-09-15 | 4.54 | 6,061 | 8,982 |
-| 2023-09-16 | 4.54 | 6,061 | 8,990 |
+| 2023-09-16 | 4.54 | 6,061 | 8,992 |
