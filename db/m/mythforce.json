@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -611,7 +611,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2158,
+  "EOS_Progressed": 2163,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 925,
   "EOS_NewCompleters": 0,
@@ -4501,6 +4501,11 @@
       "Time": "2023-09-16T01:48:00.2621494+00:00",
       "NumProgressed": 2158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T02:20:06.0462912+00:00",
+      "NumProgressed": 2163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4527,9 +4532,9 @@
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -4583,17 +4588,17 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -4631,9 +4636,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -4647,9 +4652,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 43
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4696,15 +4701,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2158,
+      "Progressed": 2163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:48:00.2621489+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:20:06.0462906+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:38:06.6938912+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:48:00.2621867+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:11:14.228684+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:20:06.046335+00:00"
 }

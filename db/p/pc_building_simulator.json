@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-10-07T15:00:00+00:00",
@@ -4582,9 +4582,9 @@
       "Count": 657
     }
   ],
-  "EOS_Progressed": 3558417,
+  "EOS_Progressed": 3558420,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2603,
+  "EOS_NewPlayers": 2599,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21302,6 +21302,11 @@
       "Time": "2023-09-16T01:46:29.5588895+00:00",
       "NumProgressed": 3558417,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-09-16T02:19:00.0747819+00:00",
+      "NumProgressed": 3558420,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 52,
@@ -21321,7 +21326,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 889604
+      "UsersEstimate": 889605
     },
     {
       "ID": "BRICK",
@@ -21377,7 +21382,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1387783
+      "UsersEstimate": 1387784
     },
     {
       "ID": "CASH_2",
@@ -21441,7 +21446,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 711683
+      "UsersEstimate": 711684
     },
     {
       "ID": "HBPC_TIME",
@@ -21473,7 +21478,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1031941
+      "UsersEstimate": 1031942
     },
     {
       "ID": "JOBS_2",
@@ -21553,7 +21558,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1743624
+      "UsersEstimate": 1743626
     },
     {
       "ID": "NO_PASTE",
@@ -21561,7 +21566,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1636872
+      "UsersEstimate": 1636873
     },
     {
       "ID": "OPC_BM_1",
@@ -21728,15 +21733,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3558417,
+      "Progressed": 3558420,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-09-16T01:38:58.6627582+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:46:29.558889+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:19:00.0747814+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.5072847+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:38:58.6627588+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:46:29.5602799+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:11:50.5805986+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:19:00.0749281+00:00"
 }

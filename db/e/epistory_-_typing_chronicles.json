@@ -2,13 +2,13 @@
   "ID": "6a6d54e5b4ef4fb0b3dad1d02a320376",
   "Name": "Epistory - Typing Chronicles",
   "ProductSlug": "epistory-typing-chronicles-445794",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-19T16:00:00+00:00",
     "PcReleaseDate": "2016-03-30T03:00:00+00:00",
@@ -252,6 +252,6 @@
   "FirstSeenRating": "2023-01-21T18:58:09.3863297+00:00",
   "LastChanged": "2023-09-02T22:59:34.1496325+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:16.4150659+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:38:25.8381095+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:43:39.5517022+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:11:27.8395626+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:16:57.7068164+00:00"
 }

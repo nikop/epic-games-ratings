@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1301,7 +1301,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127815,
+  "EOS_Progressed": 127816,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
@@ -16051,6 +16051,11 @@
       "Time": "2023-09-16T01:47:19.5844461+00:00",
       "NumProgressed": 127815,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-16T02:19:36.8386199+00:00",
+      "NumProgressed": 127816,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16166,7 +16171,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20450
+      "UsersEstimate": 20451
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -16198,7 +16203,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20450
+      "UsersEstimate": 20451
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -16381,15 +16386,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127815,
+      "Progressed": 127816,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:47:19.5844457+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:19:36.8386194+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:38:56.5560013+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:47:19.5845535+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:11:49.5551208+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:19:36.8387393+00:00"
 }

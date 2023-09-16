@@ -7680,9 +7680,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 296680,
+  "EOS_Progressed": 296683,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 675,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23760,6 +23760,11 @@
       "Time": "2023-09-16T01:43:51.1257302+00:00",
       "NumProgressed": 296680,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-16T02:17:06.2624634+00:00",
+      "NumProgressed": 296683,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23771,7 +23776,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41535
+      "UsersEstimate": 41536
     },
     {
       "ID": "PFA_10",
@@ -23843,7 +23848,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23734
+      "UsersEstimate": 23735
     },
     {
       "ID": "PFA_19",
@@ -24075,7 +24080,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23734
+      "UsersEstimate": 23735
     },
     {
       "ID": "PFA_45",
@@ -24099,7 +24104,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38568
+      "UsersEstimate": 38569
     },
     {
       "ID": "PFA_7",
@@ -24130,7 +24135,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296680,
+      "Progressed": 296683,
       "Completed": 470
     }
   ],
@@ -24138,8 +24143,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-16T01:42:05.4844101+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:43:51.1257297+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:17:06.2624631+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:42:05.4844107+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:43:51.1258933+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:16:06.8719799+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:17:06.2626015+00:00"
 }

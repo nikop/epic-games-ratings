@@ -4,8 +4,8 @@
   "ProductSlug": "sunblaze",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-14T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:07.5146868+00:00",
   "LastChanged": "2023-03-31T05:58:07.5146869+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:08.4844663+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:38:11.8013086+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:44:03.5487046+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:11:17.132959+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:17:14.7921316+00:00"
 }

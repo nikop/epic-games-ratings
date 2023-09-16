@@ -7,15 +7,15 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 76.00% | ~13,536 |
-| Sword Runner | 61.00% | ~10,864 |
-| Running out of breath | 54.00% | ~9,617 |
-| Wallrunner | 54.00% | ~9,617 |
-| Homerunner | 45.00% | ~8,014 |
-| Out of order | 44.00% | ~7,836 |
-| I call it luck | 43.00% | ~7,658 |
+| Sword Runner | 61.00% | ~10,865 |
+| Running out of breath | 54.00% | ~9,618 |
+| Wallrunner | 54.00% | ~9,618 |
+| Homerunner | 45.00% | ~8,015 |
+| Out of order | 44.00% | ~7,837 |
+| I call it luck | 43.00% | ~7,659 |
 | Where are my Keys? | 40.00% | ~7,124 |
 | Back to hell | 36.00% | ~6,412 |
-| Perfection | 32.00% | ~5,699 |
+| Perfection | 32.00% | ~5,700 |
 | Why not both | 30.00% | ~5,343 |
 | Sword to a gunfight | 29.00% | ~5,165 |
 | Upgrades not mandatory | 29.00% | ~5,165 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Triple A | 9.00% | ~1,603 |
 | One Of Those Days | 7.00% | ~1,247 |
 | Fine addition | 6.00% | ~1,069 |
-| Where He Stood | 5.00% | ~890 |
+| Where He Stood | 5.00% | ~891 |
 | About Adam | 4.00% | ~712 |
 | Push it to the limit | 4.00% | ~712 |
 | Scrapped | 4.00% | ~712 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~71 |
 | Up Close And Personal | 0.40% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,810 (Ranked 117)  
+Progressed: 17,811 (Ranked 117)  
 Completed: 67 (0.38%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 67 (0.38%) (Ranked 166)
 | 2023-09-13 | 17,595 | 67 |
 | 2023-09-14 | 17,688 | 67 |
 | 2023-09-15 | 17,802 | 67 |
-| 2023-09-16 | 17,810 | 67 |
+| 2023-09-16 | 17,811 | 67 |
 ## Awards
 Max (Great Boss Battles): 490  (Ranked 202)  
 Sum: 684 (Ranked 281)  

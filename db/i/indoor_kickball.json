@@ -4,8 +4,8 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:46:47.0806668+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:19:13.2623394+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:39.3893249+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:38:16.9996579+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:46:47.0807015+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:11:20.4104144+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:19:13.2623729+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,535 |
-| First Class Student | 13.00% | ~38,568 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,536 |
+| First Class Student | 13.00% | ~38,569 |
 | A Keen Sense of Spell | 12.00% | ~35,602 |
 | Troll with the Punches | 12.00% | ~35,602 |
 | A Talent for Spending | 11.00% | ~32,635 |
@@ -21,8 +21,8 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 9.00% | ~26,701 |
 | Followed the Butterflies | 9.00% | ~26,701 |
 | Rising From the Ashes | 9.00% | ~26,701 |
-| A Sallow Grave | 8.00% | ~23,734 |
-| The Spell Master | 8.00% | ~23,734 |
+| A Sallow Grave | 8.00% | ~23,735 |
+| The Spell Master | 8.00% | ~23,735 |
 | The Avenging Gazelle | 7.00% | ~20,768 |
 | Beast Friends | 7.00% | ~20,768 |
 | Flight the Good Flight | 7.00% | ~20,768 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,680 (Ranked 43)  
+Progressed: 296,683 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
-| 2023-09-16 | 296,680 | 470 |
+| 2023-09-16 | 296,683 | 470 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
 Sum: 43,397 (Ranked 30)  

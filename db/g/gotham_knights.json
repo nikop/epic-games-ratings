@@ -2936,9 +2936,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72568,
+  "EOS_Progressed": 72569,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15581,6 +15581,11 @@
       "Time": "2023-09-16T01:42:32.0961589+00:00",
       "NumProgressed": 72568,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-16T02:16:24.1211759+00:00",
+      "NumProgressed": 72569,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15936,7 +15941,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37735
+      "UsersEstimate": 37736
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15968,7 +15973,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 19593
+      "UsersEstimate": 19594
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16048,7 +16053,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7982
+      "UsersEstimate": 7983
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -16079,13 +16084,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72568,
+      "Progressed": 72569,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42848,
+      "Progressed": 42849,
       "Completed": 2663
     }
   ],
@@ -16093,8 +16098,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-16T01:39:17.3092597+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:42:32.0961583+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:16:24.1211751+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:39:17.3092604+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:42:32.096332+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:12:05.5207228+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:16:24.121526+00:00"
 }

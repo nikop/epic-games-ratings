@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 2.00% | ~13,608 |
-| Break A Leg | 2.00% | ~13,608 |
-| Coup de Grâce | 2.00% | ~13,608 |
-| Hazardous Materials | 2.00% | ~13,608 |
-| Hotel California | 2.00% | ~13,608 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,608 |
-| Welcome To Hell-A | 2.00% | ~13,608 |
+| Git Gutte! | 2.00% | ~13,609 |
+| Break A Leg | 2.00% | ~13,609 |
+| Coup de Grâce | 2.00% | ~13,609 |
+| Hazardous Materials | 2.00% | ~13,609 |
+| Hotel California | 2.00% | ~13,609 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,609 |
+| Welcome To Hell-A | 2.00% | ~13,609 |
 | Dr. Reed, I Presume? | 1.00% | ~6,804 |
 | Anger Management | 1.00% | ~6,804 |
 | Perks of the Job | 1.00% | ~6,804 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,420 (Ranked 22)  
+Progressed: 680,434 (Ranked 22)  
 Completed: 2,143 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 2,143 (0.31%) (Ranked 178)
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
-| 2023-09-16 | 680,420 | 2,143 |
+| 2023-09-16 | 680,434 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,061  (Ranked 57)  
 Sum: 8,982 (Ranked 94)  

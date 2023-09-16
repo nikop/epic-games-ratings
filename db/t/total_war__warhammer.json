@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
     "PcReleaseDate": "2016-05-24T11:08:48+00:00",
@@ -5794,24 +5794,30 @@
       "Rating": 4.58,
       "NumberOfAwards": 14606,
       "NumberOfAwardsMax": 6364
+    },
+    {
+      "Time": "2023-09-16T02:10:14.8224144+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 14612,
+      "NumberOfAwardsMax": 6367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14606,
-  "NumberOfAwardsMax": 6364,
+  "NumberOfAwards": 14612,
+  "NumberOfAwardsMax": 6367,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6364
+      "Count": 6367
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1009
+      "Count": 1011
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5853,7 +5859,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 853
+      "Count": 854
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5891,8 +5897,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-09-14T19:03:11.5210591+00:00",
+  "LastChanged": "2023-09-16T02:10:14.8224141+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:28.8398996+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:36:43.6758705+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:45:23.3937556+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:10:14.8224149+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:18:12.540298+00:00"
 }

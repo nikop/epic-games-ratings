@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.49 (Ranked 582)  
+Rating: 4.49 (Ranked 583)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,7 +17,7 @@ Rating: 4.49 (Ranked 582)
 | Use The Bumper, That's What It's For | 53.00% | ~1,730 |
 | First Steps Into Madness | 53.00% | ~1,730 |
 | Colonial Barrels | 51.00% | ~1,665 |
-| Harper's Hell | 45.00% | ~1,469 |
+| Harper's Hell | 46.00% | ~1,501 |
 | Making a Stand | 44.00% | ~1,436 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,371 |
 | Where It All Begun | 40.00% | ~1,306 |

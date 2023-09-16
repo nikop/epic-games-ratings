@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 582)  
+Rating: 4.49 (Ranked 583)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,8 +23,8 @@ Number of Ratings: 801  (23.09.2022)
 | Field Medic | 38.00% | ~3,422 |
 | Here Comes a New Challenger | 37.00% | ~3,332 |
 | Rapid Response | 33.00% | ~2,972 |
+| The Full Monty | 31.00% | ~2,792 |
 | Surge Ahead | 30.00% | ~2,702 |
-| The Full Monty | 30.00% | ~2,702 |
 | Guardian Angel | 28.00% | ~2,521 |
 | Poppin Noggins | 24.00% | ~2,161 |
 | Clips and Crits | 20.00% | ~1,801 |

@@ -19,11 +19,11 @@
 | Swing The Broom | 7.00% | ~10 |
 | Bakery Business | 6.00% | ~9 |
 | The Famous Lemon Cake | 6.00% | ~9 |
+| A Loving Home | 6.00% | ~9 |
 | Bakery Empire | 5.00% | ~7 |
-| A Loving Home | 5.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 328)  
-Completed: 1 (0.67%) (Ranked 139)  
+Completed: 2 (1.34%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,6 +59,7 @@ Completed: 1 (0.67%) (Ranked 139)
 | 2023-09-05 | 147 | 1 |
 | 2023-09-07 | 148 | 1 |
 | 2023-09-09 | 149 | 1 |
+| 2023-09-16 | 149 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

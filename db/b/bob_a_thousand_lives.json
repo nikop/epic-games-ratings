@@ -4,8 +4,8 @@
   "ProductSlug": "bob-a-thousand-lives-802452",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-24T15:00:00+00:00",
     "PcReleaseDate": "2023-06-24T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-26T14:57:52.2157174+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:11.5640491+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:42:09.9377026+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:48:43.8121673+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:16:09.3756679+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:21:16.9943831+00:00"
 }

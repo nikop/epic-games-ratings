@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107785,
+  "EOS_Progressed": 107786,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11016,6 +11016,11 @@
       "Time": "2023-09-16T01:42:27.7250005+00:00",
       "NumProgressed": 107785,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-16T02:16:21.1122548+00:00",
+      "NumProgressed": 107786,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -11083,7 +11088,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10778
+      "UsersEstimate": 10779
     },
     {
       "ID": "EAwards_16",
@@ -11131,7 +11136,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10778
+      "UsersEstimate": 10779
     },
     {
       "ID": "EAwards_21",
@@ -11227,7 +11232,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10778
+      "UsersEstimate": 10779
     },
     {
       "ID": "EAwards_32",
@@ -11411,14 +11416,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10778
+      "UsersEstimate": 10779
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107785,
+      "Progressed": 107786,
       "Completed": 42
     }
   ],
@@ -11426,8 +11431,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:42:27.725+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:16:21.1122541+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:10.7751349+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:41:19.4587616+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:42:27.7251198+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:13:33.3250062+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:16:21.1123701+00:00"
 }

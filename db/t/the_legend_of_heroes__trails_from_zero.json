@@ -4,8 +4,8 @@
   "ProductSlug": "the-legend-of-heroes-trails-from-zero",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-31T17:00:00+00:00",
     "PcReleaseDate": "2022-09-27T17:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.9849445+00:00",
   "LastChanged": "2023-03-31T05:58:09.9849447+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:12.8193145+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:40:22.8794178+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:47:26.6841972+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:12:57.6075379+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:19:41.8573168+00:00"
 }

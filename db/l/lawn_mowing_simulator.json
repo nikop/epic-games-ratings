@@ -2,13 +2,13 @@
   "ID": "70d9536d99af4c70a55e4c23989f4225",
   "Name": "Lawn Mowing Simulator",
   "ProductSlug": "lawn-mowing-simulator-838bf3",
-  "Ranking_Rating": 931,
+  "Ranking_Rating": 930,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2125,9 +2125,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 664858,
+  "EOS_Progressed": 664859,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1972,
+  "EOS_NewPlayers": 1969,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18755,6 +18755,11 @@
       "Time": "2023-09-16T01:48:18.3646629+00:00",
       "NumProgressed": 664858,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-16T02:20:18.8148293+00:00",
+      "NumProgressed": 664859,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -18766,7 +18771,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 531886
+      "UsersEstimate": 531887
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -19038,7 +19043,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 39891
+      "UsersEstimate": 39892
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -19166,7 +19171,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 119674
+      "UsersEstimate": 119675
     },
     {
       "ID": "RP_TRUSTED",
@@ -19197,15 +19202,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 664858,
+      "Progressed": 664859,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-15T01:40:12.0973967+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:48:18.3646625+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:20:18.8148286+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:15.7452409+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:37:26.5970565+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:48:18.3648097+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:10:46.5463763+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:20:18.8149907+00:00"
 }

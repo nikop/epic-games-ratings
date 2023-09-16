@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 932,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 55,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6676,9 +6676,9 @@
       "Count": 3419
     }
   ],
-  "EOS_Progressed": 228935,
+  "EOS_Progressed": 228939,
   "EOS_Completed": 2286,
-  "EOS_NewPlayers": 925,
+  "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23126,6 +23126,11 @@
       "Time": "2023-09-16T01:46:07.2817471+00:00",
       "NumProgressed": 228935,
       "NumCompleted": 2286
+    },
+    {
+      "Time": "2023-09-16T02:18:44.7235919+00:00",
+      "NumProgressed": 228939,
+      "NumCompleted": 2286
     }
   ],
   "TotalAchievements": 520,
@@ -27296,21 +27301,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195209,
+      "Progressed": 195213,
       "Completed": 3431
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228935,
+      "Progressed": 228939,
       "Completed": 2286
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-15T16:58:09.446849+00:00",
-  "LastChanged_Achievements": "2023-09-16T01:46:07.2817465+00:00",
+  "LastChanged_Achievements": "2023-09-16T02:18:44.7235916+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:36:59.1015313+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:46:07.2849748+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:10:26.0692368+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:18:44.7263433+00:00"
 }

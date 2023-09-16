@@ -2,13 +2,13 @@
   "ID": "cb47b6d16fc54e418e11560bee52ad89",
   "Name": "Mars Horizon",
   "ProductSlug": "mars-horizon",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-06-22T14:00:00+00:00",
     "PcReleaseDate": "2020-06-16T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 23,
   "RatingHistory": [
     {
@@ -119,6 +119,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-16T02:10:43.9893906+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -137,8 +143,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:11.8890677+00:00",
   "FirstSeenRating": "2022-09-07T14:30:49.2420338+00:00",
-  "LastChanged": "2023-08-22T19:02:01.5269746+00:00",
+  "LastChanged": "2023-09-16T02:10:43.9893901+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.0269131+00:00",
-  "LastUpdate_Ratings": "2023-09-16T01:37:22.7561473+00:00",
-  "LastUpdate_Achievements": "2023-09-16T01:46:02.1272635+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:10:43.9893913+00:00",
+  "LastUpdate_Achievements": "2023-09-16T02:18:40.1092263+00:00"
 }

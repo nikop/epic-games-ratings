@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 56.00% | ~80 |
-| Press-ganged | 40.00% | ~57 |
+| A Second Chance | 56.00% | ~81 |
+| Press-ganged | 40.00% | ~58 |
 | The Package | 25.00% | ~36 |
 | Conquered | 18.00% | ~26 |
 | Randomized | 17.00% | ~24 |
 | Scribe | 10.00% | ~14 |
 | Tactician | 9.00% | ~13 |
-| Breached | 8.00% | ~11 |
+| Breached | 8.00% | ~12 |
 | Fight Another Day | 7.00% | ~10 |
 | Conciliator | 6.00% | ~9 |
 | Scholar | 6.00% | ~9 |
@@ -57,6 +57,7 @@
 | Trailblazer | 1.00% | ~1 |
 | Ruiner | 1.00% | ~1 |
 | Wyrmslayer | 1.00% | ~1 |
+| Glorious leader | 1.00% | ~1 |
 | Voracity Confronted | 1.00% | ~1 |
 | Ever After | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
@@ -71,7 +72,6 @@
 | Arcanite | 0.70% | ~1 |
 | The Last Voyage | 0.70% | ~1 |
 | Tax Evasion | 0.70% | ~1 |
-| Glorious leader | 0.70% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143 (Ranked 332)  
+Progressed: 144 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 140 | 0 |
 | 2023-09-14 | 142 | 0 |
 | 2023-09-15 | 143 | 0 |
+| 2023-09-16 | 144 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
