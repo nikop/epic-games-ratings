@@ -17,10 +17,10 @@ Rating: 4.77 (Ranked 109)
 | The Defender of Dragons | 10.00% | ~29,668 |
 | Loom for Improvement | 10.00% | ~29,668 |
 | Coasting Along | 10.00% | ~29,668 |
-| The Hero of Hogwarts | 9.00% | ~26,701 |
-| Challenge Accepted | 9.00% | ~26,701 |
-| Followed the Butterflies | 9.00% | ~26,701 |
-| Rising From the Ashes | 9.00% | ~26,701 |
+| The Hero of Hogwarts | 9.00% | ~26,702 |
+| Challenge Accepted | 9.00% | ~26,702 |
+| Followed the Butterflies | 9.00% | ~26,702 |
+| Rising From the Ashes | 9.00% | ~26,702 |
 | A Sallow Grave | 8.00% | ~23,735 |
 | The Spell Master | 8.00% | ~23,735 |
 | The Avenging Gazelle | 7.00% | ~20,768 |
@@ -37,8 +37,8 @@ Rating: 4.77 (Ranked 109)
 | The Intrepid Explorer | 4.00% | ~11,867 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,867 |
 | The Wise Owl | 4.00% | ~11,867 |
-| Put Down Roots | 3.00% | ~8,900 |
-| Floo Around the World | 3.00% | ~8,900 |
+| Put Down Roots | 3.00% | ~8,901 |
+| Floo Around the World | 3.00% | ~8,901 |
 | The Good Samaritan | 2.00% | ~5,934 |
 | The Auror's Apprentice | 2.00% | ~5,934 |
 | Rise to the Challenges | 2.00% | ~5,934 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,683 (Ranked 43)  
+Progressed: 296,685 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
-| 2023-09-16 | 296,683 | 470 |
+| 2023-09-16 | 296,685 | 470 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
 Sum: 43,397 (Ranked 30)  

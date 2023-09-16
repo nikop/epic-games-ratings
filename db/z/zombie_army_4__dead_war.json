@@ -2061,9 +2061,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43452,
+  "EOS_Progressed": 43453,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6806,6 +6806,11 @@
       "Time": "2023-09-16T01:43:34.0944852+00:00",
       "NumProgressed": 43452,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-16T03:04:14.6677829+00:00",
+      "NumProgressed": 43453,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -6889,7 +6894,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17815
+      "UsersEstimate": 17816
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -6921,7 +6926,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16946
+      "UsersEstimate": 16947
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -7009,7 +7014,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26940
+      "UsersEstimate": 26941
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7065,7 +7070,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21291
+      "UsersEstimate": 21292
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -7105,7 +7110,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16077
+      "UsersEstimate": 16078
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -7145,7 +7150,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29982
+      "UsersEstimate": 29983
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -7185,7 +7190,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20422
+      "UsersEstimate": 20423
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -7209,7 +7214,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19553
+      "UsersEstimate": 19554
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -7217,7 +7222,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28678
+      "UsersEstimate": 28679
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -7281,7 +7286,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10428
+      "UsersEstimate": 10429
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -7329,7 +7334,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7821
+      "UsersEstimate": 7822
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -7344,15 +7349,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43452,
+      "Progressed": 43453,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-11T13:58:16.7328545+00:00",
-  "LastChanged_Achievements": "2023-09-16T02:16:54.1844231+00:00",
+  "LastChanged_Achievements": "2023-09-16T03:04:14.6677823+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:11.630009+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:12:52.7895035+00:00",
-  "LastUpdate_Achievements": "2023-09-16T02:16:54.184513+00:00"
+  "LastUpdate_Ratings": "2023-09-16T03:01:07.3161691+00:00",
+  "LastUpdate_Achievements": "2023-09-16T03:04:14.6678978+00:00"
 }

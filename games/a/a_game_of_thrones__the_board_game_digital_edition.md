@@ -13,11 +13,11 @@ Number of Ratings: 2,500  (23.09.2022)
 | Royal Fleet | 13.00% | ~3,119 |
 | The Kraken’s Grasp | 9.00% | ~2,159 |
 | Daggers in the Dark | 8.00% | ~1,919 |
+| Oathkeeper | 8.00% | ~1,919 |
 | Alliance | 8.00% | ~1,919 |
 | A Long Journey | 8.00% | ~1,919 |
 | Ours is the Fury | 7.00% | ~1,679 |
 | Winter is Coming | 7.00% | ~1,679 |
-| Oathkeeper | 7.00% | ~1,679 |
 | Influential | 7.00% | ~1,679 |
 | We Do Not Sow | 6.00% | ~1,439 |
 | Hear me Roar! | 6.00% | ~1,439 |

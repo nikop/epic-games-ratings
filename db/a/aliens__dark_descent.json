@@ -318,9 +318,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3264,
+  "EOS_Progressed": 3265,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4268,6 +4268,11 @@
       "Time": "2023-09-16T01:47:11.5461068+00:00",
       "NumProgressed": 3264,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T03:07:52.6703466+00:00",
+      "NumProgressed": 3265,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4375,7 +4380,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4391,7 +4396,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4399,7 +4404,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4423,7 +4428,7 @@
       "Name": "Hardened In The Heat Of Battle",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -4431,7 +4436,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -4455,7 +4460,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4471,7 +4476,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4487,7 +4492,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4495,7 +4500,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4519,7 +4524,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACH_MISSION_08",
@@ -4559,7 +4564,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -4575,7 +4580,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4583,7 +4588,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4591,7 +4596,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4631,14 +4636,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3264,
+      "Progressed": 3265,
       "Completed": 3
     }
   ],
@@ -4646,8 +4651,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-12T16:59:01.3538797+00:00",
-  "LastChanged_Achievements": "2023-09-16T02:19:30.8316184+00:00",
+  "LastChanged_Achievements": "2023-09-16T03:07:52.6703461+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.1114534+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:12:29.0624746+00:00",
-  "LastUpdate_Achievements": "2023-09-16T02:19:30.8316824+00:00"
+  "LastUpdate_Ratings": "2023-09-16T03:00:39.1967973+00:00",
+  "LastUpdate_Achievements": "2023-09-16T03:07:52.6704551+00:00"
 }

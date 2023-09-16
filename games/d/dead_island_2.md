@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 504)
 | Stacking the Deck | 1.00% | ~6,804 |
 | Our True Nature | 1.00% | ~6,804 |
 | This is My Weapon | 1.00% | ~6,804 |
-| Making Your Mark | 0.80% | ~5,443 |
-| Humanity Distilled | 0.80% | ~5,443 |
-| Down with the Sickness | 0.80% | ~5,443 |
+| Making Your Mark | 0.80% | ~5,444 |
+| Humanity Distilled | 0.80% | ~5,444 |
+| Down with the Sickness | 0.80% | ~5,444 |
 | Max Headroom | 0.70% | ~4,763 |
 | Go, Bobcats! | 0.60% | ~4,083 |
 | Rising Star | 0.60% | ~4,083 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,434 (Ranked 22)  
+Progressed: 680,447 (Ranked 22)  
 Completed: 2,143 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 2,143 (0.31%) (Ranked 178)
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
-| 2023-09-16 | 680,434 | 2,143 |
+| 2023-09-16 | 680,447 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,061  (Ranked 57)  
-Sum: 8,982 (Ranked 94)  
+Sum: 8,984 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -215,7 +215,7 @@ Diff (max vs sum): -37
 | This game has Amazing Storytelling | 351 |
 | This game is Extremely Fun | 335 |
 | This game has Amazing Characters | 325 |
-| This game is Highly Recommended | 320 |
+| This game is Highly Recommended | 322 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -367,3 +367,4 @@ Diff (max vs sum): -37
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
 | 2023-09-14 | 4.54 | 6,038 | 8,954 |
 | 2023-09-15 | 4.54 | 6,061 | 8,982 |
+| 2023-09-16 | 4.54 | 6,061 | 8,984 |

@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,293 |
+| Sowwy! | 30.00% | ~67,295 |
 | Alt+F4 | 5.00% | ~11,216 |
-| Where's that freaking Dwarf? | 4.00% | ~8,972 |
-| Déjà vu | 3.00% | ~6,729 |
-| Sock! SOCK! | 3.00% | ~6,729 |
-| Speedrun | 3.00% | ~6,729 |
+| Where's that freaking Dwarf? | 4.00% | ~8,973 |
+| Déjà vu | 3.00% | ~6,730 |
+| Sock! SOCK! | 3.00% | ~6,730 |
+| Speedrun | 3.00% | ~6,730 |
 | Livin' in a dwarven paradise | 2.00% | ~4,486 |
 | Way of the Wimp | 2.00% | ~4,486 |
 | A beer, two curses, three companions | 2.00% | ~4,486 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.90% | ~2,019 |
 | %#*!$*! | 0.90% | ~2,019 |
 | Look but don't touch | 0.90% | ~2,019 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,794 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,795 |
 | Lust and Debauchery | 0.70% | ~1,570 |
 | Dead for good | 0.60% | ~1,346 |
 | Gargantua | 0.60% | ~1,346 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,310 (Ranked 57)  
+Progressed: 224,317 (Ranked 57)  
 Completed: 3 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 3 (0.00%) (Ranked 275)
 | 2023-09-13 | 223,808 | 2 |
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
-| 2023-09-16 | 224,310 | 3 |
+| 2023-09-16 | 224,317 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 315 (Ranked 338)  

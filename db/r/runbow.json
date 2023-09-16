@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249311,
+  "EOS_Progressed": 249313,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14139,6 +14139,11 @@
       "Time": "2023-09-16T02:19:02.3454745+00:00",
       "NumProgressed": 249311,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T03:07:12.2651259+00:00",
+      "NumProgressed": 249313,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14174,7 +14179,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52355
+      "UsersEstimate": 52356
     },
     {
       "ID": "blotbuster",
@@ -14254,7 +14259,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49862
+      "UsersEstimate": 49863
     },
     {
       "ID": "didYourTime",
@@ -14310,7 +14315,7 @@
       "Name": "Here We Go!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "imHereAllNight",
@@ -14326,7 +14331,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132135
+      "UsersEstimate": 132136
     },
     {
       "ID": "indegestible",
@@ -14454,7 +14459,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54848
+      "UsersEstimate": 54849
     },
     {
       "ID": "thunderstruck",
@@ -14470,7 +14475,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32410
+      "UsersEstimate": 32411
     },
     {
       "ID": "treeMedalist",
@@ -14517,7 +14522,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249311,
+      "Progressed": 249313,
       "Completed": 5
     }
   ],
@@ -14525,8 +14530,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-16T02:19:02.3454741+00:00",
+  "LastChanged_Achievements": "2023-09-16T03:07:12.2651253+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.341728+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:11:49.1636677+00:00",
-  "LastUpdate_Achievements": "2023-09-16T02:19:02.3456119+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:59:46.2700535+00:00",
+  "LastUpdate_Achievements": "2023-09-16T03:07:12.2653863+00:00"
 }

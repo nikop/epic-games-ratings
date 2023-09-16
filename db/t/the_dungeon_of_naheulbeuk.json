@@ -906,7 +906,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224310,
+  "EOS_Progressed": 224317,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1944,
   "EOS_NewCompleters": 1,
@@ -11026,6 +11026,11 @@
       "Time": "2023-09-16T02:21:21.1546907+00:00",
       "NumProgressed": 224310,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T03:09:29.5660321+00:00",
+      "NumProgressed": 224317,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11085,7 +11090,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "Chapter2",
@@ -11437,7 +11442,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8972
+      "UsersEstimate": 8973
     },
     {
       "ID": "DwarfElf15Support",
@@ -11469,7 +11474,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "ElfEpic",
@@ -11485,7 +11490,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67293
+      "UsersEstimate": 67295
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11557,7 +11562,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "KillDungeonLich",
@@ -11685,7 +11690,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "SupportCount4",
@@ -11740,21 +11745,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224310,
+      "Progressed": 224317,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224310,
+      "Progressed": 224317,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-15T16:58:57.5438687+00:00",
-  "LastChanged_Achievements": "2023-09-16T02:21:21.1546902+00:00",
+  "LastChanged_Achievements": "2023-09-16T03:09:29.5660314+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:10:58.1126738+00:00",
-  "LastUpdate_Achievements": "2023-09-16T02:21:21.1548573+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:58:26.6225474+00:00",
+  "LastUpdate_Achievements": "2023-09-16T03:09:29.5662361+00:00"
 }

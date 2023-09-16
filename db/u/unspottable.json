@@ -2,9 +2,9 @@
   "ID": "bc00696af836471cbacfd496e9e5f877",
   "Name": "Unspottable",
   "ProductSlug": "unspottable",
-  "Ranking_EOS_Progress": 524,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-12-14T19:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
     {
       "Time": "2023-09-15T19:04:00.4434628+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T03:04:07.4391308+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -67,9 +72,9 @@
       "ID": "UNS_BIG_WIN",
       "SetID": "322abb1",
       "Name": "Big Win",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UNS_CATCH_ME",
@@ -77,7 +82,7 @@
       "Name": "Catch me if you can",
       "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UNS_CLUTCH",
@@ -115,7 +120,7 @@
       "ID": "UNS_HA_HA",
       "SetID": "322abb1",
       "Name": "Ha-Ha!",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -147,7 +152,7 @@
       "ID": "UNS_MISSION_IMPOSSIBLE",
       "SetID": "322abb1",
       "Name": "Mission Impossible",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -179,7 +184,7 @@
       "ID": "UNS_OUT_AREA",
       "SetID": "322abb1",
       "Name": "Out of my area",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -187,7 +192,7 @@
       "ID": "UNS_ROBOT_CLEANER",
       "SetID": "322abb1",
       "Name": "Robot cleaner",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "UNS_SHORT_AND_SWEET",
       "SetID": "322abb1",
       "Name": "Short and Sweet",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -243,7 +248,7 @@
       "ID": "UNS_UNDER_THE_SPOT",
       "SetID": "322abb1",
       "Name": "Under the spotlights",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -252,7 +257,7 @@
     {
       "ID": "322abb1",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
@@ -260,8 +265,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.2382786+00:00",
   "FirstSeenAchievements": "2023-07-03T15:05:05.5856649+00:00",
   "LastChanged": "2023-03-31T05:58:41.2382787+00:00",
-  "LastChanged_Achievements": "2023-09-16T02:16:48.6858643+00:00",
+  "LastChanged_Achievements": "2023-09-16T03:04:07.4391303+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:38.507133+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:10:06.1651719+00:00",
-  "LastUpdate_Achievements": "2023-09-16T02:16:48.6858829+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:57:13.1070516+00:00",
+  "LastUpdate_Achievements": "2023-09-16T03:04:07.4391536+00:00"
 }

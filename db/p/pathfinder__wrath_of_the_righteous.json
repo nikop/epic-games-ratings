@@ -3728,9 +3728,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11289,
+  "EOS_Progressed": 11291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12363,6 +12363,11 @@
       "Time": "2023-09-16T02:19:51.6878483+00:00",
       "NumProgressed": 11289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T03:08:21.4456867+00:00",
+      "NumProgressed": 11291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12374,7 +12379,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "02_BurningCity",
@@ -12382,7 +12387,7 @@
       "Name": "Burning City",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -12502,7 +12507,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "18_MythicChoices",
@@ -12510,7 +12515,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "19_EqualToAroden",
@@ -12582,7 +12587,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "29_StrategicVictory",
@@ -12622,7 +12627,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -12718,7 +12723,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "46_AllPathsOpen",
@@ -12726,7 +12731,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13301,21 +13306,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10071,
+      "Progressed": 10073,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11289,
+      "Progressed": 11291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-14T20:57:29.523269+00:00",
-  "LastChanged_Achievements": "2023-09-16T02:19:51.6878478+00:00",
+  "LastChanged_Achievements": "2023-09-16T03:08:21.4456862+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:10:27.1054337+00:00",
-  "LastUpdate_Achievements": "2023-09-16T02:19:51.6880618+00:00"
+  "LastUpdate_Ratings": "2023-09-16T02:57:42.3590167+00:00",
+  "LastUpdate_Achievements": "2023-09-16T03:08:21.4459245+00:00"
 }
