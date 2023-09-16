@@ -814,9 +814,9 @@
       "ID": "questBountyHunter",
       "SetID": "ci65fo0",
       "Name": "Bounty hunter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "questBuildShip",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-16T07:04:01.5344125+00:00",
+  "LastChanged_Achievements": "2023-09-16T08:04:50.4075314+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.2829646+00:00",
-  "LastUpdate_Ratings": "2023-09-16T07:00:29.2613824+00:00",
-  "LastUpdate_Achievements": "2023-09-16T07:04:01.534495+00:00"
+  "LastUpdate_Ratings": "2023-09-16T08:02:00.0169517+00:00",
+  "LastUpdate_Achievements": "2023-09-16T08:04:50.4076+00:00"
 }

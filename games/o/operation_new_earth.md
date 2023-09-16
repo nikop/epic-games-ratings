@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~371 |
+| It's Good to have Allies | 29.00% | ~384 |
 | Defenses Online | 25.00% | ~331 |
 | Facility Online | 21.00% | ~278 |
 | Corporal | 14.00% | ~186 |

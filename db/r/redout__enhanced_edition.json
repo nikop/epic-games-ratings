@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 548,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 53,
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231852,
+  "EOS_Progressed": 231854,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15958,6 +15958,11 @@
       "Time": "2023-09-16T06:04:37.248991+00:00",
       "NumProgressed": 231852,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-16T08:05:26.1199834+00:00",
+      "NumProgressed": 231854,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16057,7 +16062,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46370
+      "UsersEstimate": 46371
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -16105,7 +16110,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76511
+      "UsersEstimate": 76512
     },
     {
       "ID": "NOBUNAGA",
@@ -16193,7 +16198,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51007
+      "UsersEstimate": 51008
     },
     {
       "ID": "TACTICIAN",
@@ -16217,7 +16222,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51007
+      "UsersEstimate": 51008
     },
     {
       "ID": "TUNINGMANIAC",
@@ -16233,22 +16238,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95059
+      "UsersEstimate": 95060
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 231852,
+      "Progressed": 231854,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-16T07:04:28.5114191+00:00",
+  "LastChanged_Achievements": "2023-09-16T08:05:26.1199829+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:26.5254322+00:00",
-  "LastUpdate_Ratings": "2023-09-16T06:58:00.7124696+00:00",
-  "LastUpdate_Achievements": "2023-09-16T07:04:28.5115392+00:00"
+  "LastUpdate_Ratings": "2023-09-16T07:58:46.3655291+00:00",
+  "LastUpdate_Achievements": "2023-09-16T08:05:26.1200753+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 65.00% | ~325 |
-| Cowardice | 58.00% | ~290 |
+| Explorer | 65.00% | ~326 |
+| Cowardice | 58.00% | ~291 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~250 |
 | Eat Lead! | 48.00% | ~240 |
 | The Breaking Point | 45.00% | ~225 |
 | Prospector | 44.00% | ~220 |
 | Here Comes the Boom | 44.00% | ~220 |
 | Treasure Hunter | 41.00% | ~205 |
+| Sniper Wolf | 41.00% | ~205 |
 | The Motivation | 40.00% | ~200 |
-| Sniper Wolf | 40.00% | ~200 |
 | Heroism | 38.00% | ~190 |
-| Missing in Action | 36.00% | ~180 |
+| Missing in Action | 37.00% | ~185 |
 | Collectibles of Chapter I | 34.00% | ~170 |
 | Consequences | 34.00% | ~170 |
 | Opportunities | 33.00% | ~165 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 246)  
+Progressed: 501 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-11 | 497 | 0 |
 | 2023-09-13 | 498 | 0 |
 | 2023-09-15 | 500 | 0 |
+| 2023-09-16 | 501 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

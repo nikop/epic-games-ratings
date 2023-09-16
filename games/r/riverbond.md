@@ -7,11 +7,11 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~369,176 |
-| Now You're Talking | 62.00% | ~326,984 |
-| Steel Yourself | 62.00% | ~326,984 |
-| Window Dressing | 50.00% | ~263,697 |
-| Trigger Happy | 46.00% | ~242,601 |
-| Riverborn | 45.00% | ~237,327 |
+| Now You're Talking | 62.00% | ~326,985 |
+| Steel Yourself | 62.00% | ~326,985 |
+| Window Dressing | 50.00% | ~263,698 |
+| Trigger Happy | 46.00% | ~242,602 |
+| Riverborn | 45.00% | ~237,328 |
 | Starry Eyed | 34.00% | ~179,314 |
 | Poking Around | 34.00% | ~179,314 |
 | Talk of the Town | 24.00% | ~126,575 |
@@ -26,10 +26,10 @@ Number of Ratings: 617  (23.09.2022)
 | Keep On Trucking | 13.00% | ~68,561 |
 | Going on an Adventure | 11.00% | ~58,013 |
 | Make Peace, Not War | 11.00% | ~58,013 |
-| Walking The Line | 10.00% | ~52,739 |
-| Not So Cute Anymore | 10.00% | ~52,739 |
-| Road Less Travelled | 9.00% | ~47,465 |
-| Lost and Found | 9.00% | ~47,465 |
+| Walking The Line | 10.00% | ~52,740 |
+| Not So Cute Anymore | 10.00% | ~52,740 |
+| Road Less Travelled | 9.00% | ~47,466 |
+| Lost and Found | 9.00% | ~47,466 |
 | Under the Radar | 8.00% | ~42,192 |
 | Partner in Crime | 7.00% | ~36,918 |
 | Hard to Hear | 7.00% | ~36,918 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,582 |
 | Point Taken | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,394 (Ranked 33)  
+Progressed: 527,395 (Ranked 33)  
 Completed: 474 (0.09%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 474 (0.09%) (Ranked 225)
 | 2023-09-13 | 527,271 | 473 |
 | 2023-09-14 | 527,315 | 473 |
 | 2023-09-15 | 527,375 | 474 |
-| 2023-09-16 | 527,394 | 474 |
+| 2023-09-16 | 527,395 | 474 |
 ## Awards
 Max (Relaxing): 20  (Ranked 514)  
 Sum: 20 (Ranked 514)  

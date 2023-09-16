@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1517,6 +1517,11 @@
       "Time": "2023-09-15T13:14:10.3474139+00:00",
       "NumProgressed": 500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T08:09:23.3369675+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1632,7 +1637,7 @@
       "Name": "Explorer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_COLL_20",
@@ -1752,7 +1757,7 @@
       "Name": "Cowardice",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1870,9 +1875,9 @@
       "ID": "ACH_HIDE_BODIES",
       "SetID": "1j25agn",
       "Name": "Missing in Action",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1950,9 +1955,9 @@
       "ID": "ACH_KILL_SNIPER",
       "SetID": "1j25agn",
       "Name": "Sniper Wolf",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -1999,15 +2004,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-09-16T07:09:11.3917838+00:00",
+  "LastChanged_Achievements": "2023-09-16T08:09:23.3369671+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.8307176+00:00",
-  "LastUpdate_Ratings": "2023-09-16T06:57:03.3058014+00:00",
-  "LastUpdate_Achievements": "2023-09-16T07:09:11.3918475+00:00"
+  "LastUpdate_Ratings": "2023-09-16T07:57:30.4680039+00:00",
+  "LastUpdate_Achievements": "2023-09-16T08:09:23.3370182+00:00"
 }

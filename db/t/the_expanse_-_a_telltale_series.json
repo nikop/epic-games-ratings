@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10621,
+  "EOS_Progressed": 10622,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
@@ -5476,6 +5476,11 @@
       "Time": "2023-09-16T07:07:31.6832013+00:00",
       "NumProgressed": 10621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T08:09:11.6445236+00:00",
+      "NumProgressed": 10622,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5536,7 +5541,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2761
+      "UsersEstimate": 2762
     },
     {
       "ID": "16",
@@ -5550,9 +5555,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2443
     },
     {
       "ID": "18",
@@ -5727,7 +5732,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10621,
+      "Progressed": 10622,
       "Completed": 0
     }
   ],
@@ -5735,8 +5740,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-16T07:07:31.6832002+00:00",
+  "LastChanged_Achievements": "2023-09-16T08:09:11.6445232+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-16T06:58:37.5277619+00:00",
-  "LastUpdate_Achievements": "2023-09-16T07:07:31.683379+00:00"
+  "LastUpdate_Ratings": "2023-09-16T07:59:38.7710744+00:00",
+  "LastUpdate_Achievements": "2023-09-16T08:09:11.6445677+00:00"
 }

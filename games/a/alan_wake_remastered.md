@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,816 |
-| Let There Be Light | 33.00% | ~21,583 |
-| Float Like a Butterfly | 32.00% | ~20,929 |
-| Nordic Walking | 25.00% | ~16,351 |
-| Bright Falls' Finest | 25.00% | ~16,351 |
-| Under a Thin Layer of Skin | 22.00% | ~14,389 |
+| Follow the Light | 41.00% | ~26,817 |
+| Let There Be Light | 33.00% | ~21,585 |
+| Float Like a Butterfly | 32.00% | ~20,931 |
+| Nordic Walking | 25.00% | ~16,352 |
+| Bright Falls' Finest | 25.00% | ~16,352 |
+| Under a Thin Layer of Skin | 22.00% | ~14,390 |
 | Park Ranger | 18.00% | ~11,773 |
 | Paging Mr. Wake | 18.00% | ~11,773 |
 | Back! Back, I Say! | 17.00% | ~11,119 |
@@ -26,21 +26,21 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 13.00% | ~8,503 |
 | Collateral Carnage | 13.00% | ~8,503 |
 | Come One, Come All | 13.00% | ~8,503 |
-| Perchance to Dream | 12.00% | ~7,848 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,848 |
-| Thunder and Lightning | 12.00% | ~7,848 |
-| Gatekeeper | 11.00% | ~7,194 |
-| Two For the Price of One | 11.00% | ~7,194 |
-| Energized! | 11.00% | ~7,194 |
-| The Lady of the Light | 10.00% | ~6,540 |
-| What Light Through Yonder Window | 9.00% | ~5,886 |
-| Right of Way | 9.00% | ~5,886 |
-| Tornado Wrangler | 8.00% | ~5,232 |
+| Perchance to Dream | 12.00% | ~7,849 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,849 |
+| Thunder and Lightning | 12.00% | ~7,849 |
+| Gatekeeper | 11.00% | ~7,195 |
+| Two For the Price of One | 11.00% | ~7,195 |
+| Energized! | 11.00% | ~7,195 |
+| The Lady of the Light | 10.00% | ~6,541 |
+| What Light Through Yonder Window | 9.00% | ~5,887 |
+| Right of Way | 9.00% | ~5,887 |
+| Tornado Wrangler | 8.00% | ~5,233 |
 | A Friend in Need | 8.00% | ~2,310 |
-| Departure | 7.00% | ~4,578 |
+| Departure | 7.00% | ~4,579 |
 | Drink 'Em Both Up | 6.00% | ~3,924 |
 | Hardboiled Writer | 6.00% | ~3,924 |
-| A Friend Indeed | 6.00% | ~1,732 |
+| A Friend Indeed | 6.00% | ~1,733 |
 | Children of the Elder God | 5.00% | ~3,270 |
 | KBF-FM | 5.00% | ~3,270 |
 | Ding! | 5.00% | ~1,444 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,308 |
 | An Idyllic Small Town | 2.00% | ~1,308 |
 | Couch Potato | 2.00% | ~1,308 |
-| Iron Will | 2.00% | ~577 |
+| Iron Will | 2.00% | ~578 |
 | Go Gentle Into That Good Light | 1.00% | ~289 |
 | Words Will Never Harm You | 0.70% | ~202 |
 | Cardboard Companions | 0.60% | ~173 |
@@ -61,9 +61,9 @@ Number of Ratings: 524  (23.09.2022)
 | Creative Space | 0.50% | ~144 |
 | Alan, Wake Up | 0.40% | ~262 |
 | Picking Up After Yourself | 0.40% | ~262 |
-| Run-On Sentence | 0.40% | ~115 |
-| License Revoked | 0.40% | ~115 |
-| Whirlwind | 0.40% | ~115 |
+| Run-On Sentence | 0.40% | ~116 |
+| License Revoked | 0.40% | ~116 |
+| Whirlwind | 0.40% | ~116 |
 | Meet the Deadline | 0.30% | ~196 |
 | Tick Tock | 0.30% | ~87 |
 | Gunless Wonder | 0.20% | ~131 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,404 (Ranked 88)  
+Progressed: 65,408 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 65 (0.10%) (Ranked 221)
 | 2023-09-13 | 65,148 | 65 |
 | 2023-09-14 | 65,260 | 65 |
 | 2023-09-15 | 65,366 | 65 |
-| 2023-09-16 | 65,404 | 65 |
+| 2023-09-16 | 65,408 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

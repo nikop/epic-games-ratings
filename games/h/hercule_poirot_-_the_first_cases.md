@@ -31,10 +31,10 @@ Rating: 4.35 (Ranked 757)
 | Gedeon Demir | 35.00% | ~148 |
 | Rehana Piette | 35.00% | ~148 |
 | Instinct is Marvellous | 33.00% | ~139 |
-| Ernesto da Silva | 32.00% | ~135 |
+| Ernesto da Silva | 33.00% | ~139 |
 | Inge Frank | 31.00% | ~131 |
+| The Search | 31.00% | ~131 |
 | Hugo Beckers | 30.00% | ~127 |
-| The Search | 30.00% | ~127 |
 | The Family | 27.00% | ~114 |
 | Well-travelled | 26.00% | ~110 |
 | Thinking of Everything | 26.00% | ~110 |

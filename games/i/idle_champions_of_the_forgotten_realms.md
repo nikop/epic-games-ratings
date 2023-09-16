@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,290 |
+| A Brief Tour of the Realms | 2.00% | ~4,579 |
 | Beast Intentions | 0.70% | ~1,603 |
 | The Cursed Farmer | 0.70% | ~1,603 |
 | The Mad Wizard | 0.50% | ~1,145 |
@@ -40,7 +40,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~390 |
 | The Dread Domain of Tovag | 0.20% | ~390 |
 | Homecoming | 0.20% | ~458 |
+| The Lost Heir of Omu | 0.20% | ~458 |
 | Beast Mode | 0.20% | ~458 |
+| Captured! | 0.20% | ~458 |
 | Low Initiative | 0.20% | ~458 |
 | Street War | 0.20% | ~458 |
 | March of the Undead | 0.20% | ~458 |
@@ -56,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~458 |
 | Attack on the Manor | 0.20% | ~458 |
 | The Death Curse | 0.20% | ~458 |
+| Backtracking Through Barovia | 0.20% | ~458 |
 | Nimble Escape | 0.20% | ~458 |
 | Useless Allies | 0.20% | ~458 |
 | Fugitives | 0.20% | ~458 |
@@ -184,7 +187,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.10% | ~229 |
 | Struggling Toward Omu | 0.10% | ~229 |
 | Wagon Train | 0.10% | ~229 |
-| The Lost Heir of Omu | 0.10% | ~229 |
 | Not Very Charming | 0.10% | ~229 |
 | Lobsterfolk Assault | 0.10% | ~229 |
 | Taking Responsibility | 0.10% | ~229 |
@@ -204,7 +206,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~229 |
 | No Good at All | 0.10% | ~229 |
 | Fall From Grace | 0.10% | ~229 |
-| Captured! | 0.10% | ~229 |
 | Home Field Advantage | 0.10% | ~229 |
 | Double Vision | 0.10% | ~229 |
 | Underground Railroad | 0.10% | ~229 |
@@ -265,7 +266,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.10% | ~229 |
 | Class Vacation | 0.10% | ~229 |
 | A Nod from Strahd | 0.10% | ~195 |
-| Backtracking Through Barovia | 0.10% | ~229 |
 | Diversity Day-Trip | 0.10% | ~229 |
 | Late Game | 0.10% | ~229 |
 | Shadowfell Stalwarts | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,960 (Ranked 55)  
+Progressed: 228,965 (Ranked 55)  
 Completed: 2,286 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -676,7 +676,7 @@ Completed: 2,286 (1.00%) (Ranked 123)
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
-| 2023-09-16 | 228,960 | 2,286 |
+| 2023-09-16 | 228,965 | 2,286 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,603 (Ranked 39)  

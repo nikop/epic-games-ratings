@@ -11,12 +11,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 5.00% | ~697 |
 | Play a Single Player Game | 5.00% | ~697 |
 | The Clergy | 5.00% | ~697 |
-| Able | 4.00% | ~557 |
-| Architect | 4.00% | ~557 |
-| Intrepid | 4.00% | ~557 |
-| Mason | 4.00% | ~557 |
-| Strong | 4.00% | ~557 |
-| Hanging Gardens | 4.00% | ~557 |
+| Able | 4.00% | ~558 |
+| Architect | 4.00% | ~558 |
+| Intrepid | 4.00% | ~558 |
+| Mason | 4.00% | ~558 |
+| Strong | 4.00% | ~558 |
+| Hanging Gardens | 4.00% | ~558 |
 | Ambitious | 3.00% | ~418 |
 | Enlightened | 3.00% | ~418 |
 | Glorious | 3.00% | ~418 |
@@ -118,14 +118,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.90% | ~125 |
 | Revelation | 0.90% | ~125 |
 | Veneration | 0.90% | ~125 |
-| Bad Heir Day | 0.80% | ~111 |
-| Strong Difficulty | 0.80% | ~111 |
-| Hunters | 0.80% | ~111 |
-| Adur Burzen-Mihr | 0.80% | ~111 |
-| Babylonia | 0.80% | ~111 |
-| Carthage | 0.80% | ~111 |
-| Enlightenment | 0.80% | ~111 |
-| Kushite Cavalry | 0.80% | ~111 |
+| Bad Heir Day | 0.80% | ~112 |
+| Strong Difficulty | 0.80% | ~112 |
+| Hunters | 0.80% | ~112 |
+| Adur Burzen-Mihr | 0.80% | ~112 |
+| Babylonia | 0.80% | ~112 |
+| Carthage | 0.80% | ~112 |
+| Enlightenment | 0.80% | ~112 |
+| Kushite Cavalry | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
 | Learn to Play 4 | 0.70% | ~98 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,935 (Ranked 123)  
+Progressed: 13,938 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,935 | 5 |
+| 2023-09-16 | 13,938 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

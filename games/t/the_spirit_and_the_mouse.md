@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 89.00% | ~68 |
+| Energy Seeker | 91.00% | ~69 |
 | Lightbulb Seeker | 88.00% | ~67 |
 | Grilled Mouse | 86.00% | ~65 |
 | Lightbulbs Collector | 76.00% | ~58 |
-| Energy Collector | 74.00% | ~56 |
+| Energy Collector | 75.00% | ~57 |
 | East Street Energy | 51.00% | ~39 |
+| Energy Expert | 45.00% | ~34 |
 | Lightbulbs Expert | 45.00% | ~34 |
 | That's one way to travel | 45.00% | ~34 |
-| Energy Expert | 43.00% | ~33 |
 | The Old Man and the Café | 41.00% | ~31 |
 | South Town Energy | 33.00% | ~25 |
 | Photogenic | 32.00% | ~24 |

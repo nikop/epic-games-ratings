@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3614,
+  "EOS_Progressed": 3615,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6664,6 +6664,11 @@
       "Time": "2023-09-15T20:05:35.6089121+00:00",
       "NumProgressed": 3614,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-16T08:06:03.1793314+00:00",
+      "NumProgressed": 3615,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6713,9 +6718,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 470
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6731,7 +6736,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6755,7 +6760,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7083,7 +7088,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7242,13 +7247,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3565,
+      "Progressed": 3566,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3614,
+      "Progressed": 3615,
       "Completed": 10
     }
   ],
@@ -7256,8 +7261,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-16T07:04:56.2057003+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-16T07:00:37.5710529+00:00",
-  "LastUpdate_Achievements": "2023-09-16T07:04:56.2058102+00:00"
+  "LastChanged_Achievements": "2023-09-16T08:06:03.179331+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
+  "LastUpdate_Ratings": "2023-09-16T08:02:11.7038396+00:00",
+  "LastUpdate_Achievements": "2023-09-16T08:06:03.1794196+00:00"
 }
