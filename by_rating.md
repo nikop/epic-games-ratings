@@ -119,7 +119,7 @@
 | 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,329 | 23 |
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 517 |
 | 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,331 | 91 |
-| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 951 | 149 |
+| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 954 | 149 |
 | 117 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 693 | 170 |
 | 117 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,528 | 75 |
 | 117 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 517 |
@@ -157,7 +157,7 @@
 | 145 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 517 |
 | 145 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 517 |
 | 145 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 517 |
-| 145 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 805 | 158 |
+| 145 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 807 | 158 |
 | 145 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 517 |
 | 145 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 83 | 361 |
 | 145 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 656 | 176 |
@@ -573,7 +573,7 @@
 | 565 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 517 |
 | 565 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 517 |
 | 565 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 254 | 254 |
-| 565 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,761 | 95 |
+| 565 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,771 | 95 |
 | 565 | [Horace](games/h/horace.md) | 4.50 | 0 | 517 |
 | 565 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 517 |
 | 565 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 517 |
@@ -670,7 +670,7 @@
 | 667 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 38 | 433 |
 | 667 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 224 | 262 |
 | 667 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.43 | 0 | 517 |
-| 667 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 12,901 | 28 |
+| 667 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 12,913 | 28 |
 | 667 | [Predecessor](games/p/predecessor.md) | 4.43 | 165 | 294 |
 | 667 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 517 |
 | 667 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 517 |

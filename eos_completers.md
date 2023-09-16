@@ -68,12 +68,12 @@
 | 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.36% |
+| 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.29% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
-| 70 | [The Complex](games/t/the_complex.md) | 3.27% |
-| 71 | [Without Escape](games/w/without_escape.md) | 3.23% |
-| 72 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.13% |
-| 73 | [HordeCore](games/h/hordecore.md) | 3.13% |
+| 71 | [The Complex](games/t/the_complex.md) | 3.27% |
+| 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
+| 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
+| 74 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.97% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.78% |
@@ -88,8 +88,8 @@
 | 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
 | 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.39% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
-| 89 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.35% |
-| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.34% |
+| 89 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.36% |
+| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.33% |
 | 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.26% |
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
@@ -137,8 +137,8 @@
 | 135 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 136 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 137 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 138 | [Eternights](games/e/eternights.md) | 0.69% |
-| 139 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.68% |
+| 138 | [Eternights](games/e/eternights.md) | 0.68% |
+| 138 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.68% |
 | 140 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.65% |
 | 140 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 140 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.65% |
@@ -192,8 +192,8 @@
 | 189 | [Filament](games/f/filament.md) | 0.25% |
 | 191 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |
 | 191 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 193 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
-| 193 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.23% |
+| 191 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.24% |
+| 194 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
 | 195 | [Blanc](games/b/blanc.md) | 0.22% |
 | 195 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 195 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |

@@ -27,7 +27,7 @@
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,773 | 4.60 | 395 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,705 | 4.60 | 395 |
 | 27 | [Maneater](games/m/maneater.md) | 13,681 | 4.49 | 583 |
-| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,901 | 4.43 | 667 |
+| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,913 | 4.43 | 667 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,677 | 4.36 | 749 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,483 | 4.86 | 31 |
 | 31 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 11,883 | 4.74 | 145 |
@@ -94,7 +94,7 @@
 | 92 | [Trackmania](games/t/trackmania.md) | 3,322 | 4.67 | 259 |
 | 93 | [Hades](games/h/hades.md) | 3,262 | 4.92 | 4 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,262 | 4.57 | 449 |
-| 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,761 | 4.50 | 565 |
+| 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,771 | 4.50 | 565 |
 | 96 | [Gotham Knights](games/g/gotham_knights.md) | 2,683 | 4.18 | 882 |
 | 97 | [Among Us](games/a/among_us.md) | 2,668 | 4.57 | 449 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,620 | 4.61 | 367 |
@@ -148,7 +148,7 @@
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 979 | 4.69 | 217 |
 | 147 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 966 | 4.31 | 793 |
 | 148 | [The Sims™ 4](games/t/the_sims™_4.md) | 962 | 4.62 | 350 |
-| 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 951 | 4.76 | 117 |
+| 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 954 | 4.76 | 117 |
 | 150 | [Sonic Mania](games/s/sonic_mania.md) | 938 | 4.78 | 101 |
 | 151 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 936 | 4.55 | 485 |
 | 152 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 926 | 4.79 | 88 |
@@ -157,7 +157,7 @@
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 836 | 4.45 | 640 |
 | 156 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 824 | 4.69 | 217 |
 | 157 | [Frostpunk](games/f/frostpunk.md) | 810 | 4.74 | 145 |
-| 158 | [The Long Dark](games/t/the_long_dark.md) | 805 | 4.74 | 145 |
+| 158 | [The Long Dark](games/t/the_long_dark.md) | 807 | 4.74 | 145 |
 | 159 | [Auto Chess](games/a/auto_chess.md) | 793 | 4.51 | 549 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 793 | 4.50 | 565 |
 | 161 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 765 | 4.51 | 549 |
