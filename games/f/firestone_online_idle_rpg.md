@@ -5,23 +5,23 @@ Rating: 4.02 (Ranked 943)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,807 |
-| World Map | 79.00% | ~1,535 |
+| Victor | 93.00% | ~1,808 |
+| World Map | 79.00% | ~1,536 |
 | Temple of Eternals | 57.00% | ~1,108 |
-| Prestigious | 54.00% | ~1,049 |
+| Prestigious | 54.00% | ~1,050 |
 | Fellowship Power | 41.00% | ~797 |
 | Guild Power | 26.00% | ~505 |
-| Prestigious x10 | 22.00% | ~427 |
+| Prestigious x10 | 22.00% | ~428 |
 | The game is on | 21.00% | ~408 |
 | Exotic Merchant | 19.00% | ~369 |
 | Dragon Clicker | 18.00% | ~350 |
 | Full Party | 17.00% | ~330 |
 | Inspection | 17.00% | ~330 |
 | Miner Clicker | 17.00% | ~330 |
-| Dragon Master | 15.00% | ~291 |
-| Enlightenment | 15.00% | ~291 |
-| Hero inspection | 15.00% | ~291 |
-| Lieutenant | 15.00% | ~291 |
+| Dragon Master | 15.00% | ~292 |
+| Enlightenment | 15.00% | ~292 |
+| Hero inspection | 15.00% | ~292 |
+| Lieutenant | 15.00% | ~292 |
 | Mysterious Rock | 14.00% | ~272 |
 | Natural Talent | 14.00% | ~272 |
 | Superior | 14.00% | ~272 |
@@ -43,10 +43,10 @@ Rating: 4.02 (Ranked 943)
 | Master Enchanter | 9.00% | ~175 |
 | The father of Dragons | 9.00% | ~175 |
 | Trader | 9.00% | ~175 |
-| Crystal Mining | 8.00% | ~155 |
-| Dragon Slayer | 8.00% | ~155 |
-| Enchanting skill | 8.00% | ~155 |
-| Weekly Quest Completionist | 8.00% | ~155 |
+| Crystal Mining | 8.00% | ~156 |
+| Dragon Slayer | 8.00% | ~156 |
+| Enchanting skill | 8.00% | ~156 |
+| Weekly Quest Completionist | 8.00% | ~156 |
 | Blueprint Upgrades | 7.00% | ~136 |
 | Engineer Mastery | 7.00% | ~136 |
 | Lock And Load | 7.00% | ~136 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 943)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,943 (Ranked 185)  
+Progressed: 1,944 (Ranked 185)  
 Completed: 2 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 2 (0.10%) (Ranked 221)
 | 2023-09-12 | 1,929 | 2 |
 | 2023-09-14 | 1,936 | 2 |
 | 2023-09-15 | 1,939 | 2 |
-| 2023-09-16 | 1,943 | 2 |
+| 2023-09-16 | 1,944 | 2 |
 ## Awards
 Max (Great for Beginners): 22  (Ranked 498)  
 Sum: 43 (Ranked 462)  

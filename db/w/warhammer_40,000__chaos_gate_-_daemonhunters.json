@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 432,
+  "Ranking_Rating": 433,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -720,9 +720,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3200,
+  "EOS_Progressed": 3202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3345,6 +3345,11 @@
       "Time": "2023-09-16T16:06:07.4066397+00:00",
       "NumProgressed": 3200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T23:06:41.1343476+00:00",
+      "NumProgressed": 3202,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3738,9 +3743,9 @@
       "ID": "OnlyInDeath",
       "SetID": "2im8phi",
       "Name": "Only in Death",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "Preservationist",
@@ -3754,9 +3759,9 @@
       "ID": "ReaperDefeated_Dolorus",
       "SetID": "3jha1np",
       "Name": "Engine Kill",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -3834,9 +3839,9 @@
       "ID": "ExperiencedCallidus",
       "SetID": "2im8phi",
       "Name": "Reign of Confusion",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "ExperiencedCulexus",
@@ -3874,9 +3879,9 @@
       "ID": "Kills_TaintedSons_Execution",
       "SetID": "2im8phi",
       "Name": "Suffer Not the Mutant",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -3899,21 +3904,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3200,
+      "Progressed": 3202,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3200,
+      "Progressed": 3202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:07:52.1785187+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:06:41.1343473+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:59:33.928374+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:07:52.1785954+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:59:10.1017037+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:06:41.1344134+00:00"
 }

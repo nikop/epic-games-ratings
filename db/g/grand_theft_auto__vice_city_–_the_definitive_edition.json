@@ -6,8 +6,8 @@
   "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -646,9 +646,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 10009,
+  "EOS_Progressed": 10010,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9591,6 +9591,11 @@
       "Time": "2023-09-16T22:10:01.530349+00:00",
       "NumProgressed": 10009,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-16T23:08:51.5426307+00:00",
+      "NumProgressed": 10010,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9762,7 +9767,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4604
+      "UsersEstimate": 4605
     },
     {
       "ID": "ACH22",
@@ -9778,7 +9783,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "ACH24",
@@ -9786,7 +9791,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH25",
@@ -9794,7 +9799,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH26",
@@ -9802,7 +9807,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH27",
@@ -9873,7 +9878,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10009,
+      "Progressed": 10010,
       "Completed": 56
     }
   ],
@@ -9881,8 +9886,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-13T17:57:32.0415645+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:10:01.5303486+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:08:51.5426303+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:59:17.0870339+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:10:01.5304358+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:58:56.0491379+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:08:51.5426904+00:00"
 }

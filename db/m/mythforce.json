@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -617,7 +617,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2378,
+  "EOS_Progressed": 2380,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1118,
   "EOS_NewCompleters": 0,
@@ -4607,6 +4607,11 @@
       "Time": "2023-09-16T22:09:47.2552673+00:00",
       "NumProgressed": 2378,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T23:08:39.0984469+00:00",
+      "NumProgressed": 2380,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4713,9 +4718,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 167
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4753,9 +4758,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 214
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4771,7 +4776,7 @@
       "Name": "Spending Spree",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4802,15 +4807,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2378,
+      "Progressed": 2380,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-16T19:59:58.8244102+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:09:47.2552666+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:08:39.0984465+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:59:38.60312+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:09:47.2553052+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:59:13.8365007+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:08:39.0984779+00:00"
 }

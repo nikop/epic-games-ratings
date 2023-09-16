@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1943,
+  "EOS_Progressed": 1944,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5607,6 +5607,11 @@
       "Time": "2023-09-16T13:04:12.1716594+00:00",
       "NumProgressed": 1943,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-16T23:03:27.7463835+00:00",
+      "NumProgressed": 1944,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5698,7 +5703,7 @@
       "Name": "Crystal Mining",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "dailyquestcompletionist",
@@ -5730,7 +5735,7 @@
       "Name": "Dragon Master",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "dragonslayer",
@@ -5738,7 +5743,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ebonyjungleliberator",
@@ -5754,7 +5759,7 @@
       "Name": "Enchanting skill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "enchantingskillx5",
@@ -5786,7 +5791,7 @@
       "Name": "Enlightenment",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "exoticmerchant",
@@ -5866,7 +5871,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "howdoyouturnthison",
@@ -5914,7 +5919,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "lockandload",
@@ -6010,7 +6015,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "prestigiousx10",
@@ -6018,7 +6023,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "relicofthepast",
@@ -6178,7 +6183,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "warmachinesarmy",
@@ -6194,7 +6199,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "whatliesbehindthebush",
@@ -6210,14 +6215,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1943,
+      "Progressed": 1944,
       "Completed": 2
     }
   ],
@@ -6225,8 +6230,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:04:29.9037035+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:03:27.746383+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:58:43.4439792+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:04:29.9038361+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:58:33.3841529+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:03:27.7464749+00:00"
 }

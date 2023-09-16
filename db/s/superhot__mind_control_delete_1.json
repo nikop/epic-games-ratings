@@ -2,13 +2,13 @@
   "ID": "56e54e682d614c468e3d5afc54ca0adf",
   "Name": "SUPERHOT: Mind Control Delete",
   "ProductSlug": "superhot-mind-control-delete",
-  "Ranking_Rating": 432,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-07-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -177,6 +177,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-16T22:59:16.7505664+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -195,8 +201,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:05.7159497+00:00",
   "FirstSeenRating": "2022-08-09T03:31:43.3372712+00:00",
-  "LastChanged": "2023-05-26T02:58:44.6016644+00:00",
+  "LastChanged": "2023-09-16T22:59:16.7505663+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:55.1825872+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:59:42.7942242+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:08:38.6406942+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:59:16.7505668+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:07:31.198943+00:00"
 }

@@ -12,10 +12,10 @@ Rating: 4.33 (Ranked 773)
 | Flying Present Catcher | 5.00% | ~2,846 |
 | Sunflower Master | 4.00% | ~2,277 |
 | Hi Fiver | 3.00% | ~1,708 |
-| Backer Visitor | 2.00% | ~1,138 |
-| Hate That Randomizer | 2.00% | ~1,138 |
-| Feet on Funkotron | 2.00% | ~1,138 |
-| A Timely Splash | 2.00% | ~1,138 |
+| Backer Visitor | 2.00% | ~1,139 |
+| Hate That Randomizer | 2.00% | ~1,139 |
+| Feet on Funkotron | 2.00% | ~1,139 |
+| A Timely Splash | 2.00% | ~1,139 |
 | Elf Chaser | 1.00% | ~569 |
 | Fool Me Twice | 1.00% | ~569 |
 | Old School Jammin' | 1.00% | ~569 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 773)
 | Why Do I Keep Doing That? | 0.10% | ~57 |
 | Hey, You Did It! | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,925 (Ranked 91)  
+Progressed: 56,926 (Ranked 91)  
 Completed: 6 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 6 (0.01%) (Ranked 261)
 | 2023-09-13 | 56,889 | 6 |
 | 2023-09-14 | 56,897 | 6 |
 | 2023-09-15 | 56,914 | 6 |
-| 2023-09-16 | 56,925 | 6 |
+| 2023-09-16 | 56,926 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 799,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1626,9 +1626,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 423
     },
     {
       "ID": "AC10",
@@ -1674,9 +1674,9 @@
       "ID": "AC15",
       "SetID": "l4abp0",
       "Name": "Full Devotion",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 168
     },
     {
       "ID": "AC16",
@@ -1810,9 +1810,9 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 280
     },
     {
       "ID": "AC33",
@@ -1931,8 +1931,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:08:14.0602378+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:07:09.6875999+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:03:13.9547147+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:08:14.0603032+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:02:18.5580645+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:07:09.6876349+00:00"
 }

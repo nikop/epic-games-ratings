@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -408,9 +408,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246178,
+  "EOS_Progressed": 246180,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17018,6 +17018,11 @@
       "Time": "2023-09-16T22:08:10.2469262+00:00",
       "NumProgressed": 246178,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-16T23:07:06.4791402+00:00",
+      "NumProgressed": 246180,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17029,7 +17034,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66468
+      "UsersEstimate": 66469
     },
     {
       "ID": "ACH_AON",
@@ -17301,7 +17306,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17232
+      "UsersEstimate": 17233
     },
     {
       "ID": "ACH_MEMESMART",
@@ -17333,7 +17338,7 @@
       "Name": "Griever",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17232
+      "UsersEstimate": 17233
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -17349,7 +17354,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61544
+      "UsersEstimate": 61545
     },
     {
       "ID": "ACH_SOREAD",
@@ -17444,7 +17449,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246178,
+      "Progressed": 246180,
       "Completed": 7
     }
   ],
@@ -17452,8 +17457,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-14T17:02:57.7818889+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:08:10.2469258+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:07:06.4791398+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.3686602+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:57:44.5292082+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:08:10.2471315+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:57:40.5785979+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:07:06.4792516+00:00"
 }

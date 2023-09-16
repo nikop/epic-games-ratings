@@ -2148,9 +2148,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25844,
+  "EOS_Progressed": 25847,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12978,6 +12978,11 @@
       "Time": "2023-09-16T22:05:48.3907478+00:00",
       "NumProgressed": 25844,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-16T23:04:45.4985204+00:00",
+      "NumProgressed": 25847,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -12995,17 +13000,17 @@
       "ID": "Animated",
       "SetID": "819popo",
       "Name": "Animated",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Back_Off",
       "SetID": "819popo",
       "Name": "Back Off",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Best_Insurance",
@@ -13035,9 +13040,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Collector",
@@ -13123,9 +13128,9 @@
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "GB_In_Training",
@@ -13187,9 +13192,9 @@
       "ID": "Master_Collector",
       "SetID": "819popo",
       "Name": "Master Collector",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Mycophile",
@@ -13299,9 +13304,9 @@
       "ID": "Summoner",
       "SetID": "819popo",
       "Name": "Summoner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Surprise",
@@ -13396,7 +13401,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25844,
+      "Progressed": 25847,
       "Completed": 56
     }
   ],
@@ -13404,8 +13409,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-16T17:58:58.8319284+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:05:48.3907473+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:04:45.49852+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:00:05.0956312+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:05:48.3908747+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:59:33.7545159+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:04:45.4986072+00:00"
 }

@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 432)  
+Rating: 4.58 (Ranked 433)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,31 +28,31 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 1.00% | ~32 |
 | Daemonkeeper | 0.80% | ~26 |
 | Efficient Killer | 0.80% | ~26 |
-| Only in Death | 0.80% | ~26 |
 | A Gift Spurned | 0.80% | ~26 |
 | Tactical Sabotage | 0.80% | ~26 |
 | Fleetmaster | 0.70% | ~22 |
 | Exterminator | 0.70% | ~22 |
+| Only in Death | 0.70% | ~22 |
 | Junk Banishment | 0.70% | ~22 |
 | Long Distance Call | 0.70% | ~22 |
 | Tactical Flexibility | 0.70% | ~22 |
 | Mind Like a Fortress | 0.60% | ~19 |
 | Preservationist | 0.60% | ~19 |
+| Engine Kill | 0.60% | ~19 |
 | Patron of Deimos | 0.50% | ~16 |
 | For the Machine God | 0.50% | ~16 |
-| Engine Kill | 0.50% | ~16 |
 | Death Comes For All | 0.50% | ~16 |
 | Hands-On Research | 0.40% | ~13 |
 | Harvest No More | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
-| Reign of Confusion | 0.30% | ~10 |
-| Suffer Not the Mutant | 0.30% | ~10 |
 | Blood and Iron | 0.20% | ~6 |
 | Warp Flickers | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
+| Reign of Confusion | 0.20% | ~6 |
 | Abomination | 0.20% | ~6 |
 | Killing Rampage | 0.20% | ~6 |
+| Suffer Not the Mutant | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,200 (Ranked 169)  
+Progressed: 3,202 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 3,186 | 0 |
 | 2023-09-13 | 3,187 | 0 |
 | 2023-09-15 | 3,191 | 0 |
-| 2023-09-16 | 3,200 | 0 |
+| 2023-09-16 | 3,202 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
 Sum: 474 (Ranked 306)  

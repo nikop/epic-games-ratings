@@ -6,36 +6,36 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~131,256 |
-| Taste | 84.00% | ~125,290 |
-| The Hunt | 66.00% | ~98,442 |
-| Ravenous | 63.00% | ~93,968 |
-| Weeper | 43.00% | ~64,137 |
-| Devourer | 23.00% | ~34,306 |
-| Harmless | 19.00% | ~28,339 |
-| Silenced Whispers | 19.00% | ~28,339 |
-| Sharpened Vessel | 16.00% | ~23,865 |
-| Yank | 15.00% | ~22,373 |
-| Scion | 12.00% | ~17,849 |
-| Jawcrab | 12.00% | ~17,899 |
-| Jawstag | 12.00% | ~17,899 |
-| Feast | 12.00% | ~17,899 |
+| Imprint | 88.00% | ~131,263 |
+| Taste | 84.00% | ~125,297 |
+| The Hunt | 66.00% | ~98,448 |
+| Ravenous | 63.00% | ~93,973 |
+| Weeper | 43.00% | ~64,140 |
+| Devourer | 23.00% | ~34,307 |
+| Harmless | 19.00% | ~28,341 |
+| Silenced Whispers | 19.00% | ~28,341 |
+| Sharpened Vessel | 16.00% | ~23,866 |
+| Yank | 15.00% | ~22,374 |
+| Scion | 12.00% | ~17,850 |
+| Jawcrab | 12.00% | ~17,900 |
+| Jawstag | 12.00% | ~17,900 |
+| Feast | 12.00% | ~17,900 |
 | Watcher | 10.00% | ~14,916 |
-| Shapely | 9.00% | ~13,424 |
-| Glare | 9.00% | ~13,386 |
-| Predator | 8.00% | ~11,932 |
+| Shapely | 9.00% | ~13,425 |
+| Glare | 9.00% | ~13,387 |
+| Predator | 8.00% | ~11,933 |
 | Assimilation | 7.00% | ~10,441 |
-| Host | 6.00% | ~8,924 |
-| Celebration | 6.00% | ~8,949 |
+| Host | 6.00% | ~8,925 |
+| Celebration | 6.00% | ~8,950 |
 | Hunt Down | 5.00% | ~7,458 |
 | Artisan | 5.00% | ~7,458 |
 | Hush | 5.00% | ~7,458 |
 | Inevitable | 5.00% | ~7,458 |
 | Breathsmith | 5.00% | ~7,458 |
 | Dream | 5.00% | ~7,437 |
-| Breath | 4.00% | ~5,966 |
-| Unwrap the Gift | 4.00% | ~5,966 |
-| Proportions | 4.00% | ~5,966 |
+| Breath | 4.00% | ~5,967 |
+| Unwrap the Gift | 4.00% | ~5,967 |
+| Proportions | 4.00% | ~5,967 |
 | Bloodhunter | 3.00% | ~4,475 |
 | All-Seeing | 3.00% | ~4,475 |
 | Passage | 3.00% | ~4,475 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~1,193 |
 | Spiral Heart | 0.10% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,155 (Ranked 67)  
+Progressed: 149,163 (Ranked 67)  
 Completed: 1 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,17 +179,17 @@ Completed: 1 (0.00%) (Ranked 275)
 | 2023-09-13 | 148,396 | 1 |
 | 2023-09-14 | 148,599 | 1 |
 | 2023-09-15 | 148,840 | 1 |
-| 2023-09-16 | 149,155 | 1 |
+| 2023-09-16 | 149,163 | 1 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 449)  
-Sum: 224 (Ranked 364)  
+Sum: 225 (Ranked 364)  
 Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 34 |
 | This game has Quickly Understood Controls | 31 |
+| This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 29 |
-| This game has Unique Visuals | 29 |
 | This game has Amazing Storytelling | 28 |
 | This game has a Creative Community | 26 |
 | This game is Extremely Fun | 26 |
@@ -287,3 +287,4 @@ Diff (max vs sum): 85
 | 2023-09-13 | 4.59 | - | 34 | 221 |
 | 2023-09-14 | 4.59 | - | 34 | 223 |
 | 2023-09-15 | 4.59 | - | 34 | 224 |
+| 2023-09-16 | 4.59 | - | 34 | 225 |

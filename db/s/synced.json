@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48755,
+  "EOS_Progressed": 48859,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34511,
+  "EOS_NewPlayers": 34209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1317,6 +1317,11 @@
       "Time": "2023-09-16T22:06:43.8238407+00:00",
       "NumProgressed": 48755,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T23:05:42.6745555+00:00",
+      "NumProgressed": 48859,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1329,7 +1334,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2443
     },
     {
       "ID": "10",
@@ -1367,9 +1372,9 @@
       "ID": "14",
       "SetID": "2cfdi92",
       "Name": "Nano Connoisseur",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 244
+      "UsersEstimate": 293
     },
     {
       "ID": "15",
@@ -1393,7 +1398,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1466
     },
     {
       "ID": "3",
@@ -1401,7 +1406,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 977
     },
     {
       "ID": "4",
@@ -1409,7 +1414,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "5",
@@ -1417,7 +1422,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "6",
@@ -1456,7 +1461,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 48755,
+      "Progressed": 48859,
       "Completed": 0
     }
   ],
@@ -1464,8 +1469,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-16T18:58:21.8537111+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:06:43.8238401+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:05:42.6745549+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.1772616+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:58:24.5838312+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:06:43.8238634+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:58:14.6306224+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:05:42.6745716+00:00"
 }

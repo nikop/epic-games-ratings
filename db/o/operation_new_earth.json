@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1331,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -4801,6 +4801,11 @@
       "Time": "2023-09-16T22:05:50.5195311+00:00",
       "NumProgressed": 1331,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T23:04:47.4995142+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4828,7 +4833,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_defeat_players_100",
@@ -4892,15 +4897,15 @@
       "Name": "Keeping Busy",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_headquarters_15",
       "SetID": "bm61c2p",
       "Name": "Moving On Up",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "objective_headquarters_20",
@@ -4932,23 +4937,23 @@
       "Name": "Sergeant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 133
     },
     {
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 93
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -4996,7 +5001,7 @@
       "Name": "Covert Operative",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -5052,7 +5057,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5074,9 +5079,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -5115,14 +5120,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1331,
+      "Progressed": 1332,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:05:50.5195306+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:04:47.4995138+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:03:02.7619279+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:05:50.5195896+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:02:10.285405+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:04:47.4995605+00:00"
 }

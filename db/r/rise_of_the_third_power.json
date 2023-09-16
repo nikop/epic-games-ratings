@@ -2,10 +2,10 @@
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.5,
+  "EOS_Completed_Percentage": 3.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-09-16T01:46:27.2867945+00:00",
       "NumProgressed": 143,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T23:07:12.2394266+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 21,
@@ -172,15 +177,15 @@
       "Name": "Attuned",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "BeginningOfTheEnd",
       "SetID": "4nce15l",
       "Name": "Beginning of the End",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "Bling",
@@ -226,9 +231,9 @@
       "ID": "Feast",
       "SetID": "4nce15l",
       "Name": "Feast",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "Geared",
@@ -242,9 +247,9 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "MasterCrafter",
@@ -276,13 +281,13 @@
       "Name": "Opulent",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
       "UsersEstimate": 117
     },
@@ -300,7 +305,7 @@
       "Name": "Ready to Rock",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SideJob",
@@ -314,9 +319,9 @@
       "ID": "Sparkly",
       "SetID": "4nce15l",
       "Name": "Sparkly",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "Specialist",
@@ -324,7 +329,7 @@
       "Name": "Specialist",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Teamwork",
@@ -339,7 +344,7 @@
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 5
     }
   ],
@@ -347,8 +352,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:08:17.0837265+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:07:12.2394262+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.6455274+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:58:20.7105197+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:08:17.0837452+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:58:06.2635161+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:07:12.2394378+00:00"
 }

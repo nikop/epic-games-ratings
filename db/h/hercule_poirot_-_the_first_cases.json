@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -533,9 +533,9 @@
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_014",
@@ -581,9 +581,9 @@
       "ID": "ACH_019",
       "SetID": "72imik0",
       "Name": "Fine-toothed Comb",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_02",
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:09:58.0378132+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:08:48.7617656+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:09.597358+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:58:01.5254763+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:09:58.0378539+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:57:53.8170244+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:08:48.7618575+00:00"
 }

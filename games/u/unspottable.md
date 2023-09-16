@@ -11,6 +11,7 @@
 | Big Win | 25.00% | ~1 |
 | Ha-Ha! | 25.00% | ~1 |
 | Mission Impossible | 25.00% | ~1 |
+| Night vision | 25.00% | ~1 |
 | Short and Sweet | 25.00% | ~1 |
 | Skynet Wins | 25.00% | ~1 |
 | Teacher's pet | 25.00% | ~1 |
@@ -23,7 +24,6 @@
 | Human only | 0.00% | ~0 |
 | Karate Master | 0.00% | ~0 |
 | Longer is better | 0.00% | ~0 |
-| Night vision | 0.00% | ~0 |
 | Don't give me orders | 0.00% | ~0 |
 | No real winner | 0.00% | ~0 |
 | Short Circuit | 0.00% | ~0 |

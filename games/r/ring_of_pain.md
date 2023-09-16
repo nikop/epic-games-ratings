@@ -1,33 +1,33 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 432)  
+Rating: 4.58 (Ranked 433)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,652 |
-| Uncharted Territory | 89.00% | ~210,125 |
-| Getting A Glimpse | 73.00% | ~172,350 |
-| A Quick Escape | 65.00% | ~153,462 |
-| Explorer | 62.00% | ~146,380 |
-| Defeat The Dark | 61.00% | ~144,019 |
-| An Offering | 61.00% | ~144,019 |
-| Colorful Corpse | 58.00% | ~136,936 |
-| That Was Quick | 57.00% | ~134,575 |
-| A Donation | 57.00% | ~134,575 |
-| Goodbye, Frog Friend | 54.00% | ~127,492 |
-| Heavy Hitter | 53.00% | ~125,131 |
-| Heartless | 46.00% | ~108,604 |
-| Spine Breaker | 46.00% | ~108,604 |
-| Deflection | 45.00% | ~106,243 |
-| Sneaky | 43.00% | ~101,521 |
-| Delving Deeper | 42.00% | ~99,160 |
-| C-C-Combo | 42.00% | ~99,160 |
-| Ambitious Intent | 41.00% | ~96,799 |
-| Nothing To Lose | 40.00% | ~94,438 |
-| The Bestiary | 40.00% | ~94,438 |
-| What's Yours Is Mine | 38.00% | ~89,716 |
+| First Steps | 96.00% | ~226,654 |
+| Uncharted Territory | 89.00% | ~210,127 |
+| Getting A Glimpse | 73.00% | ~172,352 |
+| A Quick Escape | 65.00% | ~153,464 |
+| Explorer | 62.00% | ~146,381 |
+| Defeat The Dark | 61.00% | ~144,020 |
+| An Offering | 61.00% | ~144,020 |
+| Colorful Corpse | 58.00% | ~136,937 |
+| That Was Quick | 57.00% | ~134,576 |
+| A Donation | 57.00% | ~134,576 |
+| Goodbye, Frog Friend | 54.00% | ~127,493 |
+| Heavy Hitter | 53.00% | ~125,132 |
+| Heartless | 46.00% | ~108,605 |
+| Spine Breaker | 46.00% | ~108,605 |
+| Deflection | 45.00% | ~106,244 |
+| Sneaky | 43.00% | ~101,522 |
+| Delving Deeper | 42.00% | ~99,161 |
+| C-C-Combo | 42.00% | ~99,161 |
+| Ambitious Intent | 41.00% | ~96,800 |
+| Nothing To Lose | 40.00% | ~94,439 |
+| The Bestiary | 40.00% | ~94,439 |
+| What's Yours Is Mine | 38.00% | ~89,717 |
 | R.I.P | 37.00% | ~87,356 |
 | Shootout | 36.00% | ~84,995 |
 | I Am Overburdened | 35.00% | ~82,634 |
@@ -45,20 +45,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 27.00% | ~63,746 |
 | Destroy Your Fears | 26.00% | ~61,385 |
 | Save Our Souls | 25.00% | ~59,024 |
-| To The Death! | 20.00% | ~47,219 |
-| Well Prepared | 20.00% | ~47,219 |
-| Just Chilling | 20.00% | ~47,219 |
-| All Consuming | 19.00% | ~44,858 |
-| Stop Hitting Yourself | 19.00% | ~44,858 |
-| Shadow Spreads | 17.00% | ~40,136 |
-| Don't Ignore Me! | 17.00% | ~40,136 |
-| Illuminate, Eliminate | 17.00% | ~40,136 |
-| Max Damage! | 16.00% | ~37,775 |
-| Doing Time | 16.00% | ~37,775 |
-| Spreading Plague | 15.00% | ~35,414 |
-| The Long Run | 14.00% | ~33,053 |
-| A Rough Road | 13.00% | ~30,692 |
-| Chain Reaction | 13.00% | ~30,692 |
+| To The Death! | 20.00% | ~47,220 |
+| Well Prepared | 20.00% | ~47,220 |
+| Just Chilling | 20.00% | ~47,220 |
+| All Consuming | 19.00% | ~44,859 |
+| Stop Hitting Yourself | 19.00% | ~44,859 |
+| Shadow Spreads | 17.00% | ~40,137 |
+| Don't Ignore Me! | 17.00% | ~40,137 |
+| Illuminate, Eliminate | 17.00% | ~40,137 |
+| Max Damage! | 16.00% | ~37,776 |
+| Doing Time | 16.00% | ~37,776 |
+| Spreading Plague | 15.00% | ~35,415 |
+| The Long Run | 14.00% | ~33,054 |
+| A Rough Road | 13.00% | ~30,693 |
+| Chain Reaction | 13.00% | ~30,693 |
 | Berzerker | 12.00% | ~28,332 |
 | Antivenom | 12.00% | ~28,332 |
 | Thank You, Friend | 11.00% | ~25,971 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,180 |
 | Near Death Experience | 0.30% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,096 (Ranked 52)  
+Progressed: 236,098 (Ranked 52)  
 Completed: 271 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 271 (0.11%) (Ranked 218)
 | 2023-09-13 | 235,936 | 269 |
 | 2023-09-14 | 235,973 | 270 |
 | 2023-09-15 | 236,029 | 271 |
-| 2023-09-16 | 236,096 | 271 |
+| 2023-09-16 | 236,098 | 271 |
 ## Awards
 Max (Quickly Understood Controls): 1,492  (Ranked 124)  
 Sum: 11,556 (Ranked 79)  

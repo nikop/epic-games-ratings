@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 432)  
+Rating: 4.58 (Ranked 433)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,10 +14,10 @@ Number of Ratings: 154  (23.09.2022)
 | Ring Collector | 69.00% | ~333 |
 | Time Traveler | 68.00% | ~328 |
 | Everyone's Hero | 64.00% | ~308 |
+| Miles "Tails" Prower | 61.00% | ~294 |
 | Easy Peasy with Shields | 60.00% | ~289 |
 | Gallant Spin Dash | 60.00% | ~289 |
 | Knuckles the Echidna | 60.00% | ~289 |
-| Miles "Tails" Prower | 60.00% | ~289 |
 | Bubbly Breath | 58.00% | ~280 |
 | Boss Rush Attempt | 53.00% | ~255 |
 | Cleared Sonic the Hedgehog | 50.00% | ~241 |
@@ -29,7 +29,7 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic the Hedgehog 2 | 41.00% | ~198 |
 | Beware Moto Bugs! | 40.00% | ~193 |
 | Cleared Sonic CD | 40.00% | ~193 |
-| Cleared Sonic the Hedgehog 3 & Knuckles | 36.00% | ~174 |
+| Cleared Sonic the Hedgehog 3 & Knuckles | 37.00% | ~178 |
 | Lucky Hedgehog | 31.00% | ~149 |
 | All Clear! | 30.00% | ~145 |
 | To the Mirror World | 29.00% | ~140 |

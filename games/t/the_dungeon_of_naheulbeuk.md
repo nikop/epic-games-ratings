@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,367 |
+| Sowwy! | 30.00% | ~67,370 |
 | Alt+F4 | 5.00% | ~11,228 |
-| Where's that freaking Dwarf? | 4.00% | ~8,982 |
+| Where's that freaking Dwarf? | 4.00% | ~8,983 |
 | Déjà vu | 3.00% | ~6,737 |
 | Sock! SOCK! | 3.00% | ~6,737 |
 | Speedrun | 3.00% | ~6,737 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.90% | ~2,021 |
 | %#*!$*! | 0.90% | ~2,021 |
 | Look but don't touch | 0.90% | ~2,021 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,796 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,797 |
 | Dead for good | 0.70% | ~1,572 |
 | Lust and Debauchery | 0.70% | ~1,572 |
 | Material Girl | 0.70% | ~1,572 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,557 (Ranked 58)  
+Progressed: 224,568 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 3 (0.00%) (Ranked 275)
 | 2023-09-13 | 223,808 | 2 |
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
-| 2023-09-16 | 224,557 | 3 |
+| 2023-09-16 | 224,568 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 335 (Ranked 337)  

@@ -7,18 +7,20 @@ Rating: 4.50 (Ranked 565)
 | ---- | ---------- | ----- |
 | Stylish | 0.30% | ~78 |
 | Advancement | 0.20% | ~52 |
+| Animated | 0.20% | ~52 |
+| Back Off | 0.20% | ~52 |
+| I collect Spores, Molds, and Fungi | 0.20% | ~52 |
 | Discovery | 0.20% | ~52 |
 | Meticulously Efficient | 0.20% | ~52 |
+| Fully Upgraded | 0.20% | ~52 |
 | Solo Capture | 0.20% | ~52 |
+| Summoner | 0.20% | ~52 |
 | Teamwork | 0.20% | ~52 |
 | Vaporous Expansion | 0.20% | ~52 |
 | Whoopsie | 0.20% | ~52 |
-| Animated | 0.10% | ~26 |
-| Back Off | 0.10% | ~26 |
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | Clutch Capture | 0.10% | ~26 |
-| I collect Spores, Molds, and Fungi | 0.10% | ~26 |
 | Collector | 0.10% | ~26 |
 | Cultured | 0.10% | ~26 |
 | Daily Dose | 0.10% | ~26 |
@@ -27,7 +29,6 @@ Rating: 4.50 (Ranked 565)
 | Ectoplasmic Entity | 0.10% | ~26 |
 | Escape Artist | 0.10% | ~26 |
 | Fragile Panes | 0.10% | ~26 |
-| Fully Upgraded | 0.10% | ~26 |
 | Ghostbuster In Training | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
 | Icing on the Cake | 0.10% | ~26 |
@@ -35,6 +36,7 @@ Rating: 4.50 (Ranked 565)
 | Liability | 0.10% | ~26 |
 | Line em' up | 0.10% | ~26 |
 | Little Help Here | 0.10% | ~26 |
+| Master Collector | 0.10% | ~26 |
 | Pesky Jerks | 0.10% | ~26 |
 | Reckless | 0.10% | ~26 |
 | Rift Destroyer | 0.10% | ~26 |
@@ -45,7 +47,6 @@ Rating: 4.50 (Ranked 565)
 | Side Hustle | 0.10% | ~26 |
 | Skilled | 0.10% | ~26 |
 | Stunner | 0.10% | ~26 |
-| Summoner | 0.10% | ~26 |
 | Surprise! | 0.10% | ~26 |
 | Swift Rift Removers | 0.10% | ~26 |
 | Terrifying | 0.10% | ~26 |
@@ -54,10 +55,9 @@ Rating: 4.50 (Ranked 565)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 | Welcome to the Crew | 0.10% | ~26 |
-| Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,844 (Ranked 106)  
+Progressed: 25,847 (Ranked 106)  
 Completed: 56 (0.22%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 56 (0.22%) (Ranked 195)
 | 2023-09-13 | 25,787 | 55 |
 | 2023-09-14 | 25,800 | 56 |
 | 2023-09-15 | 25,818 | 56 |
-| 2023-09-16 | 25,844 | 56 |
+| 2023-09-16 | 25,847 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,314 (Ranked 188)  

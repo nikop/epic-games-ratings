@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -491,9 +491,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -507,9 +507,9 @@
       "ID": "ACHIEVEMENT_21_PlushyBoy",
       "SetID": "9bke6f1",
       "Name": "Plushyboy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_22_Dreamboat",
@@ -595,9 +595,9 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:05:52.7015859+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:04:49.4702285+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:00:09.9510428+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:05:52.7016058+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:59:37.0304362+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:04:49.4702451+00:00"
 }

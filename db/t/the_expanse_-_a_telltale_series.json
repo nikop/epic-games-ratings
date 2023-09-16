@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 10668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5633,9 +5633,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1173
     },
     {
       "ID": "19",
@@ -5810,8 +5810,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:10:19.7753668+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:09:16.9356028+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:00:12.8082578+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:10:19.7754464+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:59:40.7161639+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:09:16.9356447+00:00"
 }

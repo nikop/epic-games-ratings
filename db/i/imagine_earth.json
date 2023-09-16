@@ -5,10 +5,10 @@
   "Ranking_Rating": 800,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -329,6 +329,11 @@
       "Time": "2023-09-16T07:03:22.531708+00:00",
       "NumProgressed": 412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T23:03:50.5154745+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -340,7 +345,7 @@
       "Name": "Builder",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CampaignStars1",
@@ -348,7 +353,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "CampaignStars2",
@@ -404,7 +409,7 @@
       "Name": "Environmentalist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Forester",
@@ -420,7 +425,7 @@
       "Name": "Metropolis",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Multitalent",
@@ -460,7 +465,7 @@
       "Name": "Joma",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PlanetLorian",
@@ -500,7 +505,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "PlanetUdionTorix",
@@ -524,14 +529,14 @@
       "Name": "World Creator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 0
     }
   ],
@@ -539,8 +544,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-09-16T22:04:56.2486727+00:00",
+  "LastChanged_Achievements": "2023-09-16T23:03:50.515474+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.259769+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:00:26.548436+00:00",
-  "LastUpdate_Achievements": "2023-09-16T22:04:56.2486904+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:59:49.2750968+00:00",
+  "LastUpdate_Achievements": "2023-09-16T23:03:50.5154891+00:00"
 }
