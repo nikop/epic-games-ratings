@@ -6688,9 +6688,9 @@
       "Count": 3419
     }
   ],
-  "EOS_Progressed": 229025,
+  "EOS_Progressed": 229033,
   "EOS_Completed": 2288,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 917,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23208,6 +23208,11 @@
       "Time": "2023-09-16T15:07:12.8894687+00:00",
       "NumProgressed": 229025,
       "NumCompleted": 2288
+    },
+    {
+      "Time": "2023-09-16T16:06:17.022042+00:00",
+      "NumProgressed": 229033,
+      "NumCompleted": 2288
     }
   ],
   "TotalAchievements": 520,
@@ -23219,7 +23224,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4580
+      "UsersEstimate": 4581
     },
     {
       "ID": "objective_completed_10",
@@ -27378,21 +27383,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195299,
+      "Progressed": 195307,
       "Completed": 3434
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229025,
+      "Progressed": 229033,
       "Completed": 2288
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-16T10:58:38.7721142+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:07:12.8894679+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:06:17.0220415+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:58:08.4366006+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:07:12.8931463+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:58:07.8771662+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:06:17.0247163+00:00"
 }

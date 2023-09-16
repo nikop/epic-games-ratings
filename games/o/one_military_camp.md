@@ -34,11 +34,11 @@
 | Crisis Committee | 2.00% | ~3 |
 | Vive le Résistance | 2.00% | ~3 |
 | No News is Good News | 2.00% | ~3 |
+| Snowman | 2.00% | ~3 |
 | Human Resources | 2.00% | ~3 |
+| Reconquest | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
-| Snowman | 1.00% | ~2 |
-| Reconquest | 1.00% | ~2 |
 | Counter-espionage | 0.60% | ~1 |
 | Conveyor Belt Madness | 0.60% | ~1 |
 | Against Adversity | 0.60% | ~1 |

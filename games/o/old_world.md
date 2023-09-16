@@ -7,10 +7,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Settler | 6.00% | ~837 |
-| Explorer | 5.00% | ~697 |
-| Friendly Family | 5.00% | ~697 |
-| Play a Single Player Game | 5.00% | ~697 |
-| The Clergy | 5.00% | ~697 |
+| Explorer | 5.00% | ~698 |
+| Friendly Family | 5.00% | ~698 |
+| Play a Single Player Game | 5.00% | ~698 |
+| The Clergy | 5.00% | ~698 |
 | Able | 4.00% | ~558 |
 | Architect | 4.00% | ~558 |
 | Intrepid | 4.00% | ~558 |
@@ -71,45 +71,45 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 2.00% | ~279 |
 | Mythology | 2.00% | ~279 |
 | Poetic Leader | 2.00% | ~279 |
-| Hanging Gardens in Babylon | 1.00% | ~139 |
-| Beloved | 1.00% | ~139 |
-| Capable | 1.00% | ~139 |
-| Conqueror | 1.00% | ~139 |
-| Invincible | 1.00% | ~139 |
-| Lion | 1.00% | ~139 |
-| Mighty | 1.00% | ~139 |
-| Ready | 1.00% | ~139 |
-| Subjugator | 1.00% | ~139 |
-| Victorious | 1.00% | ~139 |
-| Good Difficulty | 1.00% | ~139 |
-| Champions | 1.00% | ~139 |
-| Patrons | 1.00% | ~139 |
-| Riders | 1.00% | ~139 |
-| Statesmen | 1.00% | ~139 |
-| Traders | 1.00% | ~139 |
-| Hittite Iron | 1.00% | ~139 |
-| Circus Maximus | 1.00% | ~139 |
-| Hagia Sophia | 1.00% | ~139 |
-| Temple of Solomon | 1.00% | ~139 |
-| Pantheon | 1.00% | ~139 |
-| Via Recta Souk | 1.00% | ~139 |
-| Learn to Play 3 | 1.00% | ~139 |
-| Greece | 1.00% | ~139 |
-| Power to the People | 1.00% | ~139 |
-| Assyrian Paganism | 1.00% | ~139 |
-| Persian Paganism | 1.00% | ~139 |
-| Building Wonders | 1.00% | ~139 |
-| Economic Reform | 1.00% | ~139 |
-| Dualism | 1.00% | ~139 |
-| Legalism | 1.00% | ~139 |
-| Redemption | 1.00% | ~139 |
-| Cimmerian Archer | 1.00% | ~139 |
-| Legionary | 1.00% | ~139 |
-| Phalangite | 1.00% | ~139 |
-| Ambition Victory | 1.00% | ~139 |
-| Double Victory | 1.00% | ~139 |
-| Points Victory | 1.00% | ~139 |
-| Win a Single Player Game | 1.00% | ~139 |
+| Hanging Gardens in Babylon | 1.00% | ~140 |
+| Beloved | 1.00% | ~140 |
+| Capable | 1.00% | ~140 |
+| Conqueror | 1.00% | ~140 |
+| Invincible | 1.00% | ~140 |
+| Lion | 1.00% | ~140 |
+| Mighty | 1.00% | ~140 |
+| Ready | 1.00% | ~140 |
+| Subjugator | 1.00% | ~140 |
+| Victorious | 1.00% | ~140 |
+| Good Difficulty | 1.00% | ~140 |
+| Champions | 1.00% | ~140 |
+| Patrons | 1.00% | ~140 |
+| Riders | 1.00% | ~140 |
+| Statesmen | 1.00% | ~140 |
+| Traders | 1.00% | ~140 |
+| Hittite Iron | 1.00% | ~140 |
+| Circus Maximus | 1.00% | ~140 |
+| Hagia Sophia | 1.00% | ~140 |
+| Temple of Solomon | 1.00% | ~140 |
+| Pantheon | 1.00% | ~140 |
+| Via Recta Souk | 1.00% | ~140 |
+| Learn to Play 3 | 1.00% | ~140 |
+| Greece | 1.00% | ~140 |
+| Power to the People | 1.00% | ~140 |
+| Assyrian Paganism | 1.00% | ~140 |
+| Persian Paganism | 1.00% | ~140 |
+| Building Wonders | 1.00% | ~140 |
+| Economic Reform | 1.00% | ~140 |
+| Dualism | 1.00% | ~140 |
+| Legalism | 1.00% | ~140 |
+| Redemption | 1.00% | ~140 |
+| Cimmerian Archer | 1.00% | ~140 |
+| Legionary | 1.00% | ~140 |
+| Phalangite | 1.00% | ~140 |
+| Ambition Victory | 1.00% | ~140 |
+| Double Victory | 1.00% | ~140 |
+| Points Victory | 1.00% | ~140 |
+| Win a Single Player Game | 1.00% | ~140 |
 | Devout | 0.90% | ~126 |
 | Landowners | 0.90% | ~126 |
 | Church of the Holy Sepulchre | 0.90% | ~126 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,948 (Ranked 123)  
+Progressed: 13,950 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,948 | 5 |
+| 2023-09-16 | 13,950 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

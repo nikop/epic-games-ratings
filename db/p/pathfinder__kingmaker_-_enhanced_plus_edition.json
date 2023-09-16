@@ -3,11 +3,11 @@
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
   "Ranking_Rating": 450,
-  "Ranking_Popularity": 94,
+  "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-05-13T19:30:00+00:00",
@@ -4941,18 +4941,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 8708,
       "NumberOfAwardsMax": 3262
+    },
+    {
+      "Time": "2023-09-16T16:00:47.2834226+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 8714,
+      "NumberOfAwardsMax": 3266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8708,
-  "NumberOfAwardsMax": 3262,
+  "NumberOfAwards": 8714,
+  "NumberOfAwardsMax": 3266,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3262
+      "Count": 3266
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4988,13 +4994,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 374
+      "Count": 375
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 349
+      "Count": 350
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5038,8 +5044,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2023-09-16T04:59:24.6027701+00:00",
+  "LastChanged": "2023-09-16T16:00:47.2834224+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:51.4734709+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:01:24.0131054+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:03:48.4909244+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:00:47.2834231+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:03:04.3936201+00:00"
 }

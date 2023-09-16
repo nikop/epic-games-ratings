@@ -13,11 +13,11 @@ Rating: 4.87 (Ranked 25)
 | Who put gears in there? | 11.00% | ~446 |
 | You got this, Peppermint? | 10.00% | ~406 |
 | Perfect Parry | 10.00% | ~406 |
+| Uh, they were broken when I got here | 9.00% | ~365 |
 | Alright, that felt AWESOME! | 9.00% | ~365 |
 | This will cost you big time | 8.00% | ~324 |
 | I play my own way! | 8.00% | ~324 |
 | Z-shielding's got nothing on us! | 8.00% | ~324 |
-| Uh, they were broken when I got here | 8.00% | ~324 |
 | Kissing the sky! | 8.00% | ~324 |
 | The Negotiator | 7.00% | ~284 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~284 |
@@ -46,7 +46,7 @@ Rating: 4.87 (Ranked 25)
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
 | I hit things with a guitar really well. | 1.00% | ~41 |
-| This is a breeze! | 0.90% | ~36 |
+| This is a breeze! | 0.90% | ~37 |
 | You ever parry a volcano? | 0.70% | ~28 |
 | New bad guys? No problem! | 0.70% | ~18 |
 | OK, well THEY came after ME! | 0.60% | ~24 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,055 (Ranked 158)  
+Progressed: 4,056 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-13 | 4,036 | 7 |
 | 2023-09-14 | 4,038 | 7 |
 | 2023-09-15 | 4,051 | 7 |
-| 2023-09-16 | 4,055 | 7 |
+| 2023-09-16 | 4,056 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

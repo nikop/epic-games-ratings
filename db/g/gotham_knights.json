@@ -2886,18 +2886,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4452,
       "NumberOfAwardsMax": 2683
+    },
+    {
+      "Time": "2023-09-16T16:00:12.4034613+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4467,
+      "NumberOfAwardsMax": 2698
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4452,
-  "NumberOfAwardsMax": 2683,
+  "NumberOfAwards": 4467,
+  "NumberOfAwardsMax": 2698,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2683
+      "Count": 2698
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2954,9 +2960,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72582,
+  "EOS_Progressed": 72583,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15649,6 +15655,11 @@
       "Time": "2023-09-16T15:03:57.0051549+00:00",
       "NumProgressed": 72582,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-16T16:03:11.8323088+00:00",
+      "NumProgressed": 72583,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15780,7 +15791,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10161
+      "UsersEstimate": 10162
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -15908,7 +15919,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10161
+      "UsersEstimate": 10162
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -15980,7 +15991,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14516
+      "UsersEstimate": 14517
     },
     {
       "ID": "HARLEY_4",
@@ -16028,7 +16039,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14516
+      "UsersEstimate": 14517
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16076,7 +16087,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14516
+      "UsersEstimate": 14517
     },
     {
       "ID": "MYSTERY_05",
@@ -16090,9 +16101,9 @@
       "ID": "MYSTERY_06",
       "SetID": "4eo5ebm",
       "Name": "Voiceless",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10161
+      "UsersEstimate": 10887
     },
     {
       "ID": "MYSTERY_07",
@@ -16147,22 +16158,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72582,
+      "Progressed": 72583,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42862,
+      "Progressed": 42863,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-16T15:00:42.6143495+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:03:57.0051542+00:00",
+  "LastChanged": "2023-09-16T16:00:12.4034611+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:03:11.8323083+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:00:42.61435+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:03:57.0055791+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:00:12.403462+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:03:11.8324669+00:00"
 }

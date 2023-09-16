@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.75,
+  "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -368,6 +368,11 @@
       "Time": "2023-09-16T15:06:26.9427991+00:00",
       "NumProgressed": 218,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-16T16:05:47.1915637+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -377,9 +382,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "02",
@@ -387,7 +392,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "03",
@@ -403,23 +408,23 @@
       "Name": "At the top of the mountain.",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "05",
       "SetID": "6glb5g1",
       "Name": "A turbulent river.",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "07",
@@ -451,7 +456,7 @@
       "Name": "The mountain of peril.",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "11",
@@ -498,7 +503,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 6
     }
   ],
@@ -506,8 +511,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:06:26.9427985+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:05:47.1915633+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:35.4056628+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:58:12.626333+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:06:26.942937+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:58:10.8770124+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:05:47.1915769+00:00"
 }

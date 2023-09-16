@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~2,336 |
-| A Thorny Situation | 68.00% | ~2,207 |
-| ... And Spit Back Out | 55.00% | ~1,785 |
-| Break-Net Speed | 42.00% | ~1,363 |
-| Bramble Breaker | 37.00% | ~1,201 |
-| Miner 49er | 34.00% | ~1,103 |
-| Humble Collector | 33.00% | ~1,071 |
-| Calm Sailing | 23.00% | ~746 |
-| Open the Gate! | 20.00% | ~649 |
-| Lumberjack | 17.00% | ~552 |
-| Mist Walker | 17.00% | ~552 |
-| Oui, Chef! | 17.00% | ~552 |
-| Botanical Breakthrough | 9.00% | ~292 |
-| Beach Comber | 8.00% | ~260 |
-| Clear the Air | 7.00% | ~227 |
-| Search for the Hairy Grell | 4.00% | ~130 |
-| Higher Tax Bracket | 4.00% | ~130 |
-| Got to Catch Them All | 2.00% | ~65 |
-| Rumble in the Jumble | 2.00% | ~65 |
-| Fanatical Farmer | 2.00% | ~65 |
-| I Now Pronounce You... | 2.00% | ~65 |
-| Skilled | 2.00% | ~65 |
-| Flaming Hot Completos | 1.00% | ~32 |
-| Fae Farmer | 1.00% | ~32 |
-| Scattered Scroll Scrounger | 1.00% | ~32 |
-| Chatty Neighbor | 1.00% | ~32 |
-| Azorian Anniversary | 1.00% | ~32 |
-| Right Tool For the Job | 1.00% | ~32 |
-| House Proud | 1.00% | ~32 |
+| Azoria Beckons | 72.00% | ~2,361 |
+| A Thorny Situation | 68.00% | ~2,230 |
+| ... And Spit Back Out | 55.00% | ~1,803 |
+| Break-Net Speed | 42.00% | ~1,377 |
+| Bramble Breaker | 37.00% | ~1,213 |
+| Miner 49er | 34.00% | ~1,115 |
+| Humble Collector | 33.00% | ~1,082 |
+| Calm Sailing | 23.00% | ~754 |
+| Open the Gate! | 20.00% | ~656 |
+| Lumberjack | 17.00% | ~557 |
+| Mist Walker | 17.00% | ~557 |
+| Oui, Chef! | 17.00% | ~557 |
+| Botanical Breakthrough | 9.00% | ~295 |
+| Beach Comber | 8.00% | ~262 |
+| Clear the Air | 7.00% | ~230 |
+| Search for the Hairy Grell | 4.00% | ~131 |
+| Higher Tax Bracket | 4.00% | ~131 |
+| Got to Catch Them All | 2.00% | ~66 |
+| Rumble in the Jumble | 2.00% | ~66 |
+| Fanatical Farmer | 2.00% | ~66 |
+| I Now Pronounce You... | 2.00% | ~66 |
+| Skilled | 2.00% | ~66 |
+| Flaming Hot Completos | 1.00% | ~33 |
+| Fae Farmer | 1.00% | ~33 |
+| Scattered Scroll Scrounger | 1.00% | ~33 |
+| Chatty Neighbor | 1.00% | ~33 |
+| Azorian Anniversary | 1.00% | ~33 |
+| House Proud | 1.00% | ~33 |
+| Right Tool For the Job | 0.90% | ~30 |
 | Captain of Cozy | 0.50% | ~16 |
 | Angling Authority | 0.40% | ~13 |
 | Cloverfield Island | 0.10% | ~3 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~3 |
 | Very Skilled | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,245 (Ranked 167)  
+Progressed: 3,279 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,4 +63,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 2,323 | 0 |
 | 2023-09-14 | 2,687 | 0 |
 | 2023-09-15 | 3,022 | 0 |
-| 2023-09-16 | 3,245 | 0 |
+| 2023-09-16 | 3,279 | 0 |

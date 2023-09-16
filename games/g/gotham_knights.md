@@ -16,18 +16,18 @@ Rating: 4.18 (Ranked 882)
 | Lock and Key | 22.00% | ~15,968 |
 | Something in the Clay | 21.00% | ~15,242 |
 | Quartzer Life Crisis | 21.00% | ~15,242 |
-| Working Hard or Harley Working? | 20.00% | ~14,516 |
-| Unstoppable Force | 20.00% | ~14,516 |
-| Bad Apples in Every Orchard | 20.00% | ~14,516 |
+| Working Hard or Harley Working? | 20.00% | ~14,517 |
+| Unstoppable Force | 20.00% | ~14,517 |
+| Bad Apples in Every Orchard | 20.00% | ~14,517 |
 | Snow Problem | 19.00% | ~13,791 |
 | The Show Mud Go On | 18.00% | ~13,065 |
 | From Inside Gotham's Walls | 18.00% | ~13,065 |
 | Protector of Gotham | 16.00% | ~11,613 |
 | Universal Health Scare | 16.00% | ~11,613 |
 | In Your Element | 15.00% | ~10,887 |
-| Rock and a Hard Place | 14.00% | ~10,161 |
-| Cooldown | 14.00% | ~10,161 |
-| Voiceless | 14.00% | ~10,161 |
+| Voiceless | 15.00% | ~10,887 |
+| Rock and a Hard Place | 14.00% | ~10,162 |
+| Cooldown | 14.00% | ~10,162 |
 | Not On My Watch | 13.00% | ~9,436 |
 | Shock Til They Drop | 13.00% | ~9,436 |
 | Seeking Asylum | 13.00% | ~9,436 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 882)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,582 (Ranked 83)  
+Progressed: 72,583 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,14 +216,14 @@ Completed: 113 (0.16%) (Ranked 204)
 | 2023-09-13 | 72,499 | 113 |
 | 2023-09-14 | 72,534 | 113 |
 | 2023-09-15 | 72,563 | 113 |
-| 2023-09-16 | 72,582 | 113 |
+| 2023-09-16 | 72,583 | 113 |
 ## Awards
-Max (Great Boss Battles): 2,683  (Ranked 96)  
-Sum: 4,452 (Ranked 139)  
+Max (Great Boss Battles): 2,698  (Ranked 96)  
+Sum: 4,467 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,683 |
+| This game has Great Boss Battles | 2,698 |
 | This game is Extremely Fun | 229 |
 | This game has Quickly Understood Controls | 224 |
 | This game is Relaxing | 224 |
@@ -439,4 +439,4 @@ Diff (max vs sum): -43
 | 2023-09-13 | 4.18 | 2,657 | 4,405 |
 | 2023-09-14 | 4.18 | 2,667 | 4,423 |
 | 2023-09-15 | 4.18 | 2,683 | 4,447 |
-| 2023-09-16 | 4.18 | 2,683 | 4,452 |
+| 2023-09-16 | 4.18 | 2,698 | 4,467 |

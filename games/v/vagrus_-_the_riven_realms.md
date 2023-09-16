@@ -12,7 +12,7 @@
 | Scribe | 10.00% | ~15 |
 | Tactician | 9.00% | ~13 |
 | Breached | 8.00% | ~12 |
-| Fight Another Day | 7.00% | ~10 |
+| Fight Another Day | 8.00% | ~12 |
 | Scholar | 6.00% | ~9 |
 | Acquaintance | 6.00% | ~9 |
 | Tail-wind | 6.00% | ~9 |

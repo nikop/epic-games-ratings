@@ -11,12 +11,12 @@ Rating: 4.77 (Ranked 109)
 | A Keen Sense of Spell | 12.00% | ~35,606 |
 | A Talent for Spending | 11.00% | ~32,639 |
 | That's a Keeper | 11.00% | ~32,639 |
-| Grappling with a Graphorn | 10.00% | ~29,671 |
-| The One Who Mastered Memories | 10.00% | ~29,671 |
-| The Hallowed Hero | 10.00% | ~29,671 |
-| The Defender of Dragons | 10.00% | ~29,671 |
-| Loom for Improvement | 10.00% | ~29,671 |
-| Coasting Along | 10.00% | ~29,671 |
+| Grappling with a Graphorn | 10.00% | ~29,672 |
+| The One Who Mastered Memories | 10.00% | ~29,672 |
+| The Hallowed Hero | 10.00% | ~29,672 |
+| The Defender of Dragons | 10.00% | ~29,672 |
+| Loom for Improvement | 10.00% | ~29,672 |
+| Coasting Along | 10.00% | ~29,672 |
 | The Hero of Hogwarts | 9.00% | ~26,704 |
 | Challenge Accepted | 9.00% | ~26,704 |
 | Followed the Butterflies | 9.00% | ~26,704 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,714 (Ranked 43)  
+Progressed: 296,715 (Ranked 43)  
 Completed: 471 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 471 (0.16%) (Ranked 204)
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
-| 2023-09-16 | 296,714 | 471 |
+| 2023-09-16 | 296,715 | 471 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
-Sum: 43,402 (Ranked 30)  
+Sum: 43,406 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 995 |
 | This game is Highly Recommended | 980 |
 | This game has Quickly Understood Controls | 915 |
-| This game has Beautiful Visuals | 852 |
+| This game has Beautiful Visuals | 856 |
 | This game has a Creative Community | 650 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -398,4 +398,4 @@ Diff (max vs sum): -13
 | 2023-09-13 | 4.77 | 22,630 | 43,189 |
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
-| 2023-09-16 | 4.77 | 22,703 | 43,402 |
+| 2023-09-16 | 4.77 | 22,703 | 43,406 |

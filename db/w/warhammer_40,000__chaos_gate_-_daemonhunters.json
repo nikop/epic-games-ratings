@@ -5,9 +5,9 @@
   "Ranking_Rating": 432,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 306,
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -720,9 +720,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3199,
+  "EOS_Progressed": 3200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3340,6 +3340,11 @@
       "Time": "2023-09-16T14:06:11.6355674+00:00",
       "NumProgressed": 3199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T16:06:07.4066397+00:00",
+      "NumProgressed": 3200,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3589,9 +3594,9 @@
       "ID": "Kills_Vakir",
       "SetID": "3jha1np",
       "Name": "Hands-On Research",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "KoramarCompleted",
@@ -3894,21 +3899,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3199,
+      "Progressed": 3200,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3199,
+      "Progressed": 3200,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:06:51.6471168+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:06:07.4066391+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:59:16.3624571+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:06:51.6472018+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:59:13.2372199+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:06:07.4067259+00:00"
 }

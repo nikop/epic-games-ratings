@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3805,9 +3805,9 @@
       "ID": "STB_MISSION1_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Dark Forest",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1995
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3965,9 +3965,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1918
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4022,8 +4022,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:07:34.6983828+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:06:35.0342847+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:32.2915355+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:57:48.5676634+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:07:34.6984755+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:57:49.2572513+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:06:35.0343514+00:00"
 }

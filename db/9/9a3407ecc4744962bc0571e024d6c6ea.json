@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1331,9 +1331,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 332
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1387,9 +1387,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 319
+      "UsersEstimate": 325
     },
     {
       "ID": "TragedyDocumented",
@@ -1418,8 +1418,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:09:43.0794927+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:08:24.5563663+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:01.9364829+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:00:58.1907137+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:09:43.0795132+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:00:25.1000443+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:08:24.5563903+00:00"
 }

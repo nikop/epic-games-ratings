@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 887,
+  "Ranking_Rating": 888,
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -826,10 +826,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 678,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-09-16T15:57:36.6931239+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 679,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 678,
+  "NumberOfAwards": 679,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -849,7 +855,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game is Extremely Fun",
@@ -896,7 +902,7 @@
   ],
   "EOS_Progressed": 6635,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6746,9 +6752,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-09-14T14:01:12.6509344+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:07:37.636833+00:00",
+  "LastChanged": "2023-09-16T15:57:36.6931237+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:06:37.6167851+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:17.012778+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:57:34.5592116+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:07:37.6369483+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:57:36.6931243+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:06:37.6168904+00:00"
 }

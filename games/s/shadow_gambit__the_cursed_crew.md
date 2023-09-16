@@ -22,8 +22,8 @@ Rating: 4.69 (Ranked 217)
 | Persistent Parasite | 17.00% | ~109 |
 | Jaded Judge | 13.00% | ~84 |
 | Privateer | 12.00% | ~77 |
+| Tobacco Travesty | 11.00% | ~71 |
 | Rustic Recipe | 11.00% | ~71 |
-| Tobacco Travesty | 10.00% | ~64 |
 | Accursed Artifacts | 10.00% | ~64 |
 | Lyrical Longing | 9.00% | ~58 |
 | Corsair | 6.00% | ~39 |
@@ -33,7 +33,7 @@ Rating: 4.69 (Ranked 217)
 | Welcome Back Jester | 3.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 644 (Ranked 235)  
-Completed: 15 (2.33%) (Ranked 89)  
+Completed: 15 (2.33%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

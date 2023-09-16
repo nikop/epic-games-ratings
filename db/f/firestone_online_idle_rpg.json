@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -5920,9 +5920,9 @@
       "ID": "lockandload",
       "SetID": "3nl4bcg",
       "Name": "Lock And Load",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 136
     },
     {
       "ID": "masterenchanter",
@@ -6225,8 +6225,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:03:40.8693555+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:02:42.882704+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:58:36.7223916+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:03:40.8695+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:58:35.5459859+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:02:42.8828222+00:00"
 }

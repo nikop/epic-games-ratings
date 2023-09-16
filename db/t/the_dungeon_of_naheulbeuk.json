@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224454,
+  "EOS_Progressed": 224467,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1880,
+  "EOS_NewPlayers": 1874,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11103,6 +11103,11 @@
       "Time": "2023-09-16T15:09:41.8768595+00:00",
       "NumProgressed": 224454,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T16:08:23.63745+00:00",
+      "NumProgressed": 224467,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11464,9 +11469,9 @@
       "ID": "DifficultyHero",
       "SetID": "50chcgj",
       "Name": "The Famous Dungeon of Naheulbeuk",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2245
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -11514,7 +11519,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     },
     {
       "ID": "DwarfElf15Support",
@@ -11562,7 +11567,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67336
+      "UsersEstimate": 67340
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11817,21 +11822,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224454,
+      "Progressed": 224467,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224454,
+      "Progressed": 224467,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:09:41.8768589+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:08:23.6374493+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:58:57.2629159+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:09:41.8770602+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:58:52.3005872+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:08:23.6376215+00:00"
 }

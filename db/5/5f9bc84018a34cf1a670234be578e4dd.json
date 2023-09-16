@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -974,9 +974,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "Compiling",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-16T15:08:11.1957879+00:00",
+  "LastChanged_Achievements": "2023-09-16T16:07:16.8633548+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:02:08.7751005+00:00",
-  "LastUpdate_Achievements": "2023-09-16T15:08:11.1958087+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:01:19.7231914+00:00",
+  "LastUpdate_Achievements": "2023-09-16T16:07:16.8633738+00:00"
 }

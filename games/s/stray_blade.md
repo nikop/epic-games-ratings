@@ -9,7 +9,7 @@
 | Welcome to the Club | 38.00% | ~30 |
 | Apprentice | 33.00% | ~26 |
 | A new World ahead | 32.00% | ~25 |
-| Don't Cry Wolf | 23.00% | ~18 |
+| Don't Cry Wolf | 24.00% | ~19 |
 | Can't touch this | 23.00% | ~18 |
 | Freezing Cold | 15.00% | ~12 |
 | The Power of the Mountains | 14.00% | ~11 |

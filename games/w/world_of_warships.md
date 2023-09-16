@@ -6,41 +6,41 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 85.00% | ~20,049 |
-| Initial Capital | 76.00% | ~17,926 |
-| Moneybags | 56.00% | ~13,209 |
-| Junior Supply Officer | 56.00% | ~13,209 |
-| Naval Warfare. Arson | 43.00% | ~10,142 |
-| Naval Warfare. Ramming | 41.00% | ~9,671 |
-| Naval Constructor | 41.00% | ~9,671 |
-| Amateur | 40.00% | ~9,435 |
-| Naval Warfare. Tactics | 40.00% | ~9,435 |
-| Naval Warfare. Weaponry Basics | 32.00% | ~7,548 |
-| Naval Warfare. Lucky Shot | 27.00% | ~6,368 |
-| Naval Warfare. Flooding | 26.00% | ~6,133 |
-| Business Magnate | 25.00% | ~5,897 |
-| Battle Hero | 22.00% | ~5,189 |
-| Smooth Supply | 21.00% | ~4,953 |
-| Supply Officer | 20.00% | ~4,717 |
-| Warrior | 19.00% | ~4,482 |
-| Veteran | 12.00% | ~2,830 |
-| Legend of the Seas | 6.00% | ~1,415 |
-| Chief Naval Architect | 6.00% | ~1,415 |
-| Shield | 6.00% | ~1,415 |
-| Important Missions | 5.00% | ~1,179 |
-| Senior Supply Officer | 4.00% | ~943 |
-| Weather Beaten | 4.00% | ~943 |
-| Guardian | 4.00% | ~943 |
-| Bane of the Oceans | 3.00% | ~708 |
-| "Science of Victory" | 3.00% | ~708 |
-| Protector | 3.00% | ~708 |
-| Exterminator | 3.00% | ~708 |
+| Junior Naval Designer | 85.00% | ~20,080 |
+| Initial Capital | 76.00% | ~17,954 |
+| Moneybags | 56.00% | ~13,229 |
+| Junior Supply Officer | 56.00% | ~13,229 |
+| Naval Warfare. Arson | 43.00% | ~10,158 |
+| Naval Warfare. Ramming | 41.00% | ~9,686 |
+| Naval Constructor | 41.00% | ~9,686 |
+| Amateur | 40.00% | ~9,450 |
+| Naval Warfare. Tactics | 40.00% | ~9,450 |
+| Naval Warfare. Weaponry Basics | 32.00% | ~7,560 |
+| Naval Warfare. Lucky Shot | 27.00% | ~6,378 |
+| Naval Warfare. Flooding | 26.00% | ~6,142 |
+| Business Magnate | 25.00% | ~5,906 |
+| Battle Hero | 22.00% | ~5,197 |
+| Smooth Supply | 21.00% | ~4,961 |
+| Supply Officer | 20.00% | ~4,725 |
+| Warrior | 19.00% | ~4,489 |
+| Veteran | 12.00% | ~2,835 |
+| Legend of the Seas | 6.00% | ~1,417 |
+| Chief Naval Architect | 6.00% | ~1,417 |
+| Shield | 6.00% | ~1,417 |
+| Important Missions | 5.00% | ~1,181 |
+| Senior Supply Officer | 4.00% | ~945 |
+| Weather Beaten | 4.00% | ~945 |
+| Guardian | 4.00% | ~945 |
+| Bane of the Oceans | 3.00% | ~709 |
+| "Science of Victory" | 3.00% | ~709 |
+| Protector | 3.00% | ~709 |
+| Exterminator | 3.00% | ~709 |
 | Old-Timer | 2.00% | ~472 |
 | Special Orders | 2.00% | ~472 |
 | American Cruisers | 2.00% | ~472 |
 | Secret Instructions | 1.00% | ~236 |
 | Raider | 1.00% | ~236 |
-| Experienced One | 0.90% | ~212 |
+| Experienced One | 0.90% | ~213 |
 | Ravager | 0.70% | ~165 |
 | "Yamamoto Isoroku" | 0.70% | ~165 |
 | "Yamamoto Isoroku" | 0.70% | ~165 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~24 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,587 (Ranked 109)  
+Progressed: 23,624 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,17 +85,17 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 22,177 | 0 |
 | 2023-09-14 | 22,600 | 0 |
 | 2023-09-15 | 23,129 | 0 |
-| 2023-09-16 | 23,587 | 0 |
+| 2023-09-16 | 23,624 | 0 |
 ## Awards
 Max (Relaxing): 1,327  (Ranked 131)  
-Sum: 11,041 (Ranked 83)  
+Sum: 11,043 (Ranked 83)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,327 |
 | This game has Quickly Understood Controls | 1,323 |
 | This game has Challenging Combat | 1,299 |
-| This game has Competitive Players | 1,288 |
+| This game has Competitive Players | 1,290 |
 | This game is Highly Recommended | 1,282 |
 | This game is Extremely Fun | 1,269 |
 | This game has Realistic Visuals | 1,156 |
@@ -352,4 +352,4 @@ Diff (max vs sum): 48
 | 2023-09-13 | 4.41 | - | 1,321 | 10,978 |
 | 2023-09-14 | 4.41 | - | 1,322 | 11,002 |
 | 2023-09-15 | 4.41 | - | 1,327 | 11,027 |
-| 2023-09-16 | 4.41 | - | 1,327 | 11,041 |
+| 2023-09-16 | 4.41 | - | 1,327 | 11,043 |
