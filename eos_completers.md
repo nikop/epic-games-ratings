@@ -31,7 +31,7 @@
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.68% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 34 | [Sonic Origins](games/s/sonic_origins.md) | 8.51% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
@@ -42,7 +42,7 @@
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.03% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
 | 42 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.40% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.37% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.33% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -85,15 +85,15 @@
 | 82 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 82 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 85 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.48% |
-| 86 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.45% |
-| 87 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
+| 85 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.48% |
+| 87 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 88 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.39% |
 | 89 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.33% |
 | 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.25% |
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
-| 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.14% |
+| 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
 | 95 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
 | 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 97 | [FORECLOSED](games/f/foreclosed.md) | 1.94% |
@@ -129,7 +129,7 @@
 | 127 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.96% |
 | 128 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 129 | [Hades](games/h/hades.md) | 0.90% |
-| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -193,11 +193,11 @@
 | 191 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |
 | 191 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 191 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.24% |
-| 194 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
-| 194 | [Blanc](games/b/blanc.md) | 0.22% |
-| 194 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
-| 194 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 194 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
+| 195 | [Blanc](games/b/blanc.md) | 0.22% |
+| 195 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 195 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
+| 195 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 199 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 199 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
