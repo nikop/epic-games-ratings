@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2173,
+  "EOS_Progressed": 2178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 935,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4511,6 +4511,11 @@
       "Time": "2023-09-16T03:08:41.5300624+00:00",
       "NumProgressed": 2173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T04:08:39.5846851+00:00",
+      "NumProgressed": 2178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4547,15 +4552,15 @@
       "Name": "Death Becomes You",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -4563,23 +4568,23 @@
       "Name": "Everything Must Go!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 44
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -4601,17 +4606,17 @@
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -4619,7 +4624,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4633,17 +4638,17 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -4657,9 +4662,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4675,7 +4680,7 @@
       "Name": "Spending Spree",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4683,15 +4688,15 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -4706,15 +4711,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2173,
+      "Progressed": 2178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-16T03:08:41.5300619+00:00",
+  "LastChanged_Achievements": "2023-09-16T04:08:39.5846845+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:58:55.2214157+00:00",
-  "LastUpdate_Achievements": "2023-09-16T03:08:41.5301132+00:00"
+  "LastUpdate_Ratings": "2023-09-16T03:59:11.7744598+00:00",
+  "LastUpdate_Achievements": "2023-09-16T04:08:39.5847265+00:00"
 }

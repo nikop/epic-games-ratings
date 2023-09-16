@@ -7,7 +7,7 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost in Space | 59.00% | ~195 |
-| Quick Understanding of Block Extrusion | 57.00% | ~188 |
+| Quick Understanding of Block Extrusion | 58.00% | ~191 |
 | Nature or Nurture | 49.00% | ~162 |
 | Power Glove | 48.00% | ~158 |
 | Forgotten Memories | 47.00% | ~155 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -613,9 +613,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 343334,
+  "EOS_Progressed": 343335,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17198,6 +17198,11 @@
       "Time": "2023-09-16T03:06:05.7189601+00:00",
       "NumProgressed": 343334,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-16T04:06:09.5567154+00:00",
+      "NumProgressed": 343335,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17337,7 +17342,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44633
+      "UsersEstimate": 44634
     },
     {
       "ID": "ach018",
@@ -17513,7 +17518,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34333
+      "UsersEstimate": 34334
     },
     {
       "ID": "ach040",
@@ -17561,7 +17566,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44633
+      "UsersEstimate": 44634
     },
     {
       "ID": "ach046",
@@ -17673,7 +17678,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34333
+      "UsersEstimate": 34334
     },
     {
       "ID": "ach060",
@@ -17737,7 +17742,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54933
+      "UsersEstimate": 54934
     },
     {
       "ID": "ach069",
@@ -17848,7 +17853,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 343334,
+      "Progressed": 343335,
       "Completed": 7
     }
   ],
@@ -17856,8 +17861,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-14T04:57:26.290545+00:00",
-  "LastChanged_Achievements": "2023-09-16T03:06:05.7189595+00:00",
+  "LastChanged_Achievements": "2023-09-16T04:06:09.5567149+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:57:55.1978804+00:00",
-  "LastUpdate_Achievements": "2023-09-16T03:06:05.7191912+00:00"
+  "LastUpdate_Ratings": "2023-09-16T03:58:20.5254665+00:00",
+  "LastUpdate_Achievements": "2023-09-16T04:06:09.5569387+00:00"
 }

@@ -11,8 +11,8 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic CD | 73.00% | ~350 |
 | Welcome to Sonic the Hedgehog 2 | 72.00% | ~345 |
 | Welcome to Sonic 3 & Knuckles | 72.00% | ~345 |
+| Ring Collector | 69.00% | ~331 |
 | Time Traveler | 68.00% | ~326 |
-| Ring Collector | 68.00% | ~326 |
 | Everyone's Hero | 64.00% | ~307 |
 | Easy Peasy with Shields | 60.00% | ~287 |
 | Gallant Spin Dash | 60.00% | ~287 |
@@ -43,7 +43,7 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~62 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 479 (Ranked 250)  
-Completed: 41 (8.56%) (Ranked 31)  
+Completed: 41 (8.56%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 23.37,
+  "EOS_Completed_Percentage": 23.24,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -921,6 +921,11 @@
       "Time": "2023-09-16T03:07:50.9869897+00:00",
       "NumProgressed": 184,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-16T04:07:50.4406793+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -949,7 +954,7 @@
       "Name": "Job completed!",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FallDeath",
@@ -957,7 +962,7 @@
       "Name": "Accident",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FirstBox",
@@ -965,15 +970,15 @@
       "Name": "Test Task",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "Fusses",
@@ -981,7 +986,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 88,
       "XP": 70,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "GameComplete",
@@ -997,7 +1002,7 @@
       "Name": "Contract Termination",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "GasFound",
@@ -1005,7 +1010,7 @@
       "Name": "Something is wrong here",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Hologram",
@@ -1027,9 +1032,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "Synthesis",
@@ -1044,14 +1049,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 43
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-16T03:07:50.9869891+00:00",
+  "LastChanged_Achievements": "2023-09-16T04:07:50.4406789+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:01:24.4014034+00:00",
-  "LastUpdate_Achievements": "2023-09-16T03:07:50.9870075+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:01:45.6234+00:00",
+  "LastUpdate_Achievements": "2023-09-16T04:07:50.4407014+00:00"
 }

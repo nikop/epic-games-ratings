@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Too Cool For School | 86.00% | ~159 |
-| Caretaker | 84.00% | ~155 |
+| Caretaker | 85.00% | ~157 |
 | Feng Shui | 73.00% | ~135 |
 | Who's A Good Boy | 71.00% | ~131 |
 | Power Up | 71.00% | ~131 |
@@ -22,8 +22,8 @@
 | Diaper Time! | 43.00% | ~80 |
 | Target Practice | 43.00% | ~80 |
 | Glorious Battle | 42.00% | ~78 |
-| Meat Larder | 40.00% | ~74 |
-| Mutant And Proud | 38.00% | ~70 |
+| Meat Larder | 41.00% | ~76 |
+| Mutant And Proud | 39.00% | ~72 |
 | The Emperor's New Clothes | 32.00% | ~59 |
 | Final Evolution | 32.00% | ~59 |
 | You Shall Not Pass | 31.00% | ~57 |

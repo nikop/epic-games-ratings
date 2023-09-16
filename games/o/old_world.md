@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 5.00% | ~696 |
-| Settler | 5.00% | ~696 |
-| Friendly Family | 5.00% | ~696 |
-| Play a Single Player Game | 5.00% | ~696 |
-| The Clergy | 5.00% | ~696 |
+| Explorer | 5.00% | ~697 |
+| Settler | 5.00% | ~697 |
+| Friendly Family | 5.00% | ~697 |
+| Play a Single Player Game | 5.00% | ~697 |
+| The Clergy | 5.00% | ~697 |
 | Able | 4.00% | ~557 |
 | Architect | 4.00% | ~557 |
 | Intrepid | 4.00% | ~557 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,929 (Ranked 123)  
+Progressed: 13,931 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,929 | 5 |
+| 2023-09-16 | 13,931 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

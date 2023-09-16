@@ -1045,9 +1045,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "c7hf6a4",
       "Name": "Go-Faster Stripes",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1237,9 +1237,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 328
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1428,8 +1428,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-16T03:08:28.9478868+00:00",
+  "LastChanged_Achievements": "2023-09-16T04:08:27.1907857+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:58:42.9851621+00:00",
-  "LastUpdate_Achievements": "2023-09-16T03:08:28.9479446+00:00"
+  "LastUpdate_Ratings": "2023-09-16T03:59:03.5711622+00:00",
+  "LastUpdate_Achievements": "2023-09-16T04:08:27.1908573+00:00"
 }

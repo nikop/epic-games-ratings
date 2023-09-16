@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 504)  
+Rating: 4.54 (Ranked 505)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,24 +12,24 @@ Rating: 4.54 (Ranked 504)
 | Hotel California | 2.00% | ~13,609 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,609 |
 | Welcome To Hell-A | 2.00% | ~13,609 |
-| Dr. Reed, I Presume? | 1.00% | ~6,804 |
-| Anger Management | 1.00% | ~6,804 |
-| Perks of the Job | 1.00% | ~6,804 |
-| Bookworm | 1.00% | ~6,804 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,804 |
-| But Doctor, I am Butcho | 1.00% | ~6,804 |
-| Slayer Squad | 1.00% | ~6,804 |
-| Can't Handle the Truth | 1.00% | ~6,804 |
-| Like Riding a Bike | 1.00% | ~6,804 |
-| Friends Like These | 1.00% | ~6,804 |
-| Apex Predator | 1.00% | ~6,804 |
-| Zombologist | 1.00% | ~6,804 |
-| Ooh, Shiny! | 1.00% | ~6,804 |
-| A Patton Emerges | 1.00% | ~6,804 |
-| I Am the Resurrection | 1.00% | ~6,804 |
-| Stacking the Deck | 1.00% | ~6,804 |
-| Our True Nature | 1.00% | ~6,804 |
-| This is My Weapon | 1.00% | ~6,804 |
+| Dr. Reed, I Presume? | 1.00% | ~6,805 |
+| Anger Management | 1.00% | ~6,805 |
+| Perks of the Job | 1.00% | ~6,805 |
+| Bookworm | 1.00% | ~6,805 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,805 |
+| But Doctor, I am Butcho | 1.00% | ~6,805 |
+| Slayer Squad | 1.00% | ~6,805 |
+| Can't Handle the Truth | 1.00% | ~6,805 |
+| Like Riding a Bike | 1.00% | ~6,805 |
+| Friends Like These | 1.00% | ~6,805 |
+| Apex Predator | 1.00% | ~6,805 |
+| Zombologist | 1.00% | ~6,805 |
+| Ooh, Shiny! | 1.00% | ~6,805 |
+| A Patton Emerges | 1.00% | ~6,805 |
+| I Am the Resurrection | 1.00% | ~6,805 |
+| Stacking the Deck | 1.00% | ~6,805 |
+| Our True Nature | 1.00% | ~6,805 |
+| This is My Weapon | 1.00% | ~6,805 |
 | Making Your Mark | 0.80% | ~5,444 |
 | Humanity Distilled | 0.80% | ~5,444 |
 | Down with the Sickness | 0.80% | ~5,444 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,447 (Ranked 22)  
+Progressed: 680,472 (Ranked 22)  
 Completed: 2,143 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,15 +200,15 @@ Completed: 2,143 (0.31%) (Ranked 178)
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
-| 2023-09-16 | 680,447 | 2,143 |
+| 2023-09-16 | 680,472 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,061  (Ranked 57)  
-Sum: 8,984 (Ranked 94)  
+Sum: 8,985 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,061 |
-| This game is Great for Beginners | 416 |
+| This game is Great for Beginners | 417 |
 | This game has Diverse Characters | 403 |
 | This game has Quickly Understood Controls | 395 |
 | This game is Relaxing | 376 |
@@ -367,4 +367,4 @@ Diff (max vs sum): -37
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
 | 2023-09-14 | 4.54 | 6,038 | 8,954 |
 | 2023-09-15 | 4.54 | 6,061 | 8,982 |
-| 2023-09-16 | 4.54 | 6,061 | 8,984 |
+| 2023-09-16 | 4.54 | 6,061 | 8,985 |

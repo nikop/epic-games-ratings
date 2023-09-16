@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65394,
+  "EOS_Progressed": 65396,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2003,
+  "EOS_NewPlayers": 1984,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14807,6 +14807,11 @@
       "Time": "2023-09-16T03:08:59.7858086+00:00",
       "NumProgressed": 65394,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-16T04:08:57.804257+00:00",
+      "NumProgressed": 65396,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14826,7 +14831,7 @@
       "Name": "Nordic Walking",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16348
+      "UsersEstimate": 16349
     },
     {
       "ID": "03",
@@ -14834,7 +14839,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16348
+      "UsersEstimate": 16349
     },
     {
       "ID": "04",
@@ -14906,7 +14911,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7847
+      "UsersEstimate": 7848
     },
     {
       "ID": "13",
@@ -14922,7 +14927,7 @@
       "Name": "Gatekeeper",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "15",
@@ -14930,7 +14935,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6539
+      "UsersEstimate": 6540
     },
     {
       "ID": "16",
@@ -15002,7 +15007,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7847
+      "UsersEstimate": 7848
     },
     {
       "ID": "25",
@@ -15010,7 +15015,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "26",
@@ -15018,7 +15023,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7847
+      "UsersEstimate": 7848
     },
     {
       "ID": "27",
@@ -15050,7 +15055,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "31",
@@ -15066,7 +15071,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20926
+      "UsersEstimate": 20927
     },
     {
       "ID": "33",
@@ -15082,7 +15087,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "35",
@@ -15090,7 +15095,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21580
+      "UsersEstimate": 21581
     },
     {
       "ID": "36",
@@ -15130,7 +15135,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "41",
@@ -15353,21 +15358,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65394,
+      "Progressed": 65396,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 28862,
+      "Progressed": 28864,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-16T03:08:59.785808+00:00",
+  "LastChanged_Achievements": "2023-09-16T04:08:57.8042566+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:15.1520424+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:57:15.0645326+00:00",
-  "LastUpdate_Achievements": "2023-09-16T03:08:59.7860351+00:00"
+  "LastUpdate_Ratings": "2023-09-16T03:57:38.8079848+00:00",
+  "LastUpdate_Achievements": "2023-09-16T04:08:57.8044271+00:00"
 }

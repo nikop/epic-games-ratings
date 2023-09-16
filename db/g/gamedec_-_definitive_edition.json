@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -408,9 +408,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246070,
+  "EOS_Progressed": 246072,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 779,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16923,6 +16923,11 @@
       "Time": "2023-09-16T03:06:59.0546577+00:00",
       "NumProgressed": 246070,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-16T04:07:01.8851868+00:00",
+      "NumProgressed": 246072,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17030,7 +17035,7 @@
       "Name": "I have the high ground",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "ACH_HIGHNOON",
@@ -17349,7 +17354,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246070,
+      "Progressed": 246072,
       "Completed": 7
     }
   ],
@@ -17357,8 +17362,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-14T17:02:57.7818889+00:00",
-  "LastChanged_Achievements": "2023-09-16T03:06:59.0546572+00:00",
+  "LastChanged_Achievements": "2023-09-16T04:07:01.885186+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:57.1654221+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:57:18.4766154+00:00",
-  "LastUpdate_Achievements": "2023-09-16T03:06:59.0548358+00:00"
+  "LastUpdate_Ratings": "2023-09-16T03:57:41.8400941+00:00",
+  "LastUpdate_Achievements": "2023-09-16T04:07:01.8853672+00:00"
 }

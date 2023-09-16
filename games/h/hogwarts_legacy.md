@@ -9,14 +9,14 @@ Rating: 4.77 (Ranked 109)
 | First Class Student | 13.00% | ~38,569 |
 | A Keen Sense of Spell | 12.00% | ~35,602 |
 | Troll with the Punches | 12.00% | ~35,602 |
-| A Talent for Spending | 11.00% | ~32,635 |
-| That's a Keeper | 11.00% | ~32,635 |
-| Grappling with a Graphorn | 10.00% | ~29,668 |
-| The One Who Mastered Memories | 10.00% | ~29,668 |
-| The Hallowed Hero | 10.00% | ~29,668 |
-| The Defender of Dragons | 10.00% | ~29,668 |
-| Loom for Improvement | 10.00% | ~29,668 |
-| Coasting Along | 10.00% | ~29,668 |
+| A Talent for Spending | 11.00% | ~32,636 |
+| That's a Keeper | 11.00% | ~32,636 |
+| Grappling with a Graphorn | 10.00% | ~29,669 |
+| The One Who Mastered Memories | 10.00% | ~29,669 |
+| The Hallowed Hero | 10.00% | ~29,669 |
+| The Defender of Dragons | 10.00% | ~29,669 |
+| Loom for Improvement | 10.00% | ~29,669 |
+| Coasting Along | 10.00% | ~29,669 |
 | The Hero of Hogwarts | 9.00% | ~26,702 |
 | Challenge Accepted | 9.00% | ~26,702 |
 | Followed the Butterflies | 9.00% | ~26,702 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,685 (Ranked 43)  
+Progressed: 296,687 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
-| 2023-09-16 | 296,685 | 470 |
+| 2023-09-16 | 296,687 | 470 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
-Sum: 43,397 (Ranked 30)  
+Sum: 43,400 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -218,7 +218,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 980 |
 | This game has Quickly Understood Controls | 915 |
 | This game has Beautiful Visuals | 852 |
-| This game has a Creative Community | 647 |
+| This game has a Creative Community | 650 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -398,4 +398,4 @@ Diff (max vs sum): -13
 | 2023-09-13 | 4.77 | 22,630 | 43,189 |
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
-| 2023-09-16 | 4.77 | 22,703 | 43,397 |
+| 2023-09-16 | 4.77 | 22,703 | 43,400 |

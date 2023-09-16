@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -646,9 +646,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 9953,
+  "EOS_Progressed": 9956,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9501,6 +9501,11 @@
       "Time": "2023-09-16T03:08:56.862348+00:00",
       "NumProgressed": 9953,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-16T04:08:55.0574427+00:00",
+      "NumProgressed": 9956,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9528,7 +9533,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH04",
@@ -9616,7 +9621,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4182
     },
     {
       "ID": "ACH15",
@@ -9672,7 +9677,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4578
+      "UsersEstimate": 4580
     },
     {
       "ID": "ACH22",
@@ -9688,7 +9693,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "ACH24",
@@ -9783,7 +9788,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9953,
+      "Progressed": 9956,
       "Completed": 56
     }
   ],
@@ -9791,8 +9796,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-13T17:57:32.0415645+00:00",
-  "LastChanged_Achievements": "2023-09-16T03:08:56.8623474+00:00",
+  "LastChanged_Achievements": "2023-09-16T04:08:55.0574422+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-16T02:58:32.5652876+00:00",
-  "LastUpdate_Achievements": "2023-09-16T03:08:56.8624534+00:00"
+  "LastUpdate_Ratings": "2023-09-16T03:58:54.5098811+00:00",
+  "LastUpdate_Achievements": "2023-09-16T04:08:55.0575505+00:00"
 }

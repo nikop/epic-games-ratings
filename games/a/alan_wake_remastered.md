@@ -7,10 +7,10 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 41.00% | ~26,812 |
-| Let There Be Light | 33.00% | ~21,580 |
-| Float Like a Butterfly | 32.00% | ~20,926 |
-| Nordic Walking | 25.00% | ~16,348 |
-| Bright Falls' Finest | 25.00% | ~16,348 |
+| Let There Be Light | 33.00% | ~21,581 |
+| Float Like a Butterfly | 32.00% | ~20,927 |
+| Nordic Walking | 25.00% | ~16,349 |
+| Bright Falls' Finest | 25.00% | ~16,349 |
 | Under a Thin Layer of Skin | 22.00% | ~14,387 |
 | Park Ranger | 18.00% | ~11,771 |
 | Paging Mr. Wake | 18.00% | ~11,771 |
@@ -26,15 +26,15 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 13.00% | ~8,501 |
 | Collateral Carnage | 13.00% | ~8,501 |
 | Come One, Come All | 13.00% | ~8,501 |
-| Perchance to Dream | 12.00% | ~7,847 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,847 |
-| Thunder and Lightning | 12.00% | ~7,847 |
-| Gatekeeper | 11.00% | ~7,193 |
-| Two For the Price of One | 11.00% | ~7,193 |
-| Energized! | 11.00% | ~7,193 |
-| The Lady of the Light | 10.00% | ~6,539 |
-| What Light Through Yonder Window | 9.00% | ~5,885 |
-| Right of Way | 9.00% | ~5,885 |
+| Perchance to Dream | 12.00% | ~7,848 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,848 |
+| Thunder and Lightning | 12.00% | ~7,848 |
+| Gatekeeper | 11.00% | ~7,194 |
+| Two For the Price of One | 11.00% | ~7,194 |
+| Energized! | 11.00% | ~7,194 |
+| The Lady of the Light | 10.00% | ~6,540 |
+| What Light Through Yonder Window | 9.00% | ~5,886 |
+| Right of Way | 9.00% | ~5,886 |
 | Tornado Wrangler | 8.00% | ~5,232 |
 | A Friend in Need | 8.00% | ~2,309 |
 | Departure | 7.00% | ~4,578 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,394 (Ranked 88)  
+Progressed: 65,396 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 65 (0.10%) (Ranked 221)
 | 2023-09-13 | 65,148 | 65 |
 | 2023-09-14 | 65,260 | 65 |
 | 2023-09-15 | 65,366 | 65 |
-| 2023-09-16 | 65,394 | 65 |
+| 2023-09-16 | 65,396 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

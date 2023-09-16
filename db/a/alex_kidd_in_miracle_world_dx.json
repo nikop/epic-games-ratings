@@ -2,9 +2,9 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -376,6 +376,11 @@
       "Time": "2023-09-13T22:04:04.8456754+00:00",
       "NumProgressed": 296,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-16T04:04:48.5729789+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -483,7 +488,7 @@
       "Name": "Wild Ox",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -491,7 +496,7 @@
       "Name": "Third Commander",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PET_DOG",
@@ -514,7 +519,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 4
     }
   ],
@@ -522,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-16T03:04:44.1600861+00:00",
+  "LastChanged_Achievements": "2023-09-16T04:04:48.5729784+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:03:15.5774842+00:00",
-  "LastUpdate_Achievements": "2023-09-16T03:04:44.1601048+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:03:14.9437879+00:00",
+  "LastUpdate_Achievements": "2023-09-16T04:04:48.5729967+00:00"
 }
