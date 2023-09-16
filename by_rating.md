@@ -895,17 +895,17 @@
 | 891 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.16 | 0 | 517 |
 | 891 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 517 |
 | 891 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 286 |
+| 891 | [SYNCED](games/s/synced.md) | 4.16 | 0 | 517 |
 | 891 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 517 |
-| 897 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.15 | 34 | 449 |
-| 897 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 517 |
-| 897 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 517 |
-| 897 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.15 | 0 | 517 |
-| 897 | [Forspoken](games/f/forspoken.md) | 4.15 | 27 | 473 |
-| 897 | [Pine](games/p/pine.md) | 4.15 | 0 | 517 |
-| 897 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 274 |
-| 897 | [SYNCED](games/s/synced.md) | 4.15 | 0 | 517 |
-| 897 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 517 |
-| 897 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 517 |
+| 898 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.15 | 34 | 449 |
+| 898 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 517 |
+| 898 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 517 |
+| 898 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.15 | 0 | 517 |
+| 898 | [Forspoken](games/f/forspoken.md) | 4.15 | 27 | 473 |
+| 898 | [Pine](games/p/pine.md) | 4.15 | 0 | 517 |
+| 898 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 274 |
+| 898 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 517 |
+| 898 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 517 |
 | 907 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 473 |
 | 907 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.14 | 21 | 507 |
 | 907 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
