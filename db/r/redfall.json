@@ -2624,9 +2624,9 @@
       "ID": "Achievement_051",
       "SetID": "6b34g18",
       "Name": "Right This Way",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_052",
@@ -2785,8 +2785,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-30T23:01:05.938528+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:05:50.4518106+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:05:10.5320134+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.3443799+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:58:24.4293598+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:05:50.4518731+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:58:01.4844791+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:05:10.5320981+00:00"
 }

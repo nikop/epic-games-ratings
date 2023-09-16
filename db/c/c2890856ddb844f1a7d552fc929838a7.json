@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 798,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1629,9 +1629,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 335
     },
     {
       "ID": "AC11",
@@ -1837,9 +1837,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 255
     },
     {
       "ID": "AC37",
@@ -1869,9 +1869,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 670
     },
     {
       "ID": "AC41",
@@ -1926,8 +1926,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:06:58.1764472+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:06:15.890589+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:02:11.5477809+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:06:58.1764899+00:00"
+  "LastUpdate_Ratings": "2023-09-16T18:01:29.0375989+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:06:15.8906385+00:00"
 }

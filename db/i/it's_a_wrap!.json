@@ -2,9 +2,9 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.67,
+  "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -326,6 +326,11 @@
       "Time": "2023-09-14T04:06:12.4002496+00:00",
       "NumProgressed": 75,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-16T18:07:36.3101037+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -336,7 +341,7 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 25,
       "UsersEstimate": 64
     },
@@ -449,14 +454,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:08:22.8736965+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:07:36.3101031+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:10.7476581+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:59:36.3709721+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:08:22.8737069+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:59:07.7201135+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:07:36.3101167+00:00"
 }

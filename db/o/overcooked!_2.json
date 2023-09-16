@@ -2715,10 +2715,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 2272,
       "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2023-09-16T18:00:06.5571215+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2273,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2272,
+  "NumberOfAwards": 2273,
   "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2738,7 +2744,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 204
+      "Count": 205
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2812,8 +2818,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2023-09-16T01:39:43.5282462+00:00",
+  "LastChanged": "2023-09-16T18:00:06.5571213+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:48.0468715+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:00:42.8987872+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:04:06.5137555+00:00"
+  "LastUpdate_Ratings": "2023-09-16T18:00:06.557122+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:03:32.6896557+00:00"
 }

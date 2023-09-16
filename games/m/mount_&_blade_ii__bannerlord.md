@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~23,866 |
-| Landlord | 32.00% | ~19,582 |
-| Bannerlord | 23.00% | ~14,075 |
-| Horde breaker | 23.00% | ~14,075 |
-| Lawmaker | 23.00% | ~14,075 |
-| Trained | 23.00% | ~14,075 |
-| The king is pleased | 18.00% | ~11,015 |
-| King Solomon | 17.00% | ~10,403 |
-| I can do it | 16.00% | ~9,791 |
-| Apple of my eye | 15.00% | ~9,179 |
-| God of the Arena | 13.00% | ~7,955 |
-| Against all odds | 12.00% | ~7,343 |
-| This Is Our Land | 11.00% | ~6,731 |
+| Lawbringer | 39.00% | ~23,868 |
+| Landlord | 32.00% | ~19,584 |
+| Bannerlord | 23.00% | ~14,076 |
+| Horde breaker | 23.00% | ~14,076 |
+| Lawmaker | 23.00% | ~14,076 |
+| Trained | 23.00% | ~14,076 |
+| The king is pleased | 18.00% | ~11,016 |
+| King Solomon | 17.00% | ~10,404 |
+| I can do it | 16.00% | ~9,792 |
+| Apple of my eye | 15.00% | ~9,180 |
+| God of the Arena | 13.00% | ~7,956 |
+| Against all odds | 12.00% | ~7,344 |
+| This Is Our Land | 11.00% | ~6,732 |
 | Duelist | 10.00% | ~6,120 |
 | Swordbearer | 10.00% | ~6,120 |
 | What have the Romans ever done for us? | 10.00% | ~6,120 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,195 (Ranked 89)  
+Progressed: 61,200 (Ranked 89)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 60,958 | 0 |
 | 2023-09-14 | 61,022 | 0 |
 | 2023-09-15 | 61,114 | 0 |
-| 2023-09-16 | 61,195 | 0 |
+| 2023-09-16 | 61,200 | 0 |
 ## Awards
 Max (Character Customization): 7,084  (Ranked 50)  
-Sum: 14,440 (Ranked 69)  
+Sum: 14,443 (Ranked 69)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -218,7 +218,7 @@ Diff (max vs sum): -19
 | This game is Great for Beginners | 960 |
 | This game has Diverse Characters | 916 |
 | This game is Highly Recommended | 864 |
-| This game is Extremely Fun | 826 |
+| This game is Extremely Fun | 829 |
 | This game has Amazing Storytelling | 814 |
 | This game is Relaxing | 805 |
 | This game has Amazing Characters | 798 |
@@ -473,4 +473,4 @@ Diff (max vs sum): -19
 | 2023-09-13 | 4.74 | - | 7,075 | 14,411 |
 | 2023-09-14 | 4.74 | - | 7,075 | 14,417 |
 | 2023-09-15 | 4.74 | - | 7,081 | 14,431 |
-| 2023-09-16 | 4.74 | - | 7,084 | 14,440 |
+| 2023-09-16 | 4.74 | - | 7,084 | 14,443 |

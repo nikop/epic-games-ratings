@@ -25,12 +25,12 @@
 | RELEASE THE KRAKEN | 14.00% | ~445 |
 | PERFECTLY POISED | 13.00% | ~413 |
 | THE EYE OF THE HUNTER | 13.00% | ~413 |
-| ACE TRICKSTER | 12.00% | ~382 |
+| ACE TRICKSTER | 13.00% | ~413 |
 | EXPERIENCED CREW | 7.00% | ~223 |
 | FRAMED! | 7.00% | ~223 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,180 (Ranked 170)  
-Completed: 173 (5.44%) (Ranked 49)  
+Completed: 175 (5.50%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,4 +174,4 @@ Completed: 173 (5.44%) (Ranked 49)
 | 2023-09-13 | 3,172 | 173 |
 | 2023-09-14 | 3,173 | 173 |
 | 2023-09-15 | 3,179 | 173 |
-| 2023-09-16 | 3,180 | 173 |
+| 2023-09-16 | 3,180 | 175 |

@@ -8,23 +8,23 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 65.00% | ~326 |
 | Cowardice | 58.00% | ~291 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~250 |
-| Eat Lead! | 48.00% | ~240 |
-| The Breaking Point | 45.00% | ~225 |
-| Prospector | 44.00% | ~220 |
-| Here Comes the Boom | 44.00% | ~220 |
-| Treasure Hunter | 41.00% | ~205 |
-| Sniper Wolf | 41.00% | ~205 |
-| The Motivation | 40.00% | ~200 |
-| Heroism | 38.00% | ~190 |
-| Missing in Action | 37.00% | ~185 |
-| Collectibles of Chapter I | 34.00% | ~170 |
-| Consequences | 34.00% | ~170 |
-| Opportunities | 33.00% | ~165 |
-| King of Knives | 33.00% | ~165 |
-| The Horror | 31.00% | ~155 |
-| The Difference | 28.00% | ~140 |
-| Vengeance | 26.00% | ~130 |
+| NO LIFE IS WORTH SAVING... | 50.00% | ~251 |
+| Eat Lead! | 48.00% | ~241 |
+| The Breaking Point | 45.00% | ~226 |
+| Prospector | 44.00% | ~221 |
+| Here Comes the Boom | 44.00% | ~221 |
+| Treasure Hunter | 41.00% | ~206 |
+| The Motivation | 40.00% | ~201 |
+| Sniper Wolf | 40.00% | ~201 |
+| Heroism | 38.00% | ~191 |
+| Missing in Action | 36.00% | ~181 |
+| Consequences | 34.00% | ~171 |
+| Collectibles of Chapter I | 33.00% | ~166 |
+| Opportunities | 33.00% | ~166 |
+| King of Knives | 33.00% | ~166 |
+| The Horror | 30.00% | ~151 |
+| The Difference | 27.00% | ~136 |
+| Vengeance | 25.00% | ~126 |
 | Collectibles of Chapter II | 23.00% | ~115 |
 | Broken Hopes | 23.00% | ~115 |
 | It's Just an Accident | 22.00% | ~110 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501 (Ranked 246)  
+Progressed: 502 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-11 | 497 | 0 |
 | 2023-09-13 | 498 | 0 |
 | 2023-09-15 | 500 | 0 |
-| 2023-09-16 | 501 | 0 |
+| 2023-09-16 | 502 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2960,9 +2960,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72584,
+  "EOS_Progressed": 72586,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15665,6 +15665,11 @@
       "Time": "2023-09-16T17:03:36.2479186+00:00",
       "NumProgressed": 72584,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-16T18:03:06.7276165+00:00",
+      "NumProgressed": 72586,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15724,7 +15729,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16694
+      "UsersEstimate": 16695
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15772,7 +15777,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "CLAYFACE_1",
@@ -15892,7 +15897,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7258
+      "UsersEstimate": 7259
     },
     {
       "ID": "FREEZE_1",
@@ -15900,7 +15905,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21049
+      "UsersEstimate": 21050
     },
     {
       "ID": "FREEZE_1_5",
@@ -15980,7 +15985,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25404
+      "UsersEstimate": 25405
     },
     {
       "ID": "HARLEY_2",
@@ -16004,7 +16009,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16020,7 +16025,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37744
+      "UsersEstimate": 37745
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16084,7 +16089,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15968
+      "UsersEstimate": 15969
     },
     {
       "ID": "MYSTERY_04",
@@ -16163,13 +16168,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72584,
+      "Progressed": 72586,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42864,
+      "Progressed": 42866,
       "Completed": 2663
     }
   ],
@@ -16177,8 +16182,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-16T16:00:12.4034611+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:03:36.2479182+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:03:06.7276158+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:00:17.7251264+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:03:36.2480187+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:59:43.9604552+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:03:06.727762+00:00"
 }

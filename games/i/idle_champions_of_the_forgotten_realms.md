@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 932)  
+Rating: 4.06 (Ranked 931)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~458 |
 | Useless Allies | 0.20% | ~458 |
 | Fugitives | 0.20% | ~458 |
+| Excavating History | 0.20% | ~458 |
 | Premature Betrayal | 0.20% | ~458 |
 | A Tale of Two Cities | 0.20% | ~458 |
 | The Dead Three | 0.20% | ~458 |
@@ -275,7 +276,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | From The Shadows | 0.10% | ~229 |
 | Spined Nuisances | 0.10% | ~229 |
 | Twilight Twist | 0.10% | ~195 |
-| Excavating History | 0.10% | ~229 |
 | Screams of the Dead | 0.10% | ~229 |
 | Frantic Excavation | 0.10% | ~229 |
 | Birds of a Feather | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,040 (Ranked 55)  
+Progressed: 229,050 (Ranked 55)  
 Completed: 2,288 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -676,7 +676,7 @@ Completed: 2,288 (1.00%) (Ranked 123)
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
-| 2023-09-16 | 229,040 | 2,288 |
+| 2023-09-16 | 229,050 | 2,288 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,608 (Ranked 39)  

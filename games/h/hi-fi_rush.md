@@ -6,7 +6,7 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 14.00% | ~568 |
-| Start with a bang! | 13.00% | ~527 |
+| Start with a bang! | 13.00% | ~528 |
 | You can pet the cat! | 12.00% | ~487 |
 | Cream of the Crop | 11.00% | ~446 |
 | Thanks for the free chip, Peppermint! | 11.00% | ~446 |
@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 25)
 | NOW we got a kickass hideout! | 6.00% | ~155 |
 | I have to read these things? | 5.00% | ~203 |
 | Well that was a rush! | 4.00% | ~162 |
-| Beat-hit mania | 4.00% | ~162 |
 | That's a lot of junk metal… | 4.00% | ~162 |
 | There's such a thing as TOO helpful | 4.00% | ~162 |
+| Beat-hit mania | 3.00% | ~122 |
 | Chip-tuned | 2.00% | ~81 |
 | Wanna hear my playlist? | 2.00% | ~81 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~81 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,057 (Ranked 158)  
+Progressed: 4,058 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-13 | 4,036 | 7 |
 | 2023-09-14 | 4,038 | 7 |
 | 2023-09-15 | 4,051 | 7 |
-| 2023-09-16 | 4,057 | 7 |
+| 2023-09-16 | 4,058 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

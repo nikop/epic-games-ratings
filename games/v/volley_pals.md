@@ -7,8 +7,8 @@
 | Beach | 94.00% | ~105 |
 | Library | 69.00% | ~77 |
 | Space | 55.00% | ~62 |
-| Haunted Mansion | 51.00% | ~57 |
-| Science Laboratory | 44.00% | ~49 |
+| Haunted Mansion | 52.00% | ~58 |
+| Science Laboratory | 45.00% | ~50 |
 | Ball Disposal Facility | 38.00% | ~43 |
 | Mecha Wars | 38.00% | ~43 |
 | Sewer | 36.00% | ~40 |

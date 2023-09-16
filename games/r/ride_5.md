@@ -12,10 +12,10 @@
 | We're Going to Need a Bigger Garage | 25.00% | ~218 |
 | I'm Here Too! | 24.00% | ~210 |
 | Bitter Rivalry | 20.00% | ~175 |
+| Restored and Ready | 17.00% | ~149 |
 | I Want One Too! | 17.00% | ~149 |
 | Quick Pit Stop | 17.00% | ~149 |
 | Champagne Spray | 17.00% | ~149 |
-| Restored and Ready | 16.00% | ~140 |
 | Legendary!!! | 15.00% | ~131 |
 | Go-Faster Stripes | 14.00% | ~122 |
 | We've Just Begun | 8.00% | ~70 |
@@ -32,9 +32,9 @@
 | La Dolce Vita | 2.00% | ~17 |
 | Romantic Races | 2.00% | ~17 |
 | Rounding Off | 2.00% | ~17 |
+| My Work Here Is Done | 2.00% | ~17 |
 | I'll Be the Best! | 1.00% | ~9 |
 | Back in Blighty | 1.00% | ~9 |
-| My Work Here Is Done | 1.00% | ~9 |
 | Overtaking the Master | 0.90% | ~8 |
 | Exhausted but Happy | 0.80% | ~7 |
 | I Don't Stop | 0.70% | ~6 |

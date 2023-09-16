@@ -4,8 +4,8 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -639,17 +639,17 @@
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_4",
       "SetID": "1fnbp5h",
       "Name": "Science Laboratory",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_5",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:03:30.3516103+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:02:31.5124188+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:29.6464315+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:56:55.4203092+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:03:30.3516199+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:56:55.4272028+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:02:31.5124378+00:00"
 }

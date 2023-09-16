@@ -12,7 +12,7 @@
 | Scholar | 35.00% | ~56 |
 | The darkness | 35.00% | ~56 |
 | A good beginning | 33.00% | ~52 |
-| True G4M3R | 31.00% | ~49 |
+| True G4M3R | 32.00% | ~51 |
 | One last step | 30.00% | ~48 |
 | Champollion | 27.00% | ~43 |
 | In this together | 26.00% | ~41 |

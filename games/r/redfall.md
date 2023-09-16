@@ -22,12 +22,12 @@ Rating: 3.52 (Ranked 988)
 | Catch and Release | 0.50% | ~9 |
 | Heart Attack | 0.50% | ~9 |
 | Radio Silence | 0.40% | ~7 |
+| Right This Way | 0.40% | ~7 |
 | Bad Wiring | 0.30% | ~5 |
 | Sic Transit Umbra | 0.30% | ~5 |
 | Good Morning | 0.30% | ~5 |
 | From the Shadows | 0.30% | ~5 |
 | Skin of Their Teeth | 0.30% | ~5 |
-| Right This Way | 0.30% | ~5 |
 | Harvest’s End | 0.30% | ~5 |
 | Helping Hand | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~3 |

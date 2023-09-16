@@ -5,9 +5,9 @@
   "Ranking_Rating": 31,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 130,
+  "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10232,
+  "EOS_Progressed": 10233,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1451,6 +1451,11 @@
       "Time": "2023-09-16T17:07:23.938593+00:00",
       "NumProgressed": 10232,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-16T18:06:36.3920442+00:00",
+      "NumProgressed": 10233,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1574,7 +1579,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1582,7 +1587,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1598,7 +1603,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -1670,7 +1675,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5832
+      "UsersEstimate": 5833
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1686,7 +1691,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9823
+      "UsersEstimate": 9824
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1702,7 +1707,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6139
+      "UsersEstimate": 6140
     },
     {
       "ID": "ACH_NIGHT",
@@ -1718,7 +1723,7 @@
       "Name": "the artist",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACH_RAIN",
@@ -1750,7 +1755,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4297
+      "UsersEstimate": 4298
     },
     {
       "ID": "ACH_SNOW",
@@ -1782,7 +1787,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ACH_WEEKLY",
@@ -1798,22 +1803,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7367
+      "UsersEstimate": 7368
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10232,
+      "Progressed": 10233,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:07:23.9385926+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:06:36.3920437+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.9885415+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:57:51.0411548+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:07:23.9386241+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:57:37.1952207+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:06:36.3920819+00:00"
 }

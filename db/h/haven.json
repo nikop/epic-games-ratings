@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1436,
+  "EOS_Progressed": 1438,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1714,6 +1714,11 @@
       "Time": "2023-09-16T14:05:17.073533+00:00",
       "NumProgressed": 1436,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-16T18:04:47.5987755+00:00",
+      "NumProgressed": 1438,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1723,9 +1728,9 @@
       "ID": "1",
       "SetID": "n50no0",
       "Name": "Lovebirds",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 705
     },
     {
       "ID": "10",
@@ -1773,7 +1778,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "16",
@@ -1781,7 +1786,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "17",
@@ -1789,7 +1794,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1136
     },
     {
       "ID": "18",
@@ -1797,7 +1802,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "19",
@@ -1805,7 +1810,7 @@
       "Name": "Second thoughts",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "2",
@@ -1813,7 +1818,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "20",
@@ -1821,7 +1826,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "21",
@@ -1829,7 +1834,7 @@
       "Name": "Mooning the moon",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "22",
@@ -1859,9 +1864,9 @@
       "ID": "25",
       "SetID": "n50no0",
       "Name": "Heartstrings",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 187
     },
     {
       "ID": "27",
@@ -1869,7 +1874,7 @@
       "Name": "Strip-a-bobble",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "29",
@@ -1877,7 +1882,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "3",
@@ -1885,7 +1890,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "30",
@@ -1933,7 +1938,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "7",
@@ -1949,7 +1954,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "9",
@@ -1964,15 +1969,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1436,
+      "Progressed": 1438,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:05:34.5369223+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:04:47.598775+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.4812312+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:59:48.7461315+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:05:34.536947+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:59:18.2943091+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:04:47.5988049+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,241 |
+| Tattletale | 41.00% | ~6,242 |
 | Man of politics | 35.00% | ~5,328 |
-| Friends of sorts | 33.00% | ~5,023 |
-| Yet another secret | 33.00% | ~5,023 |
-| Let there be darkness | 32.00% | ~4,871 |
+| Friends of sorts | 33.00% | ~5,024 |
+| Yet another secret | 33.00% | ~5,024 |
+| Let there be darkness | 32.00% | ~4,872 |
 | End of Book One | 30.00% | ~4,567 |
-| Wannabe knight | 24.00% | ~3,653 |
-| Garden of Eden | 24.00% | ~3,653 |
-| Full house | 24.00% | ~3,653 |
+| Wannabe knight | 24.00% | ~3,654 |
+| Garden of Eden | 24.00% | ~3,654 |
+| Full house | 24.00% | ~3,654 |
 | Help an old friend | 22.00% | ~3,349 |
-| Two of us | 20.00% | ~3,044 |
+| Two of us | 20.00% | ~3,045 |
 | Negotiation skills | 18.00% | ~2,740 |
 | Workers' union | 18.00% | ~2,740 |
 | End of Book Two | 18.00% | ~2,740 |
@@ -25,8 +25,8 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,131 |
 | Exterminator | 13.00% | ~1,979 |
 | Whodunnit | 12.00% | ~1,827 |
-| Friar Tuck | 11.00% | ~1,674 |
-| First profit | 11.00% | ~1,674 |
+| Friar Tuck | 11.00% | ~1,675 |
+| First profit | 11.00% | ~1,675 |
 | Good midwife | 10.00% | ~1,522 |
 | Team player | 10.00% | ~1,522 |
 | Skilled merchant | 9.00% | ~1,370 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~457 |
 | Boy of mystery | 2.00% | ~304 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,222 (Ranked 122)  
+Progressed: 15,224 (Ranked 122)  
 Completed: 110 (0.72%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 110 (0.72%) (Ranked 137)
 | 2023-09-13 | 15,184 | 110 |
 | 2023-09-14 | 15,194 | 110 |
 | 2023-09-15 | 15,208 | 110 |
-| 2023-09-16 | 15,222 | 110 |
+| 2023-09-16 | 15,224 | 110 |
 ## Awards
 Max (Easy Puzzles): 149  (Ranked 302)  
 Sum: 190 (Ranked 380)  

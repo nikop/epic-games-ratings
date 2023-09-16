@@ -4,7 +4,7 @@
   "ProductSlug": "stranded-deep",
   "Ranking_Rating": 851,
   "Ranking_Popularity": 271,
-  "Ranking_PopularitySum": 238,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 368,
@@ -2356,10 +2356,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 1087,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-09-16T18:00:38.9576429+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1089,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1087,
+  "NumberOfAwards": 1089,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2379,7 +2385,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 187
+      "Count": 189
     },
     {
       "Text": "This game is Relaxing",
@@ -2435,8 +2441,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-09-16T17:01:19.6592443+00:00",
+  "LastChanged": "2023-09-16T18:00:38.9576427+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.8798284+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:01:19.6592448+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:05:52.4850787+00:00"
+  "LastUpdate_Ratings": "2023-09-16T18:00:38.9576433+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:05:12.0354131+00:00"
 }

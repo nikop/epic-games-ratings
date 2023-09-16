@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -1271,9 +1271,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 182
+      "UsersEstimate": 186
     },
     {
       "ID": "completeact3",
@@ -1367,9 +1367,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "scoreminrankrv2",
@@ -1392,8 +1392,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:06:45.1814948+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:06:06.2802178+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.6432999+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:59:34.6463831+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:06:45.1815107+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:59:04.3423092+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:06:06.2802367+00:00"
 }

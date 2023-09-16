@@ -5,6 +5,7 @@ Rating: 3.93 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First One’s Free | 0.20% | ~175 |
 | Downed but Not Outed | 0.20% | ~175 |
 | Neophyte Ninja | 0.10% | ~87 |
 | Underworld Initiate | 0.10% | ~87 |
@@ -24,7 +25,6 @@ Rating: 3.93 (Ranked 960)
 | Talent Scout | 0.10% | ~87 |
 | Full House | 0.10% | ~87 |
 | Moneybags | 0.10% | ~87 |
-| First One’s Free | 0.10% | ~87 |
 | Groundhog Days | 0.10% | ~87 |
 | Too Old for This | 0.10% | ~87 |
 | Olympus Ascended | 0.10% | ~87 |
@@ -47,7 +47,7 @@ Rating: 3.93 (Ranked 960)
 | One for All | 0.10% | ~16 |
 | Now You See Me | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,399 (Ranked 77)  
+Progressed: 87,411 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 46 (0.05%) (Ranked 239)
 | 2023-09-13 | 87,015 | 45 |
 | 2023-09-14 | 87,137 | 45 |
 | 2023-09-15 | 87,269 | 46 |
-| 2023-09-16 | 87,399 | 46 |
+| 2023-09-16 | 87,411 | 46 |
 ## Awards
 Max (Diverse Characters): 438  (Ranked 209)  
 Sum: 2,092 (Ranked 199)  

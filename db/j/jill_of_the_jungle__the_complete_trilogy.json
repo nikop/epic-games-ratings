@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1742,
-  "EOS_Completed": 128,
+  "EOS_Progressed": 1743,
+  "EOS_Completed": 129,
   "EOS_NewPlayers": 32,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.35,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 7.4,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -6019,6 +6019,11 @@
       "Time": "2023-09-16T15:05:06.8649428+00:00",
       "NumProgressed": 1742,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-09-16T18:04:15.1544082+00:00",
+      "NumProgressed": 1743,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 5,
@@ -6030,7 +6035,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "2",
@@ -6069,16 +6074,16 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1742,
-      "Completed": 128
+      "Progressed": 1743,
+      "Completed": 129
     }
   ],
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:04:45.2807349+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:04:15.1544074+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:29.5726683+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:56:55.3865404+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:04:45.2807676+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:56:55.4136603+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:04:15.1544578+00:00"
 }

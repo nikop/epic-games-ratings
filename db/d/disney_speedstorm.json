@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -16,10 +16,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 3180,
-  "EOS_Completed": 173,
+  "EOS_Completed": 175,
   "EOS_NewPlayers": 20,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.44,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 5.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4680,6 +4680,11 @@
       "Time": "2023-09-16T17:03:38.3737965+00:00",
       "NumProgressed": 3180,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-09-16T18:03:08.670729+00:00",
+      "NumProgressed": 3180,
+      "NumCompleted": 175
     }
   ],
   "TotalAchievements": 24,
@@ -4865,9 +4870,9 @@
       "ID": "8",
       "SetID": "9p3jgda",
       "Name": "ACE TRICKSTER",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 382
+      "UsersEstimate": 413
     },
     {
       "ID": "9",
@@ -4883,12 +4888,12 @@
       "ID": "9p3jgda",
       "IsBase": true,
       "Progressed": 3180,
-      "Completed": 173
+      "Completed": 175
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-16T17:03:38.3737961+00:00",
+  "LastChanged_Achievements": "2023-09-16T18:03:08.6707283+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:59:30.2141572+00:00",
-  "LastUpdate_Achievements": "2023-09-16T17:03:38.3738299+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:59:00.3429159+00:00",
+  "LastUpdate_Achievements": "2023-09-16T18:03:08.6707806+00:00"
 }

@@ -16,6 +16,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 4.00% | ~665 |
 | Fertile Meadows | 4.00% | ~665 |
 | Lost Colonies | 4.00% | ~665 |
+| Watchtower | 4.00% | ~665 |
 | A Real Challenge | 4.00% | ~665 |
 | Homesick | 3.00% | ~499 |
 | Against All Odds | 3.00% | ~499 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 3.00% | ~499 |
 | Statue of the Forefathers | 3.00% | ~499 |
 | Corrosive Torrent | 3.00% | ~499 |
-| Watchtower | 3.00% | ~499 |
 | Cursed Lands | 3.00% | ~499 |
 | Trade Baron | 3.00% | ~499 |
 | Serving Ale | 2.00% | ~332 |

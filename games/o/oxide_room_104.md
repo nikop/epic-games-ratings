@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | What's going on here? | 89.00% | ~157 |
 | Brute force | 84.00% | ~148 |
+| Nimble fingers | 80.00% | ~141 |
 | Room 104 | 80.00% | ~141 |
-| Nimble fingers | 79.00% | ~139 |
 | Face to face | 79.00% | ~139 |
 | Let's play a game… | 74.00% | ~130 |
 | Now or never | 74.00% | ~130 |
