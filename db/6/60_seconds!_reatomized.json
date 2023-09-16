@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -188,7 +188,7 @@
   "Tags": [],
   "EOS_Progressed": 5150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5359,9 +5359,9 @@
       "ID": "ACH_DOLORES",
       "SetID": "5nj1ea3",
       "Name": "Girl Power",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2472
     },
     {
       "ID": "ACH_EASY",
@@ -5615,9 +5615,9 @@
       "ID": "ACH_SURVIVE_40_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Last man standing",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4120
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -5664,8 +5664,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-09-10T14:58:56.3860075+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:02:31.3306205+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:04:15.2278563+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.2935217+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:01:02.6411335+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:02:31.3307129+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:02:19.1336957+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:04:15.227934+00:00"
 }

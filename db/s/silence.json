@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -162,6 +162,11 @@
       "Time": "2023-09-15T14:03:33.9614008+00:00",
       "NumProgressed": 114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T19:04:55.0534701+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -275,9 +280,9 @@
       "ID": "0000_achv_unstoppable",
       "SetID": "dhn82m5",
       "Name": "Nothing can stop me",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "1001_achv_shadowplay",
@@ -307,7 +312,7 @@
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 58
     },
@@ -317,13 +322,13 @@
       "Name": "Demolition expert",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 60
     },
@@ -373,7 +378,7 @@
       "Name": "Haute cuisine",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "2004_achv_abyss",
@@ -381,7 +386,7 @@
       "Name": "Wooooooow!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -403,9 +408,9 @@
       "ID": "2008_achv_bubble",
       "SetID": "dhn82m5",
       "Name": "Bubblekillerfamily",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "2008_achv_spotfly",
@@ -427,9 +432,9 @@
       "ID": "2009_achv_dreamwheel",
       "SetID": "dhn82m5",
       "Name": "Life is but a dream",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "2009_achv_lifewheel",
@@ -483,9 +488,9 @@
       "ID": "3011_achv_magicbox",
       "SetID": "dhn82m5",
       "Name": "Mumbo Jumbo",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "3014_achv_sendspot",
@@ -509,7 +514,7 @@
       "Name": "Chapter III",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "3017_achv_flycloud",
@@ -517,7 +522,7 @@
       "Name": "Like a moth in the Wind",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "4004_achv_home",
@@ -540,7 +545,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 0
     }
   ],
@@ -548,8 +553,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:03:35.7093915+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:04:55.0534693+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:41.2824222+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:59:57.7964845+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:03:35.7094312+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:01:03.9956161+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:04:55.0535135+00:00"
 }

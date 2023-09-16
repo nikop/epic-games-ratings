@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 159,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 5.03,
   "EosHistory": [
@@ -787,25 +787,25 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "META_RESULT_1-2",
@@ -819,9 +819,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "META_RESULT_1-4",
@@ -859,9 +859,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -915,9 +915,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "PROGRESS_N1",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:08:04.4165702+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:09:25.7218978+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:59:02.792011+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:08:04.4165943+00:00"
+  "LastUpdate_Ratings": "2023-09-16T18:59:49.2768297+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:09:25.7219207+00:00"
 }

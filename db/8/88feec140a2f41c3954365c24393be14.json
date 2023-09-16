@@ -2,8 +2,8 @@
   "ID": "88feec140a2f41c3954365c24393be14",
   "Name": "We Were Here Expeditions: The FriendShip",
   "ProductSlug": "we-were-here-expeditions-the-friendship-1e8fb2",
-  "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_Progress": 129,
+  "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 12,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10455,
-  "EOS_Completed": 235,
-  "EOS_NewPlayers": 10453,
-  "EOS_NewCompleters": 235,
-  "EOS_Completed_Percentage": 2.25,
+  "EOS_Progressed": 10916,
+  "EOS_Completed": 248,
+  "EOS_NewPlayers": 10914,
+  "EOS_NewCompleters": 248,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:33.5899615+00:00",
@@ -276,6 +276,11 @@
       "Time": "2023-09-16T18:03:14.1720653+00:00",
       "NumProgressed": 10455,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-09-16T19:04:28.9688632+00:00",
+      "NumProgressed": 10916,
+      "NumCompleted": 248
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -288,7 +293,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5240
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -296,7 +301,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 9,
       "XP": 125,
-      "UsersEstimate": 941
+      "UsersEstimate": 982
     },
     {
       "ID": "GoldPact",
@@ -304,7 +309,7 @@
       "Name": "Gold Pact",
       "Percentage": 11,
       "XP": 125,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1201
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -312,7 +317,7 @@
       "Name": "Our Friendship is Golden",
       "Percentage": 3,
       "XP": 150,
-      "UsersEstimate": 314
+      "UsersEstimate": 327
     },
     {
       "ID": "PelagicPerils",
@@ -320,15 +325,15 @@
       "Name": "Pelagic Perils",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3602
     },
     {
       "ID": "ShipDip",
       "SetID": "bcl47p5",
       "Name": "Ship Dip!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 2927
+      "UsersEstimate": 3166
     },
     {
       "ID": "TheArtOfParley",
@@ -336,15 +341,15 @@
       "Name": "The Art of Parley",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 5750
+      "UsersEstimate": 6004
     },
     {
       "ID": "TheGoldenRatio",
       "SetID": "bcl47p5",
       "Name": "The Golden Ratio",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 125,
-      "UsersEstimate": 732
+      "UsersEstimate": 873
     },
     {
       "ID": "TilesTrailsTreasure",
@@ -352,7 +357,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 39,
       "XP": 75,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4257
     },
     {
       "ID": "WeCanDoBetter",
@@ -360,15 +365,15 @@
       "Name": "We Can Do Better!",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 5959
+      "UsersEstimate": 6222
     },
     {
       "ID": "WeighAnchorSetSail",
       "SetID": "bcl47p5",
       "Name": "Weigh Anchor, Set Sail!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6550
     },
     {
       "ID": "WelcomeAboard",
@@ -376,21 +381,21 @@
       "Name": "Welcome Aboard!",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6440
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 10455,
-      "Completed": 235
+      "Progressed": 10916,
+      "Completed": 248
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:03:14.1720646+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:04:28.9688626+00:00",
   "LastUpdate_AppInfo": "2023-09-14T13:02:15.6176878+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:57:33.5820382+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:03:14.1720769+00:00"
+  "LastUpdate_Ratings": "2023-09-16T18:58:03.3783127+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:04:28.9688748+00:00"
 }

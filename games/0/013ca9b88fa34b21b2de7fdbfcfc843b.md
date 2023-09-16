@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~2,387 |
-| A Thorny Situation | 68.00% | ~2,254 |
-| ... And Spit Back Out | 55.00% | ~1,823 |
-| Break-Net Speed | 42.00% | ~1,392 |
-| Bramble Breaker | 37.00% | ~1,227 |
-| Miner 49er | 35.00% | ~1,160 |
-| Humble Collector | 33.00% | ~1,094 |
-| Calm Sailing | 23.00% | ~762 |
-| Open the Gate! | 20.00% | ~663 |
-| Lumberjack | 17.00% | ~564 |
-| Mist Walker | 17.00% | ~564 |
-| Oui, Chef! | 17.00% | ~564 |
-| Botanical Breakthrough | 9.00% | ~298 |
-| Beach Comber | 8.00% | ~265 |
-| Clear the Air | 7.00% | ~232 |
+| Azoria Beckons | 72.00% | ~2,400 |
+| A Thorny Situation | 68.00% | ~2,267 |
+| ... And Spit Back Out | 55.00% | ~1,834 |
+| Break-Net Speed | 43.00% | ~1,434 |
+| Bramble Breaker | 37.00% | ~1,234 |
+| Miner 49er | 35.00% | ~1,167 |
+| Humble Collector | 33.00% | ~1,100 |
+| Calm Sailing | 24.00% | ~800 |
+| Open the Gate! | 20.00% | ~667 |
+| Mist Walker | 18.00% | ~600 |
+| Lumberjack | 17.00% | ~567 |
+| Oui, Chef! | 17.00% | ~567 |
+| Botanical Breakthrough | 9.00% | ~300 |
+| Beach Comber | 8.00% | ~267 |
+| Clear the Air | 7.00% | ~233 |
 | Search for the Hairy Grell | 4.00% | ~133 |
 | Higher Tax Bracket | 4.00% | ~133 |
-| Skilled | 3.00% | ~99 |
-| Got to Catch Them All | 2.00% | ~66 |
-| Rumble in the Jumble | 2.00% | ~66 |
-| Fanatical Farmer | 2.00% | ~66 |
-| I Now Pronounce You... | 2.00% | ~66 |
+| Skilled | 3.00% | ~100 |
+| Got to Catch Them All | 2.00% | ~67 |
+| Rumble in the Jumble | 2.00% | ~67 |
+| Fanatical Farmer | 2.00% | ~67 |
+| I Now Pronounce You... | 2.00% | ~67 |
 | Flaming Hot Completos | 1.00% | ~33 |
 | Fae Farmer | 1.00% | ~33 |
 | Scattered Scroll Scrounger | 1.00% | ~33 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~3 |
 | Very Skilled | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,315 (Ranked 166)  
+Progressed: 3,334 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,4 +63,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 2,323 | 0 |
 | 2023-09-14 | 2,687 | 0 |
 | 2023-09-15 | 3,022 | 0 |
-| 2023-09-16 | 3,315 | 0 |
+| 2023-09-16 | 3,334 | 0 |

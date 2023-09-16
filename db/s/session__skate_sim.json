@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -922,9 +922,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2823,
+  "EOS_Progressed": 2825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4467,6 +4467,11 @@
       "Time": "2023-09-16T17:06:41.8605858+00:00",
       "NumProgressed": 2823,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T19:07:14.5398192+00:00",
+      "NumProgressed": 2825,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4478,7 +4483,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_BING-BONG",
@@ -4494,7 +4499,7 @@
       "Name": "Bottom ply killer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -4558,7 +4563,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -4566,7 +4571,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -4630,7 +4635,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4678,7 +4683,7 @@
       "Name": "NAHELL!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -4710,7 +4715,7 @@
       "Name": "Purple passion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -4734,7 +4739,7 @@
       "Name": "Squad goals",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -4742,7 +4747,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -4782,7 +4787,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -4854,22 +4859,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2823,
+      "Progressed": 2825,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-15T17:58:31.0946965+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:05:43.5336357+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:07:14.5398187+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:58:54.7050457+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:05:43.5337019+00:00"
+  "LastUpdate_Ratings": "2023-09-16T18:59:41.6646612+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:07:14.5398812+00:00"
 }

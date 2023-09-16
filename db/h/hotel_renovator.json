@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -110,9 +110,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
@@ -1540,6 +1540,11 @@
       "Time": "2023-09-16T18:08:09.7313102+00:00",
       "NumProgressed": 992,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-16T19:09:32.0903389+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1551,7 +1556,7 @@
       "Name": "Humble beginnings",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1575,7 +1580,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1599,7 +1604,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1639,7 +1644,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1647,7 +1652,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1655,7 +1660,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1671,7 +1676,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1679,7 +1684,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1687,7 +1692,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1703,7 +1708,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ACH_STAR_2",
@@ -1735,7 +1740,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1751,7 +1756,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1766,7 +1771,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 15
     }
   ],
@@ -1774,8 +1779,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-03T08:57:16.8385197+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:08:09.7313097+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:09:32.0903384+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:02:02.8744742+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:08:09.73134+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:03:38.1414469+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:09:32.0903667+00:00"
 }

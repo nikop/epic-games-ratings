@@ -2,9 +2,9 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -792,6 +792,11 @@
       "Time": "2023-09-16T15:09:25.6800956+00:00",
       "NumProgressed": 487,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-16T19:09:30.2105623+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 20,
@@ -851,7 +856,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ENDING_6",
@@ -859,7 +864,7 @@
       "Name": "The Bribe",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ENDING_7",
@@ -923,7 +928,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PROTECTOR",
@@ -931,7 +936,7 @@
       "Name": "Protector",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "SABOTAGE",
@@ -939,7 +944,7 @@
       "Name": "Sabotage",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SHILL_BIDDER",
@@ -947,7 +952,7 @@
       "Name": "Shill Bidder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -962,7 +967,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 6
     }
   ],
@@ -970,8 +975,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:08:08.1586492+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:09:30.2105619+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:17.659452+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:59:15.5999985+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:08:08.1586691+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:00:11.1971694+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:09:30.2105808+00:00"
 }

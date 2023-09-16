@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2691,
+  "EOS_Progressed": 2692,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3273,6 +3273,11 @@
       "Time": "2023-09-16T18:06:41.0386979+00:00",
       "NumProgressed": 2691,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-16T19:08:10.0173071+00:00",
+      "NumProgressed": 2692,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3348,15 +3353,15 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "STRONGER_TOGETHER",
       "SetID": "1a29mp6",
       "Name": "Stronger together",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 377
+      "UsersEstimate": 404
     },
     {
       "ID": "THE_END",
@@ -3387,7 +3392,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2691,
+      "Progressed": 2692,
       "Completed": 6
     }
   ],
@@ -3395,8 +3400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:06:41.0386973+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:08:10.0173065+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:24.7392815+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:59:27.8710248+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:06:41.0387302+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:00:25.2721619+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:08:10.0173364+00:00"
 }

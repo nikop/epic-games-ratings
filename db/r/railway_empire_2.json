@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5142,9 +5142,9 @@
       "ID": "A50",
       "SetID": "9b7p7eo",
       "Name": "Accurate",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 76
     },
     {
       "ID": "A51",
@@ -5191,8 +5191,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-12T04:00:17.7506037+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:03:46.4586388+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:05:07.6376995+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.7134355+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:58:05.7638351+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:03:46.4587262+00:00"
+  "LastUpdate_Ratings": "2023-09-16T18:58:44.1154139+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:05:07.6377752+00:00"
 }

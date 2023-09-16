@@ -9,7 +9,7 @@ Rating: 4.30 (Ranked 800)
 | Bullseye! | 85.00% | ~131 |
 | Graduation! | 80.00% | ~123 |
 | Villfir Forest | 77.00% | ~119 |
-| Right in the kisser! | 61.00% | ~94 |
+| Right in the kisser! | 62.00% | ~95 |
 | The Thrower | 49.00% | ~75 |
 | Duscot Steamcity | 49.00% | ~75 |
 | The Shaman | 47.00% | ~72 |
@@ -20,23 +20,23 @@ Rating: 4.30 (Ranked 800)
 | The Shield | 38.00% | ~59 |
 | Kill-streak | 31.00% | ~48 |
 | Topped up | 29.00% | ~45 |
+| The Bird | 28.00% | ~43 |
 | The Idol | 27.00% | ~42 |
-| The Bird | 27.00% | ~42 |
 | The Ninja | 27.00% | ~42 |
 | Inferno Ruins | 25.00% | ~38 |
 | 1 is all I need | 23.00% | ~35 |
 | I'm Rich | 23.00% | ~35 |
 | The Slime | 22.00% | ~34 |
 | Untouchable | 21.00% | ~32 |
-| The Flower | 17.00% | ~26 |
+| The Flower | 18.00% | ~28 |
+| Out of the Frying Pan... | 18.00% | ~28 |
 | The Giant | 17.00% | ~26 |
 | The Ooze | 17.00% | ~26 |
-| Out of the Frying Pan... | 17.00% | ~26 |
 | The Blacksmith | 16.00% | ~25 |
 | Ember | 16.00% | ~25 |
+| Turquoise | 15.00% | ~23 |
 | The Assistant | 14.00% | ~22 |
 | The Steampunk | 14.00% | ~22 |
-| Turquoise | 14.00% | ~22 |
 | The Droid | 11.00% | ~17 |
 | Verse | 11.00% | ~17 |
 | Iron | 10.00% | ~15 |

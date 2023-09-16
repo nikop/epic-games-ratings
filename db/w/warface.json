@@ -2,12 +2,12 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 964,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
@@ -3547,11 +3547,17 @@
       "Rating": 3.91,
       "NumberOfAwards": 3254,
       "NumberOfAwardsMax": 414
+    },
+    {
+      "Time": "2023-09-16T19:01:50.2069045+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3255,
+      "NumberOfAwardsMax": 415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3254,
-  "NumberOfAwardsMax": 414,
+  "NumberOfAwards": 3255,
+  "NumberOfAwardsMax": 415,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3594,7 +3600,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 414
+      "Count": 415
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3632,8 +3638,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-09-16T05:59:55.0803253+00:00",
+  "LastChanged": "2023-09-16T19:01:50.2069043+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.5990123+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:00:37.3332573+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:07:42.8492154+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:01:50.2069051+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:09:12.0279585+00:00"
 }

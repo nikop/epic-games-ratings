@@ -8,7 +8,7 @@
 | Silent Overload | 61.00% | ~63 |
 | Symbiotic Weapon | 56.00% | ~58 |
 | A.I. Training | 50.00% | ~52 |
-| Sniper | 38.00% | ~39 |
+| Sniper | 39.00% | ~40 |
 | The Red Herring | 33.00% | ~34 |
 | Telekinesis | 28.00% | ~29 |
 | Sapper | 22.00% | ~23 |

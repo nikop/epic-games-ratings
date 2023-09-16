@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -586,9 +586,9 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -754,17 +754,17 @@
       "ID": "PRG_BOSS_BIRD",
       "SetID": "89cjc9l",
       "Name": "The Bird",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PRG_BOSS_FLOWER",
       "SetID": "89cjc9l",
       "Name": "The Flower",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -1042,9 +1042,9 @@
       "ID": "PRG_MODE_HARD",
       "SetID": "89cjc9l",
       "Name": "Out of the Frying Pan...",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -1066,9 +1066,9 @@
       "ID": "PRG_NORMAL_10002",
       "SetID": "89cjc9l",
       "Name": "Turquoise",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "PRG_NORMAL_10003",
@@ -1163,8 +1163,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:05:31.0861231+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:06:49.5639922+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:26.6139779+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:01:27.0832528+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:05:31.0862278+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:02:51.0800398+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:06:49.5640719+00:00"
 }

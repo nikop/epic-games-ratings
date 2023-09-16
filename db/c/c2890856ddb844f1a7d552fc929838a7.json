@@ -1589,9 +1589,9 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 511
+      "UsersEstimate": 519
     },
     {
       "ID": "AC06",
@@ -1741,9 +1741,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 192
     },
     {
       "ID": "AC25",
@@ -1853,9 +1853,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 311
     },
     {
       "ID": "AC39",
@@ -1926,8 +1926,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:06:15.890589+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:07:29.2527537+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:01:29.0375989+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:06:15.8906385+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:02:54.0715951+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:07:29.2528005+00:00"
 }

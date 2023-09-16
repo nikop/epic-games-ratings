@@ -5,14 +5,14 @@ Rating: 4.55 (Ranked 486)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,598 |
-| Greasy Palms | 42.00% | ~4,198 |
-| South American Connection | 26.00% | ~2,599 |
-| Life of the Party | 20.00% | ~1,999 |
-| Big Heat from Little Havana | 15.00% | ~1,499 |
-| Chauffeur | 15.00% | ~1,499 |
-| Tommy Two-Wheels | 15.00% | ~1,499 |
-| Salutations My Little Friend | 11.00% | ~1,099 |
+| Legal Counsel | 46.00% | ~4,600 |
+| Greasy Palms | 42.00% | ~4,200 |
+| South American Connection | 26.00% | ~2,600 |
+| Life of the Party | 20.00% | ~2,000 |
+| Big Heat from Little Havana | 15.00% | ~1,500 |
+| Chauffeur | 15.00% | ~1,500 |
+| Tommy Two-Wheels | 15.00% | ~1,500 |
+| Salutations My Little Friend | 11.00% | ~1,100 |
 | Iron-y | 10.00% | ~1,000 |
 | Gun for Hire | 9.00% | ~900 |
 | Mischief Managed | 9.00% | ~900 |
@@ -21,10 +21,10 @@ Rating: 4.55 (Ranked 486)
 | Bloodstained Hands | 6.00% | ~600 |
 | Not my First Time | 5.00% | ~500 |
 | Grand Theft Auto | 5.00% | ~500 |
-| High Quality H2O | 4.00% | ~400 |
 | Pie Guy | 4.00% | ~400 |
 | Running Rampant | 3.00% | ~300 |
 | Point A to Point B | 3.00% | ~300 |
+| High Quality H2O | 3.00% | ~300 |
 | Bull in a China Shop | 3.00% | ~300 |
 | Somebody Call the Wambulance? | 3.00% | ~300 |
 | Just Like the Real Thing | 3.00% | ~300 |
@@ -40,7 +40,7 @@ Rating: 4.55 (Ranked 486)
 | Done it All | 0.90% | ~90 |
 | Kingpin | 0.60% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,995 (Ranked 132)  
+Progressed: 10,001 (Ranked 132)  
 Completed: 56 (0.56%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 56 (0.56%) (Ranked 150)
 | 2023-09-13 | 9,895 | 55 |
 | 2023-09-14 | 9,902 | 55 |
 | 2023-09-15 | 9,947 | 56 |
-| 2023-09-16 | 9,995 | 56 |
+| 2023-09-16 | 10,001 | 56 |
 ## Awards
 Max (Great Boss Battles): 74  (Ranked 375)  
 Sum: 74 (Ranked 438)  

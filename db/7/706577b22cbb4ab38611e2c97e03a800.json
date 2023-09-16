@@ -2,7 +2,7 @@
   "ID": "706577b22cbb4ab38611e2c97e03a800",
   "Name": "Geometric Sniper - Z",
   "ProductSlug": "geometric-sniper-z-ef97ef",
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 109,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-09-16T11:05:57.3007189+00:00",
       "NumProgressed": 99,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T19:05:39.7316049+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -311,15 +316,15 @@
       "ID": "ACHIEVEMENT_AV_01",
       "SetID": "b50kim2",
       "Name": "MISSION 01",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
       "SetID": "b50kim2",
       "Name": "MISSION 02",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 59
     },
@@ -712,14 +717,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:04:24.0987978+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:05:39.7316045+00:00",
   "LastUpdate_AppInfo": "2023-09-12T02:11:10.9088436+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:01:15.0101147+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:04:24.0988444+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:02:36.0818794+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:05:39.7316491+00:00"
 }

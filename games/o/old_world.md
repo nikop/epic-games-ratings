@@ -17,32 +17,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 4.00% | ~558 |
 | Strong | 4.00% | ~558 |
 | Hanging Gardens | 4.00% | ~558 |
-| Ambitious | 3.00% | ~418 |
-| Enlightened | 3.00% | ~418 |
-| Glorious | 3.00% | ~418 |
-| Good | 3.00% | ~418 |
-| Just | 3.00% | ~418 |
-| Keystone | 3.00% | ~418 |
-| Learned | 3.00% | ~418 |
-| Magnificent | 3.00% | ~418 |
-| Noble | 3.00% | ~418 |
-| Pioneer | 3.00% | ~418 |
-| Warrior | 3.00% | ~418 |
-| Developing Cities | 3.00% | ~418 |
-| Strong Cities | 3.00% | ~418 |
-| Ishtar Gate | 3.00% | ~418 |
-| Lighthouse | 3.00% | ~418 |
-| Oracle | 3.00% | ~418 |
-| Pyramids | 3.00% | ~418 |
-| Judaism | 3.00% | ~418 |
-| Babylonian Paganism | 3.00% | ~418 |
-| Carthaginian Paganism | 3.00% | ~418 |
-| Greek Paganism | 3.00% | ~418 |
-| Roman Paganism | 3.00% | ~418 |
-| Zoroastrianism | 3.00% | ~418 |
-| Naming Landmarks | 3.00% | ~418 |
-| Trade Caravan | 3.00% | ~418 |
-| The Great Mage | 3.00% | ~418 |
+| Ambitious | 3.00% | ~419 |
+| Enlightened | 3.00% | ~419 |
+| Glorious | 3.00% | ~419 |
+| Good | 3.00% | ~419 |
+| Just | 3.00% | ~419 |
+| Keystone | 3.00% | ~419 |
+| Learned | 3.00% | ~419 |
+| Magnificent | 3.00% | ~419 |
+| Noble | 3.00% | ~419 |
+| Pioneer | 3.00% | ~419 |
+| Warrior | 3.00% | ~419 |
+| Developing Cities | 3.00% | ~419 |
+| Strong Cities | 3.00% | ~419 |
+| Ishtar Gate | 3.00% | ~419 |
+| Lighthouse | 3.00% | ~419 |
+| Oracle | 3.00% | ~419 |
+| Pyramids | 3.00% | ~419 |
+| Judaism | 3.00% | ~419 |
+| Babylonian Paganism | 3.00% | ~419 |
+| Carthaginian Paganism | 3.00% | ~419 |
+| Greek Paganism | 3.00% | ~419 |
+| Roman Paganism | 3.00% | ~419 |
+| Zoroastrianism | 3.00% | ~419 |
+| Naming Landmarks | 3.00% | ~419 |
+| Trade Caravan | 3.00% | ~419 |
+| The Great Mage | 3.00% | ~419 |
 | Regicide | 2.00% | ~279 |
 | Drillmaster | 2.00% | ~279 |
 | Brilliant | 2.00% | ~279 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,950 (Ranked 123)  
+Progressed: 13,951 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,950 | 5 |
+| 2023-09-16 | 13,951 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -531,6 +531,11 @@
       "Time": "2023-09-16T16:06:31.8221992+00:00",
       "NumProgressed": 123,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T19:07:38.2824751+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -543,7 +548,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -597,7 +602,7 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 50,
       "UsersEstimate": 81
     },
@@ -607,7 +612,7 @@
       "Name": "Farmer",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "HOUSEWARMING",
@@ -615,7 +620,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LUNCH_LEECH",
@@ -655,7 +660,7 @@
       "Name": "Weed Warrior",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -687,7 +692,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -702,14 +707,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:06:23.4091394+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:07:38.2824745+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:01:53.2748091+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:06:23.4091598+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:03:25.6608529+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:07:38.2824936+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,909 |
-| Un-Lonely Island | 47.00% | ~2,418 |
-| The Beginning of a Servantship | 45.00% | ~2,315 |
-| Trade Is My Trait | 37.00% | ~1,903 |
+| Just One...More...Term... | 76.00% | ~3,912 |
+| Un-Lonely Island | 47.00% | ~2,419 |
+| The Beginning of a Servantship | 45.00% | ~2,316 |
+| Trade Is My Trait | 37.00% | ~1,904 |
 | Number 18 | 24.00% | ~1,235 |
-| We Don't Have Time For That | 19.00% | ~977 |
+| We Don't Have Time For That | 19.00% | ~978 |
 | The Governator | 18.00% | ~926 |
-| The Legend of Langostino | 17.00% | ~874 |
-| Caribbean Comrade | 16.00% | ~823 |
-| The Dreamer of Dreams | 16.00% | ~823 |
+| The Legend of Langostino | 17.00% | ~875 |
+| Caribbean Comrade | 16.00% | ~824 |
+| The Dreamer of Dreams | 16.00% | ~824 |
 | Go Sovereigns! | 11.00% | ~566 |
 | For Science! | 11.00% | ~566 |
-| Happy Ending? | 10.00% | ~514 |
-| Of Seals And Men | 10.00% | ~514 |
-| Shackadelic | 10.00% | ~514 |
+| Happy Ending? | 10.00% | ~515 |
+| Of Seals And Men | 10.00% | ~515 |
+| Shackadelic | 10.00% | ~515 |
 | Double Trouble | 8.00% | ~412 |
 | Firestarter | 8.00% | ~412 |
 | I Owe You Nothing | 7.00% | ~360 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~46 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,144 (Ranked 153)  
+Progressed: 5,147 (Ranked 153)  
 Completed: 2 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,11 +196,11 @@ Completed: 2 (0.04%) (Ranked 244)
 | 2023-09-13 | 5,078 | 2 |
 | 2023-09-14 | 5,093 | 2 |
 | 2023-09-15 | 5,115 | 2 |
-| 2023-09-16 | 5,144 | 2 |
+| 2023-09-16 | 5,147 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 342)  
-Sum: 686 (Ranked 280)  
-Diff (max vs sum): 62  
+Sum: 686 (Ranked 281)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

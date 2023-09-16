@@ -411,9 +411,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -427,9 +427,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -443,9 +443,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -491,9 +491,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -555,9 +555,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-16T18:04:05.6713137+00:00",
+  "LastChanged_Achievements": "2023-09-16T19:05:17.8741775+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-16T17:59:01.7412186+00:00",
-  "LastUpdate_Achievements": "2023-09-16T18:04:05.6713336+00:00"
+  "LastUpdate_Ratings": "2023-09-16T18:59:48.140382+00:00",
+  "LastUpdate_Achievements": "2023-09-16T19:05:17.8741956+00:00"
 }
