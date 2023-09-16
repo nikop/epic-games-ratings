@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24004,
+  "EOS_Progressed": 24009,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17215,6 +17215,11 @@
       "Time": "2023-09-16T11:05:40.9986992+00:00",
       "NumProgressed": 24004,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-16T12:06:12.6503488+00:00",
+      "NumProgressed": 24009,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -17234,7 +17239,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "1017",
@@ -17242,7 +17247,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "1018",
@@ -17258,7 +17263,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "1020",
@@ -17274,7 +17279,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "1022",
@@ -17282,7 +17287,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "1023",
@@ -17298,7 +17303,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "1025",
@@ -17312,9 +17317,9 @@
       "ID": "1026",
       "SetID": "9l3d3cl",
       "Name": "Oathkeeper",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1921
     },
     {
       "ID": "1027",
@@ -17322,7 +17327,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "1028",
@@ -17330,7 +17335,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "1029",
@@ -17338,7 +17343,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "1030",
@@ -17346,7 +17351,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4801
+      "UsersEstimate": 4802
     },
     {
       "ID": "1031",
@@ -17362,7 +17367,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9602
+      "UsersEstimate": 9604
     },
     {
       "ID": "1033",
@@ -17378,7 +17383,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "1035",
@@ -17394,22 +17399,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24004,
+      "Progressed": 24009,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:05:40.9986983+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:06:12.6503484+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:02:33.9906138+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:05:40.9988617+00:00"
+  "LastUpdate_Ratings": "2023-09-16T12:02:33.9755583+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:06:12.6504463+00:00"
 }

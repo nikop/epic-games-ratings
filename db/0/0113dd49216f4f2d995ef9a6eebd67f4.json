@@ -377,9 +377,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -505,9 +505,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -584,8 +584,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:04:31.2216976+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:05:25.2039993+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.7040236+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:02:23.9251915+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:04:31.2217276+00:00"
+  "LastUpdate_Ratings": "2023-09-16T12:02:27.0866096+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:05:25.2040753+00:00"
 }

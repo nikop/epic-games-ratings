@@ -396,9 +396,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -603,8 +603,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:05:31.0791832+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:00:15.2838058+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:05:31.0792064+00:00"
+  "LastChanged_Achievements": "2023-09-16T12:06:05.8893944+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
+  "LastUpdate_Ratings": "2023-09-16T12:00:51.1663239+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:06:05.8894117+00:00"
 }

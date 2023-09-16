@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 333,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1702,9 +1702,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     }
   ],
   "AchievementSets": [
@@ -1718,8 +1718,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:09:04.1108715+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:08:37.1655074+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:57:48.3303345+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:09:04.110905+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:59:10.861094+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:08:37.1655353+00:00"
 }

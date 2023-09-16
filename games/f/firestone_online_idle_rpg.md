@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 942)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,941 (Ranked 184)  
+Progressed: 1,941 (Ranked 185)  
 Completed: 2 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |

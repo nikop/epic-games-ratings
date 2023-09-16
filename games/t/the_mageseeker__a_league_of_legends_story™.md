@@ -8,8 +8,8 @@ Rating: 4.82 (Ranked 67)
 | For Demacia | 96.00% | ~2,453 |
 | No more cages! | 92.00% | ~2,351 |
 | Everfrost | 78.00% | ~1,993 |
+| Dark Forest | 78.00% | ~1,993 |
 | Pentakill | 77.00% | ~1,967 |
-| Dark Forest | 77.00% | ~1,967 |
 | The use of petricite | 75.00% | ~1,916 |
 | You can pet the dog | 61.00% | ~1,559 |
 | Big Helmet Bro | 38.00% | ~971 |

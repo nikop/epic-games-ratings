@@ -1,39 +1,39 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 431)  
+Rating: 4.58 (Ranked 432)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,617 |
+| First Steps | 96.00% | ~226,618 |
 | Uncharted Territory | 89.00% | ~210,093 |
-| Getting A Glimpse | 73.00% | ~172,323 |
-| A Quick Escape | 65.00% | ~153,438 |
+| Getting A Glimpse | 73.00% | ~172,324 |
+| A Quick Escape | 65.00% | ~153,439 |
 | Explorer | 62.00% | ~146,357 |
-| Defeat The Dark | 61.00% | ~143,996 |
-| An Offering | 61.00% | ~143,996 |
-| Colorful Corpse | 58.00% | ~136,914 |
+| Defeat The Dark | 61.00% | ~143,997 |
+| An Offering | 61.00% | ~143,997 |
+| Colorful Corpse | 58.00% | ~136,915 |
 | That Was Quick | 57.00% | ~134,554 |
 | A Donation | 57.00% | ~134,554 |
 | Goodbye, Frog Friend | 54.00% | ~127,472 |
-| Heavy Hitter | 53.00% | ~125,111 |
-| Heartless | 46.00% | ~108,587 |
-| Spine Breaker | 46.00% | ~108,587 |
+| Heavy Hitter | 53.00% | ~125,112 |
+| Heartless | 46.00% | ~108,588 |
+| Spine Breaker | 46.00% | ~108,588 |
 | Deflection | 45.00% | ~106,227 |
-| Sneaky | 43.00% | ~101,505 |
+| Sneaky | 43.00% | ~101,506 |
 | Delving Deeper | 42.00% | ~99,145 |
 | C-C-Combo | 42.00% | ~99,145 |
-| Ambitious Intent | 41.00% | ~96,784 |
+| Ambitious Intent | 41.00% | ~96,785 |
 | Nothing To Lose | 40.00% | ~94,424 |
 | The Bestiary | 40.00% | ~94,424 |
-| What's Yours Is Mine | 38.00% | ~89,702 |
+| What's Yours Is Mine | 38.00% | ~89,703 |
 | R.I.P | 37.00% | ~87,342 |
-| Shootout | 36.00% | ~84,981 |
+| Shootout | 36.00% | ~84,982 |
 | I Am Overburdened | 35.00% | ~82,621 |
 | Cold Hearted | 34.00% | ~80,260 |
-| Dig Your Own Grave | 33.00% | ~77,899 |
-| Toxic | 33.00% | ~77,899 |
+| Dig Your Own Grave | 33.00% | ~77,900 |
+| Toxic | 33.00% | ~77,900 |
 | Who To Trust? | 32.00% | ~75,539 |
 | Flesh Wound | 29.00% | ~68,457 |
 | Walk It Off | 28.00% | ~66,097 |
@@ -43,7 +43,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 27.00% | ~63,736 |
 | New Perspectives | 27.00% | ~63,736 |
 | Shapeshifting | 27.00% | ~63,736 |
-| Destroy Your Fears | 26.00% | ~61,375 |
+| Destroy Your Fears | 26.00% | ~61,376 |
 | Save Our Souls | 25.00% | ~59,015 |
 | To The Death! | 20.00% | ~47,212 |
 | Well Prepared | 20.00% | ~47,212 |
@@ -53,15 +53,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 17.00% | ~40,130 |
 | Don't Ignore Me! | 17.00% | ~40,130 |
 | Illuminate, Eliminate | 17.00% | ~40,130 |
-| Max Damage! | 16.00% | ~37,769 |
-| Doing Time | 16.00% | ~37,769 |
+| Max Damage! | 16.00% | ~37,770 |
+| Doing Time | 16.00% | ~37,770 |
 | Spreading Plague | 15.00% | ~35,409 |
 | The Long Run | 14.00% | ~33,048 |
 | A Rough Road | 13.00% | ~30,688 |
 | Chain Reaction | 13.00% | ~30,688 |
 | Berzerker | 12.00% | ~28,327 |
 | Antivenom | 12.00% | ~28,327 |
-| Thank You, Friend | 11.00% | ~25,966 |
+| Thank You, Friend | 11.00% | ~25,967 |
 | Barbecue | 10.00% | ~23,606 |
 | Snake Sneak | 10.00% | ~23,606 |
 | Precious | 9.00% | ~21,245 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,180 |
 | Near Death Experience | 0.30% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,059 (Ranked 52)  
+Progressed: 236,060 (Ranked 52)  
 Completed: 271 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 271 (0.11%) (Ranked 218)
 | 2023-09-13 | 235,936 | 269 |
 | 2023-09-14 | 235,973 | 270 |
 | 2023-09-15 | 236,029 | 271 |
-| 2023-09-16 | 236,059 | 271 |
+| 2023-09-16 | 236,060 | 271 |
 ## Awards
 Max (Quickly Understood Controls): 1,492  (Ranked 123)  
 Sum: 11,556 (Ranked 79)  

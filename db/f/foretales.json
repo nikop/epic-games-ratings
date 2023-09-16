@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -459,9 +459,9 @@
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "theUnionLeader",
@@ -508,8 +508,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:04:20.2503716+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T10:57:40.9021248+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:01:38.9382563+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:04:20.2504559+00:00"
+  "LastChanged_Achievements": "2023-09-16T12:05:16.840565+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T11:58:50.6472893+00:00",
+  "LastUpdate_Ratings": "2023-09-16T12:01:54.5725366+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:05:16.8406+00:00"
 }

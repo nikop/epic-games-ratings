@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 705,
+  "EOS_Progressed": 706,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 10.92,
+  "EOS_Completed_Percentage": 10.91,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2421,6 +2421,11 @@
       "Time": "2023-09-16T11:06:46.3150052+00:00",
       "NumProgressed": 705,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-16T12:06:58.9223942+00:00",
+      "NumProgressed": 706,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 30,
@@ -2432,7 +2437,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "LEVEL_002",
@@ -2440,7 +2445,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "LEVEL_003",
@@ -2464,7 +2469,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "LEVEL_006",
@@ -2472,7 +2477,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "LEVEL_007",
@@ -2504,7 +2509,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "LEVEL_011",
@@ -2616,7 +2621,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_025",
@@ -2624,7 +2629,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_026",
@@ -2632,7 +2637,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_027",
@@ -2640,7 +2645,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_028",
@@ -2648,15 +2653,15 @@
       "Name": "What is the country?",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 63
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_030",
@@ -2671,14 +2676,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 705,
+      "Progressed": 706,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:06:46.3150049+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:06:58.9223937+00:00",
   "LastUpdate_AppInfo": "2023-09-11T21:57:06.8310297+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:03:40.4492721+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:06:46.3150428+00:00"
+  "LastUpdate_Ratings": "2023-09-16T12:04:14.1912478+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:06:58.9224287+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1869,6 +1869,11 @@
       "Time": "2023-09-15T21:04:34.2465586+00:00",
       "NumProgressed": 421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T12:06:40.6875371+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1886,7 +1891,7 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 80,
       "UsersEstimate": 4
     },
@@ -1934,7 +1939,7 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -1944,7 +1949,7 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1975,7 +1980,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 0
     }
   ],
@@ -1983,8 +1988,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:06:20.3678025+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T10:58:48.3006638+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:59:16.75147+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:06:20.3678339+00:00"
+  "LastChanged_Achievements": "2023-09-16T12:06:40.6875365+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T11:57:31.3171968+00:00",
+  "LastUpdate_Ratings": "2023-09-16T12:00:10.3214394+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:06:40.6875567+00:00"
 }

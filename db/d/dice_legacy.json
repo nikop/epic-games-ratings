@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1624,6 +1624,11 @@
       "Time": "2023-09-16T08:04:13.8990055+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T12:05:34.6864756+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1763,7 +1768,7 @@
       "Name": "Incredible Strength",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ENDING_TRUE",
@@ -1841,9 +1846,9 @@
       "ID": "RUIN_CLEAR",
       "SetID": "6ohhfoc",
       "Name": "Hidden Secrets",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 52
     },
     {
       "ID": "SUMMON_BOSS",
@@ -1994,7 +1999,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 0
     }
   ],
@@ -2002,8 +2007,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:04:45.008384+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:05:34.686475+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.3964182+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:58:05.0386875+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:04:45.0084371+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:59:23.1409671+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:05:34.6865196+00:00"
 }

@@ -53,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 2.00% | ~279 |
 | Just Difficulty | 2.00% | ~279 |
 | Artisans | 2.00% | ~279 |
+| Sages | 2.00% | ~279 |
 | Furious Family | 2.00% | ~279 |
 | Acropolis | 2.00% | ~279 |
 | Apadana | 2.00% | ~279 |
@@ -83,7 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 1.00% | ~139 |
 | Champions | 1.00% | ~139 |
 | Patrons | 1.00% | ~139 |
-| Sages | 1.00% | ~139 |
+| Riders | 1.00% | ~139 |
 | Statesmen | 1.00% | ~139 |
 | Traders | 1.00% | ~139 |
 | Hittite Iron | 1.00% | ~139 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~139 |
 | Devout | 0.90% | ~125 |
 | Landowners | 0.90% | ~125 |
-| Riders | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
 | Industrial Progress | 0.90% | ~125 |
 | Military Prestige | 0.90% | ~125 |
@@ -141,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
 | Noble Difficulty | 0.50% | ~70 |
+| Persia | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
 | Play a Network Game | 0.50% | ~70 |
 | Cataphract Archer | 0.50% | ~70 |
@@ -148,7 +149,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.40% | ~56 |
 | The Eternal Treaty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
-| Persia | 0.40% | ~56 |
 | Capturing Cities | 0.40% | ~56 |
 | Ten Crowns | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
@@ -166,6 +166,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.30% | ~42 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
+| Pantheon in Roma | 0.30% | ~42 |
 | Siege Tower | 0.30% | ~42 |
 | Patriarch St Paul | 0.30% | ~42 |
 | Hypatia the Teacher | 0.30% | ~42 |
@@ -188,7 +189,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.20% | ~28 |
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
-| Pantheon in Roma | 0.20% | ~28 |
 | Word of God | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,940 (Ranked 123)  
+Progressed: 13,943 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,940 | 5 |
+| 2023-09-16 | 13,943 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

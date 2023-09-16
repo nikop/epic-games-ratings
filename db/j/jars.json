@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_EQUIP_PERK",
@@ -394,8 +394,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:08:33.7054414+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T10:58:20.2025191+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:03:59.2990524+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:08:33.70546+00:00"
+  "LastChanged_Achievements": "2023-09-16T12:08:15.4412552+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T11:59:02.9837098+00:00",
+  "LastUpdate_Ratings": "2023-09-16T12:04:30.2210681+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:08:15.4412709+00:00"
 }

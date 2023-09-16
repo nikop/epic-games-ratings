@@ -1,12 +1,12 @@
 # Tiny Tina's Wonderlands
 [Store](https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands)  
 [View Rawdata](../../db/t/tiny_tina's_wonderlands.json)  
-Rating: 4.57 (Ranked 449)  
+Rating: 4.57 (Ranked 450)  
 Number of Ratings: 20,753  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 19,486  (Ranked 19)  
-Sum: 34,413 (Ranked 35)  
-Diff (max vs sum): -16  
+Sum: 34,413 (Ranked 36)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 19,486 |

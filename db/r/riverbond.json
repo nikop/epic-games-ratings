@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527407,
+  "EOS_Progressed": 527408,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -16389,6 +16389,11 @@
       "Time": "2023-09-16T11:09:25.8351625+00:00",
       "NumProgressed": 527407,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-16T12:09:11.9058485+00:00",
+      "NumProgressed": 527408,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 57,
@@ -16408,7 +16413,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237333
+      "UsersEstimate": 237334
     },
     {
       "ID": "11",
@@ -16416,7 +16421,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369185
+      "UsersEstimate": 369186
     },
     {
       "ID": "12",
@@ -16480,7 +16485,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326992
+      "UsersEstimate": 326993
     },
     {
       "ID": "2",
@@ -16520,7 +16525,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36918
+      "UsersEstimate": 36919
     },
     {
       "ID": "24",
@@ -16600,7 +16605,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36918
+      "UsersEstimate": 36919
     },
     {
       "ID": "33",
@@ -16656,7 +16661,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179318
+      "UsersEstimate": 179319
     },
     {
       "ID": "4",
@@ -16728,7 +16733,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326992
+      "UsersEstimate": 326993
     },
     {
       "ID": "48",
@@ -16736,7 +16741,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105481
+      "UsersEstimate": 105482
     },
     {
       "ID": "49",
@@ -16744,7 +16749,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179318
+      "UsersEstimate": 179319
     },
     {
       "ID": "5",
@@ -16776,7 +16781,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242607
+      "UsersEstimate": 242608
     },
     {
       "ID": "53",
@@ -16855,15 +16860,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527407,
+      "Progressed": 527408,
       "Completed": 474
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:09:25.8351621+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:09:11.905848+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:22.714106+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:58:26.6852359+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:09:25.8353135+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:59:35.6275585+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:09:11.9059933+00:00"
 }

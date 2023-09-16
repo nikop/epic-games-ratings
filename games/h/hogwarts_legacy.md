@@ -5,12 +5,12 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,538 |
-| First Class Student | 13.00% | ~38,571 |
-| A Keen Sense of Spell | 12.00% | ~35,604 |
-| Troll with the Punches | 12.00% | ~35,604 |
-| A Talent for Spending | 11.00% | ~32,637 |
-| That's a Keeper | 11.00% | ~32,637 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,539 |
+| First Class Student | 13.00% | ~38,572 |
+| A Keen Sense of Spell | 12.00% | ~35,605 |
+| Troll with the Punches | 12.00% | ~35,605 |
+| A Talent for Spending | 11.00% | ~32,638 |
+| That's a Keeper | 11.00% | ~32,638 |
 | Grappling with a Graphorn | 10.00% | ~29,670 |
 | The One Who Mastered Memories | 10.00% | ~29,670 |
 | The Hallowed Hero | 10.00% | ~29,670 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,703 (Ranked 43)  
+Progressed: 296,705 (Ranked 43)  
 Completed: 471 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 471 (0.16%) (Ranked 203)
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
-| 2023-09-16 | 296,703 | 471 |
+| 2023-09-16 | 296,705 | 471 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
 Sum: 43,402 (Ranked 30)  

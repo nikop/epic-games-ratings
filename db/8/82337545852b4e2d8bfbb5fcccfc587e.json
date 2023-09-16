@@ -197,9 +197,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 70,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "EpicACHV_12",
@@ -213,9 +213,9 @@
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "EpicACHV_14",
@@ -324,8 +324,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:05:26.0222896+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:06:02.3824467+00:00",
   "LastUpdate_AppInfo": "2023-09-13T05:57:11.6073515+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:00:18.6170169+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:05:26.0223043+00:00"
+  "LastUpdate_Ratings": "2023-09-16T12:00:54.6130167+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:06:02.3824598+00:00"
 }

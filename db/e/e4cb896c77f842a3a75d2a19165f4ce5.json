@@ -2,9 +2,9 @@
   "ID": "e4cb896c77f842a3a75d2a19165f4ce5",
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.41,
+  "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -1231,6 +1231,11 @@
       "Time": "2023-09-16T05:06:53.155302+00:00",
       "NumProgressed": 411,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-16T12:10:05.6640095+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 11,
@@ -1242,7 +1247,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "LEVEL_003",
@@ -1250,7 +1255,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "LEVEL_004",
@@ -1258,7 +1263,7 @@
       "Name": "Two-story house",
       "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "LEVEL_006",
@@ -1266,15 +1271,15 @@
       "Name": "Market",
       "Percentage": 59,
       "XP": 95,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 95,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_017",
@@ -1329,14 +1334,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:09:45.5214195+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:10:05.664009+00:00",
   "LastUpdate_AppInfo": "2023-09-11T21:57:06.6069937+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:03:22.9732341+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:09:45.5214402+00:00"
+  "LastUpdate_Ratings": "2023-09-16T12:03:09.8850568+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:10:05.6640265+00:00"
 }

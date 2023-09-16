@@ -7692,9 +7692,9 @@
       "Count": 650
     }
   ],
-  "EOS_Progressed": 296703,
+  "EOS_Progressed": 296705,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23822,6 +23822,11 @@
       "Time": "2023-09-16T11:05:20.5020444+00:00",
       "NumProgressed": 296703,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-09-16T12:05:58.4568386+00:00",
+      "NumProgressed": 296705,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 45,
@@ -23833,7 +23838,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41538
+      "UsersEstimate": 41539
     },
     {
       "ID": "PFA_10",
@@ -23953,7 +23958,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35604
+      "UsersEstimate": 35605
     },
     {
       "ID": "PFA_24",
@@ -24017,7 +24022,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32637
+      "UsersEstimate": 32638
     },
     {
       "ID": "PFA_31",
@@ -24161,7 +24166,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38571
+      "UsersEstimate": 38572
     },
     {
       "ID": "PFA_7",
@@ -24169,7 +24174,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35604
+      "UsersEstimate": 35605
     },
     {
       "ID": "PFA_8",
@@ -24177,7 +24182,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32637
+      "UsersEstimate": 32638
     },
     {
       "ID": "PFA_9",
@@ -24192,7 +24197,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296703,
+      "Progressed": 296705,
       "Completed": 471
     }
   ],
@@ -24200,8 +24205,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-16T08:57:05.2852737+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:05:20.502044+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:05:58.4568378+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:57:47.3583206+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:05:20.5021961+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:59:09.9776512+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:05:58.4569701+00:00"
 }

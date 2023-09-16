@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 279,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 153,
@@ -1110,7 +1110,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5127,
+  "EOS_Progressed": 5128,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -9645,6 +9645,11 @@
       "Time": "2023-09-16T11:05:29.3982816+00:00",
       "NumProgressed": 5127,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-16T12:06:04.813419+00:00",
+      "NumProgressed": 5128,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9752,7 +9757,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9776,7 +9781,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -9975,15 +9980,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5127,
+      "Progressed": 5128,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-14T16:01:20.4133159+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:05:29.398281+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:06:04.8134184+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:02:31.2138234+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:05:29.3983974+00:00"
+  "LastUpdate_Ratings": "2023-09-16T12:02:31.6975615+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:06:04.8134983+00:00"
 }

@@ -23,7 +23,7 @@
 | Can't bear the weight | 8.00% | ~7 |
 | Egg On His Face | 8.00% | ~7 |
 | Mr. Magic | 8.00% | ~7 |
-| Batteries not Included | 7.00% | ~6 |
+| Batteries not Included | 8.00% | ~7 |
 | What a Winner! | 5.00% | ~5 |
 | Master Cave Plunderer | 4.00% | ~4 |
 | Colossal Cave Explorer | 3.00% | ~3 |

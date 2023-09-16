@@ -2,12 +2,12 @@
   "ID": "917551a8060244469eb4e6ab8a99cf24",
   "Name": "Amnesia: The Dark Descent",
   "ProductSlug": "amnesia-the-dark-descent",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 450,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -453,7 +453,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:24.3819232+00:00",
   "LastChanged": "2023-06-10T22:57:47.8528612+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T10:58:31.0281898+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:58:20.7792819+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:08:12.8102853+00:00"
+  "LastUpdate_AppInfo": "2023-09-16T11:57:06.8918112+00:00",
+  "LastUpdate_Ratings": "2023-09-16T11:59:32.5233455+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:08:00.1585403+00:00"
 }

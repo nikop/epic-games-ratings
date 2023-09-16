@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 367,
+  "Ranking_Rating": 368,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 66,
@@ -5304,9 +5304,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 175093,
+  "EOS_Progressed": 175107,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2199,
+  "EOS_NewPlayers": 2197,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21929,6 +21929,11 @@
       "Time": "2023-09-16T11:05:23.1040406+00:00",
       "NumProgressed": 175093,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-16T12:06:00.3740206+00:00",
+      "NumProgressed": 175107,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -21948,7 +21953,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "Achievement_10",
@@ -21972,7 +21977,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28015
+      "UsersEstimate": 28017
     },
     {
       "ID": "Achievement_13",
@@ -22020,7 +22025,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 45524
+      "UsersEstimate": 45528
     },
     {
       "ID": "Achievement_5",
@@ -22052,7 +22057,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 15758
+      "UsersEstimate": 15760
     },
     {
       "ID": "Achievement_9",
@@ -22067,15 +22072,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 175093,
+      "Progressed": 175107,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-16T10:58:51.3989659+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:05:23.1040402+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T10:59:05.8891241+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:58:51.3989667+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:05:23.1041564+00:00"
+  "LastChanged_Achievements": "2023-09-16T12:06:00.3740197+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T11:57:16.8578557+00:00",
+  "LastUpdate_Ratings": "2023-09-16T11:59:55.103614+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:06:00.3741287+00:00"
 }

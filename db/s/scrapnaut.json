@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,11 +135,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -1130,6 +1130,11 @@
       "Time": "2023-09-15T21:05:45.524967+00:00",
       "NumProgressed": 377,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T12:07:51.3407664+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1141,7 +1146,7 @@
       "Name": "Digger",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1195,9 +1200,9 @@
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -1213,7 +1218,7 @@
       "Name": "Master Of Management",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -1221,7 +1226,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1229,7 +1234,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_COOK",
@@ -1331,9 +1336,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1349,7 +1354,7 @@
       "Name": "Smelter",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -1357,7 +1362,7 @@
       "Name": "Survivor",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -1365,7 +1370,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -1379,16 +1384,16 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 1
     }
   ],
@@ -1396,8 +1401,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:08:00.1832715+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T10:58:50.3960125+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:00:00.7037572+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:08:00.1833323+00:00"
+  "LastChanged_Achievements": "2023-09-16T12:07:51.3407659+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T11:57:58.717197+00:00",
+  "LastUpdate_Ratings": "2023-09-16T12:00:40.8534795+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:07:51.3407933+00:00"
 }

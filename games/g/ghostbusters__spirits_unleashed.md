@@ -6,6 +6,7 @@ Rating: 4.50 (Ranked 565)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Advancement | 0.20% | ~52 |
+| Discovery | 0.20% | ~52 |
 | Meticulously Efficient | 0.20% | ~52 |
 | Solo Capture | 0.20% | ~52 |
 | Stylish | 0.20% | ~52 |
@@ -21,7 +22,6 @@ Rating: 4.50 (Ranked 565)
 | Cultured | 0.10% | ~26 |
 | Daily Dose | 0.10% | ~26 |
 | Diabolical | 0.10% | ~26 |
-| Discovery | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Ectoplasmic Entity | 0.10% | ~26 |
 | Escape Artist | 0.10% | ~26 |

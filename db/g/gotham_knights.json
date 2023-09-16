@@ -2948,9 +2948,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72575,
+  "EOS_Progressed": 72576,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15623,6 +15623,11 @@
       "Time": "2023-09-16T09:03:19.8260067+00:00",
       "NumProgressed": 72575,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-16T12:05:17.6075181+00:00",
+      "NumProgressed": 72576,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15834,7 +15839,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4355
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -15888,9 +15893,9 @@
       "ID": "FREEZE_SHOWDOWN_1",
       "SetID": "18c818l",
       "Name": "Icebreaker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 343
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -15938,7 +15943,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25401
+      "UsersEstimate": 25402
     },
     {
       "ID": "HARLEY_2",
@@ -15978,7 +15983,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37739
+      "UsersEstimate": 37740
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16018,7 +16023,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4355
     },
     {
       "ID": "MYSTERY_01",
@@ -16042,7 +16047,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15966
+      "UsersEstimate": 15967
     },
     {
       "ID": "MYSTERY_04",
@@ -16121,13 +16126,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72575,
+      "Progressed": 72576,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42855,
+      "Progressed": 42856,
       "Completed": 2663
     }
   ],
@@ -16135,8 +16140,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-16T04:58:56.9999844+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:04:21.3278138+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:01:03.2714322+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:04:21.3279633+00:00"
+  "LastChanged_Achievements": "2023-09-16T12:05:17.6075175+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
+  "LastUpdate_Ratings": "2023-09-16T12:01:25.361471+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:05:17.6076513+00:00"
 }

@@ -9,6 +9,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.20% | ~1,430 |
 | The Assault | 0.20% | ~1,430 |
 | The Hateful Pole Fighter | 0.20% | ~1,430 |
+| Stuntmaster | 0.20% | ~1,430 |
 | Street Fighting | 0.20% | ~1,430 |
 | Life is your teacher | 0.20% | ~1,430 |
 | State of constant learning | 0.20% | ~1,430 |
@@ -31,7 +32,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.10% | ~715 |
 | Knowledge Greed | 0.10% | ~715 |
 | Healing Memory | 0.10% | ~715 |
-| Stuntmaster | 0.10% | ~715 |
 | Dance of the Praying Mantis | 0.10% | ~715 |
 | Qi Gong: Mind | 0.10% | ~715 |
 | Qi Gong: Breath | 0.10% | ~715 |
@@ -219,7 +219,7 @@ Completed: 12,895 (1.80%) (Ranked 102)
 | 2023-09-16 | 715,028 | 12,895 |
 ## Awards
 Max (Great Boss Battles): 6,512  (Ranked 53)  
-Sum: 11,249 (Ranked 81)  
+Sum: 11,251 (Ranked 81)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): -28
 | This game has Diverse Characters | 598 |
 | This game has Challenging Combat | 562 |
 | This game has Quickly Understood Controls | 549 |
-| This game has Amazing Storytelling | 543 |
+| This game has Amazing Storytelling | 545 |
 | This game is Extremely Fun | 537 |
 | This game has Amazing Characters | 535 |
 | This game is Highly Recommended | 533 |
@@ -480,4 +480,4 @@ Diff (max vs sum): -28
 | 2023-09-13 | 4.82 | - | 6,494 | 11,212 |
 | 2023-09-14 | 4.82 | - | 6,501 | 11,229 |
 | 2023-09-15 | 4.82 | - | 6,512 | 11,247 |
-| 2023-09-16 | 4.82 | - | 6,512 | 11,249 |
+| 2023-09-16 | 4.82 | - | 6,512 | 11,251 |

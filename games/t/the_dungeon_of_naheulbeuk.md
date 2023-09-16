@@ -1,14 +1,14 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 416)  
+Rating: 4.59 (Ranked 417)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,316 |
-| Alt+F4 | 5.00% | ~11,219 |
-| Where's that freaking Dwarf? | 4.00% | ~8,975 |
+| Sowwy! | 30.00% | ~67,321 |
+| Alt+F4 | 5.00% | ~11,220 |
+| Where's that freaking Dwarf? | 4.00% | ~8,976 |
 | Déjà vu | 3.00% | ~6,732 |
 | Sock! SOCK! | 3.00% | ~6,732 |
 | Speedrun | 3.00% | ~6,732 |
@@ -34,11 +34,11 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,244 |
 | Team Building Exercise | 1.00% | ~2,244 |
 | Oh, when I'll be level 10... | 1.00% | ~2,244 |
-| Res Judicata | 0.90% | ~2,019 |
-| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,019 |
-| Dwarf Fortress | 0.90% | ~2,019 |
-| %#*!$*! | 0.90% | ~2,019 |
-| Look but don't touch | 0.90% | ~2,019 |
+| Res Judicata | 0.90% | ~2,020 |
+| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,020 |
+| Dwarf Fortress | 0.90% | ~2,020 |
+| %#*!$*! | 0.90% | ~2,020 |
+| Look but don't touch | 0.90% | ~2,020 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,795 |
 | Lust and Debauchery | 0.70% | ~1,571 |
 | Material Girl | 0.70% | ~1,571 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,387 (Ranked 57)  
+Progressed: 224,402 (Ranked 57)  
 Completed: 3 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 3 (0.00%) (Ranked 275)
 | 2023-09-13 | 223,808 | 2 |
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
-| 2023-09-16 | 224,387 | 3 |
+| 2023-09-16 | 224,402 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 335 (Ranked 337)  

@@ -9,21 +9,21 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~236,608 |
 | He's Signed! | 50.00% | ~236,608 |
 | First Victory | 50.00% | ~236,608 |
-| He's Sold! | 48.00% | ~227,143 |
-| I'm The Boss! | 42.00% | ~198,750 |
-| Hat-trick | 41.00% | ~194,018 |
+| He's Sold! | 48.00% | ~227,144 |
+| I'm The Boss! | 42.00% | ~198,751 |
+| Hat-trick | 41.00% | ~194,019 |
 | Scoring Streak | 38.00% | ~179,822 |
 | Unbeatable! | 37.00% | ~175,090 |
 | Thumping | 37.00% | ~175,090 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,625 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,626 |
 | Total Support | 32.00% | ~151,429 |
 | Record Signing | 32.00% | ~151,429 |
 | He's a Natural | 31.00% | ~146,697 |
 | Millionaire's Club | 31.00% | ~146,697 |
-| Team Performance | 30.00% | ~141,964 |
-| Parked The Bus | 29.00% | ~137,232 |
-| Shrewd Spender | 29.00% | ~137,232 |
-| Star Man | 29.00% | ~137,232 |
+| Team Performance | 30.00% | ~141,965 |
+| Parked The Bus | 29.00% | ~137,233 |
+| Shrewd Spender | 29.00% | ~137,233 |
+| Star Man | 29.00% | ~137,233 |
 | Attack! | 28.00% | ~132,500 |
 | Tremendous Trio | 27.00% | ~127,768 |
 | You're On Fire | 26.00% | ~123,036 |
@@ -35,11 +35,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Full Faith | 24.00% | ~113,572 |
 | Iron Curtain | 24.00% | ~113,572 |
 | The Boss | 24.00% | ~113,572 |
-| Top Of The Class | 23.00% | ~108,839 |
-| Goal Machine | 23.00% | ~108,839 |
-| Clean Bill of Health | 22.00% | ~104,107 |
-| What A Goal! | 22.00% | ~104,107 |
-| Cup Glory! | 22.00% | ~104,107 |
+| Top Of The Class | 23.00% | ~108,840 |
+| Goal Machine | 23.00% | ~108,840 |
+| Clean Bill of Health | 22.00% | ~104,108 |
+| What A Goal! | 22.00% | ~104,108 |
+| Cup Glory! | 22.00% | ~104,108 |
 | Splashing The Cash | 21.00% | ~99,375 |
 | Irresistible Force | 20.00% | ~94,643 |
 | Excellent Match Cohesion | 20.00% | ~94,643 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~473 |
 | Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,215 (Ranked 36)  
+Progressed: 473,216 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,10 +254,10 @@ Completed: 21 (0.00%) (Ranked 275)
 | 2023-09-13 | 473,093 | 21 |
 | 2023-09-14 | 473,144 | 21 |
 | 2023-09-15 | 473,189 | 21 |
-| 2023-09-16 | 473,215 | 21 |
+| 2023-09-16 | 473,216 | 21 |
 ## Awards
 Max (Relaxing): 6,447  (Ranked 54)  
-Sum: 50,720 (Ranked 25)  
+Sum: 50,723 (Ranked 25)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -266,7 +266,7 @@ Diff (max vs sum): 29
 | This game has Competitive Players | 5,878 |
 | This game has Quickly Understood Controls | 5,860 |
 | This game is Highly Recommended | 5,849 |
-| This game is Educational | 5,845 |
+| This game is Educational | 5,848 |
 | This game has Diverse Characters | 5,521 |
 | This game has Amazing Storytelling | 4,905 |
 | This game has Obsessive Gameplay | 4,416 |
@@ -508,4 +508,4 @@ Diff (max vs sum): 29
 | 2023-09-13 | 4.80 | - | 6,440 | 50,704 |
 | 2023-09-14 | 4.80 | - | 6,443 | 50,710 |
 | 2023-09-15 | 4.80 | - | 6,447 | 50,716 |
-| 2023-09-16 | 4.80 | - | 6,447 | 50,720 |
+| 2023-09-16 | 4.80 | - | 6,447 | 50,723 |

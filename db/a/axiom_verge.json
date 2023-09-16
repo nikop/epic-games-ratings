@@ -2,12 +2,12 @@
   "ID": "puffin",
   "Name": "AXIOM VERGE",
   "ProductSlug": "axiom-verge",
-  "Ranking_Rating": 468,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2015-05-14T15:00:00+00:00",
@@ -415,7 +415,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
   "LastChanged": "2023-09-12T15:58:52.5084704+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T10:57:45.7232855+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:02:07.1009669+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:05:48.8259196+00:00"
+  "LastUpdate_AppInfo": "2023-09-16T11:58:54.6261853+00:00",
+  "LastUpdate_Ratings": "2023-09-16T12:02:15.172733+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:06:18.0289873+00:00"
 }

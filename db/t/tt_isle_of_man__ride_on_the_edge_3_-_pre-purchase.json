@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -915,9 +915,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:09:08.9082184+00:00",
+  "LastChanged_Achievements": "2023-09-16T12:08:40.6000175+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.5809683+00:00",
-  "LastUpdate_Ratings": "2023-09-16T10:58:06.582988+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:09:08.908287+00:00"
+  "LastUpdate_Ratings": "2023-09-16T11:59:23.6170002+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:08:40.6000549+00:00"
 }

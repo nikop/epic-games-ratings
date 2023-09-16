@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1102,
+  "EOS_Progressed": 1103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1375,6 +1375,11 @@
       "Time": "2023-09-16T09:07:27.3645752+00:00",
       "NumProgressed": 1102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T12:08:17.6267924+00:00",
+      "NumProgressed": 1103,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1418,7 +1423,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "06",
@@ -1426,7 +1431,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "07",
@@ -1434,7 +1439,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "08",
@@ -1450,7 +1455,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "10",
@@ -1458,7 +1463,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "11",
@@ -1514,7 +1519,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "18",
@@ -1522,7 +1527,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "19",
@@ -1562,14 +1567,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1102,
+      "Progressed": 1103,
       "Completed": 0
     }
   ],
@@ -1577,8 +1582,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:08:36.9913745+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T11:00:01.2669588+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:01:13.0304513+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:08:36.9914162+00:00"
+  "LastChanged_Achievements": "2023-09-16T12:08:17.6267918+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T11:58:39.0630202+00:00",
+  "LastUpdate_Ratings": "2023-09-16T12:01:34.9033642+00:00",
+  "LastUpdate_Achievements": "2023-09-16T12:08:17.6268138+00:00"
 }
