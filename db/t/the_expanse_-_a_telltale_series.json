@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10616,
+  "EOS_Progressed": 10619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5466,6 +5466,11 @@
       "Time": "2023-09-16T04:09:15.2428228+00:00",
       "NumProgressed": 10616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T06:08:18.7489417+00:00",
+      "NumProgressed": 10619,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5526,7 +5531,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "16",
@@ -5670,7 +5675,7 @@
       "Name": "Debris Spree",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "5",
@@ -5710,14 +5715,14 @@
       "Name": "Impossible Objects",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10616,
+      "Progressed": 10619,
       "Completed": 0
     }
   ],
@@ -5725,8 +5730,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:08:16.3709725+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:08:18.7489409+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:58:28.2638561+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:08:16.371027+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:58:37.3365097+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:08:18.7490402+00:00"
 }

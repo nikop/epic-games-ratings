@@ -7686,9 +7686,9 @@
       "Count": 650
     }
   ],
-  "EOS_Progressed": 296689,
+  "EOS_Progressed": 296691,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23786,6 +23786,11 @@
       "Time": "2023-09-16T05:03:41.5535319+00:00",
       "NumProgressed": 296689,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-16T06:04:06.9427705+00:00",
+      "NumProgressed": 296691,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23797,7 +23802,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41536
+      "UsersEstimate": 41537
     },
     {
       "ID": "PFA_10",
@@ -23933,7 +23938,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14834
+      "UsersEstimate": 14835
     },
     {
       "ID": "PFA_26",
@@ -23965,7 +23970,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14834
+      "UsersEstimate": 14835
     },
     {
       "ID": "PFA_3",
@@ -24077,7 +24082,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14834
+      "UsersEstimate": 14835
     },
     {
       "ID": "PFA_42",
@@ -24156,7 +24161,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296689,
+      "Progressed": 296691,
       "Completed": 470
     }
   ],
@@ -24164,8 +24169,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-16T03:57:20.04929+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:03:41.5535311+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:04:06.9427691+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:56:52.5437868+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:03:41.5536746+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:57:02.7936606+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:04:06.9430176+00:00"
 }

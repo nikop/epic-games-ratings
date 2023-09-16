@@ -2948,9 +2948,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72571,
+  "EOS_Progressed": 72572,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15608,6 +15608,11 @@
       "Time": "2023-09-16T05:02:21.2642241+00:00",
       "NumProgressed": 72571,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-16T06:03:26.576704+00:00",
+      "NumProgressed": 72572,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15667,7 +15672,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15715,7 +15720,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "CLAYFACE_1",
@@ -15859,7 +15864,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13788
+      "UsersEstimate": 13789
     },
     {
       "ID": "FREEZE_3",
@@ -15947,7 +15952,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16106,13 +16111,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72571,
+      "Progressed": 72572,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42851,
+      "Progressed": 42852,
       "Completed": 2663
     }
   ],
@@ -16120,8 +16125,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-16T04:58:56.9999844+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:02:21.2642237+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:03:26.5767033+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:58:56.9999852+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:02:21.2643675+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:59:15.4187126+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:03:26.5768471+00:00"
 }

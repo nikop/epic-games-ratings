@@ -718,9 +718,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5796,
+  "EOS_Progressed": 5797,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7463,6 +7463,11 @@
       "Time": "2023-09-16T03:06:56.8871893+00:00",
       "NumProgressed": 5796,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T06:05:50.7616465+00:00",
+      "NumProgressed": 5797,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7474,7 +7479,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7490,7 +7495,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 3999
+      "UsersEstimate": 4000
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7498,7 +7503,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -7522,7 +7527,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -7642,7 +7647,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -7753,13 +7758,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5796,
+      "Progressed": 5797,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5168,
+      "Progressed": 5169,
       "Completed": 112
     }
   ],
@@ -7767,8 +7772,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-14T17:59:14.7309669+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:05:28.1861919+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:05:50.7616457+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:41.605376+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:59:23.8729414+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:05:28.1862622+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:59:39.9766479+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:05:50.7617718+00:00"
 }

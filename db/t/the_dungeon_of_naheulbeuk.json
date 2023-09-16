@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 416,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 45,
@@ -862,10 +862,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 315,
       "NumberOfAwardsMax": 196
+    },
+    {
+      "Time": "2023-09-16T05:58:03.2399411+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 335,
+      "NumberOfAwardsMax": 196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 315,
+  "NumberOfAwards": 335,
   "NumberOfAwardsMax": 196,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -904,11 +910,17 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 224331,
+  "EOS_Progressed": 224341,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1933,
+  "EOS_NewPlayers": 1930,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11041,6 +11053,11 @@
       "Time": "2023-09-16T05:08:24.8318179+00:00",
       "NumProgressed": 224331,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T06:09:06.9440488+00:00",
+      "NumProgressed": 224341,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11452,7 +11469,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8973
+      "UsersEstimate": 8974
     },
     {
       "ID": "DwarfElf15Support",
@@ -11500,7 +11517,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67299
+      "UsersEstimate": 67302
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11755,21 +11772,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224331,
+      "Progressed": 224341,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224331,
+      "Progressed": 224341,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-15T16:58:57.5438687+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:08:24.8318175+00:00",
+  "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:09:06.9440475+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:57:55.0339688+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:08:24.8319811+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:58:03.2399413+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:09:06.9443477+00:00"
 }

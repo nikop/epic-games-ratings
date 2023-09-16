@@ -9,20 +9,20 @@ Number of Ratings: 285  (23.09.2022)
 | Debuff Dogpile | 4.00% | ~88 |
 | Faceroll the Bones | 4.00% | ~88 |
 | Hit 'Em Where It Hurts | 4.00% | ~88 |
+| Mushroom Madness! | 4.00% | ~88 |
+| Perk Shard Punch Card | 4.00% | ~88 |
 | That'll Leave a Mark | 4.00% | ~88 |
+| Death Becomes You | 3.00% | ~66 |
 | Everything Must Go! | 3.00% | ~66 |
 | Horder Better Faster Stronger | 3.00% | ~66 |
-| Mushroom Madness! | 3.00% | ~66 |
-| Perk Shard Punch Card | 3.00% | ~66 |
 | Spending Spree | 3.00% | ~66 |
+| Ten Steps from the Grave | 3.00% | ~66 |
 | Cold-Blooded Critters | 2.00% | ~44 |
-| Death Becomes You | 2.00% | ~44 |
 | First Strike | 2.00% | ~44 |
 | Flawless Victory | 2.00% | ~44 |
-| Ten Steps from the Grave | 2.00% | ~44 |
+| The Harder They Fall | 1.00% | ~22 |
 | Next Time on MythForce... | 1.00% | ~22 |
-| The Harder They Fall | 0.90% | ~20 |
-| Deadication | 0.80% | ~18 |
+| Deadication | 0.90% | ~20 |
 | Season Finale | 0.60% | ~13 |
 | The Fourth Gate | 0.50% | ~11 |
 | On this Episode! | 0.50% | ~11 |

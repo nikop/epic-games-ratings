@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4053,
+  "EOS_Progressed": 4054,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6534,6 +6534,11 @@
       "Time": "2023-09-16T04:08:16.9140886+00:00",
       "NumProgressed": 4053,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-16T06:06:47.8523539+00:00",
+      "NumProgressed": 4054,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -7041,7 +7046,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Ach064",
@@ -7112,13 +7117,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4053,
+      "Progressed": 4054,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2574,
+      "Progressed": 2575,
       "Completed": 1929
     }
   ],
@@ -7126,8 +7131,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:06:24.7119405+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:06:47.8523528+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:57:27.1900976+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:06:24.7120607+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:57:36.9224243+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:06:47.8525628+00:00"
 }

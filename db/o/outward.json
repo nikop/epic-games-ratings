@@ -4483,9 +4483,9 @@
       "ID": "LightofLevant_18",
       "SetID": "c4hee28",
       "Name": "Light of Levant",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 134
     },
     {
       "ID": "MagicIsaScience_58",
@@ -4691,8 +4691,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-12T04:00:16.8611299+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:03:14.9981013+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:03:39.8433762+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:16.1068917+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:57:42.4832698+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:03:14.9981588+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:57:51.6103127+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:03:39.843476+00:00"
 }

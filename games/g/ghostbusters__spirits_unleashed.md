@@ -5,12 +5,12 @@ Rating: 4.50 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Advancement | 0.20% | ~52 |
 | Meticulously Efficient | 0.20% | ~52 |
 | Solo Capture | 0.20% | ~52 |
 | Stylish | 0.20% | ~52 |
 | Teamwork | 0.20% | ~52 |
 | Vaporous Expansion | 0.20% | ~52 |
-| Advancement | 0.10% | ~26 |
 | Animated | 0.10% | ~26 |
 | Back Off | 0.10% | ~26 |
 | We have the best insurance | 0.10% | ~26 |

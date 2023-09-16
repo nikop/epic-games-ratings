@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.50% | ~681 |
 | For the Hoard! | 0.50% | ~681 |
 | Scrapbooker | 0.50% | ~681 |
+| Locally Sourced | 0.50% | ~681 |
 | Flying off the Shelves | 0.50% | ~681 |
 | This Power Level...! | 0.50% | ~681 |
 | Hidden Potential | 0.50% | ~681 |
@@ -70,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.40% | ~545 |
 | Booty by the Boatload | 0.40% | ~545 |
 | Archivist | 0.40% | ~545 |
-| Locally Sourced | 0.40% | ~545 |
 | Industrial Evolution | 0.40% | ~545 |
 | Omae wa Mou Shindeiru | 0.40% | ~545 |
 | Master of Transmutation | 0.40% | ~545 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,233 (Ranked 69)  
+Progressed: 136,234 (Ranked 69)  
 Completed: 151 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 151 (0.11%) (Ranked 218)
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
 | 2023-09-15 | 136,220 | 151 |
-| 2023-09-16 | 136,233 | 151 |
+| 2023-09-16 | 136,234 | 151 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 71)  
 Sum: 27,234 (Ranked 48)  

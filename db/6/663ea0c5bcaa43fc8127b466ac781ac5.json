@@ -4,7 +4,7 @@
   "ProductSlug": "evil-wizard-e4f80f",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-20T16:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T14:02:53.8465264+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:03:17.931003+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:03:42.9592221+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:57:03.5090498+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:57:36.8420042+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:03:17.9310059+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:57:45.7587708+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:03:42.9592269+00:00"
 }

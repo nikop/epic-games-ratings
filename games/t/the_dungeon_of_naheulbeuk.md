@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,299 |
+| Sowwy! | 30.00% | ~67,302 |
 | Alt+F4 | 5.00% | ~11,217 |
-| Where's that freaking Dwarf? | 4.00% | ~8,973 |
+| Where's that freaking Dwarf? | 4.00% | ~8,974 |
 | Déjà vu | 3.00% | ~6,730 |
 | Sock! SOCK! | 3.00% | ~6,730 |
 | Speedrun | 3.00% | ~6,730 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,331 (Ranked 57)  
+Progressed: 224,341 (Ranked 57)  
 Completed: 3 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,11 +203,11 @@ Completed: 3 (0.00%) (Ranked 275)
 | 2023-09-13 | 223,808 | 2 |
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
-| 2023-09-16 | 224,331 | 3 |
+| 2023-09-16 | 224,341 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
-Sum: 315 (Ranked 338)  
-Diff (max vs sum): -63  
+Sum: 335 (Ranked 337)  
+Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 196 |
@@ -216,6 +216,7 @@ Diff (max vs sum): -63
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 21 |
 | This game has Amazing Storytelling | 20 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -351,3 +352,4 @@ Diff (max vs sum): -63
 | 2023-09-13 | 4.59 | - | 194 | 313 |
 | 2023-09-14 | 4.59 | - | 195 | 314 |
 | 2023-09-15 | 4.59 | - | 196 | 315 |
+| 2023-09-16 | 4.59 | - | 196 | 335 |

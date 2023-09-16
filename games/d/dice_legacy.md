@@ -32,8 +32,8 @@ Rating: 4.27 (Ranked 821)
 | Metropolis | 0.70% | ~7 |
 | Six Faces | 0.60% | ~6 |
 | The Great Winter | 0.50% | ~5 |
+| Knowledge is Power | 0.50% | ~5 |
 | Red Tape | 0.40% | ~4 |
-| Knowledge is Power | 0.40% | ~4 |
 | The Incarnate | 0.30% | ~3 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |

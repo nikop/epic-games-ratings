@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43206,
+  "EOS_Progressed": 43207,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15326,6 +15326,11 @@
       "Time": "2023-09-16T05:06:05.6683924+00:00",
       "NumProgressed": 43206,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2023-09-16T06:06:28.7522601+00:00",
+      "NumProgressed": 43207,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 44,
@@ -15337,7 +15342,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24627
+      "UsersEstimate": 24628
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15401,7 +15406,7 @@
       "Name": "Denouement",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 3456
+      "UsersEstimate": 3457
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -15457,7 +15462,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34565
+      "UsersEstimate": 34566
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15513,7 +15518,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9505
+      "UsersEstimate": 9506
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -15529,7 +15534,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 15986
+      "UsersEstimate": 15987
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -15553,7 +15558,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10369
+      "UsersEstimate": 10370
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -15561,7 +15566,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23763
+      "UsersEstimate": 23764
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -15593,7 +15598,7 @@
       "Name": "A Pleasant Stay",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 3456
+      "UsersEstimate": 3457
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -15609,7 +15614,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 28948
+      "UsersEstimate": 28949
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -15673,7 +15678,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40182
+      "UsersEstimate": 40183
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -15681,14 +15686,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22467
+      "UsersEstimate": 22468
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43206,
+      "Progressed": 43207,
       "Completed": 237
     }
   ],
@@ -15696,8 +15701,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:06:05.668392+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:06:28.7522594+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:22.3903109+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:57:35.3305752+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:06:05.6685247+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:57:44.2982958+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:06:28.7524347+00:00"
 }

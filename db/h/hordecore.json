@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 351,
+  "EOS_Progressed": 352,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.13,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-09-10T04:06:04.783559+00:00",
       "NumProgressed": 351,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-16T06:06:39.6428762+00:00",
+      "NumProgressed": 352,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 28,
@@ -172,7 +177,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "10",
@@ -188,7 +193,7 @@
       "Name": "Getting the Hang Of This",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "12",
@@ -260,7 +265,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "20",
@@ -282,9 +287,9 @@
       "ID": "22",
       "SetID": "1530e6b",
       "Name": "Poker-Man",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 70
     },
     {
       "ID": "23",
@@ -300,7 +305,7 @@
       "Name": "Over Nine Thousaaand",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "25",
@@ -340,7 +345,7 @@
       "Name": "Sneaky Sneak",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "4",
@@ -348,7 +353,7 @@
       "Name": "Master of Cards",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "5",
@@ -356,7 +361,7 @@
       "Name": "DIY",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "6",
@@ -395,7 +400,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 351,
+      "Progressed": 352,
       "Completed": 11
     }
   ],
@@ -403,8 +408,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:06:16.5251397+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:06:39.6428754+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.5190511+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:59:17.7292014+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:06:16.5251613+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:59:33.6955378+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:06:39.6429111+00:00"
 }

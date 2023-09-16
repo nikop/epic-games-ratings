@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107796,
+  "EOS_Progressed": 107804,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 846,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11036,6 +11036,11 @@
       "Time": "2023-09-16T05:02:18.0500336+00:00",
       "NumProgressed": 107796,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-16T06:03:23.2078555+00:00",
+      "NumProgressed": 107804,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -11055,7 +11060,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81925
+      "UsersEstimate": 81931
     },
     {
       "ID": "EAwards_10",
@@ -11071,7 +11076,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28027
+      "UsersEstimate": 28029
     },
     {
       "ID": "EAwards_12",
@@ -11079,7 +11084,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15091
+      "UsersEstimate": 15093
     },
     {
       "ID": "EAwards_13",
@@ -11119,7 +11124,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38807
+      "UsersEstimate": 38809
     },
     {
       "ID": "EAwards_18",
@@ -11143,7 +11148,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51742
+      "UsersEstimate": 51746
     },
     {
       "ID": "EAwards_20",
@@ -11191,7 +11196,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 20481
+      "UsersEstimate": 20483
     },
     {
       "ID": "EAwards_26",
@@ -11231,7 +11236,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20481
+      "UsersEstimate": 20483
     },
     {
       "ID": "EAwards_30",
@@ -11438,7 +11443,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107796,
+      "Progressed": 107804,
       "Completed": 42
     }
   ],
@@ -11446,8 +11451,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-16T05:02:18.0500329+00:00",
+  "LastChanged_Achievements": "2023-09-16T06:03:23.2078552+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:10.7751349+00:00",
-  "LastUpdate_Ratings": "2023-09-16T05:00:21.1473354+00:00",
-  "LastUpdate_Achievements": "2023-09-16T05:02:18.0501416+00:00"
+  "LastUpdate_Ratings": "2023-09-16T06:00:40.536643+00:00",
+  "LastUpdate_Achievements": "2023-09-16T06:03:23.2079684+00:00"
 }
