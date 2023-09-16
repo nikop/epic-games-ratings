@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2239,
+  "EOS_Progressed": 2240,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1612,6 +1612,11 @@
       "Time": "2023-09-15T23:05:22.003957+00:00",
       "NumProgressed": 2239,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-16T17:05:39.5554303+00:00",
+      "NumProgressed": 2240,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1655,7 +1660,7 @@
       "Name": "The Second Law of Thermodynamics",
       "Percentage": 14,
       "XP": 150,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "complete_tutorial",
@@ -1663,7 +1668,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "deal_damage",
@@ -1671,7 +1676,7 @@
       "Name": "Ouch",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "defeat_enemies",
@@ -1695,7 +1700,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "piercing_beam",
@@ -1727,7 +1732,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1743,7 +1748,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "stick_decoy",
@@ -1751,7 +1756,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "stun_enemies",
@@ -1774,7 +1779,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2239,
+      "Progressed": 2240,
       "Completed": 9
     }
   ],
@@ -1782,8 +1787,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:05:27.9197564+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:05:39.55543+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.3860466+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:01:25.01675+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:05:27.9197751+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:01:44.1305924+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:05:39.5554475+00:00"
 }

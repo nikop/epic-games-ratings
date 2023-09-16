@@ -5,37 +5,37 @@ Rating: 4.27 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 81.00% | ~341 |
-| FIRST BLOOD | 76.00% | ~320 |
-| KEVIN! | 67.00% | ~282 |
-| JACK OF ALL TRADES | 60.00% | ~253 |
-| CRIMINAL | 54.00% | ~227 |
-| GRANDMA WOULD BE PROUD | 44.00% | ~185 |
-| WITHOUT BREAKING A SWEAT | 40.00% | ~168 |
-| HONORS STUDENT | 36.00% | ~152 |
-| BUTCHER | 26.00% | ~109 |
+| MASTER CHEF | 81.00% | ~343 |
+| FIRST BLOOD | 76.00% | ~321 |
+| KEVIN! | 66.00% | ~279 |
+| JACK OF ALL TRADES | 59.00% | ~250 |
+| CRIMINAL | 54.00% | ~228 |
+| GRANDMA WOULD BE PROUD | 44.00% | ~186 |
+| WITHOUT BREAKING A SWEAT | 40.00% | ~169 |
+| HONORS STUDENT | 35.00% | ~148 |
+| BUTCHER | 26.00% | ~110 |
 | RAMBO | 22.00% | ~93 |
-| INDIVIDUAL APPROACH | 21.00% | ~88 |
-| MARTYR | 20.00% | ~84 |
+| INDIVIDUAL APPROACH | 21.00% | ~89 |
+| MARTYR | 20.00% | ~85 |
 | HELL'S KITCHEN | 19.00% | ~80 |
 | CELEBRITY | 17.00% | ~72 |
-| GRATITUDE | 16.00% | ~67 |
-| LAW-ABIDING CITIZEN | 11.00% | ~46 |
+| GRATITUDE | 16.00% | ~68 |
+| LAW-ABIDING CITIZEN | 11.00% | ~47 |
 | PRUDENT | 10.00% | ~42 |
 | PATTY-KILLER | 9.00% | ~38 |
 | GOURMET | 8.00% | ~34 |
 | SCATTERBRAIN | 8.00% | ~34 |
-| EXPERIMENTALIST | 7.00% | ~29 |
+| EXPERIMENTALIST | 7.00% | ~30 |
 | TASTE UNTASTY | 4.00% | ~17 |
 | HIGH TECHNOLOGIES | 3.00% | ~13 |
 | CORRUPTIONIST | 2.00% | ~8 |
 | I'VE SEEN SOME… | 2.00% | ~8 |
 | DEBTOR | 1.00% | ~4 |
-| TRAVELER | 1.00% | ~4 |
+| TRAVELER | 0.90% | ~4 |
 | MISTER ALL THUMBS | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421 (Ranked 258)  
-Completed: 2 (0.48%) (Ranked 157)  
+Progressed: 423 (Ranked 257)  
+Completed: 2 (0.47%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,7 +115,7 @@ Completed: 2 (0.48%) (Ranked 157)
 | 2023-09-10 | 417 | 2 |
 | 2023-09-12 | 418 | 2 |
 | 2023-09-14 | 420 | 2 |
-| 2023-09-16 | 421 | 2 |
+| 2023-09-16 | 423 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

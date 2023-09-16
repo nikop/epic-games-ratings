@@ -244,9 +244,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 229780,
+  "EOS_Progressed": 229784,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15789,6 +15789,11 @@
       "Time": "2023-09-16T16:07:37.673499+00:00",
       "NumProgressed": 229780,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T17:08:10.9717857+00:00",
+      "NumProgressed": 229784,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -15864,7 +15869,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82721
+      "UsersEstimate": 82722
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -15944,7 +15949,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78125
+      "UsersEstimate": 78127
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -15968,7 +15973,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -16023,7 +16028,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229780,
+      "Progressed": 229784,
       "Completed": 5
     }
   ],
@@ -16031,8 +16036,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-14T16:00:52.1630549+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:07:37.6734986+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:08:10.9717851+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.0573997+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:00:59.1897355+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:07:37.6736134+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:01:15.6146515+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:08:10.9718758+00:00"
 }

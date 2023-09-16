@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 191,
-  "EOS_Completed": 44,
+  "EOS_Completed": 45,
   "EOS_NewPlayers": 34,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 23.04,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 23.56,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -956,6 +956,11 @@
       "Time": "2023-09-16T15:08:11.1957886+00:00",
       "NumProgressed": 191,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-16T17:07:36.3232083+00:00",
+      "NumProgressed": 191,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -982,9 +987,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "FallDeath",
@@ -1022,9 +1027,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "GasDeath",
@@ -1038,9 +1043,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Hologram",
@@ -1070,9 +1075,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
@@ -1080,13 +1085,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 191,
-      "Completed": 44
+      "Completed": 45
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:07:16.8633548+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:07:36.3232075+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:01:19.7231914+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:07:16.8633738+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:01:39.2895794+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:07:36.3232222+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -550,9 +550,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -613,8 +613,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:04:20.3985666+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:04:33.5458117+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:59:32.0228571+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:04:20.3985897+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:59:31.7452591+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:04:33.5458272+00:00"
 }

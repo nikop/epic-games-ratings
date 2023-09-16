@@ -20,14 +20,14 @@ Rating: 4.62 (Ranked 351)
 | Pacifist | 59.00% | ~3,038 |
 | 2-1-6 | 58.00% | ~2,986 |
 | A gift | 53.00% | ~2,729 |
-| Girl Power | 47.00% | ~2,420 |
+| Girl Power | 48.00% | ~2,472 |
 | What goes around... | 44.00% | ~2,266 |
 | Be Prepared | 38.00% | ~1,957 |
 | Unbreakable | 36.00% | ~1,854 |
 | This is the end | 34.00% | ~1,751 |
 | Gotta get 'em all | 33.00% | ~1,699 |
 | Atomic drill | 32.00% | ~1,648 |
-| Disco Roach | 27.00% | ~1,390 |
+| Disco Roach | 28.00% | ~1,442 |
 | Dawkins Residence | 21.00% | ~1,081 |
 | Rescue time! | 18.00% | ~927 |
 | New order | 17.00% | ~875 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6070,9 +6070,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136263,
+  "EOS_Progressed": 136264,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21405,6 +21405,11 @@
       "Time": "2023-09-16T16:03:12.8380219+00:00",
       "NumProgressed": 136263,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-09-16T17:03:37.3664165+00:00",
+      "NumProgressed": 136264,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 112,
@@ -21574,9 +21579,9 @@
       "ID": "champions01",
       "SetID": "anfd17p",
       "Name": "Fated Encounters",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 818
     },
     {
       "ID": "chest01",
@@ -22311,15 +22316,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136263,
+      "Progressed": 136264,
       "Completed": 152
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-16T15:58:35.8063727+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:03:12.8380215+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:03:37.3664161+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:58:35.8063734+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:03:12.8382947+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:58:19.7818998+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:03:37.366602+00:00"
 }

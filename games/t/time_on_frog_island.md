@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 67.00% | ~2 |
-| Who Even Needs Keys | 33.00% | ~1 |
-| Frogs Legs | 0.00% | ~0 |
+| Shipwrecked! | 50.00% | ~2 |
+| Frogs Legs | 25.00% | ~1 |
+| Who Even Needs Keys | 25.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | Socialite | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
@@ -40,13 +40,14 @@
 | Replace the Rudder | 0.00% | ~0 |
 | The Journey Continues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 513)  
+Progressed: 4 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-11 | 1 | 0 |
 | 2023-09-15 | 3 | 0 |
+| 2023-09-16 | 4 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

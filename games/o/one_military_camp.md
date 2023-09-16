@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~87 |
-| The 4 Pillars | 51.00% | ~84 |
-| Capitalism | 21.00% | ~35 |
-| There's something in those trees | 12.00% | ~20 |
+| First Step | 53.00% | ~88 |
+| The 4 Pillars | 51.00% | ~85 |
+| Capitalism | 20.00% | ~33 |
 | Great Producer | 12.00% | ~20 |
+| There's something in those trees | 11.00% | ~18 |
 | Indebted | 11.00% | ~18 |
 | Green Energy | 11.00% | ~18 |
-| Desert Power | 10.00% | ~16 |
-| Desert Rat | 10.00% | ~16 |
+| Desert Power | 10.00% | ~17 |
+| Desert Rat | 10.00% | ~17 |
 | Perfect Soldier | 8.00% | ~13 |
 | Health Care | 8.00% | ~13 |
 | Food Tycoon | 8.00% | ~13 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165 (Ranked 325)  
+Progressed: 166 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,3 +93,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-07 | 161 | 0 |
 | 2023-09-10 | 163 | 0 |
 | 2023-09-15 | 165 | 0 |
+| 2023-09-16 | 166 | 0 |

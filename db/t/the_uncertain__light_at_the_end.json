@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.97,
+  "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -660,6 +660,11 @@
       "Time": "2023-09-16T10:07:04.5378518+00:00",
       "NumProgressed": 518,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T17:06:53.1102337+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -695,7 +700,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Doors_Closing",
@@ -759,7 +764,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Hitman",
@@ -791,7 +796,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Leisurely_Strol",
@@ -887,7 +892,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -902,7 +907,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 5
     }
   ],
@@ -910,8 +915,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:06:20.0007514+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:06:53.1102334+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:16.5027878+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:01:56.6996553+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:06:20.0007786+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:02:27.3431288+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:06:53.1102527+00:00"
 }

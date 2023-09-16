@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -771,17 +771,17 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 200,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -819,9 +819,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "META_RESULT_1-4",
@@ -931,9 +931,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "PROGRESS_N3",
@@ -947,9 +947,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "PROGRESS_N5",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:08:06.1235355+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:08:45.2952969+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:59:33.0026634+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:08:06.123562+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:59:33.0370803+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:08:45.2953154+00:00"
 }

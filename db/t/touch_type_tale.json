@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3421,
+  "EOS_Progressed": 3425,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3379,6 +3379,11 @@
       "Time": "2023-09-16T15:07:20.6051994+00:00",
       "NumProgressed": 3421,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-16T17:06:57.3312448+00:00",
+      "NumProgressed": 3425,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3398,7 +3403,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "bonus3",
@@ -3438,7 +3443,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3014
     },
     {
       "ID": "campaign10",
@@ -3446,7 +3451,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "campaign11",
@@ -3462,7 +3467,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "campaign13",
@@ -3478,7 +3483,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "campaign15",
@@ -3526,7 +3531,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2637
     },
     {
       "ID": "campaign20",
@@ -3542,7 +3547,7 @@
       "Name": "Economics 101",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2124
     },
     {
       "ID": "campaign4",
@@ -3550,7 +3555,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1541
     },
     {
       "ID": "campaign5",
@@ -3566,7 +3571,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "campaign7",
@@ -3574,7 +3579,7 @@
       "Name": "Maestro",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "campaign8",
@@ -3598,7 +3603,7 @@
       "Name": "Do the Splits",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1370
     },
     {
       "ID": "scenario2",
@@ -3606,7 +3611,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "scenario3",
@@ -3622,7 +3627,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "scenario5",
@@ -3653,7 +3658,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3421,
+      "Progressed": 3425,
       "Completed": 11
     }
   ],
@@ -3661,8 +3666,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:06:23.0023206+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:06:57.3312444+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:01:05.1903768+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:06:23.0023679+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:01:20.5897835+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:06:57.3312856+00:00"
 }

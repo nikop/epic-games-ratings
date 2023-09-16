@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -250,7 +250,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18016,
+  "EOS_Progressed": 18017,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
@@ -10285,6 +10285,11 @@
       "Time": "2023-09-16T15:07:34.4002795+00:00",
       "NumProgressed": 18016,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T17:07:11.4023593+00:00",
+      "NumProgressed": 18017,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10368,7 +10373,7 @@
       "Name": "Social of Solace",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "0011",
@@ -10416,7 +10421,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "0017",
@@ -10432,7 +10437,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "0019",
@@ -10472,7 +10477,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "0024",
@@ -10583,7 +10588,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18016,
+      "Progressed": 18017,
       "Completed": 3
     }
   ],
@@ -10591,8 +10596,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:06:34.6756019+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:07:11.402359+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:00:26.7913619+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:06:34.6756913+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:00:34.2378235+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:07:11.4024251+00:00"
 }

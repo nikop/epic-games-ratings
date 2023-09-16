@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224467,
+  "EOS_Progressed": 224488,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1874,
+  "EOS_NewPlayers": 1872,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11108,6 +11108,11 @@
       "Time": "2023-09-16T16:08:23.63745+00:00",
       "NumProgressed": 224467,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T17:09:06.347559+00:00",
+      "NumProgressed": 224488,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11119,7 +11124,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "100Fail",
@@ -11151,7 +11156,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "BookCollection",
@@ -11167,7 +11172,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6734
+      "UsersEstimate": 6735
     },
     {
       "ID": "Chapter2",
@@ -11175,7 +11180,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "Chapter3",
@@ -11183,7 +11188,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "Chapter4",
@@ -11519,7 +11524,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8979
+      "UsersEstimate": 8980
     },
     {
       "ID": "DwarfElf15Support",
@@ -11551,7 +11556,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6734
+      "UsersEstimate": 6735
     },
     {
       "ID": "ElfEpic",
@@ -11567,7 +11572,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67340
+      "UsersEstimate": 67346
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11583,7 +11588,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "EndCombatOneHp",
@@ -11591,7 +11596,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "EndGameCursed",
@@ -11615,7 +11620,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11223
+      "UsersEstimate": 11224
     },
     {
       "ID": "FollowBraztok",
@@ -11645,9 +11650,9 @@
       "ID": "KillDungeonLich",
       "SetID": "50chcgj",
       "Name": "Dead for good",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1571
     },
     {
       "ID": "KillGolbargh",
@@ -11767,7 +11772,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6734
+      "UsersEstimate": 6735
     },
     {
       "ID": "SupportCount4",
@@ -11815,28 +11820,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224467,
+      "Progressed": 224488,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224467,
+      "Progressed": 224488,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:08:23.6374493+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:09:06.3475587+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:58:52.3005872+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:08:23.6376215+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:58:43.5667428+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:09:06.3476849+00:00"
 }

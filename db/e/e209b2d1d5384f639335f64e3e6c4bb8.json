@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 12,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -204,9 +204,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286683,
+  "EOS_Progressed": 286777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9750,
+  "EOS_NewPlayers": 9732,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3034,6 +3034,11 @@
       "Time": "2023-09-16T16:08:04.8263374+00:00",
       "NumProgressed": 286683,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T17:08:43.5211333+00:00",
+      "NumProgressed": 286777,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -3046,7 +3051,7 @@
       "Name": "Expedition complete - Easy",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACHV_CAMPAIGN_HARD",
@@ -3070,7 +3075,7 @@
       "Name": "Epsilon Base",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 123274
+      "UsersEstimate": 123314
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -3078,7 +3083,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 91739
+      "UsersEstimate": 91769
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -3086,7 +3091,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 60203
+      "UsersEstimate": 60223
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -3094,7 +3099,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 43002
+      "UsersEstimate": 43017
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -3102,7 +3107,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 31535
+      "UsersEstimate": 31545
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -3110,7 +3115,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 28668
+      "UsersEstimate": 28678
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -3118,7 +3123,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 25801
+      "UsersEstimate": 25810
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -3126,7 +3131,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 22935
+      "UsersEstimate": 22942
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -3134,7 +3139,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 20068
+      "UsersEstimate": 20074
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -3142,7 +3147,7 @@
       "Name": "Khashar Approach",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 20068
+      "UsersEstimate": 20074
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -3150,7 +3155,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 17201
+      "UsersEstimate": 17207
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -3158,7 +3163,7 @@
       "Name": "Torin Crater",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 17201
+      "UsersEstimate": 17207
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -3166,7 +3171,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 14334
+      "UsersEstimate": 14339
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -3422,20 +3427,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 146208
+      "UsersEstimate": 146256
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 286683,
+      "Progressed": 286777,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 286672,
+      "Progressed": 286766,
       "Completed": 0
     }
   ],
@@ -3443,8 +3448,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-09-15T22:00:32.7764142+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:08:04.8263365+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:08:43.5211329+00:00",
   "LastUpdate_AppInfo": "2023-09-14T17:57:03.6225004+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:01:39.3625051+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:08:04.8263963+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:01:59.9182201+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:08:43.5211768+00:00"
 }

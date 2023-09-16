@@ -7,9 +7,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Settler | 6.00% | ~837 |
+| Play a Single Player Game | 6.00% | ~837 |
 | Explorer | 5.00% | ~698 |
 | Friendly Family | 5.00% | ~698 |
-| Play a Single Player Game | 5.00% | ~698 |
 | The Clergy | 5.00% | ~698 |
 | Able | 4.00% | ~558 |
 | Architect | 4.00% | ~558 |

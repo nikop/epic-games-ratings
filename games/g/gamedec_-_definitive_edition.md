@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,918 |
-| Powergamer | 27.00% | ~66,457 |
-| Barely scratched the surface | 25.00% | ~61,534 |
-| Write that down | 24.00% | ~59,073 |
-| Guns, lots of guns | 13.00% | ~31,998 |
-| Collector | 11.00% | ~27,075 |
-| Elementary! | 9.00% | ~22,152 |
-| Pumpkin Jack | 8.00% | ~19,691 |
-| Wake up! | 8.00% | ~19,691 |
+| I will finish what you started | 28.00% | ~68,921 |
+| Powergamer | 27.00% | ~66,459 |
+| Barely scratched the surface | 25.00% | ~61,536 |
+| Write that down | 24.00% | ~59,075 |
+| Guns, lots of guns | 13.00% | ~31,999 |
+| Collector | 11.00% | ~27,076 |
+| Elementary! | 9.00% | ~22,153 |
+| Pumpkin Jack | 8.00% | ~19,692 |
+| Wake up! | 8.00% | ~19,692 |
 | It's honest work | 7.00% | ~17,230 |
 | Griever | 7.00% | ~17,230 |
-| Me smart | 6.00% | ~14,768 |
-| Trash compactor | 6.00% | ~14,768 |
+| Me smart | 6.00% | ~14,769 |
+| Trash compactor | 6.00% | ~14,769 |
 | Good listener | 5.00% | ~12,307 |
 | Valedictorian | 5.00% | ~12,307 |
-| BOY! | 4.00% | ~9,845 |
-| Ka-ching! | 4.00% | ~9,845 |
-| So you like to read? | 4.00% | ~9,845 |
+| BOY! | 4.00% | ~9,846 |
+| Ka-ching! | 4.00% | ~9,846 |
+| So you like to read? | 4.00% | ~9,846 |
 | Hoarder | 3.00% | ~7,384 |
 | I like to sniff around | 3.00% | ~7,384 |
 | Mind reader | 3.00% | ~7,384 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~492 |
 | Memory 5 | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,137 (Ranked 50)  
+Progressed: 246,145 (Ranked 50)  
 Completed: 7 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 7 (0.00%) (Ranked 275)
 | 2023-09-13 | 245,857 | 7 |
 | 2023-09-14 | 245,956 | 7 |
 | 2023-09-15 | 246,050 | 7 |
-| 2023-09-16 | 246,137 | 7 |
+| 2023-09-16 | 246,145 | 7 |
 ## Awards
 Max (Character Customization): 81  (Ranked 362)  
 Sum: 81 (Ranked 429)  

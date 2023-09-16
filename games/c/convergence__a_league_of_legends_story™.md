@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 395)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 28.00% | ~243 |
+| Time Heals All Wounds | 27.00% | ~235 |
 | The Mysterious Stranger | 22.00% | ~191 |
 | Rail Rat | 22.00% | ~191 |
 | Make Up For Lost Time | 20.00% | ~174 |
@@ -20,8 +20,8 @@ Rating: 4.60 (Ranked 395)
 | Honest Mistake | 19.00% | ~165 |
 | Fast Learner | 19.00% | ~165 |
 | Immaculate Aim | 19.00% | ~165 |
-| The Wicked Twins | 18.00% | ~156 |
-| Golem Chaser | 18.00% | ~156 |
+| The Wicked Twins | 18.00% | ~157 |
+| Golem Chaser | 18.00% | ~157 |
 | Like Clockwork | 17.00% | ~148 |
 | The Betrayer | 17.00% | ~148 |
 | The Loose Cannon | 17.00% | ~148 |
@@ -47,8 +47,8 @@ Rating: 4.60 (Ranked 395)
 | Corin Goes Home | 7.00% | ~61 |
 | Sartorialist | 7.00% | ~61 |
 | Golem Hunter | 6.00% | ~52 |
-| Clovemary for Remembering | 5.00% | ~43 |
-| Rungs Was Right | 5.00% | ~43 |
+| Clovemary for Remembering | 5.00% | ~44 |
+| Rungs Was Right | 5.00% | ~44 |
 | Hexlock for Protection | 4.00% | ~35 |
 | Wunderkind | 2.00% | ~17 |
 | Fitting In | 2.00% | ~17 |
@@ -59,8 +59,8 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869 (Ranked 219)  
-Completed: 5 (0.58%) (Ranked 147)  
+Progressed: 870 (Ranked 219)  
+Completed: 5 (0.57%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,7 +161,7 @@ Completed: 5 (0.58%) (Ranked 147)
 | 2023-09-13 | 865 | 5 |
 | 2023-09-14 | 866 | 5 |
 | 2023-09-15 | 868 | 5 |
-| 2023-09-16 | 869 | 5 |
+| 2023-09-16 | 870 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

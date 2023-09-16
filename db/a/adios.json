@@ -108,9 +108,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73374,
+  "EOS_Progressed": 73378,
   "EOS_Completed": 760,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -16693,6 +16693,11 @@
       "Time": "2023-09-16T16:05:55.3806632+00:00",
       "NumProgressed": 73374,
       "NumCompleted": 760
+    },
+    {
+      "Time": "2023-09-16T17:06:22.7210247+00:00",
+      "NumProgressed": 73378,
+      "NumCompleted": 760
     }
   ],
   "TotalAchievements": 25,
@@ -16720,7 +16725,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13207
+      "UsersEstimate": 13208
     },
     {
       "ID": "Audiophile",
@@ -16728,7 +16733,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "Be Seeing You",
@@ -16736,7 +16741,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16142
+      "UsersEstimate": 16143
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -16744,7 +16749,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13207
+      "UsersEstimate": 13208
     },
     {
       "ID": "Butcher",
@@ -16760,7 +16765,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4402
+      "UsersEstimate": 4403
     },
     {
       "ID": "Fair\u0027sFair",
@@ -16776,7 +16781,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14675
+      "UsersEstimate": 14676
     },
     {
       "ID": "Hearty",
@@ -16808,7 +16813,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14675
+      "UsersEstimate": 14676
     },
     {
       "ID": "Meaty",
@@ -16824,7 +16829,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13942
     },
     {
       "ID": "Nice Try",
@@ -16848,7 +16853,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7337
+      "UsersEstimate": 7338
     },
     {
       "ID": "Right On Target",
@@ -16888,7 +16893,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "Vinyl Vibes",
@@ -16903,7 +16908,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73374,
+      "Progressed": 73378,
       "Completed": 760
     }
   ],
@@ -16911,8 +16916,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:05:55.3806627+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:06:22.7210244+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-16T16:01:38.0414386+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:05:55.3807873+00:00"
+  "LastUpdate_Ratings": "2023-09-16T17:01:57.2425549+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:06:22.7211143+00:00"
 }

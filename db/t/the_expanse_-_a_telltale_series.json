@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10642,
+  "EOS_Progressed": 10643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5521,6 +5521,11 @@
       "Time": "2023-09-16T16:08:16.3364407+00:00",
       "NumProgressed": 10642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T17:08:57.6298984+00:00",
+      "NumProgressed": 10643,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5629,7 +5634,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "21",
@@ -5765,14 +5770,14 @@
       "Name": "Impossible Objects",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10642,
+      "Progressed": 10643,
       "Completed": 0
     }
   ],
@@ -5780,8 +5785,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-16T16:08:16.3364403+00:00",
+  "LastChanged_Achievements": "2023-09-16T17:08:57.629898+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-16T15:59:32.8970791+00:00",
-  "LastUpdate_Achievements": "2023-09-16T16:08:16.3365004+00:00"
+  "LastUpdate_Ratings": "2023-09-16T16:59:33.077665+00:00",
+  "LastUpdate_Achievements": "2023-09-16T17:08:57.6299398+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~216,054 |
-| I know the Rules | 36.00% | ~94,853 |
-| Contender | 10.00% | ~26,348 |
-| I Found it! | 10.00% | ~26,348 |
-| First but not Last | 4.00% | ~10,539 |
-| Ready Steady Score | 3.00% | ~7,904 |
-| Dress Code | 3.00% | ~7,904 |
+| Ball Launched | 82.00% | ~216,070 |
+| I know the Rules | 36.00% | ~94,860 |
+| Contender | 10.00% | ~26,350 |
+| I Found it! | 10.00% | ~26,350 |
+| First but not Last | 4.00% | ~10,540 |
+| Ready Steady Score | 3.00% | ~7,905 |
+| Dress Code | 3.00% | ~7,905 |
 | Full Loot Madness | 2.00% | ~5,270 |
 | My Table, my Rules | 1.00% | ~2,635 |
-| Nine Zeroes | 0.90% | ~2,371 |
+| Nine Zeroes | 0.90% | ~2,372 |
 | Shiny Memento | 0.30% | ~790 |
 | Pinball Hoarder | 0.30% | ~790 |
 | Interior Designer | 0.30% | ~790 |
-| Table Mastered, part 10 | 0.10% | ~263 |
-| Medal Hunter | 0.10% | ~263 |
-| Medal Wizard | 0.10% | ~263 |
-| Virtual Pinball Museum | 0.10% | ~263 |
-| Challenge Accepted! | 0.10% | ~263 |
-| Relic Hunter | 0.10% | ~263 |
-| Show Them | 0.10% | ~263 |
-| Totally Furnished | 0.10% | ~263 |
-| Customizer | 0.10% | ~263 |
+| Table Mastered, part 10 | 0.10% | ~264 |
+| Medal Hunter | 0.10% | ~264 |
+| Medal Wizard | 0.10% | ~264 |
+| Virtual Pinball Museum | 0.10% | ~264 |
+| Challenge Accepted! | 0.10% | ~264 |
+| Relic Hunter | 0.10% | ~264 |
+| Show Them | 0.10% | ~264 |
+| Totally Furnished | 0.10% | ~264 |
+| Customizer | 0.10% | ~264 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263,481 (Ranked 46)  
+Progressed: 263,500 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 262,620 | 0 |
 | 2023-09-14 | 262,859 | 0 |
 | 2023-09-15 | 263,238 | 0 |
-| 2023-09-16 | 263,481 | 0 |
+| 2023-09-16 | 263,500 | 0 |
 ## Awards
 Max (Great for Beginners): 189  (Ranked 279)  
 Sum: 1,549 (Ranked 222)  
