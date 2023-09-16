@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 841,
+  "EOS_Progressed": 843,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1019,6 +1019,11 @@
       "Time": "2023-09-16T03:08:28.9478873+00:00",
       "NumProgressed": 841,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T05:06:32.5170455+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1031,7 +1036,7 @@
       "Name": "First Love",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1045,9 +1050,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "c7hf6a4",
       "Name": "Go-Faster Stripes",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 118
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1103,7 +1108,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1133,9 +1138,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 135
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1231,15 +1236,15 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 320
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1373,7 +1378,7 @@
       "ID": "ML_ACHIEVEMENT_44",
       "SetID": "c7hf6a4",
       "Name": "Overtaking the Master",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -1383,7 +1388,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -1422,14 +1427,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 841,
+      "Progressed": 843,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:08:27.1907857+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:06:32.5170449+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:59:03.5711622+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:08:27.1908573+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:58:07.550329+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:06:32.5170974+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2140,9 +2140,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 39931,
+  "EOS_Progressed": 39932,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18140,6 +18140,11 @@
       "Time": "2023-09-16T04:04:07.4908315+00:00",
       "NumProgressed": 39931,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-16T05:03:20.9828837+00:00",
+      "NumProgressed": 39932,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -18159,7 +18164,7 @@
       "Name": "Unholy Bones",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9583
+      "UsersEstimate": 9584
     },
     {
       "ID": "achievements_11",
@@ -18175,7 +18180,7 @@
       "Name": "Blood Elemental",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9583
+      "UsersEstimate": 9584
     },
     {
       "ID": "achievements_13",
@@ -18263,7 +18268,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 21962
+      "UsersEstimate": 21963
     },
     {
       "ID": "achievements_25",
@@ -18303,7 +18308,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13177
+      "UsersEstimate": 13178
     },
     {
       "ID": "achievements_3",
@@ -18399,7 +18404,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 26354
+      "UsersEstimate": 26355
     },
     {
       "ID": "achievements_40",
@@ -18455,7 +18460,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 33941
+      "UsersEstimate": 33942
     },
     {
       "ID": "achievements_47",
@@ -18479,7 +18484,7 @@
       "Name": "Master of Rage",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "achievements_5",
@@ -18501,9 +18506,9 @@
       "ID": "achievements_51",
       "SetID": "6hgbao0",
       "Name": "Prepared Necromancer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 15972
+      "UsersEstimate": 16372
     },
     {
       "ID": "achievements_52",
@@ -18527,7 +18532,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 17170
+      "UsersEstimate": 17171
     },
     {
       "ID": "achievements_55",
@@ -18559,7 +18564,7 @@
       "Name": "Icy Incursion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "achievements_59",
@@ -18567,7 +18572,7 @@
       "Name": "Arachnophobia",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "achievements_6",
@@ -18591,7 +18596,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10781
+      "UsersEstimate": 10782
     },
     {
       "ID": "achievements_63",
@@ -18607,7 +18612,7 @@
       "Name": "Revealed Secrets - III",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "achievements_65",
@@ -18735,7 +18740,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 11979
+      "UsersEstimate": 11980
     },
     {
       "ID": "achievements_9",
@@ -18750,15 +18755,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 39931,
+      "Progressed": 39932,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-09T22:01:15.7942849+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:04:07.4908311+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:03:20.9828833+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.3039607+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:59:12.7101993+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:04:07.4910431+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:58:14.1984915+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:03:20.9830762+00:00"
 }

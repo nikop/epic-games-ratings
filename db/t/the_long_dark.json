@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-12-19T16:00:00+00:00",
@@ -4316,11 +4316,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 4849,
       "NumberOfAwardsMax": 805
+    },
+    {
+      "Time": "2023-09-16T04:59:45.3777777+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4851,
+      "NumberOfAwardsMax": 807
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4849,
-  "NumberOfAwardsMax": 805,
+  "NumberOfAwards": 4851,
+  "NumberOfAwardsMax": 807,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -4351,7 +4357,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 805
+      "Count": 807
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4383,8 +4389,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-09-16T02:13:00.2768894+00:00",
+  "LastChanged": "2023-09-16T04:59:45.3777774+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:14.0031453+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:01:35.4312207+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:06:01.1738328+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:59:45.3777788+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:04:41.3991996+00:00"
 }

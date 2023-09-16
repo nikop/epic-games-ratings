@@ -31,8 +31,8 @@ Number of Ratings: 48  (23.09.2022)
 | Rune Wall Master | 34.00% | ~234 |
 | The Quarry...On Foot! | 31.00% | ~214 |
 | The Runebarrows...On Foot! | 29.00% | ~200 |
+| The Lava Ruins...On Foot! | 28.00% | ~193 |
 | The Snowpeak...On Foot! | 27.00% | ~186 |
-| The Lava Ruins...On Foot! | 27.00% | ~186 |
 | Meat Master | 26.00% | ~179 |
 | Fishing Master | 25.00% | ~172 |
 | Armor Master | 24.00% | ~165 |

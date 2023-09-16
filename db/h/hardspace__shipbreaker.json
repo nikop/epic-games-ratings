@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-09-15T15:09:39.9926492+00:00",
       "NumProgressed": 891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T05:08:29.5958572+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1640,7 +1645,7 @@
       "Name": "Act I Complete",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1656,7 +1661,7 @@
       "Name": "Act III Complete",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
@@ -1664,7 +1669,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1672,7 +1677,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -1712,7 +1717,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -1720,7 +1725,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1752,7 +1757,7 @@
       "Name": "Fire and Brimstone",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -1792,7 +1797,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1800,7 +1805,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1816,7 +1821,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1840,7 +1845,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1855,7 +1860,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 0
     }
   ],
@@ -1863,8 +1868,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:09:33.6226266+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:08:29.5958564+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:37.9480898+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:57:34.7059644+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:09:33.6226599+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:57:03.8570037+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:08:29.5958852+00:00"
 }

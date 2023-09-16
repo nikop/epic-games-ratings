@@ -14,10 +14,10 @@ Number of Ratings: 154  (23.09.2022)
 | Ring Collector | 69.00% | ~331 |
 | Time Traveler | 68.00% | ~326 |
 | Everyone's Hero | 64.00% | ~307 |
+| Miles "Tails" Prower | 61.00% | ~292 |
 | Easy Peasy with Shields | 60.00% | ~287 |
 | Gallant Spin Dash | 60.00% | ~287 |
 | Knuckles the Echidna | 60.00% | ~287 |
-| Miles "Tails" Prower | 60.00% | ~287 |
 | Bubbly Breath | 58.00% | ~278 |
 | Boss Rush Attempt | 53.00% | ~254 |
 | Cleared Sonic the Hedgehog | 50.00% | ~240 |

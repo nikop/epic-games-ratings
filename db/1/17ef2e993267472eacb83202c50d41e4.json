@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5905,
+  "EOS_Progressed": 5907,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1586,6 +1586,11 @@
       "Time": "2023-09-16T04:06:03.9579571+00:00",
       "NumProgressed": 5905,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T05:04:43.5164087+00:00",
+      "NumProgressed": 5907,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1654,7 +1659,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "DHUpgraded1",
@@ -1806,7 +1811,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "HSPurchased1",
@@ -1910,7 +1915,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "MaxDamageDone30000",
@@ -1958,7 +1963,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "MaxTowersKilled3",
@@ -1966,7 +1971,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "MaxTowersKilled6",
@@ -2020,9 +2025,9 @@
       "ID": "NexusKills1",
       "SetID": "12d07c7",
       "Name": "Destroyed the Nexus",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 413
     },
     {
       "ID": "PlayerKills10",
@@ -2054,7 +2059,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "QAUpgraded1",
@@ -2070,7 +2075,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "RAPurchased1",
@@ -2110,7 +2115,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "SOVUpgraded1",
@@ -2158,7 +2163,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "TSUPurchased1",
@@ -2189,14 +2194,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5905,
+      "Progressed": 5907,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:06:03.9579566+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:04:43.5164084+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:01:42.5149837+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:06:03.9580727+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:59:49.4398082+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:04:43.5164991+00:00"
 }

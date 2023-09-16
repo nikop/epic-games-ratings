@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.34,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1704,6 +1704,11 @@
       "Time": "2023-09-15T15:05:19.5500172+00:00",
       "NumProgressed": 642,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-16T05:04:21.1961494+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1724,7 +1729,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "_03_FinishAct1",
@@ -1732,7 +1737,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1748,7 +1753,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1836,7 +1841,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1890,9 +1895,9 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 58
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1923,7 +1928,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 15
     }
   ],
@@ -1931,8 +1936,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:05:32.7735437+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:04:21.196149+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:58:44.0942224+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:05:32.7735751+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:57:52.0180223+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:04:21.1961782+00:00"
 }

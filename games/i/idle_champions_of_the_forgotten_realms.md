@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,289 |
+| A Brief Tour of the Realms | 1.00% | ~2,290 |
 | Beast Intentions | 0.70% | ~1,603 |
 | The Cursed Farmer | 0.70% | ~1,603 |
 | The Mad Wizard | 0.50% | ~1,145 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.20% | ~458 |
 | Nimble Escape | 0.20% | ~458 |
 | Useless Allies | 0.20% | ~458 |
+| Fugitives | 0.20% | ~458 |
 | Premature Betrayal | 0.20% | ~458 |
 | A Tale of Two Cities | 0.20% | ~458 |
 | The Dead Three | 0.20% | ~458 |
@@ -271,7 +272,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.10% | ~229 |
 | Stumbling Escape | 0.10% | ~229 |
 | Distracted Escape | 0.10% | ~195 |
-| Fugitives | 0.10% | ~229 |
 | From The Shadows | 0.10% | ~229 |
 | Spined Nuisances | 0.10% | ~229 |
 | Twilight Twist | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,944 (Ranked 55)  
+Progressed: 228,952 (Ranked 55)  
 Completed: 2,286 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -676,7 +676,7 @@ Completed: 2,286 (1.00%) (Ranked 123)
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
-| 2023-09-16 | 228,944 | 2,286 |
+| 2023-09-16 | 228,952 | 2,286 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,596 (Ranked 39)  

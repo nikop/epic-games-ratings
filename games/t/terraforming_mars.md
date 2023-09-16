@@ -6,18 +6,18 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~28,062 |
-| Final touch | 37.00% | ~28,062 |
+| It's a steal! | 37.00% | ~28,063 |
+| Final touch | 37.00% | ~28,063 |
 | Prop-M Rover | 32.00% | ~24,270 |
-| Changing the Planet | 28.00% | ~21,236 |
-| Sojourner | 26.00% | ~19,719 |
+| Changing the Planet | 28.00% | ~21,237 |
+| Sojourner | 26.00% | ~19,720 |
 | Beagle 2 | 24.00% | ~18,203 |
 | New Home | 23.00% | ~17,444 |
 | Winner Winner Terraformer | 22.00% | ~16,686 |
-| Project Manager | 19.00% | ~14,410 |
-| Curiosity | 19.00% | ~14,410 |
-| Collector | 19.00% | ~14,410 |
-| Master | 19.00% | ~14,410 |
+| Project Manager | 19.00% | ~14,411 |
+| Curiosity | 19.00% | ~14,411 |
+| Collector | 19.00% | ~14,411 |
+| Master | 19.00% | ~14,411 |
 | No Longer Red | 18.00% | ~13,652 |
 | Self-sufficient | 18.00% | ~13,652 |
 | Money money | 15.00% | ~11,377 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,275 |
 | Opportunity | 3.00% | ~2,275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,844 (Ranked 80)  
+Progressed: 75,845 (Ranked 80)  
 Completed: 118 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,10 +186,10 @@ Completed: 118 (0.16%) (Ranked 203)
 | 2023-09-13 | 75,610 | 101 |
 | 2023-09-14 | 75,712 | 111 |
 | 2023-09-15 | 75,826 | 118 |
-| 2023-09-16 | 75,844 | 118 |
+| 2023-09-16 | 75,845 | 118 |
 ## Awards
 Max (Relaxing): 513  (Ranked 199)  
-Sum: 3,161 (Ranked 162)  
+Sum: 3,162 (Ranked 162)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -197,7 +197,7 @@ Diff (max vs sum): 37
 | This game is Highly Recommended | 496 |
 | This game has Quickly Understood Controls | 461 |
 | This game has Competitive Players | 450 |
-| This game is Extremely Fun | 445 |
+| This game is Extremely Fun | 446 |
 | This game has Amazing Storytelling | 358 |
 | This game has Obsessive Gameplay | 334 |
 | This game has a Competitive Community | 240 |
@@ -375,3 +375,4 @@ Diff (max vs sum): 37
 | 2023-09-13 | 4.53 | - | 513 | 3,158 |
 | 2023-09-14 | 4.53 | - | 513 | 3,160 |
 | 2023-09-15 | 4.53 | - | 513 | 3,161 |
+| 2023-09-16 | 4.53 | - | 513 | 3,162 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 229749,
+  "EOS_Progressed": 229751,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15739,6 +15739,11 @@
       "Time": "2023-09-16T04:08:18.4172398+00:00",
       "NumProgressed": 229749,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T05:06:25.7394026+00:00",
+      "NumProgressed": 229751,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -15886,7 +15891,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -15918,7 +15923,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -15934,7 +15939,7 @@
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
@@ -15958,7 +15963,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39057
+      "UsersEstimate": 39058
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -15966,14 +15971,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229749,
+      "Progressed": 229751,
       "Completed": 5
     }
   ],
@@ -15981,8 +15986,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-14T16:00:52.1630549+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:08:18.417239+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:06:25.7394024+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:45.3291126+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:01:17.8757902+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:08:18.4173981+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:59:34.7427609+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:06:25.7395212+00:00"
 }

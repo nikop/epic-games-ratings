@@ -7477,10 +7477,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 19281,
       "NumberOfAwardsMax": 7393
+    },
+    {
+      "Time": "2023-09-16T04:59:12.5545591+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 19283,
+      "NumberOfAwardsMax": 7393
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19281,
+  "NumberOfAwards": 19283,
   "NumberOfAwardsMax": 7393,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7548,7 +7554,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1282
+      "Count": 1284
     },
     {
       "Text": "This game has a Creative Community",
@@ -7557,7 +7563,7 @@
       "Count": 927
     }
   ],
-  "EOS_Progressed": 117820,
+  "EOS_Progressed": 117821,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
@@ -22522,6 +22528,11 @@
       "Time": "2023-09-16T04:04:06.2643828+00:00",
       "NumProgressed": 117820,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T05:03:20.0719077+00:00",
+      "NumProgressed": 117821,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -22533,7 +22544,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 83652
+      "UsersEstimate": 83653
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -22565,7 +22576,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 73048
+      "UsersEstimate": 73049
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -22581,7 +22592,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 78939
+      "UsersEstimate": 78940
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -22589,7 +22600,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 77761
+      "UsersEstimate": 77762
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -22597,7 +22608,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 73048
+      "UsersEstimate": 73049
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -22605,7 +22616,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 70692
+      "UsersEstimate": 70693
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -22677,7 +22688,7 @@
       "Name": "Banishment",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 36524
+      "UsersEstimate": 36525
     },
     {
       "ID": "combat_kill_death",
@@ -22717,7 +22728,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 43593
+      "UsersEstimate": 43594
     },
     {
       "ID": "combat_kill_gentry",
@@ -22733,7 +22744,7 @@
       "Name": "Meat and Greet",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 25920
+      "UsersEstimate": 25921
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -22757,7 +22768,7 @@
       "Name": "Overdue Notice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 37702
+      "UsersEstimate": 37703
     },
     {
       "ID": "combat_kill_pillagers",
@@ -22805,7 +22816,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 20029
+      "UsersEstimate": 20030
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -22829,7 +22840,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 70692
+      "UsersEstimate": 70693
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -22845,7 +22856,7 @@
       "Name": "Harvest Festival",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 42415
+      "UsersEstimate": 42416
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -22853,7 +22864,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 70692
+      "UsersEstimate": 70693
     },
     {
       "ID": "driving_distance_easy",
@@ -22893,7 +22904,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 14138
+      "UsersEstimate": 14139
     },
     {
       "ID": "hero_story_complete_any",
@@ -22909,7 +22920,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 36524
+      "UsersEstimate": 36525
     },
     {
       "ID": "hospital_full_service",
@@ -22925,7 +22936,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 109573
+      "UsersEstimate": 109574
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -22989,7 +23000,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 78939
+      "UsersEstimate": 78940
     },
     {
       "ID": "run_victory_act02",
@@ -22997,7 +23008,7 @@
       "Name": "Hot Air",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 42415
+      "UsersEstimate": 42416
     },
     {
       "ID": "run_victory_act03",
@@ -23052,15 +23063,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 117820,
+      "Progressed": 117821,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-09-15T23:00:17.7855038+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:04:06.2643823+00:00",
+  "LastChanged": "2023-09-16T04:59:12.5545588+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:03:20.0719069+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:01.1129381+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:00:46.4793412+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:04:06.264569+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:59:12.5545597+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:03:20.0720622+00:00"
 }

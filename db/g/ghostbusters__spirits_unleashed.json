@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2136,7 +2136,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25824,
+  "EOS_Progressed": 25825,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
@@ -12901,6 +12901,11 @@
       "Time": "2023-09-16T04:04:41.663233+00:00",
       "NumProgressed": 25824,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-16T05:03:45.6447179+00:00",
+      "NumProgressed": 25825,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13246,9 +13251,9 @@
       "ID": "Teamwork",
       "SetID": "819popo",
       "Name": "Teamwork",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Terrifying",
@@ -13294,9 +13299,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Welcome_Crew",
@@ -13319,7 +13324,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25824,
+      "Progressed": 25825,
       "Completed": 56
     }
   ],
@@ -13327,8 +13332,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-16T01:38:25.4546113+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:04:41.6632325+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:03:45.6447176+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:59:31.9981967+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:04:41.6633851+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:58:24.8080043+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:03:45.6448324+00:00"
 }

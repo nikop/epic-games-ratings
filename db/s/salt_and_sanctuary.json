@@ -2601,9 +2601,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533273,
+  "EOS_Progressed": 533274,
   "EOS_Completed": 1546,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -18796,6 +18796,11 @@
       "Time": "2023-09-16T04:07:22.0795738+00:00",
       "NumProgressed": 533273,
       "NumCompleted": 1546
+    },
+    {
+      "Time": "2023-09-16T05:05:44.3522555+00:00",
+      "NumProgressed": 533274,
+      "NumCompleted": 1546
     }
   ],
   "TotalAchievements": 37,
@@ -18807,7 +18812,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69325
+      "UsersEstimate": 69326
     },
     {
       "ID": "COASTROCK",
@@ -18919,7 +18924,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213309
+      "UsersEstimate": 213310
     },
     {
       "ID": "THE_CASTLE",
@@ -18975,7 +18980,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69325
+      "UsersEstimate": 69326
     },
     {
       "ID": "THE_IRON_ONES",
@@ -19102,15 +19107,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533273,
+      "Progressed": 533274,
       "Completed": 1546
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-15T22:59:08.215034+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:07:22.0795733+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:05:44.3522551+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.1792582+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:59:35.4759954+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:07:22.079733+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:58:27.2176227+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:05:44.3523964+00:00"
 }

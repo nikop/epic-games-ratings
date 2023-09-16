@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2874,10 +2874,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4449,
       "NumberOfAwardsMax": 2683
+    },
+    {
+      "Time": "2023-09-16T04:58:56.9999845+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4451,
+      "NumberOfAwardsMax": 2683
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4449,
+  "NumberOfAwards": 4451,
   "NumberOfAwardsMax": 2683,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2927,7 +2933,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 227
+      "Count": 229
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2942,9 +2948,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72570,
+  "EOS_Progressed": 72571,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15597,6 +15603,11 @@
       "Time": "2023-09-16T04:03:29.6603042+00:00",
       "NumProgressed": 72570,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-16T05:02:21.2642241+00:00",
+      "NumProgressed": 72571,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15688,7 +15699,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8708
+      "UsersEstimate": 8709
     },
     {
       "ID": "APPLY_STATUS",
@@ -15760,7 +15771,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -15784,7 +15795,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8708
+      "UsersEstimate": 8709
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -15832,7 +15843,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21045
+      "UsersEstimate": 21046
     },
     {
       "ID": "FREEZE_1_5",
@@ -15920,7 +15931,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18142
+      "UsersEstimate": 18143
     },
     {
       "ID": "HARLEY_3",
@@ -15952,7 +15963,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37736
+      "UsersEstimate": 37737
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16008,7 +16019,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18142
+      "UsersEstimate": 18143
     },
     {
       "ID": "MYSTERY_03",
@@ -16016,7 +16027,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15965
+      "UsersEstimate": 15966
     },
     {
       "ID": "MYSTERY_04",
@@ -16056,7 +16067,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8708
+      "UsersEstimate": 8709
     },
     {
       "ID": "SECRET_CACHE",
@@ -16095,22 +16106,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72570,
+      "Progressed": 72571,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42850,
+      "Progressed": 42851,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-16T03:00:07.2072755+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:03:29.6603036+00:00",
+  "LastChanged": "2023-09-16T04:58:56.9999844+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:02:21.2642237+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:00:21.8523309+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:03:29.660483+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:58:56.9999852+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:02:21.2643675+00:00"
 }

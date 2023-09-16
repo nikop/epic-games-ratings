@@ -5,35 +5,35 @@ Rating: 4.43 (Ranked 667)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~749 |
-| And so it begins | 73.00% | ~720 |
-| No pressure | 70.00% | ~690 |
-| Memento | 62.00% | ~611 |
+| Good start | 76.00% | ~750 |
+| And so it begins | 73.00% | ~721 |
+| No pressure | 70.00% | ~691 |
+| Memento | 62.00% | ~612 |
 | Let there be light | 60.00% | ~592 |
-| I think you dropped this | 55.00% | ~542 |
+| I think you dropped this | 55.00% | ~543 |
 | Soulmate? | 53.00% | ~523 |
-| Excellent service | 49.00% | ~483 |
+| Excellent service | 49.00% | ~484 |
 | Roll with it | 46.00% | ~454 |
 | Humble beginnings | 44.00% | ~434 |
 | Love is in the air | 44.00% | ~434 |
-| Fine, I'll do it myself | 42.00% | ~414 |
-| Moving up | 41.00% | ~404 |
+| Fine, I'll do it myself | 42.00% | ~415 |
+| Moving up | 41.00% | ~405 |
 | No need to call anyone | 39.00% | ~385 |
 | Big fortune | 32.00% | ~316 |
 | Still more work ahead | 29.00% | ~286 |
 | Aesop's fable | 27.00% | ~266 |
 | Hotel sleuthing | 27.00% | ~266 |
-| Kaboom | 26.00% | ~256 |
-| Nearly there | 25.00% | ~246 |
+| Kaboom | 26.00% | ~257 |
+| Nearly there | 25.00% | ~247 |
 | Broken heart | 23.00% | ~227 |
 | Island boy | 21.00% | ~207 |
-| You're a star | 19.00% | ~187 |
-| Unstoppable | 18.00% | ~177 |
-| Reunited | 18.00% | ~177 |
-| King of hospitality | 11.00% | ~108 |
+| You're a star | 19.00% | ~188 |
+| Unstoppable | 18.00% | ~178 |
+| Reunited | 18.00% | ~178 |
+| King of hospitality | 11.00% | ~109 |
 | Top spot in town | 2.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 986 (Ranked 213)  
+Progressed: 987 (Ranked 213)  
 Completed: 15 (1.52%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 15 (1.52%) (Ranked 109)
 | 2023-09-12 | 975 | 15 |
 | 2023-09-14 | 977 | 15 |
 | 2023-09-15 | 982 | 15 |
-| 2023-09-16 | 986 | 15 |
+| 2023-09-16 | 987 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

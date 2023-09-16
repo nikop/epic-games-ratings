@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,736 |
+| First Step Into the Knight | 52.00% | ~37,737 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,400 |
 | Loose Ends | 34.00% | ~24,674 |
-| To the Victor Go the Spoils | 29.00% | ~21,045 |
+| To the Victor Go the Spoils | 29.00% | ~21,046 |
 | Knighthood | 28.00% | ~20,320 |
-| Get ReQ'd | 25.00% | ~18,142 |
-| Whispered Words | 25.00% | ~18,142 |
+| Get ReQ'd | 25.00% | ~18,143 |
+| Whispered Words | 25.00% | ~18,143 |
 | The Batman Family | 23.00% | ~16,691 |
-| Lock and Key | 22.00% | ~15,965 |
+| Lock and Key | 22.00% | ~15,966 |
 | Something in the Clay | 21.00% | ~15,240 |
 | Quartzer Life Crisis | 21.00% | ~15,240 |
 | Working Hard or Harley Working? | 20.00% | ~14,514 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 882)
 | Not On My Watch | 13.00% | ~9,434 |
 | Shock Til They Drop | 13.00% | ~9,434 |
 | Seeking Asylum | 13.00% | ~9,434 |
-| End of an Era | 12.00% | ~8,708 |
-| Bulldozed | 12.00% | ~8,708 |
-| Gotham Knight | 12.00% | ~8,708 |
+| End of an Era | 12.00% | ~8,709 |
+| Bulldozed | 12.00% | ~8,709 |
+| Gotham Knight | 12.00% | ~8,709 |
 | Gotham City Confidential | 11.00% | ~7,983 |
 | Drone You Out | 10.00% | ~7,257 |
 | Out of Their League | 9.00% | ~6,531 |
@@ -41,7 +41,7 @@ Rating: 4.18 (Ranked 882)
 | Fusion Expert | 7.00% | ~5,080 |
 | Family Meeting | 6.00% | ~4,354 |
 | A Worthy Successor | 6.00% | ~4,354 |
-| Expert Crime Fighter | 5.00% | ~3,628 |
+| Expert Crime Fighter | 5.00% | ~3,629 |
 | Dressed to Impress | 4.00% | ~2,903 |
 | A Momentum Occasion | 3.00% | ~2,177 |
 | Bat Out of Hell | 3.00% | ~2,177 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 882)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,570 (Ranked 83)  
+Progressed: 72,571 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,15 +216,15 @@ Completed: 113 (0.16%) (Ranked 203)
 | 2023-09-13 | 72,499 | 113 |
 | 2023-09-14 | 72,534 | 113 |
 | 2023-09-15 | 72,563 | 113 |
-| 2023-09-16 | 72,570 | 113 |
+| 2023-09-16 | 72,571 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,683  (Ranked 96)  
-Sum: 4,449 (Ranked 139)  
+Sum: 4,451 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,683 |
-| This game is Extremely Fun | 227 |
+| This game is Extremely Fun | 229 |
 | This game has Quickly Understood Controls | 224 |
 | This game has Diverse Characters | 224 |
 | This game is Relaxing | 223 |
@@ -439,4 +439,4 @@ Diff (max vs sum): -43
 | 2023-09-13 | 4.18 | 2,657 | 4,405 |
 | 2023-09-14 | 4.18 | 2,667 | 4,423 |
 | 2023-09-15 | 4.18 | 2,683 | 4,447 |
-| 2023-09-16 | 4.18 | 2,683 | 4,449 |
+| 2023-09-16 | 4.18 | 2,683 | 4,451 |

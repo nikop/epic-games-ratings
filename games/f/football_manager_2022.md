@@ -6,9 +6,9 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,598 |
-| He's Signed! | 50.00% | ~236,598 |
-| First Victory | 50.00% | ~236,598 |
+| Clean Sheet | 50.00% | ~236,599 |
+| He's Signed! | 50.00% | ~236,599 |
+| First Victory | 50.00% | ~236,599 |
 | He's Sold! | 48.00% | ~227,135 |
 | I'm The Boss! | 42.00% | ~198,743 |
 | Hat-trick | 41.00% | ~194,011 |
@@ -30,22 +30,22 @@ Number of Ratings: 19,160  (23.09.2022)
 | On A Roll | 26.00% | ~123,031 |
 | Unstoppable Force | 26.00% | ~123,031 |
 | Record Sale | 26.00% | ~123,031 |
-| Armchair Expert | 25.00% | ~118,299 |
-| Fantastic Five | 24.00% | ~113,567 |
-| Full Faith | 24.00% | ~113,567 |
-| Iron Curtain | 24.00% | ~113,567 |
-| The Boss | 24.00% | ~113,567 |
-| Top Of The Class | 23.00% | ~108,835 |
-| Goal Machine | 23.00% | ~108,835 |
-| Clean Bill of Health | 22.00% | ~104,103 |
-| What A Goal! | 22.00% | ~104,103 |
-| Cup Glory! | 22.00% | ~104,103 |
-| Splashing The Cash | 21.00% | ~99,371 |
-| Irresistible Force | 20.00% | ~94,639 |
-| Excellent Match Cohesion | 20.00% | ~94,639 |
-| Do The Double | 19.00% | ~89,907 |
-| Top Form | 17.00% | ~80,443 |
-| Cash To Burn | 17.00% | ~80,443 |
+| Armchair Expert | 25.00% | ~118,300 |
+| Fantastic Five | 24.00% | ~113,568 |
+| Full Faith | 24.00% | ~113,568 |
+| Iron Curtain | 24.00% | ~113,568 |
+| The Boss | 24.00% | ~113,568 |
+| Top Of The Class | 23.00% | ~108,836 |
+| Goal Machine | 23.00% | ~108,836 |
+| Clean Bill of Health | 22.00% | ~104,104 |
+| What A Goal! | 22.00% | ~104,104 |
+| Cup Glory! | 22.00% | ~104,104 |
+| Splashing The Cash | 21.00% | ~99,372 |
+| Irresistible Force | 20.00% | ~94,640 |
+| Excellent Match Cohesion | 20.00% | ~94,640 |
+| Do The Double | 19.00% | ~89,908 |
+| Top Form | 17.00% | ~80,444 |
+| Cash To Burn | 17.00% | ~80,444 |
 | Beating Expectations | 15.00% | ~70,980 |
 | Overachiever! | 15.00% | ~70,980 |
 | Rushed signing | 15.00% | ~70,980 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~473 |
 | Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,197 (Ranked 36)  
+Progressed: 473,198 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,10 +254,10 @@ Completed: 21 (0.00%) (Ranked 275)
 | 2023-09-13 | 473,093 | 21 |
 | 2023-09-14 | 473,144 | 21 |
 | 2023-09-15 | 473,189 | 21 |
-| 2023-09-16 | 473,197 | 21 |
+| 2023-09-16 | 473,198 | 21 |
 ## Awards
 Max (Relaxing): 6,447  (Ranked 54)  
-Sum: 50,716 (Ranked 25)  
+Sum: 50,717 (Ranked 25)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 5,860 |
 | This game is Highly Recommended | 5,849 |
 | This game is Educational | 5,845 |
-| This game has Diverse Characters | 5,520 |
+| This game has Diverse Characters | 5,521 |
 | This game has Amazing Storytelling | 4,905 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,372 |
@@ -508,3 +508,4 @@ Diff (max vs sum): 29
 | 2023-09-13 | 4.80 | - | 6,440 | 50,704 |
 | 2023-09-14 | 4.80 | - | 6,443 | 50,710 |
 | 2023-09-15 | 4.80 | - | 6,447 | 50,716 |
+| 2023-09-16 | 4.80 | - | 6,447 | 50,717 |

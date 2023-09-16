@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107795,
+  "EOS_Progressed": 107796,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11031,6 +11031,11 @@
       "Time": "2023-09-16T04:03:25.2671665+00:00",
       "NumProgressed": 107795,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-16T05:02:18.0500336+00:00",
+      "NumProgressed": 107796,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -11050,7 +11055,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81924
+      "UsersEstimate": 81925
     },
     {
       "ID": "EAwards_10",
@@ -11058,7 +11063,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11857
+      "UsersEstimate": 11858
     },
     {
       "ID": "EAwards_11",
@@ -11114,7 +11119,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38806
+      "UsersEstimate": 38807
     },
     {
       "ID": "EAwards_18",
@@ -11194,7 +11199,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 11857
+      "UsersEstimate": 11858
     },
     {
       "ID": "EAwards_27",
@@ -11314,7 +11319,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12935
+      "UsersEstimate": 12936
     },
     {
       "ID": "EAwards_40",
@@ -11410,7 +11415,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11857
+      "UsersEstimate": 11858
     },
     {
       "ID": "EAwards_8",
@@ -11418,7 +11423,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11857
+      "UsersEstimate": 11858
     },
     {
       "ID": "EAwards_9",
@@ -11433,7 +11438,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107795,
+      "Progressed": 107796,
       "Completed": 42
     }
   ],
@@ -11441,8 +11446,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:03:25.267166+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:02:18.0500329+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:10.7751349+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:02:31.4149737+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:03:25.2673121+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:00:21.1473354+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:02:18.0501416+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3544,11 +3544,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7529,
       "NumberOfAwardsMax": 951
+    },
+    {
+      "Time": "2023-09-16T04:57:22.924279+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7532,
+      "NumberOfAwardsMax": 954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7529,
-  "NumberOfAwardsMax": 951,
+  "NumberOfAwards": 7532,
+  "NumberOfAwardsMax": 954,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3561,7 +3567,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 951
+      "Count": 954
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3618,10 +3624,10 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 9706,
+  "EOS_Progressed": 9708,
   "EOS_Completed": 220,
-  "EOS_NewPlayers": 287,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 288,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
@@ -12808,6 +12814,11 @@
       "Time": "2023-09-16T04:05:08.8153623+00:00",
       "NumProgressed": 9706,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2023-09-16T05:04:04.5825223+00:00",
+      "NumProgressed": 9708,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 15,
@@ -12827,7 +12838,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "Bestest_Friend",
@@ -12835,7 +12846,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "Chef_Cook",
@@ -12859,7 +12870,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 5047
+      "UsersEstimate": 5048
     },
     {
       "ID": "Duty_Bound",
@@ -12883,7 +12894,7 @@
       "Name": "Generous",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "Goofys_Investor",
@@ -12891,7 +12902,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6891
+      "UsersEstimate": 6893
     },
     {
       "ID": "Miner",
@@ -12907,7 +12918,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6697
+      "UsersEstimate": 6699
     },
     {
       "ID": "Renovator",
@@ -12915,7 +12926,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "Thorn_Cleaner",
@@ -12931,23 +12942,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6116
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9706,
+      "Progressed": 9708,
       "Completed": 220
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-09-15T20:57:37.375778+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:05:08.8153617+00:00",
+  "LastChanged": "2023-09-16T04:57:22.9242789+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:04:04.5825219+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.9722146+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:58:02.8090081+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:05:08.8154675+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:57:22.9242794+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:04:04.5825918+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -110,9 +110,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 986,
+  "EOS_Progressed": 987,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.52,
   "EosHistory": [
@@ -1515,6 +1515,11 @@
       "Time": "2023-09-16T03:09:10.3582744+00:00",
       "NumProgressed": 986,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-16T05:08:11.4400728+00:00",
+      "NumProgressed": 987,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1534,7 +1539,7 @@
       "Name": "King of hospitality",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -1558,7 +1563,7 @@
       "Name": "Kaboom",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1566,7 +1571,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1614,7 +1619,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1622,7 +1627,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1630,7 +1635,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1670,7 +1675,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_STAR_1",
@@ -1678,7 +1683,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_STAR_2",
@@ -1686,7 +1691,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_STAR_3",
@@ -1702,7 +1707,7 @@
       "Name": "Nearly there",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_STAR_5",
@@ -1710,7 +1715,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1718,7 +1723,7 @@
       "Name": "Reunited",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -1726,7 +1731,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1734,14 +1739,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 986,
+      "Progressed": 987,
       "Completed": 15
     }
   ],
@@ -1749,8 +1754,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-03T08:57:16.8385197+00:00",
-  "LastChanged_Achievements": "2023-09-16T04:09:08.0383593+00:00",
+  "LastChanged_Achievements": "2023-09-16T05:08:11.4400723+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.6707548+00:00",
-  "LastUpdate_Ratings": "2023-09-16T04:02:56.8491252+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:09:08.0383883+00:00"
+  "LastUpdate_Ratings": "2023-09-16T05:00:38.32159+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:08:11.4401016+00:00"
 }

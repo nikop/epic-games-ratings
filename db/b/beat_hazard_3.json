@@ -4,7 +4,7 @@
   "ProductSlug": "beat-hazard-3-c8ef04",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-11-14T18:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.6160728+00:00",
   "LastChanged": "2023-03-31T05:57:45.6160729+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:18.285403+00:00",
-  "LastUpdate_Ratings": "2023-09-16T03:57:25.2769003+00:00",
-  "LastUpdate_Achievements": "2023-09-16T04:04:27.2614335+00:00"
+  "LastUpdate_Ratings": "2023-09-16T04:56:56.2787666+00:00",
+  "LastUpdate_Achievements": "2023-09-16T05:03:35.2225194+00:00"
 }

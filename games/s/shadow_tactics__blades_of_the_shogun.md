@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,259 |
+| Genin | 11.00% | ~22,260 |
 | A thief's beginning | 10.00% | ~20,236 |
 | Thorough | 10.00% | ~20,236 |
 | Disguised | 8.00% | ~16,189 |
 | Rescue Takuma | 8.00% | ~16,189 |
 | Rollin' | 8.00% | ~16,189 |
 | Tanuki Time | 8.00% | ~16,189 |
-| Ice Ice Yuki | 7.00% | ~14,165 |
-| Jonin | 7.00% | ~14,165 |
-| Stoned Ox | 7.00% | ~14,165 |
-| Yabu | 7.00% | ~14,165 |
-| Chunin | 6.00% | ~12,141 |
-| Flying Rocks | 6.00% | ~12,141 |
-| Happy Planning | 6.00% | ~12,141 |
-| Mugen Unchained | 6.00% | ~12,141 |
-| Warzone | 6.00% | ~12,141 |
+| Ice Ice Yuki | 7.00% | ~14,166 |
+| Jonin | 7.00% | ~14,166 |
+| Stoned Ox | 7.00% | ~14,166 |
+| Yabu | 7.00% | ~14,166 |
+| Chunin | 6.00% | ~12,142 |
+| Flying Rocks | 6.00% | ~12,142 |
+| Happy Planning | 6.00% | ~12,142 |
+| Mugen Unchained | 6.00% | ~12,142 |
+| Warzone | 6.00% | ~12,142 |
 | Okkoto | 5.00% | ~10,118 |
 | Prisoners | 5.00% | ~10,118 |
 | Too Early | 5.00% | ~10,118 |
-| Gear up | 4.00% | ~8,094 |
-| Happy little accidents | 4.00% | ~8,094 |
-| Still Rollin' | 4.00% | ~8,094 |
+| Gear up | 4.00% | ~8,095 |
+| Happy little accidents | 4.00% | ~8,095 |
+| Still Rollin' | 4.00% | ~8,095 |
 | Noboru | 3.00% | ~6,071 |
 | Stoned | 3.00% | ~6,071 |
 | The Old Way | 3.00% | ~6,071 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,357 (Ranked 61)  
+Progressed: 202,365 (Ranked 61)  
 Completed: 79 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 79 (0.04%) (Ranked 244)
 | 2023-09-13 | 201,952 | 79 |
 | 2023-09-14 | 202,116 | 79 |
 | 2023-09-15 | 202,318 | 79 |
-| 2023-09-16 | 202,357 | 79 |
+| 2023-09-16 | 202,365 | 79 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 192)  
 Sum: 4,752 (Ranked 136)  
