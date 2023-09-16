@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -646,9 +646,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 10002,
+  "EOS_Progressed": 10004,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9581,6 +9581,11 @@
       "Time": "2023-09-16T20:10:29.759443+00:00",
       "NumProgressed": 10002,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-16T21:10:21.7375599+00:00",
+      "NumProgressed": 10004,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9696,7 +9701,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4201
+      "UsersEstimate": 4202
     },
     {
       "ID": "ACH15",
@@ -9752,7 +9757,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4601
+      "UsersEstimate": 4602
     },
     {
       "ID": "ACH22",
@@ -9760,7 +9765,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ACH23",
@@ -9776,7 +9781,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH25",
@@ -9784,7 +9789,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH26",
@@ -9792,7 +9797,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH27",
@@ -9863,7 +9868,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10002,
+      "Progressed": 10004,
       "Completed": 56
     }
   ],
@@ -9871,8 +9876,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-13T17:57:32.0415645+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:10:29.7594425+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:10:21.7375594+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:59:34.5732688+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:10:29.759534+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:59:24.4468218+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:10:21.7376865+00:00"
 }

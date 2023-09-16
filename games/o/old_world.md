@@ -110,6 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~140 |
 | Points Victory | 1.00% | ~140 |
 | Win a Single Player Game | 1.00% | ~140 |
+| Bad Heir Day | 0.90% | ~126 |
 | Devout | 0.90% | ~126 |
 | Landowners | 0.90% | ~126 |
 | Church of the Holy Sepulchre | 0.90% | ~126 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.90% | ~126 |
 | Revelation | 0.90% | ~126 |
 | Veneration | 0.90% | ~126 |
-| Bad Heir Day | 0.80% | ~112 |
 | Strong Difficulty | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
 | Adur Burzen-Mihr | 0.80% | ~112 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,953 (Ranked 123)  
+Progressed: 13,954 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,10 +452,10 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,953 | 5 |
+| 2023-09-16 | 13,954 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
-Sum: 1,809 (Ranked 207)  
+Sum: 1,811 (Ranked 207)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -463,7 +463,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 209 |
 | This game has Diverse Characters | 208 |
 | This game is Extremely Fun | 208 |
-| This game is Educational | 204 |
+| This game is Educational | 206 |
 | This game has Challenging Combat | 196 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Characters | 189 |
@@ -600,4 +600,4 @@ Diff (max vs sum): 58
 | 2023-09-05 | 4.65 | - | 221 | 1,804 |
 | 2023-09-08 | 4.65 | - | 221 | 1,807 |
 | 2023-09-13 | 4.65 | - | 221 | 1,808 |
-| 2023-09-16 | 4.65 | - | 221 | 1,809 |
+| 2023-09-16 | 4.65 | - | 221 | 1,811 |

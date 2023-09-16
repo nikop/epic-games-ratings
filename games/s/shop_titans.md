@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.70% | ~954 |
 | Blank Page Syndrome | 0.70% | ~954 |
 | Efficient Floor Space | 0.70% | ~954 |
+| Gem Expert | 0.70% | ~954 |
 | Accomplished Merchant | 0.70% | ~954 |
 | Did we pack lunch? | 0.70% | ~954 |
 | Arcane Industries | 0.70% | ~954 |
@@ -40,7 +41,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.60% | ~818 |
 | Power of Love | 0.60% | ~818 |
 | Flawless Fusion | 0.60% | ~818 |
-| Gem Expert | 0.60% | ~818 |
 | Helping Hand | 0.60% | ~818 |
 | Natural 20 | 0.60% | ~818 |
 | A Notch Above the Rest | 0.50% | ~681 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,269 (Ranked 69)  
+Progressed: 136,273 (Ranked 69)  
 Completed: 152 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 152 (0.11%) (Ranked 218)
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
 | 2023-09-15 | 136,220 | 151 |
-| 2023-09-16 | 136,269 | 152 |
+| 2023-09-16 | 136,273 | 152 |
 ## Awards
 Max (Great for Beginners): 4,746  (Ranked 71)  
 Sum: 27,242 (Ranked 48)  

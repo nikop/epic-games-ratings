@@ -4,7 +4,7 @@
   "ProductSlug": "faraday-protocol-a083a9",
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-13T16:00:00+00:00",
@@ -196,8 +196,8 @@
   "FirstSeenRating": "2023-03-31T05:58:35.4805099+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.4261709+00:00",
   "LastChanged": "2023-03-31T05:58:35.48051+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:08:26.062276+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:08:18.9683126+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.5387744+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:59:59.7563444+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:08:26.0622911+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:59:50.0158996+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:08:18.9683247+00:00"
 }

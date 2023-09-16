@@ -13,9 +13,9 @@
 | Tactician | 9.00% | ~13 |
 | Breached | 8.00% | ~12 |
 | Fight Another Day | 8.00% | ~12 |
+| Tail-wind | 7.00% | ~10 |
 | Scholar | 6.00% | ~9 |
 | Acquaintance | 6.00% | ~9 |
-| Tail-wind | 6.00% | ~9 |
 | Taskmaster | 6.00% | ~9 |
 | Conciliator | 5.00% | ~7 |
 | The More the Merrier | 5.00% | ~7 |
@@ -55,6 +55,7 @@
 | Talent Nurtured | 1.00% | ~1 |
 | Embellished | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
+| Moving At Odd Angles | 1.00% | ~1 |
 | Ruiner | 1.00% | ~1 |
 | Wyrmslayer | 1.00% | ~1 |
 | Glorious leader | 1.00% | ~1 |
@@ -65,7 +66,6 @@
 | Forged in Battle | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |
 | Huntsmaster | 0.70% | ~1 |
-| Moving At Odd Angles | 0.70% | ~1 |
 | Escort | 0.70% | ~1 |
 | Despoiler | 0.70% | ~1 |
 | Celebrity | 0.70% | ~1 |

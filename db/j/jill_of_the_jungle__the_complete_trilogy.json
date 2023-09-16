@@ -2,9 +2,9 @@
   "ID": "0e14884122774ea28f1d33f751d241e6",
   "Name": "Jill of the Jungle: The Complete Trilogy",
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
-  "Ranking_EOS_Progress": 190,
+  "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1743,
+  "EOS_Progressed": 1744,
   "EOS_Completed": 129,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 7.4,
   "EosHistory": [
@@ -6024,6 +6024,11 @@
       "Time": "2023-09-16T18:04:15.1544082+00:00",
       "NumProgressed": 1743,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2023-09-16T21:06:27.2632713+00:00",
+      "NumProgressed": 1744,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 5,
@@ -6035,7 +6040,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "2",
@@ -6074,7 +6079,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1743,
+      "Progressed": 1744,
       "Completed": 129
     }
   ],
@@ -6082,8 +6087,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:06:35.5024638+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:06:27.2632709+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:29.5726683+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:57:20.3622184+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:06:35.5025308+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:57:13.674468+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:06:27.2633288+00:00"
 }

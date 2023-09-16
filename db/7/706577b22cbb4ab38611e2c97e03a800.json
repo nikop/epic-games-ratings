@@ -337,9 +337,9 @@
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "b50kim2",
       "Name": "MISSION 03",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -521,9 +521,9 @@
       "ID": "ACHIEVEMENT_MR_01",
       "SetID": "b50kim2",
       "Name": "MY 1ST REWARD",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_MR_02",
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:06:47.5917761+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:06:39.6762368+00:00",
   "LastUpdate_AppInfo": "2023-09-12T02:11:10.9088436+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:03:20.6532015+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:06:47.5918196+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:03:08.6750789+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:06:39.6763463+00:00"
 }

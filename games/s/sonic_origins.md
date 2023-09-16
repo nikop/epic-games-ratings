@@ -22,10 +22,10 @@ Number of Ratings: 154  (23.09.2022)
 | Boss Rush Attempt | 53.00% | ~255 |
 | Cleared Sonic the Hedgehog | 50.00% | ~241 |
 | Super Sonic | 45.00% | ~217 |
+| Very First Mission Clear! | 44.00% | ~212 |
 | Shut Down Metal Sonic | 43.00% | ~207 |
 | Beware Stingers! | 43.00% | ~207 |
 | Museum Time | 43.00% | ~207 |
-| Very First Mission Clear! | 43.00% | ~207 |
 | Cleared Sonic the Hedgehog 2 | 41.00% | ~198 |
 | Beware Moto Bugs! | 40.00% | ~193 |
 | Cleared Sonic CD | 40.00% | ~193 |
@@ -39,7 +39,7 @@ Number of Ratings: 154  (23.09.2022)
 | Beware Rhinobots! | 16.00% | ~77 |
 | Art Appreciator | 16.00% | ~77 |
 | Sonic CD Mission Master | 15.00% | ~72 |
-| S3 & K Mission Master | 14.00% | ~67 |
+| S3 & K Mission Master | 15.00% | ~72 |
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~63 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 482 (Ranked 250)  

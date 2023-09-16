@@ -3,11 +3,11 @@
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 773,
-  "Ranking_Popularity": 108,
-  "Ranking_PopularitySum": 150,
+  "Ranking_Popularity": 107,
+  "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -1860,18 +1860,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 3797,
       "NumberOfAwardsMax": 2139
+    },
+    {
+      "Time": "2023-09-16T21:01:23.40072+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 3845,
+      "NumberOfAwardsMax": 2177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3797,
-  "NumberOfAwardsMax": 2139,
+  "NumberOfAwards": 3845,
+  "NumberOfAwardsMax": 2177,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2139
+      "Count": 2177
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1901,13 +1907,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 177
+      "Count": 183
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 195
+      "Count": 199
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1940,8 +1946,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-09-16T20:01:32.7087518+00:00",
+  "LastChanged": "2023-09-16T21:01:23.4007199+00:00",
   "LastUpdate_AppInfo": "2023-09-14T20:57:16.622046+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:01:32.7087525+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:05:21.1074121+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:01:23.4007203+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:05:12.5414242+00:00"
 }

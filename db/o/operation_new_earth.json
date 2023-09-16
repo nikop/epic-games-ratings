@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1329,
+  "EOS_Progressed": 1330,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4791,6 +4791,11 @@
       "Time": "2023-09-16T17:04:31.6017058+00:00",
       "NumProgressed": 1329,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T21:06:11.6294066+00:00",
+      "NumProgressed": 1330,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4912,9 +4917,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4968,9 +4973,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -4978,7 +4983,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5105,14 +5110,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1329,
+      "Progressed": 1330,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:06:19.551466+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:06:11.6294062+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:03:25.8519729+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:06:19.5515222+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:03:15.9996578+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:06:11.6294793+00:00"
 }

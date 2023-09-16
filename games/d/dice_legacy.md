@@ -6,17 +6,17 @@ Rating: 4.27 (Ranked 821)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 38.00% | ~399 |
+| The City | 10.00% | ~105 |
 | Manipulating Fate | 9.00% | ~95 |
-| The City | 9.00% | ~95 |
 | Full house | 6.00% | ~63 |
 | Burn and Pillage | 6.00% | ~63 |
 | Hear me out | 6.00% | ~63 |
 | Listening to the crowd | 6.00% | ~63 |
+| The Penitent Ones | 5.00% | ~53 |
 | Hidden Secrets | 5.00% | ~53 |
 | Accepting the Prophecy | 5.00% | ~53 |
 | Just Chilling | 4.00% | ~42 |
 | Ascended | 4.00% | ~42 |
-| The Penitent Ones | 4.00% | ~42 |
 | Greedy | 4.00% | ~42 |
 | The Stranded King | 4.00% | ~42 |
 | Prophecy Fulfilled | 4.00% | ~42 |

@@ -1,22 +1,22 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 486)  
+Rating: 4.55 (Ranked 487)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,197 |
-| First Steps | 80.00% | ~34,578 |
-| Control the Shadows | 67.00% | ~28,959 |
-| Tools of the Trade | 63.00% | ~27,230 |
+| Awakening | 93.00% | ~40,198 |
+| First Steps | 80.00% | ~34,579 |
+| Control the Shadows | 67.00% | ~28,960 |
+| Tools of the Trade | 63.00% | ~27,231 |
 | Apprentice | 60.00% | ~25,934 |
-| Secret Seeker | 57.00% | ~24,637 |
+| Secret Seeker | 57.00% | ~24,638 |
 | Forge of Assassins | 55.00% | ~23,773 |
 | Revenant | 52.00% | ~22,476 |
-| I don’t Care! | 45.00% | ~19,450 |
+| I don’t Care! | 45.00% | ~19,451 |
 | Bird of Prey | 37.00% | ~15,993 |
-| Engraved with Power | 32.00% | ~13,831 |
+| Engraved with Power | 32.00% | ~13,832 |
 | Lady | 31.00% | ~13,399 |
 | Fashionable Assassin | 27.00% | ~11,670 |
 | Apex Predator | 24.00% | ~10,374 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~864 |
 | Anger Management | 1.00% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,223 (Ranked 96)  
+Progressed: 43,224 (Ranked 96)  
 Completed: 238 (0.55%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 238 (0.55%) (Ranked 151)
 | 2023-09-13 | 43,054 | 231 |
 | 2023-09-14 | 43,109 | 232 |
 | 2023-09-15 | 43,179 | 237 |
-| 2023-09-16 | 43,223 | 238 |
+| 2023-09-16 | 43,224 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

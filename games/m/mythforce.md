@@ -6,19 +6,19 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 9.00% | ~212 |
-| That'll Leave a Mark | 9.00% | ~212 |
-| Debuff Dogpile | 8.00% | ~189 |
-| Hit 'Em Where It Hurts | 8.00% | ~189 |
-| Mushroom Madness! | 8.00% | ~189 |
-| Perk Shard Punch Card | 8.00% | ~189 |
+| Debuff Dogpile | 9.00% | ~213 |
+| Faceroll the Bones | 9.00% | ~213 |
+| Hit 'Em Where It Hurts | 9.00% | ~213 |
+| That'll Leave a Mark | 9.00% | ~213 |
+| Mushroom Madness! | 8.00% | ~190 |
+| Perk Shard Punch Card | 8.00% | ~190 |
+| Spending Spree | 7.00% | ~166 |
+| First Strike | 6.00% | ~142 |
 | Horder Better Faster Stronger | 6.00% | ~142 |
-| Spending Spree | 6.00% | ~142 |
 | Everything Must Go! | 5.00% | ~118 |
-| First Strike | 5.00% | ~118 |
 | Ten Steps from the Grave | 5.00% | ~118 |
-| Cold-Blooded Critters | 4.00% | ~94 |
-| Death Becomes You | 4.00% | ~94 |
+| Cold-Blooded Critters | 4.00% | ~95 |
+| Death Becomes You | 4.00% | ~95 |
 | Flawless Victory | 3.00% | ~71 |
 | Next Time on MythForce... | 3.00% | ~71 |
 | The Harder They Fall | 2.00% | ~47 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~5 |
 | Deadalus and Loving It | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,359 (Ranked 179)  
+Progressed: 2,369 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
 | 2023-09-15 | 2,137 | 0 |
-| 2023-09-16 | 2,359 | 0 |
+| 2023-09-16 | 2,369 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 356)  

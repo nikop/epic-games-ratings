@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2201,9 +2201,9 @@
       "ID": "ID_17_CLEAR_FIRST_MISSION",
       "SetID": "7o8nc5m",
       "Name": "Very First Mission Clear!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 212
     },
     {
       "ID": "ID_18_KNUCKLES_GLIDING",
@@ -2257,9 +2257,9 @@
       "ID": "ID_24_SONIC3K_CLEAR_S_RANK_MISSION",
       "SetID": "7o8nc5m",
       "Name": "S3 \u0026 K Mission Master",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "ID_25_PLAY_MIRRORING",
@@ -2361,8 +2361,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:05:21.1072651+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:05:12.4437922+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:29.6550361+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:57:47.3935113+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:05:21.1073037+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:57:40.1712966+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:05:12.4438277+00:00"
 }

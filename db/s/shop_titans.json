@@ -6070,9 +6070,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136269,
+  "EOS_Progressed": 136273,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21420,6 +21420,11 @@
       "Time": "2023-09-16T20:05:17.6149617+00:00",
       "NumProgressed": 136269,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-09-16T21:05:09.0496874+00:00",
+      "NumProgressed": 136273,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 112,
@@ -21893,9 +21898,9 @@
       "ID": "gemsspent",
       "SetID": "anfd17p",
       "Name": "Gem Expert",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 954
     },
     {
       "ID": "gold01",
@@ -22326,15 +22331,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136269,
+      "Progressed": 136273,
       "Completed": 152
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-16T15:58:35.8063727+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:05:17.6149613+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:05:09.0496869+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:59:04.5442539+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:05:17.6152691+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:58:51.9551606+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:05:09.0499367+00:00"
 }

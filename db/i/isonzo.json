@@ -832,9 +832,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6898,
+  "EOS_Progressed": 6899,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5487,6 +5487,11 @@
       "Time": "2023-09-16T20:05:32.6411669+00:00",
       "NumProgressed": 6898,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-16T21:05:23.9594186+00:00",
+      "NumProgressed": 6899,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5514,7 +5519,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -5546,7 +5551,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -5610,7 +5615,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5666,7 +5671,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -5746,7 +5751,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -5857,7 +5862,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6898,
+      "Progressed": 6899,
       "Completed": 8
     }
   ],
@@ -5865,8 +5870,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:05:32.6411665+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:05:23.9594181+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:58:21.4768702+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:05:32.6412315+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:58:11.5281115+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:05:23.9594807+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -910,9 +910,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12364,
+  "EOS_Progressed": 12366,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10480,6 +10480,11 @@
       "Time": "2023-09-16T20:07:26.4263395+00:00",
       "NumProgressed": 12364,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-16T21:07:19.100203+00:00",
+      "NumProgressed": 12366,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10491,7 +10496,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10015
+      "UsersEstimate": 10016
     },
     {
       "ID": "ACH02",
@@ -10499,7 +10504,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH03",
@@ -10539,7 +10544,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "ACH08",
@@ -10547,7 +10552,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6306
+      "UsersEstimate": 6307
     },
     {
       "ID": "ACH09",
@@ -10571,7 +10576,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ACH12",
@@ -10587,7 +10592,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "ACH14",
@@ -10770,7 +10775,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12364,
+      "Progressed": 12366,
       "Completed": 45
     }
   ],
@@ -10778,8 +10783,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-16T00:00:06.9925087+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:07:26.4263391+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:07:19.1002024+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:01:11.1659256+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:07:26.4264976+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:01:03.0722057+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:07:19.1002918+00:00"
 }

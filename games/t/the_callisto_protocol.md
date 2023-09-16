@@ -6,7 +6,7 @@ Rating: 4.19 (Ranked 873)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 7.00% | ~1,116 |
-| Paper Jams | 5.00% | ~797 |
+| Paper Jams | 6.00% | ~957 |
 | Flesh Wound | 4.00% | ~638 |
 | Two Heads Are Better Than One | 4.00% | ~638 |
 | Chew 'Em Up | 4.00% | ~638 |

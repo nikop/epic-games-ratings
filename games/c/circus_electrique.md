@@ -11,7 +11,7 @@ Number of Ratings: 22  (23.09.2022)
 | Grand Opening | 41.00% | ~190 |
 | Path of Learning | 41.00% | ~190 |
 | Built in a Day | 34.00% | ~158 |
-| More Brain Than Brawn | 29.00% | ~135 |
+| More Brain Than Brawn | 30.00% | ~139 |
 | Perfect Illusion | 24.00% | ~111 |
 | Hundred Percent First | 24.00% | ~111 |
 | Dirty Dozen | 20.00% | ~93 |

@@ -3,8 +3,8 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.45,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -486,6 +486,11 @@
       "Time": "2023-09-14T23:07:29.3452928+00:00",
       "NumProgressed": 245,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-16T21:09:18.3491067+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -673,7 +678,7 @@
       "Name": "Clean Conscience",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "VIPER_HACKING",
@@ -688,13 +693,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 6
     }
   ],
@@ -702,8 +707,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:09:27.0445914+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:09:18.3491062+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:25.5505025+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:01:01.3061466+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:09:27.0446383+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:00:55.4367307+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:09:18.3491287+00:00"
 }

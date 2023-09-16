@@ -1313,9 +1313,9 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 255
     },
     {
       "ID": "buy_trainer",
@@ -1585,9 +1585,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "own_home",
@@ -1745,9 +1745,9 @@
       "ID": "work_promotion_1",
       "SetID": "69co12a",
       "Name": "Employee of the week",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "work_promotion_2",
@@ -1776,8 +1776,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:10:04.5708952+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:09:55.7303219+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:27.7978975+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:03:46.2493394+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:10:04.5709678+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:03:38.0347265+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:09:55.7303826+00:00"
 }

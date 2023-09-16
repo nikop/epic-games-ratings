@@ -36,14 +36,14 @@ Number of Ratings: 58  (23.09.2022)
 | Mastery of Weapons | 30.00% | ~355 |
 | Disciple | 30.00% | ~355 |
 | Two Birds | 26.00% | ~307 |
+| Uneasy Alliance | 25.00% | ~296 |
 | Ghosts | 25.00% | ~296 |
-| Uneasy Alliance | 24.00% | ~284 |
 | Mastery of Combat | 22.00% | ~260 |
 | Retaliate | 22.00% | ~260 |
 | Mastery of Rites | 21.00% | ~248 |
+| Crash Test | 21.00% | ~248 |
 | Power Chord | 20.00% | ~236 |
 | Ascension | 20.00% | ~236 |
-| Crash Test | 20.00% | ~236 |
 | Rise as One | 19.00% | ~225 |
 | Showoff | 15.00% | ~177 |
 | Radiation Area | 10.00% | ~118 |

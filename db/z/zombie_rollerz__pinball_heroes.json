@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -623,9 +623,9 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -839,9 +839,9 @@
       "ID": "PRG_BOSS_TUNNELER",
       "SetID": "89cjc9l",
       "Name": "The Tunneler",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "PRG_CHAPTER_1",
@@ -1151,9 +1151,9 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
@@ -1168,8 +1168,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:08:07.6603378+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:08:00.2867426+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:26.6139779+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:03:32.685059+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:08:07.6604913+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:03:25.2097636+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:08:00.2868044+00:00"
 }

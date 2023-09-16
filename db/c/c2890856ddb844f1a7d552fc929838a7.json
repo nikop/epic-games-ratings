@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 799,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1778,9 +1778,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 384
     },
     {
       "ID": "AC29",
@@ -1931,8 +1931,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:08:44.712111+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:08:35.0376856+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:03:36.609967+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:08:44.7121721+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:03:28.2117693+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:08:35.0377414+00:00"
 }

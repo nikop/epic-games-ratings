@@ -5,9 +5,9 @@ Rating: 4.30 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~136 |
+| Level Up! | 89.00% | ~138 |
 | Bullseye! | 85.00% | ~132 |
-| Graduation! | 79.00% | ~122 |
+| Graduation! | 80.00% | ~124 |
 | Villfir Forest | 77.00% | ~119 |
 | Right in the kisser! | 61.00% | ~95 |
 | The Thrower | 49.00% | ~76 |
@@ -15,7 +15,7 @@ Rating: 4.30 (Ranked 800)
 | The Shaman | 47.00% | ~73 |
 | The Penguin | 45.00% | ~70 |
 | The Magician | 43.00% | ~67 |
-| The Tunneler | 39.00% | ~60 |
+| The Tunneler | 40.00% | ~62 |
 | Level Up!! | 38.00% | ~59 |
 | The Shield | 37.00% | ~57 |
 | Kill-streak | 30.00% | ~46 |

@@ -215,9 +215,9 @@
       "ID": "BOSS_KILL7",
       "SetID": "1icc7kd",
       "Name": "Green Thumb",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_KILL8",
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-09-16T20:09:46.4697977+00:00",
+  "LastChanged_Achievements": "2023-09-16T21:09:37.9481436+00:00",
   "LastUpdate_AppInfo": "2023-09-13T04:57:01.0109865+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:04:04.5147226+00:00",
-  "LastUpdate_Achievements": "2023-09-16T20:09:46.4698225+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:03:55.181996+00:00",
+  "LastUpdate_Achievements": "2023-09-16T21:09:37.9481644+00:00"
 }
