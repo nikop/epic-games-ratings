@@ -28,19 +28,19 @@
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,705 | 4.60 | 395 |
 | 27 | [Maneater](games/m/maneater.md) | 13,681 | 4.49 | 583 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,901 | 4.43 | 667 |
-| 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,674 | 4.36 | 749 |
+| 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,677 | 4.36 | 749 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,479 | 4.86 | 31 |
 | 31 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 11,883 | 4.74 | 145 |
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,757 | 4.39 | 721 |
-| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,508 | 4.45 | 640 |
-| 34 | [Satisfactory](games/s/satisfactory.md) | 11,506 | 4.88 | 19 |
-| 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,421 | 4.69 | 217 |
+| 33 | [Satisfactory](games/s/satisfactory.md) | 11,521 | 4.88 | 19 |
+| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,508 | 4.45 | 640 |
+| 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,427 | 4.69 | 217 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,562 | 4.76 | 117 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,042 | 4.61 | 367 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,037 | 4.78 | 101 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,107 | 4.57 | 449 |
 | 40 | [Control](games/c/control.md) | 8,506 | 4.60 | 395 |
-| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,168 | 4.89 | 13 |
+| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,181 | 4.89 | 13 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,016 | 4.48 | 603 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,845 | 4.85 | 43 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,838 | 4.57 | 449 |
@@ -57,7 +57,7 @@
 | 55 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,367 | 4.58 | 431 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,102 | 4.69 | 217 |
 | 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,061 | 4.54 | 504 |
-| 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,000 | 4.79 | 88 |
+| 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,002 | 4.79 | 88 |
 | 59 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,968 | 4.64 | 313 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,953 | 4.75 | 136 |
 | 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,869 | 4.66 | 279 |
@@ -87,7 +87,7 @@
 | 85 | [Paladins](games/p/paladins.md) | 3,637 | 4.33 | 773 |
 | 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,569 | 4.46 | 625 |
 | 87 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,568 | 3.98 | 951 |
-| 88 | [Gloomhaven](games/g/gloomhaven.md) | 3,522 | 4.47 | 614 |
+| 88 | [Gloomhaven](games/g/gloomhaven.md) | 3,524 | 4.47 | 614 |
 | 89 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,514 | 4.68 | 241 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,347 | 4.68 | 241 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,331 | 4.76 | 117 |
@@ -246,7 +246,7 @@
 | 244 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 283 | 4.43 | 667 |
 | 245 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 282 | 4.62 | 350 |
 | 245 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 282 | 4.61 | 367 |
-| 247 | [Diabotical](games/d/diabotical.md) | 278 | 4.75 | 136 |
+| 247 | [Diabotical](games/d/diabotical.md) | 279 | 4.75 | 136 |
 | 248 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 276 | 4.49 | 583 |
 | 249 | [Sheltered](games/s/sheltered.md) | 273 | 4.42 | 678 |
 | 250 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 265 | 4.84 | 50 |

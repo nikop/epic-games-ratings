@@ -12,7 +12,7 @@
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 517 |
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,892 | 111 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 517 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,168 | 41 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,181 | 41 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 517 |
 | 13 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 517 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 434 | 210 |
@@ -22,7 +22,7 @@
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,262 | 78 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,025 | 144 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 176,452 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,506 | 34 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,521 | 33 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 498 |
 | 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 284 | 243 |
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,441 | 126 |
@@ -95,7 +95,7 @@
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 517 |
 | 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 926 | 152 |
 | 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 760 | 162 |
-| 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,000 | 58 |
+| 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,002 | 58 |
 | 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,468 | 102 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 389 | 220 |
 | 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 122 | 320 |
@@ -137,7 +137,7 @@
 | 117 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 367 | 225 |
 | 136 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 27 | 473 |
 | 136 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,953 | 60 |
-| 136 | [Diabotical](games/d/diabotical.md) | 4.75 | 278 | 247 |
+| 136 | [Diabotical](games/d/diabotical.md) | 4.75 | 279 | 247 |
 | 136 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 701 | 168 |
 | 136 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 517 |
 | 136 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 601 | 187 |
@@ -228,7 +228,7 @@
 | 217 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 517 |
 | 217 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 517 |
 | 217 | [Revita](games/r/revita.md) | 4.69 | 0 | 517 |
-| 217 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,421 | 35 |
+| 217 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,427 | 35 |
 | 217 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 289 | 240 |
 | 217 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.69 | 0 | 517 |
 | 217 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 473 |
@@ -617,7 +617,7 @@
 | 614 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 50 | 405 |
 | 614 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 517 |
 | 614 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 517 |
-| 614 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,522 | 88 |
+| 614 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,524 | 88 |
 | 614 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 517 |
 | 614 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 514 |
 | 614 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 517 |
@@ -643,7 +643,7 @@
 | 640 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 247 | 258 |
 | 640 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 836 | 155 |
 | 640 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 108 | 332 |
-| 640 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,508 | 33 |
+| 640 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,508 | 34 |
 | 640 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 879 | 153 |
 | 640 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 118 | 323 |
 | 640 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 517 |
@@ -752,7 +752,7 @@
 | 749 | [Core](games/c/core.md) | 4.36 | 749 | 163 |
 | 749 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 287 |
 | 749 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.36 | 0 | 517 |
-| 749 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,674 | 29 |
+| 749 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,677 | 29 |
 | 749 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 517 |
 | 749 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 481 |
 | 749 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 117 | 324 |
