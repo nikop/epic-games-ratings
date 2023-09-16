@@ -13,19 +13,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 5.00% | ~698 |
 | Able | 4.00% | ~558 |
 | Architect | 4.00% | ~558 |
+| Good | 4.00% | ~558 |
 | Intrepid | 4.00% | ~558 |
 | Mason | 4.00% | ~558 |
+| Noble | 4.00% | ~558 |
 | Strong | 4.00% | ~558 |
 | Hanging Gardens | 4.00% | ~558 |
 | Ambitious | 3.00% | ~419 |
 | Enlightened | 3.00% | ~419 |
 | Glorious | 3.00% | ~419 |
-| Good | 3.00% | ~419 |
 | Just | 3.00% | ~419 |
 | Keystone | 3.00% | ~419 |
 | Learned | 3.00% | ~419 |
 | Magnificent | 3.00% | ~419 |
-| Noble | 3.00% | ~419 |
 | Pioneer | 3.00% | ~419 |
 | Warrior | 3.00% | ~419 |
 | Developing Cities | 3.00% | ~419 |
@@ -113,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.90% | ~126 |
 | Landowners | 0.90% | ~126 |
 | Church of the Holy Sepulchre | 0.90% | ~126 |
+| Carthage | 0.90% | ~126 |
 | Industrial Progress | 0.90% | ~126 |
 | Military Prestige | 0.90% | ~126 |
 | Enlightenment | 0.90% | ~126 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.80% | ~112 |
 | Adur Burzen-Mihr | 0.80% | ~112 |
 | Babylonia | 0.80% | ~112 |
-| Carthage | 0.80% | ~112 |
 | Kushite Cavalry | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
@@ -157,6 +157,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
+| Great Difficulty | 0.30% | ~42 |
 | Magnificent Difficulty | 0.30% | ~42 |
 | Event Level High | 0.30% | ~42 |
 | Run, Pheidippides, Run! | 0.30% | ~42 |
@@ -177,7 +178,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
-| Great Difficulty | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
 | Get the Hellas Out | 0.20% | ~28 |
 | The Turning Point | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,951 (Ranked 123)  
+Progressed: 13,953 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,951 | 5 |
+| 2023-09-16 | 13,953 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

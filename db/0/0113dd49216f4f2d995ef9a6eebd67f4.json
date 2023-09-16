@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -502,9 +502,9 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -589,8 +589,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:04:29.2271207+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:05:25.7387469+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.7040236+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:02:12.4097414+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:04:29.2271498+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:02:52.5807421+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:05:25.7387787+00:00"
 }

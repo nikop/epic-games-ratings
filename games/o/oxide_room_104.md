@@ -24,8 +24,8 @@
 | The real escape | 11.00% | ~19 |
 | Good choice | 11.00% | ~19 |
 | Take the long way round | 11.00% | ~19 |
+| He who seeks, finds! | 11.00% | ~19 |
 | Nightmare in the kitchen | 10.00% | ~18 |
-| He who seeks, finds! | 10.00% | ~18 |
 | Born again | 7.00% | ~12 |
 | The experiment | 6.00% | ~11 |
 | 373 | 5.00% | ~9 |

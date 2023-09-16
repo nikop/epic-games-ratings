@@ -1,7 +1,7 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 603)  
+Rating: 4.48 (Ranked 602)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -41,8 +41,8 @@ Number of Ratings: 836  (23.09.2022)
 | Prepared for Anything | 13.00% | ~1,174 |
 | Big Catastrofan | 13.00% | ~1,174 |
 | It's a Finnish Thing | 10.00% | ~903 |
+| Sky Burial | 10.00% | ~903 |
 | Trader | 9.00% | ~813 |
-| Sky Burial | 9.00% | ~813 |
 | Bread and Circuses | 8.00% | ~723 |
 | New Eden | 7.00% | ~632 |
 | Tailored to fit | 7.00% | ~632 |

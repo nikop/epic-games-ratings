@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37373,
+  "EOS_Progressed": 37375,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15892,6 +15892,11 @@
       "Time": "2023-09-16T19:07:45.2908259+00:00",
       "NumProgressed": 37373,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T20:09:03.2749198+00:00",
+      "NumProgressed": 37375,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -15919,7 +15924,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "ach_antiquarian10",
@@ -16023,7 +16028,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13454
+      "UsersEstimate": 13455
     },
     {
       "ID": "ach_die10",
@@ -16063,7 +16068,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ach_hunterskeep",
@@ -16079,7 +16084,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ach_ladylilac",
@@ -16111,7 +16116,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "ach_legacysalvager",
@@ -16255,7 +16260,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6727
+      "UsersEstimate": 6728
     },
     {
       "ID": "ach_terror100",
@@ -16334,15 +16339,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37373,
+      "Progressed": 37375,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:07:45.2908254+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:09:03.2749193+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:44.1241122+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:01:09.0554202+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:07:45.2909633+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:01:46.8220856+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:09:03.2750896+00:00"
 }

@@ -1,16 +1,16 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.15 (Ranked 899)  
+Rating: 4.15 (Ranked 900)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,582 |
-| Hey Good Hookin | 69.00% | ~4,002 |
-| I'm on a Boat! | 59.00% | ~3,422 |
-| Can you smell what the Rod is Hooking | 55.00% | ~3,190 |
-| Scaling up | 55.00% | ~3,190 |
+| Fish Just Got Reel | 79.00% | ~4,583 |
+| Hey Good Hookin | 69.00% | ~4,003 |
+| I'm on a Boat! | 59.00% | ~3,423 |
+| Can you smell what the Rod is Hooking | 55.00% | ~3,191 |
+| Scaling up | 55.00% | ~3,191 |
 | More Fish in the Sea | 48.00% | ~2,784 |
 | Ready to Rod and Roll | 46.00% | ~2,668 |
 | Fish Out of Water | 35.00% | ~2,030 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,800 (Ranked 147)  
+Progressed: 5,801 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 5,780 | 0 |
 | 2023-09-14 | 5,786 | 0 |
 | 2023-09-15 | 5,794 | 0 |
-| 2023-09-16 | 5,800 | 0 |
+| 2023-09-16 | 5,801 | 0 |
 ## Awards
 Max (Relaxing): 34  (Ranked 449)  
 Sum: 171 (Ranked 390)  

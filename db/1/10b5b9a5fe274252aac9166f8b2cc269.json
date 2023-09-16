@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 252,
-  "EOS_Completed": 100,
+  "EOS_Completed": 101,
   "EOS_NewPlayers": 73,
-  "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 39.68,
+  "EOS_NewCompleters": 34,
+  "EOS_Completed_Percentage": 40.08,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1326,6 +1326,11 @@
       "Time": "2023-09-16T15:08:11.7702481+00:00",
       "NumProgressed": 252,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-09-16T20:09:27.8826088+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 101
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -1336,9 +1341,9 @@
       "ID": "PORTRAIT_1",
       "SetID": "2fge00i",
       "Name": "Portrait 1",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 244
     },
     {
       "ID": "PORTRAIT_10",
@@ -1498,13 +1503,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 252,
-      "Completed": 100
+      "Completed": 101
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:08:17.7951816+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:09:27.8826079+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.9907185+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:02:46.0591528+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:08:17.7952053+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:03:28.8640997+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:09:27.8826318+00:00"
 }

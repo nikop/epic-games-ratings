@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1256,9 +1256,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1384,9 +1384,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
@@ -1401,8 +1401,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:07:34.0647219+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:08:50.2046108+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:58.717197+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:59:33.5639652+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:07:34.0647536+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:00:08.8057206+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:08:50.2046444+00:00"
 }

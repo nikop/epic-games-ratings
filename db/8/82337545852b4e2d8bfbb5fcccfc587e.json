@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 70,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "EpicACHV_14",
@@ -290,9 +290,9 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "EpicACHV_7",
@@ -329,8 +329,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:05:13.644882+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:06:16.8737806+00:00",
   "LastUpdate_AppInfo": "2023-09-13T05:57:11.6073515+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:59:52.5924677+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:05:13.6448944+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:00:32.7483102+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:06:16.8738105+00:00"
 }

@@ -6700,7 +6700,7 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229057,
+  "EOS_Progressed": 229067,
   "EOS_Completed": 2288,
   "EOS_NewPlayers": 913,
   "EOS_NewCompleters": 23,
@@ -23240,6 +23240,11 @@
       "Time": "2023-09-16T19:07:22.8037037+00:00",
       "NumProgressed": 229057,
       "NumCompleted": 2288
+    },
+    {
+      "Time": "2023-09-16T20:08:34.8283766+00:00",
+      "NumProgressed": 229067,
+      "NumCompleted": 2288
     }
   ],
   "TotalAchievements": 520,
@@ -26449,9 +26454,9 @@
       "ID": "objective_completed_77",
       "SetID": "cc37lbc",
       "Name": "Rude Welcome",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_79",
@@ -27410,21 +27415,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195331,
+      "Progressed": 195341,
       "Completed": 3434
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229057,
+      "Progressed": 229067,
       "Completed": 2288
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-16T18:58:11.373151+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:07:22.803703+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:08:34.8283762+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:58:11.3731516+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:07:22.8069573+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:58:23.9737861+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:08:34.8314724+00:00"
 }

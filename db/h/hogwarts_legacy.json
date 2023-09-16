@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7704,9 +7704,9 @@
       "Count": 650
     }
   ],
-  "EOS_Progressed": 296742,
+  "EOS_Progressed": 296747,
   "EOS_Completed": 472,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23874,6 +23874,11 @@
       "Time": "2023-09-16T19:05:09.3582894+00:00",
       "NumProgressed": 296742,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-09-16T20:06:11.8005008+00:00",
+      "NumProgressed": 296747,
+      "NumCompleted": 472
     }
   ],
   "TotalAchievements": 45,
@@ -23885,7 +23890,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41544
+      "UsersEstimate": 41545
     },
     {
       "ID": "PFA_10",
@@ -23893,7 +23898,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29674
+      "UsersEstimate": 29675
     },
     {
       "ID": "PFA_11",
@@ -23901,7 +23906,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29674
+      "UsersEstimate": 29675
     },
     {
       "ID": "PFA_12",
@@ -23909,7 +23914,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29674
+      "UsersEstimate": 29675
     },
     {
       "ID": "PFA_13",
@@ -23941,7 +23946,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29674
+      "UsersEstimate": 29675
     },
     {
       "ID": "PFA_17",
@@ -23957,7 +23962,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23739
+      "UsersEstimate": 23740
     },
     {
       "ID": "PFA_19",
@@ -24005,7 +24010,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35609
+      "UsersEstimate": 35610
     },
     {
       "ID": "PFA_24",
@@ -24013,7 +24018,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29674
+      "UsersEstimate": 29675
     },
     {
       "ID": "PFA_25",
@@ -24141,7 +24146,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29674
+      "UsersEstimate": 29675
     },
     {
       "ID": "PFA_4",
@@ -24189,7 +24194,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23739
+      "UsersEstimate": 23740
     },
     {
       "ID": "PFA_45",
@@ -24213,7 +24218,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38576
+      "UsersEstimate": 38577
     },
     {
       "ID": "PFA_7",
@@ -24221,7 +24226,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38576
+      "UsersEstimate": 38577
     },
     {
       "ID": "PFA_8",
@@ -24244,7 +24249,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296742,
+      "Progressed": 296747,
       "Completed": 472
     }
   ],
@@ -24252,8 +24257,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-16T17:56:59.7204563+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:05:09.3582889+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:06:11.8005004+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:57:18.4349435+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:05:09.3584092+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:57:30.4533591+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:06:11.8006998+00:00"
 }

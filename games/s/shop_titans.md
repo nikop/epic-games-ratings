@@ -82,6 +82,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.40% | ~545 |
 | Wealth Beyond Measure | 0.40% | ~545 |
 | Fat Cat Tag Team | 0.40% | ~545 |
+| Necromancer Queen | 0.40% | ~545 |
 | Item of Renown | 0.40% | ~545 |
 | Master Merchant | 0.40% | ~545 |
 | Laden with Loot | 0.40% | ~545 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.30% | ~409 |
 | Thank You Tom Nook | 0.30% | ~409 |
 | A Legend is Born | 0.30% | ~409 |
-| Necromancer Queen | 0.30% | ~409 |
 | Jackpot! | 0.30% | ~409 |
 | All Accounted For | 0.30% | ~409 |
 | Economy of Scarce | 0.30% | ~409 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,265 (Ranked 69)  
+Progressed: 136,269 (Ranked 69)  
 Completed: 152 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 152 (0.11%) (Ranked 218)
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
 | 2023-09-15 | 136,220 | 151 |
-| 2023-09-16 | 136,265 | 152 |
+| 2023-09-16 | 136,269 | 152 |
 ## Awards
 Max (Great for Beginners): 4,746  (Ranked 71)  
 Sum: 27,242 (Ranked 48)  

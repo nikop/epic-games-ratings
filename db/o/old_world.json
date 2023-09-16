@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1695,9 +1695,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13951,
+  "EOS_Progressed": 13953,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11635,6 +11635,11 @@
       "Time": "2023-09-16T19:09:50.8060152+00:00",
       "NumProgressed": 13951,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T20:11:02.6267542+00:00",
+      "NumProgressed": 13953,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12100,9 +12105,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -12212,9 +12217,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 419
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -12404,9 +12409,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great Difficulty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
@@ -13260,9 +13265,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -14013,21 +14018,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13951,
+      "Progressed": 13953,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13951,
+      "Progressed": 13953,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T02:10:40.587434+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:09:50.8060147+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:11:02.6267538+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:58:33.6221041+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:09:50.8068721+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:58:55.1035475+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:11:02.6275495+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 89.00% | ~287 |
+| Your first fight | 87.00% | ~281 |
 | Good Person Chip | 86.00% | ~278 |
-| Your first fight | 86.00% | ~278 |
 | First winning | 85.00% | ~275 |
 | Your first job | 84.00% | ~271 |
 | Old movies enjoyer | 80.00% | ~258 |
@@ -32,7 +32,7 @@
 | Employee of the year | 60.00% | ~194 |
 | Fight for life | 59.00% | ~191 |
 | Little hacker | 58.00% | ~187 |
-| Intriguing candies | 57.00% | ~184 |
+| Intriguing candies | 58.00% | ~187 |
 | Legal courier | 56.00% | ~181 |
 | Extreme neuropower! | 55.00% | ~178 |
 | Escaped from a big trouble | 53.00% | ~171 |
@@ -47,9 +47,9 @@
 | Responsible approach | 42.00% | ~136 |
 | Mom got better | 41.00% | ~132 |
 | GYM professional | 41.00% | ~132 |
+| Poisoned fighter | 41.00% | ~132 |
 | Get out of my apartment! | 41.00% | ~132 |
 | The die is cast | 41.00% | ~132 |
-| Poisoned fighter | 40.00% | ~129 |
 | Seashell hunter | 39.00% | ~126 |
 | Gang wrangler | 37.00% | ~120 |
 | Problems of cyborgs | 36.00% | ~116 |

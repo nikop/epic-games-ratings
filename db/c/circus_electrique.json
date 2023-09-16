@@ -2,13 +2,13 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 893,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 464,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -439,6 +439,11 @@
       "Time": "2023-09-15T23:07:47.4364535+00:00",
       "NumProgressed": 463,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T20:09:58.8819435+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -466,7 +471,7 @@
       "Name": "Lion Tamer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -496,9 +501,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "631ndc2",
       "Name": "Circus Electrique Proudly Presents...",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -506,7 +511,7 @@
       "Name": "Built in a Day",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -554,7 +559,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -849,7 +854,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 464,
       "Completed": 1
     }
   ],
@@ -857,8 +862,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:08:45.3242602+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:09:58.8819275+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.7956717+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:58:19.4462181+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:08:45.3243089+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:58:31.165915+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:09:58.8820472+00:00"
 }

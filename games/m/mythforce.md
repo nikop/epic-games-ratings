@@ -1,36 +1,36 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 583)  
+Rating: 4.48 (Ranked 602)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Debuff Dogpile | 8.00% | ~188 |
-| Faceroll the Bones | 8.00% | ~188 |
-| Hit 'Em Where It Hurts | 8.00% | ~188 |
-| Perk Shard Punch Card | 8.00% | ~188 |
-| That'll Leave a Mark | 8.00% | ~188 |
-| Mushroom Madness! | 7.00% | ~164 |
-| Horder Better Faster Stronger | 6.00% | ~141 |
-| Spending Spree | 6.00% | ~141 |
-| Everything Must Go! | 5.00% | ~117 |
-| First Strike | 5.00% | ~117 |
-| Ten Steps from the Grave | 5.00% | ~117 |
+| Faceroll the Bones | 9.00% | ~212 |
+| That'll Leave a Mark | 9.00% | ~212 |
+| Debuff Dogpile | 8.00% | ~189 |
+| Hit 'Em Where It Hurts | 8.00% | ~189 |
+| Mushroom Madness! | 8.00% | ~189 |
+| Perk Shard Punch Card | 8.00% | ~189 |
+| Horder Better Faster Stronger | 6.00% | ~142 |
+| Spending Spree | 6.00% | ~142 |
+| Everything Must Go! | 5.00% | ~118 |
+| First Strike | 5.00% | ~118 |
+| Ten Steps from the Grave | 5.00% | ~118 |
 | Cold-Blooded Critters | 4.00% | ~94 |
 | Death Becomes You | 4.00% | ~94 |
-| Flawless Victory | 3.00% | ~70 |
-| Next Time on MythForce... | 3.00% | ~70 |
+| Flawless Victory | 3.00% | ~71 |
+| Next Time on MythForce... | 3.00% | ~71 |
 | The Harder They Fall | 2.00% | ~47 |
-| Deadication | 1.00% | ~23 |
-| On this Episode! | 1.00% | ~23 |
+| Deadication | 1.00% | ~24 |
+| On this Episode! | 1.00% | ~24 |
 | Season Finale | 0.80% | ~19 |
-| The Fourth Gate | 0.70% | ~16 |
+| The Fourth Gate | 0.70% | ~17 |
 | We've Got a Kaiju on the Field | 0.60% | ~14 |
 | Vexed Her | 0.20% | ~5 |
 | Deadalus and Loving It | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,349 (Ranked 179)  
+Progressed: 2,359 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
 | 2023-09-15 | 2,137 | 0 |
-| 2023-09-16 | 2,349 | 0 |
+| 2023-09-16 | 2,359 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 356)  
@@ -191,3 +191,4 @@ Diff (max vs sum): 102
 | 2023-09-08 | 4.49 | - | 32 | 256 |
 | 2023-09-12 | 4.49 | - | 32 | 257 |
 | 2023-09-13 | 4.49 | - | 32 | 259 |
+| 2023-09-16 | 4.48 | - | 32 | 259 |

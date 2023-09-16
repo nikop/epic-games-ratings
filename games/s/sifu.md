@@ -15,6 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.20% | ~1,430 |
 | Lightning Hands | 0.20% | ~1,430 |
 | Diligence as a goal | 0.20% | ~49 |
+| Martial Hub | 0.20% | ~49 |
 | Fight the way you practice | 0.20% | ~49 |
 | A Lady's Blood in the Snow | 0.10% | ~715 |
 | Lady Wing Chun | 0.10% | ~715 |
@@ -52,7 +53,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.10% | ~715 |
 | Project Arena | 0.10% | ~24 |
 | Bloody Sport | 0.10% | ~24 |
-| Martial Hub | 0.10% | ~24 |
 | Deadly Venom | 0.10% | ~24 |
 | Secure, Protect, Leave | 0.10% | ~24 |
 | The best strikes are the ones we avoid | 0.10% | ~24 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,049 (Ranked 20)  
+Progressed: 715,051 (Ranked 20)  
 Completed: 12,895 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 12,895 (1.80%) (Ranked 102)
 | 2023-09-13 | 714,933 | 12,891 |
 | 2023-09-14 | 714,971 | 12,892 |
 | 2023-09-15 | 715,005 | 12,893 |
-| 2023-09-16 | 715,049 | 12,895 |
+| 2023-09-16 | 715,051 | 12,895 |
 ## Awards
 Max (Great Boss Battles): 6,512  (Ranked 53)  
 Sum: 11,252 (Ranked 81)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -554,9 +554,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BRING_MARY",
@@ -626,9 +626,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -713,8 +713,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:07:38.2824745+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:08:55.0495169+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-16T19:03:25.6608529+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:07:38.2824936+00:00"
+  "LastUpdate_Ratings": "2023-09-16T20:04:10.3812766+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:08:55.0495341+00:00"
 }

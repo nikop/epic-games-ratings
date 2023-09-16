@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224513,
+  "EOS_Progressed": 224528,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1864,
+  "EOS_NewPlayers": 1856,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11123,6 +11123,11 @@
       "Time": "2023-09-16T19:09:47.1729893+00:00",
       "NumProgressed": 224513,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T20:10:58.5985938+00:00",
+      "NumProgressed": 224528,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11134,7 +11139,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "100Fail",
@@ -11166,7 +11171,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "BookCollection",
@@ -11182,7 +11187,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "Chapter2",
@@ -11190,7 +11195,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "Chapter3",
@@ -11198,7 +11203,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "Chapter4",
@@ -11566,7 +11571,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "ElfEpic",
@@ -11582,7 +11587,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67354
+      "UsersEstimate": 67358
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11598,7 +11603,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "EndCombatOneHp",
@@ -11606,7 +11611,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "EndGameCursed",
@@ -11782,7 +11787,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "SupportCount4",
@@ -11830,28 +11835,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224513,
+      "Progressed": 224528,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224513,
+      "Progressed": 224528,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-16T19:09:47.1729888+00:00",
+  "LastChanged_Achievements": "2023-09-16T20:10:58.5985932+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-16T18:59:00.7204392+00:00",
-  "LastUpdate_Achievements": "2023-09-16T19:09:47.1731505+00:00"
+  "LastUpdate_Ratings": "2023-09-16T19:59:26.700133+00:00",
+  "LastUpdate_Achievements": "2023-09-16T20:10:58.5987764+00:00"
 }
