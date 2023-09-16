@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 50.00% | ~78 |
-| Welcome to the Tower | 48.00% | ~75 |
-| The Preacher's fate | 43.00% | ~68 |
+| That's the spirit | 50.00% | ~80 |
+| Welcome to the Tower | 47.00% | ~75 |
 | The great escape | 43.00% | ~68 |
-| A new dawn | 38.00% | ~60 |
-| Scholar | 34.00% | ~53 |
-| The darkness | 34.00% | ~53 |
-| A good beginning | 32.00% | ~50 |
+| The Preacher's fate | 42.00% | ~67 |
+| A new dawn | 37.00% | ~59 |
+| Scholar | 34.00% | ~54 |
+| The darkness | 33.00% | ~52 |
+| A good beginning | 32.00% | ~51 |
 | True G4M3R | 31.00% | ~49 |
-| One last step | 28.00% | ~44 |
+| One last step | 28.00% | ~45 |
 | Champollion | 26.00% | ~41 |
-| In this together | 25.00% | ~39 |
-| Cable guy | 25.00% | ~39 |
+| In this together | 25.00% | ~40 |
+| Cable guy | 25.00% | ~40 |
 | Peace walker | 24.00% | ~38 |
 | Half the way | 24.00% | ~38 |
-| Open door | 24.00% | ~38 |
+| Open door | 23.00% | ~37 |
 | Feels like springtime | 21.00% | ~33 |
-| Free at last | 20.00% | ~31 |
-| Rascal | 20.00% | ~31 |
-| Alchemists Express | 18.00% | ~28 |
-| A Link to the Past | 17.00% | ~27 |
-| A great audience | 13.00% | ~20 |
-| For its own good | 13.00% | ~20 |
-| Fashion victim | 13.00% | ~20 |
-| I did it | 10.00% | ~16 |
+| Rascal | 20.00% | ~32 |
+| Free at last | 19.00% | ~30 |
+| Alchemists Express | 19.00% | ~30 |
+| A Link to the Past | 18.00% | ~29 |
+| A great audience | 13.00% | ~21 |
+| For its own good | 13.00% | ~21 |
+| Fashion victim | 13.00% | ~21 |
+| I did it | 9.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157 (Ranked 326)  
-Completed: 8 (5.10%) (Ranked 52)  
+Progressed: 159 (Ranked 326)  
+Completed: 8 (5.03%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,4 +89,4 @@ Completed: 8 (5.10%) (Ranked 52)
 | 2023-09-13 | 153 | 7 |
 | 2023-09-14 | 154 | 8 |
 | 2023-09-15 | 156 | 8 |
-| 2023-09-16 | 157 | 8 |
+| 2023-09-16 | 159 | 8 |

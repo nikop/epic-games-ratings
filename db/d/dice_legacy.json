@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-09-16T12:05:34.6864756+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T14:03:30.4494978+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1712,7 +1717,7 @@
       "Name": "The great fire",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CONTAINERS_MILL_FARMS_SURROUNDED",
@@ -1760,7 +1765,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -1824,7 +1829,7 @@
       "Name": "The City",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "GOLDMASTER",
@@ -1848,7 +1853,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "SUMMON_BOSS",
@@ -1904,7 +1909,7 @@
       "Name": "The Council",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -1952,7 +1957,7 @@
       "Name": "The Mad",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
@@ -1984,7 +1989,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -1999,7 +2004,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 0
     }
   ],
@@ -2007,8 +2012,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:05:33.9725814+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:03:30.4494972+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.3964182+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:59:37.838599+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:05:33.9726624+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:57:22.245689+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:03:30.4495435+00:00"
 }

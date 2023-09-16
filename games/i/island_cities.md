@@ -13,7 +13,7 @@
 | Burger or pizza? | 37.00% | ~259 |
 | Passion for sports | 32.00% | ~224 |
 | Who loves trains? | 29.00% | ~203 |
-| Easy and steady climb | 27.00% | ~189 |
+| Easy and steady climb | 28.00% | ~196 |
 | At the heart of the city | 24.00% | ~168 |
 | Calm neighborhood | 22.00% | ~154 |
 | Elevated ring | 20.00% | ~140 |
@@ -21,7 +21,7 @@
 | Monumental tribute | 18.00% | ~126 |
 | The beach is right there | 17.00% | ~119 |
 | Commuting | 17.00% | ~119 |
-| Le jardin magnifique | 16.00% | ~112 |
+| Le jardin magnifique | 17.00% | ~119 |
 | Aiming for a living and human city | 16.00% | ~112 |
 | City of dreams | 15.00% | ~105 |
 | Happy Christmas night! | 15.00% | ~105 |

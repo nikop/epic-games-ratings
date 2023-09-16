@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,477 |
-| Cavalier | 25.00% | ~200,373 |
-| Fatso | 23.00% | ~184,343 |
-| Awakening | 21.00% | ~168,313 |
-| Ranger | 20.00% | ~160,298 |
-| Scrooge | 20.00% | ~160,298 |
-| Anorectic | 16.00% | ~128,239 |
-| Bookworm | 15.00% | ~120,224 |
-| Firestarter | 15.00% | ~120,224 |
-| Insomniac | 13.00% | ~104,194 |
-| Buddy | 12.00% | ~96,179 |
-| Thief | 12.00% | ~96,179 |
-| Sinner | 11.00% | ~88,164 |
-| Traveller | 11.00% | ~88,164 |
-| Convict | 10.00% | ~80,149 |
-| Haggler | 9.00% | ~72,134 |
-| McLovin | 7.00% | ~56,104 |
-| Runt | 7.00% | ~56,104 |
-| Casanova | 6.00% | ~48,089 |
+| Blacksmith's Son | 32.00% | ~256,481 |
+| Cavalier | 25.00% | ~200,376 |
+| Fatso | 23.00% | ~184,345 |
+| Awakening | 21.00% | ~168,315 |
+| Ranger | 20.00% | ~160,300 |
+| Scrooge | 20.00% | ~160,300 |
+| Anorectic | 16.00% | ~128,240 |
+| Bookworm | 15.00% | ~120,225 |
+| Firestarter | 15.00% | ~120,225 |
+| Insomniac | 13.00% | ~104,195 |
+| Buddy | 12.00% | ~96,180 |
+| Thief | 12.00% | ~96,180 |
+| Sinner | 11.00% | ~88,165 |
+| Traveller | 11.00% | ~88,165 |
+| Convict | 10.00% | ~80,150 |
+| Haggler | 9.00% | ~72,135 |
+| McLovin | 7.00% | ~56,105 |
+| Runt | 7.00% | ~56,105 |
+| Casanova | 6.00% | ~48,090 |
 | Bad Trip | 5.00% | ~40,075 |
 | Monk | 5.00% | ~40,075 |
 | Serial Killer | 5.00% | ~40,075 |
@@ -51,45 +51,45 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,015 |
 | Master Huntsman | 1.00% | ~8,015 |
 | Stealth Killer | 1.00% | ~8,015 |
-| Bailiff | 0.90% | ~7,213 |
-| Tracker | 0.90% | ~7,213 |
-| David Horak | 0.70% | ~5,610 |
-| Fighter | 0.70% | ~5,610 |
-| Mercenary's Honour | 0.70% | ~5,610 |
-| Saviour | 0.70% | ~5,610 |
+| Bailiff | 0.90% | ~7,214 |
+| Tracker | 0.90% | ~7,214 |
+| David Horak | 0.70% | ~5,611 |
+| Fighter | 0.70% | ~5,611 |
+| Mercenary's Honour | 0.70% | ~5,611 |
+| Saviour | 0.70% | ~5,611 |
 | Edward Kelly | 0.60% | ~4,809 |
-| I Can Quit Anytime | 0.50% | ~4,007 |
-| Perfectionist | 0.50% | ~4,007 |
-| Alcoholic | 0.30% | ~2,404 |
-| Sniper | 0.30% | ~2,404 |
+| I Can Quit Anytime | 0.50% | ~4,008 |
+| Perfectionist | 0.50% | ~4,008 |
+| Alcoholic | 0.30% | ~2,405 |
+| Sniper | 0.30% | ~2,405 |
 | Angel of Mercy | 0.20% | ~1,603 |
 | Christian Burial | 0.20% | ~1,603 |
 | Friends without benefits | 0.20% | ~1,603 |
 | Game Over | 0.20% | ~1,603 |
 | Not-so-Christian Burial | 0.20% | ~1,603 |
 | True Friend | 0.20% | ~1,603 |
-| Bad Girl | 0.10% | ~801 |
-| Cleric's pet | 0.10% | ~801 |
-| Full House Sinner | 0.10% | ~801 |
-| Lord Capon's Ghost | 0.10% | ~801 |
-| Hardcore Henry | 0.10% | ~801 |
-| Infernal Justice | 0.10% | ~801 |
-| Judas | 0.10% | ~801 |
-| Like a Ghost | 0.10% | ~801 |
-| Lost Trinket | 0.10% | ~801 |
-| Merciful | 0.10% | ~801 |
-| You had one job! | 0.10% | ~801 |
-| Pilgrim | 0.10% | ~801 |
-| Pinky Promis | 0.10% | ~801 |
-| Ledetchko Revenant | 0.10% | ~801 |
-| 'Tis but a scratch | 0.10% | ~801 |
-| Torturer | 0.10% | ~801 |
-| Trial-And-Error | 0.10% | ~801 |
-| Virgin | 0.10% | ~801 |
-| Voyeur | 0.10% | ~801 |
-| Wingman | 0.10% | ~801 |
+| Bad Girl | 0.10% | ~802 |
+| Cleric's pet | 0.10% | ~802 |
+| Full House Sinner | 0.10% | ~802 |
+| Lord Capon's Ghost | 0.10% | ~802 |
+| Hardcore Henry | 0.10% | ~802 |
+| Infernal Justice | 0.10% | ~802 |
+| Judas | 0.10% | ~802 |
+| Like a Ghost | 0.10% | ~802 |
+| Lost Trinket | 0.10% | ~802 |
+| Merciful | 0.10% | ~802 |
+| You had one job! | 0.10% | ~802 |
+| Pilgrim | 0.10% | ~802 |
+| Pinky Promis | 0.10% | ~802 |
+| Ledetchko Revenant | 0.10% | ~802 |
+| 'Tis but a scratch | 0.10% | ~802 |
+| Torturer | 0.10% | ~802 |
+| Trial-And-Error | 0.10% | ~802 |
+| Virgin | 0.10% | ~802 |
+| Voyeur | 0.10% | ~802 |
+| Wingman | 0.10% | ~802 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,491 (Ranked 16)  
+Progressed: 801,502 (Ranked 16)  
 Completed: 46 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 46 (0.01%) (Ranked 261)
 | 2023-09-13 | 801,187 | 45 |
 | 2023-09-14 | 801,299 | 46 |
 | 2023-09-15 | 801,427 | 46 |
-| 2023-09-16 | 801,491 | 46 |
+| 2023-09-16 | 801,502 | 46 |
 ## Awards
 Max (Character Customization): 7,451  (Ranked 47)  
 Sum: 27,750 (Ranked 47)  

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Unexpected encounter | 19.00% | ~511 |
 | Starting as a duo | 17.00% | ~457 |
-| Stronger together | 15.00% | ~403 |
+| Stronger together | 14.00% | ~377 |
 | Helping the little ones | 12.00% | ~323 |
 | A big leap for wolfkind | 11.00% | ~296 |
 | Transmission | 10.00% | ~269 |
@@ -18,7 +18,7 @@
 | Snow-covered ruins | 0.40% | ~11 |
 | Another ride! | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,689 (Ranked 175)  
+Progressed: 2,690 (Ranked 175)  
 Completed: 6 (0.22%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 6 (0.22%) (Ranked 194)
 | 2023-09-13 | 2,673 | 6 |
 | 2023-09-14 | 2,682 | 6 |
 | 2023-09-15 | 2,689 | 6 |
+| 2023-09-16 | 2,690 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

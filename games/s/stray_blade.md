@@ -10,7 +10,7 @@
 | Apprentice | 33.00% | ~26 |
 | A new World ahead | 31.00% | ~24 |
 | Don't Cry Wolf | 23.00% | ~18 |
-| Can't touch this | 22.00% | ~17 |
+| Can't touch this | 23.00% | ~18 |
 | Freezing Cold | 15.00% | ~12 |
 | The Power of the Mountains | 14.00% | ~11 |
 | Searing Heat | 13.00% | ~10 |

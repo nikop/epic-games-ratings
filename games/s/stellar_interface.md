@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 84.00% | ~51 |
-| Killing Spree | 69.00% | ~42 |
-| 5Gb HDD | 51.00% | ~31 |
-| Merchant Prince I | 51.00% | ~31 |
+| First Blood | 84.00% | ~52 |
+| Killing Spree | 69.00% | ~43 |
+| 5Gb HDD | 50.00% | ~31 |
+| Merchant Prince I | 50.00% | ~31 |
 | Dominating | 31.00% | ~19 |
-| Fighting Fit I | 30.00% | ~18 |
+| Fighting Fit I | 29.00% | ~18 |
 | Rambo I | 26.00% | ~16 |
 | 10Gb HDD | 26.00% | ~16 |
-| The Vette | 25.00% | ~15 |
-| Mega Kill | 20.00% | ~12 |
+| The Vette | 24.00% | ~15 |
+| Mega Kill | 19.00% | ~12 |
 | Almost There I | 18.00% | ~11 |
 | Stoic | 16.00% | ~10 |
 | Omicron Alpha | 15.00% | ~9 |
@@ -30,13 +30,13 @@
 | Unstoppable | 8.00% | ~5 |
 | Silver Prince of Ball-air | 8.00% | ~5 |
 | Merchant Prince II | 8.00% | ~5 |
-| Hitchhiker | 7.00% | ~4 |
-| Hoarder | 7.00% | ~4 |
-| Usurper I | 7.00% | ~4 |
-| Flower Power | 7.00% | ~4 |
-| Galactic Lieutenant | 7.00% | ~4 |
-| Sectoral Captain | 7.00% | ~4 |
-| Collateral Damage II | 7.00% | ~4 |
+| Hitchhiker | 6.00% | ~4 |
+| Hoarder | 6.00% | ~4 |
+| Usurper I | 6.00% | ~4 |
+| Flower Power | 6.00% | ~4 |
+| Galactic Lieutenant | 6.00% | ~4 |
+| Sectoral Captain | 6.00% | ~4 |
+| Collateral Damage II | 6.00% | ~4 |
 | Bronze Foundation | 5.00% | ~3 |
 | System Ensign | 5.00% | ~3 |
 | Bronze Pest Control | 5.00% | ~3 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 387)  
+Progressed: 62 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,3 +178,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-08-05 | 58 | 0 |
 | 2023-08-12 | 60 | 0 |
 | 2023-08-15 | 61 | 0 |
+| 2023-09-16 | 62 | 0 |

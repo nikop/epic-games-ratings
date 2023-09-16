@@ -33,8 +33,8 @@
 | Summers Here | 12.00% | ~28 |
 | Perfect | 11.00% | ~26 |
 | Fresh Pancake | 10.00% | ~28 |
+| Expert Survivor | 10.00% | ~23 |
 | Quadsparagus | 10.00% | ~23 |
-| Expert Survivor | 9.00% | ~21 |
 | Bring Home The Bacon | 8.00% | ~23 |
 | Early Bird | 6.00% | ~17 |
 | Pyromaniac | 6.00% | ~14 |

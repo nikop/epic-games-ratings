@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1614,8 +1614,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:09:13.1734566+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:07:14.8364774+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.3055446+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:00:18.8415845+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:09:13.1735928+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:58:08.7483405+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:07:14.836589+00:00"
 }

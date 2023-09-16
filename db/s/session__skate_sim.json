@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -922,9 +922,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2817,
+  "EOS_Progressed": 2818,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4452,6 +4452,11 @@
       "Time": "2023-09-16T13:08:06.7204815+00:00",
       "NumProgressed": 2817,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T14:06:15.5546459+00:00",
+      "NumProgressed": 2818,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4463,7 +4468,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_BING-BONG",
@@ -4839,22 +4844,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2817,
+      "Progressed": 2818,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-15T17:58:31.0946965+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:08:06.720481+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:06:15.5546454+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:01:09.7543133+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:08:06.7205353+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:59:05.1138819+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:06:15.5547093+00:00"
 }

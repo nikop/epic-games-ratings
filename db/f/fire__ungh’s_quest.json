@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.76,
+  "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -513,6 +513,11 @@
       "Time": "2023-09-15T20:06:47.5978383+00:00",
       "NumProgressed": 243,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-16T14:06:31.2375712+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 27,
@@ -524,7 +529,7 @@
       "Name": "Blunga 1",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "05_Coins",
@@ -580,7 +585,7 @@
       "Name": "Mjam-Mjam",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Brain_turned_in_008",
@@ -588,7 +593,7 @@
       "Name": "Sniarb!",
       "Percentage": 91,
       "XP": 35,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Butterfly_eats_Caterpillar_in_007",
@@ -604,7 +609,7 @@
       "Name": "Danka, Lagga, Wonwon",
       "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
@@ -612,7 +617,7 @@
       "Name": "Kokakoka",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -628,7 +633,7 @@
       "Name": "Onk Boga I",
       "Percentage": 95,
       "XP": 35,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Level_completed_002_008",
@@ -642,9 +647,9 @@
       "ID": "Level_completed_003_001",
       "SetID": "6od1ndi",
       "Name": "Onk Boga III",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "Level_completed_004_009",
@@ -652,7 +657,7 @@
       "Name": "Onk Boga IV",
       "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Level_completed_005_003",
@@ -668,7 +673,7 @@
       "Name": "Onk Boga VI",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Level_completed_007_006",
@@ -708,7 +713,7 @@
       "Name": "IQ62",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -716,7 +721,7 @@
       "Name": "Bzzzzzz",
       "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Toad_exploded_in_003",
@@ -739,7 +744,7 @@
     {
       "ID": "6od1ndi",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 14
     }
   ],
@@ -747,8 +752,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:08:22.0368928+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:06:31.2375706+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.3930441+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:02:44.9760288+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:08:22.036941+00:00"
+  "LastUpdate_Ratings": "2023-09-16T14:00:43.2520749+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:06:31.2375937+00:00"
 }

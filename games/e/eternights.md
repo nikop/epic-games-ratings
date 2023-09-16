@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New arm | 79.00% | ~118 |
-| Shelter Escape | 77.00% | ~116 |
-| The First Bond | 67.00% | ~100 |
-| Novice Scavenger | 53.00% | ~80 |
+| Shelter Escape | 78.00% | ~117 |
+| The First Bond | 68.00% | ~102 |
+| Novice Scavenger | 54.00% | ~81 |
 | Master Craftsman | 43.00% | ~64 |
 | First wall | 43.00% | ~64 |
 | Piggyback Expert | 41.00% | ~61 |
-| Second wall | 30.00% | ~45 |
+| Second wall | 31.00% | ~46 |
 | Expert Scavenger | 27.00% | ~40 |
 | Their Rock | 23.00% | ~34 |
+| Yuna's Promise | 21.00% | ~32 |
 | Stone Retriever | 21.00% | ~32 |
-| Yuna's Promise | 20.00% | ~30 |
 | Find myself | 18.00% | ~27 |
+| Truebro | 16.00% | ~24 |
 | Sia's Promise | 15.00% | ~22 |
-| Truebro | 15.00% | ~22 |
 | Min's Promise | 14.00% | ~21 |
 | Romantic | 13.00% | ~20 |
 | TentacleMAN | 8.00% | ~12 |

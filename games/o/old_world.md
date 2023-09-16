@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 3.00% | ~418 |
 | Judaism | 3.00% | ~418 |
 | Babylonian Paganism | 3.00% | ~418 |
+| Carthaginian Paganism | 3.00% | ~418 |
 | Greek Paganism | 3.00% | ~418 |
 | Zoroastrianism | 3.00% | ~418 |
 | Naming Landmarks | 3.00% | ~418 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 2.00% | ~279 |
 | Christianity | 2.00% | ~279 |
 | Manichaeism | 2.00% | ~279 |
-| Carthaginian Paganism | 2.00% | ~279 |
 | Egyptian Paganism | 2.00% | ~279 |
 | Roman Paganism | 2.00% | ~279 |
 | Mythology | 2.00% | ~279 |
@@ -110,21 +110,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~139 |
 | Points Victory | 1.00% | ~139 |
 | Win a Single Player Game | 1.00% | ~139 |
-| Devout | 0.90% | ~125 |
-| Landowners | 0.90% | ~125 |
-| Church of the Holy Sepulchre | 0.90% | ~125 |
-| Industrial Progress | 0.90% | ~125 |
-| Military Prestige | 0.90% | ~125 |
-| Gnosticism | 0.90% | ~125 |
-| Revelation | 0.90% | ~125 |
-| Veneration | 0.90% | ~125 |
+| Devout | 0.90% | ~126 |
+| Landowners | 0.90% | ~126 |
+| Church of the Holy Sepulchre | 0.90% | ~126 |
+| Industrial Progress | 0.90% | ~126 |
+| Military Prestige | 0.90% | ~126 |
+| Enlightenment | 0.90% | ~126 |
+| Gnosticism | 0.90% | ~126 |
+| Revelation | 0.90% | ~126 |
+| Veneration | 0.90% | ~126 |
 | Bad Heir Day | 0.80% | ~112 |
 | Strong Difficulty | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
 | Adur Burzen-Mihr | 0.80% | ~112 |
 | Babylonia | 0.80% | ~112 |
 | Carthage | 0.80% | ~112 |
-| Enlightenment | 0.80% | ~112 |
 | Kushite Cavalry | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
@@ -145,13 +145,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
 | Play a Network Game | 0.50% | ~70 |
+| Ten Crowns | 0.50% | ~70 |
 | Ancient | 0.40% | ~56 |
 | Glorious Difficulty | 0.40% | ~56 |
 | The Eternal Treaty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Capturing Cities | 0.40% | ~56 |
-| Ten Crowns | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
 | Conquest Victory | 0.40% | ~56 |
 | Necropolis in Waset | 0.40% | ~56 |
@@ -170,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.30% | ~42 |
 | Patriarch St Paul | 0.30% | ~42 |
 | Hypatia the Teacher | 0.30% | ~42 |
+| Blade of the Monkey | 0.20% | ~28 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Silver Victory (Carthage 1) | 0.20% | ~28 |
 | Carthage - Riches and Influence | 0.20% | ~28 |
@@ -199,7 +200,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.10% | ~14 |
 | Battle of Opis | 0.10% | ~14 |
 | Before the Mongol Horde | 0.10% | ~14 |
-| Blade of the Monkey | 0.10% | ~14 |
 | Hagia Sophia in Byzantion | 0.10% | ~14 |
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Epic Victory (Carthage 2) | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,944 (Ranked 123)  
+Progressed: 13,946 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,944 | 5 |
+| 2023-09-16 | 13,946 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

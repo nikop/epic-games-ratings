@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36654,
+  "EOS_Progressed": 36655,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16598,6 +16598,11 @@
       "Time": "2023-09-16T13:06:10.7776695+00:00",
       "NumProgressed": 36654,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-09-16T14:04:06.7781049+00:00",
+      "NumProgressed": 36655,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 29,
@@ -16655,9 +16660,9 @@
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
       "SetID": "443p4o4",
       "Name": "Backdoor Man",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -16840,7 +16845,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36654,
+      "Progressed": 36655,
       "Completed": 24
     }
   ],
@@ -16848,8 +16853,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:06:10.7776689+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:04:06.7781043+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.2246972+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:02:15.1477949+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:06:10.7778739+00:00"
+  "LastUpdate_Ratings": "2023-09-16T14:00:16.4125169+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:04:06.7782265+00:00"
 }

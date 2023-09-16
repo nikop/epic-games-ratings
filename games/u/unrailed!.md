@@ -6,22 +6,22 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~109,501 |
-| Incurious | 16.00% | ~103,059 |
-| Climate Change | 15.00% | ~96,618 |
-| Stroller | 14.00% | ~90,177 |
-| Toy Train | 13.00% | ~83,736 |
-| Advanced Hiker | 12.00% | ~77,295 |
-| Hiker | 11.00% | ~70,853 |
-| Mojave Courier | 5.00% | ~32,206 |
-| Saved by Nausicaä | 5.00% | ~32,206 |
+| Advanced Stroller | 17.00% | ~109,504 |
+| Incurious | 16.00% | ~103,063 |
+| Climate Change | 15.00% | ~96,621 |
+| Stroller | 14.00% | ~90,180 |
+| Toy Train | 13.00% | ~83,739 |
+| Advanced Hiker | 12.00% | ~77,297 |
+| Hiker | 11.00% | ~70,856 |
+| Mojave Courier | 5.00% | ~32,207 |
+| Saved by Nausicaä | 5.00% | ~32,207 |
 | Voyager | 3.00% | ~19,324 |
 | Advanced Voyager | 3.00% | ~19,324 |
 | Expert Stroller | 3.00% | ~19,324 |
 | Orient Express | 3.00% | ~19,324 |
-| Expert Hiker | 2.00% | ~12,882 |
-| Marathon | 2.00% | ~12,882 |
-| Destructionist | 2.00% | ~12,882 |
+| Expert Hiker | 2.00% | ~12,883 |
+| Marathon | 2.00% | ~12,883 |
+| Destructionist | 2.00% | ~12,883 |
 | Lost | 1.00% | ~6,441 |
 | Rocketman | 0.70% | ~4,509 |
 | Shopaholic | 0.70% | ~4,509 |
@@ -29,9 +29,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Nanuk | 0.60% | ~3,865 |
 | Dynamite Fishing | 0.60% | ~3,865 |
 | Terminal Station | 0.50% | ~3,221 |
-| Advanced Wayfarer | 0.40% | ~2,576 |
-| Scrooge | 0.40% | ~2,576 |
-| Tough Nut! | 0.40% | ~2,576 |
+| Advanced Wayfarer | 0.40% | ~2,577 |
+| Scrooge | 0.40% | ~2,577 |
+| Tough Nut! | 0.40% | ~2,577 |
 | Wayfarer | 0.30% | ~1,932 |
 | Trans-Siberian Railway | 0.30% | ~1,932 |
 | Engineer | 0.30% | ~1,932 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~644 |
 | 20 Miles under the Sea | 0.10% | ~644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 644,121 (Ranked 26)  
+Progressed: 644,143 (Ranked 26)  
 Completed: 10 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,16 +208,16 @@ Completed: 10 (0.00%) (Ranked 275)
 | 2023-09-13 | 643,492 | 10 |
 | 2023-09-14 | 643,694 | 10 |
 | 2023-09-15 | 643,954 | 10 |
-| 2023-09-16 | 644,121 | 10 |
+| 2023-09-16 | 644,143 | 10 |
 ## Awards
 Max (Great for Beginners): 196  (Ranked 275)  
-Sum: 1,569 (Ranked 220)  
+Sum: 1,570 (Ranked 220)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 196 |
+| This game has Diverse Characters | 192 |
 | This game has Quickly Understood Controls | 191 |
-| This game has Diverse Characters | 191 |
 | This game is Extremely Fun | 184 |
 | This game is Relaxing | 179 |
 | This game has Amazing Characters | 168 |
@@ -347,3 +347,4 @@ Diff (max vs sum): 55
 | 2023-09-12 | 4.64 | - | 194 | 1,567 |
 | 2023-09-14 | 4.64 | - | 195 | 1,568 |
 | 2023-09-15 | 4.64 | - | 196 | 1,569 |
+| 2023-09-16 | 4.64 | - | 196 | 1,570 |

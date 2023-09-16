@@ -2,7 +2,7 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 109,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -1091,6 +1091,11 @@
       "Time": "2023-09-15T18:04:57.8987129+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T14:05:44.2862585+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1238,21 +1243,21 @@
       "Name": "Witch \u2714",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:07:35.7847993+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:05:44.2862579+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.515062+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:03:58.3472354+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:07:35.7848309+00:00"
+  "LastUpdate_Ratings": "2023-09-16T14:02:05.0853724+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:05:44.2862789+00:00"
 }

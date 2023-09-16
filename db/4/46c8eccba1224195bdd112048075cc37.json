@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -681,6 +681,11 @@
       "Time": "2023-09-15T20:08:23.1353296+00:00",
       "NumProgressed": 146,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T14:07:43.9503462+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -706,9 +711,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "CollectCurses",
@@ -746,9 +751,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "FirstBoss",
@@ -756,15 +761,15 @@
       "Name": "Scull",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 106
     },
     {
       "ID": "FourthBoss",
@@ -796,7 +801,7 @@
       "Name": "Leprechaun",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MonsterSlayer",
@@ -810,9 +815,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "ReturnShell",
@@ -851,14 +856,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:10:11.7811362+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:07:43.9503456+00:00",
   "LastUpdate_AppInfo": "2023-09-11T13:02:43.6830105+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:59:35.1914601+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:10:11.7811661+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:57:17.1477035+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:07:43.9503638+00:00"
 }

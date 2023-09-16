@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1695,9 +1695,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13944,
+  "EOS_Progressed": 13946,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11615,6 +11615,11 @@
       "Time": "2023-09-16T13:10:38.4367168+00:00",
       "NumProgressed": 13944,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T14:08:21.3409049+00:00",
+      "NumProgressed": 13946,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11760,9 +11765,9 @@
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
       "SetID": "9201eeb",
       "Name": "Blade of the Monkey",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA",
@@ -12042,7 +12047,7 @@
       "Name": "Devout",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -12490,7 +12495,7 @@
       "Name": "Landowners",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -13002,7 +13007,7 @@
       "Name": "Church of the Holy Sepulchre",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -13440,9 +13445,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 418
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -13552,9 +13557,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
       "SetID": "9201eeb",
       "Name": "Ten Crowns",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -13570,7 +13575,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -13578,7 +13583,7 @@
       "Name": "Military Prestige",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -13592,9 +13597,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -13602,7 +13607,7 @@
       "Name": "Gnosticism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -13634,7 +13639,7 @@
       "Name": "Revelation",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -13642,7 +13647,7 @@
       "Name": "Veneration",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -13993,21 +13998,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13944,
+      "Progressed": 13946,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13944,
+      "Progressed": 13946,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T02:10:40.587434+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:10:38.4367162+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:08:21.3409044+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:00:19.2286194+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:10:38.4382251+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:58:08.9132601+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:08:21.3417508+00:00"
 }

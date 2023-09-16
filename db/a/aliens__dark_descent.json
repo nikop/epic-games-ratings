@@ -320,7 +320,7 @@
   ],
   "EOS_Progressed": 3272,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4555,9 +4555,9 @@
       "ID": "ACH_MISSION_08",
       "SetID": "816efe",
       "Name": "Deep Into Insanity",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH_MISSION_09",
@@ -4611,9 +4611,9 @@
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2683
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4676,8 +4676,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-12T16:59:01.3538797+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:08:52.1667852+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:07:03.6039844+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:02:21.8009982+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:08:52.1668928+00:00"
+  "LastUpdate_Ratings": "2023-09-16T14:00:26.1732129+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:07:03.6040432+00:00"
 }

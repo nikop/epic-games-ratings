@@ -780,17 +780,17 @@
       "ID": "ACHIEVEMENT_ID_16",
       "SetID": "c504de6",
       "Name": "Crisis Committee",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ID_17",
       "SetID": "c504de6",
       "Name": "Vive le R\u00E9sistance",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ID_18",
@@ -820,25 +820,25 @@
       "ID": "ACHIEVEMENT_ID_20",
       "SetID": "c504de6",
       "Name": "Healing",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
       "SetID": "c504de6",
       "Name": "There\u0027s something in those trees",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
       "SetID": "c504de6",
       "Name": "Desert Power",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -852,9 +852,9 @@
       "ID": "ACHIEVEMENT_ID_24",
       "SetID": "c504de6",
       "Name": "Overpopulation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_25",
@@ -924,9 +924,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -948,9 +948,9 @@
       "ID": "ACHIEVEMENT_ID_35",
       "SetID": "c504de6",
       "Name": "Food Tycoon",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ID_36",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:09:28.9694771+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:07:30.9356958+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.5687828+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:00:42.2035414+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:09:28.9695459+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:58:35.8040856+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:07:30.9357376+00:00"
 }

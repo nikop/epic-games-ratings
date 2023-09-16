@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~2,332 |
-| A Thorny Situation | 68.00% | ~2,173 |
-| ... And Spit Back Out | 55.00% | ~1,757 |
-| Break-Net Speed | 42.00% | ~1,342 |
-| Bramble Breaker | 36.00% | ~1,150 |
-| Miner 49er | 34.00% | ~1,086 |
-| Humble Collector | 33.00% | ~1,054 |
-| Calm Sailing | 23.00% | ~735 |
-| Open the Gate! | 20.00% | ~639 |
-| Lumberjack | 17.00% | ~543 |
-| Mist Walker | 17.00% | ~543 |
-| Oui, Chef! | 17.00% | ~543 |
-| Botanical Breakthrough | 9.00% | ~288 |
-| Beach Comber | 8.00% | ~256 |
-| Clear the Air | 7.00% | ~224 |
-| Search for the Hairy Grell | 4.00% | ~128 |
-| Higher Tax Bracket | 4.00% | ~128 |
-| Skilled | 3.00% | ~96 |
+| Azoria Beckons | 73.00% | ~2,349 |
+| A Thorny Situation | 68.00% | ~2,188 |
+| ... And Spit Back Out | 55.00% | ~1,770 |
+| Break-Net Speed | 42.00% | ~1,352 |
+| Bramble Breaker | 36.00% | ~1,158 |
+| Miner 49er | 34.00% | ~1,094 |
+| Humble Collector | 33.00% | ~1,062 |
+| Calm Sailing | 23.00% | ~740 |
+| Open the Gate! | 19.00% | ~611 |
+| Lumberjack | 17.00% | ~547 |
+| Mist Walker | 17.00% | ~547 |
+| Oui, Chef! | 17.00% | ~547 |
+| Botanical Breakthrough | 9.00% | ~290 |
+| Beach Comber | 8.00% | ~257 |
+| Clear the Air | 7.00% | ~225 |
+| Search for the Hairy Grell | 4.00% | ~129 |
+| Higher Tax Bracket | 4.00% | ~129 |
 | Got to Catch Them All | 2.00% | ~64 |
 | Rumble in the Jumble | 2.00% | ~64 |
 | Fanatical Farmer | 2.00% | ~64 |
+| Skilled | 2.00% | ~64 |
 | Flaming Hot Completos | 1.00% | ~32 |
 | Fae Farmer | 1.00% | ~32 |
 | Scattered Scroll Scrounger | 1.00% | ~32 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~3 |
 | Very Skilled | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,195 (Ranked 169)  
+Progressed: 3,218 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,4 +63,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 2,323 | 0 |
 | 2023-09-14 | 2,687 | 0 |
 | 2023-09-15 | 3,022 | 0 |
-| 2023-09-16 | 3,195 | 0 |
+| 2023-09-16 | 3,218 | 0 |

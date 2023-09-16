@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 68.00% | ~13 |
-| Path of Despair | 68.00% | ~13 |
-| Not alone | 42.00% | ~8 |
-| Hunger | 37.00% | ~7 |
-| Awaken | 26.00% | ~5 |
-| Path of Corruption | 16.00% | ~3 |
-| Hope | 11.00% | ~2 |
+| Morgengrauen | 65.00% | ~13 |
+| Path of Despair | 65.00% | ~13 |
+| Not alone | 40.00% | ~8 |
+| Hunger | 35.00% | ~7 |
+| Awaken | 25.00% | ~5 |
+| Path of Corruption | 15.00% | ~3 |
+| Hope | 10.00% | ~2 |
+| An act of courage | 5.00% | ~1 |
 | An act of mercy | 5.00% | ~1 |
 | Ad Infinitum | 5.00% | ~1 |
 | Art critic | 5.00% | ~1 |
@@ -20,21 +21,20 @@
 | Jigsaw | 5.00% | ~1 |
 | Lost | 5.00% | ~1 |
 | Pain | 5.00% | ~1 |
+| Path of Pain | 5.00% | ~1 |
 | Peace | 5.00% | ~1 |
 | Rage | 5.00% | ~1 |
 | Reflections | 5.00% | ~1 |
 | The shining | 5.00% | ~1 |
 | An act of compassion | 0.00% | ~0 |
-| An act of courage | 0.00% | ~0 |
 | All knowing | 0.00% | ~0 |
 | Awaiting orders | 0.00% | ~0 |
 | Corruption | 0.00% | ~0 |
 | Mayhem | 0.00% | ~0 |
 | No one left behind | 0.00% | ~0 |
-| Path of Pain | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 449)  
+Progressed: 20 (Ranked 449)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,4 +48,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 10 | 0 |
 | 2023-09-14 | 11 | 0 |
 | 2023-09-15 | 17 | 0 |
-| 2023-09-16 | 19 | 0 |
+| 2023-09-16 | 20 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1435,
+  "EOS_Progressed": 1436,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1709,6 +1709,11 @@
       "Time": "2023-09-16T12:06:47.763499+00:00",
       "NumProgressed": 1435,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-16T14:05:17.073533+00:00",
+      "NumProgressed": 1436,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1720,7 +1725,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "10",
@@ -1744,7 +1749,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "13",
@@ -1880,7 +1885,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "30",
@@ -1959,15 +1964,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1435,
+      "Progressed": 1436,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:07:08.2992666+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:05:17.0735324+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.4812312+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:01:34.4241765+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:07:08.2993196+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:59:28.8480049+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:05:17.073565+00:00"
 }

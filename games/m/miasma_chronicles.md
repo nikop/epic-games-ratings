@@ -5,36 +5,36 @@ Rating: 4.41 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,320 |
-| Ranidaphobia | 78.00% | ~1,119 |
-| Aspiring Editor | 75.00% | ~1,076 |
-| Gun for Hire | 70.00% | ~1,004 |
-| I am the law! | 64.00% | ~918 |
+| First Blood | 92.00% | ~1,321 |
+| Ranidaphobia | 78.00% | ~1,120 |
+| Aspiring Editor | 75.00% | ~1,077 |
+| Gun for Hire | 70.00% | ~1,005 |
+| I am the law! | 64.00% | ~919 |
 | Lumberjack | 53.00% | ~761 |
 | Croaked | 48.00% | ~689 |
-| Limp Richard | 47.00% | ~674 |
-| Exorcist | 47.00% | ~674 |
-| From Darkness to Light | 47.00% | ~674 |
-| Editor Adept | 46.00% | ~660 |
+| Limp Richard | 47.00% | ~675 |
+| Exorcist | 47.00% | ~675 |
+| From Darkness to Light | 47.00% | ~675 |
+| Editor Adept | 46.00% | ~661 |
 | Giant Killer | 45.00% | ~646 |
 | Sensei | 43.00% | ~617 |
-| Firestarter | 41.00% | ~588 |
+| Firestarter | 41.00% | ~589 |
 | The meaning of Kain | 40.00% | ~574 |
 | Technophobe | 39.00% | ~560 |
-| Recycler | 38.00% | ~545 |
+| Recycler | 38.00% | ~546 |
 | Are you not entertained? | 34.00% | ~488 |
 | Ganglord | 34.00% | ~488 |
 | Jarhead | 34.00% | ~488 |
 | Infiltrator | 33.00% | ~474 |
-| Pushing Daisy | 32.00% | ~459 |
+| Pushing Daisy | 32.00% | ~460 |
 | Experienced | 31.00% | ~445 |
-| Hold The Line | 30.00% | ~430 |
-| Endgame | 27.00% | ~387 |
+| Hold The Line | 30.00% | ~431 |
+| Endgame | 27.00% | ~388 |
 | Savior | 26.00% | ~373 |
 | There Can Be Only One! | 25.00% | ~359 |
 | Chain Killer | 22.00% | ~316 |
-| Silent but Violent | 21.00% | ~301 |
-| The Watchers | 21.00% | ~301 |
+| Silent but Violent | 21.00% | ~302 |
+| The Watchers | 21.00% | ~302 |
 | Commando | 16.00% | ~230 |
 | Dr Jones | 16.00% | ~230 |
 | Newtonian Knockout | 16.00% | ~230 |
@@ -44,8 +44,8 @@ Rating: 4.41 (Ranked 691)
 | Chain Reaction | 9.00% | ~129 |
 | Bot Whisperer | 8.00% | ~115 |
 | Curveball | 8.00% | ~115 |
-| Dressed To Kill | 7.00% | ~100 |
-| Wipe Out | 7.00% | ~100 |
+| Dressed To Kill | 7.00% | ~101 |
+| Wipe Out | 7.00% | ~101 |
 | Master Editor | 5.00% | ~72 |
 | Attenborough | 4.00% | ~57 |
 | Bookworm | 3.00% | ~43 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 691)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,435 (Ranked 198)  
+Progressed: 1,436 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 1,420 | 0 |
 | 2023-09-14 | 1,423 | 0 |
 | 2023-09-15 | 1,432 | 0 |
-| 2023-09-16 | 1,435 | 0 |
+| 2023-09-16 | 1,436 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

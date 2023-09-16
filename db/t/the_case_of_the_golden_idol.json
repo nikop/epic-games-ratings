@@ -800,9 +800,9 @@
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "6",
@@ -856,9 +856,9 @@
       "ID": "13",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 3rd Case",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "14",
@@ -903,8 +903,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-09-16T13:07:23.4430761+00:00",
+  "LastChanged_Achievements": "2023-09-16T14:05:32.1593836+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.430436+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:00:57.2213808+00:00",
-  "LastUpdate_Achievements": "2023-09-16T13:07:23.4431142+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:58:52.4432632+00:00",
+  "LastUpdate_Achievements": "2023-09-16T14:05:32.159421+00:00"
 }

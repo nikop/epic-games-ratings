@@ -6,14 +6,14 @@ Rating: 4.27 (Ranked 821)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 38.00% | ~399 |
-| Manipulating Fate | 9.00% | ~94 |
-| The City | 9.00% | ~94 |
+| Manipulating Fate | 9.00% | ~95 |
+| The City | 9.00% | ~95 |
 | Full house | 6.00% | ~63 |
 | Burn and Pillage | 6.00% | ~63 |
 | Hear me out | 6.00% | ~63 |
 | Listening to the crowd | 6.00% | ~63 |
-| Hidden Secrets | 5.00% | ~52 |
-| Accepting the Prophecy | 5.00% | ~52 |
+| Hidden Secrets | 5.00% | ~53 |
+| Accepting the Prophecy | 5.00% | ~53 |
 | Just Chilling | 4.00% | ~42 |
 | Ascended | 4.00% | ~42 |
 | The Penitent Ones | 4.00% | ~42 |
@@ -24,9 +24,9 @@ Rating: 4.27 (Ranked 821)
 | The First King | 2.00% | ~21 |
 | The Greedy Ones | 2.00% | ~21 |
 | The Unruly Ones | 2.00% | ~21 |
-| The great fire | 1.00% | ~10 |
-| The Council | 1.00% | ~10 |
-| The Mad | 1.00% | ~10 |
+| The great fire | 1.00% | ~11 |
+| The Council | 1.00% | ~11 |
+| The Mad | 1.00% | ~11 |
 | Like the dream | 0.80% | ~8 |
 | Charismatic Leader | 0.70% | ~7 |
 | Metropolis | 0.70% | ~7 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 821)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050 (Ranked 212)  
+Progressed: 1,051 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 1,034 | 0 |
 | 2023-09-14 | 1,038 | 0 |
 | 2023-09-15 | 1,048 | 0 |
-| 2023-09-16 | 1,050 | 0 |
+| 2023-09-16 | 1,051 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
