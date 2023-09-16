@@ -295,6 +295,7 @@
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
 | [Roboplant](../games/r/roboplant.md) | 34 | 1,000 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](../games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 34 | 1,000 |
+| [Bud Spencer and Terence Hill - Slaps and Beans 2](../games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 33 | 1,000 |
 | [Deliver Us Mars](../games/d/deliver_us_mars.md) | 33 | 1,000 |
 | [Gravity Oddity](../games/b/bd49e68e53fc4da0b14d054354575cea.md) | 33 | 1,000 |
 | [My Lovely Wife](../games/m/my_lovely_wife.md) | 33 | 1,000 |
