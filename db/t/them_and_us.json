@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -951,9 +951,9 @@
       "ID": "ETUA_ArmedToTheTeeth",
       "SetID": "65jc0ap",
       "Name": "Armed To The Teeth",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_BackInTime",
@@ -1256,8 +1256,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-09-15T23:06:54.8136141+00:00",
+  "LastChanged_Achievements": "2023-09-16T00:07:23.2451391+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.3212395+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:02:08.9151907+00:00",
-  "LastUpdate_Achievements": "2023-09-15T23:06:54.8136516+00:00"
+  "LastUpdate_Ratings": "2023-09-16T00:02:50.2664432+00:00",
+  "LastUpdate_Achievements": "2023-09-16T00:07:23.2451807+00:00"
 }

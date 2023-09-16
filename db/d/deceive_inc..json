@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18009,
+  "EOS_Progressed": 18010,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10255,6 +10255,11 @@
       "Time": "2023-09-15T22:06:02.4651065+00:00",
       "NumProgressed": 18009,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T00:07:18.7947711+00:00",
+      "NumProgressed": 18010,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10354,7 +10359,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "0013",
@@ -10370,7 +10375,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "0015",
@@ -10416,9 +10421,9 @@
       "ID": "0020",
       "SetID": "2n2feee",
       "Name": "Dr. No Kill",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1801
     },
     {
       "ID": "0021",
@@ -10553,7 +10558,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18009,
+      "Progressed": 18010,
       "Completed": 3
     }
   ],
@@ -10561,8 +10566,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-15T23:06:50.8701319+00:00",
+  "LastChanged_Achievements": "2023-09-16T00:07:18.7947705+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:00:11.751494+00:00",
-  "LastUpdate_Achievements": "2023-09-15T23:06:50.8702216+00:00"
+  "LastUpdate_Ratings": "2023-09-16T00:00:37.6227925+00:00",
+  "LastUpdate_Achievements": "2023-09-16T00:07:18.7948781+00:00"
 }

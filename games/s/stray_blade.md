@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 88.00% | ~67 |
-| Tinkerer | 67.00% | ~51 |
-| Welcome to the Club | 37.00% | ~28 |
-| Apprentice | 32.00% | ~24 |
+| Self-Defence | 88.00% | ~68 |
+| Tinkerer | 68.00% | ~52 |
+| Welcome to the Club | 38.00% | ~29 |
+| Apprentice | 31.00% | ~24 |
 | A new World ahead | 30.00% | ~23 |
 | Don't Cry Wolf | 22.00% | ~17 |
 | Can't touch this | 21.00% | ~16 |
@@ -17,13 +17,13 @@
 | Nothing but the Truth | 13.00% | ~10 |
 | Expert | 12.00% | ~9 |
 | Changing the World | 12.00% | ~9 |
-| The Golden Flash | 11.00% | ~8 |
+| The Golden Flash | 10.00% | ~8 |
 | Through Dangers Untold | 9.00% | ~7 |
 | Locked and Loaded | 9.00% | ~7 |
 | Witch | 9.00% | ~7 |
 | Craftsmen | 8.00% | ~6 |
-| Mirror, Mirror on the Wall | 7.00% | ~5 |
-| The A-Team | 7.00% | ~5 |
+| Mirror, Mirror on the Wall | 6.00% | ~5 |
+| The A-Team | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | Defeat Uskol | 5.00% | ~4 |
 | Bringing guns to a sword fight | 5.00% | ~4 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 375)  
+Progressed: 77 (Ranked 374)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 73 | 0 |
 | 2023-09-14 | 75 | 0 |
 | 2023-09-15 | 76 | 0 |
+| 2023-09-16 | 77 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

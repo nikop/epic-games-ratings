@@ -4,8 +4,8 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
     "PcReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -108,9 +108,9 @@
       "ID": "SMELTER_ALL_DESTROYABLES",
       "SetID": "1g58k92",
       "Name": "Keeping Things Tidy",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_BADBOY",
@@ -324,9 +324,9 @@
       "ID": "SMELTER_MOXIE_DEPOSITS",
       "SetID": "1g58k92",
       "Name": "I Like Rocks!",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_NEW_CHALLENGER",
@@ -492,9 +492,9 @@
       "ID": "SMELTER_ZIRM_GENERAL",
       "SetID": "1g58k92",
       "Name": "The More the Merrier",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_ZIRM_STARVE",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-09-15T23:06:21.3486259+00:00",
+  "LastChanged_Achievements": "2023-09-16T00:06:47.1685855+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:15.7665363+00:00",
-  "LastUpdate_Ratings": "2023-09-15T22:59:18.3358735+00:00",
-  "LastUpdate_Achievements": "2023-09-15T23:06:21.3486812+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:59:39.1169078+00:00",
+  "LastUpdate_Achievements": "2023-09-16T00:06:47.1686338+00:00"
 }

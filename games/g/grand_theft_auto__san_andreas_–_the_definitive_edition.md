@@ -5,19 +5,19 @@ Rating: 4.55 (Ranked 485)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,957 |
-| Pay 'n' Spray | 51.00% | ~6,269 |
-| All Dressed Up for San Fierro | 26.00% | ~3,196 |
-| The American Dream | 19.00% | ~2,335 |
-| School's Out | 19.00% | ~2,335 |
+| Getting Started | 81.00% | ~9,961 |
+| Pay 'n' Spray | 51.00% | ~6,271 |
+| All Dressed Up for San Fierro | 26.00% | ~3,197 |
+| The American Dream | 19.00% | ~2,336 |
+| School's Out | 19.00% | ~2,336 |
 | Smooth Moves | 17.00% | ~2,090 |
-| What happens in Las Venturas... | 15.00% | ~1,844 |
-| Today Was a Good Day | 15.00% | ~1,844 |
-| Horror of the Santa Maria | 11.00% | ~1,352 |
-| Liberty City State of Mind | 10.00% | ~1,229 |
-| The End of the Line | 8.00% | ~983 |
-| Original Gangster | 8.00% | ~983 |
-| With Extra Dip | 7.00% | ~860 |
+| What happens in Las Venturas... | 15.00% | ~1,845 |
+| Today Was a Good Day | 15.00% | ~1,845 |
+| Horror of the Santa Maria | 11.00% | ~1,353 |
+| Liberty City State of Mind | 10.00% | ~1,230 |
+| The End of the Line | 8.00% | ~984 |
+| Original Gangster | 8.00% | ~984 |
+| With Extra Dip | 7.00% | ~861 |
 | Saviour | 6.00% | ~738 |
 | They Can’t Stop All of Us | 5.00% | ~615 |
 | Rescue a Kitten Too? | 5.00% | ~615 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 485)
 | ...Here we go again | 0.50% | ~61 |
 | I Ain't No Buster | 0.40% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,292 (Ranked 125)  
+Progressed: 12,297 (Ranked 125)  
 Completed: 45 (0.37%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,17 +190,18 @@ Completed: 45 (0.37%) (Ranked 169)
 | 2023-09-13 | 12,207 | 45 |
 | 2023-09-14 | 12,224 | 45 |
 | 2023-09-15 | 12,292 | 45 |
+| 2023-09-16 | 12,297 | 45 |
 ## Awards
 Max (Great Boss Battles): 289  (Ranked 240)  
-Sum: 380 (Ranked 325)  
-Diff (max vs sum): -85  
+Sum: 382 (Ranked 324)  
+Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 289 |
 | This game is Relaxing | 26 |
 | This game has Amazing Storytelling | 23 |
 | This game has Amazing Characters | 22 |
-| This game is Highly Recommended | 20 |
+| This game is Highly Recommended | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -324,3 +325,4 @@ Diff (max vs sum): -85
 | 2023-09-13 | 4.55 | 286 | 375 |
 | 2023-09-14 | 4.55 | 287 | 376 |
 | 2023-09-15 | 4.55 | 289 | 380 |
+| 2023-09-16 | 4.55 | 289 | 382 |

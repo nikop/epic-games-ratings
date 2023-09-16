@@ -4,8 +4,8 @@
   "ProductSlug": "bus-sim-18",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T10:58:44.7764488+00:00",
-  "LastUpdate_Ratings": "2023-09-15T22:58:33.5984177+00:00",
-  "LastUpdate_Achievements": "2023-09-15T23:08:31.7143682+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:58:48.3358294+00:00",
+  "LastUpdate_Achievements": "2023-09-16T00:09:09.9155345+00:00"
 }

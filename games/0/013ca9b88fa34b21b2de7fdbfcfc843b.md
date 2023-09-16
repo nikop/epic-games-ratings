@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~2,176 |
-| A Thorny Situation | 68.00% | ~2,055 |
-| ... And Spit Back Out | 54.00% | ~1,632 |
-| Break-Net Speed | 42.00% | ~1,269 |
-| Bramble Breaker | 36.00% | ~1,088 |
-| Miner 49er | 34.00% | ~1,027 |
-| Humble Collector | 33.00% | ~997 |
-| Calm Sailing | 23.00% | ~695 |
-| Open the Gate! | 19.00% | ~574 |
-| Mist Walker | 17.00% | ~514 |
-| Oui, Chef! | 17.00% | ~514 |
-| Lumberjack | 16.00% | ~484 |
-| Beach Comber | 8.00% | ~242 |
-| Botanical Breakthrough | 8.00% | ~242 |
-| Clear the Air | 6.00% | ~181 |
-| Search for the Hairy Grell | 4.00% | ~121 |
-| Higher Tax Bracket | 4.00% | ~121 |
-| Got to Catch Them All | 2.00% | ~60 |
-| Rumble in the Jumble | 2.00% | ~60 |
-| Fanatical Farmer | 2.00% | ~60 |
-| Skilled | 2.00% | ~60 |
+| Azoria Beckons | 72.00% | ~2,187 |
+| A Thorny Situation | 67.00% | ~2,035 |
+| ... And Spit Back Out | 55.00% | ~1,671 |
+| Break-Net Speed | 42.00% | ~1,276 |
+| Bramble Breaker | 36.00% | ~1,094 |
+| Miner 49er | 34.00% | ~1,033 |
+| Humble Collector | 33.00% | ~1,003 |
+| Calm Sailing | 23.00% | ~699 |
+| Open the Gate! | 19.00% | ~577 |
+| Lumberjack | 17.00% | ~516 |
+| Mist Walker | 17.00% | ~516 |
+| Oui, Chef! | 17.00% | ~516 |
+| Beach Comber | 8.00% | ~243 |
+| Botanical Breakthrough | 8.00% | ~243 |
+| Clear the Air | 6.00% | ~182 |
+| Search for the Hairy Grell | 4.00% | ~122 |
+| Higher Tax Bracket | 4.00% | ~122 |
+| Got to Catch Them All | 2.00% | ~61 |
+| Rumble in the Jumble | 2.00% | ~61 |
+| Fanatical Farmer | 2.00% | ~61 |
+| Skilled | 2.00% | ~61 |
 | Flaming Hot Completos | 1.00% | ~30 |
 | Scattered Scroll Scrounger | 1.00% | ~30 |
 | I Now Pronounce You... | 1.00% | ~30 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~3 |
 | Very Skilled | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,022 (Ranked 171)  
+Progressed: 3,038 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,3 +63,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 2,323 | 0 |
 | 2023-09-14 | 2,687 | 0 |
 | 2023-09-15 | 3,022 | 0 |
+| 2023-09-16 | 3,038 | 0 |

@@ -9,16 +9,16 @@
 | Boulder Breaker | 13.00% | ~3 |
 | Fence-Sitter | 9.00% | ~2 |
 | Crystal Hunter | 4.00% | ~1 |
+| Bye-Bye, Butcher | 4.00% | ~1 |
 | Green Thumb | 4.00% | ~1 |
 | Equivalent Exchange | 4.00% | ~1 |
+| Setting Off | 4.00% | ~1 |
 | Danger | 4.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Column Crusher | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
-| Bye-Bye, Butcher | 0.00% | ~0 |
 | Rejected Parasite | 0.00% | ~0 |
 | Rebellious Servant | 0.00% | ~0 |
-| Setting Off | 0.00% | ~0 |
 | A Twist of Fate | 0.00% | ~0 |
 | Strength | 0.00% | ~0 |
 | Hermit | 0.00% | ~0 |

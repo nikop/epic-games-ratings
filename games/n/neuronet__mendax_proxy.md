@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 67.00% | ~16 |
-| Hello World | 63.00% | ~15 |
-| I Think, Therefore I Am | 58.00% | ~14 |
-| The Real Beginning | 58.00% | ~14 |
-| Shook Up | 50.00% | ~12 |
-| The Birds and the Bees | 50.00% | ~12 |
-| Vaccinated | 50.00% | ~12 |
+| First Day of the Rest of Your Life | 71.00% | ~17 |
+| Hello World | 67.00% | ~16 |
+| I Think, Therefore I Am | 63.00% | ~15 |
+| The Real Beginning | 63.00% | ~15 |
+| Shook Up | 54.00% | ~13 |
+| The Birds and the Bees | 54.00% | ~13 |
+| Vaccinated | 54.00% | ~13 |
+| Task Master | 46.00% | ~11 |
 | Busybody | 42.00% | ~10 |
-| Task Master | 42.00% | ~10 |
 | An Acquired Taste | 38.00% | ~9 |
 | A Light in the Dark | 38.00% | ~9 |
 | The Guardian | 38.00% | ~9 |
@@ -24,12 +24,12 @@
 | The Counsellor | 38.00% | ~9 |
 | Warning: Fragile | 38.00% | ~9 |
 | A Real Headache | 33.00% | ~8 |
-| A Total Riot | 29.00% | ~7 |
+| A Total Riot | 33.00% | ~8 |
+| That One Doesn't Count | 33.00% | ~8 |
+| They Flock to Him | 33.00% | ~8 |
 | Blood Begets Blood | 29.00% | ~7 |
 | Everyone Needs a Break | 29.00% | ~7 |
 | Knock Knock | 29.00% | ~7 |
-| That One Doesn't Count | 29.00% | ~7 |
-| They Flock to Him | 29.00% | ~7 |
 | Full Coverage | 25.00% | ~6 |
 | Job Creator | 21.00% | ~5 |
 | Quidnunc | 21.00% | ~5 |
@@ -44,9 +44,9 @@
 | The Mentor | 13.00% | ~3 |
 | Tastes Like Regret | 13.00% | ~3 |
 | The Spice of Life | 13.00% | ~3 |
+| Couldn't Have Planned It Better Myself | 8.00% | ~2 |
 | What They Don't Know Can't Hurt Them | 8.00% | ~2 |
 | Wilful Ignorance | 8.00% | ~2 |
-| Couldn't Have Planned It Better Myself | 4.00% | ~1 |
 | Double Agent | 4.00% | ~1 |
 | Keeper of the People | 4.00% | ~1 |
 | The Archetype | 0.00% | ~0 |

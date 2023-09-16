@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.94,
+  "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -278,6 +278,11 @@
       "Time": "2023-09-07T20:09:00.5756302+00:00",
       "NumProgressed": 106,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T00:09:17.4188517+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -295,9 +300,9 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement11",
@@ -351,7 +356,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 35,
       "UsersEstimate": 72
     },
@@ -375,7 +380,7 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 35,
       "UsersEstimate": 25
     },
@@ -407,9 +412,9 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement5",
@@ -456,7 +461,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 1
     }
   ],
@@ -464,8 +469,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-09-15T23:08:38.8894114+00:00",
+  "LastChanged_Achievements": "2023-09-16T00:09:17.4188511+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:14.3702845+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:00:59.831666+00:00",
-  "LastUpdate_Achievements": "2023-09-15T23:08:38.8894286+00:00"
+  "LastUpdate_Ratings": "2023-09-16T00:01:31.2852935+00:00",
+  "LastUpdate_Achievements": "2023-09-16T00:09:17.4188722+00:00"
 }

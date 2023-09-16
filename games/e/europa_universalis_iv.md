@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,165 |
-| That's a Grand Army | 3.00% | ~12,124 |
-| That is mine! | 3.00% | ~12,124 |
-| Victorious! | 3.00% | ~12,124 |
+| Until death do us apart | 4.00% | ~16,167 |
+| That's a Grand Army | 3.00% | ~12,125 |
+| That is mine! | 3.00% | ~12,125 |
+| Victorious! | 3.00% | ~12,125 |
 | Brothers in Arms | 2.00% | ~8,083 |
 | For the Glory | 2.00% | ~8,083 |
 | That's a Grand Navy | 2.00% | ~8,083 |
 | Seriously?! | 2.00% | ~8,083 |
-| Cold War | 1.00% | ~4,041 |
-| Defender of the Faith | 1.00% | ~4,041 |
-| It's all about the money | 1.00% | ~4,041 |
-| The Princess is in this Castle | 1.00% | ~4,041 |
-| True Catholic | 1.00% | ~4,041 |
+| Cold War | 1.00% | ~4,042 |
+| Defender of the Faith | 1.00% | ~4,042 |
+| It's all about the money | 1.00% | ~4,042 |
+| The Princess is in this Castle | 1.00% | ~4,042 |
+| True Catholic | 1.00% | ~4,042 |
 | Respected | 0.90% | ~3,637 |
 | Truly Divine Ruler | 0.90% | ~3,637 |
 | It's all about luck | 0.80% | ~3,233 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,131 (Ranked 40)  
+Progressed: 404,165 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -510,14 +510,15 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 402,102 | 0 |
 | 2023-09-14 | 402,996 | 0 |
 | 2023-09-15 | 404,131 | 0 |
+| 2023-09-16 | 404,165 | 0 |
 ## Awards
 Max (Educational): 6,102  (Ranked 56)  
-Sum: 50,127 (Ranked 26)  
+Sum: 50,146 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,102 |
-| This game is Highly Recommended | 5,807 |
+| This game is Highly Recommended | 5,826 |
 | This game has Diverse Characters | 5,771 |
 | This game has Challenging Combat | 5,769 |
 | This game is Extremely Fun | 5,767 |
@@ -770,4 +771,4 @@ Diff (max vs sum): 30
 | 2023-09-12 | 4.69 | - | 6,051 | 49,786 |
 | 2023-09-13 | 4.69 | - | 6,064 | 49,909 |
 | 2023-09-14 | 4.69 | - | 6,076 | 50,003 |
-| 2023-09-15 | 4.69 | - | 6,102 | 50,127 |
+| 2023-09-15 | 4.69 | - | 6,102 | 50,146 |

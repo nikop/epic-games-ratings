@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
     "PcReleaseDate": "2023-04-20T16:00:00+00:00",
@@ -199,9 +199,9 @@
       "ID": "BOSS_KILL5",
       "SetID": "1icc7kd",
       "Name": "Bye-Bye, Butcher",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_KILL6",
@@ -239,9 +239,9 @@
       "ID": "CLEAR1",
       "SetID": "1icc7kd",
       "Name": "Setting Off",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CLEAR2",
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-09-15T23:07:35.8274751+00:00",
+  "LastChanged_Achievements": "2023-09-16T00:08:07.1298162+00:00",
   "LastUpdate_AppInfo": "2023-09-13T04:57:01.0109865+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:01:55.7531295+00:00",
-  "LastUpdate_Achievements": "2023-09-15T23:07:35.8275174+00:00"
+  "LastUpdate_Ratings": "2023-09-16T00:02:34.3933974+00:00",
+  "LastUpdate_Achievements": "2023-09-16T00:08:07.1298807+00:00"
 }

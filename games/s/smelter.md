@@ -34,6 +34,7 @@
 | Remains of the Rumbly Lands | 13.00% | ~5 |
 | A Wingman Falls | 13.00% | ~5 |
 | Gotta Collect Them All | 10.00% | ~4 |
+| Keeping Things Tidy | 10.00% | ~4 |
 | Scheming Away | 10.00% | ~4 |
 | Eremagu Trial Extraordinaire | 10.00% | ~4 |
 | Scour the Eremagu Domain | 10.00% | ~4 |
@@ -43,6 +44,7 @@
 | Scour the Gurabi Domain | 10.00% | ~4 |
 | Isn't It Grand? | 10.00% | ~4 |
 | I am the Trial! | 10.00% | ~4 |
+| I Like Rocks! | 10.00% | ~4 |
 | Nutoro Trial Extraordinaire | 10.00% | ~4 |
 | Scour the Nutoro Domain | 10.00% | ~4 |
 | Let the Undershell Flow | 10.00% | ~4 |
@@ -51,10 +53,8 @@
 | Smelter's Got Your Back | 10.00% | ~4 |
 | In Her Prime | 10.00% | ~4 |
 | With a Little Help from My Friends | 10.00% | ~4 |
-| Keeping Things Tidy | 8.00% | ~3 |
+| The More the Merrier | 10.00% | ~4 |
 | Back for More? | 8.00% | ~3 |
-| I Like Rocks! | 8.00% | ~3 |
-| The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 40 (Ranked 413)  
 Completed: 3 (7.50%) (Ranked 37)  

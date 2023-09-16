@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -508,9 +508,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3357,
+  "EOS_Progressed": 3358,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4333,6 +4333,11 @@
       "Time": "2023-09-15T23:03:25.1271484+00:00",
       "NumProgressed": 3357,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T00:03:48.1699818+00:00",
+      "NumProgressed": 3358,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4384,7 +4389,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "CrowdPleaser",
@@ -4400,7 +4405,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Eureka_23",
@@ -4408,7 +4413,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4536,7 +4541,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4664,7 +4669,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4679,15 +4684,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3357,
+      "Progressed": 3358,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-12T04:00:16.8611299+00:00",
-  "LastChanged_Achievements": "2023-09-15T23:03:25.1271473+00:00",
+  "LastChanged_Achievements": "2023-09-16T00:03:48.1699812+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:16.1068917+00:00",
-  "LastUpdate_Ratings": "2023-09-15T22:58:07.3918979+00:00",
-  "LastUpdate_Achievements": "2023-09-15T23:03:25.1272057+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:58:21.7611638+00:00",
+  "LastUpdate_Achievements": "2023-09-16T00:03:48.1700374+00:00"
 }
