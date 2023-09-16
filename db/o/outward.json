@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -508,9 +508,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3358,
+  "EOS_Progressed": 3359,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4338,6 +4338,11 @@
       "Time": "2023-09-16T00:03:48.1699818+00:00",
       "NumProgressed": 3358,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T07:03:30.3045935+00:00",
+      "NumProgressed": 3359,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4381,7 +4386,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "CordonBleu_28",
@@ -4421,7 +4426,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ForAllAurai_8",
@@ -4445,7 +4450,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "HomeSweetHome_25",
@@ -4533,7 +4538,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4573,7 +4578,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4629,7 +4634,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -4669,7 +4674,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4684,15 +4689,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3358,
+      "Progressed": 3359,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-12T04:00:16.8611299+00:00",
-  "LastChanged_Achievements": "2023-09-16T06:03:39.8433762+00:00",
+  "LastChanged_Achievements": "2023-09-16T07:03:30.3045929+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:16.1068917+00:00",
-  "LastUpdate_Ratings": "2023-09-16T05:57:51.6103127+00:00",
-  "LastUpdate_Achievements": "2023-09-16T06:03:39.843476+00:00"
+  "LastUpdate_Ratings": "2023-09-16T06:57:51.4311485+00:00",
+  "LastUpdate_Achievements": "2023-09-16T07:03:30.3046539+00:00"
 }

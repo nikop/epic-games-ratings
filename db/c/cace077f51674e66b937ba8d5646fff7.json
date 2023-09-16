@@ -2,7 +2,7 @@
   "ID": "cace077f51674e66b937ba8d5646fff7",
   "Name": "Mokoko X",
   "ProductSlug": "mokoko-x-e2b09d",
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 107,
@@ -702,9 +702,9 @@
       "ID": "ENEMY_ARCADE_0",
       "SetID": "50pdlpn",
       "Name": "Arcade - Federic the Conscious Toy",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ENEMY_ARCADE_1",
@@ -981,8 +981,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-09-16T06:03:44.3903645+00:00",
+  "LastChanged_Achievements": "2023-09-16T07:03:34.7376005+00:00",
   "LastUpdate_AppInfo": "2023-09-11T17:56:59.010035+00:00",
-  "LastUpdate_Ratings": "2023-09-16T06:01:01.5804291+00:00",
-  "LastUpdate_Achievements": "2023-09-16T06:03:44.3904594+00:00"
+  "LastUpdate_Ratings": "2023-09-16T07:01:02.8118149+00:00",
+  "LastUpdate_Achievements": "2023-09-16T07:03:34.7376795+00:00"
 }

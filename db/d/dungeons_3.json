@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2626,9 +2626,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30466,
+  "EOS_Progressed": 30467,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18816,6 +18816,11 @@
       "Time": "2023-09-16T06:05:34.3972316+00:00",
       "NumProgressed": 30466,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-09-16T07:05:25.8609278+00:00",
+      "NumProgressed": 30467,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 60,
@@ -18827,7 +18832,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17670
+      "UsersEstimate": 17671
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -18835,7 +18840,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14014
+      "UsersEstimate": 14015
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -18891,7 +18896,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7616
+      "UsersEstimate": 7617
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -18915,7 +18920,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10358
+      "UsersEstimate": 10359
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -18939,7 +18944,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14928
+      "UsersEstimate": 14929
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -18963,7 +18968,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9444
+      "UsersEstimate": 9445
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -18987,7 +18992,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11272
+      "UsersEstimate": 11273
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -19019,7 +19024,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11272
+      "UsersEstimate": 11273
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -19035,7 +19040,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13100
+      "UsersEstimate": 13101
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -19043,7 +19048,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12186
+      "UsersEstimate": 12187
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -19083,7 +19088,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8530
+      "UsersEstimate": 8531
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -19187,7 +19192,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9444
+      "UsersEstimate": 9445
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -19306,15 +19311,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30466,
+      "Progressed": 30467,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-15T17:58:51.1833435+00:00",
-  "LastChanged_Achievements": "2023-09-16T06:05:34.397231+00:00",
+  "LastChanged_Achievements": "2023-09-16T07:05:25.8609273+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.8890263+00:00",
-  "LastUpdate_Ratings": "2023-09-16T05:58:52.6159441+00:00",
-  "LastUpdate_Achievements": "2023-09-16T06:05:34.3976622+00:00"
+  "LastUpdate_Ratings": "2023-09-16T06:58:54.3018681+00:00",
+  "LastUpdate_Achievements": "2023-09-16T07:05:25.86108+00:00"
 }

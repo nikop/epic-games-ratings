@@ -17,7 +17,7 @@ Number of Ratings: 38  (23.09.2022)
 | A love supreme | 18.00% | ~258 |
 | In my shoes | 17.00% | ~244 |
 | Like new! | 15.00% | ~215 |
-| Heartstrings | 13.00% | ~186 |
+| Heartstrings | 14.00% | ~201 |
 | Head in the clouds | 13.00% | ~186 |
 | Back to rust | 12.00% | ~172 |
 | Flower Powered | 12.00% | ~172 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~29 |
 | À la carte | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,433 (Ranked 198)  
+Progressed: 1,433 (Ranked 199)  
 Completed: 9 (0.63%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |

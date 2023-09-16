@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
@@ -1287,9 +1287,9 @@
       "ID": "ach_7",
       "SetID": "392n4e7",
       "Name": "Sergeant Major Baran",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_8",
@@ -1318,8 +1318,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-09-16T06:04:41.1705959+00:00",
+  "LastChanged_Achievements": "2023-09-16T07:04:32.2101822+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.1910722+00:00",
-  "LastUpdate_Ratings": "2023-09-16T05:57:27.743889+00:00",
-  "LastUpdate_Achievements": "2023-09-16T06:04:41.1706342+00:00"
+  "LastUpdate_Ratings": "2023-09-16T06:57:22.6989838+00:00",
+  "LastUpdate_Achievements": "2023-09-16T07:04:32.210206+00:00"
 }

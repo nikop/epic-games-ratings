@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-19T16:00:00+00:00",
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-09-16T06:04:37.4199594+00:00",
+  "LastChanged_Achievements": "2023-09-16T07:04:28.6816673+00:00",
   "LastUpdate_AppInfo": "2023-09-13T21:57:15.8911347+00:00",
-  "LastUpdate_Ratings": "2023-09-16T06:01:00.6920364+00:00",
-  "LastUpdate_Achievements": "2023-09-16T06:04:37.4199639+00:00"
+  "LastUpdate_Ratings": "2023-09-16T07:01:01.6229618+00:00",
+  "LastUpdate_Achievements": "2023-09-16T07:04:28.6816711+00:00"
 }

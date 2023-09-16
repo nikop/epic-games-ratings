@@ -4,7 +4,7 @@
   "ProductSlug": "your-computer-might-be-at-risk-c5dea9",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-28T12:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-11T08:01:53.6412466+00:00",
-  "LastChanged_Achievements": "2023-09-16T06:06:26.2716508+00:00",
+  "LastChanged_Achievements": "2023-09-16T07:06:18.6409461+00:00",
   "LastUpdate_AppInfo": "2023-09-10T17:57:06.5311504+00:00",
-  "LastUpdate_Ratings": "2023-09-16T06:00:41.5864677+00:00",
-  "LastUpdate_Achievements": "2023-09-16T06:06:26.2716552+00:00"
+  "LastUpdate_Ratings": "2023-09-16T07:00:45.9293909+00:00",
+  "LastUpdate_Achievements": "2023-09-16T07:06:18.6409506+00:00"
 }

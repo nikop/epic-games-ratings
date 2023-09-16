@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -918,9 +918,9 @@
       "ID": "questHallucinationsKing",
       "SetID": "ci65fo0",
       "Name": "Hallucinations King",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "questKillGoblinMage",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-16T06:04:10.6764506+00:00",
+  "LastChanged_Achievements": "2023-09-16T07:04:01.5344125+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.2829646+00:00",
-  "LastUpdate_Ratings": "2023-09-16T06:00:23.9807099+00:00",
-  "LastUpdate_Achievements": "2023-09-16T06:04:10.676596+00:00"
+  "LastUpdate_Ratings": "2023-09-16T07:00:29.2613824+00:00",
+  "LastUpdate_Achievements": "2023-09-16T07:04:01.534495+00:00"
 }

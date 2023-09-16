@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1301,7 +1301,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127829,
+  "EOS_Progressed": 127832,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
@@ -16076,6 +16076,11 @@
       "Time": "2023-09-16T06:06:35.4047134+00:00",
       "NumProgressed": 127829,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-16T07:06:28.0205578+00:00",
+      "NumProgressed": 127832,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16119,7 +16124,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23009
+      "UsersEstimate": 23010
     },
     {
       "ID": "ACH_COP_BAD",
@@ -16143,7 +16148,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30679
+      "UsersEstimate": 30680
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -16151,7 +16156,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10226
+      "UsersEstimate": 10227
     },
     {
       "ID": "ACH_COP_DORK",
@@ -16167,7 +16172,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35792
+      "UsersEstimate": 35793
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16199,7 +16204,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 26844
+      "UsersEstimate": 26845
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -16231,7 +16236,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14061
+      "UsersEstimate": 14062
     },
     {
       "ID": "ACH_CUNO",
@@ -16406,15 +16411,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127829,
+      "Progressed": 127832,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-16T06:06:35.4047126+00:00",
+  "LastChanged_Achievements": "2023-09-16T07:06:28.0205573+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-16T05:58:57.9295631+00:00",
-  "LastUpdate_Achievements": "2023-09-16T06:06:35.4049382+00:00"
+  "LastUpdate_Ratings": "2023-09-16T06:58:57.5650242+00:00",
+  "LastUpdate_Achievements": "2023-09-16T07:06:28.0206775+00:00"
 }
