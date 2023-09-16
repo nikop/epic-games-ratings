@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -544,9 +544,9 @@
       "ID": "findSecret10",
       "SetID": "ci65fo0",
       "Name": "A sharp eye",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "getPoisoned",
@@ -568,17 +568,17 @@
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "killBoxes50",
       "SetID": "ci65fo0",
       "Name": "Loot collector",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "killElk50",
@@ -608,9 +608,9 @@
       "ID": "killGoldSkeleton1",
       "SetID": "ci65fo0",
       "Name": "The First Golden Skeleton",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "killGoldSkeleton10",
@@ -624,9 +624,9 @@
       "ID": "killGolem1",
       "SetID": "ci65fo0",
       "Name": "The First Golem",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "killGolem10",
@@ -640,9 +640,9 @@
       "ID": "killGrave10",
       "SetID": "ci65fo0",
       "Name": "Gravedigger",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "killLeshy30",
@@ -776,9 +776,9 @@
       "ID": "locGoblins",
       "SetID": "ci65fo0",
       "Name": "Goblins camp",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "locGraveyard",
@@ -880,9 +880,9 @@
       "ID": "questDeadArtifact",
       "SetID": "ci65fo0",
       "Name": "The Mystery of the Dead",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "questDefeatMainEnemy",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:06:08.6492682+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:05:47.5731833+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.2829646+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:03:15.6149488+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:06:08.6493472+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:03:02.3767803+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:05:47.5732583+00:00"
 }

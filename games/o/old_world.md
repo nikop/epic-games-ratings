@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 1.00% | ~140 |
 | Circus Maximus | 1.00% | ~140 |
 | Hagia Sophia | 1.00% | ~140 |
+| Church of the Holy Sepulchre | 1.00% | ~140 |
 | Temple of Solomon | 1.00% | ~140 |
 | Pantheon | 1.00% | ~140 |
 | Via Recta Souk | 1.00% | ~140 |
@@ -100,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~140 |
 | Building Wonders | 1.00% | ~140 |
 | Economic Reform | 1.00% | ~140 |
+| Military Prestige | 1.00% | ~140 |
 | Dualism | 1.00% | ~140 |
 | Legalism | 1.00% | ~140 |
 | Redemption | 1.00% | ~140 |
@@ -113,10 +115,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.90% | ~126 |
 | Devout | 0.90% | ~126 |
 | Landowners | 0.90% | ~126 |
-| Church of the Holy Sepulchre | 0.90% | ~126 |
 | Carthage | 0.90% | ~126 |
 | Industrial Progress | 0.90% | ~126 |
-| Military Prestige | 0.90% | ~126 |
 | Enlightenment | 0.90% | ~126 |
 | Gnosticism | 0.90% | ~126 |
 | Revelation | 0.90% | ~126 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,954 (Ranked 123)  
+Progressed: 13,957 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,954 | 5 |
+| 2023-09-16 | 13,957 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

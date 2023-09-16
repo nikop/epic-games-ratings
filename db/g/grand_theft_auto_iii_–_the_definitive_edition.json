@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -466,9 +466,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7795,
+  "EOS_Progressed": 7797,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -8386,6 +8386,11 @@
       "Time": "2023-09-16T21:09:53.4277762+00:00",
       "NumProgressed": 7795,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-16T22:09:33.1476638+00:00",
+      "NumProgressed": 7797,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8397,7 +8402,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6470
+      "UsersEstimate": 6472
     },
     {
       "ID": "ACH02",
@@ -8405,7 +8410,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "ACH03",
@@ -8421,7 +8426,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "ACH05",
@@ -8525,7 +8530,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH18",
@@ -8581,7 +8586,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH25",
@@ -8628,7 +8633,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7795,
+      "Progressed": 7797,
       "Completed": 50
     }
   ],
@@ -8636,8 +8641,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-16T18:58:04.3913881+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:09:53.4277757+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:09:33.147663+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:58:07.4539366+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:09:53.4278472+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:58:03.3106111+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:09:33.1477421+00:00"
 }

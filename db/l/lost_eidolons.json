@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1104,
+  "EOS_Progressed": 1105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1385,6 +1385,11 @@
       "Time": "2023-09-16T14:06:59.9420059+00:00",
       "NumProgressed": 1104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T22:08:54.4486839+00:00",
+      "NumProgressed": 1105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1442,9 +1447,9 @@
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 575
     },
     {
       "ID": "08",
@@ -1524,7 +1529,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "18",
@@ -1579,7 +1584,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1104,
+      "Progressed": 1105,
       "Completed": 0
     }
   ],
@@ -1587,8 +1592,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:09:16.5738696+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:08:54.4486832+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0630202+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:01:24.7011198+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:09:16.5738936+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:01:16.9850287+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:08:54.4487108+00:00"
 }

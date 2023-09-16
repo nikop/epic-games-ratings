@@ -2,13 +2,13 @@
   "ID": "4b5461ca8d1c488787b5200b420de066",
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "ProductSlug": "shadow-of-the-tomb-raider",
-  "Ranking_Rating": 314,
+  "Ranking_Rating": 313,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
     "PcReleaseDate": "2018-09-14T16:00:00+00:00",
@@ -5110,10 +5110,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 37968,
       "NumberOfAwardsMax": 28894
+    },
+    {
+      "Time": "2023-09-16T21:57:21.2504514+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 37969,
+      "NumberOfAwardsMax": 28894
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37968,
+  "NumberOfAwards": 37969,
   "NumberOfAwardsMax": 28894,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5133,7 +5139,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 921
+      "Count": 922
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5201,8 +5207,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2023-09-16T15:57:26.2350876+00:00",
+  "LastChanged": "2023-09-16T21:57:21.2504513+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:01.2386571+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:57:26.861361+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:04:56.8590728+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:57:21.2504519+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:04:36.6476984+00:00"
 }

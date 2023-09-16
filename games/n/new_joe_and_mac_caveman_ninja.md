@@ -8,7 +8,7 @@
 | Crazy Jungle. | 35.00% | ~77 |
 | A turbulent river. | 21.00% | ~46 |
 | In the treetops. | 20.00% | ~44 |
-| At the top of the mountain. | 19.00% | ~42 |
+| At the top of the mountain. | 20.00% | ~44 |
 | Aggressive rocks. | 18.00% | ~39 |
 | Dino Ride. | 16.00% | ~35 |
 | Rocky fall. | 13.00% | ~28 |

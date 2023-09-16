@@ -5,10 +5,10 @@
   "Ranking_Rating": 888,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -248,7 +248,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1449,
+  "EOS_Progressed": 1450,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
@@ -2473,6 +2473,11 @@
       "Time": "2023-09-16T20:07:13.4455106+00:00",
       "NumProgressed": 1449,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-16T22:06:44.9297978+00:00",
+      "NumProgressed": 1450,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2524,7 +2529,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_FineGioco",
@@ -2538,9 +2543,9 @@
       "ID": "ACH_PrendiTuttiOggetti",
       "SetID": "7a9m7mj",
       "Name": "Pack Rat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 565
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2548,7 +2553,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2571,15 +2576,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1449,
+      "Progressed": 1450,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:07:05.7632729+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:06:44.9297972+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:01:35.1065404+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:07:05.7632993+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:01:26.3990411+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:06:44.9298227+00:00"
 }

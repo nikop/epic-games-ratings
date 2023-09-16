@@ -4,8 +4,8 @@
   "ProductSlug": "beacon-pines-629fc3",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.4407285+00:00",
   "LastChanged": "2023-03-31T05:58:13.4407287+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.432669+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:59:22.7561775+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:09:02.1903173+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:59:12.3155242+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:08:41.1422328+00:00"
 }

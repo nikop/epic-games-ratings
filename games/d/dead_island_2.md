@@ -16,23 +16,23 @@ Rating: 4.54 (Ranked 505)
 | Stacking the Deck | 2.00% | ~13,621 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,621 |
 | Welcome To Hell-A | 2.00% | ~13,621 |
-| Anger Management | 1.00% | ~6,810 |
-| Perks of the Job | 1.00% | ~6,810 |
-| Bookworm | 1.00% | ~6,810 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,810 |
-| But Doctor, I am Butcho | 1.00% | ~6,810 |
-| Slayer Squad | 1.00% | ~6,810 |
-| Can't Handle the Truth | 1.00% | ~6,810 |
-| Like Riding a Bike | 1.00% | ~6,810 |
-| Zombologist | 1.00% | ~6,810 |
-| Ooh, Shiny! | 1.00% | ~6,810 |
-| A Patton Emerges | 1.00% | ~6,810 |
-| I Am the Resurrection | 1.00% | ~6,810 |
-| Our True Nature | 1.00% | ~6,810 |
-| This is My Weapon | 1.00% | ~6,810 |
-| Making Your Mark | 0.90% | ~6,129 |
-| Humanity Distilled | 0.90% | ~6,129 |
-| Down with the Sickness | 0.80% | ~5,448 |
+| Anger Management | 1.00% | ~6,811 |
+| Perks of the Job | 1.00% | ~6,811 |
+| Bookworm | 1.00% | ~6,811 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,811 |
+| But Doctor, I am Butcho | 1.00% | ~6,811 |
+| Slayer Squad | 1.00% | ~6,811 |
+| Can't Handle the Truth | 1.00% | ~6,811 |
+| Like Riding a Bike | 1.00% | ~6,811 |
+| Zombologist | 1.00% | ~6,811 |
+| Ooh, Shiny! | 1.00% | ~6,811 |
+| A Patton Emerges | 1.00% | ~6,811 |
+| I Am the Resurrection | 1.00% | ~6,811 |
+| Our True Nature | 1.00% | ~6,811 |
+| This is My Weapon | 1.00% | ~6,811 |
+| Making Your Mark | 0.90% | ~6,130 |
+| Humanity Distilled | 0.90% | ~6,130 |
+| Down with the Sickness | 0.80% | ~5,449 |
 | Max Headroom | 0.70% | ~4,767 |
 | Jumbo Keyring | 0.60% | ~4,086 |
 | Go, Bobcats! | 0.60% | ~4,086 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~681 |
 | Bucket List | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,030 (Ranked 22)  
+Progressed: 681,063 (Ranked 22)  
 Completed: 2,146 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 2,146 (0.32%) (Ranked 177)
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
-| 2023-09-16 | 681,030 | 2,146 |
+| 2023-09-16 | 681,063 | 2,146 |
 ## Awards
 Max (Great Boss Battles): 6,073  (Ranked 57)  
 Sum: 9,005 (Ranked 94)  

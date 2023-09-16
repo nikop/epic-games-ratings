@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Clean Conscience | 32.00% | ~79 |
 | So it goes | 30.00% | ~74 |
-| A New Broom Sweeps Clean | 16.00% | ~39 |
-| Off to a Good Start | 14.00% | ~34 |
-| Small-time Finder | 14.00% | ~34 |
+| A New Broom Sweeps Clean | 16.00% | ~40 |
+| Off to a Good Start | 14.00% | ~35 |
+| Small-time Finder | 14.00% | ~35 |
 | Business as usual | 11.00% | ~27 |
 | Mr. Hygeni | 9.00% | ~22 |
 | Pride and Joy | 8.00% | ~20 |
 | Eyes Yet To Open | 7.00% | ~17 |
-| Hackathon | 7.00% | ~17 |
+| Hackathon | 6.00% | ~15 |
 | All the Stories | 4.00% | ~10 |
 | Total Recall | 4.00% | ~10 |
 | Something Rotten | 4.00% | ~10 |
@@ -29,8 +29,8 @@
 | Cha Cha Real Smooth | 0.40% | ~0 |
 | That’s One Big Pile | 0.40% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 300)  
-Completed: 6 (2.44%) (Ranked 87)  
+Progressed: 247 (Ranked 300)  
+Completed: 6 (2.43%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 6 (2.44%) (Ranked 87)
 | 2023-09-09 | 243 | 6 |
 | 2023-09-10 | 244 | 6 |
 | 2023-09-14 | 245 | 6 |
-| 2023-09-16 | 246 | 6 |
+| 2023-09-16 | 247 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

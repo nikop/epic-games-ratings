@@ -2,20 +2,20 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 145,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 177,
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-10-19T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -842,18 +842,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 988,
       "NumberOfAwardsMax": 656
+    },
+    {
+      "Time": "2023-09-16T21:58:10.3677212+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 989,
+      "NumberOfAwardsMax": 657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 988,
-  "NumberOfAwardsMax": 656,
+  "NumberOfAwards": 989,
+  "NumberOfAwardsMax": 657,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 656
+      "Count": 657
     },
     {
       "Text": "This game has Diverse Characters",
@@ -928,8 +934,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2023-09-14T14:57:18.0441382+00:00",
+  "LastChanged": "2023-09-16T21:58:10.367721+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.6434039+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:58:15.8388514+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:10:22.2852549+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:58:10.3677216+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:10:01.997563+00:00"
 }

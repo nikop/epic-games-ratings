@@ -36,8 +36,8 @@ Number of Ratings: 154  (23.09.2022)
 | Sound Savant | 21.00% | ~101 |
 | Movie Maniac | 20.00% | ~96 |
 | Sonic the Hedgehog Mission Master | 18.00% | ~87 |
+| Art Appreciator | 17.00% | ~82 |
 | Beware Rhinobots! | 16.00% | ~77 |
-| Art Appreciator | 16.00% | ~77 |
 | Sonic CD Mission Master | 15.00% | ~72 |
 | S3 & K Mission Master | 15.00% | ~72 |
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~63 |

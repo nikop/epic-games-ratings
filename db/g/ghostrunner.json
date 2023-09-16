@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1164,9 +1164,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17942,
+  "EOS_Progressed": 17943,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17294,6 +17294,11 @@
       "Time": "2023-09-16T21:09:27.3560919+00:00",
       "NumProgressed": 17942,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-09-16T22:09:06.4016773+00:00",
+      "NumProgressed": 17943,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 45,
@@ -17321,7 +17326,7 @@
       "Name": "Artificial selection",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4844
+      "UsersEstimate": 4845
     },
     {
       "ID": "BackToHell",
@@ -17409,7 +17414,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "Junkrunner",
@@ -17441,7 +17446,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 13636
+      "UsersEstimate": 13637
     },
     {
       "ID": "MoreThanHuman",
@@ -17457,7 +17462,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4844
+      "UsersEstimate": 4845
     },
     {
       "ID": "ObedientMachine",
@@ -17489,7 +17494,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7894
+      "UsersEstimate": 7895
     },
     {
       "ID": "Perfection",
@@ -17497,7 +17502,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 5741
+      "UsersEstimate": 5742
     },
     {
       "ID": "PreempativeStrike",
@@ -17505,7 +17510,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "PushItToTheLimit",
@@ -17537,7 +17542,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4844
+      "UsersEstimate": 4845
     },
     {
       "ID": "Scrapped",
@@ -17625,7 +17630,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 9509
+      "UsersEstimate": 9510
     },
     {
       "ID": "WaveOfMutilation",
@@ -17664,21 +17669,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 17942,
+      "Progressed": 17943,
       "Completed": 43
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 17942,
+      "Progressed": 17943,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-16T18:58:22.3305574+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:09:27.3560915+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:09:06.4016769+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:15.9392073+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:58:32.3007321+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:09:27.3562256+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:58:26.7805134+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:09:06.4018601+00:00"
 }

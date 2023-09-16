@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.4,
+  "EOS_Completed_Percentage": 6.37,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1041,6 +1041,11 @@
       "Time": "2023-09-16T14:04:38.5791775+00:00",
       "NumProgressed": 250,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-16T22:06:14.1609753+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -1052,7 +1057,7 @@
       "Name": "Three is company",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1098,9 +1103,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -1124,7 +1129,7 @@
       "Name": "Make a wish",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1148,7 +1153,7 @@
       "Name": "Private pool",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1164,7 +1169,7 @@
       "Name": "On fire",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1179,14 +1184,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:06:35.1924787+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:06:14.1609747+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:03:50.2565663+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:06:35.1924998+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:03:38.4018832+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:06:14.1609945+00:00"
 }

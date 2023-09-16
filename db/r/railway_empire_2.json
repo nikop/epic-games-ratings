@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1905,
+  "EOS_Progressed": 1906,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4733,6 +4733,11 @@
       "Time": "2023-09-16T15:04:44.1621499+00:00",
       "NumProgressed": 1905,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T22:05:40.9765761+00:00",
+      "NumProgressed": 1906,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4888,7 +4893,7 @@
       "Name": "General Manager",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "A19",
@@ -4896,7 +4901,7 @@
       "Name": "Tycoon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "A20",
@@ -4912,7 +4917,7 @@
       "Name": "Country Life",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "A22",
@@ -4920,7 +4925,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "A23",
@@ -4968,7 +4973,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "A29",
@@ -5016,7 +5021,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "A35",
@@ -5040,7 +5045,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "A38",
@@ -5064,7 +5069,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "A41",
@@ -5112,7 +5117,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "A47",
@@ -5120,7 +5125,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "A48",
@@ -5160,7 +5165,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "A53",
@@ -5183,7 +5188,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1905,
+      "Progressed": 1906,
       "Completed": 0
     }
   ],
@@ -5191,8 +5196,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-12T04:00:17.7506037+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:06:01.9347043+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:05:40.9765756+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.7134355+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:59:00.8859014+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:06:01.9347962+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:58:51.2875289+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:05:40.976658+00:00"
 }

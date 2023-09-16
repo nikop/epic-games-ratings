@@ -4,8 +4,8 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 247,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -491,6 +491,11 @@
       "Time": "2023-09-16T21:09:18.3491067+00:00",
       "NumProgressed": 246,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-16T22:08:57.3339764+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -526,7 +531,7 @@
       "Name": "Off to a Good Start",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -566,7 +571,7 @@
       "Name": "Small-time Finder",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "DIE_1_TIME",
@@ -646,7 +651,7 @@
       "Name": "A New Broom Sweeps Clean",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -684,22 +689,22 @@
       "ID": "VIPER_HACKING",
       "SetID": "2lk004m",
       "Name": "Hackathon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 6
     }
   ],
@@ -707,8 +712,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:09:18.3491062+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:08:57.333976+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:25.5505025+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:00:55.4367307+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:09:18.3491287+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:00:43.0663017+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:08:57.3339993+00:00"
 }

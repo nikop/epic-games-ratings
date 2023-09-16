@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3439,
+  "EOS_Progressed": 3443,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3404,6 +3404,11 @@
       "Time": "2023-09-16T21:08:33.9938556+00:00",
       "NumProgressed": 3439,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-16T22:08:13.0168458+00:00",
+      "NumProgressed": 3443,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3415,7 +3420,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "bonus2",
@@ -3463,7 +3468,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3030
     },
     {
       "ID": "campaign10",
@@ -3503,7 +3508,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "campaign15",
@@ -3517,9 +3522,9 @@
       "ID": "campaign16",
       "SetID": "2h56gn1",
       "Name": "Master of the Brawl",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 241
     },
     {
       "ID": "campaign17",
@@ -3551,7 +3556,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2651
     },
     {
       "ID": "campaign20",
@@ -3567,7 +3572,7 @@
       "Name": "Economics 101",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2135
     },
     {
       "ID": "campaign4",
@@ -3575,7 +3580,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "campaign5",
@@ -3591,7 +3596,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "campaign7",
@@ -3599,7 +3604,7 @@
       "Name": "Maestro",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "campaign8",
@@ -3615,7 +3620,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "scenario1",
@@ -3623,7 +3628,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1343
     },
     {
       "ID": "scenario2",
@@ -3631,7 +3636,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "scenario3",
@@ -3647,7 +3652,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "scenario5",
@@ -3678,7 +3683,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3439,
+      "Progressed": 3443,
       "Completed": 11
     }
   ],
@@ -3686,8 +3691,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:08:33.9938551+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:08:13.0168454+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:02:29.887836+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:08:33.993903+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:02:15.7228993+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:08:13.0168976+00:00"
 }

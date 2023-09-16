@@ -1,7 +1,7 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 893)  
+Rating: 4.16 (Ranked 892)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,7 +58,7 @@ Number of Ratings: 22  (23.09.2022)
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 464 (Ranked 252)  
-Completed: 1 (0.22%) (Ranked 194)  
+Completed: 1 (0.22%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1618,9 +1618,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 447
     },
     {
       "ID": "AC09",
@@ -1722,17 +1722,17 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 208
     },
     {
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 312
     },
     {
       "ID": "AC23",
@@ -1874,9 +1874,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 671
     },
     {
       "ID": "AC41",
@@ -1931,8 +1931,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:08:35.0376856+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:08:14.0602378+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:03:28.2117693+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:08:35.0377414+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:03:13.9547147+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:08:14.0603032+00:00"
 }

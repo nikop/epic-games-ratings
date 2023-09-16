@@ -13,22 +13,22 @@ Rating: 4.87 (Ranked 25)
 | Who put gears in there? | 11.00% | ~446 |
 | You got this, Peppermint? | 10.00% | ~406 |
 | Perfect Parry | 10.00% | ~406 |
-| This will cost you big time | 9.00% | ~365 |
 | I play my own way! | 9.00% | ~365 |
 | Uh, they were broken when I got here | 9.00% | ~365 |
 | Alright, that felt AWESOME! | 9.00% | ~365 |
+| This will cost you big time | 8.00% | ~325 |
 | Z-shielding's got nothing on us! | 8.00% | ~325 |
 | Kissing the sky! | 8.00% | ~325 |
 | The Negotiator | 7.00% | ~284 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~284 |
 | Out in a puff of smoke | 7.00% | ~284 |
 | I look cool. But I can look COOLER. | 7.00% | ~284 |
-| Headliner | 6.00% | ~243 |
-| Time to pay up! | 6.00% | ~243 |
-| Who's the boss now? | 6.00% | ~243 |
-| You must like calling me in, Chai | 6.00% | ~243 |
-| Perfecter Parry-er! | 6.00% | ~243 |
-| Does that say weakpoint? | 6.00% | ~243 |
+| Headliner | 6.00% | ~244 |
+| Time to pay up! | 6.00% | ~244 |
+| Who's the boss now? | 6.00% | ~244 |
+| You must like calling me in, Chai | 6.00% | ~244 |
+| Perfecter Parry-er! | 6.00% | ~244 |
+| Does that say weakpoint? | 6.00% | ~244 |
 | NOW we got a kickass hideout! | 6.00% | ~155 |
 | I have to read these things? | 5.00% | ~203 |
 | Well that was a rush! | 4.00% | ~162 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,058 (Ranked 158)  
+Progressed: 4,059 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-13 | 4,036 | 7 |
 | 2023-09-14 | 4,038 | 7 |
 | 2023-09-15 | 4,051 | 7 |
-| 2023-09-16 | 4,058 | 7 |
+| 2023-09-16 | 4,059 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

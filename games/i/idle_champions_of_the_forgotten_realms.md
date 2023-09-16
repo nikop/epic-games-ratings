@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,581 |
+| A Brief Tour of the Realms | 2.00% | ~4,582 |
 | Beast Intentions | 0.70% | ~1,604 |
 | The Cursed Farmer | 0.70% | ~1,604 |
 | The Mad Wizard | 0.50% | ~1,145 |
@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~458 |
 | The Lost Heir of Omu | 0.20% | ~458 |
 | Beast Mode | 0.20% | ~458 |
+| The Forbidden City | 0.20% | ~458 |
 | Captured! | 0.20% | ~458 |
 | Low Initiative | 0.20% | ~458 |
 | Street War | 0.20% | ~458 |
@@ -71,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~458 |
 | Running of the Saurs | 0.20% | ~458 |
 | The Contagious Curse | 0.20% | ~458 |
+| Dinosaur Racing | 0.20% | ~458 |
 | Escort to Waterdeep | 0.20% | ~458 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
 | The Everlasting Rime | 0.20% | ~391 |
@@ -205,7 +207,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~195 |
 | Welcome to the Rock | 0.10% | ~195 |
 | Welcome to the Band | 0.10% | ~195 |
-| The Forbidden City | 0.10% | ~229 |
 | Periodic Petrification | 0.10% | ~229 |
 | No Good at All | 0.10% | ~229 |
 | Fall From Grace | 0.10% | ~229 |
@@ -345,7 +346,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~229 |
 | The Nimble Grove | 0.10% | ~229 |
 | The Misty Grove | 0.10% | ~195 |
-| Dinosaur Racing | 0.10% | ~229 |
 | Elturel Has Fallen | 0.10% | ~229 |
 | Everything is Awful | 0.10% | ~229 |
 | Earthquake! | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,073 (Ranked 55)  
+Progressed: 229,082 (Ranked 55)  
 Completed: 2,288 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -676,7 +676,7 @@ Completed: 2,288 (1.00%) (Ranked 123)
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
-| 2023-09-16 | 229,073 | 2,288 |
+| 2023-09-16 | 229,082 | 2,288 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,617 (Ranked 39)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2492,9 +2492,9 @@
       "ID": "GRAVE_DIGGER_1",
       "SetID": "bf13m8j",
       "Name": "Grave Robber",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 226
     },
     {
       "ID": "HEAD_BURST_1",
@@ -2700,8 +2700,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:09:41.2281494+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:09:20.6819955+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.8587226+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:02:30.0240275+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:09:41.2281889+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:02:15.9173185+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:09:20.6820358+00:00"
 }

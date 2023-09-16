@@ -2,13 +2,13 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 163,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -422,9 +422,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13022,
+  "EOS_Progressed": 13023,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -8317,6 +8317,11 @@
       "Time": "2023-09-16T21:09:11.6946232+00:00",
       "NumProgressed": 13022,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-16T22:08:50.6947699+00:00",
+      "NumProgressed": 13023,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 35,
@@ -8328,7 +8333,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11980
+      "UsersEstimate": 11981
     },
     {
       "ID": "ACH_02",
@@ -8336,7 +8341,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10287
+      "UsersEstimate": 10288
     },
     {
       "ID": "ACH_03",
@@ -8344,7 +8349,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9636
+      "UsersEstimate": 9637
     },
     {
       "ID": "ACH_04",
@@ -8360,7 +8365,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "ACH_06",
@@ -8368,7 +8373,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "ACH_07",
@@ -8384,7 +8389,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7943
+      "UsersEstimate": 7944
     },
     {
       "ID": "ACH_09",
@@ -8416,7 +8421,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6120
+      "UsersEstimate": 6121
     },
     {
       "ID": "ACH_13",
@@ -8432,7 +8437,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4948
+      "UsersEstimate": 4949
     },
     {
       "ID": "ACH_15",
@@ -8440,7 +8445,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4428
     },
     {
       "ID": "ACH_16",
@@ -8536,7 +8541,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5599
+      "UsersEstimate": 5600
     },
     {
       "ID": "ACH_28",
@@ -8544,7 +8549,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8985
+      "UsersEstimate": 8986
     },
     {
       "ID": "ACH_29",
@@ -8600,14 +8605,14 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13022,
+      "Progressed": 13023,
       "Completed": 46
     }
   ],
@@ -8615,8 +8620,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-16T13:01:33.9116431+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:09:11.6946228+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:08:50.6947695+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:18.7719014+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:00:40.8553743+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:09:11.6946977+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:00:31.2872591+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:08:50.6948512+00:00"
 }

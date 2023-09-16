@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7117,10 +7117,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14443,
       "NumberOfAwardsMax": 7084
+    },
+    {
+      "Time": "2023-09-16T22:01:28.888053+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14445,
+      "NumberOfAwardsMax": 7084
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14443,
+  "NumberOfAwards": 14445,
   "NumberOfAwardsMax": 7084,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7188,7 +7194,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 583
+      "Count": 585
     },
     {
       "Text": "This game has Competitive Players",
@@ -7197,7 +7203,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61218,
+  "EOS_Progressed": 61220,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
@@ -22997,6 +23003,11 @@
       "Time": "2023-09-16T21:09:10.7811599+00:00",
       "NumProgressed": 61218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T22:08:49.7694101+00:00",
+      "NumProgressed": 61220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23024,7 +23035,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14080
+      "UsersEstimate": 14081
     },
     {
       "ID": "Best served cold",
@@ -23048,7 +23059,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4898
     },
     {
       "ID": "Catch",
@@ -23136,7 +23147,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "Great Granny",
@@ -23168,7 +23179,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14080
+      "UsersEstimate": 14081
     },
     {
       "ID": "I can do it",
@@ -23240,7 +23251,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23875
+      "UsersEstimate": 23876
     },
     {
       "ID": "Lawmaker",
@@ -23248,7 +23259,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14080
+      "UsersEstimate": 14081
     },
     {
       "ID": "Long live the Empire",
@@ -23360,7 +23371,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11019
+      "UsersEstimate": 11020
     },
     {
       "ID": "This Is Our Land",
@@ -23384,7 +23395,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14080
+      "UsersEstimate": 14081
     },
     {
       "ID": "Undercover",
@@ -23415,15 +23426,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61218,
+      "Progressed": 61220,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-16T18:00:03.8171153+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:09:10.7811594+00:00",
+  "LastChanged": "2023-09-16T22:01:28.8880529+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:08:49.7694099+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-16T21:01:36.8956255+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:09:10.7813889+00:00"
+  "LastUpdate_Ratings": "2023-09-16T22:01:28.8880535+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:08:49.7695269+00:00"
 }

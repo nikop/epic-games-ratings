@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -406,9 +406,9 @@
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "05",
@@ -511,8 +511,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:07:44.4327385+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:07:24.0063013+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:35.4056628+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:58:20.3491018+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:07:44.4327536+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:58:15.3154012+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:07:24.0063173+00:00"
 }

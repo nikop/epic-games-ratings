@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6700,9 +6700,9 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229073,
+  "EOS_Progressed": 229082,
   "EOS_Completed": 2288,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 918,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23250,6 +23250,11 @@
       "Time": "2023-09-16T21:08:27.8367272+00:00",
       "NumProgressed": 229073,
       "NumCompleted": 2288
+    },
+    {
+      "Time": "2023-09-16T22:08:07.5958017+00:00",
+      "NumProgressed": 229082,
+      "NumCompleted": 2288
     }
   ],
   "TotalAchievements": 520,
@@ -23261,7 +23266,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "objective_completed_10",
@@ -24371,9 +24376,9 @@
       "ID": "objective_completed_149",
       "SetID": "cc37lbc",
       "Name": "The Forbidden City",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_15",
@@ -25811,9 +25816,9 @@
       "ID": "objective_completed_60",
       "SetID": "cc37lbc",
       "Name": "Dinosaur Racing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_600",
@@ -27420,21 +27425,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195347,
+      "Progressed": 195356,
       "Completed": 3434
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229073,
+      "Progressed": 229082,
       "Completed": 2288
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-16T18:58:11.373151+00:00",
-  "LastChanged_Achievements": "2023-09-16T21:08:27.8367267+00:00",
+  "LastChanged_Achievements": "2023-09-16T22:08:07.5958011+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-16T20:58:17.2897319+00:00",
-  "LastUpdate_Achievements": "2023-09-16T21:08:27.8391242+00:00"
+  "LastUpdate_Ratings": "2023-09-16T21:58:11.7755454+00:00",
+  "LastUpdate_Achievements": "2023-09-16T22:08:07.5992154+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~23,875 |
+| Lawbringer | 39.00% | ~23,876 |
 | Landlord | 32.00% | ~19,590 |
-| Bannerlord | 23.00% | ~14,080 |
-| Horde breaker | 23.00% | ~14,080 |
-| Lawmaker | 23.00% | ~14,080 |
-| Trained | 23.00% | ~14,080 |
-| The king is pleased | 18.00% | ~11,019 |
+| Bannerlord | 23.00% | ~14,081 |
+| Horde breaker | 23.00% | ~14,081 |
+| Lawmaker | 23.00% | ~14,081 |
+| Trained | 23.00% | ~14,081 |
+| The king is pleased | 18.00% | ~11,020 |
 | King Solomon | 17.00% | ~10,407 |
 | I can do it | 16.00% | ~9,795 |
 | Apple of my eye | 15.00% | ~9,183 |
-| God of the Arena | 13.00% | ~7,958 |
+| God of the Arena | 13.00% | ~7,959 |
 | Against all odds | 12.00% | ~7,346 |
 | This Is Our Land | 11.00% | ~6,734 |
 | Duelist | 10.00% | ~6,122 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 10.00% | ~6,122 |
 | Dynasty | 9.00% | ~5,510 |
 | I spit on your grave | 9.00% | ~5,510 |
-| Butterlord | 8.00% | ~4,897 |
+| Butterlord | 8.00% | ~4,898 |
 | Know your enemy | 7.00% | ~4,285 |
 | Mastery | 7.00% | ~4,285 |
 | Crush your enemies | 5.00% | ~3,061 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,218 (Ranked 89)  
+Progressed: 61,220 (Ranked 89)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 60,958 | 0 |
 | 2023-09-14 | 61,022 | 0 |
 | 2023-09-15 | 61,114 | 0 |
-| 2023-09-16 | 61,218 | 0 |
+| 2023-09-16 | 61,220 | 0 |
 ## Awards
 Max (Character Customization): 7,084  (Ranked 50)  
-Sum: 14,443 (Ranked 69)  
+Sum: 14,445 (Ranked 69)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -223,7 +223,7 @@ Diff (max vs sum): -19
 | This game is Relaxing | 805 |
 | This game has Amazing Characters | 798 |
 | This game has Quickly Understood Controls | 790 |
-| This game has a Creative Community | 583 |
+| This game has a Creative Community | 585 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -473,4 +473,4 @@ Diff (max vs sum): -19
 | 2023-09-13 | 4.74 | - | 7,075 | 14,411 |
 | 2023-09-14 | 4.74 | - | 7,075 | 14,417 |
 | 2023-09-15 | 4.74 | - | 7,081 | 14,431 |
-| 2023-09-16 | 4.74 | - | 7,084 | 14,443 |
+| 2023-09-16 | 4.74 | - | 7,084 | 14,445 |
