@@ -204,7 +204,7 @@
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 4,162 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 4,164 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -445,6 +445,7 @@
 | [Ultimate Fishing Simulator](games/c/ccef09bb805048a88de4be4a592da1b3.md) | 2099-01-01 | - |  | - | - |
 | [Under a Rock](games/f/f1838ea95ba442d98b3da503ae5a5a33.md) | 2099-01-01 | - |  | - | - |
 | [Until the Last Plane](games/u/until_the_last_plane.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
+| [VCB Why City 4k](games/0/0107b8efe41d4d228845cb0dc8e50214.md) | 2099-01-01 | - |  | - | - |
 | [Velo](games/v/velo.md) | 2099-01-01 | - |  | - | - |
 | [Vengeance of Mr. Peppermint](games/v/vengeance_of_mr._peppermint.md) | 2099-01-01 | - |  | - | - |
 | [Vivaion](games/5/53ac8f9e5d4d4f3db35bf66cc74b03e6.md) | 2099-01-01 | - |  | - | - |
