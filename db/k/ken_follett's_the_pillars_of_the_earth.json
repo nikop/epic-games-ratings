@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -481,10 +481,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 189,
       "NumberOfAwardsMax": 149
+    },
+    {
+      "Time": "2023-09-16T15:01:23.4466057+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 190,
+      "NumberOfAwardsMax": 149
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 189,
+  "NumberOfAwards": 190,
   "NumberOfAwardsMax": 149,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
@@ -498,12 +504,12 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 40
+      "Count": 41
     }
   ],
-  "EOS_Progressed": 15217,
+  "EOS_Progressed": 15219,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10211,6 +10217,11 @@
       "Time": "2023-09-16T14:07:07.2880071+00:00",
       "NumProgressed": 15217,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-16T15:08:17.5062906+00:00",
+      "NumProgressed": 15219,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -10238,7 +10249,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "tpote_achievement_12",
@@ -10278,7 +10289,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "tpote_achievement_17",
@@ -10326,7 +10337,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "tpote_achievement_22",
@@ -10334,7 +10345,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "tpote_achievement_23",
@@ -10398,7 +10409,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "tpote_achievement_30",
@@ -10422,7 +10433,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "tpote_achievement_33",
@@ -10486,7 +10497,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6239
+      "UsersEstimate": 6240
     },
     {
       "ID": "tpote_achievement_40",
@@ -10510,7 +10521,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "tpote_achievement_6",
@@ -10518,7 +10529,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "tpote_achievement_7",
@@ -10542,22 +10553,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5326
+      "UsersEstimate": 5327
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15217,
+      "Progressed": 15219,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2023-09-10T20:57:40.397669+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:07:07.2880068+00:00",
+  "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:08:17.50629+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:00:31.2126401+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:07:07.2880972+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:01:23.4466064+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:08:17.5064469+00:00"
 }

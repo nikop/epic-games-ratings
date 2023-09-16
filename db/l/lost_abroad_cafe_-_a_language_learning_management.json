@@ -4,8 +4,8 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 407,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-09-16T12:05:43.0797304+00:00",
       "NumProgressed": 406,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T15:04:28.0979407+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -1847,7 +1852,7 @@
       "Name": "Barista",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "coffee_100",
@@ -1855,7 +1860,7 @@
       "Name": "Brew Master",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "coffee_50",
@@ -1863,7 +1868,7 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "countertop",
@@ -1879,7 +1884,7 @@
       "Name": "Get Lost!",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "tea_10",
@@ -1887,7 +1892,7 @@
       "Name": "Tea-ser",
       "Percentage": 41,
       "XP": 75,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "tea_100",
@@ -1910,14 +1915,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:03:38.9604468+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:04:28.0979401+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.8137305+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:58:29.1408003+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:03:38.9604676+00:00"
+  "LastUpdate_Ratings": "2023-09-16T14:58:53.2543327+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:04:28.0979838+00:00"
 }

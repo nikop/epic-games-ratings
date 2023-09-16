@@ -6,23 +6,23 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,239 |
-| Man of politics | 35.00% | ~5,326 |
+| Tattletale | 41.00% | ~6,240 |
+| Man of politics | 35.00% | ~5,327 |
 | Friends of sorts | 33.00% | ~5,022 |
 | Yet another secret | 33.00% | ~5,022 |
-| Let there be darkness | 32.00% | ~4,869 |
-| End of Book One | 30.00% | ~4,565 |
-| Wannabe knight | 24.00% | ~3,652 |
-| Garden of Eden | 24.00% | ~3,652 |
-| Full house | 24.00% | ~3,652 |
+| Let there be darkness | 32.00% | ~4,870 |
+| End of Book One | 30.00% | ~4,566 |
+| Wannabe knight | 24.00% | ~3,653 |
+| Garden of Eden | 24.00% | ~3,653 |
+| Full house | 24.00% | ~3,653 |
 | Help an old friend | 22.00% | ~3,348 |
-| Two of us | 20.00% | ~3,043 |
+| Two of us | 20.00% | ~3,044 |
 | Negotiation skills | 18.00% | ~2,739 |
 | Workers' union | 18.00% | ~2,739 |
 | End of Book Two | 18.00% | ~2,739 |
 | Everything's in order | 17.00% | ~2,587 |
-| Twist of Fate | 14.00% | ~2,130 |
-| Jack was here! | 14.00% | ~2,130 |
+| Twist of Fate | 14.00% | ~2,131 |
+| Jack was here! | 14.00% | ~2,131 |
 | Exterminator | 13.00% | ~1,978 |
 | Whodunnit | 12.00% | ~1,826 |
 | Friar Tuck | 11.00% | ~1,674 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~457 |
 | Boy of mystery | 2.00% | ~304 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,217 (Ranked 122)  
+Progressed: 15,219 (Ranked 122)  
 Completed: 110 (0.72%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,15 +197,15 @@ Completed: 110 (0.72%) (Ranked 137)
 | 2023-09-13 | 15,184 | 110 |
 | 2023-09-14 | 15,194 | 110 |
 | 2023-09-15 | 15,208 | 110 |
-| 2023-09-16 | 15,217 | 110 |
+| 2023-09-16 | 15,219 | 110 |
 ## Awards
 Max (Easy Puzzles): 149  (Ranked 302)  
-Sum: 189 (Ranked 380)  
+Sum: 190 (Ranked 380)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 149 |
-| In this game, your choices Impact the Story | 40 |
+| In this game, your choices Impact the Story | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -292,3 +292,4 @@ Diff (max vs sum): -78
 | 2023-05-27 | 4.52 | - | 148 | 188 |
 | 2023-08-03 | 4.51 | - | 148 | 188 |
 | 2023-09-10 | 4.51 | - | 149 | 189 |
+| 2023-09-16 | 4.51 | - | 149 | 190 |

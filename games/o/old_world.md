@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 6.00% | ~837 |
 | Explorer | 5.00% | ~697 |
-| Settler | 5.00% | ~697 |
 | Friendly Family | 5.00% | ~697 |
 | Play a Single Player Game | 5.00% | ~697 |
 | The Clergy | 5.00% | ~697 |
@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 3.00% | ~418 |
 | Carthaginian Paganism | 3.00% | ~418 |
 | Greek Paganism | 3.00% | ~418 |
+| Roman Paganism | 3.00% | ~418 |
 | Zoroastrianism | 3.00% | ~418 |
 | Naming Landmarks | 3.00% | ~418 |
 | Trade Caravan | 3.00% | ~418 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 2.00% | ~279 |
 | Manichaeism | 2.00% | ~279 |
 | Egyptian Paganism | 2.00% | ~279 |
-| Roman Paganism | 2.00% | ~279 |
 | Mythology | 2.00% | ~279 |
 | Poetic Leader | 2.00% | ~279 |
 | Hanging Gardens in Babylon | 1.00% | ~139 |
@@ -191,6 +191,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
 | Word of God | 0.20% | ~28 |
+| Randomized Leaders | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Musaeum in Alexandria | 0.10% | ~14 |
@@ -271,7 +272,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Characters | 0.10% | ~14 |
 | One City Challenge | 0.10% | ~14 |
 | Randomized Families | 0.10% | ~14 |
-| Randomized Leaders | 0.10% | ~14 |
 | Role-Playing | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
 | Win a 1-v-1 Game | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,946 (Ranked 123)  
+Progressed: 13,948 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,946 | 5 |
+| 2023-09-16 | 13,948 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

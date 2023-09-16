@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1110,9 +1110,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5135,
+  "EOS_Progressed": 5138,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9660,6 +9660,11 @@
       "Time": "2023-09-16T14:04:22.0789402+00:00",
       "NumProgressed": 5135,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-16T15:04:53.7755974+00:00",
+      "NumProgressed": 5138,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9767,7 +9772,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9791,7 +9796,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -9807,7 +9812,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -9823,7 +9828,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -9831,7 +9836,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3905
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9863,7 +9868,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_MYWAYS",
@@ -9927,7 +9932,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2413
+      "UsersEstimate": 2415
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9943,7 +9948,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -9951,7 +9956,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -9975,7 +9980,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -9990,15 +9995,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5135,
+      "Progressed": 5138,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-14T16:01:20.4133159+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:04:22.0789396+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:04:53.7755966+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.3896086+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:01:04.7597859+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:04:22.0790143+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:02:10.9631166+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:04:53.7757091+00:00"
 }

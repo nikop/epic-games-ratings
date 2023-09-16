@@ -2,13 +2,13 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 935,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1798,9 +1798,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 263449,
+  "EOS_Progressed": 263461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1974,
+  "EOS_NewPlayers": 1959,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18553,6 +18553,11 @@
       "Time": "2023-09-16T14:07:41.9454024+00:00",
       "NumProgressed": 263449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T15:09:09.3150294+00:00",
+      "NumProgressed": 263461,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -18612,7 +18617,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26345
+      "UsersEstimate": 26346
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -18628,7 +18633,7 @@
       "Name": "My Table, my Rules",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2635
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18684,7 +18689,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7903
+      "UsersEstimate": 7904
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -18724,7 +18729,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26345
+      "UsersEstimate": 26346
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -18772,7 +18777,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7903
+      "UsersEstimate": 7904
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -18788,7 +18793,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 216028
+      "UsersEstimate": 216038
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -18796,22 +18801,22 @@
       "Name": "I know the Rules",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 94842
+      "UsersEstimate": 94846
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 263449,
+      "Progressed": 263461,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-09-12T16:58:12.7479495+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:07:41.9454018+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:09:09.3150284+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.6207097+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:59:34.0349843+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:07:41.9455253+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:00:11.4084892+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:09:09.3152108+00:00"
 }

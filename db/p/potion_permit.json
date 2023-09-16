@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1566,
+  "EOS_Progressed": 1567,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1973,6 +1973,11 @@
       "Time": "2023-09-16T14:02:17.0376557+00:00",
       "NumProgressed": 1566,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-16T15:03:39.1400917+00:00",
+      "NumProgressed": 1567,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1984,7 +1989,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2032,7 +2037,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2040,7 +2045,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2056,7 +2061,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2120,7 +2125,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2160,7 +2165,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2248,7 +2253,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2287,7 +2292,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1566,
+      "Progressed": 1567,
       "Completed": 9
     }
   ],
@@ -2295,8 +2300,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:02:17.0376551+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:03:39.140091+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:15.4686624+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:01:25.0105079+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:02:17.0376996+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:02:39.310489+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:03:39.1401387+00:00"
 }

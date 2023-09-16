@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3619,
+  "EOS_Progressed": 3620,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6684,6 +6684,11 @@
       "Time": "2023-09-16T14:05:26.1874881+00:00",
       "NumProgressed": 3619,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-16T15:06:08.9434543+00:00",
+      "NumProgressed": 3620,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6719,7 +6724,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6727,15 +6732,15 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6847,7 +6852,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6895,7 +6900,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7007,7 +7012,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7063,7 +7068,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7167,7 +7172,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7262,13 +7267,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3570,
+      "Progressed": 3571,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3619,
+      "Progressed": 3620,
       "Completed": 10
     }
   ],
@@ -7276,8 +7281,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:05:26.1874875+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:06:08.9434536+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:01:27.0137567+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:05:26.1875979+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:02:42.8485101+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:06:08.9435679+00:00"
 }

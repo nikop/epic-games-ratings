@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3416,
+  "EOS_Progressed": 3421,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3374,6 +3374,11 @@
       "Time": "2023-09-16T14:06:27.8609662+00:00",
       "NumProgressed": 3416,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-16T15:07:20.6051994+00:00",
+      "NumProgressed": 3421,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3385,7 +3390,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "bonus2",
@@ -3409,7 +3414,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "bonus5",
@@ -3433,7 +3438,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3010
     },
     {
       "ID": "campaign10",
@@ -3465,7 +3470,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "campaign14",
@@ -3489,7 +3494,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "campaign17",
@@ -3497,7 +3502,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "campaign18",
@@ -3521,7 +3526,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2634
     },
     {
       "ID": "campaign20",
@@ -3537,7 +3542,7 @@
       "Name": "Economics 101",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2121
     },
     {
       "ID": "campaign4",
@@ -3545,7 +3550,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1539
     },
     {
       "ID": "campaign5",
@@ -3553,7 +3558,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "campaign6",
@@ -3561,7 +3566,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "campaign7",
@@ -3569,7 +3574,7 @@
       "Name": "Maestro",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 922
+      "UsersEstimate": 924
     },
     {
       "ID": "campaign8",
@@ -3577,7 +3582,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "campaign9",
@@ -3585,7 +3590,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "scenario1",
@@ -3593,7 +3598,7 @@
       "Name": "Do the Splits",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1368
     },
     {
       "ID": "scenario2",
@@ -3601,7 +3606,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "scenario3",
@@ -3641,14 +3646,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3416,
+      "Progressed": 3421,
       "Completed": 11
     }
   ],
@@ -3656,8 +3661,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:06:27.8609655+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:07:20.6051989+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:00:46.2180064+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:06:27.8610125+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:01:48.2200339+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:07:20.6052496+00:00"
 }

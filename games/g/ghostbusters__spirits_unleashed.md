@@ -5,13 +5,14 @@ Rating: 4.50 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Stylish | 0.30% | ~78 |
 | Advancement | 0.20% | ~52 |
 | Discovery | 0.20% | ~52 |
 | Meticulously Efficient | 0.20% | ~52 |
 | Solo Capture | 0.20% | ~52 |
-| Stylish | 0.20% | ~52 |
 | Teamwork | 0.20% | ~52 |
 | Vaporous Expansion | 0.20% | ~52 |
+| Whoopsie | 0.20% | ~52 |
 | Animated | 0.10% | ~26 |
 | Back Off | 0.10% | ~26 |
 | We have the best insurance | 0.10% | ~26 |
@@ -53,11 +54,10 @@ Rating: 4.50 (Ranked 565)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 | Welcome to the Crew | 0.10% | ~26 |
-| Whoopsie | 0.10% | ~26 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,834 (Ranked 105)  
+Progressed: 25,836 (Ranked 106)  
 Completed: 56 (0.22%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 56 (0.22%) (Ranked 194)
 | 2023-09-13 | 25,787 | 55 |
 | 2023-09-14 | 25,800 | 56 |
 | 2023-09-15 | 25,818 | 56 |
-| 2023-09-16 | 25,834 | 56 |
+| 2023-09-16 | 25,836 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,312 (Ranked 188)  

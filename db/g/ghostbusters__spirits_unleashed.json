@@ -5,10 +5,10 @@
   "Ranking_Rating": 565,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 188,
-  "Ranking_EOS_Progress": 105,
+  "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2136,9 +2136,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25834,
+  "EOS_Progressed": 25836,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12931,6 +12931,11 @@
       "Time": "2023-09-16T14:04:19.2173039+00:00",
       "NumProgressed": 25834,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-16T15:04:51.0082021+00:00",
+      "NumProgressed": 25836,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13244,9 +13249,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Summoner",
@@ -13340,16 +13345,16 @@
       "ID": "Whoopsie",
       "SetID": "819popo",
       "Name": "Whoopsie",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25834,
+      "Progressed": 25836,
       "Completed": 56
     }
   ],
@@ -13357,8 +13362,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-16T01:38:25.4546113+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:04:19.2173033+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:04:51.0082014+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:59:08.1534636+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:04:19.2174151+00:00"
+  "LastUpdate_Ratings": "2023-09-16T14:59:40.2728962+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:04:51.0083227+00:00"
 }

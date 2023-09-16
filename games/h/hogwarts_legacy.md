@@ -5,12 +5,12 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,539 |
-| First Class Student | 13.00% | ~38,572 |
-| A Keen Sense of Spell | 12.00% | ~35,605 |
-| Troll with the Punches | 12.00% | ~35,605 |
-| A Talent for Spending | 11.00% | ~32,638 |
-| That's a Keeper | 11.00% | ~32,638 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,540 |
+| First Class Student | 13.00% | ~38,573 |
+| Troll with the Punches | 13.00% | ~38,573 |
+| A Keen Sense of Spell | 12.00% | ~35,606 |
+| A Talent for Spending | 11.00% | ~32,639 |
+| That's a Keeper | 11.00% | ~32,639 |
 | Grappling with a Graphorn | 10.00% | ~29,671 |
 | The One Who Mastered Memories | 10.00% | ~29,671 |
 | The Hallowed Hero | 10.00% | ~29,671 |
@@ -28,15 +28,15 @@ Rating: 4.77 (Ranked 109)
 | Flight the Good Flight | 7.00% | ~20,770 |
 | The Seeker of Knowledge | 6.00% | ~17,803 |
 | Raising Expectations | 6.00% | ~17,803 |
-| The Root of the Problem | 5.00% | ~14,835 |
-| Third Time's a Charm | 5.00% | ~14,835 |
-| The Ends Petrify the Means | 5.00% | ~14,835 |
-| The Toast of the Town | 4.00% | ~11,868 |
-| Going Through the Potions | 4.00% | ~11,868 |
-| Room with a View | 4.00% | ~11,868 |
-| The Intrepid Explorer | 4.00% | ~11,868 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,868 |
-| The Wise Owl | 4.00% | ~11,868 |
+| The Root of the Problem | 5.00% | ~14,836 |
+| Third Time's a Charm | 5.00% | ~14,836 |
+| The Ends Petrify the Means | 5.00% | ~14,836 |
+| The Toast of the Town | 4.00% | ~11,869 |
+| Going Through the Potions | 4.00% | ~11,869 |
+| Room with a View | 4.00% | ~11,869 |
+| The Intrepid Explorer | 4.00% | ~11,869 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,869 |
+| The Wise Owl | 4.00% | ~11,869 |
 | Put Down Roots | 3.00% | ~8,901 |
 | Floo Around the World | 3.00% | ~8,901 |
 | The Good Samaritan | 2.00% | ~5,934 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,709 (Ranked 43)  
+Progressed: 296,714 (Ranked 43)  
 Completed: 471 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 471 (0.16%) (Ranked 204)
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
-| 2023-09-16 | 296,709 | 471 |
+| 2023-09-16 | 296,714 | 471 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
 Sum: 43,402 (Ranked 30)  

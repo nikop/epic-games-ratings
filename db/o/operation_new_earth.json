@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1327,
+  "EOS_Progressed": 1328,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4781,6 +4781,11 @@
       "Time": "2023-09-16T14:04:21.4225163+00:00",
       "NumProgressed": 1327,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T15:04:52.9346094+00:00",
+      "NumProgressed": 1328,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4920,7 +4925,7 @@
       "Name": "Lieutenant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4984,7 +4989,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5016,7 +5021,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5095,14 +5100,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1327,
+      "Progressed": 1328,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:04:21.4225155+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:04:52.9346088+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-16T14:01:17.424828+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:04:21.4225754+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:02:28.8088219+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:04:52.9346845+00:00"
 }

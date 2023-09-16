@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2880,10 +2880,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4451,
       "NumberOfAwardsMax": 2683
+    },
+    {
+      "Time": "2023-09-16T15:00:42.6143497+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4452,
+      "NumberOfAwardsMax": 2683
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4451,
+  "NumberOfAwards": 4452,
   "NumberOfAwardsMax": 2683,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2927,7 +2933,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2948,7 +2954,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72579,
+  "EOS_Progressed": 72582,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 1,
@@ -15638,6 +15644,11 @@
       "Time": "2023-09-16T14:03:12.9732577+00:00",
       "NumProgressed": 72579,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-16T15:03:57.0051549+00:00",
+      "NumProgressed": 72582,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15697,7 +15708,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16693
+      "UsersEstimate": 16694
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15729,7 +15740,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8709
+      "UsersEstimate": 8710
     },
     {
       "ID": "APPLY_STATUS",
@@ -15761,7 +15772,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13064
+      "UsersEstimate": 13065
     },
     {
       "ID": "CLAYFACE_3",
@@ -15809,7 +15820,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9435
+      "UsersEstimate": 9436
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -15825,7 +15836,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8709
+      "UsersEstimate": 8710
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -15857,7 +15868,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9435
+      "UsersEstimate": 9436
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -15873,7 +15884,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21048
+      "UsersEstimate": 21049
     },
     {
       "ID": "FREEZE_1_5",
@@ -15889,7 +15900,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13790
+      "UsersEstimate": 13791
     },
     {
       "ID": "FREEZE_3",
@@ -15953,7 +15964,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25403
+      "UsersEstimate": 25404
     },
     {
       "ID": "HARLEY_2",
@@ -15961,7 +15972,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18145
+      "UsersEstimate": 18146
     },
     {
       "ID": "HARLEY_3",
@@ -15993,7 +16004,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37741
+      "UsersEstimate": 37743
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16025,7 +16036,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20322
+      "UsersEstimate": 20323
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16041,7 +16052,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24677
+      "UsersEstimate": 24678
     },
     {
       "ID": "MYSTERY_02",
@@ -16049,7 +16060,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18145
+      "UsersEstimate": 18146
     },
     {
       "ID": "MYSTERY_03",
@@ -16057,7 +16068,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15967
+      "UsersEstimate": 15968
     },
     {
       "ID": "MYSTERY_04",
@@ -16073,7 +16084,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13064
+      "UsersEstimate": 13065
     },
     {
       "ID": "MYSTERY_06",
@@ -16089,7 +16100,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9435
+      "UsersEstimate": 9436
     },
     {
       "ID": "MYSTERY_08",
@@ -16097,7 +16108,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8709
+      "UsersEstimate": 8710
     },
     {
       "ID": "SECRET_CACHE",
@@ -16136,22 +16147,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72579,
+      "Progressed": 72582,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42859,
+      "Progressed": 42862,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-16T04:58:56.9999844+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:03:12.9732572+00:00",
+  "LastChanged": "2023-09-16T15:00:42.6143495+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:03:57.0051542+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:59:54.4884899+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:03:12.9733784+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:00:42.61435+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:03:57.0055791+00:00"
 }

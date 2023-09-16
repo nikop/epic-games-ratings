@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -261,9 +261,9 @@
       "ID": "ACH_MORGENGRAUEN",
       "SetID": "88d7anj",
       "Name": "Morgengrauen",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -301,9 +301,9 @@
       "ID": "ACH_PATHOFDESPAIR",
       "SetID": "88d7anj",
       "Name": "Path of Despair",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -363,8 +363,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-09-16T14:05:53.5354879+00:00",
+  "LastChanged_Achievements": "2023-09-16T15:06:41.9630436+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:17.1765053+00:00",
-  "LastUpdate_Ratings": "2023-09-16T13:59:25.259622+00:00",
-  "LastUpdate_Achievements": "2023-09-16T14:05:53.5355085+00:00"
+  "LastUpdate_Ratings": "2023-09-16T15:00:03.1086055+00:00",
+  "LastUpdate_Achievements": "2023-09-16T15:06:41.9630647+00:00"
 }
