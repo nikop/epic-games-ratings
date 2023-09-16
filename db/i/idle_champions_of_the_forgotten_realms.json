@@ -6676,10 +6676,10 @@
       "Count": 3419
     }
   ],
-  "EOS_Progressed": 228926,
-  "EOS_Completed": 2285,
-  "EOS_NewPlayers": 932,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 228935,
+  "EOS_Completed": 2286,
+  "EOS_NewPlayers": 925,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23121,6 +23121,11 @@
       "Time": "2023-09-16T00:06:43.9005821+00:00",
       "NumProgressed": 228926,
       "NumCompleted": 2285
+    },
+    {
+      "Time": "2023-09-16T01:46:07.2817471+00:00",
+      "NumProgressed": 228935,
+      "NumCompleted": 2286
     }
   ],
   "TotalAchievements": 520,
@@ -23500,7 +23505,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "objective_completed_110",
@@ -24458,9 +24463,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_20",
@@ -24804,7 +24809,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "objective_completed_34",
@@ -27291,21 +27296,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195200,
+      "Progressed": 195209,
       "Completed": 3431
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228926,
-      "Completed": 2285
+      "Progressed": 228935,
+      "Completed": 2286
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-15T16:58:09.446849+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:06:43.9005815+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:46:07.2817465+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:57:50.2507483+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:06:43.904015+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:36:59.1015313+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:46:07.2849748+00:00"
 }

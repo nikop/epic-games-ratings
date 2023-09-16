@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -1140,9 +1140,9 @@
       "ID": "achExplosion",
       "SetID": "1al1mjg",
       "Name": "Survival \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "achEye",
@@ -1251,8 +1251,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:06:15.5584469+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:45:38.5992228+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.0737493+00:00",
-  "LastUpdate_Ratings": "2023-09-16T00:02:52.4694143+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:06:15.5584679+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:41:46.4641403+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:45:38.5992456+00:00"
 }

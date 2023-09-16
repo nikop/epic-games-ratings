@@ -6,7 +6,7 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 93.00% | ~445 |
+| Welcome to Sonic the Hedgehog | 94.00% | ~449 |
 | Newbie Hero | 82.00% | ~392 |
 | Welcome to Sonic CD | 73.00% | ~349 |
 | Welcome to Sonic the Hedgehog 2 | 72.00% | ~344 |

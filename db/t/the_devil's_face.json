@@ -2,9 +2,9 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1406,6 +1406,11 @@
       "Time": "2023-09-15T01:45:29.3336807+00:00",
       "NumProgressed": 322,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T01:43:23.1426061+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1417,7 +1422,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1528,14 +1533,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:03:59.2144989+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:43:23.1426056+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.1913834+00:00",
-  "LastUpdate_Ratings": "2023-09-16T00:01:39.3900677+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:03:59.2145401+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:40:34.5860604+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:43:23.1426313+00:00"
 }

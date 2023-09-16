@@ -4548,9 +4548,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 680383,
+  "EOS_Progressed": 680420,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4375,
+  "EOS_NewPlayers": 4387,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21203,6 +21203,11 @@
       "Time": "2023-09-16T00:04:49.7777432+00:00",
       "NumProgressed": 680383,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-16T01:44:13.7244104+00:00",
+      "NumProgressed": 680420,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -21518,7 +21523,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "ach_thesacrifice",
@@ -21540,9 +21545,9 @@
       "ID": "ach_weapon_wrangler",
       "SetID": "7km39fm",
       "Name": "Variety is the Spice of Death",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2722
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -21558,7 +21563,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "ach_well_trained",
@@ -21573,22 +21578,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 680383,
+      "Progressed": 680420,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 5924,
-      "Completed": 5924
+      "Progressed": 5961,
+      "Completed": 5961
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-15T14:58:39.2040649+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:04:49.7777427+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:44:13.7244099+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:58:46.1640314+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:04:49.7779064+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:37:51.043313+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:44:13.7246554+00:00"
 }

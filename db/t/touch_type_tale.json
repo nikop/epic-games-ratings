@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3383,
+  "EOS_Progressed": 3388,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.33,
+  "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.3745824+00:00",
@@ -3309,6 +3309,11 @@
       "Time": "2023-09-16T00:07:00.9490299+00:00",
       "NumProgressed": 3383,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-16T01:46:23.7452436+00:00",
+      "NumProgressed": 3388,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3344,7 +3349,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "bonus5",
@@ -3368,7 +3373,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3015
     },
     {
       "ID": "campaign10",
@@ -3384,7 +3389,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "campaign12",
@@ -3408,7 +3413,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "campaign15",
@@ -3432,7 +3437,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "campaign18",
@@ -3440,7 +3445,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "campaign19",
@@ -3454,9 +3459,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2609
     },
     {
       "ID": "campaign20",
@@ -3472,7 +3477,7 @@
       "Name": "Economics 101",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2101
     },
     {
       "ID": "campaign4",
@@ -3480,7 +3485,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1525
     },
     {
       "ID": "campaign5",
@@ -3488,7 +3493,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "campaign6",
@@ -3504,7 +3509,7 @@
       "Name": "Maestro",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 913
+      "UsersEstimate": 915
     },
     {
       "ID": "campaign8",
@@ -3512,7 +3517,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "campaign9",
@@ -3528,7 +3533,7 @@
       "Name": "Do the Splits",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1355
     },
     {
       "ID": "scenario2",
@@ -3536,7 +3541,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "scenario3",
@@ -3560,7 +3565,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "scenario6",
@@ -3568,7 +3573,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "scenario7",
@@ -3576,14 +3581,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3383,
+      "Progressed": 3388,
       "Completed": 11
     }
   ],
@@ -3591,8 +3596,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:07:00.9490294+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:46:23.7452431+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-16T00:01:20.7217037+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:07:00.9490744+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:40:18.8418397+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:46:23.7453368+00:00"
 }

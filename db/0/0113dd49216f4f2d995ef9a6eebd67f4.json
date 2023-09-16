@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -281,17 +281,17 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -313,9 +313,9 @@
       "ID": "SG_ARROWOFEROSUNDONE",
       "SetID": "bj5g0n4",
       "Name": "Arrow Of Eros Undone",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_BRANDNEWCHORUS",
@@ -393,9 +393,9 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -417,9 +417,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -457,9 +457,9 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -473,9 +473,9 @@
       "ID": "SG_SNAKECHARMER",
       "SetID": "bj5g0n4",
       "Name": "Snake Charmer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -537,17 +537,17 @@
       "ID": "SG_THEQUEENOFTHEDEAD",
       "SetID": "bj5g0n4",
       "Name": "The Queen Of The Dead",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_THEULTIMATESACRIFICE",
       "SetID": "bj5g0n4",
       "Name": "The Ultimate Sacrifice",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_THISHELLISMINE",
@@ -584,8 +584,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:03:39.1390924+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:42:42.8632138+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.7040236+00:00",
-  "LastUpdate_Ratings": "2023-09-16T00:01:33.8797222+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:03:39.139126+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:40:31.0877041+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:42:42.8632466+00:00"
 }

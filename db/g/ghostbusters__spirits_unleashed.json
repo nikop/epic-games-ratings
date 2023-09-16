@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2050,10 +2050,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2310,
       "NumberOfAwardsMax": 254
+    },
+    {
+      "Time": "2023-09-16T01:38:25.4546116+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2312,
+      "NumberOfAwardsMax": 254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2310,
+  "NumberOfAwards": 2312,
   "NumberOfAwardsMax": 254,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2073,7 +2079,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 214
+      "Count": 215
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2085,7 +2091,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2130,9 +2136,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25819,
+  "EOS_Progressed": 25821,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12880,6 +12886,11 @@
       "Time": "2023-09-16T00:04:32.6249835+00:00",
       "NumProgressed": 25819,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-16T01:43:56.9921902+00:00",
+      "NumProgressed": 25821,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13001,9 +13012,9 @@
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Escape_Artist",
@@ -13177,9 +13188,9 @@
       "ID": "Solo_Capture",
       "SetID": "819popo",
       "Name": "Solo Capture",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Stunner",
@@ -13298,16 +13309,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25819,
+      "Progressed": 25821,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-14T15:59:04.9260226+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:04:32.624983+00:00",
+  "LastChanged": "2023-09-16T01:38:25.4546113+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:43:56.9921897+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:59:21.0150776+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:04:32.6251163+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:38:25.4546119+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:43:56.992314+00:00"
 }

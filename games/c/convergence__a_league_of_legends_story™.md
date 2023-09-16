@@ -25,10 +25,10 @@ Rating: 4.60 (Ranked 395)
 | Like Clockwork | 17.00% | ~148 |
 | The Betrayer | 17.00% | ~148 |
 | The Loose Cannon | 17.00% | ~148 |
+| Check Your Pulse | 17.00% | ~148 |
 | The Family Fortune | 17.00% | ~148 |
 | Right On Time | 16.00% | ~139 |
 | The Man Who Shattered Time | 16.00% | ~139 |
-| Check Your Pulse | 16.00% | ~139 |
 | Street Style | 15.00% | ~130 |
 | Cartographer | 15.00% | ~130 |
 | Treasure Trove | 14.00% | ~122 |

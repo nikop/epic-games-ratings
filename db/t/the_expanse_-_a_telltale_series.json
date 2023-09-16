@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10608,
+  "EOS_Progressed": 10609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5446,6 +5446,11 @@
       "Time": "2023-09-16T00:09:19.5530714+00:00",
       "NumProgressed": 10608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T01:48:37.2535895+00:00",
+      "NumProgressed": 10609,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5474,7 +5479,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "12",
@@ -5498,7 +5503,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "15",
@@ -5546,7 +5551,7 @@
       "Name": "Data Logger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "20",
@@ -5562,7 +5567,7 @@
       "Name": "Drone Dodger",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "22",
@@ -5697,7 +5702,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10608,
+      "Progressed": 10609,
       "Completed": 0
     }
   ],
@@ -5705,8 +5710,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:09:19.5530708+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:48:37.253589+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:59:29.0192049+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:09:19.5531366+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:38:30.6229216+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:48:37.2536549+00:00"
 }

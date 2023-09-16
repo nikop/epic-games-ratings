@@ -2626,9 +2626,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30451,
+  "EOS_Progressed": 30452,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18791,6 +18791,11 @@
       "Time": "2023-09-15T23:06:05.7171584+00:00",
       "NumProgressed": 30451,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-09-16T01:45:54.3426942+00:00",
+      "NumProgressed": 30452,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 60,
@@ -18810,7 +18815,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14007
+      "UsersEstimate": 14008
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -18818,7 +18823,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17357
+      "UsersEstimate": 17358
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -18890,7 +18895,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10353
+      "UsersEstimate": 10354
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -19018,7 +19023,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12180
+      "UsersEstimate": 12181
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -19026,7 +19031,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10962
+      "UsersEstimate": 10963
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -19058,7 +19063,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8526
+      "UsersEstimate": 8527
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -19082,7 +19087,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7917
+      "UsersEstimate": 7918
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -19202,7 +19207,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 21011
+      "UsersEstimate": 21012
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -19250,7 +19255,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9135
+      "UsersEstimate": 9136
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -19274,22 +19279,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7917
+      "UsersEstimate": 7918
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30451,
+      "Progressed": 30452,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-15T17:58:51.1833435+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:06:31.1858487+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:45:54.3426936+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.8890263+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:59:50.7414274+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:06:31.1860784+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:38:52.503299+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:45:54.342922+00:00"
 }

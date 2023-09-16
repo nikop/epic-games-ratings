@@ -5,29 +5,29 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,534 |
-| First Class Student | 13.00% | ~38,567 |
-| A Keen Sense of Spell | 12.00% | ~35,601 |
-| Troll with the Punches | 12.00% | ~35,601 |
-| A Talent for Spending | 11.00% | ~32,634 |
-| That's a Keeper | 11.00% | ~32,634 |
-| Grappling with a Graphorn | 10.00% | ~29,667 |
-| The One Who Mastered Memories | 10.00% | ~29,667 |
-| The Hallowed Hero | 10.00% | ~29,667 |
-| The Defender of Dragons | 10.00% | ~29,667 |
-| Loom for Improvement | 10.00% | ~29,667 |
-| Coasting Along | 10.00% | ~29,667 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,535 |
+| First Class Student | 13.00% | ~38,568 |
+| A Keen Sense of Spell | 12.00% | ~35,602 |
+| Troll with the Punches | 12.00% | ~35,602 |
+| A Talent for Spending | 11.00% | ~32,635 |
+| That's a Keeper | 11.00% | ~32,635 |
+| Grappling with a Graphorn | 10.00% | ~29,668 |
+| The One Who Mastered Memories | 10.00% | ~29,668 |
+| The Hallowed Hero | 10.00% | ~29,668 |
+| The Defender of Dragons | 10.00% | ~29,668 |
+| Loom for Improvement | 10.00% | ~29,668 |
+| Coasting Along | 10.00% | ~29,668 |
 | The Hero of Hogwarts | 9.00% | ~26,701 |
 | Challenge Accepted | 9.00% | ~26,701 |
 | Followed the Butterflies | 9.00% | ~26,701 |
 | Rising From the Ashes | 9.00% | ~26,701 |
 | A Sallow Grave | 8.00% | ~23,734 |
 | The Spell Master | 8.00% | ~23,734 |
-| The Avenging Gazelle | 7.00% | ~20,767 |
-| Beast Friends | 7.00% | ~20,767 |
-| Flight the Good Flight | 7.00% | ~20,767 |
-| The Seeker of Knowledge | 6.00% | ~17,800 |
-| Raising Expectations | 6.00% | ~17,800 |
+| The Avenging Gazelle | 7.00% | ~20,768 |
+| Beast Friends | 7.00% | ~20,768 |
+| Flight the Good Flight | 7.00% | ~20,768 |
+| The Seeker of Knowledge | 6.00% | ~17,801 |
+| Raising Expectations | 6.00% | ~17,801 |
 | The Root of the Problem | 5.00% | ~14,834 |
 | Third Time's a Charm | 5.00% | ~14,834 |
 | The Ends Petrify the Means | 5.00% | ~14,834 |
@@ -39,10 +39,10 @@ Rating: 4.77 (Ranked 109)
 | The Wise Owl | 4.00% | ~11,867 |
 | Put Down Roots | 3.00% | ~8,900 |
 | Floo Around the World | 3.00% | ~8,900 |
-| The Good Samaritan | 2.00% | ~5,933 |
-| The Auror's Apprentice | 2.00% | ~5,933 |
-| Rise to the Challenges | 2.00% | ~5,933 |
-| Finishing Touches | 2.00% | ~5,933 |
+| The Good Samaritan | 2.00% | ~5,934 |
+| The Auror's Apprentice | 2.00% | ~5,934 |
+| Rise to the Challenges | 2.00% | ~5,934 |
+| Finishing Touches | 2.00% | ~5,934 |
 | Savvy Spender | 1.00% | ~2,967 |
 | Demiguise Dread | 1.00% | ~2,967 |
 | A Forte for Achievement | 1.00% | ~2,967 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,673 (Ranked 43)  
+Progressed: 296,680 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,18 +200,18 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
-| 2023-09-16 | 296,673 | 470 |
+| 2023-09-16 | 296,680 | 470 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
-Sum: 43,393 (Ranked 30)  
+Sum: 43,397 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 22,703 |
 | This game has Great Boss Battles | 11,138 |
 | This game is Great for Beginners | 1,072 |
+| This game has Amazing Storytelling | 1,029 |
 | This game is Extremely Fun | 1,027 |
-| This game has Amazing Storytelling | 1,025 |
 | This game is Relaxing | 1,023 |
 | This game has Diverse Characters | 1,018 |
 | This game has Amazing Characters | 993 |
@@ -398,4 +398,4 @@ Diff (max vs sum): -13
 | 2023-09-13 | 4.77 | 22,630 | 43,189 |
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
-| 2023-09-16 | 4.77 | 22,703 | 43,393 |
+| 2023-09-16 | 4.77 | 22,703 | 43,397 |

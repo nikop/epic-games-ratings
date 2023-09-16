@@ -11,8 +11,9 @@
 | Shook Up | 54.00% | ~13 |
 | The Birds and the Bees | 54.00% | ~13 |
 | Vaccinated | 54.00% | ~13 |
+| Busybody | 46.00% | ~11 |
 | Task Master | 46.00% | ~11 |
-| Busybody | 42.00% | ~10 |
+| Warning: Fragile | 42.00% | ~10 |
 | An Acquired Taste | 38.00% | ~9 |
 | A Light in the Dark | 38.00% | ~9 |
 | The Guardian | 38.00% | ~9 |
@@ -22,7 +23,6 @@
 | Socially Acceptable Insanity | 38.00% | ~9 |
 | The Companion | 38.00% | ~9 |
 | The Counsellor | 38.00% | ~9 |
-| Warning: Fragile | 38.00% | ~9 |
 | A Real Headache | 33.00% | ~8 |
 | A Total Riot | 33.00% | ~8 |
 | That One Doesn't Count | 33.00% | ~8 |
@@ -40,9 +40,9 @@
 | Obligatory Fraudulent Baking | 17.00% | ~4 |
 | Ring of Fire | 17.00% | ~4 |
 | The Provocateur | 17.00% | ~4 |
+| Tastes Like Regret | 17.00% | ~4 |
 | Overseer | 13.00% | ~3 |
 | The Mentor | 13.00% | ~3 |
-| Tastes Like Regret | 13.00% | ~3 |
 | The Spice of Life | 13.00% | ~3 |
 | Couldn't Have Planned It Better Myself | 8.00% | ~2 |
 | What They Don't Know Can't Hurt Them | 8.00% | ~2 |

@@ -17,22 +17,22 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 4.00% | ~665 |
 | Lost Colonies | 4.00% | ~665 |
 | A Real Challenge | 4.00% | ~665 |
-| Homesick | 3.00% | ~498 |
-| Against All Odds | 3.00% | ~498 |
-| Ruined Armory | 3.00% | ~498 |
-| Bandit Camp | 3.00% | ~498 |
-| Barren Lands | 3.00% | ~498 |
-| Sparkdew Crystals | 3.00% | ~498 |
-| Haunted Forest | 3.00% | ~498 |
-| Levitating Monument | 3.00% | ~498 |
-| Flooded Mines | 3.00% | ~498 |
-| Monastery of the Holy Flame | 3.00% | ~498 |
-| Royal Outpost | 3.00% | ~498 |
-| Statue of the Forefathers | 3.00% | ~498 |
-| Corrosive Torrent | 3.00% | ~498 |
-| Watchtower | 3.00% | ~498 |
-| Cursed Lands | 3.00% | ~498 |
-| Trade Baron | 3.00% | ~498 |
+| Homesick | 3.00% | ~499 |
+| Against All Odds | 3.00% | ~499 |
+| Ruined Armory | 3.00% | ~499 |
+| Bandit Camp | 3.00% | ~499 |
+| Barren Lands | 3.00% | ~499 |
+| Sparkdew Crystals | 3.00% | ~499 |
+| Haunted Forest | 3.00% | ~499 |
+| Levitating Monument | 3.00% | ~499 |
+| Flooded Mines | 3.00% | ~499 |
+| Monastery of the Holy Flame | 3.00% | ~499 |
+| Royal Outpost | 3.00% | ~499 |
+| Statue of the Forefathers | 3.00% | ~499 |
+| Corrosive Torrent | 3.00% | ~499 |
+| Watchtower | 3.00% | ~499 |
+| Cursed Lands | 3.00% | ~499 |
+| Trade Baron | 3.00% | ~499 |
 | Serving Ale | 2.00% | ~332 |
 | Refinery | 2.00% | ~332 |
 | Dangerous Lands | 2.00% | ~332 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,616 (Ranked 119)  
+Progressed: 16,617 (Ranked 119)  
 Completed: 48 (0.29%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,6 +206,7 @@ Completed: 48 (0.29%) (Ranked 183)
 | 2023-09-13 | 16,597 | 48 |
 | 2023-09-14 | 16,605 | 48 |
 | 2023-09-15 | 16,616 | 48 |
+| 2023-09-16 | 16,617 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 430  (Ranked 211)  
 Sum: 3,139 (Ranked 165)  

@@ -7132,10 +7132,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27742,
       "NumberOfAwardsMax": 7448
+    },
+    {
+      "Time": "2023-09-16T01:37:50.6471826+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27745,
+      "NumberOfAwardsMax": 7448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27742,
+  "NumberOfAwards": 27745,
   "NumberOfAwardsMax": 7448,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7173,7 +7179,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1737
+      "Count": 1739
     },
     {
       "Text": "This game is Educational",
@@ -7191,7 +7197,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1696
+      "Count": 1697
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -7218,9 +7224,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 801430,
+  "EOS_Progressed": 801434,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 942,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23683,6 +23689,11 @@
       "Time": "2023-09-16T00:08:49.9625998+00:00",
       "NumProgressed": 801430,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-16T01:48:08.0696921+00:00",
+      "NumProgressed": 801434,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 82,
@@ -23726,7 +23737,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168300
+      "UsersEstimate": 168301
     },
     {
       "ID": "BadGirl",
@@ -23774,7 +23785,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256458
+      "UsersEstimate": 256459
     },
     {
       "ID": "Bookworm",
@@ -23782,7 +23793,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120214
+      "UsersEstimate": 120215
     },
     {
       "ID": "Buddy",
@@ -23894,7 +23905,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184329
+      "UsersEstimate": 184330
     },
     {
       "ID": "Fighter",
@@ -23910,7 +23921,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120214
+      "UsersEstimate": 120215
     },
     {
       "ID": "Freud",
@@ -24174,7 +24185,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160286
+      "UsersEstimate": 160287
     },
     {
       "ID": "RevenantOfLedechko",
@@ -24214,7 +24225,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160286
+      "UsersEstimate": 160287
     },
     {
       "ID": "SerialKiller",
@@ -24230,7 +24241,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88157
+      "UsersEstimate": 88158
     },
     {
       "ID": "Sniper",
@@ -24302,7 +24313,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88157
+      "UsersEstimate": 88158
     },
     {
       "ID": "TrialAndError",
@@ -24349,15 +24360,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 801430,
+      "Progressed": 801434,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-15T16:59:06.0837242+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:08:49.9625993+00:00",
+  "LastChanged": "2023-09-16T01:37:50.6471824+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:48:08.0696913+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.0692878+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:58:45.4016322+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:08:49.9628101+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:37:50.6471831+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:48:08.0698741+00:00"
 }

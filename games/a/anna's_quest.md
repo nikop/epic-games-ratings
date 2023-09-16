@@ -5,12 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escape artist | 79.00% | ~30 |
+| Book Worm | 68.00% | ~26 |
 | Ooh, it's shiny! | 68.00% | ~26 |
-| Book Worm | 66.00% | ~25 |
 | My lost nightingale | 63.00% | ~24 |
 | Through the woods | 61.00% | ~23 |
 | Back to the anvil | 50.00% | ~19 |
 | Honey, honey, honey… | 47.00% | ~18 |
+| Fussy eater | 47.00% | ~18 |
 | Little genius | 47.00% | ~18 |
 | So soothing... | 47.00% | ~18 |
 | Kekekeke... | 47.00% | ~18 |
@@ -19,7 +20,6 @@
 | Game Over! | 45.00% | ~17 |
 | Show me your true self | 45.00% | ~17 |
 | A very special drink | 45.00% | ~17 |
-| Fussy eater | 45.00% | ~17 |
 | Far away from home | 45.00% | ~17 |
 | NOW GO AWAY! | 45.00% | ~17 |
 | Sorry Grandpa | 45.00% | ~17 |

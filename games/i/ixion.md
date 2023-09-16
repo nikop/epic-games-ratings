@@ -9,10 +9,10 @@ Rating: 4.55 (Ranked 485)
 | Sputnik 2049 | 24.00% | ~760 |
 | Infinite Growth... | 22.00% | ~697 |
 | Without Breaking Some Eggs... | 21.00% | ~665 |
-| Space Society | 16.00% | ~507 |
 | A Thousand Strong | 16.00% | ~507 |
 | Ready for a New World | 16.00% | ~507 |
-| Permanent Redesigns | 14.00% | ~443 |
+| Space Society | 15.00% | ~475 |
+| Permanent Redesigns | 14.00% | ~444 |
 | Guy de Borderlands | 12.00% | ~380 |
 | Fully Recycled | 12.00% | ~380 |
 | Ain't Nobody Got Time for That | 12.00% | ~380 |
@@ -54,8 +54,8 @@ Rating: 4.55 (Ranked 485)
 | Drill-dozer | 1.00% | ~32 |
 | Scientifically Accurate | 1.00% | ~32 |
 | Work Harder | 0.50% | ~16 |
-| Crunch Culture | 0.30% | ~9 |
-| Soylent Green | 0.30% | ~9 |
+| Crunch Culture | 0.30% | ~10 |
+| Soylent Green | 0.30% | ~10 |
 | A Junker's Dream | 0.20% | ~6 |
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 485)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,166 (Ranked 170)  
+Progressed: 3,168 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 3,161 | 0 |
 | 2023-09-14 | 3,164 | 0 |
 | 2023-09-15 | 3,166 | 0 |
+| 2023-09-16 | 3,168 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

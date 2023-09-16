@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1399,
+  "EOS_Progressed": 1400,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1491,6 +1491,11 @@
       "Time": "2023-09-15T12:03:42.5458577+00:00",
       "NumProgressed": 1399,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T01:43:27.9930774+00:00",
+      "NumProgressed": 1400,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1636,9 +1641,9 @@
       "ID": "achievement_kill1000Thrixl",
       "SetID": "95dc8p",
       "Name": "No More Nightmares",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -1949,15 +1954,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1399,
+      "Progressed": 1400,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:04:03.9883188+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:43:27.9930768+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.9570897+00:00",
-  "LastUpdate_Ratings": "2023-09-16T00:00:09.9956454+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:04:03.9884294+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:39:08.8948719+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:43:27.9931302+00:00"
 }

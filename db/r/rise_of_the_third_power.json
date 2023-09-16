@@ -2,7 +2,7 @@
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 106,
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.52,
+  "EOS_Completed_Percentage": 3.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -156,6 +156,11 @@
       "Time": "2023-07-30T18:08:05.0739614+00:00",
       "NumProgressed": 142,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-16T01:46:27.2867945+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 21,
@@ -165,9 +170,9 @@
       "ID": "Attuned",
       "SetID": "4nce15l",
       "Name": "Attuned",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "BeginningOfTheEnd",
@@ -175,7 +180,7 @@
       "Name": "Beginning of the End",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Bling",
@@ -189,9 +194,9 @@
       "ID": "Bloodlust",
       "SetID": "4nce15l",
       "Name": "Bloodlust",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "Determined",
@@ -199,7 +204,7 @@
       "Name": "Determined",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "EmpyreanChampion",
@@ -229,9 +234,9 @@
       "ID": "Geared",
       "SetID": "4nce15l",
       "Name": "Geared",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "GettingItDone",
@@ -247,7 +252,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 130,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MasterTrader",
@@ -255,7 +260,7 @@
       "Name": "Master Trader",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MysteriesOfRin",
@@ -269,9 +274,9 @@
       "ID": "Opulent",
       "SetID": "4nce15l",
       "Name": "Opulent",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "Overpowered",
@@ -279,7 +284,7 @@
       "Name": "Overpowered",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Patience",
@@ -293,15 +298,15 @@
       "ID": "ReadyToRock",
       "SetID": "4nce15l",
       "Name": "Ready to Rock",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
       "UsersEstimate": 112
     },
@@ -334,7 +339,7 @@
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 5
     }
   ],
@@ -342,8 +347,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:07:04.5510079+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:46:27.2867939+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:29.4948397+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:57:56.3022447+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:07:04.5510445+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:37:04.7203232+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:46:27.2868099+00:00"
 }

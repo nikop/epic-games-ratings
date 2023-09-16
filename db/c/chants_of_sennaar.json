@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.13,
+  "EOS_Completed_Percentage": 5.1,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -744,6 +744,11 @@
       "Time": "2023-09-15T22:07:16.4461803+00:00",
       "NumProgressed": 156,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-16T01:48:21.6160072+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 25,
@@ -771,15 +776,15 @@
       "Name": "Peace walker",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "META_FIRST_LINK",
@@ -795,7 +800,7 @@
       "Name": "Half the way",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "META_RESULT_1-2",
@@ -803,7 +808,7 @@
       "Name": "Open door",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "META_RESULT_1-3",
@@ -849,17 +854,17 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -867,7 +872,7 @@
       "Name": "True G4M3R",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -913,9 +918,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "PROGRESS_N2",
@@ -923,7 +928,7 @@
       "Name": "The great escape",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "PROGRESS_N3",
@@ -937,31 +942,31 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:09:03.5928091+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:48:21.6160066+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:59:27.1906672+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:09:03.5928368+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:38:28.8538737+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:48:21.6160314+00:00"
 }

@@ -5,45 +5,45 @@ Rating: 3.98 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 74.00% | ~440,659 |
-| Health Junkie | 41.00% | ~244,149 |
-| You Complete Me | 39.00% | ~232,239 |
-| Guardian Angel | 35.00% | ~208,420 |
-| Devil Inside Me | 27.00% | ~160,781 |
-| Fantastic Four | 20.00% | ~119,097 |
-| Killing Spree | 19.00% | ~113,142 |
-| Marksman Novice | 17.00% | ~101,232 |
-| First Blood | 12.00% | ~71,458 |
-| Top 10 | 12.00% | ~71,458 |
-| Now You See Me, Now You Don't | 10.00% | ~59,548 |
-| Marksman Expert | 8.00% | ~47,639 |
-| CQB Novice | 8.00% | ~47,639 |
-| Collateral Damage | 6.00% | ~35,729 |
-| Airborne | 6.00% | ~35,729 |
-| Pacifist | 5.00% | ~29,774 |
-| Last Survivor | 4.00% | ~23,819 |
-| Marksman Master | 4.00% | ~23,819 |
-| Trigonometry Novice | 4.00% | ~23,819 |
-| First Come, First Served | 4.00% | ~23,819 |
-| Dynamic Duo | 3.00% | ~17,865 |
-| Winner Winner Chicken Dinner! | 2.00% | ~11,910 |
-| Okay, Now I'm Ready | 2.00% | ~11,910 |
-| Agent 48 | 2.00% | ~11,910 |
-| Don't Pan Me Bro! | 2.00% | ~11,910 |
-| Fast and Furious | 2.00% | ~11,910 |
-| CQB Expert | 2.00% | ~11,910 |
-| Fury Road | 1.00% | ~5,955 |
-| Ghost | 1.00% | ~5,955 |
-| Cruising with the Enemy | 1.00% | ~5,955 |
-| Nade King Novice | 0.80% | ~4,764 |
-| Master Assassin | 0.70% | ~4,168 |
+| Blood on My Hands | 74.00% | ~440,740 |
+| Health Junkie | 41.00% | ~244,194 |
+| You Complete Me | 39.00% | ~232,282 |
+| Guardian Angel | 35.00% | ~208,458 |
+| Devil Inside Me | 27.00% | ~160,810 |
+| Fantastic Four | 20.00% | ~119,119 |
+| Killing Spree | 19.00% | ~113,163 |
+| Marksman Novice | 17.00% | ~101,251 |
+| First Blood | 12.00% | ~71,471 |
+| Top 10 | 12.00% | ~71,471 |
+| Now You See Me, Now You Don't | 10.00% | ~59,559 |
+| Marksman Expert | 8.00% | ~47,648 |
+| CQB Novice | 8.00% | ~47,648 |
+| Collateral Damage | 6.00% | ~35,736 |
+| Airborne | 6.00% | ~35,736 |
+| Pacifist | 5.00% | ~29,780 |
+| Last Survivor | 4.00% | ~23,824 |
+| Marksman Master | 4.00% | ~23,824 |
+| Trigonometry Novice | 4.00% | ~23,824 |
+| First Come, First Served | 4.00% | ~23,824 |
+| Dynamic Duo | 3.00% | ~17,868 |
+| Winner Winner Chicken Dinner! | 2.00% | ~11,912 |
+| Okay, Now I'm Ready | 2.00% | ~11,912 |
+| Agent 48 | 2.00% | ~11,912 |
+| Don't Pan Me Bro! | 2.00% | ~11,912 |
+| Fast and Furious | 2.00% | ~11,912 |
+| CQB Expert | 2.00% | ~11,912 |
+| Fury Road | 1.00% | ~5,956 |
+| Ghost | 1.00% | ~5,956 |
+| Cruising with the Enemy | 1.00% | ~5,956 |
+| Nade King Novice | 0.80% | ~4,765 |
+| Master Assassin | 0.70% | ~4,169 |
 | CQB Master | 0.40% | ~2,382 |
 | The First Rule Is… | 0.20% | ~1,191 |
-| Nade King Master | 0.10% | ~595 |
-| Nade King Expert | 0.10% | ~595 |
-| Shoot the Knee | 0.10% | ~595 |
+| Nade King Master | 0.10% | ~596 |
+| Nade King Expert | 0.10% | ~596 |
+| Shoot the Knee | 0.10% | ~596 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 595,485 (Ranked 29)  
+Progressed: 595,594 (Ranked 29)  
 Completed: 10 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 10 (0.00%) (Ranked 275)
 | 2023-09-13 | 592,025 | 10 |
 | 2023-09-14 | 593,558 | 10 |
 | 2023-09-15 | 595,437 | 10 |
-| 2023-09-16 | 595,485 | 10 |
+| 2023-09-16 | 595,594 | 10 |
 ## Awards
 Max (Competitive Players): 3,568  (Ranked 87)  
 Sum: 11,631 (Ranked 78)  

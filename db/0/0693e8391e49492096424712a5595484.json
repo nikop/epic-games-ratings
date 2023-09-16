@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1948,9 +1948,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "SwordDiamond",
@@ -1987,8 +1987,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:04:25.3955965+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:43:49.5638167+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.7482374+00:00",
-  "LastUpdate_Ratings": "2023-09-16T00:01:50.215108+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:04:25.395643+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:40:45.8559765+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:43:49.563871+00:00"
 }

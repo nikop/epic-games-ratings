@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -72,7 +72,7 @@
   "Tags": [],
   "EOS_Progressed": 660,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
@@ -2435,9 +2435,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 389
     },
     {
       "ID": "MQ02_2",
@@ -2467,9 +2467,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 363
     },
     {
       "ID": "MQ03_2",
@@ -2652,8 +2652,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-14T06:02:12.3857175+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:06:39.2472999+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:46:02.3974154+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-15T23:57:21.7256581+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:06:39.2473408+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:36:29.283038+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:46:02.3974487+00:00"
 }

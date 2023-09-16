@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2846,7 +2846,7 @@
       "Count": 318
     }
   ],
-  "EOS_Progressed": 16616,
+  "EOS_Progressed": 16617,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
@@ -10546,6 +10546,11 @@
       "Time": "2023-09-15T22:07:21.195336+00:00",
       "NumProgressed": 16616,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-16T01:48:28.1425599+00:00",
+      "NumProgressed": 16617,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 50,
@@ -10637,7 +10642,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinFirstGame",
@@ -10661,7 +10666,7 @@
       "Name": "Against All Odds",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearArmory",
@@ -10669,7 +10674,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearBandit",
@@ -10677,7 +10682,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearBarren",
@@ -10685,7 +10690,7 @@
       "Name": "Barren Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearBattleground",
@@ -10701,7 +10706,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearDangerous",
@@ -10741,7 +10746,7 @@
       "Name": "Haunted Forest",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearLevitating",
@@ -10749,7 +10754,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearMines",
@@ -10757,7 +10762,7 @@
       "Name": "Flooded Mines",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearMonastery",
@@ -10765,7 +10770,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearOutpost",
@@ -10773,7 +10778,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearRuins",
@@ -10789,7 +10794,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearTemple",
@@ -10805,7 +10810,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinNearWatchtower",
@@ -10813,7 +10818,7 @@
       "Name": "Watchtower",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinOnCoral",
@@ -10829,7 +10834,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinOnMarshlands",
@@ -10925,7 +10930,7 @@
       "Name": "Trade Baron",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WinWithoutDeath",
@@ -10956,15 +10961,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16616,
+      "Progressed": 16617,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-14T02:59:13.0669786+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:09:10.2335226+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:48:28.1425595+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.2014091+00:00",
-  "LastUpdate_Ratings": "2023-09-16T00:01:40.3892263+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:09:10.2336261+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:40:35.6578879+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:48:28.1426484+00:00"
 }

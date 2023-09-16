@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -230,9 +230,9 @@
       "ID": "BUSYBODY",
       "SetID": "2d85n75",
       "Name": "Busybody",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "COULDNT_HAVE_PLANNED_IT_BETTER_MYSELF",
@@ -430,9 +430,9 @@
       "ID": "TASTES_LIKE_REGRET",
       "SetID": "2d85n75",
       "Name": "Tastes Like Regret",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "THAT_ONE_DOESNT_COUNT",
@@ -510,9 +510,9 @@
       "ID": "WARNING_FRAGILE",
       "SetID": "2d85n75",
       "Name": "Warning: Fragile",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WHAT_THEY_DONT_KNOW_CANT_HURT_THEM",
@@ -551,8 +551,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-16T00:08:28.8756246+00:00",
+  "LastChanged_Achievements": "2023-09-16T01:47:50.5887538+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:58.6658979+00:00",
-  "LastUpdate_Ratings": "2023-09-16T00:00:09.6466964+00:00",
-  "LastUpdate_Achievements": "2023-09-16T00:08:28.8756766+00:00"
+  "LastUpdate_Ratings": "2023-09-16T01:39:08.5837411+00:00",
+  "LastUpdate_Achievements": "2023-09-16T01:47:50.5887972+00:00"
 }

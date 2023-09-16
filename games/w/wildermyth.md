@@ -37,12 +37,12 @@ Number of Ratings: 45  (23.09.2022)
 | We Emerge Changed | 4.00% | ~56 |
 | Storied Past | 4.00% | ~56 |
 | Worldwalker | 4.00% | ~56 |
+| No More Nightmares | 4.00% | ~56 |
 | Grillmaster | 4.00% | ~56 |
 | No Time for Clawmonsters | 4.00% | ~56 |
 | The Power of Friendship | 3.00% | ~42 |
 | Empty the Caves | 3.00% | ~42 |
 | Bonebreakers | 3.00% | ~42 |
-| No More Nightmares | 3.00% | ~42 |
 | Bears are Scary | 3.00% | ~42 |
 | Some Say I'm Too Flashy | 3.00% | ~42 |
 | Into Mulch | 3.00% | ~42 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399 (Ranked 200)  
+Progressed: 1,400 (Ranked 200)  
 Completed: 5 (0.36%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 5 (0.36%) (Ranked 170)
 | 2023-09-11 | 1,397 | 5 |
 | 2023-09-12 | 1,398 | 5 |
 | 2023-09-15 | 1,399 | 5 |
+| 2023-09-16 | 1,400 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 469)  
 Sum: 28 (Ranked 484)  
