@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 50.00% | ~78 |
-| Welcome to the Tower | 47.00% | ~74 |
+| Welcome to the Tower | 48.00% | ~75 |
 | The Preacher's fate | 43.00% | ~68 |
 | The great escape | 43.00% | ~68 |
 | A new dawn | 38.00% | ~60 |
 | Scholar | 34.00% | ~53 |
+| The darkness | 34.00% | ~53 |
 | A good beginning | 32.00% | ~50 |
-| The darkness | 32.00% | ~50 |
 | True G4M3R | 31.00% | ~49 |
 | One last step | 28.00% | ~44 |
 | Champollion | 26.00% | ~41 |

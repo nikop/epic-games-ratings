@@ -16,10 +16,10 @@ Number of Ratings: 58  (23.09.2022)
 | Safe Home | 66.00% | ~779 |
 | Paragon | 63.00% | ~744 |
 | Old Days Born Anew | 61.00% | ~720 |
-| Full Arsenal | 56.00% | ~661 |
+| Full Arsenal | 57.00% | ~673 |
 | Controlled Demolition | 55.00% | ~650 |
 | Payback | 53.00% | ~626 |
-| Huntress | 52.00% | ~614 |
+| Huntress | 53.00% | ~626 |
 | Born to Drift | 51.00% | ~602 |
 | Relentless | 49.00% | ~579 |
 | The Path Forward | 45.00% | ~531 |

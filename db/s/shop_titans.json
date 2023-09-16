@@ -6064,9 +6064,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136254,
+  "EOS_Progressed": 136258,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21384,6 +21384,11 @@
       "Time": "2023-09-16T12:05:18.5358769+00:00",
       "NumProgressed": 136254,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-09-16T13:05:17.8666046+00:00",
+      "NumProgressed": 136258,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 112,
@@ -21897,9 +21902,9 @@
       "ID": "gold05",
       "SetID": "anfd17p",
       "Name": "Mammonite",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "gold06",
@@ -22290,15 +22295,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136254,
+      "Progressed": 136258,
       "Completed": 152
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-16T09:58:45.452944+00:00",
-  "LastChanged_Achievements": "2023-09-16T12:05:18.5358764+00:00",
+  "LastChanged_Achievements": "2023-09-16T13:05:17.866604+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:00:04.2184357+00:00",
-  "LastUpdate_Achievements": "2023-09-16T12:05:18.5361262+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:00:23.2390721+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:05:17.8670577+00:00"
 }

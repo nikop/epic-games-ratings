@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1941,
+  "EOS_Progressed": 1943,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5602,6 +5602,11 @@
       "Time": "2023-09-16T10:08:16.4464061+00:00",
       "NumProgressed": 1941,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-16T13:04:12.1716594+00:00",
+      "NumProgressed": 1943,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5621,7 +5626,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "angelpower",
@@ -5797,7 +5802,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "fourleafclover",
@@ -5869,7 +5874,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "hunter",
@@ -5901,7 +5906,7 @@
       "Name": "Legendary",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "lieutenant",
@@ -5917,7 +5922,7 @@
       "Name": "Lock And Load",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "masterenchanter",
@@ -5941,7 +5946,7 @@
       "Name": "Milestone collector",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "minerclicker",
@@ -5957,7 +5962,7 @@
       "Name": "Missions Dedication",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "movinguptheladder",
@@ -6005,7 +6010,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "prestigiousx10",
@@ -6069,7 +6074,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1108
     },
     {
       "ID": "thealchemist",
@@ -6077,7 +6082,7 @@
       "Name": "The Alchemist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "theexpeditioner",
@@ -6173,7 +6178,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1807
     },
     {
       "ID": "warmachinesarmy",
@@ -6205,14 +6210,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1535
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1941,
+      "Progressed": 1943,
       "Completed": 2
     }
   ],
@@ -6220,8 +6225,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-16T11:09:14.3991128+00:00",
+  "LastChanged_Achievements": "2023-09-16T13:04:12.171658+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:00:02.8221469+00:00",
-  "LastUpdate_Achievements": "2023-09-16T11:09:14.399381+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:00:22.6394738+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:04:12.1728283+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 67.00% | ~16 |
+| Mighty Powers | 71.00% | ~17 |
 | Grand Re-Opening | 63.00% | ~15 |
 | Pup Pup Boogie | 58.00% | ~14 |
 | Summer Day | 58.00% | ~14 |

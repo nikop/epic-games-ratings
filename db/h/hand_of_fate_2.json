@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -892,9 +892,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662175,
+  "EOS_Progressed": 662176,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14962,6 +14962,11 @@
       "Time": "2023-09-16T11:08:58.5089512+00:00",
       "NumProgressed": 662175,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-16T13:09:14.4999775+00:00",
+      "NumProgressed": 662176,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14973,7 +14978,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476766
+      "UsersEstimate": 476767
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14997,7 +15002,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39730
+      "UsersEstimate": 39731
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -15133,7 +15138,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39730
+      "UsersEstimate": 39731
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -15356,15 +15361,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662175,
+      "Progressed": 662176,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-12T21:00:03.5082364+00:00",
-  "LastChanged_Achievements": "2023-09-16T12:08:33.3387363+00:00",
+  "LastChanged_Achievements": "2023-09-16T13:09:14.499977+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.7485129+00:00",
-  "LastUpdate_Ratings": "2023-09-16T11:59:51.7163679+00:00",
-  "LastUpdate_Achievements": "2023-09-16T12:08:33.3388539+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:00:06.6606598+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:09:14.500194+00:00"
 }

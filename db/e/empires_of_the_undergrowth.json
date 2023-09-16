@@ -3,12 +3,12 @@
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 145,
-  "Ranking_Popularity": 418,
+  "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-10-28T14:00:00+00:00",
     "PcReleaseDate": "2020-10-28T14:00:00+00:00",
@@ -833,10 +833,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 409,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-09-16T13:02:00.5291823+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 410,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 409,
+  "NumberOfAwards": 410,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -904,7 +910,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Challenging Combat",
@@ -930,8 +936,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2023-09-15T21:59:20.4466148+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T11:57:25.0811153+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:01:32.5521715+00:00",
-  "LastUpdate_Achievements": "2023-09-16T12:10:04.9545704+00:00"
+  "LastChanged": "2023-09-16T13:02:00.5291821+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T12:58:50.3781938+00:00",
+  "LastUpdate_Ratings": "2023-09-16T13:02:00.5291828+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:10:15.6859407+00:00"
 }

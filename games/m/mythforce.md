@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That'll Leave a Mark | 6.00% | ~135 |
-| Debuff Dogpile | 5.00% | ~112 |
-| Faceroll the Bones | 5.00% | ~112 |
-| Hit 'Em Where It Hurts | 5.00% | ~112 |
-| Mushroom Madness! | 5.00% | ~112 |
-| Perk Shard Punch Card | 5.00% | ~112 |
+| Faceroll the Bones | 6.00% | ~136 |
+| That'll Leave a Mark | 6.00% | ~136 |
+| Debuff Dogpile | 5.00% | ~113 |
+| Hit 'Em Where It Hurts | 5.00% | ~113 |
+| Mushroom Madness! | 5.00% | ~113 |
+| Perk Shard Punch Card | 5.00% | ~113 |
 | Everything Must Go! | 4.00% | ~90 |
 | Horder Better Faster Stronger | 4.00% | ~90 |
 | Spending Spree | 4.00% | ~90 |
-| Cold-Blooded Critters | 3.00% | ~67 |
-| Death Becomes You | 3.00% | ~67 |
-| First Strike | 3.00% | ~67 |
-| Ten Steps from the Grave | 3.00% | ~67 |
+| Ten Steps from the Grave | 4.00% | ~90 |
+| Cold-Blooded Critters | 3.00% | ~68 |
+| Death Becomes You | 3.00% | ~68 |
+| First Strike | 3.00% | ~68 |
 | Flawless Victory | 2.00% | ~45 |
-| The Harder They Fall | 1.00% | ~22 |
-| Next Time on MythForce... | 1.00% | ~22 |
+| Next Time on MythForce... | 2.00% | ~45 |
+| The Harder They Fall | 1.00% | ~23 |
 | Deadication | 0.90% | ~20 |
-| On this Episode! | 0.70% | ~16 |
-| Season Finale | 0.60% | ~13 |
-| The Fourth Gate | 0.50% | ~11 |
-| We've Got a Kaiju on the Field | 0.30% | ~7 |
-| Vexed Her | 0.20% | ~4 |
+| On this Episode! | 0.80% | ~18 |
+| Season Finale | 0.70% | ~16 |
+| The Fourth Gate | 0.60% | ~14 |
+| We've Got a Kaiju on the Field | 0.40% | ~9 |
+| Vexed Her | 0.20% | ~5 |
 | Deadalus and Loving It | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,247 (Ranked 180)  
+Progressed: 2,259 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,11 +93,11 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
 | 2023-09-15 | 2,137 | 0 |
-| 2023-09-16 | 2,247 | 0 |
+| 2023-09-16 | 2,259 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
-Sum: 259 (Ranked 355)  
-Diff (max vs sum): 103  
+Sum: 259 (Ranked 356)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

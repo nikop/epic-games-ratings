@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -250,7 +250,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18014,
+  "EOS_Progressed": 18015,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
@@ -10275,6 +10275,11 @@
       "Time": "2023-09-16T11:08:09.1370106+00:00",
       "NumProgressed": 18014,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T13:08:29.6497027+00:00",
+      "NumProgressed": 18015,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10302,7 +10307,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "0004",
@@ -10382,7 +10387,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "0014",
@@ -10478,7 +10483,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "0026",
@@ -10573,7 +10578,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18014,
+      "Progressed": 18015,
       "Completed": 3
     }
   ],
@@ -10581,8 +10586,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-16T12:07:57.5903456+00:00",
+  "LastChanged_Achievements": "2023-09-16T13:08:29.6497022+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:01:41.4674158+00:00",
-  "LastUpdate_Achievements": "2023-09-16T12:07:57.5904304+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:02:11.0865878+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:08:29.649854+00:00"
 }

@@ -138,17 +138,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.60% | ~84 |
 | Egypt | 0.60% | ~84 |
 | Rome | 0.60% | ~84 |
+| Cataphract Archer | 0.60% | ~84 |
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
 | Noble Difficulty | 0.50% | ~70 |
 | Persia | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
 | Play a Network Game | 0.50% | ~70 |
-| Cataphract Archer | 0.50% | ~70 |
 | Ancient | 0.40% | ~56 |
 | Glorious Difficulty | 0.40% | ~56 |
 | The Eternal Treaty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
+| Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Capturing Cities | 0.40% | ~56 |
 | Ten Crowns | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
@@ -164,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.30% | ~42 |
 | Pantheon of Gods | 0.30% | ~42 |
 | Apadana in Parsa | 0.30% | ~42 |
-| Play a Free-For-All Game (>2 Players) | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
 | Pantheon in Roma | 0.30% | ~42 |
 | Siege Tower | 0.30% | ~42 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,943 (Ranked 123)  
+Progressed: 13,944 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 5 (0.04%) (Ranked 244)
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
-| 2023-09-16 | 13,943 | 5 |
+| 2023-09-16 | 13,944 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,809 (Ranked 207)  

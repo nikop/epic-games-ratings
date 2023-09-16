@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -922,9 +922,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2814,
+  "EOS_Progressed": 2817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4447,6 +4447,11 @@
       "Time": "2023-09-16T06:05:43.5228122+00:00",
       "NumProgressed": 2814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T13:08:06.7204815+00:00",
+      "NumProgressed": 2817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4472,9 +4477,9 @@
       "ID": "ACH_BOTTOM-PLY-KILLER",
       "SetID": "72olkc5",
       "Name": "Bottom ply killer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -4586,7 +4591,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_HOARDER",
@@ -4594,7 +4599,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -4602,7 +4607,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -4610,7 +4615,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4666,7 +4671,7 @@
       "Name": "Pew-Pew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -4674,7 +4679,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -4744,9 +4749,9 @@
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
       "SetID": "72olkc5",
       "Name": "That was wheelie fun",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 28
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_THATS-HOW-ITS-DONE",
@@ -4770,7 +4775,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -4778,7 +4783,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -4810,7 +4815,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -4826,7 +4831,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4834,22 +4839,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1662
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2814,
+      "Progressed": 2817,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-15T17:58:31.0946965+00:00",
-  "LastChanged_Achievements": "2023-09-16T12:07:34.6877613+00:00",
+  "LastChanged_Achievements": "2023-09-16T13:08:06.720481+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:00:46.6020175+00:00",
-  "LastUpdate_Achievements": "2023-09-16T12:07:34.68782+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:01:09.7543133+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:08:06.7205353+00:00"
 }

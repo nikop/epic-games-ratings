@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -2619,9 +2619,9 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "Clothes10",
@@ -2892,8 +2892,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-16T12:07:28.2469251+00:00",
+  "LastChanged_Achievements": "2023-09-16T13:07:49.8493866+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:31.1850698+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:00:10.122178+00:00",
-  "LastUpdate_Achievements": "2023-09-16T12:07:28.2469694+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:00:30.6356267+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:07:49.8494684+00:00"
 }

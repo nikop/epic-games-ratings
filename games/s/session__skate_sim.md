@@ -6,23 +6,23 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 59.00% | ~1,660 |
-| Keeping it classy | 27.00% | ~760 |
-| Welcome to the family | 21.00% | ~591 |
+| You're free now! | 59.00% | ~1,662 |
+| Keeping it classy | 27.00% | ~761 |
+| Welcome to the family | 21.00% | ~592 |
 | The finer things in life | 19.00% | ~535 |
 | Backpacker | 14.00% | ~394 |
 | Go with the Flow | 13.00% | ~366 |
-| Plastic Surgeon | 10.00% | ~281 |
-| The flip trick crown jewel | 10.00% | ~281 |
-| The hard way | 10.00% | ~281 |
-| Good vibes | 9.00% | ~253 |
-| Keep the dream alive | 9.00% | ~253 |
-| Upfront shredder | 9.00% | ~253 |
-| Bottom ply killer | 7.00% | ~197 |
+| Plastic Surgeon | 10.00% | ~282 |
+| The flip trick crown jewel | 10.00% | ~282 |
+| The hard way | 10.00% | ~282 |
+| Good vibes | 9.00% | ~254 |
+| Keep the dream alive | 9.00% | ~254 |
+| Upfront shredder | 9.00% | ~254 |
 | Fashionista | 7.00% | ~197 |
 | Finally he zips it | 7.00% | ~197 |
 | That pinch! | 7.00% | ~197 |
 | Tight lipslides | 7.00% | ~197 |
+| Bottom ply killer | 6.00% | ~169 |
 | Fulfilled the dream | 6.00% | ~169 |
 | G'Day Mate! | 6.00% | ~169 |
 | NAHELL! | 6.00% | ~169 |
@@ -42,20 +42,20 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 4.00% | ~113 |
 | Tank commander | 4.00% | ~113 |
 | We get it, you're good | 4.00% | ~113 |
-| Hoarder | 3.00% | ~84 |
-| Pew-Pew | 3.00% | ~84 |
+| Hoarder | 3.00% | ~85 |
+| Pew-Pew | 3.00% | ~85 |
 | Cross lock country | 2.00% | ~56 |
 | Many plys later... | 2.00% | ~56 |
+| That was wheelie fun | 2.00% | ~56 |
 | Dipped! | 1.00% | ~28 |
 | Skatepark hero | 1.00% | ~28 |
-| That was wheelie fun | 1.00% | ~28 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 | Bing Bong! | 0.00% | ~0 |
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,814 (Ranked 174)  
+Progressed: 2,817 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 2,789 | 0 |
 | 2023-09-14 | 2,793 | 0 |
 | 2023-09-15 | 2,809 | 0 |
-| 2023-09-16 | 2,814 | 0 |
+| 2023-09-16 | 2,817 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 398)  
 Sum: 462 (Ranked 310)  

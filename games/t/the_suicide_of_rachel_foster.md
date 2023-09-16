@@ -13,13 +13,13 @@ Number of Ratings: 71  (23.09.2022)
 | Cutepie | 41.00% | ~593 |
 | Someone was here | 41.00% | ~593 |
 | Ghost Hunters | 41.00% | ~593 |
+| Pack Rat | 40.00% | ~579 |
 | Alone | 39.00% | ~564 |
-| Pack Rat | 39.00% | ~564 |
 | All together, again | 34.00% | ~492 |
 | Spicy | 5.00% | ~72 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,447 (Ranked 197)  
-Completed: 69 (4.77%) (Ranked 54)  
+Completed: 70 (4.84%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -153,7 +153,7 @@ Completed: 69 (4.77%) (Ranked 54)
 | 2023-09-13 | 1,439 | 69 |
 | 2023-09-14 | 1,440 | 69 |
 | 2023-09-15 | 1,442 | 69 |
-| 2023-09-16 | 1,447 | 69 |
+| 2023-09-16 | 1,447 | 70 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

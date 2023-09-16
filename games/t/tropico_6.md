@@ -6,32 +6,32 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,897 |
-| Un-Lonely Island | 47.00% | ~2,410 |
-| The Beginning of a Servantship | 45.00% | ~2,308 |
-| Trade Is My Trait | 37.00% | ~1,897 |
-| Number 18 | 24.00% | ~1,231 |
-| We Don't Have Time For That | 19.00% | ~974 |
-| The Governator | 18.00% | ~923 |
+| Just One...More...Term... | 76.00% | ~3,900 |
+| Un-Lonely Island | 47.00% | ~2,412 |
+| The Beginning of a Servantship | 45.00% | ~2,309 |
+| Trade Is My Trait | 37.00% | ~1,899 |
+| Number 18 | 24.00% | ~1,232 |
+| We Don't Have Time For That | 19.00% | ~975 |
+| The Governator | 18.00% | ~924 |
 | The Legend of Langostino | 17.00% | ~872 |
-| Caribbean Comrade | 16.00% | ~820 |
-| The Dreamer of Dreams | 16.00% | ~820 |
-| Go Sovereigns! | 11.00% | ~564 |
-| For Science! | 11.00% | ~564 |
+| Caribbean Comrade | 16.00% | ~821 |
+| The Dreamer of Dreams | 16.00% | ~821 |
+| Go Sovereigns! | 11.00% | ~565 |
+| For Science! | 11.00% | ~565 |
 | Happy Ending? | 10.00% | ~513 |
 | Of Seals And Men | 10.00% | ~513 |
 | Shackadelic | 10.00% | ~513 |
-| Double Trouble | 8.00% | ~410 |
-| Firestarter | 8.00% | ~410 |
+| Double Trouble | 8.00% | ~411 |
+| Firestarter | 8.00% | ~411 |
 | I Owe You Nothing | 7.00% | ~359 |
 | Make Tropico Great Again! | 7.00% | ~359 |
 | French Connection | 7.00% | ~359 |
 | Don't Panic! | 6.00% | ~308 |
 | Computer Says "No" | 6.00% | ~308 |
 | Beware The Betman | 6.00% | ~308 |
-| Viva Tropico! | 5.00% | ~256 |
-| Watch The World Burn | 5.00% | ~256 |
-| Fairy Tale Come True | 5.00% | ~256 |
+| Viva Tropico! | 5.00% | ~257 |
+| Watch The World Burn | 5.00% | ~257 |
+| Fairy Tale Come True | 5.00% | ~257 |
 | Apocalypso | 4.00% | ~205 |
 | Been there, Done That | 3.00% | ~154 |
 | Narcissist | 3.00% | ~154 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~46 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,128 (Ranked 153)  
+Progressed: 5,132 (Ranked 153)  
 Completed: 2 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.04%) (Ranked 244)
 | 2023-09-13 | 5,078 | 2 |
 | 2023-09-14 | 5,093 | 2 |
 | 2023-09-15 | 5,115 | 2 |
-| 2023-09-16 | 5,128 | 2 |
+| 2023-09-16 | 5,132 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 342)  
 Sum: 686 (Ranked 280)  

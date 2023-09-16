@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -249,10 +249,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1447,
-  "EOS_Completed": 69,
-  "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.77,
+  "EOS_Completed": 70,
+  "EOS_NewPlayers": 18,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -2458,6 +2458,11 @@
       "Time": "2023-09-16T12:06:43.1879871+00:00",
       "NumProgressed": 1447,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-09-16T13:07:03.7190365+00:00",
+      "NumProgressed": 1447,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2523,9 +2528,9 @@
       "ID": "ACH_PrendiTuttiOggetti",
       "SetID": "7a9m7mj",
       "Name": "Pack Rat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 564
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2557,14 +2562,14 @@
       "ID": "7a9m7mj",
       "IsBase": true,
       "Progressed": 1447,
-      "Completed": 69
+      "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-16T12:06:43.1879864+00:00",
+  "LastChanged_Achievements": "2023-09-16T13:07:03.7190357+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:01:42.5367757+00:00",
-  "LastUpdate_Achievements": "2023-09-16T12:06:43.1880104+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:02:12.7001347+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:07:03.7190981+00:00"
 }

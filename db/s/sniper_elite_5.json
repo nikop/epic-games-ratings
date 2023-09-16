@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3616,
+  "EOS_Progressed": 3617,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6674,6 +6674,11 @@
       "Time": "2023-09-16T10:06:08.2150979+00:00",
       "NumProgressed": 3616,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-16T13:07:17.1146096+00:00",
+      "NumProgressed": 3617,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6765,7 +6770,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6821,7 +6826,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6845,7 +6850,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6877,7 +6882,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6941,7 +6946,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6957,7 +6962,7 @@
       "Name": "From Paris with Love",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -6965,7 +6970,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -6973,7 +6978,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -6997,7 +7002,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7053,7 +7058,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7061,7 +7066,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7085,7 +7090,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -7252,13 +7257,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3567,
+      "Progressed": 3568,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3616,
+      "Progressed": 3617,
       "Completed": 10
     }
   ],
@@ -7266,8 +7271,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-16T12:06:56.6388575+00:00",
+  "LastChanged_Achievements": "2023-09-16T13:07:17.1146091+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-16T12:02:56.1502848+00:00",
-  "LastUpdate_Achievements": "2023-09-16T12:06:56.6389631+00:00"
+  "LastUpdate_Ratings": "2023-09-16T13:03:28.4059776+00:00",
+  "LastUpdate_Achievements": "2023-09-16T13:07:17.1147018+00:00"
 }
