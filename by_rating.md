@@ -391,30 +391,30 @@
 | 367 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 282 | 245 |
 | 367 | [Supraland](games/s/supraland.md) | 4.61 | 7,684 | 46 |
 | 367 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 517 |
-| 367 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 37 | 437 |
 | 367 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 517 |
 | 367 | [Warframe](games/w/warframe.md) | 4.61 | 17,091 | 22 |
-| 395 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 485 |
-| 395 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 742 | 164 |
-| 395 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,773 | 25 |
-| 395 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 517 |
-| 395 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 331 | 232 |
-| 395 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,623 | 72 |
-| 395 | [Control](games/c/control.md) | 4.60 | 8,506 | 40 |
-| 395 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 517 |
-| 395 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 266 |
-| 395 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,705 | 26 |
-| 395 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 517 |
-| 395 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 320 |
-| 395 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 517 |
-| 395 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 653 | 178 |
-| 395 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 391 |
-| 395 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 482 | 203 |
-| 395 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 238 | 260 |
-| 395 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 498 |
-| 395 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 441 | 208 |
-| 395 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 359 |
-| 395 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 517 |
+| 394 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 485 |
+| 394 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 742 | 164 |
+| 394 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,773 | 25 |
+| 394 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 517 |
+| 394 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 331 | 232 |
+| 394 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,623 | 72 |
+| 394 | [Control](games/c/control.md) | 4.60 | 8,506 | 40 |
+| 394 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 517 |
+| 394 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 266 |
+| 394 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,705 | 26 |
+| 394 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 517 |
+| 394 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 320 |
+| 394 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 517 |
+| 394 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 653 | 178 |
+| 394 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 391 |
+| 394 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 482 | 203 |
+| 394 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 37 | 437 |
+| 394 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 238 | 260 |
+| 394 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 498 |
+| 394 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 441 | 208 |
+| 394 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 359 |
+| 394 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 517 |
 | 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 418 |
 | 416 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 75 | 373 |
 | 416 | [DOOM 3](games/d/doom_3.md) | 4.59 | 68 | 383 |
@@ -564,7 +564,7 @@
 | 549 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 517 |
 | 549 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 310 |
 | 549 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 469 |
-| 565 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,731 | 117 |
+| 565 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,734 | 117 |
 | 565 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 414 | 215 |
 | 565 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 109 | 331 |
 | 565 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 219 | 268 |
@@ -933,7 +933,7 @@
 | 930 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 182 | 282 |
 | 932 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 517 |
 | 932 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.06 | 0 | 517 |
-| 932 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,276 | 67 |
+| 932 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,283 | 67 |
 | 932 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 517 |
 | 936 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 189 | 279 |
 | 936 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 466 | 204 |
