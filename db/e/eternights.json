@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -575,9 +575,9 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -598,8 +598,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:04:56.2850589+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:04:22.8965777+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-16T07:59:37.7034191+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:04:56.2850753+00:00"
+  "LastUpdate_Ratings": "2023-09-16T08:59:18.1185133+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:04:22.8965948+00:00"
 }

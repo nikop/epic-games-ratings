@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -269,9 +269,9 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "EpicACHV_5",
@@ -324,8 +324,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:04:50.8539609+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:04:18.198084+00:00",
   "LastUpdate_AppInfo": "2023-09-13T05:57:11.6073515+00:00",
-  "LastUpdate_Ratings": "2023-09-16T07:59:41.9062509+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:04:50.8539724+00:00"
+  "LastUpdate_Ratings": "2023-09-16T08:59:21.813491+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:04:18.1980941+00:00"
 }

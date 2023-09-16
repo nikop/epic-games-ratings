@@ -6,20 +6,20 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~626,153 |
-| Escaped Asphodel | 80.00% | ~562,834 |
+| Escaped Tartarus | 89.00% | ~626,154 |
+| Escaped Asphodel | 80.00% | ~562,835 |
 | Arms Collector | 71.00% | ~499,516 |
-| Friends in High Places | 68.00% | ~478,409 |
-| Escaped Elysium | 66.00% | ~464,338 |
-| Chthonic Colleagues | 63.00% | ~443,232 |
-| Is There No Escape? | 52.00% | ~365,842 |
-| Death Dealer | 45.00% | ~316,594 |
+| Friends in High Places | 68.00% | ~478,410 |
+| Escaped Elysium | 66.00% | ~464,339 |
+| Chthonic Colleagues | 63.00% | ~443,233 |
+| Is There No Escape? | 52.00% | ~365,843 |
+| Death Dealer | 45.00% | ~316,595 |
 | Skelly Slayer | 42.00% | ~295,488 |
-| Well Stocked | 40.00% | ~281,417 |
-| Back to Work | 38.00% | ~267,346 |
+| Well Stocked | 40.00% | ~281,418 |
+| Back to Work | 38.00% | ~267,347 |
 | Day-or-Night Trader | 37.00% | ~260,311 |
 | Blessed by the Gods | 37.00% | ~260,311 |
-| Urge to Sing | 36.00% | ~253,275 |
+| Urge to Sing | 36.00% | ~253,276 |
 | Blood Bound | 35.00% | ~246,240 |
 | Three-Headed Boy | 32.00% | ~225,134 |
 | River Denizens | 28.00% | ~196,992 |
@@ -30,12 +30,12 @@ Number of Ratings: 6,336  (23.09.2022)
 | To Charon's Credit | 23.00% | ~161,815 |
 | Tools of the Architect | 23.00% | ~161,815 |
 | Master of Arms | 23.00% | ~161,815 |
-| Rare Collectible | 22.00% | ~154,779 |
+| Rare Collectible | 22.00% | ~154,780 |
 | Weapon of Fate | 21.00% | ~147,744 |
 | Something From Everyone | 19.00% | ~133,673 |
 | Hold the Onions | 18.00% | ~126,638 |
 | Well Versed | 17.00% | ~119,602 |
-| War-God's Bloodlust | 15.00% | ~105,531 |
+| War-God's Bloodlust | 15.00% | ~105,532 |
 | Musician and Muse | 14.00% | ~98,496 |
 | The Useless Trinket | 13.00% | ~91,461 |
 | Champion of Elysium | 13.00% | ~91,461 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~63,319 |
 | Thanks, But No Thanks | 9.00% | ~63,319 |
 | Infernal Arms | 9.00% | ~63,319 |
-| Divided by Death | 8.00% | ~56,283 |
+| Divided by Death | 8.00% | ~56,284 |
 | Harsh Conditions | 7.00% | ~49,248 |
 | One for the Ages | 7.00% | ~49,248 |
 | Complete Set | 6.00% | ~42,213 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,142 |
 | Friends Forever | 4.00% | ~28,142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,543 (Ranked 21)  
+Progressed: 703,544 (Ranked 21)  
 Completed: 6,352 (0.90%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,14 +205,14 @@ Completed: 6,352 (0.90%) (Ranked 130)
 | 2023-09-13 | 703,405 | 6,351 |
 | 2023-09-14 | 703,464 | 6,352 |
 | 2023-09-15 | 703,523 | 6,352 |
-| 2023-09-16 | 703,543 | 6,352 |
+| 2023-09-16 | 703,544 | 6,352 |
 ## Awards
-Max (Character Customization): 3,262  (Ranked 93)  
-Sum: 7,891 (Ranked 102)  
+Max (Character Customization): 3,263  (Ranked 93)  
+Sum: 7,892 (Ranked 102)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,262 |
+| This game has Inclusive Character Customization | 3,263 |
 | This game has Great Boss Battles | 2,284 |
 | This game is Highly Recommended | 262 |
 | This game is Great for Beginners | 252 |
@@ -448,4 +448,4 @@ Diff (max vs sum): -9
 | 2023-09-13 | 4.92 | - | 3,259 | 7,884 |
 | 2023-09-14 | 4.92 | - | 3,259 | 7,887 |
 | 2023-09-15 | 4.92 | - | 3,262 | 7,890 |
-| 2023-09-16 | 4.92 | - | 3,262 | 7,891 |
+| 2023-09-16 | 4.92 | - | 3,263 | 7,892 |

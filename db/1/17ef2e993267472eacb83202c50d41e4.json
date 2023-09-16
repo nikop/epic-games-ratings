@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5917,
+  "EOS_Progressed": 5920,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1606,6 +1606,11 @@
       "Time": "2023-09-16T08:06:10.3787761+00:00",
       "NumProgressed": 5917,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T09:05:37.4077653+00:00",
+      "NumProgressed": 5920,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1648,9 +1653,9 @@
       "ID": "BIUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Biogenerative Implant to Level 3",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 178
     },
     {
       "ID": "CEUpgraded1",
@@ -1738,7 +1743,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "GamesPlayed10",
@@ -1762,7 +1767,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "GamesWon10",
@@ -1810,7 +1815,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "HAUpgraded1",
@@ -1930,7 +1935,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "MaxDamageDone30000",
@@ -1978,7 +1983,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "MaxTowersKilled3",
@@ -1986,7 +1991,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "MaxTowersKilled6",
@@ -2074,7 +2079,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "QAUpgraded1",
@@ -2090,7 +2095,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "RAPurchased1",
@@ -2130,7 +2135,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "SOVUpgraded1",
@@ -2178,7 +2183,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "TSUPurchased1",
@@ -2202,21 +2207,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5917,
+      "Progressed": 5920,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:06:10.3787756+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:05:37.4077649+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:01:36.6777752+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:06:10.3788478+00:00"
+  "LastUpdate_Ratings": "2023-09-16T09:01:17.5934542+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:05:37.4078368+00:00"
 }

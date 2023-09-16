@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,342 |
-| Having A Field Day | 75.00% | ~4,342 |
-| Reap What You Sow | 71.00% | ~4,111 |
-| The First Day | 68.00% | ~3,937 |
-| Green Thumb | 66.00% | ~3,821 |
-| Novice Researcher | 66.00% | ~3,821 |
-| Home Cooked Meal | 58.00% | ~3,358 |
-| Onward | 56.00% | ~3,242 |
+| Get A Room | 75.00% | ~4,343 |
+| Having A Field Day | 75.00% | ~4,343 |
+| Reap What You Sow | 71.00% | ~4,112 |
+| The First Day | 68.00% | ~3,938 |
+| Green Thumb | 66.00% | ~3,822 |
+| Novice Researcher | 66.00% | ~3,822 |
+| Home Cooked Meal | 58.00% | ~3,359 |
+| Onward | 56.00% | ~3,243 |
 | Putting Food on the Table | 55.00% | ~3,185 |
 | The First Week | 54.00% | ~3,127 |
 | Beam Me Up | 51.00% | ~2,953 |
 | Studious Researcher | 51.00% | ~2,953 |
-| Feast or Famine | 46.00% | ~2,663 |
+| Feast or Famine | 46.00% | ~2,664 |
 | Adept Researcher | 44.00% | ~2,548 |
 | Retribution | 41.00% | ~2,374 |
 | ...And Don’t Come Back! | 41.00% | ~2,374 |
-| Fit For A King | 35.00% | ~2,026 |
+| Fit For A King | 35.00% | ~2,027 |
 | Luminary Researcher | 32.00% | ~1,853 |
 | Heating Up | 30.00% | ~1,737 |
-| Winter Is Coming | 27.00% | ~1,563 |
+| Winter Is Coming | 27.00% | ~1,564 |
 | Winter Is Here | 24.00% | ~1,390 |
 | Disassembled | 21.00% | ~1,216 |
 | A Party Now | 21.00% | ~1,216 |
@@ -38,8 +38,8 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~116 |
 | Wabbit Season | 0.60% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,790 (Ranked 147)  
-Completed: 13 (0.22%) (Ranked 195)  
+Progressed: 5,791 (Ranked 147)  
+Completed: 13 (0.22%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,7 +166,7 @@ Completed: 13 (0.22%) (Ranked 195)
 | 2023-09-13 | 5,755 | 13 |
 | 2023-09-14 | 5,767 | 13 |
 | 2023-09-15 | 5,786 | 13 |
-| 2023-09-16 | 5,790 | 13 |
+| 2023-09-16 | 5,791 | 13 |
 ## Awards
 Max (Relaxing): 122  (Ranked 320)  
 Sum: 984 (Ranked 242)  

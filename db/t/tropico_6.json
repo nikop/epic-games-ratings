@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1110,9 +1110,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5122,
+  "EOS_Progressed": 5124,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9630,6 +9630,11 @@
       "Time": "2023-09-16T08:04:54.0076409+00:00",
       "NumProgressed": 5122,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-16T09:04:21.2472403+00:00",
+      "NumProgressed": 5124,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9681,7 +9686,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -9737,7 +9742,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9761,7 +9766,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -9785,7 +9790,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -9801,7 +9806,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9825,7 +9830,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -9897,7 +9902,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9913,7 +9918,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -9960,15 +9965,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5122,
+      "Progressed": 5124,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-14T16:01:20.4133159+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:04:54.0076405+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:04:21.24724+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:01:42.2750429+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:04:54.0077051+00:00"
+  "LastUpdate_Ratings": "2023-09-16T09:01:24.3929348+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:04:21.2473016+00:00"
 }

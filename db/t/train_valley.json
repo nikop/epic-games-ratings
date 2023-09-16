@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -123,11 +123,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:48.389739+00:00",
@@ -1043,6 +1043,11 @@
       "Time": "2023-09-16T07:05:34.0577689+00:00",
       "NumProgressed": 470,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-16T09:06:19.4485007+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1062,15 +1067,15 @@
       "Name": "Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     },
     {
       "ID": "04_tycoon",
@@ -1086,7 +1091,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "06_living",
@@ -1182,7 +1187,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "18_foreman",
@@ -1190,7 +1195,7 @@
       "Name": "Foreman",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "19_justintime",
@@ -1230,7 +1235,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "24_mega",
@@ -1278,7 +1283,7 @@
       "Name": "Madness!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "30_completelynuts",
@@ -1286,7 +1291,7 @@
       "Name": "Completely nuts!",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "31_chancellor",
@@ -1365,15 +1370,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:06:51.7971389+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:06:19.4485004+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:11.6532373+00:00",
-  "LastUpdate_Ratings": "2023-09-16T07:57:30.6384424+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:06:51.7971687+00:00"
+  "LastUpdate_Ratings": "2023-09-16T08:57:11.2096552+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:06:19.448523+00:00"
 }

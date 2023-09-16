@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -398,11 +398,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20152,
-  "EOS_Completed": 398,
-  "EOS_NewPlayers": 465,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 1.97,
+  "EOS_Progressed": 20154,
+  "EOS_Completed": 399,
+  "EOS_NewPlayers": 463,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -16328,6 +16328,11 @@
       "Time": "2023-09-16T08:07:40.9190754+00:00",
       "NumProgressed": 20152,
       "NumCompleted": 398
+    },
+    {
+      "Time": "2023-09-16T09:07:17.3683896+00:00",
+      "NumProgressed": 20154,
+      "NumCompleted": 399
     }
   ],
   "TotalAchievements": 20,
@@ -16345,9 +16350,9 @@
       "ID": "DOWN_THE_WELL",
       "SetID": "b6m2mm5",
       "Name": "Ripples on the surface",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1209
     },
     {
       "ID": "EAST_FINISHED",
@@ -16355,7 +16360,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -16459,7 +16464,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15517
+      "UsersEstimate": 15519
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16491,22 +16496,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3627
+      "UsersEstimate": 3628
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20152,
-      "Completed": 398
+      "Progressed": 20154,
+      "Completed": 399
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:07:40.919075+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:07:17.3683891+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:00:23.699471+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:07:40.9191595+00:00"
+  "LastUpdate_Ratings": "2023-09-16T09:00:05.2029401+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:07:17.3684802+00:00"
 }

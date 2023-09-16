@@ -5,12 +5,12 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,537 |
-| First Class Student | 13.00% | ~38,570 |
-| A Keen Sense of Spell | 12.00% | ~35,603 |
-| Troll with the Punches | 12.00% | ~35,603 |
-| A Talent for Spending | 11.00% | ~32,636 |
-| That's a Keeper | 11.00% | ~32,636 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,538 |
+| First Class Student | 13.00% | ~38,571 |
+| A Keen Sense of Spell | 12.00% | ~35,604 |
+| Troll with the Punches | 12.00% | ~35,604 |
+| A Talent for Spending | 11.00% | ~32,637 |
+| That's a Keeper | 11.00% | ~32,637 |
 | Grappling with a Graphorn | 10.00% | ~29,670 |
 | The One Who Mastered Memories | 10.00% | ~29,670 |
 | The Hallowed Hero | 10.00% | ~29,670 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,695 (Ranked 43)  
-Completed: 470 (0.16%) (Ranked 203)  
+Progressed: 296,698 (Ranked 43)  
+Completed: 471 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -200,10 +200,10 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
-| 2023-09-16 | 296,695 | 470 |
+| 2023-09-16 | 296,698 | 471 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
-Sum: 43,400 (Ranked 30)  
+Sum: 43,402 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -214,7 +214,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,027 |
 | This game is Relaxing | 1,023 |
 | This game has Diverse Characters | 1,018 |
-| This game has Amazing Characters | 993 |
+| This game has Amazing Characters | 995 |
 | This game is Highly Recommended | 980 |
 | This game has Quickly Understood Controls | 915 |
 | This game has Beautiful Visuals | 852 |
@@ -398,4 +398,4 @@ Diff (max vs sum): -13
 | 2023-09-13 | 4.77 | 22,630 | 43,189 |
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
-| 2023-09-16 | 4.77 | 22,703 | 43,400 |
+| 2023-09-16 | 4.77 | 22,703 | 43,402 |

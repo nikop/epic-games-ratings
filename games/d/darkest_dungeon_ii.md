@@ -6,29 +6,29 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~109,580 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~83,658 |
-| A Clear Conscience | 69.00% | ~81,301 |
-| Unleash Hell | 68.00% | ~80,123 |
-| Unfulfilled Desires | 68.00% | ~80,123 |
+| A Place to Lay Your Head | 93.00% | ~109,581 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~83,659 |
+| A Clear Conscience | 69.00% | ~81,302 |
+| Unleash Hell | 68.00% | ~80,124 |
+| Unfulfilled Desires | 68.00% | ~80,124 |
 | Funny Guy | 67.00% | ~78,945 |
 | Unshackled | 67.00% | ~78,945 |
-| Long Live the King | 66.00% | ~77,766 |
-| Resurrection | 62.00% | ~73,053 |
-| Wyrdly Reconstructed | 62.00% | ~73,053 |
+| Long Live the King | 66.00% | ~77,767 |
+| Resurrection | 62.00% | ~73,054 |
+| Wyrdly Reconstructed | 62.00% | ~73,054 |
 | Boxcar Kid | 60.00% | ~70,697 |
 | Rush Hour | 60.00% | ~70,697 |
 | To Grandmother's House | 60.00% | ~70,697 |
 | Serenity Now! | 53.00% | ~62,449 |
 | Hope Rekindled | 50.00% | ~58,914 |
 | Ramble On | 49.00% | ~57,736 |
-| Nope | 48.00% | ~56,557 |
+| Nope | 48.00% | ~56,558 |
 | This Looks Familiar | 38.00% | ~44,775 |
-| Now Stay Dead | 37.00% | ~43,596 |
+| Now Stay Dead | 37.00% | ~43,597 |
 | Harvest Festival | 36.00% | ~42,418 |
 | Hot Air | 36.00% | ~42,418 |
 | Merry Time | 35.00% | ~41,240 |
-| Creep and Sleep | 33.00% | ~38,883 |
+| Creep and Sleep | 33.00% | ~38,884 |
 | Overdue Notice | 32.00% | ~37,705 |
 | Banishment | 31.00% | ~36,527 |
 | Whale | 31.00% | ~36,527 |
@@ -43,8 +43,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Rings a Bell | 20.00% | ~23,566 |
 | Escape from the Black Hole | 18.00% | ~21,209 |
 | It Happens | 17.00% | ~20,031 |
-| This Belongs in a Museum | 16.00% | ~18,852 |
-| Dissector | 16.00% | ~18,852 |
+| This Belongs in a Museum | 16.00% | ~18,853 |
+| Dissector | 16.00% | ~18,853 |
 | Handled | 15.00% | ~17,674 |
 | Catch and Decease | 14.00% | ~16,496 |
 | Not Today! | 13.00% | ~15,318 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~118 |
 | 20,000 Leagues Above the Sea | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,828 (Ranked 73)  
+Progressed: 117,829 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 1 (0.00%) (Ranked 275)
 | 2023-09-13 | 117,644 | 1 |
 | 2023-09-14 | 117,714 | 1 |
 | 2023-09-15 | 117,800 | 1 |
-| 2023-09-16 | 117,828 | 1 |
+| 2023-09-16 | 117,829 | 1 |
 ## Awards
 Max (Character Customization): 7,393  (Ranked 48)  
 Sum: 19,283 (Ranked 56)  

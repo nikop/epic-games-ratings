@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1625,9 +1625,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 206
     },
     {
       "ID": "AC13",
@@ -1737,9 +1737,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 285
     },
     {
       "ID": "AC27",
@@ -1906,8 +1906,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:07:09.8017751+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:06:36.9536547+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:02:08.9934421+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:07:09.8018167+00:00"
+  "LastUpdate_Ratings": "2023-09-16T09:01:55.2302737+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:06:36.953692+00:00"
 }

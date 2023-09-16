@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224351,
+  "EOS_Progressed": 224360,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1915,
+  "EOS_NewPlayers": 1910,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11068,6 +11068,11 @@
       "Time": "2023-09-16T08:09:20.9875087+00:00",
       "NumProgressed": 224351,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-16T09:09:06.4228011+00:00",
+      "NumProgressed": 224360,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11527,7 +11532,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67305
+      "UsersEstimate": 67308
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11695,7 +11700,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "RangerEpic",
@@ -11767,7 +11772,7 @@
       "Name": "Material Girl",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "WizardResistBurn",
@@ -11782,21 +11787,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224351,
+      "Progressed": 224360,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224351,
+      "Progressed": 224360,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:09:20.9875083+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:09:06.4228006+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-16T07:58:50.6559769+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:09:20.9876422+00:00"
+  "LastUpdate_Ratings": "2023-09-16T08:58:35.296323+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:09:06.4229037+00:00"
 }

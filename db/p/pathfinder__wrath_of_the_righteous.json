@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3728,9 +3728,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11300,
+  "EOS_Progressed": 11301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12388,6 +12388,11 @@
       "Time": "2023-09-16T08:08:21.7546028+00:00",
       "NumProgressed": 11300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T09:07:58.1779141+00:00",
+      "NumProgressed": 11301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12687,7 +12692,7 @@
       "Name": "Prelate\u0027s Nemesis",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "39_Blight of Drezen",
@@ -13326,21 +13331,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10082,
+      "Progressed": 10083,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11300,
+      "Progressed": 11301,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-14T20:57:29.523269+00:00",
-  "LastChanged_Achievements": "2023-09-16T08:08:21.7546024+00:00",
+  "LastChanged_Achievements": "2023-09-16T09:07:58.1779137+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-16T07:58:09.2456618+00:00",
-  "LastUpdate_Achievements": "2023-09-16T08:08:21.7548254+00:00"
+  "LastUpdate_Ratings": "2023-09-16T08:57:49.4060163+00:00",
+  "LastUpdate_Achievements": "2023-09-16T09:07:58.1780887+00:00"
 }
