@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1359,
+  "EOS_Progressed": 1360,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2520,6 +2520,11 @@
       "Time": "2023-09-16T07:06:47.5346649+00:00",
       "NumProgressed": 1359,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T10:08:17.4460355+00:00",
+      "NumProgressed": 1360,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2555,7 +2560,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Boy",
@@ -2609,9 +2614,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 530
     },
     {
       "ID": "Everyone_is_here",
@@ -2643,7 +2648,7 @@
       "Name": "Grenadier",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "Hard_Serpent",
@@ -2723,7 +2728,7 @@
       "Name": "Mosquito bite",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Scout",
@@ -2770,15 +2775,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1359,
+      "Progressed": 1360,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:08:03.3897408+00:00",
+  "LastChanged_Achievements": "2023-09-16T10:08:17.4460349+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:59:41.6766368+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:08:03.3897686+00:00"
+  "LastUpdate_Ratings": "2023-09-16T10:00:09.7445241+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:08:17.4460779+00:00"
 }

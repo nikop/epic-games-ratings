@@ -5,13 +5,14 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 2.00% | ~13,611 |
-| Break A Leg | 2.00% | ~13,611 |
-| Coup de Grâce | 2.00% | ~13,611 |
-| Hazardous Materials | 2.00% | ~13,611 |
-| Hotel California | 2.00% | ~13,611 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,611 |
-| Welcome To Hell-A | 2.00% | ~13,611 |
+| Git Gutte! | 2.00% | ~13,612 |
+| Break A Leg | 2.00% | ~13,612 |
+| Coup de Grâce | 2.00% | ~13,612 |
+| Hazardous Materials | 2.00% | ~13,612 |
+| Friends Like These | 2.00% | ~13,612 |
+| Hotel California | 2.00% | ~13,612 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,612 |
+| Welcome To Hell-A | 2.00% | ~13,612 |
 | Dr. Reed, I Presume? | 1.00% | ~6,806 |
 | Anger Management | 1.00% | ~6,806 |
 | Perks of the Job | 1.00% | ~6,806 |
@@ -21,7 +22,6 @@ Rating: 4.54 (Ranked 505)
 | Slayer Squad | 1.00% | ~6,806 |
 | Can't Handle the Truth | 1.00% | ~6,806 |
 | Like Riding a Bike | 1.00% | ~6,806 |
-| Friends Like These | 1.00% | ~6,806 |
 | Apex Predator | 1.00% | ~6,806 |
 | Zombologist | 1.00% | ~6,806 |
 | Ooh, Shiny! | 1.00% | ~6,806 |
@@ -31,11 +31,11 @@ Rating: 4.54 (Ranked 505)
 | Our True Nature | 1.00% | ~6,806 |
 | This is My Weapon | 1.00% | ~6,806 |
 | Humanity Distilled | 0.90% | ~6,125 |
-| Making Your Mark | 0.80% | ~5,444 |
-| Down with the Sickness | 0.80% | ~5,444 |
+| Making Your Mark | 0.80% | ~5,445 |
+| Down with the Sickness | 0.80% | ~5,445 |
 | Max Headroom | 0.70% | ~4,764 |
-| Go, Bobcats! | 0.60% | ~4,083 |
-| Rising Star | 0.60% | ~4,083 |
+| Go, Bobcats! | 0.60% | ~4,084 |
+| Rising Star | 0.60% | ~4,084 |
 | Smorgasbord | 0.50% | ~3,403 |
 | Jumbo Keyring | 0.50% | ~3,403 |
 | On Safari | 0.40% | ~2,722 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~681 |
 | Bucket List | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,562 (Ranked 22)  
+Progressed: 680,588 (Ranked 22)  
 Completed: 2,144 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 2,144 (0.32%) (Ranked 177)
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
-| 2023-09-16 | 680,562 | 2,144 |
+| 2023-09-16 | 680,588 | 2,144 |
 ## Awards
 Max (Great Boss Battles): 6,061  (Ranked 57)  
 Sum: 8,990 (Ranked 94)  

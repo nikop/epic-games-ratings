@@ -6682,7 +6682,7 @@
       "Count": 3419
     }
   ],
-  "EOS_Progressed": 228969,
+  "EOS_Progressed": 228978,
   "EOS_Completed": 2286,
   "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 23,
@@ -23172,6 +23172,11 @@
       "Time": "2023-09-16T09:06:24.8840237+00:00",
       "NumProgressed": 228969,
       "NumCompleted": 2286
+    },
+    {
+      "Time": "2023-09-16T10:06:58.0433552+00:00",
+      "NumProgressed": 228978,
+      "NumCompleted": 2286
     }
   ],
   "TotalAchievements": 520,
@@ -23183,7 +23188,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "objective_completed_10",
@@ -23255,7 +23260,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1051",
@@ -23263,7 +23268,7 @@
       "Name": "Nightmare Rats!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1052",
@@ -23287,7 +23292,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1056",
@@ -23319,7 +23324,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1061",
@@ -23351,7 +23356,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1066",
@@ -23863,7 +23868,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1164",
@@ -23887,7 +23892,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1169",
@@ -23919,7 +23924,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1174",
@@ -23943,7 +23948,7 @@
       "Name": "Heatwave",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1179",
@@ -23967,7 +23972,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1184",
@@ -24957,9 +24962,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_389",
@@ -26263,7 +26268,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_691",
@@ -26295,7 +26300,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_696",
@@ -27279,7 +27284,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1396",
@@ -27295,7 +27300,7 @@
       "Name": "To Infinity\u0027s and Beyond",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1401",
@@ -27327,7 +27332,7 @@
       "Name": "The End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1371",
@@ -27342,21 +27347,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195243,
-      "Completed": 3431
+      "Progressed": 195252,
+      "Completed": 3432
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228969,
+      "Progressed": 228978,
       "Completed": 2286
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-16T05:57:33.8273989+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:06:24.8840232+00:00",
+  "LastChanged_Achievements": "2023-09-16T10:06:58.0433545+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:57:47.4287123+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:06:24.8866704+00:00"
+  "LastUpdate_Ratings": "2023-09-16T09:58:21.9640765+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:06:58.0474388+00:00"
 }

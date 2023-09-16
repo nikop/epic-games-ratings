@@ -4,11 +4,11 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 117,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 113,
+  "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3728,9 +3728,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11301,
+  "EOS_Progressed": 11302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12393,6 +12393,11 @@
       "Time": "2023-09-16T09:07:58.1779141+00:00",
       "NumProgressed": 11301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T10:08:12.4406765+00:00",
+      "NumProgressed": 11302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13316,7 +13321,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -13324,28 +13329,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10083,
+      "Progressed": 10084,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11301,
+      "Progressed": 11302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-14T20:57:29.523269+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:07:58.1779137+00:00",
+  "LastChanged_Achievements": "2023-09-16T10:08:12.4406758+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:57:49.4060163+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:07:58.1780887+00:00"
+  "LastUpdate_Ratings": "2023-09-16T09:58:23.4013868+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:08:12.4409936+00:00"
 }

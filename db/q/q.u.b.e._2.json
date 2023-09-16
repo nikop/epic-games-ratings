@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1463,6 +1463,11 @@
       "Time": "2023-09-16T09:07:52.8231163+00:00",
       "NumProgressed": 332,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-16T10:08:07.6311907+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1483,7 +1488,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1491,7 +1496,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -1627,7 +1632,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_OASIS",
@@ -1673,9 +1678,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_S5",
@@ -1699,22 +1704,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:07:52.8231155+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:57:06.1812445+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:07:52.8231388+00:00"
+  "LastChanged_Achievements": "2023-09-16T10:08:07.6311897+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
+  "LastUpdate_Ratings": "2023-09-16T09:57:42.2544541+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:08:07.6312208+00:00"
 }

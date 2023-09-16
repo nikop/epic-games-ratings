@@ -10,7 +10,7 @@ Rating: 3.82 (Ranked 972)
 | Bosom Buddies | 30.00% | ~155 |
 | Beat the Heat | 24.00% | ~124 |
 | A Familiar Face | 15.00% | ~78 |
-| Unexpected Consequences | 14.00% | ~72 |
+| Unexpected Consequences | 14.00% | ~73 |
 | Identity Theft | 12.00% | ~62 |
 | Mind the Gap | 12.00% | ~62 |
 | F is for Feline | 12.00% | ~62 |
@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 972)
 | Marvellous Toys | 2.00% | ~10 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517 (Ranked 244)  
+Progressed: 518 (Ranked 244)  
 Completed: 5 (0.97%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 5 (0.97%) (Ranked 127)
 | 2023-09-10 | 514 | 5 |
 | 2023-09-13 | 516 | 5 |
 | 2023-09-14 | 517 | 5 |
+| 2023-09-16 | 518 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

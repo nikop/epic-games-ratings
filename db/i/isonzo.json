@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -832,7 +832,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6878,
+  "EOS_Progressed": 6879,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -5442,6 +5442,11 @@
       "Time": "2023-09-16T08:04:07.5002439+00:00",
       "NumProgressed": 6878,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-16T10:04:24.882118+00:00",
+      "NumProgressed": 6879,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5453,7 +5458,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -5701,7 +5706,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -5741,7 +5746,7 @@
       "Name": "The Italian Job",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -5805,14 +5810,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6878,
+      "Progressed": 6879,
       "Completed": 8
     }
   ],
@@ -5820,8 +5825,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:03:35.6398463+00:00",
-  "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:57:44.2096131+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:03:35.6398974+00:00"
+  "LastChanged_Achievements": "2023-09-16T10:04:24.8821174+00:00",
+  "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
+  "LastUpdate_Ratings": "2023-09-16T09:58:20.0250549+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:04:24.8822297+00:00"
 }

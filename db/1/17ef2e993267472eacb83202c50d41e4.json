@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5920,
+  "EOS_Progressed": 5922,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 863,
+  "EOS_NewPlayers": 859,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1611,6 +1611,11 @@
       "Time": "2023-09-16T09:05:37.4077653+00:00",
       "NumProgressed": 5920,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T10:06:14.7610626+00:00",
+      "NumProgressed": 5922,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1653,9 +1658,9 @@
       "ID": "BIUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Biogenerative Implant to Level 3",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 118
     },
     {
       "ID": "CEUpgraded1",
@@ -1735,7 +1740,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "GamesPlayed1",
@@ -1911,7 +1916,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "LaserUpgraded1",
@@ -2007,7 +2012,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "MinionKills2000",
@@ -2047,7 +2052,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "PlayerKills10",
@@ -2151,7 +2156,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -2214,14 +2219,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5920,
+      "Progressed": 5922,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:05:37.4077649+00:00",
+  "LastChanged_Achievements": "2023-09-16T10:06:14.7610621+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-16T09:01:17.5934542+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:05:37.4078368+00:00"
+  "LastUpdate_Ratings": "2023-09-16T10:01:31.9669457+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:06:14.7611593+00:00"
 }

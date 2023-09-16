@@ -26,7 +26,7 @@
 | Ashes Of Belief | 2.00% | ~71 |
 | Buried Memories | 1.00% | ~36 |
 | Anything For The Throne | 0.90% | ~32 |
-| One Track Mind | 0.80% | ~28 |
+| One Track Mind | 0.90% | ~32 |
 | Not On My Watch | 0.60% | ~21 |
 | Iron Will | 0.50% | ~18 |
 | Perfection Everlasting | 0.40% | ~14 |

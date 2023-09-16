@@ -1,63 +1,63 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.68 (Ranked 241)  
+Rating: 4.69 (Ranked 217)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 22.00% | ~5,603 |
-| Student | 18.00% | ~4,584 |
-| Listener | 13.00% | ~3,311 |
-| Knower | 13.00% | ~3,311 |
-| Aspen Tree | 12.00% | ~3,056 |
-| Healer | 12.00% | ~3,056 |
-| Scientist | 10.00% | ~2,547 |
-| Soldier | 10.00% | ~2,547 |
-| Cow Level | 9.00% | ~2,292 |
-| Water | 9.00% | ~2,292 |
-| Old Friend | 8.00% | ~2,038 |
-| Herbalist | 8.00% | ~2,038 |
-| New Spirits | 8.00% | ~2,038 |
-| Voipel | 8.00% | ~2,038 |
-| Collector | 8.00% | ~2,038 |
-| Wolf | 8.00% | ~2,038 |
-| Black Mage | 8.00% | ~2,038 |
-| Card Player | 7.00% | ~1,783 |
-| 100 Friends | 7.00% | ~1,783 |
-| Dead Friend | 7.00% | ~1,783 |
-| Pine Tree | 7.00% | ~1,783 |
-| Worthy | 6.00% | ~1,528 |
-| Black Book | 6.00% | ~1,528 |
-| Black Sorcerer | 6.00% | ~1,528 |
-| Dead Man | 6.00% | ~1,528 |
-| Fern | 6.00% | ~1,528 |
-| Witch | 6.00% | ~1,528 |
-| Researcher | 6.00% | ~1,528 |
-| Savvy | 6.00% | ~1,528 |
-| Folklorist | 6.00% | ~1,528 |
-| Encyclopedist | 5.00% | ~1,273 |
-| Vorsa | 5.00% | ~1,273 |
-| Old Spirits | 5.00% | ~1,273 |
-| Sinner | 5.00% | ~1,273 |
-| Traveller | 5.00% | ~1,273 |
-| Keeper of Knowledge | 5.00% | ~1,273 |
-| Susanin | 4.00% | ~1,019 |
-| Black Sorceress | 3.00% | ~764 |
-| Cheater | 3.00% | ~764 |
-| Diplomat | 3.00% | ~764 |
-| Righteous | 3.00% | ~764 |
-| White Head | 3.00% | ~764 |
-| Musician | 3.00% | ~764 |
-| Koldun | 3.00% | ~764 |
-| Revelation | 2.00% | ~509 |
-| Detective | 2.00% | ~509 |
-| Great Sorceress | 2.00% | ~509 |
+| Initiation | 22.00% | ~5,616 |
+| Student | 18.00% | ~4,595 |
+| Listener | 13.00% | ~3,319 |
+| Knower | 13.00% | ~3,319 |
+| Aspen Tree | 12.00% | ~3,063 |
+| Healer | 12.00% | ~3,063 |
+| Scientist | 10.00% | ~2,553 |
+| Soldier | 10.00% | ~2,553 |
+| Cow Level | 9.00% | ~2,298 |
+| Water | 9.00% | ~2,298 |
+| Old Friend | 8.00% | ~2,042 |
+| Herbalist | 8.00% | ~2,042 |
+| New Spirits | 8.00% | ~2,042 |
+| Voipel | 8.00% | ~2,042 |
+| Collector | 8.00% | ~2,042 |
+| Wolf | 8.00% | ~2,042 |
+| Black Mage | 8.00% | ~2,042 |
+| Card Player | 7.00% | ~1,787 |
+| 100 Friends | 7.00% | ~1,787 |
+| Dead Friend | 7.00% | ~1,787 |
+| Pine Tree | 7.00% | ~1,787 |
+| Worthy | 6.00% | ~1,532 |
+| Black Book | 6.00% | ~1,532 |
+| Black Sorcerer | 6.00% | ~1,532 |
+| Dead Man | 6.00% | ~1,532 |
+| Fern | 6.00% | ~1,532 |
+| Witch | 6.00% | ~1,532 |
+| Researcher | 6.00% | ~1,532 |
+| Savvy | 6.00% | ~1,532 |
+| Folklorist | 6.00% | ~1,532 |
+| Encyclopedist | 5.00% | ~1,276 |
+| Vorsa | 5.00% | ~1,276 |
+| Old Spirits | 5.00% | ~1,276 |
+| Sinner | 5.00% | ~1,276 |
+| Traveller | 5.00% | ~1,276 |
+| Keeper of Knowledge | 5.00% | ~1,276 |
+| Susanin | 4.00% | ~1,021 |
+| Black Sorceress | 3.00% | ~766 |
+| Cheater | 3.00% | ~766 |
+| Diplomat | 3.00% | ~766 |
+| Righteous | 3.00% | ~766 |
+| White Head | 3.00% | ~766 |
+| Musician | 3.00% | ~766 |
+| Koldun | 3.00% | ~766 |
+| Revelation | 2.00% | ~511 |
+| Detective | 2.00% | ~511 |
+| Great Sorceress | 2.00% | ~511 |
 | Mistress of Hell | 1.00% | ~255 |
 | Own Way | 1.00% | ~255 |
-| Word Master | 0.10% | ~25 |
+| Word Master | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,469 (Ranked 106)  
+Progressed: 25,528 (Ranked 106)  
 Completed: 13 (0.05%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,14 +78,14 @@ Completed: 13 (0.05%) (Ranked 239)
 | 2023-09-13 | 23,435 | 10 |
 | 2023-09-14 | 24,221 | 10 |
 | 2023-09-15 | 25,112 | 13 |
-| 2023-09-16 | 25,469 | 13 |
+| 2023-09-16 | 25,528 | 13 |
 ## Awards
-Max (Character Customization): 49  (Ranked 408)  
-Sum: 49 (Ranked 456)  
-Diff (max vs sum): -48  
+Max (Character Customization): 50  (Ranked 405)  
+Sum: 50 (Ranked 454)  
+Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 49 |
+| This game has Inclusive Character Customization | 50 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -156,3 +156,4 @@ Diff (max vs sum): -48
 | 2023-09-11 | 4.69 | - | 45 | 45 |
 | 2023-09-12 | 4.69 | - | 49 | 49 |
 | 2023-09-15 | 4.68 | - | 49 | 49 |
+| 2023-09-16 | 4.69 | - | 50 | 50 |

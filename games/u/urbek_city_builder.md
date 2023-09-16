@@ -4,22 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| I like parks | 2.00% | ~7 |
 | Small town | 2.00% | ~7 |
-| I like parks | 1.00% | ~3 |
-| I like books | 0.90% | ~3 |
-| The spiritual world... | 0.90% | ~3 |
+| I like books | 1.00% | ~3 |
+| The spiritual world... | 1.00% | ~3 |
+| Sport is good for you | 1.00% | ~3 |
+| I like my life | 0.90% | ~3 |
 | It is nice to share with friends in the city | 0.90% | ~3 |
-| Sport is good for you | 0.90% | ~3 |
-| I like my life | 0.60% | ~2 |
+| Soviet town | 0.90% | ~3 |
 | I am very happy! | 0.60% | ~2 |
+| I love parks | 0.60% | ~2 |
 | Bucolic city | 0.60% | ~2 |
-| Soviet town | 0.60% | ~2 |
 | Food producer | 0.30% | ~1 |
 | I love books! | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
-| I love parks | 0.30% | ~1 |
 | The woodcutter | 0.30% | ~1 |
+| What would we do if we can't go out with friends? | 0.30% | ~1 |
 | Metropolurbek | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
@@ -58,7 +59,6 @@
 | Clean energy | 0.00% | ~0 |
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
-| What would we do if we can't go out with friends? | 0.00% | ~0 |
 | I don't feel well, I have to drink a coffe | 0.00% | ~0 |
 | Little Mayor | 0.00% | ~0 |
 | Town planner | 0.00% | ~0 |

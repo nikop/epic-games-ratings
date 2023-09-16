@@ -6,13 +6,13 @@ Rating: 4.54 (Ranked 505)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 81.00% | ~1,537 |
-| Become King | 73.00% | ~1,385 |
-| Defeat 25 Frogs | 63.00% | ~1,195 |
-| Ranged Weapon | 62.00% | ~1,176 |
-| Collect Monster Parts | 59.00% | ~1,119 |
-| Two Handed Weapon | 57.00% | ~1,081 |
-| Defeat 25 Grubs | 53.00% | ~1,005 |
-| Rescue Redgi's Brothers | 53.00% | ~1,005 |
+| Become King | 73.00% | ~1,386 |
+| Defeat 25 Frogs | 63.00% | ~1,196 |
+| Ranged Weapon | 62.00% | ~1,177 |
+| Collect Monster Parts | 59.00% | ~1,120 |
+| Two Handed Weapon | 57.00% | ~1,082 |
+| Defeat 25 Grubs | 53.00% | ~1,006 |
+| Rescue Redgi's Brothers | 53.00% | ~1,006 |
 | Collect Iron Ore | 48.00% | ~911 |
 | Kitchen Ready To Cook | 48.00% | ~911 |
 | Defeat 25 Mozis | 47.00% | ~892 |
@@ -28,15 +28,15 @@ Rating: 4.54 (Ranked 505)
 | Return the Statues | 27.00% | ~512 |
 | Defeat Rattus Augustail | 27.00% | ~512 |
 | Complete the Chefs Book | 25.00% | ~474 |
-| Complete Ranger Faction | 21.00% | ~398 |
-| Defeat Avor Warden of the Northern Wastes | 20.00% | ~379 |
-| Discover the mystery of the Kings Chambers | 19.00% | ~360 |
+| Complete Ranger Faction | 21.00% | ~399 |
+| Defeat Avor Warden of the Northern Wastes | 20.00% | ~380 |
+| Discover the mystery of the Kings Chambers | 19.00% | ~361 |
 | Complete Arena Faction | 16.00% | ~304 |
 | Complete Redgi's Armory | 8.00% | ~152 |
 | King of Kings | 8.00% | ~152 |
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,897 (Ranked 187)  
+Progressed: 1,898 (Ranked 187)  
 Completed: 8 (0.42%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 8 (0.42%) (Ranked 163)
 | 2023-09-13 | 1,889 | 8 |
 | 2023-09-14 | 1,891 | 8 |
 | 2023-09-15 | 1,896 | 8 |
-| 2023-09-16 | 1,897 | 8 |
+| 2023-09-16 | 1,898 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

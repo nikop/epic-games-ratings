@@ -6,27 +6,27 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,182 |
-| That's a Grand Army | 3.00% | ~12,136 |
-| That is mine! | 3.00% | ~12,136 |
-| Victorious! | 3.00% | ~12,136 |
-| Brothers in Arms | 2.00% | ~8,091 |
-| For the Glory | 2.00% | ~8,091 |
-| That's a Grand Navy | 2.00% | ~8,091 |
-| Seriously?! | 2.00% | ~8,091 |
-| Cold War | 1.00% | ~4,045 |
-| Defender of the Faith | 1.00% | ~4,045 |
-| It's all about the money | 1.00% | ~4,045 |
-| The Princess is in this Castle | 1.00% | ~4,045 |
-| True Catholic | 1.00% | ~4,045 |
+| Until death do us apart | 4.00% | ~16,184 |
+| That's a Grand Army | 3.00% | ~12,138 |
+| That is mine! | 3.00% | ~12,138 |
+| Victorious! | 3.00% | ~12,138 |
+| Brothers in Arms | 2.00% | ~8,092 |
+| For the Glory | 2.00% | ~8,092 |
+| That's a Grand Navy | 2.00% | ~8,092 |
+| Seriously?! | 2.00% | ~8,092 |
+| Cold War | 1.00% | ~4,046 |
+| Defender of the Faith | 1.00% | ~4,046 |
+| It's all about the money | 1.00% | ~4,046 |
+| The Princess is in this Castle | 1.00% | ~4,046 |
+| True Catholic | 1.00% | ~4,046 |
 | Respected | 0.90% | ~3,641 |
 | Truly Divine Ruler | 0.90% | ~3,641 |
-| It's all about luck | 0.80% | ~3,236 |
+| It's all about luck | 0.80% | ~3,237 |
 | Blockader | 0.70% | ~2,832 |
 | Double the Love | 0.70% | ~2,832 |
 | Royal Authority | 0.70% | ~2,832 |
 | Total Control | 0.70% | ~2,832 |
-| My armies are invincible! | 0.60% | ~2,427 |
+| My armies are invincible! | 0.60% | ~2,428 |
 | Agressive Expander | 0.50% | ~2,023 |
 | City of Cities | 0.50% | ~2,023 |
 | Combined Arms | 0.50% | ~2,023 |
@@ -47,6 +47,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.30% | ~1,214 |
 | All belongs to Mother Russia | 0.20% | ~809 |
 | At every continent | 0.20% | ~809 |
+| Early-Modern Warfare | 0.20% | ~809 |
 | Electable! | 0.20% | ~809 |
 | Grand Coalition | 0.20% | ~809 |
 | One Family to Rule them All | 0.20% | ~809 |
@@ -127,7 +128,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dovmont's Own | 0.10% | ~405 |
 | Dracula's Revenge | 0.10% | ~405 |
 | Dude, Where's my Boat? | 0.10% | ~405 |
-| Early-Modern Warfare | 0.10% | ~405 |
 | Eat your Greens | 0.10% | ~405 |
 | Emperor of Hindustan | 0.10% | ~405 |
 | Empire of Mann | 0.10% | ~405 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,538 (Ranked 40)  
+Progressed: 404,606 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -510,19 +510,19 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 402,102 | 0 |
 | 2023-09-14 | 402,996 | 0 |
 | 2023-09-15 | 404,131 | 0 |
-| 2023-09-16 | 404,538 | 0 |
+| 2023-09-16 | 404,606 | 0 |
 ## Awards
-Max (Educational): 6,102  (Ranked 56)  
-Sum: 50,199 (Ranked 26)  
+Max (Educational): 6,125  (Ranked 56)  
+Sum: 50,245 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,102 |
+| This game is Educational | 6,125 |
 | This game is Highly Recommended | 5,826 |
 | This game has Challenging Combat | 5,794 |
 | This game has Diverse Characters | 5,771 |
 | This game is Extremely Fun | 5,767 |
-| This game is Relaxing | 5,607 |
+| This game is Relaxing | 5,630 |
 | This game has Competitive Players | 5,458 |
 | This game has Amazing Storytelling | 5,115 |
 | This game has Amazing Characters | 4,759 |
@@ -772,4 +772,4 @@ Diff (max vs sum): 30
 | 2023-09-13 | 4.69 | - | 6,064 | 49,909 |
 | 2023-09-14 | 4.69 | - | 6,076 | 50,003 |
 | 2023-09-15 | 4.69 | - | 6,102 | 50,146 |
-| 2023-09-16 | 4.69 | - | 6,102 | 50,199 |
+| 2023-09-16 | 4.69 | - | 6,125 | 50,245 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3615,
+  "EOS_Progressed": 3616,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6669,6 +6669,11 @@
       "Time": "2023-09-16T08:06:03.1793314+00:00",
       "NumProgressed": 3615,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-16T10:06:08.2150979+00:00",
+      "NumProgressed": 3616,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6680,7 +6685,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6688,7 +6693,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6744,7 +6749,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6848,7 +6853,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6888,7 +6893,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6912,7 +6917,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6920,7 +6925,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6928,7 +6933,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7016,7 +7021,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7247,13 +7252,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3566,
+      "Progressed": 3567,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3615,
+      "Progressed": 3616,
       "Completed": 10
     }
   ],
@@ -7261,8 +7266,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:05:30.0141102+00:00",
+  "LastChanged_Achievements": "2023-09-16T10:06:08.2150973+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-16T09:01:57.9148717+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:05:30.014194+00:00"
+  "LastUpdate_Ratings": "2023-09-16T10:02:07.3029361+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:06:08.2152942+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.44 (Ranked 649)
 | Way of Iron | 70.00% | ~1,333 |
 | Mystery Tour | 68.00% | ~1,295 |
 | We brake for nobody | 67.00% | ~1,276 |
-| Brainstorm | 65.00% | ~1,238 |
+| Brainstorm | 66.00% | ~1,257 |
 | Travel Company | 65.00% | ~1,238 |
 | Mind the Gap | 64.00% | ~1,219 |
 | All around the World | 62.00% | ~1,180 |
@@ -61,7 +61,7 @@ Rating: 4.44 (Ranked 649)
 | Three Cheers for Progress | 0.50% | ~10 |
 | United States | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,904 (Ranked 185)  
+Progressed: 1,904 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |

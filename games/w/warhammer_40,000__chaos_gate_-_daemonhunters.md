@@ -10,9 +10,9 @@ Number of Ratings: 371  (23.09.2022)
 | Executioner | 5.00% | ~160 |
 | Watch Where You Step... | 5.00% | ~160 |
 | Not So Fast... | 4.00% | ~128 |
+| Blood for the Blood God! | 4.00% | ~128 |
 | Purging Spree | 4.00% | ~128 |
 | An Ill Omen | 4.00% | ~128 |
-| Blood for the Blood God! | 3.00% | ~96 |
 | Bloodless | 3.00% | ~96 |
 | Honoured Battle-Brother | 2.00% | ~64 |
 | Surgical Excision | 2.00% | ~64 |

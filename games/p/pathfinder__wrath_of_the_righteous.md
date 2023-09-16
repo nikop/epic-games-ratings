@@ -33,8 +33,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~339 |
 | Core of the Riddle | 3.00% | ~339 |
 | Hey, I Know You! | 3.00% | ~339 |
-| The Lady of the Forest | 3.00% | ~302 |
-| Beware Still Water | 3.00% | ~302 |
+| The Lady of the Forest | 3.00% | ~303 |
+| Beware Still Water | 3.00% | ~303 |
 | Path of the Demon | 2.00% | ~226 |
 | Path of the Aeon | 2.00% | ~226 |
 | Path of the Lich | 2.00% | ~226 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,301 (Ranked 127)  
+Progressed: 11,302 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,11 +272,11 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 11,255 | 0 |
 | 2023-09-14 | 11,273 | 0 |
 | 2023-09-15 | 11,287 | 0 |
-| 2023-09-16 | 11,301 | 0 |
+| 2023-09-16 | 11,302 | 0 |
 ## Awards
 Max (Character Customization): 1,712  (Ranked 118)  
-Sum: 6,942 (Ranked 113)  
-Diff (max vs sum): 5  
+Sum: 6,942 (Ranked 114)  
+Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,712 |

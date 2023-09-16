@@ -2,13 +2,13 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 242,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8012,11 +8012,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 1760052,
       "NumberOfAwardsMax": 226238
+    },
+    {
+      "Time": "2023-09-16T10:01:51.5502675+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1761342,
+      "NumberOfAwardsMax": 226922
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1760052,
-  "NumberOfAwardsMax": 226238,
+  "NumberOfAwards": 1761342,
+  "NumberOfAwardsMax": 226922,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8035,7 +8041,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 207618
+      "Count": 208224
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8077,7 +8083,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 226238
+      "Count": 226922
     }
   ],
   "EOS_Progressed": 0,
@@ -8091,8 +8097,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-09-15T13:06:06.0598936+00:00",
+  "LastChanged": "2023-09-16T10:01:51.5502673+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:21.9295694+00:00",
-  "LastUpdate_Ratings": "2023-09-16T09:01:41.2122388+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:05:23.3993719+00:00"
+  "LastUpdate_Ratings": "2023-09-16T10:01:51.5502681+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:06:02.1018496+00:00"
 }

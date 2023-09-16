@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1179,9 +1179,9 @@
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -1283,17 +1283,17 @@
       "ID": "ACH_KILL_100",
       "SetID": "7c4cldc",
       "Name": "Robot Hunter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_KILL_50",
@@ -1323,9 +1323,9 @@
       "ID": "ACH_METEORITE_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelting Master",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -1396,8 +1396,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:06:42.6231618+00:00",
+  "LastChanged_Achievements": "2023-09-16T10:07:13.6736301+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.3960125+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:59:04.5873858+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:06:42.6231913+00:00"
+  "LastUpdate_Ratings": "2023-09-16T09:59:35.8936502+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:07:13.6736602+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,579 |
+| A Brief Tour of the Realms | 2.00% | ~4,580 |
 | Beast Intentions | 0.70% | ~1,603 |
 | The Cursed Farmer | 0.70% | ~1,603 |
 | The Mad Wizard | 0.50% | ~1,145 |
@@ -26,19 +26,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.30% | ~687 |
 | Pure Energy | 0.30% | ~687 |
 | Legends and Lore | 0.30% | ~586 |
-| Tall Tales | 0.20% | ~390 |
-| Nightmare Rats! | 0.20% | ~390 |
-| The Witchlight Carnival | 0.20% | ~390 |
-| Thieves of the Coven | 0.20% | ~390 |
-| Hither of the Feywild | 0.20% | ~390 |
+| Tall Tales | 0.20% | ~391 |
+| Nightmare Rats! | 0.20% | ~391 |
+| The Witchlight Carnival | 0.20% | ~391 |
+| Thieves of the Coven | 0.20% | ~391 |
+| Hither of the Feywild | 0.20% | ~391 |
 | The Silken Swamp | 0.20% | ~458 |
 | Wet Feet | 0.20% | ~458 |
 | Supply Run | 0.20% | ~458 |
-| Vecna Lives! | 0.20% | ~390 |
-| Vecna Loots! | 0.20% | ~390 |
-| Return to the Tomb | 0.20% | ~390 |
-| Heatwave | 0.20% | ~390 |
-| The Dread Domain of Tovag | 0.20% | ~390 |
+| Vecna Lives! | 0.20% | ~391 |
+| Vecna Loots! | 0.20% | ~391 |
+| Return to the Tomb | 0.20% | ~391 |
+| Heatwave | 0.20% | ~391 |
+| The Dread Domain of Tovag | 0.20% | ~391 |
 | Homecoming | 0.20% | ~458 |
 | The Lost Heir of Omu | 0.20% | ~458 |
 | Beast Mode | 0.20% | ~458 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~458 |
 | Attack on the Manor | 0.20% | ~458 |
 | The Death Curse | 0.20% | ~458 |
+| Flies on the Wall | 0.20% | ~458 |
 | Backtracking Through Barovia | 0.20% | ~458 |
 | Nimble Escape | 0.20% | ~458 |
 | Useless Allies | 0.20% | ~458 |
@@ -70,8 +71,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~458 |
 | The Contagious Curse | 0.20% | ~458 |
 | Escort to Waterdeep | 0.20% | ~458 |
-| The Giant's Bane Tavern | 0.20% | ~390 |
-| The Everlasting Rime | 0.20% | ~390 |
+| The Giant's Bane Tavern | 0.20% | ~391 |
+| The Everlasting Rime | 0.20% | ~391 |
 | Close Escort | 0.20% | ~458 |
 | Constant Banditry | 0.20% | ~458 |
 | Waterdeep Detours | 0.20% | ~458 |
@@ -81,9 +82,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~458 |
 | The Templar's Camp | 0.20% | ~458 |
 | Rescue in the Jungle | 0.20% | ~458 |
-| The Hunt for The Last Breath | 0.20% | ~390 |
-| To Infinity's and Beyond | 0.20% | ~390 |
-| The End | 0.20% | ~390 |
+| The Hunt for The Last Breath | 0.20% | ~391 |
+| To Infinity's and Beyond | 0.20% | ~391 |
+| The End | 0.20% | ~391 |
 | Pros and CONs | 0.10% | ~229 |
 | Upholding the Law | 0.10% | ~229 |
 | Starving in the Jungle | 0.10% | ~229 |
@@ -262,7 +263,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.10% | ~229 |
 | A Saurial's Resolve | 0.10% | ~229 |
 | Spirit of the Trickster Gods | 0.10% | ~195 |
-| Flies on the Wall | 0.10% | ~229 |
 | The Killer Mists | 0.10% | ~229 |
 | Class Vacation | 0.10% | ~229 |
 | A Nod from Strahd | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,969 (Ranked 55)  
+Progressed: 228,978 (Ranked 55)  
 Completed: 2,286 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -676,7 +676,7 @@ Completed: 2,286 (1.00%) (Ranked 123)
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
-| 2023-09-16 | 228,969 | 2,286 |
+| 2023-09-16 | 228,978 | 2,286 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,603 (Ranked 39)  

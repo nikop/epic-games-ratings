@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10624,
+  "EOS_Progressed": 10627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5486,6 +5486,11 @@
       "Time": "2023-09-16T09:08:47.6904988+00:00",
       "NumProgressed": 10624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-16T10:09:07.957849+00:00",
+      "NumProgressed": 10627,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5498,7 +5503,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "10",
@@ -5514,7 +5519,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "12",
@@ -5538,7 +5543,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "15",
@@ -5546,7 +5551,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2762
+      "UsersEstimate": 2763
     },
     {
       "ID": "16",
@@ -5560,9 +5565,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2444
     },
     {
       "ID": "18",
@@ -5570,7 +5575,7 @@
       "Name": "Bottoms up!",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "19",
@@ -5586,7 +5591,7 @@
       "Name": "Data Logger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "20",
@@ -5594,7 +5599,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "21",
@@ -5602,7 +5607,7 @@
       "Name": "Drone Dodger",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "22",
@@ -5706,7 +5711,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "7",
@@ -5714,7 +5719,7 @@
       "Name": "Grave Robber",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "8",
@@ -5730,14 +5735,14 @@
       "Name": "Impossible Objects",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3400
+      "UsersEstimate": 3401
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10624,
+      "Progressed": 10627,
       "Completed": 0
     }
   ],
@@ -5745,8 +5750,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-16T09:08:47.6904983+00:00",
+  "LastChanged_Achievements": "2023-09-16T10:09:07.9578485+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-16T08:59:19.3958693+00:00",
-  "LastUpdate_Achievements": "2023-09-16T09:08:47.6905423+00:00"
+  "LastUpdate_Ratings": "2023-09-16T09:59:49.8819275+00:00",
+  "LastUpdate_Achievements": "2023-09-16T10:09:07.9579061+00:00"
 }
