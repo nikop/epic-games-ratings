@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4060,
+  "EOS_Progressed": 4061,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -6569,6 +6569,11 @@
       "Time": "2023-09-17T00:07:29.2915194+00:00",
       "NumProgressed": 4060,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-17T04:08:22.854727+00:00",
+      "NumProgressed": 4061,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6610,9 +6615,9 @@
       "ID": "Ach005",
       "SetID": "12n4k20",
       "Name": "Headliner",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 284
     },
     {
       "ID": "Ach006",
@@ -6756,7 +6761,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "Ach024",
@@ -6810,9 +6815,9 @@
       "ID": "Ach030",
       "SetID": "12n4k20",
       "Name": "This is a breeze!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach031",
@@ -7147,13 +7152,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4060,
+      "Progressed": 4061,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2581,
+      "Progressed": 2582,
       "Completed": 1929
     }
   ],
@@ -7161,8 +7166,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:07:31.1817817+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:08:22.8547266+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:58:01.8969463+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:07:31.1818944+00:00"
+  "LastUpdate_Ratings": "2023-09-17T03:58:10.2641469+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:08:22.8548432+00:00"
 }

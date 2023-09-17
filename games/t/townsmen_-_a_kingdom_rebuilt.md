@@ -21,12 +21,12 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 6.00% | ~257 |
 | I like to build stuff... II | 6.00% | ~257 |
 | Completionist I | 6.00% | ~257 |
+| Full-time job II | 6.00% | ~257 |
 | A time consuming game II | 6.00% | ~257 |
 | Knee deep in snow | 6.00% | ~257 |
 | Not a small trader anymore | 5.00% | ~214 |
 | The King's new clothes I | 5.00% | ~214 |
 | Builder II | 5.00% | ~214 |
-| Full-time job II | 5.00% | ~214 |
 | Tax-man III | 5.00% | ~214 |
 | Tools of the trade I | 5.00% | ~214 |
 | Bread for the people II | 4.00% | ~171 |

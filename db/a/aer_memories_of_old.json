@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20233,
+  "EOS_Progressed": 20234,
   "EOS_Completed": 400,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -16423,6 +16423,11 @@
       "Time": "2023-09-17T03:06:52.9520068+00:00",
       "NumProgressed": 20233,
       "NumCompleted": 400
+    },
+    {
+      "Time": "2023-09-17T04:07:48.8060369+00:00",
+      "NumProgressed": 20234,
+      "NumCompleted": 400
     }
   ],
   "TotalAchievements": 20,
@@ -16554,7 +16559,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15579
+      "UsersEstimate": 15580
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16562,7 +16567,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "NORTH_FINISHED",
@@ -16593,15 +16598,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20233,
+      "Progressed": 20234,
       "Completed": 400
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:06:52.9520062+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:07:48.806036+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:59:53.6622979+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:06:52.9521181+00:00"
+  "LastUpdate_Ratings": "2023-09-17T04:00:26.4260746+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:07:48.8061476+00:00"
 }

@@ -54,9 +54,9 @@
 | Gang wrangler | 37.00% | ~120 |
 | Undercover robot | 37.00% | ~120 |
 | Problems of cyborgs | 36.00% | ~116 |
+| Absolute Champion! | 36.00% | ~116 |
 | Your own way | 36.00% | ~116 |
 | Not little hacker | 35.00% | ~113 |
-| Absolute Champion! | 35.00% | ~113 |
 | Anyone can resist | 35.00% | ~113 |
 | The lonesome road | 34.00% | ~110 |
 | Family comes first | 34.00% | ~110 |

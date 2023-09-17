@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224609,
+  "EOS_Progressed": 224620,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1830,
+  "EOS_NewPlayers": 1837,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11163,6 +11163,11 @@
       "Time": "2023-09-17T03:08:34.3041667+00:00",
       "NumProgressed": 224609,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T04:09:25.316532+00:00",
+      "NumProgressed": 224620,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11222,7 +11227,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "Chapter2",
@@ -11318,7 +11323,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "CompanionPriestress",
@@ -11574,7 +11579,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8984
+      "UsersEstimate": 8985
     },
     {
       "ID": "DwarfElf15Support",
@@ -11590,7 +11595,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "DwarfInsultWin",
@@ -11598,7 +11603,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "DwarfLevel2",
@@ -11606,7 +11611,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "ElfEpic",
@@ -11614,7 +11619,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -11622,7 +11627,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67383
+      "UsersEstimate": 67386
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11670,7 +11675,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11230
+      "UsersEstimate": 11231
     },
     {
       "ID": "FollowBraztok",
@@ -11822,7 +11827,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "SupportCount4",
@@ -11877,21 +11882,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224609,
+      "Progressed": 224620,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224609,
+      "Progressed": 224620,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:08:34.304166+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:09:25.3165316+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:58:33.3913526+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:08:34.304334+00:00"
+  "LastUpdate_Ratings": "2023-09-17T03:58:51.5392527+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:09:25.3167055+00:00"
 }

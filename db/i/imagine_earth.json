@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -334,6 +334,11 @@
       "Time": "2023-09-16T23:03:50.5154745+00:00",
       "NumProgressed": 413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T04:04:10.3235446+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -359,9 +364,9 @@
       "ID": "CampaignStars2",
       "SetID": "c2k469b",
       "Name": "Campaign Silver",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "CampaignStars3",
@@ -441,7 +446,7 @@
       "Name": "Bora",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "PlanetEdora",
@@ -463,9 +468,9 @@
       "ID": "PlanetJoma",
       "SetID": "c2k469b",
       "Name": "Joma",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 178
     },
     {
       "ID": "PlanetLorian",
@@ -536,7 +541,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 0
     }
   ],
@@ -544,8 +549,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:03:39.7632547+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:04:10.3235442+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.259769+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:59:25.1826919+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:03:39.7632748+00:00"
+  "LastUpdate_Ratings": "2023-09-17T03:59:50.5482286+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:04:10.323565+00:00"
 }

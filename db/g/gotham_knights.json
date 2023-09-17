@@ -2898,10 +2898,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4468,
       "NumberOfAwardsMax": 2698
+    },
+    {
+      "Time": "2023-09-17T04:00:27.3456315+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4471,
+      "NumberOfAwardsMax": 2698
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4468,
+  "NumberOfAwards": 4471,
   "NumberOfAwardsMax": 2698,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2915,7 +2921,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 224
+      "Count": 227
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2966,9 +2972,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72598,
+  "EOS_Progressed": 72601,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15716,6 +15722,11 @@
       "Time": "2023-09-17T03:03:33.9632892+00:00",
       "NumProgressed": 72598,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-17T04:03:53.1494413+00:00",
+      "NumProgressed": 72601,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15951,7 +15962,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21053
+      "UsersEstimate": 21054
     },
     {
       "ID": "FREEZE_1_5",
@@ -16031,7 +16042,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25409
+      "UsersEstimate": 25410
     },
     {
       "ID": "HARLEY_2",
@@ -16071,7 +16082,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37751
+      "UsersEstimate": 37753
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16103,7 +16114,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20327
+      "UsersEstimate": 20328
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16119,7 +16130,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24683
+      "UsersEstimate": 24684
     },
     {
       "ID": "MYSTERY_02",
@@ -16214,22 +16225,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72598,
+      "Progressed": 72601,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42878,
+      "Progressed": 42881,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-16T21:01:14.4065309+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:03:33.9632887+00:00",
+  "LastChanged": "2023-09-17T04:00:27.3456312+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:03:53.1494405+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:59:54.1640099+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:03:33.963427+00:00"
+  "LastUpdate_Ratings": "2023-09-17T04:00:27.3456319+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:03:53.1495631+00:00"
 }

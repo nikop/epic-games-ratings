@@ -3820,9 +3820,9 @@
       "Count": 286
     }
   ],
-  "EOS_Progressed": 243983,
+  "EOS_Progressed": 243985,
   "EOS_Completed": 830,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -20055,6 +20055,11 @@
       "Time": "2023-09-17T03:07:43.2752187+00:00",
       "NumProgressed": 243983,
       "NumCompleted": 830
+    },
+    {
+      "Time": "2023-09-17T04:08:37.5386747+00:00",
+      "NumProgressed": 243985,
+      "NumCompleted": 830
     }
   ],
   "TotalAchievements": 39,
@@ -20098,7 +20103,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 65875
+      "UsersEstimate": 65876
     },
     {
       "ID": "AchievementBigFootID",
@@ -20114,7 +20119,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73195
+      "UsersEstimate": 73196
     },
     {
       "ID": "AchievementBoulderID",
@@ -20130,7 +20135,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222025
+      "UsersEstimate": 222026
     },
     {
       "ID": "AchievementClownID",
@@ -20154,7 +20159,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 68315
+      "UsersEstimate": 68316
     },
     {
       "ID": "AchievementEggID",
@@ -20178,7 +20183,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80514
+      "UsersEstimate": 80515
     },
     {
       "ID": "AchievementGoatID",
@@ -20194,7 +20199,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129311
+      "UsersEstimate": 129312
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -20210,7 +20215,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 36597
+      "UsersEstimate": 36598
     },
     {
       "ID": "AchievementInstinctID",
@@ -20226,7 +20231,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 109792
+      "UsersEstimate": 109793
     },
     {
       "ID": "AchievementIntroID",
@@ -20234,7 +20239,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 139070
+      "UsersEstimate": 139071
     },
     {
       "ID": "AchievementLootBoxID",
@@ -20298,7 +20303,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180547
+      "UsersEstimate": 180549
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -20338,7 +20343,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134191
+      "UsersEstimate": 134192
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -20346,7 +20351,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 114672
+      "UsersEstimate": 114673
     },
     {
       "ID": "AchievementTrinketID",
@@ -20362,7 +20367,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158589
+      "UsersEstimate": 158590
     },
     {
       "ID": "AchievementWhaleID",
@@ -20370,14 +20375,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 65875
+      "UsersEstimate": 65876
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 243983,
+      "Progressed": 243985,
       "Completed": 830
     }
   ],
@@ -20385,8 +20390,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-16T23:01:48.0449175+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:07:43.2752182+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:08:37.5386743+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.6695951+00:00",
-  "LastUpdate_Ratings": "2023-09-17T03:01:13.0363899+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:07:43.2753484+00:00"
+  "LastUpdate_Ratings": "2023-09-17T04:01:54.3058282+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:08:37.5388013+00:00"
 }

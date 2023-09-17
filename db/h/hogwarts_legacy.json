@@ -7636,10 +7636,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43498,
       "NumberOfAwardsMax": 22752
+    },
+    {
+      "Time": "2023-09-17T03:57:15.3802712+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43507,
+      "NumberOfAwardsMax": 22752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43498,
+  "NumberOfAwards": 43507,
   "NumberOfAwardsMax": 22752,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7701,7 +7707,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1029
+      "Count": 1038
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7716,9 +7722,9 @@
       "Count": 650
     }
   ],
-  "EOS_Progressed": 296776,
+  "EOS_Progressed": 296783,
   "EOS_Completed": 472,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23926,6 +23932,11 @@
       "Time": "2023-09-17T03:04:21.3340909+00:00",
       "NumProgressed": 296776,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-09-17T04:04:49.2042799+00:00",
+      "NumProgressed": 296783,
+      "NumCompleted": 472
     }
   ],
   "TotalAchievements": 45,
@@ -23937,7 +23948,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41549
+      "UsersEstimate": 41550
     },
     {
       "ID": "PFA_10",
@@ -23985,7 +23996,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20774
+      "UsersEstimate": 20775
     },
     {
       "ID": "PFA_16",
@@ -24001,7 +24012,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20774
+      "UsersEstimate": 20775
     },
     {
       "ID": "PFA_18",
@@ -24009,7 +24020,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23742
+      "UsersEstimate": 23743
     },
     {
       "ID": "PFA_19",
@@ -24017,7 +24028,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20774
+      "UsersEstimate": 20775
     },
     {
       "ID": "PFA_2",
@@ -24057,7 +24068,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35613
+      "UsersEstimate": 35614
     },
     {
       "ID": "PFA_24",
@@ -24121,7 +24132,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32645
+      "UsersEstimate": 32646
     },
     {
       "ID": "PFA_31",
@@ -24241,7 +24252,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23742
+      "UsersEstimate": 23743
     },
     {
       "ID": "PFA_45",
@@ -24265,7 +24276,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38581
+      "UsersEstimate": 38582
     },
     {
       "ID": "PFA_7",
@@ -24273,7 +24284,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38581
+      "UsersEstimate": 38582
     },
     {
       "ID": "PFA_8",
@@ -24281,7 +24292,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32645
+      "UsersEstimate": 32646
     },
     {
       "ID": "PFA_9",
@@ -24296,16 +24307,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296776,
+      "Progressed": 296783,
       "Completed": 472
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-17T01:41:11.4124815+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:04:21.3340905+00:00",
+  "LastChanged": "2023-09-17T03:57:15.3802709+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:04:49.2042795+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:57:17.0821346+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:04:21.3342292+00:00"
+  "LastUpdate_Ratings": "2023-09-17T03:57:15.3802717+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:04:49.2044181+00:00"
 }

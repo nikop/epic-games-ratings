@@ -12,11 +12,11 @@ Number of Ratings: 20  (23.09.2022)
 | Insomnia | 45.00% | ~145 |
 | From Whence we Came | 41.00% | ~132 |
 | Lost & Found & Lost Again | 40.00% | ~129 |
-| Fire and Flood | 38.00% | ~122 |
-| Spooky! | 35.00% | ~113 |
-| Shennong Herbalist | 33.00% | ~106 |
-| Treasure Hunt | 32.00% | ~103 |
-| Good Mama | 31.00% | ~100 |
+| Fire and Flood | 39.00% | ~126 |
+| Spooky! | 36.00% | ~116 |
+| Shennong Herbalist | 34.00% | ~109 |
+| Treasure Hunt | 33.00% | ~106 |
+| Good Mama | 32.00% | ~103 |
 | O Captain My Captain | 30.00% | ~97 |
 | Taxonomist | 27.00% | ~87 |
 | Plunderer | 27.00% | ~87 |
@@ -27,10 +27,10 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 20.00% | ~64 |
 | Red Flag Pirate | 19.00% | ~61 |
 | Iron Man | 17.00% | ~55 |
+| For the Club! | 16.00% | ~52 |
 | Shortening of the Way | 16.00% | ~52 |
 | A Gentle Beast | 16.00% | ~52 |
 | Practical Palaeontology | 16.00% | ~52 |
-| For the Club! | 15.00% | ~48 |
 | Dapper | 15.00% | ~48 |
 | The New Director | 14.00% | ~45 |
 | The Director is Dead | 14.00% | ~45 |

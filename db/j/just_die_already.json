@@ -3,12 +3,12 @@
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 335,
+  "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
     "PcReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -1485,10 +1485,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 819,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-09-17T03:59:00.7092704+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 821,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 819,
+  "NumberOfAwards": 821,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1550,7 +1556,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1562,7 +1568,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 76
+      "Count": 77
     }
   ],
   "EOS_Progressed": 0,
@@ -1576,8 +1582,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-09-15T21:58:12.2365141+00:00",
+  "LastChanged": "2023-09-17T03:59:00.7092701+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.7445445+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:58:41.6096098+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:04:19.1833246+00:00"
+  "LastUpdate_Ratings": "2023-09-17T03:59:00.7092708+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:04:46.6615385+00:00"
 }

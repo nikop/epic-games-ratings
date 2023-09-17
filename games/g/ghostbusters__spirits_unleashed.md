@@ -14,10 +14,12 @@ Rating: 4.50 (Ranked 565)
 | I collect Spores, Molds, and Fungi | 0.20% | ~52 |
 | Discovery | 0.20% | ~52 |
 | Fully Upgraded | 0.20% | ~52 |
+| Right back at ya | 0.20% | ~52 |
 | Solo Capture | 0.20% | ~52 |
 | Summoner | 0.20% | ~52 |
 | Swift Rift Removers | 0.20% | ~52 |
 | Teamwork | 0.20% | ~52 |
+| Terrifying | 0.20% | ~52 |
 | There you are! | 0.20% | ~52 |
 | Vaporous Expansion | 0.20% | ~52 |
 | Welcome to the Crew | 0.20% | ~52 |
@@ -44,20 +46,18 @@ Rating: 4.50 (Ranked 565)
 | Reckless | 0.10% | ~26 |
 | Rift Destroyer | 0.10% | ~26 |
 | Rift Seeker | 0.10% | ~26 |
-| Right back at ya | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
 | Seasoned | 0.10% | ~26 |
 | Side Hustle | 0.10% | ~26 |
 | Skilled | 0.10% | ~26 |
 | Stunner | 0.10% | ~26 |
 | Surprise! | 0.10% | ~26 |
-| Terrifying | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 | Mycophile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,853 (Ranked 106)  
+Progressed: 25,855 (Ranked 106)  
 Completed: 56 (0.22%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,17 +207,17 @@ Completed: 56 (0.22%) (Ranked 195)
 | 2023-09-14 | 25,800 | 56 |
 | 2023-09-15 | 25,818 | 56 |
 | 2023-09-16 | 25,847 | 56 |
-| 2023-09-17 | 25,853 | 56 |
+| 2023-09-17 | 25,855 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
-Sum: 2,314 (Ranked 188)  
+Sum: 2,315 (Ranked 188)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 254 |
 | This game is Great for Beginners | 253 |
 | This game has Competitive Players | 236 |
-| This game has Amazing Storytelling | 233 |
+| This game has Amazing Storytelling | 234 |
 | This game has Diverse Characters | 230 |
 | This game is Extremely Fun | 228 |
 | This game is Highly Recommended | 226 |
@@ -389,3 +389,4 @@ Diff (max vs sum): 66
 | 2023-09-13 | 4.50 | 254 | 2,308 |
 | 2023-09-14 | 4.50 | 254 | 2,310 |
 | 2023-09-16 | 4.50 | 254 | 2,314 |
+| 2023-09-17 | 4.50 | 254 | 2,315 |

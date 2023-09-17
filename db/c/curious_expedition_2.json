@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "ach-find-treasure",
@@ -499,9 +499,9 @@
       "ID": "ach-joinClubChallenge",
       "SetID": "17ih7ma",
       "Name": "For the Club!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-keepHighStanding",
@@ -539,9 +539,9 @@
       "ID": "ach-learn-traits",
       "SetID": "17ih7ma",
       "Name": "Shennong Herbalist",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -579,9 +579,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "ach-noEquipment",
@@ -643,9 +643,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "ach-redElk",
@@ -699,9 +699,9 @@
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -740,8 +740,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:03:37.8439774+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:04:07.8585157+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:10.3104595+00:00",
-  "LastUpdate_Ratings": "2023-09-17T03:00:53.3374734+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:03:37.8440322+00:00"
+  "LastUpdate_Ratings": "2023-09-17T04:01:27.2598612+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:04:07.8585742+00:00"
 }

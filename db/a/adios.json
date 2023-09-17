@@ -6,7 +6,7 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
@@ -108,7 +108,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73440,
+  "EOS_Progressed": 73442,
   "EOS_Completed": 760,
   "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 8,
@@ -16743,6 +16743,11 @@
       "Time": "2023-09-17T03:06:06.5555642+00:00",
       "NumProgressed": 73440,
       "NumCompleted": 760
+    },
+    {
+      "Time": "2023-09-17T04:06:41.5175685+00:00",
+      "NumProgressed": 73442,
+      "NumCompleted": 760
     }
   ],
   "TotalAchievements": 25,
@@ -16770,7 +16775,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13219
+      "UsersEstimate": 13220
     },
     {
       "ID": "Audiophile",
@@ -16794,7 +16799,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13219
+      "UsersEstimate": 13220
     },
     {
       "ID": "Butcher",
@@ -16810,7 +16815,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4406
+      "UsersEstimate": 4407
     },
     {
       "ID": "Fair\u0027sFair",
@@ -16882,7 +16887,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11750
+      "UsersEstimate": 11751
     },
     {
       "ID": "Nothing Left to Say",
@@ -16953,7 +16958,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73440,
+      "Progressed": 73442,
       "Completed": 760
     }
   ],
@@ -16961,8 +16966,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-17T03:06:06.5555638+00:00",
+  "LastChanged_Achievements": "2023-09-17T04:06:41.5175682+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-17T03:01:27.8140101+00:00",
-  "LastUpdate_Achievements": "2023-09-17T03:06:06.5556856+00:00"
+  "LastUpdate_Ratings": "2023-09-17T04:02:12.152917+00:00",
+  "LastUpdate_Achievements": "2023-09-17T04:06:41.5176874+00:00"
 }

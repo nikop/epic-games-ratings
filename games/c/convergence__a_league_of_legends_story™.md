@@ -11,15 +11,15 @@ Rating: 4.60 (Ranked 395)
 | Make Up For Lost Time | 20.00% | ~174 |
 | The Prince in Heels | 20.00% | ~174 |
 | Immaculate Aim | 20.00% | ~174 |
-| The Brass Boss | 20.00% | ~174 |
-| The Steel Shadow | 19.00% | ~165 |
-| Time Flies | 19.00% | ~165 |
-| The Harder They Fall | 19.00% | ~165 |
-| No, Thanks! | 19.00% | ~165 |
-| Breaking Down Barriers | 19.00% | ~165 |
-| Honest Mistake | 19.00% | ~165 |
-| Fast Learner | 19.00% | ~165 |
-| Immaculate Aim | 19.00% | ~165 |
+| The Steel Shadow | 19.00% | ~166 |
+| Time Flies | 19.00% | ~166 |
+| The Harder They Fall | 19.00% | ~166 |
+| No, Thanks! | 19.00% | ~166 |
+| Breaking Down Barriers | 19.00% | ~166 |
+| Honest Mistake | 19.00% | ~166 |
+| Fast Learner | 19.00% | ~166 |
+| Immaculate Aim | 19.00% | ~166 |
+| The Brass Boss | 19.00% | ~166 |
 | The Wicked Twins | 18.00% | ~157 |
 | Golem Chaser | 18.00% | ~157 |
 | Like Clockwork | 17.00% | ~148 |
@@ -27,11 +27,11 @@ Rating: 4.60 (Ranked 395)
 | The Loose Cannon | 17.00% | ~148 |
 | Check Your Pulse | 17.00% | ~148 |
 | The Family Fortune | 17.00% | ~148 |
-| Right On Time | 16.00% | ~139 |
-| The Man Who Shattered Time | 16.00% | ~139 |
+| Right On Time | 16.00% | ~140 |
+| The Man Who Shattered Time | 16.00% | ~140 |
 | Street Style | 15.00% | ~131 |
+| Cartographer | 15.00% | ~131 |
 | Treasure Trove | 14.00% | ~122 |
-| Cartographer | 14.00% | ~122 |
 | Whiz Kid | 13.00% | ~113 |
 | Good Neighbor | 12.00% | ~105 |
 | Chaincrawler Explorer | 11.00% | ~96 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871 (Ranked 219)  
+Progressed: 872 (Ranked 219)  
 Completed: 5 (0.57%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 5 (0.57%) (Ranked 149)
 | 2023-09-14 | 866 | 5 |
 | 2023-09-15 | 868 | 5 |
 | 2023-09-16 | 870 | 5 |
-| 2023-09-17 | 871 | 5 |
+| 2023-09-17 | 872 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

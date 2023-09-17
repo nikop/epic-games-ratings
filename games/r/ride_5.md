@@ -16,8 +16,8 @@
 | I Want One Too! | 17.00% | ~152 |
 | Quick Pit Stop | 17.00% | ~152 |
 | Champagne Spray | 17.00% | ~152 |
+| Go-Faster Stripes | 15.00% | ~134 |
 | Legendary!!! | 15.00% | ~134 |
-| Go-Faster Stripes | 14.00% | ~125 |
 | We've Just Begun | 8.00% | ~71 |
 | Stamina Star | 7.00% | ~62 |
 | Is It the Right Size? | 6.00% | ~54 |

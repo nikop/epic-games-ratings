@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 14.00% | ~568 |
+| Feeling the beat! | 14.00% | ~569 |
 | Start with a bang! | 13.00% | ~528 |
 | You can pet the cat! | 12.00% | ~487 |
 | Cream of the Crop | 11.00% | ~447 |
@@ -21,9 +21,9 @@ Rating: 4.87 (Ranked 25)
 | Kissing the sky! | 8.00% | ~325 |
 | I look cool. But I can look COOLER. | 8.00% | ~325 |
 | The Negotiator | 7.00% | ~284 |
+| Headliner | 7.00% | ~284 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~284 |
 | Out in a puff of smoke | 7.00% | ~284 |
-| Headliner | 6.00% | ~244 |
 | Time to pay up! | 6.00% | ~244 |
 | Who's the boss now? | 6.00% | ~244 |
 | You must like calling me in, Chai | 6.00% | ~244 |
@@ -42,11 +42,11 @@ Rating: 4.87 (Ranked 25)
 | Call me Turbo Chai | 2.00% | ~52 |
 | I think I deserve some praise, here! | 1.00% | ~41 |
 | I think I found your calling, Macaron | 1.00% | ~41 |
+| This is a breeze! | 1.00% | ~41 |
 | We're Jammin' | 1.00% | ~41 |
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
 | I hit things with a guitar really well. | 1.00% | ~41 |
-| This is a breeze! | 0.90% | ~37 |
 | You ever parry a volcano? | 0.70% | ~28 |
 | New bad guys? No problem! | 0.70% | ~18 |
 | OK, well THEY came after ME! | 0.60% | ~24 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,060 (Ranked 158)  
+Progressed: 4,061 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-14 | 4,038 | 7 |
 | 2023-09-15 | 4,051 | 7 |
 | 2023-09-16 | 4,059 | 7 |
-| 2023-09-17 | 4,060 | 7 |
+| 2023-09-17 | 4,061 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
