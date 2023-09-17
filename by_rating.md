@@ -125,7 +125,7 @@
 | 117 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 519 |
 | 117 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 519 |
 | 117 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 519 |
-| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,712 | 118 |
+| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,713 | 118 |
 | 117 | [Quake](games/q/quake.md) | 4.76 | 49 | 409 |
 | 117 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,620 | 120 |
 | 117 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 519 |
@@ -217,7 +217,7 @@
 | 202 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,543 | 74 |
 | 202 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 519 |
 | 217 | [Black Book](games/b/black_book.md) | 4.69 | 53 | 398 |
-| 217 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 116,665 | 8 |
+| 217 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 116,776 | 8 |
 | 217 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 519 |
 | 217 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 519 |
 | 217 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,141 | 56 |
@@ -377,7 +377,7 @@
 | 368 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 44,908 | 12 |
 | 368 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 28 | 469 |
 | 368 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 38 | 434 |
-| 368 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,194 | 136 |
+| 368 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,196 | 136 |
 | 368 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.61 | 0 | 519 |
 | 368 | [MudRunner](games/m/mudrunner.md) | 4.61 | 260 | 253 |
 | 368 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 519 |
@@ -551,7 +551,7 @@
 | 534 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 519 |
 | 550 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 105 | 334 |
 | 550 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 794 | 160 |
-| 550 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,124 | 80 |
+| 550 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,126 | 80 |
 | 550 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 519 |
 | 550 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 148,429 | 7 |
 | 550 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 110 | 330 |
@@ -598,7 +598,7 @@
 | 583 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 544,121 | 2 |
 | 583 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
 | 583 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 519 |
-| 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,575 | 99 |
+| 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,590 | 99 |
 | 583 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 519 |
 | 583 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 519 |
 | 583 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 37 | 437 |
@@ -740,23 +740,23 @@
 | 730 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 0 | 519 |
 | 730 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 519 |
 | 730 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 519 |
+| 741 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 519 |
 | 741 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 519 |
 | 741 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
 | 741 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 519 |
 | 741 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 52 | 402 |
 | 741 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 519 |
 | 741 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 458 |
-| 747 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 519 |
-| 747 | [Core](games/c/core.md) | 4.36 | 749 | 163 |
-| 747 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 287 |
-| 747 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.36 | 0 | 519 |
-| 747 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,681 | 29 |
-| 747 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 519 |
-| 747 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.36 | 20 | 514 |
-| 747 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 482 |
-| 747 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 519 |
-| 747 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 119 | 323 |
-| 747 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 46 | 414 |
+| 748 | [Core](games/c/core.md) | 4.36 | 749 | 163 |
+| 748 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 287 |
+| 748 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.36 | 0 | 519 |
+| 748 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,681 | 29 |
+| 748 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 519 |
+| 748 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.36 | 20 | 514 |
+| 748 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 482 |
+| 748 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 519 |
+| 748 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 119 | 323 |
+| 748 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 46 | 414 |
 | 758 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 519 |
 | 758 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 519 |
 | 758 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 519 |
