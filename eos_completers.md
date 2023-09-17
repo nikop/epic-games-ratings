@@ -77,9 +77,9 @@
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
-| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.77% |
-| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
-| 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
+| 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.73% |
 | 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
 | 82 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.60% |
 | 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
@@ -106,7 +106,7 @@
 | 104 | [Somerville](games/s/somerville.md) | 1.71% |
 | 105 | [Five Dates](games/f/five_dates.md) | 1.66% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.55% |
-| 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.53% |
+| 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.52% |
 | 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.51% |
 | 109 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.50% |
 | 110 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -116,7 +116,7 @@
 | 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.35% |
 | 115 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
 | 116 | [Chorus](games/c/chorus.md) | 1.27% |
-| 116 | [Eternights](games/e/eternights.md) | 1.27% |
+| 117 | [Eternights](games/e/eternights.md) | 1.26% |
 | 118 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 119 | [Infindustry](games/i/infindustry.md) | 1.20% |
 | 120 | [Trifox](games/t/trifox.md) | 1.10% |
