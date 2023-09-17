@@ -3,12 +3,12 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 395,
-  "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 517,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 872,
+  "EOS_Progressed": 873,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2180,6 +2180,11 @@
       "Time": "2023-09-17T04:08:41.0899748+00:00",
       "NumProgressed": 872,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T14:12:29.0437402+00:00",
+      "NumProgressed": 873,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2295,7 +2300,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "FairgroundsChests1",
@@ -2303,7 +2308,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2383,7 +2388,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "MapCompletion1",
@@ -2471,7 +2476,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "RewindDamage1",
@@ -2535,7 +2540,7 @@
       "Name": "Sump Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "SyronGift",
@@ -2567,7 +2572,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "WarwickDefeated",
@@ -2597,9 +2602,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 175
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2614,7 +2619,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 872,
+      "Progressed": 873,
       "Completed": 5
     }
   ],
@@ -2622,8 +2627,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-17T13:18:09.2744217+00:00",
+  "LastChanged_Achievements": "2023-09-17T14:12:29.0437395+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-17T13:07:05.9473612+00:00",
-  "LastUpdate_Achievements": "2023-09-17T13:18:09.2744848+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:04:18.2757007+00:00",
+  "LastUpdate_Achievements": "2023-09-17T14:12:29.0438099+00:00"
 }

@@ -12,6 +12,7 @@ Rating: 4.19 (Ranked 873)
 | Chew 'Em Up | 4.00% | ~638 |
 | Float Like A Butterfly | 4.00% | ~638 |
 | Reforged | 4.00% | ~638 |
+| In the Pipe, Five by Five | 4.00% | ~638 |
 | Full Circle | 4.00% | ~638 |
 | Keep Fighting | 4.00% | ~155 |
 | Giving Back | 3.00% | ~478 |
@@ -22,7 +23,6 @@ Rating: 4.19 (Ranked 873)
 | The Outer Way | 3.00% | ~478 |
 | If the SHU Fits... | 3.00% | ~478 |
 | Without A Paddle | 3.00% | ~478 |
-| In the Pipe, Five by Five | 3.00% | ~478 |
 | What Lies Beneath | 3.00% | ~478 |
 | Desperate Times | 3.00% | ~478 |
 | Crash Site | 3.00% | ~478 |

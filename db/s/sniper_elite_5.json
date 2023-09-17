@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 625,
-  "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 517,
+  "Ranking_Rating": 626,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3626,
+  "EOS_Progressed": 3628,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6714,6 +6714,11 @@
       "Time": "2023-09-17T11:08:33.5757987+00:00",
       "NumProgressed": 3626,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-17T14:09:58.5671309+00:00",
+      "NumProgressed": 3628,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6749,7 +6754,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6757,7 +6762,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6781,7 +6786,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6805,7 +6810,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6845,7 +6850,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6861,7 +6866,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6885,7 +6890,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6893,7 +6898,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6917,7 +6922,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6973,7 +6978,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7093,7 +7098,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7133,7 +7138,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7292,13 +7297,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3577,
+      "Progressed": 3579,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3626,
+      "Progressed": 3628,
       "Completed": 10
     }
   ],
@@ -7306,8 +7311,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-17T13:15:27.9801618+00:00",
+  "LastChanged_Achievements": "2023-09-17T14:09:58.56713+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-17T13:11:24.4819418+00:00",
-  "LastUpdate_Achievements": "2023-09-17T13:15:27.9802735+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:06:46.2543708+00:00",
+  "LastUpdate_Achievements": "2023-09-17T14:09:58.567242+00:00"
 }

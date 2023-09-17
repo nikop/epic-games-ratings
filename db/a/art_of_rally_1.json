@@ -3,12 +3,12 @@
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 32,
-  "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 517,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10237,
+  "EOS_Progressed": 10238,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1476,6 +1476,11 @@
       "Time": "2023-09-17T06:07:49.2712818+00:00",
       "NumProgressed": 10237,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-17T14:11:15.5203166+00:00",
+      "NumProgressed": 10238,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1607,7 +1612,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1647,7 +1652,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7882
+      "UsersEstimate": 7883
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1671,7 +1676,7 @@
       "Name": "comfy seats",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_FOG",
@@ -1679,7 +1684,7 @@
       "Name": "where is the stage?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1695,7 +1700,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5835
+      "UsersEstimate": 5836
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1727,7 +1732,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6142
+      "UsersEstimate": 6143
     },
     {
       "ID": "ACH_NIGHT",
@@ -1830,15 +1835,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10237,
+      "Progressed": 10238,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-17T13:16:35.7940054+00:00",
+  "LastChanged_Achievements": "2023-09-17T14:11:15.5203158+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.9885415+00:00",
-  "LastUpdate_Ratings": "2023-09-17T13:00:48.0472312+00:00",
-  "LastUpdate_Achievements": "2023-09-17T13:16:35.7940499+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:59:23.9826959+00:00",
+  "LastUpdate_Achievements": "2023-09-17T14:11:15.5203573+00:00"
 }

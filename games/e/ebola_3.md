@@ -23,11 +23,11 @@
 | City ✔ | 6.00% | ~16 |
 | Food ✔ | 6.00% | ~16 |
 | Fraternal help ✔ | 6.00% | ~16 |
+| King of survival ✔ | 6.00% | ~16 |
 | Boss 1 ✔ | 5.00% | ~13 |
 | Brain ✔ | 5.00% | ~13 |
 | Eva ✔ | 5.00% | ~13 |
 | Mutant fight ✔ | 5.00% | ~13 |
-| King of survival ✔ | 5.00% | ~13 |
 | All secrets revealed ✔ | 5.00% | ~13 |
 | Broadcasting ✔ | 5.00% | ~13 |
 | Group Alpha ✔ | 4.00% | ~11 |
@@ -41,13 +41,13 @@
 | Secret ✔ | 3.00% | ~8 |
 | Boss 2 ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
+| Rank B+ ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |
 | Seeker One ✔ | 2.00% | ~5 |
 | Seeker Three ✔ | 2.00% | ~5 |
 | Crocodile Escape ✔ | 2.00% | ~5 |
 | The escape ✔ | 2.00% | ~5 |
-| Rank B+ ✔ | 2.00% | ~5 |
 | VIP ✔ | 2.00% | ~5 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Hardcore ✔ | 0.80% | ~2 |

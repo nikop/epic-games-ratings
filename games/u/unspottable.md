@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Catch me if you can | 100.00% | ~4 |
+| Under the spotlights | 75.00% | ~3 |
 | Out of my area | 50.00% | ~2 |
 | Robot cleaner | 50.00% | ~2 |
-| Under the spotlights | 50.00% | ~2 |
 | Big Win | 25.00% | ~1 |
 | Ha-Ha! | 25.00% | ~1 |
 | Mission Impossible | 25.00% | ~1 |

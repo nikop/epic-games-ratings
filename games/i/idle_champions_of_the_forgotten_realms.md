@@ -9,22 +9,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,583 |
 | Beast Intentions | 0.70% | ~1,604 |
 | The Cursed Farmer | 0.70% | ~1,604 |
+| The Ring of Regeneration | 0.50% | ~1,146 |
 | The Mad Wizard | 0.50% | ~1,146 |
-| The Ring of Regeneration | 0.40% | ~917 |
 | Seeking Allies | 0.40% | ~917 |
 | Are Ya Chicken? | 0.40% | ~917 |
-| Maddening | 0.30% | ~687 |
-| Were-verpowered | 0.30% | ~687 |
-| A Persistent Buzzing | 0.30% | ~687 |
-| Terror in the Dark | 0.30% | ~687 |
-| A Mysterious Summons | 0.30% | ~687 |
-| Building Trust | 0.30% | ~687 |
-| Unearthed Evil | 0.30% | ~687 |
-| The Crumbling Temple | 0.30% | ~687 |
-| Mad Cow Disease | 0.30% | ~687 |
-| Exploring Port Nyanzaru | 0.30% | ~687 |
-| Friendly Imps | 0.30% | ~687 |
-| Pure Energy | 0.30% | ~687 |
+| Maddening | 0.30% | ~688 |
+| Were-verpowered | 0.30% | ~688 |
+| A Persistent Buzzing | 0.30% | ~688 |
+| Terror in the Dark | 0.30% | ~688 |
+| A Mysterious Summons | 0.30% | ~688 |
+| Building Trust | 0.30% | ~688 |
+| Unearthed Evil | 0.30% | ~688 |
+| The Crumbling Temple | 0.30% | ~688 |
+| Mad Cow Disease | 0.30% | ~688 |
+| Exploring Port Nyanzaru | 0.30% | ~688 |
+| Friendly Imps | 0.30% | ~688 |
+| Pure Energy | 0.30% | ~688 |
 | Legends and Lore | 0.30% | ~586 |
 | Pros and CONs | 0.20% | ~458 |
 | Tall Tales | 0.20% | ~391 |
@@ -70,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~458 |
 | Excavating History | 0.20% | ~458 |
 | Premature Betrayal | 0.20% | ~458 |
+| Towering Expectations | 0.20% | ~458 |
 | A Tale of Two Cities | 0.20% | ~458 |
 | The Dead Three | 0.20% | ~458 |
 | Flying Monkey Skulls of Doom | 0.20% | ~458 |
@@ -77,6 +78,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~458 |
 | The Contagious Curse | 0.20% | ~458 |
 | Dinosaur Racing | 0.20% | ~458 |
+| Elturel Has Fallen | 0.20% | ~458 |
 | Escort to Waterdeep | 0.20% | ~458 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
 | The Everlasting Rime | 0.20% | ~391 |
@@ -282,7 +284,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Screams of the Dead | 0.10% | ~229 |
 | Frantic Excavation | 0.10% | ~229 |
 | Birds of a Feather | 0.10% | ~195 |
-| Towering Expectations | 0.10% | ~229 |
 | Guests of the Groom | 0.10% | ~229 |
 | Careful Consideration | 0.10% | ~229 |
 | Tanking Expectations | 0.10% | ~195 |
@@ -347,7 +348,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~229 |
 | The Nimble Grove | 0.10% | ~229 |
 | The Misty Grove | 0.10% | ~195 |
-| Elturel Has Fallen | 0.10% | ~229 |
 | Everything is Awful | 0.10% | ~229 |
 | Earthquake! | 0.10% | ~195 |
 | Hailstorm! | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,163 (Ranked 57)  
+Progressed: 229,167 (Ranked 57)  
 Completed: 2,290 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,7 +677,7 @@ Completed: 2,290 (1.00%) (Ranked 124)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,163 | 2,290 |
+| 2023-09-17 | 229,167 | 2,290 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,619 (Ranked 39)  

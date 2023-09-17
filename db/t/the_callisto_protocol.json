@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1180,7 +1180,7 @@
   ],
   "EOS_Progressed": 15946,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7223,9 +7223,9 @@
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 638
     },
     {
       "ID": "STORY_MINETOWN",
@@ -7398,8 +7398,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-16T21:58:52.2520124+00:00",
-  "LastChanged_Achievements": "2023-09-17T13:15:48.3762026+00:00",
+  "LastChanged_Achievements": "2023-09-17T14:10:18.4508646+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.1512746+00:00",
-  "LastUpdate_Ratings": "2023-09-17T13:02:15.0617529+00:00",
-  "LastUpdate_Achievements": "2023-09-17T13:15:48.3762826+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:01:08.4064506+00:00",
+  "LastUpdate_Achievements": "2023-09-17T14:10:18.450943+00:00"
 }

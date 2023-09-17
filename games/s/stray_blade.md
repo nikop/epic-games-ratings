@@ -8,11 +8,11 @@
 | Tinkerer | 69.00% | ~55 |
 | Welcome to the Club | 39.00% | ~31 |
 | Apprentice | 34.00% | ~27 |
-| A new World ahead | 31.00% | ~25 |
-| Don't Cry Wolf | 24.00% | ~19 |
-| Can't touch this | 23.00% | ~18 |
+| A new World ahead | 33.00% | ~26 |
+| Don't Cry Wolf | 25.00% | ~20 |
+| Can't touch this | 24.00% | ~19 |
 | Freezing Cold | 16.00% | ~13 |
-| Expert | 14.00% | ~11 |
+| Expert | 15.00% | ~12 |
 | The Power of the Mountains | 14.00% | ~11 |
 | Searing Heat | 13.00% | ~10 |
 | Nothing but the Truth | 13.00% | ~10 |

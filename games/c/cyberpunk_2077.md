@@ -1,41 +1,41 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 348)  
+Rating: 4.62 (Ranked 349)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,946 |
-| Right Back At Ya | 40.00% | ~350,693 |
-| The Lovers | 36.00% | ~315,624 |
-| Stanislavski's Method | 29.00% | ~254,253 |
-| The Wheel of Fortune | 28.00% | ~245,485 |
-| The Hermit | 25.00% | ~219,183 |
-| Christmas Tree Attack | 23.00% | ~201,649 |
-| True Soldier | 23.00% | ~201,649 |
-| The High Priestess | 22.00% | ~192,881 |
-| Legend of The Afterlife | 22.00% | ~192,881 |
-| Life of the Road | 21.00% | ~184,114 |
-| Full Body Conversion | 19.00% | ~166,579 |
-| The World | 19.00% | ~166,579 |
-| Bushido and Chill | 17.00% | ~149,045 |
-| Gun Fu | 16.00% | ~140,277 |
-| True Warrior | 15.00% | ~131,510 |
-| To Protect and Serve | 14.00% | ~122,743 |
-| Master Crafter | 14.00% | ~122,743 |
-| I Am The Law | 14.00% | ~122,743 |
-| Judy vs Night City | 14.00% | ~122,743 |
-| Two Heads, One Bullet | 12.00% | ~105,208 |
-| The Wandering Fool | 10.00% | ~87,673 |
-| The Quick and the Dead | 10.00% | ~87,673 |
-| Ten out of Ten | 9.00% | ~78,906 |
+| The Fool | 69.00% | ~604,953 |
+| Right Back At Ya | 40.00% | ~350,697 |
+| The Lovers | 36.00% | ~315,627 |
+| Stanislavski's Method | 29.00% | ~254,255 |
+| The Wheel of Fortune | 28.00% | ~245,488 |
+| The Hermit | 25.00% | ~219,186 |
+| Christmas Tree Attack | 23.00% | ~201,651 |
+| True Soldier | 23.00% | ~201,651 |
+| The High Priestess | 22.00% | ~192,883 |
+| Legend of The Afterlife | 22.00% | ~192,883 |
+| Life of the Road | 21.00% | ~184,116 |
+| Full Body Conversion | 19.00% | ~166,581 |
+| The World | 19.00% | ~166,581 |
+| Bushido and Chill | 17.00% | ~149,046 |
+| Gun Fu | 16.00% | ~140,279 |
+| True Warrior | 15.00% | ~131,511 |
+| To Protect and Serve | 14.00% | ~122,744 |
+| Master Crafter | 14.00% | ~122,744 |
+| I Am The Law | 14.00% | ~122,744 |
+| Judy vs Night City | 14.00% | ~122,744 |
+| Two Heads, One Bullet | 12.00% | ~105,209 |
+| The Wandering Fool | 10.00% | ~87,674 |
+| The Quick and the Dead | 10.00% | ~87,674 |
+| Ten out of Ten | 9.00% | ~78,907 |
 | Breathtaking | 8.00% | ~70,139 |
-| To Bad Decisions! | 7.00% | ~61,371 |
-| The Star | 7.00% | ~61,371 |
-| The Sun | 7.00% | ~61,371 |
-| Must Be Rats | 4.00% | ~35,069 |
-| Temperance | 4.00% | ~35,069 |
+| To Bad Decisions! | 7.00% | ~61,372 |
+| The Star | 7.00% | ~61,372 |
+| The Sun | 7.00% | ~61,372 |
+| Must Be Rats | 4.00% | ~35,070 |
+| Temperance | 4.00% | ~35,070 |
 | City Lights | 3.00% | ~26,302 |
 | Mean Streets | 3.00% | ~26,302 |
 | Little Tokyo | 3.00% | ~26,302 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,767 |
 | Rough Landing | 0.50% | ~4,384 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,733 (Ranked 15)  
+Progressed: 876,743 (Ranked 15)  
 Completed: 2,105 (0.24%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,14 +201,14 @@ Completed: 2,105 (0.24%) (Ranked 191)
 | 2023-09-14 | 876,177 | 2,086 |
 | 2023-09-15 | 876,353 | 2,090 |
 | 2023-09-16 | 876,594 | 2,104 |
-| 2023-09-17 | 876,733 | 2,105 |
+| 2023-09-17 | 876,743 | 2,105 |
 ## Awards
-Max (Character Customization): 78,791  (Ranked 9)  
-Sum: 211,205 (Ranked 13)  
+Max (Character Customization): 78,934  (Ranked 9)  
+Sum: 211,376 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 78,791 |
+| This game has Inclusive Character Customization | 78,934 |
 | This game has Great Boss Battles | 51,447 |
 | This game is Great for Beginners | 9,624 |
 | This game has Diverse Characters | 9,573 |
@@ -218,7 +218,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 9,260 |
 | This game has Amazing Characters | 9,183 |
 | This game has Quickly Understood Controls | 9,117 |
-| This game has a Creative Community | 5,963 |
+| This game has a Creative Community | 5,991 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -463,4 +463,4 @@ Diff (max vs sum): -4
 | 2023-09-14 | 4.62 | - | 78,551 | 210,154 |
 | 2023-09-15 | 4.62 | - | 78,662 | 210,618 |
 | 2023-09-16 | 4.62 | - | 78,791 | 211,154 |
-| 2023-09-17 | 4.62 | - | 78,791 | 211,205 |
+| 2023-09-17 | 4.62 | - | 78,934 | 211,376 |

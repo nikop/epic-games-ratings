@@ -12,7 +12,7 @@ Number of Ratings: 48  (23.09.2022)
 | Amateur Adventurer | 65.00% | ~448 |
 | The Road to Recovery | 64.00% | ~441 |
 | Partners? | 62.00% | ~427 |
-| Magical Mineral Golem | 55.00% | ~379 |
+| Magical Mineral Golem | 56.00% | ~386 |
 | On Outlander Lane | 55.00% | ~379 |
 | First Time Fishing | 52.00% | ~358 |
 | A Girl About the Town | 51.00% | ~351 |
@@ -58,7 +58,7 @@ Number of Ratings: 48  (23.09.2022)
 | Rising Champion | 7.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 689 (Ranked 229)  
-Completed: 59 (8.56%) (Ranked 33)  
+Completed: 59 (8.56%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

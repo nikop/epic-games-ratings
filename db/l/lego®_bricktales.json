@@ -3,12 +3,12 @@
   "Name": "LEGO\u00AE Bricktales",
   "ProductSlug": "lego-bricktales-7ccf9b",
   "Ranking_Rating": 301,
-  "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 517,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-10-12T15:00:00+00:00",
     "PcReleaseDate": "2022-10-12T15:00:00+00:00",
@@ -76,6 +76,6 @@
   "LastChanged": "2023-07-24T04:59:38.2314326+00:00",
   "LastChanged_Achievements": "2023-09-17T13:18:13.6548258+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.9519718+00:00",
-  "LastUpdate_Ratings": "2023-09-17T13:02:10.9789738+00:00",
+  "LastUpdate_Ratings": "2023-09-17T14:01:03.4401454+00:00",
   "LastUpdate_Achievements": "2023-09-17T13:18:13.6548302+00:00"
 }

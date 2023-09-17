@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -13328,10 +13328,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 462441,
       "NumberOfAwardsMax": 177265
+    },
+    {
+      "Time": "2023-09-17T14:02:15.5804608+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 462641,
+      "NumberOfAwardsMax": 177265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 462441,
+  "NumberOfAwards": 462641,
   "NumberOfAwardsMax": 177265,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -13369,7 +13375,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 17179
+      "Count": 17246
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -13387,7 +13393,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 17782
+      "Count": 17851
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13411,7 +13417,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 16896
+      "Count": 16960
     },
     {
       "Text": "This game has a Creative Community",
@@ -13431,8 +13437,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-17T13:03:21.1681606+00:00",
+  "LastChanged": "2023-09-17T14:02:15.5804606+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.347818+00:00",
-  "LastUpdate_Ratings": "2023-09-17T13:03:21.168162+00:00",
-  "LastUpdate_Achievements": "2023-09-17T13:17:00.1500776+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:02:15.5804613+00:00",
+  "LastUpdate_Achievements": "2023-09-17T14:12:08.9485325+00:00"
 }

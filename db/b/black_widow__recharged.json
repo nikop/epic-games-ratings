@@ -3,12 +3,12 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 858,
-  "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 517,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18111,
+  "EOS_Progressed": 18112,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12392,6 +12392,11 @@
       "Time": "2023-09-17T13:14:21.7593003+00:00",
       "NumProgressed": 18111,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-17T14:08:53.91957+00:00",
+      "NumProgressed": 18112,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12475,7 +12480,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -12514,15 +12519,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18111,
+      "Progressed": 18112,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-17T13:14:21.7592998+00:00",
+  "LastChanged_Achievements": "2023-09-17T14:08:53.9195694+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9412789+00:00",
-  "LastUpdate_Ratings": "2023-09-17T13:10:06.9722732+00:00",
-  "LastUpdate_Achievements": "2023-09-17T13:14:21.7593881+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:05:52.1224263+00:00",
+  "LastUpdate_Achievements": "2023-09-17T14:08:53.9196462+00:00"
 }

@@ -1,27 +1,27 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 625)  
+Rating: 4.46 (Ranked 626)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,668 |
-| Confirming Suspicions | 40.00% | ~1,450 |
-| The Kraken Wakes | 36.00% | ~1,305 |
+| Meeting Resistance | 46.00% | ~1,669 |
+| Confirming Suspicions | 40.00% | ~1,451 |
+| The Kraken Wakes | 36.00% | ~1,306 |
 | It's Starting to Crack | 33.00% | ~1,197 |
 | Change the Channel | 30.00% | ~1,088 |
 | Lord of War | 29.00% | ~1,052 |
-| Taking it back | 28.00% | ~1,015 |
+| Taking it back | 28.00% | ~1,016 |
 | Resourceful | 26.00% | ~943 |
 | Target America | 26.00% | ~943 |
-| The Kraken Sleeps | 24.00% | ~870 |
+| The Kraken Sleeps | 24.00% | ~871 |
 | Liberté | 22.00% | ~798 |
 | Organ Grinder | 22.00% | ~798 |
 | As Quiet as a Mouse | 22.00% | ~798 |
-| Sharpshooter | 21.00% | ~761 |
+| Sharpshooter | 21.00% | ~762 |
 | Explosive Efficiency | 18.00% | ~653 |
-| Just a Flesh Wound | 17.00% | ~616 |
-| Gunslinger | 17.00% | ~616 |
+| Just a Flesh Wound | 17.00% | ~617 |
+| Gunslinger | 17.00% | ~617 |
 | Climbing the Ladder | 16.00% | ~580 |
 | Der Geist | 16.00% | ~580 |
 | Close Quarters | 15.00% | ~544 |
@@ -31,11 +31,11 @@ Rating: 4.46 (Ranked 625)
 | Skirmisher | 14.00% | ~508 |
 | Die Nussknacker Sweet! | 14.00% | ~508 |
 | Snake in the Grass | 14.00% | ~508 |
-| No Stone Unturned | 13.00% | ~471 |
-| Opposing Force | 13.00% | ~471 |
+| No Stone Unturned | 13.00% | ~472 |
+| Opposing Force | 13.00% | ~472 |
 | Set Europe Ablaze | 12.00% | ~435 |
-| Precision Is Key | 9.00% | ~326 |
-| My Little Friend | 9.00% | ~326 |
+| Precision Is Key | 9.00% | ~327 |
+| My Little Friend | 9.00% | ~327 |
 | Rigged to Blow | 8.00% | ~290 |
 | Herr Today, Gone Tomorrow | 6.00% | ~215 |
 | The Long Game | 5.00% | ~181 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 625)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,626 (Ranked 160)  
+Progressed: 3,628 (Ranked 160)  
 Completed: 10 (0.28%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 10 (0.28%) (Ranked 186)
 | 2023-09-14 | 3,612 | 10 |
 | 2023-09-15 | 3,614 | 10 |
 | 2023-09-16 | 3,621 | 10 |
-| 2023-09-17 | 3,626 | 10 |
+| 2023-09-17 | 3,628 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

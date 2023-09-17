@@ -3,9 +3,9 @@
 [View Rawdata](../../db/m/madden_nfl_23.json)  
 Rating: 4.28 (Ranked 814)  
 ## Awards
-Max (Diverse Characters): 24  (Ranked 488)  
+Max (Diverse Characters): 24  (Ranked 489)  
 Sum: 65 (Ranked 446)  
-Diff (max vs sum): 42  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 24 |
