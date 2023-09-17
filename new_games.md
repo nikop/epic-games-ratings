@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Bus Simulator Car Driving](games/b/b78cfb363f3e4ef9992a55da29cfbc70.md) | 2023-09-15 | - |  | - | - |
+| [Bus Simulator Car Driving](games/b/b78cfb363f3e4ef9992a55da29cfbc70.md) | 2023-09-15 | - |  | - | 0 |
 | [Tornado](games/1/16c70af19f5741d183d8a943b5a13100.md) | 2023-09-15 | - |  | - | - |
 | [Inside Soccer](games/6/65e4752cd52f4294aca9f238fb056c22.md) | 2023-09-15 | - |  | - | - |
 | [Spinner Invaders](games/7/76917f4859d54d499bb1660d5347de6c.md) | 2023-09-15 | - |  | - | - |
@@ -13,14 +13,14 @@
 | [Heard of the Story?](games/f/f743b163183e4a37a4d0114ec04bdd52.md) | 2023-09-14 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 21 | - | 0 |
 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 2023-09-14 | 52 (1,000 XP) | 1 | - | - |
-| [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 2023-09-14 | 18 (1,000 XP) | 249,127 | 4.16 | 0 |
-| [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 2023-09-14 | 38 (1,000 XP) | 2,588 | - | 0 |
+| [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 2023-09-14 | 18 (1,000 XP) | 251,927 | 4.16 | 0 |
+| [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 2023-09-14 | 38 (1,000 XP) | 2,607 | - | 0 |
 | [REMEDIUM](games/d/d7b044ca99c248179adbfc8369528279.md) | 2023-09-14 | - |  | - | - |
 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 2023-09-14 | - |  | - | 0 |
 | [CATAIRE](games/b/be657c5da1ad4bb48cb458c8db67b45e.md) | 2023-09-14 | - |  | - | 0 |
 | [Homeseek](games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 2023-09-14 | 54 (1,000 XP) | 0 | - | - |
 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2023-09-14 | - |  | - | - |
-| [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2023-09-14 | 12 (1,000 XP) | 15,261 | - | 0 |
+| [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2023-09-14 | 12 (1,000 XP) | 15,788 | - | 0 |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 2023-09-14 | - |  | 4.62 | 0 |
 | [Vacation Adventures Park Ranger 15](games/e/e40d04b9feb84c97ace80efde624b490.md) | 2023-09-14 | - |  | - | 0 |
 | [Underworld Island](games/d/d05e90a9253049559214ac77fb4699e6.md) | 2023-09-14 | - |  | - | - |
@@ -29,7 +29,7 @@
 | [Batora: Lost Haven](games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 2023-09-12 | 30 (1,000 XP) | 1 | - | - |
 | [CryptoClash](games/d/dc4c4be805e344a4bab504dc2c2a526d.md) | 2023-09-12 | - |  | - | 0 |
 | [Nour: Play with Your Food](games/n/nour__play_with_your_food.md) | 2023-09-12 | - |  | - | 0 |
-| [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-12 | 26 (1,000 XP) | 8 | - | 0 |
+| [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-12 | 26 (1,000 XP) | 9 | - | 0 |
 | [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 2023-09-12 | 24 (1,000 XP) | 25 | - | 0 |
 | [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 160 | - | 0 |
 | [Planeticus](games/a/ab92882712a0448582913b1319f7faf9.md) | 2023-09-12 | - |  | - | - |
@@ -45,11 +45,11 @@
 | [Creatura](games/1/1c0a8b3f4f0b4899ac5a8231dc7f4621.md) | 2023-09-08 | - |  | - | - |
 | [Split](games/3/352f45e3b1c345a6b693997044461f79.md) | 2023-09-08 | - |  | - | - |
 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-09-08 | 50 (1,000 XP) | 106 | - | 0 |
-| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 35 (1,000 XP) | 3,552 | - | 0 |
+| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 35 (1,000 XP) | 3,568 | - | 0 |
 | [Infantry Assault: War 3D FPS](games/f/f10be3dc3e0a432c8d2a8988c5cf00ac.md) | 2023-09-08 | - |  | - | - |
 | [MechDefender](games/f/f02d6ce12fbc4230853a8b067e7e7278.md) | 2023-09-08 | - |  | - | 0 |
 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 2023-09-08 | 24 (1,000 XP) | 1 | - | 0 |
-| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 49,830 | 4.16 | 0 |
+| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 49,913 | 4.16 | 0 |
 | [Baby Storm](games/c/ce637d3eeee844a8b902d93416b1e40e.md) | 2023-09-07 | - |  | - | - |
 | [Lempo](games/l/lempo.md) | 2023-09-07 | - |  | - | 0 |
 | [Superior Relatives](games/5/5b282dbff4c94c9b838466de1064d25d.md) | 2023-09-07 | - |  | - | - |
@@ -68,7 +68,7 @@
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 3 | - | - |
 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 2023-09-04 | 17 (1,000 XP) | 31 | - | 0 |
 | [E30 Drift Car Simulator](games/b/bd23b6492b6c4efeba179ca4710f38b0.md) | 2023-09-03 | - |  | - | - |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 6,015 | - | 0 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 6,024 | - | 0 |
 | [Sniper Hunter Shooter](games/d/d0188c3e62b342afbb71fd62e59b1d5c.md) | 2023-09-01 | - |  | - | - |
 | [Aquarist](games/8/866520e800d74ec5a517e45b48fe63e6.md) | 2023-09-01 | - |  | - | 0 |
 | [Farmer's Father - Save the Innocence](games/0/0cb4c2b3a6814bee82bcea6732949617.md) | 2023-09-01 | - |  | - | - |
@@ -106,7 +106,7 @@
 | [Daymare: 1994 Sandcastle](games/7/7818891da27049d7a8be6869235f7555.md) | 2023-08-30 | - |  | - | 0 |
 | [Mountain Bicycle Rider Simulator](games/f/ffc4f35d54664e6395cf09b1a52d0cb7.md) | 2023-08-30 | - |  | - | 0 |
 | [The Bridge Curse Road to Salvation](games/0/0edc15388101433f8619477c7860311c.md) | 2023-08-30 | 22 (1,000 XP) | 0 | - | - |
-| [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2023-08-29 | 20 (1,000 XP) | 125 | - | 0 |
+| [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2023-08-29 | 20 (1,000 XP) | 126 | - | 0 |
 | [Hellsplit: Workbench](games/2/2d7b536c27ba4a01b7f9e93cf0746378.md) | 2023-08-29 | - |  | - | 0 |
 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 2023-08-29 | 19 (1,000 XP) | 7 | - | 0 |
 | [Truck Simulator Ultimate 3D](games/3/3500a341ef3c45668a25495628714aca.md) | 2023-08-29 | - |  | - | - |
@@ -123,10 +123,10 @@
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 799 | 4.87 | 0 |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | 2023-08-24 | - |  | - | - |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 4 | - | - |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 287,829 | 4.40 | 0 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 287,906 | 4.40 | 0 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [Duel Princess](games/6/6ebe4c6dff6d4d0a9c231fd40480d97f.md) | 2023-08-24 | - |  | - | 0 |
-| [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 896 | - | 0 |
+| [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 899 | - | 0 |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | - |  | - | 0 |
 | [SPRAWL](games/6/646aa9a788d44357b46de3f75335d3d3.md) | 2023-08-23 | - |  | - | 0 |
 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2023-08-23 | 14 (1,000 XP) | 78 | - | 0 |
