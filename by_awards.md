@@ -40,7 +40,7 @@
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,051 | 4.78 | 101 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,122 | 4.58 | 433 |
 | 40 | [Control](games/c/control.md) | 8,506 | 4.60 | 395 |
-| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,181 | 4.89 | 13 |
+| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,193 | 4.89 | 13 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,028 | 4.48 | 602 |
 | 43 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 7,846 | 4.58 | 433 |
 | 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,845 | 4.85 | 42 |
@@ -62,7 +62,7 @@
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,961 | 4.75 | 136 |
 | 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,869 | 4.66 | 280 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,819 | 4.82 | 67 |
-| 63 | [Prey](games/p/prey.md) | 5,691 | 4.62 | 349 |
+| 63 | [Prey](games/p/prey.md) | 5,692 | 4.62 | 349 |
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,567 | 4.85 | 42 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 5,446 | 4.66 | 280 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,405 | 4.32 | 783 |
@@ -171,7 +171,7 @@
 | 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 701 | 4.75 | 136 |
 | 170 | [Subnautica](games/s/subnautica.md) | 697 | 4.85 | 42 |
 | 171 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 691 | 4.74 | 145 |
-| 172 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 688 | 4.61 | 368 |
+| 172 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 689 | 4.61 | 368 |
 | 173 | [Neon Abyss](games/n/neon_abyss.md) | 686 | 4.68 | 242 |
 | 174 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 673 | 4.67 | 259 |
 | 175 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 672 | 4.82 | 67 |
@@ -183,7 +183,7 @@
 | 181 | [Train Valley 2](games/t/train_valley_2.md) | 627 | 4.43 | 664 |
 | 182 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 624 | 4.67 | 259 |
 | 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 618 | 4.24 | 843 |
-| 184 | [Dark Deity](games/d/dark_deity.md) | 615 | 4.16 | 892 |
+| 184 | [Dark Deity](games/d/dark_deity.md) | 615 | 4.16 | 893 |
 | 185 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 611 | 4.63 | 331 |
 | 186 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 607 | 4.73 | 162 |
 | 187 | [Riders Republic](games/r/riders_republic.md) | 603 | 4.75 | 136 |
@@ -196,7 +196,7 @@
 | 194 | [Filament](games/f/filament.md) | 561 | 4.32 | 783 |
 | 195 | [Vampyr](games/v/vampyr.md) | 558 | 4.32 | 783 |
 | 196 | [Godfall Ultimate Edition](games/g/godfall.md) | 543 | 4.08 | 921 |
-| 197 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 531 | 4.52 | 534 |
+| 197 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 532 | 4.52 | 534 |
 | 198 | [Dishonored 2](games/d/dishonored_2.md) | 515 | 4.79 | 88 |
 | 199 | [Terraforming Mars](games/t/terraforming_mars.md) | 513 | 4.53 | 521 |
 | 200 | [Prison Architect](games/p/prison_architect.md) | 506 | 4.61 | 368 |
@@ -285,7 +285,7 @@
 | 283 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.07 | 929 |
 | 284 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 181 | 4.22 | 856 |
 | 284 | [The Witness](games/t/the_witness.md) | 181 | 4.70 | 202 |
-| 286 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 892 |
+| 286 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 893 |
 | 287 | [Cris Tales](games/c/cris_tales.md) | 173 | 4.36 | 749 |
 | 287 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 814 |
 | 289 | [Mothergunship](games/m/mothergunship.md) | 172 | 4.38 | 729 |
@@ -334,10 +334,10 @@
 | 332 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 108 | 4.45 | 640 |
 | 333 | [Phantom Brigade](games/p/phantom_brigade.md) | 107 | 4.61 | 368 |
 | 334 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 105 | 4.51 | 548 |
-| 335 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 965 |
-| 335 | [Just Die Already](games/j/just_die_already.md) | 103 | 4.52 | 534 |
-| 335 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 103 | 4.48 | 602 |
-| 338 | [Cave Story+](games/c/cave_story+.md) | 102 | 4.71 | 188 |
+| 335 | [Cave Story+](games/c/cave_story+.md) | 104 | 4.71 | 188 |
+| 336 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 965 |
+| 336 | [Just Die Already](games/j/just_die_already.md) | 103 | 4.52 | 534 |
+| 336 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 103 | 4.48 | 602 |
 | 339 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 101 | 4.80 | 83 |
 | 340 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 100 | 4.76 | 117 |
 | 341 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 99 | 4.49 | 583 |
