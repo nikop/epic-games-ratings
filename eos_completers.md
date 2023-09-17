@@ -15,8 +15,8 @@
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 15.62% |
-| 17 | [Island Cities](games/i/island_cities.md) | 15.43% |
+| 16 | [Island Cities](games/i/island_cities.md) | 15.43% |
+| 17 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 15.15% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 12.50% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
@@ -40,7 +40,7 @@
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.44% |
 | 38 | [Time Loader](games/t/time_loader.md) | 7.44% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.01% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
 | 42 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.35% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.33% |
@@ -80,7 +80,7 @@
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
-| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.67% |
+| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.66% |
 | 82 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.56% |
 | 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 83 | [Lamentum](games/l/lamentum.md) | 2.50% |
@@ -90,8 +90,8 @@
 | 88 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 89 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
 | 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.31% |
-| 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.25% |
+| 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.24% |
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
 | 95 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
@@ -107,8 +107,8 @@
 | 105 | [Five Dates](games/f/five_dates.md) | 1.66% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.55% |
 | 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.52% |
-| 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.51% |
-| 109 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.50% |
+| 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
+| 108 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.50% |
 | 110 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 112 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.42% |
@@ -594,4 +594,4 @@
 | 277 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 277 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 277 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,249 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,250 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
