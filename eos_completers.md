@@ -30,7 +30,7 @@
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.26% |
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.38% |
+| 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 34 | [Sonic Origins](games/s/sonic_origins.md) | 8.51% |
@@ -46,7 +46,7 @@
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.33% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
+| 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 48 | [JARS](games/j/jars.md) | 5.56% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.50% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
@@ -79,9 +79,9 @@
 | 77 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
-| 81 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.63% |
-| 82 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.59% |
+| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.69% |
+| 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
+| 82 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.63% |
 | 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 83 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 83 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -90,8 +90,8 @@
 | 88 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.39% |
 | 89 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.33% |
-| 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.25% |
+| 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
+| 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.25% |
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
 | 95 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
@@ -119,8 +119,8 @@
 | 117 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 118 | [Infindustry](games/i/infindustry.md) | 1.20% |
 | 119 | [Trifox](games/t/trifox.md) | 1.10% |
-| 120 | [Adios](games/a/adios.md) | 1.04% |
-| 121 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.03% |
+| 120 | [Adios](games/a/adios.md) | 1.03% |
+| 120 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.03% |
 | 122 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
 | 123 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
@@ -174,8 +174,8 @@
 | 169 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 173 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
 | 173 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
-| 173 | [The Surge](games/t/the_surge.md) | 0.35% |
-| 176 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 175 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 177 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
