@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -789,9 +789,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "631ndc2",
       "Name": "Amazing!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -862,8 +862,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-17T11:11:10.4269539+00:00",
+  "LastChanged_Achievements": "2023-09-17T12:14:01.0972993+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.7956717+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:58:46.6899593+00:00",
-  "LastUpdate_Achievements": "2023-09-17T11:11:10.4270043+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:59:39.3583667+00:00",
+  "LastUpdate_Achievements": "2023-09-17T12:14:01.097334+00:00"
 }

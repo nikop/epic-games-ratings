@@ -51,11 +51,11 @@ Rating: 4.02 (Ranked 943)
 | Blueprint Upgrades | 7.00% | ~136 |
 | Engineer Mastery | 7.00% | ~136 |
 | Lock And Load | 7.00% | ~136 |
+| Missions Dedication | 7.00% | ~136 |
 | Sailor | 7.00% | ~136 |
 | Ancient Knowledge | 6.00% | ~117 |
 | How Do You Turn This On? | 6.00% | ~117 |
 | Legendary | 6.00% | ~117 |
-| Missions Dedication | 6.00% | ~117 |
 | The Alchemist | 6.00% | ~117 |
 | Active Member | 5.00% | ~97 |
 | Arena Challenger | 5.00% | ~97 |

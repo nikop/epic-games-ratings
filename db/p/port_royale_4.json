@@ -5,9 +5,9 @@
   "Ranking_Rating": 940,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2290,9 +2290,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH028",
@@ -2482,8 +2482,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-17T11:06:47.8091682+00:00",
+  "LastChanged_Achievements": "2023-09-17T12:09:58.9614219+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.7770724+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:59:58.3541641+00:00",
-  "LastUpdate_Achievements": "2023-09-17T11:06:47.8092324+00:00"
+  "LastUpdate_Ratings": "2023-09-17T12:01:12.8376233+00:00",
+  "LastUpdate_Achievements": "2023-09-17T12:09:58.9615436+00:00"
 }

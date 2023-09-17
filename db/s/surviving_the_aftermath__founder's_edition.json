@@ -1251,9 +1251,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9051,
+  "EOS_Progressed": 9052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13001,6 +13001,11 @@
       "Time": "2023-09-17T11:08:07.0353952+00:00",
       "NumProgressed": 9051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T12:11:32.885386+00:00",
+      "NumProgressed": 9052,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13044,7 +13049,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4797
+      "UsersEstimate": 4798
     },
     {
       "ID": "14",
@@ -13052,7 +13057,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "15",
@@ -13060,7 +13065,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "16",
@@ -13108,7 +13113,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3439
+      "UsersEstimate": 3440
     },
     {
       "ID": "21",
@@ -13132,7 +13137,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "24",
@@ -13148,7 +13153,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "26",
@@ -13260,7 +13265,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "39",
@@ -13276,7 +13281,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "40",
@@ -13332,7 +13337,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "47",
@@ -13483,15 +13488,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9051,
+      "Progressed": 9052,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-15T09:59:20.5978639+00:00",
-  "LastChanged_Achievements": "2023-09-17T11:08:07.0353948+00:00",
+  "LastChanged_Achievements": "2023-09-17T12:11:32.8853855+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:54.26707+00:00",
-  "LastUpdate_Ratings": "2023-09-17T11:03:14.3272556+00:00",
-  "LastUpdate_Achievements": "2023-09-17T11:08:07.0355208+00:00"
+  "LastUpdate_Ratings": "2023-09-17T12:05:05.4644931+00:00",
+  "LastUpdate_Achievements": "2023-09-17T12:11:32.8854859+00:00"
 }

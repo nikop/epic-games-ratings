@@ -33,6 +33,7 @@ Rating: 3.52 (Ranked 988)
 | Contingency Plans | 0.20% | ~3 |
 | Bell-ringer | 0.20% | ~3 |
 | Silence Is Golden | 0.20% | ~3 |
+| You Clean It Up | 0.20% | ~3 |
 | Sisterhood | 0.20% | ~3 |
 | What Lies Below | 0.20% | ~3 |
 | Dexterity Save | 0.20% | ~3 |
@@ -43,7 +44,6 @@ Rating: 3.52 (Ranked 988)
 | Neighborhood Watch | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |
-| You Clean It Up | 0.10% | ~2 |
 | Check, Please! | 0.10% | ~2 |
 | Empty Nest Syndrome | 0.10% | ~2 |
 | Starve the Beast | 0.10% | ~2 |

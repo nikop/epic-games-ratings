@@ -301,7 +301,7 @@
   ],
   "EOS_Progressed": 483,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 8.49,
   "EosHistory": [
@@ -2094,9 +2094,9 @@
       "ID": "ID_03_SONIC2_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog 2",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 348
     },
     {
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
@@ -2366,8 +2366,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-17T11:07:02.1907275+00:00",
+  "LastChanged_Achievements": "2023-09-17T12:10:16.0638937+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:29.6550361+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:57:46.0151195+00:00",
-  "LastUpdate_Achievements": "2023-09-17T11:07:02.1907631+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:58:15.8229362+00:00",
+  "LastUpdate_Achievements": "2023-09-17T12:10:16.0639395+00:00"
 }

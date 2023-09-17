@@ -11,13 +11,13 @@
 | Freshen Up | 59.00% | ~51 |
 | Hydrophobia | 44.00% | ~38 |
 | Ka-Ching! | 36.00% | ~31 |
-| Stop Right There | 31.00% | ~27 |
+| Stop Right There | 32.00% | ~28 |
 | Get to the Point | 29.00% | ~25 |
-| Mr. Want It All | 17.00% | ~15 |
+| Mr. Want It All | 18.00% | ~16 |
 | The Hidden Secret | 16.00% | ~14 |
 | Toe to Toe | 16.00% | ~14 |
 | Phew! | 15.00% | ~13 |
-| The Abyss Conqueror | 11.00% | ~10 |
+| The Abyss Conqueror | 13.00% | ~11 |
 | Space Warrior: Prologue | 11.00% | ~10 |
 | Grand Escape | 10.00% | ~9 |
 | The Fortress Conqueror | 9.00% | ~8 |

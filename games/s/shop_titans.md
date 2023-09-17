@@ -43,26 +43,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.60% | ~818 |
 | Helping Hand | 0.60% | ~818 |
 | Natural 20 | 0.60% | ~818 |
-| A Notch Above the Rest | 0.50% | ~681 |
-| Tax not Included | 0.50% | ~681 |
-| The King's Caprice | 0.50% | ~681 |
-| Big Game Hunting | 0.50% | ~681 |
-| For the Hoard! | 0.50% | ~681 |
-| Scrapbooker | 0.50% | ~681 |
-| Locally Sourced | 0.50% | ~681 |
-| Flying off the Shelves | 0.50% | ~681 |
-| This Power Level...! | 0.50% | ~681 |
-| Hidden Potential | 0.50% | ~681 |
-| Expansion in Session | 0.50% | ~681 |
-| Trash to Treasure | 0.50% | ~681 |
-| Royal Ransom | 0.50% | ~681 |
-| Mammonite | 0.50% | ~681 |
-| Miracle Alchemist | 0.50% | ~681 |
-| Seasoned Journeyman | 0.50% | ~681 |
-| Black Friday Special | 0.50% | ~681 |
-| Magical Harmony | 0.50% | ~681 |
-| Special Ingredient | 0.50% | ~681 |
-| Complete Monopoly | 0.50% | ~681 |
+| A Notch Above the Rest | 0.50% | ~682 |
+| Tax not Included | 0.50% | ~682 |
+| The King's Caprice | 0.50% | ~682 |
+| Big Game Hunting | 0.50% | ~682 |
+| For the Hoard! | 0.50% | ~682 |
+| Scrapbooker | 0.50% | ~682 |
+| Locally Sourced | 0.50% | ~682 |
+| Flying off the Shelves | 0.50% | ~682 |
+| This Power Level...! | 0.50% | ~682 |
+| Hidden Potential | 0.50% | ~682 |
+| Expansion in Session | 0.50% | ~682 |
+| Trash to Treasure | 0.50% | ~682 |
+| Royal Ransom | 0.50% | ~682 |
+| Mammonite | 0.50% | ~682 |
+| Miracle Alchemist | 0.50% | ~682 |
+| Seasoned Journeyman | 0.50% | ~682 |
+| Black Friday Special | 0.50% | ~682 |
+| Magical Harmony | 0.50% | ~682 |
+| Special Ingredient | 0.50% | ~682 |
+| Complete Monopoly | 0.50% | ~682 |
 | Cream of the Crop | 0.40% | ~545 |
 | Top of the World | 0.40% | ~545 |
 | Proud Paladin | 0.40% | ~545 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,299 (Ranked 69)  
+Progressed: 136,300 (Ranked 69)  
 Completed: 152 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 152 (0.11%) (Ranked 218)
 | 2023-09-14 | 136,187 | 151 |
 | 2023-09-15 | 136,220 | 151 |
 | 2023-09-16 | 136,276 | 152 |
-| 2023-09-17 | 136,299 | 152 |
+| 2023-09-17 | 136,300 | 152 |
 ## Awards
 Max (Great for Beginners): 4,746  (Ranked 71)  
 Sum: 27,247 (Ranked 48)  

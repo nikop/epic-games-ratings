@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18028,
+  "EOS_Progressed": 18030,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10336,6 +10336,11 @@
       "Time": "2023-09-17T08:09:36.4140028+00:00",
       "NumProgressed": 18028,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T12:09:37.5295922+00:00",
+      "NumProgressed": 18030,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10347,7 +10352,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5228
+      "UsersEstimate": 5229
     },
     {
       "ID": "0002",
@@ -10355,7 +10360,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "0003",
@@ -10411,7 +10416,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "0010",
@@ -10435,7 +10440,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "0013",
@@ -10451,7 +10456,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "0015",
@@ -10475,7 +10480,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3425
+      "UsersEstimate": 3426
     },
     {
       "ID": "0018",
@@ -10497,9 +10502,9 @@
       "ID": "0020",
       "SetID": "2n2feee",
       "Name": "Dr. No Kill",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1803
     },
     {
       "ID": "0021",
@@ -10531,7 +10536,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "0025",
@@ -10563,7 +10568,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "0029",
@@ -10587,7 +10592,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "0032",
@@ -10611,7 +10616,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "0035",
@@ -10634,7 +10639,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18028,
+      "Progressed": 18030,
       "Completed": 3
     }
   ],
@@ -10642,8 +10647,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-17T11:06:29.2611617+00:00",
+  "LastChanged_Achievements": "2023-09-17T12:09:37.5295917+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-17T11:02:49.7559406+00:00",
-  "LastUpdate_Achievements": "2023-09-17T11:06:29.2634638+00:00"
+  "LastUpdate_Ratings": "2023-09-17T12:04:40.0969863+00:00",
+  "LastUpdate_Achievements": "2023-09-17T12:09:37.5296591+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I like parks | 2.00% | ~7 |
-| Small town | 2.00% | ~7 |
+| I like parks | 3.00% | ~10 |
+| Small town | 3.00% | ~10 |
 | I like books | 1.00% | ~3 |
 | The spiritual world... | 1.00% | ~3 |
 | I like my life | 1.00% | ~3 |
@@ -20,6 +20,7 @@
 | I love books! | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
+| Clean energy | 0.30% | ~1 |
 | What would we do if we can't go out with friends? | 0.30% | ~1 |
 | Metropolurbek | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
@@ -56,7 +57,6 @@
 | Farming Frenzy | 0.00% | ~0 |
 | Farming Frenzy Plus | 0.00% | ~0 |
 | Oh, I love parks, listening to birds! | 0.00% | ~0 |
-| Clean energy | 0.00% | ~0 |
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
 | I don't feel well, I have to drink a coffe | 0.00% | ~0 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 274)  
+Progressed: 343 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 276)
 | 2023-09-14 | 333 | 0 |
 | 2023-09-15 | 338 | 0 |
 | 2023-09-16 | 341 | 0 |
-| 2023-09-17 | 342 | 0 |
+| 2023-09-17 | 343 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,7 +15,7 @@ Number of Ratings: 53  (23.09.2022)
 | Seafarer | 53.00% | ~475 |
 | Greed for gold | 43.00% | ~385 |
 | Intangible | 42.00% | ~376 |
-| I'm out of here for a while | 41.00% | ~367 |
+| I'm out of here for a while | 42.00% | ~376 |
 | In a mint condition | 38.00% | ~340 |
 | Licence to Kill | 37.00% | ~332 |
 | Pirates! | 34.00% | ~305 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896 (Ranked 216)  
+Progressed: 896 (Ranked 217)  
 Completed: 1 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |

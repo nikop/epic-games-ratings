@@ -36,8 +36,8 @@ Rating: 4.44 (Ranked 649)
 | Hostile Takeover | 25.00% | ~477 |
 | Seven at one stroke | 24.00% | ~458 |
 | Trailblazer | 21.00% | ~401 |
+| Traffic Junction | 21.00% | ~401 |
 | Breaking Ground | 21.00% | ~401 |
-| Traffic Junction | 20.00% | ~382 |
 | Traffic Jam | 19.00% | ~363 |
 | Resistance is futile | 17.00% | ~324 |
 | Networker | 17.00% | ~324 |

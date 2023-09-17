@@ -21,8 +21,8 @@
 | Unstoppable | 14.00% | ~14 |
 | One Click Away | 14.00% | ~14 |
 | Cyborg | 10.00% | ~10 |
+| Lifter | 8.00% | ~8 |
 | Brain-hacker | 8.00% | ~8 |
-| Lifter | 7.00% | ~7 |
 | Gravity Bender | 7.00% | ~7 |
 | Hunter | 3.00% | ~3 |
 | Zero Gravity | 3.00% | ~3 |

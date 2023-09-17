@@ -4,7 +4,7 @@
   "ProductSlug": "state-of-decay-2-juggernaut-edition",
   "Ranking_Rating": 172,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 373,
@@ -2507,10 +2507,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2496,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2023-09-17T12:06:23.1455772+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2497,
+      "NumberOfAwardsMax": 326
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2496,
+  "NumberOfAwards": 2497,
   "NumberOfAwardsMax": 326,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2518,7 +2524,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 319
+      "Count": 320
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2598,8 +2604,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2023-09-17T11:04:12.5146538+00:00",
+  "LastChanged": "2023-09-17T12:06:23.145577+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:06.3110521+00:00",
-  "LastUpdate_Ratings": "2023-09-17T11:04:12.5146544+00:00",
-  "LastUpdate_Achievements": "2023-09-17T11:07:55.2744717+00:00"
+  "LastUpdate_Ratings": "2023-09-17T12:06:23.1455774+00:00",
+  "LastUpdate_Achievements": "2023-09-17T12:11:18.8686435+00:00"
 }

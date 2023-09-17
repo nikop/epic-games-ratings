@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.20% | ~391 |
 | Thieves of the Coven | 0.20% | ~391 |
 | Hither of the Feywild | 0.20% | ~391 |
+| The Prince of a Thousand Enemies | 0.20% | ~391 |
 | The Silken Swamp | 0.20% | ~458 |
 | Wet Feet | 0.20% | ~458 |
 | Hatchlings Underfoot | 0.20% | ~458 |
@@ -61,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~458 |
 | Attack on the Manor | 0.20% | ~458 |
 | The Death Curse | 0.20% | ~458 |
+| Treasure Hunters | 0.20% | ~458 |
 | Flies on the Wall | 0.20% | ~458 |
 | Backtracking Through Barovia | 0.20% | ~458 |
 | Nimble Escape | 0.20% | ~458 |
@@ -114,7 +116,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~195 |
 | Icequake | 0.10% | ~195 |
 | A Lesson in Classes | 0.10% | ~195 |
-| The Prince of a Thousand Enemies | 0.10% | ~195 |
 | Uncommon Allies | 0.10% | ~195 |
 | The Birds | 0.10% | ~195 |
 | Where the Magic Happens | 0.10% | ~195 |
@@ -258,7 +259,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~229 |
 | Our Time To Shine | 0.10% | ~229 |
 | Review by the Blackstaff | 0.10% | ~195 |
-| Treasure Hunters | 0.10% | ~229 |
 | The Guardian of Orolunga | 0.10% | ~229 |
 | Think Your Way Out Of It | 0.10% | ~229 |
 | Air's Getting Pretty Thin | 0.10% | ~229 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,141 (Ranked 56)  
+Progressed: 229,152 (Ranked 57)  
 Completed: 2,290 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,7 +677,7 @@ Completed: 2,290 (1.00%) (Ranked 124)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,141 | 2,290 |
+| 2023-09-17 | 229,152 | 2,290 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,619 (Ranked 39)  

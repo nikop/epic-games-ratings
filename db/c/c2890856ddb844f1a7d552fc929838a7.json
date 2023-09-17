@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 799,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1608,17 +1608,17 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 479
     },
     {
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 463
+      "UsersEstimate": 471
     },
     {
       "ID": "AC08",
@@ -1776,9 +1776,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 168
     },
     {
       "ID": "AC28",
@@ -1937,8 +1937,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-17T11:09:20.2253101+00:00",
+  "LastChanged_Achievements": "2023-09-17T12:13:02.3763294+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-17T11:05:05.6420128+00:00",
-  "LastUpdate_Achievements": "2023-09-17T11:09:20.2253567+00:00"
+  "LastUpdate_Ratings": "2023-09-17T12:07:55.439303+00:00",
+  "LastUpdate_Achievements": "2023-09-17T12:13:02.3763664+00:00"
 }
