@@ -183,7 +183,7 @@
 | 181 | [Train Valley 2](games/t/train_valley_2.md) | 627 | 4.43 | 664 |
 | 182 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 624 | 4.67 | 259 |
 | 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 618 | 4.24 | 843 |
-| 184 | [Dark Deity](games/d/dark_deity.md) | 615 | 4.16 | 891 |
+| 184 | [Dark Deity](games/d/dark_deity.md) | 615 | 4.16 | 892 |
 | 185 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 611 | 4.63 | 331 |
 | 186 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 607 | 4.73 | 162 |
 | 187 | [Riders Republic](games/r/riders_republic.md) | 603 | 4.75 | 136 |
@@ -273,7 +273,7 @@
 | 271 | [Stranded Deep](games/s/stranded_deep.md) | 212 | 4.23 | 851 |
 | 272 | [HITMAN](games/h/hitman.md) | 206 | 4.64 | 313 |
 | 273 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 205 | 4.35 | 758 |
-| 274 | [Relicta](games/r/relicta.md) | 201 | 4.15 | 899 |
+| 274 | [Relicta](games/r/relicta.md) | 201 | 4.15 | 900 |
 | 275 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 196 | 4.59 | 417 |
 | 275 | [Unrailed!](games/u/unrailed!.md) | 196 | 4.64 | 313 |
 | 277 | [Crashlands](games/c/crashlands.md) | 193 | 4.66 | 280 |
@@ -285,7 +285,7 @@
 | 283 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.07 | 929 |
 | 284 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 181 | 4.22 | 856 |
 | 284 | [The Witness](games/t/the_witness.md) | 181 | 4.70 | 202 |
-| 286 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 891 |
+| 286 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 892 |
 | 287 | [Cris Tales](games/c/cris_tales.md) | 173 | 4.36 | 749 |
 | 287 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 814 |
 | 289 | [Mothergunship](games/m/mothergunship.md) | 172 | 4.38 | 729 |
@@ -448,7 +448,7 @@
 | 445 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.52 | 534 |
 | 445 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 188 |
 | 445 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.55 | 487 |
-| 449 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 34 | 4.15 | 899 |
+| 449 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 34 | 4.15 | 900 |
 | 449 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 349 |
 | 449 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 67 |
 | 449 | [GRIME](games/g/grime.md) | 34 | 4.59 | 417 |
@@ -476,7 +476,7 @@
 | 473 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 768 |
 | 473 | [Chimeraland](games/c/chimeraland.md) | 27 | 3.91 | 965 |
 | 473 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 468 |
-| 473 | [Forspoken](games/f/forspoken.md) | 27 | 4.15 | 899 |
+| 473 | [Forspoken](games/f/forspoken.md) | 27 | 4.15 | 900 |
 | 473 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 909 |
 | 473 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 217 |
 | 473 | [Warpips](games/w/warpips.md) | 27 | 4.42 | 678 |
@@ -509,7 +509,7 @@
 | 498 | [WRC Generations](games/w/wrc_generations.md) | 22 | 4.45 | 640 |
 | 508 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 331 |
 | 508 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 534 |
-| 508 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 21 | 4.15 | 899 |
+| 508 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 21 | 4.15 | 900 |
 | 508 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 433 |
 | 508 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 21 | 4.52 | 534 |
 | 508 | [Torchlight](games/t/torchlight.md) | 21 | 4.33 | 773 |
