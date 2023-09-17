@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 50.00% | ~80 |
 | Welcome to the Tower | 47.00% | ~76 |
+| The Preacher's fate | 43.00% | ~69 |
 | The great escape | 43.00% | ~69 |
-| The Preacher's fate | 42.00% | ~68 |
 | A new dawn | 39.00% | ~63 |
 | Scholar | 38.00% | ~61 |
 | The darkness | 36.00% | ~58 |
@@ -17,13 +17,13 @@
 | Champollion | 29.00% | ~47 |
 | Cable guy | 28.00% | ~45 |
 | In this together | 27.00% | ~43 |
+| Peace walker | 27.00% | ~43 |
 | Half the way | 27.00% | ~43 |
-| Peace walker | 26.00% | ~42 |
 | Open door | 24.00% | ~39 |
-| Free at last | 21.00% | ~34 |
-| Feels like springtime | 21.00% | ~34 |
+| Free at last | 22.00% | ~35 |
+| Feels like springtime | 22.00% | ~35 |
+| Rascal | 21.00% | ~34 |
 | Alchemists Express | 20.00% | ~32 |
-| Rascal | 20.00% | ~32 |
 | A Link to the Past | 17.00% | ~27 |
 | Fashion victim | 14.00% | ~23 |
 | A great audience | 13.00% | ~21 |

@@ -4,7 +4,7 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -241,8 +241,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:08:58.0376384+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:10:16.0260079+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:13.9590779+00:00",
-  "LastUpdate_Ratings": "2023-09-17T07:57:24.1373721+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:08:58.0376526+00:00"
+  "LastUpdate_Ratings": "2023-09-17T08:57:35.7969073+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:10:16.0260322+00:00"
 }

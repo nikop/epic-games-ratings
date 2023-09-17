@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37400,
+  "EOS_Progressed": 37402,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15947,6 +15947,11 @@
       "Time": "2023-09-17T07:06:38.9296938+00:00",
       "NumProgressed": 37400,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T09:10:58.8668918+00:00",
+      "NumProgressed": 37402,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16078,7 +16083,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13464
+      "UsersEstimate": 13465
     },
     {
       "ID": "ach_die10",
@@ -16116,9 +16121,9 @@
       "ID": "ach_eye",
       "SetID": "ammcm",
       "Name": "Roaring Rise",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 748
     },
     {
       "ID": "ach_hunterskeep",
@@ -16389,15 +16394,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37400,
+      "Progressed": 37402,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:09:40.0408677+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:10:58.8668912+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:44.1241122+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:02:00.8410718+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:09:40.0410206+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:02:55.7260454+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:10:58.8670645+00:00"
 }

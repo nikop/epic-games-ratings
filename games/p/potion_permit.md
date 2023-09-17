@@ -5,22 +5,22 @@ Rating: 3.83 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,541 |
-| The First Step | 89.00% | ~1,399 |
-| Moonbury Traveller | 64.00% | ~1,006 |
-| Rookie Chemist | 63.00% | ~990 |
-| Great Doctor | 52.00% | ~817 |
-| Dog Whisperer | 49.00% | ~770 |
+| Welcome to Moonbury | 98.00% | ~1,542 |
+| The First Step | 89.00% | ~1,400 |
+| Moonbury Traveller | 65.00% | ~1,022 |
+| Rookie Chemist | 63.00% | ~991 |
+| Great Doctor | 51.00% | ~802 |
+| Dog Whisperer | 49.00% | ~771 |
 | Friendly | 48.00% | ~755 |
-| The Capitalist | 45.00% | ~707 |
+| The Capitalist | 45.00% | ~708 |
 | K.O.! | 43.00% | ~676 |
 | Intermediate Chemist | 40.00% | ~629 |
 | Decorative Mind | 32.00% | ~503 |
-| Lumber Specialist | 31.00% | ~487 |
+| Lumber Specialist | 31.00% | ~488 |
 | Kind-hearted | 25.00% | ~393 |
 | Catch of the Day | 25.00% | ~393 |
 | Amateur Chef | 22.00% | ~346 |
-| Fishing Guru | 20.00% | ~314 |
+| Fishing Guru | 20.00% | ~315 |
 | Spark of Love | 18.00% | ~283 |
 | Community Helper | 17.00% | ~267 |
 | Expert Chemist | 14.00% | ~220 |
@@ -30,7 +30,7 @@ Rating: 3.83 (Ranked 971)
 | Sociable | 12.00% | ~189 |
 | Production Sorter | 11.00% | ~173 |
 | Good Samaritan | 10.00% | ~157 |
-| Acrobatic Adventurer | 9.00% | ~141 |
+| Acrobatic Adventurer | 9.00% | ~142 |
 | Animal Exterminator | 8.00% | ~126 |
 | Adolescent Love | 6.00% | ~94 |
 | Mail Carrier | 6.00% | ~94 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 971)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,572 (Ranked 195)  
+Progressed: 1,573 (Ranked 195)  
 Completed: 9 (0.57%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 9 (0.57%) (Ranked 149)
 | 2023-09-14 | 1,557 | 9 |
 | 2023-09-15 | 1,563 | 9 |
 | 2023-09-16 | 1,571 | 9 |
-| 2023-09-17 | 1,572 | 9 |
+| 2023-09-17 | 1,573 | 9 |
 ## Awards
 Max (Character Customization): 69  (Ranked 382)  
 Sum: 69 (Ranked 442)  

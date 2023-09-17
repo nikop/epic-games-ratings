@@ -10,6 +10,7 @@
 | Fun and Games Ahead | 0.00% | ~0 |
 | Six's Song | 0.00% | ~0 |
 | Hard to the Core | 0.00% | ~0 |
+| Highly Sprung | 0.00% | ~0 |
 | I'm Losing You | 0.00% | ~0 |
 | Is Anybody Out There? | 0.00% | ~0 |
 | Kitchen Hand | 0.00% | ~0 |
@@ -24,7 +25,6 @@
 | The Lair | 0.00% | ~0 |
 | The Prison | 0.00% | ~0 |
 | We'll Meet Again | 0.00% | ~0 |
-| Highly Sprung | -12.50% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 276)  

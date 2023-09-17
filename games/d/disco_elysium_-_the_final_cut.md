@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,840 |
-| Biggest Communism Builder | 24.00% | ~30,720 |
-| The World's Most Laughable Centrist | 20.00% | ~25,600 |
-| Il Coppo Del'Arte! | 18.00% | ~23,040 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,480 |
-| Hyperstellar Law Official | 16.00% | ~20,480 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,920 |
-| Gurdi-Ball Is Lit | 14.00% | ~17,920 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,640 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,080 |
-| Unbelievably Boring **** | 9.00% | ~11,520 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,520 |
-| Enemy Of The Physical Realm | 8.00% | ~10,240 |
-| Hardie's Heroes | 6.00% | ~7,680 |
+| Goodest Of The Good Cops | 28.00% | ~35,843 |
+| Biggest Communism Builder | 24.00% | ~30,723 |
+| The World's Most Laughable Centrist | 20.00% | ~25,602 |
+| Il Coppo Del'Arte! | 18.00% | ~23,042 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,482 |
+| Hyperstellar Law Official | 16.00% | ~20,482 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,922 |
+| Gurdi-Ball Is Lit | 14.00% | ~17,922 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,641 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,081 |
+| Unbelievably Boring **** | 9.00% | ~11,521 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,521 |
+| Enemy Of The Physical Realm | 8.00% | ~10,241 |
+| Hardie's Heroes | 6.00% | ~7,681 |
 | The Lawbringer | 4.00% | ~5,120 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,120 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,840 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,001 (Ranked 71)  
+Progressed: 128,011 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 28 (0.02%) (Ranked 254)
 | 2023-09-14 | 127,669 | 28 |
 | 2023-09-15 | 127,810 | 28 |
 | 2023-09-16 | 127,956 | 28 |
-| 2023-09-17 | 128,001 | 28 |
+| 2023-09-17 | 128,011 | 28 |
 ## Awards
 Max (Character Customization): 723  (Ranked 166)  
 Sum: 1,088 (Ranked 238)  

@@ -3,7 +3,7 @@
   "Name": "laserlemon Production",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
@@ -125,9 +125,9 @@
       "ID": "HighlySprung",
       "SetID": "c36hpcf",
       "Name": "Highly Sprung",
-      "Percentage": -12.5,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ImLosingYou",
@@ -251,8 +251,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:09:02.1578345+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:10:20.4614577+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:03:50.5477842+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:09:02.1578531+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:04:59.0945768+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:10:20.4614757+00:00"
 }

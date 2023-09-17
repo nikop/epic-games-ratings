@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 80.00% | ~126 |
-| Shelter Escape | 79.00% | ~125 |
+| New arm | 81.00% | ~128 |
+| Shelter Escape | 80.00% | ~126 |
 | The First Bond | 70.00% | ~111 |
 | Novice Scavenger | 57.00% | ~90 |
-| Master Craftsman | 44.00% | ~70 |
-| First wall | 44.00% | ~70 |
-| Piggyback Expert | 42.00% | ~66 |
+| Master Craftsman | 45.00% | ~71 |
+| First wall | 45.00% | ~71 |
+| Piggyback Expert | 43.00% | ~68 |
 | Second wall | 30.00% | ~47 |
 | Expert Scavenger | 28.00% | ~44 |
 | Their Rock | 23.00% | ~36 |

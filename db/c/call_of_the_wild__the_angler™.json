@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 900,
   "Ranking_Popularity": 449,
-  "Ranking_PopularitySum": 390,
+  "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 139,
@@ -674,10 +674,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 171,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-17T09:03:33.166479+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 172,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 171,
+  "NumberOfAwards": 172,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -709,7 +715,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -720,7 +726,7 @@
   ],
   "EOS_Progressed": 5808,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7806,9 +7812,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2023-09-14T17:59:14.7309669+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:09:13.7242011+00:00",
+  "LastChanged": "2023-09-17T09:03:33.1664788+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:10:32.2467013+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:51.4356282+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:02:30.232764+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:09:13.7243046+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:03:33.1664793+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:10:32.2467746+00:00"
 }

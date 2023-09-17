@@ -6,37 +6,37 @@ Rating: 4.35 (Ranked 758)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 89.00% | ~376 |
-| Luc Piette | 75.00% | ~316 |
-| Angeline Van den Bosch | 73.00% | ~308 |
-| Elizabeth Padget | 70.00% | ~295 |
-| Little Grey Cells | 69.00% | ~291 |
-| The Bracelet | 65.00% | ~274 |
-| The Blackmail | 55.00% | ~232 |
-| Major Felix Hagen | 55.00% | ~232 |
-| Fine-toothed Comb | 54.00% | ~228 |
+| Luc Piette | 75.00% | ~317 |
+| Angeline Van den Bosch | 73.00% | ~309 |
+| Elizabeth Padget | 70.00% | ~296 |
+| Little Grey Cells | 69.00% | ~292 |
+| The Bracelet | 65.00% | ~275 |
+| The Blackmail | 55.00% | ~233 |
+| Major Felix Hagen | 55.00% | ~233 |
 | Florette Duval | 54.00% | ~228 |
 | Order and Method | 53.00% | ~224 |
-| The Altercation | 50.00% | ~211 |
+| Fine-toothed Comb | 53.00% | ~224 |
+| The Altercation | 50.00% | ~212 |
 | Truth from Within | 49.00% | ~207 |
-| The Major | 47.00% | ~198 |
+| The Major | 47.00% | ~199 |
 | Curious and Beautiful | 45.00% | ~190 |
 | Comtesse Margaux de Vos | 45.00% | ~190 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~186 |
 | The Interrogations | 44.00% | ~186 |
-| Well-acquainted | 42.00% | ~177 |
+| Well-acquainted | 42.00% | ~178 |
 | Zakariya Demir | 41.00% | ~173 |
 | Well-read | 39.00% | ~165 |
-| Cassandra Van den Bosch | 38.00% | ~160 |
-| The Secret | 37.00% | ~156 |
+| Cassandra Van den Bosch | 38.00% | ~161 |
+| The Secret | 37.00% | ~157 |
 | Gedeon Demir | 35.00% | ~148 |
 | Rehana Piette | 35.00% | ~148 |
-| Instinct is Marvellous | 33.00% | ~139 |
-| Ernesto da Silva | 33.00% | ~139 |
+| Instinct is Marvellous | 33.00% | ~140 |
+| Ernesto da Silva | 33.00% | ~140 |
 | Inge Frank | 31.00% | ~131 |
-| The Search | 31.00% | ~131 |
 | Hugo Beckers | 30.00% | ~127 |
+| The Search | 30.00% | ~127 |
 | The Family | 28.00% | ~118 |
-| Well-travelled | 27.00% | ~114 |
+| Well-travelled | 26.00% | ~110 |
 | Thinking of Everything | 26.00% | ~110 |
 | Exquisite Artwork | 26.00% | ~110 |
 | Viscount Edwin Van den Bosch | 26.00% | ~110 |
@@ -48,11 +48,11 @@ Rating: 4.35 (Ranked 758)
 | I Like an Audience | 18.00% | ~76 |
 | The Denouement | 17.00% | ~72 |
 | Probably the Greatest Detective in the World | 13.00% | ~55 |
-| Take a Break | 11.00% | ~46 |
+| Take a Break | 11.00% | ~47 |
 | Room with a View | 7.00% | ~30 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422 (Ranked 258)  
+Progressed: 423 (Ranked 258)  
 Completed: 6 (1.42%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 6 (1.42%) (Ranked 112)
 | 2023-09-06 | 418 | 6 |
 | 2023-09-14 | 419 | 6 |
 | 2023-09-15 | 422 | 6 |
+| 2023-09-17 | 423 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

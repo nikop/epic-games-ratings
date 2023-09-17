@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11505,
+  "EOS_Progressed": 11507,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9781,6 +9781,11 @@
       "Time": "2023-09-17T07:03:09.0424173+00:00",
       "NumProgressed": 11505,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T09:06:50.9166808+00:00",
+      "NumProgressed": 11507,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9864,7 +9869,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -9991,14 +9996,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11505,
+      "Progressed": 11507,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:05:35.9921875+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:06:50.9166802+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5872219+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:04:29.1269227+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:05:35.9926692+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:05:38.846192+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:06:50.9167987+00:00"
 }

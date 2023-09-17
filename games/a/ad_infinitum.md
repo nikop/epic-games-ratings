@@ -8,7 +8,7 @@
 | Path of Despair | 71.00% | ~15 |
 | Not alone | 48.00% | ~10 |
 | Hunger | 43.00% | ~9 |
-| Awaken | 33.00% | ~7 |
+| Awaken | 38.00% | ~8 |
 | Path of Corruption | 19.00% | ~4 |
 | Hope | 14.00% | ~3 |
 | An act of courage | 5.00% | ~1 |
@@ -20,6 +20,7 @@
 | Health | 5.00% | ~1 |
 | Jigsaw | 5.00% | ~1 |
 | Lost | 5.00% | ~1 |
+| Mayhem | 5.00% | ~1 |
 | Pain | 5.00% | ~1 |
 | Path of Pain | 5.00% | ~1 |
 | Peace | 5.00% | ~1 |
@@ -30,7 +31,6 @@
 | All knowing | 0.00% | ~0 |
 | Awaiting orders | 0.00% | ~0 |
 | Corruption | 0.00% | ~0 |
-| Mayhem | 0.00% | ~0 |
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

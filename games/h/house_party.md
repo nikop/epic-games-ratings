@@ -41,6 +41,7 @@ Number of Ratings: 177  (23.09.2022)
 | Deck the Balls | 0.30% | ~10 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
 | Rachael | 0.30% | ~19 |
+| The Muse: Derek | 0.30% | ~19 |
 | The Elder Brahs | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
 | Do Not Burn | 0.20% | ~12 |
@@ -51,7 +52,6 @@ Number of Ratings: 177  (23.09.2022)
 | Ronin | 0.20% | ~12 |
 | Do You Smell Blood? | 0.20% | ~12 |
 | A Striking Resemblance | 0.20% | ~12 |
-| The Muse: Derek | 0.20% | ~12 |
 | Howz It Goin Dood | 0.20% | ~12 |
 | Derezzed | 0.20% | ~12 |
 | Snapped | 0.20% | ~12 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,191 (Ranked 144)  
+Progressed: 6,192 (Ranked 144)  
 Completed: 3 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 3 (0.05%) (Ranked 240)
 | 2023-09-14 | 6,156 | 3 |
 | 2023-09-15 | 6,175 | 3 |
 | 2023-09-16 | 6,184 | 3 |
-| 2023-09-17 | 6,191 | 3 |
+| 2023-09-17 | 6,192 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

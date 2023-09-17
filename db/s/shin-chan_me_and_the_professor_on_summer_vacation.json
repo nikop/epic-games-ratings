@@ -2,9 +2,9 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -108,6 +108,11 @@
       "Time": "2023-09-05T06:03:13.3332455+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T09:10:51.3851779+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -141,7 +146,7 @@
       "ID": "Trophy_04",
       "SetID": "cf5h6dl",
       "Name": "A New Time",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -157,7 +162,7 @@
       "ID": "Trophy_06",
       "SetID": "cf5h6dl",
       "Name": "Beetle Savant",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -181,7 +186,7 @@
       "ID": "Trophy_09",
       "SetID": "cf5h6dl",
       "Name": "Cicada Connoisseur",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -189,7 +194,7 @@
       "ID": "Trophy_10",
       "SetID": "cf5h6dl",
       "Name": "Dragonfly Whiz",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -197,7 +202,7 @@
       "ID": "Trophy_11",
       "SetID": "cf5h6dl",
       "Name": "Cabbage in the Baggage",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -229,7 +234,7 @@
       "ID": "Trophy_15",
       "SetID": "cf5h6dl",
       "Name": "Love Is in the Air!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -261,7 +266,7 @@
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -269,7 +274,7 @@
       "ID": "Trophy_20",
       "SetID": "cf5h6dl",
       "Name": "Biwa Be Mine",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -301,7 +306,7 @@
       "ID": "Trophy_24",
       "SetID": "cf5h6dl",
       "Name": "Ice Fishing",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -333,7 +338,7 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -389,7 +394,7 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -413,7 +418,7 @@
       "ID": "Trophy_38",
       "SetID": "cf5h6dl",
       "Name": "Stego Stooge",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -421,7 +426,7 @@
       "ID": "Trophy_39",
       "SetID": "cf5h6dl",
       "Name": "T-Rex Wrangler",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -429,7 +434,7 @@
       "ID": "Trophy_40",
       "SetID": "cf5h6dl",
       "Name": "Gumdum Robot, I Choose You!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -453,7 +458,7 @@
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -486,7 +491,7 @@
     {
       "ID": "cf5h6dl",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
@@ -494,8 +499,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:09:32.8201261+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:10:51.3851773+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:52.6110039+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:02:33.7245586+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:09:32.82017+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:03:35.8795275+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:10:51.3852298+00:00"
 }

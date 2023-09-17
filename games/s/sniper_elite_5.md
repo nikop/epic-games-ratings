@@ -6,12 +6,12 @@ Rating: 4.46 (Ranked 625)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,667 |
-| Confirming Suspicions | 40.00% | ~1,449 |
-| The Kraken Wakes | 36.00% | ~1,304 |
+| Confirming Suspicions | 40.00% | ~1,450 |
+| The Kraken Wakes | 36.00% | ~1,305 |
 | It's Starting to Crack | 33.00% | ~1,196 |
 | Change the Channel | 30.00% | ~1,087 |
 | Lord of War | 29.00% | ~1,051 |
-| Taking it back | 28.00% | ~1,014 |
+| Taking it back | 28.00% | ~1,015 |
 | Resourceful | 26.00% | ~942 |
 | Target America | 26.00% | ~942 |
 | The Kraken Sleeps | 24.00% | ~870 |
@@ -24,8 +24,8 @@ Rating: 4.46 (Ranked 625)
 | Gunslinger | 17.00% | ~616 |
 | Climbing the Ladder | 16.00% | ~580 |
 | Der Geist | 16.00% | ~580 |
-| Close Quarters | 15.00% | ~543 |
-| Brains of the Operation | 15.00% | ~543 |
+| Close Quarters | 15.00% | ~544 |
+| Brains of the Operation | 15.00% | ~544 |
 | Enemy at the Gates | 14.00% | ~507 |
 | Fields of Glory | 14.00% | ~507 |
 | Skirmisher | 14.00% | ~507 |
@@ -59,11 +59,11 @@ Rating: 4.46 (Ranked 625)
 | Eagle Eyed | 2.00% | ~72 |
 | Up close and personal | 2.00% | ~72 |
 | Can't Outrun A Bullet | 2.00% | ~72 |
-| Führerious Repetition | 2.00% | ~71 |
-| Reich To The Point | 2.00% | ~71 |
-| Covert Elimination | 2.00% | ~71 |
-| Shipbreaker | 2.00% | ~71 |
-| Sink or Swim | 2.00% | ~71 |
+| Führerious Repetition | 2.00% | ~72 |
+| Reich To The Point | 2.00% | ~72 |
+| Covert Elimination | 2.00% | ~72 |
+| Shipbreaker | 2.00% | ~72 |
+| Sink or Swim | 2.00% | ~72 |
 | Best of the Best | 1.00% | ~36 |
 | Sight Beyond Sights | 1.00% | ~36 |
 | From Führer Away | 1.00% | ~36 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 625)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,623 (Ranked 160)  
+Progressed: 3,624 (Ranked 160)  
 Completed: 10 (0.28%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 10 (0.28%) (Ranked 186)
 | 2023-09-14 | 3,612 | 10 |
 | 2023-09-15 | 3,614 | 10 |
 | 2023-09-16 | 3,621 | 10 |
-| 2023-09-17 | 3,623 | 10 |
+| 2023-09-17 | 3,624 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -292,9 +292,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1945,
+  "EOS_Progressed": 1946,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5617,6 +5617,11 @@
       "Time": "2023-09-17T06:03:59.305695+00:00",
       "NumProgressed": 1945,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-17T09:07:01.9781972+00:00",
+      "NumProgressed": 1946,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5812,7 +5817,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "fourleafclover",
@@ -5820,7 +5825,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "frostfireliberator",
@@ -5828,15 +5833,15 @@
       "Name": "Frostfire Liberator",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 311
     },
     {
       "ID": "gearenchanting",
@@ -6020,7 +6025,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "prestigiousx10",
@@ -6052,7 +6057,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "scrollmaster",
@@ -6116,7 +6121,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "thepowerofawakening",
@@ -6188,7 +6193,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "warmachinesarmy",
@@ -6227,7 +6232,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1945,
+      "Progressed": 1946,
       "Completed": 2
     }
   ],
@@ -6235,8 +6240,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:05:46.9853733+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:07:01.9781964+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-17T07:58:54.7959292+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:05:46.9855748+00:00"
+  "LastUpdate_Ratings": "2023-09-17T08:59:16.7688756+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:07:01.9783353+00:00"
 }

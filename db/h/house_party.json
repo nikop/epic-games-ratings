@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6191,
+  "EOS_Progressed": 6192,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5023,6 +5023,11 @@
       "Time": "2023-09-17T08:08:09.3357086+00:00",
       "NumProgressed": 6191,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T09:09:26.5284479+00:00",
+      "NumProgressed": 6192,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5456,9 +5461,9 @@
       "ID": "TM_Derek",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Derek",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 19
     },
     {
       "ID": "TM_Frank",
@@ -5585,21 +5590,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3230,
+      "Progressed": 3231,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6191,
+      "Progressed": 6192,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:08:09.3357079+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:09:26.5284474+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.7446056+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:03:38.7539837+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:08:09.3358428+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:04:49.1830942+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:09:26.5285517+00:00"
 }

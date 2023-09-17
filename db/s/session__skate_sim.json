@@ -922,9 +922,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2840,
+  "EOS_Progressed": 2841,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4527,6 +4527,11 @@
       "Time": "2023-09-17T08:09:05.5725249+00:00",
       "NumProgressed": 2840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T09:10:23.8891737+00:00",
+      "NumProgressed": 2841,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4906,7 +4911,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4921,15 +4926,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2840,
+      "Progressed": 2841,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-15T17:58:31.0946965+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:09:05.5725243+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:10:23.8891732+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:00:25.4054518+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:09:05.5725944+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:01:01.2361788+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:10:23.8892471+00:00"
 }

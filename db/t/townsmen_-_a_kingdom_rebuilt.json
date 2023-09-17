@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4281,
+  "EOS_Progressed": 4283,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1220,6 +1220,11 @@
       "Time": "2023-09-16T17:09:12.0247654+00:00",
       "NumProgressed": 4281,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T09:12:55.7253282+00:00",
+      "NumProgressed": 4283,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1919,7 +1924,7 @@
       "Name": "A time consuming game I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -2038,15 +2043,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4281,
+      "Progressed": 4283,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:11:35.1653883+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:12:55.7253276+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-17T07:59:07.0792061+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:11:35.1655287+00:00"
+  "LastUpdate_Ratings": "2023-09-17T08:59:29.4093912+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:12:55.7254687+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~45,577 |
-| Worth it | 63.00% | ~36,812 |
-| Eagle Eye | 55.00% | ~32,138 |
-| Corpseman I | 40.00% | ~23,373 |
-| Blast fishing | 37.00% | ~21,620 |
-| Not alone | 32.00% | ~18,698 |
-| Headhunter I | 26.00% | ~15,192 |
-| Manual Labour I | 25.00% | ~14,608 |
-| Developers, Developers, Developers | 24.00% | ~14,024 |
-| Basic Training | 24.00% | ~14,024 |
-| Furchtlos und Treu | 13.00% | ~7,596 |
+| Setting an example | 78.00% | ~45,581 |
+| Worth it | 63.00% | ~36,815 |
+| Eagle Eye | 55.00% | ~32,140 |
+| Corpseman I | 40.00% | ~23,375 |
+| Blast fishing | 37.00% | ~21,622 |
+| Not alone | 32.00% | ~18,700 |
+| Headhunter I | 26.00% | ~15,194 |
+| Manual Labour I | 25.00% | ~14,609 |
+| Developers, Developers, Developers | 24.00% | ~14,025 |
+| Basic Training | 24.00% | ~14,025 |
+| Furchtlos und Treu | 13.00% | ~7,597 |
 | Gott Mit Uns | 12.00% | ~7,012 |
 | This We'll Defend! | 9.00% | ~5,259 |
 | Anker wirf! | 9.00% | ~5,259 |
 | Providentiea Memor | 9.00% | ~5,259 |
 | For King and Country | 9.00% | ~5,259 |
 | Battle hardened | 8.00% | ~4,675 |
-| Semper Fidelis! | 7.00% | ~4,090 |
-| Honneur et Patrie | 7.00% | ~4,090 |
+| Semper Fidelis! | 7.00% | ~4,091 |
+| Honneur et Patrie | 7.00% | ~4,091 |
 | In Treue Fest | 5.00% | ~2,922 |
 | Voor De Koning | 5.00% | ~2,922 |
 | Extreme Headhunter | 5.00% | ~2,922 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~58 |
 | Blood Brother | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,432 (Ranked 90)  
+Progressed: 58,437 (Ranked 90)  
 Completed: 4 (0.01%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,18 +216,18 @@ Completed: 4 (0.01%) (Ranked 262)
 | 2023-09-14 | 58,174 | 4 |
 | 2023-09-15 | 58,284 | 4 |
 | 2023-09-16 | 58,407 | 4 |
-| 2023-09-17 | 58,432 | 4 |
+| 2023-09-17 | 58,437 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 345)  
-Sum: 774 (Ranked 268)  
+Sum: 776 (Ranked 268)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 97 |
-| This game is Extremely Fun | 91 |
+| This game is Extremely Fun | 92 |
 | This game is Great for Beginners | 88 |
 | This game has Diverse Characters | 87 |
-| This game has Quickly Understood Controls | 84 |
+| This game has Quickly Understood Controls | 85 |
 | This game is Educational | 76 |
 | This game is Relaxing | 75 |
 | This game has Competitive Players | 73 |
@@ -374,3 +374,4 @@ Diff (max vs sum): 77
 | 2023-09-13 | 4.52 | - | 96 | 773 |
 | 2023-09-14 | 4.52 | - | 97 | 774 |
 | 2023-09-15 | 4.53 | - | 97 | 774 |
+| 2023-09-17 | 4.53 | - | 97 | 776 |

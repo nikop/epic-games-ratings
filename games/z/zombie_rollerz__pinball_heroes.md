@@ -17,28 +17,28 @@ Rating: 4.30 (Ranked 800)
 | The Magician | 43.00% | ~67 |
 | The Tunneler | 40.00% | ~62 |
 | Level Up!! | 39.00% | ~60 |
-| The Shield | 37.00% | ~57 |
+| The Shield | 38.00% | ~59 |
 | Kill-streak | 30.00% | ~46 |
 | Topped up | 29.00% | ~45 |
 | The Bird | 28.00% | ~43 |
 | The Idol | 27.00% | ~42 |
 | The Ninja | 26.00% | ~40 |
-| Inferno Ruins | 25.00% | ~39 |
+| Inferno Ruins | 26.00% | ~40 |
+| I'm Rich | 24.00% | ~37 |
 | 1 is all I need | 23.00% | ~36 |
-| I'm Rich | 23.00% | ~36 |
+| The Slime | 23.00% | ~36 |
 | Untouchable | 22.00% | ~34 |
-| The Slime | 22.00% | ~34 |
+| The Blacksmith | 17.00% | ~26 |
 | The Flower | 17.00% | ~26 |
 | The Giant | 17.00% | ~26 |
 | The Ooze | 17.00% | ~26 |
 | Out of the Frying Pan... | 17.00% | ~26 |
-| The Blacksmith | 16.00% | ~25 |
 | Ember | 16.00% | ~25 |
 | Turquoise | 15.00% | ~23 |
 | The Assistant | 14.00% | ~22 |
 | The Steampunk | 14.00% | ~22 |
+| Verse | 12.00% | ~19 |
 | The Droid | 11.00% | ~17 |
-| Verse | 11.00% | ~17 |
 | Iron | 10.00% | ~16 |
 | The Bomber | 9.00% | ~14 |
 | Tested | 8.00% | ~12 |

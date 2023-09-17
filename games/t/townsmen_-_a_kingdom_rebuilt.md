@@ -11,7 +11,7 @@ Number of Ratings: 37  (23.09.2022)
 | A new beginning | 11.00% | ~471 |
 | Friends from the past | 10.00% | ~428 |
 | I like to build stuff... I | 9.00% | ~385 |
-| A time consuming game I | 8.00% | ~342 |
+| A time consuming game I | 8.00% | ~343 |
 | Builder I | 7.00% | ~300 |
 | An honorable Governor I | 7.00% | ~300 |
 | Full-time job I | 7.00% | ~300 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,281 (Ranked 156)  
+Progressed: 4,283 (Ranked 156)  
 Completed: 3 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 3 (0.07%) (Ranked 232)
 | 2023-09-14 | 4,274 | 3 |
 | 2023-09-15 | 4,278 | 3 |
 | 2023-09-16 | 4,281 | 3 |
+| 2023-09-17 | 4,283 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

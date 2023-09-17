@@ -2,7 +2,7 @@
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
   "ProductSlug": "walking-dead-definitive-series",
-  "Ranking_Rating": 31,
+  "Ranking_Rating": 32,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 596,
@@ -1102,6 +1102,6 @@
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
   "LastChanged": "2023-09-12T13:58:14.9804049+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:48.8101454+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:02:09.1874811+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:08:26.4417523+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:03:06.5638202+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:09:43.3876715+00:00"
 }

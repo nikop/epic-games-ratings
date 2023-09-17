@@ -619,9 +619,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 343588,
+  "EOS_Progressed": 343591,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17349,6 +17349,11 @@
       "Time": "2023-09-17T08:08:27.1630601+00:00",
       "NumProgressed": 343588,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-17T09:09:44.0115172+00:00",
+      "NumProgressed": 343591,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17400,7 +17405,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "ach007",
@@ -17440,7 +17445,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "ach012",
@@ -17464,7 +17469,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51538
+      "UsersEstimate": 51539
     },
     {
       "ID": "ach015",
@@ -17472,7 +17477,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "ach016",
@@ -17488,7 +17493,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44666
+      "UsersEstimate": 44667
     },
     {
       "ID": "ach018",
@@ -17568,7 +17573,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158050
+      "UsersEstimate": 158052
     },
     {
       "ID": "ach028",
@@ -17672,7 +17677,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "ach041",
@@ -17688,7 +17693,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "ach043",
@@ -17712,7 +17717,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44666
+      "UsersEstimate": 44667
     },
     {
       "ID": "ach046",
@@ -17752,7 +17757,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "ach051",
@@ -17872,7 +17877,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48102
+      "UsersEstimate": 48103
     },
     {
       "ID": "ach067",
@@ -17888,7 +17893,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54974
+      "UsersEstimate": 54975
     },
     {
       "ID": "ach069",
@@ -17896,7 +17901,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48102
+      "UsersEstimate": 48103
     },
     {
       "ID": "ach070",
@@ -17912,7 +17917,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "ach072",
@@ -17999,7 +18004,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 343588,
+      "Progressed": 343591,
       "Completed": 7
     }
   ],
@@ -18007,8 +18012,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-16T09:58:36.0230166+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:08:27.1630594+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:09:44.0115167+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.6830274+00:00",
-  "LastUpdate_Ratings": "2023-09-17T07:58:42.9680809+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:08:27.1632801+00:00"
+  "LastUpdate_Ratings": "2023-09-17T08:59:04.7254619+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:09:44.0117977+00:00"
 }

@@ -8,9 +8,9 @@
 | Small town | 2.00% | ~7 |
 | I like books | 1.00% | ~3 |
 | The spiritual world... | 1.00% | ~3 |
+| I like my life | 1.00% | ~3 |
 | Sport is good for you | 1.00% | ~3 |
 | Soviet town | 1.00% | ~3 |
-| I like my life | 0.90% | ~3 |
 | It is nice to share with friends in the city | 0.90% | ~3 |
 | I am very happy! | 0.60% | ~2 |
 | I love parks | 0.60% | ~2 |

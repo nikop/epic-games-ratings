@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "TAKE_LEECH",
@@ -718,8 +718,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-17T08:09:32.0506004+00:00",
+  "LastChanged_Achievements": "2023-09-17T09:10:50.4344717+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-17T08:04:46.9815796+00:00",
-  "LastUpdate_Achievements": "2023-09-17T08:09:32.0506203+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:05:53.2329604+00:00",
+  "LastUpdate_Achievements": "2023-09-17T09:10:50.4344934+00:00"
 }
