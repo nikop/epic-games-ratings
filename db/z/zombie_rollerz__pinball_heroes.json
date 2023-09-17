@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -575,9 +575,9 @@
       "ID": "CLG_CHAPTER_NODAMAGE",
       "SetID": "89cjc9l",
       "Name": "Untouchable",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CLG_CHAPTER_NODROPBALL",
@@ -631,17 +631,17 @@
       "ID": "CLG_RUN_LEVELUP_2",
       "SetID": "89cjc9l",
       "Name": "Level Up!!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
       "SetID": "89cjc9l",
       "Name": "Topped up",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -655,9 +655,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -695,9 +695,9 @@
       "ID": "CLG_UNLOCK_10007",
       "SetID": "89cjc9l",
       "Name": "The Exorcist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CLG_UNLOCK_10008",
@@ -783,9 +783,9 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -855,9 +855,9 @@
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -879,9 +879,9 @@
       "ID": "PRG_HARD_10002",
       "SetID": "89cjc9l",
       "Name": "Topaz",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "PRG_HARD_10003",
@@ -1055,9 +1055,9 @@
       "ID": "PRG_MODE_HELL",
       "SetID": "89cjc9l",
       "Name": "Highway to Hell",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "PRG_NORMAL_10001",
@@ -1168,8 +1168,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:06:57.1901781+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:06:03.7521792+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:26.6139779+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:02:36.2730508+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:06:57.1902601+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:01:38.0209919+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:06:03.7522492+00:00"
 }

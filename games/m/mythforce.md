@@ -11,9 +11,9 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 11.00% | ~269 |
 | Perk Shard Punch Card | 11.00% | ~269 |
 | That'll Leave a Mark | 11.00% | ~269 |
-| Mushroom Madness! | 10.00% | ~244 |
-| Horder Better Faster Stronger | 8.00% | ~195 |
-| Spending Spree | 8.00% | ~195 |
+| Mushroom Madness! | 10.00% | ~245 |
+| Horder Better Faster Stronger | 8.00% | ~196 |
+| Spending Spree | 8.00% | ~196 |
 | Everything Must Go! | 7.00% | ~171 |
 | First Strike | 7.00% | ~171 |
 | Ten Steps from the Grave | 7.00% | ~171 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~5 |
 | Deadalus and Loving It | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,441 (Ranked 179)  
+Progressed: 2,446 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 276)
 | 2023-09-14 | 1,880 | 0 |
 | 2023-09-15 | 2,137 | 0 |
 | 2023-09-16 | 2,380 | 0 |
-| 2023-09-17 | 2,441 | 0 |
+| 2023-09-17 | 2,446 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 356)  

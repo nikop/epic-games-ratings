@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -185,9 +185,9 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "02_Soap",
@@ -426,8 +426,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:08:17.5753592+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:07:20.431017+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.5450266+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:58:15.9222322+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:08:17.5753847+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:57:48.9507477+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:07:20.4310392+00:00"
 }

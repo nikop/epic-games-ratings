@@ -9,7 +9,7 @@
 | Hear That Roar! | 37.00% | ~331 |
 | Eat My Dust | 33.00% | ~295 |
 | Rivals to the End | 30.00% | ~268 |
-| We're Going to Need a Bigger Garage | 25.00% | ~224 |
+| We're Going to Need a Bigger Garage | 26.00% | ~232 |
 | I'm Here Too! | 24.00% | ~215 |
 | Bitter Rivalry | 20.00% | ~179 |
 | Restored and Ready | 17.00% | ~152 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894 (Ranked 216)  
+Progressed: 894 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |

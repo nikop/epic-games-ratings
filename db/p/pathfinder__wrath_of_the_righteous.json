@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3728,9 +3728,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11316,
+  "EOS_Progressed": 11319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12448,6 +12448,11 @@
       "Time": "2023-09-17T06:08:36.9102154+00:00",
       "NumProgressed": 11316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T07:07:37.2191902+00:00",
+      "NumProgressed": 11319,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12459,7 +12464,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "02_BurningCity",
@@ -12483,7 +12488,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -12499,7 +12504,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "07_FinalThreshold",
@@ -12547,7 +12552,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "13_PathOfLich",
@@ -12595,7 +12600,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "19_EqualToAroden",
@@ -12683,7 +12688,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "31_DivideAndRule",
@@ -12707,7 +12712,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -12731,7 +12736,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -12843,7 +12848,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -13386,21 +13391,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10098,
+      "Progressed": 10101,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11316,
+      "Progressed": 11319,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-14T20:57:29.523269+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:08:36.9102149+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:07:37.2191895+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.4694151+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:58:09.6199897+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:08:36.910443+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:57:44.8467987+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:07:37.2194053+00:00"
 }

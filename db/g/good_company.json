@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -4057,9 +4057,9 @@
       "ID": "ach_prof_products_sold",
       "SetID": "8cb3id7",
       "Name": "Tycoon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_prof_success",
@@ -4105,8 +4105,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:04:49.8951299+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:04:07.222202+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:47.9419518+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:59:18.2031415+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:04:49.8952386+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:58:46.9093673+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:04:07.2223068+00:00"
 }

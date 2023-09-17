@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,11 +244,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35893,
-  "EOS_Completed": 109,
-  "EOS_NewPlayers": 64,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Progressed": 35894,
+  "EOS_Completed": 110,
+  "EOS_NewPlayers": 65,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:12.9453937+00:00",
@@ -13449,6 +13449,11 @@
       "Time": "2023-09-17T01:52:07.0278414+00:00",
       "NumProgressed": 35893,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-09-17T07:07:15.855951+00:00",
+      "NumProgressed": 35894,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 14,
@@ -13540,7 +13545,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8973
+      "UsersEstimate": 8974
     },
     {
       "ID": "firstItem",
@@ -13571,15 +13576,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35893,
-      "Completed": 109
+      "Progressed": 35894,
+      "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:08:12.0500488+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:07:15.8559505+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:54.738544+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:01:16.8572641+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:08:12.0501433+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:00:28.3069307+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:07:15.8560374+00:00"
 }

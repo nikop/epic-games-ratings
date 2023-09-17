@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -617,9 +617,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2441,
+  "EOS_Progressed": 2446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1171,
+  "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4647,6 +4647,11 @@
       "Time": "2023-09-17T06:09:10.9154984+00:00",
       "NumProgressed": 2441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T07:08:07.8235776+00:00",
+      "NumProgressed": 2446,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4755,7 +4760,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4771,7 +4776,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -4811,7 +4816,7 @@
       "Name": "Spending Spree",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4842,15 +4847,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2441,
+      "Progressed": 2446,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-16T19:59:58.8244102+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:09:10.9154979+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:08:07.8235768+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:59:27.904442+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:09:10.9155432+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:58:55.6677744+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:08:07.8236157+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "paleon-cb76c1",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:43.9664309+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:59:13.4191657+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:03:52.2475886+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:58:42.1259705+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:03:10.7909236+00:00"
 }

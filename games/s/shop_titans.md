@@ -10,6 +10,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 2.00% | ~2,726 |
 | Disintermediation | 2.00% | ~2,726 |
 | Tinkle of Coins | 2.00% | ~2,726 |
+| Capitalism Ho! | 2.00% | ~2,726 |
 | Titan's First Steps | 2.00% | ~2,726 |
 | One Easy Payment | 1.00% | ~1,363 |
 | Some Assembly Required | 1.00% | ~1,363 |
@@ -19,7 +20,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 1.00% | ~1,363 |
 | Budding Merchant | 1.00% | ~1,363 |
 | Through Repetition, Perfection | 1.00% | ~1,363 |
-| Capitalism Ho! | 1.00% | ~1,363 |
 | Own the Means of Production | 1.00% | ~1,363 |
 | The Daily Grind | 0.90% | ~1,227 |
 | Bounty Hunters | 0.90% | ~1,227 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,285 (Ranked 69)  
+Progressed: 136,289 (Ranked 69)  
 Completed: 152 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 152 (0.11%) (Ranked 218)
 | 2023-09-14 | 136,187 | 151 |
 | 2023-09-15 | 136,220 | 151 |
 | 2023-09-16 | 136,276 | 152 |
-| 2023-09-17 | 136,285 | 152 |
+| 2023-09-17 | 136,289 | 152 |
 ## Awards
 Max (Great for Beginners): 4,746  (Ranked 71)  
 Sum: 27,245 (Ranked 48)  

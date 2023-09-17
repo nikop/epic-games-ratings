@@ -12,11 +12,11 @@ Rating: 4.56 (Ranked 468)
 | Never Say Loser Again | 19.00% | ~3,425 |
 | From the Vault with Love | 18.00% | ~3,245 |
 | For your Eyes only | 18.00% | ~3,245 |
-| Assistant Accountant | 17.00% | ~3,064 |
-| Tailor-Made | 17.00% | ~3,064 |
+| Assistant Accountant | 17.00% | ~3,065 |
+| Tailor-Made | 17.00% | ~3,065 |
 | You Only Live Twice | 16.00% | ~2,884 |
 | Fully Decked Out | 16.00% | ~2,884 |
-| A view to Win | 13.00% | ~2,343 |
+| A view to Win | 13.00% | ~2,344 |
 | Private Collection | 12.00% | ~2,163 |
 | Smells Like Trouble | 12.00% | ~2,163 |
 | Dr. No Kill | 11.00% | ~1,983 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 468)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,026 (Ranked 116)  
+Progressed: 18,027 (Ranked 116)  
 Completed: 3 (0.02%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 3 (0.02%) (Ranked 254)
 | 2023-09-14 | 17,997 | 3 |
 | 2023-09-15 | 18,009 | 3 |
 | 2023-09-16 | 18,024 | 3 |
-| 2023-09-17 | 18,026 | 3 |
+| 2023-09-17 | 18,027 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

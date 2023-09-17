@@ -10,24 +10,24 @@ Rating: 4.30 (Ranked 800)
 | Graduation! | 80.00% | ~124 |
 | Villfir Forest | 77.00% | ~119 |
 | Right in the kisser! | 61.00% | ~95 |
+| Duscot Steamcity | 50.00% | ~78 |
 | The Thrower | 49.00% | ~76 |
-| Duscot Steamcity | 49.00% | ~76 |
-| The Shaman | 47.00% | ~73 |
-| The Penguin | 45.00% | ~70 |
+| The Shaman | 48.00% | ~74 |
+| The Penguin | 46.00% | ~71 |
 | The Magician | 43.00% | ~67 |
 | The Tunneler | 40.00% | ~62 |
-| Level Up!! | 38.00% | ~59 |
+| Level Up!! | 39.00% | ~60 |
 | The Shield | 37.00% | ~57 |
 | Kill-streak | 30.00% | ~46 |
-| Topped up | 28.00% | ~43 |
+| Topped up | 29.00% | ~45 |
 | The Bird | 28.00% | ~43 |
 | The Idol | 27.00% | ~42 |
 | The Ninja | 26.00% | ~40 |
 | Inferno Ruins | 25.00% | ~39 |
 | 1 is all I need | 23.00% | ~36 |
 | I'm Rich | 23.00% | ~36 |
+| Untouchable | 22.00% | ~34 |
 | The Slime | 22.00% | ~34 |
-| Untouchable | 21.00% | ~33 |
 | The Flower | 17.00% | ~26 |
 | The Giant | 17.00% | ~26 |
 | The Ooze | 17.00% | ~26 |
@@ -43,10 +43,10 @@ Rating: 4.30 (Ranked 800)
 | The Bomber | 9.00% | ~14 |
 | Tested | 8.00% | ~12 |
 | The Astronaut | 7.00% | ~11 |
+| Highway to Hell | 7.00% | ~11 |
 | Power Overwhelming | 6.00% | ~9 |
+| The Exorcist | 6.00% | ~9 |
 | Mithril | 6.00% | ~9 |
-| Highway to Hell | 6.00% | ~9 |
-| The Exorcist | 5.00% | ~8 |
 | Aluminum | 5.00% | ~8 |
 | Anvil | 5.00% | ~8 |
 | Analyzed | 4.00% | ~6 |
@@ -54,6 +54,7 @@ Rating: 4.30 (Ranked 800)
 | Combo Master | 3.00% | ~5 |
 | It's a Trap! | 3.00% | ~5 |
 | Blaze | 3.00% | ~5 |
+| Topaz | 3.00% | ~5 |
 | Chorus | 3.00% | ~5 |
 | TNT | 3.00% | ~5 |
 | Titanium | 3.00% | ~5 |
@@ -63,7 +64,6 @@ Rating: 4.30 (Ranked 800)
 | Hammer | 3.00% | ~5 |
 | Gunpowder | 3.00% | ~5 |
 | Really Bad Luck | 2.00% | ~3 |
-| Topaz | 2.00% | ~3 |
 | Immortality | 2.00% | ~3 |
 | Adamantite | 2.00% | ~3 |
 | Nuclear Bomb | 2.00% | ~3 |

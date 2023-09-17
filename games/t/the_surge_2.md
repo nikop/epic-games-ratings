@@ -5,17 +5,17 @@ Rating: 4.24 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,608 |
-| Don't I Know You...? | 77.00% | ~1,548 |
-| Jailbreak | 65.00% | ~1,306 |
+| Rigged And Ready | 80.00% | ~1,609 |
+| Don't I Know You...? | 76.00% | ~1,528 |
+| Jailbreak | 65.00% | ~1,307 |
 | Suited and Booted | 39.00% | ~784 |
 | HEADSHOT! | 38.00% | ~764 |
 | Sleeping With The Fishes | 35.00% | ~704 |
 | Overheated | 30.00% | ~603 |
 | High Performance | 30.00% | ~603 |
 | Powered Up | 28.00% | ~563 |
-| Studied The Blade | 25.00% | ~502 |
-| Home Invasion | 23.00% | ~462 |
+| Studied The Blade | 25.00% | ~503 |
+| Home Invasion | 23.00% | ~463 |
 | Luminary | 22.00% | ~442 |
 | It's a Trap | 22.00% | ~442 |
 | True Survivor | 21.00% | ~422 |
@@ -27,7 +27,7 @@ Rating: 4.24 (Ranked 843)
 | Dead Again | 18.00% | ~362 |
 | Full Arsenal | 17.00% | ~342 |
 | Can't Trust Banks | 15.00% | ~302 |
-| Mommy Dearest | 14.00% | ~281 |
+| Mommy Dearest | 14.00% | ~282 |
 | Bad Dog | 13.00% | ~261 |
 | Where It All Began | 13.00% | ~261 |
 | Risk Tolerant | 13.00% | ~261 |
@@ -47,8 +47,8 @@ Rating: 4.24 (Ranked 843)
 | Turbo Booster | 6.00% | ~121 |
 | Juiced Up | 6.00% | ~121 |
 | Squid Pro Quo | 6.00% | ~121 |
-| Counter-Sniper | 5.00% | ~100 |
-| Shrimp Cocktail | 5.00% | ~100 |
+| Counter-Sniper | 5.00% | ~101 |
+| Shrimp Cocktail | 5.00% | ~101 |
 | Hello Darkness My Old Friend | 4.00% | ~80 |
 | Geronimo! | 4.00% | ~80 |
 | Homewrecker | 4.00% | ~80 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 843)
 | Loot, Pillage & Craft | 2.00% | ~40 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,010 (Ranked 184)  
+Progressed: 2,011 (Ranked 184)  
 Completed: 12 (0.60%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 12 (0.60%) (Ranked 146)
 | 2023-09-14 | 2,001 | 11 |
 | 2023-09-15 | 2,005 | 11 |
 | 2023-09-16 | 2,009 | 12 |
-| 2023-09-17 | 2,010 | 12 |
+| 2023-09-17 | 2,011 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

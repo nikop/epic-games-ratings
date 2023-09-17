@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 894,
+  "EOS_Progressed": 895,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2055,6 +2055,11 @@
       "Time": "2023-09-17T02:20:42.2745276+00:00",
       "NumProgressed": 894,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T07:03:17.3754412+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2066,7 +2071,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH001",
@@ -2122,7 +2127,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH008",
@@ -2154,7 +2159,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH012",
@@ -2176,9 +2181,9 @@
       "ID": "ACH014",
       "SetID": "69nfp41",
       "Name": "Christening",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH015",
@@ -2186,7 +2191,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH016",
@@ -2218,7 +2223,7 @@
       "Name": "Just a scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH020",
@@ -2234,7 +2239,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH022",
@@ -2354,7 +2359,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH037",
@@ -2410,7 +2415,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH044",
@@ -2418,7 +2423,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH045",
@@ -2450,7 +2455,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH049",
@@ -2465,15 +2470,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 894,
+      "Progressed": 895,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:04:00.4334658+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:03:17.3754406+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.7770724+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:59:08.804283+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:04:00.4335238+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:58:38.8807899+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:03:17.3754947+00:00"
 }

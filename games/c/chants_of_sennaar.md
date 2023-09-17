@@ -9,14 +9,14 @@
 | The great escape | 43.00% | ~69 |
 | The Preacher's fate | 42.00% | ~68 |
 | A new dawn | 39.00% | ~63 |
-| Scholar | 37.00% | ~60 |
+| Scholar | 38.00% | ~61 |
 | A good beginning | 35.00% | ~56 |
 | The darkness | 35.00% | ~56 |
 | True G4M3R | 33.00% | ~53 |
 | One last step | 30.00% | ~48 |
-| Champollion | 28.00% | ~45 |
+| Champollion | 29.00% | ~47 |
+| Cable guy | 28.00% | ~45 |
 | In this together | 27.00% | ~43 |
-| Cable guy | 27.00% | ~43 |
 | Peace walker | 26.00% | ~42 |
 | Half the way | 26.00% | ~42 |
 | Open door | 24.00% | ~39 |

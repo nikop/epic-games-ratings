@@ -43,8 +43,8 @@ Number of Ratings: 75  (23.09.2022)
 | Data Churn Type IV | 1.00% | ~54 |
 | Keen Eye | 1.00% | ~54 |
 | Level: Topple The Top | 0.90% | ~49 |
+| Tycoon | 0.90% | ~49 |
 | Bet On Bots: Safety First | 0.80% | ~43 |
-| Tycoon | 0.80% | ~43 |
 | Merry-Go-Around: Self-Made | 0.70% | ~38 |
 | Level: Eye In The Sky | 0.60% | ~32 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |

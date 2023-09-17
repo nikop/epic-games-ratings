@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 207540,
+  "EOS_Progressed": 207543,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17138,6 +17138,11 @@
       "Time": "2023-09-17T06:05:33.425923+00:00",
       "NumProgressed": 207540,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-17T07:04:34.2346545+00:00",
+      "NumProgressed": 207543,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -17149,7 +17154,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 97544
+      "UsersEstimate": 97545
     },
     {
       "ID": "AlekhinesGun",
@@ -17197,7 +17202,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 114147
+      "UsersEstimate": 114149
     },
     {
       "ID": "Checkmate",
@@ -17205,7 +17210,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 62262
+      "UsersEstimate": 62263
     },
     {
       "ID": "ChessChampion",
@@ -17221,7 +17226,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 145278
+      "UsersEstimate": 145280
     },
     {
       "ID": "DoubleCheck",
@@ -17237,7 +17242,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 116222
+      "UsersEstimate": 116224
     },
     {
       "ID": "Elo",
@@ -17325,7 +17330,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 26980
+      "UsersEstimate": 26981
     },
     {
       "ID": "Octopus",
@@ -17333,7 +17338,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 26980
+      "UsersEstimate": 26981
     },
     {
       "ID": "PieceCollector",
@@ -17341,7 +17346,7 @@
       "Name": "Piece Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12452
+      "UsersEstimate": 12453
     },
     {
       "ID": "ProblemSolved",
@@ -17365,7 +17370,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 64337
+      "UsersEstimate": 64338
     },
     {
       "ID": "QueenSacrifice",
@@ -17373,7 +17378,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 41508
+      "UsersEstimate": 41509
     },
     {
       "ID": "ScholarsMate",
@@ -17389,7 +17394,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 43583
+      "UsersEstimate": 43584
     },
     {
       "ID": "Stalemate",
@@ -17397,7 +17402,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 37357
+      "UsersEstimate": 37358
     },
     {
       "ID": "StrangerDanger",
@@ -17452,7 +17457,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 207540,
+      "Progressed": 207543,
       "Completed": 2
     }
   ],
@@ -17460,8 +17465,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:05:33.4259221+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:04:34.234654+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:09.4209703+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:58:23.6704071+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:05:33.4260612+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:57:57.9122419+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:04:34.23478+00:00"
 }

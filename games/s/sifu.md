@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 0.20% | ~1,430 |
+| The Old Grandmaster | 0.30% | ~2,145 |
 | The Assault | 0.20% | ~1,430 |
 | The Hateful Pole Fighter | 0.20% | ~1,430 |
 | Stuntmaster | 0.20% | ~1,430 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,063 (Ranked 20)  
+Progressed: 715,065 (Ranked 20)  
 Completed: 12,895 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,10 +217,10 @@ Completed: 12,895 (1.80%) (Ranked 102)
 | 2023-09-14 | 714,971 | 12,892 |
 | 2023-09-15 | 715,005 | 12,893 |
 | 2023-09-16 | 715,054 | 12,895 |
-| 2023-09-17 | 715,063 | 12,895 |
+| 2023-09-17 | 715,065 | 12,895 |
 ## Awards
 Max (Great Boss Battles): 6,521  (Ranked 53)  
-Sum: 11,263 (Ranked 81)  
+Sum: 11,264 (Ranked 81)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -229,7 +229,7 @@ Diff (max vs sum): -28
 | This game has Challenging Combat | 562 |
 | This game has Quickly Understood Controls | 549 |
 | This game has Amazing Storytelling | 545 |
-| This game is Extremely Fun | 537 |
+| This game is Extremely Fun | 538 |
 | This game has Amazing Characters | 536 |
 | This game is Highly Recommended | 535 |
 | This game has Unique Visuals | 495 |
@@ -482,4 +482,4 @@ Diff (max vs sum): -28
 | 2023-09-14 | 4.82 | - | 6,501 | 11,229 |
 | 2023-09-15 | 4.82 | - | 6,512 | 11,247 |
 | 2023-09-16 | 4.82 | - | 6,512 | 11,252 |
-| 2023-09-17 | 4.82 | - | 6,521 | 11,263 |
+| 2023-09-17 | 4.82 | - | 6,521 | 11,264 |

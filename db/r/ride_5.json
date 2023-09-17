@@ -2,10 +2,10 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 894,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1201,9 +1201,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 232
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1528,8 +1528,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:08:41.8690939+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:07:41.2598586+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:59:17.2699497+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:08:41.8691445+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:58:46.2994407+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:07:41.2599098+00:00"
 }

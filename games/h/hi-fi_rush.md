@@ -14,9 +14,9 @@ Rating: 4.87 (Ranked 25)
 | You got this, Peppermint? | 10.00% | ~406 |
 | Perfect Parry | 10.00% | ~406 |
 | Alright, that felt AWESOME! | 10.00% | ~406 |
+| This will cost you big time | 9.00% | ~366 |
 | I play my own way! | 9.00% | ~366 |
 | Uh, they were broken when I got here | 9.00% | ~366 |
-| This will cost you big time | 8.00% | ~325 |
 | Z-shielding's got nothing on us! | 8.00% | ~325 |
 | Kissing the sky! | 8.00% | ~325 |
 | I look cool. But I can look COOLER. | 8.00% | ~325 |

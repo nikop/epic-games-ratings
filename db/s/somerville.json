@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -659,9 +659,9 @@
       "ID": "SomervilleUnderstanding",
       "SetID": "3mk3nll",
       "Name": "Understanding",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SomervilleWarOfTheWorlds",
@@ -700,8 +700,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:09:21.4236776+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:08:16.4798971+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:38.8578995+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:03:28.9521933+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:09:21.4236895+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:02:23.7155995+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:08:16.4799096+00:00"
 }

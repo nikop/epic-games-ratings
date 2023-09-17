@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1124,
+  "EOS_Progressed": 1125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -895,6 +895,11 @@
       "Time": "2023-09-16T17:08:04.2515848+00:00",
       "NumProgressed": 1124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T07:07:29.4115682+00:00",
+      "NumProgressed": 1125,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -970,7 +975,7 @@
       "Name": "Over the clouds",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ALLTRACKSFUJI",
@@ -994,7 +999,7 @@
       "Name": "Under the sea, under the sea",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ALLTRACKSMARS",
@@ -1034,7 +1039,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "CAREERADVANCED",
@@ -1050,7 +1055,7 @@
       "Name": "Even Faster!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CAREERCLASSB",
@@ -1090,7 +1095,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -1146,7 +1151,7 @@
       "Name": "Longshot",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GOFAST",
@@ -1218,7 +1223,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ONEPAINT",
@@ -1321,7 +1326,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1124,
+      "Progressed": 1125,
       "Completed": 0
     }
   ],
@@ -1329,8 +1334,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-17T06:08:27.6341972+00:00",
+  "LastChanged_Achievements": "2023-09-17T07:07:29.4115677+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.9478991+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:00:44.9276002+00:00",
-  "LastUpdate_Achievements": "2023-09-17T06:08:27.6342496+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:00:04.1400771+00:00",
+  "LastUpdate_Achievements": "2023-09-17T07:07:29.4116168+00:00"
 }
