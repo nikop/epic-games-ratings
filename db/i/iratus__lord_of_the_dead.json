@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2140,9 +2140,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 40004,
+  "EOS_Progressed": 40005,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18250,6 +18250,11 @@
       "Time": "2023-09-17T02:21:25.7184338+00:00",
       "NumProgressed": 40004,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-17T03:03:52.6807634+00:00",
+      "NumProgressed": 40005,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -18293,7 +18298,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 22802
+      "UsersEstimate": 22803
     },
     {
       "ID": "achievements_14",
@@ -18317,7 +18322,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14001
+      "UsersEstimate": 14002
     },
     {
       "ID": "achievements_19",
@@ -18365,7 +18370,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24002
+      "UsersEstimate": 24003
     },
     {
       "ID": "achievements_24",
@@ -18373,7 +18378,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 22002
+      "UsersEstimate": 22003
     },
     {
       "ID": "achievements_25",
@@ -18413,7 +18418,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13201
+      "UsersEstimate": 13202
     },
     {
       "ID": "achievements_3",
@@ -18429,7 +18434,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 12401
+      "UsersEstimate": 12402
     },
     {
       "ID": "achievements_31",
@@ -18445,7 +18450,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13601
+      "UsersEstimate": 13602
     },
     {
       "ID": "achievements_33",
@@ -18557,7 +18562,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 4800
+      "UsersEstimate": 4801
     },
     {
       "ID": "achievements_46",
@@ -18565,7 +18570,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 34003
+      "UsersEstimate": 34004
     },
     {
       "ID": "achievements_47",
@@ -18597,7 +18602,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 20402
+      "UsersEstimate": 20403
     },
     {
       "ID": "achievements_50",
@@ -18629,7 +18634,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 22802
+      "UsersEstimate": 22803
     },
     {
       "ID": "achievements_54",
@@ -18685,7 +18690,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13601
+      "UsersEstimate": 13602
     },
     {
       "ID": "achievements_61",
@@ -18837,7 +18842,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 29203
+      "UsersEstimate": 29204
     },
     {
       "ID": "achievements_8",
@@ -18845,7 +18850,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 12001
+      "UsersEstimate": 12002
     },
     {
       "ID": "achievements_9",
@@ -18860,15 +18865,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 40004,
+      "Progressed": 40005,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-09T22:01:15.7942849+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:21:25.7184333+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:03:52.6807629+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:54.310699+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:16:02.8513001+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:21:25.7185763+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:58:52.8483168+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:03:52.6809539+00:00"
 }

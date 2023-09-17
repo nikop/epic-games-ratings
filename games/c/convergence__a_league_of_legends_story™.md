@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 395)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 27.00% | ~235 |
+| Time Heals All Wounds | 28.00% | ~244 |
 | The Mysterious Stranger | 22.00% | ~192 |
 | Rail Rat | 22.00% | ~192 |
 | Make Up For Lost Time | 20.00% | ~174 |

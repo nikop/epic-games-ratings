@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,655 |
-| Uncharted Territory | 89.00% | ~210,128 |
-| Getting A Glimpse | 73.00% | ~172,352 |
-| A Quick Escape | 65.00% | ~153,464 |
-| Explorer | 62.00% | ~146,381 |
-| Defeat The Dark | 61.00% | ~144,020 |
-| An Offering | 61.00% | ~144,020 |
-| Colorful Corpse | 58.00% | ~136,937 |
-| That Was Quick | 57.00% | ~134,576 |
-| A Donation | 57.00% | ~134,576 |
-| Goodbye, Frog Friend | 54.00% | ~127,493 |
-| Heavy Hitter | 53.00% | ~125,132 |
+| First Steps | 96.00% | ~226,657 |
+| Uncharted Territory | 89.00% | ~210,130 |
+| Getting A Glimpse | 73.00% | ~172,354 |
+| A Quick Escape | 65.00% | ~153,466 |
+| Explorer | 62.00% | ~146,383 |
+| Defeat The Dark | 61.00% | ~144,022 |
+| An Offering | 61.00% | ~144,022 |
+| Colorful Corpse | 58.00% | ~136,939 |
+| That Was Quick | 57.00% | ~134,578 |
+| A Donation | 57.00% | ~134,578 |
+| Goodbye, Frog Friend | 54.00% | ~127,495 |
+| Heavy Hitter | 53.00% | ~125,134 |
 | Heartless | 46.00% | ~108,606 |
 | Spine Breaker | 46.00% | ~108,606 |
 | Deflection | 45.00% | ~106,245 |
@@ -125,11 +125,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Hard Carry | 0.60% | ~1,417 |
 | Only The Best | 0.60% | ~1,417 |
 | Nudie Run | 0.60% | ~1,417 |
-| Never Too Many Hats | 0.50% | ~1,180 |
-| Down Under | 0.50% | ~1,180 |
+| Never Too Many Hats | 0.50% | ~1,181 |
+| Down Under | 0.50% | ~1,181 |
 | Near Death Experience | 0.30% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,099 (Ranked 52)  
+Progressed: 236,101 (Ranked 52)  
 Completed: 271 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 271 (0.11%) (Ranked 218)
 | 2023-09-14 | 235,973 | 270 |
 | 2023-09-15 | 236,029 | 271 |
 | 2023-09-16 | 236,098 | 271 |
-| 2023-09-17 | 236,099 | 271 |
+| 2023-09-17 | 236,101 | 271 |
 ## Awards
 Max (Quickly Understood Controls): 1,492  (Ranked 124)  
 Sum: 11,556 (Ranked 79)  

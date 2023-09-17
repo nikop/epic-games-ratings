@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10674,
+  "EOS_Progressed": 10675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5561,6 +5561,11 @@
       "Time": "2023-09-17T01:53:21.1631702+00:00",
       "NumProgressed": 10674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T03:08:27.0930544+00:00",
+      "NumProgressed": 10675,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5573,7 +5578,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "10",
@@ -5613,7 +5618,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "15",
@@ -5621,7 +5626,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "16",
@@ -5677,7 +5682,7 @@
       "Name": "Drone Dodger",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "22",
@@ -5789,7 +5794,7 @@
       "Name": "Grave Robber",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "8",
@@ -5812,7 +5817,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10674,
+      "Progressed": 10675,
       "Completed": 0
     }
   ],
@@ -5820,8 +5825,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:26:24.8672294+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:08:27.093054+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:16:26.5043138+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:26:24.8672736+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:59:17.9346556+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:08:27.0931123+00:00"
 }

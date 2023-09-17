@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -508,9 +508,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3373,
+  "EOS_Progressed": 3374,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4378,6 +4378,11 @@
       "Time": "2023-09-17T01:48:21.4464063+00:00",
       "NumProgressed": 3373,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T03:03:46.2358009+00:00",
+      "NumProgressed": 3374,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4429,7 +4434,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "CrowdPleaser",
@@ -4453,7 +4458,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4581,7 +4586,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4643,9 +4648,9 @@
       "ID": "ThePowerofFaith_4",
       "SetID": "c4hee28",
       "Name": "The Power of Faith",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 439
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -4653,7 +4658,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -4707,9 +4712,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2530
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4724,15 +4729,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3373,
+      "Progressed": 3374,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-12T04:00:16.8611299+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:21:16.6945604+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:03:46.2358005+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:15:21.3570457+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:21:16.6946042+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:58:21.663769+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:03:46.2358597+00:00"
 }

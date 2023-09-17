@@ -125,12 +125,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
 | Babylonia | 0.80% | ~112 |
+| Hittite Paganism | 0.80% | ~112 |
 | Kushite Cavalry | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
 | Learn to Play 4 | 0.70% | ~98 |
 | One True Faith | 0.70% | ~98 |
-| Hittite Paganism | 0.70% | ~98 |
 | Turreted Elephant | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
 | Old | 0.60% | ~84 |

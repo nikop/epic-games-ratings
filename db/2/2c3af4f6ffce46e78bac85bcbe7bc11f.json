@@ -2,9 +2,9 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.26,
+  "EOS_Completed_Percentage": 10,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -241,6 +241,11 @@
       "Time": "2023-09-16T15:07:39.3268268+00:00",
       "NumProgressed": 39,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-17T03:06:46.4492289+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -250,7 +255,7 @@
       "ID": "Bird",
       "SetID": "6j29jep",
       "Name": "Something free...",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -298,7 +303,7 @@
       "ID": "Cloud",
       "SetID": "6j29jep",
       "Name": "Something ever-changing...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -338,7 +343,7 @@
       "ID": "Grass",
       "SetID": "6j29jep",
       "Name": "Something foundational...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -370,7 +375,7 @@
       "ID": "Moon",
       "SetID": "6j29jep",
       "Name": "Something to make you dream...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -378,7 +383,7 @@
       "ID": "Moon_Fragile",
       "SetID": "6j29jep",
       "Name": "Something to make you dream... (fragile)",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -402,7 +407,7 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -410,7 +415,7 @@
       "ID": "Star",
       "SetID": "6j29jep",
       "Name": "Something to long for...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -459,14 +464,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:24:35.9837992+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:06:46.4492284+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:03.5633966+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:20:02.1539849+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:24:35.9838173+00:00"
+  "LastUpdate_Ratings": "2023-09-17T03:02:09.8443444+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:06:46.4492494+00:00"
 }

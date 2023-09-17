@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -4902,8 +4902,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:21:01.2439824+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:03:35.5122254+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:16:22.2155084+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:21:01.2440171+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:59:12.1734032+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:03:35.5122704+00:00"
 }

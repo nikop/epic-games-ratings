@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65525,
+  "EOS_Progressed": 65527,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1639,
+  "EOS_NewPlayers": 1627,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14912,6 +14912,11 @@
       "Time": "2023-09-17T02:20:36.3526638+00:00",
       "NumProgressed": 65525,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-17T03:03:18.4800367+00:00",
+      "NumProgressed": 65527,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14923,7 +14928,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26865
+      "UsersEstimate": 26866
     },
     {
       "ID": "02",
@@ -14931,7 +14936,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17036
+      "UsersEstimate": 17037
     },
     {
       "ID": "03",
@@ -14939,7 +14944,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16381
+      "UsersEstimate": 16382
     },
     {
       "ID": "04",
@@ -14963,7 +14968,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11794
+      "UsersEstimate": 11795
     },
     {
       "ID": "07",
@@ -14971,7 +14976,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8518
+      "UsersEstimate": 8519
     },
     {
       "ID": "08",
@@ -14979,7 +14984,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8518
+      "UsersEstimate": 8519
     },
     {
       "ID": "09",
@@ -14995,7 +15000,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "11",
@@ -15099,7 +15104,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "24",
@@ -15131,7 +15136,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8518
+      "UsersEstimate": 8519
     },
     {
       "ID": "28",
@@ -15139,7 +15144,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8518
+      "UsersEstimate": 8519
     },
     {
       "ID": "29",
@@ -15163,7 +15168,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11139
+      "UsersEstimate": 11140
     },
     {
       "ID": "32",
@@ -15171,7 +15176,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20968
+      "UsersEstimate": 20969
     },
     {
       "ID": "33",
@@ -15195,7 +15200,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21623
+      "UsersEstimate": 21624
     },
     {
       "ID": "36",
@@ -15219,7 +15224,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "39",
@@ -15243,7 +15248,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11139
+      "UsersEstimate": 11140
     },
     {
       "ID": "42",
@@ -15259,7 +15264,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11794
+      "UsersEstimate": 11795
     },
     {
       "ID": "44",
@@ -15307,7 +15312,7 @@
       "Name": "Couch Potato",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "50",
@@ -15323,7 +15328,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "52",
@@ -15458,21 +15463,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65525,
+      "Progressed": 65527,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 28993,
+      "Progressed": 28995,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:20:36.3526634+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:03:18.4800362+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:14:14.2532842+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:20:36.3527896+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:57:34.8884742+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:03:18.4802066+00:00"
 }

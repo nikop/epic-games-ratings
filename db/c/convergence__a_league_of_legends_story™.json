@@ -2472,9 +2472,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 244
     },
     {
       "ID": "RewindParry",
@@ -2617,8 +2617,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:25:45.2149612+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:08:06.3522715+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:17:27.7835563+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:25:45.2150083+00:00"
+  "LastUpdate_Ratings": "2023-09-17T03:00:06.3230326+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:08:06.3523303+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": null,
@@ -7363,7 +7363,7 @@
   ],
   "EOS_Progressed": 473267,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23586,9 +23586,9 @@
       "ID": "achievement_over_achiever",
       "SetID": "8k91p5b",
       "Name": "Overachiever!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 70990
+      "UsersEstimate": 75723
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -23962,8 +23962,8 @@
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-16T12:02:37.1622469+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:22:30.4871986+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:04:48.6285961+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:18:55.2168747+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:22:30.4873603+00:00"
+  "LastUpdate_Ratings": "2023-09-17T03:01:22.2003413+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:04:48.6288023+00:00"
 }

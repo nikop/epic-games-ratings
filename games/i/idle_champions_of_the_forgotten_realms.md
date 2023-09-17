@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.30% | ~687 |
 | Pure Energy | 0.30% | ~687 |
 | Legends and Lore | 0.30% | ~586 |
+| Pros and CONs | 0.20% | ~458 |
 | Tall Tales | 0.20% | ~391 |
 | Nightmare Rats! | 0.20% | ~391 |
 | The Witchlight Carnival | 0.20% | ~391 |
@@ -90,7 +91,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.20% | ~391 |
 | To Infinity's and Beyond | 0.20% | ~391 |
 | The End | 0.20% | ~391 |
-| Pros and CONs | 0.10% | ~229 |
 | Upholding the Law | 0.10% | ~229 |
 | Starving in the Jungle | 0.10% | ~229 |
 | Cold as Ice | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,107 (Ranked 56)  
+Progressed: 229,111 (Ranked 56)  
 Completed: 2,290 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,17 +677,17 @@ Completed: 2,290 (1.00%) (Ranked 123)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,107 | 2,290 |
+| 2023-09-17 | 229,111 | 2,290 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
-Sum: 31,617 (Ranked 39)  
+Sum: 31,619 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,283 |
 | This game is Great for Beginners | 5,263 |
 | This game has Quickly Understood Controls | 4,766 |
-| This game is Relaxing | 4,652 |
+| This game is Relaxing | 4,654 |
 | This game has Amazing Characters | 4,122 |
 | This game is Highly Recommended | 4,109 |
 | This game has Playful Visuals | 3,422 |
@@ -928,3 +928,4 @@ Diff (max vs sum): 28
 | 2023-09-14 | 4.06 | - | 5,276 | 31,587 |
 | 2023-09-15 | 4.06 | - | 5,276 | 31,596 |
 | 2023-09-16 | 4.06 | - | 5,283 | 31,617 |
+| 2023-09-17 | 4.06 | - | 5,283 | 31,619 |

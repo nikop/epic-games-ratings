@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2380,
+  "EOS_Progressed": 2381,
   "EOS_Completed": 216,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.08,
+  "EOS_Completed_Percentage": 9.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5948,6 +5948,11 @@
       "Time": "2023-09-17T02:22:40.6647786+00:00",
       "NumProgressed": 2380,
       "NumCompleted": 216
+    },
+    {
+      "Time": "2023-09-17T03:05:05.3674138+00:00",
+      "NumProgressed": 2381,
+      "NumCompleted": 216
     }
   ],
   "TotalAchievements": 12,
@@ -6007,7 +6012,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Le Juif et la France",
@@ -6023,7 +6028,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6054,7 +6059,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2380,
+      "Progressed": 2381,
       "Completed": 216
     }
   ],
@@ -6062,8 +6067,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-17T02:22:40.6647779+00:00",
+  "LastChanged_Achievements": "2023-09-17T03:05:05.3674134+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.6209571+00:00",
-  "LastUpdate_Ratings": "2023-09-17T02:16:41.1914936+00:00",
-  "LastUpdate_Achievements": "2023-09-17T02:22:40.6648163+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:59:26.1452313+00:00",
+  "LastUpdate_Achievements": "2023-09-17T03:05:05.3674582+00:00"
 }
