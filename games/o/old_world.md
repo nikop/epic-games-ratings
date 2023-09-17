@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,15 +11,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 5.00% | ~698 |
 | Friendly Family | 5.00% | ~698 |
 | The Clergy | 5.00% | ~698 |
-| Able | 4.00% | ~558 |
-| Architect | 4.00% | ~558 |
-| Good | 4.00% | ~558 |
-| Intrepid | 4.00% | ~558 |
-| Mason | 4.00% | ~558 |
-| Noble | 4.00% | ~558 |
-| Strong | 4.00% | ~558 |
-| Hanging Gardens | 4.00% | ~558 |
-| Oracle | 4.00% | ~558 |
+| Able | 4.00% | ~559 |
+| Architect | 4.00% | ~559 |
+| Good | 4.00% | ~559 |
+| Intrepid | 4.00% | ~559 |
+| Mason | 4.00% | ~559 |
+| Noble | 4.00% | ~559 |
+| Strong | 4.00% | ~559 |
+| Hanging Gardens | 4.00% | ~559 |
+| Oracle | 4.00% | ~559 |
 | Ambitious | 3.00% | ~419 |
 | Enlightened | 3.00% | ~419 |
 | Glorious | 3.00% | ~419 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,961 (Ranked 123)  
+Progressed: 13,965 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -453,7 +453,7 @@ Completed: 5 (0.04%) (Ranked 245)
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
 | 2023-09-16 | 13,958 | 5 |
-| 2023-09-17 | 13,961 | 5 |
+| 2023-09-17 | 13,965 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

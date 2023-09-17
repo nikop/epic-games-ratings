@@ -19,6 +19,7 @@
 | Taskmaster | 6.00% | ~9 |
 | Conciliator | 5.00% | ~7 |
 | The More the Merrier | 5.00% | ~7 |
+| Deputized | 5.00% | ~7 |
 | Harbinger | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
 | Spiritual Journey | 5.00% | ~7 |
@@ -26,7 +27,6 @@
 | Quartermaster | 4.00% | ~6 |
 | Strategist | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
-| Deputized | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
 | Supercargo | 3.00% | ~4 |

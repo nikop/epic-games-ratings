@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1275,7 +1275,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24109,
+  "EOS_Progressed": 24112,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 2,
@@ -17315,6 +17315,11 @@
       "Time": "2023-09-17T07:04:28.2835972+00:00",
       "NumProgressed": 24109,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-17T08:07:16.3392397+00:00",
+      "NumProgressed": 24112,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 22,
@@ -17350,7 +17355,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "1019",
@@ -17366,7 +17371,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "1021",
@@ -17454,7 +17459,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3375
+      "UsersEstimate": 3376
     },
     {
       "ID": "1032",
@@ -17462,7 +17467,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9644
+      "UsersEstimate": 9645
     },
     {
       "ID": "1033",
@@ -17486,7 +17491,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "1036",
@@ -17501,15 +17506,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24109,
+      "Progressed": 24112,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:04:28.2835966+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:07:16.3392389+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.9877962+00:00",
-  "LastUpdate_Ratings": "2023-09-17T07:01:20.3552184+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:04:28.2837059+00:00"
+  "LastUpdate_Ratings": "2023-09-17T08:03:30.8369364+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:07:16.3394654+00:00"
 }

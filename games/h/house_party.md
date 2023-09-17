@@ -6,7 +6,7 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 5.00% | ~309 |
+| A Friend in Need... | 5.00% | ~310 |
 | Smooth Operator: Madison | 4.00% | ~248 |
 | The Brahdyssey | 2.00% | ~124 |
 | Caught in the Act | 2.00% | ~124 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,189 (Ranked 144)  
+Progressed: 6,191 (Ranked 144)  
 Completed: 3 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 3 (0.05%) (Ranked 240)
 | 2023-09-14 | 6,156 | 3 |
 | 2023-09-15 | 6,175 | 3 |
 | 2023-09-16 | 6,184 | 3 |
-| 2023-09-17 | 6,189 | 3 |
+| 2023-09-17 | 6,191 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

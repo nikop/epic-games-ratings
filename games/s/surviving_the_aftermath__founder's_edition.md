@@ -32,9 +32,9 @@ Number of Ratings: 836  (23.09.2022)
 | Real Survivor | 22.00% | ~1,990 |
 | Rocket Surgeon | 20.00% | ~1,809 |
 | War Never Changes | 19.00% | ~1,719 |
+| Friendly | 17.00% | ~1,538 |
 | Big Game Hunter | 17.00% | ~1,538 |
 | Spreading Influence | 17.00% | ~1,538 |
-| Friendly | 16.00% | ~1,447 |
 | Around the World | 16.00% | ~1,447 |
 | Bookworm | 15.00% | ~1,357 |
 | Famous Adventurer | 14.00% | ~1,266 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1061,9 +1061,9 @@
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 281
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1205,9 +1205,9 @@
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 281
     },
     {
       "ID": "ONELIVERY",
@@ -1334,8 +1334,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:07:29.4115677+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:10:23.067183+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.9478991+00:00",
-  "LastUpdate_Ratings": "2023-09-17T07:00:04.1400771+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:07:29.4116168+00:00"
+  "LastUpdate_Ratings": "2023-09-17T08:01:42.5925135+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:10:23.0672393+00:00"
 }

@@ -6706,9 +6706,9 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229122,
+  "EOS_Progressed": 229127,
   "EOS_Completed": 2290,
-  "EOS_NewPlayers": 915,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23306,6 +23306,11 @@
       "Time": "2023-09-17T07:06:24.9813744+00:00",
       "NumProgressed": 229122,
       "NumCompleted": 2290
+    },
+    {
+      "Time": "2023-09-17T08:09:20.3851137+00:00",
+      "NumProgressed": 229127,
+      "NumCompleted": 2290
     }
   ],
   "TotalAchievements": 520,
@@ -23317,7 +23322,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4583
     },
     {
       "ID": "objective_completed_10",
@@ -24997,7 +25002,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_35",
@@ -25109,7 +25114,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_390",
@@ -25181,7 +25186,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_40",
@@ -27476,21 +27481,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195396,
+      "Progressed": 195401,
       "Completed": 3435
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229122,
+      "Progressed": 229127,
       "Completed": 2290
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-17T02:57:58.0382379+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:06:24.9813736+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:09:20.385113+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:57:39.8278825+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:06:24.9943453+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:58:18.0397936+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:09:20.3889781+00:00"
 }

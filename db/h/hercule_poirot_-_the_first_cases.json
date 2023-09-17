@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -517,9 +517,9 @@
       "ID": "ACH_011",
       "SetID": "72imik0",
       "Name": "Well-travelled",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_012",
@@ -853,9 +853,9 @@
       "ID": "ACH_08",
       "SetID": "72imik0",
       "Name": "The Family",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_09",
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:08:15.8775706+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:11:00.2948778+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:09.597358+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:57:33.8971481+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:08:15.8776111+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:58:11.0895262+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:11:00.2949217+00:00"
 }

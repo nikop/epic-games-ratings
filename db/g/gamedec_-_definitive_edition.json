@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -408,9 +408,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246213,
+  "EOS_Progressed": 246216,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17063,6 +17063,11 @@
       "Time": "2023-09-17T07:06:23.556237+00:00",
       "NumProgressed": 246213,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-17T08:09:17.8291424+00:00",
+      "NumProgressed": 246216,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17114,7 +17119,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 27083
+      "UsersEstimate": 27084
     },
     {
       "ID": "ACH_ENJOY",
@@ -17170,7 +17175,7 @@
       "Name": "I have the high ground",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ACH_HIGHNOON",
@@ -17290,7 +17295,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59091
+      "UsersEstimate": 59092
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -17394,7 +17399,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61553
+      "UsersEstimate": 61554
     },
     {
       "ID": "ACH_SOREAD",
@@ -17489,7 +17494,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246213,
+      "Progressed": 246216,
       "Completed": 7
     }
   ],
@@ -17497,8 +17502,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-14T17:02:57.7818889+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:06:23.5562362+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:09:17.8291418+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.3686602+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:57:25.4302414+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:06:23.5563643+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:57:52.351599+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:09:17.8293113+00:00"
 }

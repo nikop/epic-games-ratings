@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2362,9 +2362,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 204
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2465,8 +2465,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:04:40.7023963+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:07:33.6711627+00:00",
   "LastUpdate_AppInfo": "2023-09-14T19:57:19.2555996+00:00",
-  "LastUpdate_Ratings": "2023-09-17T07:02:01.6915459+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:04:40.7024746+00:00"
+  "LastUpdate_Ratings": "2023-09-17T08:04:33.3345384+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:07:33.6712761+00:00"
 }

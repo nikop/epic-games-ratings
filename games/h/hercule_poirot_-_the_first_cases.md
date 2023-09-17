@@ -35,8 +35,8 @@ Rating: 4.35 (Ranked 758)
 | Inge Frank | 31.00% | ~131 |
 | The Search | 31.00% | ~131 |
 | Hugo Beckers | 30.00% | ~127 |
-| The Family | 27.00% | ~114 |
-| Well-travelled | 26.00% | ~110 |
+| The Family | 28.00% | ~118 |
+| Well-travelled | 27.00% | ~114 |
 | Thinking of Everything | 26.00% | ~110 |
 | Exquisite Artwork | 26.00% | ~110 |
 | Viscount Edwin Van den Bosch | 26.00% | ~110 |

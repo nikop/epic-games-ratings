@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "ClubTurretsHack",
       "SetID": "9e3d06k",
       "Name": "Sapper",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "EnemyDefeat_0",
@@ -301,9 +301,9 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LiftEnemies_0",
@@ -389,9 +389,9 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
@@ -406,8 +406,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:07:20.3275493+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:10:10.6080541+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:17.0351777+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:57:55.412925+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:07:20.3275681+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:58:41.4817385+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:10:10.6080737+00:00"
 }

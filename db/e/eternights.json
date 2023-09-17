@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -421,6 +421,11 @@
       "Time": "2023-09-17T07:04:22.058781+00:00",
       "NumProgressed": 157,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-17T08:07:07.63081+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -497,7 +502,7 @@
       "Name": "Find myself",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -505,7 +510,7 @@
       "Name": "Romantic",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -513,7 +518,7 @@
       "Name": "Shelter Escape",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -567,7 +572,7 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
       "UsersEstimate": 111
     },
@@ -577,39 +582,39 @@
       "Name": "Novice Scavenger",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -632,14 +637,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:04:22.0587804+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:07:07.6308092+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:59:11.9506802+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:04:22.0588025+00:00"
+  "LastUpdate_Ratings": "2023-09-17T08:00:34.5636256+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:07:07.6308377+00:00"
 }

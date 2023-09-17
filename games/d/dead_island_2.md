@@ -16,27 +16,27 @@ Rating: 4.54 (Ranked 505)
 | Stacking the Deck | 2.00% | ~13,625 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,625 |
 | Welcome To Hell-A | 2.00% | ~13,625 |
-| Anger Management | 1.00% | ~6,812 |
-| Perks of the Job | 1.00% | ~6,812 |
-| Bookworm | 1.00% | ~6,812 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,812 |
-| But Doctor, I am Butcho | 1.00% | ~6,812 |
-| Slayer Squad | 1.00% | ~6,812 |
-| Can't Handle the Truth | 1.00% | ~6,812 |
-| Like Riding a Bike | 1.00% | ~6,812 |
-| Zombologist | 1.00% | ~6,812 |
-| Ooh, Shiny! | 1.00% | ~6,812 |
-| A Patton Emerges | 1.00% | ~6,812 |
-| I Am the Resurrection | 1.00% | ~6,812 |
-| Our True Nature | 1.00% | ~6,812 |
-| This is My Weapon | 1.00% | ~6,812 |
+| Anger Management | 1.00% | ~6,813 |
+| Perks of the Job | 1.00% | ~6,813 |
+| Bookworm | 1.00% | ~6,813 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,813 |
+| But Doctor, I am Butcho | 1.00% | ~6,813 |
+| Slayer Squad | 1.00% | ~6,813 |
+| Can't Handle the Truth | 1.00% | ~6,813 |
+| Like Riding a Bike | 1.00% | ~6,813 |
+| Zombologist | 1.00% | ~6,813 |
+| Ooh, Shiny! | 1.00% | ~6,813 |
+| A Patton Emerges | 1.00% | ~6,813 |
+| I Am the Resurrection | 1.00% | ~6,813 |
+| Our True Nature | 1.00% | ~6,813 |
+| This is My Weapon | 1.00% | ~6,813 |
 | Making Your Mark | 0.90% | ~6,131 |
 | Humanity Distilled | 0.90% | ~6,131 |
 | Down with the Sickness | 0.80% | ~5,450 |
 | Max Headroom | 0.70% | ~4,769 |
-| Jumbo Keyring | 0.60% | ~4,087 |
-| Go, Bobcats! | 0.60% | ~4,087 |
-| Rising Star | 0.60% | ~4,087 |
+| Jumbo Keyring | 0.60% | ~4,088 |
+| Go, Bobcats! | 0.60% | ~4,088 |
+| Rising Star | 0.60% | ~4,088 |
 | Smorgasbord | 0.50% | ~3,406 |
 | On Safari | 0.40% | ~2,725 |
 | Not Even My Final Form | 0.40% | ~2,725 |
@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 505)
 | Make it So | 0.30% | ~2,044 |
 | LA Influential | 0.30% | ~2,044 |
 | Gore Horse | 0.30% | ~2,044 |
-| Sole Survivor | 0.20% | ~1,362 |
-| Sharpest Tool in the Box | 0.20% | ~1,362 |
-| Survival Skills | 0.20% | ~1,362 |
+| Sole Survivor | 0.20% | ~1,363 |
+| Sharpest Tool in the Box | 0.20% | ~1,363 |
+| Survival Skills | 0.20% | ~1,363 |
 | Donk! | 0.10% | ~681 |
 | Bucket List | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,239 (Ranked 22)  
+Progressed: 681,266 (Ranked 22)  
 Completed: 2,148 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,17 +201,17 @@ Completed: 2,148 (0.32%) (Ranked 177)
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
-| 2023-09-17 | 681,239 | 2,148 |
+| 2023-09-17 | 681,266 | 2,148 |
 ## Awards
 Max (Great Boss Battles): 6,073  (Ranked 57)  
-Sum: 9,005 (Ranked 94)  
+Sum: 9,006 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,073 |
 | This game is Great for Beginners | 417 |
 | This game has Diverse Characters | 408 |
-| This game has Quickly Understood Controls | 395 |
+| This game has Quickly Understood Controls | 396 |
 | This game is Relaxing | 376 |
 | This game has Amazing Storytelling | 352 |
 | This game is Extremely Fun | 337 |
@@ -369,3 +369,4 @@ Diff (max vs sum): -37
 | 2023-09-14 | 4.54 | 6,038 | 8,954 |
 | 2023-09-15 | 4.54 | 6,061 | 8,982 |
 | 2023-09-16 | 4.54 | 6,073 | 9,005 |
+| 2023-09-17 | 4.54 | 6,073 | 9,006 |

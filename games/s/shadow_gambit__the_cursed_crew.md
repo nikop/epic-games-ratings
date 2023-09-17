@@ -5,35 +5,35 @@ Rating: 4.69 (Ranked 217)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 70.00% | ~451 |
-| The Adventure Begins | 55.00% | ~355 |
-| Swabbie | 44.00% | ~284 |
-| With Great Power… | 42.00% | ~271 |
-| This Belongs in a Museum | 38.00% | ~245 |
-| The Gambit Has Begun | 34.00% | ~219 |
+| A New Journey | 69.00% | ~447 |
+| The Adventure Begins | 55.00% | ~356 |
+| Swabbie | 43.00% | ~279 |
+| With Great Power… | 42.00% | ~272 |
+| This Belongs in a Museum | 38.00% | ~246 |
+| The Gambit Has Begun | 33.00% | ~214 |
 | Powder Monkey | 30.00% | ~194 |
-| Somewhere Deep in the Lost Caribbean | 29.00% | ~187 |
+| Somewhere Deep in the Lost Caribbean | 29.00% | ~188 |
 | Mirror Mirror on the Wall | 28.00% | ~181 |
-| Pirates Assemble! | 25.00% | ~161 |
-| Buccaneer | 23.00% | ~148 |
-| Fishy Fish | 22.00% | ~142 |
-| All Good Things | 18.00% | ~116 |
-| Seadog | 18.00% | ~116 |
+| Pirates Assemble! | 25.00% | ~162 |
+| Buccaneer | 23.00% | ~149 |
+| Fishy Fish | 22.00% | ~143 |
+| All Good Things | 18.00% | ~117 |
+| Seadog | 18.00% | ~117 |
 | Persistent Parasite | 17.00% | ~110 |
 | Jaded Judge | 13.00% | ~84 |
-| Privateer | 12.00% | ~77 |
+| Privateer | 12.00% | ~78 |
 | Tobacco Travesty | 11.00% | ~71 |
 | Rustic Recipe | 11.00% | ~71 |
-| Accursed Artifacts | 10.00% | ~64 |
-| Lyrical Longing | 10.00% | ~64 |
+| Accursed Artifacts | 10.00% | ~65 |
+| Lyrical Longing | 10.00% | ~65 |
 | Corsair | 6.00% | ~39 |
 | Fully Decked | 6.00% | ~39 |
 | Freebooter | 4.00% | ~26 |
 | Marauder | 3.00% | ~19 |
 | Welcome Back Jester | 3.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645 (Ranked 235)  
-Completed: 15 (2.33%) (Ranked 89)  
+Progressed: 648 (Ranked 235)  
+Completed: 15 (2.31%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 15 (2.33%) (Ranked 89)
 | 2023-09-14 | 640 | 15 |
 | 2023-09-15 | 642 | 15 |
 | 2023-09-16 | 644 | 15 |
-| 2023-09-17 | 645 | 15 |
+| 2023-09-17 | 648 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109662,
+  "EOS_Progressed": 109663,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2474,6 +2474,11 @@
       "Time": "2023-09-16T21:07:33.1376817+00:00",
       "NumProgressed": 109662,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T08:08:23.5412377+00:00",
+      "NumProgressed": 109663,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2557,7 +2562,7 @@
       "Name": "Building Block - Bronze",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "19",
@@ -2621,7 +2626,7 @@
       "Name": "Variety Player - Silver",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "26",
@@ -2756,15 +2761,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109662,
+      "Progressed": 109663,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-09-17T07:05:25.3501794+00:00",
+  "LastChanged_Achievements": "2023-09-17T08:08:23.541237+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.7225094+00:00",
-  "LastUpdate_Ratings": "2023-09-17T06:57:44.9794745+00:00",
-  "LastUpdate_Achievements": "2023-09-17T07:05:25.350214+00:00"
+  "LastUpdate_Ratings": "2023-09-17T07:58:26.7720451+00:00",
+  "LastUpdate_Achievements": "2023-09-17T08:08:23.5413209+00:00"
 }

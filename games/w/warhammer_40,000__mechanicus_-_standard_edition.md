@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 664)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,915 |
-| This is only the beginning | 19.00% | ~42,322 |
+| No aid from the Omnissiah | 26.00% | ~57,916 |
+| This is only the beginning | 19.00% | ~42,323 |
 | Knowledge is power | 12.00% | ~26,730 |
 | Power Ranger | 9.00% | ~20,048 |
 | Galvanic Rifle | 9.00% | ~20,048 |
@@ -17,8 +17,8 @@ Rating: 4.43 (Ranked 664)
 | Competent Cohort | 4.00% | ~8,910 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,910 |
 | One with the Machine | 4.00% | ~8,910 |
-| Legio Cybernetica | 3.00% | ~6,682 |
-| Fleshy Disposal | 3.00% | ~6,682 |
+| Legio Cybernetica | 3.00% | ~6,683 |
+| Fleshy Disposal | 3.00% | ~6,683 |
 | Battle Servitor | 2.00% | ~4,455 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,455 |
 | Impatient destruction | 2.00% | ~4,455 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 664)
 | Perma-live | 0.10% | ~223 |
 | Purge the Heretek | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,750 (Ranked 59)  
+Progressed: 222,753 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 5 (0.00%) (Ranked 276)
 | 2023-09-14 | 222,574 | 5 |
 | 2023-09-15 | 222,643 | 5 |
 | 2023-09-16 | 222,733 | 5 |
-| 2023-09-17 | 222,750 | 5 |
+| 2023-09-17 | 222,753 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 244)  
 Sum: 2,143 (Ranked 197)  

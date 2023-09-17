@@ -14,12 +14,12 @@
 | Energy Expert | 45.00% | ~34 |
 | That's one way to travel | 45.00% | ~34 |
 | The Old Man and the Café | 41.00% | ~31 |
-| South Town Energy | 33.00% | ~25 |
+| South Town Energy | 34.00% | ~26 |
 | Photogenic | 32.00% | ~24 |
 | The Girl and the Homework | 29.00% | ~22 |
 | North Town Energy | 28.00% | ~21 |
 | OK, I heard you!! | 28.00% | ~21 |
-| Lightbulb Detective | 25.00% | ~19 |
+| Lightbulb Detective | 26.00% | ~20 |
 | Unlimited Power!! | 24.00% | ~18 |
 | Cartographer | 22.00% | ~17 |
 | The Quiche and the Hair Dryer | 21.00% | ~16 |
