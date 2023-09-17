@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 31,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
     "PcReleaseDate": "2018-05-17T08:30:00+00:00",
@@ -265,9 +265,9 @@
       "ID": "double_orbs",
       "SetID": "94981fl",
       "Name": "double orbs",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "double_score",
@@ -433,9 +433,9 @@
       "ID": "ultra_killing_machine",
       "SetID": "94981fl",
       "Name": "ultra killing machine",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
@@ -448,8 +448,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:03:24.1257517+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:04:32.5453319+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.9397468+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:02:25.8531995+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:03:24.1257872+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:03:26.7977918+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:04:32.5453712+00:00"
 }

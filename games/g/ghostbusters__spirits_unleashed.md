@@ -12,8 +12,10 @@ Rating: 4.50 (Ranked 565)
 | Back Off | 0.20% | ~52 |
 | Clutch Capture | 0.20% | ~52 |
 | I collect Spores, Molds, and Fungi | 0.20% | ~52 |
+| Cultured | 0.20% | ~52 |
 | Discovery | 0.20% | ~52 |
 | Fully Upgraded | 0.20% | ~52 |
+| Icing on the Cake | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
 | Solo Capture | 0.20% | ~52 |
 | Summoner | 0.20% | ~52 |
@@ -27,7 +29,6 @@ Rating: 4.50 (Ranked 565)
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | Collector | 0.10% | ~26 |
-| Cultured | 0.10% | ~26 |
 | Daily Dose | 0.10% | ~26 |
 | Diabolical | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
@@ -36,7 +37,6 @@ Rating: 4.50 (Ranked 565)
 | Fragile Panes | 0.10% | ~26 |
 | Ghostbuster In Training | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
-| Icing on the Cake | 0.10% | ~26 |
 | Legions | 0.10% | ~26 |
 | Liability | 0.10% | ~26 |
 | Line em' up | 0.10% | ~26 |

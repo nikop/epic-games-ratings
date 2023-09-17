@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,231 |
+| Until death do us apart | 4.00% | ~16,232 |
 | That's a Grand Army | 3.00% | ~12,174 |
 | That is mine! | 3.00% | ~12,174 |
 | Victorious! | 3.00% | ~12,174 |
@@ -22,10 +22,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 0.90% | ~3,652 |
 | Truly Divine Ruler | 0.90% | ~3,652 |
 | It's all about luck | 0.80% | ~3,246 |
-| Blockader | 0.70% | ~2,840 |
-| Double the Love | 0.70% | ~2,840 |
-| Royal Authority | 0.70% | ~2,840 |
-| Total Control | 0.70% | ~2,840 |
+| Blockader | 0.70% | ~2,841 |
+| Double the Love | 0.70% | ~2,841 |
+| Royal Authority | 0.70% | ~2,841 |
+| Total Control | 0.70% | ~2,841 |
 | My armies are invincible! | 0.60% | ~2,435 |
 | Agressive Expander | 0.50% | ~2,029 |
 | City of Cities | 0.50% | ~2,029 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405,785 (Ranked 40)  
+Progressed: 405,809 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -511,16 +511,16 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-14 | 402,996 | 0 |
 | 2023-09-15 | 404,131 | 0 |
 | 2023-09-16 | 405,611 | 0 |
-| 2023-09-17 | 405,785 | 0 |
+| 2023-09-17 | 405,809 | 0 |
 ## Awards
 Max (Educational): 6,125  (Ranked 56)  
-Sum: 50,313 (Ranked 26)  
+Sum: 50,327 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,125 |
 | This game is Highly Recommended | 5,843 |
-| This game has Challenging Combat | 5,794 |
+| This game has Challenging Combat | 5,808 |
 | This game is Extremely Fun | 5,791 |
 | This game has Diverse Characters | 5,780 |
 | This game is Relaxing | 5,630 |
@@ -774,4 +774,4 @@ Diff (max vs sum): 30
 | 2023-09-14 | 4.69 | - | 6,076 | 50,003 |
 | 2023-09-15 | 4.69 | - | 6,102 | 50,146 |
 | 2023-09-16 | 4.69 | - | 6,125 | 50,304 |
-| 2023-09-17 | 4.69 | - | 6,125 | 50,313 |
+| 2023-09-17 | 4.69 | - | 6,125 | 50,327 |

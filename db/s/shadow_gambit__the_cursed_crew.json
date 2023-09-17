@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 645,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
@@ -1714,6 +1714,11 @@
       "Time": "2023-09-16T15:05:36.1336423+00:00",
       "NumProgressed": 644,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-17T05:06:55.9031622+00:00",
+      "NumProgressed": 645,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1724,9 +1729,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 187
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1742,7 +1747,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1766,7 +1771,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "_07_FinishAct3",
@@ -1782,7 +1787,7 @@
       "Name": "Swabbie",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "_09_Completion_20",
@@ -1790,7 +1795,7 @@
       "Name": "Powder Monkey",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "_10_Completion_30",
@@ -1854,7 +1859,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1870,7 +1875,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1933,7 +1938,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 15
     }
   ],
@@ -1941,8 +1946,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:05:35.5783804+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:06:55.9031616+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-17T03:58:48.0292569+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:05:35.5784105+00:00"
+  "LastUpdate_Ratings": "2023-09-17T04:59:11.0637852+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:06:55.9031944+00:00"
 }

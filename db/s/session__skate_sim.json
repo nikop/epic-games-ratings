@@ -922,9 +922,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2835,
+  "EOS_Progressed": 2837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4507,6 +4507,11 @@
       "Time": "2023-09-17T04:07:09.6571491+00:00",
       "NumProgressed": 2835,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T05:08:12.55575+00:00",
+      "NumProgressed": 2837,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4582,7 +4587,7 @@
       "Name": "Fashionista",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -4590,7 +4595,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -4670,7 +4675,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4798,7 +4803,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -4846,7 +4851,7 @@
       "Name": "Tight lipslides",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -4886,7 +4891,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4894,22 +4899,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2835,
+      "Progressed": 2837,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-15T17:58:31.0946965+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:07:09.6571485+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:08:12.5557495+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-17T03:59:29.2908989+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:07:09.6572122+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:00:04.6433083+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:08:12.5558185+00:00"
 }

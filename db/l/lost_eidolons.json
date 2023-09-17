@@ -1447,9 +1447,9 @@
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 586
     },
     {
       "ID": "08",
@@ -1543,9 +1543,9 @@
       "ID": "19",
       "SetID": "73ikgfc",
       "Name": "Broken Oath",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 99
     },
     {
       "ID": "20",
@@ -1592,8 +1592,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:07:56.8474812+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:09:07.9918355+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0630202+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:00:36.3118076+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:07:56.8475053+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:01:21.9038214+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:09:07.9918623+00:00"
 }

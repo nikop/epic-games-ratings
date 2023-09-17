@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -422,7 +422,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13028,
+  "EOS_Progressed": 13029,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
@@ -8332,6 +8332,11 @@
       "Time": "2023-09-17T01:51:49.573093+00:00",
       "NumProgressed": 13028,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-17T05:09:05.1089247+00:00",
+      "NumProgressed": 13029,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 35,
@@ -8343,7 +8348,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11986
+      "UsersEstimate": 11987
     },
     {
       "ID": "ACH_02",
@@ -8351,7 +8356,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10292
+      "UsersEstimate": 10293
     },
     {
       "ID": "ACH_03",
@@ -8367,7 +8372,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9250
+      "UsersEstimate": 9251
     },
     {
       "ID": "ACH_05",
@@ -8375,7 +8380,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8859
+      "UsersEstimate": 8860
     },
     {
       "ID": "ACH_06",
@@ -8383,7 +8388,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8468
+      "UsersEstimate": 8469
     },
     {
       "ID": "ACH_07",
@@ -8399,7 +8404,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7947
+      "UsersEstimate": 7948
     },
     {
       "ID": "ACH_09",
@@ -8407,7 +8412,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7556
+      "UsersEstimate": 7557
     },
     {
       "ID": "ACH_10",
@@ -8431,7 +8436,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "ACH_13",
@@ -8439,7 +8444,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5211
+      "UsersEstimate": 5212
     },
     {
       "ID": "ACH_14",
@@ -8559,7 +8564,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8989
+      "UsersEstimate": 8990
     },
     {
       "ID": "ACH_29",
@@ -8622,7 +8627,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13028,
+      "Progressed": 13029,
       "Completed": 46
     }
   ],
@@ -8630,8 +8635,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-16T13:01:33.9116431+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:07:54.3508354+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:09:05.1089242+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:18.7719014+00:00",
-  "LastUpdate_Ratings": "2023-09-17T03:59:56.4016265+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:07:54.3509111+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:00:32.8205393+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:09:05.1090133+00:00"
 }

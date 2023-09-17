@@ -14,16 +14,16 @@ Rating: 4.87 (Ranked 25)
 | You got this, Peppermint? | 10.00% | ~406 |
 | Perfect Parry | 10.00% | ~406 |
 | Alright, that felt AWESOME! | 10.00% | ~406 |
-| I play my own way! | 9.00% | ~365 |
-| Uh, they were broken when I got here | 9.00% | ~365 |
+| I play my own way! | 9.00% | ~366 |
+| Uh, they were broken when I got here | 9.00% | ~366 |
 | This will cost you big time | 8.00% | ~325 |
 | Z-shielding's got nothing on us! | 8.00% | ~325 |
 | Kissing the sky! | 8.00% | ~325 |
 | I look cool. But I can look COOLER. | 8.00% | ~325 |
 | The Negotiator | 7.00% | ~284 |
-| Headliner | 7.00% | ~284 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~284 |
 | Out in a puff of smoke | 7.00% | ~284 |
+| Headliner | 6.00% | ~244 |
 | Time to pay up! | 6.00% | ~244 |
 | Who's the boss now? | 6.00% | ~244 |
 | You must like calling me in, Chai | 6.00% | ~244 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,061 (Ranked 158)  
+Progressed: 4,062 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-14 | 4,038 | 7 |
 | 2023-09-15 | 4,051 | 7 |
 | 2023-09-16 | 4,059 | 7 |
-| 2023-09-17 | 4,061 | 7 |
+| 2023-09-17 | 4,062 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

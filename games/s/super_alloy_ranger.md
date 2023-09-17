@@ -20,7 +20,7 @@
 | The Abyss Conqueror | 11.00% | ~10 |
 | Space Warrior: Prologue | 11.00% | ~10 |
 | Grand Escape | 10.00% | ~9 |
-| The Fortress Conqueror | 8.00% | ~7 |
+| The Fortress Conqueror | 9.00% | ~8 |
 | Keep it Up, rookie! | 8.00% | ~7 |
 | he Ultra Fortress Conqueror | 7.00% | ~6 |
 | Antaeus | 7.00% | ~6 |

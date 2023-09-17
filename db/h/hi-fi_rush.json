@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4061,
+  "EOS_Progressed": 4062,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6574,6 +6574,11 @@
       "Time": "2023-09-17T04:08:22.854727+00:00",
       "NumProgressed": 4061,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-17T05:09:39.0324754+00:00",
+      "NumProgressed": 4062,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6615,9 +6620,9 @@
       "ID": "Ach005",
       "SetID": "12n4k20",
       "Name": "Headliner",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 244
     },
     {
       "ID": "Ach006",
@@ -6713,7 +6718,7 @@
       "Name": "I play my own way!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "Ach018",
@@ -6841,7 +6846,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "Ach034",
@@ -7152,13 +7157,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4061,
+      "Progressed": 4062,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2582,
+      "Progressed": 2583,
       "Completed": 1929
     }
   ],
@@ -7166,8 +7171,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:08:22.8547266+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:09:39.0324749+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-17T03:58:10.2641469+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:08:22.8548432+00:00"
+  "LastUpdate_Ratings": "2023-09-17T04:58:21.3273932+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:09:39.0326035+00:00"
 }

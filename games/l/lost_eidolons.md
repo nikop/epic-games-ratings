@@ -8,7 +8,7 @@ Rating: 4.33 (Ranked 773)
 | The First Step | 68.00% | ~751 |
 | First Blood | 64.00% | ~707 |
 | Ready to Learn | 62.00% | ~685 |
-| Monster Hunter | 52.00% | ~575 |
+| Monster Hunter | 53.00% | ~586 |
 | Earning Trust | 50.00% | ~552 |
 | Monster Slayer | 29.00% | ~320 |
 | Awakening | 23.00% | ~254 |
@@ -16,7 +16,7 @@ Rating: 4.33 (Ranked 773)
 | Complete the sidequest 'Malice and Greed' | 18.00% | ~199 |
 | House Vulisica's Heirloom | 14.00% | ~155 |
 | Digging Deep | 13.00% | ~144 |
-| Broken Oath | 8.00% | ~88 |
+| Broken Oath | 9.00% | ~99 |
 | Way of the King | 7.00% | ~77 |
 | Way of the Warlord | 4.00% | ~44 |
 | Til We Meet Again | 4.00% | ~44 |

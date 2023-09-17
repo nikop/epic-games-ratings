@@ -2,7 +2,7 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 109,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3459,
+  "EOS_Progressed": 3460,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3434,6 +3434,11 @@
       "Time": "2023-09-17T04:07:22.6112796+00:00",
       "NumProgressed": 3459,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-17T05:08:27.7283002+00:00",
+      "NumProgressed": 3460,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3493,7 +3498,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "campaign10",
@@ -3533,7 +3538,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "campaign15",
@@ -3581,7 +3586,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "campaign20",
@@ -3708,7 +3713,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3459,
+      "Progressed": 3460,
       "Completed": 11
     }
   ],
@@ -3716,8 +3721,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:07:22.6112792+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:08:27.7282997+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:01:40.0787653+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:07:22.6113274+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:02:30.8730689+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:08:27.728352+00:00"
 }

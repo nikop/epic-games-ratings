@@ -1301,9 +1301,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127979,
+  "EOS_Progressed": 127983,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16186,6 +16186,11 @@
       "Time": "2023-09-17T04:08:07.6969912+00:00",
       "NumProgressed": 127979,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-17T05:09:19.3195237+00:00",
+      "NumProgressed": 127983,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16229,7 +16234,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23036
+      "UsersEstimate": 23037
     },
     {
       "ID": "ACH_COP_BAD",
@@ -16253,7 +16258,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30715
+      "UsersEstimate": 30716
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -16261,7 +16266,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "ACH_COP_DORK",
@@ -16277,7 +16282,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35834
+      "UsersEstimate": 35835
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16309,7 +16314,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25596
+      "UsersEstimate": 25597
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -16325,7 +16330,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16637
+      "UsersEstimate": 16638
     },
     {
       "ID": "ACH_COP_STAR",
@@ -16413,7 +16418,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17917
+      "UsersEstimate": 17918
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -16477,7 +16482,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 17917
+      "UsersEstimate": 17918
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -16516,15 +16521,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127979,
+      "Progressed": 127983,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:08:07.6969908+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:09:19.3195231+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:00:06.7050944+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:08:07.6971112+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:00:46.3099621+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:09:19.3196645+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -711,6 +711,11 @@
       "Time": "2023-09-16T17:08:21.0725163+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T05:09:50.9813463+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -881,9 +886,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -995,7 +1000,7 @@
       "Name": "First Step",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1074,14 +1079,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-17T04:08:32.8971484+00:00",
+  "LastChanged_Achievements": "2023-09-17T05:09:50.9813458+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.5687828+00:00",
-  "LastUpdate_Ratings": "2023-09-17T03:58:55.5257073+00:00",
-  "LastUpdate_Achievements": "2023-09-17T04:08:32.8971926+00:00"
+  "LastUpdate_Ratings": "2023-09-17T04:59:20.6795753+00:00",
+  "LastUpdate_Achievements": "2023-09-17T05:09:50.9813898+00:00"
 }

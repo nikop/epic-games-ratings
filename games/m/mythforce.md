@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Debuff Dogpile | 11.00% | ~267 |
-| Faceroll the Bones | 11.00% | ~267 |
-| Hit 'Em Where It Hurts | 11.00% | ~267 |
-| That'll Leave a Mark | 11.00% | ~267 |
-| Mushroom Madness! | 10.00% | ~243 |
-| Perk Shard Punch Card | 10.00% | ~243 |
-| Horder Better Faster Stronger | 8.00% | ~194 |
-| Spending Spree | 8.00% | ~194 |
+| Debuff Dogpile | 11.00% | ~268 |
+| Faceroll the Bones | 11.00% | ~268 |
+| Hit 'Em Where It Hurts | 11.00% | ~268 |
+| Perk Shard Punch Card | 11.00% | ~268 |
+| That'll Leave a Mark | 11.00% | ~268 |
+| Mushroom Madness! | 10.00% | ~244 |
+| Horder Better Faster Stronger | 8.00% | ~195 |
+| Spending Spree | 8.00% | ~195 |
 | Everything Must Go! | 7.00% | ~170 |
 | First Strike | 7.00% | ~170 |
 | Ten Steps from the Grave | 7.00% | ~170 |
-| Cold-Blooded Critters | 5.00% | ~121 |
-| Next Time on MythForce... | 5.00% | ~121 |
-| Death Becomes You | 4.00% | ~97 |
+| Cold-Blooded Critters | 5.00% | ~122 |
+| Death Becomes You | 5.00% | ~122 |
+| Next Time on MythForce... | 5.00% | ~122 |
 | Flawless Victory | 4.00% | ~97 |
 | The Harder They Fall | 2.00% | ~49 |
 | Deadication | 1.00% | ~24 |
 | On this Episode! | 1.00% | ~24 |
-| Season Finale | 0.80% | ~19 |
+| Season Finale | 0.90% | ~22 |
+| We've Got a Kaiju on the Field | 0.80% | ~19 |
 | The Fourth Gate | 0.70% | ~17 |
-| We've Got a Kaiju on the Field | 0.70% | ~17 |
 | Vexed Her | 0.20% | ~5 |
 | Deadalus and Loving It | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,426 (Ranked 179)  
+Progressed: 2,435 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-14 | 1,880 | 0 |
 | 2023-09-15 | 2,137 | 0 |
 | 2023-09-16 | 2,380 | 0 |
-| 2023-09-17 | 2,426 | 0 |
+| 2023-09-17 | 2,435 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 356)  

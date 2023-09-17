@@ -17,10 +17,10 @@ Rating: 4.77 (Ranked 110)
 | The Defender of Dragons | 10.00% | ~29,678 |
 | Loom for Improvement | 10.00% | ~29,678 |
 | Coasting Along | 10.00% | ~29,678 |
-| The Hero of Hogwarts | 9.00% | ~26,710 |
-| Challenge Accepted | 9.00% | ~26,710 |
-| Followed the Butterflies | 9.00% | ~26,710 |
-| Rising From the Ashes | 9.00% | ~26,710 |
+| The Hero of Hogwarts | 9.00% | ~26,711 |
+| Challenge Accepted | 9.00% | ~26,711 |
+| Followed the Butterflies | 9.00% | ~26,711 |
+| Rising From the Ashes | 9.00% | ~26,711 |
 | A Sallow Grave | 8.00% | ~23,743 |
 | The Spell Master | 8.00% | ~23,743 |
 | The Avenging Gazelle | 7.00% | ~20,775 |
@@ -37,8 +37,8 @@ Rating: 4.77 (Ranked 110)
 | The Intrepid Explorer | 4.00% | ~11,871 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,871 |
 | The Wise Owl | 4.00% | ~11,871 |
-| Put Down Roots | 3.00% | ~8,903 |
-| Floo Around the World | 3.00% | ~8,903 |
+| Put Down Roots | 3.00% | ~8,904 |
+| Floo Around the World | 3.00% | ~8,904 |
 | The Good Samaritan | 2.00% | ~5,936 |
 | The Auror's Apprentice | 2.00% | ~5,936 |
 | Rise to the Challenges | 2.00% | ~5,936 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,781 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,783 (Ranked 43)  
+Progressed: 296,785 (Ranked 43)  
 Completed: 472 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,10 +201,10 @@ Completed: 472 (0.16%) (Ranked 204)
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
 | 2023-09-16 | 296,761 | 472 |
-| 2023-09-17 | 296,783 | 472 |
+| 2023-09-17 | 296,785 | 472 |
 ## Awards
 Max (Character Customization): 22,752  (Ranked 17)  
-Sum: 43,507 (Ranked 30)  
+Sum: 43,512 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 980 |
 | This game has Quickly Understood Controls | 915 |
 | This game has Beautiful Visuals | 856 |
-| This game has a Creative Community | 650 |
+| This game has a Creative Community | 655 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -400,4 +400,4 @@ Diff (max vs sum): -13
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
 | 2023-09-16 | 4.77 | 22,752 | 43,493 |
-| 2023-09-17 | 4.77 | 22,752 | 43,507 |
+| 2023-09-17 | 4.77 | 22,752 | 43,512 |
