@@ -7,7 +7,7 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 81.00% | ~726 |
-| My little farm | 64.00% | ~573 |
+| My little farm | 65.00% | ~582 |
 | Every beginning is difficult | 63.00% | ~564 |
 | Gofer | 57.00% | ~511 |
 | 3, 2, 1, mine | 56.00% | ~502 |
@@ -16,12 +16,12 @@ Number of Ratings: 53  (23.09.2022)
 | Greed for gold | 43.00% | ~385 |
 | Intangible | 42.00% | ~376 |
 | I'm out of here for a while | 41.00% | ~367 |
-| In a mint condition | 37.00% | ~332 |
-| Licence to Kill | 36.00% | ~323 |
+| In a mint condition | 38.00% | ~340 |
+| Licence to Kill | 37.00% | ~332 |
 | Pirates! | 34.00% | ~305 |
 | Megalomania | 29.00% | ~260 |
+| Christening | 28.00% | ~251 |
 | Collectionitis | 28.00% | ~251 |
-| Christening | 27.00% | ~242 |
 | Groundskeeper | 26.00% | ~233 |
 | Wholesale | 22.00% | ~197 |
 | Walk the plank | 21.00% | ~188 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224687,
+  "EOS_Progressed": 224706,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1823,
+  "EOS_NewPlayers": 1824,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11198,6 +11198,11 @@
       "Time": "2023-09-17T10:11:26.3338563+00:00",
       "NumProgressed": 224687,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T11:12:11.1217222+00:00",
+      "NumProgressed": 224706,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11257,7 +11262,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8987
+      "UsersEstimate": 8988
     },
     {
       "ID": "Chapter2",
@@ -11609,7 +11614,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8987
+      "UsersEstimate": 8988
     },
     {
       "ID": "DwarfElf15Support",
@@ -11657,7 +11662,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67406
+      "UsersEstimate": 67412
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11705,7 +11710,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11234
+      "UsersEstimate": 11235
     },
     {
       "ID": "FollowBraztok",
@@ -11729,7 +11734,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "KillDungeonLich",
@@ -11793,7 +11798,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "QuestEmile",
@@ -11817,7 +11822,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "QuestPriestess",
@@ -11912,21 +11917,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224687,
+      "Progressed": 224706,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224687,
+      "Progressed": 224706,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:11:26.3338559+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:12:11.1217218+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:59:19.2376566+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:11:26.333981+00:00"
+  "LastUpdate_Ratings": "2023-09-17T10:59:41.6342446+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:12:11.1218871+00:00"
 }

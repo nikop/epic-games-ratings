@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3624,
+  "EOS_Progressed": 3626,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6709,6 +6709,11 @@
       "Time": "2023-09-17T09:09:33.24005+00:00",
       "NumProgressed": 3624,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-17T11:08:33.5757987+00:00",
+      "NumProgressed": 3626,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6728,7 +6733,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6760,7 +6765,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6768,7 +6773,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6784,7 +6789,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6800,7 +6805,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6848,7 +6853,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6870,9 +6875,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 435
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6896,7 +6901,7 @@
       "Name": "Out of Scope",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -6920,7 +6925,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6928,7 +6933,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6936,7 +6941,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6944,7 +6949,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6960,7 +6965,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6984,7 +6989,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7016,7 +7021,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -7032,7 +7037,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7056,7 +7061,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7064,7 +7069,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -7112,7 +7117,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7136,7 +7141,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -7184,7 +7189,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7287,13 +7292,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3575,
+      "Progressed": 3577,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3624,
+      "Progressed": 3626,
       "Completed": 10
     }
   ],
@@ -7301,8 +7306,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:07:39.8054481+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:08:33.5757984+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:04:23.369468+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:07:39.8055321+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:05:17.4554377+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:08:33.5759073+00:00"
 }

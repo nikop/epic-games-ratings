@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -258,9 +258,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218561,
+  "EOS_Progressed": 218577,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2699,
+  "EOS_NewPlayers": 2689,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6443,6 +6443,11 @@
       "Time": "2023-09-17T10:06:21.4003288+00:00",
       "NumProgressed": 218561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T11:07:16.9734706+00:00",
+      "NumProgressed": 218577,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -6511,7 +6516,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43712
+      "UsersEstimate": 43715
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -6519,7 +6524,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19670
+      "UsersEstimate": 19672
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -6527,7 +6532,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10928
+      "UsersEstimate": 10929
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -6535,7 +6540,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8742
+      "UsersEstimate": 8743
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -6543,7 +6548,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -6559,7 +6564,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -6567,7 +6572,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -6575,7 +6580,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -6639,7 +6644,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28413
+      "UsersEstimate": 28415
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -6647,7 +6652,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15299
+      "UsersEstimate": 15300
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -6655,7 +6660,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -6711,7 +6716,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54640
+      "UsersEstimate": 54644
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -6726,7 +6731,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 218561,
+      "Progressed": 218577,
       "Completed": 0
     }
   ],
@@ -6734,8 +6739,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-14T11:00:09.7645849+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:06:21.4003286+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:07:16.9734703+00:00",
   "LastUpdate_AppInfo": "2023-09-14T20:57:17.4276242+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:04:02.8517521+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:06:21.4003763+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:04:54.9522532+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:07:16.9735325+00:00"
 }

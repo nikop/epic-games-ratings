@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -578,7 +578,7 @@
   ],
   "EOS_Progressed": 1656,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3855,9 +3855,9 @@
       "ID": "achFirstIndustryUpgrade",
       "SetID": "dgl390n",
       "Name": "First industry upgraded",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 944
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -4111,8 +4111,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-16T13:02:14.1846871+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:07:33.5808025+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:08:27.8838733+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.7514199+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:02:01.2669604+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:07:33.5808632+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:02:57.6709388+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:08:27.8839505+00:00"
 }

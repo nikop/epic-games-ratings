@@ -5,39 +5,39 @@ Rating: 4.46 (Ranked 625)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,667 |
+| Meeting Resistance | 46.00% | ~1,668 |
 | Confirming Suspicions | 40.00% | ~1,450 |
 | The Kraken Wakes | 36.00% | ~1,305 |
-| It's Starting to Crack | 33.00% | ~1,196 |
-| Change the Channel | 30.00% | ~1,087 |
-| Lord of War | 29.00% | ~1,051 |
+| It's Starting to Crack | 33.00% | ~1,197 |
+| Change the Channel | 30.00% | ~1,088 |
+| Lord of War | 29.00% | ~1,052 |
 | Taking it back | 28.00% | ~1,015 |
-| Resourceful | 26.00% | ~942 |
-| Target America | 26.00% | ~942 |
+| Resourceful | 26.00% | ~943 |
+| Target America | 26.00% | ~943 |
 | The Kraken Sleeps | 24.00% | ~870 |
-| Liberté | 22.00% | ~797 |
-| Organ Grinder | 22.00% | ~797 |
-| As Quiet as a Mouse | 22.00% | ~797 |
+| Liberté | 22.00% | ~798 |
+| Organ Grinder | 22.00% | ~798 |
+| As Quiet as a Mouse | 22.00% | ~798 |
 | Sharpshooter | 21.00% | ~761 |
-| Explosive Efficiency | 18.00% | ~652 |
+| Explosive Efficiency | 18.00% | ~653 |
 | Just a Flesh Wound | 17.00% | ~616 |
 | Gunslinger | 17.00% | ~616 |
 | Climbing the Ladder | 16.00% | ~580 |
 | Der Geist | 16.00% | ~580 |
 | Close Quarters | 15.00% | ~544 |
 | Brains of the Operation | 15.00% | ~544 |
-| Enemy at the Gates | 14.00% | ~507 |
-| Fields of Glory | 14.00% | ~507 |
-| Skirmisher | 14.00% | ~507 |
-| Die Nussknacker Sweet! | 14.00% | ~507 |
-| Snake in the Grass | 14.00% | ~507 |
+| Enemy at the Gates | 14.00% | ~508 |
+| Fields of Glory | 14.00% | ~508 |
+| Skirmisher | 14.00% | ~508 |
+| Die Nussknacker Sweet! | 14.00% | ~508 |
+| Snake in the Grass | 14.00% | ~508 |
 | No Stone Unturned | 13.00% | ~471 |
 | Opposing Force | 13.00% | ~471 |
-| Set Europe Ablaze | 13.00% | ~471 |
+| Set Europe Ablaze | 12.00% | ~435 |
 | Precision Is Key | 9.00% | ~326 |
 | My Little Friend | 9.00% | ~326 |
 | Rigged to Blow | 8.00% | ~290 |
-| Herr Today, Gone Tomorrow | 6.00% | ~214 |
+| Herr Today, Gone Tomorrow | 6.00% | ~215 |
 | The Long Game | 5.00% | ~181 |
 | It'll Buff Right Out | 5.00% | ~181 |
 | Don't hold your breath | 5.00% | ~181 |
@@ -55,10 +55,10 @@ Rating: 4.46 (Ranked 625)
 | Shoot for the Moon | 3.00% | ~109 |
 | If You Go Down To The Woods Today | 3.00% | ~107 |
 | Fight Another Day | 3.00% | ~107 |
-| Out of Scope | 2.00% | ~72 |
-| Eagle Eyed | 2.00% | ~72 |
-| Up close and personal | 2.00% | ~72 |
-| Can't Outrun A Bullet | 2.00% | ~72 |
+| Out of Scope | 2.00% | ~73 |
+| Eagle Eyed | 2.00% | ~73 |
+| Up close and personal | 2.00% | ~73 |
+| Can't Outrun A Bullet | 2.00% | ~73 |
 | Führerious Repetition | 2.00% | ~72 |
 | Reich To The Point | 2.00% | ~72 |
 | Covert Elimination | 2.00% | ~72 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 625)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,624 (Ranked 160)  
+Progressed: 3,626 (Ranked 160)  
 Completed: 10 (0.28%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 10 (0.28%) (Ranked 186)
 | 2023-09-14 | 3,612 | 10 |
 | 2023-09-15 | 3,614 | 10 |
 | 2023-09-16 | 3,621 | 10 |
-| 2023-09-17 | 3,624 | 10 |
+| 2023-09-17 | 3,626 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

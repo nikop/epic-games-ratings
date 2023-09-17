@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -2015,9 +2015,9 @@
       "ID": "ACHIEVEMENTS_02",
       "SetID": "d4o538a",
       "Name": "Great Doctor",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 818
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2320,8 +2320,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:05:49.4013857+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:06:45.8523507+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:15.4686624+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:04:14.8852034+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:05:49.4014182+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:05:06.1572538+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:06:45.8523931+00:00"
 }

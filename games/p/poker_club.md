@@ -1,33 +1,33 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.80 (Ranked 976)  
+Rating: 3.81 (Ranked 975)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~398,458 |
-| Handy | 41.00% | ~214,958 |
-| Cold Caller | 39.00% | ~204,472 |
-| A Bit On The Side | 26.00% | ~136,315 |
-| Backdoor | 25.00% | ~131,072 |
-| Rank Amateur | 21.00% | ~110,100 |
-| Three Way | 18.00% | ~94,372 |
-| Deadly Assassin | 15.00% | ~78,643 |
-| Gutshot | 13.00% | ~68,157 |
-| Risk It For A Biscuit | 13.00% | ~68,157 |
-| Showoff | 13.00% | ~68,157 |
-| W.H.I.P. | 11.00% | ~57,672 |
-| Bet Bet Bet | 9.00% | ~47,186 |
-| Blindman's Bluff | 9.00% | ~47,186 |
-| Poker Joker | 9.00% | ~47,186 |
-| Never Give Up | 8.00% | ~41,943 |
-| Total Knock Out | 8.00% | ~41,943 |
-| Dog Eat Dog | 7.00% | ~36,700 |
-| Quack Quack | 7.00% | ~36,700 |
-| The Bigger They Are | 7.00% | ~36,700 |
-| Give Your Regards To Broadway | 6.00% | ~31,457 |
-| Check Yourself | 4.00% | ~20,971 |
-| Moneymaker | 4.00% | ~20,971 |
+| Pro Creation | 76.00% | ~398,473 |
+| Handy | 41.00% | ~214,966 |
+| Cold Caller | 39.00% | ~204,480 |
+| A Bit On The Side | 26.00% | ~136,320 |
+| Backdoor | 25.00% | ~131,077 |
+| Rank Amateur | 21.00% | ~110,104 |
+| Three Way | 18.00% | ~94,375 |
+| Deadly Assassin | 15.00% | ~78,646 |
+| Gutshot | 13.00% | ~68,160 |
+| Risk It For A Biscuit | 13.00% | ~68,160 |
+| Showoff | 13.00% | ~68,160 |
+| W.H.I.P. | 11.00% | ~57,674 |
+| Bet Bet Bet | 9.00% | ~47,188 |
+| Blindman's Bluff | 9.00% | ~47,188 |
+| Poker Joker | 9.00% | ~47,188 |
+| Never Give Up | 8.00% | ~41,945 |
+| Total Knock Out | 8.00% | ~41,945 |
+| Dog Eat Dog | 7.00% | ~36,701 |
+| Quack Quack | 7.00% | ~36,701 |
+| The Bigger They Are | 7.00% | ~36,701 |
+| Give Your Regards To Broadway | 6.00% | ~31,458 |
+| Check Yourself | 4.00% | ~20,972 |
+| Moneymaker | 4.00% | ~20,972 |
 | In The Gang | 3.00% | ~15,729 |
 | On The Button | 3.00% | ~15,729 |
 | Before You Wreck Yourself | 2.00% | ~10,486 |
@@ -37,7 +37,7 @@ Rating: 3.80 (Ranked 976)
 | Holding Your Own | 1.00% | ~5,243 |
 | Regular Punter | 0.70% | ~3,670 |
 | How I Roll | 0.60% | ~3,146 |
-| Club Legend | 0.50% | ~2,621 |
+| Club Legend | 0.50% | ~2,622 |
 | Bring It On | 0.20% | ~1,049 |
 | Dress To Impress | 0.20% | ~1,049 |
 | Bounty Hunter | 0.10% | ~524 |
@@ -51,7 +51,7 @@ Rating: 3.80 (Ranked 976)
 | Rounder | 0.10% | ~524 |
 | Top Dog | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,287 (Ranked 34)  
+Progressed: 524,307 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,14 +200,14 @@ Completed: 2 (0.00%) (Ranked 276)
 | 2023-09-14 | 523,476 | 2 |
 | 2023-09-15 | 523,789 | 2 |
 | 2023-09-16 | 524,153 | 2 |
-| 2023-09-17 | 524,287 | 2 |
+| 2023-09-17 | 524,307 | 2 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 428)  
-Sum: 110 (Ranked 414)  
-Diff (max vs sum): 14  
+Max (Great for Beginners): 41  (Ranked 425)  
+Sum: 111 (Ranked 414)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 40 |
+| This game is Great for Beginners | 41 |
 | This game is Highly Recommended | 25 |
 | This game has Quickly Understood Controls | 24 |
 | This game has a Competitive Community | 21 |
@@ -290,3 +290,4 @@ Diff (max vs sum): 14
 | 2023-09-13 | 3.81 | 40 | 110 |
 | 2023-09-15 | 3.80 | 40 | 110 |
 | 2023-09-16 | 3.81 | 40 | 110 |
+| 2023-09-17 | 3.81 | 41 | 111 |

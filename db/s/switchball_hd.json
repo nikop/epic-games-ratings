@@ -4,8 +4,8 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
     "PcReleaseDate": "2021-05-17T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -541,6 +541,11 @@
       "Time": "2023-09-17T00:03:39.7795726+00:00",
       "NumProgressed": 119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T11:07:21.0981826+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -558,7 +563,7 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 100,
       "UsersEstimate": 89
     },
@@ -576,7 +581,7 @@
       "Name": "Powerball Badge",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_EXPERT_ID",
@@ -598,9 +603,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -623,14 +628,14 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:06:25.2976606+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:07:21.0981822+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:21.5174128+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:57:43.6065801+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:06:25.2976711+00:00"
+  "LastUpdate_Ratings": "2023-09-17T10:58:07.0287968+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:07:21.0981932+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 10023,
+  "EOS_Progressed": 10026,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9642,6 +9642,11 @@
       "Time": "2023-09-17T10:11:06.40307+00:00",
       "NumProgressed": 10023,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-17T11:11:31.9164622+00:00",
+      "NumProgressed": 10026,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9669,7 +9674,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH04",
@@ -9685,7 +9690,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH06",
@@ -9699,9 +9704,9 @@
       "ID": "ACH07",
       "SetID": "9llo822",
       "Name": "High Quality H2O",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 301
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH08",
@@ -9741,7 +9746,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH13",
@@ -9757,7 +9762,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "ACH15",
@@ -9813,7 +9818,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4611
+      "UsersEstimate": 4612
     },
     {
       "ID": "ACH22",
@@ -9829,7 +9834,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "ACH24",
@@ -9837,7 +9842,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "ACH25",
@@ -9845,7 +9850,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "ACH26",
@@ -9853,7 +9858,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "ACH27",
@@ -9869,7 +9874,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH29",
@@ -9877,7 +9882,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH30",
@@ -9893,7 +9898,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH32",
@@ -9901,7 +9906,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH33",
@@ -9924,7 +9929,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10023,
+      "Progressed": 10026,
       "Completed": 56
     }
   ],
@@ -9932,8 +9937,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-17T05:59:07.322299+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:11:06.4030697+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:11:31.9164618+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:59:24.4139183+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:11:06.4031282+00:00"
+  "LastUpdate_Ratings": "2023-09-17T10:59:55.8008182+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:11:31.9165409+00:00"
 }

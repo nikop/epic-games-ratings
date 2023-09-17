@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7654,10 +7654,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43522,
       "NumberOfAwardsMax": 22752
+    },
+    {
+      "Time": "2023-09-17T10:57:19.7836095+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43528,
+      "NumberOfAwardsMax": 22752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43522,
+  "NumberOfAwards": 43528,
   "NumberOfAwardsMax": 22752,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7683,7 +7689,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 995
+      "Count": 1001
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7734,10 +7740,10 @@
       "Count": 655
     }
   ],
-  "EOS_Progressed": 296807,
-  "EOS_Completed": 472,
-  "EOS_NewPlayers": 583,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 296809,
+  "EOS_Completed": 473,
+  "EOS_NewPlayers": 576,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -23979,6 +23985,11 @@
       "Time": "2023-09-17T10:06:41.9464941+00:00",
       "NumProgressed": 296807,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-09-17T11:07:37.2612288+00:00",
+      "NumProgressed": 296809,
+      "NumCompleted": 473
     }
   ],
   "TotalAchievements": 45,
@@ -24030,7 +24041,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17808
+      "UsersEstimate": 17809
     },
     {
       "ID": "PFA_15",
@@ -24038,7 +24049,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20776
+      "UsersEstimate": 20777
     },
     {
       "ID": "PFA_16",
@@ -24054,7 +24065,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20776
+      "UsersEstimate": 20777
     },
     {
       "ID": "PFA_18",
@@ -24070,7 +24081,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20776
+      "UsersEstimate": 20777
     },
     {
       "ID": "PFA_2",
@@ -24278,7 +24289,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17808
+      "UsersEstimate": 17809
     },
     {
       "ID": "PFA_43",
@@ -24349,16 +24360,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296807,
-      "Completed": 472
+      "Progressed": 296809,
+      "Completed": 473
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-17T07:57:17.7968567+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:06:41.9464938+00:00",
+  "LastChanged": "2023-09-17T10:57:19.7836093+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:07:37.2612284+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:56:59.4495423+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:06:41.9465957+00:00"
+  "LastUpdate_Ratings": "2023-09-17T10:57:19.7836103+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:07:37.2613627+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-12T09:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -82,9 +82,9 @@
       "ID": "cold_feet",
       "SetID": "7i36ba9",
       "Name": "Cold Feet",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "cultipedia",
@@ -146,9 +146,9 @@
       "ID": "lessons_never_learnt",
       "SetID": "7i36ba9",
       "Name": "Lessons Never Learnt",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "passive_fist",
@@ -234,9 +234,9 @@
       "ID": "the_petition",
       "SetID": "7i36ba9",
       "Name": "The Petition",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "the_price_is_right",
@@ -281,8 +281,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:06:16.7784608+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:07:12.6160814+00:00",
   "LastUpdate_AppInfo": "2023-09-15T20:57:10.1648682+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:03:26.8015909+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:06:16.7784764+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:04:24.6941409+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:07:12.6160993+00:00"
 }

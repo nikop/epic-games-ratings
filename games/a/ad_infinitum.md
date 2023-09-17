@@ -4,13 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 71.00% | ~15 |
-| Path of Despair | 71.00% | ~15 |
+| Morgengrauen | 76.00% | ~16 |
+| Path of Despair | 76.00% | ~16 |
 | Not alone | 48.00% | ~10 |
 | Hunger | 43.00% | ~9 |
 | Awaken | 38.00% | ~8 |
 | Path of Corruption | 19.00% | ~4 |
 | Hope | 14.00% | ~3 |
+| Health | 10.00% | ~2 |
+| Lost | 10.00% | ~2 |
+| Reflections | 10.00% | ~2 |
 | The shining | 10.00% | ~2 |
 | An act of courage | 5.00% | ~1 |
 | An act of mercy | 5.00% | ~1 |
@@ -18,15 +21,12 @@
 | Art critic | 5.00% | ~1 |
 | Clarity | 5.00% | ~1 |
 | Despair | 5.00% | ~1 |
-| Health | 5.00% | ~1 |
 | Jigsaw | 5.00% | ~1 |
-| Lost | 5.00% | ~1 |
 | Mayhem | 5.00% | ~1 |
 | Pain | 5.00% | ~1 |
 | Path of Pain | 5.00% | ~1 |
 | Peace | 5.00% | ~1 |
 | Rage | 5.00% | ~1 |
-| Reflections | 5.00% | ~1 |
 | An act of compassion | 0.00% | ~0 |
 | All knowing | 0.00% | ~0 |
 | Awaiting orders | 0.00% | ~0 |

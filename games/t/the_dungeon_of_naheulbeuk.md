@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,406 |
-| Alt+F4 | 5.00% | ~11,234 |
-| Déjà vu | 4.00% | ~8,987 |
-| Where's that freaking Dwarf? | 4.00% | ~8,987 |
+| Sowwy! | 30.00% | ~67,412 |
+| Alt+F4 | 5.00% | ~11,235 |
+| Déjà vu | 4.00% | ~8,988 |
+| Where's that freaking Dwarf? | 4.00% | ~8,988 |
 | Sock! SOCK! | 3.00% | ~6,741 |
 | Speedrun | 3.00% | ~6,741 |
 | Livin' in a dwarven paradise | 2.00% | ~4,494 |
@@ -39,13 +39,13 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.90% | ~2,022 |
 | %#*!$*! | 0.90% | ~2,022 |
 | Look but don't touch | 0.90% | ~2,022 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,797 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,798 |
 | Dead for good | 0.70% | ~1,573 |
 | Lust and Debauchery | 0.70% | ~1,573 |
 | Material Girl | 0.70% | ~1,573 |
 | Gargantua | 0.60% | ~1,348 |
-| In Navalu's footsteps | 0.50% | ~1,123 |
-| Lëgal Legend | 0.50% | ~1,123 |
+| In Navalu's footsteps | 0.50% | ~1,124 |
+| Lëgal Legend | 0.50% | ~1,124 |
 | An old poacher makes the best gamekeeper | 0.40% | ~899 |
 | We come in peace | 0.40% | ~899 |
 | Holistic Adventuring Party | 0.30% | ~674 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,687 (Ranked 58)  
+Progressed: 224,706 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 3 (0.00%) (Ranked 276)
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
 | 2023-09-16 | 224,568 | 3 |
-| 2023-09-17 | 224,687 | 3 |
+| 2023-09-17 | 224,706 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 335 (Ranked 337)  

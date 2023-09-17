@@ -2,20 +2,20 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 710,
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "NumberOfRatings": 2541,
   "RatingHistory": [
     {
@@ -2888,10 +2888,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 4276,
       "NumberOfAwardsMax": 563
+    },
+    {
+      "Time": "2023-09-17T10:58:24.5379326+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 4277,
+      "NumberOfAwardsMax": 563
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4276,
+  "NumberOfAwards": 4277,
   "NumberOfAwardsMax": 563,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2929,7 +2935,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 474
+      "Count": 475
     },
     {
       "Text": "This game is Educational",
@@ -2973,8 +2979,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-09-16T14:58:03.9080772+00:00",
+  "LastChanged": "2023-09-17T10:58:24.5379324+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.2952143+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:58:06.4097272+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:06:33.7831509+00:00"
+  "LastUpdate_Ratings": "2023-09-17T10:58:24.537933+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:07:28.9011191+00:00"
 }

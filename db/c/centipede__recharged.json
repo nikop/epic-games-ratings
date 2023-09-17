@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17166,
+  "EOS_Progressed": 17167,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -11762,6 +11762,11 @@
       "Time": "2023-09-17T10:10:19.4579691+00:00",
       "NumProgressed": 17166,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-09-17T11:11:15.5679609+00:00",
+      "NumProgressed": 17167,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 16,
@@ -11781,7 +11786,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4806
+      "UsersEstimate": 4807
     },
     {
       "ID": "Deadline",
@@ -11877,7 +11882,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "Still_Burning",
@@ -11900,15 +11905,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17166,
+      "Progressed": 17167,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:10:19.4579687+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:11:15.5679605+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.7549106+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:00:43.746846+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:10:19.4580308+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:01:28.5738084+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:11:15.5680421+00:00"
 }

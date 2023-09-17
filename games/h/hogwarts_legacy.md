@@ -23,11 +23,11 @@ Rating: 4.77 (Ranked 110)
 | Rising From the Ashes | 9.00% | ~26,713 |
 | A Sallow Grave | 8.00% | ~23,745 |
 | The Spell Master | 8.00% | ~23,745 |
-| The Avenging Gazelle | 7.00% | ~20,776 |
-| Beast Friends | 7.00% | ~20,776 |
-| Flight the Good Flight | 7.00% | ~20,776 |
-| The Seeker of Knowledge | 6.00% | ~17,808 |
-| Raising Expectations | 6.00% | ~17,808 |
+| The Avenging Gazelle | 7.00% | ~20,777 |
+| Beast Friends | 7.00% | ~20,777 |
+| Flight the Good Flight | 7.00% | ~20,777 |
+| The Seeker of Knowledge | 6.00% | ~17,809 |
+| Raising Expectations | 6.00% | ~17,809 |
 | The Root of the Problem | 5.00% | ~14,840 |
 | Third Time's a Charm | 5.00% | ~14,840 |
 | The Ends Petrify the Means | 5.00% | ~14,840 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,781 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,807 (Ranked 43)  
-Completed: 472 (0.16%) (Ranked 204)  
+Progressed: 296,809 (Ranked 43)  
+Completed: 473 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,10 +201,10 @@ Completed: 472 (0.16%) (Ranked 204)
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
 | 2023-09-16 | 296,761 | 472 |
-| 2023-09-17 | 296,807 | 472 |
+| 2023-09-17 | 296,809 | 473 |
 ## Awards
 Max (Character Customization): 22,752  (Ranked 17)  
-Sum: 43,522 (Ranked 30)  
+Sum: 43,528 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -215,7 +215,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,030 |
 | This game is Relaxing | 1,028 |
 | This game has Diverse Characters | 1,025 |
-| This game has Amazing Characters | 995 |
+| This game has Amazing Characters | 1,001 |
 | This game is Highly Recommended | 980 |
 | This game has Quickly Understood Controls | 915 |
 | This game has Beautiful Visuals | 856 |
@@ -400,4 +400,4 @@ Diff (max vs sum): -13
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
 | 2023-09-16 | 4.77 | 22,752 | 43,493 |
-| 2023-09-17 | 4.77 | 22,752 | 43,522 |
+| 2023-09-17 | 4.77 | 22,752 | 43,528 |

@@ -97,11 +97,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.40% | ~545 |
 | Master Recycler | 0.40% | ~545 |
 | Exotic Commodities | 0.40% | ~545 |
+| Economy of Scarce | 0.40% | ~545 |
 | Thank You Tom Nook | 0.30% | ~409 |
 | A Legend is Born | 0.30% | ~409 |
 | Jackpot! | 0.30% | ~409 |
 | All Accounted For | 0.30% | ~409 |
-| Economy of Scarce | 0.30% | ~409 |
 | King's Blade | 0.30% | ~409 |
 | The Free Encyclopedia | 0.20% | ~273 |
 | JACKPOT!!! | 0.20% | ~273 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,297 (Ranked 69)  
+Progressed: 136,299 (Ranked 69)  
 Completed: 152 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,10 +269,10 @@ Completed: 152 (0.11%) (Ranked 218)
 | 2023-09-14 | 136,187 | 151 |
 | 2023-09-15 | 136,220 | 151 |
 | 2023-09-16 | 136,276 | 152 |
-| 2023-09-17 | 136,297 | 152 |
+| 2023-09-17 | 136,299 | 152 |
 ## Awards
 Max (Great for Beginners): 4,746  (Ranked 71)  
-Sum: 27,245 (Ranked 48)  
+Sum: 27,247 (Ranked 48)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -280,7 +280,7 @@ Diff (max vs sum): 23
 | This game is Relaxing | 4,011 |
 | This game has Quickly Understood Controls | 3,996 |
 | This game has Diverse Characters | 3,884 |
-| This game is Highly Recommended | 3,743 |
+| This game is Highly Recommended | 3,745 |
 | This game has Easy Combat | 3,691 |
 | This game has Playful Visuals | 3,174 |
 | This game has Inclusive Character Customization | 22 |
@@ -520,4 +520,4 @@ Diff (max vs sum): 23
 | 2023-09-14 | 3.99 | - | 4,741 | 27,227 |
 | 2023-09-15 | 3.99 | - | 4,743 | 27,234 |
 | 2023-09-16 | 3.99 | - | 4,746 | 27,243 |
-| 2023-09-17 | 3.99 | - | 4,746 | 27,245 |
+| 2023-09-17 | 3.99 | - | 4,746 | 27,247 |

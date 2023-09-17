@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,549 |
-| Jeef Skeejj | 44.00% | ~205,700 |
-| Careful planning | 39.00% | ~182,325 |
-| Second Coming | 33.00% | ~154,275 |
-| Jeef Skagg | 30.00% | ~140,250 |
-| Mother | 25.00% | ~116,875 |
-| In space, no one can hear you scream | 24.00% | ~112,200 |
-| Chapter I: Echoes | 22.00% | ~102,850 |
-| Excelsior Rule | 22.00% | ~102,850 |
-| Things persisted in not being what they seemed | 20.00% | ~93,500 |
+| The Shutdown | 66.00% | ~308,552 |
+| Jeef Skeejj | 44.00% | ~205,701 |
+| Careful planning | 39.00% | ~182,326 |
+| Second Coming | 33.00% | ~154,276 |
+| Jeef Skagg | 30.00% | ~140,251 |
+| Mother | 25.00% | ~116,876 |
+| In space, no one can hear you scream | 24.00% | ~112,201 |
+| Chapter I: Echoes | 22.00% | ~102,851 |
+| Excelsior Rule | 22.00% | ~102,851 |
+| Things persisted in not being what they seemed | 20.00% | ~93,501 |
 | Knightmare Frames | 15.00% | ~70,125 |
 | May His passing cleanse the world | 15.00% | ~70,125 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,125 |
@@ -56,23 +56,23 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,675 |
 | A Frozen Lady | 1.00% | ~4,675 |
 | Void Rule | 1.00% | ~4,675 |
-| Excelsior Mastery | 0.90% | ~4,207 |
-| The greatest admiral of all time | 0.50% | ~2,337 |
+| Excelsior Mastery | 0.90% | ~4,208 |
+| The greatest admiral of all time | 0.50% | ~2,338 |
 | Hand of the Emperor | 0.40% | ~46 |
 | Soldiers of Fortune | 0.30% | ~34 |
-| Liberator | 0.10% | ~467 |
-| The Art of War | 0.10% | ~467 |
-| Geno Mastery | 0.10% | ~467 |
-| Geno Supremacy | 0.10% | ~467 |
-| Jericho Mastery | 0.10% | ~467 |
-| Jericho Supremacy | 0.10% | ~467 |
-| Hammer Mastery | 0.10% | ~467 |
-| Hammer Supremacy | 0.10% | ~467 |
-| Void Mastery | 0.10% | ~467 |
-| Void Supremacy | 0.10% | ~467 |
-| Kaos Mastery | 0.10% | ~467 |
-| Kaos Supremacy | 0.10% | ~467 |
-| Excelsior Supremacy | 0.10% | ~467 |
+| Liberator | 0.10% | ~468 |
+| The Art of War | 0.10% | ~468 |
+| Geno Mastery | 0.10% | ~468 |
+| Geno Supremacy | 0.10% | ~468 |
+| Jericho Mastery | 0.10% | ~468 |
+| Jericho Supremacy | 0.10% | ~468 |
+| Hammer Mastery | 0.10% | ~468 |
+| Hammer Supremacy | 0.10% | ~468 |
+| Void Mastery | 0.10% | ~468 |
+| Void Supremacy | 0.10% | ~468 |
+| Kaos Mastery | 0.10% | ~468 |
+| Kaos Supremacy | 0.10% | ~468 |
+| Excelsior Supremacy | 0.10% | ~468 |
 | The Blade | 0.10% | ~11 |
 | The Ghost | 0.10% | ~11 |
 | The Extractor | 0.10% | ~11 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,499 (Ranked 37)  
+Progressed: 467,503 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 18 (0.00%) (Ranked 276)
 | 2023-09-14 | 467,322 | 18 |
 | 2023-09-15 | 467,385 | 18 |
 | 2023-09-16 | 467,466 | 18 |
-| 2023-09-17 | 467,499 | 18 |
+| 2023-09-17 | 467,503 | 18 |
 ## Awards
 Max (Character Customization): 219  (Ranked 268)  
 Sum: 239 (Ranked 361)  

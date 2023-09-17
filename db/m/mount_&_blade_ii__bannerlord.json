@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7215,9 +7215,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61272,
+  "EOS_Progressed": 61274,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23080,6 +23080,11 @@
       "Time": "2023-09-17T10:09:17.5939988+00:00",
       "NumProgressed": 61272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T11:10:14.143742+00:00",
+      "NumProgressed": 61274,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23179,7 +23184,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "Entrepreneur",
@@ -23219,7 +23224,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7965
+      "UsersEstimate": 7966
     },
     {
       "ID": "Great Granny",
@@ -23267,7 +23272,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "Jack of All Trades",
@@ -23283,7 +23288,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10416
+      "UsersEstimate": 10417
     },
     {
       "ID": "Kingslayer",
@@ -23315,7 +23320,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19607
+      "UsersEstimate": 19608
     },
     {
       "ID": "Lawbringer",
@@ -23323,7 +23328,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23896
+      "UsersEstimate": 23897
     },
     {
       "ID": "Lawmaker",
@@ -23498,15 +23503,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61272,
+      "Progressed": 61274,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-17T06:01:01.9740015+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:09:17.5939984+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:10:14.1437417+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:02:00.8521805+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:09:17.5941057+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:02:56.1923555+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:10:14.1438793+00:00"
 }

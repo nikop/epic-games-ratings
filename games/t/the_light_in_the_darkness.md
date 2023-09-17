@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Jacques a Dit | 37.00% | ~881 |
-| Little Helper | 33.00% | ~786 |
-| Nazis in Paris | 26.00% | ~619 |
+| Jacques a Dit | 37.00% | ~882 |
+| Little Helper | 33.00% | ~787 |
+| Nazis in Paris | 26.00% | ~620 |
 | Building the Fox | 22.00% | ~524 |
 | Green Ticket Roundup | 19.00% | ~453 |
-| Arranging Boxes | 15.00% | ~357 |
-| Jakob | 14.00% | ~333 |
-| Le Juif et la France | 14.00% | ~333 |
+| Arranging Boxes | 15.00% | ~358 |
+| Jakob | 14.00% | ~334 |
+| Le Juif et la France | 14.00% | ~334 |
 | Jude | 13.00% | ~310 |
 | Bernard | 12.00% | ~286 |
 | Nuremberg Laws | 12.00% | ~286 |
-| May Their Memories be a Blessing | 9.00% | ~214 |
+| May Their Memories be a Blessing | 9.00% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,382 (Ranked 180)  
-Completed: 216 (9.07%) (Ranked 31)  
+Progressed: 2,384 (Ranked 180)  
+Completed: 216 (9.06%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,7 +167,7 @@ Completed: 216 (9.07%) (Ranked 31)
 | 2023-09-14 | 2,367 | 216 |
 | 2023-09-15 | 2,372 | 216 |
 | 2023-09-16 | 2,379 | 216 |
-| 2023-09-17 | 2,382 | 216 |
+| 2023-09-17 | 2,384 | 216 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

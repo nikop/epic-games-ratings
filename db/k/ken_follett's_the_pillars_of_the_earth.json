@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 302,
   "Ranking_PopularitySum": 380,
-  "Ranking_EOS_Progress": 122,
+  "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15236,
+  "EOS_Progressed": 15238,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10282,6 +10282,11 @@
       "Time": "2023-09-17T10:09:26.4647535+00:00",
       "NumProgressed": 15236,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-17T11:10:23.3258313+00:00",
+      "NumProgressed": 15238,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -10333,7 +10338,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5029
     },
     {
       "ID": "tpote_achievement_15",
@@ -10373,7 +10378,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "tpote_achievement_2",
@@ -10381,7 +10386,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5029
     },
     {
       "ID": "tpote_achievement_20",
@@ -10405,7 +10410,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     },
     {
       "ID": "tpote_achievement_23",
@@ -10429,7 +10434,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "tpote_achievement_26",
@@ -10445,7 +10450,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "tpote_achievement_28",
@@ -10453,7 +10458,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "tpote_achievement_29",
@@ -10485,7 +10490,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "tpote_achievement_32",
@@ -10517,7 +10522,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "tpote_achievement_36",
@@ -10541,7 +10546,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "tpote_achievement_39",
@@ -10557,7 +10562,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6247
+      "UsersEstimate": 6248
     },
     {
       "ID": "tpote_achievement_40",
@@ -10620,15 +10625,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15236,
+      "Progressed": 15238,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:09:26.4647531+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:10:23.3258309+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-17T10:02:25.5230391+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:09:26.464824+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:03:26.9198988+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:10:23.3259207+00:00"
 }

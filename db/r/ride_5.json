@@ -2,10 +2,10 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 894,
+  "EOS_Progressed": 896,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1119,6 +1119,11 @@
       "Time": "2023-09-17T06:08:41.8690945+00:00",
       "NumProgressed": 894,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T11:11:15.3977365+00:00",
+      "NumProgressed": 896,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1139,7 +1144,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1201,9 +1206,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 224
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1337,9 +1342,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 349
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1427,7 +1432,7 @@
       "Name": "Eat My Dust",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -1473,9 +1478,9 @@
       "ID": "ML_ACHIEVEMENT_44",
       "SetID": "c7hf6a4",
       "Name": "Overtaking the Master",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -1483,7 +1488,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -1522,14 +1527,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 894,
+      "Progressed": 896,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-17T10:10:19.2915652+00:00",
+  "LastChanged_Achievements": "2023-09-17T11:11:15.397736+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:59:39.3589336+00:00",
-  "LastUpdate_Achievements": "2023-09-17T10:10:19.2916018+00:00"
+  "LastUpdate_Ratings": "2023-09-17T11:00:16.733256+00:00",
+  "LastUpdate_Achievements": "2023-09-17T11:11:15.3977841+00:00"
 }
