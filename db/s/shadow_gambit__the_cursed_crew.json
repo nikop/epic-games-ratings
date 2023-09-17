@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.31,
+  "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1734,6 +1734,11 @@
       "Time": "2023-09-17T17:09:52.5979947+00:00",
       "NumProgressed": 650,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-17T18:06:29.4057169+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1746,7 +1751,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1754,7 +1759,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "_03_FinishAct1",
@@ -1776,9 +1781,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 215
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1866,7 +1871,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1953,7 +1958,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 15
     }
   ],
@@ -1961,8 +1966,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:09:52.5979941+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:06:29.4057162+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:00:42.126259+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:09:52.598053+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:59:29.3177148+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:06:29.405745+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 45,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224811,
+  "EOS_Progressed": 224832,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1815,
+  "EOS_NewPlayers": 1818,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11233,6 +11233,11 @@
       "Time": "2023-09-17T17:15:50.9027938+00:00",
       "NumProgressed": 224811,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T18:12:16.7379281+00:00",
+      "NumProgressed": 224832,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11244,7 +11249,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "100Fail",
@@ -11276,7 +11281,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "BookCollection",
@@ -11292,7 +11297,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8992
+      "UsersEstimate": 8993
     },
     {
       "ID": "Chapter2",
@@ -11300,7 +11305,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "Chapter3",
@@ -11308,7 +11313,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "Chapter4",
@@ -11644,7 +11649,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8992
+      "UsersEstimate": 8993
     },
     {
       "ID": "DwarfElf15Support",
@@ -11676,7 +11681,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6744
+      "UsersEstimate": 6745
     },
     {
       "ID": "ElfEpic",
@@ -11692,7 +11697,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67443
+      "UsersEstimate": 67450
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11708,7 +11713,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "EndCombatOneHp",
@@ -11716,7 +11721,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "EndGameCursed",
@@ -11740,7 +11745,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11241
+      "UsersEstimate": 11242
     },
     {
       "ID": "FollowBraztok",
@@ -11764,7 +11769,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "KillDungeonLich",
@@ -11892,7 +11897,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6744
+      "UsersEstimate": 6745
     },
     {
       "ID": "SupportCount4",
@@ -11940,28 +11945,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224811,
+      "Progressed": 224832,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224811,
+      "Progressed": 224832,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:15:50.9027932+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:12:16.7379274+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:00:52.7817902+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:15:50.9029605+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:59:36.8624456+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:12:16.7380923+00:00"
 }

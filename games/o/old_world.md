@@ -43,34 +43,34 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~419 |
 | Trade Caravan | 3.00% | ~419 |
 | The Great Mage | 3.00% | ~419 |
-| Regicide | 2.00% | ~279 |
-| Drillmaster | 2.00% | ~279 |
-| Brilliant | 2.00% | ~279 |
-| Fountainhead | 2.00% | ~279 |
-| Great | 2.00% | ~279 |
-| Intercessor | 2.00% | ~279 |
-| Valiant | 2.00% | ~279 |
-| Wise | 2.00% | ~279 |
-| Legendary Cities | 2.00% | ~279 |
-| Able Difficulty | 2.00% | ~279 |
-| Just Difficulty | 2.00% | ~279 |
-| Artisans | 2.00% | ~279 |
-| Sages | 2.00% | ~279 |
-| Furious Family | 2.00% | ~279 |
-| Acropolis | 2.00% | ~279 |
-| Apadana | 2.00% | ~279 |
-| Colossus | 2.00% | ~279 |
-| Great Ziggurat | 2.00% | ~279 |
-| Mausoleum | 2.00% | ~279 |
-| Musaeum | 2.00% | ~279 |
-| Necropolis | 2.00% | ~279 |
-| Learn to Play 1 | 2.00% | ~279 |
-| Learn to Play 2 | 2.00% | ~279 |
-| Christianity | 2.00% | ~279 |
-| Manichaeism | 2.00% | ~279 |
-| Egyptian Paganism | 2.00% | ~279 |
-| Mythology | 2.00% | ~279 |
-| Poetic Leader | 2.00% | ~279 |
+| Regicide | 2.00% | ~280 |
+| Drillmaster | 2.00% | ~280 |
+| Brilliant | 2.00% | ~280 |
+| Fountainhead | 2.00% | ~280 |
+| Great | 2.00% | ~280 |
+| Intercessor | 2.00% | ~280 |
+| Valiant | 2.00% | ~280 |
+| Wise | 2.00% | ~280 |
+| Legendary Cities | 2.00% | ~280 |
+| Able Difficulty | 2.00% | ~280 |
+| Just Difficulty | 2.00% | ~280 |
+| Artisans | 2.00% | ~280 |
+| Sages | 2.00% | ~280 |
+| Furious Family | 2.00% | ~280 |
+| Acropolis | 2.00% | ~280 |
+| Apadana | 2.00% | ~280 |
+| Colossus | 2.00% | ~280 |
+| Great Ziggurat | 2.00% | ~280 |
+| Mausoleum | 2.00% | ~280 |
+| Musaeum | 2.00% | ~280 |
+| Necropolis | 2.00% | ~280 |
+| Learn to Play 1 | 2.00% | ~280 |
+| Learn to Play 2 | 2.00% | ~280 |
+| Christianity | 2.00% | ~280 |
+| Manichaeism | 2.00% | ~280 |
+| Egyptian Paganism | 2.00% | ~280 |
+| Mythology | 2.00% | ~280 |
+| Poetic Leader | 2.00% | ~280 |
 | Hanging Gardens in Babylon | 1.00% | ~140 |
 | Beloved | 1.00% | ~140 |
 | Capable | 1.00% | ~140 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.40% | ~56 |
 | The Eternal Treaty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
+| Hatti | 0.40% | ~56 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Capturing Cities | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
@@ -163,7 +164,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.30% | ~42 |
 | Nenikekamen | 0.30% | ~42 |
 | Assyria | 0.30% | ~42 |
-| Hatti | 0.30% | ~42 |
 | Pantheon of Gods | 0.30% | ~42 |
 | Apadana in Parsa | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,972 (Ranked 124)  
+Progressed: 13,975 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -453,7 +453,7 @@ Completed: 5 (0.04%) (Ranked 245)
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
 | 2023-09-16 | 13,958 | 5 |
-| 2023-09-17 | 13,972 | 5 |
+| 2023-09-17 | 13,975 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

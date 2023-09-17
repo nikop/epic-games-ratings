@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18119,
+  "EOS_Progressed": 18120,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12412,6 +12412,11 @@
       "Time": "2023-09-17T17:11:14.0816836+00:00",
       "NumProgressed": 18119,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-17T18:07:39.0385965+00:00",
+      "NumProgressed": 18120,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12423,7 +12428,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14314
+      "UsersEstimate": 14315
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -12479,7 +12484,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9603
+      "UsersEstimate": 9604
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -12495,7 +12500,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -12503,7 +12508,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5073
+      "UsersEstimate": 5074
     },
     {
       "ID": "ACH_THE_FALL",
@@ -12511,7 +12516,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -12534,15 +12539,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18119,
+      "Progressed": 18120,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:11:14.0816831+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:07:39.0385957+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9412789+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:06:50.8353831+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:11:14.0817886+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:04:10.7105742+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:07:39.0387513+00:00"
 }

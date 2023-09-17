@@ -2,12 +2,12 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 242,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 111,
   "RatingHistory": [
     {
@@ -842,6 +842,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 462,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-09-17T18:00:42.2747575+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 462,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
@@ -922,9 +928,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2843,
+  "EOS_Progressed": 2846,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4542,6 +4548,11 @@
       "Time": "2023-09-17T16:10:36.4313307+00:00",
       "NumProgressed": 2843,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T18:09:41.2603064+00:00",
+      "NumProgressed": 2846,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4769,7 +4780,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -4857,7 +4868,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -4865,7 +4876,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -4873,7 +4884,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -4921,7 +4932,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4929,22 +4940,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1679
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2843,
+      "Progressed": 2846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-09-15T17:58:31.0946965+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:13:35.314694+00:00",
+  "LastChanged": "2023-09-17T18:00:42.2747572+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:09:41.2603058+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:02:14.8987924+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:13:35.3147598+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:00:42.2747578+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:09:41.276321+00:00"
 }

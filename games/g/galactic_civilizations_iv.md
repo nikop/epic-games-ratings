@@ -6,18 +6,18 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,247 |
-| Worker Specialization | 78.00% | ~5,181 |
+| Colonize a Planet | 79.00% | ~5,248 |
+| Worker Specialization | 78.00% | ~5,182 |
 | First Contact | 73.00% | ~4,849 |
-| Win a Battle | 67.00% | ~4,450 |
-| Anomaly Researcher | 62.00% | ~4,118 |
-| Unleash My Power | 62.00% | ~4,118 |
-| Own 30 Planets | 34.00% | ~2,258 |
-| Xenocide | 32.00% | ~2,125 |
-| Design a Civilization | 32.00% | ~2,125 |
+| Win a Battle | 67.00% | ~4,451 |
+| Anomaly Researcher | 62.00% | ~4,119 |
+| Unleash My Power | 62.00% | ~4,119 |
+| Own 30 Planets | 34.00% | ~2,259 |
+| Xenocide | 32.00% | ~2,126 |
+| Design a Civilization | 32.00% | ~2,126 |
 | Commodity Trader | 31.00% | ~2,059 |
 | Design a Ship | 28.00% | ~1,860 |
-| Commodity Seller | 25.00% | ~1,660 |
+| Commodity Seller | 25.00% | ~1,661 |
 | Prestige Victory! | 14.00% | ~930 |
 | Galactic War | 11.00% | ~731 |
 | Trading Partner | 9.00% | ~598 |
@@ -42,8 +42,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Torians | 0.90% | ~60 |
 | Win as the Drengin | 0.80% | ~53 |
 | Win as the Krynn | 0.80% | ~53 |
-| Win as the Manti | 0.70% | ~46 |
-| Win as Xeloxi | 0.70% | ~46 |
+| Win as the Manti | 0.70% | ~47 |
+| Win as Xeloxi | 0.70% | ~47 |
 | Win as the Drath | 0.60% | ~40 |
 | Win as the Iconians | 0.60% | ~40 |
 | Win as the Iridium | 0.60% | ~40 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,642 (Ranked 143)  
+Progressed: 6,643 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 6,620 | 0 |
 | 2023-09-15 | 6,625 | 0 |
 | 2023-09-16 | 6,638 | 0 |
-| 2023-09-17 | 6,642 | 0 |
+| 2023-09-17 | 6,643 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 351)  
 Sum: 679 (Ranked 282)  

@@ -1,54 +1,54 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 242)  
+Rating: 4.68 (Ranked 243)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~109,739 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~83,779 |
-| A Clear Conscience | 69.00% | ~81,419 |
-| Unleash Hell | 68.00% | ~80,239 |
-| Unfulfilled Desires | 68.00% | ~80,239 |
-| Funny Guy | 67.00% | ~79,059 |
-| Unshackled | 67.00% | ~79,059 |
-| Long Live the King | 66.00% | ~77,879 |
-| Resurrection | 62.00% | ~73,159 |
-| Wyrdly Reconstructed | 62.00% | ~73,159 |
-| Boxcar Kid | 60.00% | ~70,799 |
-| Rush Hour | 60.00% | ~70,799 |
-| To Grandmother's House | 60.00% | ~70,799 |
-| Serenity Now! | 53.00% | ~62,539 |
-| Hope Rekindled | 50.00% | ~59,000 |
-| Ramble On | 49.00% | ~57,820 |
-| Nope | 48.00% | ~56,640 |
-| This Looks Familiar | 38.00% | ~44,840 |
-| Now Stay Dead | 37.00% | ~43,660 |
-| Harvest Festival | 36.00% | ~42,480 |
-| Hot Air | 36.00% | ~42,480 |
-| Merry Time | 35.00% | ~41,300 |
-| Creep and Sleep | 33.00% | ~38,940 |
-| Overdue Notice | 32.00% | ~37,760 |
-| Banishment | 31.00% | ~36,580 |
-| Whale | 31.00% | ~36,580 |
-| FNG | 29.00% | ~34,220 |
-| Reverse Banditry | 25.00% | ~29,500 |
-| Predator | 24.00% | ~28,320 |
-| Autodidact | 24.00% | ~28,320 |
-| Meat and Greet | 22.00% | ~25,960 |
-| Spelunker | 21.00% | ~24,780 |
-| Eyes Up | 21.00% | ~24,780 |
-| Road Trip | 21.00% | ~24,780 |
-| It Rings a Bell | 20.00% | ~23,600 |
-| Escape from the Black Hole | 18.00% | ~21,240 |
-| It Happens | 17.00% | ~20,060 |
-| This Belongs in a Museum | 16.00% | ~18,880 |
-| Dissector | 16.00% | ~18,880 |
-| Handled | 15.00% | ~17,700 |
-| Catch and Decease | 14.00% | ~16,520 |
-| Not Today! | 13.00% | ~15,340 |
-| Deprogramming | 13.00% | ~15,340 |
+| A Place to Lay Your Head | 93.00% | ~109,744 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~83,783 |
+| A Clear Conscience | 69.00% | ~81,423 |
+| Unleash Hell | 68.00% | ~80,243 |
+| Unfulfilled Desires | 68.00% | ~80,243 |
+| Funny Guy | 67.00% | ~79,063 |
+| Unshackled | 67.00% | ~79,063 |
+| Long Live the King | 66.00% | ~77,883 |
+| Resurrection | 62.00% | ~73,162 |
+| Wyrdly Reconstructed | 62.00% | ~73,162 |
+| Boxcar Kid | 60.00% | ~70,802 |
+| Rush Hour | 60.00% | ~70,802 |
+| To Grandmother's House | 60.00% | ~70,802 |
+| Serenity Now! | 53.00% | ~62,542 |
+| Hope Rekindled | 50.00% | ~59,002 |
+| Ramble On | 49.00% | ~57,822 |
+| Nope | 48.00% | ~56,642 |
+| This Looks Familiar | 38.00% | ~44,842 |
+| Now Stay Dead | 37.00% | ~43,661 |
+| Harvest Festival | 36.00% | ~42,481 |
+| Hot Air | 36.00% | ~42,481 |
+| Merry Time | 35.00% | ~41,301 |
+| Creep and Sleep | 33.00% | ~38,941 |
+| Overdue Notice | 32.00% | ~37,761 |
+| Banishment | 31.00% | ~36,581 |
+| Whale | 31.00% | ~36,581 |
+| FNG | 29.00% | ~34,221 |
+| Reverse Banditry | 25.00% | ~29,501 |
+| Predator | 24.00% | ~28,321 |
+| Autodidact | 24.00% | ~28,321 |
+| Meat and Greet | 22.00% | ~25,961 |
+| Spelunker | 21.00% | ~24,781 |
+| Eyes Up | 21.00% | ~24,781 |
+| Road Trip | 21.00% | ~24,781 |
+| It Rings a Bell | 20.00% | ~23,601 |
+| Escape from the Black Hole | 18.00% | ~21,241 |
+| It Happens | 17.00% | ~20,061 |
+| This Belongs in a Museum | 16.00% | ~18,881 |
+| Dissector | 16.00% | ~18,881 |
+| Handled | 16.00% | ~18,881 |
+| Catch and Decease | 14.00% | ~16,521 |
+| Not Today! | 13.00% | ~15,341 |
+| Deprogramming | 13.00% | ~15,341 |
 | Shrine of Reflection | 12.00% | ~14,160 |
 | When You Want Something Done Right | 11.00% | ~12,980 |
 | Body of Work | 10.00% | ~11,800 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~118 |
 | 20,000 Leagues Above the Sea | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,999 (Ranked 73)  
+Progressed: 118,004 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,10 +212,10 @@ Completed: 1 (0.00%) (Ranked 277)
 | 2023-09-14 | 117,714 | 1 |
 | 2023-09-15 | 117,800 | 1 |
 | 2023-09-16 | 117,909 | 1 |
-| 2023-09-17 | 117,999 | 1 |
+| 2023-09-17 | 118,004 | 1 |
 ## Awards
 Max (Character Customization): 7,395  (Ranked 48)  
-Sum: 19,297 (Ranked 56)  
+Sum: 19,299 (Ranked 56)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +224,7 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,473 |
 | This game is Highly Recommended | 1,414 |
 | This game is Extremely Fun | 1,374 |
-| This game has Amazing Characters | 1,366 |
+| This game has Amazing Characters | 1,368 |
 | This game has Amazing Storytelling | 1,288 |
 | This game has Quickly Understood Controls | 1,273 |
 | This game has Unique Visuals | 1,244 |
@@ -467,4 +467,4 @@ Diff (max vs sum): -8
 | 2023-09-14 | 4.68 | - | 7,390 | 19,273 |
 | 2023-09-15 | 4.68 | - | 7,393 | 19,281 |
 | 2023-09-16 | 4.68 | - | 7,395 | 19,289 |
-| 2023-09-17 | 4.68 | - | 7,395 | 19,297 |
+| 2023-09-17 | 4.68 | - | 7,395 | 19,299 |

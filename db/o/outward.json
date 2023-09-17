@@ -2,8 +2,8 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 486,
-  "Ranking_Popularity": 449,
+  "Ranking_Rating": 488,
+  "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 225,
@@ -434,11 +434,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-17T17:59:20.5916629+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 243,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 244,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -481,7 +487,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Characters",
@@ -508,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3383,
+  "EOS_Progressed": 3384,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4418,6 +4424,11 @@
       "Time": "2023-09-17T13:14:04.4579765+00:00",
       "NumProgressed": 3383,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T18:07:18.5213103+00:00",
+      "NumProgressed": 3384,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4613,7 +4624,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4621,7 +4632,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4725,7 +4736,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -4749,7 +4760,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4764,15 +4775,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3383,
+      "Progressed": 3384,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
-  "LastChanged": "2023-09-12T04:00:16.8611299+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:10:49.9299384+00:00",
+  "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:07:18.5213095+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:00:20.0443986+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:10:49.9301033+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:59:20.5916631+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:07:18.521414+00:00"
 }

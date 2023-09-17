@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1421,6 +1421,11 @@
       "Time": "2023-09-17T14:08:43.8417369+00:00",
       "NumProgressed": 325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T18:07:26.9113396+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1440,29 +1445,29 @@
       "Name": "Is it merely a dream?",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "296pn27",
       "Name": "The crucifixion",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "296pn27",
       "Name": "The choice",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "296pn27",
       "Name": "Hubris",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -1512,7 +1517,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1520,7 +1525,7 @@
       "Name": "The court",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1528,29 +1533,29 @@
       "Name": "Holy Nails",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "296pn27",
       "Name": "Flagellation",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:10:59.8822924+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:07:26.9113388+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.4255118+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:06:44.2515594+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:10:59.8823214+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:04:03.7231481+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:07:26.9113729+00:00"
 }

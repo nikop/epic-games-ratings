@@ -16,9 +16,9 @@ Rating: 4.18 (Ranked 882)
 | Lock and Key | 23.00% | ~16,702 |
 | Something in the Clay | 21.00% | ~15,250 |
 | Quartzer Life Crisis | 21.00% | ~15,250 |
-| Working Hard or Harley Working? | 20.00% | ~14,523 |
-| Unstoppable Force | 20.00% | ~14,523 |
-| Bad Apples in Every Orchard | 20.00% | ~14,523 |
+| Working Hard or Harley Working? | 20.00% | ~14,524 |
+| Unstoppable Force | 20.00% | ~14,524 |
+| Bad Apples in Every Orchard | 20.00% | ~14,524 |
 | Snow Problem | 19.00% | ~13,797 |
 | The Show Mud Go On | 18.00% | ~13,071 |
 | From Inside Gotham's Walls | 18.00% | ~13,071 |
@@ -26,8 +26,8 @@ Rating: 4.18 (Ranked 882)
 | Universal Health Scare | 16.00% | ~11,619 |
 | In Your Element | 15.00% | ~10,893 |
 | Voiceless | 15.00% | ~10,893 |
-| Rock and a Hard Place | 14.00% | ~10,166 |
-| Cooldown | 14.00% | ~10,166 |
+| Rock and a Hard Place | 14.00% | ~10,167 |
+| Cooldown | 14.00% | ~10,167 |
 | Not On My Watch | 13.00% | ~9,440 |
 | Shock Til They Drop | 13.00% | ~9,440 |
 | Seeking Asylum | 13.00% | ~9,440 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 882)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,617 (Ranked 83)  
+Progressed: 72,618 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 113 (0.16%) (Ranked 204)
 | 2023-09-14 | 72,534 | 113 |
 | 2023-09-15 | 72,563 | 113 |
 | 2023-09-16 | 72,594 | 113 |
-| 2023-09-17 | 72,617 | 113 |
+| 2023-09-17 | 72,618 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,698  (Ranked 96)  
 Sum: 4,475 (Ranked 139)  

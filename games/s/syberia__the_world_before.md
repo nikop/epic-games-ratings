@@ -1,7 +1,7 @@
 # Syberia: The World Before
 [Store](https://store.epicgames.com/en-US/p/syberia-the-world-before)  
 [View Rawdata](../../db/s/syberia__the_world_before.json)  
-Rating: 4.66 (Ranked 280)  
+Rating: 4.67 (Ranked 259)  
 Number of Ratings: 119  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -96,3 +96,4 @@ Number of Ratings: 119  (23.09.2022)
 | 2023-01-08 | 4.67 | - | - | - |
 | 2023-03-31 | 4.67 | - | 0 | 0 |
 | 2023-08-05 | 4.66 | - | 0 | 0 |
+| 2023-09-17 | 4.67 | - | 0 | 0 |

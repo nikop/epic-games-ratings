@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -6638,9 +6638,9 @@
       "ID": "Ach006",
       "SetID": "12n4k20",
       "Name": "Time to pay up!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 284
     },
     {
       "ID": "Ach007",
@@ -7181,8 +7181,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:14:55.7405975+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:11:09.6572461+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:59:25.3618507+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:14:55.7407461+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:58:36.5824602+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:11:09.6574593+00:00"
 }

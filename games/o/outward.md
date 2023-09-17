@@ -1,14 +1,14 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 486)  
+Rating: 4.55 (Ranked 488)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,571 |
-| Ready for Winter | 65.00% | ~2,199 |
-| Ready for Summer | 52.00% | ~1,759 |
+| Venture Outward | 76.00% | ~2,572 |
+| Ready for Winter | 65.00% | ~2,200 |
+| Ready for Summer | 52.00% | ~1,760 |
 | Cordon Bleu | 44.00% | ~1,489 |
 | Tapped! | 37.00% | ~1,252 |
 | Eureka | 32.00% | ~1,083 |
@@ -36,7 +36,7 @@ Number of Ratings: 266  (23.09.2022)
 | For All Aurai | 4.00% | ~135 |
 | Light of Levant | 4.00% | ~135 |
 | Memory of a legend | 4.00% | ~135 |
-| This was a mistake... | 3.00% | ~101 |
+| This was a mistake... | 3.00% | ~102 |
 | Crowd Pleaser. | 2.00% | ~68 |
 | Perfect Defense | 2.00% | ~68 |
 | Power! To! The People! | 2.00% | ~68 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,383 (Ranked 166)  
+Progressed: 3,384 (Ranked 166)  
 Completed: 3 (0.09%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,14 +189,14 @@ Completed: 3 (0.09%) (Ranked 225)
 | 2023-09-14 | 3,352 | 3 |
 | 2023-09-15 | 3,357 | 3 |
 | 2023-09-16 | 3,367 | 3 |
-| 2023-09-17 | 3,383 | 3 |
+| 2023-09-17 | 3,384 | 3 |
 ## Awards
-Max (Highly Recommended): 34  (Ranked 449)  
-Sum: 243 (Ranked 360)  
-Diff (max vs sum): 89  
+Max (Highly Recommended): 35  (Ranked 445)  
+Sum: 244 (Ranked 360)  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 34 |
+| This game is Highly Recommended | 35 |
 | This game has Amazing Characters | 31 |
 | This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 29 |
@@ -272,3 +272,4 @@ Diff (max vs sum): 89
 | 2023-07-11 | 4.55 | - | 33 | 241 |
 | 2023-08-16 | 4.55 | - | 33 | 242 |
 | 2023-09-12 | 4.55 | - | 34 | 243 |
+| 2023-09-17 | 4.55 | - | 35 | 244 |

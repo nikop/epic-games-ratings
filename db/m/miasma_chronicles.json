@@ -204,7 +204,7 @@
   "Tags": [],
   "EOS_Progressed": 1441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3298,9 +3298,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 692
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -3370,9 +3370,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1340
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3554,9 +3554,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 576
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -3603,8 +3603,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-11T15:02:07.7710532+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:09:44.621499+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:06:22.4862901+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.650961+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:00:45.1433485+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:09:44.6216012+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:59:33.3659214+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:06:22.4863576+00:00"
 }

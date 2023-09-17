@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,068 |
-| Flanked! | 77.00% | ~2,684 |
-| Economics 101 | 61.00% | ~2,126 |
-| Get Rich Quick | 44.00% | ~1,534 |
-| Do the Splits | 39.00% | ~1,360 |
-| Maestro | 26.00% | ~906 |
-| Full Employment | 19.00% | ~662 |
+| You and what Army? | 88.00% | ~3,070 |
+| Flanked! | 77.00% | ~2,687 |
+| Economics 101 | 61.00% | ~2,128 |
+| Get Rich Quick | 44.00% | ~1,535 |
+| Do the Splits | 39.00% | ~1,361 |
+| Maestro | 26.00% | ~907 |
+| Full Employment | 19.00% | ~663 |
 | Clay Fighter | 16.00% | ~558 |
 | Nowhere left to Hide | 14.00% | ~488 |
-| All Ovens Blazing | 13.00% | ~453 |
-| Boulder Clash | 13.00% | ~453 |
-| Held Back by the Roots | 12.00% | ~418 |
-| Well Supplied | 11.00% | ~383 |
+| All Ovens Blazing | 13.00% | ~454 |
+| Boulder Clash | 13.00% | ~454 |
+| Held Back by the Roots | 12.00% | ~419 |
+| Well Supplied | 11.00% | ~384 |
 | Damage Control | 8.00% | ~279 |
 | Sniped | 7.00% | ~244 |
 | Leave Them no Cake | 7.00% | ~244 |
@@ -27,10 +27,10 @@
 | An Ally in Need | 5.00% | ~174 |
 | For the Queen | 5.00% | ~174 |
 | Not a Drop Wasted | 5.00% | ~174 |
-| Reinforcements | 4.00% | ~139 |
-| Sweet Revenge | 4.00% | ~139 |
-| We Have the Technology | 4.00% | ~139 |
-| Figure of Breach | 4.00% | ~139 |
+| Reinforcements | 4.00% | ~140 |
+| Sweet Revenge | 4.00% | ~140 |
+| We Have the Technology | 4.00% | ~140 |
+| Figure of Breach | 4.00% | ~140 |
 | Work It | 3.00% | ~105 |
 | The Handyman Can! | 3.00% | ~105 |
 | A Brief Moment of Respite | 3.00% | ~105 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~35 |
 | All Geared Up | 0.90% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,486 (Ranked 164)  
+Progressed: 3,489 (Ranked 164)  
 Completed: 11 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 11 (0.32%) (Ranked 177)
 | 2023-09-14 | 3,296 | 11 |
 | 2023-09-15 | 3,380 | 11 |
 | 2023-09-16 | 3,447 | 11 |
-| 2023-09-17 | 3,486 | 11 |
+| 2023-09-17 | 3,489 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.20% | ~391 |
 | Heatwave | 0.20% | ~391 |
 | The Dread Domain of Tovag | 0.20% | ~391 |
+| The Castle of a Thousand Vecnas | 0.20% | ~391 |
 | Homecoming | 0.20% | ~458 |
 | The Lost Heir of Omu | 0.20% | ~458 |
 | Beast Mode | 0.20% | ~458 |
@@ -179,7 +180,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.10% | ~195 |
 | Weak Doesn't Mean Feeble | 0.10% | ~195 |
 | Frail Doesn't Mean Broken | 0.10% | ~195 |
-| The Castle of a Thousand Vecnas | 0.10% | ~195 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~195 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~195 |
 | The Sanctum of the Sword | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,186 (Ranked 57)  
+Progressed: 229,199 (Ranked 57)  
 Completed: 2,291 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,7 +677,7 @@ Completed: 2,291 (1.00%) (Ranked 124)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,186 | 2,291 |
+| 2023-09-17 | 229,199 | 2,291 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,619 (Ranked 39)  

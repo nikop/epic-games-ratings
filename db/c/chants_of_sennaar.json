@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 163,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.91,
   "EosHistory": [
@@ -935,9 +935,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "PROGRESS_N1",
@@ -990,8 +990,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:15:27.8760194+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:11:36.7597254+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:02:31.9461986+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:15:27.8760687+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:00:47.3407947+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:11:36.7597578+00:00"
 }

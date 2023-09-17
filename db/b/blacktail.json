@@ -2,12 +2,12 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 242,
+  "Ranking_Rating": 243,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 669,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1780,6 +1780,11 @@
       "Time": "2023-09-17T13:13:30.5044372+00:00",
       "NumProgressed": 668,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T18:06:38.5790774+00:00",
+      "NumProgressed": 669,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1903,7 +1908,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LiarLiar",
@@ -2046,7 +2051,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 1
     }
   ],
@@ -2054,8 +2059,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:10:02.6512586+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:06:38.5790764+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.6981239+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:58:09.4524945+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:10:02.6512976+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:57:36.6257062+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:06:38.5791353+00:00"
 }

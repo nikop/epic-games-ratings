@@ -629,9 +629,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2523,
+  "EOS_Progressed": 2529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1242,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4714,6 +4714,11 @@
       "Time": "2023-09-17T17:15:11.8502878+00:00",
       "NumProgressed": 2523,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T18:11:23.4005333+00:00",
+      "NumProgressed": 2529,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4740,9 +4745,9 @@
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 51
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -4764,17 +4769,17 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 202
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 329
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -4822,7 +4827,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4854,7 +4859,7 @@
       "Name": "On this Episode!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -4878,7 +4883,7 @@
       "Name": "Spending Spree",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4909,15 +4914,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2523,
+      "Progressed": 2529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-17T17:01:48.1393189+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:15:11.8502873+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:11:23.4005324+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:01:48.1393195+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:15:11.8503321+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:00:15.239636+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:11:23.4006049+00:00"
 }

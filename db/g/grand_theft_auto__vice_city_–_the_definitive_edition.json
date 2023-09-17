@@ -2,9 +2,9 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 486,
-  "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 436,
+  "Ranking_Rating": 488,
+  "Ranking_Popularity": 374,
+  "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 115,
@@ -652,9 +652,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 10044,
+  "EOS_Progressed": 10048,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9677,6 +9677,11 @@
       "Time": "2023-09-17T17:15:24.9360042+00:00",
       "NumProgressed": 10044,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-17T18:11:34.4319759+00:00",
+      "NumProgressed": 10048,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9704,7 +9709,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACH04",
@@ -9792,7 +9797,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4220
     },
     {
       "ID": "ACH15",
@@ -9848,7 +9853,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4622
     },
     {
       "ID": "ACH22",
@@ -9856,7 +9861,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ACH23",
@@ -9864,7 +9869,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACH24",
@@ -9959,7 +9964,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10044,
+      "Progressed": 10048,
       "Completed": 56
     }
   ],
@@ -9967,8 +9972,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-17T05:59:07.322299+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:15:24.9360037+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:11:34.4319752+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:00:57.9420508+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:15:24.9361018+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:59:46.8700361+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:11:34.4320609+00:00"
 }

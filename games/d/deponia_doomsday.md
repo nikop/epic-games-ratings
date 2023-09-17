@@ -5,31 +5,31 @@ Rating: 4.56 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~348 |
-| And again, and again, and... | 64.00% | ~253 |
-| Burn, Elysium, burn! | 62.00% | ~245 |
-| Kuvaq Minigame-Master | 61.00% | ~241 |
-| FunScore | 55.00% | ~217 |
-| Funtime's over | 53.00% | ~209 |
-| Chunky | 50.00% | ~198 |
-| Shall we play a game? | 49.00% | ~194 |
-| Boat of love, boat of love | 48.00% | ~190 |
-| School's out | 43.00% | ~170 |
-| Scaffolding Expert | 37.00% | ~146 |
-| Elysian Minigame-Master | 37.00% | ~146 |
-| Sole Music | 36.00% | ~142 |
-| Portals come in packs | 30.00% | ~118 |
+| Huzza, he's back. | 88.00% | ~350 |
+| And again, and again, and... | 63.00% | ~251 |
+| Burn, Elysium, burn! | 62.00% | ~247 |
+| Kuvaq Minigame-Master | 60.00% | ~239 |
+| FunScore | 55.00% | ~219 |
+| Funtime's over | 53.00% | ~211 |
+| Chunky | 50.00% | ~199 |
+| Shall we play a game? | 48.00% | ~191 |
+| Boat of love, boat of love | 48.00% | ~191 |
+| School's out | 43.00% | ~171 |
+| Scaffolding Expert | 37.00% | ~147 |
+| Elysian Minigame-Master | 37.00% | ~147 |
+| Sole Music | 36.00% | ~143 |
 | No man left behind! | 29.00% | ~115 |
+| Portals come in packs | 29.00% | ~115 |
 | Photo Friend | 26.00% | ~103 |
-| Brainfreeze | 21.00% | ~83 |
-| And everything comes full circle. | 20.00% | ~79 |
-| Masseltov | 19.00% | ~75 |
-| Quickdraw | 15.00% | ~59 |
-| Thuna...? | 15.00% | ~59 |
-| Monstrous Harassment | 14.00% | ~55 |
-| Heading the inverter | 14.00% | ~55 |
-| Blast from the Past | 13.00% | ~51 |
-| Play it again, Ronny | 11.00% | ~43 |
+| Brainfreeze | 21.00% | ~84 |
+| And everything comes full circle. | 20.00% | ~80 |
+| Masseltov | 19.00% | ~76 |
+| Quickdraw | 15.00% | ~60 |
+| Thuna...? | 15.00% | ~60 |
+| Monstrous Harassment | 14.00% | ~56 |
+| Heading the inverter | 14.00% | ~56 |
+| Blast from the Past | 13.00% | ~52 |
+| Play it again, Ronny | 11.00% | ~44 |
 | Goat Team | 10.00% | ~40 |
 | Paradox! | 10.00% | ~40 |
 | Weapons 101 | 8.00% | ~32 |
@@ -42,8 +42,8 @@ Rating: 4.56 (Ranked 467)
 | Every man for himself! | 5.00% | ~20 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395 (Ranked 264)  
-Completed: 6 (1.52%) (Ranked 107)  
+Progressed: 398 (Ranked 263)  
+Completed: 6 (1.51%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,7 +80,7 @@ Completed: 6 (1.52%) (Ranked 107)
 | 2023-09-10 | 387 | 6 |
 | 2023-09-14 | 391 | 6 |
 | 2023-09-15 | 393 | 6 |
-| 2023-09-17 | 395 | 6 |
+| 2023-09-17 | 398 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

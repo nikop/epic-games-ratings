@@ -2,12 +2,12 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 242,
+  "Ranking_Rating": 243,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -11196,18 +11196,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1388716,
       "NumberOfAwardsMax": 305887
+    },
+    {
+      "Time": "2023-09-17T17:58:49.1666916+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1388838,
+      "NumberOfAwardsMax": 305982
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1388716,
-  "NumberOfAwardsMax": 305887,
+  "NumberOfAwards": 1388838,
+  "NumberOfAwardsMax": 305982,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 305887
+      "Count": 305982
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11255,7 +11261,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 111321
+      "Count": 111348
     },
     {
       "Text": "This game is Relaxing",
@@ -11281,8 +11287,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-09-17T16:59:39.2838906+00:00",
+  "LastChanged": "2023-09-17T17:58:49.1666914+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.4122505+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:59:39.2838913+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:13:14.2161506+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:58:49.166692+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:09:22.2037629+00:00"
 }

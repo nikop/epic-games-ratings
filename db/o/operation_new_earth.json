@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1342,
+  "EOS_Progressed": 1344,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4851,6 +4851,11 @@
       "Time": "2023-09-17T17:11:33.666464+00:00",
       "NumProgressed": 1342,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T18:07:55.7605554+00:00",
+      "NumProgressed": 1344,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4878,7 +4883,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_defeat_players_100",
@@ -4942,15 +4947,15 @@
       "Name": "Keeping Busy",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_headquarters_15",
       "SetID": "bm61c2p",
       "Name": "Moving On Up",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 40
     },
     {
       "ID": "objective_headquarters_20",
@@ -4974,7 +4979,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5070,7 +5075,7 @@
       "Name": "Stocking Up",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5102,7 +5107,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5165,14 +5170,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1342,
+      "Progressed": 1344,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:11:33.6664635+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:07:55.7605543+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:07:31.3590994+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:11:33.666534+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:04:36.5353727+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:07:55.7606586+00:00"
 }

@@ -40,11 +40,11 @@ Number of Ratings: 177  (23.09.2022)
 | The Bride | 0.30% | ~19 |
 | Deck the Balls | 0.30% | ~10 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
+| Do Not Burn | 0.30% | ~19 |
 | Rachael | 0.30% | ~19 |
 | The Muse: Derek | 0.30% | ~19 |
 | The Elder Brahs | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
-| Do Not Burn | 0.20% | ~12 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~6 |
 | First Impressions | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
@@ -58,6 +58,7 @@ Number of Ratings: 177  (23.09.2022)
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
+| D-Club Certified | 0.10% | ~6 |
 | Duck n' Weave | 0.10% | ~6 |
 | Good Riddance! | 0.10% | ~6 |
 | I Know Grump-Fu | 0.10% | ~6 |
@@ -74,9 +75,8 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~3 |
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
-| D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,195 (Ranked 144)  
+Progressed: 6,196 (Ranked 144)  
 Completed: 3 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 3 (0.05%) (Ranked 240)
 | 2023-09-14 | 6,156 | 3 |
 | 2023-09-15 | 6,175 | 3 |
 | 2023-09-16 | 6,184 | 3 |
-| 2023-09-17 | 6,195 | 3 |
+| 2023-09-17 | 6,196 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

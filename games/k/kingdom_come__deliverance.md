@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,543 |
-| Cavalier | 25.00% | ~200,424 |
-| Fatso | 23.00% | ~184,391 |
-| Awakening | 21.00% | ~168,357 |
-| Ranger | 20.00% | ~160,340 |
-| Scrooge | 20.00% | ~160,340 |
-| Anorectic | 16.00% | ~128,272 |
-| Bookworm | 15.00% | ~120,255 |
-| Firestarter | 15.00% | ~120,255 |
-| Insomniac | 13.00% | ~104,221 |
-| Buddy | 12.00% | ~96,204 |
-| Thief | 12.00% | ~96,204 |
-| Sinner | 11.00% | ~88,187 |
-| Traveller | 11.00% | ~88,187 |
-| Convict | 10.00% | ~80,170 |
-| Haggler | 9.00% | ~72,153 |
-| McLovin | 7.00% | ~56,119 |
-| Runt | 7.00% | ~56,119 |
-| Casanova | 6.00% | ~48,102 |
+| Blacksmith's Son | 32.00% | ~256,547 |
+| Cavalier | 25.00% | ~200,427 |
+| Fatso | 23.00% | ~184,393 |
+| Awakening | 21.00% | ~168,359 |
+| Ranger | 20.00% | ~160,342 |
+| Scrooge | 20.00% | ~160,342 |
+| Anorectic | 16.00% | ~128,273 |
+| Bookworm | 15.00% | ~120,256 |
+| Firestarter | 15.00% | ~120,256 |
+| Insomniac | 13.00% | ~104,222 |
+| Buddy | 12.00% | ~96,205 |
+| Thief | 12.00% | ~96,205 |
+| Sinner | 11.00% | ~88,188 |
+| Traveller | 11.00% | ~88,188 |
+| Convict | 10.00% | ~80,171 |
+| Haggler | 9.00% | ~72,154 |
+| McLovin | 7.00% | ~56,120 |
+| Runt | 7.00% | ~56,120 |
+| Casanova | 6.00% | ~48,103 |
 | Bad Trip | 5.00% | ~40,085 |
 | Monk | 5.00% | ~40,085 |
 | Serial Killer | 5.00% | ~40,085 |
@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,612 |
 | Saviour | 0.70% | ~5,612 |
 | Edward Kelly | 0.60% | ~4,810 |
-| I Can Quit Anytime | 0.50% | ~4,008 |
-| Perfectionist | 0.50% | ~4,008 |
+| I Can Quit Anytime | 0.50% | ~4,009 |
+| Perfectionist | 0.50% | ~4,009 |
 | Alcoholic | 0.30% | ~2,405 |
 | Sniper | 0.30% | ~2,405 |
 | Angel of Mercy | 0.20% | ~1,603 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~802 |
 | Wingman | 0.10% | ~802 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,698 (Ranked 16)  
+Progressed: 801,709 (Ranked 16)  
 Completed: 47 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 47 (0.01%) (Ranked 263)
 | 2023-09-14 | 801,299 | 46 |
 | 2023-09-15 | 801,427 | 46 |
 | 2023-09-16 | 801,578 | 47 |
-| 2023-09-17 | 801,698 | 47 |
+| 2023-09-17 | 801,709 | 47 |
 ## Awards
 Max (Character Customization): 7,452  (Ranked 47)  
 Sum: 27,765 (Ranked 47)  

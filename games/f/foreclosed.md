@@ -16,16 +16,16 @@
 | Veteran Sniper | 19.00% | ~20 |
 | The Neuro-connector | 19.00% | ~20 |
 | Flatline | 19.00% | ~20 |
-| Mind Over Matter | 18.00% | ~19 |
+| Mind Over Matter | 19.00% | ~20 |
 | Full and Final Settlement | 17.00% | ~18 |
 | Unstoppable | 17.00% | ~18 |
 | One Click Away | 17.00% | ~18 |
 | Cyborg | 11.00% | ~11 |
-| Lifter | 9.00% | ~9 |
+| Lifter | 10.00% | ~10 |
 | Brain-hacker | 9.00% | ~9 |
 | Gravity Bender | 8.00% | ~8 |
 | Hunter | 5.00% | ~5 |
-| Zero Gravity | 4.00% | ~4 |
+| Zero Gravity | 5.00% | ~5 |
 | No Place to Hide | 3.00% | ~3 |
 | A Voice in the Dark | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

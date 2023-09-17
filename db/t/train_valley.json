@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1293,9 +1293,9 @@
       "ID": "28_nonstop",
       "SetID": "chb1m60",
       "Name": "Non Stop!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 114
     },
     {
       "ID": "29_madness",
@@ -1397,8 +1397,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:13:33.8952276+00:00",
+  "LastChanged_Achievements": "2023-09-17T18:09:39.9098385+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:28.7863119+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:58:06.2729573+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:13:33.8952651+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:57:34.3654966+00:00",
+  "LastUpdate_Achievements": "2023-09-17T18:09:39.9099102+00:00"
 }
