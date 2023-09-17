@@ -11,6 +11,7 @@
 | Awaken | 38.00% | ~8 |
 | Path of Corruption | 19.00% | ~4 |
 | Hope | 14.00% | ~3 |
+| The shining | 10.00% | ~2 |
 | An act of courage | 5.00% | ~1 |
 | An act of mercy | 5.00% | ~1 |
 | Ad Infinitum | 5.00% | ~1 |
@@ -26,7 +27,6 @@
 | Peace | 5.00% | ~1 |
 | Rage | 5.00% | ~1 |
 | Reflections | 5.00% | ~1 |
-| The shining | 5.00% | ~1 |
 | An act of compassion | 0.00% | ~0 |
 | All knowing | 0.00% | ~0 |
 | Awaiting orders | 0.00% | ~0 |

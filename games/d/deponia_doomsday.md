@@ -5,21 +5,21 @@ Rating: 4.56 (Ranked 468)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~346 |
+| Huzza, he's back. | 88.00% | ~347 |
 | And again, and again, and... | 64.00% | ~252 |
 | Burn, Elysium, burn! | 62.00% | ~244 |
 | Kuvaq Minigame-Master | 61.00% | ~240 |
-| FunScore | 55.00% | ~216 |
-| Funtime's over | 53.00% | ~208 |
-| Chunky | 50.00% | ~196 |
+| FunScore | 55.00% | ~217 |
+| Funtime's over | 53.00% | ~209 |
+| Chunky | 50.00% | ~197 |
 | Shall we play a game? | 49.00% | ~193 |
 | Boat of love, boat of love | 48.00% | ~189 |
 | School's out | 43.00% | ~169 |
-| Scaffolding Expert | 37.00% | ~145 |
-| Elysian Minigame-Master | 37.00% | ~145 |
-| Sole Music | 36.00% | ~141 |
-| Portals come in packs | 30.00% | ~118 |
+| Scaffolding Expert | 37.00% | ~146 |
+| Elysian Minigame-Master | 37.00% | ~146 |
+| Sole Music | 36.00% | ~142 |
 | No man left behind! | 29.00% | ~114 |
+| Portals come in packs | 29.00% | ~114 |
 | Photo Friend | 26.00% | ~102 |
 | Brainfreeze | 21.00% | ~83 |
 | And everything comes full circle. | 20.00% | ~79 |
@@ -32,8 +32,8 @@ Rating: 4.56 (Ranked 468)
 | Play it again, Ronny | 11.00% | ~43 |
 | Goat Team | 10.00% | ~39 |
 | Paradox! | 10.00% | ~39 |
-| Weapons 101 | 8.00% | ~31 |
-| Sadist | 8.00% | ~31 |
+| Weapons 101 | 8.00% | ~32 |
+| Sadist | 8.00% | ~32 |
 | The customer is always right | 7.00% | ~28 |
 | Apoca...huh? | 7.00% | ~28 |
 | Distraction | 6.00% | ~24 |
@@ -42,8 +42,8 @@ Rating: 4.56 (Ranked 468)
 | Every man for himself! | 5.00% | ~20 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393 (Ranked 264)  
-Completed: 6 (1.53%) (Ranked 107)  
+Progressed: 394 (Ranked 264)  
+Completed: 6 (1.52%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,6 +80,7 @@ Completed: 6 (1.53%) (Ranked 107)
 | 2023-09-10 | 387 | 6 |
 | 2023-09-14 | 391 | 6 |
 | 2023-09-15 | 393 | 6 |
+| 2023-09-17 | 394 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

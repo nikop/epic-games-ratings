@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 53.00% | ~89 |
-| The 4 Pillars | 50.00% | ~84 |
+| The 4 Pillars | 51.00% | ~85 |
 | Capitalism | 20.00% | ~33 |
 | Great Producer | 12.00% | ~20 |
 | There's something in those trees | 11.00% | ~18 |

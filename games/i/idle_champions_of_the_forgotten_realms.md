@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~391 |
 | The Silken Swamp | 0.20% | ~458 |
 | Wet Feet | 0.20% | ~458 |
+| Hatchlings Underfoot | 0.20% | ~458 |
 | Supply Run | 0.20% | ~458 |
 | Vecna Lives! | 0.20% | ~391 |
 | Vecna Loots! | 0.20% | ~391 |
@@ -134,7 +135,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Alien Underdark | 0.10% | ~195 |
 | Thoughts on the Menu | 0.10% | ~195 |
 | Brains on Ice | 0.10% | ~195 |
-| Hatchlings Underfoot | 0.10% | ~229 |
 | The Oozing Hunger | 0.10% | ~195 |
 | Levelheaded | 0.10% | ~195 |
 | The Madness of Zuggtmoy | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,134 (Ranked 56)  
+Progressed: 229,140 (Ranked 56)  
 Completed: 2,290 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,7 +677,7 @@ Completed: 2,290 (1.00%) (Ranked 124)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,134 | 2,290 |
+| 2023-09-17 | 229,140 | 2,290 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,619 (Ranked 39)  

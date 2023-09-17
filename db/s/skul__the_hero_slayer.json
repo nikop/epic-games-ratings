@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -992,9 +992,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8182,
+  "EOS_Progressed": 8183,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4667,6 +4667,11 @@
       "Time": "2023-09-16T02:20:06.5087424+00:00",
       "NumProgressed": 8182,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-17T10:10:25.8870847+00:00",
+      "NumProgressed": 8183,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4710,7 +4715,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "DwarfChandelier",
@@ -4774,7 +4779,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "LeoniasFall_2",
@@ -4798,7 +4803,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "SavedElderEnt",
@@ -4838,7 +4843,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7609
+      "UsersEstimate": 7610
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4846,7 +4851,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4862,22 +4867,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6873
+      "UsersEstimate": 6874
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8182,
+      "Progressed": 8183,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-09-13T01:39:18.805523+00:00",
-  "LastChanged_Achievements": "2023-09-17T09:12:08.8341117+00:00",
+  "LastChanged_Achievements": "2023-09-17T10:10:25.8870844+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:48.1944325+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:00:15.0567688+00:00",
-  "LastUpdate_Achievements": "2023-09-17T09:12:08.8341595+00:00"
+  "LastUpdate_Ratings": "2023-09-17T09:59:40.2871352+00:00",
+  "LastUpdate_Achievements": "2023-09-17T10:10:25.8871164+00:00"
 }

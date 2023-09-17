@@ -22,12 +22,12 @@
 | Open door | 24.00% | ~39 |
 | Free at last | 22.00% | ~35 |
 | Feels like springtime | 22.00% | ~35 |
+| Alchemists Express | 21.00% | ~34 |
 | Rascal | 21.00% | ~34 |
-| Alchemists Express | 20.00% | ~32 |
-| A Link to the Past | 17.00% | ~27 |
+| A Link to the Past | 18.00% | ~29 |
+| A great audience | 14.00% | ~23 |
+| For its own good | 14.00% | ~23 |
 | Fashion victim | 14.00% | ~23 |
-| A great audience | 13.00% | ~21 |
-| For its own good | 13.00% | ~21 |
 | I did it | 10.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 161 (Ranked 326)  

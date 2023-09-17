@@ -47,7 +47,7 @@ Rating: 4.87 (Ranked 25)
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
 | I hit things with a guitar really well. | 1.00% | ~41 |
-| You ever parry a volcano? | 0.70% | ~28 |
+| You ever parry a volcano? | 0.80% | ~33 |
 | New bad guys? No problem! | 0.70% | ~18 |
 | OK, well THEY came after ME! | 0.60% | ~24 |
 | Easy Listening | 0.50% | ~20 |

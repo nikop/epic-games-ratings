@@ -10,44 +10,44 @@ Rating: 3.93 (Ranked 960)
 | Downed but Not Outed | 0.20% | ~175 |
 | Too Old for This | 0.20% | ~175 |
 | Rockay Rex | 0.20% | ~175 |
-| Underworld Initiate | 0.10% | ~87 |
-| Roid Ranger | 0.10% | ~87 |
-| Hidden Sonata | 0.10% | ~87 |
-| Track Star | 0.10% | ~87 |
-| Legend Looter | 0.10% | ~87 |
-| Imports and Exports | 0.10% | ~87 |
-| Rockay Raider | 0.10% | ~87 |
-| Rockay Knight | 0.10% | ~87 |
-| Savvy Seeker | 0.10% | ~87 |
-| I Like Trains | 0.10% | ~87 |
-| Foo Finder | 0.10% | ~87 |
-| Freebooter | 0.10% | ~87 |
-| Privateer | 0.10% | ~87 |
-| Headhunter | 0.10% | ~87 |
-| Talent Scout | 0.10% | ~87 |
-| Full House | 0.10% | ~87 |
-| Moneybags | 0.10% | ~87 |
-| Groundhog Days | 0.10% | ~87 |
-| Olympus Ascended | 0.10% | ~87 |
-| Cracked the Jack | 0.10% | ~87 |
-| Ding Dong | 0.10% | ~87 |
-| Red Star | 0.10% | ~87 |
-| Geek Out | 0.10% | ~87 |
-| Case Closed | 0.10% | ~87 |
-| King of the Hill | 0.10% | ~87 |
-| Fancy Pants | 0.10% | ~87 |
-| Classy Joint | 0.10% | ~87 |
-| True Player | 0.10% | ~87 |
-| Off the Rocks | 0.10% | ~87 |
-| Raider’s Ruin | 0.10% | ~87 |
-| Dragonslayer | 0.10% | ~87 |
-| Impossible Dreamer | 0.10% | ~87 |
+| Underworld Initiate | 0.10% | ~88 |
+| Roid Ranger | 0.10% | ~88 |
+| Hidden Sonata | 0.10% | ~88 |
+| Track Star | 0.10% | ~88 |
+| Legend Looter | 0.10% | ~88 |
+| Imports and Exports | 0.10% | ~88 |
+| Rockay Raider | 0.10% | ~88 |
+| Rockay Knight | 0.10% | ~88 |
+| Savvy Seeker | 0.10% | ~88 |
+| I Like Trains | 0.10% | ~88 |
+| Foo Finder | 0.10% | ~88 |
+| Freebooter | 0.10% | ~88 |
+| Privateer | 0.10% | ~88 |
+| Headhunter | 0.10% | ~88 |
+| Talent Scout | 0.10% | ~88 |
+| Full House | 0.10% | ~88 |
+| Moneybags | 0.10% | ~88 |
+| Groundhog Days | 0.10% | ~88 |
+| Olympus Ascended | 0.10% | ~88 |
+| Cracked the Jack | 0.10% | ~88 |
+| Ding Dong | 0.10% | ~88 |
+| Red Star | 0.10% | ~88 |
+| Geek Out | 0.10% | ~88 |
+| Case Closed | 0.10% | ~88 |
+| King of the Hill | 0.10% | ~88 |
+| Fancy Pants | 0.10% | ~88 |
+| Classy Joint | 0.10% | ~88 |
+| True Player | 0.10% | ~88 |
+| Off the Rocks | 0.10% | ~88 |
+| Raider’s Ruin | 0.10% | ~88 |
+| Dragonslayer | 0.10% | ~88 |
+| Impossible Dreamer | 0.10% | ~88 |
 | All that Glitters | 0.10% | ~16 |
 | All for One | 0.10% | ~16 |
 | One for All | 0.10% | ~16 |
 | Now You See Me | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,496 (Ranked 77)  
+Progressed: 87,508 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 46 (0.05%) (Ranked 240)
 | 2023-09-14 | 87,137 | 45 |
 | 2023-09-15 | 87,269 | 46 |
 | 2023-09-16 | 87,447 | 46 |
-| 2023-09-17 | 87,496 | 46 |
+| 2023-09-17 | 87,508 | 46 |
 ## Awards
 Max (Diverse Characters): 438  (Ranked 209)  
 Sum: 2,100 (Ranked 198)  

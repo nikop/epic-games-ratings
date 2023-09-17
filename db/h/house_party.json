@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -5069,9 +5069,9 @@
       "ID": "BBrahrnold",
       "SetID": "bmkn7o4",
       "Name": "Benedict Brahrnold",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 31
     },
     {
       "ID": "BeBack",
@@ -5603,8 +5603,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-17T09:09:26.5284474+00:00",
+  "LastChanged_Achievements": "2023-09-17T10:07:34.9040424+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.7446056+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:04:49.1830942+00:00",
-  "LastUpdate_Achievements": "2023-09-17T09:09:26.5285517+00:00"
+  "LastUpdate_Ratings": "2023-09-17T10:03:48.1186115+00:00",
+  "LastUpdate_Achievements": "2023-09-17T10:07:34.9041184+00:00"
 }

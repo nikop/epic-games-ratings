@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~256 |
 | Keep the dream alive | 9.00% | ~256 |
 | Upfront shredder | 9.00% | ~256 |
+| Bottom ply killer | 7.00% | ~199 |
 | Fashionista | 7.00% | ~199 |
 | Finally he zips it | 7.00% | ~199 |
 | That pinch! | 7.00% | ~199 |
 | Tight lipslides | 7.00% | ~199 |
-| Bottom ply killer | 6.00% | ~170 |
 | Fulfilled the dream | 6.00% | ~170 |
 | G'Day Mate! | 6.00% | ~170 |
 | NAHELL! | 6.00% | ~170 |

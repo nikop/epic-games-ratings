@@ -28,11 +28,11 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 1.00% | ~32 |
 | Daemonkeeper | 0.80% | ~26 |
 | Efficient Killer | 0.80% | ~26 |
+| Only in Death | 0.80% | ~26 |
 | A Gift Spurned | 0.80% | ~26 |
 | Tactical Sabotage | 0.80% | ~26 |
 | Fleetmaster | 0.70% | ~22 |
 | Exterminator | 0.70% | ~22 |
-| Only in Death | 0.70% | ~22 |
 | Junk Banishment | 0.70% | ~22 |
 | Long Distance Call | 0.70% | ~22 |
 | Tactical Flexibility | 0.70% | ~22 |

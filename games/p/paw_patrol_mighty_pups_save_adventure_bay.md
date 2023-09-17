@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 72.00% | ~18 |
-| Grand Re-Opening | 60.00% | ~15 |
-| Pup Pup Boogie | 56.00% | ~14 |
-| Summer Day | 56.00% | ~14 |
-| Mr. Porter | 48.00% | ~12 |
-| Risky Rescue | 48.00% | ~12 |
-| Carlos Is Tangled | 44.00% | ~11 |
-| Mandy Family | 36.00% | ~9 |
-| Break Time | 32.00% | ~8 |
-| Paw patrol member | 32.00% | ~8 |
-| Robot Out of Control | 32.00% | ~8 |
-| Master of the Rope | 28.00% | ~7 |
-| Training Day | 28.00% | ~7 |
-| The Fastest | 28.00% | ~7 |
-| Clear the Road | 24.00% | ~6 |
-| Never Miss | 24.00% | ~6 |
-| Animal Sighting | 24.00% | ~6 |
-| In the Air | 20.00% | ~5 |
-| You Have Been Everywhere | 20.00% | ~5 |
-| Don’t Miss Any | 20.00% | ~5 |
-| Adventure Bay’s Citizen | 16.00% | ~4 |
+| Mighty Powers | 73.00% | ~19 |
+| Grand Re-Opening | 62.00% | ~16 |
+| Pup Pup Boogie | 58.00% | ~15 |
+| Summer Day | 54.00% | ~14 |
+| Mr. Porter | 46.00% | ~12 |
+| Risky Rescue | 46.00% | ~12 |
+| Carlos Is Tangled | 42.00% | ~11 |
+| Mandy Family | 35.00% | ~9 |
+| Break Time | 31.00% | ~8 |
+| Paw patrol member | 31.00% | ~8 |
+| Robot Out of Control | 31.00% | ~8 |
+| Master of the Rope | 27.00% | ~7 |
+| Training Day | 27.00% | ~7 |
+| The Fastest | 27.00% | ~7 |
+| Clear the Road | 23.00% | ~6 |
+| Never Miss | 23.00% | ~6 |
+| Animal Sighting | 23.00% | ~6 |
+| In the Air | 19.00% | ~5 |
+| You Have Been Everywhere | 19.00% | ~5 |
+| Don’t Miss Any | 19.00% | ~5 |
+| Adventure Bay’s Citizen | 15.00% | ~4 |
 | Everything Under Control | 12.00% | ~3 |
 | Mountain and Ice | 12.00% | ~3 |
 | King of the Mountain | 8.00% | ~2 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 435)  
+Progressed: 26 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 0 (0.00%) (Ranked 276)
 | 2023-09-02 | 22 | 0 |
 | 2023-09-11 | 23 | 0 |
 | 2023-09-16 | 25 | 0 |
+| 2023-09-17 | 26 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,39 +1,39 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.62 (Ranked 349)  
+Rating: 4.62 (Ranked 348)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,792 |
-| All thumbs | 92.00% | ~4,741 |
-| I will survive! | 92.00% | ~4,741 |
-| Home, sweet home | 91.00% | ~4,689 |
-| Survivalist | 89.00% | ~4,586 |
+| Prepper | 93.00% | ~4,793 |
+| All thumbs | 92.00% | ~4,742 |
+| I will survive! | 92.00% | ~4,742 |
+| Home, sweet home | 91.00% | ~4,690 |
+| Survivalist | 89.00% | ~4,587 |
 | One way ticket | 84.00% | ~4,329 |
-| Last man standing | 80.00% | ~4,122 |
-| Family guy | 77.00% | ~3,968 |
-| Out of the Bag | 75.00% | ~3,865 |
-| The Dark Side | 70.00% | ~3,607 |
-| Duck and cover! | 65.00% | ~3,349 |
-| Souper! | 64.00% | ~3,298 |
-| Pacifist | 59.00% | ~3,040 |
+| Last man standing | 79.00% | ~4,072 |
+| Family guy | 77.00% | ~3,969 |
+| Out of the Bag | 75.00% | ~3,866 |
+| The Dark Side | 70.00% | ~3,608 |
+| Duck and cover! | 65.00% | ~3,350 |
+| Souper! | 64.00% | ~3,299 |
+| Pacifist | 59.00% | ~3,041 |
 | 2-1-6 | 58.00% | ~2,989 |
-| A gift | 53.00% | ~2,731 |
-| Girl Power | 48.00% | ~2,473 |
-| What goes around... | 44.00% | ~2,267 |
-| Be Prepared | 38.00% | ~1,958 |
+| A gift | 53.00% | ~2,732 |
+| Girl Power | 47.00% | ~2,422 |
+| What goes around... | 44.00% | ~2,268 |
+| Be Prepared | 38.00% | ~1,959 |
 | Unbreakable | 36.00% | ~1,855 |
 | This is the end | 34.00% | ~1,752 |
-| Gotta get 'em all | 33.00% | ~1,700 |
+| Gotta get 'em all | 33.00% | ~1,701 |
 | Atomic drill | 32.00% | ~1,649 |
 | Disco Roach | 28.00% | ~1,443 |
 | Dawkins Residence | 21.00% | ~1,082 |
 | Rescue time! | 18.00% | ~928 |
 | New order | 17.00% | ~876 |
 | New species | 17.00% | ~876 |
-| A New Hope | 16.00% | ~824 |
-| Enigma | 16.00% | ~824 |
+| A New Hope | 16.00% | ~825 |
+| Enigma | 16.00% | ~825 |
 | Challenger | 13.00% | ~670 |
 | No stone unturned | 12.00% | ~618 |
 | Men in Black | 12.00% | ~618 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 349)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,153 (Ranked 153)  
+Progressed: 5,154 (Ranked 152)  
 Completed: 1 (0.02%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 1 (0.02%) (Ranked 254)
 | 2023-09-14 | 5,133 | 1 |
 | 2023-09-15 | 5,141 | 1 |
 | 2023-09-16 | 5,150 | 1 |
-| 2023-09-17 | 5,153 | 1 |
+| 2023-09-17 | 5,154 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

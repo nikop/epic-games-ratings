@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3467,
+  "EOS_Progressed": 3470,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3459,6 +3459,11 @@
       "Time": "2023-09-17T09:10:39.2568268+00:00",
       "NumProgressed": 3467,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-17T10:08:31.2822231+00:00",
+      "NumProgressed": 3470,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3486,7 +3491,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "bonus4",
@@ -3518,7 +3523,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3054
     },
     {
       "ID": "campaign10",
@@ -3550,7 +3555,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "campaign14",
@@ -3558,7 +3563,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "campaign15",
@@ -3598,7 +3603,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "campaign2",
@@ -3606,7 +3611,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2672
     },
     {
       "ID": "campaign20",
@@ -3614,7 +3619,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "campaign3",
@@ -3622,7 +3627,7 @@
       "Name": "Economics 101",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "campaign4",
@@ -3630,7 +3635,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1527
     },
     {
       "ID": "campaign5",
@@ -3638,7 +3643,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "campaign6",
@@ -3646,7 +3651,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "campaign7",
@@ -3654,7 +3659,7 @@
       "Name": "Maestro",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "campaign8",
@@ -3678,7 +3683,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "scenario2",
@@ -3694,7 +3699,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "scenario4",
@@ -3733,7 +3738,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3467,
+      "Progressed": 3470,
       "Completed": 11
     }
   ],
@@ -3741,8 +3746,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-17T09:10:39.2568263+00:00",
+  "LastChanged_Achievements": "2023-09-17T10:08:31.2822224+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:04:09.3583195+00:00",
-  "LastUpdate_Achievements": "2023-09-17T09:10:39.2568806+00:00"
+  "LastUpdate_Ratings": "2023-09-17T10:03:04.7601137+00:00",
+  "LastUpdate_Achievements": "2023-09-17T10:08:31.2822572+00:00"
 }

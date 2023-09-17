@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249380,
+  "EOS_Progressed": 249382,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14259,6 +14259,11 @@
       "Time": "2023-09-17T09:10:48.2313521+00:00",
       "NumProgressed": 249380,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T10:08:38.2274335+00:00",
+      "NumProgressed": 249382,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14366,7 +14371,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44888
+      "UsersEstimate": 44889
     },
     {
       "ID": "curator",
@@ -14446,7 +14451,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132171
+      "UsersEstimate": 132172
     },
     {
       "ID": "indegestible",
@@ -14486,7 +14491,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19950
+      "UsersEstimate": 19951
     },
     {
       "ID": "lockupLockdown",
@@ -14500,9 +14505,9 @@
       "ID": "muddyWaters",
       "SetID": "d7im63i",
       "Name": "Muddy Waters",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 34913
+      "UsersEstimate": 37407
     },
     {
       "ID": "myFirstRunbow",
@@ -14510,7 +14515,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124690
+      "UsersEstimate": 124691
     },
     {
       "ID": "notScared",
@@ -14590,7 +14595,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32419
+      "UsersEstimate": 32420
     },
     {
       "ID": "treeMedalist",
@@ -14637,7 +14642,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249380,
+      "Progressed": 249382,
       "Completed": 5
     }
   ],
@@ -14645,8 +14650,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-17T09:10:48.2313515+00:00",
+  "LastChanged_Achievements": "2023-09-17T10:08:38.2274329+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.9787856+00:00",
-  "LastUpdate_Ratings": "2023-09-17T09:01:52.4936795+00:00",
-  "LastUpdate_Achievements": "2023-09-17T09:10:48.2315071+00:00"
+  "LastUpdate_Ratings": "2023-09-17T10:00:59.9708064+00:00",
+  "LastUpdate_Achievements": "2023-09-17T10:08:38.2275423+00:00"
 }
