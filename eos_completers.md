@@ -42,7 +42,7 @@
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.03% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
 | 42 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.37% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.35% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.33% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -77,7 +77,7 @@
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
-| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.77% |
+| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.76% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
@@ -115,8 +115,8 @@
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.35% |
 | 115 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
-| 116 | [Eternights](games/e/eternights.md) | 1.28% |
-| 117 | [Chorus](games/c/chorus.md) | 1.27% |
+| 116 | [Chorus](games/c/chorus.md) | 1.27% |
+| 116 | [Eternights](games/e/eternights.md) | 1.27% |
 | 118 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 119 | [Infindustry](games/i/infindustry.md) | 1.20% |
 | 120 | [Trifox](games/t/trifox.md) | 1.10% |
@@ -180,7 +180,7 @@
 | 177 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 179 | [The Devil's Face](games/t/the_devil's_face.md) | 0.31% |
-| 181 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 179 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 182 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 182 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 182 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.29% |
@@ -230,28 +230,28 @@
 | 225 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 225 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 225 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 231 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
-| 231 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
-| 231 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 231 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 231 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 236 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 236 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 236 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 239 | [Black Book](games/b/black_book.md) | 0.05% |
-| 239 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 239 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 239 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 239 | [House Party](games/h/house_party.md) | 0.05% |
-| 244 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 244 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
-| 244 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
-| 244 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.04% |
-| 244 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 244 | [Old World](games/o/old_world.md) | 0.04% |
-| 244 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 244 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
-| 244 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 231 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.08% |
+| 232 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
+| 232 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
+| 232 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 232 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 232 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 237 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 237 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 237 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 240 | [Black Book](games/b/black_book.md) | 0.05% |
+| 240 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 240 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 240 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 240 | [House Party](games/h/house_party.md) | 0.05% |
+| 245 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 245 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 245 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
+| 245 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 245 | [Old World](games/o/old_world.md) | 0.04% |
+| 245 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 245 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 245 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 253 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 254 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 254 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
