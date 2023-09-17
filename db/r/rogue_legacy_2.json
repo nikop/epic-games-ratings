@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1425,9 +1425,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23124,
+  "EOS_Progressed": 23126,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7875,6 +7875,11 @@
       "Time": "2023-09-17T17:14:44.6548515+00:00",
       "NumProgressed": 23124,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-09-17T20:09:09.6168393+00:00",
+      "NumProgressed": 23126,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -7942,7 +7947,7 @@
       "Name": "For Justice",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "BossBridgeDefeated",
@@ -8006,7 +8011,7 @@
       "Name": "For Survival",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "BossForestDefeated",
@@ -8014,7 +8019,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -8046,7 +8051,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -8134,7 +8139,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "PrequelReveal",
@@ -8197,21 +8202,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23124,
+      "Progressed": 23126,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2054,
+      "Progressed": 2056,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-15T20:58:44.7315324+00:00",
-  "LastChanged_Achievements": "2023-09-17T19:11:11.1316455+00:00",
+  "LastChanged_Achievements": "2023-09-17T20:09:09.6168388+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.3211832+00:00",
-  "LastUpdate_Ratings": "2023-09-17T19:01:08.9284885+00:00",
-  "LastUpdate_Achievements": "2023-09-17T19:11:11.1316996+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:59:55.4353935+00:00",
+  "LastUpdate_Achievements": "2023-09-17T20:09:09.6169142+00:00"
 }

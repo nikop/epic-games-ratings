@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 873)
 | It's Time | 3.00% | ~116 |
 | In Striking Distance | 2.00% | ~319 |
 | The Commonality | 2.00% | ~319 |
-| One Last Job | 2.00% | ~77 |
+| One Last Job | 2.00% | ~78 |
 | This Isn't About Escape | 1.00% | ~39 |
 | Information Overload | 0.70% | ~27 |
 | Armed to the Teeth | 0.60% | ~23 |
@@ -39,7 +39,7 @@ Rating: 4.19 (Ranked 873)
 | Big Spender | 0.60% | ~23 |
 | Quick Pick | 0.50% | ~19 |
 | Mugshot | 0.40% | ~64 |
-| Instigator | 0.40% | ~15 |
+| Instigator | 0.40% | ~16 |
 | Subject Alpha | 0.30% | ~12 |
 | The Protocol is About Life | 0.20% | ~32 |
 | Don't Let It Mellow | 0.20% | ~8 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 873)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,948 (Ranked 122)  
+Progressed: 15,949 (Ranked 122)  
 Completed: 73 (0.46%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 73 (0.46%) (Ranked 159)
 | 2023-09-14 | 15,935 | 73 |
 | 2023-09-15 | 15,939 | 73 |
 | 2023-09-16 | 15,942 | 73 |
-| 2023-09-17 | 15,948 | 73 |
+| 2023-09-17 | 15,949 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 379)  
 Sum: 423 (Ranked 315)  

@@ -1,24 +1,24 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 520)  
+Rating: 4.53 (Ranked 519)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 32.00% | ~3,426 |
-| Stogie for Fogey | 26.00% | ~2,784 |
-| Martian Music | 24.00% | ~2,569 |
-| Spore Taste | 23.00% | ~2,462 |
-| Captain Drummer | 23.00% | ~2,462 |
-| Celebrations are in Order | 23.00% | ~2,462 |
-| The Pit and the Pirates | 19.00% | ~2,034 |
-| Doctor Approved | 19.00% | ~2,034 |
-| Drone Dodger | 18.00% | ~1,927 |
-| Thorston Mayer | 13.00% | ~1,392 |
+| Impossible Objects | 32.00% | ~3,428 |
+| Stogie for Fogey | 26.00% | ~2,785 |
+| Martian Music | 24.00% | ~2,571 |
+| Spore Taste | 23.00% | ~2,464 |
+| Captain Drummer | 23.00% | ~2,464 |
+| Celebrations are in Order | 23.00% | ~2,464 |
+| The Pit and the Pirates | 19.00% | ~2,035 |
+| Doctor Approved | 19.00% | ~2,035 |
+| Drone Dodger | 18.00% | ~1,928 |
+| Thorston Mayer | 13.00% | ~1,393 |
 | Bottoms up! | 11.00% | ~1,178 |
-| Data Logger | 6.00% | ~642 |
-| Data Master | 5.00% | ~535 |
-| Data Recoverer | 5.00% | ~535 |
+| Data Logger | 6.00% | ~643 |
+| Data Master | 5.00% | ~536 |
+| Data Recoverer | 5.00% | ~536 |
 | Debris Spree | 3.00% | ~321 |
 | Urshanabi Hoarder | 2.00% | ~214 |
 | Grave Robber | 2.00% | ~214 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 520)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,706 (Ranked 130)  
+Progressed: 10,712 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 10,567 | 0 |
 | 2023-09-15 | 10,607 | 0 |
 | 2023-09-16 | 10,668 | 0 |
-| 2023-09-17 | 10,706 | 0 |
+| 2023-09-17 | 10,712 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

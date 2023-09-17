@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3728,7 +3728,7 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11330,
+  "EOS_Progressed": 11331,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -12493,6 +12493,11 @@
       "Time": "2023-09-17T19:11:24.804059+00:00",
       "NumProgressed": 11330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T20:09:22.6863883+00:00",
+      "NumProgressed": 11331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12632,7 +12637,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "18_MythicChoices",
@@ -12712,7 +12717,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "29_StrategicVictory",
@@ -12848,7 +12853,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "46_AllPathsOpen",
@@ -12856,7 +12861,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13431,21 +13436,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10112,
+      "Progressed": 10113,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11330,
+      "Progressed": 11331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-14T20:57:29.523269+00:00",
-  "LastChanged_Achievements": "2023-09-17T19:11:24.8040586+00:00",
+  "LastChanged_Achievements": "2023-09-17T20:09:22.6863878+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.4694151+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:58:45.7145848+00:00",
-  "LastUpdate_Achievements": "2023-09-17T19:11:24.8042295+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:58:19.0529208+00:00",
+  "LastUpdate_Achievements": "2023-09-17T20:09:22.6866183+00:00"
 }

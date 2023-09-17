@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 504)  
+Rating: 4.54 (Ranked 505)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,27 +16,27 @@ Rating: 4.54 (Ranked 504)
 | Stacking the Deck | 2.00% | ~13,635 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,635 |
 | Welcome To Hell-A | 2.00% | ~13,635 |
-| Anger Management | 1.00% | ~6,817 |
-| Perks of the Job | 1.00% | ~6,817 |
-| Bookworm | 1.00% | ~6,817 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,817 |
-| But Doctor, I am Butcho | 1.00% | ~6,817 |
-| Slayer Squad | 1.00% | ~6,817 |
-| Can't Handle the Truth | 1.00% | ~6,817 |
-| Like Riding a Bike | 1.00% | ~6,817 |
-| Zombologist | 1.00% | ~6,817 |
-| Ooh, Shiny! | 1.00% | ~6,817 |
-| A Patton Emerges | 1.00% | ~6,817 |
-| I Am the Resurrection | 1.00% | ~6,817 |
-| Our True Nature | 1.00% | ~6,817 |
-| This is My Weapon | 1.00% | ~6,817 |
+| Anger Management | 1.00% | ~6,818 |
+| Perks of the Job | 1.00% | ~6,818 |
+| Bookworm | 1.00% | ~6,818 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,818 |
+| But Doctor, I am Butcho | 1.00% | ~6,818 |
+| Slayer Squad | 1.00% | ~6,818 |
+| Can't Handle the Truth | 1.00% | ~6,818 |
+| Like Riding a Bike | 1.00% | ~6,818 |
+| Zombologist | 1.00% | ~6,818 |
+| Ooh, Shiny! | 1.00% | ~6,818 |
+| A Patton Emerges | 1.00% | ~6,818 |
+| I Am the Resurrection | 1.00% | ~6,818 |
+| Our True Nature | 1.00% | ~6,818 |
+| This is My Weapon | 1.00% | ~6,818 |
 | Making Your Mark | 0.90% | ~6,136 |
 | Humanity Distilled | 0.90% | ~6,136 |
 | Down with the Sickness | 0.90% | ~6,136 |
 | Max Headroom | 0.80% | ~5,454 |
-| Jumbo Keyring | 0.60% | ~4,090 |
-| Go, Bobcats! | 0.60% | ~4,090 |
-| Rising Star | 0.60% | ~4,090 |
+| Jumbo Keyring | 0.60% | ~4,091 |
+| Go, Bobcats! | 0.60% | ~4,091 |
+| Rising Star | 0.60% | ~4,091 |
 | Smorgasbord | 0.50% | ~3,409 |
 | Make it So | 0.40% | ~2,727 |
 | On Safari | 0.40% | ~2,727 |
@@ -46,12 +46,12 @@ Rating: 4.54 (Ranked 504)
 | LA Influential | 0.30% | ~2,045 |
 | Gore Horse | 0.30% | ~2,045 |
 | Sharpest Tool in the Box | 0.30% | ~2,045 |
-| Sole Survivor | 0.20% | ~1,363 |
-| Survival Skills | 0.20% | ~1,363 |
+| Sole Survivor | 0.20% | ~1,364 |
+| Survival Skills | 0.20% | ~1,364 |
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,732 (Ranked 22)  
+Progressed: 681,768 (Ranked 22)  
 Completed: 2,150 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2,150 (0.32%) (Ranked 177)
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
-| 2023-09-17 | 681,732 | 2,150 |
+| 2023-09-17 | 681,768 | 2,150 |
 ## Awards
 Max (Great Boss Battles): 6,086  (Ranked 57)  
 Sum: 9,030 (Ranked 94)  

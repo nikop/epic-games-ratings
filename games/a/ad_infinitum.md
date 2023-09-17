@@ -13,6 +13,7 @@
 | Hope | 14.00% | ~3 |
 | Health | 9.00% | ~2 |
 | Lost | 9.00% | ~2 |
+| Rage | 9.00% | ~2 |
 | Reflections | 9.00% | ~2 |
 | The shining | 9.00% | ~2 |
 | An act of courage | 5.00% | ~1 |
@@ -26,7 +27,6 @@
 | Pain | 5.00% | ~1 |
 | Path of Pain | 5.00% | ~1 |
 | Peace | 5.00% | ~1 |
-| Rage | 5.00% | ~1 |
 | An act of compassion | 0.00% | ~0 |
 | All knowing | 0.00% | ~0 |
 | Awaiting orders | 0.00% | ~0 |

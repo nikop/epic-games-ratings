@@ -5,28 +5,28 @@ Rating: 3.83 (Ranked 972)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,542 |
-| The First Step | 89.00% | ~1,400 |
-| Moonbury Traveller | 65.00% | ~1,022 |
-| Rookie Chemist | 63.00% | ~991 |
+| Welcome to Moonbury | 98.00% | ~1,543 |
+| The First Step | 89.00% | ~1,401 |
+| Moonbury Traveller | 65.00% | ~1,023 |
+| Rookie Chemist | 63.00% | ~992 |
 | Great Doctor | 52.00% | ~818 |
-| Dog Whisperer | 50.00% | ~786 |
-| Friendly | 48.00% | ~755 |
+| Dog Whisperer | 50.00% | ~787 |
+| Friendly | 48.00% | ~756 |
 | The Capitalist | 45.00% | ~708 |
-| K.O.! | 44.00% | ~692 |
-| Intermediate Chemist | 40.00% | ~629 |
-| Decorative Mind | 32.00% | ~503 |
+| K.O.! | 44.00% | ~693 |
+| Intermediate Chemist | 40.00% | ~630 |
+| Decorative Mind | 32.00% | ~504 |
 | Lumber Specialist | 31.00% | ~488 |
-| Kind-hearted | 25.00% | ~393 |
-| Catch of the Day | 25.00% | ~393 |
+| Kind-hearted | 25.00% | ~394 |
+| Catch of the Day | 25.00% | ~394 |
 | Amateur Chef | 22.00% | ~346 |
 | Fishing Guru | 20.00% | ~315 |
 | Spark of Love | 18.00% | ~283 |
-| Community Helper | 17.00% | ~267 |
+| Community Helper | 17.00% | ~268 |
 | Expert Chemist | 14.00% | ~220 |
 | Stone Specialist | 14.00% | ~220 |
-| Sociable | 13.00% | ~204 |
-| Ablutomaniac | 13.00% | ~204 |
+| Sociable | 13.00% | ~205 |
+| Ablutomaniac | 13.00% | ~205 |
 | Line Cook | 12.00% | ~189 |
 | Production Sorter | 11.00% | ~173 |
 | Good Samaritan | 10.00% | ~157 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 972)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,573 (Ranked 195)  
+Progressed: 1,574 (Ranked 195)  
 Completed: 9 (0.57%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 9 (0.57%) (Ranked 149)
 | 2023-09-14 | 1,557 | 9 |
 | 2023-09-15 | 1,563 | 9 |
 | 2023-09-16 | 1,571 | 9 |
-| 2023-09-17 | 1,573 | 9 |
+| 2023-09-17 | 1,574 | 9 |
 ## Awards
 Max (Character Customization): 69  (Ranked 382)  
 Sum: 69 (Ranked 442)  

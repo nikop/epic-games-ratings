@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -1676,9 +1676,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_CURSE",
       "SetID": "9eacipp",
       "Name": "Malediction",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_DIPLOMATICVISIT",
@@ -1716,9 +1716,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_ELECTION",
       "SetID": "9eacipp",
       "Name": "Governor-elect",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_FARMLAND",
@@ -1860,9 +1860,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_WATERWAYS",
       "SetID": "9eacipp",
       "Name": "Waterways",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WEDDING",
@@ -2060,8 +2060,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-17T19:12:15.6775198+00:00",
+  "LastChanged_Achievements": "2023-09-17T20:10:18.5054279+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:59:34.2733215+00:00",
-  "LastUpdate_Achievements": "2023-09-17T19:12:15.6776268+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:58:54.0044835+00:00",
+  "LastUpdate_Achievements": "2023-09-17T20:10:18.5055735+00:00"
 }

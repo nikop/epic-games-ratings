@@ -13,7 +13,7 @@
 | Third Shard | 8.00% | ~21 |
 | Berry Nice | 7.00% | ~18 |
 | Keyu Exterminator | 7.00% | ~18 |
-| Fourth Shard | 6.00% | ~15 |
+| Fourth Shard | 6.00% | ~16 |
 | Big Fish | 5.00% | ~13 |
 | Tastes Like Chicken | 5.00% | ~13 |
 | Fifth Shard | 5.00% | ~13 |
@@ -28,8 +28,8 @@
 | Trolled | 2.00% | ~5 |
 | Troll Hunter | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258 (Ranked 296)  
-Completed: 4 (1.55%) (Ranked 106)  
+Progressed: 259 (Ranked 296)  
+Completed: 4 (1.54%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,6 +95,7 @@ Completed: 4 (1.55%) (Ranked 106)
 | 2023-08-31 | 256 | 4 |
 | 2023-09-10 | 257 | 4 |
 | 2023-09-16 | 258 | 4 |
+| 2023-09-17 | 259 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

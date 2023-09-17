@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,455 |
-| Alt+F4 | 5.00% | ~11,242 |
-| Déjà vu | 4.00% | ~8,994 |
-| Where's that freaking Dwarf? | 4.00% | ~8,994 |
+| Sowwy! | 30.00% | ~67,461 |
+| Alt+F4 | 5.00% | ~11,243 |
+| Déjà vu | 4.00% | ~8,995 |
+| Where's that freaking Dwarf? | 4.00% | ~8,995 |
 | Sock! SOCK! | 3.00% | ~6,746 |
 | Speedrun | 3.00% | ~6,746 |
 | Livin' in a dwarven paradise | 2.00% | ~4,497 |
@@ -19,23 +19,23 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 2.00% | ~4,497 |
 | DM intervention | 2.00% | ~4,497 |
 | Fireproof Wizardess | 2.00% | ~4,497 |
-| Shiny and Crôm | 1.00% | ~2,248 |
-| The demons' feast | 1.00% | ~2,248 |
-| The Great Library | 1.00% | ~2,248 |
-| Torture and Sensibility | 1.00% | ~2,248 |
-| Urik's Depths | 1.00% | ~2,248 |
-| The Dungeon Master | 1.00% | ~2,248 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,248 |
-| The Woman in the High Castle | 1.00% | ~2,248 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,248 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,248 |
-| Look but don't touch | 1.00% | ~2,248 |
-| The beards of change | 1.00% | ~2,248 |
-| The Ranger of Chaos | 1.00% | ~2,248 |
-| I am the night | 1.00% | ~2,248 |
-| Thieves' Guild Accreditation | 1.00% | ~2,248 |
-| Team Building Exercise | 1.00% | ~2,248 |
-| Oh, when I'll be level 10... | 1.00% | ~2,248 |
+| Shiny and Crôm | 1.00% | ~2,249 |
+| The demons' feast | 1.00% | ~2,249 |
+| The Great Library | 1.00% | ~2,249 |
+| Torture and Sensibility | 1.00% | ~2,249 |
+| Urik's Depths | 1.00% | ~2,249 |
+| The Dungeon Master | 1.00% | ~2,249 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,249 |
+| The Woman in the High Castle | 1.00% | ~2,249 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,249 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,249 |
+| Look but don't touch | 1.00% | ~2,249 |
+| The beards of change | 1.00% | ~2,249 |
+| The Ranger of Chaos | 1.00% | ~2,249 |
+| I am the night | 1.00% | ~2,249 |
+| Thieves' Guild Accreditation | 1.00% | ~2,249 |
+| Team Building Exercise | 1.00% | ~2,249 |
+| Oh, when I'll be level 10... | 1.00% | ~2,249 |
 | Res Judicata | 0.90% | ~2,024 |
 | Dwarf Fortress | 0.90% | ~2,024 |
 | %#*!$*! | 0.90% | ~2,024 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,850 (Ranked 58)  
+Progressed: 224,869 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 3 (0.00%) (Ranked 277)
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
 | 2023-09-16 | 224,568 | 3 |
-| 2023-09-17 | 224,850 | 3 |
+| 2023-09-17 | 224,869 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
-Sum: 336 (Ranked 336)  
+Sum: 337 (Ranked 336)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
@@ -216,8 +216,8 @@ Diff (max vs sum): -61
 | This game is Great for Beginners | 26 |
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 21 |
+| This game has Quickly Understood Controls | 21 |
 | This game has Amazing Storytelling | 20 |
-| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -354,4 +354,4 @@ Diff (max vs sum): -61
 | 2023-09-14 | 4.59 | - | 195 | 314 |
 | 2023-09-15 | 4.59 | - | 196 | 315 |
 | 2023-09-16 | 4.59 | - | 196 | 335 |
-| 2023-09-17 | 4.59 | - | 196 | 336 |
+| 2023-09-17 | 4.59 | - | 196 | 337 |

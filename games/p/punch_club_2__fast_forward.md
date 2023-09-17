@@ -58,13 +58,13 @@
 | Not little hacker | 35.00% | ~113 |
 | Absolute Champion! | 35.00% | ~113 |
 | Anyone can resist | 35.00% | ~113 |
+| Trap disarmed | 34.00% | ~110 |
 | The lonesome road | 34.00% | ~110 |
 | Keep nature safe | 34.00% | ~110 |
 | Family comes first | 34.00% | ~110 |
 | Key memories | 34.00% | ~110 |
 | Careerist | 34.00% | ~110 |
 | The heart of the Resistance | 34.00% | ~110 |
-| Trap disarmed | 33.00% | ~107 |
 | Another world | 33.00% | ~107 |
 | The last bell ring | 33.00% | ~107 |
 | Better cooking at home | 30.00% | ~97 |

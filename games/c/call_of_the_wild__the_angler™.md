@@ -7,26 +7,26 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 79.00% | ~4,595 |
-| Hey Good Hookin | 69.00% | ~4,013 |
-| I'm on a Boat! | 59.00% | ~3,431 |
+| Hey Good Hookin | 69.00% | ~4,014 |
+| I'm on a Boat! | 59.00% | ~3,432 |
 | Can you smell what the Rod is Hooking | 55.00% | ~3,199 |
 | Scaling up | 55.00% | ~3,199 |
 | More Fish in the Sea | 49.00% | ~2,850 |
-| Ready to Rod and Roll | 46.00% | ~2,675 |
+| Ready to Rod and Roll | 46.00% | ~2,676 |
 | Fish Out of Water | 35.00% | ~2,036 |
-| License to Gill | 33.00% | ~1,919 |
+| License to Gill | 33.00% | ~1,920 |
 | Things that go Splash in the Night | 31.00% | ~1,803 |
-| Goldfish? | 28.00% | ~1,628 |
+| Goldfish? | 28.00% | ~1,629 |
 | Going for Gold | 26.00% | ~1,512 |
 | I'm Hooked! | 19.00% | ~1,105 |
 | Diamond in the Rough | 13.00% | ~756 |
 | More than a Tourist | 11.00% | ~640 |
-| School's Out for Summer | 9.00% | ~523 |
+| School's Out for Summer | 9.00% | ~524 |
 | Hook, Line and Sinker | 8.00% | ~465 |
 | Marathon | 8.00% | ~465 |
 | I'm the Captain Now | 6.00% | ~349 |
 | Big Fish Small Pond | 5.00% | ~291 |
-| Gonna Need a Bigger Boat | 3.00% | ~174 |
+| Gonna Need a Bigger Boat | 3.00% | ~175 |
 | The Beetles | 2.00% | ~116 |
 | Rod and Troll | 2.00% | ~104 |
 | No Fin left to give | 1.00% | ~58 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,816 (Ranked 147)  
+Progressed: 5,817 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,11 +192,11 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 5,786 | 0 |
 | 2023-09-15 | 5,794 | 0 |
 | 2023-09-16 | 5,803 | 0 |
-| 2023-09-17 | 5,816 | 0 |
+| 2023-09-17 | 5,817 | 0 |
 ## Awards
-Max (Relaxing): 34  (Ranked 450)  
+Max (Relaxing): 34  (Ranked 451)  
 Sum: 172 (Ranked 389)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 34 |

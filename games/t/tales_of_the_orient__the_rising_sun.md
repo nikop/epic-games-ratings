@@ -12,8 +12,8 @@
 | One-quarter mark | 44.00% | ~7 |
 | Half way! | 31.00% | ~5 |
 | 10 Hours! | 25.00% | ~4 |
+| Almost there! | 25.00% | ~4 |
 | 5 Hours! | 25.00% | ~4 |
-| Almost there! | 19.00% | ~3 |
 | You did it! | 13.00% | ~2 |
 | I can't stop playing! | 6.00% | ~1 |
 | Keep Going | 0.00% | ~0 |

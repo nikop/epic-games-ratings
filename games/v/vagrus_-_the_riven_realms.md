@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 56.00% | ~83 |
+| A Second Chance | 56.00% | ~84 |
 | Press-ganged | 39.00% | ~58 |
-| The Package | 25.00% | ~37 |
-| Randomized | 17.00% | ~25 |
-| Conquered | 17.00% | ~25 |
+| The Package | 25.00% | ~38 |
+| Randomized | 17.00% | ~26 |
+| Conquered | 17.00% | ~26 |
 | Scribe | 10.00% | ~15 |
-| Tactician | 9.00% | ~13 |
+| Tactician | 9.00% | ~14 |
 | Breached | 8.00% | ~12 |
 | Fight Another Day | 8.00% | ~12 |
-| Tail-wind | 7.00% | ~10 |
+| Tail-wind | 7.00% | ~11 |
 | Scholar | 6.00% | ~9 |
 | Acquaintance | 6.00% | ~9 |
 | Taskmaster | 6.00% | ~9 |
-| Conciliator | 5.00% | ~7 |
-| The More the Merrier | 5.00% | ~7 |
-| Deputized | 5.00% | ~7 |
-| Harbinger | 5.00% | ~7 |
-| Courier | 5.00% | ~7 |
-| Spiritual Journey | 5.00% | ~7 |
-| Pilgrimage's End | 5.00% | ~7 |
+| Conciliator | 5.00% | ~8 |
+| The More the Merrier | 5.00% | ~8 |
+| Deputized | 5.00% | ~8 |
+| Harbinger | 5.00% | ~8 |
+| Courier | 5.00% | ~8 |
+| Spiritual Journey | 5.00% | ~8 |
+| Pilgrimage's End | 5.00% | ~8 |
 | Quartermaster | 4.00% | ~6 |
 | Strategist | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
@@ -47,19 +47,19 @@
 | The Darkness Within | 2.00% | ~3 |
 | Merchant Lord | 2.00% | ~3 |
 | Insectoid Propagator | 2.00% | ~3 |
-| Making Contact | 1.00% | ~1 |
-| Watcher | 1.00% | ~1 |
-| Executor | 1.00% | ~1 |
-| Loremaster | 1.00% | ~1 |
-| Adept | 1.00% | ~1 |
-| Talent Nurtured | 1.00% | ~1 |
-| Embellished | 1.00% | ~1 |
-| Trailblazer | 1.00% | ~1 |
-| Moving At Odd Angles | 1.00% | ~1 |
-| Ruiner | 1.00% | ~1 |
-| Wyrmslayer | 1.00% | ~1 |
-| Glorious leader | 1.00% | ~1 |
-| Voracity Confronted | 1.00% | ~1 |
+| Making Contact | 1.00% | ~2 |
+| Watcher | 1.00% | ~2 |
+| Executor | 1.00% | ~2 |
+| Loremaster | 1.00% | ~2 |
+| Adept | 1.00% | ~2 |
+| Talent Nurtured | 1.00% | ~2 |
+| Embellished | 1.00% | ~2 |
+| Trailblazer | 1.00% | ~2 |
+| Moving At Odd Angles | 1.00% | ~2 |
+| Ruiner | 1.00% | ~2 |
+| Wyrmslayer | 1.00% | ~2 |
+| Glorious leader | 1.00% | ~2 |
+| Voracity Confronted | 1.00% | ~2 |
 | Ever After | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
 | Forager | 0.70% | ~1 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 330)  
+Progressed: 150 (Ranked 329)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 142 | 0 |
 | 2023-09-15 | 143 | 0 |
 | 2023-09-16 | 147 | 0 |
-| 2023-09-17 | 149 | 0 |
+| 2023-09-17 | 150 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3206,
-  "EOS_Completed": 136,
-  "EOS_NewPlayers": 29,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 4.24,
+  "EOS_Progressed": 3207,
+  "EOS_Completed": 137,
+  "EOS_NewPlayers": 30,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 4.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -4661,6 +4661,11 @@
       "Time": "2023-09-17T19:07:34.434885+00:00",
       "NumProgressed": 3206,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2023-09-17T20:05:02.6321613+00:00",
+      "NumProgressed": 3207,
+      "NumCompleted": 137
     }
   ],
   "TotalAchievements": 5,
@@ -4672,7 +4677,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3207
     },
     {
       "ID": "2",
@@ -4711,16 +4716,16 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3206,
-      "Completed": 136
+      "Progressed": 3207,
+      "Completed": 137
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-09-17T19:07:34.4348839+00:00",
+  "LastChanged_Achievements": "2023-09-17T20:05:02.6321603+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.9825565+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:59:25.4688431+00:00",
-  "LastUpdate_Achievements": "2023-09-17T19:07:34.434911+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:58:48.6322578+00:00",
+  "LastUpdate_Achievements": "2023-09-17T20:05:02.6322236+00:00"
 }

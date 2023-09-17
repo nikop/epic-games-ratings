@@ -81,6 +81,7 @@ Number of Ratings: 37  (23.09.2022)
 | The wood shortage | 0.70% | ~30 |
 | Craftsmen challenge | 0.60% | ~26 |
 | I've been everywhere III | 0.50% | ~21 |
+| Governor-elect | 0.50% | ~21 |
 | Little place in the country | 0.50% | ~21 |
 | Made my choice | 0.50% | ~21 |
 | An honorable departure | 0.50% | ~21 |
@@ -92,16 +93,15 @@ Number of Ratings: 37  (23.09.2022)
 | Negotiator | 0.40% | ~17 |
 | Panacea | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
-| Governor-elect | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
 | I've been everywhere IX | 0.40% | ~17 |
 | I've been everywhere X | 0.40% | ~17 |
+| Waterways | 0.40% | ~17 |
 | You shall not pass | 0.40% | ~17 |
+| Malediction | 0.30% | ~13 |
 | Chief Inspector | 0.30% | ~13 |
 | LEGEN… wait for it… DARY | 0.30% | ~13 |
 | War-zone | 0.30% | ~13 |
-| Waterways | 0.30% | ~13 |
-| Malediction | 0.20% | ~9 |
 | Tired by festival | 0.20% | ~9 |
 | Good luck miner! | 0.10% | ~4 |
 | Just let it burn! | 0.10% | ~4 |
@@ -109,7 +109,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,285 (Ranked 156)  
-Completed: 3 (0.07%) (Ranked 231)  
+Completed: 3 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
