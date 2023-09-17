@@ -11,7 +11,7 @@ Number of Ratings: 28  (23.09.2022)
 | Builder | 52.00% | ~247 |
 | Pangs of conscience | 47.00% | ~223 |
 | Living it large! | 44.00% | ~209 |
-| Collector | 42.00% | ~200 |
+| Collector | 43.00% | ~204 |
 | Need to think | 42.00% | ~200 |
 | Completely nuts! | 39.00% | ~185 |
 | Just in time! | 33.00% | ~157 |
@@ -30,7 +30,7 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 11.00% | ~52 |
 | Engineer | 11.00% | ~52 |
 | Achtung! | 11.00% | ~52 |
-| Japan | 9.00% | ~43 |
+| Japan | 10.00% | ~48 |
 | Tycoon | 8.00% | ~38 |
 | Germany | 6.00% | ~28 |
 | Chuck Norris | 5.00% | ~24 |

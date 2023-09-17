@@ -3,11 +3,11 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 145,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7482,
+  "EOS_Progressed": 7483,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6959,6 +6959,11 @@
       "Time": "2023-09-16T23:08:26.8224428+00:00",
       "NumProgressed": 7482,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-17T17:15:00.577679+00:00",
+      "NumProgressed": 7483,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7122,7 +7127,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "THING",
@@ -7137,7 +7142,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7482,
+      "Progressed": 7483,
       "Completed": 33
     }
   ],
@@ -7145,8 +7150,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:12:17.5621294+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:15:00.5776784+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:01.8462778+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:57:16.2160461+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:12:17.5621848+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:57:28.7882438+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:15:00.5777564+00:00"
 }

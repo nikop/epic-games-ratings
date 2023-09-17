@@ -3,11 +3,11 @@
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
   "Ranking_Rating": 889,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1454,
+  "EOS_Progressed": 1455,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.81,
   "EosHistory": [
@@ -2498,6 +2498,11 @@
       "Time": "2023-09-17T15:07:52.1113715+00:00",
       "NumProgressed": 1454,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-17T17:12:25.3836557+00:00",
+      "NumProgressed": 1455,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2509,7 +2514,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -2557,7 +2562,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2573,7 +2578,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2581,7 +2586,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -2589,22 +2594,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1454,
+      "Progressed": 1455,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:09:46.3278552+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:12:25.3836551+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:03:20.3799899+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:09:46.3278803+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:04:45.4124785+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:12:25.3837032+00:00"
 }

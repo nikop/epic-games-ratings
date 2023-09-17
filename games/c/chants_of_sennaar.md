@@ -15,9 +15,9 @@
 | True G4M3R | 33.00% | ~54 |
 | One last step | 32.00% | ~52 |
 | Champollion | 29.00% | ~47 |
+| In this together | 28.00% | ~46 |
 | Cable guy | 28.00% | ~46 |
 | Half the way | 28.00% | ~46 |
-| In this together | 27.00% | ~44 |
 | Peace walker | 27.00% | ~44 |
 | Open door | 25.00% | ~41 |
 | Free at last | 22.00% | ~36 |

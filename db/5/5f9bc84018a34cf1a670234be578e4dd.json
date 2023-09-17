@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1022,9 +1022,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "FallDeath",
@@ -1062,17 +1062,17 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "GasFound",
@@ -1110,9 +1110,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
@@ -1125,8 +1125,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:11:15.9438055+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:14:29.6535686+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:05:17.541586+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:11:15.9438217+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:06:44.1901908+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:14:29.6535868+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 487,
+  "Ranking_Rating": 486,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 126,
@@ -916,9 +916,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12428,
+  "EOS_Progressed": 12432,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10581,6 +10581,11 @@
       "Time": "2023-09-17T16:09:55.4141122+00:00",
       "NumProgressed": 12428,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-17T17:12:38.2550588+00:00",
+      "NumProgressed": 12432,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10592,7 +10597,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10067
+      "UsersEstimate": 10070
     },
     {
       "ID": "ACH02",
@@ -10608,7 +10613,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH04",
@@ -10640,7 +10645,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "ACH08",
@@ -10648,7 +10653,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6340
     },
     {
       "ID": "ACH09",
@@ -10688,7 +10693,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "ACH14",
@@ -10696,7 +10701,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "ACH15",
@@ -10704,7 +10709,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH16",
@@ -10736,7 +10741,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH20",
@@ -10760,7 +10765,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH23",
@@ -10768,7 +10773,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3231
+      "UsersEstimate": 3232
     },
     {
       "ID": "ACH24",
@@ -10808,7 +10813,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH29",
@@ -10816,7 +10821,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH30",
@@ -10871,7 +10876,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12428,
+      "Progressed": 12432,
       "Completed": 45
     }
   ],
@@ -10879,8 +10884,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-16T23:59:37.4046765+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:09:55.4141117+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:12:38.2550583+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:02:32.307699+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:09:55.4141952+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:03:45.3082932+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:12:38.2552336+00:00"
 }

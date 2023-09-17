@@ -2,9 +2,9 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 417,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Rating": 520,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 104,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -70,15 +70,21 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-17T17:02:33.319733+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10696,
+  "EOS_Progressed": 10700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5621,6 +5627,11 @@
       "Time": "2023-09-17T16:13:16.7366286+00:00",
       "NumProgressed": 10696,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T17:15:40.550352+00:00",
+      "NumProgressed": 10700,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5649,7 +5660,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "12",
@@ -5673,7 +5684,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "15",
@@ -5681,7 +5692,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "16",
@@ -5697,7 +5708,7 @@
       "Name": "Spore Taste",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "18",
@@ -5713,7 +5724,7 @@
       "Name": "Martian Music",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "2",
@@ -5729,7 +5740,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "21",
@@ -5737,7 +5748,7 @@
       "Name": "Drone Dodger",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "22",
@@ -5809,7 +5820,7 @@
       "Name": "Captain Drummer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "30",
@@ -5841,7 +5852,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "7",
@@ -5865,23 +5876,23 @@
       "Name": "Impossible Objects",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10696,
+      "Progressed": 10700,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:13:16.736628+00:00",
+  "LastChanged": "2023-09-17T17:02:33.3197326+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:15:40.5503515+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:01:35.0020347+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:13:16.7366823+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:02:33.3197335+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:15:40.5504196+00:00"
 }

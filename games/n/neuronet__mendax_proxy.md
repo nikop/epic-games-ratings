@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 68.00% | ~17 |
-| Hello World | 64.00% | ~16 |
-| I Think, Therefore I Am | 60.00% | ~15 |
-| The Real Beginning | 60.00% | ~15 |
-| Shook Up | 52.00% | ~13 |
+| First Day of the Rest of Your Life | 72.00% | ~18 |
+| Hello World | 68.00% | ~17 |
+| I Think, Therefore I Am | 64.00% | ~16 |
+| The Real Beginning | 64.00% | ~16 |
+| Shook Up | 56.00% | ~14 |
 | The Birds and the Bees | 52.00% | ~13 |
 | Vaccinated | 52.00% | ~13 |
 | Busybody | 44.00% | ~11 |
@@ -22,12 +22,12 @@
 | The Partner | 36.00% | ~9 |
 | Socially Acceptable Insanity | 36.00% | ~9 |
 | The Companion | 36.00% | ~9 |
+| They Flock to Him | 36.00% | ~9 |
 | The Counsellor | 36.00% | ~9 |
 | A Real Headache | 32.00% | ~8 |
 | A Total Riot | 32.00% | ~8 |
 | Knock Knock | 32.00% | ~8 |
 | That One Doesn't Count | 32.00% | ~8 |
-| They Flock to Him | 32.00% | ~8 |
 | Blood Begets Blood | 28.00% | ~7 |
 | Everyone Needs a Break | 28.00% | ~7 |
 | Full Coverage | 24.00% | ~6 |

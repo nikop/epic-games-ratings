@@ -6,22 +6,22 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Debuff Dogpile | 12.00% | ~302 |
-| Faceroll the Bones | 12.00% | ~302 |
-| Hit 'Em Where It Hurts | 12.00% | ~302 |
-| Perk Shard Punch Card | 12.00% | ~302 |
-| That'll Leave a Mark | 12.00% | ~302 |
-| Mushroom Madness! | 11.00% | ~277 |
-| Horder Better Faster Stronger | 9.00% | ~226 |
-| Spending Spree | 9.00% | ~226 |
-| First Strike | 8.00% | ~201 |
-| Ten Steps from the Grave | 8.00% | ~201 |
-| Everything Must Go! | 7.00% | ~176 |
+| Debuff Dogpile | 12.00% | ~303 |
+| Faceroll the Bones | 12.00% | ~303 |
+| Hit 'Em Where It Hurts | 12.00% | ~303 |
+| Perk Shard Punch Card | 12.00% | ~303 |
+| That'll Leave a Mark | 12.00% | ~303 |
+| Mushroom Madness! | 11.00% | ~278 |
+| Horder Better Faster Stronger | 9.00% | ~227 |
+| Spending Spree | 9.00% | ~227 |
+| First Strike | 8.00% | ~202 |
+| Ten Steps from the Grave | 8.00% | ~202 |
+| Everything Must Go! | 7.00% | ~177 |
 | Cold-Blooded Critters | 5.00% | ~126 |
 | Death Becomes You | 5.00% | ~126 |
 | Next Time on MythForce... | 5.00% | ~126 |
 | Flawless Victory | 4.00% | ~101 |
-| The Harder They Fall | 3.00% | ~75 |
+| The Harder They Fall | 3.00% | ~76 |
 | On this Episode! | 2.00% | ~50 |
 | Deadication | 1.00% | ~25 |
 | Season Finale | 0.90% | ~23 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~5 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,515 (Ranked 179)  
+Progressed: 2,523 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,15 +94,15 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 1,880 | 0 |
 | 2023-09-15 | 2,137 | 0 |
 | 2023-09-16 | 2,380 | 0 |
-| 2023-09-17 | 2,515 | 0 |
+| 2023-09-17 | 2,523 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
-Sum: 260 (Ranked 356)  
+Sum: 261 (Ranked 356)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |
-| This game is Great for Beginners | 30 |
+| This game is Great for Beginners | 31 |
 | This game has Amazing Characters | 29 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Unique Visuals | 26 |
@@ -193,4 +193,4 @@ Diff (max vs sum): 102
 | 2023-09-12 | 4.49 | - | 32 | 257 |
 | 2023-09-13 | 4.49 | - | 32 | 259 |
 | 2023-09-16 | 4.48 | - | 32 | 259 |
-| 2023-09-17 | 4.49 | - | 32 | 260 |
+| 2023-09-17 | 4.49 | - | 32 | 261 |

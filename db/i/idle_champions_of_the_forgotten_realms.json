@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 931,
+  "Ranking_Rating": 932,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6706,10 +6706,10 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229178,
-  "EOS_Completed": 2290,
-  "EOS_NewPlayers": 901,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 229186,
+  "EOS_Completed": 2291,
+  "EOS_NewPlayers": 900,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23351,6 +23351,11 @@
       "Time": "2023-09-17T16:10:50.0640096+00:00",
       "NumProgressed": 229178,
       "NumCompleted": 2290
+    },
+    {
+      "Time": "2023-09-17T17:13:54.8696733+00:00",
+      "NumProgressed": 229186,
+      "NumCompleted": 2291
     }
   ],
   "TotalAchievements": 520,
@@ -25752,9 +25757,9 @@
       "ID": "objective_completed_575",
       "SetID": "cc37lbc",
       "Name": "Difficult Terrain",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_576",
@@ -27521,21 +27526,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195452,
+      "Progressed": 195460,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229178,
-      "Completed": 2290
+      "Progressed": 229186,
+      "Completed": 2291
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-17T02:57:58.0382379+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:10:50.064009+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:13:54.8696727+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:58:51.3261217+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:10:50.0671665+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:59:19.1110999+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:13:54.8732585+00:00"
 }

@@ -1734,9 +1734,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 314
     },
     {
       "ID": "DevilRope",
@@ -1806,9 +1806,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "HastrmanRum",
@@ -1830,9 +1830,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "PitSoul",
@@ -1862,9 +1862,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "PriestRogue",
@@ -1934,9 +1934,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 353
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1974,9 +1974,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "WormGrilled",
@@ -1997,8 +1997,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:09:02.7585754+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:11:25.0499142+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.7482374+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:05:35.4984669+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:09:02.7586194+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:07:12.5579319+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:11:25.0499606+00:00"
 }

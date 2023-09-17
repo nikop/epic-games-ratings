@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
   "Ranking_Rating": 973,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 522,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2023-09-17T15:09:09.7217049+00:00",
       "NumProgressed": 521,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T17:13:45.2977135+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -710,7 +715,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Doors_Closing",
@@ -854,7 +859,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Old_Friend",
@@ -862,7 +867,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Paparazzi",
@@ -917,7 +922,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 522,
       "Completed": 5
     }
   ],
@@ -925,8 +930,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:10:43.6118583+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:13:45.2977129+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:16.5027878+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:06:36.6517872+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:10:43.6118827+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:08:12.6724344+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:13:45.2977706+00:00"
 }

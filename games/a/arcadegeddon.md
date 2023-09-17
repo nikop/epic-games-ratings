@@ -6,28 +6,28 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 90.00% | ~8,124 |
-| Photogenic | 87.00% | ~7,853 |
-| Surge Gauntlet Jockey | 84.00% | ~7,583 |
-| Plug It In | 83.00% | ~7,492 |
-| Adventure Time | 79.00% | ~7,131 |
+| Let's Get This Party Started | 90.00% | ~8,125 |
+| Photogenic | 87.00% | ~7,854 |
+| Surge Gauntlet Jockey | 84.00% | ~7,584 |
+| Plug It In | 83.00% | ~7,493 |
+| Adventure Time | 79.00% | ~7,132 |
 | Playing With Power | 76.00% | ~6,861 |
 | Coup d'Etat | 58.00% | ~5,236 |
-| You're Fired | 57.00% | ~5,145 |
-| Get Furious | 56.00% | ~5,055 |
+| You're Fired | 57.00% | ~5,146 |
+| Get Furious | 56.00% | ~5,056 |
 | Hacks In Stacks | 55.00% | ~4,965 |
 | Gunplay And Cosplay | 54.00% | ~4,875 |
 | Meching Enemies | 48.00% | ~4,333 |
 | Ticket Toddler | 44.00% | ~3,972 |
 | Booty Bashing | 39.00% | ~3,521 |
-| Field Medic | 38.00% | ~3,430 |
+| Field Medic | 38.00% | ~3,431 |
 | Here Comes a New Challenger | 37.00% | ~3,340 |
 | Rapid Response | 33.00% | ~2,979 |
 | Surge Ahead | 30.00% | ~2,708 |
 | The Full Monty | 30.00% | ~2,708 |
 | Guardian Angel | 28.00% | ~2,528 |
-| Poppin Noggins | 24.00% | ~2,166 |
-| Clips and Crits | 20.00% | ~1,805 |
+| Poppin Noggins | 24.00% | ~2,167 |
+| Clips and Crits | 20.00% | ~1,806 |
 | Grey Goo | 17.00% | ~1,535 |
 | Boss of Bosses | 15.00% | ~1,354 |
 | The Final Blow | 14.00% | ~1,264 |
@@ -35,8 +35,8 @@ Number of Ratings: 801  (23.09.2022)
 | Light My Fire | 12.00% | ~1,083 |
 | Seasoned Adventurer | 11.00% | ~993 |
 | 1.21 Gigawatts | 10.00% | ~903 |
-| Get In The Ring! | 9.00% | ~812 |
-| This Is My Boomstick! | 9.00% | ~812 |
+| Get In The Ring! | 9.00% | ~813 |
+| This Is My Boomstick! | 9.00% | ~813 |
 | Rescue Ranger | 8.00% | ~722 |
 | Ticket Titan | 7.00% | ~632 |
 | Surge Gauntlet Scholar | 6.00% | ~542 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~36 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,027 (Ranked 136)  
+Progressed: 9,028 (Ranked 136)  
 Completed: 1 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 1 (0.01%) (Ranked 263)
 | 2023-09-14 | 8,992 | 1 |
 | 2023-09-15 | 9,002 | 1 |
 | 2023-09-16 | 9,018 | 1 |
-| 2023-09-17 | 9,027 | 1 |
+| 2023-09-17 | 9,028 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 389)  
 Sum: 462 (Ranked 310)  

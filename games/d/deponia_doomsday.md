@@ -1,7 +1,7 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.56 (Ranked 468)  
+Rating: 4.56 (Ranked 467)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,8 +18,8 @@ Rating: 4.56 (Ranked 468)
 | Scaffolding Expert | 37.00% | ~146 |
 | Elysian Minigame-Master | 37.00% | ~146 |
 | Sole Music | 36.00% | ~142 |
+| Portals come in packs | 30.00% | ~118 |
 | No man left behind! | 29.00% | ~115 |
-| Portals come in packs | 29.00% | ~115 |
 | Photo Friend | 26.00% | ~103 |
 | Brainfreeze | 21.00% | ~83 |
 | And everything comes full circle. | 20.00% | ~79 |
@@ -27,7 +27,7 @@ Rating: 4.56 (Ranked 468)
 | Quickdraw | 15.00% | ~59 |
 | Thuna...? | 15.00% | ~59 |
 | Monstrous Harassment | 14.00% | ~55 |
-| Heading the inverter | 13.00% | ~51 |
+| Heading the inverter | 14.00% | ~55 |
 | Blast from the Past | 13.00% | ~51 |
 | Play it again, Ronny | 11.00% | ~43 |
 | Goat Team | 10.00% | ~40 |

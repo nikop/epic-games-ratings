@@ -1,24 +1,24 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,618 |
-| Greasy Palms | 42.00% | ~4,217 |
-| South American Connection | 26.00% | ~2,610 |
-| Life of the Party | 20.00% | ~2,008 |
-| Big Heat from Little Havana | 15.00% | ~1,506 |
-| Chauffeur | 15.00% | ~1,506 |
-| Tommy Two-Wheels | 15.00% | ~1,506 |
-| Salutations My Little Friend | 11.00% | ~1,104 |
+| Legal Counsel | 46.00% | ~4,620 |
+| Greasy Palms | 42.00% | ~4,218 |
+| South American Connection | 26.00% | ~2,611 |
+| Life of the Party | 20.00% | ~2,009 |
+| Big Heat from Little Havana | 15.00% | ~1,507 |
+| Chauffeur | 15.00% | ~1,507 |
+| Tommy Two-Wheels | 15.00% | ~1,507 |
+| Salutations My Little Friend | 11.00% | ~1,105 |
 | Iron-y | 10.00% | ~1,004 |
 | Gun for Hire | 9.00% | ~904 |
 | Mischief Managed | 9.00% | ~904 |
 | Vice City Mogul | 7.00% | ~703 |
-| Catch Me if You Can | 6.00% | ~602 |
-| Bloodstained Hands | 6.00% | ~602 |
+| Catch Me if You Can | 6.00% | ~603 |
+| Bloodstained Hands | 6.00% | ~603 |
 | Not my First Time | 5.00% | ~502 |
 | Grand Theft Auto | 5.00% | ~502 |
 | Pie Guy | 4.00% | ~402 |
@@ -40,7 +40,7 @@ Rating: 4.55 (Ranked 487)
 | Done it All | 0.90% | ~90 |
 | Kingpin | 0.60% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,040 (Ranked 132)  
+Progressed: 10,044 (Ranked 132)  
 Completed: 56 (0.56%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 56 (0.56%) (Ranked 151)
 | 2023-09-14 | 9,902 | 55 |
 | 2023-09-15 | 9,947 | 56 |
 | 2023-09-16 | 10,010 | 56 |
-| 2023-09-17 | 10,040 | 56 |
+| 2023-09-17 | 10,044 | 56 |
 ## Awards
 Max (Great Boss Battles): 75  (Ranked 373)  
 Sum: 75 (Ranked 436)  

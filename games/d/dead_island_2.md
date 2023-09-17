@@ -1,21 +1,21 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 505)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,632 |
-| Git Gutte! | 2.00% | ~13,632 |
-| Break A Leg | 2.00% | ~13,632 |
-| Coup de Grâce | 2.00% | ~13,632 |
-| Hazardous Materials | 2.00% | ~13,632 |
-| Friends Like These | 2.00% | ~13,632 |
-| Hotel California | 2.00% | ~13,632 |
-| Apex Predator | 2.00% | ~13,632 |
-| Stacking the Deck | 2.00% | ~13,632 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,632 |
-| Welcome To Hell-A | 2.00% | ~13,632 |
+| Dr. Reed, I Presume? | 2.00% | ~13,633 |
+| Git Gutte! | 2.00% | ~13,633 |
+| Break A Leg | 2.00% | ~13,633 |
+| Coup de Grâce | 2.00% | ~13,633 |
+| Hazardous Materials | 2.00% | ~13,633 |
+| Friends Like These | 2.00% | ~13,633 |
+| Hotel California | 2.00% | ~13,633 |
+| Apex Predator | 2.00% | ~13,633 |
+| Stacking the Deck | 2.00% | ~13,633 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,633 |
+| Welcome To Hell-A | 2.00% | ~13,633 |
 | Anger Management | 1.00% | ~6,816 |
 | Perks of the Job | 1.00% | ~6,816 |
 | Bookworm | 1.00% | ~6,816 |
@@ -30,19 +30,19 @@ Rating: 4.54 (Ranked 505)
 | I Am the Resurrection | 1.00% | ~6,816 |
 | Our True Nature | 1.00% | ~6,816 |
 | This is My Weapon | 1.00% | ~6,816 |
-| Making Your Mark | 0.90% | ~6,134 |
-| Humanity Distilled | 0.90% | ~6,134 |
-| Down with the Sickness | 0.90% | ~6,134 |
-| Max Headroom | 0.70% | ~4,771 |
+| Making Your Mark | 0.90% | ~6,135 |
+| Humanity Distilled | 0.90% | ~6,135 |
+| Down with the Sickness | 0.90% | ~6,135 |
+| Max Headroom | 0.80% | ~5,453 |
 | Jumbo Keyring | 0.60% | ~4,090 |
 | Go, Bobcats! | 0.60% | ~4,090 |
 | Rising Star | 0.60% | ~4,090 |
 | Smorgasbord | 0.50% | ~3,408 |
-| Make it So | 0.40% | ~2,726 |
-| On Safari | 0.40% | ~2,726 |
-| Not Even My Final Form | 0.40% | ~2,726 |
-| Internet Famous | 0.40% | ~2,726 |
-| Variety is the Spice of Death | 0.40% | ~2,726 |
+| Make it So | 0.40% | ~2,727 |
+| On Safari | 0.40% | ~2,727 |
+| Not Even My Final Form | 0.40% | ~2,727 |
+| Internet Famous | 0.40% | ~2,727 |
+| Variety is the Spice of Death | 0.40% | ~2,727 |
 | LA Influential | 0.30% | ~2,045 |
 | Gore Horse | 0.30% | ~2,045 |
 | Sharpest Tool in the Box | 0.30% | ~2,045 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,598 (Ranked 22)  
-Completed: 2,148 (0.32%) (Ranked 177)  
+Progressed: 681,645 (Ranked 22)  
+Completed: 2,149 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,7 +201,7 @@ Completed: 2,148 (0.32%) (Ranked 177)
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
-| 2023-09-17 | 681,598 | 2,148 |
+| 2023-09-17 | 681,645 | 2,149 |
 ## Awards
 Max (Great Boss Battles): 6,086  (Ranked 57)  
 Sum: 9,025 (Ranked 94)  

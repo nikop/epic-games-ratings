@@ -1,22 +1,22 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.07 (Ranked 929)  
+Rating: 4.07 (Ranked 930)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~532,387 |
-| Every story has a beginning | 36.00% | ~239,574 |
-| The first of many | 31.00% | ~206,300 |
-| Positive word of mouth | 18.00% | ~119,787 |
-| Lawn in the U.S.A. | 15.00% | ~99,823 |
-| Blade Runner | 9.00% | ~59,894 |
-| Credible | 7.00% | ~46,584 |
-| Teamwork makes the dream work | 6.00% | ~39,929 |
-| Where there's muck there's brass | 4.00% | ~26,619 |
-| Bigger and better | 4.00% | ~26,619 |
-| Aggressive expansion | 4.00% | ~26,619 |
+| The dream begins | 80.00% | ~532,406 |
+| Every story has a beginning | 36.00% | ~239,583 |
+| The first of many | 31.00% | ~206,307 |
+| Positive word of mouth | 18.00% | ~119,791 |
+| Lawn in the U.S.A. | 15.00% | ~99,826 |
+| Blade Runner | 9.00% | ~59,896 |
+| Credible | 7.00% | ~46,585 |
+| Teamwork makes the dream work | 6.00% | ~39,930 |
+| Where there's muck there's brass | 4.00% | ~26,620 |
+| Bigger and better | 4.00% | ~26,620 |
+| Aggressive expansion | 4.00% | ~26,620 |
 | Size isn't everything | 3.00% | ~19,965 |
 | Close shave | 3.00% | ~19,965 |
 | Established | 3.00% | ~19,965 |
@@ -27,41 +27,41 @@ Number of Ratings: 5,086  (23.09.2022)
 | The top of the mountain | 2.00% | ~13,310 |
 | First step on the ladder | 2.00% | ~13,310 |
 | Trusted | 2.00% | ~13,310 |
-| Earn your stripes | 0.90% | ~5,989 |
-| Lawn & Order | 0.90% | ~5,989 |
-| Jack of all trades | 0.90% | ~5,989 |
-| Professional | 0.90% | ~5,989 |
+| Earn your stripes | 0.90% | ~5,990 |
+| Lawn & Order | 0.90% | ~5,990 |
+| Jack of all trades | 0.90% | ~5,990 |
+| Professional | 0.90% | ~5,990 |
 | The grass is always greener | 0.80% | ~5,324 |
 | All hands on deck | 0.80% | ~5,324 |
 | Worked your grass off | 0.80% | ~5,324 |
 | Phoenix rises | 0.40% | ~2,662 |
 | Cut Loose | 0.40% | ~2,662 |
 | Esteemed | 0.40% | ~2,662 |
-| Hard times | 0.30% | ~1,996 |
+| Hard times | 0.30% | ~1,997 |
 | Zero to hero | 0.20% | ~1,331 |
 | In it for the long haul | 0.20% | ~1,331 |
 | Centurion | 0.20% | ~1,331 |
 | Distinguished | 0.20% | ~1,331 |
-| Amateur mower | 0.10% | ~665 |
-| Expert mower | 0.10% | ~665 |
-| Professional mower | 0.10% | ~665 |
-| Lawn on the 4th of July | 0.10% | ~665 |
-| A seat at the round table | 0.10% | ~665 |
-| Home game | 0.10% | ~665 |
-| Excalibur? | 0.10% | ~665 |
-| An axe to grind | 0.10% | ~665 |
-| Elderly chap, big grey beard, pointy hat. | 0.10% | ~665 |
-| Head of the family | 0.10% | ~665 |
-| Spared no expense | 0.10% | ~665 |
-| We’re going to make a fortune with this place | 0.10% | ~665 |
-| Don’t go into the long grass! | 0.10% | ~665 |
-| Clever girl | 0.10% | ~665 |
-| We have a T-Rex | 0.10% | ~665 |
-| Welcome to Dino Safari! | 0.10% | ~665 |
-| Lawn Enforcement Officer | 0.10% | ~665 |
-| Mo mowers, mo problems | 0.10% | ~665 |
+| Amateur mower | 0.10% | ~666 |
+| Expert mower | 0.10% | ~666 |
+| Professional mower | 0.10% | ~666 |
+| Lawn on the 4th of July | 0.10% | ~666 |
+| A seat at the round table | 0.10% | ~666 |
+| Home game | 0.10% | ~666 |
+| Excalibur? | 0.10% | ~666 |
+| An axe to grind | 0.10% | ~666 |
+| Elderly chap, big grey beard, pointy hat. | 0.10% | ~666 |
+| Head of the family | 0.10% | ~666 |
+| Spared no expense | 0.10% | ~666 |
+| We’re going to make a fortune with this place | 0.10% | ~666 |
+| Don’t go into the long grass! | 0.10% | ~666 |
+| Clever girl | 0.10% | ~666 |
+| We have a T-Rex | 0.10% | ~666 |
+| Welcome to Dino Safari! | 0.10% | ~666 |
+| Lawn Enforcement Officer | 0.10% | ~666 |
+| Mo mowers, mo problems | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,484 (Ranked 23)  
+Progressed: 665,507 (Ranked 23)  
 Completed: 16 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 16 (0.00%) (Ranked 277)
 | 2023-09-14 | 664,569 | 16 |
 | 2023-09-15 | 664,833 | 16 |
 | 2023-09-16 | 665,216 | 16 |
-| 2023-09-17 | 665,484 | 16 |
+| 2023-09-17 | 665,507 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 283)  
 Sum: 979 (Ranked 243)  

@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1341,
+  "EOS_Progressed": 1342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4846,6 +4846,11 @@
       "Time": "2023-09-17T16:09:08.97134+00:00",
       "NumProgressed": 1341,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T17:11:33.666464+00:00",
+      "NumProgressed": 1342,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4865,7 +4870,7 @@
       "Name": "Exterminator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4993,7 +4998,7 @@
       "Name": "Captain",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -5033,7 +5038,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5063,9 +5068,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5113,7 +5118,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5160,14 +5165,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1341,
+      "Progressed": 1342,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:09:08.9713395+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:11:33.6664635+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:05:55.3033142+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:09:08.9713935+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:07:31.3590994+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:11:33.666534+00:00"
 }

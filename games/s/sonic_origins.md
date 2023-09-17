@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 433)  
+Rating: 4.58 (Ranked 432)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,13 +19,13 @@ Number of Ratings: 154  (23.09.2022)
 | Gallant Spin Dash | 60.00% | ~290 |
 | Knuckles the Echidna | 60.00% | ~290 |
 | Bubbly Breath | 58.00% | ~281 |
-| Boss Rush Attempt | 53.00% | ~257 |
+| Boss Rush Attempt | 54.00% | ~261 |
 | Cleared Sonic the Hedgehog | 50.00% | ~242 |
 | Super Sonic | 45.00% | ~218 |
+| Very First Mission Clear! | 44.00% | ~213 |
 | Shut Down Metal Sonic | 43.00% | ~208 |
 | Beware Stingers! | 43.00% | ~208 |
 | Museum Time | 43.00% | ~208 |
-| Very First Mission Clear! | 43.00% | ~208 |
 | Cleared Sonic the Hedgehog 2 | 41.00% | ~198 |
 | Beware Moto Bugs! | 40.00% | ~194 |
 | Cleared Sonic CD | 40.00% | ~194 |

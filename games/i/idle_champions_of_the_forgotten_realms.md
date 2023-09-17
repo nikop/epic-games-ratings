@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 931)  
+Rating: 4.06 (Ranked 932)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -75,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~458 |
 | Flying Monkey Skulls of Doom | 0.20% | ~458 |
 | The Darkness Runs Deeper | 0.20% | ~458 |
+| Difficult Terrain | 0.20% | ~458 |
 | Running of the Saurs | 0.20% | ~458 |
 | The Contagious Curse | 0.20% | ~458 |
 | Dinosaur Racing | 0.20% | ~458 |
@@ -330,7 +331,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.10% | ~229 |
 | Dark Doppelgangers | 0.10% | ~229 |
 | Faerûn's Most Wanted | 0.10% | ~195 |
-| Difficult Terrain | 0.10% | ~229 |
 | Cold & Wet | 0.10% | ~229 |
 | Madcap Adventures | 0.10% | ~229 |
 | Faerûn's Most Neglected | 0.10% | ~195 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,178 (Ranked 57)  
-Completed: 2,290 (1.00%) (Ranked 124)  
+Progressed: 229,186 (Ranked 57)  
+Completed: 2,291 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -677,7 +677,7 @@ Completed: 2,290 (1.00%) (Ranked 124)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,178 | 2,290 |
+| 2023-09-17 | 229,186 | 2,291 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,619 (Ranked 39)  

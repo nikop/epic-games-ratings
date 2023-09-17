@@ -17,20 +17,20 @@
 | The Neuro-connector | 19.00% | ~20 |
 | Flatline | 19.00% | ~20 |
 | Mind Over Matter | 18.00% | ~19 |
+| Full and Final Settlement | 17.00% | ~18 |
 | Unstoppable | 17.00% | ~18 |
-| Full and Final Settlement | 16.00% | ~16 |
-| One Click Away | 16.00% | ~16 |
-| Cyborg | 10.00% | ~10 |
+| One Click Away | 17.00% | ~18 |
+| Cyborg | 11.00% | ~11 |
 | Lifter | 9.00% | ~9 |
-| Brain-hacker | 8.00% | ~8 |
-| Gravity Bender | 7.00% | ~7 |
-| Hunter | 4.00% | ~4 |
+| Brain-hacker | 9.00% | ~9 |
+| Gravity Bender | 8.00% | ~8 |
+| Hunter | 5.00% | ~5 |
 | Zero Gravity | 4.00% | ~4 |
-| No Place to Hide | 2.00% | ~2 |
-| A Voice in the Dark | 2.00% | ~2 |
+| No Place to Hide | 3.00% | ~3 |
+| A Voice in the Dark | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 103 (Ranked 350)  
-Completed: 2 (1.94%) (Ranked 97)  
+Completed: 3 (2.91%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,6 +61,7 @@ Completed: 2 (1.94%) (Ranked 97)
 | 2023-09-13 | 98 | 2 |
 | 2023-09-14 | 101 | 2 |
 | 2023-09-15 | 103 | 2 |
+| 2023-09-17 | 103 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

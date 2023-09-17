@@ -21,9 +21,9 @@ Rating: 4.87 (Ranked 25)
 | Kissing the sky! | 8.00% | ~325 |
 | I look cool. But I can look COOLER. | 8.00% | ~325 |
 | The Negotiator | 7.00% | ~284 |
+| Headliner | 7.00% | ~284 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~284 |
 | Out in a puff of smoke | 7.00% | ~284 |
-| Headliner | 6.00% | ~244 |
 | Time to pay up! | 6.00% | ~244 |
 | Who's the boss now? | 6.00% | ~244 |
 | You must like calling me in, Chai | 6.00% | ~244 |

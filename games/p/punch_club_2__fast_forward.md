@@ -72,7 +72,7 @@
 | Silver’s past | 29.00% | ~94 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 324 (Ranked 279)  
-Completed: 8 (2.47%) (Ranked 86)  
+Completed: 8 (2.47%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

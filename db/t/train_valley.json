@@ -3,8 +3,8 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 625,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 212,
@@ -1085,9 +1085,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 204
     },
     {
       "ID": "03_philatelist",
@@ -1149,9 +1149,9 @@
       "ID": "10_japan",
       "SetID": "chb1m60",
       "Name": "Japan",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "11_germany",
@@ -1397,8 +1397,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:10:35.3864604+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:13:33.8952276+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:28.7863119+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:57:46.2370744+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:10:35.3864956+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:58:06.2729573+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:13:33.8952651+00:00"
 }

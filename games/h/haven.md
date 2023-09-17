@@ -24,8 +24,8 @@ Number of Ratings: 38  (23.09.2022)
 | Don't look back | 12.00% | ~173 |
 | Unstoppable | 10.00% | ~144 |
 | Perfect timing | 9.00% | ~129 |
+| Ain't no mountain high enough | 9.00% | ~129 |
 | Self-sustainability | 8.00% | ~115 |
-| Ain't no mountain high enough | 8.00% | ~115 |
 | An eye for an eye | 6.00% | ~86 |
 | Can't get wetter... | 5.00% | ~72 |
 | Spring cleaning | 5.00% | ~72 |

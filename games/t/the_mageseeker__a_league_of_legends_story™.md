@@ -7,14 +7,14 @@ Rating: 4.82 (Ranked 67)
 | ---- | ---------- | ----- |
 | For Demacia | 96.00% | ~2,458 |
 | No more cages! | 92.00% | ~2,355 |
-| Everfrost | 78.00% | ~1,997 |
+| Everfrost | 79.00% | ~2,022 |
 | Pentakill | 78.00% | ~1,997 |
 | Dark Forest | 78.00% | ~1,997 |
-| The use of petricite | 74.00% | ~1,894 |
+| The use of petricite | 75.00% | ~1,920 |
 | You can pet the dog | 61.00% | ~1,562 |
 | Big Helmet Bro | 38.00% | ~973 |
+| Clarion Cove | 38.00% | ~973 |
 | Thornbarrow | 37.00% | ~947 |
-| Clarion Cove | 37.00% | ~947 |
 | Past trauma | 36.00% | ~922 |
 | Elemental master | 35.00% | ~896 |
 | Ternmoat Headquarters | 35.00% | ~896 |

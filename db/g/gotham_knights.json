@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2984,9 +2984,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72616,
+  "EOS_Progressed": 72617,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15779,6 +15779,11 @@
       "Time": "2023-09-17T16:08:25.2909669+00:00",
       "NumProgressed": 72616,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-17T17:10:31.496708+00:00",
+      "NumProgressed": 72617,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15878,7 +15883,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10892
+      "UsersEstimate": 10893
     },
     {
       "ID": "CHALLENGES_1",
@@ -15894,7 +15899,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15249
+      "UsersEstimate": 15250
     },
     {
       "ID": "CLAYFACE_2",
@@ -15974,7 +15979,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -16022,7 +16027,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15249
+      "UsersEstimate": 15250
     },
     {
       "ID": "FREEZE_2",
@@ -16134,7 +16139,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37760
+      "UsersEstimate": 37761
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16150,7 +16155,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -16166,7 +16171,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20332
+      "UsersEstimate": 20333
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16182,7 +16187,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24689
+      "UsersEstimate": 24690
     },
     {
       "ID": "MYSTERY_02",
@@ -16222,7 +16227,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10892
+      "UsersEstimate": 10893
     },
     {
       "ID": "MYSTERY_07",
@@ -16254,7 +16259,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -16270,20 +16275,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72616,
+      "Progressed": 72617,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42896,
+      "Progressed": 42897,
       "Completed": 2663
     }
   ],
@@ -16291,8 +16296,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-17T11:02:22.3706773+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:08:25.2909664+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:10:31.4967074+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:02:51.0417193+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:08:25.2911004+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:04:04.8960866+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:10:31.4969028+00:00"
 }

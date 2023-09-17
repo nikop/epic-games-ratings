@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -171,9 +171,9 @@
       "ID": "ALPHA01",
       "SetID": "2d85n75",
       "Name": "Hello World",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AN_ACQUIRED_TASTE",
@@ -219,9 +219,9 @@
       "ID": "BETA03",
       "SetID": "2d85n75",
       "Name": "I Think, Therefore I Am",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BLOOD_BEGETS_BLOOD",
@@ -275,9 +275,9 @@
       "ID": "FIRST_DAY",
       "SetID": "2d85n75",
       "Name": "First Day of the Rest of Your Life",
-      "Percentage": 68,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "FORTRAN_COMPLETE",
@@ -331,9 +331,9 @@
       "ID": "MIND_CORE01",
       "SetID": "2d85n75",
       "Name": "The Real Beginning",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
@@ -395,9 +395,9 @@
       "ID": "SHOOK_UP",
       "SetID": "2d85n75",
       "Name": "Shook Up",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SOCIAL_BUTTERFLY",
@@ -451,9 +451,9 @@
       "ID": "THEY_FLOCK_TO_HIM",
       "SetID": "2d85n75",
       "Name": "They Flock to Him",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "THE_ARCHETYPE",
@@ -556,8 +556,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:12:21.4179862+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:15:05.796465+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:29.9468853+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:02:37.1552816+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:12:21.4180277+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:03:50.4257203+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:15:05.7965037+00:00"
 }

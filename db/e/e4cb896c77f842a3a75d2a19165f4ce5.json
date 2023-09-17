@@ -2,9 +2,9 @@
   "ID": "e4cb896c77f842a3a75d2a19165f4ce5",
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.39,
+  "EOS_Completed_Percentage": 3.38,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -1241,6 +1241,11 @@
       "Time": "2023-09-16T14:07:48.5360611+00:00",
       "NumProgressed": 413,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-17T17:15:24.0397233+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 11,
@@ -1252,7 +1257,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "LEVEL_003",
@@ -1260,7 +1265,7 @@
       "Name": "Smith house",
       "Percentage": 85,
       "XP": 45,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "LEVEL_004",
@@ -1268,7 +1273,7 @@
       "Name": "Two-story house",
       "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "LEVEL_006",
@@ -1292,7 +1297,7 @@
       "Name": "Temple",
       "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_019",
@@ -1339,14 +1344,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:13:05.0360871+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:15:24.0397228+00:00",
   "LastUpdate_AppInfo": "2023-09-11T21:57:06.6069937+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:06:52.8726522+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:13:05.0361038+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:08:32.1291137+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:15:24.0397426+00:00"
 }

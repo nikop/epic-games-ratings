@@ -3,8 +3,8 @@
   "Name": "Ironcast",
   "ProductSlug": "ironcast",
   "Ranking_Rating": 958,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
@@ -464,6 +464,6 @@
   "FirstSeen": "2022-07-22T20:23:19.8161901+00:00",
   "LastChanged": "2023-07-03T05:59:57.0827113+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:26.6294651+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:02:24.1841823+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:08:41.7613877+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:03:37.6115073+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:10:54.7060836+00:00"
 }

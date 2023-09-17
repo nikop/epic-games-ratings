@@ -3,8 +3,8 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 149,
@@ -1741,9 +1741,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 320
     },
     {
       "ID": "AC23",
@@ -1837,9 +1837,9 @@
       "ID": "AC34",
       "SetID": "l4abp0",
       "Name": "A Sharp Rendezvous",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "AC35",
@@ -1942,8 +1942,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:10:47.3426627+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:13:50.5920321+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-17T16:06:18.3256626+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:10:47.3427074+00:00"
+  "LastUpdate_Ratings": "2023-09-17T17:07:52.1649904+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:13:50.5920964+00:00"
 }

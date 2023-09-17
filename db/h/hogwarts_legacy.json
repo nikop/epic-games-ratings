@@ -7746,9 +7746,9 @@
       "Count": 655
     }
   ],
-  "EOS_Progressed": 296839,
+  "EOS_Progressed": 296844,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24021,6 +24021,11 @@
       "Time": "2023-09-17T16:09:03.1949492+00:00",
       "NumProgressed": 296839,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-17T17:11:25.5180049+00:00",
+      "NumProgressed": 296844,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24032,7 +24037,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41557
+      "UsersEstimate": 41558
     },
     {
       "ID": "PFA_10",
@@ -24072,7 +24077,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17810
+      "UsersEstimate": 17811
     },
     {
       "ID": "PFA_15",
@@ -24104,7 +24109,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23747
+      "UsersEstimate": 23748
     },
     {
       "ID": "PFA_19",
@@ -24216,7 +24221,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32652
+      "UsersEstimate": 32653
     },
     {
       "ID": "PFA_31",
@@ -24320,7 +24325,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17810
+      "UsersEstimate": 17811
     },
     {
       "ID": "PFA_43",
@@ -24336,7 +24341,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23747
+      "UsersEstimate": 23748
     },
     {
       "ID": "PFA_45",
@@ -24360,7 +24365,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38589
+      "UsersEstimate": 38590
     },
     {
       "ID": "PFA_7",
@@ -24368,7 +24373,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38589
+      "UsersEstimate": 38590
     },
     {
       "ID": "PFA_8",
@@ -24376,7 +24381,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32652
+      "UsersEstimate": 32653
     },
     {
       "ID": "PFA_9",
@@ -24391,7 +24396,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296839,
+      "Progressed": 296844,
       "Completed": 474
     }
   ],
@@ -24399,8 +24404,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-17T11:57:44.8392604+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:09:03.1949488+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:11:25.5180044+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:57:22.2562641+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:09:03.1950835+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:57:46.4421159+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:11:25.5181661+00:00"
 }

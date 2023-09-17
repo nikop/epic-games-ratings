@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3672,
+  "EOS_Progressed": 3686,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3168,
+  "EOS_NewPlayers": 3169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1232,6 +1232,11 @@
       "Time": "2023-09-17T16:12:18.1278514+00:00",
       "NumProgressed": 3672,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T17:15:01.4364759+00:00",
+      "NumProgressed": 3686,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -1244,7 +1249,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2691
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -1252,7 +1257,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2543
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -1260,7 +1265,7 @@
       "Name": "Calm Sailing",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 958
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -1268,7 +1273,7 @@
       "Name": "Open the Gate!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 811
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -1276,7 +1281,7 @@
       "Name": "Clear the Air",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -1292,7 +1297,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -1316,7 +1321,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "COLLECT_FISH",
@@ -1330,25 +1335,25 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 700
     },
     {
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1364
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1622
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -1356,7 +1361,7 @@
       "Name": "Beach Comber",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 332
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -1380,7 +1385,7 @@
       "Name": "Humble Collector",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1290
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -1396,7 +1401,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2101
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -1404,7 +1409,7 @@
       "Name": "Mist Walker",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 700
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -1412,7 +1417,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -1420,7 +1425,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1438
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -1436,7 +1441,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "HAVE_WEDDING",
@@ -1444,15 +1449,15 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "MAKE_FRIENDS_1",
       "SetID": "9eia0f5",
       "Name": "Chatty Neighbor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 74
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -1460,7 +1465,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 661
+      "UsersEstimate": 663
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -1468,7 +1473,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 369
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -1476,7 +1481,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -1516,21 +1521,21 @@
       "Name": "Skilled",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 3672,
+      "Progressed": 3686,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-17T16:12:18.1278509+00:00",
+  "LastChanged_Achievements": "2023-09-17T17:15:01.4364753+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:57:17.8773822+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:57:16.5911852+00:00",
-  "LastUpdate_Achievements": "2023-09-17T16:12:18.1278854+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:57:31.6010358+00:00",
+  "LastUpdate_Achievements": "2023-09-17T17:15:01.4365556+00:00"
 }
