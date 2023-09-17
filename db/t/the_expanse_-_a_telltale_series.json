@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10668,
+  "EOS_Progressed": 10669,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5551,6 +5551,11 @@
       "Time": "2023-09-16T22:10:19.7753672+00:00",
       "NumProgressed": 10668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T00:08:16.0474139+00:00",
+      "NumProgressed": 10669,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5635,7 +5640,7 @@
       "Name": "Bottoms up!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "19",
@@ -5643,7 +5648,7 @@
       "Name": "Martian Music",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "2",
@@ -5802,7 +5807,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10668,
+      "Progressed": 10669,
       "Completed": 0
     }
   ],
@@ -5810,8 +5815,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-15T16:59:50.0077234+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:09:16.9356028+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:08:16.0474134+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:59:40.7161639+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:09:16.9356447+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:59:10.4814742+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:08:16.0474688+00:00"
 }

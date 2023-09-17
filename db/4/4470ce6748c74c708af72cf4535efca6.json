@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -346,9 +346,9 @@
       "ID": "23",
       "SetID": "5e3maia",
       "Name": "Fashion Designer",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "24",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:05:55.6843039+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:05:08.1802588+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:01:56.3824998+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:05:55.6843624+00:00"
+  "LastUpdate_Ratings": "2023-09-17T00:00:57.8258038+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:05:08.1803306+00:00"
 }

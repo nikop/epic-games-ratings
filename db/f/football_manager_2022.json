@@ -7361,9 +7361,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473262,
+  "EOS_Progressed": 473263,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23146,6 +23146,11 @@
       "Time": "2023-09-16T23:05:25.5352518+00:00",
       "NumProgressed": 473262,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-17T00:04:43.7605095+00:00",
+      "NumProgressed": 473263,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -23341,7 +23346,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236631
+      "UsersEstimate": 236632
     },
     {
       "ID": "achievement_club_world_cup",
@@ -23445,7 +23450,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 132513
+      "UsersEstimate": 132514
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -23453,7 +23458,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94652
+      "UsersEstimate": 94653
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -23477,7 +23482,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194037
+      "UsersEstimate": 194038
     },
     {
       "ID": "achievement_head_to_head",
@@ -23501,7 +23506,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 146711
+      "UsersEstimate": 146712
     },
     {
       "ID": "achievement_impervious",
@@ -23597,7 +23602,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94652
+      "UsersEstimate": 94653
     },
     {
       "ID": "achievement_pick_feeder",
@@ -23709,7 +23714,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236631
+      "UsersEstimate": 236632
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -23781,7 +23786,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18930
+      "UsersEstimate": 18931
     },
     {
       "ID": "achievement_won_a_match",
@@ -23789,7 +23794,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236631
+      "UsersEstimate": 236632
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -23845,7 +23850,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56791
+      "UsersEstimate": 56792
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -23853,7 +23858,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 146711
+      "UsersEstimate": 146712
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -23940,15 +23945,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473262,
+      "Progressed": 473263,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-16T12:02:37.1622469+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:05:25.5352514+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:04:43.760509+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:01:59.8769529+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:05:25.5354212+00:00"
+  "LastUpdate_Ratings": "2023-09-17T00:01:01.3847531+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:04:43.760721+00:00"
 }

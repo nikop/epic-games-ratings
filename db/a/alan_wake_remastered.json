@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65510,
+  "EOS_Progressed": 65513,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1689,
+  "EOS_NewPlayers": 1672,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14897,6 +14897,11 @@
       "Time": "2023-09-16T23:03:22.8949013+00:00",
       "NumProgressed": 65510,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-17T00:02:31.2498749+00:00",
+      "NumProgressed": 65513,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14908,7 +14913,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26859
+      "UsersEstimate": 26860
     },
     {
       "ID": "02",
@@ -14932,7 +14937,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "05",
@@ -14940,7 +14945,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14412
+      "UsersEstimate": 14413
     },
     {
       "ID": "06",
@@ -14956,7 +14961,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8516
+      "UsersEstimate": 8517
     },
     {
       "ID": "08",
@@ -14964,7 +14969,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8516
+      "UsersEstimate": 8517
     },
     {
       "ID": "09",
@@ -14972,7 +14977,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9171
+      "UsersEstimate": 9172
     },
     {
       "ID": "10",
@@ -14996,7 +15001,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7861
+      "UsersEstimate": 7862
     },
     {
       "ID": "13",
@@ -15068,7 +15073,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9826
+      "UsersEstimate": 9827
     },
     {
       "ID": "22",
@@ -15076,7 +15081,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9171
+      "UsersEstimate": 9172
     },
     {
       "ID": "23",
@@ -15092,7 +15097,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7861
+      "UsersEstimate": 7862
     },
     {
       "ID": "25",
@@ -15108,7 +15113,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7861
+      "UsersEstimate": 7862
     },
     {
       "ID": "27",
@@ -15116,7 +15121,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8516
+      "UsersEstimate": 8517
     },
     {
       "ID": "28",
@@ -15124,7 +15129,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8516
+      "UsersEstimate": 8517
     },
     {
       "ID": "29",
@@ -15132,7 +15137,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9826
+      "UsersEstimate": 9827
     },
     {
       "ID": "30",
@@ -15156,7 +15161,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20963
+      "UsersEstimate": 20964
     },
     {
       "ID": "33",
@@ -15164,7 +15169,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9826
+      "UsersEstimate": 9827
     },
     {
       "ID": "34",
@@ -15180,7 +15185,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21618
+      "UsersEstimate": 21619
     },
     {
       "ID": "36",
@@ -15250,9 +15255,9 @@
       "ID": "44",
       "SetID": "212770e",
       "Name": "Picking Up After Yourself",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 262
     },
     {
       "ID": "45",
@@ -15268,7 +15273,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9826
+      "UsersEstimate": 9827
     },
     {
       "ID": "47",
@@ -15443,21 +15448,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65510,
+      "Progressed": 65513,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 28978,
+      "Progressed": 28981,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:03:22.8949009+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:02:31.2498744+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:57:36.2186388+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:03:22.8950327+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:57:30.5654951+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:02:31.2500375+00:00"
 }

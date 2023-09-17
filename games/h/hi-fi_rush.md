@@ -8,21 +8,21 @@ Rating: 4.87 (Ranked 25)
 | Feeling the beat! | 14.00% | ~568 |
 | Start with a bang! | 13.00% | ~528 |
 | You can pet the cat! | 12.00% | ~487 |
-| Cream of the Crop | 11.00% | ~446 |
-| Thanks for the free chip, Peppermint! | 11.00% | ~446 |
-| Who put gears in there? | 11.00% | ~446 |
+| Cream of the Crop | 11.00% | ~447 |
+| Thanks for the free chip, Peppermint! | 11.00% | ~447 |
+| Who put gears in there? | 11.00% | ~447 |
 | You got this, Peppermint? | 10.00% | ~406 |
 | Perfect Parry | 10.00% | ~406 |
+| Alright, that felt AWESOME! | 10.00% | ~406 |
 | I play my own way! | 9.00% | ~365 |
 | Uh, they were broken when I got here | 9.00% | ~365 |
-| Alright, that felt AWESOME! | 9.00% | ~365 |
 | This will cost you big time | 8.00% | ~325 |
 | Z-shielding's got nothing on us! | 8.00% | ~325 |
 | Kissing the sky! | 8.00% | ~325 |
+| I look cool. But I can look COOLER. | 8.00% | ~325 |
 | The Negotiator | 7.00% | ~284 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~284 |
 | Out in a puff of smoke | 7.00% | ~284 |
-| I look cool. But I can look COOLER. | 7.00% | ~284 |
 | Headliner | 6.00% | ~244 |
 | Time to pay up! | 6.00% | ~244 |
 | Who's the boss now? | 6.00% | ~244 |
@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 25)
 | NOW we got a kickass hideout! | 6.00% | ~155 |
 | I have to read these things? | 5.00% | ~203 |
 | Well that was a rush! | 4.00% | ~162 |
+| Beat-hit mania | 4.00% | ~162 |
 | That's a lot of junk metal… | 4.00% | ~162 |
 | There's such a thing as TOO helpful | 4.00% | ~162 |
-| Beat-hit mania | 3.00% | ~122 |
 | Chip-tuned | 2.00% | ~81 |
 | Wanna hear my playlist? | 2.00% | ~81 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~81 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,059 (Ranked 158)  
+Progressed: 4,060 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,6 +224,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-14 | 4,038 | 7 |
 | 2023-09-15 | 4,051 | 7 |
 | 2023-09-16 | 4,059 | 7 |
+| 2023-09-17 | 4,060 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

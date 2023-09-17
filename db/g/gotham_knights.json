@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2966,9 +2966,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72594,
+  "EOS_Progressed": 72595,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15696,6 +15696,11 @@
       "Time": "2023-09-16T23:03:43.0699187+00:00",
       "NumProgressed": 72594,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-17T00:03:17.5645163+00:00",
+      "NumProgressed": 72595,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15707,7 +15712,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -15771,7 +15776,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -15891,7 +15896,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6534
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -15923,7 +15928,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7259
+      "UsersEstimate": 7260
     },
     {
       "ID": "FREEZE_1",
@@ -15931,7 +15936,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21052
+      "UsersEstimate": 21053
     },
     {
       "ID": "FREEZE_1_5",
@@ -16019,7 +16024,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18148
+      "UsersEstimate": 18149
     },
     {
       "ID": "HARLEY_3",
@@ -16083,7 +16088,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20326
+      "UsersEstimate": 20327
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16107,7 +16112,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18148
+      "UsersEstimate": 18149
     },
     {
       "ID": "MYSTERY_03",
@@ -16171,7 +16176,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6534
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -16194,13 +16199,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72594,
+      "Progressed": 72595,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42874,
+      "Progressed": 42875,
       "Completed": 2663
     }
   ],
@@ -16208,8 +16213,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-16T21:01:14.4065309+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:03:43.0699179+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:03:17.5645158+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:00:21.9655871+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:03:43.0700238+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:59:48.4499317+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:03:17.5646479+00:00"
 }

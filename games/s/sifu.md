@@ -13,6 +13,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.20% | ~1,430 |
 | Life is your teacher | 0.20% | ~1,430 |
 | State of constant learning | 0.20% | ~1,430 |
+| Qi Gong: Essence | 0.20% | ~1,430 |
 | Lightning Hands | 0.20% | ~1,430 |
 | Diligence as a goal | 0.20% | ~49 |
 | Martial Hub | 0.20% | ~49 |
@@ -36,7 +37,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.10% | ~715 |
 | Qi Gong: Mind | 0.10% | ~715 |
 | Qi Gong: Breath | 0.10% | ~715 |
-| Qi Gong: Essence | 0.10% | ~715 |
 | The 36th Chamber of Kung-Fu | 0.10% | ~715 |
 | Master of the Phoenix Eye Fist | 0.10% | ~715 |
 | I know Kung-Fu | 0.10% | ~715 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,054 (Ranked 20)  
+Progressed: 715,056 (Ranked 20)  
 Completed: 12,895 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 12,895 (1.80%) (Ranked 102)
 | 2023-09-14 | 714,971 | 12,892 |
 | 2023-09-15 | 715,005 | 12,893 |
 | 2023-09-16 | 715,054 | 12,895 |
+| 2023-09-17 | 715,056 | 12,895 |
 ## Awards
 Max (Great Boss Battles): 6,512  (Ranked 53)  
 Sum: 11,252 (Ranked 81)  

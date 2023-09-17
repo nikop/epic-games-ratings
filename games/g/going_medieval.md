@@ -31,7 +31,7 @@ Number of Ratings: 706  (23.09.2022)
 | A Party Now | 21.00% | ~1,220 |
 | Oh Deer! | 21.00% | ~1,220 |
 | All Year Round | 20.00% | ~1,162 |
-| Nothing Wasted | 12.00% | ~697 |
+| Nothing Wasted | 13.00% | ~755 |
 | Don't Cry Wolf | 12.00% | ~697 |
 | Deerly Departed | 8.00% | ~465 |
 | Where Wolf? | 5.00% | ~290 |

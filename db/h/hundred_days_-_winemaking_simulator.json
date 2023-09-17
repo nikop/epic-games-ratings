@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3500,
+  "EOS_Progressed": 3504,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1315,
+  "EOS_NewPlayers": 1316,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3090,6 +3090,11 @@
       "Time": "2023-09-16T23:06:53.3384625+00:00",
       "NumProgressed": 3500,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T00:06:14.3604795+00:00",
+      "NumProgressed": 3504,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3150,7 +3155,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "a_19",
@@ -3254,7 +3259,7 @@
       "Name": "King of white wines",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "a_32",
@@ -3262,7 +3267,7 @@
       "Name": "Sales Expert",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "a_33",
@@ -3310,7 +3315,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "a_6",
@@ -3349,7 +3354,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3500,
+      "Progressed": 3504,
       "Completed": 5
     }
   ],
@@ -3357,8 +3362,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:06:53.3384622+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:06:14.3604789+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:57:48.6379488+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:06:53.3384901+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:57:41.8891641+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:06:14.3605159+00:00"
 }

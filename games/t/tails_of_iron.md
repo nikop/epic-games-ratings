@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 81.00% | ~1,538 |
-| Become King | 73.00% | ~1,386 |
-| Defeat 25 Frogs | 63.00% | ~1,196 |
-| Ranged Weapon | 62.00% | ~1,177 |
-| Collect Monster Parts | 59.00% | ~1,120 |
-| Two Handed Weapon | 57.00% | ~1,082 |
-| Defeat 25 Grubs | 53.00% | ~1,006 |
-| Rescue Redgi's Brothers | 53.00% | ~1,006 |
+| Complete Guard Faction | 81.00% | ~1,539 |
+| Become King | 73.00% | ~1,387 |
+| Defeat 25 Frogs | 63.00% | ~1,197 |
+| Ranged Weapon | 62.00% | ~1,178 |
+| Collect Monster Parts | 59.00% | ~1,121 |
+| Two Handed Weapon | 57.00% | ~1,083 |
+| Defeat 25 Grubs | 53.00% | ~1,007 |
+| Rescue Redgi's Brothers | 53.00% | ~1,007 |
 | Collect Iron Ore | 48.00% | ~912 |
 | Kitchen Ready To Cook | 48.00% | ~912 |
 | Defeat 25 Mozis | 47.00% | ~893 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 505)
 | King of Kings | 8.00% | ~152 |
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,899 (Ranked 187)  
+Progressed: 1,900 (Ranked 187)  
 Completed: 8 (0.42%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 8 (0.42%) (Ranked 163)
 | 2023-09-14 | 1,891 | 8 |
 | 2023-09-15 | 1,896 | 8 |
 | 2023-09-16 | 1,899 | 8 |
+| 2023-09-17 | 1,900 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

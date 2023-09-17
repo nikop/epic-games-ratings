@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 505)
 | Jumbo Keyring | 0.60% | ~4,087 |
 | Go, Bobcats! | 0.60% | ~4,087 |
 | Rising Star | 0.60% | ~4,087 |
-| Smorgasbord | 0.50% | ~3,405 |
+| Smorgasbord | 0.50% | ~3,406 |
 | On Safari | 0.40% | ~2,724 |
 | Not Even My Final Form | 0.40% | ~2,724 |
 | Internet Famous | 0.40% | ~2,724 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~681 |
 | Bucket List | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,084 (Ranked 22)  
+Progressed: 681,112 (Ranked 22)  
 Completed: 2,146 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,6 +201,7 @@ Completed: 2,146 (0.32%) (Ranked 177)
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
+| 2023-09-17 | 681,112 | 2,146 |
 ## Awards
 Max (Great Boss Battles): 6,073  (Ranked 57)  
 Sum: 9,005 (Ranked 94)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1164,9 +1164,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17947,
+  "EOS_Progressed": 17948,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 801,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17304,6 +17304,11 @@
       "Time": "2023-09-16T23:08:05.0524491+00:00",
       "NumProgressed": 17947,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-09-17T00:07:16.1519836+00:00",
+      "NumProgressed": 17948,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 45,
@@ -17403,7 +17408,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "ICallItLuck",
@@ -17411,7 +17416,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 7717
+      "UsersEstimate": 7718
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -17539,7 +17544,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 9691
+      "UsersEstimate": 9692
     },
     {
       "ID": "RunningWild",
@@ -17611,7 +17616,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -17674,21 +17679,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 17947,
+      "Progressed": 17948,
       "Completed": 43
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 17947,
+      "Progressed": 17948,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-16T18:58:22.3305574+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:08:05.0524487+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:07:16.1519832+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:15.9392073+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:58:16.3675865+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:08:05.0525527+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:58:00.8173822+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:07:16.1521193+00:00"
 }

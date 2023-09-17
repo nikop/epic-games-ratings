@@ -2148,9 +2148,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25847,
+  "EOS_Progressed": 25848,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12983,6 +12983,11 @@
       "Time": "2023-09-16T23:04:45.4985204+00:00",
       "NumProgressed": 25847,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-17T00:04:20.1696686+00:00",
+      "NumProgressed": 25848,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13032,9 +13037,9 @@
       "ID": "Clutch_Capture",
       "SetID": "819popo",
       "Name": "Clutch Capture",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Collect_Spores",
@@ -13320,9 +13325,9 @@
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Teamwork",
@@ -13401,7 +13406,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25847,
+      "Progressed": 25848,
       "Completed": 56
     }
   ],
@@ -13409,8 +13414,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-16T17:58:58.8319284+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:04:45.49852+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:04:20.1696681+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:59:33.7545159+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:04:45.4986072+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:59:06.9506877+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:04:20.1697779+00:00"
 }

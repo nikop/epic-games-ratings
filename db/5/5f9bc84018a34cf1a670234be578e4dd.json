@@ -1002,9 +1002,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "FallDeath",
@@ -1050,17 +1050,17 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Hologram",
@@ -1105,8 +1105,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:07:47.8570799+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:06:49.2845087+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:01:47.4148921+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:07:47.8570942+00:00"
+  "LastUpdate_Ratings": "2023-09-17T00:00:53.0169082+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:06:49.2845249+00:00"
 }

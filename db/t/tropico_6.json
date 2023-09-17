@@ -5,10 +5,10 @@
   "Ranking_Rating": 280,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 281,
-  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1110,9 +1110,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5153,
+  "EOS_Progressed": 5154,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9705,6 +9705,11 @@
       "Time": "2023-09-16T23:04:48.3411667+00:00",
       "NumProgressed": 5153,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-17T00:04:22.3065409+00:00",
+      "NumProgressed": 5154,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9772,7 +9777,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -9788,7 +9793,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -9876,7 +9881,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10035,15 +10040,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5153,
+      "Progressed": 5154,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-14T16:01:20.4133159+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:04:48.3411664+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:04:22.3065403+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.3896086+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:01:52.336607+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:04:48.3412312+00:00"
+  "LastUpdate_Ratings": "2023-09-17T00:00:55.9207497+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:04:22.3066238+00:00"
 }

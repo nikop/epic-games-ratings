@@ -8,10 +8,10 @@ Rating: 4.18 (Ranked 882)
 | First Step Into the Knight | 52.00% | ~37,749 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,408 |
 | Loose Ends | 34.00% | ~24,682 |
-| To the Victor Go the Spoils | 29.00% | ~21,052 |
-| Knighthood | 28.00% | ~20,326 |
-| Get ReQ'd | 25.00% | ~18,148 |
-| Whispered Words | 25.00% | ~18,148 |
+| To the Victor Go the Spoils | 29.00% | ~21,053 |
+| Knighthood | 28.00% | ~20,327 |
+| Get ReQ'd | 25.00% | ~18,149 |
+| Whispered Words | 25.00% | ~18,149 |
 | The Batman Family | 23.00% | ~16,697 |
 | Lock and Key | 22.00% | ~15,971 |
 | Something in the Clay | 21.00% | ~15,245 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 882)
 | Bulldozed | 12.00% | ~8,711 |
 | Gotham Knight | 12.00% | ~8,711 |
 | Gotham City Confidential | 11.00% | ~7,985 |
-| Drone You Out | 10.00% | ~7,259 |
-| Out of Their League | 9.00% | ~6,533 |
-| Solid Alibi | 9.00% | ~6,533 |
+| Drone You Out | 10.00% | ~7,260 |
+| Out of Their League | 9.00% | ~6,534 |
+| Solid Alibi | 9.00% | ~6,534 |
 | Fusion Expert | 7.00% | ~5,082 |
 | Family Meeting | 6.00% | ~4,356 |
 | A Worthy Successor | 6.00% | ~4,356 |
@@ -59,15 +59,15 @@ Rating: 4.18 (Ranked 882)
 | Gotham's Greatest Depths | 0.50% | ~214 |
 | That's Showbiz, Clayby | 0.50% | ~214 |
 | Confronting Your Demon | 0.50% | ~214 |
-| Hammer and Icicle | 0.40% | ~171 |
-| Showdown Sovereign | 0.40% | ~171 |
+| Hammer and Icicle | 0.40% | ~172 |
+| Showdown Sovereign | 0.40% | ~172 |
 | Renewable Enemy Source | 0.30% | ~129 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~129 |
 | The Cold, the Bad and the Ugly | 0.30% | ~129 |
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,594 (Ranked 83)  
+Progressed: 72,595 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 113 (0.16%) (Ranked 204)
 | 2023-09-14 | 72,534 | 113 |
 | 2023-09-15 | 72,563 | 113 |
 | 2023-09-16 | 72,594 | 113 |
+| 2023-09-17 | 72,595 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,698  (Ranked 96)  
 Sum: 4,468 (Ranked 139)  

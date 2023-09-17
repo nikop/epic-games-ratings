@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,507 |
+| First Step | 72.00% | ~6,508 |
 | Leader | 60.00% | ~5,423 |
-| Explorer | 53.00% | ~4,790 |
+| Explorer | 53.00% | ~4,791 |
 | Healer | 52.00% | ~4,700 |
 | Aspiring Inventor | 44.00% | ~3,977 |
 | Adventurer | 41.00% | ~3,706 |
-| Famous Healer | 38.00% | ~3,434 |
-| Local Leader | 35.00% | ~3,163 |
+| Famous Healer | 38.00% | ~3,435 |
+| Local Leader | 35.00% | ~3,164 |
 | Famous Explorer | 34.00% | ~3,073 |
 | New Opportunities | 34.00% | ~3,073 |
 | Energized | 33.00% | ~2,983 |
@@ -27,13 +27,13 @@ Number of Ratings: 836  (23.09.2022)
 | Top Notch | 25.00% | ~2,260 |
 | Great Leader | 23.00% | ~2,079 |
 | Mentor | 23.00% | ~2,079 |
-| Merchant | 22.00% | ~1,988 |
-| Ice Lakes | 22.00% | ~1,988 |
-| Real Survivor | 22.00% | ~1,988 |
+| Merchant | 22.00% | ~1,989 |
+| Ice Lakes | 22.00% | ~1,989 |
+| Real Survivor | 22.00% | ~1,989 |
 | Rocket Surgeon | 20.00% | ~1,808 |
 | War Never Changes | 19.00% | ~1,717 |
-| Big Game Hunter | 17.00% | ~1,536 |
-| Spreading Influence | 17.00% | ~1,536 |
+| Big Game Hunter | 17.00% | ~1,537 |
+| Spreading Influence | 17.00% | ~1,537 |
 | Friendly | 16.00% | ~1,446 |
 | Around the World | 16.00% | ~1,446 |
 | Bookworm | 15.00% | ~1,356 |
@@ -42,7 +42,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 13.00% | ~1,175 |
 | It's a Finnish Thing | 10.00% | ~904 |
 | Sky Burial | 10.00% | ~904 |
-| Trader | 9.00% | ~813 |
+| Trader | 9.00% | ~814 |
 | Bread and Circuses | 8.00% | ~723 |
 | New Eden | 7.00% | ~633 |
 | Tailored to fit | 7.00% | ~633 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,038 (Ranked 135)  
+Progressed: 9,039 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-14 | 8,993 | 0 |
 | 2023-09-15 | 9,013 | 0 |
 | 2023-09-16 | 9,038 | 0 |
+| 2023-09-17 | 9,039 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 335)  
 Sum: 701 (Ranked 279)  

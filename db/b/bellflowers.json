@@ -3,8 +3,8 @@
   "Name": "Bellflowers",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 371,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:31.2725435+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:01:42.4882563+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:04:48.001064+00:00"
+  "LastUpdate_Ratings": "2023-09-17T00:00:50.0073485+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:04:22.1813895+00:00"
 }

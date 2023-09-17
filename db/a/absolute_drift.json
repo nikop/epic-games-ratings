@@ -448,7 +448,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1540642,
+  "EOS_Progressed": 1540646,
   "EOS_Completed": 688,
   "EOS_NewPlayers": 1092,
   "EOS_NewCompleters": 7,
@@ -17203,6 +17203,11 @@
       "Time": "2023-09-16T23:05:16.9777685+00:00",
       "NumProgressed": 1540642,
       "NumCompleted": 688
+    },
+    {
+      "Time": "2023-09-17T00:04:36.9137986+00:00",
+      "NumProgressed": 1540646,
+      "NumCompleted": 688
     }
   ],
   "TotalAchievements": 20,
@@ -17254,7 +17259,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10784
+      "UsersEstimate": 10785
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -17278,7 +17283,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10784
+      "UsersEstimate": 10785
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -17310,7 +17315,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154064
+      "UsersEstimate": 154065
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -17373,15 +17378,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1540642,
+      "Progressed": 1540646,
       "Completed": 688
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-06T23:02:05.1723132+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:05:16.9777681+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:04:36.9137981+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.5170065+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:00:46.842324+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:05:16.9778587+00:00"
+  "LastUpdate_Ratings": "2023-09-17T00:00:05.1394604+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:04:36.9139095+00:00"
 }

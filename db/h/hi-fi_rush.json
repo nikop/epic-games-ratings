@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4059,
+  "EOS_Progressed": 4060,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6564,6 +6564,11 @@
       "Time": "2023-09-16T22:09:25.3774115+00:00",
       "NumProgressed": 4059,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-17T00:07:29.2915194+00:00",
+      "NumProgressed": 4060,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6583,7 +6588,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Ach003",
@@ -6687,7 +6692,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Ach016",
@@ -6757,9 +6762,9 @@
       "ID": "Ach024",
       "SetID": "12n4k20",
       "Name": "Beat-hit mania",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 162
     },
     {
       "ID": "Ach025",
@@ -6901,9 +6906,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 325
     },
     {
       "ID": "Ach043",
@@ -6943,15 +6948,15 @@
       "Name": "Who put gears in there?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 406
     },
     {
       "ID": "Ach049",
@@ -7142,13 +7147,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4059,
+      "Progressed": 4060,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2580,
+      "Progressed": 2581,
       "Completed": 1929
     }
   ],
@@ -7156,8 +7161,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-16T23:08:21.0592378+00:00",
+  "LastChanged_Achievements": "2023-09-17T00:07:29.2915189+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:58:05.7436726+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:08:21.0593256+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:57:55.6901118+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:07:29.2916751+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 88,
   "Ranking_Popularity": 152,
-  "Ranking_PopularitySum": 128,
+  "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 371,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -5086,10 +5086,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 5425,
       "NumberOfAwardsMax": 931
+    },
+    {
+      "Time": "2023-09-16T23:57:15.6648745+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 5437,
+      "NumberOfAwardsMax": 931
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5425,
+  "NumberOfAwards": 5437,
   "NumberOfAwardsMax": 931,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -5097,7 +5103,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 786
+      "Count": 798
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5154,8 +5160,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-09-16T21:57:18.6039072+00:00",
+  "LastChanged": "2023-09-16T23:57:15.6648743+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:13.4350094+00:00",
-  "LastUpdate_Ratings": "2023-09-16T22:57:14.4327589+00:00",
-  "LastUpdate_Achievements": "2023-09-16T23:08:09.6615956+00:00"
+  "LastUpdate_Ratings": "2023-09-16T23:57:15.6648753+00:00",
+  "LastUpdate_Achievements": "2023-09-17T00:07:19.8335972+00:00"
 }
