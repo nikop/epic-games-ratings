@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7361,9 +7361,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473266,
+  "EOS_Progressed": 473267,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23156,6 +23156,11 @@
       "Time": "2023-09-17T01:49:33.1245733+00:00",
       "NumProgressed": 473266,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-17T02:22:30.4871991+00:00",
+      "NumProgressed": 473267,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -23191,7 +23196,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175108
+      "UsersEstimate": 175109
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -23319,7 +23324,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175108
+      "UsersEstimate": 175109
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -23351,7 +23356,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236633
+      "UsersEstimate": 236634
     },
     {
       "ID": "achievement_club_world_cup",
@@ -23455,7 +23460,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 132514
+      "UsersEstimate": 132515
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -23511,7 +23516,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 146712
+      "UsersEstimate": 146713
     },
     {
       "ID": "achievement_impervious",
@@ -23719,7 +23724,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236633
+      "UsersEstimate": 236634
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -23751,7 +23756,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 118316
+      "UsersEstimate": 118317
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -23799,7 +23804,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236633
+      "UsersEstimate": 236634
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -23863,7 +23868,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 146712
+      "UsersEstimate": 146713
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -23950,15 +23955,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473266,
+      "Progressed": 473267,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-16T12:02:37.1622469+00:00",
-  "LastChanged_Achievements": "2023-09-17T01:49:33.1245727+00:00",
+  "LastChanged_Achievements": "2023-09-17T02:22:30.4871986+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-17T01:46:11.9179081+00:00",
-  "LastUpdate_Achievements": "2023-09-17T01:49:33.1247388+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:18:55.2168747+00:00",
+  "LastUpdate_Achievements": "2023-09-17T02:22:30.4873603+00:00"
 }

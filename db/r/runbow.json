@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249367,
+  "EOS_Progressed": 249369,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14239,6 +14239,11 @@
       "Time": "2023-09-17T01:51:23.0106826+00:00",
       "NumProgressed": 249367,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T02:24:24.2275588+00:00",
+      "NumProgressed": 249369,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14306,7 +14311,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42392
+      "UsersEstimate": 42393
     },
     {
       "ID": "cantBeKeptDown",
@@ -14354,7 +14359,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49873
+      "UsersEstimate": 49874
     },
     {
       "ID": "didYourTime",
@@ -14426,7 +14431,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132165
+      "UsersEstimate": 132166
     },
     {
       "ID": "indegestible",
@@ -14450,7 +14455,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64835
+      "UsersEstimate": 64836
     },
     {
       "ID": "justABit",
@@ -14466,7 +14471,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19949
+      "UsersEstimate": 19950
     },
     {
       "ID": "lockupLockdown",
@@ -14482,7 +14487,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34911
+      "UsersEstimate": 34912
     },
     {
       "ID": "myFirstRunbow",
@@ -14617,7 +14622,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249367,
+      "Progressed": 249369,
       "Completed": 5
     }
   ],
@@ -14625,8 +14630,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-17T01:51:23.0106822+00:00",
+  "LastChanged_Achievements": "2023-09-17T02:24:24.2275583+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.9787856+00:00",
-  "LastUpdate_Ratings": "2023-09-17T01:44:10.4279404+00:00",
-  "LastUpdate_Achievements": "2023-09-17T01:51:23.0107765+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:16:56.2292111+00:00",
+  "LastUpdate_Achievements": "2023-09-17T02:24:24.2276579+00:00"
 }

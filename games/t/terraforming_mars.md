@@ -6,30 +6,30 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~28,110 |
-| Final touch | 37.00% | ~28,110 |
+| It's a steal! | 37.00% | ~28,111 |
+| Final touch | 37.00% | ~28,111 |
 | Prop-M Rover | 32.00% | ~24,312 |
 | Changing the Planet | 28.00% | ~21,273 |
-| Sojourner | 26.00% | ~19,753 |
+| Sojourner | 26.00% | ~19,754 |
 | Beagle 2 | 24.00% | ~18,234 |
 | New Home | 23.00% | ~17,474 |
-| Winner Winner Terraformer | 22.00% | ~16,714 |
+| Winner Winner Terraformer | 22.00% | ~16,715 |
 | Project Manager | 19.00% | ~14,435 |
 | Curiosity | 19.00% | ~14,435 |
 | Collector | 19.00% | ~14,435 |
 | Master | 19.00% | ~14,435 |
-| No Longer Red | 18.00% | ~13,675 |
-| Self-sufficient | 18.00% | ~13,675 |
+| No Longer Red | 18.00% | ~13,676 |
+| Self-sufficient | 18.00% | ~13,676 |
 | Money money | 15.00% | ~11,396 |
-| Biggest Reward | 14.00% | ~10,636 |
+| Biggest Reward | 14.00% | ~10,637 |
 | Acquired knowledge | 13.00% | ~9,877 |
 | First Journey | 12.00% | ~9,117 |
 | Hellenic Elysium | 12.00% | ~9,117 |
 | Grand champion | 12.00% | ~9,117 |
 | Landlord | 11.00% | ~8,357 |
 | Most Achievements | 11.00% | ~8,357 |
-| Spirit | 10.00% | ~7,597 |
-| Ultimate success | 10.00% | ~7,597 |
+| Spirit | 10.00% | ~7,598 |
+| Ultimate success | 10.00% | ~7,598 |
 | Variety Expert | 9.00% | ~6,838 |
 | Frequent tester | 8.00% | ~6,078 |
 | Determined | 8.00% | ~6,078 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,279 |
 | Opportunity | 3.00% | ~2,279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,974 (Ranked 80)  
+Progressed: 75,976 (Ranked 80)  
 Completed: 124 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 124 (0.16%) (Ranked 204)
 | 2023-09-14 | 75,712 | 111 |
 | 2023-09-15 | 75,826 | 118 |
 | 2023-09-16 | 75,960 | 123 |
-| 2023-09-17 | 75,974 | 124 |
+| 2023-09-17 | 75,976 | 124 |
 ## Awards
 Max (Relaxing): 513  (Ranked 199)  
 Sum: 3,163 (Ranked 163)  

@@ -9,38 +9,38 @@ Number of Ratings: 1,225  (23.09.2022)
 | First Blood | 81.00% | ~393,794 |
 | Happy Returns | 78.00% | ~379,209 |
 | Hey! That's mine! | 78.00% | ~379,209 |
-| Field Promotion | 74.00% | ~359,762 |
-| Leadhead | 71.00% | ~345,177 |
+| Field Promotion | 74.00% | ~359,763 |
+| Leadhead | 71.00% | ~345,178 |
 | Eradicator | 67.00% | ~325,731 |
-| Surplus | 65.00% | ~316,007 |
+| Surplus | 65.00% | ~316,008 |
 | I Spy | 64.00% | ~311,146 |
-| Burn Baby Burn | 59.00% | ~286,837 |
+| Burn Baby Burn | 59.00% | ~286,838 |
 | Yellow Beats Green | 55.00% | ~267,391 |
-| Salvage Rights | 53.00% | ~257,667 |
-| Close Call | 50.00% | ~243,082 |
-| Pew Pew | 50.00% | ~243,082 |
-| What IS that? | 50.00% | ~243,082 |
+| Salvage Rights | 53.00% | ~257,668 |
+| Close Call | 50.00% | ~243,083 |
+| Pew Pew | 50.00% | ~243,083 |
+| What IS that? | 50.00% | ~243,083 |
 | Penny Pincher | 49.00% | ~238,221 |
 | Arsenal | 46.00% | ~223,636 |
-| Boot Camp | 45.00% | ~218,774 |
-| Flawless Victory | 42.00% | ~204,189 |
+| Boot Camp | 45.00% | ~218,775 |
+| Flawless Victory | 42.00% | ~204,190 |
 | Confident | 41.00% | ~199,328 |
-| Exterminator | 36.00% | ~175,019 |
+| Exterminator | 36.00% | ~175,020 |
 | Sharpshooter | 34.00% | ~165,296 |
-| Not So Fast | 33.00% | ~160,434 |
+| Not So Fast | 33.00% | ~160,435 |
 | Great Ball of Fire | 32.00% | ~155,573 |
 | No Sale | 31.00% | ~150,711 |
 | Kaboom! | 30.00% | ~145,850 |
 | Liquidator | 29.00% | ~140,988 |
 | High Voltage | 24.00% | ~116,680 |
-| Filthy Rich | 19.00% | ~92,371 |
+| Filthy Rich | 19.00% | ~92,372 |
 | The Not-So-Friendly Skies | 18.00% | ~87,510 |
 | Power Builder | 17.00% | ~82,648 |
 | Pyrrhic Victory | 17.00% | ~82,648 |
-| Death From Above | 16.00% | ~77,786 |
-| Retry | 16.00% | ~77,786 |
+| Death From Above | 16.00% | ~77,787 |
+| Retry | 16.00% | ~77,787 |
 | Head Trauma | 12.00% | ~58,340 |
-| Full Defense | 10.00% | ~48,616 |
+| Full Defense | 10.00% | ~48,617 |
 | Overseer | 9.00% | ~43,755 |
 | Annihilator | 8.00% | ~38,893 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,893 |
@@ -64,7 +64,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Few and Proud | 0.80% | ~3,889 |
 | Shell-shocked | 0.70% | ~3,403 |
 | Alien Tears | 0.50% | ~2,431 |
-| Full House | 0.40% | ~1,945 |
+| Full House | 0.50% | ~2,431 |
 | Kickstarter | 0.30% | ~1,458 |
 | The Container | 0.30% | ~1,458 |
 | Foresight is 20/20 | 0.20% | ~972 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~486 |
 | You Monster | 0.10% | ~486 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,165 (Ranked 35)  
+Progressed: 486,166 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 4 (0.00%) (Ranked 275)
 | 2023-09-14 | 486,024 | 4 |
 | 2023-09-15 | 486,075 | 4 |
 | 2023-09-16 | 486,158 | 4 |
-| 2023-09-17 | 486,165 | 4 |
+| 2023-09-17 | 486,166 | 4 |
 ## Awards
 Max (Great for Beginners): 247  (Ranked 258)  
 Sum: 1,686 (Ranked 213)  

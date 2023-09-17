@@ -26,11 +26,11 @@
 | Quartermaster | 4.00% | ~6 |
 | Strategist | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
+| Deputized | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
 | Supercargo | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
-| Deputized | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |
 | Been There | 3.00% | ~4 |

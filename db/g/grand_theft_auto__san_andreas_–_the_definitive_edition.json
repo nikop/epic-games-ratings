@@ -916,9 +916,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12376,
+  "EOS_Progressed": 12378,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10511,6 +10511,11 @@
       "Time": "2023-09-17T01:50:05.377349+00:00",
       "NumProgressed": 12376,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-17T02:23:03.5628675+00:00",
+      "NumProgressed": 12378,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10522,7 +10527,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10025
+      "UsersEstimate": 10026
     },
     {
       "ID": "ACH02",
@@ -10570,7 +10575,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "ACH08",
@@ -10578,7 +10583,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6312
+      "UsersEstimate": 6313
     },
     {
       "ID": "ACH09",
@@ -10618,7 +10623,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "ACH14",
@@ -10626,7 +10631,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACH15",
@@ -10690,7 +10695,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "ACH23",
@@ -10746,7 +10751,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "ACH30",
@@ -10801,7 +10806,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12376,
+      "Progressed": 12378,
       "Completed": 45
     }
   ],
@@ -10809,8 +10814,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-16T23:59:37.4046765+00:00",
-  "LastChanged_Achievements": "2023-09-17T01:50:05.3773485+00:00",
+  "LastChanged_Achievements": "2023-09-17T02:23:03.5628671+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-17T01:44:19.604293+00:00",
-  "LastUpdate_Achievements": "2023-09-17T01:50:05.3774141+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:17:07.7163709+00:00",
+  "LastUpdate_Achievements": "2023-09-17T02:23:03.5629321+00:00"
 }

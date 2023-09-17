@@ -435,9 +435,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-17T01:49:04.8871452+00:00",
+  "LastChanged_Achievements": "2023-09-17T02:22:01.7599748+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-17T01:43:42.617297+00:00",
-  "LastUpdate_Achievements": "2023-09-17T01:49:04.8871614+00:00"
+  "LastUpdate_Ratings": "2023-09-17T02:16:24.2455336+00:00",
+  "LastUpdate_Achievements": "2023-09-17T02:22:01.7599924+00:00"
 }

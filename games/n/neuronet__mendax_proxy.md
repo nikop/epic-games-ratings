@@ -25,19 +25,19 @@
 | The Counsellor | 38.00% | ~9 |
 | A Real Headache | 33.00% | ~8 |
 | A Total Riot | 33.00% | ~8 |
+| Knock Knock | 33.00% | ~8 |
 | That One Doesn't Count | 33.00% | ~8 |
 | They Flock to Him | 33.00% | ~8 |
 | Blood Begets Blood | 29.00% | ~7 |
 | Everyone Needs a Break | 29.00% | ~7 |
-| Knock Knock | 29.00% | ~7 |
 | Full Coverage | 25.00% | ~6 |
 | Job Creator | 21.00% | ~5 |
+| Obligatory Fraudulent Baking | 21.00% | ~5 |
 | Quidnunc | 21.00% | ~5 |
 | Social Butterfly | 21.00% | ~5 |
 | Zonk! | 21.00% | ~5 |
 | A Little Eccentric | 17.00% | ~4 |
 | Leave It to the Professionals | 17.00% | ~4 |
-| Obligatory Fraudulent Baking | 17.00% | ~4 |
 | Ring of Fire | 17.00% | ~4 |
 | The Provocateur | 17.00% | ~4 |
 | Tastes Like Regret | 17.00% | ~4 |

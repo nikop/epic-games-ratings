@@ -5,6 +5,7 @@ Rating: 4.50 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meticulously Efficient | 0.30% | ~78 |
 | Stylish | 0.30% | ~78 |
 | Advancement | 0.20% | ~52 |
 | Animated | 0.20% | ~52 |
@@ -12,7 +13,6 @@ Rating: 4.50 (Ranked 565)
 | Clutch Capture | 0.20% | ~52 |
 | I collect Spores, Molds, and Fungi | 0.20% | ~52 |
 | Discovery | 0.20% | ~52 |
-| Meticulously Efficient | 0.20% | ~52 |
 | Fully Upgraded | 0.20% | ~52 |
 | Solo Capture | 0.20% | ~52 |
 | Summoner | 0.20% | ~52 |
@@ -20,6 +20,7 @@ Rating: 4.50 (Ranked 565)
 | Teamwork | 0.20% | ~52 |
 | There you are! | 0.20% | ~52 |
 | Vaporous Expansion | 0.20% | ~52 |
+| Welcome to the Crew | 0.20% | ~52 |
 | Whoopsie | 0.20% | ~52 |
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
@@ -54,7 +55,6 @@ Rating: 4.50 (Ranked 565)
 | Therapeutic | 0.10% | ~26 |
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
-| Welcome to the Crew | 0.10% | ~26 |
 | Mycophile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25,851 (Ranked 106)  

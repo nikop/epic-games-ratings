@@ -6,19 +6,19 @@ Rating: 4.62 (Ranked 349)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 93.00% | ~4,790 |
-| All thumbs | 92.00% | ~4,738 |
-| I will survive! | 92.00% | ~4,738 |
-| Home, sweet home | 91.00% | ~4,686 |
+| All thumbs | 92.00% | ~4,739 |
+| I will survive! | 92.00% | ~4,739 |
+| Home, sweet home | 91.00% | ~4,687 |
 | Survivalist | 89.00% | ~4,584 |
-| One way ticket | 84.00% | ~4,326 |
-| Last man standing | 80.00% | ~4,120 |
+| One way ticket | 84.00% | ~4,327 |
+| Last man standing | 80.00% | ~4,121 |
 | Family guy | 77.00% | ~3,966 |
-| Out of the Bag | 75.00% | ~3,862 |
-| The Dark Side | 70.00% | ~3,605 |
+| Out of the Bag | 75.00% | ~3,863 |
+| The Dark Side | 70.00% | ~3,606 |
 | Duck and cover! | 65.00% | ~3,348 |
-| Souper! | 64.00% | ~3,296 |
-| Pacifist | 59.00% | ~3,038 |
-| 2-1-6 | 58.00% | ~2,987 |
+| Souper! | 64.00% | ~3,297 |
+| Pacifist | 59.00% | ~3,039 |
+| 2-1-6 | 58.00% | ~2,988 |
 | A gift | 53.00% | ~2,730 |
 | Girl Power | 48.00% | ~2,472 |
 | What goes around... | 44.00% | ~2,266 |
@@ -47,7 +47,7 @@ Rating: 4.62 (Ranked 349)
 | Feline Domination | 4.00% | ~206 |
 | Friend in need | 4.00% | ~206 |
 | Rogue One | 4.00% | ~206 |
-| Soup Can into Space | 3.00% | ~154 |
+| Soup Can into Space | 3.00% | ~155 |
 | Enola Gay | 2.00% | ~103 |
 | Stay frosty | 2.00% | ~103 |
 | Panzer | 2.00% | ~103 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 349)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,150 (Ranked 153)  
+Progressed: 5,151 (Ranked 153)  
 Completed: 1 (0.02%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 1 (0.02%) (Ranked 253)
 | 2023-09-14 | 5,133 | 1 |
 | 2023-09-15 | 5,141 | 1 |
 | 2023-09-16 | 5,150 | 1 |
+| 2023-09-17 | 5,151 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
