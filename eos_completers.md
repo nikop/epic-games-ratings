@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.16% |
-| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.00% |
+| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.70% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
@@ -32,12 +32,12 @@
 | 30 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.52% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
-| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.47% |
+| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.44% |
 | 34 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.33% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 37 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.69% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.55% |
 | 39 | [Time Loader](games/t/time_loader.md) | 7.38% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
@@ -77,7 +77,7 @@
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
-| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.80% |
+| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.82% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -217,14 +217,14 @@
 | 214 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 214 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 214 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 218 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.11% |
 | 218 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
 | 218 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 218 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
-| 222 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 222 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 222 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 222 | [Supraland](games/s/supraland.md) | 0.10% |
+| 221 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 221 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 221 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.10% |
+| 221 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 221 | [Supraland](games/s/supraland.md) | 0.10% |
 | 226 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 226 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 226 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
