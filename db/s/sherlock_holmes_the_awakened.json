@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2608,9 +2608,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 311
     },
     {
       "ID": "MQ08_1",
@@ -2657,8 +2657,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-14T06:02:12.3857175+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:08:38.0503715+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:10:32.5223582+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:16.8591084+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:57:43.4000429+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:08:38.0504056+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:57:55.6871836+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:10:32.5223917+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -424,9 +424,9 @@
       "ID": "ACH_ASSIGN_PLAZA_1",
       "SetID": "ajki3eh",
       "Name": "Adored",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_2",
@@ -608,9 +608,9 @@
       "ID": "ACH_UNLOCK_CHAPTER_3",
       "SetID": "ajki3eh",
       "Name": "A Forked Tongue",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_UNLOCK_LUNA_ENDING",
@@ -680,8 +680,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:11:26.2923414+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:13:09.5179212+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.4822243+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:59:14.5218807+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:11:26.2923671+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:59:37.1658269+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:13:09.5179471+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2581,6 +2581,11 @@
       "Time": "2023-09-17T15:08:23.1226712+00:00",
       "NumProgressed": 712,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T16:10:17.3675161+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2600,7 +2605,7 @@
       "Name": "Active Pause",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "BasicControls",
@@ -2608,7 +2613,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "BigPlane",
@@ -2784,7 +2789,7 @@
       "Name": "Millionaire",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NewRecord",
@@ -2800,7 +2805,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "NoWayBack",
@@ -2872,7 +2877,7 @@
       "Name": "Restructuring",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Reviewer",
@@ -2927,14 +2932,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:08:23.1226707+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:10:17.3675155+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.4926233+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:05:08.9395675+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:08:23.1227171+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:06:46.4924472+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:10:17.367565+00:00"
 }

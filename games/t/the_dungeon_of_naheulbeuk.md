@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,433 |
-| Alt+F4 | 5.00% | ~11,239 |
-| Déjà vu | 4.00% | ~8,991 |
-| Where's that freaking Dwarf? | 4.00% | ~8,991 |
-| Sock! SOCK! | 3.00% | ~6,743 |
-| Speedrun | 3.00% | ~6,743 |
+| Sowwy! | 30.00% | ~67,439 |
+| Alt+F4 | 5.00% | ~11,240 |
+| Déjà vu | 4.00% | ~8,992 |
+| Where's that freaking Dwarf? | 4.00% | ~8,992 |
+| Sock! SOCK! | 3.00% | ~6,744 |
+| Speedrun | 3.00% | ~6,744 |
 | Livin' in a dwarven paradise | 2.00% | ~4,496 |
 | Way of the Wimp | 2.00% | ~4,496 |
 | A beer, two curses, three companions | 2.00% | ~4,496 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.90% | ~2,023 |
 | %#*!$*! | 0.90% | ~2,023 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,798 |
-| Dead for good | 0.70% | ~1,573 |
-| Lust and Debauchery | 0.70% | ~1,573 |
-| Material Girl | 0.70% | ~1,573 |
+| Dead for good | 0.70% | ~1,574 |
+| Lust and Debauchery | 0.70% | ~1,574 |
+| Material Girl | 0.70% | ~1,574 |
 | Gargantua | 0.60% | ~1,349 |
 | In Navalu's footsteps | 0.50% | ~1,124 |
 | Lëgal Legend | 0.50% | ~1,124 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,776 (Ranked 58)  
+Progressed: 224,796 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 3 (0.00%) (Ranked 277)
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
 | 2023-09-16 | 224,568 | 3 |
-| 2023-09-17 | 224,776 | 3 |
+| 2023-09-17 | 224,796 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 335 (Ranked 337)  

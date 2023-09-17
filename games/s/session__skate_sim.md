@@ -7,11 +7,11 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 59.00% | ~1,677 |
-| Keeping it classy | 27.00% | ~767 |
+| Keeping it classy | 27.00% | ~768 |
 | Welcome to the family | 21.00% | ~597 |
 | The finer things in life | 19.00% | ~540 |
 | Backpacker | 14.00% | ~398 |
-| Go with the Flow | 13.00% | ~369 |
+| Go with the Flow | 13.00% | ~370 |
 | Plastic Surgeon | 10.00% | ~284 |
 | The flip trick crown jewel | 10.00% | ~284 |
 | The hard way | 10.00% | ~284 |
@@ -48,14 +48,14 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 2.00% | ~57 |
 | That was wheelie fun | 2.00% | ~57 |
 | Dipped! | 1.00% | ~28 |
-| Skatepark hero | 1.00% | ~28 |
+| Skatepark hero | 0.90% | ~26 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 | Bing Bong! | 0.00% | ~0 |
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,842 (Ranked 174)  
+Progressed: 2,843 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 2,793 | 0 |
 | 2023-09-15 | 2,809 | 0 |
 | 2023-09-16 | 2,829 | 0 |
-| 2023-09-17 | 2,842 | 0 |
+| 2023-09-17 | 2,843 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 398)  
 Sum: 462 (Ranked 310)  

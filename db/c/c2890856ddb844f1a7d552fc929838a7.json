@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1645,9 +1645,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 344
     },
     {
       "ID": "AC11",
@@ -1677,9 +1677,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 176
     },
     {
       "ID": "AC15",
@@ -1693,9 +1693,9 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 152
     },
     {
       "ID": "AC17",
@@ -1725,9 +1725,9 @@
       "ID": "AC20",
       "SetID": "l4abp0",
       "Name": "Still Among Us",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 136
     },
     {
       "ID": "AC21",
@@ -1765,9 +1765,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 376
     },
     {
       "ID": "AC26",
@@ -1942,8 +1942,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:09:13.5506404+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:10:47.3426627+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:04:42.5910302+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:09:13.5506881+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:06:18.3256626+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:10:47.3427074+00:00"
 }

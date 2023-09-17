@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2242,
+  "EOS_Progressed": 2243,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1622,6 +1622,11 @@
       "Time": "2023-09-16T18:04:51.790371+00:00",
       "NumProgressed": 2242,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-17T16:09:54.8392744+00:00",
+      "NumProgressed": 2243,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1649,7 +1654,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "complete_act_three",
@@ -1673,7 +1678,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "deal_damage",
@@ -1681,7 +1686,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "defeat_enemies",
@@ -1689,7 +1694,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1737,7 +1742,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1753,7 +1758,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "stick_decoy",
@@ -1761,7 +1766,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "stun_enemies",
@@ -1769,7 +1774,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "trash_truck",
@@ -1784,7 +1789,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2242,
+      "Progressed": 2243,
       "Completed": 9
     }
   ],
@@ -1792,8 +1797,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:08:00.3986781+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:09:54.8392739+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.3860466+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:04:02.5215265+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:08:00.3987+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:05:27.0352638+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:09:54.8392964+00:00"
 }

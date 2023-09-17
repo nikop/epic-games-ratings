@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3546,9 +3546,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 87559,
+  "EOS_Progressed": 87572,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 2036,
+  "EOS_NewPlayers": 1962,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19056,6 +19056,11 @@
       "Time": "2023-09-17T15:10:13.29877+00:00",
       "NumProgressed": 87559,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-17T16:11:17.8326503+00:00",
+      "NumProgressed": 87572,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19073,9 +19078,9 @@
       "ID": "ACH_0011",
       "SetID": "3kam13l",
       "Name": "Underworld Initiate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_0012",
@@ -19394,13 +19399,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 87559,
+      "Progressed": 87572,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 15906,
+      "Progressed": 15919,
       "Completed": 15522
     }
   ],
@@ -19408,8 +19413,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-17T15:02:31.0209269+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:10:13.2987695+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:11:17.8326495+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:02:31.0209275+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:10:13.2988938+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:03:29.8095719+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:11:17.8327739+00:00"
 }

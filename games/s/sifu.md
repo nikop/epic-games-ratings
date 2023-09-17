@@ -16,6 +16,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.20% | ~1,430 |
 | Old Child | 0.20% | ~1,430 |
 | Lightning Hands | 0.20% | ~1,430 |
+| Rumble in the Hangar | 0.20% | ~1,430 |
 | Project Arena | 0.20% | ~49 |
 | Diligence as a goal | 0.20% | ~49 |
 | Martial Hub | 0.20% | ~49 |
@@ -46,7 +47,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.10% | ~715 |
 | Kung-Fu Tussle | 0.10% | ~715 |
 | Path of the Prospect | 0.10% | ~715 |
-| Rumble in the Hangar | 0.10% | ~715 |
 | The Pit Protector | 0.10% | ~715 |
 | Be like water my friend | 0.10% | ~715 |
 | Take damage to save time | 0.10% | ~715 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,084 (Ranked 20)  
+Progressed: 715,085 (Ranked 20)  
 Completed: 12,895 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 12,895 (1.80%) (Ranked 102)
 | 2023-09-14 | 714,971 | 12,892 |
 | 2023-09-15 | 715,005 | 12,893 |
 | 2023-09-16 | 715,054 | 12,895 |
-| 2023-09-17 | 715,084 | 12,895 |
+| 2023-09-17 | 715,085 | 12,895 |
 ## Awards
 Max (Great Boss Battles): 6,521  (Ranked 53)  
 Sum: 11,266 (Ranked 81)  

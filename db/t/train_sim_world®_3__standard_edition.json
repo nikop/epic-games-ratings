@@ -4,11 +4,11 @@
   "ProductSlug": "train-sim-world-3",
   "Ranking_Rating": 487,
   "Ranking_Popularity": 227,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -2719,10 +2719,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2509,
       "NumberOfAwardsMax": 351
+    },
+    {
+      "Time": "2023-09-17T16:02:23.2287836+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2512,
+      "NumberOfAwardsMax": 351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2509,
+  "NumberOfAwards": 2512,
   "NumberOfAwardsMax": 351,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2736,7 +2742,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 298
+      "Count": 300
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2748,7 +2754,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 254
+      "Count": 255
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2811,8 +2817,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-09-16T17:59:28.7912901+00:00",
+  "LastChanged": "2023-09-17T16:02:23.2287834+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:26.3957816+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:01:29.9950869+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:06:43.2924097+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:02:23.228784+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:08:37.8723755+00:00"
 }

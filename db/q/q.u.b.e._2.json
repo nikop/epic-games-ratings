@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1751,9 +1751,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1783,8 +1783,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:10:27.5207372+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:12:10.9407065+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:57:23.7522992+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:10:27.5207657+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:57:28.0063096+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:12:10.9407361+00:00"
 }

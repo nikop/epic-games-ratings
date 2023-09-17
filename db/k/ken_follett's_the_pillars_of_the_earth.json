@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -507,7 +507,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15243,
+  "EOS_Progressed": 15244,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -10302,6 +10302,11 @@
       "Time": "2023-09-17T14:11:29.0130325+00:00",
       "NumProgressed": 15243,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-17T16:11:20.9482661+00:00",
+      "NumProgressed": 15244,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -10329,7 +10334,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     },
     {
       "ID": "tpote_achievement_12",
@@ -10353,7 +10358,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5030
+      "UsersEstimate": 5031
     },
     {
       "ID": "tpote_achievement_15",
@@ -10401,7 +10406,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5030
+      "UsersEstimate": 5031
     },
     {
       "ID": "tpote_achievement_20",
@@ -10601,7 +10606,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     },
     {
       "ID": "tpote_achievement_6",
@@ -10609,7 +10614,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     },
     {
       "ID": "tpote_achievement_7",
@@ -10625,7 +10630,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "tpote_achievement_9",
@@ -10640,15 +10645,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15243,
+      "Progressed": 15244,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:10:16.5620218+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:11:20.9482655+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:02:51.7565672+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:10:16.5621121+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:03:49.1427194+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:11:20.9483569+00:00"
 }

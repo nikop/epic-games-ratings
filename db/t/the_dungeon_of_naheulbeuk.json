@@ -918,9 +918,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224776,
+  "EOS_Progressed": 224796,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1824,
+  "EOS_NewPlayers": 1830,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11223,6 +11223,11 @@
       "Time": "2023-09-17T15:11:40.3579412+00:00",
       "NumProgressed": 224776,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T16:13:24.1948386+00:00",
+      "NumProgressed": 224796,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11282,7 +11287,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8991
+      "UsersEstimate": 8992
     },
     {
       "ID": "Chapter2",
@@ -11634,7 +11639,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8991
+      "UsersEstimate": 8992
     },
     {
       "ID": "DwarfElf15Support",
@@ -11666,7 +11671,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6743
+      "UsersEstimate": 6744
     },
     {
       "ID": "ElfEpic",
@@ -11682,7 +11687,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67433
+      "UsersEstimate": 67439
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11730,7 +11735,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11239
+      "UsersEstimate": 11240
     },
     {
       "ID": "FollowBraztok",
@@ -11762,7 +11767,7 @@
       "Name": "Dead for good",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "KillGolbargh",
@@ -11850,7 +11855,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "RangerEpic",
@@ -11882,7 +11887,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6743
+      "UsersEstimate": 6744
     },
     {
       "ID": "SupportCount4",
@@ -11922,7 +11927,7 @@
       "Name": "Material Girl",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "WizardResistBurn",
@@ -11937,21 +11942,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224776,
+      "Progressed": 224796,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224776,
+      "Progressed": 224796,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:11:40.3579407+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:13:24.1948381+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:59:35.9178188+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:11:40.3580833+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:00:04.7021436+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:13:24.1950029+00:00"
 }

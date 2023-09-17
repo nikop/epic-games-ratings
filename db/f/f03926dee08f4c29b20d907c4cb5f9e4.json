@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -253,9 +253,9 @@
       "ID": "ACH_15_SOMETHING_TO_DO",
       "SetID": "9loam6m",
       "Name": "Always something to do",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_16_ART_AT_LIGHTHOUSE",
@@ -277,9 +277,9 @@
       "ID": "ACH_18_LEGENDARY_TREASURE",
       "SetID": "9loam6m",
       "Name": "Legendary treasure",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_19_HORSE_FRIENDS",
@@ -484,8 +484,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-09-17T15:11:26.8043691+00:00",
+  "LastChanged_Achievements": "2023-09-17T16:13:10.0262412+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:03.0540989+00:00",
-  "LastUpdate_Ratings": "2023-09-17T15:04:54.1846835+00:00",
-  "LastUpdate_Achievements": "2023-09-17T15:11:26.804403+00:00"
+  "LastUpdate_Ratings": "2023-09-17T16:06:25.9411347+00:00",
+  "LastUpdate_Achievements": "2023-09-17T16:13:10.0262734+00:00"
 }

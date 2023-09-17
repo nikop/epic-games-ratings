@@ -1,23 +1,23 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 626)  
+Rating: 4.46 (Ranked 625)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,669 |
+| Meeting Resistance | 46.00% | ~1,670 |
 | Confirming Suspicions | 40.00% | ~1,452 |
-| The Kraken Wakes | 36.00% | ~1,306 |
+| The Kraken Wakes | 36.00% | ~1,307 |
 | It's Starting to Crack | 33.00% | ~1,198 |
 | Change the Channel | 30.00% | ~1,089 |
-| Lord of War | 29.00% | ~1,052 |
+| Lord of War | 29.00% | ~1,053 |
 | Taking it back | 28.00% | ~1,016 |
 | Resourceful | 26.00% | ~944 |
 | Target America | 26.00% | ~944 |
-| The Kraken Sleeps | 24.00% | ~871 |
-| Liberté | 22.00% | ~798 |
-| Organ Grinder | 22.00% | ~798 |
-| As Quiet as a Mouse | 22.00% | ~798 |
+| The Kraken Sleeps | 23.00% | ~835 |
+| Liberté | 22.00% | ~799 |
+| Organ Grinder | 22.00% | ~799 |
+| As Quiet as a Mouse | 22.00% | ~799 |
 | Sharpshooter | 21.00% | ~762 |
 | Explosive Efficiency | 18.00% | ~653 |
 | Just a Flesh Wound | 17.00% | ~617 |
@@ -38,9 +38,9 @@ Rating: 4.46 (Ranked 626)
 | My Little Friend | 9.00% | ~327 |
 | Rigged to Blow | 8.00% | ~290 |
 | Herr Today, Gone Tomorrow | 6.00% | ~215 |
-| The Long Game | 5.00% | ~181 |
-| It'll Buff Right Out | 5.00% | ~181 |
-| Don't hold your breath | 5.00% | ~181 |
+| The Long Game | 5.00% | ~182 |
+| It'll Buff Right Out | 5.00% | ~182 |
+| Don't hold your breath | 5.00% | ~182 |
 | Operation Foxley | 5.00% | ~179 |
 | Strategist | 4.00% | ~145 |
 | Tinkerer | 4.00% | ~145 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 626)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,629 (Ranked 161)  
+Progressed: 3,630 (Ranked 162)  
 Completed: 10 (0.28%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 10 (0.28%) (Ranked 186)
 | 2023-09-14 | 3,612 | 10 |
 | 2023-09-15 | 3,614 | 10 |
 | 2023-09-16 | 3,621 | 10 |
-| 2023-09-17 | 3,629 | 10 |
+| 2023-09-17 | 3,630 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

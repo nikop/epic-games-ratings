@@ -6,39 +6,39 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 36.00% | ~1,305 |
-| It's a good start | 9.00% | ~326 |
-| Bonjour! | 7.00% | ~254 |
-| Quack | 6.00% | ~218 |
-| The Assistant | 5.00% | ~181 |
-| The Blue Marl | 5.00% | ~181 |
-| Ostinata | 4.00% | ~145 |
-| A long journey | 4.00% | ~145 |
-| Better than nothing? | 4.00% | ~145 |
+| Bye Bye | 36.00% | ~1,312 |
+| It's a good start | 9.00% | ~328 |
+| Bonjour! | 7.00% | ~255 |
+| Quack | 6.00% | ~219 |
+| The Assistant | 5.00% | ~182 |
+| The Blue Marl | 5.00% | ~182 |
+| Ostinata | 4.00% | ~146 |
+| A long journey | 4.00% | ~146 |
+| Better than nothing? | 4.00% | ~146 |
 | Surprise of Langhe | 3.00% | ~109 |
 | Famous | 3.00% | ~109 |
-| What is that? A castle? | 2.00% | ~72 |
-| A lot of space | 2.00% | ~72 |
-| A big garage | 2.00% | ~72 |
-| Big Money | 2.00% | ~72 |
-| Millionaire | 2.00% | ~72 |
-| Exotic | 2.00% | ~72 |
-| Keep the doctor away | 2.00% | ~72 |
-| Very Important Winemaker | 2.00% | ~72 |
+| What is that? A castle? | 2.00% | ~73 |
+| A lot of space | 2.00% | ~73 |
+| A big garage | 2.00% | ~73 |
+| Big Money | 2.00% | ~73 |
+| Millionaire | 2.00% | ~73 |
+| Exotic | 2.00% | ~73 |
+| Keep the doctor away | 2.00% | ~73 |
+| Very Important Winemaker | 2.00% | ~73 |
 | Pastry Chef | 1.00% | ~36 |
 | Welcome to the club | 1.00% | ~36 |
 | King of Langhe | 1.00% | ~36 |
 | Gem of Monferrato | 1.00% | ~36 |
-| Treasure of Roero | 0.70% | ~25 |
-| King of red wines | 0.40% | ~14 |
-| Knight of Langhe | 0.40% | ~14 |
+| Treasure of Roero | 0.70% | ~26 |
+| King of red wines | 0.40% | ~15 |
+| Knight of Langhe | 0.40% | ~15 |
 | King of white wines | 0.30% | ~11 |
 | Sales Expert | 0.30% | ~11 |
 | Big deals | 0.20% | ~7 |
 | Unsuitable Terroir | 0.20% | ~7 |
 | Master Winemaker | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,625 (Ranked 162)  
+Progressed: 3,644 (Ranked 160)  
 Completed: 5 (0.14%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 5 (0.14%) (Ranked 211)
 | 2023-09-14 | 3,062 | 5 |
 | 2023-09-15 | 3,260 | 5 |
 | 2023-09-16 | 3,500 | 5 |
-| 2023-09-17 | 3,625 | 5 |
+| 2023-09-17 | 3,644 | 5 |
 ## Awards
 Max (Relaxing): 205  (Ranked 273)  
 Sum: 1,590 (Ranked 217)  
