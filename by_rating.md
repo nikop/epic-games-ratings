@@ -73,7 +73,7 @@
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 517 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 449 |
 | 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 672 | 175 |
-| 67 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 248 | 256 |
+| 67 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 249 | 256 |
 | 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,512 | 53 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 410 | 217 |
 | 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 517 |
@@ -249,7 +249,7 @@
 | 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,395 | 48 |
 | 242 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,946 | 81 |
 | 242 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 481 |
-| 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,153 | 79 |
+| 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,177 | 79 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 305,887 | 3 |
 | 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 226,922 | 4 |
 | 242 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 517 |
@@ -531,7 +531,7 @@
 | 521 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 488 |
 | 521 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 513 | 199 |
 | 521 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 517 |
-| 521 | [VALORANT](games/v/valorant.md) | 4.53 | 70,278 | 10 |
+| 521 | [VALORANT](games/v/valorant.md) | 4.53 | 70,500 | 10 |
 | 521 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 345 |
 | 534 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 42 | 424 |
 | 534 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 32,574 | 15 |
@@ -658,25 +658,25 @@
 | 649 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 517 |
 | 649 | [SMITE](games/s/smite.md) | 4.44 | 4,296 | 77 |
 | 649 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 583 | 188 |
-| 649 | [STG Football](games/s/stg_football.md) | 4.44 | 45 | 419 |
 | 649 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 517 |
 | 649 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 342 |
 | 649 | [Tunche](games/t/tunche.md) | 4.44 | 23 | 495 |
 | 649 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 26 | 481 |
 | 649 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 394 |
-| 665 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 0 | 517 |
-| 665 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 39 | 429 |
-| 665 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 224 | 262 |
-| 665 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 0 | 517 |
-| 665 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.43 | 0 | 517 |
-| 665 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 12,913 | 28 |
-| 665 | [Predecessor](games/p/predecessor.md) | 4.43 | 166 | 293 |
-| 665 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 517 |
-| 665 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 517 |
-| 665 | [Star Renegades](games/s/star_renegades.md) | 4.43 | 0 | 517 |
-| 665 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 466 |
-| 665 | [Train Valley 2](games/t/train_valley_2.md) | 4.43 | 627 | 181 |
-| 665 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 283 | 244 |
+| 664 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 0 | 517 |
+| 664 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 39 | 429 |
+| 664 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 224 | 262 |
+| 664 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 0 | 517 |
+| 664 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.43 | 0 | 517 |
+| 664 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 12,913 | 28 |
+| 664 | [Predecessor](games/p/predecessor.md) | 4.43 | 166 | 293 |
+| 664 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 517 |
+| 664 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 517 |
+| 664 | [Star Renegades](games/s/star_renegades.md) | 4.43 | 0 | 517 |
+| 664 | [STG Football](games/s/stg_football.md) | 4.43 | 45 | 419 |
+| 664 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 466 |
+| 664 | [Train Valley 2](games/t/train_valley_2.md) | 4.43 | 627 | 181 |
+| 664 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 283 | 244 |
 | 678 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 0 | 517 |
 | 678 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.42 | 0 | 517 |
 | 678 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 37 | 437 |
@@ -691,7 +691,7 @@
 | 678 | [Warpips](games/w/warpips.md) | 4.42 | 27 | 473 |
 | 678 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.42 | 0 | 517 |
 | 691 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 67 | 386 |
-| 691 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 248 | 256 |
+| 691 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 248 | 257 |
 | 691 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 517 |
 | 691 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.41 | 0 | 517 |
 | 691 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 95 | 348 |
@@ -781,17 +781,17 @@
 | 773 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 2,177 | 107 |
 | 773 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 517 |
 | 773 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 508 |
-| 782 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 361 | 226 |
-| 782 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 393 |
-| 782 | [Filament](games/f/filament.md) | 4.32 | 561 | 194 |
-| 782 | [House Party](games/h/house_party.md) | 4.32 | 0 | 517 |
-| 782 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 517 |
-| 782 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,405 | 66 |
-| 782 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 466 |
-| 782 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.32 | 0 | 517 |
-| 782 | [Vampyr](games/v/vampyr.md) | 4.32 | 558 | 195 |
-| 782 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 517 |
-| 782 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 517 |
+| 773 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 517 |
+| 783 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 361 | 226 |
+| 783 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 393 |
+| 783 | [Filament](games/f/filament.md) | 4.32 | 561 | 194 |
+| 783 | [House Party](games/h/house_party.md) | 4.32 | 0 | 517 |
+| 783 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 517 |
+| 783 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,405 | 66 |
+| 783 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 466 |
+| 783 | [Vampyr](games/v/vampyr.md) | 4.32 | 558 | 195 |
+| 783 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 517 |
+| 783 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 517 |
 | 793 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 517 |
 | 793 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 517 |
 | 793 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 517 |
