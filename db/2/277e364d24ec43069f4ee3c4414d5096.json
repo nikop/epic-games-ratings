@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108095,
+  "EOS_Progressed": 108102,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11231,6 +11231,11 @@
       "Time": "2023-09-17T20:04:39.0010415+00:00",
       "NumProgressed": 108095,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-17T21:03:46.5602727+00:00",
+      "NumProgressed": 108102,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -11250,7 +11255,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 82152
+      "UsersEstimate": 82158
     },
     {
       "ID": "EAwards_10",
@@ -11258,7 +11263,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11890
+      "UsersEstimate": 11891
     },
     {
       "ID": "EAwards_11",
@@ -11266,7 +11271,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28105
+      "UsersEstimate": 28107
     },
     {
       "ID": "EAwards_12",
@@ -11274,7 +11279,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15133
+      "UsersEstimate": 15134
     },
     {
       "ID": "EAwards_13",
@@ -11282,7 +11287,7 @@
       "Name": "The Floor Is...",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "EAwards_14",
@@ -11314,7 +11319,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38914
+      "UsersEstimate": 38917
     },
     {
       "ID": "EAwards_18",
@@ -11338,7 +11343,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51886
+      "UsersEstimate": 51889
     },
     {
       "ID": "EAwards_20",
@@ -11386,7 +11391,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 20538
+      "UsersEstimate": 20539
     },
     {
       "ID": "EAwards_26",
@@ -11394,7 +11399,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 11890
+      "UsersEstimate": 11891
     },
     {
       "ID": "EAwards_27",
@@ -11426,7 +11431,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20538
+      "UsersEstimate": 20539
     },
     {
       "ID": "EAwards_30",
@@ -11514,7 +11519,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12971
+      "UsersEstimate": 12972
     },
     {
       "ID": "EAwards_40",
@@ -11610,7 +11615,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11890
+      "UsersEstimate": 11891
     },
     {
       "ID": "EAwards_8",
@@ -11618,7 +11623,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11890
+      "UsersEstimate": 11891
     },
     {
       "ID": "EAwards_9",
@@ -11633,7 +11638,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 108095,
+      "Progressed": 108102,
       "Completed": 42
     }
   ],
@@ -11641,8 +11646,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-17T20:04:39.001041+00:00",
+  "LastChanged_Achievements": "2023-09-17T21:03:46.5602723+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:10.7751349+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:03:09.4522609+00:00",
-  "LastUpdate_Achievements": "2023-09-17T20:04:39.0011809+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:02:00.411866+00:00",
+  "LastUpdate_Achievements": "2023-09-17T21:03:46.5603574+00:00"
 }

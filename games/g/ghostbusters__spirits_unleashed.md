@@ -17,6 +17,7 @@ Rating: 4.50 (Ranked 565)
 | Fully Upgraded | 0.20% | ~52 |
 | Icing on the Cake | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
+| Skilled | 0.20% | ~52 |
 | Solo Capture | 0.20% | ~52 |
 | Summoner | 0.20% | ~52 |
 | Swift Rift Removers | 0.20% | ~52 |
@@ -49,7 +50,6 @@ Rating: 4.50 (Ranked 565)
 | Rivalry | 0.10% | ~26 |
 | Seasoned | 0.10% | ~26 |
 | Side Hustle | 0.10% | ~26 |
-| Skilled | 0.10% | ~26 |
 | Stunner | 0.10% | ~26 |
 | Surprise! | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |

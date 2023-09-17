@@ -5,12 +5,12 @@ Rating: 4.56 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,084 |
-| Pay 'n' Spray | 51.00% | ~6,350 |
-| All Dressed Up for San Fierro | 26.00% | ~3,237 |
+| Getting Started | 81.00% | ~10,086 |
+| Pay 'n' Spray | 51.00% | ~6,351 |
+| All Dressed Up for San Fierro | 26.00% | ~3,238 |
 | The American Dream | 19.00% | ~2,366 |
 | School's Out | 18.00% | ~2,241 |
-| Smooth Moves | 17.00% | ~2,116 |
+| Smooth Moves | 17.00% | ~2,117 |
 | What happens in Las Venturas... | 15.00% | ~1,868 |
 | Today Was a Good Day | 15.00% | ~1,868 |
 | Horror of the Santa Maria | 11.00% | ~1,370 |
@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 467)
 | Original Gangster | 8.00% | ~996 |
 | With Extra Dip | 7.00% | ~872 |
 | Saviour | 6.00% | ~747 |
-| They Can’t Stop All of Us | 5.00% | ~622 |
-| Rescue a Kitten Too? | 5.00% | ~622 |
+| They Can’t Stop All of Us | 5.00% | ~623 |
+| Rescue a Kitten Too? | 5.00% | ~623 |
 | What are the Odds | 4.00% | ~498 |
 | Bike or Biker | 3.00% | ~374 |
 | What the City Needs | 3.00% | ~374 |
@@ -33,15 +33,15 @@ Rating: 4.56 (Ranked 467)
 | Assassin | 2.00% | ~249 |
 | Public Enemy No. 1 | 2.00% | ~249 |
 | Ain’t Nothing But a G Thing | 2.00% | ~249 |
-| Hoopin' it Up | 1.00% | ~124 |
-| Lucky Spinner | 1.00% | ~124 |
-| Not a Player | 1.00% | ~124 |
-| Chick Magnet | 1.00% | ~124 |
+| Hoopin' it Up | 1.00% | ~125 |
+| Lucky Spinner | 1.00% | ~125 |
+| Not a Player | 1.00% | ~125 |
+| Chick Magnet | 1.00% | ~125 |
 | Remastered | 0.70% | ~87 |
 | ...Here we go again | 0.50% | ~62 |
 | I Ain't No Buster | 0.40% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,450 (Ranked 126)  
+Progressed: 12,452 (Ranked 126)  
 Completed: 45 (0.36%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 45 (0.36%) (Ranked 169)
 | 2023-09-14 | 12,224 | 45 |
 | 2023-09-15 | 12,292 | 45 |
 | 2023-09-16 | 12,369 | 45 |
-| 2023-09-17 | 12,450 | 45 |
+| 2023-09-17 | 12,452 | 45 |
 ## Awards
 Max (Great Boss Battles): 291  (Ranked 241)  
 Sum: 384 (Ranked 324)  

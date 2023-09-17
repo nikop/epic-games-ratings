@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5410,
+  "EOS_Progressed": 5411,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -3500,6 +3500,11 @@
       "Time": "2023-09-17T19:07:52.7541746+00:00",
       "NumProgressed": 5410,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T21:04:29.8777106+00:00",
+      "NumProgressed": 5411,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3943,7 +3948,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -4103,7 +4108,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ach_trait_overload",
@@ -4118,15 +4123,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5410,
+      "Progressed": 5411,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-17T20:05:19.0365015+00:00",
+  "LastChanged_Achievements": "2023-09-17T21:04:29.8777102+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:47.9419518+00:00",
-  "LastUpdate_Ratings": "2023-09-17T19:59:21.415676+00:00",
-  "LastUpdate_Achievements": "2023-09-17T20:05:19.0366132+00:00"
+  "LastUpdate_Ratings": "2023-09-17T20:58:42.8344742+00:00",
+  "LastUpdate_Achievements": "2023-09-17T21:04:29.8778067+00:00"
 }

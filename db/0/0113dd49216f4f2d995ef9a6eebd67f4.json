@@ -286,9 +286,9 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -589,8 +589,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-17T20:04:50.1891711+00:00",
+  "LastChanged_Achievements": "2023-09-17T21:04:06.252266+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.7040236+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:02:15.3393071+00:00",
-  "LastUpdate_Achievements": "2023-09-17T20:04:50.1892049+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:01:17.3381831+00:00",
+  "LastUpdate_Achievements": "2023-09-17T21:04:06.2522891+00:00"
 }

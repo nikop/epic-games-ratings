@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3630,
+  "EOS_Progressed": 3631,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6734,6 +6734,11 @@
       "Time": "2023-09-17T20:06:47.1647517+00:00",
       "NumProgressed": 3630,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-17T21:05:45.5322751+00:00",
+      "NumProgressed": 3631,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6881,7 +6886,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6945,7 +6950,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7001,7 +7006,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7113,7 +7118,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7121,7 +7126,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7312,13 +7317,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3581,
+      "Progressed": 3582,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3630,
+      "Progressed": 3631,
       "Completed": 11
     }
   ],
@@ -7326,8 +7331,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-17T20:06:47.164751+00:00",
+  "LastChanged_Achievements": "2023-09-17T21:05:45.5322748+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:03:01.5662397+00:00",
-  "LastUpdate_Achievements": "2023-09-17T20:06:47.1648817+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:01:53.9962314+00:00",
+  "LastUpdate_Achievements": "2023-09-17T21:05:45.532361+00:00"
 }

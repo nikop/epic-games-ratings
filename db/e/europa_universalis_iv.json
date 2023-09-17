@@ -9672,9 +9672,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 406789,
+  "EOS_Progressed": 406825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7544,
+  "EOS_NewPlayers": 7515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26582,6 +26582,11 @@
       "Time": "2023-09-17T20:04:01.8958388+00:00",
       "NumProgressed": 406789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T21:03:15.9366321+00:00",
+      "NumProgressed": 406825,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -26985,7 +26990,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -27593,7 +27598,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12204
+      "UsersEstimate": 12205
     },
     {
       "ID": "achievement_grand_coalition",
@@ -28873,7 +28878,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12204
+      "UsersEstimate": 12205
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -29257,7 +29262,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16272
+      "UsersEstimate": 16273
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29289,7 +29294,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12204
+      "UsersEstimate": 12205
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -29424,21 +29429,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 406789,
+      "Progressed": 406825,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 406789,
+      "Progressed": 406825,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-17T18:57:32.540344+00:00",
-  "LastChanged_Achievements": "2023-09-17T20:04:01.8958381+00:00",
+  "LastChanged_Achievements": "2023-09-17T21:03:15.9366317+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-17T19:57:36.8564298+00:00",
-  "LastUpdate_Achievements": "2023-09-17T20:04:01.897544+00:00"
+  "LastUpdate_Ratings": "2023-09-17T20:57:16.3398603+00:00",
+  "LastUpdate_Achievements": "2023-09-17T21:03:15.9377499+00:00"
 }

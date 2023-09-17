@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The gateway to the underworld | 11.00% | ~36 |
-| Is it merely a dream? | 10.00% | ~33 |
+| Is it merely a dream? | 11.00% | ~36 |
 | The path to enlightenment | 6.00% | ~20 |
 | Our efforts are finally yielding progress | 6.00% | ~20 |
-| This looks really bad | 5.00% | ~16 |
+| This looks really bad | 6.00% | ~20 |
 | Unholy lands | 4.00% | ~13 |
 | The crucifixion | 2.00% | ~7 |
 | The choice | 2.00% | ~7 |

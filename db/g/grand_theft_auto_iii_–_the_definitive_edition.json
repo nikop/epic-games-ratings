@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 873,
+  "Ranking_Rating": 874,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 139,
@@ -472,9 +472,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7844,
+  "EOS_Progressed": 7845,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -8487,6 +8487,11 @@
       "Time": "2023-09-17T20:09:23.9505798+00:00",
       "NumProgressed": 7844,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-17T21:08:11.4956082+00:00",
+      "NumProgressed": 7845,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8570,7 +8575,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "ACH11",
@@ -8602,7 +8607,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACH15",
@@ -8729,7 +8734,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7844,
+      "Progressed": 7845,
       "Completed": 50
     }
   ],
@@ -8737,8 +8742,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-17T18:58:19.8654024+00:00",
-  "LastChanged_Achievements": "2023-09-17T20:09:23.9505794+00:00",
+  "LastChanged_Achievements": "2023-09-17T21:08:11.4956075+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-17T19:58:05.9621327+00:00",
-  "LastUpdate_Achievements": "2023-09-17T20:09:23.9506559+00:00"
+  "LastUpdate_Ratings": "2023-09-17T20:57:40.5074677+00:00",
+  "LastUpdate_Achievements": "2023-09-17T21:08:11.4956631+00:00"
 }

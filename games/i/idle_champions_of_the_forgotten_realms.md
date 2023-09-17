@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,209 (Ranked 57)  
+Progressed: 229,214 (Ranked 57)  
 Completed: 2,291 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,18 +677,18 @@ Completed: 2,291 (1.00%) (Ranked 124)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,209 | 2,291 |
+| 2023-09-17 | 229,214 | 2,291 |
 ## Awards
-Max (Diverse Characters): 5,283  (Ranked 67)  
-Sum: 31,620 (Ranked 39)  
+Max (Diverse Characters): 5,285  (Ranked 67)  
+Sum: 31,624 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,283 |
+| This game has Diverse Characters | 5,285 |
 | This game is Great for Beginners | 5,263 |
 | This game has Quickly Understood Controls | 4,767 |
 | This game is Relaxing | 4,654 |
-| This game has Amazing Characters | 4,122 |
+| This game has Amazing Characters | 4,124 |
 | This game is Highly Recommended | 4,109 |
 | This game has Playful Visuals | 3,422 |
 ## Ratings History
@@ -928,4 +928,4 @@ Diff (max vs sum): 28
 | 2023-09-14 | 4.06 | - | 5,276 | 31,587 |
 | 2023-09-15 | 4.06 | - | 5,276 | 31,596 |
 | 2023-09-16 | 4.06 | - | 5,283 | 31,617 |
-| 2023-09-17 | 4.06 | - | 5,283 | 31,620 |
+| 2023-09-17 | 4.06 | - | 5,285 | 31,624 |

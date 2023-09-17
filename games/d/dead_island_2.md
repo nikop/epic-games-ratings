@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,635 |
-| Git Gutte! | 2.00% | ~13,635 |
-| Break A Leg | 2.00% | ~13,635 |
-| Coup de Grâce | 2.00% | ~13,635 |
-| Hazardous Materials | 2.00% | ~13,635 |
-| Friends Like These | 2.00% | ~13,635 |
-| Hotel California | 2.00% | ~13,635 |
-| Apex Predator | 2.00% | ~13,635 |
-| Stacking the Deck | 2.00% | ~13,635 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,635 |
-| Welcome To Hell-A | 2.00% | ~13,635 |
+| Dr. Reed, I Presume? | 2.00% | ~13,636 |
+| Git Gutte! | 2.00% | ~13,636 |
+| Break A Leg | 2.00% | ~13,636 |
+| Coup de Grâce | 2.00% | ~13,636 |
+| Hazardous Materials | 2.00% | ~13,636 |
+| Friends Like These | 2.00% | ~13,636 |
+| Hotel California | 2.00% | ~13,636 |
+| Apex Predator | 2.00% | ~13,636 |
+| Stacking the Deck | 2.00% | ~13,636 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,636 |
+| Welcome To Hell-A | 2.00% | ~13,636 |
 | Anger Management | 1.00% | ~6,818 |
 | Perks of the Job | 1.00% | ~6,818 |
 | Bookworm | 1.00% | ~6,818 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,768 (Ranked 22)  
+Progressed: 681,806 (Ranked 22)  
 Completed: 2,150 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2,150 (0.32%) (Ranked 177)
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
-| 2023-09-17 | 681,768 | 2,150 |
+| 2023-09-17 | 681,806 | 2,150 |
 ## Awards
 Max (Great Boss Battles): 6,086  (Ranked 57)  
 Sum: 9,030 (Ranked 94)  

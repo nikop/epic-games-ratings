@@ -1443,9 +1443,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1499,9 +1499,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1554,8 +1554,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-17T20:05:06.4954241+00:00",
+  "LastChanged_Achievements": "2023-09-17T21:04:19.4535663+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.4255118+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:02:16.5973343+00:00",
-  "LastUpdate_Achievements": "2023-09-17T20:05:06.4954469+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:01:18.8802047+00:00",
+  "LastUpdate_Achievements": "2023-09-17T21:04:19.4535826+00:00"
 }

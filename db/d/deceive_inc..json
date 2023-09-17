@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18038,
+  "EOS_Progressed": 18039,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10356,6 +10356,11 @@
       "Time": "2023-09-17T17:09:49.7994116+00:00",
       "NumProgressed": 18038,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T21:03:19.3172679+00:00",
+      "NumProgressed": 18039,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10383,7 +10388,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "0004",
@@ -10431,7 +10436,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "0010",
@@ -10503,7 +10508,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "0019",
@@ -10551,7 +10556,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "0025",
@@ -10559,7 +10564,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "0026",
@@ -10654,7 +10659,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18038,
+      "Progressed": 18039,
       "Completed": 3
     }
   ],
@@ -10662,8 +10667,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-17T20:04:06.26066+00:00",
+  "LastChanged_Achievements": "2023-09-17T21:03:19.3172675+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:01:07.0778919+00:00",
-  "LastUpdate_Achievements": "2023-09-17T20:04:06.2607563+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:00:10.610799+00:00",
+  "LastUpdate_Achievements": "2023-09-17T21:03:19.3173381+00:00"
 }

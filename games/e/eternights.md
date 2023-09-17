@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 80.00% | ~130 |
-| Shelter Escape | 80.00% | ~130 |
-| The First Bond | 71.00% | ~116 |
-| Novice Scavenger | 58.00% | ~95 |
+| Shelter Escape | 82.00% | ~134 |
+| New arm | 81.00% | ~132 |
+| The First Bond | 72.00% | ~117 |
+| Novice Scavenger | 59.00% | ~96 |
 | Master Craftsman | 47.00% | ~77 |
 | First wall | 47.00% | ~77 |
 | Piggyback Expert | 45.00% | ~73 |
@@ -21,9 +21,9 @@
 | Truebro | 15.00% | ~24 |
 | Sia's Promise | 14.00% | ~23 |
 | Romantic | 13.00% | ~21 |
-| TentacleMAN | 7.00% | ~11 |
+| TentacleMAN | 8.00% | ~13 |
+| Plushyboy | 5.00% | ~8 |
 | Yohan's Promise | 4.00% | ~7 |
-| Plushyboy | 4.00% | ~7 |
 | LOVEassistant | 4.00% | ~7 |
 | Flawless | 4.00% | ~7 |
 | Dreamboat | 2.00% | ~3 |
