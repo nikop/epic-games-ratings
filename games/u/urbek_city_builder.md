@@ -16,6 +16,7 @@
 | I am very happy! | 0.60% | ~2 |
 | I love parks | 0.60% | ~2 |
 | Bucolic city | 0.60% | ~2 |
+| Banking city | 0.30% | ~1 |
 | Food producer | 0.30% | ~1 |
 | I love books! | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
@@ -29,7 +30,6 @@
 | Archipelago builder | 0.00% | ~0 |
 | Archipelago urban planner | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
-| Banking city | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |
 | Pumpkin farmer | 0.00% | ~0 |
 | Ready to make sopaipillas | 0.00% | ~0 |

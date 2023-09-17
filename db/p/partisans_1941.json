@@ -2668,9 +2668,9 @@
       "ID": "Defense_Epic",
       "SetID": "85nb4h3",
       "Name": "Defense of Steel",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Double_barrel",
@@ -2852,8 +2852,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:07:34.4495036+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:08:51.4663425+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:59:39.5873668+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:07:34.4495423+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:00:08.4435796+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:08:51.4663751+00:00"
 }

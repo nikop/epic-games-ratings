@@ -930,7 +930,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 224903,
+  "EOS_Progressed": 224910,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1817,
   "EOS_NewCompleters": 1,
@@ -11270,6 +11270,11 @@
       "Time": "2023-09-17T22:08:07.6910691+00:00",
       "NumProgressed": 224903,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T23:09:40.8780507+00:00",
+      "NumProgressed": 224910,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11295,9 +11300,9 @@
       "ID": "AllSideQuest",
       "SetID": "50chcgj",
       "Name": "Holistic Adventuring Party",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 675
+      "UsersEstimate": 900
     },
     {
       "ID": "BarbarianEpic",
@@ -11729,7 +11734,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67471
+      "UsersEstimate": 67473
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11777,7 +11782,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11245
+      "UsersEstimate": 11246
     },
     {
       "ID": "FollowBraztok",
@@ -11984,21 +11989,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224903,
+      "Progressed": 224910,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224903,
+      "Progressed": 224910,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-17T19:59:07.4739475+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:08:07.6910687+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:09:40.8780503+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:58:31.3609186+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:08:07.6912492+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:58:54.0131129+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:09:40.8781735+00:00"
 }

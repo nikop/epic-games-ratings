@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2553,
+  "EOS_Progressed": 2554,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5916,6 +5916,11 @@
       "Time": "2023-09-17T20:07:20.3997993+00:00",
       "NumProgressed": 2553,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T23:07:07.2390309+00:00",
+      "NumProgressed": 2554,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5959,7 +5964,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -6102,14 +6107,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2553,
+      "Progressed": 2554,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:06:05.4528592+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:07:07.2390304+00:00",
   "LastUpdate_AppInfo": "2023-09-13T01:39:00.1699898+00:00",
-  "LastUpdate_Ratings": "2023-09-17T22:01:54.1874106+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:06:05.45292+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:03:01.4903598+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:07:07.239073+00:00"
 }

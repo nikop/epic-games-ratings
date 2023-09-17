@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18040,
+  "EOS_Progressed": 18043,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10366,6 +10366,11 @@
       "Time": "2023-09-17T22:02:31.0418571+00:00",
       "NumProgressed": 18040,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T23:03:46.2634364+00:00",
+      "NumProgressed": 18043,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10401,7 +10406,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "0005",
@@ -10433,7 +10438,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3247
+      "UsersEstimate": 3248
     },
     {
       "ID": "0009",
@@ -10465,7 +10470,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "0013",
@@ -10481,7 +10486,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "0015",
@@ -10577,7 +10582,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "0027",
@@ -10585,7 +10590,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "0028",
@@ -10593,7 +10598,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "0029",
@@ -10601,7 +10606,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "0030",
@@ -10609,7 +10614,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3247
+      "UsersEstimate": 3248
     },
     {
       "ID": "0031",
@@ -10625,7 +10630,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "0033",
@@ -10633,7 +10638,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "0034",
@@ -10664,7 +10669,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18040,
+      "Progressed": 18043,
       "Completed": 3
     }
   ],
@@ -10672,8 +10677,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:02:31.0418566+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:03:46.2634358+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-17T22:00:15.2485888+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:02:31.041969+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:00:56.4592282+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:03:46.2635064+00:00"
 }

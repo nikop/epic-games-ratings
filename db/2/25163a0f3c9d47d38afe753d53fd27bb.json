@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 713,
+  "EOS_Progressed": 714,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.8,
+  "EOS_Completed_Percentage": 10.78,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2461,6 +2461,11 @@
       "Time": "2023-09-17T22:05:37.9885716+00:00",
       "NumProgressed": 713,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-17T23:06:36.656249+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 30,
@@ -2472,7 +2477,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "LEVEL_002",
@@ -2488,15 +2493,15 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 421
     },
     {
       "ID": "LEVEL_005",
@@ -2504,7 +2509,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "LEVEL_006",
@@ -2512,7 +2517,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "LEVEL_007",
@@ -2544,7 +2549,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "LEVEL_011",
@@ -2584,7 +2589,7 @@
       "Name": "Flatland",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_016",
@@ -2592,7 +2597,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_017",
@@ -2640,7 +2645,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_023",
@@ -2648,7 +2653,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_024",
@@ -2711,14 +2716,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 713,
+      "Progressed": 714,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:05:37.9885699+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:06:36.6562485+00:00",
   "LastUpdate_AppInfo": "2023-09-11T21:57:06.8310297+00:00",
-  "LastUpdate_Ratings": "2023-09-17T22:02:02.09467+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:05:37.9886114+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:03:10.3226348+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:06:36.6562794+00:00"
 }

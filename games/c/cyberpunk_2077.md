@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~605,000 |
-| Right Back At Ya | 40.00% | ~350,724 |
-| The Lovers | 36.00% | ~315,652 |
-| Stanislavski's Method | 29.00% | ~254,275 |
-| The Wheel of Fortune | 28.00% | ~245,507 |
+| The Fool | 69.00% | ~605,001 |
+| Right Back At Ya | 40.00% | ~350,725 |
+| The Lovers | 36.00% | ~315,653 |
+| Stanislavski's Method | 29.00% | ~254,276 |
+| The Wheel of Fortune | 28.00% | ~245,508 |
 | The Hermit | 25.00% | ~219,203 |
 | Christmas Tree Attack | 23.00% | ~201,667 |
 | True Soldier | 23.00% | ~201,667 |
-| The High Priestess | 22.00% | ~192,898 |
-| Legend of The Afterlife | 22.00% | ~192,898 |
-| Life of the Road | 21.00% | ~184,130 |
+| The High Priestess | 22.00% | ~192,899 |
+| Legend of The Afterlife | 22.00% | ~192,899 |
+| Life of the Road | 21.00% | ~184,131 |
 | Full Body Conversion | 19.00% | ~166,594 |
 | The World | 19.00% | ~166,594 |
 | Bushido and Chill | 17.00% | ~149,058 |
@@ -26,7 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 14.00% | ~122,754 |
 | I Am The Law | 14.00% | ~122,754 |
 | Judy vs Night City | 14.00% | ~122,754 |
-| Two Heads, One Bullet | 12.00% | ~105,217 |
+| Two Heads, One Bullet | 12.00% | ~105,218 |
 | The Wandering Fool | 10.00% | ~87,681 |
 | The Quick and the Dead | 10.00% | ~87,681 |
 | Ten out of Ten | 9.00% | ~78,913 |
@@ -34,8 +34,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 7.00% | ~61,377 |
 | The Star | 7.00% | ~61,377 |
 | The Sun | 7.00% | ~61,377 |
-| Must Be Rats | 4.00% | ~35,072 |
-| Temperance | 4.00% | ~35,072 |
+| Must Be Rats | 4.00% | ~35,073 |
+| Temperance | 4.00% | ~35,073 |
 | City Lights | 3.00% | ~26,304 |
 | Mean Streets | 3.00% | ~26,304 |
 | Little Tokyo | 3.00% | ~26,304 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,768 |
 | Rough Landing | 0.50% | ~4,384 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,811 (Ranked 15)  
+Progressed: 876,813 (Ranked 15)  
 Completed: 2,109 (0.24%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,15 +201,15 @@ Completed: 2,109 (0.24%) (Ranked 191)
 | 2023-09-14 | 876,177 | 2,086 |
 | 2023-09-15 | 876,353 | 2,090 |
 | 2023-09-16 | 876,594 | 2,104 |
-| 2023-09-17 | 876,811 | 2,109 |
+| 2023-09-17 | 876,813 | 2,109 |
 ## Awards
 Max (Character Customization): 78,934  (Ranked 9)  
-Sum: 211,532 (Ranked 13)  
+Sum: 211,640 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 78,934 |
-| This game has Great Boss Battles | 51,447 |
+| This game has Great Boss Battles | 51,555 |
 | This game is Great for Beginners | 9,624 |
 | This game has Diverse Characters | 9,573 |
 | This game has Amazing Storytelling | 9,507 |
@@ -463,4 +463,4 @@ Diff (max vs sum): -4
 | 2023-09-14 | 4.62 | - | 78,551 | 210,154 |
 | 2023-09-15 | 4.62 | - | 78,662 | 210,618 |
 | 2023-09-16 | 4.62 | - | 78,791 | 211,154 |
-| 2023-09-17 | 4.62 | - | 78,934 | 211,532 |
+| 2023-09-17 | 4.62 | - | 78,934 | 211,640 |

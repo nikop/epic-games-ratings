@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Commandos | 0.30% | ~4 |
 | We Weren't There | 0.20% | ~3 |
 | Inspector General | 0.10% | ~1 |
+| Defense of Steel | 0.10% | ~1 |
 | A Little Culture | 0.10% | ~1 |
-| Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,379 (Ranked 201)  

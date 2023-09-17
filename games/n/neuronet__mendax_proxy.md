@@ -13,9 +13,9 @@
 | Vaccinated | 52.00% | ~13 |
 | Busybody | 44.00% | ~11 |
 | Task Master | 44.00% | ~11 |
+| A Light in the Dark | 40.00% | ~10 |
 | Warning: Fragile | 40.00% | ~10 |
 | An Acquired Taste | 36.00% | ~9 |
-| A Light in the Dark | 36.00% | ~9 |
 | The Guardian | 36.00% | ~9 |
 | Endgame | 36.00% | ~9 |
 | The Philosopher | 36.00% | ~9 |
@@ -26,15 +26,15 @@
 | The Counsellor | 36.00% | ~9 |
 | A Real Headache | 32.00% | ~8 |
 | A Total Riot | 32.00% | ~8 |
+| Everyone Needs a Break | 32.00% | ~8 |
 | Knock Knock | 32.00% | ~8 |
 | That One Doesn't Count | 32.00% | ~8 |
 | Blood Begets Blood | 28.00% | ~7 |
-| Everyone Needs a Break | 28.00% | ~7 |
 | Full Coverage | 24.00% | ~6 |
+| Social Butterfly | 24.00% | ~6 |
 | Job Creator | 20.00% | ~5 |
 | Obligatory Fraudulent Baking | 20.00% | ~5 |
 | Quidnunc | 20.00% | ~5 |
-| Social Butterfly | 20.00% | ~5 |
 | Zonk! | 20.00% | ~5 |
 | A Little Eccentric | 16.00% | ~4 |
 | Leave It to the Professionals | 16.00% | ~4 |

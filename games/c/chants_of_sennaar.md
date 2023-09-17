@@ -28,10 +28,10 @@
 | Fashion victim | 15.00% | ~25 |
 | A great audience | 14.00% | ~23 |
 | For its own good | 14.00% | ~23 |
-| I did it | 10.00% | ~16 |
+| I did it | 11.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164 (Ranked 326)  
-Completed: 8 (4.88%) (Ranked 53)  
+Progressed: 164 (Ranked 327)  
+Completed: 9 (5.49%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,4 +90,4 @@ Completed: 8 (4.88%) (Ranked 53)
 | 2023-09-14 | 154 | 8 |
 | 2023-09-15 | 156 | 8 |
 | 2023-09-16 | 160 | 8 |
-| 2023-09-17 | 164 | 8 |
+| 2023-09-17 | 164 | 9 |

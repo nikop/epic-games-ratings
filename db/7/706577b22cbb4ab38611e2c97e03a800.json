@@ -365,9 +365,9 @@
       "ID": "ACHIEVEMENT_AV_04",
       "SetID": "b50kim2",
       "Name": "MISSION 04",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_AV_05",
@@ -533,9 +533,9 @@
       "ID": "ACHIEVEMENT_MRE_07",
       "SetID": "b50kim2",
       "Name": "Bullseye",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_MR_01",
@@ -557,9 +557,9 @@
       "ID": "ACHIEVEMENT_MR_03",
       "SetID": "b50kim2",
       "Name": "MY 3RD REWARD",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_MR_04",
@@ -748,8 +748,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:04:43.1545104+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:05:36.9419148+00:00",
   "LastUpdate_AppInfo": "2023-09-12T02:11:10.9088436+00:00",
-  "LastUpdate_Ratings": "2023-09-17T22:01:23.0127816+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:04:43.1545563+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:02:17.8158078+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:05:36.9419504+00:00"
 }

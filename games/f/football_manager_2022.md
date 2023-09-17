@@ -9,23 +9,23 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~236,662 |
 | He's Signed! | 50.00% | ~236,662 |
 | First Victory | 50.00% | ~236,662 |
-| He's Sold! | 48.00% | ~227,195 |
+| He's Sold! | 48.00% | ~227,196 |
 | I'm The Boss! | 42.00% | ~198,796 |
-| Hat-trick | 41.00% | ~194,062 |
-| Scoring Streak | 38.00% | ~179,863 |
+| Hat-trick | 41.00% | ~194,063 |
+| Scoring Streak | 38.00% | ~179,864 |
 | Unbeatable! | 37.00% | ~175,130 |
 | Thumping | 37.00% | ~175,130 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,663 |
-| Total Support | 32.00% | ~151,463 |
-| Record Signing | 32.00% | ~151,463 |
-| He's a Natural | 31.00% | ~146,730 |
-| Millionaire's Club | 31.00% | ~146,730 |
-| Team Performance | 30.00% | ~141,997 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,664 |
+| Total Support | 32.00% | ~151,464 |
+| Record Signing | 32.00% | ~151,464 |
+| He's a Natural | 31.00% | ~146,731 |
+| Millionaire's Club | 31.00% | ~146,731 |
+| Team Performance | 30.00% | ~141,998 |
 | Parked The Bus | 29.00% | ~137,264 |
 | Shrewd Spender | 29.00% | ~137,264 |
 | Star Man | 29.00% | ~137,264 |
-| Attack! | 28.00% | ~132,530 |
-| Tremendous Trio | 27.00% | ~127,797 |
+| Attack! | 28.00% | ~132,531 |
+| Tremendous Trio | 27.00% | ~127,798 |
 | You're On Fire | 26.00% | ~123,064 |
 | On A Roll | 26.00% | ~123,064 |
 | Unstoppable Force | 26.00% | ~123,064 |
@@ -35,23 +35,23 @@ Number of Ratings: 19,160  (23.09.2022)
 | Full Faith | 24.00% | ~113,598 |
 | Iron Curtain | 24.00% | ~113,598 |
 | The Boss | 24.00% | ~113,598 |
-| Top Of The Class | 23.00% | ~108,864 |
-| Goal Machine | 23.00% | ~108,864 |
-| Clean Bill of Health | 22.00% | ~104,131 |
-| What A Goal! | 22.00% | ~104,131 |
-| Cup Glory! | 22.00% | ~104,131 |
+| Top Of The Class | 23.00% | ~108,865 |
+| Goal Machine | 23.00% | ~108,865 |
+| Clean Bill of Health | 22.00% | ~104,132 |
+| What A Goal! | 22.00% | ~104,132 |
+| Cup Glory! | 22.00% | ~104,132 |
 | Splashing The Cash | 21.00% | ~99,398 |
 | Irresistible Force | 20.00% | ~94,665 |
 | Excellent Match Cohesion | 20.00% | ~94,665 |
-| Do The Double | 19.00% | ~89,931 |
+| Do The Double | 19.00% | ~89,932 |
 | Top Form | 17.00% | ~80,465 |
 | Cash To Burn | 17.00% | ~80,465 |
 | Overachiever! | 16.00% | ~75,732 |
-| Beating Expectations | 15.00% | ~70,998 |
-| Rushed signing | 15.00% | ~70,998 |
-| Window Shopping | 15.00% | ~70,998 |
-| Eyes and Ears | 14.00% | ~66,265 |
-| Comeback King! | 14.00% | ~66,265 |
+| Beating Expectations | 15.00% | ~70,999 |
+| Rushed signing | 15.00% | ~70,999 |
+| Window Shopping | 15.00% | ~70,999 |
+| Eyes and Ears | 14.00% | ~66,266 |
+| Comeback King! | 14.00% | ~66,266 |
 | You're Up! | 13.00% | ~61,532 |
 | Money, Money, Money | 12.00% | ~56,799 |
 | Superb Strike | 10.00% | ~47,332 |
@@ -63,11 +63,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Headhunted | 9.00% | ~42,599 |
 | Domination | 9.00% | ~42,599 |
 | Best In The Business | 8.00% | ~37,866 |
-| Legend | 6.00% | ~28,399 |
-| Win the Club World Cup | 6.00% | ~28,399 |
-| Parked The Tank | 6.00% | ~28,399 |
-| World Renowned | 6.00% | ~28,399 |
-| Head-to-Head | 6.00% | ~28,399 |
+| Legend | 6.00% | ~28,400 |
+| Win the Club World Cup | 6.00% | ~28,400 |
+| Parked The Tank | 6.00% | ~28,400 |
+| World Renowned | 6.00% | ~28,400 |
+| Head-to-Head | 6.00% | ~28,400 |
 | Going Places | 5.00% | ~23,666 |
 | We Trust You | 5.00% | ~23,666 |
 | Trophy Hoarder | 4.00% | ~18,933 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~473 |
 | Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,323 (Ranked 36)  
+Progressed: 473,325 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 21 (0.00%) (Ranked 277)
 | 2023-09-14 | 473,144 | 21 |
 | 2023-09-15 | 473,189 | 21 |
 | 2023-09-16 | 473,262 | 21 |
-| 2023-09-17 | 473,323 | 21 |
+| 2023-09-17 | 473,325 | 21 |
 ## Awards
 Max (Relaxing): 6,449  (Ranked 54)  
 Sum: 50,734 (Ranked 25)  

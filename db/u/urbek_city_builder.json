@@ -1124,9 +1124,9 @@
       "ID": "BANCO_1",
       "SetID": "44dlcg0",
       "Name": "Banking city",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BANCO_2",
@@ -1717,8 +1717,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:04:27.2709473+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:05:17.6170134+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.0271956+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:58:46.7352687+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:04:27.2710426+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:59:13.2141378+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:05:17.6170836+00:00"
 }

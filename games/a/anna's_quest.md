@@ -23,10 +23,10 @@
 | Show me your true self | 43.00% | ~17 |
 | A very special drink | 43.00% | ~17 |
 | Far away from home | 43.00% | ~17 |
+| GG | 40.00% | ~16 |
 | No posters allowed | 40.00% | ~16 |
-| GG | 38.00% | ~15 |
+| You've got mail! | 38.00% | ~15 |
 | Close the deal | 35.00% | ~14 |
-| You've got mail! | 35.00% | ~14 |
 | Pain in the hands | 35.00% | ~14 |
 | Mischief maker | 35.00% | ~14 |
 | Shattered | 33.00% | ~13 |

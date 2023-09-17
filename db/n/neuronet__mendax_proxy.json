@@ -203,9 +203,9 @@
       "ID": "AURORA04",
       "SetID": "2d85n75",
       "Name": "A Light in the Dark",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "AURORA_COMPLETE",
@@ -267,9 +267,9 @@
       "ID": "EVERYONE_NEEDS_ABREAK",
       "SetID": "2d85n75",
       "Name": "Everyone Needs a Break",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FIRST_DAY",
@@ -403,9 +403,9 @@
       "ID": "SOCIAL_BUTTERFLY",
       "SetID": "2d85n75",
       "Name": "Social Butterfly",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TALINGREY07",
@@ -556,8 +556,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:07:35.9587096+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:08:53.2597345+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:29.9468853+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:59:50.468047+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:07:35.9587539+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:00:26.1477557+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:08:53.2597675+00:00"
 }

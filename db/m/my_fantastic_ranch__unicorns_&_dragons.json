@@ -4,7 +4,7 @@
   "ProductSlug": "my-fantastic-ranch",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-09-17T13:16:44.4622514+00:00",
       "NumProgressed": 29,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T23:08:23.3871102+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -183,7 +188,7 @@
       "ID": "1",
       "SetID": "6ljhbe4",
       "Name": "Let the Adventure Begin!",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -191,7 +196,7 @@
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -199,7 +204,7 @@
       "ID": "11",
       "SetID": "6ljhbe4",
       "Name": "Think Positive",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -271,7 +276,7 @@
       "ID": "2",
       "SetID": "6ljhbe4",
       "Name": "Spirit of competition",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -327,7 +332,7 @@
       "ID": "3",
       "SetID": "6ljhbe4",
       "Name": "Kingdom Party Time",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -335,7 +340,7 @@
       "ID": "4",
       "SetID": "6ljhbe4",
       "Name": "Entering New Territory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
       "UsersEstimate": 4
     },
@@ -375,7 +380,7 @@
       "ID": "9",
       "SetID": "6ljhbe4",
       "Name": "Prized Possession",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 60,
       "UsersEstimate": 9
     }
@@ -384,7 +389,7 @@
     {
       "ID": "6ljhbe4",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
@@ -392,8 +397,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:07:10.9008227+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:08:23.3871095+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.3029411+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:58:37.792565+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:07:10.9008432+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:58:59.9448039+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:08:23.3871253+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7672,10 +7672,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43589,
       "NumberOfAwardsMax": 22799
+    },
+    {
+      "Time": "2023-09-17T22:57:11.5667137+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43618,
+      "NumberOfAwardsMax": 22799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43589,
+  "NumberOfAwards": 43618,
   "NumberOfAwardsMax": 22799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7689,7 +7695,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11176
+      "Count": 11205
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -7752,10 +7758,10 @@
       "Count": 655
     }
   ],
-  "EOS_Progressed": 296860,
+  "EOS_Progressed": 296862,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 538,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 535,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -24057,6 +24063,11 @@
       "Time": "2023-09-17T22:04:18.9868349+00:00",
       "NumProgressed": 296860,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-17T23:05:07.7467001+00:00",
+      "NumProgressed": 296862,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24068,7 +24079,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41560
+      "UsersEstimate": 41561
     },
     {
       "ID": "PFA_10",
@@ -24100,7 +24111,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26717
+      "UsersEstimate": 26718
     },
     {
       "ID": "PFA_14",
@@ -24172,7 +24183,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26717
+      "UsersEstimate": 26718
     },
     {
       "ID": "PFA_22",
@@ -24292,7 +24303,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26717
+      "UsersEstimate": 26718
     },
     {
       "ID": "PFA_36",
@@ -24420,23 +24431,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26717
+      "UsersEstimate": 26718
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296860,
+      "Progressed": 296862,
       "Completed": 474
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-17T18:57:17.5764257+00:00",
-  "LastChanged_Achievements": "2023-09-17T22:04:18.986834+00:00",
+  "LastChanged": "2023-09-17T22:57:11.5667136+00:00",
+  "LastChanged_Achievements": "2023-09-17T23:05:07.7466996+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:57:00.2001764+00:00",
-  "LastUpdate_Achievements": "2023-09-17T22:04:18.9869841+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:57:11.5667142+00:00",
+  "LastUpdate_Achievements": "2023-09-17T23:05:07.746806+00:00"
 }

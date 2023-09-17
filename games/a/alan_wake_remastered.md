@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,913 |
+| Follow the Light | 41.00% | ~26,914 |
 | Let There Be Light | 33.00% | ~21,662 |
-| Float Like a Butterfly | 32.00% | ~21,005 |
+| Float Like a Butterfly | 32.00% | ~21,006 |
 | Nordic Walking | 26.00% | ~17,067 |
-| Bright Falls' Finest | 25.00% | ~16,410 |
+| Bright Falls' Finest | 25.00% | ~16,411 |
 | Under a Thin Layer of Skin | 22.00% | ~14,441 |
-| Park Ranger | 18.00% | ~11,815 |
-| Paging Mr. Wake | 18.00% | ~11,815 |
+| Park Ranger | 18.00% | ~11,816 |
+| Paging Mr. Wake | 18.00% | ~11,816 |
 | Back! Back, I Say! | 17.00% | ~11,159 |
 | Finders Keepers | 17.00% | ~11,159 |
 | Damn Good Cup of Coffee | 16.00% | ~10,503 |
@@ -22,10 +22,10 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 15.00% | ~9,846 |
 | Wheels Within Wheels | 14.00% | ~9,190 |
 | The Six-Gun Scribe | 14.00% | ~9,190 |
-| Heavy Metal | 13.00% | ~8,533 |
-| Iron Horse | 13.00% | ~8,533 |
-| Collateral Carnage | 13.00% | ~8,533 |
-| Come One, Come All | 13.00% | ~8,533 |
+| Heavy Metal | 13.00% | ~8,534 |
+| Iron Horse | 13.00% | ~8,534 |
+| Collateral Carnage | 13.00% | ~8,534 |
+| Come One, Come All | 13.00% | ~8,534 |
 | Perchance to Dream | 12.00% | ~7,877 |
 | It's Not Just a Typewriter Brand | 12.00% | ~7,877 |
 | Thunder and Lightning | 12.00% | ~7,877 |
@@ -38,13 +38,13 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 8.00% | ~5,251 |
 | A Friend in Need | 8.00% | ~2,329 |
 | Departure | 7.00% | ~4,595 |
-| Drink 'Em Both Up | 6.00% | ~3,938 |
-| Hardboiled Writer | 6.00% | ~3,938 |
+| Drink 'Em Both Up | 6.00% | ~3,939 |
+| Hardboiled Writer | 6.00% | ~3,939 |
 | A Friend Indeed | 6.00% | ~1,747 |
 | Children of the Elder God | 5.00% | ~3,282 |
 | If It Flies, It Burns | 5.00% | ~3,282 |
 | KBF-FM | 5.00% | ~3,282 |
-| Ding! | 5.00% | ~1,455 |
+| Ding! | 5.00% | ~1,456 |
 | Boob Tube | 4.00% | ~2,626 |
 | Carny | 3.00% | ~1,969 |
 | Kill Your Darlings | 3.00% | ~873 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,641 (Ranked 88)  
+Progressed: 65,643 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 65 (0.10%) (Ranked 221)
 | 2023-09-14 | 65,260 | 65 |
 | 2023-09-15 | 65,366 | 65 |
 | 2023-09-16 | 65,510 | 65 |
-| 2023-09-17 | 65,641 | 65 |
+| 2023-09-17 | 65,643 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
