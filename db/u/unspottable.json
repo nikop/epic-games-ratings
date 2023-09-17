@@ -2,9 +2,9 @@
   "ID": "bc00696af836471cbacfd496e9e5f877",
   "Name": "Unspottable",
   "ProductSlug": "unspottable",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-12-14T19:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -50,6 +50,11 @@
     {
       "Time": "2023-09-16T22:05:20.3348434+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T19:07:42.6639056+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -77,7 +82,7 @@
       "ID": "UNS_BIG_WIN",
       "SetID": "322abb1",
       "Name": "Big Win",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -87,7 +92,7 @@
       "Name": "Catch me if you can",
       "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "UNS_CLUTCH",
@@ -125,7 +130,7 @@
       "ID": "UNS_HA_HA",
       "SetID": "322abb1",
       "Name": "Ha-Ha!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -157,7 +162,7 @@
       "ID": "UNS_MISSION_IMPOSSIBLE",
       "SetID": "322abb1",
       "Name": "Mission Impossible",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -165,7 +170,7 @@
       "ID": "UNS_NIGHT_VISION",
       "SetID": "322abb1",
       "Name": "Night vision",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -189,7 +194,7 @@
       "ID": "UNS_OUT_AREA",
       "SetID": "322abb1",
       "Name": "Out of my area",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -197,15 +202,15 @@
       "ID": "UNS_ROBOT_CLEANER",
       "SetID": "322abb1",
       "Name": "Robot cleaner",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UNS_SHORT_AND_SWEET",
       "SetID": "322abb1",
       "Name": "Short and Sweet",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -221,7 +226,7 @@
       "ID": "UNS_SKYNET_WINS",
       "SetID": "322abb1",
       "Name": "Skynet Wins",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -237,9 +242,9 @@
       "ID": "UNS_TEACHER_PET",
       "SetID": "322abb1",
       "Name": "Teacher\u0027s pet",
-      "Percentage": 25,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNS_TRIPLE_PUNCH",
@@ -253,7 +258,7 @@
       "ID": "UNS_UNDER_THE_SPOT",
       "SetID": "322abb1",
       "Name": "Under the spotlights",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 30,
       "UsersEstimate": 3
     }
@@ -262,7 +267,7 @@
     {
       "ID": "322abb1",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
@@ -270,8 +275,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.2382786+00:00",
   "FirstSeenAchievements": "2023-07-03T15:05:05.5856649+00:00",
   "LastChanged": "2023-03-31T05:58:41.2382787+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:07:30.3902641+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:07:42.6639052+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:18.8578995+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:57:51.5256622+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:07:30.3902951+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:57:47.0189106+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:07:42.6639182+00:00"
 }

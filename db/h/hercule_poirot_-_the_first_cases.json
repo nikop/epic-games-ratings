@@ -591,9 +591,9 @@
       "ID": "ACH_019",
       "SetID": "72imik0",
       "Name": "Fine-toothed Comb",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_02",
@@ -799,9 +799,9 @@
       "ID": "ACH_042",
       "SetID": "72imik0",
       "Name": "Luc Piette",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_043",
@@ -888,8 +888,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:06:19.3872216+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:06:24.5853409+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:09.597358+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:58:15.4819886+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:06:19.3872794+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:58:20.2829454+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:06:24.5853788+00:00"
 }

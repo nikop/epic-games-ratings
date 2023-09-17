@@ -6,16 +6,16 @@ Rating: 4.35 (Ranked 758)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 89.00% | ~377 |
-| Luc Piette | 75.00% | ~318 |
+| Luc Piette | 76.00% | ~322 |
 | Angeline Van den Bosch | 73.00% | ~310 |
 | Elizabeth Padget | 70.00% | ~297 |
 | Little Grey Cells | 68.00% | ~288 |
 | The Bracelet | 65.00% | ~276 |
 | The Blackmail | 55.00% | ~233 |
 | Major Felix Hagen | 55.00% | ~233 |
+| Fine-toothed Comb | 54.00% | ~229 |
 | Florette Duval | 54.00% | ~229 |
 | Order and Method | 53.00% | ~225 |
-| Fine-toothed Comb | 53.00% | ~225 |
 | The Altercation | 50.00% | ~212 |
 | Truth from Within | 49.00% | ~208 |
 | The Major | 47.00% | ~199 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7483,
+  "EOS_Progressed": 7484,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6964,6 +6964,11 @@
       "Time": "2023-09-17T17:15:00.577679+00:00",
       "NumProgressed": 7483,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-17T19:11:25.4669111+00:00",
+      "NumProgressed": 7484,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7031,7 +7036,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "FASHION_VICTIM",
@@ -7039,7 +7044,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -7079,7 +7084,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "LIBERATOR",
@@ -7142,7 +7147,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7483,
+      "Progressed": 7484,
       "Completed": 33
     }
   ],
@@ -7150,8 +7155,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:11:13.577097+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:11:25.4669107+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:01.8462778+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:57:09.5946692+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:11:13.5771775+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:57:07.2104322+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:11:25.4669522+00:00"
 }

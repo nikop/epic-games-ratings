@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
@@ -1223,6 +1223,11 @@
       "Time": "2023-09-17T15:08:17.702565+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T19:09:33.0512876+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1250,7 +1255,7 @@
       "Name": "Fresh Pancake",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_daily_challenge_15",
@@ -1264,7 +1269,7 @@
       "ID": "ach_daily_challenge_30",
       "SetID": "cmg602e",
       "Name": "30 Days",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1282,7 +1287,7 @@
       "Name": "First Blood",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_first_harvest",
@@ -1290,7 +1295,7 @@
       "Name": "Seeds of War",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1298,7 +1303,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1472,7 +1477,7 @@
       "ID": "ach_pro_rocket_kills",
       "SetID": "cmg602e",
       "Name": "Pro Carrocketeer",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1496,7 +1501,7 @@
       "ID": "ach_pro_sniper_kills",
       "SetID": "cmg602e",
       "Name": "Pro Sniperagus",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1520,9 +1525,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1544,9 +1549,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1578,7 +1583,7 @@
       "Name": "Cornivore",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_all_koth_points",
@@ -1592,7 +1597,7 @@
       "ID": "ach_bow_heals",
       "SetID": "bf10c8p",
       "Name": "Berry Loved",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1616,9 +1621,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -1672,7 +1677,7 @@
       "ID": "ach_rocket_kill_from_silo",
       "SetID": "bf10c8p",
       "Name": "Carrocket From Above",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1738,13 +1743,13 @@
       "Name": "Aspairagus",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_x_peastol_healing_done",
       "SetID": "bf10c8p",
       "Name": "Heal Me Peas",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1825,13 +1830,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 2
     }
   ],
@@ -1839,8 +1844,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:09:11.3607856+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:09:33.051287+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.845501+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:59:51.057641+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:09:11.3609367+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:00:08.8353011+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:09:33.0513516+00:00"
 }

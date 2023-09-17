@@ -6,52 +6,52 @@ Rating: 4.77 (Ranked 110)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,559 |
-| First Class Student | 13.00% | ~38,590 |
-| Troll with the Punches | 13.00% | ~38,590 |
+| First Class Student | 13.00% | ~38,591 |
+| Troll with the Punches | 13.00% | ~38,591 |
 | A Keen Sense of Spell | 12.00% | ~35,622 |
-| A Talent for Spending | 11.00% | ~32,653 |
-| That's a Keeper | 11.00% | ~32,653 |
+| A Talent for Spending | 11.00% | ~32,654 |
+| That's a Keeper | 11.00% | ~32,654 |
 | Grappling with a Graphorn | 10.00% | ~29,685 |
 | The One Who Mastered Memories | 10.00% | ~29,685 |
 | The Hallowed Hero | 10.00% | ~29,685 |
 | The Defender of Dragons | 10.00% | ~29,685 |
 | Loom for Improvement | 10.00% | ~29,685 |
 | Coasting Along | 10.00% | ~29,685 |
-| The Hero of Hogwarts | 9.00% | ~26,716 |
-| Challenge Accepted | 9.00% | ~26,716 |
-| Followed the Butterflies | 9.00% | ~26,716 |
-| Rising From the Ashes | 9.00% | ~26,716 |
+| The Hero of Hogwarts | 9.00% | ~26,717 |
+| Challenge Accepted | 9.00% | ~26,717 |
+| Followed the Butterflies | 9.00% | ~26,717 |
+| Rising From the Ashes | 9.00% | ~26,717 |
 | A Sallow Grave | 8.00% | ~23,748 |
 | The Spell Master | 8.00% | ~23,748 |
-| The Avenging Gazelle | 7.00% | ~20,779 |
-| Beast Friends | 7.00% | ~20,779 |
-| Flight the Good Flight | 7.00% | ~20,779 |
+| The Avenging Gazelle | 7.00% | ~20,780 |
+| Beast Friends | 7.00% | ~20,780 |
+| Flight the Good Flight | 7.00% | ~20,780 |
 | The Seeker of Knowledge | 6.00% | ~17,811 |
 | Raising Expectations | 6.00% | ~17,811 |
-| The Root of the Problem | 5.00% | ~14,842 |
-| Third Time's a Charm | 5.00% | ~14,842 |
-| The Ends Petrify the Means | 5.00% | ~14,842 |
+| The Root of the Problem | 5.00% | ~14,843 |
+| Third Time's a Charm | 5.00% | ~14,843 |
+| The Ends Petrify the Means | 5.00% | ~14,843 |
 | The Toast of the Town | 4.00% | ~11,874 |
 | Going Through the Potions | 4.00% | ~11,874 |
 | Room with a View | 4.00% | ~11,874 |
 | The Intrepid Explorer | 4.00% | ~11,874 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,874 |
 | The Wise Owl | 4.00% | ~11,874 |
-| Put Down Roots | 3.00% | ~8,905 |
-| Floo Around the World | 3.00% | ~8,905 |
+| Put Down Roots | 3.00% | ~8,906 |
+| Floo Around the World | 3.00% | ~8,906 |
 | The Good Samaritan | 2.00% | ~5,937 |
 | The Auror's Apprentice | 2.00% | ~5,937 |
 | Rise to the Challenges | 2.00% | ~5,937 |
 | Finishing Touches | 2.00% | ~5,937 |
-| Savvy Spender | 1.00% | ~2,968 |
-| Demiguise Dread | 1.00% | ~2,968 |
-| A Forte for Achievement | 1.00% | ~2,968 |
+| Savvy Spender | 1.00% | ~2,969 |
+| Demiguise Dread | 1.00% | ~2,969 |
+| A Forte for Achievement | 1.00% | ~2,969 |
 | Merlin's Beard! | 0.90% | ~2,672 |
 | Spilled Milk | 0.80% | ~2,375 |
 | The Nature of the Beast | 0.60% | ~1,781 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,847 (Ranked 43)  
+Progressed: 296,851 (Ranked 43)  
 Completed: 474 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,14 +201,14 @@ Completed: 474 (0.16%) (Ranked 204)
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
 | 2023-09-16 | 296,761 | 472 |
-| 2023-09-17 | 296,847 | 474 |
+| 2023-09-17 | 296,851 | 474 |
 ## Awards
-Max (Character Customization): 22,752  (Ranked 17)  
-Sum: 43,538 (Ranked 30)  
+Max (Character Customization): 22,799  (Ranked 17)  
+Sum: 43,589 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 22,752 |
+| This game has Inclusive Character Customization | 22,799 |
 | This game has Great Boss Battles | 11,176 |
 | This game is Great for Beginners | 1,075 |
 | This game has Amazing Storytelling | 1,038 |
@@ -216,7 +216,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,028 |
 | This game has Diverse Characters | 1,025 |
 | This game has Amazing Characters | 1,001 |
-| This game is Highly Recommended | 980 |
+| This game is Highly Recommended | 984 |
 | This game has Quickly Understood Controls | 922 |
 | This game has Beautiful Visuals | 856 |
 | This game has a Creative Community | 655 |
@@ -400,4 +400,4 @@ Diff (max vs sum): -13
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
 | 2023-09-16 | 4.77 | 22,752 | 43,493 |
-| 2023-09-17 | 4.77 | 22,752 | 43,538 |
+| 2023-09-17 | 4.77 | 22,799 | 43,589 |

@@ -3562,10 +3562,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7534,
       "NumberOfAwardsMax": 954
+    },
+    {
+      "Time": "2023-09-17T18:58:29.7262585+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7537,
+      "NumberOfAwardsMax": 954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7534,
+  "NumberOfAwards": 7537,
   "NumberOfAwardsMax": 954,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3627,7 +3633,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 626
+      "Count": 629
     },
     {
       "Text": "This game has Easy Combat",
@@ -3636,9 +3642,9 @@
       "Count": 501
     }
   ],
-  "EOS_Progressed": 9816,
+  "EOS_Progressed": 9819,
   "EOS_Completed": 223,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -13006,6 +13012,11 @@
       "Time": "2023-09-17T18:08:15.9762079+00:00",
       "NumProgressed": 9816,
       "NumCompleted": 223
+    },
+    {
+      "Time": "2023-09-17T19:08:32.446365+00:00",
+      "NumProgressed": 9819,
+      "NumCompleted": 223
     }
   ],
   "TotalAchievements": 15,
@@ -13025,7 +13036,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 3828
+      "UsersEstimate": 3829
     },
     {
       "ID": "Bestest_Friend",
@@ -13033,7 +13044,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 4614
+      "UsersEstimate": 4615
     },
     {
       "ID": "Chef_Cook",
@@ -13049,7 +13060,7 @@
       "Name": "Chit Chatter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Constructor",
@@ -13057,7 +13068,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 5104
+      "UsersEstimate": 5106
     },
     {
       "ID": "Duty_Bound",
@@ -13073,7 +13084,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "Generous",
@@ -13089,7 +13100,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6969
+      "UsersEstimate": 6971
     },
     {
       "ID": "Miner",
@@ -13097,7 +13108,7 @@
       "Name": "Miner",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "Photographer",
@@ -13105,7 +13116,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6773
+      "UsersEstimate": 6775
     },
     {
       "ID": "Renovator",
@@ -13113,7 +13124,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5006
+      "UsersEstimate": 5008
     },
     {
       "ID": "Thorn_Cleaner",
@@ -13129,23 +13140,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 6184
+      "UsersEstimate": 6186
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9816,
+      "Progressed": 9819,
       "Completed": 223
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-09-17T13:00:52.6404303+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:08:15.9762071+00:00",
+  "LastChanged": "2023-09-17T18:58:29.7262583+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:08:32.4463642+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.4844049+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:58:26.6564911+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:08:15.9763219+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:58:29.7262593+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:08:32.4465557+00:00"
 }

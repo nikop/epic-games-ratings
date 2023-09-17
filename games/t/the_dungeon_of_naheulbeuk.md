@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,450 |
+| Sowwy! | 30.00% | ~67,455 |
 | Alt+F4 | 5.00% | ~11,242 |
-| Déjà vu | 4.00% | ~8,993 |
-| Where's that freaking Dwarf? | 4.00% | ~8,993 |
-| Sock! SOCK! | 3.00% | ~6,745 |
-| Speedrun | 3.00% | ~6,745 |
+| Déjà vu | 4.00% | ~8,994 |
+| Where's that freaking Dwarf? | 4.00% | ~8,994 |
+| Sock! SOCK! | 3.00% | ~6,746 |
+| Speedrun | 3.00% | ~6,746 |
 | Livin' in a dwarven paradise | 2.00% | ~4,497 |
 | Way of the Wimp | 2.00% | ~4,497 |
 | A beer, two curses, three companions | 2.00% | ~4,497 |
@@ -36,9 +36,9 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,248 |
 | Team Building Exercise | 1.00% | ~2,248 |
 | Oh, when I'll be level 10... | 1.00% | ~2,248 |
-| Res Judicata | 0.90% | ~2,023 |
-| Dwarf Fortress | 0.90% | ~2,023 |
-| %#*!$*! | 0.90% | ~2,023 |
+| Res Judicata | 0.90% | ~2,024 |
+| Dwarf Fortress | 0.90% | ~2,024 |
+| %#*!$*! | 0.90% | ~2,024 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,799 |
 | Dead for good | 0.70% | ~1,574 |
 | Lust and Debauchery | 0.70% | ~1,574 |
@@ -48,10 +48,10 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.50% | ~1,124 |
 | An old poacher makes the best gamekeeper | 0.40% | ~899 |
 | We come in peace | 0.40% | ~899 |
-| Holistic Adventuring Party | 0.30% | ~674 |
-| Scholar of the Lands of Fangh | 0.30% | ~674 |
-| Law and Order | 0.30% | ~674 |
-| It's been a hard day's night | 0.30% | ~674 |
+| Holistic Adventuring Party | 0.30% | ~675 |
+| Scholar of the Lands of Fangh | 0.30% | ~675 |
+| Law and Order | 0.30% | ~675 |
+| It's been a hard day's night | 0.30% | ~675 |
 | Friendly fire | 0.20% | ~450 |
 | I'd rather... Just... Sing! | 0.20% | ~450 |
 | The number of the counting shalt be 7 | 0.20% | ~450 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,832 (Ranked 58)  
+Progressed: 224,850 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,15 +204,15 @@ Completed: 3 (0.00%) (Ranked 277)
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
 | 2023-09-16 | 224,568 | 3 |
-| 2023-09-17 | 224,832 | 3 |
+| 2023-09-17 | 224,850 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
-Sum: 335 (Ranked 337)  
-Diff (max vs sum): -62  
+Sum: 336 (Ranked 336)  
+Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 196 |
-| This game is Relaxing | 28 |
+| This game is Relaxing | 29 |
 | This game is Great for Beginners | 26 |
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 21 |
@@ -354,3 +354,4 @@ Diff (max vs sum): -62
 | 2023-09-14 | 4.59 | - | 195 | 314 |
 | 2023-09-15 | 4.59 | - | 196 | 315 |
 | 2023-09-16 | 4.59 | - | 196 | 335 |
+| 2023-09-17 | 4.59 | - | 196 | 336 |

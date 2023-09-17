@@ -1060,9 +1060,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1100,9 +1100,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1140,17 +1140,17 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1195,8 +1195,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:08:15.6118157+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:08:32.0540831+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:05:20.9033569+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:08:15.6118473+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:05:33.4928493+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:08:32.0540983+00:00"
 }

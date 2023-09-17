@@ -6,15 +6,15 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 6.00% | ~838 |
-| Play a Single Player Game | 6.00% | ~838 |
+| Settler | 6.00% | ~839 |
+| Play a Single Player Game | 6.00% | ~839 |
 | Explorer | 5.00% | ~699 |
+| Intrepid | 5.00% | ~699 |
 | Friendly Family | 5.00% | ~699 |
 | The Clergy | 5.00% | ~699 |
 | Able | 4.00% | ~559 |
 | Architect | 4.00% | ~559 |
 | Good | 4.00% | ~559 |
-| Intrepid | 4.00% | ~559 |
 | Mason | 4.00% | ~559 |
 | Noble | 4.00% | ~559 |
 | Strong | 4.00% | ~559 |
@@ -34,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 3.00% | ~419 |
 | Lighthouse | 3.00% | ~419 |
 | Pyramids | 3.00% | ~419 |
+| Christianity | 3.00% | ~419 |
 | Judaism | 3.00% | ~419 |
 | Babylonian Paganism | 3.00% | ~419 |
 | Carthaginian Paganism | 3.00% | ~419 |
@@ -44,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 3.00% | ~419 |
 | The Great Mage | 3.00% | ~419 |
 | Regicide | 2.00% | ~280 |
+| Hanging Gardens in Babylon | 2.00% | ~280 |
 | Drillmaster | 2.00% | ~280 |
 | Brilliant | 2.00% | ~280 |
 | Fountainhead | 2.00% | ~280 |
@@ -66,12 +68,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 2.00% | ~280 |
 | Learn to Play 1 | 2.00% | ~280 |
 | Learn to Play 2 | 2.00% | ~280 |
-| Christianity | 2.00% | ~280 |
 | Manichaeism | 2.00% | ~280 |
 | Egyptian Paganism | 2.00% | ~280 |
 | Mythology | 2.00% | ~280 |
 | Poetic Leader | 2.00% | ~280 |
-| Hanging Gardens in Babylon | 1.00% | ~140 |
 | Beloved | 1.00% | ~140 |
 | Capable | 1.00% | ~140 |
 | Conqueror | 1.00% | ~140 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,975 (Ranked 124)  
+Progressed: 13,977 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -453,7 +453,7 @@ Completed: 5 (0.04%) (Ranked 245)
 | 2023-09-14 | 13,909 | 5 |
 | 2023-09-15 | 13,926 | 5 |
 | 2023-09-16 | 13,958 | 5 |
-| 2023-09-17 | 13,975 | 5 |
+| 2023-09-17 | 13,977 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

@@ -6,8 +6,8 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,881 |
-| Un-Lonely Island | 47.00% | ~2,432 |
+| Just One...More...Term... | 75.00% | ~3,882 |
+| Un-Lonely Island | 47.00% | ~2,433 |
 | The Beginning of a Servantship | 45.00% | ~2,329 |
 | Trade Is My Trait | 37.00% | ~1,915 |
 | Number 18 | 24.00% | ~1,242 |
@@ -26,9 +26,9 @@ Number of Ratings: 398  (23.09.2022)
 | I Owe You Nothing | 7.00% | ~362 |
 | Make Tropico Great Again! | 7.00% | ~362 |
 | French Connection | 7.00% | ~362 |
-| Don't Panic! | 6.00% | ~310 |
-| Computer Says "No" | 6.00% | ~310 |
-| Beware The Betman | 6.00% | ~310 |
+| Don't Panic! | 6.00% | ~311 |
+| Computer Says "No" | 6.00% | ~311 |
+| Beware The Betman | 6.00% | ~311 |
 | Viva Tropico! | 5.00% | ~259 |
 | Watch The World Burn | 5.00% | ~259 |
 | Fairy Tale Come True | 5.00% | ~259 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~47 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,175 (Ranked 152)  
+Progressed: 5,176 (Ranked 152)  
 Completed: 2 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2 (0.04%) (Ranked 245)
 | 2023-09-14 | 5,093 | 2 |
 | 2023-09-15 | 5,115 | 2 |
 | 2023-09-16 | 5,153 | 2 |
-| 2023-09-17 | 5,175 | 2 |
+| 2023-09-17 | 5,176 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 342)  
 Sum: 686 (Ranked 281)  

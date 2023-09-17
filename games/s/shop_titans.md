@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,726 |
-| Basic in Bulk | 2.00% | ~2,726 |
-| Disintermediation | 2.00% | ~2,726 |
-| Tinkle of Coins | 2.00% | ~2,726 |
-| Capitalism Ho! | 2.00% | ~2,726 |
-| Titan's First Steps | 2.00% | ~2,726 |
+| Sponsored by Argon | 2.00% | ~2,727 |
+| Basic in Bulk | 2.00% | ~2,727 |
+| Disintermediation | 2.00% | ~2,727 |
+| Tinkle of Coins | 2.00% | ~2,727 |
+| Capitalism Ho! | 2.00% | ~2,727 |
+| Titan's First Steps | 2.00% | ~2,727 |
 | One Easy Payment | 1.00% | ~1,363 |
 | Some Assembly Required | 1.00% | ~1,363 |
 | Another Satisfied Customer | 1.00% | ~1,363 |
@@ -41,6 +41,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.60% | ~818 |
 | Power of Love | 0.60% | ~818 |
 | Flawless Fusion | 0.60% | ~818 |
+| Royal Ransom | 0.60% | ~818 |
 | Helping Hand | 0.60% | ~818 |
 | Natural 20 | 0.60% | ~818 |
 | A Notch Above the Rest | 0.50% | ~682 |
@@ -56,7 +57,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.50% | ~682 |
 | Expansion in Session | 0.50% | ~682 |
 | Trash to Treasure | 0.50% | ~682 |
-| Royal Ransom | 0.50% | ~682 |
 | Mammonite | 0.50% | ~682 |
 | Miracle Alchemist | 0.50% | ~682 |
 | Seasoned Journeyman | 0.50% | ~682 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,325 (Ranked 69)  
+Progressed: 136,327 (Ranked 69)  
 Completed: 152 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 152 (0.11%) (Ranked 218)
 | 2023-09-14 | 136,187 | 151 |
 | 2023-09-15 | 136,220 | 151 |
 | 2023-09-16 | 136,276 | 152 |
-| 2023-09-17 | 136,325 | 152 |
+| 2023-09-17 | 136,327 | 152 |
 ## Awards
 Max (Great for Beginners): 4,746  (Ranked 71)  
 Sum: 27,249 (Ranked 48)  

@@ -2,7 +2,7 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 883,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 64,
@@ -306,7 +306,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196941,
+  "EOS_Progressed": 196944,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
@@ -16531,6 +16531,11 @@
       "Time": "2023-09-17T18:09:38.05694+00:00",
       "NumProgressed": 196941,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-17T19:10:02.5815068+00:00",
+      "NumProgressed": 196944,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -16542,7 +16547,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15755
+      "UsersEstimate": 15756
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -16550,7 +16555,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 139828
+      "UsersEstimate": 139830
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -16574,7 +16579,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35449
+      "UsersEstimate": 35450
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -16669,7 +16674,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 196941,
+      "Progressed": 196944,
       "Completed": 4
     }
   ],
@@ -16677,8 +16682,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:09:38.0569391+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:10:02.5815064+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.6203771+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:02:32.6459111+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:09:38.0573499+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:02:47.1644723+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:10:02.5815947+00:00"
 }

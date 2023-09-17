@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -218,7 +218,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1915,
+  "EOS_Progressed": 1916,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -4773,6 +4773,11 @@
       "Time": "2023-09-17T18:07:47.7062647+00:00",
       "NumProgressed": 1915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T19:08:01.7945473+00:00",
+      "NumProgressed": 1916,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4784,7 +4789,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "A01",
@@ -4864,7 +4869,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "A11",
@@ -4880,7 +4885,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "A13",
@@ -4896,7 +4901,7 @@
       "Name": "A new Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "A15",
@@ -4942,9 +4947,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1418
     },
     {
       "ID": "A21",
@@ -4976,7 +4981,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "A25",
@@ -5008,7 +5013,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "A29",
@@ -5016,7 +5021,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "A30",
@@ -5024,7 +5029,7 @@
       "Name": "All mine",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "A31",
@@ -5040,7 +5045,7 @@
       "Name": "Assimilated",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "A33",
@@ -5072,7 +5077,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "A37",
@@ -5080,7 +5085,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "A38",
@@ -5120,7 +5125,7 @@
       "Name": "Bridge Builder",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "A43",
@@ -5128,7 +5133,7 @@
       "Name": "Mole",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "A44",
@@ -5152,7 +5157,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "A47",
@@ -5176,7 +5181,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "A50",
@@ -5200,7 +5205,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "A53",
@@ -5223,7 +5228,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1915,
+      "Progressed": 1916,
       "Completed": 0
     }
   ],
@@ -5231,8 +5236,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-12T04:00:17.7506037+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:07:47.706264+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:08:01.7945468+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.7134355+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:59:18.6108715+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:07:47.7064+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:59:29.532664+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:08:01.7946059+00:00"
 }

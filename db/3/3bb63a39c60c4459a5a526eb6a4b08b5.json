@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 715,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2591,6 +2591,11 @@
       "Time": "2023-09-17T17:13:09.2631502+00:00",
       "NumProgressed": 714,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T19:09:40.3233441+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2616,9 +2621,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 408
     },
     {
       "ID": "BigPlane",
@@ -2650,7 +2655,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Creator",
@@ -2802,7 +2807,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "NoTimeForModernization",
@@ -2930,21 +2935,21 @@
       "Name": "Transport Hub",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 715,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:09:17.7179021+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:09:40.3233434+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.4926233+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:05:16.0627261+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:09:17.717989+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:05:26.5970339+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:09:40.3233833+00:00"
 }

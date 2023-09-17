@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.91,
+  "EOS_Completed_Percentage": 4.88,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -774,6 +774,11 @@
       "Time": "2023-09-17T15:11:24.253256+00:00",
       "NumProgressed": 163,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-17T19:11:51.318336+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 25,
@@ -791,9 +796,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "META_ALL_LINK",
@@ -823,17 +828,17 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "META_RESULT_1-3",
@@ -873,7 +878,7 @@
       "Name": "A Link to the Past",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -905,7 +910,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -913,7 +918,7 @@
       "Name": "Fashion victim",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -921,7 +926,7 @@
       "Name": "Champollion",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -943,17 +948,17 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "PROGRESS_N3",
@@ -984,14 +989,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:11:36.7597254+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:11:51.3183355+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:00:47.3407947+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:11:36.7597578+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:01:13.6176366+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:11:51.3183531+00:00"
 }

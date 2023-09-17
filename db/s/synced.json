@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 93,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -184,15 +184,21 @@
       "Rating": 4.16,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-17T18:58:54.4625975+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50588,
+  "EOS_Progressed": 50722,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29421,
+  "EOS_NewPlayers": 29087,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1435,6 +1441,11 @@
       "Time": "2023-09-17T18:08:39.6930337+00:00",
       "NumProgressed": 50588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T19:08:58.3133787+00:00",
+      "NumProgressed": 50722,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1447,7 +1458,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2536
     },
     {
       "ID": "10",
@@ -1477,9 +1488,9 @@
       "ID": "13",
       "SetID": "2cfdi92",
       "Name": "Memory Keeper",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 51
     },
     {
       "ID": "14",
@@ -1511,7 +1522,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1522
     },
     {
       "ID": "3",
@@ -1519,7 +1530,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1014
     },
     {
       "ID": "4",
@@ -1527,7 +1538,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "5",
@@ -1535,7 +1546,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "6",
@@ -1574,16 +1585,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 50588,
+      "Progressed": 50722,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-09-17T05:58:17.140866+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:08:39.6930329+00:00",
+  "LastChanged": "2023-09-17T18:58:54.4625974+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:08:58.3133783+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.1772616+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:58:42.8656955+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:08:39.6930662+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:58:54.462598+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:08:58.3133937+00:00"
 }

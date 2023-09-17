@@ -7,13 +7,13 @@ Rating: 4.50 (Ranked 565)
 | ---- | ---------- | ----- |
 | Stylish | 0.40% | ~103 |
 | Advancement | 0.30% | ~78 |
+| Discovery | 0.30% | ~78 |
 | Meticulously Efficient | 0.30% | ~78 |
 | Animated | 0.20% | ~52 |
 | Back Off | 0.20% | ~52 |
 | Clutch Capture | 0.20% | ~52 |
 | I collect Spores, Molds, and Fungi | 0.20% | ~52 |
 | Cultured | 0.20% | ~52 |
-| Discovery | 0.20% | ~52 |
 | Fully Upgraded | 0.20% | ~52 |
 | Icing on the Cake | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
@@ -210,7 +210,7 @@ Completed: 56 (0.22%) (Ranked 195)
 | 2023-09-17 | 25,868 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
-Sum: 2,315 (Ranked 188)  
+Sum: 2,316 (Ranked 188)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -222,8 +222,8 @@ Diff (max vs sum): 66
 | This game is Extremely Fun | 228 |
 | This game is Highly Recommended | 226 |
 | This game is Relaxing | 224 |
+| This game has Quickly Understood Controls | 216 |
 | This game has Amazing Characters | 215 |
-| This game has Quickly Understood Controls | 215 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -389,4 +389,4 @@ Diff (max vs sum): 66
 | 2023-09-13 | 4.50 | 254 | 2,308 |
 | 2023-09-14 | 4.50 | 254 | 2,310 |
 | 2023-09-16 | 4.50 | 254 | 2,314 |
-| 2023-09-17 | 4.50 | 254 | 2,315 |
+| 2023-09-17 | 4.50 | 254 | 2,316 |

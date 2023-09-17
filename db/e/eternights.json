@@ -475,25 +475,25 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -603,17 +603,17 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -658,8 +658,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:07:57.2481242+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:08:12.4205747+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:00:46.4740579+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:07:57.2481582+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:01:12.2998696+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:08:12.4205924+00:00"
 }

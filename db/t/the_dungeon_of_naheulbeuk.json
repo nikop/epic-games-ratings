@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 417,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 337,
+  "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 45,
@@ -868,10 +868,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 335,
       "NumberOfAwardsMax": 196
+    },
+    {
+      "Time": "2023-09-17T18:59:56.4809761+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 336,
+      "NumberOfAwardsMax": 196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 335,
+  "NumberOfAwards": 336,
   "NumberOfAwardsMax": 196,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -885,7 +891,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Beginners",
@@ -918,9 +924,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224832,
+  "EOS_Progressed": 224850,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1818,
+  "EOS_NewPlayers": 1812,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11238,6 +11244,11 @@
       "Time": "2023-09-17T18:12:16.7379281+00:00",
       "NumProgressed": 224832,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T19:12:12.6613928+00:00",
+      "NumProgressed": 224850,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11265,7 +11276,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "BarbarianEpic",
@@ -11289,7 +11300,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "Chapter1",
@@ -11297,7 +11308,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8993
+      "UsersEstimate": 8994
     },
     {
       "ID": "Chapter2",
@@ -11393,7 +11404,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "CompanionPriestress",
@@ -11649,7 +11660,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8993
+      "UsersEstimate": 8994
     },
     {
       "ID": "DwarfElf15Support",
@@ -11665,7 +11676,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "DwarfInsultWin",
@@ -11673,7 +11684,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "DwarfLevel2",
@@ -11681,7 +11692,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6745
+      "UsersEstimate": 6746
     },
     {
       "ID": "ElfEpic",
@@ -11697,7 +11708,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67450
+      "UsersEstimate": 67455
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11817,7 +11828,7 @@
       "Name": "Law and Order",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "Poster",
@@ -11841,7 +11852,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "QuestMinstrel",
@@ -11897,7 +11908,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6745
+      "UsersEstimate": 6746
     },
     {
       "ID": "SupportCount4",
@@ -11952,21 +11963,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224832,
+      "Progressed": 224850,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224832,
+      "Progressed": 224850,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-16T05:58:03.2399409+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:12:16.7379274+00:00",
+  "LastChanged": "2023-09-17T18:59:56.480976+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:12:12.6613923+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-17T17:59:36.8624456+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:12:16.7380923+00:00"
+  "LastUpdate_Ratings": "2023-09-17T18:59:56.4809765+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:12:12.6615558+00:00"
 }

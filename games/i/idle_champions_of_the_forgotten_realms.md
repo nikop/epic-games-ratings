@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~458 |
 | Overdue Rendezvous | 0.20% | ~458 |
 | Moose Tracks | 0.20% | ~391 |
+| Dwarven Rumors | 0.20% | ~391 |
 | The Templar's Camp | 0.20% | ~458 |
 | Rescue in the Jungle | 0.20% | ~458 |
 | The Hunt for The Last Breath | 0.20% | ~391 |
@@ -433,7 +434,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Peril | 0.10% | ~195 |
 | Rickety Rubble | 0.10% | ~195 |
 | Expert Opinion | 0.10% | ~229 |
-| Dwarven Rumors | 0.10% | ~195 |
 | Mimic Perception | 0.10% | ~195 |
 | Frozen in Fear | 0.10% | ~195 |
 | It's Cold Out There Today | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,199 (Ranked 57)  
+Progressed: 229,206 (Ranked 57)  
 Completed: 2,291 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,7 +677,7 @@ Completed: 2,291 (1.00%) (Ranked 124)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,199 | 2,291 |
+| 2023-09-17 | 229,206 | 2,291 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,619 (Ranked 39)  

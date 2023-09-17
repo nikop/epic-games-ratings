@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2410,6 +2410,11 @@
       "Time": "2023-09-17T15:10:25.4463772+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T19:06:21.9241627+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2421,7 +2426,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -2477,7 +2482,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1182
     },
     {
       "ID": "EXPERT_1",
@@ -2517,7 +2522,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "INDY_1",
@@ -2573,7 +2578,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2605,7 +2610,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -2669,7 +2674,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "TRAVELER_1",
@@ -2685,7 +2690,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "WANDERER_1",
@@ -2693,7 +2698,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "WISHMASTER_1",
@@ -2708,15 +2713,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1194,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-17T17:14:48.5141688+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:06:21.924162+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.8587226+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:03:40.5669534+00:00",
-  "LastUpdate_Achievements": "2023-09-17T17:14:48.5142089+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:03:48.3031649+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:06:21.9248582+00:00"
 }

@@ -1365,9 +1365,9 @@
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 376
+      "UsersEstimate": 382
     },
     {
       "ID": "Relic",
@@ -1428,8 +1428,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:12:16.4136651+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:12:12.2923545+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:01.9364829+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:02:31.1204198+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:12:16.4136929+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:02:46.3152671+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:12:12.2923772+00:00"
 }

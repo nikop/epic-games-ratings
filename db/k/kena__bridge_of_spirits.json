@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1304,9 +1304,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428043,
+  "EOS_Progressed": 428044,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -11569,6 +11569,11 @@
       "Time": "2023-09-17T18:09:27.9968269+00:00",
       "NumProgressed": 428043,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-09-17T19:09:51.2980107+00:00",
+      "NumProgressed": 428044,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 41,
@@ -11580,7 +11585,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64206
+      "UsersEstimate": 64207
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -11604,7 +11609,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124132
+      "UsersEstimate": 124133
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -11668,7 +11673,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124132
+      "UsersEstimate": 124133
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -11692,7 +11697,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132693
+      "UsersEstimate": 132694
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -11716,7 +11721,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201180
+      "UsersEstimate": 201181
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -11748,7 +11753,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406641
+      "UsersEstimate": 406642
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -11764,7 +11769,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308191
+      "UsersEstimate": 308192
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -11796,7 +11801,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342434
+      "UsersEstimate": 342435
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -11812,7 +11817,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34243
+      "UsersEstimate": 34244
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -11836,7 +11841,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141254
+      "UsersEstimate": 141255
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -11860,7 +11865,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239704
+      "UsersEstimate": 239705
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -11868,7 +11873,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 184058
+      "UsersEstimate": 184059
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -11892,7 +11897,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132693
+      "UsersEstimate": 132694
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -11907,15 +11912,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428043,
+      "Progressed": 428044,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-10T15:01:55.9798538+00:00",
-  "LastChanged_Achievements": "2023-09-17T18:09:27.996826+00:00",
+  "LastChanged_Achievements": "2023-09-17T19:09:51.2980103+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:55.7444197+00:00",
-  "LastUpdate_Ratings": "2023-09-17T18:00:19.1549691+00:00",
-  "LastUpdate_Achievements": "2023-09-17T18:09:27.9969973+00:00"
+  "LastUpdate_Ratings": "2023-09-17T19:00:43.4641506+00:00",
+  "LastUpdate_Achievements": "2023-09-17T19:09:51.2980836+00:00"
 }

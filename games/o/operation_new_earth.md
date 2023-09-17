@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~376 |
+| It's Good to have Allies | 28.00% | ~377 |
 | Defenses Online | 25.00% | ~336 |
 | Facility Online | 21.00% | ~282 |
-| Corporal | 15.00% | ~202 |
+| Corporal | 14.00% | ~188 |
 | Sergeant | 11.00% | ~148 |
 | Covert Operative | 11.00% | ~148 |
 | Lieutenant | 10.00% | ~134 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,344 (Ranked 202)  
+Progressed: 1,345 (Ranked 202)  
 Completed: 1 (0.07%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,4 +144,4 @@ Completed: 1 (0.07%) (Ranked 231)
 | 2023-09-14 | 1,314 | 1 |
 | 2023-09-15 | 1,324 | 1 |
 | 2023-09-16 | 1,332 | 1 |
-| 2023-09-17 | 1,344 | 1 |
+| 2023-09-17 | 1,345 | 1 |

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,070 |
-| Flanked! | 77.00% | ~2,687 |
-| Economics 101 | 61.00% | ~2,128 |
-| Get Rich Quick | 44.00% | ~1,535 |
-| Do the Splits | 39.00% | ~1,361 |
-| Maestro | 26.00% | ~907 |
-| Full Employment | 19.00% | ~663 |
-| Clay Fighter | 16.00% | ~558 |
-| Nowhere left to Hide | 14.00% | ~488 |
+| You and what Army? | 88.00% | ~3,073 |
+| Flanked! | 77.00% | ~2,689 |
+| Economics 101 | 61.00% | ~2,130 |
+| Get Rich Quick | 44.00% | ~1,536 |
+| Do the Splits | 39.00% | ~1,362 |
+| Maestro | 26.00% | ~908 |
+| Full Employment | 18.00% | ~629 |
+| Clay Fighter | 16.00% | ~559 |
+| Nowhere left to Hide | 14.00% | ~489 |
 | All Ovens Blazing | 13.00% | ~454 |
 | Boulder Clash | 13.00% | ~454 |
 | Held Back by the Roots | 12.00% | ~419 |
@@ -22,11 +22,11 @@
 | Leave Them no Cake | 7.00% | ~244 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~244 |
 | Master of the Brawl | 7.00% | ~244 |
-| A Secret Recipe | 6.00% | ~209 |
-| Your Biggest Fans | 5.00% | ~174 |
-| An Ally in Need | 5.00% | ~174 |
-| For the Queen | 5.00% | ~174 |
-| Not a Drop Wasted | 5.00% | ~174 |
+| A Secret Recipe | 6.00% | ~210 |
+| Your Biggest Fans | 5.00% | ~175 |
+| An Ally in Need | 5.00% | ~175 |
+| For the Queen | 5.00% | ~175 |
+| Not a Drop Wasted | 5.00% | ~175 |
 | Reinforcements | 4.00% | ~140 |
 | Sweet Revenge | 4.00% | ~140 |
 | We Have the Technology | 4.00% | ~140 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~35 |
 | All Geared Up | 0.90% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,489 (Ranked 164)  
+Progressed: 3,492 (Ranked 164)  
 Completed: 11 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 11 (0.32%) (Ranked 177)
 | 2023-09-14 | 3,296 | 11 |
 | 2023-09-15 | 3,380 | 11 |
 | 2023-09-16 | 3,447 | 11 |
-| 2023-09-17 | 3,489 | 11 |
+| 2023-09-17 | 3,492 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
