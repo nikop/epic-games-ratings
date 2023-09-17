@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2549,
+  "EOS_Progressed": 2550,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -5896,6 +5896,11 @@
       "Time": "2023-09-17T13:15:47.8082825+00:00",
       "NumProgressed": 2549,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T15:08:25.7801699+00:00",
+      "NumProgressed": 2550,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5907,7 +5912,7 @@
       "Name": "Aggressor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AI_DRAW",
@@ -5947,7 +5952,7 @@
       "Name": "Express Yourself",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "FACE_FACE",
@@ -5955,7 +5960,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -6003,7 +6008,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "GRASSHOPPER",
@@ -6011,7 +6016,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "GUARD_MAKER",
@@ -6082,14 +6087,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2549,
+      "Progressed": 2550,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:10:18.0111623+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:08:25.7801694+00:00",
   "LastUpdate_AppInfo": "2023-09-13T01:39:00.1699898+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:07:10.2928431+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:10:18.0112154+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:05:16.7555889+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:08:25.7802206+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -7167,9 +7167,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 797
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -7398,8 +7398,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-16T21:58:52.2520124+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:10:18.4508646+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:08:26.2941082+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.1512746+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:01:08.4064506+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:10:18.450943+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:59:19.1501209+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:08:26.2941799+00:00"
 }

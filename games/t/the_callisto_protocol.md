@@ -7,10 +7,10 @@ Rating: 4.19 (Ranked 873)
 | ---- | ---------- | ----- |
 | Get a Grip | 7.00% | ~1,116 |
 | Paper Jams | 6.00% | ~957 |
+| Float Like A Butterfly | 5.00% | ~797 |
 | Flesh Wound | 4.00% | ~638 |
 | Two Heads Are Better Than One | 4.00% | ~638 |
 | Chew 'Em Up | 4.00% | ~638 |
-| Float Like A Butterfly | 4.00% | ~638 |
 | Reforged | 4.00% | ~638 |
 | In the Pipe, Five by Five | 4.00% | ~638 |
 | Full Circle | 4.00% | ~638 |

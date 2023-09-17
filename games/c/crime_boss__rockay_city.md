@@ -5,9 +5,9 @@ Rating: 3.93 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First One’s Free | 0.30% | ~263 |
 | Downed but Not Outed | 0.30% | ~263 |
 | Neophyte Ninja | 0.20% | ~175 |
-| First One’s Free | 0.20% | ~175 |
 | Too Old for This | 0.20% | ~175 |
 | Rockay Rex | 0.20% | ~175 |
 | Underworld Initiate | 0.10% | ~88 |
@@ -47,7 +47,7 @@ Rating: 3.93 (Ranked 960)
 | One for All | 0.10% | ~16 |
 | Now You See Me | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,548 (Ranked 77)  
+Progressed: 87,559 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,15 +197,15 @@ Completed: 46 (0.05%) (Ranked 240)
 | 2023-09-14 | 87,137 | 45 |
 | 2023-09-15 | 87,269 | 46 |
 | 2023-09-16 | 87,447 | 46 |
-| 2023-09-17 | 87,548 | 46 |
+| 2023-09-17 | 87,559 | 46 |
 ## Awards
 Max (Diverse Characters): 440  (Ranked 209)  
-Sum: 2,102 (Ranked 198)  
+Sum: 2,105 (Ranked 198)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 440 |
-| This game has Quickly Understood Controls | 430 |
+| This game has Quickly Understood Controls | 433 |
 | This game is Highly Recommended | 416 |
 | This game has Challenging Combat | 409 |
 | This game has Amazing Characters | 407 |
@@ -384,4 +384,4 @@ Diff (max vs sum): 11
 | 2023-09-14 | 3.93 | 436 | 2,072 |
 | 2023-09-15 | 3.93 | 436 | 2,080 |
 | 2023-09-16 | 3.93 | 438 | 2,095 |
-| 2023-09-17 | 3.93 | 440 | 2,102 |
+| 2023-09-17 | 3.93 | 440 | 2,105 |

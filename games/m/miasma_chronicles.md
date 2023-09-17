@@ -5,14 +5,14 @@ Rating: 4.41 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,325 |
+| First Blood | 93.00% | ~1,339 |
 | Ranidaphobia | 78.00% | ~1,123 |
 | Aspiring Editor | 75.00% | ~1,080 |
 | Gun for Hire | 70.00% | ~1,008 |
 | I am the law! | 64.00% | ~922 |
 | Lumberjack | 53.00% | ~763 |
 | Croaked | 48.00% | ~691 |
-| Limp Richard | 47.00% | ~677 |
+| Limp Richard | 48.00% | ~691 |
 | Exorcist | 47.00% | ~677 |
 | From Darkness to Light | 47.00% | ~677 |
 | Editor Adept | 46.00% | ~662 |
@@ -20,8 +20,8 @@ Rating: 4.41 (Ranked 691)
 | Sensei | 43.00% | ~619 |
 | Firestarter | 41.00% | ~590 |
 | The meaning of Kain | 40.00% | ~576 |
+| Recycler | 39.00% | ~562 |
 | Technophobe | 39.00% | ~562 |
-| Recycler | 38.00% | ~547 |
 | Are you not entertained? | 34.00% | ~490 |
 | Ganglord | 34.00% | ~490 |
 | Jarhead | 34.00% | ~490 |

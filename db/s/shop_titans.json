@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6094,9 +6094,9 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136312,
+  "EOS_Progressed": 136314,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21529,6 +21529,11 @@
       "Time": "2023-09-17T14:08:25.5132664+00:00",
       "NumProgressed": 136312,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-09-17T15:06:32.9164663+00:00",
+      "NumProgressed": 136314,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 112,
@@ -21780,7 +21785,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "commonres03",
@@ -21812,7 +21817,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "craft03",
@@ -21844,7 +21849,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "damage02",
@@ -22028,7 +22033,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "gold04",
@@ -22435,15 +22440,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136312,
+      "Progressed": 136314,
       "Completed": 152
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-17T10:59:11.4136136+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:08:25.5132657+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:06:32.9164657+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:00:46.7604553+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:08:25.5134921+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:59:13.0337255+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:06:32.9167089+00:00"
 }

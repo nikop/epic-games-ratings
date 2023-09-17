@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1536,6 +1536,11 @@
       "Time": "2023-09-17T12:14:04.1565057+00:00",
       "NumProgressed": 364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T15:11:04.2857678+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1604,7 +1609,7 @@
       "Name": "Pianist",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "platformer_player",
@@ -1658,9 +1663,9 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 81
     },
     {
       "ID": "treant_destroyer",
@@ -1699,14 +1704,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:12:19.341309+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:11:04.2857673+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:14.4117398+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:07:16.7703168+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:12:19.3413306+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:05:20.297868+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:11:04.2857905+00:00"
 }

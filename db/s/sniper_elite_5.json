@@ -5,9 +5,9 @@
   "Ranking_Rating": 626,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 518,
-  "Ranking_EOS_Progress": 160,
+  "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3628,
+  "EOS_Progressed": 3629,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6719,6 +6719,11 @@
       "Time": "2023-09-17T14:09:58.5671309+00:00",
       "NumProgressed": 3628,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-17T15:08:06.1434757+00:00",
+      "NumProgressed": 3629,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6730,7 +6735,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6880,9 +6885,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 472
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6898,7 +6903,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6954,7 +6959,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6962,7 +6967,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7042,7 +7047,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7066,7 +7071,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7122,7 +7127,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7297,13 +7302,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3579,
+      "Progressed": 3580,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3628,
+      "Progressed": 3629,
       "Completed": 10
     }
   ],
@@ -7311,8 +7316,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:09:58.56713+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:08:06.1434753+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:06:46.2543708+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:09:58.567242+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:04:51.6587896+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:08:06.1435815+00:00"
 }

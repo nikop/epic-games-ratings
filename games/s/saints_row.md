@@ -6,50 +6,50 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 45.00% | ~31,819 |
-| To The Nines | 41.00% | ~28,990 |
-| Optimized | 36.00% | ~25,455 |
-| Performance Review | 35.00% | ~24,748 |
-| Making a Name | 34.00% | ~24,041 |
-| Tune Up | 33.00% | ~23,334 |
-| Wet Work | 31.00% | ~21,919 |
-| Landlord | 31.00% | ~21,919 |
-| The Side Job | 30.00% | ~21,212 |
-| Wrecking Ball | 27.00% | ~19,091 |
-| Food for Thought | 27.00% | ~19,091 |
-| Finders Keepers | 25.00% | ~17,677 |
-| A Young Empire | 25.00% | ~17,677 |
-| Work Ethic | 23.00% | ~16,263 |
-| Picking Fights | 19.00% | ~13,435 |
-| Quality Time | 18.00% | ~12,727 |
-| Power Players | 18.00% | ~12,727 |
-| Showdown | 16.00% | ~11,313 |
-| Et tu? | 16.00% | ~11,313 |
-| Took It to The Limit | 16.00% | ~11,313 |
-| Kitted Out | 14.00% | ~9,899 |
-| Masters of Santo Ileso | 12.00% | ~8,485 |
-| Hijacked | 11.00% | ~7,778 |
-| The Spins | 10.00% | ~7,071 |
-| The Mechanic | 10.00% | ~7,071 |
-| We could go home, or… | 7.00% | ~4,950 |
-| Challenge Accepted | 7.00% | ~4,950 |
-| A Golden Age | 7.00% | ~4,950 |
-| Closet Space | 7.00% | ~4,950 |
-| Producer Credit | 7.00% | ~2,964 |
-| Face Off | 6.00% | ~2,541 |
-| The Professional | 5.00% | ~3,535 |
-| Chaos Tamer | 5.00% | ~3,535 |
-| Untouchable | 5.00% | ~3,535 |
-| Free Refills | 5.00% | ~3,535 |
-| Smooth Moves | 5.00% | ~3,535 |
-| Hazardous Heist | 5.00% | ~2,117 |
-| Neighborly | 4.00% | ~2,828 |
-| Prankster | 4.00% | ~2,828 |
-| Tourist | 4.00% | ~2,828 |
-| Shopping Spree | 3.00% | ~2,121 |
-| Always Be Hustling | 3.00% | ~2,121 |
-| Community Outreach | 3.00% | ~2,121 |
-| Bonus Round | 2.00% | ~1,414 |
+| First F#@!ing Day | 45.00% | ~31,833 |
+| To The Nines | 41.00% | ~29,003 |
+| Optimized | 36.00% | ~25,466 |
+| Performance Review | 35.00% | ~24,759 |
+| Making a Name | 34.00% | ~24,052 |
+| Tune Up | 33.00% | ~23,344 |
+| Wet Work | 31.00% | ~21,929 |
+| Landlord | 31.00% | ~21,929 |
+| The Side Job | 30.00% | ~21,222 |
+| Wrecking Ball | 27.00% | ~19,100 |
+| Food for Thought | 27.00% | ~19,100 |
+| Finders Keepers | 25.00% | ~17,685 |
+| A Young Empire | 25.00% | ~17,685 |
+| Work Ethic | 23.00% | ~16,270 |
+| Picking Fights | 19.00% | ~13,441 |
+| Quality Time | 18.00% | ~12,733 |
+| Power Players | 18.00% | ~12,733 |
+| Showdown | 16.00% | ~11,318 |
+| Et tu? | 16.00% | ~11,318 |
+| Took It to The Limit | 16.00% | ~11,318 |
+| Kitted Out | 14.00% | ~9,904 |
+| Masters of Santo Ileso | 12.00% | ~8,489 |
+| Hijacked | 11.00% | ~7,781 |
+| The Spins | 10.00% | ~7,074 |
+| The Mechanic | 10.00% | ~7,074 |
+| We could go home, or… | 7.00% | ~4,952 |
+| Challenge Accepted | 7.00% | ~4,952 |
+| A Golden Age | 7.00% | ~4,952 |
+| Closet Space | 7.00% | ~4,952 |
+| Producer Credit | 7.00% | ~2,966 |
+| Face Off | 6.00% | ~2,543 |
+| The Professional | 5.00% | ~3,537 |
+| Chaos Tamer | 5.00% | ~3,537 |
+| Untouchable | 5.00% | ~3,537 |
+| Free Refills | 5.00% | ~3,537 |
+| Smooth Moves | 5.00% | ~3,537 |
+| Hazardous Heist | 5.00% | ~2,119 |
+| Neighborly | 4.00% | ~2,830 |
+| Prankster | 4.00% | ~2,830 |
+| Tourist | 4.00% | ~2,830 |
+| Shopping Spree | 3.00% | ~2,122 |
+| Always Be Hustling | 3.00% | ~2,122 |
+| Community Outreach | 3.00% | ~2,122 |
+| Bonus Round | 2.00% | ~1,415 |
 | It's a Bird! | 1.00% | ~707 |
 | The Collector | 1.00% | ~707 |
 | All Mine | 1.00% | ~707 |
@@ -60,8 +60,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~141 |
 | Fiesta Time | 0.20% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,708 (Ranked 84)  
-Completed: 48 (0.07%) (Ranked 232)  
+Progressed: 70,740 (Ranked 84)  
+Completed: 48 (0.07%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,10 +210,10 @@ Completed: 48 (0.07%) (Ranked 232)
 | 2023-09-14 | 69,523 | 47 |
 | 2023-09-15 | 69,942 | 48 |
 | 2023-09-16 | 70,433 | 48 |
-| 2023-09-17 | 70,708 | 48 |
+| 2023-09-17 | 70,740 | 48 |
 ## Awards
 Max (Extremely Fun): 1,065  (Ranked 141)  
-Sum: 8,635 (Ranked 97)  
+Sum: 8,636 (Ranked 97)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -223,7 +223,7 @@ Diff (max vs sum): 44
 | This game is Great for Beginners | 998 |
 | This game has Diverse Characters | 997 |
 | This game has Amazing Characters | 985 |
-| This game is Relaxing | 981 |
+| This game is Relaxing | 982 |
 | This game has Amazing Storytelling | 969 |
 | This game has Playful Visuals | 777 |
 | This game has a Silly Community | 600 |
@@ -407,4 +407,4 @@ Diff (max vs sum): 44
 | 2023-09-14 | 3.79 | - | 1,065 | 8,629 |
 | 2023-09-15 | 3.79 | - | 1,065 | 8,631 |
 | 2023-09-16 | 3.79 | - | 1,065 | 8,633 |
-| 2023-09-17 | 3.79 | - | 1,065 | 8,635 |
+| 2023-09-17 | 3.79 | - | 1,065 | 8,636 |

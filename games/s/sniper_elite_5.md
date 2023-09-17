@@ -6,14 +6,14 @@ Rating: 4.46 (Ranked 626)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,669 |
-| Confirming Suspicions | 40.00% | ~1,451 |
+| Confirming Suspicions | 40.00% | ~1,452 |
 | The Kraken Wakes | 36.00% | ~1,306 |
-| It's Starting to Crack | 33.00% | ~1,197 |
-| Change the Channel | 30.00% | ~1,088 |
+| It's Starting to Crack | 33.00% | ~1,198 |
+| Change the Channel | 30.00% | ~1,089 |
 | Lord of War | 29.00% | ~1,052 |
 | Taking it back | 28.00% | ~1,016 |
-| Resourceful | 26.00% | ~943 |
-| Target America | 26.00% | ~943 |
+| Resourceful | 26.00% | ~944 |
+| Target America | 26.00% | ~944 |
 | The Kraken Sleeps | 24.00% | ~871 |
 | Liberté | 22.00% | ~798 |
 | Organ Grinder | 22.00% | ~798 |
@@ -22,8 +22,8 @@ Rating: 4.46 (Ranked 626)
 | Explosive Efficiency | 18.00% | ~653 |
 | Just a Flesh Wound | 17.00% | ~617 |
 | Gunslinger | 17.00% | ~617 |
-| Climbing the Ladder | 16.00% | ~580 |
-| Der Geist | 16.00% | ~580 |
+| Climbing the Ladder | 16.00% | ~581 |
+| Der Geist | 16.00% | ~581 |
 | Close Quarters | 15.00% | ~544 |
 | Brains of the Operation | 15.00% | ~544 |
 | Enemy at the Gates | 14.00% | ~508 |
@@ -33,7 +33,7 @@ Rating: 4.46 (Ranked 626)
 | Snake in the Grass | 14.00% | ~508 |
 | No Stone Unturned | 13.00% | ~472 |
 | Opposing Force | 13.00% | ~472 |
-| Set Europe Ablaze | 12.00% | ~435 |
+| Set Europe Ablaze | 13.00% | ~472 |
 | Precision Is Key | 9.00% | ~327 |
 | My Little Friend | 9.00% | ~327 |
 | Rigged to Blow | 8.00% | ~290 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 626)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,628 (Ranked 160)  
+Progressed: 3,629 (Ranked 161)  
 Completed: 10 (0.28%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 10 (0.28%) (Ranked 186)
 | 2023-09-14 | 3,612 | 10 |
 | 2023-09-15 | 3,614 | 10 |
 | 2023-09-16 | 3,621 | 10 |
-| 2023-09-17 | 3,628 | 10 |
+| 2023-09-17 | 3,629 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2073,9 +2073,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43475,
+  "EOS_Progressed": 43476,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6913,6 +6913,11 @@
       "Time": "2023-09-17T14:08:52.8077467+00:00",
       "NumProgressed": 43475,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-17T15:06:59.6616678+00:00",
+      "NumProgressed": 43476,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7028,7 +7033,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16955
+      "UsersEstimate": 16956
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -7052,7 +7057,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -7076,7 +7081,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -7084,7 +7089,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -7100,7 +7105,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -7108,7 +7113,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -7116,7 +7121,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26954
+      "UsersEstimate": 26955
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7188,7 +7193,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13477
+      "UsersEstimate": 13478
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -7204,7 +7209,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -7236,7 +7241,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16520
+      "UsersEstimate": 16521
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -7268,7 +7273,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13042
+      "UsersEstimate": 13043
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -7276,7 +7281,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -7292,7 +7297,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20433
+      "UsersEstimate": 20434
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -7308,7 +7313,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11738
+      "UsersEstimate": 11739
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -7451,15 +7456,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43475,
+      "Progressed": 43476,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-17T01:45:39.8835646+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:08:52.807746+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:06:59.6616673+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.0135076+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:05:21.093691+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:08:52.8078372+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:03:23.9099946+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:06:59.6617587+00:00"
 }

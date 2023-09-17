@@ -43,8 +43,8 @@ Number of Ratings: 58  (23.09.2022)
 | Mastery of Rites | 21.00% | ~249 |
 | Power Chord | 21.00% | ~249 |
 | Crash Test | 21.00% | ~249 |
+| Ascension | 20.00% | ~237 |
 | Rise as One | 19.00% | ~225 |
-| Ascension | 19.00% | ~225 |
 | Showoff | 15.00% | ~178 |
 | Overcharged | 10.00% | ~118 |
 | Radiation Area | 10.00% | ~118 |

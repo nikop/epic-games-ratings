@@ -5,19 +5,19 @@ Rating: 4.49 (Ranked 583)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,698 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,699 |
 | Keep 'Em Coming | 74.00% | ~2,435 |
 | Snatched Out | 74.00% | ~2,435 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,204 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,205 |
 | Call Me Snake | 63.00% | ~2,073 |
-| Something Lurks Under The Hills | 61.00% | ~2,007 |
-| This Was No Papercut | 59.00% | ~1,941 |
-| The Shrink Hates Me | 57.00% | ~1,875 |
-| People Person | 56.00% | ~1,842 |
+| Something Lurks Under The Hills | 61.00% | ~2,008 |
+| This Was No Papercut | 59.00% | ~1,942 |
+| The Shrink Hates Me | 57.00% | ~1,876 |
+| People Person | 56.00% | ~1,843 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,744 |
 | First Steps Into Madness | 53.00% | ~1,744 |
 | Colonial Barrels | 51.00% | ~1,678 |
-| Harper's Hell | 45.00% | ~1,480 |
+| Harper's Hell | 45.00% | ~1,481 |
 | Making a Stand | 44.00% | ~1,448 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,382 |
 | Where It All Begun | 40.00% | ~1,316 |
@@ -28,8 +28,8 @@ Rating: 4.49 (Ranked 583)
 | The Darwin Era Was Here | 30.00% | ~987 |
 | Deep Into Insanity | 28.00% | ~921 |
 | The Passenger | 28.00% | ~921 |
-| Come on, You Wanna Live Forever? | 27.00% | ~888 |
-| The Spire | 25.00% | ~822 |
+| Come on, You Wanna Live Forever? | 27.00% | ~889 |
+| The Spire | 25.00% | ~823 |
 | El Riesgo Siempre Vive | 24.00% | ~790 |
 | Stuff Of Nightmares | 23.00% | ~757 |
 | Excavating The Truth | 22.00% | ~724 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 583)
 | Chalk It Up To Experience | 0.80% | ~26 |
 | This Ain't No Picnic | 0.70% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,290 (Ranked 167)  
+Progressed: 3,291 (Ranked 167)  
 Completed: 3 (0.09%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 3 (0.09%) (Ranked 225)
 | 2023-09-14 | 3,247 | 3 |
 | 2023-09-15 | 3,263 | 3 |
 | 2023-09-16 | 3,281 | 3 |
-| 2023-09-17 | 3,290 | 3 |
+| 2023-09-17 | 3,291 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 481)  
 Sum: 26 (Ranked 490)  

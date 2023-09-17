@@ -30,14 +30,14 @@ Rating: 4.60 (Ranked 395)
 | Fiery Friend | 4.00% | ~207 |
 | Against the Odds | 4.00% | ~207 |
 | Impenetrable Fortress | 4.00% | ~207 |
-| God Emperor | 3.00% | ~155 |
-| Lord of Chaos | 3.00% | ~155 |
-| Arch Mage | 3.00% | ~155 |
-| The Creator | 3.00% | ~155 |
-| Enchanted Archipelago | 3.00% | ~155 |
-| The Goddess of Nature | 3.00% | ~155 |
-| Eternal Lord | 3.00% | ~155 |
-| Crimson Caldera | 3.00% | ~155 |
+| God Emperor | 3.00% | ~156 |
+| Lord of Chaos | 3.00% | ~156 |
+| Arch Mage | 3.00% | ~156 |
+| The Creator | 3.00% | ~156 |
+| Enchanted Archipelago | 3.00% | ~156 |
+| The Goddess of Nature | 3.00% | ~156 |
+| Eternal Lord | 3.00% | ~156 |
+| Crimson Caldera | 3.00% | ~156 |
 | The Magic That Empowers Me! | 2.00% | ~104 |
 | The Eternal Court | 2.00% | ~104 |
 | Jack of All Tomes | 2.00% | ~104 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 395)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,183 (Ranked 150)  
+Progressed: 5,184 (Ranked 150)  
 Completed: 6 (0.12%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 6 (0.12%) (Ranked 214)
 | 2023-09-14 | 5,175 | 6 |
 | 2023-09-15 | 5,178 | 6 |
 | 2023-09-16 | 5,181 | 6 |
-| 2023-09-17 | 5,183 | 6 |
+| 2023-09-17 | 5,184 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 485)  
 Sum: 25 (Ranked 493)  

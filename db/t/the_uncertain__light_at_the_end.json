@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -670,6 +670,11 @@
       "Time": "2023-09-17T12:12:57.6944263+00:00",
       "NumProgressed": 520,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T15:09:09.7217049+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -689,7 +694,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Butterfly",
@@ -713,7 +718,7 @@
       "Name": "Mind the Gap",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Echoes",
@@ -769,7 +774,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Hitman",
@@ -785,7 +790,7 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Investigative",
@@ -801,7 +806,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Leisurely_Strol",
@@ -809,7 +814,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "MISSING_DATA",
@@ -817,7 +822,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Misanthrope",
@@ -855,9 +860,9 @@
       "ID": "Old_Friend",
       "SetID": "ek310c",
       "Name": "A Familiar Face",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "Paparazzi",
@@ -912,7 +917,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 5
     }
   ],
@@ -920,8 +925,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:10:42.1380432+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:09:09.7217045+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:16.5027878+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:06:54.757361+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:10:42.138066+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:05:06.2208351+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:09:09.7217299+00:00"
 }

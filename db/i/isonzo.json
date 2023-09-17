@@ -832,9 +832,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6916,
+  "EOS_Progressed": 6917,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5547,6 +5547,11 @@
       "Time": "2023-09-17T14:08:34.829285+00:00",
       "NumProgressed": 6916,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-17T15:06:41.714067+00:00",
+      "NumProgressed": 6917,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5662,7 +5667,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -5670,7 +5675,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5702,7 +5707,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -5758,7 +5763,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -5790,7 +5795,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -5814,7 +5819,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -5846,7 +5851,7 @@
       "Name": "The Italian Job",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -5862,7 +5867,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -5878,7 +5883,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -5910,14 +5915,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6916,
+      "Progressed": 6917,
       "Completed": 8
     }
   ],
@@ -5925,8 +5930,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:08:34.8292845+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:06:41.7140666+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-17T13:59:24.0010385+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:08:34.8293566+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:58:33.431274+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:06:41.71413+00:00"
 }

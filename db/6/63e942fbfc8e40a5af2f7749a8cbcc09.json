@@ -4,7 +4,7 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -203,17 +203,17 @@
       "ID": "ClearF01",
       "SetID": "94lmepd",
       "Name": "The Empress",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ClearF01END",
       "SetID": "94lmepd",
       "Name": "The Tower",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ClearG01",
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:13:21.7606318+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:11:36.6295395+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:14.2650607+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:07:12.5793176+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:13:21.7606551+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:05:17.7202241+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:11:36.6295662+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 800,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1653,9 +1653,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 328
     },
     {
       "ID": "AC12",
@@ -1709,9 +1709,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 384
     },
     {
       "ID": "AC19",
@@ -1805,9 +1805,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 456
     },
     {
       "ID": "AC31",
@@ -1942,8 +1942,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:10:45.8975722+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:09:13.5506404+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:06:37.5536994+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:10:45.89762+00:00"
+  "LastUpdate_Ratings": "2023-09-17T15:04:42.5910302+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:09:13.5506881+00:00"
 }

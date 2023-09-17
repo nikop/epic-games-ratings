@@ -2,12 +2,12 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 39949,
+  "EOS_Progressed": 39950,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8516,6 +8516,11 @@
       "Time": "2023-09-17T14:08:06.2024973+00:00",
       "NumProgressed": 39949,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-17T15:06:13.1950383+00:00",
+      "NumProgressed": 39950,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8623,7 +8628,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -8631,7 +8636,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -8639,7 +8644,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -8647,7 +8652,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -8655,7 +8660,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -8679,7 +8684,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "CUFF_ATTACK",
@@ -8687,7 +8692,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -8743,7 +8748,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -8767,7 +8772,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -8815,7 +8820,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -8823,7 +8828,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -8839,7 +8844,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -8863,7 +8868,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "SPRING_ALL",
@@ -8950,22 +8955,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39949,
+      "Progressed": 39950,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4786,
-      "Completed": 4786
+      "Progressed": 4787,
+      "Completed": 4787
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-01T09:58:46.1320611+00:00",
-  "LastChanged_Achievements": "2023-09-17T14:08:06.2024967+00:00",
+  "LastChanged_Achievements": "2023-09-17T15:06:13.1950378+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:38.448166+00:00",
-  "LastUpdate_Ratings": "2023-09-17T14:02:03.7010842+00:00",
-  "LastUpdate_Achievements": "2023-09-17T14:08:06.202635+00:00"
+  "LastUpdate_Ratings": "2023-09-17T14:59:41.8962481+00:00",
+  "LastUpdate_Achievements": "2023-09-17T15:06:13.1951312+00:00"
 }

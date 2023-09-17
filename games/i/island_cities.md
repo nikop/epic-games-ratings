@@ -18,8 +18,8 @@
 | Calm neighborhood | 22.00% | ~154 |
 | Elevated ring | 20.00% | ~140 |
 | Not lonely anymore | 19.00% | ~133 |
-| Monumental tribute | 18.00% | ~126 |
-| The beach is right there | 17.00% | ~119 |
+| Monumental tribute | 19.00% | ~133 |
+| The beach is right there | 18.00% | ~126 |
 | Commuting | 17.00% | ~119 |
 | Le jardin magnifique | 17.00% | ~119 |
 | Aiming for a living and human city | 16.00% | ~112 |
@@ -28,7 +28,7 @@
 | Night walk along the beach | 15.00% | ~105 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 700 (Ranked 228)  
-Completed: 107 (15.29%) (Ranked 17)  
+Completed: 108 (15.43%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,6 +154,7 @@ Completed: 107 (15.29%) (Ranked 17)
 | 2023-09-14 | 697 | 106 |
 | 2023-09-15 | 699 | 107 |
 | 2023-09-16 | 700 | 107 |
+| 2023-09-17 | 700 | 108 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
