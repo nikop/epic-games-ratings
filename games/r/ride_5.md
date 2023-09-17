@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 40.00% | ~369 |
+| First Love | 40.00% | ~370 |
+| Clean Race | 39.00% | ~360 |
 | Hear That Roar! | 38.00% | ~351 |
-| Clean Race | 38.00% | ~351 |
 | Eat My Dust | 34.00% | ~314 |
 | Rivals to the End | 30.00% | ~277 |
 | We're Going to Need a Bigger Garage | 25.00% | ~231 |
@@ -16,8 +16,8 @@
 | Quick Pit Stop | 17.00% | ~157 |
 | Champagne Spray | 17.00% | ~157 |
 | Restored and Ready | 16.00% | ~148 |
-| Go-Faster Stripes | 15.00% | ~138 |
-| Legendary!!! | 15.00% | ~138 |
+| Go-Faster Stripes | 15.00% | ~139 |
+| Legendary!!! | 15.00% | ~139 |
 | We've Just Begun | 8.00% | ~74 |
 | Stamina Star | 7.00% | ~65 |
 | Is It the Right Size? | 6.00% | ~55 |
@@ -37,7 +37,7 @@
 | Back in Blighty | 1.00% | ~9 |
 | Exhausted but Happy | 1.00% | ~9 |
 | Overtaking the Master | 1.00% | ~9 |
-| I Don't Stop | 0.70% | ~6 |
+| I Don't Stop | 0.60% | ~6 |
 | Next Level | 0.50% | ~5 |
 | Globe-trotter | 0.30% | ~3 |
 | In Search of Perfection | 0.30% | ~3 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923 (Ranked 216)  
+Progressed: 924 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,4 +70,4 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 800 | 0 |
 | 2023-09-15 | 834 | 0 |
 | 2023-09-16 | 887 | 0 |
-| 2023-09-17 | 923 | 0 |
+| 2023-09-17 | 924 | 0 |

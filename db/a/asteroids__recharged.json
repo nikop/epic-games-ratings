@@ -2,10 +2,10 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -221,6 +221,11 @@
       "Time": "2023-09-16T00:07:53.4779027+00:00",
       "NumProgressed": 97,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T22:07:15.0005624+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 16,
@@ -262,7 +267,7 @@
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
       "SetID": "ca3jj1k",
       "Name": "Keep Yourself Alive",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 49
     },
@@ -294,7 +299,7 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
       "UsersEstimate": 67
     },
@@ -310,7 +315,7 @@
       "ID": "ACH_ROCK_IT",
       "SetID": "ca3jj1k",
       "Name": "Rock It",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 24
     },
@@ -320,13 +325,13 @@
       "Name": "The Hero",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 75,
       "UsersEstimate": 53
     },
@@ -359,7 +364,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 1
     }
   ],
@@ -367,8 +372,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:07:33.5134335+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:07:15.0005619+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.1718724+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:58:01.624273+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:07:33.5134441+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:58:02.993517+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:07:15.0005747+00:00"
 }

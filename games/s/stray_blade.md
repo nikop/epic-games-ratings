@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 89.00% | ~71 |
-| Tinkerer | 69.00% | ~55 |
-| Welcome to the Club | 39.00% | ~31 |
-| Apprentice | 34.00% | ~27 |
-| A new World ahead | 33.00% | ~26 |
-| Don't Cry Wolf | 25.00% | ~20 |
-| Can't touch this | 24.00% | ~19 |
+| Self-Defence | 88.00% | ~72 |
+| Tinkerer | 68.00% | ~56 |
+| Welcome to the Club | 39.00% | ~32 |
+| Apprentice | 33.00% | ~27 |
+| A new World ahead | 32.00% | ~26 |
+| Don't Cry Wolf | 24.00% | ~20 |
+| Can't touch this | 23.00% | ~19 |
 | Freezing Cold | 16.00% | ~13 |
 | Expert | 15.00% | ~12 |
-| The Power of the Mountains | 14.00% | ~11 |
-| Searing Heat | 13.00% | ~10 |
-| Nothing but the Truth | 13.00% | ~10 |
+| The Power of the Mountains | 13.00% | ~11 |
+| Searing Heat | 12.00% | ~10 |
+| Nothing but the Truth | 12.00% | ~10 |
 | The Golden Flash | 11.00% | ~9 |
 | Changing the World | 11.00% | ~9 |
 | Through Dangers Untold | 9.00% | ~7 |
 | Locked and Loaded | 9.00% | ~7 |
 | Witch | 9.00% | ~7 |
-| Craftsmen | 8.00% | ~6 |
+| Craftsmen | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
 | The A-Team | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
@@ -34,11 +34,11 @@
 | The End | 4.00% | ~3 |
 | A Deceiving Gift | 4.00% | ~3 |
 | Unveiling the Truth | 4.00% | ~3 |
-| Sponsor | 3.00% | ~2 |
-| Wizard | 3.00% | ~2 |
-| Wayseeker | 3.00% | ~2 |
-| Pathfinder | 3.00% | ~2 |
-| Globetrotter | 3.00% | ~2 |
+| Sponsor | 2.00% | ~2 |
+| Wizard | 2.00% | ~2 |
+| Wayseeker | 2.00% | ~2 |
+| Pathfinder | 2.00% | ~2 |
+| Globetrotter | 2.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
 | Mountain Lover | 1.00% | ~1 |
 | Wasteland Connoisseur | 1.00% | ~1 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 370)  
+Progressed: 82 (Ranked 370)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 75 | 0 |
 | 2023-09-15 | 76 | 0 |
 | 2023-09-16 | 79 | 0 |
-| 2023-09-17 | 80 | 0 |
+| 2023-09-17 | 82 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

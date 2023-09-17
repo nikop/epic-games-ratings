@@ -176,6 +176,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Silver Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
+| Silver Victory (Carthage 2) | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
@@ -205,7 +206,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Epic Victory (Carthage 2) | 0.10% | ~14 |
 | Gold Victory (Carthage 2) | 0.10% | ~14 |
-| Silver Victory (Carthage 2) | 0.10% | ~14 |
 | Carthage - Rise of Rome | 0.10% | ~14 |
 | Bronze Victory (Carthage 3) | 0.10% | ~14 |
 | Epic Victory (Carthage 3) | 0.10% | ~14 |

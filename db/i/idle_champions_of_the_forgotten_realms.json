@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6668,10 +6668,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31624,
       "NumberOfAwardsMax": 5285
+    },
+    {
+      "Time": "2023-09-17T21:57:49.5337387+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31629,
+      "NumberOfAwardsMax": 5285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31624,
+  "NumberOfAwards": 31629,
   "NumberOfAwardsMax": 5285,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6679,7 +6685,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5263
+      "Count": 5268
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6718,9 +6724,9 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229214,
+  "EOS_Progressed": 229222,
   "EOS_Completed": 2291,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23388,6 +23394,11 @@
       "Time": "2023-09-17T21:07:05.9980257+00:00",
       "NumProgressed": 229214,
       "NumCompleted": 2291
+    },
+    {
+      "Time": "2023-09-17T22:06:37.9313749+00:00",
+      "NumProgressed": 229222,
+      "NumCompleted": 2291
     }
   ],
   "TotalAchievements": 520,
@@ -23767,7 +23778,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "objective_completed_110",
@@ -24501,9 +24512,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 688
     },
     {
       "ID": "objective_completed_149",
@@ -24877,9 +24888,9 @@
       "ID": "objective_completed_246",
       "SetID": "cc37lbc",
       "Name": "The Immortal Warrior",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_247",
@@ -25071,7 +25082,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "objective_completed_34",
@@ -27558,21 +27569,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195488,
+      "Progressed": 195496,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229214,
+      "Progressed": 229222,
       "Completed": 2291
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-17T20:57:48.744907+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:07:05.9980254+00:00",
+  "LastChanged": "2023-09-17T21:57:49.5337386+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:06:37.9313744+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:57:48.7449076+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:07:06.0005097+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:57:49.5337393+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:06:37.934545+00:00"
 }

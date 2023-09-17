@@ -6,26 +6,26 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~940,784 |
-| I Need a Bigger Garage | 63.00% | ~658,549 |
-| Pump my Ride | 47.00% | ~491,299 |
-| Ghostbuster | 33.00% | ~344,954 |
-| That Was Close | 18.00% | ~188,157 |
-| Call Roadside Assistance | 17.00% | ~177,704 |
-| Quickie | 11.00% | ~114,985 |
-| California Dreamer | 7.00% | ~73,172 |
-| Can't Touch This | 5.00% | ~52,266 |
-| Driver from Ipanema | 3.00% | ~31,359 |
-| Carménère Taster | 3.00% | ~31,359 |
-| Supersonic | 3.00% | ~31,359 |
-| Comeback | 3.00% | ~31,359 |
-| Marathonist | 3.00% | ~31,359 |
-| Living Legend | 3.00% | ~31,359 |
-| God of Roads | 2.00% | ~20,906 |
-| Pathfinder | 2.00% | ~20,906 |
-| Go-Kart Champion | 2.00% | ~20,906 |
-| Completionist | 2.00% | ~20,906 |
-| Harder, Better, Faster, Stronger | 2.00% | ~20,906 |
+| The First of Many | 90.00% | ~940,814 |
+| I Need a Bigger Garage | 63.00% | ~658,570 |
+| Pump my Ride | 47.00% | ~491,314 |
+| Ghostbuster | 33.00% | ~344,965 |
+| That Was Close | 18.00% | ~188,163 |
+| Call Roadside Assistance | 17.00% | ~177,709 |
+| Quickie | 11.00% | ~114,988 |
+| California Dreamer | 7.00% | ~73,174 |
+| Can't Touch This | 5.00% | ~52,267 |
+| Driver from Ipanema | 3.00% | ~31,360 |
+| Carménère Taster | 3.00% | ~31,360 |
+| Supersonic | 3.00% | ~31,360 |
+| Comeback | 3.00% | ~31,360 |
+| Marathonist | 3.00% | ~31,360 |
+| Living Legend | 3.00% | ~31,360 |
+| God of Roads | 2.00% | ~20,907 |
+| Pathfinder | 2.00% | ~20,907 |
+| Go-Kart Champion | 2.00% | ~20,907 |
+| Completionist | 2.00% | ~20,907 |
+| Harder, Better, Faster, Stronger | 2.00% | ~20,907 |
 | The Iceman | 1.00% | ~10,453 |
 | Bollywood Star | 1.00% | ~10,453 |
 | Oil Tycoon | 1.00% | ~10,453 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,045 |
 | Look Mom, No Hands! | 0.10% | ~1,045 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,045,316 (Ranked 13)  
+Progressed: 1,045,349 (Ranked 13)  
 Completed: 424 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 424 (0.04%) (Ranked 245)
 | 2023-09-14 | 1,042,845 | 421 |
 | 2023-09-15 | 1,043,467 | 422 |
 | 2023-09-16 | 1,044,452 | 423 |
-| 2023-09-17 | 1,045,316 | 424 |
+| 2023-09-17 | 1,045,349 | 424 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 301)  
 Sum: 1,277 (Ranked 229)  

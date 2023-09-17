@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6070,
+  "EOS_Progressed": 6073,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1786,6 +1786,11 @@
       "Time": "2023-09-17T21:05:52.0914951+00:00",
       "NumProgressed": 6070,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T22:05:43.4779444+00:00",
+      "NumProgressed": 6073,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1854,7 +1859,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "DHUpgraded1",
@@ -1902,7 +1907,7 @@
       "Name": "Upgraded Fast Recharge to Level 3",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "GPurchased1",
@@ -1910,7 +1915,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "GamesPlayed1",
@@ -1918,7 +1923,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "GamesPlayed10",
@@ -1942,7 +1947,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "GamesWon10",
@@ -2006,7 +2011,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "HSPurchased1",
@@ -2190,7 +2195,7 @@
       "Name": "2000 Minion Eliminations",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NIUpgraded1",
@@ -2206,7 +2211,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "NeutralKills200",
@@ -2294,7 +2299,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "SEUpgraded1",
@@ -2389,14 +2394,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6070,
+      "Progressed": 6073,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:05:52.0914947+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:05:43.4779438+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:01:14.1024116+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:05:52.0915669+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:01:03.2434884+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:05:43.4780375+00:00"
 }

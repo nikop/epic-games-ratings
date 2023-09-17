@@ -4,11 +4,11 @@
   "ProductSlug": "fuser",
   "Ranking_Rating": 188,
   "Ranking_Popularity": 445,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -311,6 +311,6 @@
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
   "LastChanged": "2023-01-12T21:57:19.0247448+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.9005459+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:59:11.8380764+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:08:27.5863771+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:59:09.2700995+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:07:49.0123563+00:00"
 }

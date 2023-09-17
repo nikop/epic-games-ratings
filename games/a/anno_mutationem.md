@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~502 |
+| Tell me your story | 76.00% | ~509 |
 | Don't judge a manhole by its cover | 60.00% | ~402 |
 | I just love stuff! | 42.00% | ~281 |
 | Keep 'em coming! | 42.00% | ~281 |

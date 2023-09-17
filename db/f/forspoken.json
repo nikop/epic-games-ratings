@@ -3,12 +3,12 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 901,
-  "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 474,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -378,7 +378,7 @@
   ],
   "EOS_Progressed": 39955,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8994,8 +8994,8 @@
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-01T09:58:46.1320611+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:03:31.9574511+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:03:03.6227423+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:38.448166+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:58:32.120197+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:03:31.9575264+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:58:34.0820682+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:03:03.6228499+00:00"
 }

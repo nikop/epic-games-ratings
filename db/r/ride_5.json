@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 924,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2023-09-17T21:08:13.7383421+00:00",
       "NumProgressed": 923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T22:07:34.9756494+00:00",
+      "NumProgressed": 924,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1186,7 +1191,7 @@
       "Name": "First Love",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1202,7 +1207,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1274,7 +1279,7 @@
       "Name": "Legendary!!!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1392,9 +1397,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 360
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1520,7 +1525,7 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "c7hf6a4",
       "Name": "I Don\u0027t Stop",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -1577,14 +1582,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 924,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:08:13.7383416+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:07:34.975649+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:58:42.9594645+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:08:13.7383808+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:58:43.1653309+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:07:34.9757018+00:00"
 }

@@ -16,9 +16,9 @@
 | One last step | 32.00% | ~52 |
 | Champollion | 29.00% | ~48 |
 | Cable guy | 28.00% | ~46 |
+| Half the way | 28.00% | ~46 |
 | In this together | 27.00% | ~44 |
 | Peace walker | 27.00% | ~44 |
-| Half the way | 27.00% | ~44 |
 | Open door | 24.00% | ~39 |
 | Free at last | 22.00% | ~36 |
 | Feels like springtime | 22.00% | ~36 |

@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,584 |
-| Beast Intentions | 0.70% | ~1,604 |
-| The Cursed Farmer | 0.70% | ~1,604 |
+| Beast Intentions | 0.70% | ~1,605 |
+| The Cursed Farmer | 0.70% | ~1,605 |
 | The Ring of Regeneration | 0.50% | ~1,146 |
 | The Mad Wizard | 0.50% | ~1,146 |
 | Seeking Allies | 0.40% | ~917 |
@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~688 |
 | Were-verpowered | 0.30% | ~688 |
 | A Persistent Buzzing | 0.30% | ~688 |
+| Beast Mode | 0.30% | ~688 |
 | Terror in the Dark | 0.30% | ~688 |
 | A Mysterious Summons | 0.30% | ~688 |
 | Building Trust | 0.30% | ~688 |
@@ -45,7 +46,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~391 |
 | Homecoming | 0.20% | ~458 |
 | The Lost Heir of Omu | 0.20% | ~458 |
-| Beast Mode | 0.20% | ~458 |
 | The Forbidden City | 0.20% | ~458 |
 | Captured! | 0.20% | ~458 |
 | Low Initiative | 0.20% | ~458 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~458 |
 | The Dinner Party | 0.20% | ~458 |
 | The Botched Kidnapping | 0.20% | ~458 |
+| The Immortal Warrior | 0.20% | ~458 |
 | Tower on the Lake | 0.20% | ~458 |
 | Seeds of Deceit | 0.20% | ~458 |
 | Trollskull Manor | 0.20% | ~458 |
@@ -243,7 +244,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.10% | ~229 |
 | Domesticated Owlbears | 0.10% | ~229 |
 | This Quest Stinks! | 0.10% | ~195 |
-| The Immortal Warrior | 0.10% | ~229 |
 | Hold for the Red Wizards | 0.10% | ~229 |
 | Form Ranks | 0.10% | ~229 |
 | Drop of Time | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,214 (Ranked 57)  
+Progressed: 229,222 (Ranked 57)  
 Completed: 2,291 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,15 +677,15 @@ Completed: 2,291 (1.00%) (Ranked 124)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,214 | 2,291 |
+| 2023-09-17 | 229,222 | 2,291 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
-Sum: 31,624 (Ranked 39)  
+Sum: 31,629 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,285 |
-| This game is Great for Beginners | 5,263 |
+| This game is Great for Beginners | 5,268 |
 | This game has Quickly Understood Controls | 4,767 |
 | This game is Relaxing | 4,654 |
 | This game has Amazing Characters | 4,124 |
@@ -928,4 +928,4 @@ Diff (max vs sum): 28
 | 2023-09-14 | 4.06 | - | 5,276 | 31,587 |
 | 2023-09-15 | 4.06 | - | 5,276 | 31,596 |
 | 2023-09-16 | 4.06 | - | 5,283 | 31,617 |
-| 2023-09-17 | 4.06 | - | 5,285 | 31,624 |
+| 2023-09-17 | 4.06 | - | 5,285 | 31,629 |

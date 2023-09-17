@@ -568,9 +568,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -632,9 +632,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -663,8 +663,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:04:45.2820476+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:04:25.6498033+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:59:11.9413344+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:04:45.2820646+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:59:09.3823423+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:04:25.6498252+00:00"
 }

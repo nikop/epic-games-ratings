@@ -10,9 +10,9 @@
 | Our efforts are finally yielding progress | 6.00% | ~20 |
 | This looks really bad | 6.00% | ~20 |
 | Unholy lands | 4.00% | ~13 |
+| Unveiling the Magnitude of Sin | 3.00% | ~10 |
 | The crucifixion | 2.00% | ~7 |
 | The choice | 2.00% | ~7 |
-| Unveiling the Magnitude of Sin | 2.00% | ~7 |
 | The court | 2.00% | ~7 |
 | Holy Nails | 2.00% | ~7 |
 | Flagellation | 2.00% | ~7 |

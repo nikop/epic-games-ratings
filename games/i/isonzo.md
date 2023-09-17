@@ -8,11 +8,11 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,809 |
 | Tutti Eroi! | 55.00% | ~3,809 |
-| You Shall Not Pass | 53.00% | ~3,670 |
+| You Shall Not Pass | 53.00% | ~3,671 |
 | Avanti Savoia! | 47.00% | ~3,255 |
 | Mamma Mia! | 38.00% | ~2,632 |
 | Conrad von Hotzensocks | 36.00% | ~2,493 |
-| Gabriele D'Annunzio | 33.00% | ~2,285 |
+| Gabriele D'Annunzio | 33.00% | ~2,286 |
 | Silver Lining | 30.00% | ~2,078 |
 | Aurelio Baruzzi | 24.00% | ~1,662 |
 | Decimation | 22.00% | ~1,524 |
@@ -20,8 +20,8 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 22.00% | ~1,524 |
 | The Italian Job | 21.00% | ~1,454 |
 | Insubordination | 20.00% | ~1,385 |
-| Ragazzi del '99 | 18.00% | ~1,246 |
-| The Lion of the Isonzo | 18.00% | ~1,246 |
+| Ragazzi del '99 | 18.00% | ~1,247 |
+| The Lion of the Isonzo | 18.00% | ~1,247 |
 | Luigi Cadorna | 15.00% | ~1,039 |
 | Dirty Dozen | 14.00% | ~970 |
 | Uomo Universale | 14.00% | ~970 |
@@ -31,8 +31,8 @@ Number of Ratings: 98  (23.09.2022)
 | Thus With A Kiss | 13.00% | ~900 |
 | The Devil's Paintbrush | 12.00% | ~831 |
 | Dante's Inferno | 11.00% | ~762 |
-| I Have the High Ground | 10.00% | ~692 |
-| Millenial | 10.00% | ~692 |
+| I Have the High Ground | 10.00% | ~693 |
+| Millenial | 10.00% | ~693 |
 | The Show Must Go On | 9.00% | ~623 |
 | Tosca | 9.00% | ~623 |
 | 12th Bottle of the Isonzo | 7.00% | ~485 |
@@ -44,7 +44,7 @@ Number of Ratings: 98  (23.09.2022)
 | Ponte of No Return | 3.00% | ~208 |
 | Seeing Red | 3.00% | ~208 |
 | Soča Drag | 3.00% | ~208 |
-| Saboteur | 2.00% | ~138 |
+| Saboteur | 2.00% | ~139 |
 | Compagnia della Morte | 1.00% | ~69 |
 | Drop and Give Me 20 | 1.00% | ~69 |
 | Malpractice | 1.00% | ~69 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.30% | ~21 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,925 (Ranked 142)  
+Progressed: 6,926 (Ranked 142)  
 Completed: 8 (0.12%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 8 (0.12%) (Ranked 214)
 | 2023-09-14 | 6,847 | 8 |
 | 2023-09-15 | 6,870 | 8 |
 | 2023-09-16 | 6,899 | 8 |
-| 2023-09-17 | 6,925 | 8 |
+| 2023-09-17 | 6,926 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 443)  
 Sum: 273 (Ranked 353)  

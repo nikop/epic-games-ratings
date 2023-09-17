@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -401,6 +401,11 @@
       "Time": "2023-09-17T13:18:28.6182665+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T22:07:59.6668627+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -418,7 +423,7 @@
       "ID": "ACH_BOJI_SKILLTREE_PROGRESSION_100",
       "SetID": "7i20me3",
       "Name": "Sponsor",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -426,7 +431,7 @@
       "ID": "ACH_CRAFT_15_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Craftsmen",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -450,9 +455,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -490,9 +495,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -506,7 +511,7 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -594,7 +599,7 @@
       "ID": "ACH_FIND_ALL_RUNES",
       "SetID": "7i20me3",
       "Name": "Wizard",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -602,7 +607,7 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -626,7 +631,7 @@
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_LIZARD",
       "SetID": "7i20me3",
       "Name": "Wayseeker",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -634,7 +639,7 @@
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_STAG",
       "SetID": "7i20me3",
       "Name": "Pathfinder",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -642,7 +647,7 @@
       "ID": "ACH_FIND_ALL_TELEPORTERS",
       "SetID": "7i20me3",
       "Name": "Globetrotter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -660,7 +665,7 @@
       "Name": "Welcome to the Club",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -674,7 +679,7 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -682,7 +687,7 @@
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -690,7 +695,7 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -730,7 +735,7 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 27
     },
@@ -762,7 +767,7 @@
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -779,22 +784,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 82,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 78,
-      "Completed": 78
+      "Progressed": 80,
+      "Completed": 80
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:08:38.2501082+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:07:59.6668621+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.4303858+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:57:17.6271561+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:08:38.2501394+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:57:12.2871888+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:07:59.6669057+00:00"
 }

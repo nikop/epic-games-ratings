@@ -3,7 +3,7 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 747,
-  "Ranking_Popularity": 481,
+  "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 154,
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 69160,
+  "EOS_Progressed": 69161,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -16739,6 +16739,11 @@
       "Time": "2023-09-17T21:06:30.7333947+00:00",
       "NumProgressed": 69160,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2023-09-17T22:06:22.3455349+00:00",
+      "NumProgressed": 69161,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 24,
@@ -16806,7 +16811,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20056
+      "UsersEstimate": 20057
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -16941,7 +16946,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 69160,
+      "Progressed": 69161,
       "Completed": 359
     }
   ],
@@ -16949,8 +16954,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:06:30.733394+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:06:22.3455345+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0653551+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:59:01.4014063+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:06:30.7334845+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:59:00.8786049+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:06:22.3456698+00:00"
 }

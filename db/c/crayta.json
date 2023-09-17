@@ -4,11 +4,11 @@
   "ProductSlug": "crayta",
   "Ranking_Rating": 874,
   "Ranking_Popularity": 406,
-  "Ranking_PopularitySum": 328,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109665,
+  "EOS_Progressed": 109666,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2489,6 +2489,11 @@
       "Time": "2023-09-17T19:09:24.4492576+00:00",
       "NumProgressed": 109665,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T22:05:41.6371677+00:00",
+      "NumProgressed": 109666,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2628,7 +2633,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14256
+      "UsersEstimate": 14257
     },
     {
       "ID": "25",
@@ -2771,15 +2776,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109665,
+      "Progressed": 109666,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:05:50.350439+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:05:41.6371672+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.7225094+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:57:52.595399+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:05:50.3504765+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:57:52.852996+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:05:41.6372107+00:00"
 }

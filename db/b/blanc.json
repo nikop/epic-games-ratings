@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2701,
+  "EOS_Progressed": 2703,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3308,6 +3308,11 @@
       "Time": "2023-09-17T17:14:22.9312083+00:00",
       "NumProgressed": 2701,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-17T22:07:06.1083697+00:00",
+      "NumProgressed": 2703,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3383,7 +3388,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -3415,14 +3420,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2701,
+      "Progressed": 2703,
       "Completed": 6
     }
   ],
@@ -3430,8 +3435,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:07:24.7450572+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:07:06.1083692+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:24.7392815+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:59:39.5870414+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:07:24.7450808+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:59:42.264195+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:07:06.1084027+00:00"
 }

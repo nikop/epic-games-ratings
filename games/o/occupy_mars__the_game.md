@@ -33,7 +33,7 @@ Rating: 4.00 (Ranked 944)
 | Rocket Jump | 1.00% | ~16 |
 | Thunderstruck | 1.00% | ~16 |
 | 5G Network | 0.70% | ~11 |
-| One does not simply... | 0.50% | ~8 |
+| One does not simply... | 0.60% | ~10 |
 | Bull’s eye | 0.40% | ~6 |
 | Korolev crater | 0.40% | ~6 |
 | Rover Mechanic | 0.40% | ~6 |

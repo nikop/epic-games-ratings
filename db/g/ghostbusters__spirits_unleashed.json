@@ -2160,7 +2160,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25871,
+  "EOS_Progressed": 25873,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
@@ -13050,6 +13050,11 @@
       "Time": "2023-09-17T20:05:33.8363461+00:00",
       "NumProgressed": 25871,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-17T22:04:23.3482322+00:00",
+      "NumProgressed": 25873,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13347,9 +13352,9 @@
       "ID": "Solo_Capture",
       "SetID": "819popo",
       "Name": "Solo Capture",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Stunner",
@@ -13443,9 +13448,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Welcome_Crew",
@@ -13468,7 +13473,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25871,
+      "Progressed": 25873,
       "Completed": 56
     }
   ],
@@ -13476,8 +13481,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-17T19:01:08.4051073+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:04:42.7009059+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:04:23.3482317+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-17T20:59:08.9419509+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:04:42.7009936+00:00"
+  "LastUpdate_Ratings": "2023-09-17T21:59:07.2025726+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:04:23.348349+00:00"
 }

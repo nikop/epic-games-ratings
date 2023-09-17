@@ -9,6 +9,8 @@ Rating: 4.50 (Ranked 565)
 | Advancement | 0.30% | ~78 |
 | Discovery | 0.30% | ~78 |
 | Meticulously Efficient | 0.30% | ~78 |
+| Solo Capture | 0.30% | ~78 |
+| Vaporous Expansion | 0.30% | ~78 |
 | Animated | 0.20% | ~52 |
 | Back Off | 0.20% | ~52 |
 | Clutch Capture | 0.20% | ~52 |
@@ -18,13 +20,11 @@ Rating: 4.50 (Ranked 565)
 | Icing on the Cake | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
 | Skilled | 0.20% | ~52 |
-| Solo Capture | 0.20% | ~52 |
 | Summoner | 0.20% | ~52 |
 | Swift Rift Removers | 0.20% | ~52 |
 | Teamwork | 0.20% | ~52 |
 | Terrifying | 0.20% | ~52 |
 | There you are! | 0.20% | ~52 |
-| Vaporous Expansion | 0.20% | ~52 |
 | Welcome to the Crew | 0.20% | ~52 |
 | Whoopsie | 0.20% | ~52 |
 | We have the best insurance | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 565)
 | Ultimate Defense | 0.10% | ~26 |
 | Mycophile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,871 (Ranked 106)  
+Progressed: 25,873 (Ranked 106)  
 Completed: 56 (0.22%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 56 (0.22%) (Ranked 195)
 | 2023-09-14 | 25,800 | 56 |
 | 2023-09-15 | 25,818 | 56 |
 | 2023-09-16 | 25,847 | 56 |
-| 2023-09-17 | 25,871 | 56 |
+| 2023-09-17 | 25,873 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,316 (Ranked 188)  

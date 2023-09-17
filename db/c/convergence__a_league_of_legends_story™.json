@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 873,
+  "EOS_Progressed": 874,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2185,6 +2185,11 @@
       "Time": "2023-09-17T14:12:29.0437402+00:00",
       "NumProgressed": 873,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T22:07:42.6103191+00:00",
+      "NumProgressed": 874,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2244,7 +2249,7 @@
       "Name": "Like Clockwork",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ClovemaryGift",
@@ -2324,7 +2329,7 @@
       "Name": "The Betrayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2348,7 +2353,7 @@
       "Name": "Whiz Kid",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "GrindingTime1",
@@ -2380,7 +2385,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LacunaCompleted",
@@ -2484,7 +2489,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "RewindParry",
@@ -2556,7 +2561,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "TheaterChests1",
@@ -2612,14 +2617,14 @@
       "Name": "The Family Fortune",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 873,
+      "Progressed": 874,
       "Completed": 5
     }
   ],
@@ -2627,8 +2632,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:08:21.0684975+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:07:42.6103183+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:00:04.4591706+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:08:21.0685452+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:00:04.6632313+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:07:42.6103835+00:00"
 }

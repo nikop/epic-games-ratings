@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,11 +248,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1456,
+  "EOS_Progressed": 1457,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.81,
+  "EOS_Completed_Percentage": 4.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -2508,6 +2508,11 @@
       "Time": "2023-09-17T20:06:29.4340856+00:00",
       "NumProgressed": 1456,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-17T22:05:21.1051742+00:00",
+      "NumProgressed": 1457,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2525,9 +2530,9 @@
       "ID": "ACH_BloccatoInGhiacciaia",
       "SetID": "7a9m7mj",
       "Name": "Freeze to death",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 830
+      "UsersEstimate": 816
     },
     {
       "ID": "ACH_Cacciavite",
@@ -2559,7 +2564,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_FineGioco",
@@ -2575,7 +2580,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2606,15 +2611,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1456,
+      "Progressed": 1457,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:05:30.7401477+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:05:21.1051737+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:00:12.9627954+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:05:30.7401662+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:00:16.8532403+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:05:21.1052002+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -1946,17 +1946,17 @@
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 155
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 90
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2242,9 +2242,9 @@
       "ID": "KILLR_ACHIEVEMENT_5",
       "SetID": "9lcahn0",
       "Name": "Do This In Silence",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 57
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -2465,8 +2465,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:05:15.0361396+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:05:05.1063125+00:00",
   "LastUpdate_AppInfo": "2023-09-14T19:57:19.2555996+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:02:04.728605+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:05:15.0362024+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:01:50.0129649+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:05:05.1063936+00:00"
 }

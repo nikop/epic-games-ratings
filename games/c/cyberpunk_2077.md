@@ -6,26 +6,26 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,998 |
-| Right Back At Ya | 40.00% | ~350,723 |
-| The Lovers | 36.00% | ~315,651 |
-| Stanislavski's Method | 29.00% | ~254,274 |
-| The Wheel of Fortune | 28.00% | ~245,506 |
-| The Hermit | 25.00% | ~219,202 |
-| Christmas Tree Attack | 23.00% | ~201,666 |
-| True Soldier | 23.00% | ~201,666 |
+| The Fool | 69.00% | ~605,000 |
+| Right Back At Ya | 40.00% | ~350,724 |
+| The Lovers | 36.00% | ~315,652 |
+| Stanislavski's Method | 29.00% | ~254,275 |
+| The Wheel of Fortune | 28.00% | ~245,507 |
+| The Hermit | 25.00% | ~219,203 |
+| Christmas Tree Attack | 23.00% | ~201,667 |
+| True Soldier | 23.00% | ~201,667 |
 | The High Priestess | 22.00% | ~192,898 |
 | Legend of The Afterlife | 22.00% | ~192,898 |
 | Life of the Road | 21.00% | ~184,130 |
 | Full Body Conversion | 19.00% | ~166,594 |
 | The World | 19.00% | ~166,594 |
-| Bushido and Chill | 17.00% | ~149,057 |
-| Gun Fu | 16.00% | ~140,289 |
-| True Warrior | 15.00% | ~131,521 |
-| To Protect and Serve | 14.00% | ~122,753 |
-| Master Crafter | 14.00% | ~122,753 |
-| I Am The Law | 14.00% | ~122,753 |
-| Judy vs Night City | 14.00% | ~122,753 |
+| Bushido and Chill | 17.00% | ~149,058 |
+| Gun Fu | 16.00% | ~140,290 |
+| True Warrior | 15.00% | ~131,522 |
+| To Protect and Serve | 14.00% | ~122,754 |
+| Master Crafter | 14.00% | ~122,754 |
+| I Am The Law | 14.00% | ~122,754 |
+| Judy vs Night City | 14.00% | ~122,754 |
 | Two Heads, One Bullet | 12.00% | ~105,217 |
 | The Wandering Fool | 10.00% | ~87,681 |
 | The Quick and the Dead | 10.00% | ~87,681 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,768 |
 | Rough Landing | 0.50% | ~4,384 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,808 (Ranked 15)  
+Progressed: 876,811 (Ranked 15)  
 Completed: 2,109 (0.24%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,10 +201,10 @@ Completed: 2,109 (0.24%) (Ranked 191)
 | 2023-09-14 | 876,177 | 2,086 |
 | 2023-09-15 | 876,353 | 2,090 |
 | 2023-09-16 | 876,594 | 2,104 |
-| 2023-09-17 | 876,808 | 2,109 |
+| 2023-09-17 | 876,811 | 2,109 |
 ## Awards
 Max (Character Customization): 78,934  (Ranked 9)  
-Sum: 211,503 (Ranked 13)  
+Sum: 211,532 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -215,7 +215,7 @@ Diff (max vs sum): -4
 | This game has Amazing Storytelling | 9,507 |
 | This game is Highly Recommended | 9,412 |
 | This game is Extremely Fun | 9,372 |
-| This game is Relaxing | 9,260 |
+| This game is Relaxing | 9,289 |
 | This game has Amazing Characters | 9,219 |
 | This game has Quickly Understood Controls | 9,164 |
 | This game has a Creative Community | 5,991 |
@@ -463,4 +463,4 @@ Diff (max vs sum): -4
 | 2023-09-14 | 4.62 | - | 78,551 | 210,154 |
 | 2023-09-15 | 4.62 | - | 78,662 | 210,618 |
 | 2023-09-16 | 4.62 | - | 78,791 | 211,154 |
-| 2023-09-17 | 4.62 | - | 78,934 | 211,503 |
+| 2023-09-17 | 4.62 | - | 78,934 | 211,532 |

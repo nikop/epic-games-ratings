@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -576,9 +576,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1659,
+  "EOS_Progressed": 1660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3621,6 +3621,11 @@
       "Time": "2023-09-17T19:09:10.3300759+00:00",
       "NumProgressed": 1659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T22:05:30.7973384+00:00",
+      "NumProgressed": 1660,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -3632,7 +3637,7 @@
       "Name": "Transport shark",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "achAccumulate100MHard",
@@ -3672,7 +3677,7 @@
       "Name": "Transport millionaire",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "achAircraftEarnings",
@@ -3680,7 +3685,7 @@
       "Name": "Aircraft entrepreneur",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "achAllClimates",
@@ -3728,7 +3733,7 @@
       "Name": "First bus stop",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "achBuildTrainStation",
@@ -3736,7 +3741,7 @@
       "Name": "First train station",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "achCannotGetEnough",
@@ -3776,7 +3781,7 @@
       "Name": "Campaign expert",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achCompleteCampaignC",
@@ -3792,7 +3797,7 @@
       "Name": "Cadet",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "achCreateLine",
@@ -3800,7 +3805,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "achCrowdInATrain",
@@ -3808,7 +3813,7 @@
       "Name": "Crowd in a train",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "achEmissionLevel",
@@ -3832,7 +3837,7 @@
       "Name": "First aircraft arrived",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "achFirstBusArrived",
@@ -3840,15 +3845,15 @@
       "Name": "First bus arrived",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "achFirstCargoTransported",
       "SetID": "dgl390n",
       "Name": "First cargo item on board",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1162
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -3856,7 +3861,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -3870,9 +3875,9 @@
       "ID": "achFirstIndustryUpgrade",
       "SetID": "dgl390n",
       "Name": "First industry upgraded",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 946
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -3896,7 +3901,7 @@
       "Name": "First ship arrived",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -3904,7 +3909,7 @@
       "Name": "First steam train arrived",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achGlacierExpress",
@@ -4016,7 +4021,7 @@
       "Name": "Bob Ross",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achPennyPincher",
@@ -4032,7 +4037,7 @@
       "Name": "The future is now, old man",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "achShipEarnings",
@@ -4064,7 +4069,7 @@
       "Name": "High speed",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "achTopSpeed300",
@@ -4088,7 +4093,7 @@
       "Name": "Now what?",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "achTrainFever",
@@ -4104,7 +4109,7 @@
       "Name": "Truck Fever",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achTunnelLength",
@@ -4119,15 +4124,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1659,
+      "Progressed": 1660,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-16T13:02:14.1846871+00:00",
-  "LastChanged_Achievements": "2023-09-17T21:05:39.6223844+00:00",
+  "LastChanged_Achievements": "2023-09-17T22:05:30.7973377+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.7514199+00:00",
-  "LastUpdate_Ratings": "2023-09-17T21:00:14.1163965+00:00",
-  "LastUpdate_Achievements": "2023-09-17T21:05:39.6224443+00:00"
+  "LastUpdate_Ratings": "2023-09-17T22:00:17.9994619+00:00",
+  "LastUpdate_Achievements": "2023-09-17T22:05:30.7974196+00:00"
 }
