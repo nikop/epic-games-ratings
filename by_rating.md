@@ -74,7 +74,7 @@
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 449 |
 | 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 672 | 175 |
 | 67 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 249 | 256 |
-| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,512 | 53 |
+| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,521 | 53 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 410 | 217 |
 | 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 517 |
 | 78 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 430 | 211 |
@@ -282,7 +282,7 @@
 | 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,446 | 65 |
 | 280 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 425 |
 | 280 | [Crashlands](games/c/crashlands.md) | 4.66 | 193 | 277 |
-| 280 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 290 |
+| 280 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 291 |
 | 280 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,293 | 133 |
 | 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 347 | 228 |
 | 280 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 47 | 412 |
@@ -290,7 +290,7 @@
 | 280 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 517 |
 | 280 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 517 |
 | 280 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 517 |
-| 280 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 169 | 290 |
+| 280 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 171 | 290 |
 | 280 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 52 | 401 |
 | 280 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,918 | 110 |
 | 280 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 565 | 192 |
@@ -826,7 +826,7 @@
 | 821 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 517 |
 | 821 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 517 |
 | 821 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 0 | 517 |
-| 821 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,559 | 100 |
+| 821 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,563 | 100 |
 | 821 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 517 |
 | 821 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 517 |
 | 830 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 19,438 | 20 |
