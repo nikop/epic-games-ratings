@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 80.00% | ~122 |
-| Shelter Escape | 79.00% | ~121 |
-| The First Bond | 70.00% | ~107 |
-| Novice Scavenger | 56.00% | ~86 |
-| Master Craftsman | 44.00% | ~67 |
-| First wall | 44.00% | ~67 |
-| Piggyback Expert | 42.00% | ~64 |
+| New arm | 81.00% | ~124 |
+| Shelter Escape | 80.00% | ~122 |
+| The First Bond | 71.00% | ~109 |
+| Novice Scavenger | 58.00% | ~89 |
+| Master Craftsman | 45.00% | ~69 |
+| First wall | 45.00% | ~69 |
+| Piggyback Expert | 43.00% | ~66 |
 | Second wall | 31.00% | ~47 |
 | Expert Scavenger | 27.00% | ~41 |
 | Their Rock | 24.00% | ~37 |
 | Yuna's Promise | 22.00% | ~34 |
 | Stone Retriever | 22.00% | ~34 |
-| Find myself | 19.00% | ~29 |
+| Find myself | 20.00% | ~31 |
 | Truebro | 16.00% | ~24 |
 | Min's Promise | 15.00% | ~23 |
 | Sia's Promise | 14.00% | ~21 |
-| Romantic | 13.00% | ~20 |
+| Romantic | 14.00% | ~21 |
 | TentacleMAN | 8.00% | ~12 |
 | Plushyboy | 5.00% | ~8 |
 | Yohan's Promise | 4.00% | ~6 |

@@ -12,7 +12,7 @@ Number of Ratings: 58  (23.09.2022)
 | Demigod | 75.00% | ~886 |
 | The Great Destroyer | 74.00% | ~875 |
 | Shields Down | 71.00% | ~839 |
-| Helping Hand | 66.00% | ~780 |
+| Helping Hand | 67.00% | ~792 |
 | Safe Home | 66.00% | ~780 |
 | Paragon | 63.00% | ~745 |
 | Old Days Born Anew | 61.00% | ~721 |
@@ -21,7 +21,7 @@ Number of Ratings: 58  (23.09.2022)
 | Payback | 53.00% | ~626 |
 | Huntress | 53.00% | ~626 |
 | Born to Drift | 51.00% | ~603 |
-| Relentless | 48.00% | ~567 |
+| Relentless | 49.00% | ~579 |
 | The Path Forward | 45.00% | ~532 |
 | Disruption | 43.00% | ~508 |
 | Phoenix | 43.00% | ~508 |

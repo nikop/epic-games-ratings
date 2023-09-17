@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -455,8 +455,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:06:43.3406611+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:51:47.3973314+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:18.6182717+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:59:23.4677189+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:06:43.3406775+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:44:01.9019344+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:51:47.3973455+00:00"
 }

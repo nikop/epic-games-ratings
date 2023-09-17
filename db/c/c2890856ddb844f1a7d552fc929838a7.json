@@ -1586,9 +1586,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 551
     },
     {
       "ID": "AC05",
@@ -1658,9 +1658,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 280
     },
     {
       "ID": "AC14",
@@ -1706,9 +1706,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 392
     },
     {
       "ID": "AC20",
@@ -1931,8 +1931,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:06:19.5501239+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:51:15.8240698+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-17T00:01:18.0980076+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:06:19.5502376+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:46:34.094973+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:51:15.824105+00:00"
 }

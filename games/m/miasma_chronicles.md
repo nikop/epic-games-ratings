@@ -35,17 +35,17 @@ Rating: 4.41 (Ranked 691)
 | Chain Killer | 22.00% | ~316 |
 | Silent but Violent | 21.00% | ~302 |
 | The Watchers | 21.00% | ~302 |
+| Chaos Theory | 16.00% | ~230 |
 | Commando | 16.00% | ~230 |
 | Dr Jones | 16.00% | ~230 |
 | Newtonian Knockout | 16.00% | ~230 |
-| Chaos Theory | 15.00% | ~216 |
 | Ruthless | 14.00% | ~201 |
 | Side Order | 11.00% | ~158 |
 | Chain Reaction | 9.00% | ~129 |
 | Bot Whisperer | 8.00% | ~115 |
 | Curveball | 8.00% | ~115 |
+| Wipe Out | 8.00% | ~115 |
 | Dressed To Kill | 7.00% | ~101 |
-| Wipe Out | 7.00% | ~101 |
 | Master Editor | 5.00% | ~72 |
 | Attenborough | 4.00% | ~57 |
 | Bookworm | 3.00% | ~43 |

@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 160,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 5,
   "EosHistory": [
@@ -800,9 +800,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "META_HALF_LINK",
@@ -975,8 +975,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:08:06.1857943+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:53:07.9049315+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:59:09.8531177+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:08:06.1858179+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:43:43.7413526+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:53:07.904955+00:00"
 }

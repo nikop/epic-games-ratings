@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1094,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.77,
+  "EOS_Completed_Percentage": 7.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2912,6 +2912,11 @@
       "Time": "2023-09-16T13:06:57.4317439+00:00",
       "NumProgressed": 1094,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-09-17T01:49:45.4731952+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 50,
@@ -2923,7 +2928,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "10",
@@ -2931,7 +2936,7 @@
       "Name": "Piece of Cake",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "11",
@@ -2995,7 +3000,7 @@
       "Name": "Surprise!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "19",
@@ -3011,7 +3016,7 @@
       "Name": "Waff!",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "20",
@@ -3083,7 +3088,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "29",
@@ -3099,7 +3104,7 @@
       "Name": "Vibing",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "30",
@@ -3107,7 +3112,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "31",
@@ -3115,7 +3120,7 @@
       "Name": "Little Shop",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "32",
@@ -3139,7 +3144,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "35",
@@ -3155,7 +3160,7 @@
       "Name": "Dance Master",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "37",
@@ -3187,7 +3192,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "40",
@@ -3203,15 +3208,15 @@
       "Name": "Bombs Away!",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "42",
       "SetID": "d0g98p",
       "Name": "Shopping Spree!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 274
     },
     {
       "ID": "43",
@@ -3219,7 +3224,7 @@
       "Name": "An Actor!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "44",
@@ -3243,7 +3248,7 @@
       "Name": "Flower Power",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "47",
@@ -3259,7 +3264,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "49",
@@ -3299,7 +3304,7 @@
       "Name": "Fun Guy",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "8",
@@ -3315,14 +3320,14 @@
       "Name": "Curtain Call",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1094,
+      "Progressed": 1095,
       "Completed": 85
     }
   ],
@@ -3330,8 +3335,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:04:52.4653865+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:49:45.4731948+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:35.4583069+00:00",
-  "LastUpdate_Ratings": "2023-09-17T00:02:18.4711544+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:04:52.465447+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:47:26.5831077+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:49:45.4732423+00:00"
 }

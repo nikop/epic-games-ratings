@@ -12,7 +12,7 @@
 | I have an army! | 65.00% | ~47 |
 | Sticky fingers | 43.00% | ~31 |
 | A horrible thing will happen... | 40.00% | ~29 |
-| Vampires | 32.00% | ~23 |
+| Vampires | 33.00% | ~24 |
 | Bloody stream | 31.00% | ~22 |
 | Fangs | 21.00% | ~15 |
 | Mirrors | 13.00% | ~9 |

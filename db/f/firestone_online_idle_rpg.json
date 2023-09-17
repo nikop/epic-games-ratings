@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -6053,9 +6053,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 214
     },
     {
       "ID": "silverwoodliberator",
@@ -6093,9 +6093,9 @@
       "ID": "theexpeditioner",
       "SetID": "3nl4bcg",
       "Name": "The Expeditioner",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 156
     },
     {
       "ID": "thefatherofdragons",
@@ -6230,8 +6230,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:03:05.1300369+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:47:48.0432733+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:58:12.9996641+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:03:05.1301795+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:42:30.5694021+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:47:48.0433591+00:00"
 }

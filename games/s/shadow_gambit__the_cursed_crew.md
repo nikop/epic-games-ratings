@@ -7,7 +7,7 @@ Rating: 4.69 (Ranked 217)
 | ---- | ---------- | ----- |
 | A New Journey | 70.00% | ~451 |
 | The Adventure Begins | 55.00% | ~354 |
-| Swabbie | 43.00% | ~277 |
+| Swabbie | 44.00% | ~283 |
 | With Great Power… | 42.00% | ~270 |
 | This Belongs in a Museum | 38.00% | ~245 |
 | The Gambit Has Begun | 34.00% | ~219 |
@@ -25,7 +25,7 @@ Rating: 4.69 (Ranked 217)
 | Tobacco Travesty | 11.00% | ~71 |
 | Rustic Recipe | 11.00% | ~71 |
 | Accursed Artifacts | 10.00% | ~64 |
-| Lyrical Longing | 9.00% | ~58 |
+| Lyrical Longing | 10.00% | ~64 |
 | Corsair | 6.00% | ~39 |
 | Fully Decked | 6.00% | ~39 |
 | Freebooter | 4.00% | ~26 |

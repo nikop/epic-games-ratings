@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,931 |
-| Powergamer | 27.00% | ~66,469 |
-| Barely scratched the surface | 25.00% | ~61,546 |
-| Write that down | 24.00% | ~59,084 |
-| Guns, lots of guns | 13.00% | ~32,004 |
-| Collector | 11.00% | ~27,080 |
-| Elementary! | 9.00% | ~22,156 |
+| I will finish what you started | 28.00% | ~68,933 |
+| Powergamer | 27.00% | ~66,471 |
+| Barely scratched the surface | 25.00% | ~61,547 |
+| Write that down | 24.00% | ~59,085 |
+| Guns, lots of guns | 13.00% | ~32,005 |
+| Collector | 11.00% | ~27,081 |
+| Elementary! | 9.00% | ~22,157 |
 | Pumpkin Jack | 8.00% | ~19,695 |
 | Wake up! | 8.00% | ~19,695 |
 | It's honest work | 7.00% | ~17,233 |
@@ -21,12 +21,12 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~14,771 |
 | Good listener | 5.00% | ~12,309 |
 | Valedictorian | 5.00% | ~12,309 |
-| BOY! | 4.00% | ~9,847 |
-| Ka-ching! | 4.00% | ~9,847 |
-| So you like to read? | 4.00% | ~9,847 |
-| Hoarder | 3.00% | ~7,385 |
-| I like to sniff around | 3.00% | ~7,385 |
-| Mind reader | 3.00% | ~7,385 |
+| BOY! | 4.00% | ~9,848 |
+| Ka-ching! | 4.00% | ~9,848 |
+| So you like to read? | 4.00% | ~9,848 |
+| Hoarder | 3.00% | ~7,386 |
+| I like to sniff around | 3.00% | ~7,386 |
+| Mind reader | 3.00% | ~7,386 |
 | Catnip | 2.00% | ~4,924 |
 | Gentleman's classic | 2.00% | ~4,924 |
 | Is that a rift? | 2.00% | ~4,924 |
@@ -43,9 +43,9 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,462 |
 | Take the blue pill | 1.00% | ~2,462 |
 | The power of three | 1.00% | ~2,462 |
-| It's blue, always blue | 0.80% | ~1,969 |
-| Let's try another | 0.80% | ~1,969 |
-| Home run | 0.80% | ~1,969 |
+| It's blue, always blue | 0.80% | ~1,970 |
+| Let's try another | 0.80% | ~1,970 |
+| Home run | 0.80% | ~1,970 |
 | I have the high ground | 0.70% | ~1,723 |
 | Enjoy these little moments | 0.50% | ~1,231 |
 | Who wouldn't love a troll? | 0.50% | ~1,231 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~492 |
 | Memory 5 | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,183 (Ranked 50)  
+Progressed: 246,189 (Ranked 50)  
 Completed: 7 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 7 (0.00%) (Ranked 275)
 | 2023-09-14 | 245,956 | 7 |
 | 2023-09-15 | 246,050 | 7 |
 | 2023-09-16 | 246,180 | 7 |
-| 2023-09-17 | 246,183 | 7 |
+| 2023-09-17 | 246,189 | 7 |
 ## Awards
 Max (Character Customization): 81  (Ranked 362)  
 Sum: 81 (Ranked 429)  

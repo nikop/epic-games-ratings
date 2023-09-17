@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "631ndc2",
       "Name": "Bar Brawler",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -862,8 +862,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:07:32.2604067+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:52:35.1253709+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.7956717+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:57:59.2437339+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:07:32.2604609+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:42:10.1499799+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:52:35.1254098+00:00"
 }

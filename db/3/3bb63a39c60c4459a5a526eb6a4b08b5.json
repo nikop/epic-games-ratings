@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 708,
+  "EOS_Progressed": 709,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2561,6 +2561,11 @@
       "Time": "2023-09-17T00:05:28.5926521+00:00",
       "NumProgressed": 708,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T01:50:34.2194888+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2620,7 +2625,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Creator",
@@ -2754,9 +2759,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "Millionaire",
@@ -2772,7 +2777,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "NoTimeForModernization",
@@ -2788,7 +2793,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "NotPlanned",
@@ -2907,14 +2912,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 708,
+      "Progressed": 709,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:05:28.5926517+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:50:34.2194882+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.4926233+00:00",
-  "LastUpdate_Ratings": "2023-09-17T00:01:34.3148299+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:05:28.5926994+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:46:53.2619605+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:50:34.2195262+00:00"
 }

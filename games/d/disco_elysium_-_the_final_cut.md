@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,829 |
-| Biggest Communism Builder | 24.00% | ~30,710 |
-| The World's Most Laughable Centrist | 20.00% | ~25,592 |
-| Il Coppo Del'Arte! | 18.00% | ~23,033 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,473 |
-| Hyperstellar Law Official | 16.00% | ~20,473 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,914 |
-| Gurdi-Ball Is Lit | 14.00% | ~17,914 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,635 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,075 |
-| Unbelievably Boring **** | 9.00% | ~11,516 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,516 |
-| Enemy Of The Physical Realm | 8.00% | ~10,237 |
+| Goodest Of The Good Cops | 28.00% | ~35,831 |
+| Biggest Communism Builder | 24.00% | ~30,713 |
+| The World's Most Laughable Centrist | 20.00% | ~25,594 |
+| Il Coppo Del'Arte! | 18.00% | ~23,034 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,475 |
+| Hyperstellar Law Official | 16.00% | ~20,475 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,916 |
+| Gurdi-Ball Is Lit | 14.00% | ~17,916 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,636 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,077 |
+| Unbelievably Boring **** | 9.00% | ~11,517 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,517 |
+| Enemy Of The Physical Realm | 8.00% | ~10,238 |
 | Hardie's Heroes | 6.00% | ~7,678 |
-| The Lawbringer | 4.00% | ~5,118 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,118 |
+| The Lawbringer | 4.00% | ~5,119 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,119 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,839 |
 | Bother Kim After Hours | 3.00% | ~3,839 |
 | Baddest Of the Bad Cops | 2.00% | ~2,559 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,959 (Ranked 71)  
+Progressed: 127,969 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 28 (0.02%) (Ranked 253)
 | 2023-09-14 | 127,669 | 28 |
 | 2023-09-15 | 127,810 | 28 |
 | 2023-09-16 | 127,956 | 28 |
-| 2023-09-17 | 127,959 | 28 |
+| 2023-09-17 | 127,969 | 28 |
 ## Awards
 Max (Character Customization): 723  (Ranked 166)  
 Sum: 1,088 (Ranked 238)  

@@ -21,13 +21,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,363 |
 | Capitalism Ho! | 1.00% | ~1,363 |
 | Own the Means of Production | 1.00% | ~1,363 |
-| The Daily Grind | 0.90% | ~1,226 |
-| Bounty Hunters | 0.90% | ~1,226 |
-| Dungeon Imports | 0.90% | ~1,226 |
+| The Daily Grind | 0.90% | ~1,227 |
+| Bounty Hunters | 0.90% | ~1,227 |
+| Dungeon Imports | 0.90% | ~1,227 |
 | Demand for Supplies | 0.80% | ~1,090 |
 | Flooding the Market | 0.80% | ~1,090 |
 | Where it Hurts | 0.80% | ~1,090 |
 | Gild-Gotten Goods | 0.80% | ~1,090 |
+| On the Path to Greatness | 0.70% | ~954 |
 | Ascended | 0.70% | ~954 |
 | Blank Page Syndrome | 0.70% | ~954 |
 | Efficient Floor Space | 0.70% | ~954 |
@@ -35,7 +36,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.70% | ~954 |
 | Did we pack lunch? | 0.70% | ~954 |
 | Arcane Industries | 0.70% | ~954 |
-| On the Path to Greatness | 0.60% | ~818 |
 | Research & Development | 0.60% | ~818 |
 | Vanity, Verily | 0.60% | ~818 |
 | Fated Encounters | 0.60% | ~818 |
@@ -72,6 +72,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.40% | ~545 |
 | Booty by the Boatload | 0.40% | ~545 |
 | Archivist | 0.40% | ~545 |
+| Fillin' the Bin | 0.40% | ~545 |
 | Industrial Evolution | 0.40% | ~545 |
 | Omae wa Mou Shindeiru | 0.40% | ~545 |
 | Master of Transmutation | 0.40% | ~545 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.40% | ~545 |
 | Master Recycler | 0.40% | ~545 |
 | Exotic Commodities | 0.40% | ~545 |
-| Fillin' the Bin | 0.30% | ~409 |
 | Thank You Tom Nook | 0.30% | ~409 |
 | A Legend is Born | 0.30% | ~409 |
 | Jackpot! | 0.30% | ~409 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,277 (Ranked 69)  
+Progressed: 136,280 (Ranked 69)  
 Completed: 152 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,15 +269,15 @@ Completed: 152 (0.11%) (Ranked 218)
 | 2023-09-14 | 136,187 | 151 |
 | 2023-09-15 | 136,220 | 151 |
 | 2023-09-16 | 136,276 | 152 |
-| 2023-09-17 | 136,277 | 152 |
+| 2023-09-17 | 136,280 | 152 |
 ## Awards
 Max (Great for Beginners): 4,746  (Ranked 71)  
-Sum: 27,243 (Ranked 48)  
+Sum: 27,244 (Ranked 48)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,746 |
-| This game is Relaxing | 4,010 |
+| This game is Relaxing | 4,011 |
 | This game has Quickly Understood Controls | 3,996 |
 | This game has Diverse Characters | 3,884 |
 | This game is Highly Recommended | 3,743 |
@@ -520,3 +520,4 @@ Diff (max vs sum): 23
 | 2023-09-14 | 3.99 | - | 4,741 | 27,227 |
 | 2023-09-15 | 3.99 | - | 4,743 | 27,234 |
 | 2023-09-16 | 3.99 | - | 4,746 | 27,243 |
+| 2023-09-17 | 3.99 | - | 4,746 | 27,244 |

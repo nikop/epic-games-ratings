@@ -6,24 +6,24 @@ Rating: 4.46 (Ranked 625)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,666 |
-| Confirming Suspicions | 40.00% | ~1,448 |
+| Confirming Suspicions | 40.00% | ~1,449 |
 | The Kraken Wakes | 36.00% | ~1,304 |
 | It's Starting to Crack | 33.00% | ~1,195 |
-| Change the Channel | 30.00% | ~1,086 |
+| Change the Channel | 30.00% | ~1,087 |
 | Lord of War | 29.00% | ~1,050 |
 | Taking it back | 28.00% | ~1,014 |
-| Resourceful | 26.00% | ~941 |
-| Target America | 26.00% | ~941 |
+| Resourceful | 26.00% | ~942 |
+| Target America | 26.00% | ~942 |
 | The Kraken Sleeps | 24.00% | ~869 |
 | Liberté | 22.00% | ~797 |
 | Organ Grinder | 22.00% | ~797 |
 | As Quiet as a Mouse | 22.00% | ~797 |
-| Sharpshooter | 21.00% | ~760 |
+| Sharpshooter | 21.00% | ~761 |
 | Explosive Efficiency | 18.00% | ~652 |
 | Just a Flesh Wound | 17.00% | ~616 |
 | Gunslinger | 17.00% | ~616 |
-| Climbing the Ladder | 16.00% | ~579 |
-| Der Geist | 16.00% | ~579 |
+| Climbing the Ladder | 16.00% | ~580 |
+| Der Geist | 16.00% | ~580 |
 | Close Quarters | 15.00% | ~543 |
 | Brains of the Operation | 15.00% | ~543 |
 | Enemy at the Gates | 14.00% | ~507 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 625)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,621 (Ranked 160)  
+Progressed: 3,622 (Ranked 160)  
 Completed: 10 (0.28%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 10 (0.28%) (Ranked 186)
 | 2023-09-14 | 3,612 | 10 |
 | 2023-09-15 | 3,614 | 10 |
 | 2023-09-16 | 3,621 | 10 |
+| 2023-09-17 | 3,622 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

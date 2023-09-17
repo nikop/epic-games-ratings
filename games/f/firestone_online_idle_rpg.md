@@ -35,10 +35,10 @@ Rating: 4.02 (Ranked 943)
 | Mastery | 11.00% | ~214 |
 | Moving Up The Ladder | 11.00% | ~214 |
 | Relic Of The Past | 11.00% | ~214 |
+| Scroll Master | 11.00% | ~214 |
 | The power of Awakening | 11.00% | ~214 |
 | Four Leaf Clover | 10.00% | ~194 |
 | Frostfire Liberator | 10.00% | ~194 |
-| Scroll Master | 10.00% | ~194 |
 | Here We Go Again | 9.00% | ~175 |
 | Master Enchanter | 9.00% | ~175 |
 | The father of Dragons | 9.00% | ~175 |
@@ -46,12 +46,12 @@ Rating: 4.02 (Ranked 943)
 | Crystal Mining | 8.00% | ~156 |
 | Dragon Slayer | 8.00% | ~156 |
 | Enchanting skill | 8.00% | ~156 |
+| The Expeditioner | 8.00% | ~156 |
 | Weekly Quest Completionist | 8.00% | ~156 |
 | Blueprint Upgrades | 7.00% | ~136 |
 | Engineer Mastery | 7.00% | ~136 |
 | Lock And Load | 7.00% | ~136 |
 | Sailor | 7.00% | ~136 |
-| The Expeditioner | 7.00% | ~136 |
 | Ancient Knowledge | 6.00% | ~117 |
 | How Do You Turn This On? | 6.00% | ~117 |
 | Legendary | 6.00% | ~117 |

@@ -9,9 +9,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,582 |
 | Beast Intentions | 0.70% | ~1,604 |
 | The Cursed Farmer | 0.70% | ~1,604 |
-| The Mad Wizard | 0.50% | ~1,145 |
+| The Mad Wizard | 0.50% | ~1,146 |
 | The Ring of Regeneration | 0.40% | ~916 |
 | Seeking Allies | 0.40% | ~916 |
+| Are Ya Chicken? | 0.40% | ~916 |
 | Maddening | 0.30% | ~687 |
 | Were-verpowered | 0.30% | ~687 |
 | A Persistent Buzzing | 0.30% | ~687 |
@@ -20,7 +21,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.30% | ~687 |
 | Unearthed Evil | 0.30% | ~687 |
 | The Crumbling Temple | 0.30% | ~687 |
-| Are Ya Chicken? | 0.30% | ~687 |
 | Mad Cow Disease | 0.30% | ~687 |
 | Exploring Port Nyanzaru | 0.30% | ~687 |
 | Friendly Imps | 0.30% | ~687 |
@@ -84,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.20% | ~458 |
 | Underdeep Cartography | 0.20% | ~458 |
 | Overdue Rendezvous | 0.20% | ~458 |
+| Moose Tracks | 0.20% | ~391 |
 | The Templar's Camp | 0.20% | ~458 |
 | Rescue in the Jungle | 0.20% | ~458 |
 | The Hunt for The Last Breath | 0.20% | ~391 |
@@ -417,7 +418,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~195 |
 | Only Human | 0.10% | ~195 |
 | The Long Haul | 0.10% | ~229 |
-| Moose Tracks | 0.10% | ~195 |
 | An Awakened Axe | 0.10% | ~195 |
 | CONtagious Cold | 0.10% | ~195 |
 | Ten in Ten-Towns | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,088 (Ranked 55)  
+Progressed: 229,100 (Ranked 56)  
 Completed: 2,289 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -677,7 +677,7 @@ Completed: 2,289 (1.00%) (Ranked 123)
 | 2023-09-14 | 228,799 | 2,279 |
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
-| 2023-09-17 | 229,088 | 2,289 |
+| 2023-09-17 | 229,100 | 2,289 |
 ## Awards
 Max (Diverse Characters): 5,283  (Ranked 67)  
 Sum: 31,617 (Ranked 39)  

@@ -50,9 +50,9 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
 | Trendsetter | 0.60% | ~32 |
 | Level: Heating-Up | 0.50% | ~27 |
+| CEO | 0.50% | ~27 |
 | Campaign: Man vs. Machine | 0.40% | ~22 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~22 |
-| CEO | 0.40% | ~22 |
 | Rockstar | 0.40% | ~22 |
 | Champion | 0.30% | ~16 |
 | Trophy Hoarder | 0.30% | ~16 |

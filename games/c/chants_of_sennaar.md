@@ -11,7 +11,7 @@
 | A new dawn | 39.00% | ~62 |
 | Scholar | 37.00% | ~59 |
 | The darkness | 36.00% | ~58 |
-| A good beginning | 34.00% | ~54 |
+| A good beginning | 35.00% | ~56 |
 | True G4M3R | 33.00% | ~53 |
 | One last step | 31.00% | ~50 |
 | Cable guy | 28.00% | ~45 |

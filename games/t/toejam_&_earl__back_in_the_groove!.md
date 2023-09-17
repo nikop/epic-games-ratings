@@ -5,7 +5,7 @@ Rating: 4.33 (Ranked 773)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,123 |
+| Food Taster | 9.00% | ~5,124 |
 | Fall Fest | 7.00% | ~3,985 |
 | HFZ Goober | 6.00% | ~3,416 |
 | Thrill Seeker | 6.00% | ~3,416 |
@@ -21,9 +21,9 @@ Rating: 4.33 (Ranked 773)
 | Old School Jammin' | 1.00% | ~569 |
 | Wakey Wakey | 1.00% | ~569 |
 | Level Diver | 0.80% | ~455 |
-| Gimme My Presents Back! | 0.70% | ~398 |
-| Cleaning Out Santa's Sack | 0.70% | ~398 |
-| Teamwork Rules | 0.70% | ~398 |
+| Gimme My Presents Back! | 0.70% | ~399 |
+| Cleaning Out Santa's Sack | 0.70% | ~399 |
+| Teamwork Rules | 0.70% | ~399 |
 | Beaten By A Little Girl | 0.60% | ~342 |
 | Totally Bummed Again | 0.60% | ~342 |
 | Piece O' Cake | 0.50% | ~285 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 773)
 | Why Do I Keep Doing That? | 0.10% | ~57 |
 | Hey, You Did It! | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,927 (Ranked 91)  
+Progressed: 56,930 (Ranked 91)  
 Completed: 6 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 6 (0.01%) (Ranked 261)
 | 2023-09-14 | 56,897 | 6 |
 | 2023-09-15 | 56,914 | 6 |
 | 2023-09-16 | 56,926 | 6 |
-| 2023-09-17 | 56,927 | 6 |
+| 2023-09-17 | 56,930 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "aq_achievement_10",
       "SetID": "7jh86ne",
       "Name": "Mystery solved",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "aq_achievement_11",
@@ -289,9 +289,9 @@
       "ID": "aq_achievement_27",
       "SetID": "7jh86ne",
       "Name": "Ring-a-ding-ding",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "aq_achievement_28",
@@ -401,17 +401,17 @@
       "ID": "aq_achievement_4",
       "SetID": "7jh86ne",
       "Name": "Back to the anvil",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "aq_achievement_6",
@@ -425,25 +425,25 @@
       "ID": "aq_achievement_7",
       "SetID": "7jh86ne",
       "Name": "NOW GO AWAY!",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -458,8 +458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:05:22.0970952+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:50:25.5483049+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0346445+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:58:59.0914884+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:05:22.0971234+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:43:28.2121911+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:50:25.5483309+00:00"
 }

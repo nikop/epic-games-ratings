@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~45,589 |
-| Get Busy Living | 16.00% | ~28,055 |
-| Samuel Norton | 9.00% | ~15,781 |
-| Spare The Rod | 5.00% | ~8,767 |
-| Don't Put Me In The Dark | 3.00% | ~5,260 |
-| Wait and Hope | 3.00% | ~5,260 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,260 |
+| Stone Walls | 26.00% | ~45,592 |
+| Get Busy Living | 16.00% | ~28,057 |
+| Samuel Norton | 9.00% | ~15,782 |
+| Spare The Rod | 5.00% | ~8,768 |
+| Don't Put Me In The Dark | 3.00% | ~5,261 |
+| Wait and Hope | 3.00% | ~5,261 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,261 |
 | Throw The Book At Them | 2.00% | ~3,507 |
 | Iron Bars | 2.00% | ~3,507 |
-| D.B. Cooper | 1.00% | ~1,753 |
+| D.B. Cooper | 1.00% | ~1,754 |
 | Reformation | 0.60% | ~1,052 |
 | Crowd Control | 0.50% | ~877 |
 | Freedom | 0.40% | ~701 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~175 |
 | ... It's What You Can Prove | 0.10% | ~175 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175,342 (Ranked 66)  
+Progressed: 175,354 (Ranked 66)  
 Completed: 8 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,10 +173,10 @@ Completed: 8 (0.00%) (Ranked 275)
 | 2023-09-14 | 174,670 | 8 |
 | 2023-09-15 | 174,966 | 8 |
 | 2023-09-16 | 175,331 | 8 |
-| 2023-09-17 | 175,342 | 8 |
+| 2023-09-17 | 175,354 | 8 |
 ## Awards
 Max (Extremely Fun): 506  (Ranked 200)  
-Sum: 3,901 (Ranked 146)  
+Sum: 3,904 (Ranked 146)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -186,7 +186,7 @@ Diff (max vs sum): 54
 | This game has Quickly Understood Controls | 465 |
 | This game is Relaxing | 448 |
 | This game has Diverse Characters | 424 |
-| This game has Amazing Storytelling | 419 |
+| This game has Amazing Storytelling | 422 |
 | This game is Educational | 405 |
 | This game has Amazing Characters | 386 |
 | This game has a Creative Community | 298 |
@@ -431,3 +431,4 @@ Diff (max vs sum): 54
 | 2023-09-14 | 4.61 | - | 503 | 3,891 |
 | 2023-09-15 | 4.61 | - | 503 | 4,298 |
 | 2023-09-16 | 4.61 | - | 506 | 4,304 |
+| 2023-09-17 | 4.61 | - | 506 | 3,904 |

@@ -9,20 +9,20 @@
 | Ooh, it's shiny! | 68.00% | ~26 |
 | My lost nightingale | 63.00% | ~24 |
 | Through the woods | 61.00% | ~23 |
-| Back to the anvil | 50.00% | ~19 |
+| Back to the anvil | 53.00% | ~20 |
+| So soothing... | 50.00% | ~19 |
+| Roostwig has entered the building | 50.00% | ~19 |
+| Mystery solved | 47.00% | ~18 |
 | Honey, honey, honey… | 47.00% | ~18 |
 | Fussy eater | 47.00% | ~18 |
 | Little genius | 47.00% | ~18 |
-| So soothing... | 47.00% | ~18 |
 | Kekekeke... | 47.00% | ~18 |
-| Roostwig has entered the building | 47.00% | ~18 |
-| Mystery solved | 45.00% | ~17 |
+| NOW GO AWAY! | 47.00% | ~18 |
+| Sorry Grandpa | 47.00% | ~18 |
 | Game Over! | 45.00% | ~17 |
 | Show me your true self | 45.00% | ~17 |
 | A very special drink | 45.00% | ~17 |
 | Far away from home | 45.00% | ~17 |
-| NOW GO AWAY! | 45.00% | ~17 |
-| Sorry Grandpa | 45.00% | ~17 |
 | No posters allowed | 42.00% | ~16 |
 | GG | 39.00% | ~15 |
 | Close the deal | 37.00% | ~14 |
@@ -31,8 +31,8 @@
 | Mischief maker | 37.00% | ~14 |
 | Shattered | 34.00% | ~13 |
 | Beekeeper | 34.00% | ~13 |
+| Ring-a-ding-ding | 34.00% | ~13 |
 | Memories | 32.00% | ~12 |
-| Ring-a-ding-ding | 32.00% | ~12 |
 | Turn the last page | 29.00% | ~11 |
 | Makeover | 29.00% | ~11 |
 | Singstar | 29.00% | ~11 |

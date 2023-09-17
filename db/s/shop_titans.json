@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6020,10 +6020,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27243,
       "NumberOfAwardsMax": 4746
+    },
+    {
+      "Time": "2023-09-17T01:42:30.9332002+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27244,
+      "NumberOfAwardsMax": 4746
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27243,
+  "NumberOfAwards": 27244,
   "NumberOfAwardsMax": 4746,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6061,7 +6067,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4010
+      "Count": 4011
     },
     {
       "Text": "This game has Playful Visuals",
@@ -6076,9 +6082,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136277,
+  "EOS_Progressed": 136280,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21446,6 +21452,11 @@
       "Time": "2023-09-17T00:03:18.892628+00:00",
       "NumProgressed": 136277,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-09-17T01:48:06.1470633+00:00",
+      "NumProgressed": 136280,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 112,
@@ -21457,15 +21468,15 @@
       "Name": "The Daily Grind",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "advlevel02",
       "SetID": "anfd17p",
       "Name": "On the Path to Greatness",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 954
     },
     {
       "ID": "advlevel03",
@@ -21593,7 +21604,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "boss02",
@@ -21711,9 +21722,9 @@
       "ID": "commonres04",
       "SetID": "anfd17p",
       "Name": "Fillin\u0027 the Bin",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 545
     },
     {
       "ID": "craft01",
@@ -22081,7 +22092,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "loot02",
@@ -22352,15 +22363,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136277,
+      "Progressed": 136280,
       "Completed": 152
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-16T21:58:43.8425638+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:03:18.8926276+00:00",
+  "LastChanged": "2023-09-17T01:42:30.9331999+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:48:06.1470625+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:58:13.2886438+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:03:18.8928732+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:42:30.9332008+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:48:06.1472685+00:00"
 }

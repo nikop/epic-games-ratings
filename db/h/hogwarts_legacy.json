@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7630,10 +7630,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43493,
       "NumberOfAwardsMax": 22752
+    },
+    {
+      "Time": "2023-09-17T01:41:11.4124816+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43498,
+      "NumberOfAwardsMax": 22752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43493,
+  "NumberOfAwards": 43498,
   "NumberOfAwardsMax": 22752,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7683,7 +7689,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1023
+      "Count": 1028
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7710,9 +7716,9 @@
       "Count": 650
     }
   ],
-  "EOS_Progressed": 296769,
+  "EOS_Progressed": 296772,
   "EOS_Completed": 472,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23905,6 +23911,11 @@
       "Time": "2023-09-17T00:04:16.2543355+00:00",
       "NumProgressed": 296769,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-09-17T01:48:55.6138771+00:00",
+      "NumProgressed": 296772,
+      "NumCompleted": 472
     }
   ],
   "TotalAchievements": 45,
@@ -24036,7 +24047,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35612
+      "UsersEstimate": 35613
     },
     {
       "ID": "PFA_24",
@@ -24052,7 +24063,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14838
+      "UsersEstimate": 14839
     },
     {
       "ID": "PFA_26",
@@ -24084,7 +24095,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14838
+      "UsersEstimate": 14839
     },
     {
       "ID": "PFA_3",
@@ -24196,7 +24207,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14838
+      "UsersEstimate": 14839
     },
     {
       "ID": "PFA_42",
@@ -24275,16 +24286,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296769,
+      "Progressed": 296772,
       "Completed": 472
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-16T22:57:12.9338989+00:00",
-  "LastChanged_Achievements": "2023-09-17T00:04:16.2543349+00:00",
+  "LastChanged": "2023-09-17T01:41:11.4124815+00:00",
+  "LastChanged_Achievements": "2023-09-17T01:48:55.6138766+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-16T23:57:12.0327074+00:00",
-  "LastUpdate_Achievements": "2023-09-17T00:04:16.2544712+00:00"
+  "LastUpdate_Ratings": "2023-09-17T01:41:11.4124821+00:00",
+  "LastUpdate_Achievements": "2023-09-17T01:48:55.6139793+00:00"
 }
