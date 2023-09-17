@@ -51,9 +51,9 @@
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.50% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.00% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
-| 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.83% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.97% |
+| 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.77% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.28% |
@@ -70,7 +70,7 @@
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.36% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.28% |
-| 71 | [The Complex](games/t/the_complex.md) | 3.26% |
+| 71 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 74 | [HordeCore](games/h/hordecore.md) | 3.12% |
@@ -115,7 +115,7 @@
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.35% |
 | 115 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
-| 116 | [Eternights](games/e/eternights.md) | 1.29% |
+| 116 | [Eternights](games/e/eternights.md) | 1.28% |
 | 117 | [Chorus](games/c/chorus.md) | 1.27% |
 | 118 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 119 | [Infindustry](games/i/infindustry.md) | 1.20% |

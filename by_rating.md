@@ -10,7 +10,7 @@
 | 8 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.90 | 0 | 517 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 517 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 517 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,892 | 112 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,893 | 112 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 517 |
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,193 | 41 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 517 |
@@ -52,7 +52,7 @@
 | 50 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 404 |
 | 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 412 |
 | 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 269 |
-| 50 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 395 | 218 |
+| 50 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 396 | 218 |
 | 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 517 |
 | 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 423 | 212 |
 | 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 265 | 250 |
@@ -94,9 +94,9 @@
 | 88 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 517 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 517 |
 | 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 931 | 152 |
-| 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 760 | 162 |
+| 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 761 | 162 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,002 | 58 |
-| 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,468 | 102 |
+| 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,469 | 102 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 389 | 220 |
 | 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 123 | 319 |
 | 88 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 517 |
@@ -116,7 +116,7 @@
 | 110 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 39 | 429 |
 | 110 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 304 |
 | 110 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 517 |
-| 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,329 | 23 |
+| 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,339 | 23 |
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 517 |
 | 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,331 | 92 |
 | 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 954 | 149 |
@@ -296,7 +296,7 @@
 | 280 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 565 | 192 |
 | 280 | [SOMA](games/s/soma.md) | 4.66 | 0 | 517 |
 | 280 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 517 |
-| 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,869 | 61 |
+| 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,874 | 61 |
 | 280 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 98 | 342 |
 | 280 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 205 |
 | 280 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 517 |

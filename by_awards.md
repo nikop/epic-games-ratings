@@ -22,7 +22,7 @@
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,438 | 4.26 | 830 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,362 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 17,122 | 4.61 | 368 |
-| 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,329 | 4.76 | 117 |
+| 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,339 | 4.76 | 117 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,488 | 4.58 | 433 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,793 | 4.60 | 395 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,712 | 4.60 | 395 |
@@ -60,7 +60,7 @@
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,002 | 4.79 | 88 |
 | 59 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,969 | 4.64 | 313 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,961 | 4.75 | 136 |
-| 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,869 | 4.66 | 280 |
+| 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,874 | 4.66 | 280 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,819 | 4.82 | 67 |
 | 63 | [Prey](games/p/prey.md) | 5,692 | 4.62 | 349 |
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,567 | 4.85 | 42 |
@@ -101,7 +101,7 @@
 | 99 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,575 | 4.49 | 583 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,563 | 4.27 | 821 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,515 | 4.10 | 914 |
-| 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,468 | 4.79 | 88 |
+| 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,469 | 4.79 | 88 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,406 | 4.78 | 101 |
 | 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,248 | 4.67 | 259 |
 | 105 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,221 | 4.63 | 331 |
@@ -111,7 +111,7 @@
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,991 | 4.49 | 583 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,918 | 4.66 | 280 |
 | 111 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,895 | 4.71 | 188 |
-| 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,892 | 4.90 | 8 |
+| 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,893 | 4.90 | 8 |
 | 113 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,884 | 4.70 | 202 |
 | 114 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,800 | 4.56 | 468 |
 | 115 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,778 | 4.63 | 331 |
@@ -161,7 +161,7 @@
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 796 | 4.50 | 565 |
 | 160 | [Auto Chess](games/a/auto_chess.md) | 793 | 4.51 | 548 |
 | 161 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 765 | 4.51 | 548 |
-| 162 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 760 | 4.79 | 88 |
+| 162 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 761 | 4.79 | 88 |
 | 163 | [Core](games/c/core.md) | 749 | 4.36 | 749 |
 | 164 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 743 | 4.60 | 395 |
 | 165 | [Neverwinter](games/n/neverwinter.md) | 731 | 4.29 | 807 |
@@ -217,7 +217,7 @@
 | 215 | [Warface](games/w/warface.md) | 415 | 3.91 | 965 |
 | 216 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 414 | 4.50 | 565 |
 | 217 | [Slime Rancher](games/s/slime_rancher.md) | 410 | 4.82 | 67 |
-| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 395 | 4.84 | 50 |
+| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 396 | 4.84 | 50 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 392 | 4.70 | 202 |
 | 220 | [For The King](games/f/for_the_king.md) | 389 | 4.70 | 202 |
 | 220 | [Nuclear Throne](games/n/nuclear_throne.md) | 389 | 4.79 | 88 |
