@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3474,
+  "EOS_Progressed": 3478,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3474,6 +3474,11 @@
       "Time": "2023-09-17T12:13:01.1858897+00:00",
       "NumProgressed": 3474,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-17T13:16:14.8543269+00:00",
+      "NumProgressed": 3478,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3533,7 +3538,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3061
     },
     {
       "ID": "campaign10",
@@ -3573,7 +3578,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "campaign15",
@@ -3581,7 +3586,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "campaign16",
@@ -3621,7 +3626,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2678
     },
     {
       "ID": "campaign20",
@@ -3635,9 +3640,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2122
     },
     {
       "ID": "campaign4",
@@ -3645,7 +3650,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "campaign5",
@@ -3661,15 +3666,15 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "campaign7",
       "SetID": "2h56gn1",
       "Name": "Maestro",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 938
+      "UsersEstimate": 904
     },
     {
       "ID": "campaign8",
@@ -3693,7 +3698,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "scenario2",
@@ -3701,7 +3706,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "scenario3",
@@ -3717,7 +3722,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "scenario5",
@@ -3748,7 +3753,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3474,
+      "Progressed": 3478,
       "Completed": 11
     }
   ],
@@ -3756,8 +3761,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:13:01.1858892+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:16:14.8543263+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:06:06.3870424+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:13:01.1859271+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:09:10.748801+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:16:14.8543767+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 28  (23.09.2022)
 | Pangs of conscience | 47.00% | ~223 |
 | Living it large! | 44.00% | ~209 |
 | Collector | 42.00% | ~200 |
-| Need to think | 41.00% | ~195 |
+| Need to think | 42.00% | ~200 |
 | Completely nuts! | 39.00% | ~185 |
 | Just in time! | 33.00% | ~157 |
 | Europe | 31.00% | ~147 |

@@ -20,7 +20,7 @@ Rating: 4.62 (Ranked 348)
 | Pacifist | 59.00% | ~3,041 |
 | 2-1-6 | 58.00% | ~2,990 |
 | A gift | 53.00% | ~2,732 |
-| Girl Power | 47.00% | ~2,423 |
+| Girl Power | 48.00% | ~2,474 |
 | What goes around... | 44.00% | ~2,268 |
 | Be Prepared | 38.00% | ~1,959 |
 | Unbreakable | 36.00% | ~1,856 |

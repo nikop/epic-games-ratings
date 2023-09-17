@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2298,9 +2298,9 @@
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 74
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2465,8 +2465,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:11:28.8431743+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:14:56.9861682+00:00",
   "LastUpdate_AppInfo": "2023-09-14T19:57:19.2555996+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:08:35.0695682+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:11:28.8432374+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:11:58.4736085+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:14:56.9862549+00:00"
 }

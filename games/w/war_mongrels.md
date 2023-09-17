@@ -10,7 +10,7 @@ Number of Ratings: 34  (23.09.2022)
 | Cowardice | 58.00% | ~291 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~251 |
 | Eat Lead! | 48.00% | ~241 |
-| The Breaking Point | 45.00% | ~226 |
+| The Breaking Point | 46.00% | ~231 |
 | Prospector | 44.00% | ~221 |
 | Here Comes the Boom | 44.00% | ~221 |
 | Treasure Hunter | 41.00% | ~206 |
@@ -67,7 +67,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 502 (Ranked 246)  
-Completed: 0 (0.00%) (Ranked 276)  
+Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

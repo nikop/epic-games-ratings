@@ -23,8 +23,8 @@
   "Tags": [],
   "EOS_Progressed": 254,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 64,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 62,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 40.16,
   "EosHistory": [
     {
@@ -1492,9 +1492,9 @@
       "ID": "PORTRAIT_7",
       "SetID": "2fge00i",
       "Name": "Portrait 7",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "PORTRAIT_8",
@@ -1523,8 +1523,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:13:36.5108507+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:16:45.1136744+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.9907185+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:07:40.0159462+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:13:36.5108685+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:10:57.3060218+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:16:45.1136995+00:00"
 }

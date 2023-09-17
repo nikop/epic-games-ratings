@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.51,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -1259,6 +1259,11 @@
       "Time": "2023-09-17T09:10:27.6452665+00:00",
       "NumProgressed": 396,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-17T13:16:06.6770934+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1278,7 +1283,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "completeact3",
@@ -1286,7 +1291,7 @@
       "Name": "On the Road",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "findalltapes",
@@ -1310,7 +1315,7 @@
       "Name": "Truthseeker",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "scoreminrankrb2",
@@ -1389,7 +1394,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 2
     }
   ],
@@ -1397,8 +1402,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:12:51.7127728+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:16:06.677093+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.6432999+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:02:35.0084594+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:12:51.7127888+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:04:59.5099778+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:16:06.6771151+00:00"
 }

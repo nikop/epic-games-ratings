@@ -73,8 +73,8 @@ Rating: 4.02 (Ranked 943)
 | Transmute | 1.00% | ~19 |
 | Tree of Life | 1.00% | ~19 |
 | Beast War Machines | 0.80% | ~16 |
+| Angel Power | 0.70% | ~14 |
 | Pokerface | 0.70% | ~14 |
-| Angel Power | 0.60% | ~12 |
 | Conqueror | 0.60% | ~12 |
 | Ultimate War Machines | 0.50% | ~10 |
 | Silverwood liberator | 0.40% | ~8 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1215,6 +1215,11 @@
       "Time": "2023-09-16T11:07:27.3311329+00:00",
       "NumProgressed": 516,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T13:15:57.8614207+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1234,7 +1239,7 @@
       "Name": "Break a Leg!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CatchAFish",
@@ -1250,7 +1255,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Chapter10",
@@ -1258,7 +1263,7 @@
       "Name": "The Friend",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Chapter2",
@@ -1266,7 +1271,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Chapter3",
@@ -1288,9 +1293,9 @@
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 78
     },
     {
       "ID": "Chapter6",
@@ -1330,7 +1335,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Collectibles2",
@@ -1354,7 +1359,7 @@
       "Name": "Sweet Darkness",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ElfFriend",
@@ -1376,9 +1381,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 171
     },
     {
       "ID": "GollumChoices",
@@ -1394,7 +1399,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Memories",
@@ -1402,7 +1407,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Murderer",
@@ -1410,7 +1415,7 @@
       "Name": "Murderer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NoDamage",
@@ -1506,21 +1511,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:12:41.7824426+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:15:57.8614202+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:02.4007324+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:09:33.212705+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:12:41.782468+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:13:14.407892+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:15:57.8614573+00:00"
 }

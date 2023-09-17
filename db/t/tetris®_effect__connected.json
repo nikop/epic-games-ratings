@@ -4,11 +4,11 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 32,
   "Ranking_Popularity": 298,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 596,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
     "PcReleaseDate": "2019-07-23T15:00:00+00:00",
@@ -655,10 +655,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 477,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2023-09-17T13:00:08.8920562+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 497,
+      "NumberOfAwardsMax": 157
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 477,
+  "NumberOfAwards": 497,
   "NumberOfAwardsMax": 157,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -733,6 +739,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 42
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -746,8 +758,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-09-17T09:57:42.4335218+00:00",
+  "LastChanged": "2023-09-17T13:00:08.892056+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:32.3200821+00:00",
-  "LastUpdate_Ratings": "2023-09-17T11:58:39.1726923+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:12:38.7718423+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:00:08.8920564+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:15:55.3378413+00:00"
 }

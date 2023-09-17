@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1338,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4826,6 +4826,11 @@
       "Time": "2023-09-17T11:07:42.8796868+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T13:14:35.8452247+00:00",
+      "NumProgressed": 1338,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4837,7 +4842,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -4861,7 +4866,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -4909,7 +4914,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_headquarters_10",
@@ -4925,7 +4930,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_headquarters_20",
@@ -4949,7 +4954,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5013,7 +5018,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5140,14 +5145,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1338,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:11:04.533935+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:14:35.8452241+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:07:33.8797471+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:11:04.5339808+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:10:48.0470169+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:14:35.8452866+00:00"
 }

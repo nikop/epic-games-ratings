@@ -41,12 +41,12 @@ Rating: 4.55 (Ranked 487)
 | Pedal to the Metal | 3.00% | ~95 |
 | Pulsar Disciple | 3.00% | ~95 |
 | Mutual Loyalty | 2.00% | ~63 |
+| Tiqqun Contender | 2.00% | ~63 |
 | Catastrophe Avoided | 2.00% | ~63 |
 | Praise the Hull! | 2.00% | ~63 |
 | Space Greenhouse | 2.00% | ~63 |
 | Help of the Forgotten Member | 2.00% | ~63 |
 | Better Him Than Me | 1.00% | ~32 |
-| Tiqqun Contender | 1.00% | ~32 |
 | Remember the Dead | 1.00% | ~32 |
 | You Had One Job... | 1.00% | ~32 |
 | Gregor Spinoza | 1.00% | ~32 |
@@ -64,7 +64,7 @@ Rating: 4.55 (Ranked 487)
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,170 (Ranked 171)  
-Completed: 0 (0.00%) (Ranked 276)  
+Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

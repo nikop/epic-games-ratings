@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,9 +336,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5181,
+  "EOS_Progressed": 5183,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6156,6 +6156,11 @@
       "Time": "2023-09-16T17:07:20.4607783+00:00",
       "NumProgressed": 5181,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-17T13:13:23.9535284+00:00",
+      "NumProgressed": 5183,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6295,7 +6300,7 @@
       "Name": "Secret Technique",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "25",
@@ -6566,13 +6571,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5181,
+      "Progressed": 5183,
       "Completed": 4762
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5181,
+      "Progressed": 5183,
       "Completed": 6
     }
   ],
@@ -6580,8 +6585,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:09:40.6713913+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:13:23.9535277+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.0952594+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:02:58.9706268+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:09:40.6714598+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:05:24.7172796+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:13:23.9536213+00:00"
 }

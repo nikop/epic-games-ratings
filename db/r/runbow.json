@@ -6,7 +6,7 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249387,
+  "EOS_Progressed": 249389,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14274,6 +14274,11 @@
       "Time": "2023-09-17T12:13:09.0829129+00:00",
       "NumProgressed": 249387,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-17T13:16:21.672653+00:00",
+      "NumProgressed": 249389,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14309,7 +14314,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52371
+      "UsersEstimate": 52372
     },
     {
       "ID": "blotbuster",
@@ -14389,7 +14394,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49877
+      "UsersEstimate": 49878
     },
     {
       "ID": "didYourTime",
@@ -14461,7 +14466,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132175
+      "UsersEstimate": 132176
     },
     {
       "ID": "indegestible",
@@ -14549,7 +14554,7 @@
       "Name": "Please The King",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "readyFight",
@@ -14589,7 +14594,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54865
+      "UsersEstimate": 54866
     },
     {
       "ID": "thunderstruck",
@@ -14605,7 +14610,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32420
+      "UsersEstimate": 32421
     },
     {
       "ID": "treeMedalist",
@@ -14652,7 +14657,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249387,
+      "Progressed": 249389,
       "Completed": 5
     }
   ],
@@ -14660,8 +14665,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:13:09.0829125+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:16:21.6726524+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.9787856+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:03:27.9090255+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:13:09.0829979+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:06:01.5903586+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:16:21.6727777+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,628 |
-| Git Gutte! | 2.00% | ~13,628 |
-| Break A Leg | 2.00% | ~13,628 |
-| Coup de Grâce | 2.00% | ~13,628 |
-| Hazardous Materials | 2.00% | ~13,628 |
-| Friends Like These | 2.00% | ~13,628 |
-| Hotel California | 2.00% | ~13,628 |
-| Apex Predator | 2.00% | ~13,628 |
-| Stacking the Deck | 2.00% | ~13,628 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,628 |
-| Welcome To Hell-A | 2.00% | ~13,628 |
+| Dr. Reed, I Presume? | 2.00% | ~13,629 |
+| Git Gutte! | 2.00% | ~13,629 |
+| Break A Leg | 2.00% | ~13,629 |
+| Coup de Grâce | 2.00% | ~13,629 |
+| Hazardous Materials | 2.00% | ~13,629 |
+| Friends Like These | 2.00% | ~13,629 |
+| Hotel California | 2.00% | ~13,629 |
+| Apex Predator | 2.00% | ~13,629 |
+| Stacking the Deck | 2.00% | ~13,629 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,629 |
+| Welcome To Hell-A | 2.00% | ~13,629 |
 | Anger Management | 1.00% | ~6,814 |
 | Perks of the Job | 1.00% | ~6,814 |
 | Bookworm | 1.00% | ~6,814 |
@@ -32,11 +32,11 @@ Rating: 4.54 (Ranked 505)
 | This is My Weapon | 1.00% | ~6,814 |
 | Making Your Mark | 0.90% | ~6,133 |
 | Humanity Distilled | 0.90% | ~6,133 |
-| Down with the Sickness | 0.80% | ~5,451 |
+| Down with the Sickness | 0.80% | ~5,452 |
 | Max Headroom | 0.70% | ~4,770 |
-| Jumbo Keyring | 0.60% | ~4,088 |
-| Go, Bobcats! | 0.60% | ~4,088 |
-| Rising Star | 0.60% | ~4,088 |
+| Jumbo Keyring | 0.60% | ~4,089 |
+| Go, Bobcats! | 0.60% | ~4,089 |
+| Rising Star | 0.60% | ~4,089 |
 | Smorgasbord | 0.50% | ~3,407 |
 | Make it So | 0.40% | ~2,726 |
 | On Safari | 0.40% | ~2,726 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~681 |
 | Bucket List | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,401 (Ranked 22)  
+Progressed: 681,448 (Ranked 22)  
 Completed: 2,148 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,14 +201,14 @@ Completed: 2,148 (0.32%) (Ranked 177)
 | 2023-09-14 | 679,831 | 2,143 |
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
-| 2023-09-17 | 681,401 | 2,148 |
+| 2023-09-17 | 681,448 | 2,148 |
 ## Awards
-Max (Great Boss Battles): 6,073  (Ranked 57)  
-Sum: 9,010 (Ranked 94)  
+Max (Great Boss Battles): 6,086  (Ranked 57)  
+Sum: 9,023 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,073 |
+| This game has Great Boss Battles | 6,086 |
 | This game is Great for Beginners | 417 |
 | This game has Diverse Characters | 408 |
 | This game has Quickly Understood Controls | 396 |
@@ -369,4 +369,4 @@ Diff (max vs sum): -37
 | 2023-09-14 | 4.54 | 6,038 | 8,954 |
 | 2023-09-15 | 4.54 | 6,061 | 8,982 |
 | 2023-09-16 | 4.54 | 6,073 | 9,005 |
-| 2023-09-17 | 4.54 | 6,073 | 9,010 |
+| 2023-09-17 | 4.54 | 6,086 | 9,023 |

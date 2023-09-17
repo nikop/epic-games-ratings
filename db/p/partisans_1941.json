@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1373,
+  "EOS_Progressed": 1374,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2570,6 +2570,11 @@
       "Time": "2023-09-17T12:14:06.0532791+00:00",
       "NumProgressed": 1373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T13:17:10.596527+00:00",
+      "NumProgressed": 1374,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2581,7 +2586,7 @@
       "Name": "Agent 47",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Auditor",
@@ -2629,7 +2634,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Defense_Common",
@@ -2659,9 +2664,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 550
     },
     {
       "ID": "Everyone_is_here",
@@ -2757,7 +2762,7 @@
       "Name": "One by One",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Miner",
@@ -2765,7 +2770,7 @@
       "Name": "Bomberman",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "MoskitoBite",
@@ -2797,7 +2802,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "We_were_not_here",
@@ -2820,15 +2825,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1373,
+      "Progressed": 1374,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:14:06.0532786+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:17:10.5965264+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:03:25.9051233+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:14:06.0533072+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:06:01.0419987+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:17:10.5965641+00:00"
 }

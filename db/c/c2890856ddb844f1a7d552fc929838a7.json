@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1696,9 +1696,9 @@
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 152
     },
     {
       "ID": "AC18",
@@ -1768,9 +1768,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 296
     },
     {
       "ID": "AC27",
@@ -1896,9 +1896,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 168
     },
     {
       "ID": "AC43",
@@ -1937,8 +1937,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:13:02.3763294+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:16:15.6883004+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:07:55.439303+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:13:02.3763664+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:11:12.3832496+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:16:15.6883469+00:00"
 }

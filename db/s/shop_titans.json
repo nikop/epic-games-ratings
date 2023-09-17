@@ -6094,9 +6094,9 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136300,
+  "EOS_Progressed": 136305,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21519,6 +21519,11 @@
       "Time": "2023-09-17T12:10:14.475111+00:00",
       "NumProgressed": 136300,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-09-17T13:13:53.1149467+00:00",
+      "NumProgressed": 136305,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 112,
@@ -21856,9 +21861,9 @@
       "ID": "donovan_a",
       "SetID": "anfd17p",
       "Name": "Master of Transmutation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 682
     },
     {
       "ID": "enchant01",
@@ -22425,15 +22430,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136300,
+      "Progressed": 136305,
       "Completed": 152
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-17T10:59:11.4136136+00:00",
-  "LastChanged_Achievements": "2023-09-17T12:10:14.4751105+00:00",
+  "LastChanged_Achievements": "2023-09-17T13:13:53.1149461+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-17T12:00:18.2394608+00:00",
-  "LastUpdate_Achievements": "2023-09-17T12:10:14.4753346+00:00"
+  "LastUpdate_Ratings": "2023-09-17T13:02:02.8889927+00:00",
+  "LastUpdate_Achievements": "2023-09-17T13:13:53.1152048+00:00"
 }
