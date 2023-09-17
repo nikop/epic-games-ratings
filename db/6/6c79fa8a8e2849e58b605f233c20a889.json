@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2545,
+  "EOS_Progressed": 2546,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -5876,6 +5876,11 @@
       "Time": "2023-09-17T04:06:40.0438547+00:00",
       "NumProgressed": 2545,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-17T06:06:51.4140003+00:00",
+      "NumProgressed": 2546,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5895,7 +5900,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "BOT_DESTROYER",
@@ -5911,7 +5916,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CONQUEROR",
@@ -5991,7 +5996,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "GUARD_MAKER",
@@ -6062,14 +6067,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2545,
+      "Progressed": 2546,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:07:48.8703274+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:06:51.4139996+00:00",
   "LastUpdate_AppInfo": "2023-09-13T01:39:00.1699898+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:03:56.0383443+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:07:48.8703841+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:03:12.6184857+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:06:51.4140546+00:00"
 }

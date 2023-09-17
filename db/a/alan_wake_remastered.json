@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65537,
+  "EOS_Progressed": 65540,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1610,
+  "EOS_NewPlayers": 1595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14927,6 +14927,11 @@
       "Time": "2023-09-17T05:04:44.7676144+00:00",
       "NumProgressed": 65537,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-17T06:03:55.1287285+00:00",
+      "NumProgressed": 65540,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14938,7 +14943,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26870
+      "UsersEstimate": 26871
     },
     {
       "ID": "02",
@@ -14954,7 +14959,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16384
+      "UsersEstimate": 16385
     },
     {
       "ID": "04",
@@ -14962,7 +14967,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "05",
@@ -14970,7 +14975,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14418
+      "UsersEstimate": 14419
     },
     {
       "ID": "06",
@@ -15002,7 +15007,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9175
+      "UsersEstimate": 9176
     },
     {
       "ID": "10",
@@ -15026,7 +15031,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7864
+      "UsersEstimate": 7865
     },
     {
       "ID": "13",
@@ -15106,7 +15111,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9175
+      "UsersEstimate": 9176
     },
     {
       "ID": "23",
@@ -15122,7 +15127,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7864
+      "UsersEstimate": 7865
     },
     {
       "ID": "25",
@@ -15130,7 +15135,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "26",
@@ -15138,7 +15143,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7864
+      "UsersEstimate": 7865
     },
     {
       "ID": "27",
@@ -15178,7 +15183,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11141
+      "UsersEstimate": 11142
     },
     {
       "ID": "32",
@@ -15186,7 +15191,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20972
+      "UsersEstimate": 20973
     },
     {
       "ID": "33",
@@ -15210,7 +15215,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21627
+      "UsersEstimate": 21628
     },
     {
       "ID": "36",
@@ -15250,7 +15255,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "41",
@@ -15258,7 +15263,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11141
+      "UsersEstimate": 11142
     },
     {
       "ID": "42",
@@ -15338,7 +15343,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "52",
@@ -15473,21 +15478,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65537,
+      "Progressed": 65540,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29005,
+      "Progressed": 29008,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:04:44.7676139+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:03:55.128728+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:57:41.1371764+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:04:44.7677882+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:57:36.7880888+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:03:55.1288936+00:00"
 }

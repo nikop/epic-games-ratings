@@ -3,9 +3,9 @@
   "Name": "InnerSpace",
   "ProductSlug": "innerspace",
   "Ranking_EOS_Progress": 596,
-  "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2018-01-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.7192229+00:00",
   "LastChanged": "2023-03-31T05:58:18.719223+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:58.6988681+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:02:06.3134597+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:08:50.9542927+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:01:31.9067513+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:07:43.6912287+00:00"
 }

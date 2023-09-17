@@ -23,7 +23,7 @@
 | The Last Skull | 9.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 476)  
-Completed: 0 (0.00%) (Ranked 275)  
+Completed: 0 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

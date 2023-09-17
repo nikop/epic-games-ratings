@@ -6,9 +6,9 @@
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36703,
+  "EOS_Progressed": 36705,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16668,6 +16668,11 @@
       "Time": "2023-09-17T05:05:49.9771164+00:00",
       "NumProgressed": 36703,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-09-17T06:04:51.2153109+00:00",
+      "NumProgressed": 36705,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 29,
@@ -16679,7 +16684,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5505
+      "UsersEstimate": 5506
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -16910,7 +16915,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36703,
+      "Progressed": 36705,
       "Completed": 24
     }
   ],
@@ -16918,8 +16923,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:05:49.9771158+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:04:51.2153103+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.2246972+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:01:42.8867441+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:05:49.9772543+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:01:04.5423562+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:04:51.2154373+00:00"
 }

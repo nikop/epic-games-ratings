@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.5,
+  "EOS_Completed_Percentage": 7.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -171,6 +171,11 @@
       "Time": "2023-09-03T23:03:08.3464411+00:00",
       "NumProgressed": 120,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-17T06:08:17.5753597+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -180,17 +185,17 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "02_Soap",
       "SetID": "681m9fa",
       "Name": "Soap",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "03_Cassette",
@@ -252,9 +257,9 @@
       "ID": "10_Flyer",
       "SetID": "681m9fa",
       "Name": "Flyer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "11_Itsinthevault",
@@ -270,7 +275,7 @@
       "Name": "Purr-fect",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "13_DrAntivirus",
@@ -292,9 +297,9 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "16_Springs",
@@ -302,15 +307,15 @@
       "Name": "Springs",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "17_Capacitors",
       "SetID": "681m9fa",
       "Name": "Capacitors",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "18_SolderingIron",
@@ -324,9 +329,9 @@
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "20_AccessProtocol",
@@ -404,16 +409,16 @@
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 9
     }
   ],
@@ -421,8 +426,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:09:19.0154975+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:08:17.5753592+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.5450266+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:58:24.3628245+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:09:19.0155244+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:58:15.9222322+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:08:17.5753847+00:00"
 }

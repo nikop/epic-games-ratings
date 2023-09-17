@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10236,
+  "EOS_Progressed": 10237,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-09-17T00:06:39.6613882+00:00",
       "NumProgressed": 10236,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-17T06:07:49.2712818+00:00",
+      "NumProgressed": 10237,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1522,7 +1527,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1530,7 +1535,7 @@
       "Name": "car wash",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1586,7 +1591,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4095
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1594,7 +1599,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1706,7 +1711,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9827
+      "UsersEstimate": 9828
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1770,7 +1775,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4299
+      "UsersEstimate": 4300
     },
     {
       "ID": "ACH_SNOW",
@@ -1802,7 +1807,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "ACH_WEEKLY",
@@ -1818,22 +1823,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7370
+      "UsersEstimate": 7371
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10236,
+      "Progressed": 10237,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:08:57.6076713+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:07:49.2712814+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.9885415+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:58:12.4645396+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:08:57.6077231+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:57:59.8015431+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:07:49.2713218+00:00"
 }

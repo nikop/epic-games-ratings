@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 52.00% | ~60 |
-| Chapter I | 51.00% | ~59 |
+| Fire in the... nevermind | 53.00% | ~61 |
+| Chapter I | 52.00% | ~60 |
 | Haute cuisine | 46.00% | ~53 |
-| I didn't do it! | 42.00% | ~48 |
-| Demolition expert | 37.00% | ~43 |
-| Wooooooow! | 37.00% | ~43 |
-| Keep away from children | 36.00% | ~41 |
-| Artistic fool | 35.00% | ~40 |
+| I didn't do it! | 41.00% | ~48 |
+| Demolition expert | 38.00% | ~44 |
+| Wooooooow! | 36.00% | ~42 |
+| Artistic fool | 35.00% | ~41 |
+| Keep away from children | 35.00% | ~41 |
 | Open up wide | 33.00% | ~38 |
-| Let the boot talk | 30.00% | ~34 |
-| Chapter II | 29.00% | ~33 |
+| Let the boot talk | 29.00% | ~34 |
+| Chapter II | 28.00% | ~32 |
 | Achoo!! | 27.00% | ~31 |
 | Chapter III | 25.00% | ~29 |
 | Like a moth in the Wind | 25.00% | ~29 |
-| Quite a buggy game | 23.00% | ~26 |
-| Handyman | 23.00% | ~26 |
-| Bubblekillerfamily | 23.00% | ~26 |
-| Shadow on the wall | 22.00% | ~25 |
-| Mirror mirror on the wall... | 22.00% | ~25 |
+| Handyman | 24.00% | ~28 |
+| Bubblekillerfamily | 23.00% | ~27 |
+| Quite a buggy game | 22.00% | ~26 |
+| Shadow on the wall | 22.00% | ~26 |
+| Mirror mirror on the wall... | 22.00% | ~26 |
 | Fastidious Clown | 21.00% | ~24 |
 | Pacifist | 20.00% | ~23 |
 | It's not easy being green! | 19.00% | ~22 |
 | Home is where the heart is | 19.00% | ~22 |
-| Master of Thermodynamics | 16.00% | ~18 |
-| Death is a part of life | 16.00% | ~18 |
+| Master of Thermodynamics | 16.00% | ~19 |
+| Death is a part of life | 16.00% | ~19 |
 | Unfullfilled dreams | 14.00% | ~16 |
 | To err is human... | 12.00% | ~14 |
 | Nothing can stop me | 10.00% | ~12 |
@@ -51,8 +51,8 @@
 | Done. First! | 0.90% | ~1 |
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 342)  
-Completed: 0 (0.00%) (Ranked 275)  
+Progressed: 116 (Ranked 341)  
+Completed: 0 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-13 | 112 | 0 |
 | 2023-09-15 | 114 | 0 |
 | 2023-09-16 | 115 | 0 |
+| 2023-09-17 | 116 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

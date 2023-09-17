@@ -6,9 +6,9 @@
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3719,9 +3719,9 @@
       "ID": "achBuildTrainStation",
       "SetID": "dgl390n",
       "Name": "First train station",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1060
     },
     {
       "ID": "achCannotGetEnough",
@@ -3791,9 +3791,9 @@
       "ID": "achCrowdInATrain",
       "SetID": "dgl390n",
       "Name": "Crowd in a train",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 530
     },
     {
       "ID": "achEmissionLevel",
@@ -3831,9 +3831,9 @@
       "ID": "achFirstCargoTransported",
       "SetID": "dgl390n",
       "Name": "First cargo item on board",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1176
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -4023,9 +4023,9 @@
       "ID": "achShipEarnings",
       "SetID": "dgl390n",
       "Name": "The king of the sea",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 497
     },
     {
       "ID": "achSmellOfSuccess",
@@ -4111,8 +4111,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-16T13:02:14.1846871+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:07:11.8796769+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:06:20.5755256+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.7514199+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:01:39.971831+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:07:11.8797626+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:01:02.3009399+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:06:20.575603+00:00"
 }

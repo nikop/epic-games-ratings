@@ -9,14 +9,14 @@ Rating: 4.77 (Ranked 110)
 | First Class Student | 13.00% | ~38,582 |
 | Troll with the Punches | 13.00% | ~38,582 |
 | A Keen Sense of Spell | 12.00% | ~35,614 |
-| A Talent for Spending | 11.00% | ~32,646 |
-| That's a Keeper | 11.00% | ~32,646 |
-| Grappling with a Graphorn | 10.00% | ~29,678 |
-| The One Who Mastered Memories | 10.00% | ~29,678 |
-| The Hallowed Hero | 10.00% | ~29,678 |
-| The Defender of Dragons | 10.00% | ~29,678 |
-| Loom for Improvement | 10.00% | ~29,678 |
-| Coasting Along | 10.00% | ~29,678 |
+| A Talent for Spending | 11.00% | ~32,647 |
+| That's a Keeper | 11.00% | ~32,647 |
+| Grappling with a Graphorn | 10.00% | ~29,679 |
+| The One Who Mastered Memories | 10.00% | ~29,679 |
+| The Hallowed Hero | 10.00% | ~29,679 |
+| The Defender of Dragons | 10.00% | ~29,679 |
+| Loom for Improvement | 10.00% | ~29,679 |
+| Coasting Along | 10.00% | ~29,679 |
 | The Hero of Hogwarts | 9.00% | ~26,711 |
 | Challenge Accepted | 9.00% | ~26,711 |
 | Followed the Butterflies | 9.00% | ~26,711 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,781 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,785 (Ranked 43)  
+Progressed: 296,787 (Ranked 43)  
 Completed: 472 (0.16%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 472 (0.16%) (Ranked 204)
 | 2023-09-14 | 296,607 | 470 |
 | 2023-09-15 | 296,672 | 470 |
 | 2023-09-16 | 296,761 | 472 |
-| 2023-09-17 | 296,785 | 472 |
+| 2023-09-17 | 296,787 | 472 |
 ## Awards
 Max (Character Customization): 22,752  (Ranked 17)  
 Sum: 43,512 (Ranked 30)  

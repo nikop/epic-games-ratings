@@ -6,9 +6,9 @@
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -922,9 +922,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2837,
+  "EOS_Progressed": 2838,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4512,6 +4512,11 @@
       "Time": "2023-09-17T05:08:12.55575+00:00",
       "NumProgressed": 2837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T06:07:10.9407592+00:00",
+      "NumProgressed": 2838,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4555,7 +4560,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -4635,7 +4640,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_GOLDEN",
@@ -4747,7 +4752,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -4795,7 +4800,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -4883,7 +4888,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -4906,15 +4911,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2837,
+      "Progressed": 2838,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-15T17:58:31.0946965+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:08:12.5557495+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:07:10.9407588+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:00:04.6433083+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:08:12.5558185+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:59:44.205481+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:07:10.9408212+00:00"
 }

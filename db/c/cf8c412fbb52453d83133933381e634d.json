@@ -3,9 +3,9 @@
   "Name": "CyberTitans",
   "ProductSlug": "cybertitans-b6acef",
   "Ranking_EOS_Progress": 596,
-  "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-30T22:00:00+00:00",
     "PcReleaseDate": "2023-04-03T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T10:57:26.2171381+00:00",
   "LastUpdate_AppInfo": "2023-09-12T15:56:53.7220619+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:58:57.2995926+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:09:59.0459624+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:58:41.9760965+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:09:10.510733+00:00"
 }

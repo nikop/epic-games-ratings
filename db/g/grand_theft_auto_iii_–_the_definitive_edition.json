@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -466,9 +466,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7810,
+  "EOS_Progressed": 7812,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -8416,6 +8416,11 @@
       "Time": "2023-09-17T05:09:46.1153385+00:00",
       "NumProgressed": 7810,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-17T06:08:39.6008376+00:00",
+      "NumProgressed": 7812,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8427,7 +8432,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6484
     },
     {
       "ID": "ACH02",
@@ -8435,7 +8440,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "ACH03",
@@ -8451,7 +8456,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "ACH05",
@@ -8547,7 +8552,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "ACH17",
@@ -8555,7 +8560,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH18",
@@ -8658,7 +8663,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7810,
+      "Progressed": 7812,
       "Completed": 50
     }
   ],
@@ -8666,8 +8671,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-16T18:58:04.3913881+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:09:46.115338+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:08:39.6008372+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-17T04:58:07.7584087+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:09:46.1154529+00:00"
+  "LastUpdate_Ratings": "2023-09-17T05:57:55.5191382+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:08:39.6008988+00:00"
 }

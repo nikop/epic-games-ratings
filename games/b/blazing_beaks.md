@@ -1,7 +1,7 @@
 # Blazing Beaks
 [Store](https://store.epicgames.com/en-US/p/blazing-beaks-3d4864)  
 [View Rawdata](../../db/b/blazing_beaks.json)  
-Rating: 4.48 (Ranked 602)  
+Rating: 4.47 (Ranked 612)  
 Number of Ratings: 31  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -33,3 +33,4 @@ Number of Ratings: 31  (23.09.2022)
 | 2022-12-03 | 4.47 | - | - | - |
 | 2023-03-16 | 4.48 | - | - | - |
 | 2023-03-31 | 4.48 | - | 0 | 0 |
+| 2023-09-17 | 4.47 | - | 0 | 0 |

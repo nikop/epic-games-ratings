@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,390 |
+| Sowwy! | 30.00% | ~67,393 |
 | Alt+F4 | 5.00% | ~11,232 |
-| Where's that freaking Dwarf? | 4.00% | ~8,985 |
+| Where's that freaking Dwarf? | 4.00% | ~8,986 |
 | Déjà vu | 3.00% | ~6,739 |
 | Sock! SOCK! | 3.00% | ~6,739 |
 | Speedrun | 3.00% | ~6,739 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.90% | ~2,022 |
 | Look but don't touch | 0.90% | ~2,022 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,797 |
-| Dead for good | 0.70% | ~1,572 |
-| Lust and Debauchery | 0.70% | ~1,572 |
-| Material Girl | 0.70% | ~1,572 |
+| Dead for good | 0.70% | ~1,573 |
+| Lust and Debauchery | 0.70% | ~1,573 |
+| Material Girl | 0.70% | ~1,573 |
 | Gargantua | 0.60% | ~1,348 |
 | In Navalu's footsteps | 0.50% | ~1,123 |
 | Lëgal Legend | 0.50% | ~1,123 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,632 (Ranked 58)  
-Completed: 3 (0.00%) (Ranked 275)  
+Progressed: 224,643 (Ranked 58)  
+Completed: 3 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 3 (0.00%) (Ranked 275)
 | 2023-09-14 | 224,052 | 2 |
 | 2023-09-15 | 224,285 | 3 |
 | 2023-09-16 | 224,568 | 3 |
-| 2023-09-17 | 224,632 | 3 |
+| 2023-09-17 | 224,643 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 335 (Ranked 337)  

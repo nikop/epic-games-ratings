@@ -7,13 +7,13 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,275 |
+| First cargo item on board | 71.00% | ~1,176 |
 | First cargo item waiting | 71.00% | ~1,176 |
 | First bus stop | 70.00% | ~1,159 |
-| First cargo item on board | 70.00% | ~1,159 |
 | First passenger on board | 67.00% | ~1,110 |
 | First passenger waiting | 67.00% | ~1,110 |
 | First bus arrived | 66.00% | ~1,093 |
-| First train station | 63.00% | ~1,043 |
+| First train station | 64.00% | ~1,060 |
 | First steam train arrived | 60.00% | ~994 |
 | First industry upgraded | 56.00% | ~927 |
 | Transport millionaire | 55.00% | ~911 |
@@ -31,11 +31,11 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 41.00% | ~679 |
 | Mass production | 35.00% | ~580 |
 | Aircraft entrepreneur | 33.00% | ~546 |
-| Crowd in a train | 31.00% | ~513 |
+| Crowd in a train | 32.00% | ~530 |
 | The future is now, old man | 31.00% | ~513 |
 | Not in my backyard | 30.00% | ~497 |
+| The king of the sea | 30.00% | ~497 |
 | City | 29.00% | ~480 |
-| The king of the sea | 29.00% | ~480 |
 | Transport tycoon | 24.00% | ~397 |
 | The ugly smell of success | 23.00% | ~381 |
 | Climate change | 22.00% | ~364 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,656 (Ranked 192)  
-Completed: 0 (0.00%) (Ranked 275)  
+Completed: 0 (0.00%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

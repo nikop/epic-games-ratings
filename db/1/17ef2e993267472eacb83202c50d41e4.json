@@ -3,9 +3,9 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6001,
+  "EOS_Progressed": 6003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1711,6 +1711,11 @@
       "Time": "2023-09-17T05:07:28.7271595+00:00",
       "NumProgressed": 6001,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-17T06:06:34.8041555+00:00",
+      "NumProgressed": 6003,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1843,7 +1848,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "GamesPlayed10",
@@ -1867,7 +1872,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "GamesWon10",
@@ -2314,14 +2319,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6001,
+      "Progressed": 6003,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-17T05:07:28.727159+00:00",
+  "LastChanged_Achievements": "2023-09-17T06:06:34.8041548+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-17T05:02:42.4387461+00:00",
-  "LastUpdate_Achievements": "2023-09-17T05:07:28.7272545+00:00"
+  "LastUpdate_Ratings": "2023-09-17T06:02:00.487124+00:00",
+  "LastUpdate_Achievements": "2023-09-17T06:06:34.8042578+00:00"
 }
