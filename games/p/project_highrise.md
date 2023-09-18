@@ -10,22 +10,22 @@
 | Floor Galore | 41.00% | ~139 |
 | Campaign Launch | 41.00% | ~139 |
 | Dinner Dash | 41.00% | ~139 |
+| Need a Consult | 38.00% | ~128 |
 | It's Technical | 38.00% | ~128 |
-| Need a Consult | 37.00% | ~125 |
 | Upgrade Unlock | 37.00% | ~125 |
 | Delegate Maintenance | 35.00% | ~118 |
 | Proper Walls | 33.00% | ~112 |
 | Destination Destiny | 32.00% | ~108 |
 | Happy Tenants | 27.00% | ~91 |
-| Potent Potables | 26.00% | ~88 |
+| Potent Potables | 27.00% | ~91 |
 | Smooth Service | 26.00% | ~88 |
+| Your Prestige is Rising | 25.00% | ~84 |
 | Retail Revenue | 25.00% | ~84 |
-| Your Prestige is Rising | 24.00% | ~81 |
 | Don't Feel a Loan | 23.00% | ~78 |
 | People Mover | 22.00% | ~74 |
+| Emporium Empire | 22.00% | ~74 |
 | Lux Living | 21.00% | ~71 |
 | Artfully Done | 21.00% | ~71 |
-| Emporium Empire | 21.00% | ~71 |
 | Rehab Expert | 20.00% | ~68 |
 | Leveled Up Shops | 20.00% | ~68 |
 | We Don't Need No Education | 20.00% | ~68 |
@@ -42,9 +42,9 @@
 | 28 Days Later | 11.00% | ~37 |
 | Swimming in Surplus | 11.00% | ~37 |
 | Aestheticly Pleased | 10.00% | ~34 |
+| Refined Palates | 10.00% | ~34 |
 | Plaza Plan | 9.00% | ~30 |
 | Master of Puppets | 9.00% | ~30 |
-| Refined Palates | 9.00% | ~30 |
 | Phoning It In | 9.00% | ~30 |
 | First 100 Days | 8.00% | ~27 |
 | Water Features | 8.00% | ~27 |

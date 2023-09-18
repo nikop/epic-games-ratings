@@ -9,8 +9,8 @@
 | Nimble fingers | 79.00% | ~140 |
 | Room 104 | 79.00% | ~140 |
 | Face to face | 79.00% | ~140 |
+| Now or never | 75.00% | ~133 |
 | Let's play a game… | 74.00% | ~131 |
-| Now or never | 74.00% | ~131 |
 | Soundtrack | 63.00% | ~112 |
 | First aid | 61.00% | ~108 |
 | Antidote | 54.00% | ~96 |

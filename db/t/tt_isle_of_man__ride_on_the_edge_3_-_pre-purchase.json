@@ -3,8 +3,8 @@
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.5,
+  "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -657,6 +657,11 @@
       "Time": "2023-09-17T06:08:35.3013198+00:00",
       "NumProgressed": 133,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-18T05:07:55.5906567+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -674,9 +679,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "gagif7",
       "Name": "Golden Ratio",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -684,7 +689,7 @@
       "Name": "To Each Their Own",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -722,9 +727,9 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "gagif7",
       "Name": "Gotta Go Fast!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -778,9 +783,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "gagif7",
       "Name": "Checklist",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -794,25 +799,25 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "gagif7",
       "Name": "Time Is of the Essence",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_18",
       "SetID": "gagif7",
       "Name": "Highly Qualified",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_19",
       "SetID": "gagif7",
       "Name": "Serial Winner",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -842,9 +847,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "gagif7",
       "Name": "Made Father Proud",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -858,33 +863,33 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "gagif7",
       "Name": "Win-Win!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_26",
       "SetID": "gagif7",
       "Name": "Supersport Superfan",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_27",
       "SetID": "gagif7",
       "Name": "Superbike Superfan",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_28",
       "SetID": "gagif7",
       "Name": "Playing Favourites",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -906,9 +911,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "gagif7",
       "Name": "No Room for Improvement",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -922,9 +927,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -932,7 +937,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -979,14 +984,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:06:52.0274466+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:07:55.5906557+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.5809683+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:57:24.0551534+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:06:52.0274785+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:57:29.8961215+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:07:55.5906918+00:00"
 }

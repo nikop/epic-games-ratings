@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65658,
+  "EOS_Progressed": 65660,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1279,
+  "EOS_NewPlayers": 1274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15037,6 +15037,11 @@
       "Time": "2023-09-18T04:03:42.2829364+00:00",
       "NumProgressed": 65658,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-18T05:03:49.3990849+00:00",
+      "NumProgressed": 65660,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15048,7 +15053,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26920
+      "UsersEstimate": 26921
     },
     {
       "ID": "02",
@@ -15056,7 +15061,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17071
+      "UsersEstimate": 17072
     },
     {
       "ID": "03",
@@ -15064,7 +15069,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16414
+      "UsersEstimate": 16415
     },
     {
       "ID": "04",
@@ -15088,7 +15093,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11818
+      "UsersEstimate": 11819
     },
     {
       "ID": "07",
@@ -15144,7 +15149,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "14",
@@ -15152,7 +15157,7 @@
       "Name": "Gatekeeper",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "15",
@@ -15160,7 +15165,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "16",
@@ -15184,7 +15189,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "19",
@@ -15280,7 +15285,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "31",
@@ -15312,7 +15317,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "35",
@@ -15320,7 +15325,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21667
+      "UsersEstimate": 21668
     },
     {
       "ID": "36",
@@ -15384,7 +15389,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11818
+      "UsersEstimate": 11819
     },
     {
       "ID": "44",
@@ -15408,7 +15413,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10505
+      "UsersEstimate": 10506
     },
     {
       "ID": "47",
@@ -15583,21 +15588,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65658,
+      "Progressed": 65660,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29126,
+      "Progressed": 29128,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:03:42.2829359+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:03:49.3990844+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:57:27.5720561+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:03:42.2830913+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:57:35.1087932+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:03:49.3992707+00:00"
 }

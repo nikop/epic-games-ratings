@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7684,10 +7684,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43623,
       "NumberOfAwardsMax": 22799
+    },
+    {
+      "Time": "2023-09-18T04:57:14.2981067+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43625,
+      "NumberOfAwardsMax": 22799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43623,
+  "NumberOfAwards": 43625,
   "NumberOfAwardsMax": 22799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7761,12 +7767,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 655
+      "Count": 657
     }
   ],
-  "EOS_Progressed": 296875,
+  "EOS_Progressed": 296876,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24094,6 +24100,11 @@
       "Time": "2023-09-18T04:04:32.3348192+00:00",
       "NumProgressed": 296875,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-18T05:05:01.6260305+00:00",
+      "NumProgressed": 296876,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24145,7 +24156,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17812
+      "UsersEstimate": 17813
     },
     {
       "ID": "PFA_15",
@@ -24393,7 +24404,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17812
+      "UsersEstimate": 17813
     },
     {
       "ID": "PFA_43",
@@ -24464,16 +24475,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296875,
+      "Progressed": 296876,
       "Completed": 474
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-17T23:57:10.1129085+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:04:32.3348187+00:00",
+  "LastChanged": "2023-09-18T04:57:14.2981066+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:05:01.6260295+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:57:13.691666+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:04:32.3349536+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:57:14.2981072+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:05:01.6261735+00:00"
 }

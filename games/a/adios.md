@@ -8,7 +8,7 @@ Rating: 3.63 (Ranked 987)
 | Be Seeing You | 22.00% | ~16,181 |
 | Hard Worker | 20.00% | ~14,710 |
 | Master, Commander | 20.00% | ~14,710 |
-| Mechanic | 19.00% | ~13,974 |
+| Mechanic | 19.00% | ~13,975 |
 | Adios, Friendo | 18.00% | ~13,239 |
 | Bottom's Up | 18.00% | ~13,239 |
 | Nice Try | 16.00% | ~11,768 |
@@ -22,16 +22,16 @@ Rating: 3.63 (Ranked 987)
 | Magnetic Miracles | 5.00% | ~3,678 |
 | Butcher | 4.00% | ~2,942 |
 | Spicy | 4.00% | ~2,942 |
-| A Man Of Taste | 3.00% | ~2,206 |
-| Ace in the Hole | 3.00% | ~2,206 |
-| Fair's Fair | 3.00% | ~2,206 |
-| Hearty | 3.00% | ~2,206 |
-| Meaty | 3.00% | ~2,206 |
-| Taco Toto | 3.00% | ~2,206 |
+| A Man Of Taste | 3.00% | ~2,207 |
+| Ace in the Hole | 3.00% | ~2,207 |
+| Fair's Fair | 3.00% | ~2,207 |
+| Hearty | 3.00% | ~2,207 |
+| Meaty | 3.00% | ~2,207 |
+| Taco Toto | 3.00% | ~2,207 |
 | Audiophile | 2.00% | ~1,471 |
 | Tape Head | 2.00% | ~1,471 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,550 (Ranked 82)  
+Progressed: 73,551 (Ranked 82)  
 Completed: 761 (1.03%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 761 (1.03%) (Ranked 121)
 | 2023-09-15 | 73,286 | 758 |
 | 2023-09-16 | 73,425 | 760 |
 | 2023-09-17 | 73,535 | 761 |
-| 2023-09-18 | 73,550 | 761 |
+| 2023-09-18 | 73,551 | 761 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

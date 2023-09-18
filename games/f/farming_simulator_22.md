@@ -6,33 +6,33 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~36,569 |
+| Own use | 75.00% | ~36,570 |
 | I read Shakespeare and stuff | 64.00% | ~31,206 |
-| Just a sprinkle | 63.00% | ~30,718 |
-| I'm stumped | 61.00% | ~29,743 |
-| Plant get enough | 60.00% | ~29,255 |
+| Just a sprinkle | 63.00% | ~30,719 |
+| I'm stumped | 61.00% | ~29,744 |
+| Plant get enough | 60.00% | ~29,256 |
 | It's just the beginning | 59.00% | ~28,768 |
-| This is just my weekend vehicle | 58.00% | ~28,280 |
-| Hard work pays off | 53.00% | ~25,842 |
+| This is just my weekend vehicle | 58.00% | ~28,281 |
+| Hard work pays off | 53.00% | ~25,843 |
 | It's never too late to farm | 50.00% | ~24,380 |
 | All out of Land | 44.00% | ~21,454 |
-| Field Trip | 43.00% | ~20,966 |
+| Field Trip | 43.00% | ~20,967 |
 | I like to switch it up | 40.00% | ~19,504 |
-| Help me to help you | 38.00% | ~18,528 |
+| Help me to help you | 38.00% | ~18,529 |
 | Ultimutt Pawesomeness | 28.00% | ~13,653 |
-| Van Gogh | 26.00% | ~12,677 |
+| Van Gogh | 26.00% | ~12,678 |
 | You wood not believe it | 22.00% | ~10,727 |
 | Vehicle fleet | 22.00% | ~10,727 |
-| The plot thickens | 16.00% | ~7,801 |
-| Large-scale supplier | 16.00% | ~7,801 |
-| Well-Oiled Machine | 16.00% | ~7,801 |
-| Long haul | 16.00% | ~7,801 |
+| The plot thickens | 16.00% | ~7,802 |
+| Large-scale supplier | 16.00% | ~7,802 |
+| Well-Oiled Machine | 16.00% | ~7,802 |
+| Long haul | 16.00% | ~7,802 |
 | Clucky Streak | 15.00% | ~7,314 |
 | That's a wrap | 15.00% | ~7,314 |
 | Fix me up | 13.00% | ~6,339 |
 | Rock on | 12.00% | ~5,851 |
-| Highly cultivated | 11.00% | ~5,363 |
-| It's sow easy | 11.00% | ~5,363 |
+| Highly cultivated | 11.00% | ~5,364 |
+| It's sow easy | 11.00% | ~5,364 |
 | Giddy-up! | 10.00% | ~4,876 |
 | Cowherd | 7.00% | ~3,413 |
 | Fluffyness | 6.00% | ~2,926 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~195 |
 | Raisin the stakes | 0.30% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,759 (Ranked 94)  
+Progressed: 48,760 (Ranked 94)  
 Completed: 6 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,10 +201,10 @@ Completed: 6 (0.01%) (Ranked 263)
 | 2023-09-15 | 48,656 | 6 |
 | 2023-09-16 | 48,697 | 6 |
 | 2023-09-17 | 48,757 | 6 |
-| 2023-09-18 | 48,759 | 6 |
+| 2023-09-18 | 48,760 | 6 |
 ## Awards
 Max (Great for Beginners): 4,971  (Ranked 69)  
-Sum: 40,263 (Ranked 32)  
+Sum: 40,268 (Ranked 32)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): 37
 | This game has Diverse Characters | 4,148 |
 | This game is Relaxing | 4,138 |
 | This game has Quickly Understood Controls | 4,090 |
-| This game is Highly Recommended | 3,995 |
+| This game is Highly Recommended | 4,000 |
 | This game is Extremely Fun | 3,973 |
 | This game has Amazing Storytelling | 3,879 |
 | This game has Amazing Characters | 3,513 |
@@ -467,3 +467,4 @@ Diff (max vs sum): 37
 | 2023-09-15 | 4.69 | - | 4,947 | 40,183 |
 | 2023-09-16 | 4.69 | - | 4,957 | 40,219 |
 | 2023-09-17 | 4.69 | - | 4,971 | 40,263 |
+| 2023-09-18 | 4.69 | - | 4,971 | 40,268 |

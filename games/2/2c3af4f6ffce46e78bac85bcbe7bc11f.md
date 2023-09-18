@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something ever-changing... | 24.00% | ~10 |
-| Something foundational... | 24.00% | ~10 |
-| Something to make you dream... | 24.00% | ~10 |
-| Something natural... | 24.00% | ~10 |
-| Something to long for... | 24.00% | ~10 |
+| Something ever-changing... | 23.00% | ~10 |
+| Something foundational... | 23.00% | ~10 |
+| Something to make you dream... | 23.00% | ~10 |
+| Something natural... | 23.00% | ~10 |
+| Something to long for... | 23.00% | ~10 |
 | Something gentle... | 21.00% | ~9 |
 | Something fully in bloom... | 21.00% | ~9 |
 | Somewhere to belong... | 21.00% | ~9 |
@@ -17,22 +17,22 @@
 | Something reflective... | 21.00% | ~9 |
 | Something free... | 19.00% | ~8 |
 | Something to make you dream... (fragile) | 19.00% | ~8 |
-| Something free... (fragile) | 17.00% | ~7 |
-| Something gentle... (fragile) | 17.00% | ~7 |
-| Something ever-changing... (fragile) | 17.00% | ~7 |
-| Something fully in bloom... (fragile) | 17.00% | ~7 |
-| Something fragile... | 17.00% | ~7 |
-| Something foundational... (fragile) | 17.00% | ~7 |
-| Somewhere to belong... (fragile) | 17.00% | ~7 |
-| Something monumental... (fragile) | 17.00% | ~7 |
-| Something to long for... (fragile) | 17.00% | ~7 |
-| Something firmly rooted... (fragile) | 17.00% | ~7 |
-| Something reflective... (fragile) | 17.00% | ~7 |
+| Something free... (fragile) | 16.00% | ~7 |
+| Something gentle... (fragile) | 16.00% | ~7 |
+| Something ever-changing... (fragile) | 16.00% | ~7 |
+| Something fully in bloom... (fragile) | 16.00% | ~7 |
+| Something fragile... | 16.00% | ~7 |
+| Something foundational... (fragile) | 16.00% | ~7 |
+| Somewhere to belong... (fragile) | 16.00% | ~7 |
+| Something monumental... (fragile) | 16.00% | ~7 |
+| Something to long for... (fragile) | 16.00% | ~7 |
+| Something firmly rooted... (fragile) | 16.00% | ~7 |
+| Something reflective... (fragile) | 16.00% | ~7 |
 | Something more... (fragile) | 12.00% | ~5 |
-| Something more... | 10.00% | ~4 |
+| Something more... | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 410)  
-Completed: 4 (9.52%) (Ranked 30)  
+Progressed: 43 (Ranked 408)  
+Completed: 4 (9.30%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,3 +68,4 @@ Completed: 4 (9.52%) (Ranked 30)
 | 2023-09-15 | 35 | 3 |
 | 2023-09-16 | 39 | 4 |
 | 2023-09-17 | 42 | 4 |
+| 2023-09-18 | 43 | 4 |

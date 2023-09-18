@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -928,9 +928,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2853,
+  "EOS_Progressed": 2855,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4573,6 +4573,11 @@
       "Time": "2023-09-18T03:06:14.0709264+00:00",
       "NumProgressed": 2853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T05:06:50.5441835+00:00",
+      "NumProgressed": 2855,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4584,7 +4589,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_BING-BONG",
@@ -4736,7 +4741,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4800,7 +4805,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -4896,7 +4901,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -4904,7 +4909,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -4952,7 +4957,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4960,22 +4965,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2853,
+      "Progressed": 2855,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-17T18:00:42.2747572+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:05:59.5549801+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:06:50.5441825+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:58:34.2064847+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:05:59.5550391+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:59:07.1359891+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:06:50.5442441+00:00"
 }

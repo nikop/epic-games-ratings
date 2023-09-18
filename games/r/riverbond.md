@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,301 |
-| Now You're Talking | 62.00% | ~327,095 |
-| Steel Yourself | 62.00% | ~327,095 |
-| Window Dressing | 50.00% | ~263,786 |
+| First Step | 70.00% | ~369,302 |
+| Now You're Talking | 62.00% | ~327,096 |
+| Steel Yourself | 62.00% | ~327,096 |
+| Window Dressing | 50.00% | ~263,788 |
 | Trigger Happy | 46.00% | ~242,684 |
-| Riverborn | 45.00% | ~237,408 |
-| Starry Eyed | 34.00% | ~179,375 |
-| Poking Around | 34.00% | ~179,375 |
+| Riverborn | 45.00% | ~237,409 |
+| Starry Eyed | 34.00% | ~179,376 |
+| Poking Around | 34.00% | ~179,376 |
 | Talk of the Town | 24.00% | ~126,618 |
 | AAARR! | 23.00% | ~121,342 |
 | Hello Darkness | 23.00% | ~121,342 |
 | Wind At Our Backs | 22.00% | ~116,066 |
 | To the Beat | 20.00% | ~105,515 |
-| Sunny Shores | 17.00% | ~89,687 |
+| Sunny Shores | 17.00% | ~89,688 |
 | Sunday Best | 16.00% | ~84,412 |
 | To Victory! | 15.00% | ~79,136 |
 | Two of a Kind | 14.00% | ~73,860 |
-| Keep On Trucking | 13.00% | ~68,584 |
+| Keep On Trucking | 13.00% | ~68,585 |
 | Going on an Adventure | 11.00% | ~58,033 |
 | Make Peace, Not War | 11.00% | ~58,033 |
-| Walking The Line | 10.00% | ~52,757 |
-| Not So Cute Anymore | 10.00% | ~52,757 |
+| Walking The Line | 10.00% | ~52,758 |
+| Not So Cute Anymore | 10.00% | ~52,758 |
 | Road Less Travelled | 9.00% | ~47,482 |
 | Lost and Found | 9.00% | ~47,482 |
 | Under the Radar | 8.00% | ~42,206 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~15,827 |
 | Spinal Adjustment | 3.00% | ~15,827 |
 | The Knowledge | 3.00% | ~15,827 |
-| Seek the Rainbow | 2.00% | ~10,551 |
-| Words of Truth | 2.00% | ~10,551 |
-| Star Power | 2.00% | ~10,551 |
-| Justice Served | 2.00% | ~10,551 |
+| Seek the Rainbow | 2.00% | ~10,552 |
+| Words of Truth | 2.00% | ~10,552 |
+| Star Power | 2.00% | ~10,552 |
+| Justice Served | 2.00% | ~10,552 |
 | Written in the Stars | 1.00% | ~5,276 |
 | Don't Care | 1.00% | ~5,276 |
 | Don’t Get Crabby | 1.00% | ~5,276 |
 | Boss of All Bosses | 0.30% | ~1,583 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,573 (Ranked 33)  
+Progressed: 527,575 (Ranked 33)  
 Completed: 474 (0.09%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 474 (0.09%) (Ranked 227)
 | 2023-09-15 | 527,375 | 474 |
 | 2023-09-16 | 527,467 | 474 |
 | 2023-09-17 | 527,562 | 474 |
-| 2023-09-18 | 527,573 | 474 |
+| 2023-09-18 | 527,575 | 474 |
 ## Awards
 Max (Relaxing): 20  (Ranked 514)  
 Sum: 20 (Ranked 514)  

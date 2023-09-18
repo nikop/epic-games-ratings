@@ -1701,9 +1701,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13982,
+  "EOS_Progressed": 13983,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11726,6 +11726,11 @@
       "Time": "2023-09-18T04:09:10.9878099+00:00",
       "NumProgressed": 13982,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-18T05:08:42.2891342+00:00",
+      "NumProgressed": 13983,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11919,9 +11924,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 1)",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
@@ -13391,9 +13396,9 @@
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -13831,9 +13836,9 @@
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Turreted Elephant",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -14104,21 +14109,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13982,
+      "Progressed": 13983,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13982,
+      "Progressed": 13983,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T20:58:47.8598835+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:09:10.9878088+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:08:42.2891338+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:57:54.3950364+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:09:10.9886829+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:58:12.6291787+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:08:42.2901232+00:00"
 }

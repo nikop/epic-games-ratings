@@ -127,17 +127,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.80% | ~112 |
 | Hittite Paganism | 0.80% | ~112 |
 | Kushite Cavalry | 0.80% | ~112 |
+| Turreted Elephant | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
 | Learn to Play 4 | 0.70% | ~98 |
+| Rome | 0.70% | ~98 |
 | One True Faith | 0.70% | ~98 |
-| Turreted Elephant | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
 | Old | 0.60% | ~84 |
 | Peacemaker | 0.60% | ~84 |
 | Cao'an | 0.60% | ~84 |
 | Egypt | 0.60% | ~84 |
-| Rome | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
@@ -158,6 +158,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
+| Silver Victory (Carthage 1) | 0.30% | ~42 |
 | Carthage - Riches and Influence | 0.30% | ~42 |
 | Great Difficulty | 0.30% | ~42 |
 | Magnificent Difficulty | 0.30% | ~42 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hypatia the Teacher | 0.30% | ~42 |
 | Blade of the Monkey | 0.20% | ~28 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
-| Silver Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
 | Silver Victory (Carthage 2) | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,982 (Ranked 124)  
+Progressed: 13,983 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -454,7 +454,7 @@ Completed: 5 (0.04%) (Ranked 245)
 | 2023-09-15 | 13,926 | 5 |
 | 2023-09-16 | 13,958 | 5 |
 | 2023-09-17 | 13,979 | 5 |
-| 2023-09-18 | 13,982 | 5 |
+| 2023-09-18 | 13,983 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

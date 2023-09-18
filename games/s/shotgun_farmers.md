@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 79.00% | ~226 |
+| Seeds of War | 78.00% | ~224 |
 | First Blood | 60.00% | ~172 |
 | Aspairagus | 60.00% | ~142 |
 | Triple Kill | 59.00% | ~169 |
-| No Asperascope | 57.00% | ~163 |
-| Survivor | 56.00% | ~132 |
+| No Asperascope | 56.00% | ~161 |
+| Survivor | 56.00% | ~133 |
 | Cornivore | 53.00% | ~152 |
-| I Believe I Can Fly | 50.00% | ~143 |
-| No Diggity | 43.00% | ~101 |
-| Early Survivor | 42.00% | ~99 |
+| I Believe I Can Fly | 50.00% | ~144 |
+| No Diggity | 43.00% | ~102 |
+| Early Survivor | 42.00% | ~100 |
 | Bouncemato | 31.00% | ~73 |
 | Amateur Survivor | 31.00% | ~73 |
 | 10K | 30.00% | ~86 |
 | 15K | 29.00% | ~83 |
-| Quick-Draw Pod | 23.00% | ~54 |
+| Quick-Draw Pod | 23.00% | ~55 |
 | Drinking Problem | 22.00% | ~63 |
 | Professional Survivor | 22.00% | ~52 |
 | Grave Digger | 22.00% | ~52 |
-| Pork Chop Express | 19.00% | ~54 |
+| Pork Chop Express | 18.00% | ~52 |
 | Skin Of Your Teeth | 16.00% | ~46 |
 | Carrocketeer | 16.00% | ~46 |
 | Getting Started | 15.00% | ~43 |
 | Eggtraordinary | 15.00% | ~43 |
-| Oh My Gourd | 15.00% | ~35 |
+| Oh My Gourd | 15.00% | ~36 |
 | This Is My Boomstick | 14.00% | ~33 |
 | Quit Horsin' Around | 12.00% | ~34 |
 | Summers Here | 12.00% | ~28 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 288)  
+Progressed: 287 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-14 | 283 | 0 |
 | 2023-09-15 | 284 | 0 |
 | 2023-09-17 | 286 | 0 |
+| 2023-09-18 | 287 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

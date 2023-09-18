@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1948,
+  "EOS_Progressed": 1949,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5632,6 +5632,11 @@
       "Time": "2023-09-17T19:06:56.7529375+00:00",
       "NumProgressed": 1948,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-18T05:04:04.1070487+00:00",
+      "NumProgressed": 1949,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5745,9 +5750,9 @@
       "ID": "dragonclicker",
       "SetID": "3nl4bcg",
       "Name": "Dragon Clicker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 331
     },
     {
       "ID": "dragonmaster",
@@ -5875,7 +5880,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "herewegoagain",
@@ -6099,7 +6104,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "thealchemist",
@@ -6203,7 +6208,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "warmachinesarmy",
@@ -6235,14 +6240,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1948,
+      "Progressed": 1949,
       "Completed": 2
     }
   ],
@@ -6250,8 +6255,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:03:46.0376583+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:04:04.1070478+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:57:56.4487754+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:03:46.0377658+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:58:15.2005486+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:04:04.107182+00:00"
 }

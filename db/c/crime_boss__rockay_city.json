@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3552,9 +3552,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 87636,
+  "EOS_Progressed": 87637,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 1310,
+  "EOS_NewPlayers": 1276,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19127,6 +19127,11 @@
       "Time": "2023-09-18T04:06:37.2512285+00:00",
       "NumProgressed": 87636,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-18T05:07:37.8045983+00:00",
+      "NumProgressed": 87637,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19152,9 +19157,9 @@
       "ID": "ACH_0012",
       "SetID": "3kam13l",
       "Name": "Roid Ranger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_0013",
@@ -19360,9 +19365,9 @@
       "ID": "ACH_0420",
       "SetID": "3kam13l",
       "Name": "King of the Hill",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_0430",
@@ -19465,13 +19470,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 87636,
+      "Progressed": 87637,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 15983,
+      "Progressed": 15984,
       "Completed": 15525
     }
   ],
@@ -19479,8 +19484,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-17T17:05:01.1524819+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:06:37.251228+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:07:37.8045978+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:59:23.8540156+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:06:37.2513536+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:00:09.7207504+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:07:37.8047345+00:00"
 }

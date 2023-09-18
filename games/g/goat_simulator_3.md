@@ -5,16 +5,16 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~222,134 |
-| Private Club | 74.00% | ~180,636 |
-| Rogue Guild | 65.00% | ~158,667 |
+| Forgotten Sorority | 91.00% | ~222,135 |
+| Private Club | 74.00% | ~180,637 |
+| Rogue Guild | 65.00% | ~158,668 |
 | I Watched the Intro | 57.00% | ~139,139 |
 | Covert Consortium | 55.00% | ~134,257 |
 | Goat Queen | 53.00% | ~129,375 |
 | Reach the Stratosphere | 50.00% | ~122,052 |
-| Synchronization Complete | 47.00% | ~114,728 |
-| Secret Society | 45.00% | ~109,846 |
-| Shadow Syndicate | 38.00% | ~92,759 |
+| Synchronization Complete | 47.00% | ~114,729 |
+| Secret Society | 45.00% | ~109,847 |
+| Shadow Syndicate | 38.00% | ~92,760 |
 | What a Waste of Money | 33.00% | ~80,554 |
 | New Goat Order | 30.00% | ~73,231 |
 | Don't touch the servers | 28.00% | ~68,349 |
@@ -25,9 +25,9 @@ Rating: 4.84 (Ranked 50)
 | Into the Matrix | 19.00% | ~46,380 |
 | Egg Simulator | 18.00% | ~43,939 |
 | Where is It? | 17.00% | ~41,498 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~36,615 |
-| Black Market | 14.00% | ~34,174 |
-| 401(K.O.) | 14.00% | ~34,174 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~36,616 |
+| Black Market | 14.00% | ~34,175 |
+| 401(K.O.) | 14.00% | ~34,175 |
 | Car Cave | 12.00% | ~29,292 |
 | Club Mohair | 8.00% | ~19,528 |
 | A Center for Ants? | 8.00% | ~19,528 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,465 |
 | G.O.A.T | 0.30% | ~732 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,103 (Ranked 52)  
+Progressed: 244,104 (Ranked 52)  
 Completed: 831 (0.34%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,10 +196,10 @@ Completed: 831 (0.34%) (Ranked 175)
 | 2023-09-15 | 243,823 | 829 |
 | 2023-09-16 | 243,968 | 830 |
 | 2023-09-17 | 244,092 | 831 |
-| 2023-09-18 | 244,103 | 831 |
+| 2023-09-18 | 244,104 | 831 |
 ## Awards
 Max (Great for Beginners): 396  (Ranked 218)  
-Sum: 3,397 (Ranked 155)  
+Sum: 3,398 (Ranked 155)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -209,8 +209,8 @@ Diff (max vs sum): 63
 | This game has Amazing Characters | 342 |
 | This game is Extremely Fun | 338 |
 | This game has Amazing Storytelling | 326 |
+| This game is Relaxing | 324 |
 | This game has Quickly Understood Controls | 324 |
-| This game is Relaxing | 323 |
 | This game has a Silly Community | 316 |
 | This game has Easy Combat | 286 |
 | This game is Educational | 263 |
@@ -394,3 +394,4 @@ Diff (max vs sum): 63
 | 2023-09-15 | 4.84 | 395 | 3,382 |
 | 2023-09-16 | 4.84 | 395 | 3,391 |
 | 2023-09-17 | 4.84 | 396 | 3,397 |
+| 2023-09-18 | 4.84 | 396 | 3,398 |

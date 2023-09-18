@@ -652,9 +652,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 10072,
+  "EOS_Progressed": 10074,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9722,6 +9722,11 @@
       "Time": "2023-09-18T03:07:37.0195985+00:00",
       "NumProgressed": 10072,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-18T05:08:18.8542136+00:00",
+      "NumProgressed": 10074,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9837,7 +9842,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "ACH15",
@@ -9861,7 +9866,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH18",
@@ -9893,7 +9898,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4633
+      "UsersEstimate": 4634
     },
     {
       "ID": "ACH22",
@@ -9901,7 +9906,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     },
     {
       "ID": "ACH23",
@@ -9965,7 +9970,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH31",
@@ -10004,7 +10009,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10072,
+      "Progressed": 10074,
       "Completed": 56
     }
   ],
@@ -10012,8 +10017,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-17T05:59:07.322299+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:08:11.6964417+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:08:18.8542132+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:58:12.5357627+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:08:11.6965212+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:58:37.5776555+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:08:18.8542972+00:00"
 }

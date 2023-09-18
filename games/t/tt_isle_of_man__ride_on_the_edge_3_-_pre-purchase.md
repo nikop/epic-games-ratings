@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 97.00% | ~129 |
-| To Each Their Own | 46.00% | ~61 |
+| You're Going Down! | 97.00% | ~130 |
+| To Each Their Own | 46.00% | ~62 |
 | You Get An Upgrade, You Get An Upgrade! | 24.00% | ~32 |
 | Onwards and Upwards | 19.00% | ~25 |
 | Like Phileas Fogg | 17.00% | ~23 |
-| Serial Winner | 14.00% | ~19 |
-| Highly Qualified | 11.00% | ~15 |
-| No Room for Improvement | 11.00% | ~15 |
-| Start Your Engines | 11.00% | ~15 |
+| Serial Winner | 13.00% | ~17 |
+| Highly Qualified | 10.00% | ~13 |
+| No Room for Improvement | 10.00% | ~13 |
+| Start Your Engines | 10.00% | ~13 |
 | Lone Wolf | 9.00% | ~12 |
 | Nerd | 7.00% | ~9 |
 | Playing God | 7.00% | ~9 |
 | First and Foremost | 6.00% | ~8 |
 | Upgradeaholic | 6.00% | ~8 |
-| Gotta Go Fast! | 5.00% | ~7 |
 | Made Mother Proud | 5.00% | ~7 |
 | Winner Winner Chicken Dinner | 5.00% | ~7 |
 | Tailor-Made | 5.00% | ~7 |
 | POI Hunter | 4.00% | ~5 |
 | Seven-League Boots | 4.00% | ~5 |
+| Gotta Go Fast! | 4.00% | ~5 |
 | Say My Name | 4.00% | ~5 |
 | Tempus Fugit | 4.00% | ~5 |
 | Geek | 3.00% | ~4 |
@@ -32,20 +32,20 @@
 | First Things First | 3.00% | ~4 |
 | Tailor-Made for Two | 3.00% | ~4 |
 | Déjà-Vu | 2.00% | ~3 |
-| Golden Ratio | 2.00% | ~3 |
 | The Joy of Discovery | 2.00% | ~3 |
 | The Immortal One | 2.00% | ~3 |
 | Shopping List | 2.00% | ~3 |
-| Checklist | 2.00% | ~3 |
-| Time Is of the Essence | 2.00% | ~3 |
-| Made Father Proud | 2.00% | ~3 |
-| Win-Win! | 2.00% | ~3 |
-| Supersport Superfan | 2.00% | ~3 |
-| Superbike Superfan | 2.00% | ~3 |
-| Playing Favourites | 2.00% | ~3 |
+| Golden Ratio | 1.00% | ~1 |
+| Checklist | 1.00% | ~1 |
+| Time Is of the Essence | 1.00% | ~1 |
+| Made Father Proud | 1.00% | ~1 |
+| Win-Win! | 1.00% | ~1 |
+| Supersport Superfan | 1.00% | ~1 |
+| Superbike Superfan | 1.00% | ~1 |
+| Playing Favourites | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 337)  
-Completed: 2 (1.50%) (Ranked 107)  
+Progressed: 134 (Ranked 337)  
+Completed: 2 (1.49%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,3 +115,4 @@ Completed: 2 (1.50%) (Ranked 107)
 | 2023-09-15 | 129 | 2 |
 | 2023-09-16 | 131 | 2 |
 | 2023-09-17 | 133 | 2 |
+| 2023-09-18 | 134 | 2 |

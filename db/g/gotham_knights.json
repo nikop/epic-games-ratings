@@ -2922,10 +2922,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4485,
       "NumberOfAwardsMax": 2708
+    },
+    {
+      "Time": "2023-09-18T04:59:51.1208951+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4487,
+      "NumberOfAwardsMax": 2708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4485,
+  "NumberOfAwards": 4487,
   "NumberOfAwardsMax": 2708,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2939,7 +2945,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 227
+      "Count": 229
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2990,9 +2996,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72633,
+  "EOS_Progressed": 72634,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15840,6 +15846,11 @@
       "Time": "2023-09-18T04:03:56.8795137+00:00",
       "NumProgressed": 72633,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-18T05:04:17.8530383+00:00",
+      "NumProgressed": 72634,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -16195,7 +16206,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37769
+      "UsersEstimate": 37770
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16227,7 +16238,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20337
+      "UsersEstimate": 20338
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16243,7 +16254,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24695
+      "UsersEstimate": 24696
     },
     {
       "ID": "MYSTERY_02",
@@ -16338,22 +16349,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72633,
+      "Progressed": 72634,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42913,
+      "Progressed": 42914,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-17T19:02:25.672411+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:03:56.8795131+00:00",
+  "LastChanged": "2023-09-18T04:59:51.1208949+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:04:17.8530374+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:59:07.923006+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:03:56.879649+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:59:51.1208977+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:04:17.853182+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "e9ab5f3a0f524fdf800f324800acda60",
   "Name": "Biped",
   "ProductSlug": "biped",
-  "Ranking_EOS_Progress": 148,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5821,
+  "EOS_Progressed": 5822,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9781,6 +9781,11 @@
       "Time": "2023-09-18T04:04:18.5313285+00:00",
       "NumProgressed": 5821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T05:04:44.8165158+00:00",
+      "NumProgressed": 5822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9806,9 +9811,9 @@
       "ID": "11",
       "SetID": "1dkhij4",
       "Name": "Telepathic",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 582
+      "UsersEstimate": 524
     },
     {
       "ID": "12",
@@ -9848,7 +9853,7 @@
       "Name": "Dense Forest",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "3",
@@ -9880,7 +9885,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "7",
@@ -9911,7 +9916,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5821,
+      "Progressed": 5822,
       "Completed": 0
     }
   ],
@@ -9919,8 +9924,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-18T04:04:18.5313281+00:00",
+  "LastChanged_Achievements": "2023-09-18T05:04:44.8165153+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:57:41.3976172+00:00",
-  "LastUpdate_Achievements": "2023-09-18T04:04:18.5313981+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:57:55.6333811+00:00",
+  "LastUpdate_Achievements": "2023-09-18T05:04:44.8165871+00:00"
 }

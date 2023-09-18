@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 217)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~192,097 |
-| 50 HEADSHOTS | 27.00% | ~178,849 |
-| SCIENCE AND INDUSTRY | 26.00% | ~172,225 |
-| FINISHED CHAPTER 1 | 25.00% | ~165,601 |
-| FINISHED CHAPTER 2 | 18.00% | ~119,233 |
-| 200 HEADSHOTS | 16.00% | ~105,985 |
-| FINISHED CHAPTER 3 | 15.00% | ~99,361 |
-| FINISHED CHAPTER 4 | 13.00% | ~86,113 |
-| FINISH CHAPTER 5 | 11.00% | ~72,864 |
-| FINISH CHAPTER 6 | 10.00% | ~66,240 |
-| CATHARTIC ESCAPISM | 10.00% | ~66,240 |
-| 1000 KILLS | 8.00% | ~52,992 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,496 |
+| 100 KILLS | 29.00% | ~192,101 |
+| 50 HEADSHOTS | 27.00% | ~178,852 |
+| SCIENCE AND INDUSTRY | 26.00% | ~172,228 |
+| FINISHED CHAPTER 1 | 25.00% | ~165,604 |
+| FINISHED CHAPTER 2 | 18.00% | ~119,235 |
+| 200 HEADSHOTS | 16.00% | ~105,987 |
+| FINISHED CHAPTER 3 | 15.00% | ~99,362 |
+| FINISHED CHAPTER 4 | 13.00% | ~86,114 |
+| FINISH CHAPTER 5 | 11.00% | ~72,866 |
+| FINISH CHAPTER 6 | 10.00% | ~66,242 |
+| CATHARTIC ESCAPISM | 10.00% | ~66,242 |
+| 1000 KILLS | 8.00% | ~52,993 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,497 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,248 |
 | FIRST BLOOD | 2.00% | ~13,248 |
 | PACEMAKER | 1.00% | ~6,624 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 217)
 | THE GAMBLER | 0.10% | ~662 |
 | WARRIOR IN A GARDEN | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662,404 (Ranked 24)  
+Progressed: 662,416 (Ranked 24)  
 Completed: 63 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,11 +209,11 @@ Completed: 63 (0.01%) (Ranked 263)
 | 2023-09-15 | 661,030 | 63 |
 | 2023-09-16 | 661,674 | 63 |
 | 2023-09-17 | 662,324 | 63 |
-| 2023-09-18 | 662,404 | 63 |
+| 2023-09-18 | 662,416 | 63 |
 ## Awards
 Max (Great Boss Battles): 297  (Ranked 239)  
-Sum: 297 (Ranked 343)  
-Diff (max vs sum): -104  
+Sum: 297 (Ranked 344)  
+Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 297 |
