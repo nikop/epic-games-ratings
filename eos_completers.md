@@ -24,13 +24,13 @@
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.95% |
-| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.78% |
+| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.75% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.25% |
 | 28 | [Smelter](games/s/smelter.md) | 10.00% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.30% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.61% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
@@ -77,7 +77,7 @@
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
-| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.86% |
+| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.88% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -90,7 +90,7 @@
 | 88 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 89 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 90 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
-| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.30% |
+| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.29% |
 | 92 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.24% |
 | 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
@@ -130,8 +130,8 @@
 | 128 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.96% |
 | 129 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 130 | [Hades](games/h/hades.md) | 0.90% |
-| 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 132 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.84% |
+| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.86% |
+| 132 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 133 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 135 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.78% |
@@ -345,6 +345,7 @@
 | 277 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 0.00% |
 | 277 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
 | 277 | [Dinobreak](games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 0.00% |
+| 277 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 0.00% |
 | 277 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
 | 277 | [Dros](games/a/a46cade12846436281c910ddc51411f3.md) | 0.00% |
 | 277 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 0.00% |

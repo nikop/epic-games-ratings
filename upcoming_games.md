@@ -34,7 +34,7 @@
 | [CoopValor WW2 Battle of the Bulge](games/a/a607d7b55d8a4a3ab898c28a16897c5e.md) | 2023-09-30 | - |  | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2023-09-30 | - |  | - | - |
 | [DEVOUR](games/d/devour.md) | 2023-09-30 | - |  | - | - |
-| [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-30 | 32 (1,000 XP) | 0 | - | - |
+| [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-30 | 32 (1,000 XP) | 1 | - | - |
 | [Doomsday Paradise](games/d/doomsday_paradise.md) | 2023-09-30 | - |  | - | - |
 | [Dungeons and Bombs](games/d/dungeons_and_bombs.md) | 2023-09-30 | - |  | - | - |
 | [Engine Evolution 2023](games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 2023-09-30 | 35 (1,000 XP) | 0 | - | - |
@@ -238,10 +238,13 @@
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | - |  | - | - |
 | [NEO BERLIN 2087](games/6/6360997dd9194c40aa70a701791b1819.md) | 2024-12-31 | - |  | - | - |
 | [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
+| [Robobeat](games/r/robobeat.md) | 2024-12-31 | - |  | - | - |
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-12-31 | - |  | - | - |
+| [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2024-12-31 | - |  | - | - |
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
 | [The Bornless](games/a/aaa64a6e060d46ba8de15f19a0d6269e.md) | 2024-12-31 | - |  | - | - |
+| [The Precinct](games/2/2d1432c62a8c49ab80feaefa176a9671.md) | 2024-12-31 | - |  | - | - |
 | [The Spirit of the Samurai](games/7/7e23872d64c54cb08e988a697bd03839.md) | 2024-12-31 | - |  | - | - |
 | [The Swine](games/t/the_swine.md) | 2024-12-31 | - |  | - | - |
 | [Train Valley World](games/f/f68e8934386448ed8b280c3eb0f8c5a4.md) | 2024-12-31 | - |  | - | - |
@@ -396,7 +399,6 @@
 | [REMORE INFESTED KINGDOM](games/2/27ac7a9891e546e3937d21797b5409b9.md) | 2099-01-01 | - |  | - | - |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |
 | [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
-| [Robobeat](games/r/robobeat.md) | 2099-01-01 | - |  | - | - |
 | [Rooted](games/0/0c0ddf9e73d7480cb81033411e840dd1.md) | 2099-01-01 | - |  | - | - |
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Savant - Ascent REMIX](games/a/a013d93390c34ff588ab136bee0cde71.md) | 2099-01-01 | - |  | - | - |
@@ -408,7 +410,6 @@
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2099-01-01 | - |  | - | - |
 | [Soliloquy](games/s/soliloquy.md) | 2099-01-01 | - |  | - | - |
 | [Soul War](games/5/57a8c2548bc244558f5bd74fe7fe85c5.md) | 2099-01-01 | - |  | - | - |
-| [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2099-01-01 | - |  | - | - |
 | [Space Nation Online](games/1/12dc38cab446471a86b3c78ba31d0a5f.md) | 2099-01-01 | - |  | - | - |
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |
 | [Splitgate](games/s/splitgate.md) | 2099-01-01 | - |  | - | - |
@@ -440,7 +441,6 @@
 | [The Last Three](games/b/b4c33404eb6f4c7c938efb3ca8f0c264.md) | 2099-01-01 | - |  | - | - |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.74 | 0 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
-| [The Precinct](games/2/2d1432c62a8c49ab80feaefa176a9671.md) | 2099-01-01 | - |  | - | - |
 | [THE SILENT CITY CHAPTER TWO](games/1/15863494f4ef46d481aae0759ec24eb1.md) | 2099-01-01 | - |  | - | - |
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2099-01-01 | - |  | - | - |
 | [Three Kingdoms The Last Warlord](games/t/three_kingdoms_the_last_warlord.md) | 2099-01-01 | 192 (1,000 XP) | 0 | - | - |
