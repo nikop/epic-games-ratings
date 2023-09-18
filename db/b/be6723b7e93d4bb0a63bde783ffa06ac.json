@@ -2,10 +2,10 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Progress": 597,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:04:38.5204635+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:04:56.1823257+00:00",
   "LastUpdate_AppInfo": "2023-09-13T01:38:59.4321511+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:00:54.29712+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:04:38.5204684+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:01:45.3970224+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:04:56.1823299+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -511,9 +511,9 @@
       "ID": "ACH_01",
       "SetID": "72imik0",
       "Name": "The Bracelet",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_010",
@@ -543,9 +543,9 @@
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_014",
@@ -888,8 +888,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:03:33.487754+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:03:33.2772881+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:09.597358+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:58:01.5395941+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:03:33.487806+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:58:12.3975339+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:03:33.2773394+00:00"
 }

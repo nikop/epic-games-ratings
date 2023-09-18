@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,10 +324,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 69181,
-  "EOS_Completed": 359,
-  "EOS_NewPlayers": 634,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 69182,
+  "EOS_Completed": 360,
+  "EOS_NewPlayers": 631,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
     {
@@ -16784,6 +16784,11 @@
       "Time": "2023-09-18T06:06:07.2567942+00:00",
       "NumProgressed": 69181,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2023-09-18T09:07:24.1976224+00:00",
+      "NumProgressed": 69182,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 24,
@@ -16811,7 +16816,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 47043
+      "UsersEstimate": 47044
     },
     {
       "ID": "BEST_FRIENDS",
@@ -16851,7 +16856,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20062
+      "UsersEstimate": 20063
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -16891,7 +16896,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -16923,7 +16928,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -16931,7 +16936,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "SPIRIT_BARK",
@@ -16986,16 +16991,16 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 69181,
-      "Completed": 359
+      "Progressed": 69182,
+      "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:06:49.3387191+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:07:24.1976211+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0653551+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:59:12.828181+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:06:49.3388435+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:59:42.3713507+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:07:24.1977948+00:00"
 }

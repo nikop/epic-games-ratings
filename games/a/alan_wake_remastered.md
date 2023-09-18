@@ -6,41 +6,41 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,925 |
-| Let There Be Light | 33.00% | ~21,671 |
-| Float Like a Butterfly | 32.00% | ~21,014 |
-| Nordic Walking | 26.00% | ~17,074 |
-| Bright Falls' Finest | 25.00% | ~16,418 |
-| Under a Thin Layer of Skin | 22.00% | ~14,447 |
-| Park Ranger | 18.00% | ~11,821 |
-| Paging Mr. Wake | 18.00% | ~11,821 |
-| Back! Back, I Say! | 17.00% | ~11,164 |
-| Finders Keepers | 17.00% | ~11,164 |
-| Damn Good Cup of Coffee | 16.00% | ~10,507 |
-| They're Heeeeeere! | 15.00% | ~9,850 |
-| Sound and Fury | 15.00% | ~9,850 |
-| Missed by a Mile | 15.00% | ~9,850 |
-| Wheels Within Wheels | 14.00% | ~9,194 |
-| The Six-Gun Scribe | 14.00% | ~9,194 |
-| Heavy Metal | 13.00% | ~8,537 |
-| Iron Horse | 13.00% | ~8,537 |
-| Perchance to Dream | 13.00% | ~8,537 |
-| Collateral Carnage | 13.00% | ~8,537 |
-| Come One, Come All | 13.00% | ~8,537 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,880 |
-| Thunder and Lightning | 12.00% | ~7,880 |
+| Follow the Light | 41.00% | ~26,927 |
+| Let There Be Light | 33.00% | ~21,673 |
+| Float Like a Butterfly | 32.00% | ~21,016 |
+| Nordic Walking | 26.00% | ~17,076 |
+| Bright Falls' Finest | 25.00% | ~16,419 |
+| Under a Thin Layer of Skin | 22.00% | ~14,449 |
+| Park Ranger | 18.00% | ~11,822 |
+| Paging Mr. Wake | 18.00% | ~11,822 |
+| Back! Back, I Say! | 17.00% | ~11,165 |
+| Finders Keepers | 17.00% | ~11,165 |
+| Damn Good Cup of Coffee | 16.00% | ~10,508 |
+| They're Heeeeeere! | 15.00% | ~9,851 |
+| Sound and Fury | 15.00% | ~9,851 |
+| Missed by a Mile | 15.00% | ~9,851 |
+| Wheels Within Wheels | 14.00% | ~9,195 |
+| The Six-Gun Scribe | 14.00% | ~9,195 |
+| Heavy Metal | 13.00% | ~8,538 |
+| Iron Horse | 13.00% | ~8,538 |
+| Perchance to Dream | 13.00% | ~8,538 |
+| Collateral Carnage | 13.00% | ~8,538 |
+| Come One, Come All | 13.00% | ~8,538 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,881 |
+| Thunder and Lightning | 12.00% | ~7,881 |
 | Gatekeeper | 11.00% | ~7,224 |
 | The Lady of the Light | 11.00% | ~7,224 |
 | Two For the Price of One | 11.00% | ~7,224 |
 | Energized! | 11.00% | ~7,224 |
-| Right of Way | 10.00% | ~6,567 |
-| What Light Through Yonder Window | 9.00% | ~5,910 |
+| Right of Way | 10.00% | ~6,568 |
+| What Light Through Yonder Window | 9.00% | ~5,911 |
 | Tornado Wrangler | 8.00% | ~5,254 |
-| A Friend in Need | 8.00% | ~2,331 |
+| A Friend in Need | 8.00% | ~2,332 |
 | Departure | 7.00% | ~4,597 |
-| Drink 'Em Both Up | 6.00% | ~3,940 |
-| Hardboiled Writer | 6.00% | ~3,940 |
-| A Friend Indeed | 6.00% | ~1,748 |
+| Drink 'Em Both Up | 6.00% | ~3,941 |
+| Hardboiled Writer | 6.00% | ~3,941 |
+| A Friend Indeed | 6.00% | ~1,749 |
 | Children of the Elder God | 5.00% | ~3,284 |
 | If It Flies, It Burns | 5.00% | ~3,284 |
 | KBF-FM | 5.00% | ~3,284 |
@@ -49,10 +49,10 @@ Number of Ratings: 524  (23.09.2022)
 | Carny | 3.00% | ~1,970 |
 | Kill Your Darlings | 3.00% | ~874 |
 | Heartbreaker | 3.00% | ~874 |
-| Medical Opinions | 2.00% | ~1,313 |
-| Taken Season | 2.00% | ~1,313 |
-| An Idyllic Small Town | 2.00% | ~1,313 |
-| Couch Potato | 2.00% | ~1,313 |
+| Medical Opinions | 2.00% | ~1,314 |
+| Taken Season | 2.00% | ~1,314 |
+| An Idyllic Small Town | 2.00% | ~1,314 |
+| Couch Potato | 2.00% | ~1,314 |
 | Iron Will | 2.00% | ~583 |
 | Go Gentle Into That Good Light | 1.00% | ~291 |
 | Words Will Never Harm You | 0.70% | ~204 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,670 (Ranked 88)  
+Progressed: 65,676 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 65 (0.10%) (Ranked 222)
 | 2023-09-15 | 65,366 | 65 |
 | 2023-09-16 | 65,510 | 65 |
 | 2023-09-17 | 65,643 | 65 |
-| 2023-09-18 | 65,670 | 65 |
+| 2023-09-18 | 65,676 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

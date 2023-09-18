@@ -10,8 +10,8 @@
 | Apprentice | 34.00% | ~28 |
 | A new World ahead | 32.00% | ~26 |
 | Don't Cry Wolf | 26.00% | ~21 |
-| Can't touch this | 23.00% | ~19 |
-| Freezing Cold | 16.00% | ~13 |
+| Can't touch this | 24.00% | ~20 |
+| Freezing Cold | 17.00% | ~14 |
 | Expert | 15.00% | ~12 |
 | The Power of the Mountains | 13.00% | ~11 |
 | Searing Heat | 12.00% | ~10 |
@@ -22,8 +22,8 @@
 | Locked and Loaded | 9.00% | ~7 |
 | Witch | 9.00% | ~7 |
 | Craftsmen | 7.00% | ~6 |
+| The A-Team | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
-| The A-Team | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | Defeat Uskol | 5.00% | ~4 |
 | Bringing guns to a sword fight | 5.00% | ~4 |

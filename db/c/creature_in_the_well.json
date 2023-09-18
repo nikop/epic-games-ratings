@@ -2,20 +2,20 @@
   "ID": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
   "Name": "Creature in the Well",
   "ProductSlug": "creature-in-the-well",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 502,
-  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Progress": 597,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2019-09-06T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.24,
   "NumberOfRatings": 113,
   "RatingHistory": [
     {
@@ -365,6 +365,12 @@
       "Rating": 4.25,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-09-18T09:01:40.8254104+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -390,8 +396,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:44.5779838+00:00",
-  "LastChanged": "2023-07-18T02:31:28.5676337+00:00",
+  "LastChanged": "2023-09-18T09:01:40.8254103+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.0643481+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:00:50.3787177+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:04:10.4588227+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:01:40.8254109+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:04:24.8134994+00:00"
 }

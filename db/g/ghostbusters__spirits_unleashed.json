@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 106,
@@ -13489,9 +13489,9 @@
       "ID": "Whoopsie",
       "SetID": "819popo",
       "Name": "Whoopsie",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
@@ -13506,8 +13506,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-17T19:01:08.4051073+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:05:06.6999865+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:05:27.678346+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:59:20.7112031+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:05:06.7001249+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:59:50.9561571+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:05:27.6784668+00:00"
 }

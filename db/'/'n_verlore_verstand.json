@@ -2,10 +2,10 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -191,6 +191,11 @@
       "Time": "2023-09-12T16:06:24.4855199+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T09:03:17.7456033+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -202,7 +207,7 @@
       "Name": "Start of a Journey",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "10",
@@ -216,7 +221,7 @@
       "ID": "11",
       "SetID": "6m1k8ai",
       "Name": "Scorched Ruins",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -224,7 +229,7 @@
       "ID": "12",
       "SetID": "6m1k8ai",
       "Name": "City of Illusion",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -232,7 +237,7 @@
       "ID": "13",
       "SetID": "6m1k8ai",
       "Name": "Kill the Flames",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -240,7 +245,7 @@
       "ID": "14",
       "SetID": "6m1k8ai",
       "Name": "Find the Light",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -248,7 +253,7 @@
       "ID": "15",
       "SetID": "6m1k8ai",
       "Name": "Fight and Overcome",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -256,7 +261,7 @@
       "ID": "16",
       "SetID": "6m1k8ai",
       "Name": "A Walk to the End",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -264,7 +269,7 @@
       "ID": "17",
       "SetID": "6m1k8ai",
       "Name": "The Final Test",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -272,7 +277,7 @@
       "ID": "18",
       "SetID": "6m1k8ai",
       "Name": "A Journey\u0027s End",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -288,7 +293,7 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -352,9 +357,9 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "28",
@@ -376,7 +381,7 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -464,7 +469,7 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -552,7 +557,7 @@
       "ID": "6",
       "SetID": "6m1k8ai",
       "Name": "City of Puzzles",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -560,7 +565,7 @@
       "ID": "7",
       "SetID": "6m1k8ai",
       "Name": "This field of danger",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -568,7 +573,7 @@
       "ID": "8",
       "SetID": "6m1k8ai",
       "Name": "Labyrinths of the Mind",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -576,7 +581,7 @@
       "ID": "9",
       "SetID": "6m1k8ai",
       "Name": "A Terrifying Blizzard",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -585,14 +590,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:03:19.6351996+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:03:17.7456024+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:38.1296496+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:58:47.4834383+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:03:19.6352481+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:59:08.8777748+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:03:17.7456828+00:00"
 }

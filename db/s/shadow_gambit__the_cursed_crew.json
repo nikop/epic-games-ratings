@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 653,
+  "EOS_Progressed": 654,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.3,
+  "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1749,6 +1749,11 @@
       "Time": "2023-09-17T21:03:21.3863908+00:00",
       "NumProgressed": 653,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-18T09:03:43.7472419+00:00",
+      "NumProgressed": 654,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1775,9 +1780,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 353
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1785,7 +1790,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "_05_FinishAct2",
@@ -1889,7 +1894,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1968,7 +1973,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 653,
+      "Progressed": 654,
       "Completed": 15
     }
   ],
@@ -1976,8 +1981,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:03:42.6240641+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:03:43.7472412+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:58:39.1050385+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:03:42.6241182+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:58:59.3746565+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:03:43.7473029+00:00"
 }

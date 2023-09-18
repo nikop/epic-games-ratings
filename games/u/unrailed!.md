@@ -6,13 +6,13 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~109,621 |
-| Incurious | 16.00% | ~103,173 |
-| Climate Change | 15.00% | ~96,724 |
-| Stroller | 14.00% | ~90,276 |
-| Toy Train | 13.00% | ~83,828 |
+| Advanced Stroller | 17.00% | ~109,622 |
+| Incurious | 16.00% | ~103,174 |
+| Climate Change | 15.00% | ~96,725 |
+| Stroller | 14.00% | ~90,277 |
+| Toy Train | 13.00% | ~83,829 |
 | Advanced Hiker | 12.00% | ~77,380 |
-| Hiker | 11.00% | ~70,931 |
+| Hiker | 11.00% | ~70,932 |
 | Mojave Courier | 5.00% | ~32,242 |
 | Saved by Nausicaä | 5.00% | ~32,242 |
 | Voyager | 3.00% | ~19,345 |
@@ -33,10 +33,10 @@ Number of Ratings: 21,990  (23.09.2022)
 | Advanced Wayfarer | 0.40% | ~2,579 |
 | Scrooge | 0.40% | ~2,579 |
 | Tough Nut! | 0.40% | ~2,579 |
-| Trans-Siberian Railway | 0.30% | ~1,934 |
-| Engineer | 0.30% | ~1,934 |
-| Satan's Minion | 0.30% | ~1,934 |
-| Snowman's Land | 0.30% | ~1,934 |
+| Trans-Siberian Railway | 0.30% | ~1,935 |
+| Engineer | 0.30% | ~1,935 |
+| Satan's Minion | 0.30% | ~1,935 |
+| Snowman's Land | 0.30% | ~1,935 |
 | Expert Wayfarer | 0.20% | ~1,290 |
 | Explorer | 0.10% | ~645 |
 | Advanced Explorer | 0.10% | ~645 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~645 |
 | 20 Miles under the Sea | 0.10% | ~645 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 644,830 (Ranked 26)  
+Progressed: 644,836 (Ranked 26)  
 Completed: 10 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 10 (0.00%) (Ranked 277)
 | 2023-09-15 | 643,954 | 10 |
 | 2023-09-16 | 644,346 | 10 |
 | 2023-09-17 | 644,749 | 10 |
-| 2023-09-18 | 644,830 | 10 |
+| 2023-09-18 | 644,836 | 10 |
 ## Awards
 Max (Great for Beginners): 196  (Ranked 275)  
 Sum: 1,570 (Ranked 220)  

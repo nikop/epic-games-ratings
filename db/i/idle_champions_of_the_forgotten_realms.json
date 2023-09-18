@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6724,10 +6724,10 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229248,
+  "EOS_Progressed": 229250,
   "EOS_Completed": 2292,
   "EOS_NewPlayers": 890,
-  "EOS_NewCompleters": 25,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23444,6 +23444,11 @@
       "Time": "2023-09-18T08:07:13.2040202+00:00",
       "NumProgressed": 229248,
       "NumCompleted": 2292
+    },
+    {
+      "Time": "2023-09-18T09:07:51.4942884+00:00",
+      "NumProgressed": 229250,
+      "NumCompleted": 2292
     }
   ],
   "TotalAchievements": 520,
@@ -25997,9 +26002,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 688
     },
     {
       "ID": "objective_completed_60",
@@ -26599,7 +26604,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "objective_completed_70",
@@ -27614,21 +27619,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195522,
+      "Progressed": 195524,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229248,
+      "Progressed": 229250,
       "Completed": 2292
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-17T21:57:49.5337386+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:07:13.2040196+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:07:51.4942871+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:58:06.3660692+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:07:13.2069356+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:58:18.3076111+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:07:51.4976332+00:00"
 }

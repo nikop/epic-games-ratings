@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,585 |
 | Beast Intentions | 0.70% | ~1,605 |
 | The Cursed Farmer | 0.70% | ~1,605 |
-| The Mad Wizard | 0.60% | ~1,375 |
+| The Mad Wizard | 0.60% | ~1,376 |
 | The Ring of Regeneration | 0.50% | ~1,146 |
 | Were-verpowered | 0.40% | ~917 |
 | Seeking Allies | 0.40% | ~917 |
@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.30% | ~688 |
 | Mad Cow Disease | 0.30% | ~688 |
 | Exploring Port Nyanzaru | 0.30% | ~688 |
+| The Contagious Curse | 0.30% | ~688 |
 | Friendly Imps | 0.30% | ~688 |
 | Pure Energy | 0.30% | ~688 |
 | Legends and Lore | 0.30% | ~587 |
@@ -83,7 +84,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~458 |
 | Difficult Terrain | 0.20% | ~458 |
 | Running of the Saurs | 0.20% | ~458 |
-| The Contagious Curse | 0.20% | ~458 |
 | Dinosaur Racing | 0.20% | ~458 |
 | Elturel Has Fallen | 0.20% | ~458 |
 | Resolve Amongst Chaos | 0.20% | ~458 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,248 (Ranked 57)  
+Progressed: 229,250 (Ranked 57)  
 Completed: 2,292 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,292 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,248 | 2,292 |
+| 2023-09-18 | 229,250 | 2,292 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 565)  
+Rating: 4.50 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,6 +13,7 @@ Rating: 4.50 (Ranked 565)
 | Solo Capture | 0.30% | ~78 |
 | Teamwork | 0.30% | ~78 |
 | Vaporous Expansion | 0.30% | ~78 |
+| Whoopsie | 0.30% | ~78 |
 | Animated | 0.20% | ~52 |
 | Back Off | 0.20% | ~52 |
 | Clutch Capture | 0.20% | ~52 |
@@ -28,7 +29,6 @@ Rating: 4.50 (Ranked 565)
 | Terrifying | 0.20% | ~52 |
 | There you are! | 0.20% | ~52 |
 | Welcome to the Crew | 0.20% | ~52 |
-| Whoopsie | 0.20% | ~52 |
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | Collector | 0.10% | ~26 |

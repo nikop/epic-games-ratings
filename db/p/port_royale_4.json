@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 898,
+  "EOS_Progressed": 899,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2075,6 +2075,11 @@
       "Time": "2023-09-18T01:46:14.8413809+00:00",
       "NumProgressed": 898,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T09:04:16.3142719+00:00",
+      "NumProgressed": 899,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2086,7 +2091,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH001",
@@ -2174,7 +2179,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH012",
@@ -2188,9 +2193,9 @@
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH014",
@@ -2198,7 +2203,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH015",
@@ -2206,7 +2211,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH016",
@@ -2254,7 +2259,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH022",
@@ -2300,9 +2305,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH028",
@@ -2316,9 +2321,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH030",
@@ -2342,7 +2347,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH033",
@@ -2438,7 +2443,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH045",
@@ -2470,7 +2475,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH049",
@@ -2485,15 +2490,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 898,
+      "Progressed": 899,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:04:02.4470164+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:04:16.3142709+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.7770724+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:58:49.8567305+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:04:02.4470781+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:59:12.0043082+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:04:16.3143323+00:00"
 }

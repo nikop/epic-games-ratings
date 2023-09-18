@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
@@ -695,17 +695,17 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_REUNITE_WITH_BOJI",
       "SetID": "7i20me3",
       "Name": "The A-Team",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
@@ -798,8 +798,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:09:08.5563845+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:09:14.6666298+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.4303858+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:57:36.314042+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:09:08.5564356+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:57:43.3932335+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:09:14.6666768+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6100,
+  "EOS_Progressed": 6103,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 650,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-09-18T08:06:16.9218281+00:00",
       "NumProgressed": 6100,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T09:06:47.5919531+00:00",
+      "NumProgressed": 6103,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1968,7 +1973,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "GamesPlayed10",
@@ -1992,7 +1997,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "GamesWon10",
@@ -2128,7 +2133,7 @@
       "Name": "Destroyed 30 Inhibitors",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LMGUpgraded1",
@@ -2439,14 +2444,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6100,
+      "Progressed": 6103,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:06:16.9218274+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:06:47.5919525+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:01:01.5459154+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:06:16.9219204+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:01:51.7975532+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:06:47.5920558+00:00"
 }

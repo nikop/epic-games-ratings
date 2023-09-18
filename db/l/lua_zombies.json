@@ -2,10 +2,10 @@
   "ID": "b8f29f43885146d49f996b5865f8e4ec",
   "Name": "Lua Zombies",
   "ProductSlug": "lua-zombies-e7b1d6",
-  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Progress": 597,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-30T06:00:00+00:00",
     "PcReleaseDate": "2023-04-30T06:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-24T08:57:18.2140929+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.558752+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:58:03.7612653+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:07:29.7834406+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:58:14.7480072+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:08:09.3264911+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232031,
+  "EOS_Progressed": 232032,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
@@ -16193,6 +16193,11 @@
       "Time": "2023-09-18T08:05:35.355247+00:00",
       "NumProgressed": 232031,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-18T09:05:59.9308417+00:00",
+      "NumProgressed": 232032,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16228,7 +16233,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18562
+      "UsersEstimate": 18563
     },
     {
       "ID": "CHALLENGER",
@@ -16236,7 +16241,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25523
+      "UsersEstimate": 25524
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -16268,7 +16273,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18562
+      "UsersEstimate": 18563
     },
     {
       "ID": "FLAWLESS",
@@ -16340,7 +16345,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76570
+      "UsersEstimate": 76571
     },
     {
       "ID": "NOBUNAGA",
@@ -16475,15 +16480,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232031,
+      "Progressed": 232032,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-18T08:05:35.3552464+00:00",
+  "LastChanged_Achievements": "2023-09-18T09:05:59.9308411+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.1224951+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:58:40.7502137+00:00",
-  "LastUpdate_Achievements": "2023-09-18T08:05:35.3553755+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:59:01.2711233+00:00",
+  "LastUpdate_Achievements": "2023-09-18T09:05:59.9309732+00:00"
 }
