@@ -9,7 +9,7 @@
 | The path to enlightenment | 6.00% | ~20 |
 | Our efforts are finally yielding progress | 6.00% | ~20 |
 | This looks really bad | 6.00% | ~20 |
-| Unholy lands | 4.00% | ~13 |
+| Unholy lands | 5.00% | ~16 |
 | Unveiling the Magnitude of Sin | 3.00% | ~10 |
 | The crucifixion | 2.00% | ~7 |
 | The choice | 2.00% | ~7 |

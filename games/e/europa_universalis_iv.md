@@ -10,10 +10,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 3.00% | ~12,209 |
 | That is mine! | 3.00% | ~12,209 |
 | Victorious! | 3.00% | ~12,209 |
-| Brothers in Arms | 2.00% | ~8,139 |
-| For the Glory | 2.00% | ~8,139 |
-| That's a Grand Navy | 2.00% | ~8,139 |
-| Seriously?! | 2.00% | ~8,139 |
+| Brothers in Arms | 2.00% | ~8,140 |
+| For the Glory | 2.00% | ~8,140 |
+| That's a Grand Navy | 2.00% | ~8,140 |
+| Seriously?! | 2.00% | ~8,140 |
 | Cold War | 1.00% | ~4,070 |
 | Defender of the Faith | 1.00% | ~4,070 |
 | It's all about the money | 1.00% | ~4,070 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,967 (Ranked 40)  
+Progressed: 406,981 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,18 +512,18 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 404,131 | 0 |
 | 2023-09-16 | 405,611 | 0 |
 | 2023-09-17 | 406,888 | 0 |
-| 2023-09-18 | 406,967 | 0 |
+| 2023-09-18 | 406,981 | 0 |
 ## Awards
 Max (Educational): 6,141  (Ranked 56)  
-Sum: 50,439 (Ranked 26)  
+Sum: 50,459 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,141 |
 | This game is Highly Recommended | 5,862 |
+| This game is Extremely Fun | 5,811 |
 | This game has Challenging Combat | 5,808 |
 | This game has Diverse Characters | 5,802 |
-| This game is Extremely Fun | 5,791 |
 | This game is Relaxing | 5,654 |
 | This game has Competitive Players | 5,476 |
 | This game has Amazing Storytelling | 5,137 |
@@ -776,4 +776,4 @@ Diff (max vs sum): 30
 | 2023-09-15 | 4.69 | - | 6,102 | 50,146 |
 | 2023-09-16 | 4.69 | - | 6,125 | 50,304 |
 | 2023-09-17 | 4.69 | - | 6,141 | 50,420 |
-| 2023-09-18 | 4.69 | - | 6,141 | 50,439 |
+| 2023-09-18 | 4.69 | - | 6,141 | 50,459 |

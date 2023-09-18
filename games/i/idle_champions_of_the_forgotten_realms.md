@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.30% | ~688 |
 | Unearthed Evil | 0.30% | ~688 |
 | The Crumbling Temple | 0.30% | ~688 |
+| Useless Allies | 0.30% | ~688 |
 | Mad Cow Disease | 0.30% | ~688 |
 | Exploring Port Nyanzaru | 0.30% | ~688 |
 | Friendly Imps | 0.30% | ~688 |
@@ -68,7 +69,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.20% | ~458 |
 | Backtracking Through Barovia | 0.20% | ~458 |
 | Nimble Escape | 0.20% | ~458 |
-| Useless Allies | 0.20% | ~458 |
 | Fugitives | 0.20% | ~458 |
 | Excavating History | 0.20% | ~458 |
 | Premature Betrayal | 0.20% | ~458 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,236 (Ranked 57)  
+Progressed: 229,237 (Ranked 57)  
 Completed: 2,291 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,291 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,236 | 2,291 |
+| 2023-09-18 | 229,237 | 2,291 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

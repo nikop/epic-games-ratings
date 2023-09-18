@@ -7391,7 +7391,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473329,
+  "EOS_Progressed": 473330,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 1,
@@ -23291,6 +23291,11 @@
       "Time": "2023-09-18T02:21:30.9187488+00:00",
       "NumProgressed": 473329,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-18T03:05:14.6866337+00:00",
+      "NumProgressed": 473330,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -23398,7 +23403,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137265
+      "UsersEstimate": 137266
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -23446,7 +23451,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70999
+      "UsersEstimate": 71000
     },
     {
       "ID": "achievement_big_win",
@@ -23478,7 +23483,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104132
+      "UsersEstimate": 104133
     },
     {
       "ID": "achievement_clean_sheet",
@@ -23486,7 +23491,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236664
+      "UsersEstimate": 236665
     },
     {
       "ID": "achievement_club_world_cup",
@@ -23534,7 +23539,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 198798
+      "UsersEstimate": 198799
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -23574,7 +23579,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104132
+      "UsersEstimate": 104133
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -23614,7 +23619,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137265
+      "UsersEstimate": 137266
     },
     {
       "ID": "achievement_hattrick",
@@ -23726,7 +23731,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165665
+      "UsersEstimate": 165666
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -23734,7 +23739,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151465
+      "UsersEstimate": 151466
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -23774,7 +23779,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137265
+      "UsersEstimate": 137266
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -23806,7 +23811,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 151465
+      "UsersEstimate": 151466
     },
     {
       "ID": "achievement_rushed_signing",
@@ -23814,7 +23819,7 @@
       "Name": "Rushed signing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70999
+      "UsersEstimate": 71000
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -23854,7 +23859,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236664
+      "UsersEstimate": 236665
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -23918,7 +23923,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70999
+      "UsersEstimate": 71000
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -23934,7 +23939,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236664
+      "UsersEstimate": 236665
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -23942,7 +23947,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104132
+      "UsersEstimate": 104133
     },
     {
       "ID": "achievement_won_international_championship",
@@ -23990,7 +23995,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56799
+      "UsersEstimate": 56800
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -24085,15 +24090,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473329,
+      "Progressed": 473330,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-17T22:01:20.2522244+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:21:30.9187481+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:05:14.6866332+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:17:32.0531316+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:21:30.9191455+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:01:03.5379002+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:05:14.6868803+00:00"
 }

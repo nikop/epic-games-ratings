@@ -2990,9 +2990,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72630,
+  "EOS_Progressed": 72631,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15830,6 +15830,11 @@
       "Time": "2023-09-18T02:20:10.5513506+00:00",
       "NumProgressed": 72630,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-18T03:03:41.0274157+00:00",
+      "NumProgressed": 72631,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15929,7 +15934,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10894
+      "UsersEstimate": 10895
     },
     {
       "ID": "CHALLENGES_1",
@@ -15945,7 +15950,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15252
+      "UsersEstimate": 15253
     },
     {
       "ID": "CLAYFACE_2",
@@ -15953,7 +15958,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13073
+      "UsersEstimate": 13074
     },
     {
       "ID": "CLAYFACE_3",
@@ -16073,7 +16078,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15252
+      "UsersEstimate": 15253
     },
     {
       "ID": "FREEZE_2",
@@ -16145,7 +16150,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25420
+      "UsersEstimate": 25421
     },
     {
       "ID": "HARLEY_2",
@@ -16217,7 +16222,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20336
+      "UsersEstimate": 20337
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16233,7 +16238,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24694
+      "UsersEstimate": 24695
     },
     {
       "ID": "MYSTERY_02",
@@ -16265,7 +16270,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13073
+      "UsersEstimate": 13074
     },
     {
       "ID": "MYSTERY_06",
@@ -16273,7 +16278,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10894
+      "UsersEstimate": 10895
     },
     {
       "ID": "MYSTERY_07",
@@ -16328,13 +16333,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72630,
+      "Progressed": 72631,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42910,
+      "Progressed": 42911,
       "Completed": 2663
     }
   ],
@@ -16342,8 +16347,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-17T19:02:25.672411+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:20:10.5513503+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:03:41.0274151+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:16:03.829658+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:20:10.5514917+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:59:49.3035734+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:03:41.0275795+00:00"
 }

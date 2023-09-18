@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -629,9 +629,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2584,
+  "EOS_Progressed": 2585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4759,6 +4759,11 @@
       "Time": "2023-09-18T02:24:15.6994351+00:00",
       "NumProgressed": 2584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T03:07:27.6168808+00:00",
+      "NumProgressed": 2585,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4793,17 +4798,17 @@
       "ID": "MF_Ach_DeathBecomesYou",
       "SetID": "9b9n573",
       "Name": "Death Becomes You",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 155
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 362
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -4857,9 +4862,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 362
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -4929,9 +4934,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 233
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -4954,15 +4959,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2584,
+      "Progressed": 2585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-17T17:01:48.1393189+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:24:15.6994347+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:07:27.6168801+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:15:01.1474276+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:24:15.6994873+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:58:57.5522601+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:07:27.6169244+00:00"
 }

@@ -33,8 +33,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Banishment | 31.00% | ~36,596 |
 | Whale | 31.00% | ~36,596 |
 | FNG | 29.00% | ~34,234 |
+| Predator | 25.00% | ~29,512 |
 | Reverse Banditry | 25.00% | ~29,512 |
-| Predator | 24.00% | ~28,332 |
 | Autodidact | 24.00% | ~28,332 |
 | Meat and Greet | 22.00% | ~25,971 |
 | Spelunker | 21.00% | ~24,790 |

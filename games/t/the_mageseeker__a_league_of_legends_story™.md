@@ -7,7 +7,7 @@ Rating: 4.82 (Ranked 67)
 | ---- | ---------- | ----- |
 | For Demacia | 96.00% | ~2,459 |
 | No more cages! | 92.00% | ~2,356 |
-| Everfrost | 78.00% | ~1,998 |
+| Everfrost | 79.00% | ~2,023 |
 | Pentakill | 78.00% | ~1,998 |
 | Dark Forest | 78.00% | ~1,998 |
 | The use of petricite | 75.00% | ~1,921 |
@@ -15,8 +15,8 @@ Rating: 4.82 (Ranked 67)
 | Big Helmet Bro | 38.00% | ~973 |
 | Clarion Cove | 38.00% | ~973 |
 | Thornbarrow | 37.00% | ~948 |
+| Elemental master | 36.00% | ~922 |
 | Past trauma | 36.00% | ~922 |
-| Elemental master | 35.00% | ~896 |
 | Ternmoat Headquarters | 35.00% | ~896 |
 | Cypress Glen Headquarters | 33.00% | ~845 |
 | Petricite Burst | 32.00% | ~820 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65655,
+  "EOS_Progressed": 65656,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1301,
+  "EOS_NewPlayers": 1288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15027,6 +15027,11 @@
       "Time": "2023-09-18T02:19:41.4495184+00:00",
       "NumProgressed": 65655,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-18T03:03:26.0311431+00:00",
+      "NumProgressed": 65656,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15046,7 +15051,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17070
+      "UsersEstimate": 17071
     },
     {
       "ID": "03",
@@ -15278,7 +15283,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11161
+      "UsersEstimate": 11162
     },
     {
       "ID": "32",
@@ -15358,7 +15363,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11161
+      "UsersEstimate": 11162
     },
     {
       "ID": "42",
@@ -15573,21 +15578,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65655,
+      "Progressed": 65656,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29123,
+      "Progressed": 29124,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:19:41.4495175+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:03:26.0311424+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:13:30.4895993+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:19:41.4498093+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:57:39.6587018+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:03:26.0312966+00:00"
 }

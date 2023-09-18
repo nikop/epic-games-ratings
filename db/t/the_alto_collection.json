@@ -765,7 +765,7 @@
   ],
   "EOS_Progressed": 39607,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17582,9 +17582,9 @@
       "ID": "goals10",
       "SetID": "2lgngib",
       "Name": "Rookie",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10298
+      "UsersEstimate": 10694
     },
     {
       "ID": "goals180",
@@ -17862,8 +17862,8 @@
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-15T18:59:46.0517452+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:19:30.5156734+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:03:17.2982831+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:21.9725238+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:15:41.5624109+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:19:30.5158107+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:59:29.7175258+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:03:17.298413+00:00"
 }

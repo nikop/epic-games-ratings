@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 69172,
+  "EOS_Progressed": 69173,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -16764,6 +16764,11 @@
       "Time": "2023-09-18T02:22:44.7363676+00:00",
       "NumProgressed": 69172,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2023-09-18T03:06:13.357928+00:00",
+      "NumProgressed": 69173,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 24,
@@ -16791,7 +16796,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 47037
+      "UsersEstimate": 47038
     },
     {
       "ID": "BEST_FRIENDS",
@@ -16823,7 +16828,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18676
+      "UsersEstimate": 18677
     },
     {
       "ID": "FOXIN_AROUND",
@@ -16855,7 +16860,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36661
+      "UsersEstimate": 36662
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -16895,7 +16900,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -16966,7 +16971,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 69172,
+      "Progressed": 69173,
       "Completed": 359
     }
   ],
@@ -16974,8 +16979,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:22:44.7363672+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:06:13.3579275+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0653551+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:15:11.5763967+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:22:44.7364907+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:59:05.481392+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:06:13.3580478+00:00"
 }

@@ -12,7 +12,7 @@
 | Drums in the Deep | 24.00% | ~22 |
 | Treasure Seeker | 23.00% | ~21 |
 | Bridge Builder | 23.00% | ~21 |
-| Green Thumb Goliath | 14.00% | ~13 |
+| Green Thumb Goliath | 15.00% | ~14 |
 | Take the Scenic Route | 13.00% | ~12 |
 | Treasure Hunter | 13.00% | ~12 |
 | St. George's Gauntlet | 12.00% | ~11 |

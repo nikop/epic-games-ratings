@@ -4,7 +4,7 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -112,17 +112,17 @@
       "ID": "ClearC01",
       "SetID": "94lmepd",
       "Name": "The Emperor",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearC01END",
       "SetID": "94lmepd",
       "Name": "The Moon",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearC02",
@@ -144,17 +144,17 @@
       "ID": "ClearD01",
       "SetID": "94lmepd",
       "Name": "The Magician",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearD01END",
       "SetID": "94lmepd",
       "Name": "The Devil",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearD02",
@@ -176,17 +176,17 @@
       "ID": "ClearE01",
       "SetID": "94lmepd",
       "Name": "The Fool",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearE01END",
       "SetID": "94lmepd",
       "Name": "The Sun",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearE02",
@@ -367,8 +367,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:24:44.0766654+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:08:12.7844219+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:14.2650607+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:18:15.2483326+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:24:44.0766935+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:01:41.3717532+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:08:12.7844484+00:00"
 }

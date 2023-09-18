@@ -37,7 +37,7 @@ Rating: 4.56 (Ranked 467)
 | The terminals are not enough | 1.00% | ~180 |
 | Lose Another Day | 1.00% | ~180 |
 | Chairman of Deceive Inc. | 0.90% | ~162 |
-| Chief Information Officer | 0.70% | ~126 |
+| Chief Information Officer | 0.80% | ~144 |
 | Masteries Are Forever | 0.40% | ~72 |
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1220,6 +1220,11 @@
       "Time": "2023-09-17T13:15:57.8614207+00:00",
       "NumProgressed": 517,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T03:06:08.0050163+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1229,9 +1234,9 @@
       "ID": "Annoying",
       "SetID": "70l3651",
       "Name": "He\u0027s so Annoying",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "BreakLegs",
@@ -1261,9 +1266,9 @@
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "Chapter2",
@@ -1301,9 +1306,9 @@
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 73
     },
     {
       "ID": "Chapter7",
@@ -1511,21 +1516,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:22:37.9296114+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:06:08.0050157+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:02.4007324+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:19:06.0987733+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:22:37.9296604+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:02:17.8267767+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:06:08.0050508+00:00"
 }

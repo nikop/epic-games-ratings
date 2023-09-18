@@ -7227,9 +7227,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61338,
+  "EOS_Progressed": 61339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23167,6 +23167,11 @@
       "Time": "2023-09-18T02:23:26.0165954+00:00",
       "NumProgressed": 61338,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T03:06:46.1180369+00:00",
+      "NumProgressed": 61339,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23266,7 +23271,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5520
+      "UsersEstimate": 5521
     },
     {
       "ID": "Entrepreneur",
@@ -23354,7 +23359,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5520
+      "UsersEstimate": 5521
     },
     {
       "ID": "Jack of All Trades",
@@ -23370,7 +23375,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10427
+      "UsersEstimate": 10428
     },
     {
       "ID": "Kingslayer",
@@ -23585,15 +23590,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61338,
+      "Progressed": 61339,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-17T14:04:32.9096027+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:23:26.0165949+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:06:46.1180364+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:16:21.9368369+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:23:26.0167926+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:00:03.1255956+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:06:46.1181727+00:00"
 }

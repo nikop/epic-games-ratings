@@ -9604,10 +9604,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 50439,
       "NumberOfAwardsMax": 6141
+    },
+    {
+      "Time": "2023-09-18T02:57:27.4344913+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50459,
+      "NumberOfAwardsMax": 6141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50439,
+  "NumberOfAwards": 50459,
   "NumberOfAwardsMax": 6141,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9633,7 +9639,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5791
+      "Count": 5811
     },
     {
       "Text": "This game is Educational",
@@ -9678,9 +9684,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 406967,
+  "EOS_Progressed": 406981,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7506,
+  "EOS_NewPlayers": 7508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26618,6 +26624,11 @@
       "Time": "2023-09-18T02:19:22.0300043+00:00",
       "NumProgressed": 406967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T03:03:10.6284577+00:00",
+      "NumProgressed": 406981,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27069,7 +27080,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8139
+      "UsersEstimate": 8140
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -27461,7 +27472,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8139
+      "UsersEstimate": 8140
     },
     {
       "ID": "achievement_forever_golden",
@@ -27653,7 +27664,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8139
+      "UsersEstimate": 8140
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -28629,7 +28640,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8139
+      "UsersEstimate": 8140
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -29460,21 +29471,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 406967,
+      "Progressed": 406981,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 406967,
+      "Progressed": 406981,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-18T01:39:17.2838985+00:00",
-  "LastChanged_Achievements": "2023-09-18T02:19:22.0300037+00:00",
+  "LastChanged": "2023-09-18T02:57:27.4344912+00:00",
+  "LastChanged_Achievements": "2023-09-18T03:03:10.6284572+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:13:16.1744974+00:00",
-  "LastUpdate_Achievements": "2023-09-18T02:19:22.0315146+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:57:27.4344919+00:00",
+  "LastUpdate_Achievements": "2023-09-18T03:03:10.6296351+00:00"
 }

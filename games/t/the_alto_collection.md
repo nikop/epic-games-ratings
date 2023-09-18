@@ -6,7 +6,7 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~10,298 |
+| Rookie | 27.00% | ~10,694 |
 | Finding Your Footing | 26.00% | ~10,298 |
 | Nomad | 17.00% | ~6,733 |
 | Picking Up Speed | 16.00% | ~6,337 |
