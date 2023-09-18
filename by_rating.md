@@ -66,7 +66,7 @@
 | 59 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 91 | 354 |
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 446 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 519 |
-| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,628 | 119 |
+| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,628 | 120 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,823 | 62 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 519 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 519 |
@@ -112,7 +112,7 @@
 | 102 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 469 |
 | 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 5,094 | 68 |
 | 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,114 | 50 |
-| 111 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,799 | 17 |
+| 111 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,827 | 17 |
 | 111 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 519 |
 | 111 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 39 | 429 |
 | 111 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 304 |
@@ -128,7 +128,7 @@
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 519 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,713 | 118 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 49 | 409 |
-| 118 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,620 | 120 |
+| 118 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,637 | 119 |
 | 118 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 519 |
 | 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,661 | 36 |
 | 118 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 519 |
@@ -139,7 +139,7 @@
 | 137 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 27 | 474 |
 | 137 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,979 | 59 |
 | 137 | [Diabotical](games/d/diabotical.md) | 4.75 | 279 | 247 |
-| 137 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 703 | 169 |
+| 137 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 707 | 169 |
 | 137 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 519 |
 | 137 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 606 | 187 |
 | 137 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 519 |
@@ -222,7 +222,7 @@
 | 218 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 519 |
 | 218 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 519 |
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,158 | 56 |
-| 218 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,971 | 69 |
+| 218 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,983 | 69 |
 | 218 | [House Flipper](games/h/house_flipper.md) | 4.69 | 310 | 235 |
 | 218 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 519 |
 | 218 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 519 |
@@ -230,7 +230,7 @@
 | 218 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 519 |
 | 218 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 519 |
 | 218 | [Revita](games/r/revita.md) | 4.69 | 0 | 519 |
-| 218 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,435 | 35 |
+| 218 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,438 | 35 |
 | 218 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 53 | 398 |
 | 218 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 297 | 239 |
 | 218 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.69 | 0 | 519 |
@@ -985,7 +985,7 @@
 | 982 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 519 |
 | 984 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 519 |
 | 985 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.69 | 0 | 519 |
-| 986 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 519 |
-| 987 | [Spelldrifter](games/s/spelldrifter.md) | 3.64 | 0 | 519 |
+| 985 | [Spelldrifter](games/s/spelldrifter.md) | 3.69 | 0 | 519 |
+| 987 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 519 |
 | 988 | [Adios](games/a/adios.md) | 3.63 | 0 | 519 |
 | 989 | [Redfall](games/r/redfall.md) | 3.52 | 0 | 519 |

@@ -3,14 +3,14 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.00% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.39% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.13% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.75% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.54% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.95% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -67,8 +67,8 @@
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
 | 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.42% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
-| 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.36% |
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.36% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 71 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
@@ -107,7 +107,7 @@
 | 105 | [Five Dates](games/f/five_dates.md) | 1.66% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.53% |
 | 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.50% |
-| 107 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
+| 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 110 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.47% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
@@ -118,7 +118,7 @@
 | 116 | [Chorus](games/c/chorus.md) | 1.26% |
 | 117 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 118 | [Infindustry](games/i/infindustry.md) | 1.19% |
-| 119 | [Eternights](games/e/eternights.md) | 1.17% |
+| 119 | [Eternights](games/e/eternights.md) | 1.16% |
 | 120 | [Trifox](games/t/trifox.md) | 1.09% |
 | 121 | [Adios](games/a/adios.md) | 1.04% |
 | 122 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
@@ -127,7 +127,7 @@
 | 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 124 | [Sable](games/s/sable.md) | 1.00% |
 | 127 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 128 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.96% |
+| 128 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 129 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 130 | [Hades](games/h/hades.md) | 0.90% |
 | 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
@@ -142,7 +142,7 @@
 | 140 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.65% |
 | 141 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 141 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.64% |
-| 143 | [Haven](games/h/haven.md) | 0.63% |
+| 143 | [Haven](games/h/haven.md) | 0.62% |
 | 144 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 144 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 146 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |

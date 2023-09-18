@@ -16,7 +16,7 @@
 | 14 | [Destiny 2](games/d/destiny_2.md) | 37,448 | 4.49 | 583 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 32,666 | 4.52 | 535 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,900 | 4.64 | 315 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 22,799 | 4.77 | 111 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 22,827 | 4.77 | 111 |
 | 18 | [Dauntless](games/d/dauntless.md) | 22,038 | 4.53 | 519 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,533 | 4.57 | 449 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,515 | 4.26 | 831 |
@@ -34,7 +34,7 @@
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,757 | 4.39 | 723 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 11,556 | 4.88 | 18 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,535 | 4.45 | 641 |
-| 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,435 | 4.69 | 218 |
+| 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,438 | 4.69 | 218 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,661 | 4.76 | 118 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,080 | 4.78 | 102 |
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,060 | 4.61 | 370 |
@@ -68,7 +68,7 @@
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,411 | 4.32 | 784 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,285 | 4.06 | 933 |
 | 68 | [Bloons TD 6](games/b/bloons_td_6.md) | 5,094 | 4.77 | 111 |
-| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,971 | 4.69 | 218 |
+| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,983 | 4.69 | 218 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 467 |
 | 70 | [Shop Titans](games/s/shop_titans.md) | 4,748 | 3.99 | 949 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,634 | 4.60 | 395 |
@@ -118,8 +118,8 @@
 | 116 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,778 | 4.57 | 449 |
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,737 | 4.50 | 567 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,713 | 4.76 | 118 |
-| 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,628 | 4.82 | 66 |
-| 120 | [Remnant 2](games/r/remnant_2.md) | 1,620 | 4.76 | 118 |
+| 119 | [Remnant 2](games/r/remnant_2.md) | 1,637 | 4.76 | 118 |
+| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,628 | 4.82 | 66 |
 | 121 | [Celeste](games/c/celeste.md) | 1,610 | 4.92 | 4 |
 | 122 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,509 | 4.79 | 90 |
 | 123 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,497 | 4.78 | 102 |
@@ -168,7 +168,7 @@
 | 166 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 723 | 4.87 | 25 |
 | 167 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 712 | 4.59 | 417 |
 | 168 | [Football Manager 2023](games/f/football_manager_2023.md) | 711 | 4.76 | 118 |
-| 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 703 | 4.75 | 137 |
+| 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 707 | 4.75 | 137 |
 | 170 | [Subnautica](games/s/subnautica.md) | 697 | 4.85 | 42 |
 | 171 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 691 | 4.74 | 146 |
 | 172 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 689 | 4.61 | 370 |
