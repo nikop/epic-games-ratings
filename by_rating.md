@@ -250,7 +250,7 @@
 | 243 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,400 | 48 |
 | 243 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,946 | 81 |
 | 243 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 482 |
-| 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,177 | 79 |
+| 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,216 | 79 |
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 305,982 | 3 |
 | 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 227,863 | 4 |
 | 243 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 519 |
