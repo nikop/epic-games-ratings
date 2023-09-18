@@ -1354,8 +1354,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 449 | 39 | 429 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Judas](games/j/judas_1.md) | - | - | - | - |
+| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 349 | 577 | 190 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 145 | 691 | 171 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 814 | 3,763 | 84 |
@@ -1888,7 +1888,7 @@
 | [Paradigm](games/p/paradigm.md) | 4.48 | 603 | 0 | 519 |
 | [Paradise Killer](games/p/paradise_killer.md) | - | - | 0 | - |
 | [Paradise Lost](games/p/paradise_lost.md) | - | - | 0 | - |
-| [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 850 | 618 | 183 |
+| [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 850 | 623 | 183 |
 | [Paramnesia](games/p/paramnesia.md) | - | - | - | - |
 | [Paranoia Happiness is Mandatory](games/p/paranoia_happiness_is_mandatory.md) | - | - | - | - |
 | [Paranormal Mission](games/0/03da83c059e94d01a5be784017ea0f4d.md) | - | - | - | - |
@@ -2261,8 +2261,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 188 | 0 | 519 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 680 | 273 | 249 |
@@ -2274,7 +2274,7 @@
 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | - | - | 0 | - |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | - | - | 0 | - |
 | [Ship Simulator Realistic](games/s/ship_simulator_realistic.md) | - | - | - | - |
-| [Shop Titans](games/s/shop_titans.md) | 3.99 | 948 | 4,746 | 71 |
+| [Shop Titans](games/s/shop_titans.md) | 3.99 | 948 | 4,748 | 70 |
 | [Shop Tycoon - Prepare Your Wallet](games/a/a558895729e74ef28bc57bdab3cd63f1.md) | - | - | 0 | - |
 | [Shotgun Farmers](games/s/shotgun_farmers.md) | - | - | 0 | - |
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 741 | 0 | 519 |

@@ -70,7 +70,7 @@
 | 68 | [Bloons TD 6](games/b/bloons_td_6.md) | 5,056 | 4.77 | 110 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,971 | 4.69 | 217 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 467 |
-| 71 | [Shop Titans](games/s/shop_titans.md) | 4,746 | 3.99 | 948 |
+| 70 | [Shop Titans](games/s/shop_titans.md) | 4,748 | 3.99 | 948 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,634 | 4.60 | 395 |
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,576 | 4.70 | 202 |
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,543 | 4.70 | 202 |
@@ -182,7 +182,7 @@
 | 180 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 635 | 4.50 | 565 |
 | 181 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 627 | 4.67 | 259 |
 | 181 | [Train Valley 2](games/t/train_valley_2.md) | 627 | 4.43 | 664 |
-| 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 618 | 4.23 | 850 |
+| 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 623 | 4.23 | 850 |
 | 184 | [Dark Deity](games/d/dark_deity.md) | 616 | 4.16 | 893 |
 | 185 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 611 | 4.63 | 331 |
 | 186 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 608 | 4.73 | 161 |

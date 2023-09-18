@@ -10,14 +10,14 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.66% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.44% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.95% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 16 | [Island Cities](games/i/island_cities.md) | 15.71% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
-| 18 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 14.71% |
+| 18 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 14.29% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 12.50% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.28% |
@@ -65,11 +65,11 @@
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.78% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
-| 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.36% |
-| 66 | [Doodle God](games/d/doodle_god.md) | 3.36% |
-| 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
-| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.26% |
+| 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.43% |
+| 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
+| 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.36% |
+| 67 | [Doodle God](games/d/doodle_god.md) | 3.36% |
+| 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 71 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
@@ -77,7 +77,7 @@
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
-| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.81% |
+| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.80% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -96,7 +96,7 @@
 | 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
 | 96 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
-| 97 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
+| 97 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.89% |
 | 99 | [Night Book](games/n/night_book.md) | 1.86% |
 | 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -117,7 +117,7 @@
 | 115 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
 | 116 | [Chorus](games/c/chorus.md) | 1.26% |
 | 117 | [Late Shift](games/l/late_shift.md) | 1.23% |
-| 118 | [Eternights](games/e/eternights.md) | 1.21% |
+| 118 | [Eternights](games/e/eternights.md) | 1.20% |
 | 119 | [Infindustry](games/i/infindustry.md) | 1.19% |
 | 120 | [Trifox](games/t/trifox.md) | 1.10% |
 | 121 | [Adios](games/a/adios.md) | 1.03% |

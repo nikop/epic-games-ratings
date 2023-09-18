@@ -852,7 +852,7 @@
 | 850 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 519 |
 | 850 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
 | 850 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 519 |
-| 850 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 618 | 183 |
+| 850 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 623 | 183 |
 | 850 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 519 |
 | 850 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 212 | 271 |
 | 856 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 284 |
@@ -950,7 +950,7 @@
 | 948 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 224 |
 | 948 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.99 | 0 | 519 |
 | 948 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.99 | 0 | 519 |
-| 948 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,746 | 71 |
+| 948 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,748 | 70 |
 | 952 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 519 |
 | 952 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 519 |
 | 952 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,617 | 86 |
