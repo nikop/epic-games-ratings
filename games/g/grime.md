@@ -6,27 +6,27 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~131,608 |
-| Taste | 84.00% | ~125,625 |
-| The Hunt | 66.00% | ~98,706 |
-| Ravenous | 63.00% | ~94,219 |
-| Weeper | 44.00% | ~65,804 |
-| Devourer | 23.00% | ~34,397 |
-| Harmless | 19.00% | ~28,415 |
-| Silenced Whispers | 19.00% | ~28,415 |
-| Sharpened Vessel | 16.00% | ~23,929 |
-| Yank | 15.00% | ~22,433 |
-| Scion | 12.00% | ~17,896 |
-| Jawcrab | 12.00% | ~17,946 |
-| Jawstag | 12.00% | ~17,946 |
-| Feast | 12.00% | ~17,946 |
-| Watcher | 10.00% | ~14,955 |
+| Imprint | 88.00% | ~131,614 |
+| Taste | 84.00% | ~125,631 |
+| The Hunt | 66.00% | ~98,710 |
+| Ravenous | 63.00% | ~94,223 |
+| Weeper | 44.00% | ~65,807 |
+| Devourer | 23.00% | ~34,399 |
+| Harmless | 19.00% | ~28,417 |
+| Silenced Whispers | 19.00% | ~28,417 |
+| Sharpened Vessel | 16.00% | ~23,930 |
+| Yank | 15.00% | ~22,434 |
+| Scion | 12.00% | ~17,897 |
+| Jawcrab | 12.00% | ~17,947 |
+| Jawstag | 12.00% | ~17,947 |
+| Feast | 12.00% | ~17,947 |
+| Watcher | 10.00% | ~14,956 |
 | Shapely | 9.00% | ~13,460 |
-| Glare | 9.00% | ~13,422 |
-| Predator | 8.00% | ~11,964 |
+| Glare | 9.00% | ~13,423 |
+| Predator | 8.00% | ~11,965 |
 | Assimilation | 7.00% | ~10,469 |
 | Host | 7.00% | ~10,440 |
-| Celebration | 6.00% | ~8,973 |
+| Celebration | 6.00% | ~8,974 |
 | Hunt Down | 5.00% | ~7,478 |
 | Artisan | 5.00% | ~7,478 |
 | Hush | 5.00% | ~7,478 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~1,196 |
 | Spiral Heart | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,554 (Ranked 67)  
+Progressed: 149,561 (Ranked 67)  
 Completed: 1 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.00%) (Ranked 277)
 | 2023-09-15 | 148,840 | 1 |
 | 2023-09-16 | 149,163 | 1 |
 | 2023-09-17 | 149,492 | 1 |
-| 2023-09-18 | 149,554 | 1 |
+| 2023-09-18 | 149,561 | 1 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 451)  
 Sum: 226 (Ranked 364)  

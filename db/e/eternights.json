@@ -548,9 +548,9 @@
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -620,9 +620,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -683,8 +683,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-18T05:05:09.3550059+00:00",
+  "LastChanged_Achievements": "2023-09-18T06:04:44.393789+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-18T04:59:10.1114809+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:05:09.355029+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:58:49.820347+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:04:44.3938114+00:00"
 }

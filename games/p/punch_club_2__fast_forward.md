@@ -9,7 +9,7 @@
 | Your first fight | 86.00% | ~279 |
 | First winning | 85.00% | ~275 |
 | Your first job | 84.00% | ~272 |
-| Old movies enjoyer | 80.00% | ~259 |
+| Old movies enjoyer | 81.00% | ~262 |
 | Depressed visitor | 79.00% | ~256 |
 | Fitness professional | 78.00% | ~253 |
 | Neurotrainer – power gainer! | 77.00% | ~249 |

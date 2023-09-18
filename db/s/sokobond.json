@@ -4,8 +4,8 @@
   "ProductSlug": "sokobond",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
     "PcReleaseDate": "2013-08-27T16:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.7001519+00:00",
   "LastChanged": "2023-03-31T05:57:47.700152+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:59.8743383+00:00",
-  "LastUpdate_Ratings": "2023-09-18T04:59:00.4593072+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:05:31.591409+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:58:40.655342+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:05:02.710312+00:00"
 }

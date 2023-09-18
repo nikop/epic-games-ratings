@@ -3,12 +3,12 @@
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
   "Ranking_Rating": 369,
-  "Ranking_Popularity": 245,
+  "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2539,11 +2539,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 1954,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-09-18T05:58:52.0614432+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1956,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1954,
-  "NumberOfAwardsMax": 282,
+  "NumberOfAwards": 1956,
+  "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
@@ -2562,7 +2568,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 282
+      "Count": 283
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2574,7 +2580,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 239
+      "Count": 240
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2607,9 +2613,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533451,
+  "EOS_Progressed": 533452,
   "EOS_Completed": 1551,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19022,6 +19028,11 @@
       "Time": "2023-09-18T04:06:19.4858684+00:00",
       "NumProgressed": 533451,
       "NumCompleted": 1551
+    },
+    {
+      "Time": "2023-09-18T06:06:28.6017821+00:00",
+      "NumProgressed": 533452,
+      "NumCompleted": 1551
     }
   ],
   "TotalAchievements": 37,
@@ -19089,7 +19100,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 442764
+      "UsersEstimate": 442765
     },
     {
       "ID": "HONED",
@@ -19145,7 +19156,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213380
+      "UsersEstimate": 213381
     },
     {
       "ID": "THE_CASTLE",
@@ -19328,15 +19339,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533451,
+      "Progressed": 533452,
       "Completed": 1551
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-09-16T11:00:15.0049946+00:00",
-  "LastChanged_Achievements": "2023-09-18T05:07:15.3482088+00:00",
+  "LastChanged": "2023-09-18T05:58:52.061443+00:00",
+  "LastChanged_Achievements": "2023-09-18T06:06:28.6017813+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.1616875+00:00",
-  "LastUpdate_Ratings": "2023-09-18T04:59:13.3036685+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:07:15.3483386+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:58:52.0614442+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:06:28.601914+00:00"
 }

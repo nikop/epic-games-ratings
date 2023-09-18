@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1381,
+  "EOS_Progressed": 1382,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2605,6 +2605,11 @@
       "Time": "2023-09-18T04:06:56.5536246+00:00",
       "NumProgressed": 1381,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T06:07:06.5835855+00:00",
+      "NumProgressed": 1382,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2616,7 +2621,7 @@
       "Name": "Agent 47",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "Auditor",
@@ -2648,7 +2653,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Commandos",
@@ -2696,7 +2701,7 @@
       "Name": "E1M1",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "Everyone_is_here",
@@ -2744,7 +2749,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "High_noon",
@@ -2768,7 +2773,7 @@
       "Name": "Spice It Up",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "KillAllM2",
@@ -2800,7 +2805,7 @@
       "Name": "Bomberman",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "MoskitoBite",
@@ -2855,15 +2860,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1381,
+      "Progressed": 1382,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-18T05:08:01.2403788+00:00",
+  "LastChanged_Achievements": "2023-09-18T06:07:06.5835842+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-18T04:59:32.8881598+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:08:01.2404125+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:59:06.5753413+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:07:06.583625+00:00"
 }

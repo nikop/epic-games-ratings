@@ -12,18 +12,18 @@
 | Purr-fect | 33.00% | ~40 |
 | Capacitors | 33.00% | ~40 |
 | Mug | 30.00% | ~37 |
-| Soldering iron | 28.00% | ~34 |
+| Soldering iron | 29.00% | ~35 |
 | Robot Bros | 25.00% | ~30 |
-| Act 2 | 24.00% | ~29 |
+| Act 2 | 25.00% | ~30 |
 | Harpoon | 21.00% | ~26 |
 | Act 3 | 21.00% | ~26 |
 | Cassette | 20.00% | ~24 |
 | Here we go again | 20.00% | ~24 |
-| Flyer | 17.00% | ~21 |
+| Flyer | 18.00% | ~22 |
+| Dr. Antivirus | 16.00% | ~20 |
 | It’s in the Vault | 15.00% | ~18 |
-| Dr. Antivirus | 15.00% | ~18 |
+| Access protocol | 15.00% | ~18 |
 | Photo | 14.00% | ~17 |
-| Access protocol | 14.00% | ~17 |
 | Time Capsule | 13.00% | ~16 |
 | Ticket | 13.00% | ~16 |
 | Baseball | 10.00% | ~12 |

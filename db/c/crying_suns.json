@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467544,
+  "EOS_Progressed": 467545,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16409,6 +16409,11 @@
       "Time": "2023-09-18T05:03:12.5134199+00:00",
       "NumProgressed": 467544,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-18T06:03:15.6922967+00:00",
+      "NumProgressed": 467545,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16508,7 +16513,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308579
+      "UsersEstimate": 308580
     },
     {
       "ID": "achievement_story_landa",
@@ -16844,7 +16849,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205719
+      "UsersEstimate": 205720
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -16852,7 +16857,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140263
+      "UsersEstimate": 140264
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -16876,7 +16881,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182342
+      "UsersEstimate": 182343
     },
     {
       "ID": "achievement_win_run_hard",
@@ -17051,21 +17056,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11478,
+      "Progressed": 11479,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467544,
+      "Progressed": 467545,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-18T05:03:12.5134183+00:00",
+  "LastChanged_Achievements": "2023-09-18T06:03:15.6922958+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:49.9396656+00:00",
-  "LastUpdate_Ratings": "2023-09-18T04:58:48.7291997+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:03:12.5137419+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:58:28.8771003+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:03:15.692494+00:00"
 }

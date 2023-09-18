@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7227,9 +7227,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61343,
+  "EOS_Progressed": 61344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23182,6 +23182,11 @@
       "Time": "2023-09-18T05:07:30.3651075+00:00",
       "NumProgressed": 61343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T06:06:40.8390464+00:00",
+      "NumProgressed": 61344,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23201,7 +23206,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9201
+      "UsersEstimate": 9202
     },
     {
       "ID": "Bannerlord",
@@ -23233,7 +23238,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "Catch",
@@ -23417,7 +23422,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20243
+      "UsersEstimate": 20244
     },
     {
       "ID": "Lawbringer",
@@ -23600,15 +23605,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61343,
+      "Progressed": 61344,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-17T14:04:32.9096027+00:00",
-  "LastChanged_Achievements": "2023-09-18T05:07:30.3651069+00:00",
+  "LastChanged_Achievements": "2023-09-18T06:06:40.8390451+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:00:06.1325952+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:07:30.3652534+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:59:34.6515836+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:06:40.8391726+00:00"
 }

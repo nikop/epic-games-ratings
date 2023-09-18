@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~458 |
 | Wet Feet | 0.20% | ~458 |
 | Hatchlings Underfoot | 0.20% | ~458 |
+| Don't Look Up! | 0.20% | ~458 |
 | Supply Run | 0.20% | ~458 |
 | Vecna Lives! | 0.20% | ~391 |
 | Vecna Loots! | 0.20% | ~391 |
@@ -147,7 +148,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Levelheaded | 0.10% | ~196 |
 | The Madness of Zuggtmoy | 0.10% | ~196 |
 | It's So Pretty… | 0.10% | ~196 |
-| Don't Look Up! | 0.10% | ~229 |
 | The Cult of Lolth | 0.10% | ~196 |
 | Head over Heals | 0.10% | ~196 |
 | The Demon Lords of the Abyss | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,242 (Ranked 57)  
+Progressed: 229,244 (Ranked 57)  
 Completed: 2,292 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,292 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,242 | 2,292 |
+| 2023-09-18 | 229,244 | 2,292 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

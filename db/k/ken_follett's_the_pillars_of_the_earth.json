@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15257,
+  "EOS_Progressed": 15258,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -10357,6 +10357,11 @@
       "Time": "2023-09-18T05:07:41.1318746+00:00",
       "NumProgressed": 15257,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-18T06:06:49.8026419+00:00",
+      "NumProgressed": 15258,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10480,7 +10485,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3052
     },
     {
       "ID": "tpote_achievement_23",
@@ -10512,7 +10517,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "tpote_achievement_27",
@@ -10544,7 +10549,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4882
+      "UsersEstimate": 4883
     },
     {
       "ID": "tpote_achievement_30",
@@ -10632,7 +10637,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "tpote_achievement_40",
@@ -10695,15 +10700,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15257,
+      "Progressed": 15258,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-18T05:07:41.1318742+00:00",
+  "LastChanged_Achievements": "2023-09-18T06:06:49.8026415+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:00:22.1843134+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:07:41.1319567+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:59:47.2220233+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:06:49.8027382+00:00"
 }

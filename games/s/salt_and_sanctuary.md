@@ -6,9 +6,9 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~442,764 |
+| Find Sanctuary | 83.00% | ~442,765 |
 | The Three | 64.00% | ~341,409 |
-| The Banquet | 40.00% | ~213,380 |
+| The Banquet | 40.00% | ~213,381 |
 | Devara's Light | 31.00% | ~165,370 |
 | The Iron Ones | 18.00% | ~96,021 |
 | The Village | 16.00% | ~85,352 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,669 |
 | Fading Fast | 1.00% | ~5,335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,451 (Ranked 31)  
+Progressed: 533,452 (Ranked 31)  
 Completed: 1,551 (0.29%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,17 +195,17 @@ Completed: 1,551 (0.29%) (Ranked 183)
 | 2023-09-15 | 533,258 | 1,546 |
 | 2023-09-16 | 533,349 | 1,549 |
 | 2023-09-17 | 533,441 | 1,551 |
-| 2023-09-18 | 533,451 | 1,551 |
+| 2023-09-18 | 533,452 | 1,551 |
 ## Awards
-Max (Challenging Combat): 282  (Ranked 245)  
-Sum: 1,954 (Ranked 204)  
-Diff (max vs sum): 41  
+Max (Challenging Combat): 283  (Ranked 244)  
+Sum: 1,956 (Ranked 204)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 282 |
+| This game has Challenging Combat | 283 |
 | This game has Quickly Understood Controls | 259 |
 | This game is Highly Recommended | 257 |
-| This game has Diverse Characters | 239 |
+| This game has Diverse Characters | 240 |
 | This game is Extremely Fun | 239 |
 | This game has Amazing Storytelling | 231 |
 | This game has Amazing Characters | 226 |
@@ -375,3 +375,4 @@ Diff (max vs sum): 41
 | 2023-09-14 | 4.61 | - | 282 | 1,952 |
 | 2023-09-15 | 4.61 | - | 282 | 1,953 |
 | 2023-09-16 | 4.61 | - | 282 | 1,954 |
+| 2023-09-18 | 4.61 | - | 283 | 1,956 |

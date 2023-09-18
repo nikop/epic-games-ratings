@@ -7770,9 +7770,9 @@
       "Count": 657
     }
   ],
-  "EOS_Progressed": 296876,
+  "EOS_Progressed": 296880,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24105,6 +24105,11 @@
       "Time": "2023-09-18T05:05:01.6260305+00:00",
       "NumProgressed": 296876,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-18T06:04:38.0738101+00:00",
+      "NumProgressed": 296880,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24164,7 +24169,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20781
+      "UsersEstimate": 20782
     },
     {
       "ID": "PFA_16",
@@ -24180,7 +24185,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20781
+      "UsersEstimate": 20782
     },
     {
       "ID": "PFA_18",
@@ -24196,7 +24201,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20781
+      "UsersEstimate": 20782
     },
     {
       "ID": "PFA_2",
@@ -24236,7 +24241,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35625
+      "UsersEstimate": 35626
     },
     {
       "ID": "PFA_24",
@@ -24300,7 +24305,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32656
+      "UsersEstimate": 32657
     },
     {
       "ID": "PFA_31",
@@ -24460,7 +24465,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32656
+      "UsersEstimate": 32657
     },
     {
       "ID": "PFA_9",
@@ -24475,7 +24480,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296876,
+      "Progressed": 296880,
       "Completed": 474
     }
   ],
@@ -24483,8 +24488,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-18T04:57:14.2981066+00:00",
-  "LastChanged_Achievements": "2023-09-18T05:05:01.6260295+00:00",
+  "LastChanged_Achievements": "2023-09-18T06:04:38.0738095+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-18T04:57:14.2981072+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:05:01.6261735+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:57:18.4234097+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:04:38.0739507+00:00"
 }

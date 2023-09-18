@@ -4,8 +4,8 @@
   "ProductSlug": "illusion-08a48b",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-14T15:00:00+00:00",
     "PcReleaseDate": "2022-07-29T15:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.6840936+00:00",
-  "LastUpdate_Ratings": "2023-09-18T04:58:04.7762176+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:07:21.8459281+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:57:56.4345214+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:06:33.8286533+00:00"
 }

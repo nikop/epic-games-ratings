@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 5.00% | ~44,314 |
-| It wakes | 5.00% | ~44,314 |
-| Skillful | 5.00% | ~44,314 |
-| Not half bad | 4.00% | ~35,451 |
-| Apt Survivor | 4.00% | ~35,451 |
-| Survival Treasures | 4.00% | ~35,451 |
-| Make Some Noise | 4.00% | ~35,451 |
-| The Grand Sacrifice | 3.00% | ~26,588 |
-| No one left behind | 3.00% | ~26,588 |
-| Medic | 3.00% | ~26,588 |
-| Handyman | 3.00% | ~26,588 |
-| Nerves of steel | 3.00% | ~26,588 |
-| Bloody Millionaire | 3.00% | ~26,588 |
-| I | 3.00% | ~26,588 |
-| Sorted | 3.00% | ~26,588 |
-| Healthy Obsession | 3.00% | ~26,588 |
-| Resurgence | 3.00% | ~26,588 |
-| Preemptive Strike | 3.00% | ~26,588 |
+| Zealous | 5.00% | ~44,316 |
+| It wakes | 5.00% | ~44,316 |
+| Skillful | 5.00% | ~44,316 |
+| Not half bad | 4.00% | ~35,453 |
+| Apt Survivor | 4.00% | ~35,453 |
+| Survival Treasures | 4.00% | ~35,453 |
+| Make Some Noise | 4.00% | ~35,453 |
+| The Grand Sacrifice | 3.00% | ~26,589 |
+| No one left behind | 3.00% | ~26,589 |
+| Medic | 3.00% | ~26,589 |
+| Handyman | 3.00% | ~26,589 |
+| Nerves of steel | 3.00% | ~26,589 |
+| Bloody Millionaire | 3.00% | ~26,589 |
+| I | 3.00% | ~26,589 |
+| Sorted | 3.00% | ~26,589 |
+| Healthy Obsession | 3.00% | ~26,589 |
+| Resurgence | 3.00% | ~26,589 |
+| Preemptive Strike | 3.00% | ~26,589 |
 | Agonizing Escape | 2.00% | ~17,726 |
 | Backdoor Escape | 2.00% | ~17,726 |
 | I've got your back | 2.00% | ~17,726 |
@@ -68,18 +68,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~8,863 |
 | One More Step | 1.00% | ~8,863 |
 | Terror of LV-426 | 1.00% | ~8,863 |
-| Cottage Owner | 0.90% | ~7,976 |
-| Campbell's Chapel Legacy | 0.90% | ~7,976 |
-| Ancestor's Rite | 0.90% | ~7,976 |
-| Grim Pilgrimage | 0.90% | ~7,976 |
-| A bite for the Entity | 0.80% | ~7,090 |
-| Blood on your face | 0.80% | ~7,090 |
-| Hemophobia | 0.80% | ~7,090 |
-| Leapfrog | 0.80% | ~7,090 |
-| Serial Killer | 0.80% | ~7,090 |
-| Escaping the Nightmare | 0.80% | ~7,090 |
-| Complete the Evolution | 0.80% | ~7,090 |
-| Extraterrestrial | 0.80% | ~7,090 |
+| Cottage Owner | 0.90% | ~7,977 |
+| Campbell's Chapel Legacy | 0.90% | ~7,977 |
+| Ancestor's Rite | 0.90% | ~7,977 |
+| Grim Pilgrimage | 0.90% | ~7,977 |
+| A bite for the Entity | 0.80% | ~7,091 |
+| Blood on your face | 0.80% | ~7,091 |
+| Hemophobia | 0.80% | ~7,091 |
+| Leapfrog | 0.80% | ~7,091 |
+| Serial Killer | 0.80% | ~7,091 |
+| Escaping the Nightmare | 0.80% | ~7,091 |
+| Complete the Evolution | 0.80% | ~7,091 |
+| Extraterrestrial | 0.80% | ~7,091 |
 | Jump Scares | 0.70% | ~6,204 |
 | Game Over | 0.70% | ~6,204 |
 | Devoted Gatekeeping | 0.70% | ~6,204 |
@@ -95,14 +95,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.60% | ~5,318 |
 | Insult and Injury | 0.60% | ~5,318 |
 | Kitted Out | 0.60% | ~5,318 |
-| Whiffing to Success | 0.50% | ~4,431 |
-| Heavy Burden | 0.50% | ~4,431 |
-| I See You | 0.50% | ~4,431 |
-| Punch Drunk | 0.50% | ~4,431 |
-| Prowler | 0.50% | ~4,431 |
-| Triage | 0.50% | ~4,431 |
-| High Speed Pursuit | 0.50% | ~4,431 |
-| Hack the Mainframe | 0.50% | ~4,431 |
+| Whiffing to Success | 0.50% | ~4,432 |
+| Heavy Burden | 0.50% | ~4,432 |
+| I See You | 0.50% | ~4,432 |
+| Punch Drunk | 0.50% | ~4,432 |
+| Prowler | 0.50% | ~4,432 |
+| Triage | 0.50% | ~4,432 |
+| High Speed Pursuit | 0.50% | ~4,432 |
+| Hack the Mainframe | 0.50% | ~4,432 |
 | Blood in your mouth | 0.40% | ~3,545 |
 | Looter | 0.40% | ~3,545 |
 | Power Moves | 0.40% | ~3,545 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~886 |
 | Adept Ripley | 0.10% | ~886 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,276 (Ranked 14)  
+Progressed: 886,316 (Ranked 14)  
 Completed: 48 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 48 (0.01%) (Ranked 263)
 | 2023-09-15 | 880,131 | 48 |
 | 2023-09-16 | 882,949 | 48 |
 | 2023-09-17 | 885,845 | 48 |
-| 2023-09-18 | 886,276 | 48 |
+| 2023-09-18 | 886,316 | 48 |
 ## Awards
 Max (Diverse Characters): 32,632  (Ranked 15)  
 Sum: 254,613 (Ranked 11)  

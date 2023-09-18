@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -262,9 +262,9 @@
       "ID": "10_Flyer",
       "SetID": "681m9fa",
       "Name": "Flyer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "11_Itsinthevault",
@@ -286,9 +286,9 @@
       "ID": "13_DrAntivirus",
       "SetID": "681m9fa",
       "Name": "Dr. Antivirus",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "14_VhsBlogger",
@@ -326,9 +326,9 @@
       "ID": "18_SolderingIron",
       "SetID": "681m9fa",
       "Name": "Soldering iron",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "19_Harpoon",
@@ -342,9 +342,9 @@
       "ID": "20_AccessProtocol",
       "SetID": "681m9fa",
       "Name": "Access protocol",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "21_RobotBros",
@@ -406,9 +406,9 @@
       "ID": "28_Act2",
       "SetID": "681m9fa",
       "Name": "Act 2",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 70,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "29_Act3",
@@ -431,8 +431,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-18T05:07:42.8867565+00:00",
+  "LastChanged_Achievements": "2023-09-18T06:06:51.2720073+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.5450266+00:00",
-  "LastUpdate_Ratings": "2023-09-18T04:58:02.6116551+00:00",
-  "LastUpdate_Achievements": "2023-09-18T05:07:42.8867811+00:00"
+  "LastUpdate_Ratings": "2023-09-18T05:57:54.6690186+00:00",
+  "LastUpdate_Achievements": "2023-09-18T06:06:51.2720305+00:00"
 }

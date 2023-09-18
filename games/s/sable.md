@@ -6,29 +6,29 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~30,600 |
-| Just The Two of Us | 32.00% | ~28,800 |
-| Up On High | 25.00% | ~22,500 |
-| Under The Hood | 25.00% | ~22,500 |
-| Got Your Nose | 24.00% | ~21,600 |
-| The Gift of Gab | 24.00% | ~21,600 |
-| Wrapping Up | 22.00% | ~19,800 |
-| More Than A Box Of Sand | 18.00% | ~16,200 |
-| The Dunboyne | 17.00% | ~15,300 |
-| Badge Hobbyist | 17.00% | ~15,300 |
-| Chum Novice | 16.00% | ~14,400 |
-| Silver-Tongued Sable | 16.00% | ~14,400 |
-| Sticky Paws | 16.00% | ~14,400 |
-| Bubble Up | 16.00% | ~14,400 |
-| Thread The Needle | 15.00% | ~13,500 |
-| Power to the People | 14.00% | ~12,600 |
-| Take That! | 13.00% | ~11,700 |
-| Nesting Giant | 13.00% | ~11,700 |
-| Treasure Tracker | 13.00% | ~11,700 |
-| Big Spender | 13.00% | ~11,700 |
-| Badge Collector | 12.00% | ~10,800 |
-| Quite The Catch | 12.00% | ~10,800 |
-| Rowleys Way | 11.00% | ~9,900 |
+| Simoon | 34.00% | ~30,602 |
+| Just The Two of Us | 32.00% | ~28,802 |
+| Up On High | 25.00% | ~22,501 |
+| Under The Hood | 25.00% | ~22,501 |
+| Got Your Nose | 24.00% | ~21,601 |
+| The Gift of Gab | 24.00% | ~21,601 |
+| Wrapping Up | 22.00% | ~19,801 |
+| More Than A Box Of Sand | 18.00% | ~16,201 |
+| The Dunboyne | 17.00% | ~15,301 |
+| Badge Hobbyist | 17.00% | ~15,301 |
+| Chum Novice | 16.00% | ~14,401 |
+| Silver-Tongued Sable | 16.00% | ~14,401 |
+| Sticky Paws | 16.00% | ~14,401 |
+| Bubble Up | 16.00% | ~14,401 |
+| Thread The Needle | 15.00% | ~13,501 |
+| Power to the People | 14.00% | ~12,601 |
+| Take That! | 13.00% | ~11,701 |
+| Nesting Giant | 13.00% | ~11,701 |
+| Treasure Tracker | 13.00% | ~11,701 |
+| Big Spender | 13.00% | ~11,701 |
+| Badge Collector | 12.00% | ~10,801 |
+| Quite The Catch | 12.00% | ~10,801 |
+| Rowleys Way | 11.00% | ~9,901 |
 | The Machinist Mask | 10.00% | ~9,000 |
 | The Cartographer Mask | 10.00% | ~9,000 |
 | Balfron Connection | 10.00% | ~9,000 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,700 |
 | Vivacious Vivarium | 2.00% | ~1,800 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,001 (Ranked 76)  
+Progressed: 90,005 (Ranked 76)  
 Completed: 900 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 900 (1.00%) (Ranked 124)
 | 2023-09-15 | 89,464 | 892 |
 | 2023-09-16 | 89,702 | 895 |
 | 2023-09-17 | 89,959 | 900 |
-| 2023-09-18 | 90,001 | 900 |
+| 2023-09-18 | 90,005 | 900 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 490)  
 Sum: 86 (Ranked 426)  
