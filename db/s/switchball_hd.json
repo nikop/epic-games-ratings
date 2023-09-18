@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -546,6 +546,11 @@
       "Time": "2023-09-17T11:07:21.0981826+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T17:04:41.5738874+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -565,7 +570,7 @@
       "Name": "Marbleball Badge",
       "Percentage": 74,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
@@ -603,9 +608,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -619,23 +624,23 @@
       "ID": "ACHIEVEMENT_SPYGLASS_ID",
       "SetID": "2h9pc72",
       "Name": "Spyglass",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-09-18T16:04:31.0998513+00:00",
+  "LastChanged_Achievements": "2023-09-18T17:04:41.5738868+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:21.5174128+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:57:49.5314965+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:04:31.0998721+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:57:59.8986535+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:04:41.573908+00:00"
 }

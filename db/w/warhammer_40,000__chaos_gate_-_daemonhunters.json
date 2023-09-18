@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 432,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 371,
   "RatingHistory": [
     {
@@ -652,6 +652,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 474,
       "NumberOfAwardsMax": 220
+    },
+    {
+      "Time": "2023-09-18T16:58:55.1300208+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 474,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
@@ -720,9 +726,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3209,
+  "EOS_Progressed": 3210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3385,6 +3391,11 @@
       "Time": "2023-09-18T15:06:03.0527854+00:00",
       "NumProgressed": 3209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T17:06:28.8857934+00:00",
+      "NumProgressed": 3210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3402,9 +3413,9 @@
       "ID": "AugmeticKnight",
       "SetID": "3jha1np",
       "Name": "The Flesh is Weak",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "AutoDisrupted",
@@ -3939,21 +3950,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3209,
+      "Progressed": 3210,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3209,
+      "Progressed": 3210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-18T16:06:39.1823892+00:00",
+  "LastChanged": "2023-09-18T16:58:55.1300205+00:00",
+  "LastChanged_Achievements": "2023-09-18T17:06:28.8857929+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:58:52.1747102+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:06:39.1824783+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:58:55.1300213+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:06:28.8859151+00:00"
 }

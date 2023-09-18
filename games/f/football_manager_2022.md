@@ -9,27 +9,27 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~236,674 |
 | He's Signed! | 50.00% | ~236,674 |
 | First Victory | 50.00% | ~236,674 |
-| He's Sold! | 48.00% | ~227,207 |
-| I'm The Boss! | 42.00% | ~198,806 |
+| He's Sold! | 48.00% | ~227,208 |
+| I'm The Boss! | 42.00% | ~198,807 |
 | Hat-trick | 41.00% | ~194,073 |
-| Scoring Streak | 38.00% | ~179,872 |
+| Scoring Streak | 38.00% | ~179,873 |
 | Unbeatable! | 37.00% | ~175,139 |
 | Thumping | 37.00% | ~175,139 |
 | Superb Dressing Room Atmosphere | 35.00% | ~165,672 |
-| Total Support | 32.00% | ~151,471 |
-| Record Signing | 32.00% | ~151,471 |
+| Total Support | 32.00% | ~151,472 |
+| Record Signing | 32.00% | ~151,472 |
 | He's a Natural | 31.00% | ~146,738 |
 | Millionaire's Club | 31.00% | ~146,738 |
-| Team Performance | 30.00% | ~142,004 |
+| Team Performance | 30.00% | ~142,005 |
 | Parked The Bus | 29.00% | ~137,271 |
 | Shrewd Spender | 29.00% | ~137,271 |
 | Star Man | 29.00% | ~137,271 |
-| Attack! | 28.00% | ~132,537 |
+| Attack! | 28.00% | ~132,538 |
 | Tremendous Trio | 27.00% | ~127,804 |
-| You're On Fire | 26.00% | ~123,070 |
-| On A Roll | 26.00% | ~123,070 |
-| Unstoppable Force | 26.00% | ~123,070 |
-| Record Sale | 26.00% | ~123,070 |
+| You're On Fire | 26.00% | ~123,071 |
+| On A Roll | 26.00% | ~123,071 |
+| Unstoppable Force | 26.00% | ~123,071 |
+| Record Sale | 26.00% | ~123,071 |
 | Armchair Expert | 25.00% | ~118,337 |
 | Fantastic Five | 24.00% | ~113,604 |
 | Full Faith | 24.00% | ~113,604 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~473 |
 | Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,348 (Ranked 36)  
+Progressed: 473,349 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 21 (0.00%) (Ranked 277)
 | 2023-09-15 | 473,189 | 21 |
 | 2023-09-16 | 473,262 | 21 |
 | 2023-09-17 | 473,325 | 21 |
-| 2023-09-18 | 473,348 | 21 |
+| 2023-09-18 | 473,349 | 21 |
 ## Awards
 Max (Relaxing): 6,449  (Ranked 54)  
 Sum: 50,734 (Ranked 25)  

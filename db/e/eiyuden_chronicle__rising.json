@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -616,9 +616,9 @@
       "ID": "ACHIEVEMENT037",
       "SetID": "dejhjd5",
       "Name": "Rune Wall Wreckage",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -736,8 +736,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-09-18T16:08:33.1740703+00:00",
+  "LastChanged_Achievements": "2023-09-18T17:09:05.2160631+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.7885163+00:00",
-  "LastUpdate_Ratings": "2023-09-18T16:00:42.2402179+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:08:33.1741254+00:00"
+  "LastUpdate_Ratings": "2023-09-18T17:00:25.3934524+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:09:05.2161559+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,582 |
-| Ready for Winter | 65.00% | ~2,209 |
-| Ready for Summer | 52.00% | ~1,767 |
-| Cordon Bleu | 44.00% | ~1,495 |
-| Tapped! | 37.00% | ~1,257 |
-| Eureka | 32.00% | ~1,087 |
-| Scourge Slayer | 26.00% | ~883 |
+| Venture Outward | 76.00% | ~2,585 |
+| Ready for Winter | 64.00% | ~2,177 |
+| Ready for Summer | 52.00% | ~1,769 |
+| Cordon Bleu | 44.00% | ~1,496 |
+| Tapped! | 37.00% | ~1,258 |
+| Eureka | 32.00% | ~1,088 |
+| Scourge Slayer | 26.00% | ~884 |
 | Science, Troglodyte! | 24.00% | ~816 |
 | Exceptional Skill | 23.00% | ~782 |
 | Home Sweet Home | 22.00% | ~748 |
@@ -34,8 +34,8 @@ Number of Ratings: 266  (23.09.2022)
 | The stuff of legends. | 6.00% | ~204 |
 | Ancestor's Pride | 4.00% | ~136 |
 | For All Aurai | 4.00% | ~136 |
-| Light of Levant | 4.00% | ~136 |
 | Memory of a legend | 4.00% | ~136 |
+| Light of Levant | 3.00% | ~102 |
 | This was a mistake... | 3.00% | ~102 |
 | Crowd Pleaser. | 2.00% | ~68 |
 | Perfect Defense | 2.00% | ~68 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,398 (Ranked 166)  
+Progressed: 3,401 (Ranked 166)  
 Completed: 4 (0.12%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,11 +190,11 @@ Completed: 4 (0.12%) (Ranked 214)
 | 2023-09-15 | 3,357 | 3 |
 | 2023-09-16 | 3,367 | 3 |
 | 2023-09-17 | 3,388 | 3 |
-| 2023-09-18 | 3,398 | 4 |
+| 2023-09-18 | 3,401 | 4 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 445)  
+Max (Highly Recommended): 35  (Ranked 446)  
 Sum: 244 (Ranked 360)  
-Diff (max vs sum): 85  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

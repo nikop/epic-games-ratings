@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -625,9 +625,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -649,9 +649,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -673,9 +673,9 @@
       "ID": "ACHIEVEMENT_9_Flawless",
       "SetID": "9bke6f1",
       "Name": "Flawless",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -688,8 +688,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-18T16:04:59.0388998+00:00",
+  "LastChanged_Achievements": "2023-09-18T17:05:04.8720019+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:59:12.6189912+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:04:59.0389224+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:59:10.9868788+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:05:04.8720366+00:00"
 }

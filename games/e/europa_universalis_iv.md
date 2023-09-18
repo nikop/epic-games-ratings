@@ -6,27 +6,27 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,296 |
-| That's a Grand Army | 3.00% | ~12,222 |
-| That is mine! | 3.00% | ~12,222 |
-| Victorious! | 3.00% | ~12,222 |
-| Brothers in Arms | 2.00% | ~8,148 |
-| For the Glory | 2.00% | ~8,148 |
-| That's a Grand Navy | 2.00% | ~8,148 |
-| Seriously?! | 2.00% | ~8,148 |
-| Cold War | 1.00% | ~4,074 |
-| Defender of the Faith | 1.00% | ~4,074 |
-| It's all about the money | 1.00% | ~4,074 |
-| The Princess is in this Castle | 1.00% | ~4,074 |
-| True Catholic | 1.00% | ~4,074 |
+| Until death do us apart | 4.00% | ~16,298 |
+| That's a Grand Army | 3.00% | ~12,224 |
+| That is mine! | 3.00% | ~12,224 |
+| Victorious! | 3.00% | ~12,224 |
+| Brothers in Arms | 2.00% | ~8,149 |
+| For the Glory | 2.00% | ~8,149 |
+| That's a Grand Navy | 2.00% | ~8,149 |
+| Seriously?! | 2.00% | ~8,149 |
+| Cold War | 1.00% | ~4,075 |
+| Defender of the Faith | 1.00% | ~4,075 |
+| It's all about the money | 1.00% | ~4,075 |
+| The Princess is in this Castle | 1.00% | ~4,075 |
+| True Catholic | 1.00% | ~4,075 |
 | It's all about luck | 0.90% | ~3,667 |
 | Respected | 0.90% | ~3,667 |
 | Truly Divine Ruler | 0.90% | ~3,667 |
-| Blockader | 0.80% | ~3,259 |
+| Blockader | 0.80% | ~3,260 |
 | Double the Love | 0.70% | ~2,852 |
 | Royal Authority | 0.70% | ~2,852 |
 | Total Control | 0.70% | ~2,852 |
-| My armies are invincible! | 0.60% | ~2,444 |
+| My armies are invincible! | 0.60% | ~2,445 |
 | Agressive Expander | 0.50% | ~2,037 |
 | City of Cities | 0.50% | ~2,037 |
 | Combined Arms | 0.50% | ~2,037 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,404 (Ranked 40)  
+Progressed: 407,456 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 404,131 | 0 |
 | 2023-09-16 | 405,611 | 0 |
 | 2023-09-17 | 406,888 | 0 |
-| 2023-09-18 | 407,404 | 0 |
+| 2023-09-18 | 407,456 | 0 |
 ## Awards
 Max (Educational): 6,158  (Ranked 56)  
 Sum: 50,540 (Ranked 26)  

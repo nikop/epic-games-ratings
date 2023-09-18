@@ -64,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~459 |
 | The Dinner Party | 0.20% | ~459 |
 | The Botched Kidnapping | 0.20% | ~459 |
+| Haaave You Met Asmodeus? | 0.20% | ~459 |
 | The Immortal Warrior | 0.20% | ~459 |
 | The Wyrmheart Mine | 0.20% | ~459 |
 | Tower on the Lake | 0.20% | ~459 |
@@ -95,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.20% | ~391 |
 | Close Escort | 0.20% | ~459 |
 | Constant Banditry | 0.20% | ~459 |
+| The Long Haul | 0.20% | ~459 |
 | Waterdeep Detours | 0.20% | ~459 |
 | Lost in the Deep | 0.20% | ~459 |
 | Easily Distracted | 0.20% | ~459 |
@@ -103,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~459 |
 | Moose Tracks | 0.20% | ~391 |
 | Civilization | 0.20% | ~391 |
+| Durable Deep | 0.20% | ~459 |
 | Dwarven Rumors | 0.20% | ~391 |
 | The Templar's Camp | 0.20% | ~459 |
 | Rescue in the Jungle | 0.20% | ~459 |
@@ -247,7 +250,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.10% | ~229 |
 | Modron Assistance | 0.10% | ~229 |
 | Thine Bounty is Mine! | 0.10% | ~196 |
-| Haaave You Met Asmodeus? | 0.10% | ~229 |
 | Domesticated Owlbears | 0.10% | ~229 |
 | This Quest Stinks! | 0.10% | ~196 |
 | Hold for the Red Wizards | 0.10% | ~229 |
@@ -419,13 +421,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~196 |
 | Mirage Arcane | 0.10% | ~196 |
 | Only Human | 0.10% | ~196 |
-| The Long Haul | 0.10% | ~229 |
 | An Awakened Axe | 0.10% | ~196 |
 | CONtagious Cold | 0.10% | ~196 |
 | Ten in Ten-Towns | 0.10% | ~196 |
 | Trench Coat Run | 0.10% | ~196 |
 | The Taunting Lord | 0.10% | ~196 |
-| Durable Deep | 0.10% | ~229 |
 | Lone Wolf Party | 0.10% | ~196 |
 | The Sibriex | 0.10% | ~196 |
 | The Archduke's Blessing | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,285 (Ranked 57)  
+Progressed: 229,291 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,285 | 2,294 |
+| 2023-09-18 | 229,291 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

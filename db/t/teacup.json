@@ -4,7 +4,7 @@
   "ProductSlug": "teacup",
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-23T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:15.4330682+00:00",
   "LastChanged": "2023-03-31T05:58:15.4330682+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.4786148+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:58:18.8789452+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:04:56.1408104+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:58:24.2374383+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:05:02.3130609+00:00"
 }

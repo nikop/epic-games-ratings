@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No Deaths | 6.00% | ~998 |
+| No Deaths | 6.00% | ~999 |
 | First Real Expedition | 5.00% | ~832 |
 | Overcoming Difficulty | 5.00% | ~832 |
 | Coral Forest | 5.00% | ~832 |
@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 5.00% | ~832 |
 | Ancient Battleground | 4.00% | ~666 |
 | Fertile Meadows | 4.00% | ~666 |
+| Royal Outpost | 4.00% | ~666 |
 | Lost Colonies | 4.00% | ~666 |
 | Watchtower | 4.00% | ~666 |
 | A Real Challenge | 4.00% | ~666 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 3.00% | ~499 |
 | Flooded Mines | 3.00% | ~499 |
 | Monastery of the Holy Flame | 3.00% | ~499 |
-| Royal Outpost | 3.00% | ~499 |
 | Statue of the Forefathers | 3.00% | ~499 |
 | Corrosive Torrent | 3.00% | ~499 |
 | Cursed Lands | 3.00% | ~499 |
@@ -47,9 +47,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 1.00% | ~166 |
 | Blood Flower Farmer | 1.00% | ~166 |
 | Victory through Prosperity | 1.00% | ~166 |
+| Human Utopia | 0.70% | ~116 |
 | Lizard Utopia | 0.70% | ~116 |
 | Beaver Utopia | 0.60% | ~100 |
-| Human Utopia | 0.60% | ~100 |
 | The Queen's Chosen | 0.60% | ~100 |
 | Harpy Utopia | 0.40% | ~67 |
 | Ruins | 0.40% | ~67 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,640 (Ranked 120)  
+Progressed: 16,642 (Ranked 120)  
 Completed: 48 (0.29%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 48 (0.29%) (Ranked 183)
 | 2023-09-15 | 16,616 | 48 |
 | 2023-09-16 | 16,625 | 48 |
 | 2023-09-17 | 16,635 | 48 |
-| 2023-09-18 | 16,640 | 48 |
+| 2023-09-18 | 16,642 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 431  (Ranked 211)  
 Sum: 3,144 (Ranked 166)  

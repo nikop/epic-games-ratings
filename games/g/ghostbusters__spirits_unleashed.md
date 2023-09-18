@@ -19,6 +19,7 @@ Rating: 4.50 (Ranked 567)
 | Clutch Capture | 0.20% | ~52 |
 | I collect Spores, Molds, and Fungi | 0.20% | ~52 |
 | Cultured | 0.20% | ~52 |
+| Ectoplasmic Entity | 0.20% | ~52 |
 | Ghostbuster In Training | 0.20% | ~52 |
 | Icing on the Cake | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
@@ -35,7 +36,6 @@ Rating: 4.50 (Ranked 567)
 | Daily Dose | 0.10% | ~26 |
 | Diabolical | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
-| Ectoplasmic Entity | 0.10% | ~26 |
 | Escape Artist | 0.10% | ~26 |
 | Fragile Panes | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |

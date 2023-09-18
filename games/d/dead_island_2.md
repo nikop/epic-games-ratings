@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,644 |
-| Git Gutte! | 2.00% | ~13,644 |
-| Bookworm | 2.00% | ~13,644 |
-| Break A Leg | 2.00% | ~13,644 |
-| But Doctor, I am Butcho | 2.00% | ~13,644 |
-| Coup de Grâce | 2.00% | ~13,644 |
-| Hazardous Materials | 2.00% | ~13,644 |
-| Friends Like These | 2.00% | ~13,644 |
-| Hotel California | 2.00% | ~13,644 |
-| Apex Predator | 2.00% | ~13,644 |
-| Stacking the Deck | 2.00% | ~13,644 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,644 |
-| This is My Weapon | 2.00% | ~13,644 |
-| Welcome To Hell-A | 2.00% | ~13,644 |
+| Dr. Reed, I Presume? | 2.00% | ~13,645 |
+| Git Gutte! | 2.00% | ~13,645 |
+| Bookworm | 2.00% | ~13,645 |
+| Break A Leg | 2.00% | ~13,645 |
+| But Doctor, I am Butcho | 2.00% | ~13,645 |
+| Coup de Grâce | 2.00% | ~13,645 |
+| Hazardous Materials | 2.00% | ~13,645 |
+| Friends Like These | 2.00% | ~13,645 |
+| Hotel California | 2.00% | ~13,645 |
+| Apex Predator | 2.00% | ~13,645 |
+| Stacking the Deck | 2.00% | ~13,645 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,645 |
+| This is My Weapon | 2.00% | ~13,645 |
+| Welcome To Hell-A | 2.00% | ~13,645 |
 | Anger Management | 1.00% | ~6,822 |
 | Perks of the Job | 1.00% | ~6,822 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,822 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,195 (Ranked 22)  
+Progressed: 682,231 (Ranked 22)  
 Completed: 2,152 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2,152 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
-| 2023-09-18 | 682,195 | 2,152 |
+| 2023-09-18 | 682,231 | 2,152 |
 ## Awards
 Max (Great Boss Battles): 6,105  (Ranked 57)  
 Sum: 9,049 (Ranked 94)  

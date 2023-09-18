@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4221,
+  "EOS_Progressed": 4224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1904,6 +1904,11 @@
       "Time": "2023-09-18T16:04:18.4569672+00:00",
       "NumProgressed": 4221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T17:04:31.3168969+00:00",
+      "NumProgressed": 4224,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2012,7 +2017,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "kills_100",
@@ -2114,9 +2119,9 @@
       "ID": "top10_10",
       "SetID": "413a09o",
       "Name": "Experienced Soldier",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -2163,13 +2168,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 4221,
+      "Progressed": 4224,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-18T16:04:18.4569668+00:00",
+  "LastChanged_Achievements": "2023-09-18T17:04:31.3168963+00:00",
   "LastUpdate_AppInfo": "2023-09-13T09:57:08.103412+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:59:34.55721+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:04:18.4570168+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:59:29.5114724+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:04:31.3169569+00:00"
 }

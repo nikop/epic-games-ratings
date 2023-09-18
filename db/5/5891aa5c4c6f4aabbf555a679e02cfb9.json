@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -377,9 +377,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -633,9 +633,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-18T16:06:53.0590974+00:00",
+  "LastChanged_Achievements": "2023-09-18T17:06:40.4205502+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:02.5081406+00:00",
-  "LastUpdate_Ratings": "2023-09-18T16:01:07.0537059+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:06:53.0591684+00:00"
+  "LastUpdate_Ratings": "2023-09-18T17:00:46.0237478+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:06:40.4206437+00:00"
 }

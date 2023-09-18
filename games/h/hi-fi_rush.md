@@ -51,9 +51,9 @@ Rating: 4.87 (Ranked 25)
 | New bad guys? No problem! | 0.70% | ~18 |
 | OK, well THEY came after ME! | 0.60% | ~24 |
 | Easy Listening | 0.50% | ~20 |
+| Now this is how you fight like a team! | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
 | Problem solved... wait, what? | 0.30% | ~12 |
-| Now this is how you fight like a team! | 0.30% | ~12 |
 | With our powers combined…and to the rhythm… | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |
 | And the crowd goes wild! | 0.20% | ~8 |

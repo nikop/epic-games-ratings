@@ -17,7 +17,7 @@ Number of Ratings: 48  (23.09.2022)
 | First Time Fishing | 52.00% | ~359 |
 | A Girl About the Town | 51.00% | ~352 |
 | First Time Hunting | 49.00% | ~338 |
-| Rune Wall Wreckage | 48.00% | ~331 |
+| Rune Wall Wreckage | 49.00% | ~338 |
 | ...And Your Tax Money | 47.00% | ~324 |
 | The Lords of the Snowpeak | 40.00% | ~276 |
 | The Go-To Girl | 37.00% | ~255 |

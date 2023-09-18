@@ -3,8 +3,8 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 417,
-  "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 364,
+  "Ranking_Popularity": 443,
+  "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 46,
@@ -776,11 +776,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 227,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-18T17:00:40.3906474+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 230,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 230,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -793,7 +799,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has Challenging Combat",
@@ -829,7 +835,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
@@ -840,7 +846,7 @@
   ],
   "EOS_Progressed": 149628,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1730,
+  "EOS_NewPlayers": 1717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10406,9 +10412,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-09-18T11:00:29.8212256+00:00",
-  "LastChanged_Achievements": "2023-09-18T16:04:16.6080579+00:00",
+  "LastChanged": "2023-09-18T17:00:40.3906472+00:00",
+  "LastChanged_Achievements": "2023-09-18T17:04:29.7825481+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.8839074+00:00",
-  "LastUpdate_Ratings": "2023-09-18T16:00:59.9920063+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:04:16.608152+00:00"
+  "LastUpdate_Ratings": "2023-09-18T17:00:40.3906484+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:04:29.7827075+00:00"
 }

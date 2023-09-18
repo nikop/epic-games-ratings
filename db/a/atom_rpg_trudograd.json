@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1209,
+  "EOS_Progressed": 1211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1280,6 +1280,11 @@
       "Time": "2023-09-17T16:10:13.3202416+00:00",
       "NumProgressed": 1209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T17:06:07.3947239+00:00",
+      "NumProgressed": 1211,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1419,7 +1424,7 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -1523,7 +1528,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -1539,14 +1544,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1054
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1209,
+      "Progressed": 1211,
       "Completed": 0
     }
   ],
@@ -1554,8 +1559,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-08-27T19:59:37.9265528+00:00",
-  "LastChanged_Achievements": "2023-09-18T16:06:13.8129732+00:00",
+  "LastChanged_Achievements": "2023-09-18T17:06:07.3947233+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:10.5540754+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:57:23.8250183+00:00",
-  "LastUpdate_Achievements": "2023-09-18T16:06:13.813024+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:57:37.9640779+00:00",
+  "LastUpdate_Achievements": "2023-09-18T17:06:07.3947756+00:00"
 }

@@ -19,10 +19,10 @@
 | Half the Kingdom | 16.00% | ~38 |
 | Deity of Darkness | 15.00% | ~36 |
 | Creator of Magic | 14.00% | ~33 |
+| Salvation! | 11.00% | ~26 |
 | Heavenly Virtues | 11.00% | ~26 |
-| Salvation! | 10.00% | ~24 |
 | Brilliant Inventor | 8.00% | ~19 |
-| Greatest inventor | 7.00% | ~17 |
+| Greatest inventor | 8.00% | ~19 |
 | Master of Alchemy | 5.00% | ~12 |
 | Master of the Worlds | 5.00% | ~12 |
 | God of Patience | 3.00% | ~7 |

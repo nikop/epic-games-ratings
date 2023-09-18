@@ -15,6 +15,7 @@ Rating: 3.93 (Ranked 962)
 | Fancy Pants | 0.20% | ~175 |
 | Off the Rocks | 0.20% | ~175 |
 | Raider’s Ruin | 0.20% | ~175 |
+| Dragonslayer | 0.20% | ~175 |
 | Rockay Rex | 0.20% | ~175 |
 | Hidden Sonata | 0.10% | ~88 |
 | Track Star | 0.10% | ~88 |
@@ -40,14 +41,13 @@ Rating: 3.93 (Ranked 962)
 | Case Closed | 0.10% | ~88 |
 | Classy Joint | 0.10% | ~88 |
 | True Player | 0.10% | ~88 |
-| Dragonslayer | 0.10% | ~88 |
 | Impossible Dreamer | 0.10% | ~88 |
 | All that Glitters | 0.10% | ~16 |
 | All for One | 0.10% | ~16 |
 | One for All | 0.10% | ~16 |
 | Now You See Me | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,697 (Ranked 77)  
+Progressed: 87,708 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 46 (0.05%) (Ranked 240)
 | 2023-09-15 | 87,269 | 46 |
 | 2023-09-16 | 87,447 | 46 |
 | 2023-09-17 | 87,608 | 46 |
-| 2023-09-18 | 87,697 | 46 |
+| 2023-09-18 | 87,708 | 46 |
 ## Awards
 Max (Diverse Characters): 440  (Ranked 209)  
 Sum: 2,119 (Ranked 198)  
