@@ -3,7 +3,7 @@
 | [Garten of Banban 2](games/7/7518ec7171ab4e87be0402165502c411.md) | 2023-09-18 | - |  | - | - |
 | [Garten of Banban 3](games/c/c78c056218cb42bfae858ef7a4028a2b.md) | 2023-09-18 | - |  | - | - |
 | [Garten of Banban 4](games/4/40ae93163e7f45c397c495e04115b685.md) | 2023-09-18 | - |  | - | - |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 94 | - | - |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 169 | - | - |
 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2023-09-20 | - |  | - | - |
 | [Witchfire](games/w/witchfire.md) | 2023-09-20 | - |  | - | - |
 | [Evil Wizard](games/6/663ea0c5bcaa43fc8127b466ac781ac5.md) | 2023-09-20 | - |  | - | - |
@@ -40,7 +40,7 @@
 | [Ghoul Castle 3D - Gold Edition](games/9/993ca702abc944ce8098d24da7cd03d1.md) | 2023-09-30 | - |  | - | - |
 | [Goblin's mystic war](games/3/3af8858720374a80a12d98bff9d9bda1.md) | 2023-09-30 | - |  | - | - |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-30 | - |  | - | - |
-| [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-30 | - |  | - | - |
+| [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-30 | 11 (1,000 XP) | 0 | - | - |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-09-30 | - |  | - | - |
 | [MidEvil](games/c/c5a7105b5a09460b9bc3bfb9c8e5e719.md) | 2023-09-30 | - |  | - | - |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-09-30 | - |  | - | - |
@@ -317,6 +317,7 @@
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | 2099-01-01 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2099-01-01 | - |  | - | - |
 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 2099-01-01 | - |  | - | - |
+| [Eternal Damnation](games/f/f804fcc3063f467699936dbd544d9e9a.md) | 2099-01-01 | - |  | - | - |
 | [Eternity Convergence](games/e/eternity_convergence.md) | 2099-01-01 | - |  | - | - |
 | [Everholm](games/e/everholm.md) | 2099-01-01 | - |  | - | - |
 | [Extremely Realistic Siege Warfare Simulator](games/b/ba853730b0ab4978b0a7394c47cdc337.md) | 2099-01-01 | - |  | - | - |

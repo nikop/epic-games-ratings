@@ -254,6 +254,7 @@
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Gigapocalypse](../games/g/gigapocalypse.md) | 53 | 1,000 |
 | [GINSHA](../games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 23 | 1,000 |
+| [Gloomhaven](../games/g/gloomhaven.md) | 61 | 1,000 |
 | [Goat Simulator 3](../games/g/goat_simulator_3.md) | 39 | 1,000 |
 | [Godlike Burger](../games/g/godlike_burger.md) | 28 | 1,000 |
 | [Going Medieval](../games/g/going_medieval.md) | 31 | 1,000 |
@@ -304,6 +305,7 @@
 | [Infindustry](../games/i/infindustry.md) | 12 | 1,000 |
 | [Influent](../games/3/3d27fbb922a04299b8401e1b50c55619.md) | 12 | 1,000 |
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
+| [Inspector Gadget - Mad Time Party](../games/i/inspector_gadget_-_mad_time_party.md) | 11 | 1,000 |
 | [Insurgency: Sandstorm](../games/i/insurgency__sandstorm.md) | 35 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
 | [Iron Danger](../games/i/iron_danger.md) | 23 | 1,000 |
