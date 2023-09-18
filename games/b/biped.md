@@ -13,14 +13,14 @@
 | High Treetops | 7.00% | ~407 |
 | Blue Rapids | 6.00% | ~349 |
 | Speed walkers | 6.00% | ~349 |
-| Sunset Ridge | 3.00% | ~174 |
+| Sunset Ridge | 3.00% | ~175 |
 | Robot lives matter too | 0.10% | ~6 |
 | Trend hunters | 0.10% | ~6 |
 | I can do this alone | 0.10% | ~6 |
 | Reaching for the stars | 0.10% | ~6 |
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,816 (Ranked 148)  
+Progressed: 5,818 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 5,605 | 0 |
 | 2023-09-16 | 5,726 | 0 |
 | 2023-09-17 | 5,806 | 0 |
-| 2023-09-18 | 5,816 | 0 |
+| 2023-09-18 | 5,818 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

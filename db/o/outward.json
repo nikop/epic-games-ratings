@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3389,
+  "EOS_Progressed": 3391,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4444,6 +4444,11 @@
       "Time": "2023-09-18T01:46:46.1936124+00:00",
       "NumProgressed": 3389,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-18T02:20:25.5036461+00:00",
+      "NumProgressed": 3391,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4455,7 +4460,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "AceDetective_9",
@@ -4479,7 +4484,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "BloodAndJustice_50",
@@ -4495,7 +4500,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "CrowdPleaser",
@@ -4519,7 +4524,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4527,7 +4532,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ForAllAurai_8",
@@ -4639,7 +4644,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4647,7 +4652,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4655,7 +4660,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -4663,7 +4668,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4679,7 +4684,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4773,9 +4778,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2543
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4790,15 +4795,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3389,
+      "Progressed": 3391,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:46:46.193612+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:20:25.5036456+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:40:31.307547+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:46:46.1936519+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:14:19.9584575+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:20:25.5037155+00:00"
 }

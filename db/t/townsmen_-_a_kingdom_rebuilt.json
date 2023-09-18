@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4285,
+  "EOS_Progressed": 4286,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1235,6 +1235,11 @@
       "Time": "2023-09-17T16:13:26.8387858+00:00",
       "NumProgressed": 4285,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T02:24:50.5716613+00:00",
+      "NumProgressed": 4286,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1660,9 +1665,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_BREW",
       "SetID": "9eacipp",
       "Name": "Brew master",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CRAFTSMEN",
@@ -1860,9 +1865,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_WATERWAYS",
       "SetID": "9eacipp",
       "Name": "Waterways",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WEDDING",
@@ -2006,7 +2011,7 @@
       "Name": "Friends from the past",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -2053,15 +2058,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4285,
+      "Progressed": 4286,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:51:28.4153154+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:24:50.5716607+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:40:32.553899+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:51:28.4154221+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:14:23.7926909+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:24:50.5718169+00:00"
 }

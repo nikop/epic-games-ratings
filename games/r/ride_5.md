@@ -9,7 +9,7 @@
 | Hear That Roar! | 38.00% | ~353 |
 | Eat My Dust | 34.00% | ~316 |
 | Rivals to the End | 30.00% | ~278 |
-| We're Going to Need a Bigger Garage | 25.00% | ~232 |
+| We're Going to Need a Bigger Garage | 26.00% | ~241 |
 | I'm Here Too! | 25.00% | ~232 |
 | Bitter Rivalry | 21.00% | ~195 |
 | I Want One Too! | 18.00% | ~167 |

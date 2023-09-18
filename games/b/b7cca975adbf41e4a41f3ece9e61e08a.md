@@ -28,6 +28,7 @@
 | Love You Three Thousand | 20.00% | ~1 |
 | Can You Do This Or Not? | 20.00% | ~1 |
 | Go Clean up In Your Own Way | 20.00% | ~1 |
+| Drama CP: Reel to Real | 20.00% | ~1 |
 | Worthless Speech | 20.00% | ~1 |
 | Drama King | 20.00% | ~1 |
 | Off We Sail Tonight | 0.00% | ~0 |
@@ -41,7 +42,6 @@
 | Stubborn Noob | 0.00% | ~0 |
 | Tall; Grande; Venti | 0.00% | ~0 |
 | Limerence | 0.00% | ~0 |
-| Drama CP: Reel to Real | 0.00% | ~0 |
 | David | 0.00% | ~0 |
 | That's So You | 0.00% | ~0 |
 | This Ain't Right In Many Ways... | 0.00% | ~0 |

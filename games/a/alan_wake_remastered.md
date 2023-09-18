@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,918 |
+| Follow the Light | 41.00% | ~26,919 |
 | Let There Be Light | 33.00% | ~21,666 |
-| Float Like a Butterfly | 32.00% | ~21,009 |
+| Float Like a Butterfly | 32.00% | ~21,010 |
 | Nordic Walking | 26.00% | ~17,070 |
 | Bright Falls' Finest | 25.00% | ~16,414 |
 | Under a Thin Layer of Skin | 22.00% | ~14,444 |
@@ -26,14 +26,14 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 13.00% | ~8,535 |
 | Collateral Carnage | 13.00% | ~8,535 |
 | Come One, Come All | 13.00% | ~8,535 |
-| Perchance to Dream | 12.00% | ~7,878 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,878 |
-| Thunder and Lightning | 12.00% | ~7,878 |
+| Perchance to Dream | 12.00% | ~7,879 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,879 |
+| Thunder and Lightning | 12.00% | ~7,879 |
 | Gatekeeper | 11.00% | ~7,222 |
 | The Lady of the Light | 11.00% | ~7,222 |
 | Two For the Price of One | 11.00% | ~7,222 |
 | Energized! | 11.00% | ~7,222 |
-| Right of Way | 10.00% | ~6,565 |
+| Right of Way | 10.00% | ~6,566 |
 | What Light Through Yonder Window | 9.00% | ~5,909 |
 | Tornado Wrangler | 8.00% | ~5,252 |
 | A Friend in Need | 8.00% | ~2,330 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,654 (Ranked 88)  
+Progressed: 65,655 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 65 (0.10%) (Ranked 222)
 | 2023-09-15 | 65,366 | 65 |
 | 2023-09-16 | 65,510 | 65 |
 | 2023-09-17 | 65,643 | 65 |
-| 2023-09-18 | 65,654 | 65 |
+| 2023-09-18 | 65,655 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

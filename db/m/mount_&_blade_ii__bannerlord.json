@@ -7227,7 +7227,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61337,
+  "EOS_Progressed": 61338,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
@@ -23162,6 +23162,11 @@
       "Time": "2023-09-18T01:49:58.1704223+00:00",
       "NumProgressed": 61337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T02:23:26.0165954+00:00",
+      "NumProgressed": 61338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23173,7 +23178,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7360
+      "UsersEstimate": 7361
     },
     {
       "ID": "Apple of my eye",
@@ -23229,7 +23234,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "Crackshot",
@@ -23397,7 +23402,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20241
+      "UsersEstimate": 20242
     },
     {
       "ID": "Lawbringer",
@@ -23405,7 +23410,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23921
+      "UsersEstimate": 23922
     },
     {
       "ID": "Lawmaker",
@@ -23565,7 +23570,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -23580,15 +23585,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61337,
+      "Progressed": 61338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-17T14:04:32.9096027+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:49:58.1704219+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:23:26.0165949+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:42:47.5671226+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:49:58.1705552+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:16:21.9368369+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:23:26.0167926+00:00"
 }

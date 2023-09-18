@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5816,
+  "EOS_Progressed": 5818,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9771,6 +9771,11 @@
       "Time": "2023-09-18T01:46:59.9554492+00:00",
       "NumProgressed": 5816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T02:20:38.5495775+00:00",
+      "NumProgressed": 5818,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9886,7 +9891,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "9",
@@ -9901,7 +9906,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5816,
+      "Progressed": 5818,
       "Completed": 0
     }
   ],
@@ -9909,8 +9914,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:46:59.9554483+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:20:38.549577+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:39:58.5183077+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:46:59.9555048+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:13:51.1095263+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:20:38.5496884+00:00"
 }

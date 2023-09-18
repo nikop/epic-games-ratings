@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 884)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,767 |
+| First Step Into the Knight | 52.00% | ~37,768 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,420 |
 | Loose Ends | 34.00% | ~24,694 |
-| To the Victor Go the Spoils | 29.00% | ~21,062 |
+| To the Victor Go the Spoils | 29.00% | ~21,063 |
 | Knighthood | 28.00% | ~20,336 |
-| Get ReQ'd | 25.00% | ~18,157 |
-| Whispered Words | 25.00% | ~18,157 |
+| Get ReQ'd | 25.00% | ~18,158 |
+| Whispered Words | 25.00% | ~18,158 |
 | The Batman Family | 23.00% | ~16,705 |
 | Lock and Key | 23.00% | ~16,705 |
 | Something in the Clay | 21.00% | ~15,252 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 884)
 | Not On My Watch | 13.00% | ~9,442 |
 | Shock Til They Drop | 13.00% | ~9,442 |
 | Seeking Asylum | 13.00% | ~9,442 |
-| End of an Era | 12.00% | ~8,715 |
-| Bulldozed | 12.00% | ~8,715 |
-| Gotham Knight | 12.00% | ~8,715 |
+| End of an Era | 12.00% | ~8,716 |
+| Bulldozed | 12.00% | ~8,716 |
+| Gotham Knight | 12.00% | ~8,716 |
 | Gotham City Confidential | 11.00% | ~7,989 |
 | Drone You Out | 10.00% | ~7,263 |
 | Out of Their League | 9.00% | ~6,537 |
@@ -41,7 +41,7 @@ Rating: 4.18 (Ranked 884)
 | Fusion Expert | 7.00% | ~5,084 |
 | Family Meeting | 6.00% | ~4,358 |
 | A Worthy Successor | 6.00% | ~4,358 |
-| Expert Crime Fighter | 5.00% | ~3,631 |
+| Expert Crime Fighter | 5.00% | ~3,632 |
 | Dressed to Impress | 4.00% | ~2,905 |
 | A Momentum Occasion | 3.00% | ~2,179 |
 | Bat Out of Hell | 3.00% | ~2,179 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 884)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,629 (Ranked 83)  
+Progressed: 72,630 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 113 (0.16%) (Ranked 205)
 | 2023-09-15 | 72,563 | 113 |
 | 2023-09-16 | 72,594 | 113 |
 | 2023-09-17 | 72,625 | 113 |
-| 2023-09-18 | 72,629 | 113 |
+| 2023-09-18 | 72,630 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,708  (Ranked 96)  
 Sum: 4,485 (Ranked 139)  

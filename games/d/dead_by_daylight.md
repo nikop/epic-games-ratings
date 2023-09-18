@@ -6,23 +6,23 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 5.00% | ~44,304 |
-| It wakes | 5.00% | ~44,304 |
-| Skillful | 5.00% | ~44,304 |
-| Not half bad | 4.00% | ~35,443 |
-| Apt Survivor | 4.00% | ~35,443 |
-| Survival Treasures | 4.00% | ~35,443 |
-| Make Some Noise | 4.00% | ~35,443 |
-| The Grand Sacrifice | 3.00% | ~26,582 |
-| No one left behind | 3.00% | ~26,582 |
-| Medic | 3.00% | ~26,582 |
-| Handyman | 3.00% | ~26,582 |
-| Nerves of steel | 3.00% | ~26,582 |
-| Bloody Millionaire | 3.00% | ~26,582 |
-| I | 3.00% | ~26,582 |
-| Sorted | 3.00% | ~26,582 |
-| Healthy Obsession | 3.00% | ~26,582 |
-| Resurgence | 3.00% | ~26,582 |
+| Zealous | 5.00% | ~44,306 |
+| It wakes | 5.00% | ~44,306 |
+| Skillful | 5.00% | ~44,306 |
+| Not half bad | 4.00% | ~35,445 |
+| Apt Survivor | 4.00% | ~35,445 |
+| Survival Treasures | 4.00% | ~35,445 |
+| Make Some Noise | 4.00% | ~35,445 |
+| The Grand Sacrifice | 3.00% | ~26,584 |
+| No one left behind | 3.00% | ~26,584 |
+| Medic | 3.00% | ~26,584 |
+| Handyman | 3.00% | ~26,584 |
+| Nerves of steel | 3.00% | ~26,584 |
+| Bloody Millionaire | 3.00% | ~26,584 |
+| I | 3.00% | ~26,584 |
+| Sorted | 3.00% | ~26,584 |
+| Healthy Obsession | 3.00% | ~26,584 |
+| Resurgence | 3.00% | ~26,584 |
 | Agonizing Escape | 2.00% | ~17,722 |
 | Backdoor Escape | 2.00% | ~17,722 |
 | I've got your back | 2.00% | ~17,722 |
@@ -86,23 +86,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | Selfless Survival | 0.70% | ~6,203 |
 | End of Days | 0.70% | ~6,203 |
 | Outrun the Overlap | 0.70% | ~6,203 |
-| Deep Cleansing | 0.60% | ~5,316 |
-| Texas BBQ | 0.60% | ~5,316 |
-| Party Crasher | 0.60% | ~5,316 |
-| Outrage | 0.60% | ~5,316 |
-| Shrine Apparatus | 0.60% | ~5,316 |
-| Broken Bodies | 0.60% | ~5,316 |
-| Insult and Injury | 0.60% | ~5,316 |
-| Rebuilding The Borgo | 0.60% | ~5,316 |
-| Kitted Out | 0.60% | ~5,316 |
-| Whiffing to Success | 0.50% | ~4,430 |
-| Heavy Burden | 0.50% | ~4,430 |
-| I See You | 0.50% | ~4,430 |
-| Punch Drunk | 0.50% | ~4,430 |
-| Prowler | 0.50% | ~4,430 |
-| Triage | 0.50% | ~4,430 |
-| High Speed Pursuit | 0.50% | ~4,430 |
-| Hack the Mainframe | 0.50% | ~4,430 |
+| Deep Cleansing | 0.60% | ~5,317 |
+| Texas BBQ | 0.60% | ~5,317 |
+| Party Crasher | 0.60% | ~5,317 |
+| Outrage | 0.60% | ~5,317 |
+| Shrine Apparatus | 0.60% | ~5,317 |
+| Broken Bodies | 0.60% | ~5,317 |
+| Insult and Injury | 0.60% | ~5,317 |
+| Rebuilding The Borgo | 0.60% | ~5,317 |
+| Kitted Out | 0.60% | ~5,317 |
+| Whiffing to Success | 0.50% | ~4,431 |
+| Heavy Burden | 0.50% | ~4,431 |
+| I See You | 0.50% | ~4,431 |
+| Punch Drunk | 0.50% | ~4,431 |
+| Prowler | 0.50% | ~4,431 |
+| Triage | 0.50% | ~4,431 |
+| High Speed Pursuit | 0.50% | ~4,431 |
+| Hack the Mainframe | 0.50% | ~4,431 |
 | Blood in your mouth | 0.40% | ~3,544 |
 | Looter | 0.40% | ~3,544 |
 | Power Moves | 0.40% | ~3,544 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~886 |
 | Adept Ripley | 0.10% | ~886 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,077 (Ranked 14)  
+Progressed: 886,118 (Ranked 14)  
 Completed: 48 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 48 (0.01%) (Ranked 263)
 | 2023-09-15 | 880,131 | 48 |
 | 2023-09-16 | 882,949 | 48 |
 | 2023-09-17 | 885,845 | 48 |
-| 2023-09-18 | 886,077 | 48 |
+| 2023-09-18 | 886,118 | 48 |
 ## Awards
 Max (Diverse Characters): 32,632  (Ranked 15)  
 Sum: 254,613 (Ranked 11)  

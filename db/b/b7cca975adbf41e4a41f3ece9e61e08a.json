@@ -331,9 +331,9 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "7opfcp",
       "Name": "Drama CP: Reel to Real",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -401,8 +401,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:49:00.5584648+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:22:31.8347939+00:00",
   "LastUpdate_AppInfo": "2023-09-15T16:57:28.6842199+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:44:29.6737442+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:49:00.5584944+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:17:58.1531265+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:22:31.8348321+00:00"
 }

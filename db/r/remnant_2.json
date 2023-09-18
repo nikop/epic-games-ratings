@@ -2020,10 +2020,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 3233,
       "NumberOfAwardsMax": 1620
+    },
+    {
+      "Time": "2023-09-18T02:17:00.2335835+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 3240,
+      "NumberOfAwardsMax": 1620
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3233,
+  "NumberOfAwards": 3240,
   "NumberOfAwardsMax": 1620,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2067,7 +2073,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 151
+      "Count": 158
     },
     {
       "Text": "This game has a Creative Community",
@@ -2094,9 +2100,9 @@
       "Count": 169
     }
   ],
-  "EOS_Progressed": 182731,
+  "EOS_Progressed": 182736,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 4058,
+  "EOS_NewPlayers": 4050,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -9024,6 +9030,11 @@
       "Time": "2023-09-18T01:47:22.0579486+00:00",
       "NumProgressed": 182731,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2023-09-18T02:20:59.5783033+00:00",
+      "NumProgressed": 182736,
+      "NumCompleted": 309
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -9036,7 +9047,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12791
+      "UsersEstimate": 12792
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -9116,7 +9127,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14618
+      "UsersEstimate": 14619
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -9156,7 +9167,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12791
+      "UsersEstimate": 12792
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -9340,7 +9351,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14618
+      "UsersEstimate": 14619
     },
     {
       "ID": "Obtain_Traits_B",
@@ -9435,16 +9446,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 182731,
+      "Progressed": 182736,
       "Completed": 309
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-09-17T23:01:38.1948205+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:47:22.0579482+00:00",
+  "LastChanged": "2023-09-18T02:17:00.2335834+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:20:59.578303+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.9152732+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:43:27.0699242+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:47:22.0580129+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:17:00.233584+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:20:59.5783903+00:00"
 }

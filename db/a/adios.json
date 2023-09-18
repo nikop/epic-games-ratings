@@ -108,9 +108,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73545,
+  "EOS_Progressed": 73546,
   "EOS_Completed": 761,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -16853,6 +16853,11 @@
       "Time": "2023-09-18T01:48:54.8182692+00:00",
       "NumProgressed": 73545,
       "NumCompleted": 761
+    },
+    {
+      "Time": "2023-09-18T02:22:26.2912327+00:00",
+      "NumProgressed": 73546,
+      "NumCompleted": 761
     }
   ],
   "TotalAchievements": 25,
@@ -17008,7 +17013,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "Right On Target",
@@ -17063,7 +17068,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73545,
+      "Progressed": 73546,
       "Completed": 761
     }
   ],
@@ -17071,8 +17076,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:48:54.8182689+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:22:26.291232+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:44:11.2045474+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:48:54.8183591+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:17:41.4519821+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:22:26.2914547+00:00"
 }

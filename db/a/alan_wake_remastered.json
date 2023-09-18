@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65654,
+  "EOS_Progressed": 65655,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1312,
+  "EOS_NewPlayers": 1301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15022,6 +15022,11 @@
       "Time": "2023-09-18T01:46:09.2703896+00:00",
       "NumProgressed": 65654,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-18T02:19:41.4495184+00:00",
+      "NumProgressed": 65655,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15033,7 +15038,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26918
+      "UsersEstimate": 26919
     },
     {
       "ID": "02",
@@ -15121,7 +15126,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7878
+      "UsersEstimate": 7879
     },
     {
       "ID": "13",
@@ -15217,7 +15222,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7878
+      "UsersEstimate": 7879
     },
     {
       "ID": "25",
@@ -15233,7 +15238,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7878
+      "UsersEstimate": 7879
     },
     {
       "ID": "27",
@@ -15281,7 +15286,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21009
+      "UsersEstimate": 21010
     },
     {
       "ID": "33",
@@ -15345,7 +15350,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6565
+      "UsersEstimate": 6566
     },
     {
       "ID": "41",
@@ -15568,21 +15573,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65654,
+      "Progressed": 65655,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29122,
+      "Progressed": 29123,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:46:09.2703892+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:19:41.4495175+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:39:33.1629124+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:46:09.2705125+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:13:30.4895993+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:19:41.4498093+00:00"
 }

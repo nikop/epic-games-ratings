@@ -6,10 +6,10 @@ Rating: 4.76 (Ranked 117)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~16,446 |
-| The Killing Jar | 8.00% | ~14,618 |
-| Not Your Average Trait | 8.00% | ~14,618 |
-| Expanding Horizons | 7.00% | ~12,791 |
-| Quest for Survival | 7.00% | ~12,791 |
+| The Killing Jar | 8.00% | ~14,619 |
+| Not Your Average Trait | 8.00% | ~14,619 |
+| Expanding Horizons | 7.00% | ~12,792 |
+| Quest for Survival | 7.00% | ~12,792 |
 | Gleaming the Cube | 6.00% | ~10,964 |
 | Not a Janitor | 6.00% | ~10,964 |
 | Familiar Face | 6.00% | ~10,964 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 117)
 | Ghost in the Machine | 0.90% | ~1,645 |
 | Proving Grounds | 0.90% | ~1,645 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,731 (Ranked 65)  
+Progressed: 182,736 (Ranked 65)  
 Completed: 309 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,10 +120,10 @@ Completed: 309 (0.17%) (Ranked 202)
 | 2023-09-15 | 181,335 | 297 |
 | 2023-09-16 | 181,964 | 302 |
 | 2023-09-17 | 182,692 | 308 |
-| 2023-09-18 | 182,731 | 309 |
+| 2023-09-18 | 182,736 | 309 |
 ## Awards
 Max (Great Boss Battles): 1,620  (Ranked 120)  
-Sum: 3,233 (Ranked 158)  
+Sum: 3,240 (Ranked 158)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -134,8 +134,8 @@ Diff (max vs sum): -38
 | This game is Highly Recommended | 170 |
 | This game is Relaxing | 169 |
 | This game has Amazing Characters | 168 |
+| This game has Amazing Storytelling | 158 |
 | This game has Quickly Understood Controls | 153 |
-| This game has Amazing Storytelling | 151 |
 | This game has Unique Visuals | 151 |
 | This game has a Creative Community | 122 |
 ## Ratings History
@@ -195,3 +195,4 @@ Diff (max vs sum): -38
 | 2023-09-15 | 4.76 | 1,596 | 3,149 |
 | 2023-09-16 | 4.76 | 1,612 | 3,202 |
 | 2023-09-17 | 4.76 | 1,620 | 3,233 |
+| 2023-09-18 | 4.76 | 1,620 | 3,240 |

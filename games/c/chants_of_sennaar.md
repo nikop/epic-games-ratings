@@ -30,7 +30,7 @@
 | For its own good | 14.00% | ~23 |
 | I did it | 11.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165 (Ranked 326)  
+Progressed: 165 (Ranked 327)  
 Completed: 9 (5.45%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |

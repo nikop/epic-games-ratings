@@ -7,26 +7,26 @@ Number of Ratings: 801  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 90.00% | ~8,132 |
-| Photogenic | 87.00% | ~7,860 |
-| Plug It In | 83.00% | ~7,499 |
-| Surge Gauntlet Jockey | 83.00% | ~7,499 |
+| Photogenic | 87.00% | ~7,861 |
+| Plug It In | 83.00% | ~7,500 |
+| Surge Gauntlet Jockey | 83.00% | ~7,500 |
 | Adventure Time | 79.00% | ~7,138 |
 | Playing With Power | 76.00% | ~6,867 |
-| Coup d'Etat | 58.00% | ~5,240 |
-| You're Fired | 57.00% | ~5,150 |
+| Coup d'Etat | 58.00% | ~5,241 |
+| You're Fired | 57.00% | ~5,151 |
 | Get Furious | 56.00% | ~5,060 |
-| Hacks In Stacks | 55.00% | ~4,969 |
+| Hacks In Stacks | 55.00% | ~4,970 |
 | Gunplay And Cosplay | 54.00% | ~4,879 |
 | Meching Enemies | 48.00% | ~4,337 |
-| Ticket Toddler | 44.00% | ~3,975 |
+| Ticket Toddler | 44.00% | ~3,976 |
 | Booty Bashing | 39.00% | ~3,524 |
-| Field Medic | 38.00% | ~3,433 |
+| Field Medic | 38.00% | ~3,434 |
 | Here Comes a New Challenger | 37.00% | ~3,343 |
 | Rapid Response | 33.00% | ~2,982 |
-| Surge Ahead | 30.00% | ~2,710 |
-| The Full Monty | 30.00% | ~2,710 |
+| Surge Ahead | 30.00% | ~2,711 |
+| The Full Monty | 30.00% | ~2,711 |
 | Guardian Angel | 28.00% | ~2,530 |
-| Poppin Noggins | 24.00% | ~2,168 |
+| Poppin Noggins | 24.00% | ~2,169 |
 | Clips and Crits | 20.00% | ~1,807 |
 | Grey Goo | 17.00% | ~1,536 |
 | Boss of Bosses | 15.00% | ~1,355 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~36 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,035 (Ranked 136)  
+Progressed: 9,036 (Ranked 136)  
 Completed: 1 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 1 (0.01%) (Ranked 263)
 | 2023-09-15 | 9,002 | 1 |
 | 2023-09-16 | 9,018 | 1 |
 | 2023-09-17 | 9,032 | 1 |
-| 2023-09-18 | 9,035 | 1 |
+| 2023-09-18 | 9,036 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 389)  
 Sum: 462 (Ranked 310)  

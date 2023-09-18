@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 12.00% | ~514 |
 | Tax-man I | 11.00% | ~471 |
 | A new beginning | 11.00% | ~471 |
-| Friends from the past | 10.00% | ~428 |
+| Friends from the past | 10.00% | ~429 |
 | I like to build stuff... I | 9.00% | ~386 |
 | A time consuming game I | 8.00% | ~343 |
 | Builder I | 7.00% | ~300 |
@@ -89,26 +89,26 @@ Number of Ratings: 37  (23.09.2022)
 | Impregnable | 0.50% | ~21 |
 | To serve and protect | 0.50% | ~21 |
 | It went unnoticed | 0.40% | ~17 |
-| Brew master | 0.40% | ~17 |
 | Negotiator | 0.40% | ~17 |
 | Panacea | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
 | I've been everywhere IX | 0.40% | ~17 |
 | I've been everywhere X | 0.40% | ~17 |
-| Waterways | 0.40% | ~17 |
 | You shall not pass | 0.40% | ~17 |
+| Brew master | 0.30% | ~13 |
 | Malediction | 0.30% | ~13 |
 | Chief Inspector | 0.30% | ~13 |
 | LEGEN… wait for it… DARY | 0.30% | ~13 |
 | War-zone | 0.30% | ~13 |
+| Waterways | 0.30% | ~13 |
 | Tired by festival | 0.20% | ~9 |
 | Good luck miner! | 0.10% | ~4 |
 | Just let it burn! | 0.10% | ~4 |
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,285 (Ranked 156)  
+Progressed: 4,286 (Ranked 156)  
 Completed: 3 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,6 +196,7 @@ Completed: 3 (0.07%) (Ranked 232)
 | 2023-09-15 | 4,278 | 3 |
 | 2023-09-16 | 4,281 | 3 |
 | 2023-09-17 | 4,285 | 3 |
+| 2023-09-18 | 4,286 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

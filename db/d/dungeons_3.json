@@ -2632,9 +2632,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30700,
+  "EOS_Progressed": 30701,
   "EOS_Completed": 251,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -19037,6 +19037,11 @@
       "Time": "2023-09-18T01:49:05.9956008+00:00",
       "NumProgressed": 30700,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2023-09-18T02:22:36.932621+00:00",
+      "NumProgressed": 30701,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 60,
@@ -19048,7 +19053,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17806
+      "UsersEstimate": 17807
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -19064,7 +19069,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17499
+      "UsersEstimate": 17500
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -19448,7 +19453,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 21183
+      "UsersEstimate": 21184
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -19527,15 +19532,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30700,
+      "Progressed": 30701,
       "Completed": 251
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-17T21:59:31.3378046+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:49:05.9956003+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:22:36.9326206+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.8919956+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:41:53.5662044+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:49:05.9957195+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:15:40.7302896+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:22:36.9327821+00:00"
 }

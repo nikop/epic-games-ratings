@@ -3654,9 +3654,9 @@
       "Count": 501
     }
   ],
-  "EOS_Progressed": 9848,
+  "EOS_Progressed": 9849,
   "EOS_Completed": 223,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -13054,6 +13054,11 @@
       "Time": "2023-09-18T01:47:46.4429405+00:00",
       "NumProgressed": 9848,
       "NumCompleted": 223
+    },
+    {
+      "Time": "2023-09-18T02:21:22.4595719+00:00",
+      "NumProgressed": 9849,
+      "NumCompleted": 223
     }
   ],
   "TotalAchievements": 15,
@@ -13137,7 +13142,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6992
+      "UsersEstimate": 6993
     },
     {
       "ID": "Miner",
@@ -13153,7 +13158,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6795
+      "UsersEstimate": 6796
     },
     {
       "ID": "Renovator",
@@ -13161,7 +13166,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "Thorn_Cleaner",
@@ -13177,14 +13182,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 6204
+      "UsersEstimate": 6205
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9848,
+      "Progressed": 9849,
       "Completed": 223
     }
   ],
@@ -13192,8 +13197,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-09-18T01:39:58.9072045+00:00",
-  "LastChanged_Achievements": "2023-09-18T01:47:46.4429401+00:00",
+  "LastChanged_Achievements": "2023-09-18T02:21:22.4595715+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.4844049+00:00",
-  "LastUpdate_Ratings": "2023-09-18T01:39:58.907205+00:00",
-  "LastUpdate_Achievements": "2023-09-18T01:47:46.4429882+00:00"
+  "LastUpdate_Ratings": "2023-09-18T02:13:51.4308637+00:00",
+  "LastUpdate_Achievements": "2023-09-18T02:21:22.4596477+00:00"
 }
