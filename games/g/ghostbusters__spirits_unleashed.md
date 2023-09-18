@@ -20,6 +20,7 @@ Rating: 4.50 (Ranked 565)
 | Fully Upgraded | 0.20% | ~52 |
 | Icing on the Cake | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
+| Side Hustle | 0.20% | ~52 |
 | Skilled | 0.20% | ~52 |
 | Summoner | 0.20% | ~52 |
 | Swift Rift Removers | 0.20% | ~52 |
@@ -49,7 +50,6 @@ Rating: 4.50 (Ranked 565)
 | Rift Seeker | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
 | Seasoned | 0.10% | ~26 |
-| Side Hustle | 0.10% | ~26 |
 | Stunner | 0.10% | ~26 |
 | Surprise! | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 565)
 | Ultimate Defense | 0.10% | ~26 |
 | Mycophile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,875 (Ranked 106)  
+Progressed: 25,877 (Ranked 106)  
 Completed: 56 (0.22%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 56 (0.22%) (Ranked 195)
 | 2023-09-15 | 25,818 | 56 |
 | 2023-09-16 | 25,847 | 56 |
 | 2023-09-17 | 25,875 | 56 |
+| 2023-09-18 | 25,877 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,316 (Ranked 188)  

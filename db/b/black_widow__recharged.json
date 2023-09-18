@@ -2,13 +2,13 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 859,
+  "Ranking_Rating": 858,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18128,
+  "EOS_Progressed": 18130,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12442,6 +12442,11 @@
       "Time": "2023-09-17T23:04:57.4936775+00:00",
       "NumProgressed": 18128,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-18T01:47:06.8718744+00:00",
+      "NumProgressed": 18130,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12453,7 +12458,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14321
+      "UsersEstimate": 14323
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -12469,7 +12474,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -12493,7 +12498,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -12509,7 +12514,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9608
+      "UsersEstimate": 9609
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -12517,7 +12522,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -12564,15 +12569,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18128,
+      "Progressed": 18130,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:05:09.3826868+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:47:06.871874+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9412789+00:00",
-  "LastUpdate_Ratings": "2023-09-18T00:02:09.4105211+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:05:09.3827984+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:43:53.7259386+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:47:06.8719354+00:00"
 }

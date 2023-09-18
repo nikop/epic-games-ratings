@@ -6,22 +6,22 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 59.00% | ~1,680 |
-| Keeping it classy | 27.00% | ~769 |
-| Welcome to the family | 21.00% | ~598 |
-| The finer things in life | 19.00% | ~541 |
+| You're free now! | 59.00% | ~1,683 |
+| Keeping it classy | 27.00% | ~770 |
+| Welcome to the family | 21.00% | ~599 |
+| The finer things in life | 19.00% | ~542 |
 | Backpacker | 14.00% | ~399 |
-| Go with the Flow | 13.00% | ~370 |
+| Go with the Flow | 13.00% | ~371 |
 | Plastic Surgeon | 10.00% | ~285 |
 | The flip trick crown jewel | 10.00% | ~285 |
 | The hard way | 10.00% | ~285 |
-| Good vibes | 9.00% | ~256 |
-| Keep the dream alive | 9.00% | ~256 |
-| Upfront shredder | 9.00% | ~256 |
-| Fashionista | 7.00% | ~199 |
-| Finally he zips it | 7.00% | ~199 |
-| That pinch! | 7.00% | ~199 |
-| Tight lipslides | 7.00% | ~199 |
+| Good vibes | 9.00% | ~257 |
+| Keep the dream alive | 9.00% | ~257 |
+| Upfront shredder | 9.00% | ~257 |
+| Fashionista | 7.00% | ~200 |
+| Finally he zips it | 7.00% | ~200 |
+| That pinch! | 7.00% | ~200 |
+| Tight lipslides | 7.00% | ~200 |
 | Bottom ply killer | 6.00% | ~171 |
 | Fulfilled the dream | 6.00% | ~171 |
 | G'Day Mate! | 6.00% | ~171 |
@@ -29,25 +29,25 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~171 |
 | Squad goals | 6.00% | ~171 |
 | Sup widdit big dog! | 6.00% | ~171 |
-| Commence the Hijinx! | 5.00% | ~142 |
-| DIY Boss | 5.00% | ~142 |
-| Globetrotter | 5.00% | ~142 |
-| Laid back | 5.00% | ~142 |
-| Lines for days | 5.00% | ~142 |
-| Manny Destroys All | 5.00% | ~142 |
-| Renaissance man | 5.00% | ~142 |
-| Trick shot marksman | 5.00% | ~142 |
+| Commence the Hijinx! | 5.00% | ~143 |
+| DIY Boss | 5.00% | ~143 |
+| Globetrotter | 5.00% | ~143 |
+| Laid back | 5.00% | ~143 |
+| Lines for days | 5.00% | ~143 |
+| Manny Destroys All | 5.00% | ~143 |
+| Renaissance man | 5.00% | ~143 |
+| Trick shot marksman | 5.00% | ~143 |
 | Cops called! | 4.00% | ~114 |
 | G.O.A.T. status | 4.00% | ~114 |
 | Prince of Philly | 4.00% | ~114 |
 | Tank commander | 4.00% | ~114 |
 | We get it, you're good | 4.00% | ~114 |
-| Hoarder | 3.00% | ~85 |
-| Pew-Pew | 3.00% | ~85 |
+| Hoarder | 3.00% | ~86 |
+| Pew-Pew | 3.00% | ~86 |
 | Cross lock country | 2.00% | ~57 |
 | Many plys later... | 2.00% | ~57 |
 | That was wheelie fun | 2.00% | ~57 |
-| Dipped! | 1.00% | ~28 |
+| Dipped! | 1.00% | ~29 |
 | Skatepark hero | 0.90% | ~26 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,848 (Ranked 175)  
+Progressed: 2,852 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 2,809 | 0 |
 | 2023-09-16 | 2,829 | 0 |
 | 2023-09-17 | 2,847 | 0 |
-| 2023-09-18 | 2,848 | 0 |
+| 2023-09-18 | 2,852 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 398)  
 Sum: 462 (Ranked 310)  

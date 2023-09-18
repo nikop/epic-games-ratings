@@ -31,12 +31,12 @@
 | The Fix | 16.00% | ~16 |
 | The Mountains, The Valleys | 14.00% | ~14 |
 | Bad Trip | 13.00% | ~13 |
-| Regrets | 12.00% | ~12 |
+| Regrets | 13.00% | ~13 |
+| Love | 12.00% | ~12 |
 | Chase the Crow | 11.00% | ~11 |
-| Love | 11.00% | ~11 |
-| Here we go again! | 10.00% | ~10 |
-| The Accident | 10.00% | ~10 |
-| The Awakening | 10.00% | ~10 |
+| Here we go again! | 11.00% | ~11 |
+| The Accident | 11.00% | ~11 |
+| The Awakening | 11.00% | ~11 |
 | Flight of the Bumblebee | 9.00% | ~9 |
 | Milk and Alcohol | 7.00% | ~7 |
 | Under the Bridge | 6.00% | ~6 |
@@ -44,10 +44,10 @@
 | Gasoline | 5.00% | ~5 |
 | On the Road Again | 5.00% | ~5 |
 | Unintended | 5.00% | ~5 |
+| Hospital Flowers | 4.00% | ~4 |
 | Riders on the Storm | 3.00% | ~3 |
 | Under my Wheels | 3.00% | ~3 |
 | The Fight Song | 3.00% | ~3 |
-| Hospital Flowers | 3.00% | ~3 |
 | Voodoo Child | 2.00% | ~2 |
 | All Apologies | 2.00% | ~2 |
 | The Show Must Go On | 2.00% | ~2 |

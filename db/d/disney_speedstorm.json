@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3185,
+  "EOS_Progressed": 3186,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.53,
+  "EOS_Completed_Percentage": 5.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4715,6 +4715,11 @@
       "Time": "2023-09-17T23:04:23.3950424+00:00",
       "NumProgressed": 3185,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-09-18T01:46:30.3836027+00:00",
+      "NumProgressed": 3186,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 24,
@@ -4798,7 +4803,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "19",
@@ -4814,7 +4819,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "20",
@@ -4854,7 +4859,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "3",
@@ -4870,7 +4875,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "5",
@@ -4917,13 +4922,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3185,
+      "Progressed": 3186,
       "Completed": 176
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:04:31.8821895+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:46:30.383602+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:59:41.8115074+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:04:31.8822418+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:41:33.4528908+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:46:30.383638+00:00"
 }

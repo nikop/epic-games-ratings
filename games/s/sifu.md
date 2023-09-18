@@ -13,6 +13,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.20% | ~1,430 |
 | Life is your teacher | 0.20% | ~1,430 |
 | State of constant learning | 0.20% | ~1,430 |
+| Qi Gong: Breath | 0.20% | ~1,430 |
 | Qi Gong: Essence | 0.20% | ~1,430 |
 | Old Child | 0.20% | ~1,430 |
 | Lightning Hands | 0.20% | ~1,430 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Healing Memory | 0.10% | ~715 |
 | Dance of the Praying Mantis | 0.10% | ~715 |
 | Qi Gong: Mind | 0.10% | ~715 |
-| Qi Gong: Breath | 0.10% | ~715 |
 | The 36th Chamber of Kung-Fu | 0.10% | ~715 |
 | Master of the Phoenix Eye Fist | 0.10% | ~715 |
 | I know Kung-Fu | 0.10% | ~715 |

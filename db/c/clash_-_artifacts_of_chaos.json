@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -283,6 +283,11 @@
       "Time": "2023-09-16T00:09:17.4188517+00:00",
       "NumProgressed": 107,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T01:51:14.8323607+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -302,7 +307,7 @@
       "Name": "The Pride of Moozhaw",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement11",
@@ -316,9 +321,9 @@
       "ID": "Achievement12",
       "SetID": "jf6ho5",
       "Name": "Your Training Is Complete",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement13",
@@ -340,9 +345,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement16",
@@ -364,9 +369,9 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement19",
@@ -414,7 +419,7 @@
       "Name": "Omnia Vincit Amor",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement5",
@@ -461,7 +466,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 1
     }
   ],
@@ -469,8 +474,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:09:33.1273228+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:51:14.8323603+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:06.2046137+00:00",
-  "LastUpdate_Ratings": "2023-09-18T00:01:58.5339831+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:09:33.1273418+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:43:40.1560636+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:51:14.8323733+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 28  (23.09.2022)
 | Builder | 52.00% | ~248 |
 | Pangs of conscience | 46.00% | ~219 |
 | Living it large! | 44.00% | ~210 |
-| Collector | 42.00% | ~200 |
+| Collector | 43.00% | ~205 |
 | Need to think | 42.00% | ~200 |
 | Completely nuts! | 39.00% | ~186 |
 | Just in time! | 33.00% | ~157 |

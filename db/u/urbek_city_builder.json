@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1684,9 +1684,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WELFARE_1",
@@ -1717,8 +1717,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:05:32.9073056+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:47:28.7476744+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.0271956+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:59:07.8974629+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:05:32.9074056+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:41:06.9401097+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:47:28.7477514+00:00"
 }

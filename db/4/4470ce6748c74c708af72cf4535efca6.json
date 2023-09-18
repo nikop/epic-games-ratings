@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -442,9 +442,9 @@
       "ID": "36",
       "SetID": "5e3maia",
       "Name": "Stormtrooper",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "37",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:06:28.9376077+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:48:23.8814125+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-18T00:02:13.362242+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:06:28.9376729+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:43:56.7350004+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:48:23.8814719+00:00"
 }

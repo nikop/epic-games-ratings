@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -964,9 +964,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256357,
+  "EOS_Progressed": 256358,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16179,6 +16179,11 @@
       "Time": "2023-09-18T00:05:10.2490047+00:00",
       "NumProgressed": 256357,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T01:47:07.7864366+00:00",
+      "NumProgressed": 256358,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -16550,7 +16555,7 @@
       "Name": "Number 1",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "Patrimony1",
@@ -16637,7 +16642,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256357,
+      "Progressed": 256358,
       "Completed": 3
     }
   ],
@@ -16645,8 +16650,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-15T04:00:43.6238077+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:05:10.2490041+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:47:07.7864362+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.3482551+00:00",
-  "LastUpdate_Ratings": "2023-09-18T00:01:43.6367809+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:05:10.2491523+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:43:27.7792784+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:47:07.7865481+00:00"
 }

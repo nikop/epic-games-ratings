@@ -13,9 +13,9 @@
 | Vaccinated | 52.00% | ~13 |
 | Busybody | 44.00% | ~11 |
 | Task Master | 44.00% | ~11 |
+| An Acquired Taste | 40.00% | ~10 |
 | A Light in the Dark | 40.00% | ~10 |
 | Warning: Fragile | 40.00% | ~10 |
-| An Acquired Taste | 36.00% | ~9 |
 | The Guardian | 36.00% | ~9 |
 | Endgame | 36.00% | ~9 |
 | The Philosopher | 36.00% | ~9 |
@@ -38,10 +38,10 @@
 | Zonk! | 20.00% | ~5 |
 | A Little Eccentric | 16.00% | ~4 |
 | Leave It to the Professionals | 16.00% | ~4 |
+| Overseer | 16.00% | ~4 |
 | Ring of Fire | 16.00% | ~4 |
 | The Provocateur | 16.00% | ~4 |
 | Tastes Like Regret | 16.00% | ~4 |
-| Overseer | 12.00% | ~3 |
 | The Mentor | 12.00% | ~3 |
 | The Spice of Life | 12.00% | ~3 |
 | Couldn't Have Planned It Better Myself | 8.00% | ~2 |

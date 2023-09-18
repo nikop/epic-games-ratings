@@ -605,9 +605,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -637,9 +637,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -668,8 +668,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:05:30.8173715+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:47:26.4731042+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:59:40.6598766+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:05:30.8173953+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:41:32.1165706+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:47:26.4732716+00:00"
 }

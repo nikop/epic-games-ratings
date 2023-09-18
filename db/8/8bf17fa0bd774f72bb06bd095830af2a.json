@@ -4,8 +4,8 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -180,9 +180,9 @@
       "ID": "SteamAchievement_KillForestMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Grassholt",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SteamAchievement_KillFrostMonsters",
@@ -212,9 +212,9 @@
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SteamAchievement_WinBattles02",
@@ -244,9 +244,9 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SteamAchievment_CompleteAllChallenges",
@@ -292,9 +292,9 @@
       "ID": "SteamAchievment_CompleteOneChallenge",
       "SetID": "b8gj0ip",
       "Name": "First One",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SteamAchievment_CompleteQuest02",
@@ -420,9 +420,9 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SteamAchievment_CompleteThirtyChallenges",
@@ -436,9 +436,9 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:07:42.3325181+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:49:36.603137+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.3574654+00:00",
-  "LastUpdate_Ratings": "2023-09-18T00:02:54.6459989+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:07:42.3325484+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:44:33.9862353+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:49:36.6031597+00:00"
 }

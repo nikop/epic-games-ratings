@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -523,6 +523,11 @@
       "Time": "2023-09-17T20:09:16.3788467+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T01:50:23.2644873+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -622,7 +627,7 @@
       "Name": "Supercargo",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_Carpenters",
@@ -758,7 +763,7 @@
       "Name": "Xevarian Gambit",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_Defeated",
@@ -862,7 +867,7 @@
       "Name": "The Voice of Hereafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_FirstFactionTier3",
@@ -878,7 +883,7 @@
       "Name": "Despised",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_FirstWin",
@@ -918,7 +923,7 @@
       "Name": "Been There",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_Garrik",
@@ -1086,7 +1091,7 @@
       "Name": "Press-ganged",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1150,7 +1155,7 @@
       "Name": "A Second Chance",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1182,7 +1187,7 @@
       "Name": "Life... Finds a Way",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_TasksCompleted",
@@ -1262,7 +1267,7 @@
       "Name": "Merchant",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_TradeTasksTier2",
@@ -1278,7 +1283,7 @@
       "Name": "Trouble at Fort Larius",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_UnseenPatterns",
@@ -1286,7 +1291,7 @@
       "Name": "Unseen Patterns",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_VagrusMaxedOut",
@@ -1325,7 +1330,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
@@ -1333,8 +1338,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:08:41.0337107+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:50:23.2644868+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.3873754+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:59:31.2214942+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:08:41.0338426+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:41:26.2013949+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:50:23.2646171+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 14.00% | ~569 |
-| Feeling the beat! | 14.00% | ~569 |
+| Start with a bang! | 14.00% | ~570 |
+| Feeling the beat! | 14.00% | ~570 |
 | You can pet the cat! | 13.00% | ~529 |
 | Who put gears in there? | 12.00% | ~488 |
 | Cream of the Crop | 11.00% | ~447 |
@@ -57,6 +57,7 @@ Rating: 4.87 (Ranked 25)
 | With our powers combined…and to the rhythm… | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |
 | And the crowd goes wild! | 0.20% | ~8 |
+| I am a good person who likes to help | 0.20% | ~8 |
 | That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
@@ -68,7 +69,6 @@ Rating: 4.87 (Ranked 25)
 | This was... not what I expected. | 0.10% | ~4 |
 | Have we met before? | 0.10% | ~4 |
 | I'm untouchable! | 0.10% | ~4 |
-| I am a good person who likes to help | 0.10% | ~4 |
 | I'm trying to FOCUS HERE! | 0.10% | ~4 |
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,067 (Ranked 158)  
+Progressed: 4,068 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-15 | 4,051 | 7 |
 | 2023-09-16 | 4,059 | 7 |
 | 2023-09-17 | 4,067 | 7 |
+| 2023-09-18 | 4,068 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
     "PcReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -431,9 +431,9 @@
       "ID": "L16_5_FINISH",
       "SetID": "6finf64",
       "Name": "Regrets",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "L16_5_PERFECT",
@@ -463,9 +463,9 @@
       "ID": "L17_FINISH",
       "SetID": "6finf64",
       "Name": "Love",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "L17_PERFECT",
@@ -479,9 +479,9 @@
       "ID": "L18_FINISH",
       "SetID": "6finf64",
       "Name": "Here we go again!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "L18_PERFECT",
@@ -495,9 +495,9 @@
       "ID": "L19_FINISH",
       "SetID": "6finf64",
       "Name": "The Accident",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "L19_PERFECT",
@@ -543,17 +543,17 @@
       "ID": "L20_FINISH",
       "SetID": "6finf64",
       "Name": "The Awakening",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "L20_PERFECT",
       "SetID": "6finf64",
       "Name": "Hospital Flowers",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "L21_FINISH",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:05:43.4306744+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:47:39.1490425+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.5035835+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:57:54.9749659+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:05:43.430722+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:39:58.1546445+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:47:39.1490809+00:00"
 }

@@ -9,12 +9,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,585 |
 | Beast Intentions | 0.70% | ~1,605 |
 | The Cursed Farmer | 0.70% | ~1,605 |
+| The Mad Wizard | 0.60% | ~1,375 |
 | The Ring of Regeneration | 0.50% | ~1,146 |
-| The Mad Wizard | 0.50% | ~1,146 |
+| Were-verpowered | 0.40% | ~917 |
 | Seeking Allies | 0.40% | ~917 |
 | Are Ya Chicken? | 0.40% | ~917 |
 | Maddening | 0.30% | ~688 |
-| Were-verpowered | 0.30% | ~688 |
 | A Persistent Buzzing | 0.30% | ~688 |
 | Beast Mode | 0.30% | ~688 |
 | Terror in the Dark | 0.30% | ~688 |
@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~458 |
 | The Dead Three | 0.20% | ~458 |
 | Flying Monkey Skulls of Doom | 0.20% | ~458 |
+| Lair of the Xanathar | 0.20% | ~458 |
 | The Darkness Runs Deeper | 0.20% | ~458 |
 | Difficult Terrain | 0.20% | ~458 |
 | Running of the Saurs | 0.20% | ~458 |
@@ -312,7 +313,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.10% | ~229 |
 | A Hero's Entourage | 0.10% | ~229 |
 | Sneak Attack | 0.10% | ~196 |
-| Lair of the Xanathar | 0.10% | ~229 |
 | Dreams of Beholders | 0.10% | ~229 |
 | Feigned Weakness | 0.10% | ~229 |
 | DPS in the Deeps | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,228 (Ranked 57)  
+Progressed: 229,234 (Ranked 57)  
 Completed: 2,291 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,291 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,228 | 2,291 |
+| 2023-09-18 | 229,234 | 2,291 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

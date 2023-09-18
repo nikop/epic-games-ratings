@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -241,9 +241,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "EpicACHV_15",
@@ -344,8 +344,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:05:25.7441689+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:47:21.6151385+00:00",
   "LastUpdate_AppInfo": "2023-09-13T05:57:11.6073515+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:59:45.4603699+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:05:25.7441825+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:41:36.3859376+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:47:21.6151507+00:00"
 }

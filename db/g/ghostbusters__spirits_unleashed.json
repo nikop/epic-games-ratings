@@ -2160,9 +2160,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25875,
+  "EOS_Progressed": 25877,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13060,6 +13060,11 @@
       "Time": "2023-09-17T23:05:12.9161594+00:00",
       "NumProgressed": 25875,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-18T01:47:23.5500145+00:00",
+      "NumProgressed": 25877,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13341,9 +13346,9 @@
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Skilled",
@@ -13478,7 +13483,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25875,
+      "Progressed": 25877,
       "Completed": 56
     }
   ],
@@ -13486,8 +13491,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-17T19:01:08.4051073+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:05:27.8272743+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:47:23.5500142+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:59:38.1670945+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:05:27.8274271+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:41:30.0466992+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:47:23.5501086+00:00"
 }

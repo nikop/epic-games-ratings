@@ -6,48 +6,48 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,279 |
-| First cargo item waiting | 71.00% | ~1,179 |
+| First line | 77.00% | ~1,280 |
+| First cargo item waiting | 71.00% | ~1,180 |
 | First bus stop | 70.00% | ~1,163 |
 | First cargo item on board | 70.00% | ~1,163 |
-| First passenger on board | 67.00% | ~1,113 |
-| First passenger waiting | 67.00% | ~1,113 |
-| First bus arrived | 66.00% | ~1,096 |
-| First train station | 63.00% | ~1,046 |
+| First passenger on board | 67.00% | ~1,114 |
+| First passenger waiting | 67.00% | ~1,114 |
+| First bus arrived | 66.00% | ~1,097 |
+| First train station | 63.00% | ~1,047 |
 | First steam train arrived | 60.00% | ~997 |
-| First industry upgraded | 56.00% | ~930 |
+| First industry upgraded | 56.00% | ~931 |
 | Transport millionaire | 55.00% | ~914 |
 | Cargo hub | 54.00% | ~897 |
-| Cadet | 53.00% | ~880 |
+| Cadet | 53.00% | ~881 |
 | Transport master | 52.00% | ~864 |
-| Sculpturer | 50.00% | ~830 |
+| Sculpturer | 50.00% | ~831 |
 | Settled down | 49.00% | ~814 |
 | First electric train arrived | 47.00% | ~781 |
-| First ship arrived | 46.00% | ~764 |
-| Now what? | 46.00% | ~764 |
-| High speed | 43.00% | ~714 |
+| First ship arrived | 46.00% | ~765 |
+| Now what? | 46.00% | ~765 |
+| High speed | 43.00% | ~715 |
 | Exemplary student | 42.00% | ~698 |
 | Transport shark | 41.00% | ~681 |
 | First aircraft arrived | 41.00% | ~681 |
-| Mass production | 35.00% | ~581 |
+| Mass production | 35.00% | ~582 |
 | Aircraft entrepreneur | 33.00% | ~548 |
 | Crowd in a train | 31.00% | ~515 |
 | The future is now, old man | 31.00% | ~515 |
-| Not in my backyard | 30.00% | ~498 |
-| The king of the sea | 30.00% | ~498 |
+| Not in my backyard | 30.00% | ~499 |
 | City | 29.00% | ~482 |
+| The king of the sea | 29.00% | ~482 |
 | Transport tycoon | 24.00% | ~399 |
 | The ugly smell of success | 23.00% | ~382 |
-| Climate change | 22.00% | ~365 |
-| Old timer | 22.00% | ~365 |
-| Heavily loaded | 22.00% | ~365 |
+| Climate change | 22.00% | ~366 |
+| Old timer | 22.00% | ~366 |
+| Heavily loaded | 22.00% | ~366 |
 | Bob Ross | 16.00% | ~266 |
 | Campaign expert | 11.00% | ~183 |
 | Truck Fever | 11.00% | ~183 |
 | No free seats | 10.00% | ~166 |
-| Back to the future | 9.00% | ~149 |
-| Transport belt | 9.00% | ~149 |
-| Penny pincher | 9.00% | ~149 |
+| Back to the future | 9.00% | ~150 |
+| Transport belt | 9.00% | ~150 |
+| Penny pincher | 9.00% | ~150 |
 | Campaign shark | 5.00% | ~83 |
 | E.P.E.C. | 5.00% | ~83 |
 | Transport shark (Hard mode) | 4.00% | ~66 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,661 (Ranked 192)  
+Progressed: 1,662 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 1,653 | 0 |
 | 2023-09-16 | 1,655 | 0 |
 | 2023-09-17 | 1,660 | 0 |
-| 2023-09-18 | 1,661 | 0 |
+| 2023-09-18 | 1,662 | 0 |
 ## Awards
 Max (Highly Recommended): 41  (Ranked 425)  
 Sum: 283 (Ranked 350)  

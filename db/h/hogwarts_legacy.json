@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7764,9 +7764,9 @@
       "Count": 655
     }
   ],
-  "EOS_Progressed": 296864,
+  "EOS_Progressed": 296868,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24079,6 +24079,11 @@
       "Time": "2023-09-18T00:05:20.6367859+00:00",
       "NumProgressed": 296864,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-18T01:47:17.9808044+00:00",
+      "NumProgressed": 296868,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24090,7 +24095,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41561
+      "UsersEstimate": 41562
     },
     {
       "ID": "PFA_10",
@@ -24098,7 +24103,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29686
+      "UsersEstimate": 29687
     },
     {
       "ID": "PFA_11",
@@ -24106,7 +24111,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29686
+      "UsersEstimate": 29687
     },
     {
       "ID": "PFA_12",
@@ -24114,7 +24119,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29686
+      "UsersEstimate": 29687
     },
     {
       "ID": "PFA_13",
@@ -24138,7 +24143,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20780
+      "UsersEstimate": 20781
     },
     {
       "ID": "PFA_16",
@@ -24146,7 +24151,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29686
+      "UsersEstimate": 29687
     },
     {
       "ID": "PFA_17",
@@ -24154,7 +24159,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20780
+      "UsersEstimate": 20781
     },
     {
       "ID": "PFA_18",
@@ -24170,7 +24175,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20780
+      "UsersEstimate": 20781
     },
     {
       "ID": "PFA_2",
@@ -24218,7 +24223,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29686
+      "UsersEstimate": 29687
     },
     {
       "ID": "PFA_25",
@@ -24346,7 +24351,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29686
+      "UsersEstimate": 29687
     },
     {
       "ID": "PFA_4",
@@ -24418,7 +24423,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38592
+      "UsersEstimate": 38593
     },
     {
       "ID": "PFA_7",
@@ -24426,7 +24431,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38592
+      "UsersEstimate": 38593
     },
     {
       "ID": "PFA_8",
@@ -24449,7 +24454,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296864,
+      "Progressed": 296868,
       "Completed": 474
     }
   ],
@@ -24457,8 +24462,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-17T23:57:10.1129085+00:00",
-  "LastChanged_Achievements": "2023-09-18T00:05:20.6367852+00:00",
+  "LastChanged_Achievements": "2023-09-18T01:47:17.980804+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:57:10.1129098+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:05:20.6369271+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:39:08.5508402+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:47:17.9809111+00:00"
 }

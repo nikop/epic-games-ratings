@@ -4,8 +4,8 @@
   "ProductSlug": "boomerang-x",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-07-08T15:00:00+00:00",
     "PcReleaseDate": "2021-07-08T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.8367275+00:00",
   "LastChanged": "2023-03-31T05:58:42.8367277+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.0586153+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:58:21.3150845+00:00",
-  "LastUpdate_Achievements": "2023-09-18T00:08:31.2185638+00:00"
+  "LastUpdate_Ratings": "2023-09-18T01:40:21.8195939+00:00",
+  "LastUpdate_Achievements": "2023-09-18T01:50:14.3361936+00:00"
 }
