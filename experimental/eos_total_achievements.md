@@ -527,6 +527,7 @@
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
+| [Road Defense: Outsiders](../games/c/c909a449941841e790460fbbfbbb7dcd.md) | 17 | 1,000 |
 | [Sea Horizon](../games/b/bcd479d96de045fa8805f2bf4962475e.md) | 17 | 1,000 |
 | [Seven Doors](../games/s/seven_doors.md) | 17 | 1,000 |
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
@@ -612,6 +613,7 @@
 | [No Son Of Mine](../games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 11 | 1,000 |
 | [Nocturnal](../games/2/2755e0338895421ebeb217fe1f742e7b.md) | 11 | 1,000 |
 | [Puzzle Compound](../games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 11 | 1,000 |
+| [RedRaptor](../games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 11 | 1,000 |
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |
 | [The Suicide of Rachel Foster](../games/t/the_suicide_of_rachel_foster.md) | 11 | 1,000 |
 | [Until the Last Plane](../games/u/until_the_last_plane.md) | 11 | 1,000 |

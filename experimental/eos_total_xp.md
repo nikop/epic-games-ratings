@@ -439,6 +439,7 @@
 | [Redfall](../games/r/redfall.md) | 66 | 1,000 |
 | [Redout 2](../games/r/redout_2.md) | 52 | 1,000 |
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
+| [RedRaptor](../games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 11 | 1,000 |
 | [Remains](../games/r/remains.md) | 7 | 1,000 |
 | [Remnant 2](../games/r/remnant_2.md) | 50 | 1,000 |
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
@@ -455,6 +456,7 @@
 | [Riverbond](../games/r/riverbond.md) | 57 | 1,000 |
 | [Road 96](../games/r/road_96.md) | 12 | 1,000 |
 | [Road 96: Mile 0](../games/r/road_96__mile_0.md) | 15 | 1,000 |
+| [Road Defense: Outsiders](../games/c/c909a449941841e790460fbbfbbb7dcd.md) | 17 | 1,000 |
 | [Roboplant](../games/r/roboplant.md) | 34 | 1,000 |
 | [Rocco's Island](../games/r/rocco's_island.md) | 40 | 1,000 |
 | [Rocket League®](../games/r/rocket_league®.md) | 88 | 1,000 |

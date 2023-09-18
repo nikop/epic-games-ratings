@@ -5,12 +5,12 @@
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.00% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
-| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.41% |
+| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.13% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.97% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.86% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.95% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -501,6 +501,7 @@
 | 277 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 277 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
 | 277 | [Road 96](games/r/road_96.md) | 0.00% |
+| 277 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 0.00% |
 | 277 | [Roboplant](games/r/roboplant.md) | 0.00% |
 | 277 | [Rocco's Island](games/r/rocco's_island.md) | 0.00% |
 | 277 | [Rogue Spirit](games/r/rogue_spirit.md) | 0.00% |
@@ -598,4 +599,4 @@
 | 277 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 277 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 277 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,261 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,262 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
