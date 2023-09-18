@@ -7177,10 +7177,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14485,
       "NumberOfAwardsMax": 7099
+    },
+    {
+      "Time": "2023-09-18T20:59:48.8213366+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14486,
+      "NumberOfAwardsMax": 7099
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14485,
+  "NumberOfAwards": 14486,
   "NumberOfAwardsMax": 7099,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7218,7 +7224,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 817
+      "Count": 818
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7257,9 +7263,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61410,
+  "EOS_Progressed": 61411,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23287,6 +23293,11 @@
       "Time": "2023-09-18T20:08:32.0469322+00:00",
       "NumProgressed": 61410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T21:06:55.0663592+00:00",
+      "NumProgressed": 61411,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23314,7 +23325,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14124
+      "UsersEstimate": 14125
     },
     {
       "ID": "Best served cold",
@@ -23370,7 +23381,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "Duelist",
@@ -23458,7 +23469,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14124
+      "UsersEstimate": 14125
     },
     {
       "ID": "I can do it",
@@ -23522,7 +23533,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20265
+      "UsersEstimate": 20266
     },
     {
       "ID": "Lawbringer",
@@ -23538,7 +23549,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14124
+      "UsersEstimate": 14125
     },
     {
       "ID": "Long live the Empire",
@@ -23578,7 +23589,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "Real Estate",
@@ -23674,7 +23685,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14124
+      "UsersEstimate": 14125
     },
     {
       "ID": "Undercover",
@@ -23705,15 +23716,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61410,
+      "Progressed": 61411,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-18T19:00:56.8768058+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:08:32.0469317+00:00",
+  "LastChanged": "2023-09-18T20:59:48.8213364+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:06:55.0663587+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:00:58.4690657+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:08:32.0470842+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:59:48.821337+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:06:55.0664932+00:00"
 }

@@ -33,8 +33,8 @@ Rating: 4.41 (Ranked 692)
 | Savior | 26.00% | ~375 |
 | There Can Be Only One! | 25.00% | ~361 |
 | Chain Killer | 22.00% | ~318 |
+| Silent but Violent | 22.00% | ~318 |
 | The Watchers | 22.00% | ~318 |
-| Silent but Violent | 21.00% | ~303 |
 | Commando | 16.00% | ~231 |
 | Dr Jones | 16.00% | ~231 |
 | Newtonian Knockout | 16.00% | ~231 |

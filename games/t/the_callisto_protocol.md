@@ -42,6 +42,7 @@ Rating: 4.19 (Ranked 875)
 | Instigator | 0.40% | ~16 |
 | Subject Alpha | 0.30% | ~12 |
 | The Protocol is About Life | 0.20% | ~32 |
+| Hoard Mode | 0.20% | ~8 |
 | Don't Let It Mellow | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
@@ -50,7 +51,6 @@ Rating: 4.19 (Ranked 875)
 | Lifer | 0.10% | ~4 |
 | Big Game Hunter | 0.10% | ~4 |
 | Bear Trap | 0.10% | ~4 |
-| Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,949 (Ranked 122)  

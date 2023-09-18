@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 486)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,128 |
-| Pay 'n' Spray | 51.00% | ~6,377 |
-| All Dressed Up for San Fierro | 26.00% | ~3,251 |
+| Getting Started | 81.00% | ~10,130 |
+| Pay 'n' Spray | 51.00% | ~6,378 |
+| All Dressed Up for San Fierro | 26.00% | ~3,252 |
 | The American Dream | 19.00% | ~2,376 |
 | School's Out | 18.00% | ~2,251 |
 | Smooth Moves | 17.00% | ~2,126 |
 | What happens in Las Venturas... | 15.00% | ~1,876 |
 | Today Was a Good Day | 15.00% | ~1,876 |
-| Horror of the Santa Maria | 11.00% | ~1,375 |
-| Liberty City State of Mind | 10.00% | ~1,250 |
+| Horror of the Santa Maria | 11.00% | ~1,376 |
+| Liberty City State of Mind | 10.00% | ~1,251 |
 | The End of the Line | 8.00% | ~1,000 |
 | Original Gangster | 8.00% | ~1,000 |
 | With Extra Dip | 7.00% | ~875 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 486)
 | ...Here we go again | 0.50% | ~63 |
 | I Ain't No Buster | 0.40% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,504 (Ranked 126)  
+Progressed: 12,506 (Ranked 126)  
 Completed: 45 (0.36%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,17 +192,17 @@ Completed: 45 (0.36%) (Ranked 169)
 | 2023-09-15 | 12,292 | 45 |
 | 2023-09-16 | 12,369 | 45 |
 | 2023-09-17 | 12,454 | 45 |
-| 2023-09-18 | 12,504 | 45 |
+| 2023-09-18 | 12,506 | 45 |
 ## Awards
 Max (Great Boss Battles): 291  (Ranked 241)  
-Sum: 385 (Ranked 324)  
+Sum: 386 (Ranked 324)  
 Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 291 |
 | This game is Relaxing | 26 |
 | This game has Amazing Storytelling | 24 |
-| This game has Amazing Characters | 22 |
+| This game has Amazing Characters | 23 |
 | This game is Highly Recommended | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -329,4 +329,4 @@ Diff (max vs sum): -83
 | 2023-09-15 | 4.55 | 289 | 380 |
 | 2023-09-16 | 4.55 | 291 | 384 |
 | 2023-09-17 | 4.56 | 291 | 384 |
-| 2023-09-18 | 4.55 | 291 | 385 |
+| 2023-09-18 | 4.55 | 291 | 386 |

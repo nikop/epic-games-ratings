@@ -5,14 +5,14 @@ Rating: 4.64 (Ranked 315)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,970 |
-| Mods Please Ban | 77.00% | ~18,526 |
+| Eye Scream, You Scream | 83.00% | ~19,971 |
+| Mods Please Ban | 77.00% | ~18,527 |
 | Bring A Knife to a Gun Fight | 76.00% | ~18,286 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,564 |
-| First Bounty Down | 59.00% | ~14,195 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,714 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,565 |
+| First Bounty Down | 59.00% | ~14,196 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,715 |
 | Luglox Genocide | 43.00% | ~10,346 |
-| Don't Knife The Hand That Feeds | 34.00% | ~8,180 |
+| Don't Knife The Hand That Feeds | 34.00% | ~8,181 |
 | Playing Card To Get | 33.00% | ~7,940 |
 | Creature Feature | 30.00% | ~7,218 |
 | Satisfied Gus-tomer | 28.00% | ~6,737 |
@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 315)
 | Series Wrap on Suit-O | 22.00% | ~5,293 |
 | Lezduit! | 20.00% | ~4,812 |
 | Who's The Boss? | 20.00% | ~4,812 |
-| Self-Actualization | 19.00% | ~4,571 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,571 |
+| Self-Actualization | 19.00% | ~4,572 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,572 |
 | Legendary Bounty Hunter | 18.00% | ~4,331 |
 | Seeing All The Sights | 16.00% | ~3,850 |
 | Carried Stan's Load To Completion | 13.00% | ~3,128 |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 315)
 | Epic Legendary Prize | 1.00% | ~241 |
 | A Starfish Is Born | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,060 (Ranked 110)  
+Progressed: 24,061 (Ranked 110)  
 Completed: 12 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 12 (0.05%) (Ranked 240)
 | 2023-09-15 | 24,057 | 12 |
 | 2023-09-16 | 24,058 | 12 |
 | 2023-09-17 | 24,060 | 12 |
+| 2023-09-18 | 24,061 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

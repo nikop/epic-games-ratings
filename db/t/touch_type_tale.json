@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3537,
+  "EOS_Progressed": 3541,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3604,6 +3604,11 @@
       "Time": "2023-09-18T20:07:57.3570229+00:00",
       "NumProgressed": 3537,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T21:06:29.9164962+00:00",
+      "NumProgressed": 3541,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3663,7 +3668,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3116
     },
     {
       "ID": "campaign10",
@@ -3679,7 +3684,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "campaign12",
@@ -3735,7 +3740,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "campaign19",
@@ -3751,7 +3756,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2727
     },
     {
       "ID": "campaign20",
@@ -3767,7 +3772,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2160
     },
     {
       "ID": "campaign4",
@@ -3775,7 +3780,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1558
     },
     {
       "ID": "campaign5",
@@ -3783,7 +3788,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "campaign6",
@@ -3791,7 +3796,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "campaign7",
@@ -3799,7 +3804,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "campaign8",
@@ -3807,7 +3812,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "campaign9",
@@ -3823,7 +3828,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1381
     },
     {
       "ID": "scenario2",
@@ -3855,7 +3860,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "scenario6",
@@ -3863,7 +3868,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "scenario7",
@@ -3878,7 +3883,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3537,
+      "Progressed": 3541,
       "Completed": 11
     }
   ],
@@ -3886,8 +3891,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:07:57.3570223+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:06:29.9164958+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:01:38.2534473+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:07:57.3570822+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:00:15.3278125+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:06:29.9165446+00:00"
 }

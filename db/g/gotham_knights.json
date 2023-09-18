@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3014,9 +3014,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72647,
+  "EOS_Progressed": 72648,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15924,6 +15924,11 @@
       "Time": "2023-09-18T20:04:41.2555429+00:00",
       "NumProgressed": 72647,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-18T21:04:11.8174945+00:00",
+      "NumProgressed": 72648,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16047,7 +16052,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13076
+      "UsersEstimate": 13077
     },
     {
       "ID": "CLAYFACE_3",
@@ -16239,7 +16244,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25426
+      "UsersEstimate": 25427
     },
     {
       "ID": "HARLEY_2",
@@ -16255,7 +16260,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14529
+      "UsersEstimate": 14530
     },
     {
       "ID": "HARLEY_4",
@@ -16279,7 +16284,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37776
+      "UsersEstimate": 37777
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16303,7 +16308,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14529
+      "UsersEstimate": 14530
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16351,7 +16356,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14529
+      "UsersEstimate": 14530
     },
     {
       "ID": "MYSTERY_05",
@@ -16359,7 +16364,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13076
+      "UsersEstimate": 13077
     },
     {
       "ID": "MYSTERY_06",
@@ -16422,13 +16427,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72647,
+      "Progressed": 72648,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42927,
+      "Progressed": 42928,
       "Completed": 2663
     }
   ],
@@ -16436,8 +16441,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-18T20:00:41.0698941+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:04:41.2555421+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:04:11.8174937+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:00:41.0698947+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:04:41.2556808+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:59:36.2730183+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:04:11.8176289+00:00"
 }

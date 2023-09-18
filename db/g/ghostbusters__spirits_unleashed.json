@@ -13157,9 +13157,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Collector",
@@ -13221,9 +13221,9 @@
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     },
     {
       "ID": "Escape_Artist",
@@ -13526,8 +13526,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-17T19:01:08.4051073+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:05:40.8043184+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:04:54.3553418+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:59:52.427232+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:05:40.8044393+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:59:06.3429767+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:04:54.3554508+00:00"
 }

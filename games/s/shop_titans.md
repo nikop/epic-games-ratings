@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,727 |
-| Basic in Bulk | 2.00% | ~2,727 |
-| Disintermediation | 2.00% | ~2,727 |
-| Tinkle of Coins | 2.00% | ~2,727 |
-| Capitalism Ho! | 2.00% | ~2,727 |
-| Titan's First Steps | 2.00% | ~2,727 |
+| Sponsored by Argon | 2.00% | ~2,728 |
+| Basic in Bulk | 2.00% | ~2,728 |
+| Disintermediation | 2.00% | ~2,728 |
+| Tinkle of Coins | 2.00% | ~2,728 |
+| Capitalism Ho! | 2.00% | ~2,728 |
+| Titan's First Steps | 2.00% | ~2,728 |
 | One Easy Payment | 1.00% | ~1,364 |
 | Some Assembly Required | 1.00% | ~1,364 |
 | Another Satisfied Customer | 1.00% | ~1,364 |
@@ -66,48 +66,48 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.50% | ~682 |
 | Special Ingredient | 0.50% | ~682 |
 | Complete Monopoly | 0.50% | ~682 |
-| Cream of the Crop | 0.40% | ~545 |
-| Top of the World | 0.40% | ~545 |
-| Proud Paladin | 0.40% | ~545 |
-| Above the Norm | 0.40% | ~545 |
-| Constellated | 0.40% | ~545 |
-| A Ronin Reborn | 0.40% | ~545 |
-| Thirst for Knowledge | 0.40% | ~545 |
-| Booty by the Boatload | 0.40% | ~545 |
-| Archivist | 0.40% | ~545 |
-| Fillin' the Bin | 0.40% | ~545 |
-| Industrial Evolution | 0.40% | ~545 |
-| Omae wa Mou Shindeiru | 0.40% | ~545 |
-| Supercharged | 0.40% | ~545 |
-| Ritualist | 0.40% | ~545 |
-| Fit for a King | 0.40% | ~545 |
-| By Your Powers Combined... | 0.40% | ~545 |
-| Wealth Beyond Measure | 0.40% | ~545 |
-| Fat Cat Tag Team | 0.40% | ~545 |
-| Necromancer Queen | 0.40% | ~545 |
-| Item of Renown | 0.40% | ~545 |
-| Master Merchant | 0.40% | ~545 |
-| Bountiful Harvest | 0.40% | ~545 |
-| Precision Engineering | 0.40% | ~545 |
-| Scourge of the Seas | 0.40% | ~545 |
-| Attrition Mission | 0.40% | ~545 |
-| Glittering Collection | 0.40% | ~545 |
-| Treasure Trove | 0.40% | ~545 |
-| Moment of Respite | 0.40% | ~545 |
-| King's Shadow | 0.40% | ~545 |
-| Master Recycler | 0.40% | ~545 |
-| Exotic Commodities | 0.40% | ~545 |
-| Economy of Scarce | 0.40% | ~545 |
+| Cream of the Crop | 0.40% | ~546 |
+| Top of the World | 0.40% | ~546 |
+| Proud Paladin | 0.40% | ~546 |
+| Above the Norm | 0.40% | ~546 |
+| Constellated | 0.40% | ~546 |
+| A Ronin Reborn | 0.40% | ~546 |
+| Thirst for Knowledge | 0.40% | ~546 |
+| Booty by the Boatload | 0.40% | ~546 |
+| Archivist | 0.40% | ~546 |
+| Fillin' the Bin | 0.40% | ~546 |
+| Industrial Evolution | 0.40% | ~546 |
+| Omae wa Mou Shindeiru | 0.40% | ~546 |
+| Supercharged | 0.40% | ~546 |
+| Ritualist | 0.40% | ~546 |
+| Fit for a King | 0.40% | ~546 |
+| By Your Powers Combined... | 0.40% | ~546 |
+| Wealth Beyond Measure | 0.40% | ~546 |
+| Fat Cat Tag Team | 0.40% | ~546 |
+| Necromancer Queen | 0.40% | ~546 |
+| Item of Renown | 0.40% | ~546 |
+| Master Merchant | 0.40% | ~546 |
+| Bountiful Harvest | 0.40% | ~546 |
+| Precision Engineering | 0.40% | ~546 |
+| Scourge of the Seas | 0.40% | ~546 |
+| Attrition Mission | 0.40% | ~546 |
+| Glittering Collection | 0.40% | ~546 |
+| Treasure Trove | 0.40% | ~546 |
+| Moment of Respite | 0.40% | ~546 |
+| King's Shadow | 0.40% | ~546 |
+| Master Recycler | 0.40% | ~546 |
+| Exotic Commodities | 0.40% | ~546 |
+| Economy of Scarce | 0.40% | ~546 |
 | Thank You Tom Nook | 0.30% | ~409 |
 | A Legend is Born | 0.30% | ~409 |
 | Jackpot! | 0.30% | ~409 |
+| Eternal Crusade | 0.30% | ~409 |
 | All Accounted For | 0.30% | ~409 |
 | King's Blade | 0.30% | ~409 |
 | The Free Encyclopedia | 0.20% | ~273 |
 | JACKPOT!!! | 0.20% | ~273 |
 | The Greatest Grind | 0.20% | ~273 |
 | All or Nothing! | 0.20% | ~273 |
-| Eternal Crusade | 0.20% | ~273 |
 | Marvels from the World Over | 0.20% | ~273 |
 | Bane of Legends | 0.10% | ~136 |
 | Ultimate Collector | 0.10% | ~136 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,373 (Ranked 69)  
+Progressed: 136,376 (Ranked 69)  
 Completed: 152 (0.11%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 152 (0.11%) (Ranked 220)
 | 2023-09-15 | 136,220 | 151 |
 | 2023-09-16 | 136,276 | 152 |
 | 2023-09-17 | 136,337 | 152 |
-| 2023-09-18 | 136,373 | 152 |
+| 2023-09-18 | 136,376 | 152 |
 ## Awards
 Max (Great for Beginners): 4,748  (Ranked 70)  
 Sum: 27,254 (Ranked 48)  

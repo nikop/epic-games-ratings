@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -890,10 +890,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 385,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2023-09-18T20:59:29.5902151+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 386,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 385,
+  "NumberOfAwards": 386,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -919,7 +925,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Highly Recommended",
@@ -928,9 +934,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12504,
+  "EOS_Progressed": 12506,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10713,6 +10719,11 @@
       "Time": "2023-09-18T20:06:46.1442961+00:00",
       "NumProgressed": 12504,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-18T21:05:39.9529485+00:00",
+      "NumProgressed": 12506,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10724,7 +10735,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10128
+      "UsersEstimate": 10130
     },
     {
       "ID": "ACH02",
@@ -10780,7 +10791,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6377
+      "UsersEstimate": 6378
     },
     {
       "ID": "ACH09",
@@ -10804,7 +10815,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "ACH12",
@@ -10828,7 +10839,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "ACH15",
@@ -10900,7 +10911,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "ACH24",
@@ -11003,16 +11014,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12504,
+      "Progressed": 12506,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-09-18T13:05:06.0343275+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:06:46.1442955+00:00",
+  "LastChanged": "2023-09-18T20:59:29.590215+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:05:39.9529481+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:00:30.9371216+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:06:46.1443848+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:59:29.5902157+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:05:39.9530297+00:00"
 }

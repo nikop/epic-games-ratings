@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -404,9 +404,9 @@
       "ID": "space_car",
       "SetID": "94981fl",
       "Name": "space car!",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "super_combo_10x",
@@ -468,9 +468,9 @@
       "ID": "ultra_killing_machine",
       "SetID": "94981fl",
       "Name": "ultra killing machine",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:04:08.2071998+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:03:48.0538265+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.9397468+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:57:11.3816355+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:04:08.2072271+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:57:16.848137+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:03:48.0538496+00:00"
 }

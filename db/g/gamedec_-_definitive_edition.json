@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -408,9 +408,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246412,
+  "EOS_Progressed": 246417,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 758,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17243,6 +17243,11 @@
       "Time": "2023-09-18T20:07:56.4344913+00:00",
       "NumProgressed": 246412,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-18T21:06:29.2325765+00:00",
+      "NumProgressed": 246417,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17254,7 +17259,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66531
+      "UsersEstimate": 66533
     },
     {
       "ID": "ACH_AON",
@@ -17278,7 +17283,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9856
+      "UsersEstimate": 9857
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -17294,7 +17299,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 27105
+      "UsersEstimate": 27106
     },
     {
       "ID": "ACH_ENJOY",
@@ -17326,7 +17331,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7392
+      "UsersEstimate": 7393
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -17334,7 +17339,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22177
+      "UsersEstimate": 22178
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -17374,7 +17379,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7392
+      "UsersEstimate": 7393
     },
     {
       "ID": "ACH_IRONDEC",
@@ -17398,7 +17403,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 68995
+      "UsersEstimate": 68997
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -17422,7 +17427,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9856
+      "UsersEstimate": 9857
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -17470,7 +17475,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59139
+      "UsersEstimate": 59140
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -17550,7 +17555,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7392
+      "UsersEstimate": 7393
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -17574,7 +17579,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61603
+      "UsersEstimate": 61604
     },
     {
       "ID": "ACH_SOREAD",
@@ -17582,7 +17587,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9856
+      "UsersEstimate": 9857
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -17669,7 +17674,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246412,
+      "Progressed": 246417,
       "Completed": 7
     }
   ],
@@ -17677,8 +17682,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-14T17:02:57.7818889+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:07:56.4344907+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:06:29.2325761+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.3686602+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:58:10.9272373+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:07:56.4346438+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:57:57.41965+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:06:29.2327013+00:00"
 }

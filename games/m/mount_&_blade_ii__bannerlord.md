@@ -7,11 +7,11 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~23,950 |
-| Landlord | 33.00% | ~20,265 |
-| Bannerlord | 23.00% | ~14,124 |
-| Horde breaker | 23.00% | ~14,124 |
-| Lawmaker | 23.00% | ~14,124 |
-| Trained | 23.00% | ~14,124 |
+| Landlord | 33.00% | ~20,266 |
+| Bannerlord | 23.00% | ~14,125 |
+| Horde breaker | 23.00% | ~14,125 |
+| Lawmaker | 23.00% | ~14,125 |
+| Trained | 23.00% | ~14,125 |
 | The king is pleased | 18.00% | ~11,054 |
 | King Solomon | 17.00% | ~10,440 |
 | I can do it | 16.00% | ~9,826 |
@@ -27,8 +27,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 8.00% | ~4,913 |
 | Know your enemy | 7.00% | ~4,299 |
 | Mastery | 7.00% | ~4,299 |
-| Crush your enemies | 5.00% | ~3,070 |
-| My way | 5.00% | ~3,070 |
+| Crush your enemies | 5.00% | ~3,071 |
+| My way | 5.00% | ~3,071 |
 | Crowdfunded | 4.00% | ~2,456 |
 | Veni vidi vici | 4.00% | ~2,456 |
 | Freedom! | 3.00% | ~1,842 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,410 (Ranked 89)  
+Progressed: 61,411 (Ranked 89)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 61,114 | 0 |
 | 2023-09-16 | 61,223 | 0 |
 | 2023-09-17 | 61,334 | 0 |
-| 2023-09-18 | 61,410 | 0 |
+| 2023-09-18 | 61,411 | 0 |
 ## Awards
 Max (Character Customization): 7,099  (Ranked 51)  
-Sum: 14,485 (Ranked 69)  
+Sum: 14,486 (Ranked 69)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
@@ -221,7 +221,7 @@ Diff (max vs sum): -18
 | This game has Diverse Characters | 918 |
 | This game is Highly Recommended | 868 |
 | This game is Extremely Fun | 832 |
-| This game has Amazing Storytelling | 817 |
+| This game has Amazing Storytelling | 818 |
 | This game is Relaxing | 806 |
 | This game has Amazing Characters | 803 |
 | This game has Quickly Understood Controls | 793 |
@@ -477,4 +477,4 @@ Diff (max vs sum): -18
 | 2023-09-15 | 4.74 | - | 7,081 | 14,431 |
 | 2023-09-16 | 4.74 | - | 7,084 | 14,445 |
 | 2023-09-17 | 4.74 | - | 7,092 | 14,460 |
-| 2023-09-18 | 4.74 | - | 7,099 | 14,485 |
+| 2023-09-18 | 4.74 | - | 7,099 | 14,486 |

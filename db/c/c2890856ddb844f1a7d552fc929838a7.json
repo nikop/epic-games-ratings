@@ -5,7 +5,7 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 115,
@@ -1747,9 +1747,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 404
     },
     {
       "ID": "AC20",
@@ -1779,9 +1779,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 282
     },
     {
       "ID": "AC24",
@@ -1972,8 +1972,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:03:39.5325567+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:03:34.6498797+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:02:18.8600149+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:03:39.5326018+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:02:08.7262667+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:03:34.649927+00:00"
 }

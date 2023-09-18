@@ -9,7 +9,7 @@ Number of Ratings: 98  (23.09.2022)
 | E1M1 | 40.00% | ~555 |
 | War Never Changes | 39.00% | ~541 |
 | Grenadier | 38.00% | ~527 |
-| Heroes Never Die | 35.00% | ~485 |
+| Heroes Never Die | 35.00% | ~486 |
 | Mosquito bite | 33.00% | ~458 |
 | Spice It Up | 30.00% | ~416 |
 | Agent 47 | 25.00% | ~347 |
@@ -24,7 +24,7 @@ Number of Ratings: 98  (23.09.2022)
 | Lock, Stock | 7.00% | ~97 |
 | Payback Time | 7.00% | ~97 |
 | No Witness | 5.00% | ~69 |
-| Strategist | 4.00% | ~55 |
+| Strategist | 4.00% | ~56 |
 | Unbreakable Wall | 2.00% | ~28 |
 | Experienced Strategist | 2.00% | ~28 |
 | Do a Barrel Roll! | 1.00% | ~14 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,387 (Ranked 201)  
+Progressed: 1,388 (Ranked 201)  
 Completed: 1 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 1 (0.07%) (Ranked 232)
 | 2023-09-15 | 1,357 | 1 |
 | 2023-09-16 | 1,367 | 1 |
 | 2023-09-17 | 1,379 | 1 |
-| 2023-09-18 | 1,387 | 1 |
+| 2023-09-18 | 1,388 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6730,9 +6730,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229308,
+  "EOS_Progressed": 229310,
   "EOS_Completed": 2294,
-  "EOS_NewPlayers": 871,
+  "EOS_NewPlayers": 868,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23510,6 +23510,11 @@
       "Time": "2023-09-18T20:08:16.7208303+00:00",
       "NumProgressed": 229308,
       "NumCompleted": 2294
+    },
+    {
+      "Time": "2023-09-18T21:06:44.883593+00:00",
+      "NumProgressed": 229310,
+      "NumCompleted": 2294
     }
   ],
   "TotalAchievements": 520,
@@ -24815,9 +24820,9 @@
       "ID": "objective_completed_184",
       "SetID": "cc37lbc",
       "Name": "Tomb of the Nine Gods",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_185",
@@ -27680,21 +27685,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195582,
+      "Progressed": 195584,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229308,
+      "Progressed": 229310,
       "Completed": 2294
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-18T19:58:28.9400181+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:08:16.7208297+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:06:44.8835926+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:58:28.9400188+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:08:16.7240132+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:58:10.4037363+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:06:44.8863008+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -108,10 +108,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73629,
+  "EOS_Progressed": 73633,
   "EOS_Completed": 764,
-  "EOS_NewPlayers": 632,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 631,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -16948,6 +16948,11 @@
       "Time": "2023-09-18T20:07:20.7281647+00:00",
       "NumProgressed": 73629,
       "NumCompleted": 764
+    },
+    {
+      "Time": "2023-09-18T21:06:03.7942248+00:00",
+      "NumProgressed": 73633,
+      "NumCompleted": 764
     }
   ],
   "TotalAchievements": 25,
@@ -16975,7 +16980,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13253
+      "UsersEstimate": 13254
     },
     {
       "ID": "Audiophile",
@@ -16991,7 +16996,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16198
+      "UsersEstimate": 16199
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -16999,7 +17004,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13253
+      "UsersEstimate": 13254
     },
     {
       "ID": "Butcher",
@@ -17031,7 +17036,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14726
+      "UsersEstimate": 14727
     },
     {
       "ID": "Hearty",
@@ -17055,7 +17060,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "Master, Commander",
@@ -17063,7 +17068,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14726
+      "UsersEstimate": 14727
     },
     {
       "ID": "Meaty",
@@ -17151,14 +17156,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73629,
+      "Progressed": 73633,
       "Completed": 764
     }
   ],
@@ -17166,8 +17171,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:07:20.7281641+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:06:03.7942243+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:02:11.1312837+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:07:20.7282647+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:00:42.792848+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:06:03.794325+00:00"
 }

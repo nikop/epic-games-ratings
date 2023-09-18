@@ -5,27 +5,27 @@ Rating: 4.82 (Ranked 66)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~2,930 |
-| A Thorny Situation | 69.00% | ~2,770 |
-| ... And Spit Back Out | 58.00% | ~2,328 |
-| Break-Net Speed | 45.00% | ~1,806 |
-| Bramble Breaker | 41.00% | ~1,646 |
-| Miner 49er | 38.00% | ~1,525 |
-| Humble Collector | 36.00% | ~1,445 |
-| Calm Sailing | 28.00% | ~1,124 |
-| Open the Gate! | 24.00% | ~963 |
-| Mist Walker | 22.00% | ~883 |
-| Lumberjack | 20.00% | ~803 |
-| Oui, Chef! | 19.00% | ~763 |
-| Botanical Breakthrough | 11.00% | ~442 |
-| Clear the Air | 9.00% | ~361 |
-| Beach Comber | 9.00% | ~361 |
+| Azoria Beckons | 73.00% | ~2,937 |
+| A Thorny Situation | 69.00% | ~2,776 |
+| ... And Spit Back Out | 58.00% | ~2,333 |
+| Break-Net Speed | 45.00% | ~1,810 |
+| Bramble Breaker | 41.00% | ~1,649 |
+| Miner 49er | 38.00% | ~1,529 |
+| Humble Collector | 37.00% | ~1,489 |
+| Calm Sailing | 28.00% | ~1,126 |
+| Open the Gate! | 25.00% | ~1,006 |
+| Mist Walker | 23.00% | ~925 |
+| Lumberjack | 20.00% | ~805 |
+| Oui, Chef! | 19.00% | ~764 |
+| Botanical Breakthrough | 11.00% | ~443 |
+| Beach Comber | 10.00% | ~402 |
+| Clear the Air | 9.00% | ~362 |
 | Higher Tax Bracket | 6.00% | ~241 |
 | Search for the Hairy Grell | 5.00% | ~201 |
-| Got to Catch Them All | 3.00% | ~120 |
-| Rumble in the Jumble | 3.00% | ~120 |
-| Fanatical Farmer | 3.00% | ~120 |
-| Skilled | 3.00% | ~120 |
+| Rumble in the Jumble | 4.00% | ~161 |
+| Fanatical Farmer | 4.00% | ~161 |
+| Skilled | 4.00% | ~161 |
+| Got to Catch Them All | 3.00% | ~121 |
 | Flaming Hot Completos | 2.00% | ~80 |
 | Fae Farmer | 2.00% | ~80 |
 | Scattered Scroll Scrounger | 2.00% | ~80 |
@@ -41,7 +41,7 @@ Rating: 4.82 (Ranked 66)
 | Giving the People What They Want | 0.10% | ~4 |
 | Very Skilled | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,014 (Ranked 159)  
+Progressed: 4,023 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 3,022 | 0 |
 | 2023-09-16 | 3,404 | 0 |
 | 2023-09-17 | 3,792 | 0 |
-| 2023-09-18 | 4,014 | 0 |
+| 2023-09-18 | 4,023 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

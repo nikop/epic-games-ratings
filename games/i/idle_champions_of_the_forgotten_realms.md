@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.20% | ~459 |
 | Sleuth It Out | 0.20% | ~459 |
 | A Grand Puzzle | 0.20% | ~459 |
+| Tomb of the Nine Gods | 0.20% | ~459 |
 | No Time To Rest | 0.20% | ~459 |
 | The Mists of Ravenloft | 0.20% | ~459 |
 | Invisible Shadows | 0.20% | ~459 |
@@ -240,7 +241,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Never Split the Party | 0.10% | ~229 |
 | Azaka's Procession - Part 1 | 0.10% | ~229 |
 | Snakes on our Plane | 0.10% | ~196 |
-| Tomb of the Nine Gods | 0.10% | ~229 |
 | The Soulmonger Calls | 0.10% | ~229 |
 | Azaka's Procession - Part 2 | 0.10% | ~229 |
 | Acererak's Puzzle | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,308 (Ranked 57)  
+Progressed: 229,310 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,308 | 2,294 |
+| 2023-09-18 | 229,310 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,631 (Ranked 39)  

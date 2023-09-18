@@ -7,8 +7,9 @@ Rating: 4.50 (Ranked 567)
 | ---- | ---------- | ----- |
 | Stylish | 0.50% | ~129 |
 | Advancement | 0.40% | ~104 |
+| Meticulously Efficient | 0.40% | ~104 |
+| I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Discovery | 0.30% | ~78 |
-| Meticulously Efficient | 0.30% | ~78 |
 | Fully Upgraded | 0.30% | ~78 |
 | Solo Capture | 0.30% | ~78 |
 | Teamwork | 0.30% | ~78 |
@@ -17,7 +18,6 @@ Rating: 4.50 (Ranked 567)
 | Animated | 0.20% | ~52 |
 | Back Off | 0.20% | ~52 |
 | Clutch Capture | 0.20% | ~52 |
-| I collect Spores, Molds, and Fungi | 0.20% | ~52 |
 | Cultured | 0.20% | ~52 |
 | Ectoplasmic Entity | 0.20% | ~52 |
 | Ghostbuster In Training | 0.20% | ~52 |

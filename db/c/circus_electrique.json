@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 465,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -444,6 +444,11 @@
       "Time": "2023-09-16T20:09:58.8819435+00:00",
       "NumProgressed": 464,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T21:03:30.3946723+00:00",
+      "NumProgressed": 465,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -455,7 +460,7 @@
       "Name": "Grand Opening",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -463,7 +468,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -519,7 +524,7 @@
       "Name": "Path of Learning",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -559,7 +564,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -567,7 +572,7 @@
       "Name": "Club Member",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -581,9 +586,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -607,7 +612,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -615,7 +620,7 @@
       "Name": "Hundred Percent Second",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -775,7 +780,7 @@
       "Name": "Self Defense",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -807,7 +812,7 @@
       "Name": "Spirits High",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -854,7 +859,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 465,
       "Completed": 1
     }
   ],
@@ -862,8 +867,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-18T20:03:33.7039762+00:00",
+  "LastChanged_Achievements": "2023-09-18T21:03:30.3946711+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.7956717+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:58:37.455592+00:00",
-  "LastUpdate_Achievements": "2023-09-18T20:03:33.7040275+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:58:15.4202965+00:00",
+  "LastUpdate_Achievements": "2023-09-18T21:03:30.394716+00:00"
 }
