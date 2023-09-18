@@ -46,6 +46,7 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
 | Blood and Iron | 0.20% | ~6 |
+| Clean Slate | 0.20% | ~6 |
 | Warp Flickers | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
@@ -56,7 +57,6 @@ Number of Ratings: 371  (23.09.2022)
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
-| Clean Slate | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |

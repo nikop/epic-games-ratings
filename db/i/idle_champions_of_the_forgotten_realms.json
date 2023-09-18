@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6726,7 +6726,7 @@
   ],
   "EOS_Progressed": 229244,
   "EOS_Completed": 2292,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -26040,9 +26040,9 @@
       "ID": "objective_completed_605",
       "SetID": "cc37lbc",
       "Name": "Resolve Amongst Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_606",
@@ -26712,9 +26712,9 @@
       "ID": "objective_completed_807",
       "SetID": "415jc5c",
       "Name": "Civilization",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_808",
@@ -27622,8 +27622,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-17T21:57:49.5337386+00:00",
-  "LastChanged_Achievements": "2023-09-18T06:06:25.9125662+00:00",
+  "LastChanged_Achievements": "2023-09-18T07:07:19.9507114+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:57:48.4333136+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:06:25.9153842+00:00"
+  "LastUpdate_Ratings": "2023-09-18T06:58:09.6134214+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:07:19.9537851+00:00"
 }

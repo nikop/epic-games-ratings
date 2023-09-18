@@ -4,7 +4,7 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 202,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 126,
@@ -1304,9 +1304,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428048,
+  "EOS_Progressed": 428049,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -11584,6 +11584,11 @@
       "Time": "2023-09-18T00:07:06.210859+00:00",
       "NumProgressed": 428048,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-09-18T07:06:44.8345773+00:00",
+      "NumProgressed": 428049,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 41,
@@ -11635,7 +11640,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179780
+      "UsersEstimate": 179781
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -11643,7 +11648,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111292
+      "UsersEstimate": 111293
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -11651,7 +11656,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128414
+      "UsersEstimate": 128415
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -11715,7 +11720,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111292
+      "UsersEstimate": 111293
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -11763,7 +11768,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406646
+      "UsersEstimate": 406647
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -11795,7 +11800,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295353
+      "UsersEstimate": 295354
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -11803,7 +11808,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111292
+      "UsersEstimate": 111293
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -11811,7 +11816,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342438
+      "UsersEstimate": 342439
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -11843,7 +11848,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196902
+      "UsersEstimate": 196903
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -11891,7 +11896,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145536
+      "UsersEstimate": 145537
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -11922,15 +11927,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428048,
+      "Progressed": 428049,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-10T15:01:55.9798538+00:00",
-  "LastChanged_Achievements": "2023-09-18T06:05:57.0286399+00:00",
+  "LastChanged_Achievements": "2023-09-18T07:06:44.8345766+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:55.7444197+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:58:37.7578319+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:05:57.028739+00:00"
+  "LastUpdate_Ratings": "2023-09-18T06:59:11.5316566+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:06:44.8346766+00:00"
 }

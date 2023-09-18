@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -700,7 +700,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 524560,
+  "EOS_Progressed": 524562,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1919,
   "EOS_NewCompleters": 0,
@@ -17415,6 +17415,11 @@
       "Time": "2023-09-18T06:09:24.4078666+00:00",
       "NumProgressed": 524560,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-18T07:09:40.1221352+00:00",
+      "NumProgressed": 524562,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -17450,7 +17455,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 47210
+      "UsersEstimate": 47211
     },
     {
       "ID": "BlindmansBluff",
@@ -17458,7 +17463,7 @@
       "Name": "Blindman\u0027s Bluff",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47210
+      "UsersEstimate": 47211
     },
     {
       "ID": "BluffingEh",
@@ -17522,7 +17527,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 204578
+      "UsersEstimate": 204579
     },
     {
       "ID": "DeadlyAssassin",
@@ -17658,7 +17663,7 @@
       "Name": "Poker Joker",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47210
+      "UsersEstimate": 47211
     },
     {
       "ID": "PokerShowdown",
@@ -17674,7 +17679,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 398666
+      "UsersEstimate": 398667
     },
     {
       "ID": "ProPlayer",
@@ -17785,7 +17790,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 524560,
+      "Progressed": 524562,
       "Completed": 2
     }
   ],
@@ -17793,8 +17798,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-09-17T11:03:06.0403213+00:00",
-  "LastChanged_Achievements": "2023-09-18T06:09:24.4078652+00:00",
+  "LastChanged_Achievements": "2023-09-18T07:09:40.1221342+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.0665616+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:59:37.537829+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:09:24.408005+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:00:25.6240467+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:09:40.1222568+00:00"
 }

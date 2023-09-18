@@ -1,18 +1,18 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.52 (Ranked 534)  
+Rating: 4.52 (Ranked 535)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~30,602 |
 | Just The Two of Us | 32.00% | ~28,802 |
-| Up On High | 25.00% | ~22,501 |
-| Under The Hood | 25.00% | ~22,501 |
-| Got Your Nose | 24.00% | ~21,601 |
-| The Gift of Gab | 24.00% | ~21,601 |
-| Wrapping Up | 22.00% | ~19,801 |
+| Up On High | 25.00% | ~22,502 |
+| Under The Hood | 25.00% | ~22,502 |
+| Got Your Nose | 24.00% | ~21,602 |
+| The Gift of Gab | 24.00% | ~21,602 |
+| Wrapping Up | 22.00% | ~19,802 |
 | More Than A Box Of Sand | 18.00% | ~16,201 |
 | The Dunboyne | 17.00% | ~15,301 |
 | Badge Hobbyist | 17.00% | ~15,301 |
@@ -29,22 +29,22 @@ Number of Ratings: 43  (23.09.2022)
 | Badge Collector | 12.00% | ~10,801 |
 | Quite The Catch | 12.00% | ~10,801 |
 | Rowleys Way | 11.00% | ~9,901 |
-| The Machinist Mask | 10.00% | ~9,000 |
-| The Cartographer Mask | 10.00% | ~9,000 |
-| Balfron Connection | 10.00% | ~9,000 |
-| Ceiling Of Stars | 10.00% | ~9,000 |
-| Playing Dress Up | 10.00% | ~9,000 |
-| Many Different Faces | 9.00% | ~8,100 |
-| Trellick's Pillar | 9.00% | ~8,100 |
-| Centre Of Brunswick | 9.00% | ~8,100 |
-| Bike Collector | 9.00% | ~8,100 |
-| Not That Kind Of Gliding | 9.00% | ~8,100 |
-| The Scrapper Mask | 8.00% | ~7,200 |
-| Shadow Of Neave | 8.00% | ~7,200 |
-| Fragile Goods | 8.00% | ~7,200 |
-| Glider on the Storm | 8.00% | ~7,200 |
-| Squeeze One Out | 8.00% | ~7,200 |
-| Dune Rider | 8.00% | ~7,200 |
+| The Machinist Mask | 10.00% | ~9,001 |
+| The Cartographer Mask | 10.00% | ~9,001 |
+| Balfron Connection | 10.00% | ~9,001 |
+| Ceiling Of Stars | 10.00% | ~9,001 |
+| Playing Dress Up | 10.00% | ~9,001 |
+| Many Different Faces | 9.00% | ~8,101 |
+| Trellick's Pillar | 9.00% | ~8,101 |
+| Centre Of Brunswick | 9.00% | ~8,101 |
+| Bike Collector | 9.00% | ~8,101 |
+| Not That Kind Of Gliding | 9.00% | ~8,101 |
+| The Scrapper Mask | 8.00% | ~7,201 |
+| Shadow Of Neave | 8.00% | ~7,201 |
+| Fragile Goods | 8.00% | ~7,201 |
+| Glider on the Storm | 8.00% | ~7,201 |
+| Squeeze One Out | 8.00% | ~7,201 |
+| Dune Rider | 8.00% | ~7,201 |
 | Amateur Historian | 7.00% | ~6,300 |
 | The Beetle Mask | 7.00% | ~6,300 |
 | The Guard Mask | 7.00% | ~6,300 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,700 |
 | Vivacious Vivarium | 2.00% | ~1,800 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,005 (Ranked 76)  
+Progressed: 90,007 (Ranked 76)  
 Completed: 900 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 900 (1.00%) (Ranked 124)
 | 2023-09-15 | 89,464 | 892 |
 | 2023-09-16 | 89,702 | 895 |
 | 2023-09-17 | 89,959 | 900 |
-| 2023-09-18 | 90,005 | 900 |
+| 2023-09-18 | 90,007 | 900 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 490)  
 Sum: 86 (Ranked 426)  

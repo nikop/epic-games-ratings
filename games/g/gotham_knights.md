@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 884)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,770 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,422 |
+| First Step Into the Knight | 52.00% | ~37,771 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,423 |
 | Loose Ends | 34.00% | ~24,696 |
 | To the Victor Go the Spoils | 29.00% | ~21,064 |
 | Knighthood | 28.00% | ~20,338 |
@@ -14,8 +14,8 @@ Rating: 4.18 (Ranked 884)
 | Whispered Words | 25.00% | ~18,159 |
 | The Batman Family | 23.00% | ~16,706 |
 | Lock and Key | 23.00% | ~16,706 |
-| Something in the Clay | 21.00% | ~15,253 |
-| Quartzer Life Crisis | 21.00% | ~15,253 |
+| Something in the Clay | 21.00% | ~15,254 |
+| Quartzer Life Crisis | 21.00% | ~15,254 |
 | Working Hard or Harley Working? | 20.00% | ~14,527 |
 | Unstoppable Force | 20.00% | ~14,527 |
 | Bad Apples in Every Orchard | 20.00% | ~14,527 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 884)
 | Drone You Out | 10.00% | ~7,264 |
 | Out of Their League | 9.00% | ~6,537 |
 | Solid Alibi | 9.00% | ~6,537 |
-| Fusion Expert | 7.00% | ~5,084 |
+| Fusion Expert | 7.00% | ~5,085 |
 | Family Meeting | 6.00% | ~4,358 |
 | A Worthy Successor | 6.00% | ~4,358 |
 | Expert Crime Fighter | 5.00% | ~3,632 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 884)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,635 (Ranked 83)  
+Progressed: 72,636 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 113 (0.16%) (Ranked 205)
 | 2023-09-15 | 72,563 | 113 |
 | 2023-09-16 | 72,594 | 113 |
 | 2023-09-17 | 72,625 | 113 |
-| 2023-09-18 | 72,635 | 113 |
+| 2023-09-18 | 72,636 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,708  (Ranked 96)  
 Sum: 4,487 (Ranked 139)  

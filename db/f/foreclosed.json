@@ -4,7 +4,7 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-09-18T06:06:50.3825716+00:00",
+  "LastChanged_Achievements": "2023-09-18T07:07:49.6786656+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:17.0351777+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:57:58.1713984+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:06:50.3825895+00:00"
+  "LastUpdate_Ratings": "2023-09-18T06:58:19.9607584+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:07:49.6786856+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6094,
+  "EOS_Progressed": 6095,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1826,6 +1826,11 @@
       "Time": "2023-09-18T06:05:40.1153541+00:00",
       "NumProgressed": 6094,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T07:06:24.4878937+00:00",
+      "NumProgressed": 6095,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1894,7 +1899,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "DHUpgraded1",
@@ -2046,7 +2051,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "HSPurchased1",
@@ -2429,14 +2434,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6094,
+      "Progressed": 6095,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-18T06:05:40.1153537+00:00",
+  "LastChanged_Achievements": "2023-09-18T07:06:24.4878928+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:00:08.1400689+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:05:40.1154507+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:01:08.670004+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:06:24.4879871+00:00"
 }

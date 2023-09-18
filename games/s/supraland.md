@@ -6,13 +6,13 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~718,831 |
-| The Blues | 85.00% | ~617,178 |
+| Out of bed | 99.00% | ~718,832 |
+| The Blues | 85.00% | ~617,179 |
 | Fast | 66.00% | ~479,221 |
 | Healthbar | 55.00% | ~399,351 |
 | Force Cube | 53.00% | ~384,829 |
-| Double Jump | 48.00% | ~348,524 |
-| Regeneration | 47.00% | ~341,263 |
+| Double Jump | 48.00% | ~348,525 |
+| Regeneration | 47.00% | ~341,264 |
 | Triple Jump | 43.00% | ~312,220 |
 | Climb the hill | 42.00% | ~304,959 |
 | Through the fire pipe | 39.00% | ~283,176 |
@@ -24,8 +24,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Force Cube Catapult | 25.00% | ~181,523 |
 | Holy Sword | 23.00% | ~167,001 |
 | Telefrag | 23.00% | ~167,001 |
-| Freed from prison | 21.00% | ~152,479 |
-| Stomp | 21.00% | ~152,479 |
+| Freed from prison | 21.00% | ~152,480 |
+| Stomp | 21.00% | ~152,480 |
 | Double Health | 18.00% | ~130,697 |
 | Buckle | 17.00% | ~123,436 |
 | Green Keycard | 17.00% | ~123,436 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~65,348 |
 | Through the tiny pipe | 9.00% | ~65,348 |
 | Win! | 9.00% | ~65,348 |
-| The real real teleported man | 7.00% | ~50,826 |
+| The real real teleported man | 7.00% | ~50,827 |
 | Well deserved | 6.00% | ~43,566 |
 | Happiness | 3.00% | ~21,783 |
 | Super Sword | 3.00% | ~21,783 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~726 |
 | DLC: Top of the world | 0.10% | ~726 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,092 (Ranked 19)  
+Progressed: 726,093 (Ranked 19)  
 Completed: 735 (0.10%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 735 (0.10%) (Ranked 222)
 | 2023-09-15 | 725,771 | 735 |
 | 2023-09-16 | 725,919 | 735 |
 | 2023-09-17 | 726,075 | 735 |
-| 2023-09-18 | 726,092 | 735 |
+| 2023-09-18 | 726,093 | 735 |
 ## Awards
 Max (Challenging Puzzles): 7,685  (Ranked 46)  
 Sum: 10,017 (Ranked 87)  

@@ -4,8 +4,8 @@
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -170,9 +170,9 @@
       "ID": "07-TakeTheScenicRoute",
       "SetID": "5iij4gg",
       "Name": "Take the Scenic Route",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "08-TreasureSeeker",
@@ -210,9 +210,9 @@
       "ID": "12-RedbeardsRevenger",
       "SetID": "5iij4gg",
       "Name": "Redbeard\u0027s Revenger",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "13-TreasureHunter",
@@ -323,8 +323,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-09-18T06:06:18.0807347+00:00",
+  "LastChanged_Achievements": "2023-09-18T07:07:10.0164056+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:13.2420987+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:00:33.7347152+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:06:18.0807546+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:01:37.8646422+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:07:10.0164254+00:00"
 }

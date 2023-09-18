@@ -4,8 +4,8 @@
   "ProductSlug": "dumpy-and-bumpy-86c9d7",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-12-07T00:00:00+00:00",
     "PcReleaseDate": "2021-05-28T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.2037049+00:00",
   "LastChanged": "2023-03-31T05:57:23.203705+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.0641188+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:59:32.2590933+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:05:18.7893062+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:00:18.1940319+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:05:58.072506+00:00"
 }

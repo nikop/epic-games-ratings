@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3440,9 +3440,9 @@
       "ID": "CampaignVictory_NoFlowering",
       "SetID": "3jha1np",
       "Name": "Clean Slate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "CompletedAllShipUpgrades",
@@ -3942,8 +3942,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-18T06:06:04.9272906+00:00",
+  "LastChanged_Achievements": "2023-09-18T07:06:54.4258562+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:58:30.638137+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:06:04.9273798+00:00"
+  "LastUpdate_Ratings": "2023-09-18T06:59:04.543508+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:06:54.4259671+00:00"
 }

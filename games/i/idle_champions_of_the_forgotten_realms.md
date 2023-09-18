@@ -84,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~458 |
 | Dinosaur Racing | 0.20% | ~458 |
 | Elturel Has Fallen | 0.20% | ~458 |
+| Resolve Amongst Chaos | 0.20% | ~458 |
 | Escort to Waterdeep | 0.20% | ~458 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
 | The Everlasting Rime | 0.20% | ~391 |
@@ -96,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~458 |
 | Overdue Rendezvous | 0.20% | ~458 |
 | Moose Tracks | 0.20% | ~391 |
+| Civilization | 0.20% | ~391 |
 | Dwarven Rumors | 0.20% | ~391 |
 | The Templar's Camp | 0.20% | ~458 |
 | Rescue in the Jungle | 0.20% | ~458 |
@@ -352,7 +354,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Everything is Awful | 0.10% | ~229 |
 | Earthquake! | 0.10% | ~196 |
 | Hailstorm! | 0.10% | ~196 |
-| Resolve Amongst Chaos | 0.10% | ~229 |
 | All You Know Is Wrong | 0.10% | ~229 |
 | Shadow Stalkers | 0.10% | ~196 |
 | Avernus Frozen Over | 0.10% | ~196 |
@@ -422,7 +423,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.10% | ~196 |
 | CONtagious Cold | 0.10% | ~196 |
 | Ten in Ten-Towns | 0.10% | ~196 |
-| Civilization | 0.10% | ~196 |
 | Trench Coat Run | 0.10% | ~196 |
 | The Taunting Lord | 0.10% | ~196 |
 | Durable Deep | 0.10% | ~229 |

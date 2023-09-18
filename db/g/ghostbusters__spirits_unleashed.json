@@ -13084,9 +13084,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     },
     {
       "ID": "Animated",
@@ -13501,8 +13501,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-17T19:01:08.4051073+00:00",
-  "LastChanged_Achievements": "2023-09-18T06:04:42.4244121+00:00",
+  "LastChanged_Achievements": "2023-09-18T07:05:13.2703734+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-18T05:58:49.6660974+00:00",
-  "LastUpdate_Achievements": "2023-09-18T06:04:42.4245243+00:00"
+  "LastUpdate_Ratings": "2023-09-18T06:59:25.9728908+00:00",
+  "LastUpdate_Achievements": "2023-09-18T07:05:13.2704857+00:00"
 }
