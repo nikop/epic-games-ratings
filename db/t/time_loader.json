@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -198,9 +198,9 @@
       "ID": "02_Soap",
       "SetID": "681m9fa",
       "Name": "Soap",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "03_Cassette",
@@ -270,9 +270,9 @@
       "ID": "11_Itsinthevault",
       "SetID": "681m9fa",
       "Name": "It\u2019s in the Vault",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "12_Purrfect",
@@ -310,9 +310,9 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "17_Capacitors",
@@ -431,8 +431,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:07:50.7280882+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:07:43.7219684+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.5450266+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:58:15.4630324+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:07:50.7281117+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:58:12.8789034+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:07:43.7219966+00:00"
 }

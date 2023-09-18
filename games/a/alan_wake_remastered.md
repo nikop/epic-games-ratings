@@ -1,19 +1,19 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 488)  
+Rating: 4.55 (Ranked 487)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,924 |
-| Let There Be Light | 33.00% | ~21,670 |
+| Follow the Light | 41.00% | ~26,925 |
+| Let There Be Light | 33.00% | ~21,671 |
 | Float Like a Butterfly | 32.00% | ~21,014 |
 | Nordic Walking | 26.00% | ~17,074 |
-| Bright Falls' Finest | 25.00% | ~16,417 |
+| Bright Falls' Finest | 25.00% | ~16,418 |
 | Under a Thin Layer of Skin | 22.00% | ~14,447 |
-| Park Ranger | 18.00% | ~11,820 |
-| Paging Mr. Wake | 18.00% | ~11,820 |
+| Park Ranger | 18.00% | ~11,821 |
+| Paging Mr. Wake | 18.00% | ~11,821 |
 | Back! Back, I Say! | 17.00% | ~11,164 |
 | Finders Keepers | 17.00% | ~11,164 |
 | Damn Good Cup of Coffee | 16.00% | ~10,507 |
@@ -29,21 +29,21 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 13.00% | ~8,537 |
 | It's Not Just a Typewriter Brand | 12.00% | ~7,880 |
 | Thunder and Lightning | 12.00% | ~7,880 |
-| Gatekeeper | 11.00% | ~7,223 |
-| The Lady of the Light | 11.00% | ~7,223 |
-| Two For the Price of One | 11.00% | ~7,223 |
-| Energized! | 11.00% | ~7,223 |
+| Gatekeeper | 11.00% | ~7,224 |
+| The Lady of the Light | 11.00% | ~7,224 |
+| Two For the Price of One | 11.00% | ~7,224 |
+| Energized! | 11.00% | ~7,224 |
 | Right of Way | 10.00% | ~6,567 |
 | What Light Through Yonder Window | 9.00% | ~5,910 |
-| Tornado Wrangler | 8.00% | ~5,253 |
+| Tornado Wrangler | 8.00% | ~5,254 |
 | A Friend in Need | 8.00% | ~2,331 |
 | Departure | 7.00% | ~4,597 |
 | Drink 'Em Both Up | 6.00% | ~3,940 |
 | Hardboiled Writer | 6.00% | ~3,940 |
 | A Friend Indeed | 6.00% | ~1,748 |
-| Children of the Elder God | 5.00% | ~3,283 |
-| If It Flies, It Burns | 5.00% | ~3,283 |
-| KBF-FM | 5.00% | ~3,283 |
+| Children of the Elder God | 5.00% | ~3,284 |
+| If It Flies, It Burns | 5.00% | ~3,284 |
+| KBF-FM | 5.00% | ~3,284 |
 | Ding! | 5.00% | ~1,457 |
 | Boob Tube | 4.00% | ~2,627 |
 | Carny | 3.00% | ~1,970 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,668 (Ranked 88)  
+Progressed: 65,670 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 65 (0.10%) (Ranked 222)
 | 2023-09-15 | 65,366 | 65 |
 | 2023-09-16 | 65,510 | 65 |
 | 2023-09-17 | 65,643 | 65 |
-| 2023-09-18 | 65,668 | 65 |
+| 2023-09-18 | 65,670 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

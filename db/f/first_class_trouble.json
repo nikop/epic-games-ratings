@@ -2,12 +2,12 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 311,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1444,10 +1444,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 647,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2023-09-18T07:57:44.5552833+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 648,
+      "NumberOfAwardsMax": 130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 647,
+  "NumberOfAwards": 648,
   "NumberOfAwardsMax": 130,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1491,7 +1497,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1524,8 +1530,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-09-16T19:57:54.2777657+00:00",
+  "LastChanged": "2023-09-18T07:57:44.5552829+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:19.5699159+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:57:47.3695897+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:03:56.4638756+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:57:44.5552839+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:03:49.8747839+00:00"
 }

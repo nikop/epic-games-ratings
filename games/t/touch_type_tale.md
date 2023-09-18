@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,088 |
-| Flanked! | 77.00% | ~2,702 |
-| Economics 101 | 61.00% | ~2,140 |
-| Get Rich Quick | 44.00% | ~1,544 |
-| Do the Splits | 39.00% | ~1,369 |
-| Maestro | 26.00% | ~912 |
+| You and what Army? | 88.00% | ~3,091 |
+| Flanked! | 77.00% | ~2,704 |
+| Economics 101 | 61.00% | ~2,142 |
+| Get Rich Quick | 44.00% | ~1,545 |
+| Do the Splits | 39.00% | ~1,370 |
+| Maestro | 26.00% | ~913 |
 | Full Employment | 18.00% | ~632 |
-| Clay Fighter | 16.00% | ~561 |
-| Nowhere left to Hide | 14.00% | ~491 |
-| All Ovens Blazing | 13.00% | ~456 |
-| Boulder Clash | 13.00% | ~456 |
+| Clay Fighter | 16.00% | ~562 |
+| Nowhere left to Hide | 14.00% | ~492 |
+| All Ovens Blazing | 13.00% | ~457 |
+| Boulder Clash | 13.00% | ~457 |
 | Held Back by the Roots | 12.00% | ~421 |
 | Well Supplied | 11.00% | ~386 |
 | Damage Control | 8.00% | ~281 |
@@ -23,10 +23,10 @@
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~246 |
 | Master of the Brawl | 7.00% | ~246 |
 | A Secret Recipe | 6.00% | ~211 |
-| Your Biggest Fans | 5.00% | ~175 |
-| An Ally in Need | 5.00% | ~175 |
-| For the Queen | 5.00% | ~175 |
-| Not a Drop Wasted | 5.00% | ~175 |
+| Your Biggest Fans | 5.00% | ~176 |
+| An Ally in Need | 5.00% | ~176 |
+| For the Queen | 5.00% | ~176 |
+| Not a Drop Wasted | 5.00% | ~176 |
 | Reinforcements | 4.00% | ~140 |
 | Sweet Revenge | 4.00% | ~140 |
 | We Have the Technology | 4.00% | ~140 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~35 |
 | All Geared Up | 0.90% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,509 (Ranked 164)  
+Progressed: 3,512 (Ranked 164)  
 Completed: 11 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 11 (0.31%) (Ranked 178)
 | 2023-09-15 | 3,380 | 11 |
 | 2023-09-16 | 3,447 | 11 |
 | 2023-09-17 | 3,500 | 11 |
-| 2023-09-18 | 3,509 | 11 |
+| 2023-09-18 | 3,512 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

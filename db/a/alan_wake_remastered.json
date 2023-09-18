@@ -2,12 +2,12 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65668,
+  "EOS_Progressed": 65670,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1269,
+  "EOS_NewPlayers": 1265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15052,6 +15052,11 @@
       "Time": "2023-09-18T07:04:03.9077062+00:00",
       "NumProgressed": 65668,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-18T08:03:57.4257062+00:00",
+      "NumProgressed": 65670,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15063,7 +15068,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26924
+      "UsersEstimate": 26925
     },
     {
       "ID": "02",
@@ -15079,7 +15084,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16417
+      "UsersEstimate": 16418
     },
     {
       "ID": "04",
@@ -15103,7 +15108,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11820
+      "UsersEstimate": 11821
     },
     {
       "ID": "07",
@@ -15143,7 +15148,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "12",
@@ -15167,7 +15172,7 @@
       "Name": "Gatekeeper",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "15",
@@ -15175,7 +15180,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "16",
@@ -15183,7 +15188,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     },
     {
       "ID": "17",
@@ -15215,7 +15220,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "21",
@@ -15295,7 +15300,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "31",
@@ -15327,7 +15332,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "35",
@@ -15335,7 +15340,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21670
+      "UsersEstimate": 21671
     },
     {
       "ID": "36",
@@ -15399,7 +15404,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11820
+      "UsersEstimate": 11821
     },
     {
       "ID": "44",
@@ -15439,7 +15444,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "49",
@@ -15598,21 +15603,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65668,
+      "Progressed": 65670,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29136,
+      "Progressed": 29138,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:04:03.9077057+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:03:57.4257051+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:57:49.791193+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:04:03.9078656+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:57:48.2646651+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:03:57.4258659+00:00"
 }

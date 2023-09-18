@@ -4,7 +4,7 @@
   "ProductSlug": "forest-quartet-5d03e3",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -111,8 +111,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:04:32.8285088+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:04:26.4927707+00:00",
   "LastUpdate_AppInfo": "2023-09-14T14:57:07.6828416+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:58:00.9068474+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:04:32.8285169+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:57:57.799138+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:04:26.4927796+00:00"
 }

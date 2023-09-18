@@ -2,7 +2,7 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 432,
+  "Ranking_Rating": 431,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 100,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37465,
+  "EOS_Progressed": 37466,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16062,6 +16062,11 @@
       "Time": "2023-09-18T07:07:25.9520216+00:00",
       "NumProgressed": 37465,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T08:07:18.87801+00:00",
+      "NumProgressed": 37466,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16193,7 +16198,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13487
+      "UsersEstimate": 13488
     },
     {
       "ID": "ach_die10",
@@ -16231,9 +16236,9 @@
       "ID": "ach_eye",
       "SetID": "ammcm",
       "Name": "Roaring Rise",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 1124
     },
     {
       "ID": "ach_hunterskeep",
@@ -16504,15 +16509,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37465,
+      "Progressed": 37466,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:07:25.9520205+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:07:18.8780092+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:44.1241122+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:00:18.688242+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:07:25.9521646+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:00:14.6699158+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:07:18.878156+00:00"
 }

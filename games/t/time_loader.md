@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Screwdriver | 64.00% | ~78 |
-| Springs | 60.00% | ~73 |
-| Soap | 41.00% | ~50 |
+| Springs | 61.00% | ~74 |
+| Soap | 42.00% | ~51 |
 | Act 1 | 34.00% | ~41 |
 | Wrench | 33.00% | ~40 |
 | Purr-fect | 33.00% | ~40 |
@@ -20,8 +20,8 @@
 | Cassette | 20.00% | ~24 |
 | Here we go again | 20.00% | ~24 |
 | Flyer | 18.00% | ~22 |
+| It’s in the Vault | 16.00% | ~20 |
 | Dr. Antivirus | 16.00% | ~20 |
-| It’s in the Vault | 15.00% | ~18 |
 | Access protocol | 15.00% | ~18 |
 | Photo | 14.00% | ~17 |
 | Time Capsule | 13.00% | ~16 |

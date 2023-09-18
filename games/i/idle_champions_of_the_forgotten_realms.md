@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.20% | ~391 |
 | Hither of the Feywild | 0.20% | ~391 |
 | The Prince of a Thousand Enemies | 0.20% | ~391 |
+| Downfall | 0.20% | ~391 |
 | The Silken Swamp | 0.20% | ~458 |
 | Wet Feet | 0.20% | ~458 |
 | Hatchlings Underfoot | 0.20% | ~458 |
@@ -61,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.20% | ~458 |
 | The Botched Kidnapping | 0.20% | ~458 |
 | The Immortal Warrior | 0.20% | ~458 |
+| The Wyrmheart Mine | 0.20% | ~458 |
 | Tower on the Lake | 0.20% | ~458 |
 | Seeds of Deceit | 0.20% | ~458 |
 | Trollskull Manor | 0.20% | ~458 |
@@ -129,7 +131,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Uncommon Allies | 0.10% | ~196 |
 | The Birds | 0.10% | ~196 |
 | Where the Magic Happens | 0.10% | ~196 |
-| Downfall | 0.10% | ~196 |
 | First Third Out | 0.10% | ~196 |
 | Second Third Out | 0.10% | ~196 |
 | Third Third Out | 0.10% | ~196 |
@@ -250,7 +251,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hold for the Red Wizards | 0.10% | ~229 |
 | Form Ranks | 0.10% | ~229 |
 | Drop of Time | 0.10% | ~196 |
-| The Wyrmheart Mine | 0.10% | ~229 |
 | They Who Smelt It | 0.10% | ~229 |
 | Distribute Your Weight | 0.10% | ~229 |
 | Mongrelfolk Incursion | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,244 (Ranked 57)  
+Progressed: 229,248 (Ranked 57)  
 Completed: 2,292 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,292 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,244 | 2,292 |
+| 2023-09-18 | 229,248 | 2,292 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

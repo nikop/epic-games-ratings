@@ -17,10 +17,10 @@
 | Treasure Hunter | 13.00% | ~12 |
 | St. George's Gauntlet | 12.00% | ~11 |
 | Redbeard's Revenger | 12.00% | ~11 |
-| BJ & The Bear | 11.00% | ~10 |
+| BJ & The Bear | 12.00% | ~11 |
+| Can't bear the weight | 9.00% | ~8 |
 | Who dat? | 9.00% | ~8 |
 | Soft Hands | 9.00% | ~8 |
-| Can't bear the weight | 8.00% | ~7 |
 | Egg On His Face | 8.00% | ~7 |
 | Mr. Magic | 8.00% | ~7 |
 | Batteries not Included | 8.00% | ~7 |

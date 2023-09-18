@@ -1,20 +1,20 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 488)  
+Rating: 4.55 (Ranked 487)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~941,044 |
-| I Need a Bigger Garage | 63.00% | ~658,731 |
-| Pump my Ride | 47.00% | ~491,434 |
-| Ghostbuster | 33.00% | ~345,050 |
-| Call Roadside Assistance | 18.00% | ~188,209 |
-| That Was Close | 18.00% | ~188,209 |
-| Quickie | 11.00% | ~115,017 |
-| California Dreamer | 7.00% | ~73,192 |
-| Can't Touch This | 5.00% | ~52,280 |
+| The First of Many | 90.00% | ~941,053 |
+| I Need a Bigger Garage | 63.00% | ~658,737 |
+| Pump my Ride | 47.00% | ~491,439 |
+| Ghostbuster | 33.00% | ~345,053 |
+| Call Roadside Assistance | 18.00% | ~188,211 |
+| That Was Close | 18.00% | ~188,211 |
+| Quickie | 11.00% | ~115,018 |
+| California Dreamer | 7.00% | ~73,193 |
+| Can't Touch This | 5.00% | ~52,281 |
 | Driver from Ipanema | 3.00% | ~31,368 |
 | Carménère Taster | 3.00% | ~31,368 |
 | Supersonic | 3.00% | ~31,368 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,456 |
 | Golden Passport | 1.00% | ~10,456 |
 | Brave and Bold | 1.00% | ~10,456 |
-| Crocodile Hunter | 0.90% | ~9,410 |
-| Old Master | 0.90% | ~9,410 |
+| Crocodile Hunter | 0.90% | ~9,411 |
+| Old Master | 0.90% | ~9,411 |
 | Volcano Surfer | 0.80% | ~8,365 |
 | Otaku | 0.80% | ~8,365 |
 | Survivor | 0.60% | ~6,274 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,046 |
 | Look Mom, No Hands! | 0.10% | ~1,046 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,045,605 (Ranked 13)  
+Progressed: 1,045,614 (Ranked 13)  
 Completed: 425 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 425 (0.04%) (Ranked 245)
 | 2023-09-15 | 1,043,467 | 422 |
 | 2023-09-16 | 1,044,452 | 423 |
 | 2023-09-17 | 1,045,393 | 424 |
-| 2023-09-18 | 1,045,605 | 425 |
+| 2023-09-18 | 1,045,614 | 425 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 301)  
 Sum: 1,278 (Ranked 229)  

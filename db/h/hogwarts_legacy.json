@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7690,10 +7690,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43625,
       "NumberOfAwardsMax": 22799
+    },
+    {
+      "Time": "2023-09-18T07:57:27.6321929+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43641,
+      "NumberOfAwardsMax": 22799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43625,
+  "NumberOfAwards": 43641,
   "NumberOfAwardsMax": 22799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7737,7 +7743,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1025
+      "Count": 1035
     },
     {
       "Text": "This game is Relaxing",
@@ -7755,7 +7761,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1038
+      "Count": 1044
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7772,7 +7778,7 @@
   ],
   "EOS_Progressed": 296881,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24492,9 +24498,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-18T04:57:14.2981066+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:05:07.632887+00:00",
+  "LastChanged": "2023-09-18T07:57:27.6321927+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:05:01.4034039+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:57:31.3224665+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:05:07.6330278+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:57:27.6321933+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:05:01.4035464+00:00"
 }

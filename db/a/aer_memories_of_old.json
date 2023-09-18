@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20318,
+  "EOS_Progressed": 20320,
   "EOS_Completed": 403,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -16543,6 +16543,11 @@
       "Time": "2023-09-18T07:03:40.1470604+00:00",
       "NumProgressed": 20318,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-09-18T08:03:33.6745883+00:00",
+      "NumProgressed": 20320,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 20,
@@ -16602,7 +16607,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -16650,7 +16655,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -16674,7 +16679,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15645
+      "UsersEstimate": 15646
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16682,7 +16687,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5690
     },
     {
       "ID": "NORTH_FINISHED",
@@ -16706,22 +16711,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20318,
+      "Progressed": 20320,
       "Completed": 403
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:03:40.1470597+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:03:33.6745875+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:00:06.7998829+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:03:40.1471744+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:00:02.9332375+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:03:33.6747058+00:00"
 }

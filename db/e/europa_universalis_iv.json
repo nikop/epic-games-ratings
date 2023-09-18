@@ -9610,10 +9610,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 50459,
       "NumberOfAwardsMax": 6141
+    },
+    {
+      "Time": "2023-09-18T07:57:35.5923677+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50474,
+      "NumberOfAwardsMax": 6141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50459,
+  "NumberOfAwards": 50474,
   "NumberOfAwardsMax": 6141,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9675,7 +9681,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4768
+      "Count": 4783
     },
     {
       "Text": "This game has Unique Visuals",
@@ -9684,9 +9690,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 407051,
+  "EOS_Progressed": 407071,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7494,
+  "EOS_NewPlayers": 7496,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26649,6 +26655,11 @@
       "Time": "2023-09-18T07:03:45.475143+00:00",
       "NumProgressed": 407051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T08:03:39.1392122+00:00",
+      "NumProgressed": 407071,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27052,7 +27063,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3256
+      "UsersEstimate": 3257
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -27868,7 +27879,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -28596,7 +28607,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -29268,7 +29279,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     },
     {
       "ID": "achievement_trustworthy",
@@ -29324,7 +29335,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16282
+      "UsersEstimate": 16283
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29491,21 +29502,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 407051,
+      "Progressed": 407071,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 407051,
+      "Progressed": 407071,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-18T02:57:27.4344912+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:03:45.4751423+00:00",
+  "LastChanged": "2023-09-18T07:57:35.5923676+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:03:39.139211+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:57:39.7311728+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:03:45.4763646+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:57:35.5923687+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:03:39.1405915+00:00"
 }

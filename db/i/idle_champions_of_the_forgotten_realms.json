@@ -6724,9 +6724,9 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229244,
+  "EOS_Progressed": 229248,
   "EOS_Completed": 2292,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23439,6 +23439,11 @@
       "Time": "2023-09-18T06:06:25.9125667+00:00",
       "NumProgressed": 229244,
       "NumCompleted": 2292
+    },
+    {
+      "Time": "2023-09-18T08:07:13.2040202+00:00",
+      "NumProgressed": 229248,
+      "NumCompleted": 2292
     }
   ],
   "TotalAchievements": 520,
@@ -23720,9 +23725,9 @@
       "ID": "objective_completed_1085",
       "SetID": "415jc5c",
       "Name": "Downfall",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1086",
@@ -24960,9 +24965,9 @@
       "ID": "objective_completed_251",
       "SetID": "cc37lbc",
       "Name": "The Wyrmheart Mine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_252",
@@ -27609,21 +27614,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195518,
+      "Progressed": 195522,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229244,
+      "Progressed": 229248,
       "Completed": 2292
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-17T21:57:49.5337386+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:07:19.9507114+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:07:13.2040196+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-18T06:58:09.6134214+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:07:19.9537851+00:00"
+  "LastUpdate_Ratings": "2023-09-18T07:58:06.3660692+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:07:13.2069356+00:00"
 }

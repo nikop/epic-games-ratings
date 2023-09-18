@@ -2106,9 +2106,9 @@
       "Count": 169
     }
   ],
-  "EOS_Progressed": 182790,
+  "EOS_Progressed": 182802,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 4020,
+  "EOS_NewPlayers": 4017,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -9066,6 +9066,11 @@
       "Time": "2023-09-18T07:05:11.7837744+00:00",
       "NumProgressed": 182790,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2023-09-18T08:05:05.3165403+00:00",
+      "NumProgressed": 182802,
+      "NumCompleted": 309
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -9078,7 +9083,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12795
+      "UsersEstimate": 12796
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -9126,7 +9131,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10967
+      "UsersEstimate": 10968
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -9158,7 +9163,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14623
+      "UsersEstimate": 14624
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -9198,7 +9203,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12795
+      "UsersEstimate": 12796
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -9222,7 +9227,7 @@
       "Name": "Not a Janitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10967
+      "UsersEstimate": 10968
     },
     {
       "ID": "Meet_Flautist",
@@ -9230,7 +9235,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10967
+      "UsersEstimate": 10968
     },
     {
       "ID": "Meet_Meidra",
@@ -9262,7 +9267,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16451
+      "UsersEstimate": 16452
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -9270,7 +9275,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10967
+      "UsersEstimate": 10968
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -9278,7 +9283,7 @@
       "Name": "Top Performer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10967
+      "UsersEstimate": 10968
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -9310,7 +9315,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10967
+      "UsersEstimate": 10968
     },
     {
       "ID": "Obtain_Guns_A",
@@ -9382,7 +9387,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14623
+      "UsersEstimate": 14624
     },
     {
       "ID": "Obtain_Traits_B",
@@ -9438,7 +9443,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10967
+      "UsersEstimate": 10968
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -9454,7 +9459,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10967
+      "UsersEstimate": 10968
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -9477,7 +9482,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 182790,
+      "Progressed": 182802,
       "Completed": 309
     }
   ],
@@ -9485,8 +9490,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-18T05:59:58.2402537+00:00",
-  "LastChanged_Achievements": "2023-09-18T07:05:11.7837738+00:00",
+  "LastChanged_Achievements": "2023-09-18T08:05:05.3165397+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.9152732+00:00",
-  "LastUpdate_Ratings": "2023-09-18T07:00:53.9170475+00:00",
-  "LastUpdate_Achievements": "2023-09-18T07:05:11.7838597+00:00"
+  "LastUpdate_Ratings": "2023-09-18T08:00:48.0489035+00:00",
+  "LastUpdate_Achievements": "2023-09-18T08:05:05.3166289+00:00"
 }

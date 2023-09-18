@@ -1,17 +1,17 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 519)  
+Rating: 4.53 (Ranked 518)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 37.00% | ~28,167 |
 | Final touch | 37.00% | ~28,167 |
-| Prop-M Rover | 32.00% | ~24,360 |
-| Changing the Planet | 28.00% | ~21,315 |
+| Prop-M Rover | 32.00% | ~24,361 |
+| Changing the Planet | 28.00% | ~21,316 |
 | Sojourner | 26.00% | ~19,793 |
-| Beagle 2 | 24.00% | ~18,270 |
+| Beagle 2 | 24.00% | ~18,271 |
 | New Home | 23.00% | ~17,509 |
 | Winner Winner Terraformer | 22.00% | ~16,748 |
 | Project Manager | 19.00% | ~14,464 |
@@ -22,7 +22,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Self-sufficient | 18.00% | ~13,703 |
 | Money money | 15.00% | ~11,419 |
 | Biggest Reward | 14.00% | ~10,658 |
-| Acquired knowledge | 13.00% | ~9,896 |
+| Acquired knowledge | 13.00% | ~9,897 |
 | First Journey | 12.00% | ~9,135 |
 | Hellenic Elysium | 12.00% | ~9,135 |
 | Grand champion | 12.00% | ~9,135 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Most Achievements | 11.00% | ~8,374 |
 | Spirit | 10.00% | ~7,613 |
 | Ultimate success | 10.00% | ~7,613 |
-| Variety Expert | 9.00% | ~6,851 |
+| Variety Expert | 9.00% | ~6,852 |
 | Frequent tester | 8.00% | ~6,090 |
 | Determined | 8.00% | ~6,090 |
 | Terraformer | 4.00% | ~3,045 |
 | Team Effort | 3.00% | ~2,284 |
 | Opportunity | 3.00% | ~2,284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,126 (Ranked 80)  
+Progressed: 76,128 (Ranked 80)  
 Completed: 127 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 127 (0.17%) (Ranked 202)
 | 2023-09-15 | 75,826 | 118 |
 | 2023-09-16 | 75,960 | 123 |
 | 2023-09-17 | 76,109 | 127 |
-| 2023-09-18 | 76,126 | 127 |
+| 2023-09-18 | 76,128 | 127 |
 ## Awards
 Max (Relaxing): 513  (Ranked 199)  
 Sum: 3,163 (Ranked 163)  

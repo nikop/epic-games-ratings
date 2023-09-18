@@ -1,21 +1,21 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 505)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,639 |
-| Git Gutte! | 2.00% | ~13,639 |
-| Break A Leg | 2.00% | ~13,639 |
-| Coup de Grâce | 2.00% | ~13,639 |
-| Hazardous Materials | 2.00% | ~13,639 |
-| Friends Like These | 2.00% | ~13,639 |
-| Hotel California | 2.00% | ~13,639 |
-| Apex Predator | 2.00% | ~13,639 |
-| Stacking the Deck | 2.00% | ~13,639 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,639 |
-| Welcome To Hell-A | 2.00% | ~13,639 |
+| Dr. Reed, I Presume? | 2.00% | ~13,640 |
+| Git Gutte! | 2.00% | ~13,640 |
+| Break A Leg | 2.00% | ~13,640 |
+| Coup de Grâce | 2.00% | ~13,640 |
+| Hazardous Materials | 2.00% | ~13,640 |
+| Friends Like These | 2.00% | ~13,640 |
+| Hotel California | 2.00% | ~13,640 |
+| Apex Predator | 2.00% | ~13,640 |
+| Stacking the Deck | 2.00% | ~13,640 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,640 |
+| Welcome To Hell-A | 2.00% | ~13,640 |
 | Anger Management | 1.00% | ~6,820 |
 | Perks of the Job | 1.00% | ~6,820 |
 | Bookworm | 1.00% | ~6,820 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,969 (Ranked 22)  
+Progressed: 681,986 (Ranked 22)  
 Completed: 2,152 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2,152 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
-| 2023-09-18 | 681,969 | 2,152 |
+| 2023-09-18 | 681,986 | 2,152 |
 ## Awards
 Max (Great Boss Battles): 6,086  (Ranked 57)  
 Sum: 9,030 (Ranked 94)  
