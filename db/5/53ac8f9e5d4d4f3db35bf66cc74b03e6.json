@@ -2,9 +2,9 @@
   "ID": "53ac8f9e5d4d4f3db35bf66cc74b03e6",
   "Name": "Vivaion",
   "ProductSlug": "vivaion-0ae3ab",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-18T06:57:15.0495835+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:59:08.7991451+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:03:58.1260657+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:59:02.0954518+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:03:49.677595+00:00"
 }

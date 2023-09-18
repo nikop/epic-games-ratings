@@ -2,9 +2,9 @@
   "ID": "77c83b36cd1047f7aceeef2e5f84ab85",
   "Name": "Oddsparks: An Automation Adventure",
   "ProductSlug": "oddsparks-58440c",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-15T18:57:05.5826935+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:00:04.6733857+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:04:30.5470916+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:00:01.8149047+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:04:23.4764087+00:00"
 }

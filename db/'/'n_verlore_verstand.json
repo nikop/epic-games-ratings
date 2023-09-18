@@ -2,9 +2,9 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2023-09-18T09:03:17.7456033+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T15:03:06.9402014+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -205,9 +210,9 @@
       "ID": "1",
       "SetID": "6m1k8ai",
       "Name": "Start of a Journey",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "10",
@@ -293,9 +298,9 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "20",
@@ -359,7 +364,7 @@
       "Name": "A thing of beauty",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "28",
@@ -381,7 +386,7 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -590,14 +595,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:03:17.567144+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:03:06.9402009+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:38.1296496+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:58:30.9988119+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:03:17.5671779+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:58:22.6566112+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:03:06.9402449+00:00"
 }

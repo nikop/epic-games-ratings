@@ -2,9 +2,9 @@
   "ID": "973549a03a1441058badf7a1bc8b565d",
   "Name": "Knight vs Giant: The Broken Excalibur",
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:05:45.8735736+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:05:41.5440039+00:00",
   "LastUpdate_AppInfo": "2023-09-15T11:57:11.7371839+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:00:26.7636902+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:05:45.8735766+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:00:24.8085227+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:05:41.544008+00:00"
 }

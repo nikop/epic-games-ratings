@@ -2,9 +2,9 @@
   "ID": "47db6e33852a4370b0b8fdc46b179fab",
   "Name": "Bite the Bullet",
   "ProductSlug": "bite-the-bullet-22fa1f",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-11-01T14:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.0633223+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:58:57.7885133+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:04:44.8048086+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:58:49.7254875+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:04:38.2331468+00:00"
 }

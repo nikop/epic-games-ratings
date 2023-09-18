@@ -29,12 +29,12 @@
 | Brain ✔ | 5.00% | ~13 |
 | Eva ✔ | 5.00% | ~13 |
 | Mutant fight ✔ | 5.00% | ~13 |
+| Infected ✔ | 5.00% | ~13 |
 | Broadcasting ✔ | 5.00% | ~13 |
 | Group Alpha ✔ | 4.00% | ~11 |
 | Mutant run ✔ | 4.00% | ~11 |
 | Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |
-| Infected ✔ | 4.00% | ~11 |
 | Priest ✔ | 4.00% | ~11 |
 | Car ✔ | 3.00% | ~8 |
 | Crocodile Attack ✔ | 3.00% | ~8 |

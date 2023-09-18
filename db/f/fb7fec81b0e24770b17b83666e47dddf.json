@@ -2,9 +2,9 @@
   "ID": "fb7fec81b0e24770b17b83666e47dddf",
   "Name": "Spiritle",
   "ProductSlug": "spiritle-6e2c23",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-28T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-28T07:57:19.2052508+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.7192964+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:57:15.2055577+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:06:49.7102175+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:57:03.4242419+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:06:42.0551506+00:00"
 }

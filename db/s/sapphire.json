@@ -1,9 +1,9 @@
 {
   "ID": "cc2962a3e6a84730bb024f64bd361eeb",
   "Name": "Sapphire",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:30:52.3743476+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:00:30.0779562+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:06:53.221795+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:00:28.2100125+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:06:45.945438+00:00"
 }

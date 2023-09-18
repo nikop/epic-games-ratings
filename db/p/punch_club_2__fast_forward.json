@@ -2,7 +2,7 @@
   "ID": "fb9cd4d7c3cd49108b09aec351470fda",
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 115,
@@ -1331,9 +1331,9 @@
       "ID": "buy_trainer",
       "SetID": "69co12a",
       "Name": "Your own amateur gym",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 244
     },
     {
       "ID": "carla_journey",
@@ -1707,9 +1707,9 @@
       "ID": "soft_install",
       "SetID": "69co12a",
       "Name": "Hello, world!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "trainer_promotion_1",
@@ -1763,9 +1763,9 @@
       "ID": "work_promotion_2",
       "SetID": "69co12a",
       "Name": "Employee of the month",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "work_promotion_3",
@@ -1786,8 +1786,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:07:12.3804+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:07:04.9380064+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:27.7978975+00:00",
   "LastUpdate_Ratings": "2023-09-18T14:00:35.1148896+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:07:12.3804542+00:00"
+  "LastUpdate_Achievements": "2023-09-18T15:07:04.9380785+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2111,9 +2111,9 @@
       "ID": "ID_02_SONICCD_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic CD",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 362
     },
     {
       "ID": "ID_03_SONIC2_WATCH_OPENING",
@@ -2391,8 +2391,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:03:19.8870734+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:03:09.8675417+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:29.6550361+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:57:42.6609551+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:03:19.8871049+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:57:32.065157+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:03:09.8675921+00:00"
 }

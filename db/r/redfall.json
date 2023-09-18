@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2653,9 +2653,9 @@
       "ID": "Achievement_055",
       "SetID": "6b34g18",
       "Name": "Blacklight Down",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_056",
@@ -2790,8 +2790,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-30T23:01:05.938528+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:05:39.076744+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:05:34.6484475+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.3443799+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:58:18.3552648+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:05:39.0768067+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:58:08.0763988+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:05:34.6485442+00:00"
 }

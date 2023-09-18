@@ -1,14 +1,14 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 884)  
+Rating: 4.18 (Ranked 885)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,772 |
+| First Step Into the Knight | 52.00% | ~37,773 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,424 |
-| Loose Ends | 34.00% | ~24,697 |
-| To the Victor Go the Spoils | 29.00% | ~21,065 |
+| Loose Ends | 34.00% | ~24,698 |
+| To the Victor Go the Spoils | 29.00% | ~21,066 |
 | Knighthood | 28.00% | ~20,339 |
 | Get ReQ'd | 25.00% | ~18,160 |
 | Whispered Words | 25.00% | ~18,160 |
@@ -19,15 +19,15 @@ Rating: 4.18 (Ranked 884)
 | Working Hard or Harley Working? | 20.00% | ~14,528 |
 | Unstoppable Force | 20.00% | ~14,528 |
 | Bad Apples in Every Orchard | 20.00% | ~14,528 |
-| Snow Problem | 19.00% | ~13,801 |
+| Snow Problem | 19.00% | ~13,802 |
 | The Show Mud Go On | 18.00% | ~13,075 |
 | From Inside Gotham's Walls | 18.00% | ~13,075 |
 | Protector of Gotham | 17.00% | ~12,349 |
 | Universal Health Scare | 16.00% | ~11,622 |
 | In Your Element | 15.00% | ~10,896 |
 | Voiceless | 15.00% | ~10,896 |
-| Rock and a Hard Place | 14.00% | ~10,169 |
-| Cooldown | 14.00% | ~10,169 |
+| Rock and a Hard Place | 14.00% | ~10,170 |
+| Cooldown | 14.00% | ~10,170 |
 | Not On My Watch | 13.00% | ~9,443 |
 | Shock Til They Drop | 13.00% | ~9,443 |
 | Seeking Asylum | 13.00% | ~9,443 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 884)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,639 (Ranked 83)  
+Progressed: 72,640 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 113 (0.16%) (Ranked 205)
 | 2023-09-15 | 72,563 | 113 |
 | 2023-09-16 | 72,594 | 113 |
 | 2023-09-17 | 72,625 | 113 |
-| 2023-09-18 | 72,639 | 113 |
+| 2023-09-18 | 72,640 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,708  (Ranked 96)  
 Sum: 4,487 (Ranked 139)  

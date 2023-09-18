@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~688 |
 | Exploring Port Nyanzaru | 0.30% | ~688 |
 | The Contagious Curse | 0.30% | ~688 |
+| Escort to Waterdeep | 0.30% | ~688 |
 | Friendly Imps | 0.30% | ~688 |
 | Pure Energy | 0.30% | ~688 |
 | Legends and Lore | 0.30% | ~587 |
@@ -78,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.20% | ~459 |
 | Premature Betrayal | 0.20% | ~459 |
 | Towering Expectations | 0.20% | ~459 |
+| Hopelessly Lost | 0.20% | ~459 |
 | Enter the Sargauth | 0.20% | ~459 |
 | A Tale of Two Cities | 0.20% | ~459 |
 | The Dead Three | 0.20% | ~459 |
@@ -89,7 +91,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~459 |
 | Elturel Has Fallen | 0.20% | ~459 |
 | Resolve Amongst Chaos | 0.20% | ~459 |
-| Escort to Waterdeep | 0.20% | ~459 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
 | The Everlasting Rime | 0.20% | ~391 |
 | Close Escort | 0.20% | ~459 |
@@ -293,7 +294,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.10% | ~229 |
 | Careful Consideration | 0.10% | ~229 |
 | Tanking Expectations | 0.10% | ~196 |
-| Hopelessly Lost | 0.10% | ~229 |
 | Bazaar Exploits | 0.10% | ~229 |
 | Cramped Quarters | 0.10% | ~229 |
 | Flame(skull) War | 0.10% | ~229 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,275 (Ranked 57)  
+Progressed: 229,277 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,275 | 2,294 |
+| 2023-09-18 | 229,277 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

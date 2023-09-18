@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7788,9 +7788,9 @@
       "Count": 657
     }
   ],
-  "EOS_Progressed": 296893,
+  "EOS_Progressed": 296895,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24158,6 +24158,11 @@
       "Time": "2023-09-18T13:10:06.6041153+00:00",
       "NumProgressed": 296893,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-18T15:04:33.0410929+00:00",
+      "NumProgressed": 296895,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24177,7 +24182,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29689
+      "UsersEstimate": 29690
     },
     {
       "ID": "PFA_11",
@@ -24185,7 +24190,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29689
+      "UsersEstimate": 29690
     },
     {
       "ID": "PFA_12",
@@ -24193,7 +24198,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29689
+      "UsersEstimate": 29690
     },
     {
       "ID": "PFA_13",
@@ -24201,7 +24206,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26720
+      "UsersEstimate": 26721
     },
     {
       "ID": "PFA_14",
@@ -24225,7 +24230,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29689
+      "UsersEstimate": 29690
     },
     {
       "ID": "PFA_17",
@@ -24241,7 +24246,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23751
+      "UsersEstimate": 23752
     },
     {
       "ID": "PFA_19",
@@ -24273,7 +24278,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26720
+      "UsersEstimate": 26721
     },
     {
       "ID": "PFA_22",
@@ -24297,7 +24302,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29689
+      "UsersEstimate": 29690
     },
     {
       "ID": "PFA_25",
@@ -24393,7 +24398,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26720
+      "UsersEstimate": 26721
     },
     {
       "ID": "PFA_36",
@@ -24425,7 +24430,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29689
+      "UsersEstimate": 29690
     },
     {
       "ID": "PFA_4",
@@ -24473,7 +24478,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23751
+      "UsersEstimate": 23752
     },
     {
       "ID": "PFA_45",
@@ -24521,14 +24526,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26720
+      "UsersEstimate": 26721
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296893,
+      "Progressed": 296895,
       "Completed": 474
     }
   ],
@@ -24536,8 +24541,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-18T13:57:32.3934199+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:04:39.9177504+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:04:33.0410924+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:57:32.3934204+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:04:39.9178549+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:57:21.6385016+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:04:33.0412293+00:00"
 }

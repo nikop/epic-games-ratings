@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Debuff Dogpile | 14.00% | ~367 |
-| Faceroll the Bones | 14.00% | ~367 |
-| Hit 'Em Where It Hurts | 14.00% | ~367 |
-| That'll Leave a Mark | 14.00% | ~367 |
-| Mushroom Madness! | 13.00% | ~341 |
-| Perk Shard Punch Card | 13.00% | ~341 |
-| First Strike | 10.00% | ~262 |
-| Horder Better Faster Stronger | 10.00% | ~262 |
-| Spending Spree | 10.00% | ~262 |
-| Everything Must Go! | 9.00% | ~236 |
-| Ten Steps from the Grave | 9.00% | ~236 |
-| Next Time on MythForce... | 7.00% | ~183 |
-| Cold-Blooded Critters | 6.00% | ~157 |
-| Death Becomes You | 6.00% | ~157 |
+| Debuff Dogpile | 14.00% | ~368 |
+| Faceroll the Bones | 14.00% | ~368 |
+| Hit 'Em Where It Hurts | 14.00% | ~368 |
+| Perk Shard Punch Card | 14.00% | ~368 |
+| That'll Leave a Mark | 14.00% | ~368 |
+| Mushroom Madness! | 13.00% | ~342 |
+| Spending Spree | 11.00% | ~289 |
+| First Strike | 10.00% | ~263 |
+| Horder Better Faster Stronger | 10.00% | ~263 |
+| Everything Must Go! | 9.00% | ~237 |
+| Ten Steps from the Grave | 9.00% | ~237 |
+| Next Time on MythForce... | 7.00% | ~184 |
+| Cold-Blooded Critters | 6.00% | ~158 |
+| Death Becomes You | 6.00% | ~158 |
 | Flawless Victory | 4.00% | ~105 |
 | The Harder They Fall | 3.00% | ~79 |
 | On this Episode! | 3.00% | ~79 |
-| Deadication | 2.00% | ~52 |
+| Deadication | 2.00% | ~53 |
 | We've Got a Kaiju on the Field | 1.00% | ~26 |
 | Season Finale | 1.00% | ~26 |
 | The Fourth Gate | 0.70% | ~18 |
 | Vexed Her | 0.20% | ~5 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,620 (Ranked 177)  
+Progressed: 2,628 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 2,137 | 0 |
 | 2023-09-16 | 2,380 | 0 |
 | 2023-09-17 | 2,572 | 0 |
-| 2023-09-18 | 2,620 | 0 |
+| 2023-09-18 | 2,628 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 261 (Ranked 356)  

@@ -2,9 +2,9 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -686,6 +686,11 @@
       "Time": "2023-09-16T14:07:43.9503462+00:00",
       "NumProgressed": 147,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T15:02:21.0674591+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -713,7 +718,7 @@
       "Name": "Metamorphosis",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CollectCurses",
@@ -751,9 +756,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 136
     },
     {
       "ID": "FirstBoss",
@@ -769,7 +774,7 @@
       "Name": "Start of the Path",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "FourthBoss",
@@ -799,9 +804,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "MonsterSlayer",
@@ -809,7 +814,7 @@
       "Name": "Monster Slayer",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Persistence",
@@ -825,7 +830,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SecondBoss",
@@ -847,23 +852,23 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:03:11.4926959+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:02:21.0674586+00:00",
   "LastUpdate_AppInfo": "2023-09-18T13:57:13.5059028+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:57:41.1151843+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:03:11.4927161+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:57:30.483978+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:02:21.0674809+00:00"
 }

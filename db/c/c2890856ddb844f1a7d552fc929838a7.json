@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1575,6 +1575,11 @@
       "Time": "2023-09-18T13:08:30.5111329+00:00",
       "NumProgressed": 805,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T15:03:15.8051286+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1619,7 +1624,7 @@
       "Name": "Blood and Iron",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "AC05",
@@ -1627,7 +1632,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "AC06",
@@ -1635,7 +1640,7 @@
       "Name": "The Last Ascension",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "AC07",
@@ -1643,7 +1648,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "AC08",
@@ -1667,7 +1672,7 @@
       "Name": "The Wait is Over",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "AC11",
@@ -1683,7 +1688,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "AC13",
@@ -1731,7 +1736,7 @@
       "Name": "Acquired Taste",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "AC19",
@@ -1739,7 +1744,7 @@
       "Name": "Soledad",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "AC20",
@@ -1755,7 +1760,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "AC22",
@@ -1787,7 +1792,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "AC26",
@@ -1811,7 +1816,7 @@
       "Name": "The Punished One",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "AC29",
@@ -1835,7 +1840,7 @@
       "Name": "The Merciless One",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "AC32",
@@ -1899,15 +1904,15 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 669
     },
     {
       "ID": "AC41",
@@ -1931,7 +1936,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "AC44",
@@ -1954,7 +1959,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 0
     }
   ],
@@ -1962,8 +1967,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:03:25.4824385+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:03:15.8051281+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:00:30.7118599+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:03:25.4824745+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:00:28.9350433+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:03:15.8051805+00:00"
 }

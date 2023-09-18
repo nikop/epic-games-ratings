@@ -2,9 +2,9 @@
   "ID": "5332e78b6dcf4b148da8e7ad110d0baf",
   "Name": "IL-2 Sturmovik: 1946",
   "ProductSlug": "il2-sturmovik-1946-4afaf1",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-15T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-03T19:57:27.9690706+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:13:51.1545732+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:00:18.5513289+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:06:38.4866546+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:00:16.1204374+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:06:30.4930289+00:00"
 }

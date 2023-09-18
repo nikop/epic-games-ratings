@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,098 |
-| Flanked! | 77.00% | ~2,711 |
+| You and what Army? | 88.00% | ~3,099 |
+| Flanked! | 77.00% | ~2,712 |
 | Economics 101 | 61.00% | ~2,148 |
-| Get Rich Quick | 44.00% | ~1,549 |
-| Do the Splits | 39.00% | ~1,373 |
-| Maestro | 26.00% | ~915 |
+| Get Rich Quick | 44.00% | ~1,550 |
+| Do the Splits | 39.00% | ~1,374 |
+| Maestro | 26.00% | ~916 |
 | Full Employment | 18.00% | ~634 |
-| Clay Fighter | 16.00% | ~563 |
+| Clay Fighter | 16.00% | ~564 |
 | Nowhere left to Hide | 14.00% | ~493 |
 | All Ovens Blazing | 13.00% | ~458 |
 | Boulder Clash | 13.00% | ~458 |
 | Held Back by the Roots | 12.00% | ~423 |
 | Well Supplied | 11.00% | ~387 |
 | Damage Control | 8.00% | ~282 |
-| Sniped | 7.00% | ~246 |
-| Leave Them no Cake | 7.00% | ~246 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~246 |
-| Master of the Brawl | 7.00% | ~246 |
+| Sniped | 7.00% | ~247 |
+| Leave Them no Cake | 7.00% | ~247 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~247 |
+| Master of the Brawl | 7.00% | ~247 |
 | A Secret Recipe | 6.00% | ~211 |
 | Your Biggest Fans | 5.00% | ~176 |
 | An Ally in Need | 5.00% | ~176 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~35 |
 | All Geared Up | 0.90% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,521 (Ranked 164)  
+Progressed: 3,522 (Ranked 164)  
 Completed: 11 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 11 (0.31%) (Ranked 178)
 | 2023-09-15 | 3,380 | 11 |
 | 2023-09-16 | 3,447 | 11 |
 | 2023-09-17 | 3,500 | 11 |
-| 2023-09-18 | 3,521 | 11 |
+| 2023-09-18 | 3,522 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

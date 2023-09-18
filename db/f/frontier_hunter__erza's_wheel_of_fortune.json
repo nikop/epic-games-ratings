@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 94,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-09-13T15:05:13.1986184+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T15:05:27.8827167+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -488,7 +493,7 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 10,
       "UsersEstimate": 87
     },
@@ -576,7 +581,7 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 20,
       "UsersEstimate": 77
     },
@@ -600,7 +605,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
       "UsersEstimate": 52
     },
@@ -624,7 +629,7 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 25,
       "UsersEstimate": 51
     },
@@ -640,7 +645,7 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
       "UsersEstimate": 65
     },
@@ -648,7 +653,7 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 37
     },
@@ -656,7 +661,7 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 30,
       "UsersEstimate": 69
     },
@@ -672,7 +677,7 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 37
     },
@@ -744,7 +749,7 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
       "UsersEstimate": 65
     },
@@ -808,7 +813,7 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
       "UsersEstimate": 64
     },
@@ -824,7 +829,7 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
       "UsersEstimate": 53
     },
@@ -849,7 +854,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 94,
       "Completed": 0
     }
   ],
@@ -857,8 +862,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:05:32.4655688+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:05:27.8827162+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:48.3232791+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:59:39.6423877+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:05:32.4656016+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:59:34.9495121+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:05:27.8827583+00:00"
 }

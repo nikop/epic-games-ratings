@@ -13,11 +13,11 @@ Number of Ratings: 94  (23.09.2022)
 | Forgotten Memories | 48.00% | ~176 |
 | Cogs in the Machine | 43.00% | ~157 |
 | Mission Success | 25.00% | ~92 |
+| Green Cube Killer | 21.00% | ~77 |
 | There's No Place Like Home | 21.00% | ~77 |
-| Green Cube Killer | 20.00% | ~73 |
+| Infinity Loop | 17.00% | ~62 |
 | Path to Salvation | 17.00% | ~62 |
 | Descendants | 16.00% | ~59 |
-| Infinity Loop | 16.00% | ~59 |
 | The Flawed Teacher | 14.00% | ~51 |
 | To Infinity and Beyond | 6.00% | ~22 |
 | The Truthful Enemy | 5.00% | ~18 |

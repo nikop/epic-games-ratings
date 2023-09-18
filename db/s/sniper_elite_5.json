@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3635,
+  "EOS_Progressed": 3637,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6754,6 +6754,11 @@
       "Time": "2023-09-18T13:11:03.5031257+00:00",
       "NumProgressed": 3635,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T15:05:30.1245396+00:00",
+      "NumProgressed": 3637,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6845,7 +6850,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6901,7 +6906,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6933,7 +6938,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6965,7 +6970,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6973,7 +6978,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6989,7 +6994,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7021,7 +7026,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7101,7 +7106,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7141,7 +7146,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7157,7 +7162,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7173,7 +7178,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7253,7 +7258,7 @@
       "Name": "Last Resort",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -7261,7 +7266,7 @@
       "Name": "Siegebreaker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -7269,7 +7274,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -7299,9 +7304,9 @@
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
       "SetID": "83mdf7p",
       "Name": "Stroll in the Woods",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -7332,13 +7337,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3586,
+      "Progressed": 3588,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3635,
+      "Progressed": 3637,
       "Completed": 11
     }
   ],
@@ -7346,8 +7351,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:05:34.6547512+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:05:30.1245389+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:00:33.7995046+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:05:34.6548333+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:00:32.0470584+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:05:30.1246479+00:00"
 }

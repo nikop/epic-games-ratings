@@ -42,10 +42,10 @@
 | From Here To Eternity | 20.00% | ~37 |
 | Building Blocks | 20.00% | ~37 |
 | Octopostructure | 18.00% | ~33 |
-| Boss Hunter | 15.00% | ~28 |
+| Boss Hunter | 16.00% | ~30 |
 | Fashion Victim | 9.00% | ~17 |
+| Annihilate | 9.00% | ~17 |
 | Hawkman | 9.00% | ~17 |
-| Annihilate | 8.00% | ~15 |
 | Godlike Skin | 7.00% | ~13 |
 | See You Later | 6.00% | ~11 |
 | Feast Time | 6.00% | ~11 |

@@ -6724,9 +6724,9 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229275,
+  "EOS_Progressed": 229277,
   "EOS_Completed": 2294,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23474,6 +23474,11 @@
       "Time": "2023-09-18T14:06:34.5968997+00:00",
       "NumProgressed": 229275,
       "NumCompleted": 2294
+    },
+    {
+      "Time": "2023-09-18T15:06:27.1687417+00:00",
+      "NumProgressed": 229277,
+      "NumCompleted": 2294
     }
   ],
   "TotalAchievements": 520,
@@ -25483,9 +25488,9 @@
       "ID": "objective_completed_418",
       "SetID": "cc37lbc",
       "Name": "Hopelessly Lost",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_419",
@@ -26555,9 +26560,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 688
     },
     {
       "ID": "objective_completed_690",
@@ -27644,21 +27649,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195549,
+      "Progressed": 195551,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229275,
+      "Progressed": 229277,
       "Completed": 2294
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-17T21:57:49.5337386+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:06:34.5968993+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:06:27.1687412+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:58:01.6882464+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:06:34.5992947+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:57:50.7589887+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:06:27.1715052+00:00"
 }

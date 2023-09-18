@@ -37,6 +37,7 @@ Rating: 3.52 (Ranked 988)
 | You Clean It Up | 0.20% | ~3 |
 | Sisterhood | 0.20% | ~3 |
 | What Lies Below | 0.20% | ~3 |
+| Blacklight Down | 0.20% | ~3 |
 | Dexterity Save | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
 | I Spit On Your Grave | 0.20% | ~3 |
@@ -51,7 +52,6 @@ Rating: 3.52 (Ranked 988)
 | Bloody Initiate | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |
-| Blacklight Down | 0.10% | ~2 |
 | Under a Bushel | 0.10% | ~2 |
 | Enemy of My Enemy | 0.10% | ~2 |
 | Good Samaritan | 0.10% | ~2 |

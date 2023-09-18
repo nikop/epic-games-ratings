@@ -5,27 +5,27 @@ Rating: 4.46 (Ranked 625)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,672 |
-| Confirming Suspicions | 40.00% | ~1,454 |
+| Meeting Resistance | 46.00% | ~1,673 |
+| Confirming Suspicions | 40.00% | ~1,455 |
 | The Kraken Wakes | 36.00% | ~1,309 |
 | It's Starting to Crack | 33.00% | ~1,200 |
-| Change the Channel | 30.00% | ~1,090 |
-| Lord of War | 29.00% | ~1,054 |
+| Change the Channel | 30.00% | ~1,091 |
+| Lord of War | 29.00% | ~1,055 |
 | Taking it back | 28.00% | ~1,018 |
-| Resourceful | 26.00% | ~945 |
-| Target America | 26.00% | ~945 |
-| The Kraken Sleeps | 23.00% | ~836 |
+| Resourceful | 26.00% | ~946 |
+| Target America | 26.00% | ~946 |
+| The Kraken Sleeps | 23.00% | ~837 |
 | Liberté | 22.00% | ~800 |
 | Organ Grinder | 22.00% | ~800 |
 | As Quiet as a Mouse | 22.00% | ~800 |
-| Sharpshooter | 21.00% | ~763 |
-| Explosive Efficiency | 18.00% | ~654 |
+| Sharpshooter | 21.00% | ~764 |
+| Explosive Efficiency | 18.00% | ~655 |
 | Just a Flesh Wound | 17.00% | ~618 |
 | Gunslinger | 17.00% | ~618 |
 | Climbing the Ladder | 16.00% | ~582 |
 | Der Geist | 16.00% | ~582 |
-| Close Quarters | 15.00% | ~545 |
-| Brains of the Operation | 15.00% | ~545 |
+| Close Quarters | 15.00% | ~546 |
+| Brains of the Operation | 15.00% | ~546 |
 | Enemy at the Gates | 14.00% | ~509 |
 | Fields of Glory | 14.00% | ~509 |
 | Skirmisher | 14.00% | ~509 |
@@ -46,9 +46,9 @@ Rating: 4.46 (Ranked 625)
 | Tinkerer | 4.00% | ~145 |
 | Locomotion Commotion | 4.00% | ~145 |
 | Road Rage | 4.00% | ~145 |
-| Last Resort | 4.00% | ~143 |
-| Siegebreaker | 4.00% | ~143 |
-| Ghost of Falaise | 4.00% | ~143 |
+| Last Resort | 4.00% | ~144 |
+| Siegebreaker | 4.00% | ~144 |
+| Ghost of Falaise | 4.00% | ~144 |
 | From Paris with Love | 3.00% | ~109 |
 | Burn after reading | 3.00% | ~109 |
 | Souvenir hunter | 3.00% | ~109 |
@@ -74,10 +74,10 @@ Rating: 4.46 (Ranked 625)
 | Master of Pistols | 0.70% | ~25 |
 | Master-at-arms | 0.70% | ~25 |
 | Operation Overlord | 0.70% | ~25 |
-| Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
+| Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,635 (Ranked 162)  
+Progressed: 3,637 (Ranked 162)  
 Completed: 11 (0.30%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 11 (0.30%) (Ranked 182)
 | 2023-09-15 | 3,614 | 10 |
 | 2023-09-16 | 3,621 | 10 |
 | 2023-09-17 | 3,631 | 11 |
-| 2023-09-18 | 3,635 | 11 |
+| 2023-09-18 | 3,637 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

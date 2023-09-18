@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 858,
+  "Ranking_Rating": 859,
   "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 108,
@@ -1275,7 +1275,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24197,
+  "EOS_Progressed": 24199,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 2,
@@ -17455,6 +17455,11 @@
       "Time": "2023-09-18T14:04:52.1385693+00:00",
       "NumProgressed": 24197,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-18T15:04:45.9143855+00:00",
+      "NumProgressed": 24199,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 22,
@@ -17570,7 +17575,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "1029",
@@ -17586,7 +17591,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4839
+      "UsersEstimate": 4840
     },
     {
       "ID": "1031",
@@ -17602,7 +17607,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9679
+      "UsersEstimate": 9680
     },
     {
       "ID": "1033",
@@ -17641,15 +17646,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24197,
+      "Progressed": 24199,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:04:52.1385689+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:04:45.914385+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.9877962+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:00:15.1684379+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:04:52.1386551+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:00:12.9891599+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:04:45.9144977+00:00"
 }

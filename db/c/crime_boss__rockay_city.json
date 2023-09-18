@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 960,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 77,
@@ -3502,10 +3502,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 2115,
       "NumberOfAwardsMax": 440
+    },
+    {
+      "Time": "2023-09-18T14:59:35.028073+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 2119,
+      "NumberOfAwardsMax": 440
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2115,
+  "NumberOfAwards": 2119,
   "NumberOfAwardsMax": 440,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3525,7 +3531,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 407
+      "Count": 411
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3558,9 +3564,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 87684,
+  "EOS_Progressed": 87690,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 1140,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19183,6 +19189,11 @@
       "Time": "2023-09-18T14:06:52.9010637+00:00",
       "NumProgressed": 87684,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-18T15:06:45.5382065+00:00",
+      "NumProgressed": 87690,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19336,17 +19347,17 @@
       "ID": "ACH_0200",
       "SetID": "3kam13l",
       "Name": "First One\u2019s Free",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_0210",
       "SetID": "3kam13l",
       "Name": "Downed but Not Outed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_0211",
@@ -19521,22 +19532,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 87684,
+      "Progressed": 87690,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16031,
+      "Progressed": 16037,
       "Completed": 15525
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-18T07:00:25.4504238+00:00",
-  "LastChanged_Achievements": "2023-09-18T14:06:52.9010632+00:00",
+  "LastChanged": "2023-09-18T14:59:35.0280728+00:00",
+  "LastChanged_Achievements": "2023-09-18T15:06:45.538206+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:59:39.7735196+00:00",
-  "LastUpdate_Achievements": "2023-09-18T14:06:52.9011653+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:59:35.0280734+00:00",
+  "LastUpdate_Achievements": "2023-09-18T15:06:45.5383317+00:00"
 }

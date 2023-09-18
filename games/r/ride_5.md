@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 40.00% | ~374 |
+| First Love | 41.00% | ~384 |
 | Clean Race | 39.00% | ~365 |
 | Hear That Roar! | 38.00% | ~356 |
 | Eat My Dust | 34.00% | ~318 |

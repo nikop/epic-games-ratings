@@ -1,13 +1,13 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 960)  
+Rating: 3.93 (Ranked 961)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First One’s Free | 0.40% | ~351 |
+| Downed but Not Outed | 0.40% | ~351 |
 | Neophyte Ninja | 0.30% | ~263 |
-| First One’s Free | 0.30% | ~263 |
-| Downed but Not Outed | 0.30% | ~263 |
 | Underworld Initiate | 0.20% | ~175 |
 | Roid Ranger | 0.20% | ~175 |
 | Too Old for This | 0.20% | ~175 |
@@ -47,7 +47,7 @@ Rating: 3.93 (Ranked 960)
 | One for All | 0.10% | ~16 |
 | Now You See Me | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,684 (Ranked 77)  
+Progressed: 87,690 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 46 (0.05%) (Ranked 240)
 | 2023-09-15 | 87,269 | 46 |
 | 2023-09-16 | 87,447 | 46 |
 | 2023-09-17 | 87,608 | 46 |
-| 2023-09-18 | 87,684 | 46 |
+| 2023-09-18 | 87,690 | 46 |
 ## Awards
 Max (Diverse Characters): 440  (Ranked 209)  
-Sum: 2,115 (Ranked 198)  
+Sum: 2,119 (Ranked 198)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
@@ -209,7 +209,7 @@ Diff (max vs sum): 11
 | This game has Quickly Understood Controls | 433 |
 | This game is Highly Recommended | 419 |
 | This game has Challenging Combat | 416 |
-| This game has Amazing Characters | 407 |
+| This game has Amazing Characters | 411 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -386,4 +386,4 @@ Diff (max vs sum): 11
 | 2023-09-15 | 3.93 | 436 | 2,080 |
 | 2023-09-16 | 3.93 | 438 | 2,095 |
 | 2023-09-17 | 3.93 | 440 | 2,112 |
-| 2023-09-18 | 3.93 | 440 | 2,115 |
+| 2023-09-18 | 3.93 | 440 | 2,119 |
