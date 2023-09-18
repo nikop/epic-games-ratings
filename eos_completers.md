@@ -49,7 +49,7 @@
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.69% |
 | 48 | [JARS](games/j/jars.md) | 5.56% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.53% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.49% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.45% |
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
@@ -65,11 +65,11 @@
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.78% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.37% |
-| 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
-| 67 | [Doodle God](games/d/doodle_god.md) | 3.36% |
+| 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.36% |
+| 66 | [Doodle God](games/d/doodle_god.md) | 3.36% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
-| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.27% |
+| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.26% |
 | 71 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |

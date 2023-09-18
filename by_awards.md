@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,709,837 | 4.29 | 807 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 544,121 | 4.49 | 583 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 545,386 | 4.49 | 583 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 305,982 | 4.68 | 243 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 227,863 | 4.68 | 243 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 201,458 | 4.19 | 874 |
@@ -25,7 +25,7 @@
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,339 | 4.76 | 117 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,488 | 4.58 | 432 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,818 | 4.60 | 395 |
-| 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,712 | 4.60 | 395 |
+| 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,721 | 4.60 | 395 |
 | 27 | [Maneater](games/m/maneater.md) | 13,683 | 4.49 | 583 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,934 | 4.43 | 664 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,681 | 4.36 | 748 |
@@ -154,7 +154,7 @@
 | 152 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 936 | 4.79 | 89 |
 | 153 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 879 | 4.45 | 640 |
 | 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 853 | 4.56 | 467 |
-| 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 840 | 4.45 | 640 |
+| 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 842 | 4.45 | 640 |
 | 156 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 824 | 4.69 | 217 |
 | 157 | [Frostpunk](games/f/frostpunk.md) | 814 | 4.74 | 145 |
 | 158 | [The Long Dark](games/t/the_long_dark.md) | 808 | 4.74 | 145 |
@@ -186,7 +186,7 @@
 | 184 | [Dark Deity](games/d/dark_deity.md) | 616 | 4.16 | 893 |
 | 185 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 611 | 4.63 | 331 |
 | 186 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 608 | 4.73 | 161 |
-| 187 | [Riders Republic](games/r/riders_republic.md) | 603 | 4.75 | 136 |
+| 187 | [Riders Republic](games/r/riders_republic.md) | 606 | 4.75 | 136 |
 | 188 | [Star Trek Online](games/s/star_trek_online.md) | 584 | 4.44 | 649 |
 | 189 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 580 | 4.38 | 730 |
 | 190 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 577 | 4.62 | 349 |
@@ -210,7 +210,7 @@
 | 208 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 441 | 4.60 | 395 |
 | 209 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 440 | 3.93 | 960 |
 | 210 | [RimWorld](games/r/rimworld.md) | 435 | 4.89 | 12 |
-| 211 | [Against the Storm](games/a/against_the_storm.md) | 430 | 4.81 | 78 |
+| 211 | [Against the Storm](games/a/against_the_storm.md) | 431 | 4.81 | 78 |
 | 212 | [Into the Breach](games/i/into_the_breach.md) | 423 | 4.84 | 50 |
 | 213 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 419 | 4.73 | 161 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 419 | 4.70 | 202 |

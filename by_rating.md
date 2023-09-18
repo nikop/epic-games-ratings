@@ -77,7 +77,7 @@
 | 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,521 | 53 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 410 | 217 |
 | 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 519 |
-| 78 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 430 | 211 |
+| 78 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 431 | 211 |
 | 78 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 519 |
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 519 |
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 469 |
@@ -140,7 +140,7 @@
 | 136 | [Diabotical](games/d/diabotical.md) | 4.75 | 279 | 247 |
 | 136 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 703 | 169 |
 | 136 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 519 |
-| 136 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 603 | 187 |
+| 136 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 606 | 187 |
 | 136 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 519 |
 | 136 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 519 |
 | 136 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 519 |
@@ -403,7 +403,7 @@
 | 395 | [Control](games/c/control.md) | 4.60 | 8,511 | 40 |
 | 395 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 519 |
 | 395 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 266 |
-| 395 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,712 | 26 |
+| 395 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,721 | 26 |
 | 395 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 519 |
 | 395 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 321 |
 | 395 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 519 |
@@ -595,7 +595,7 @@
 | 583 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 341 |
 | 583 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 458 |
 | 583 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 23 | 495 |
-| 583 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 544,121 | 2 |
+| 583 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 545,386 | 2 |
 | 583 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
 | 583 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 519 |
 | 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,590 | 99 |
@@ -640,7 +640,7 @@
 | 625 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 519 |
 | 625 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 519 |
 | 640 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 247 | 258 |
-| 640 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 840 | 155 |
+| 640 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 842 | 155 |
 | 640 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 108 | 332 |
 | 640 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,524 | 34 |
 | 640 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.45 | 0 | 519 |
@@ -962,8 +962,8 @@
 | 960 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 466 |
 | 960 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 519 |
 | 960 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 440 | 209 |
-| 963 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.92 | 0 | 519 |
-| 963 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.92 | 0 | 519 |
+| 960 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.93 | 0 | 519 |
+| 964 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.92 | 0 | 519 |
 | 965 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 27 | 474 |
 | 965 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 336 |
 | 965 | [Warface](games/w/warface.md) | 3.91 | 415 | 215 |
