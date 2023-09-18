@@ -5,9 +5,9 @@
   "Ranking_Rating": 218,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
@@ -1759,6 +1759,11 @@
       "Time": "2023-09-18T17:03:51.7438568+00:00",
       "NumProgressed": 655,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-18T19:03:52.0186683+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1771,7 +1776,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1779,7 +1784,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "_03_FinishAct1",
@@ -1835,7 +1840,7 @@
       "Name": "Powder Monkey",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "_10_Completion_30",
@@ -1899,7 +1904,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1915,7 +1920,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1978,7 +1983,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 15
     }
   ],
@@ -1986,8 +1991,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:04:10.0725289+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:03:52.0186677+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:59:00.3156059+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:04:10.0725528+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:59:07.7299185+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:03:52.0186997+00:00"
 }

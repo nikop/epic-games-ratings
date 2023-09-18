@@ -12,8 +12,8 @@
 | A TIGER'S FEAR | 33.00% | ~1,052 |
 | AGGRESSIVE RACER | 33.00% | ~1,052 |
 | HERE ARE SOME BARE NECESSITIES | 32.00% | ~1,020 |
-| ACE SPEEDSTER | 24.00% | ~765 |
-| IT'S A LONG WAY TO THE TOP | 21.00% | ~669 |
+| ACE SPEEDSTER | 25.00% | ~797 |
+| IT'S A LONG WAY TO THE TOP | 21.00% | ~670 |
 | MASTER | 18.00% | ~574 |
 | ACE BRAWLER | 17.00% | ~542 |
 | TRAINING HARD | 16.00% | ~510 |
@@ -23,13 +23,13 @@
 | DEFEAT OUR CHAMPION | 15.00% | ~478 |
 | LEGENDARY HERO | 15.00% | ~478 |
 | RELEASE THE KRAKEN | 14.00% | ~446 |
-| PERFECTLY POISED | 13.00% | ~414 |
-| THE EYE OF THE HUNTER | 13.00% | ~414 |
-| ACE TRICKSTER | 13.00% | ~414 |
+| PERFECTLY POISED | 13.00% | ~415 |
+| THE EYE OF THE HUNTER | 13.00% | ~415 |
+| ACE TRICKSTER | 13.00% | ~415 |
 | EXPERIENCED CREW | 7.00% | ~223 |
 | FRAMED! | 7.00% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,188 (Ranked 170)  
+Progressed: 3,189 (Ranked 171)  
 Completed: 177 (5.55%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,4 +176,4 @@ Completed: 177 (5.55%) (Ranked 48)
 | 2023-09-15 | 3,179 | 173 |
 | 2023-09-16 | 3,181 | 175 |
 | 2023-09-17 | 3,185 | 176 |
-| 2023-09-18 | 3,188 | 177 |
+| 2023-09-18 | 3,189 | 177 |

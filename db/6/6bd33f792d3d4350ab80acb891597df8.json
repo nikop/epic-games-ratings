@@ -348,17 +348,17 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBA",
@@ -420,17 +420,17 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDQ",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:03:46.4076097+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:03:07.091253+00:00",
   "LastUpdate_AppInfo": "2023-09-12T18:57:15.5936984+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:57:31.5141412+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:03:46.4076489+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:57:32.2996513+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:03:07.0913127+00:00"
 }

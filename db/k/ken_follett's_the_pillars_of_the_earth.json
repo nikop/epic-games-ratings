@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15263,
+  "EOS_Progressed": 15264,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -10387,6 +10387,11 @@
       "Time": "2023-09-18T18:08:34.6180759+00:00",
       "NumProgressed": 15263,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-18T19:08:39.1240718+00:00",
+      "NumProgressed": 15264,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10478,7 +10483,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "tpote_achievement_2",
@@ -10550,7 +10555,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "tpote_achievement_28",
@@ -10590,7 +10595,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "tpote_achievement_32",
@@ -10725,15 +10730,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15263,
+      "Progressed": 15264,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:08:34.6180754+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:08:39.1240713+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:01:00.516795+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:08:34.6181512+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:01:14.9445883+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:08:39.1241798+00:00"
 }

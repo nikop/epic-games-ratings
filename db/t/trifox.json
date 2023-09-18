@@ -199,9 +199,9 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -488,8 +488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:09:10.876251+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:09:17.6743217+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.8085502+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:59:41.0705913+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:09:10.8762801+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:59:50.5603719+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:09:17.6743615+00:00"
 }

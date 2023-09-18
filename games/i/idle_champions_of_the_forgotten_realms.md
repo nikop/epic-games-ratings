@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.80% | ~1,834 |
 | The Cursed Farmer | 0.70% | ~1,605 |
 | The Mad Wizard | 0.60% | ~1,376 |
-| The Ring of Regeneration | 0.50% | ~1,146 |
+| The Ring of Regeneration | 0.50% | ~1,147 |
 | Were-verpowered | 0.40% | ~917 |
 | Seeking Allies | 0.40% | ~917 |
 | Are Ya Chicken? | 0.40% | ~917 |
@@ -112,6 +112,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~391 |
 | The Templar's Camp | 0.20% | ~459 |
 | Rescue in the Jungle | 0.20% | ~459 |
+| Rock and Roll | 0.20% | ~391 |
 | The Hunt for The Last Breath | 0.20% | ~391 |
 | To Infinity's and Beyond | 0.20% | ~391 |
 | The End | 0.20% | ~391 |
@@ -515,7 +516,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.10% | ~196 |
 | Rocky Reception | 0.10% | ~196 |
 | Luigi After Hours | 0.10% | ~196 |
-| Rock and Roll | 0.10% | ~196 |
 | Electric Mayhem | 0.10% | ~196 |
 | Flight of the Kindori Pod | 0.10% | ~196 |
 | 3,720 to 1 | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,298 (Ranked 57)  
+Progressed: 229,304 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,298 | 2,294 |
+| 2023-09-18 | 229,304 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

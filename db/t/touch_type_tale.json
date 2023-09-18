@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3526,
+  "EOS_Progressed": 3528,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3594,6 +3594,11 @@
       "Time": "2023-09-18T18:07:51.7579054+00:00",
       "NumProgressed": 3526,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T19:07:53.8312406+00:00",
+      "NumProgressed": 3528,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3605,7 +3610,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "bonus2",
@@ -3653,7 +3658,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3105
     },
     {
       "ID": "campaign10",
@@ -3741,7 +3746,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2717
     },
     {
       "ID": "campaign20",
@@ -3757,7 +3762,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "campaign4",
@@ -3765,7 +3770,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "campaign5",
@@ -3805,7 +3810,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "scenario1",
@@ -3813,7 +3818,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "scenario2",
@@ -3868,7 +3873,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3526,
+      "Progressed": 3528,
       "Completed": 11
     }
   ],
@@ -3876,8 +3881,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:07:51.7579049+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:07:53.83124+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:01:19.4316743+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:07:51.7579433+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:01:34.6705719+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:07:53.8313001+00:00"
 }

@@ -3008,9 +3008,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72645,
+  "EOS_Progressed": 72646,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15908,6 +15908,11 @@
       "Time": "2023-09-18T18:04:46.0596653+00:00",
       "NumProgressed": 72645,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-18T19:04:40.7644493+00:00",
+      "NumProgressed": 72646,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -15967,15 +15972,15 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16708
+      "UsersEstimate": 16709
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
       "SetID": "18c818l",
       "Name": "Gotham\u0027s Greatest Depths",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 258
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -15999,7 +16004,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8718
     },
     {
       "ID": "APPLY_STATUS",
@@ -16023,7 +16028,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15255
+      "UsersEstimate": 15256
     },
     {
       "ID": "CLAYFACE_2",
@@ -16095,7 +16100,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8718
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -16135,7 +16140,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "FREEZE_1",
@@ -16151,7 +16156,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15255
+      "UsersEstimate": 15256
     },
     {
       "ID": "FREEZE_2",
@@ -16231,7 +16236,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18161
+      "UsersEstimate": 18162
     },
     {
       "ID": "HARLEY_3",
@@ -16263,7 +16268,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37775
+      "UsersEstimate": 37776
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16311,7 +16316,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24699
+      "UsersEstimate": 24700
     },
     {
       "ID": "MYSTERY_02",
@@ -16319,7 +16324,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18161
+      "UsersEstimate": 18162
     },
     {
       "ID": "MYSTERY_03",
@@ -16327,7 +16332,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16708
+      "UsersEstimate": 16709
     },
     {
       "ID": "MYSTERY_04",
@@ -16357,9 +16362,9 @@
       "ID": "MYSTERY_07",
       "SetID": "4eo5ebm",
       "Name": "Seeking Asylum",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9444
+      "UsersEstimate": 10170
     },
     {
       "ID": "MYSTERY_08",
@@ -16367,7 +16372,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8718
     },
     {
       "ID": "SECRET_CACHE",
@@ -16406,13 +16411,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72645,
+      "Progressed": 72646,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42925,
+      "Progressed": 42926,
       "Completed": 2663
     }
   ],
@@ -16420,8 +16425,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-18T16:59:42.335639+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:04:46.0596646+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:04:40.7644488+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:00:26.843848+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:04:46.0597718+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:00:38.5878814+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:04:40.7646147+00:00"
 }

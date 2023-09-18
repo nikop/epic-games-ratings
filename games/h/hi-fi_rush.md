@@ -24,10 +24,10 @@ Rating: 4.87 (Ranked 25)
 | Headliner | 7.00% | ~285 |
 | Time to pay up! | 7.00% | ~285 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~285 |
+| You must like calling me in, Chai | 7.00% | ~285 |
 | Out in a puff of smoke | 7.00% | ~285 |
 | Does that say weakpoint? | 7.00% | ~285 |
 | Who's the boss now? | 6.00% | ~244 |
-| You must like calling me in, Chai | 6.00% | ~244 |
 | Perfecter Parry-er! | 6.00% | ~244 |
 | NOW we got a kickass hideout! | 6.00% | ~155 |
 | I have to read these things? | 5.00% | ~203 |

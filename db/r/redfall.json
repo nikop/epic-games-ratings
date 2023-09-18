@@ -2501,17 +2501,17 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_035",
@@ -2790,8 +2790,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-30T23:01:05.938528+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:06:59.666161+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:06:59.0729677+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.3443799+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:58:50.1053518+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:06:59.6662266+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:58:55.5966404+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:06:59.07306+00:00"
 }

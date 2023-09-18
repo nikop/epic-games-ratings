@@ -3,7 +3,7 @@
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 66,
-  "Ranking_Popularity": 119,
+  "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
@@ -8436,10 +8436,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12523,
       "NumberOfAwardsMax": 1628
+    },
+    {
+      "Time": "2023-09-18T18:58:33.8879277+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12526,
+      "NumberOfAwardsMax": 1628
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12523,
+  "NumberOfAwards": 12526,
   "NumberOfAwardsMax": 1628,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8507,7 +8513,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 848
+      "Count": 851
     }
   ],
   "EOS_Progressed": 0,
@@ -8521,8 +8527,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-09-18T17:58:30.2511248+00:00",
+  "LastChanged": "2023-09-18T18:58:33.8879276+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:36.4077604+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:58:30.2511254+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:03:27.1309146+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:58:33.8879282+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:03:16.1439501+00:00"
 }

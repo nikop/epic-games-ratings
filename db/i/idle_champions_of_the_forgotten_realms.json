@@ -6724,10 +6724,10 @@
       "Count": 3422
     }
   ],
-  "EOS_Progressed": 229298,
+  "EOS_Progressed": 229304,
   "EOS_Completed": 2294,
-  "EOS_NewPlayers": 876,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 875,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23494,6 +23494,11 @@
       "Time": "2023-09-18T18:08:08.897073+00:00",
       "NumProgressed": 229298,
       "NumCompleted": 2294
+    },
+    {
+      "Time": "2023-09-18T19:08:12.0124102+00:00",
+      "NumProgressed": 229304,
+      "NumCompleted": 2294
     }
   ],
   "TotalAchievements": 520,
@@ -25185,7 +25190,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "objective_completed_35",
@@ -27543,9 +27548,9 @@
       "ID": "objective_completed_1380",
       "SetID": "415jc5c",
       "Name": "Rock and Roll",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1381",
@@ -27664,21 +27669,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195572,
+      "Progressed": 195578,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229298,
+      "Progressed": 229304,
       "Completed": 2294
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-17T21:57:49.5337386+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:08:08.8970725+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:08:12.012409+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:58:27.5738303+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:08:08.8994918+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:58:30.8934403+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:08:12.0192005+00:00"
 }

@@ -930,7 +930,7 @@
   ],
   "EOS_Progressed": 12498,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10773,9 +10773,9 @@
       "ID": "ACH08",
       "SetID": "4ck5mbe",
       "Name": "Pay \u0027n\u0027 Spray",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6374
     },
     {
       "ID": "ACH09",
@@ -11006,8 +11006,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-18T13:05:06.0343275+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:06:45.6393007+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:06:44.635158+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:00:17.2983555+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:06:45.6393683+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:00:28.8068199+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:06:44.6352549+00:00"
 }

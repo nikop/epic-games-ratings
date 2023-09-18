@@ -272,9 +272,9 @@
       "ID": "Light Work",
       "SetID": "dene75h",
       "Name": "Light Work",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Locksmith",
@@ -431,8 +431,8 @@
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:09:19.0888915+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:09:26.6308907+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.5727546+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:01:29.5578998+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:09:19.0889381+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:01:45.4415455+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:09:26.6309265+00:00"
 }

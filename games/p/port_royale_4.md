@@ -17,7 +17,7 @@ Number of Ratings: 53  (23.09.2022)
 | Intangible | 42.00% | ~378 |
 | I'm out of here for a while | 41.00% | ~369 |
 | In a mint condition | 38.00% | ~342 |
-| Licence to Kill | 36.00% | ~324 |
+| Licence to Kill | 37.00% | ~333 |
 | Pirates! | 34.00% | ~306 |
 | Megalomania | 29.00% | ~261 |
 | Christening | 28.00% | ~252 |

@@ -6,29 +6,29 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,941 |
-| Let There Be Light | 34.00% | ~22,341 |
-| Float Like a Butterfly | 32.00% | ~21,027 |
+| Follow the Light | 41.00% | ~26,942 |
+| Let There Be Light | 34.00% | ~22,342 |
+| Float Like a Butterfly | 32.00% | ~21,028 |
 | Nordic Walking | 26.00% | ~17,085 |
 | Bright Falls' Finest | 25.00% | ~16,428 |
-| Under a Thin Layer of Skin | 22.00% | ~14,456 |
+| Under a Thin Layer of Skin | 22.00% | ~14,457 |
 | Park Ranger | 18.00% | ~11,828 |
 | Paging Mr. Wake | 18.00% | ~11,828 |
 | Back! Back, I Say! | 17.00% | ~11,171 |
 | Finders Keepers | 17.00% | ~11,171 |
 | Damn Good Cup of Coffee | 16.00% | ~10,514 |
-| They're Heeeeeere! | 15.00% | ~9,856 |
-| Sound and Fury | 15.00% | ~9,856 |
-| Missed by a Mile | 15.00% | ~9,856 |
-| Wheels Within Wheels | 14.00% | ~9,199 |
-| The Six-Gun Scribe | 14.00% | ~9,199 |
-| Heavy Metal | 13.00% | ~8,542 |
-| Iron Horse | 13.00% | ~8,542 |
-| Perchance to Dream | 13.00% | ~8,542 |
-| Collateral Carnage | 13.00% | ~8,542 |
-| Come One, Come All | 13.00% | ~8,542 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,885 |
-| Thunder and Lightning | 12.00% | ~7,885 |
+| They're Heeeeeere! | 15.00% | ~9,857 |
+| Sound and Fury | 15.00% | ~9,857 |
+| Missed by a Mile | 15.00% | ~9,857 |
+| Wheels Within Wheels | 14.00% | ~9,200 |
+| The Six-Gun Scribe | 14.00% | ~9,200 |
+| Heavy Metal | 13.00% | ~8,543 |
+| Iron Horse | 13.00% | ~8,543 |
+| Perchance to Dream | 13.00% | ~8,543 |
+| Collateral Carnage | 13.00% | ~8,543 |
+| Come One, Come All | 13.00% | ~8,543 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,886 |
+| Thunder and Lightning | 12.00% | ~7,886 |
 | Gatekeeper | 11.00% | ~7,228 |
 | The Lady of the Light | 11.00% | ~7,228 |
 | Two For the Price of One | 11.00% | ~7,228 |
@@ -45,7 +45,7 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 5.00% | ~3,286 |
 | KBF-FM | 5.00% | ~3,286 |
 | Ding! | 5.00% | ~1,459 |
-| Boob Tube | 4.00% | ~2,628 |
+| Boob Tube | 4.00% | ~2,629 |
 | Carny | 3.00% | ~1,971 |
 | Kill Your Darlings | 3.00% | ~875 |
 | Heartbreaker | 3.00% | ~875 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,710 (Ranked 88)  
+Progressed: 65,713 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 65 (0.10%) (Ranked 222)
 | 2023-09-15 | 65,366 | 65 |
 | 2023-09-16 | 65,510 | 65 |
 | 2023-09-17 | 65,643 | 65 |
-| 2023-09-18 | 65,710 | 65 |
+| 2023-09-18 | 65,713 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

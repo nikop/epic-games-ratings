@@ -20,7 +20,7 @@
 | Half the way | 27.00% | ~46 |
 | Peace walker | 26.00% | ~44 |
 | Open door | 24.00% | ~41 |
-| Free at last | 21.00% | ~35 |
+| Free at last | 22.00% | ~37 |
 | Feels like springtime | 21.00% | ~35 |
 | Alchemists Express | 21.00% | ~35 |
 | Rascal | 21.00% | ~35 |

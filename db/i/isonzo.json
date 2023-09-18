@@ -832,9 +832,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6941,
+  "EOS_Progressed": 6942,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5627,6 +5627,11 @@
       "Time": "2023-09-18T18:04:59.701812+00:00",
       "NumProgressed": 6941,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-18T19:04:55.2680305+00:00",
+      "NumProgressed": 6942,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5654,7 +5659,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -5670,7 +5675,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -5846,7 +5851,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -5886,7 +5891,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -5918,7 +5923,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -5934,7 +5939,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -5997,7 +6002,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6941,
+      "Progressed": 6942,
       "Completed": 8
     }
   ],
@@ -6005,8 +6010,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:04:59.7018115+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:04:55.2680299+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:58:24.3064867+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:04:59.7018659+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:58:27.5106724+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:04:55.2681055+00:00"
 }

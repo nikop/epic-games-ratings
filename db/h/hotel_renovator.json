@@ -6,8 +6,8 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -116,11 +116,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1003,
+  "EOS_Progressed": 1004,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.5,
+  "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -1591,6 +1591,11 @@
       "Time": "2023-09-18T18:09:11.124877+00:00",
       "NumProgressed": 1003,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-18T19:09:17.967284+00:00",
+      "NumProgressed": 1004,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1602,7 +1607,7 @@
       "Name": "Humble beginnings",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1626,15 +1631,15 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1642,7 +1647,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1650,7 +1655,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1666,7 +1671,7 @@
       "Name": "No need to call anyone",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1698,7 +1703,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1706,7 +1711,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1754,7 +1759,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_STAR_2",
@@ -1762,7 +1767,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_STAR_3",
@@ -1802,7 +1807,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1817,7 +1822,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1003,
+      "Progressed": 1004,
       "Completed": 15
     }
   ],
@@ -1825,8 +1830,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-18T09:57:15.7351218+00:00",
-  "LastChanged_Achievements": "2023-09-18T18:09:11.1248765+00:00",
+  "LastChanged_Achievements": "2023-09-18T19:09:17.9672835+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:57:36.2284398+00:00",
-  "LastUpdate_Achievements": "2023-09-18T18:09:11.1249129+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:57:37.6994794+00:00",
+  "LastUpdate_Achievements": "2023-09-18T19:09:17.9673359+00:00"
 }
