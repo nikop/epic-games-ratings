@@ -14,14 +14,14 @@
 | Bridge Builder | 23.00% | ~21 |
 | Green Thumb Goliath | 15.00% | ~14 |
 | Take the Scenic Route | 14.00% | ~13 |
-| Treasure Hunter | 13.00% | ~12 |
+| Treasure Hunter | 14.00% | ~13 |
 | St. George's Gauntlet | 12.00% | ~11 |
 | Redbeard's Revenger | 12.00% | ~11 |
 | BJ & The Bear | 12.00% | ~11 |
 | Can't bear the weight | 9.00% | ~8 |
+| Egg On His Face | 9.00% | ~8 |
 | Who dat? | 9.00% | ~8 |
 | Soft Hands | 9.00% | ~8 |
-| Egg On His Face | 8.00% | ~7 |
 | Mr. Magic | 8.00% | ~7 |
 | Batteries not Included | 8.00% | ~7 |
 | What a Winner! | 5.00% | ~5 |

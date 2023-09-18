@@ -9616,10 +9616,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 50474,
       "NumberOfAwardsMax": 6141
+    },
+    {
+      "Time": "2023-09-18T09:57:41.1953514+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50503,
+      "NumberOfAwardsMax": 6141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50474,
+  "NumberOfAwards": 50503,
   "NumberOfAwardsMax": 6141,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9633,7 +9639,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 5808
+      "Count": 5822
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9663,7 +9669,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5476
+      "Count": 5491
     },
     {
       "Text": "This game is Relaxing",
@@ -9690,9 +9696,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 407090,
+  "EOS_Progressed": 407115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7487,
+  "EOS_NewPlayers": 7479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26665,6 +26671,11 @@
       "Time": "2023-09-18T09:03:40.2798139+00:00",
       "NumProgressed": 407090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T10:03:39.4780075+00:00",
+      "NumProgressed": 407115,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -26804,7 +26815,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -27188,7 +27199,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "achievement_cold_war",
@@ -27212,7 +27223,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -29340,7 +29351,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16284
+      "UsersEstimate": 16285
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29507,21 +29518,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 407090,
+      "Progressed": 407115,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 407090,
+      "Progressed": 407115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-18T07:57:35.5923676+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:03:40.2798129+00:00",
+  "LastChanged": "2023-09-18T09:57:41.1953491+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:03:39.4780072+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:57:42.5243317+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:03:40.2813324+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:57:41.1953526+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:03:39.4795187+00:00"
 }

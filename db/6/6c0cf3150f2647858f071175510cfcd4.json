@@ -2,9 +2,9 @@
   "ID": "6c0cf3150f2647858f071175510cfcd4",
   "Name": "Aircraft Carrier Survival",
   "ProductSlug": "aircraft-carrier-survival-769456",
-  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Progress": 598,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:03:12.5386277+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:03:11.2303498+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:14.6900224+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:58:13.1881221+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:03:12.5386587+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:58:13.8165152+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:03:11.230387+00:00"
 }

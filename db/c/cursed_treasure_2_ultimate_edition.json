@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -430,9 +430,9 @@
       "ID": "BADGE_CHAMPIONS_KILL",
       "SetID": "ak6pfjk",
       "Name": "On the Crest of a Wave",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL_2",
@@ -614,9 +614,9 @@
       "ID": "BADGE_TOWER_UPGRADE",
       "SetID": "ak6pfjk",
       "Name": "Foreman of Darkness",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "BADGE_TOWER_UPGRADE_2",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:08:23.4853919+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:08:26.4769525+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:32.3793412+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:58:56.3834539+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:08:23.4854456+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:58:53.6110366+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:08:26.4770181+00:00"
 }

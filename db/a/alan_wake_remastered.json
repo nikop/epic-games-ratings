@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65676,
+  "EOS_Progressed": 65677,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1265,
+  "EOS_NewPlayers": 1259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15062,6 +15062,11 @@
       "Time": "2023-09-18T09:04:10.768402+00:00",
       "NumProgressed": 65676,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-18T10:04:09.4263177+00:00",
+      "NumProgressed": 65677,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15073,7 +15078,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26927
+      "UsersEstimate": 26928
     },
     {
       "ID": "02",
@@ -15233,7 +15238,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9851
+      "UsersEstimate": 9852
     },
     {
       "ID": "22",
@@ -15297,7 +15302,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9851
+      "UsersEstimate": 9852
     },
     {
       "ID": "30",
@@ -15321,7 +15326,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21016
+      "UsersEstimate": 21017
     },
     {
       "ID": "33",
@@ -15329,7 +15334,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9851
+      "UsersEstimate": 9852
     },
     {
       "ID": "34",
@@ -15608,21 +15613,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65676,
+      "Progressed": 65677,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29144,
+      "Progressed": 29145,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:04:10.768401+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:04:09.4263108+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:57:55.6776112+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:04:10.7686049+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:57:55.7717528+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:04:09.4264899+00:00"
 }

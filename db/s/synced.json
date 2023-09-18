@@ -2,10 +2,10 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 893,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 93,
+  "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 5,
   "Ranking_EOS_NewCompleters": 116,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -196,15 +196,21 @@
       "Rating": 4.16,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-18T09:58:27.4557383+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51693,
+  "EOS_Progressed": 51741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26386,
+  "EOS_NewPlayers": 26303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1522,6 +1528,11 @@
       "Time": "2023-09-18T09:06:16.6122154+00:00",
       "NumProgressed": 51693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T10:06:18.1448399+00:00",
+      "NumProgressed": 51741,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1534,7 +1545,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2587
     },
     {
       "ID": "10",
@@ -1598,7 +1609,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "3",
@@ -1606,7 +1617,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "4",
@@ -1661,16 +1672,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 51693,
+      "Progressed": 51741,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-09-17T20:57:56.4280391+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:06:16.6122147+00:00",
+  "LastChanged": "2023-09-18T09:58:27.4557381+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:06:18.1448395+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.1772616+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:58:27.0145537+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:06:16.6122376+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:58:27.4557389+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:06:18.1448654+00:00"
 }

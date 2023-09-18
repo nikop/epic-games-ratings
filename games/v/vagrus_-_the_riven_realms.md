@@ -42,6 +42,7 @@
 | Huntress Unbound | 2.00% | ~3 |
 | Business As Usual | 2.00% | ~3 |
 | Legacy of a Mercenary | 2.00% | ~3 |
+| Moving At Odd Angles | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | A Real Battle | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
@@ -55,7 +56,6 @@
 | Talent Nurtured | 1.00% | ~2 |
 | Embellished | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
-| Moving At Odd Angles | 1.00% | ~2 |
 | Ruiner | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |

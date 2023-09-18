@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 67,
+  "Ranking_Rating": 66,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
@@ -6374,7 +6374,7 @@
   ],
   "EOS_Progressed": 715107,
   "EOS_Completed": 12895,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -20350,9 +20350,9 @@
       "ID": "04_Vengeance_H3",
       "SetID": "adcm20g",
       "Name": "A Lady\u0027s Blood in the Snow",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 1430
     },
     {
       "ID": "05_Vengeance_H4",
@@ -20820,8 +20820,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-18T07:59:37.9803948+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:07:05.0169088+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:07:07.1783941+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.6713568+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:00:11.031861+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:07:05.0172059+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:00:13.5598257+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:07:07.1785755+00:00"
 }

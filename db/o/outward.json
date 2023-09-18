@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,7 +514,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3393,
+  "EOS_Progressed": 3395,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
@@ -4454,6 +4454,11 @@
       "Time": "2023-09-18T03:04:12.8296745+00:00",
       "NumProgressed": 3393,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-18T10:04:47.4730835+00:00",
+      "NumProgressed": 3395,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4473,7 +4478,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "AncestorsPride_13",
@@ -4505,7 +4510,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "CrowdPleaser",
@@ -4537,7 +4542,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ForAllAurai_8",
@@ -4553,7 +4558,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -4569,7 +4574,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "HouseofCards_19",
@@ -4609,7 +4614,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "MasterofAurai_20",
@@ -4649,7 +4654,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4657,7 +4662,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2207
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4665,7 +4670,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -4673,7 +4678,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4689,7 +4694,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4737,7 +4742,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "TheStuffOfLegends",
@@ -4785,7 +4790,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4800,15 +4805,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3393,
+      "Progressed": 3395,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:04:47.8805006+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:04:47.4730828+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:58:52.342141+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:04:47.8805682+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:58:49.4407915+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:04:47.4731505+00:00"
 }

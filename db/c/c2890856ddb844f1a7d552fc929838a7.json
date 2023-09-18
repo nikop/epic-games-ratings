@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1924,9 +1924,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 402
     },
     {
       "ID": "AC44",
@@ -1957,8 +1957,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:03:28.897421+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:03:28.0646996+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:02:24.2716887+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:03:28.8974797+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:02:31.7126339+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:03:28.0647536+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "0d45b83911e0403e92394fa48bf990f0",
   "Name": "Atari Mania",
   "ProductSlug": "atari-mania-702c68",
-  "Ranking_EOS_Progress": 506,
+  "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-13T07:00:00+00:00",
@@ -199,8 +199,8 @@
   "FirstSeenRating": "2023-03-31T05:57:54.0080897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.3948167+00:00",
   "LastChanged": "2023-03-31T05:57:54.0080898+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:05:03.8750011+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:05:03.8839356+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:45.9879312+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:59:19.6171966+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:05:03.8750165+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:59:17.6273718+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:05:03.8839508+00:00"
 }

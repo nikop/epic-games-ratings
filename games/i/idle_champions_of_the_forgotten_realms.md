@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,585 |
-| Beast Intentions | 0.70% | ~1,605 |
+| Beast Intentions | 0.80% | ~1,834 |
 | The Cursed Farmer | 0.70% | ~1,605 |
 | The Mad Wizard | 0.60% | ~1,376 |
 | The Ring of Regeneration | 0.50% | ~1,146 |
@@ -29,7 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.30% | ~688 |
 | Pure Energy | 0.30% | ~688 |
 | Legends and Lore | 0.30% | ~587 |
-| Pros and CONs | 0.20% | ~458 |
+| Pros and CONs | 0.20% | ~459 |
 | Tall Tales | 0.20% | ~391 |
 | Nightmare Rats! | 0.20% | ~391 |
 | The Witchlight Carnival | 0.20% | ~391 |
@@ -37,72 +37,74 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~391 |
 | The Prince of a Thousand Enemies | 0.20% | ~391 |
 | Downfall | 0.20% | ~391 |
-| The Silken Swamp | 0.20% | ~458 |
-| Wet Feet | 0.20% | ~458 |
-| Hatchlings Underfoot | 0.20% | ~458 |
-| Don't Look Up! | 0.20% | ~458 |
-| Supply Run | 0.20% | ~458 |
+| The Silken Swamp | 0.20% | ~459 |
+| Wet Feet | 0.20% | ~459 |
+| Hatchlings Underfoot | 0.20% | ~459 |
+| Don't Look Up! | 0.20% | ~459 |
+| Supply Run | 0.20% | ~459 |
 | Vecna Lives! | 0.20% | ~391 |
+| A Demi-god's Defender | 0.20% | ~391 |
 | Vecna Loots! | 0.20% | ~391 |
 | Return to the Tomb | 0.20% | ~391 |
 | Heatwave | 0.20% | ~391 |
 | The Dread Domain of Tovag | 0.20% | ~391 |
 | The Castle of a Thousand Vecnas | 0.20% | ~391 |
-| Homecoming | 0.20% | ~458 |
-| The Lost Heir of Omu | 0.20% | ~458 |
-| The Forbidden City | 0.20% | ~458 |
-| Captured! | 0.20% | ~458 |
-| Low Initiative | 0.20% | ~458 |
-| Street War | 0.20% | ~458 |
-| March of the Undead | 0.20% | ~458 |
-| Wisdom Check | 0.20% | ~458 |
-| No Time To Rest | 0.20% | ~458 |
-| The Mists of Ravenloft | 0.20% | ~458 |
-| Invisible Shadows | 0.20% | ~458 |
-| Family Entanglements | 0.20% | ~458 |
-| The Dinner Party | 0.20% | ~458 |
-| The Botched Kidnapping | 0.20% | ~458 |
-| The Immortal Warrior | 0.20% | ~458 |
-| The Wyrmheart Mine | 0.20% | ~458 |
-| Tower on the Lake | 0.20% | ~458 |
-| Seeds of Deceit | 0.20% | ~458 |
-| Trollskull Manor | 0.20% | ~458 |
-| Attack on the Manor | 0.20% | ~458 |
-| The Death Curse | 0.20% | ~458 |
-| Treasure Hunters | 0.20% | ~458 |
-| Flies on the Wall | 0.20% | ~458 |
-| Backtracking Through Barovia | 0.20% | ~458 |
-| Nimble Escape | 0.20% | ~458 |
-| Fugitives | 0.20% | ~458 |
-| Excavating History | 0.20% | ~458 |
-| Premature Betrayal | 0.20% | ~458 |
-| Towering Expectations | 0.20% | ~458 |
-| A Tale of Two Cities | 0.20% | ~458 |
-| The Dead Three | 0.20% | ~458 |
-| Flying Monkey Skulls of Doom | 0.20% | ~458 |
-| Lair of the Xanathar | 0.20% | ~458 |
-| The Darkness Runs Deeper | 0.20% | ~458 |
-| Difficult Terrain | 0.20% | ~458 |
-| Running of the Saurs | 0.20% | ~458 |
-| Dinosaur Racing | 0.20% | ~458 |
-| Elturel Has Fallen | 0.20% | ~458 |
-| Resolve Amongst Chaos | 0.20% | ~458 |
-| Escort to Waterdeep | 0.20% | ~458 |
+| Homecoming | 0.20% | ~459 |
+| The Lost Heir of Omu | 0.20% | ~459 |
+| The Forbidden City | 0.20% | ~459 |
+| Captured! | 0.20% | ~459 |
+| Low Initiative | 0.20% | ~459 |
+| Street War | 0.20% | ~459 |
+| March of the Undead | 0.20% | ~459 |
+| Wisdom Check | 0.20% | ~459 |
+| No Time To Rest | 0.20% | ~459 |
+| The Mists of Ravenloft | 0.20% | ~459 |
+| Invisible Shadows | 0.20% | ~459 |
+| Family Entanglements | 0.20% | ~459 |
+| The Dinner Party | 0.20% | ~459 |
+| The Botched Kidnapping | 0.20% | ~459 |
+| The Immortal Warrior | 0.20% | ~459 |
+| The Wyrmheart Mine | 0.20% | ~459 |
+| Tower on the Lake | 0.20% | ~459 |
+| Seeds of Deceit | 0.20% | ~459 |
+| Trollskull Manor | 0.20% | ~459 |
+| Attack on the Manor | 0.20% | ~459 |
+| The Death Curse | 0.20% | ~459 |
+| Treasure Hunters | 0.20% | ~459 |
+| Flies on the Wall | 0.20% | ~459 |
+| Backtracking Through Barovia | 0.20% | ~459 |
+| Nimble Escape | 0.20% | ~459 |
+| Fugitives | 0.20% | ~459 |
+| Excavating History | 0.20% | ~459 |
+| Premature Betrayal | 0.20% | ~459 |
+| Towering Expectations | 0.20% | ~459 |
+| Enter the Sargauth | 0.20% | ~459 |
+| A Tale of Two Cities | 0.20% | ~459 |
+| The Dead Three | 0.20% | ~459 |
+| Flying Monkey Skulls of Doom | 0.20% | ~459 |
+| Lair of the Xanathar | 0.20% | ~459 |
+| The Darkness Runs Deeper | 0.20% | ~459 |
+| Difficult Terrain | 0.20% | ~459 |
+| Running of the Saurs | 0.20% | ~459 |
+| Dinosaur Racing | 0.20% | ~459 |
+| Elturel Has Fallen | 0.20% | ~459 |
+| Resolve Amongst Chaos | 0.20% | ~459 |
+| Escort to Waterdeep | 0.20% | ~459 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
 | The Everlasting Rime | 0.20% | ~391 |
-| Close Escort | 0.20% | ~458 |
-| Constant Banditry | 0.20% | ~458 |
-| Waterdeep Detours | 0.20% | ~458 |
-| Lost in the Deep | 0.20% | ~458 |
-| Easily Distracted | 0.20% | ~458 |
-| Rude Welcome | 0.20% | ~458 |
-| Underdeep Cartography | 0.20% | ~458 |
-| Overdue Rendezvous | 0.20% | ~458 |
+| Close Escort | 0.20% | ~459 |
+| Constant Banditry | 0.20% | ~459 |
+| Waterdeep Detours | 0.20% | ~459 |
+| Lost in the Deep | 0.20% | ~459 |
+| Easily Distracted | 0.20% | ~459 |
+| Rude Welcome | 0.20% | ~459 |
+| Underdeep Cartography | 0.20% | ~459 |
+| Overdue Rendezvous | 0.20% | ~459 |
 | Moose Tracks | 0.20% | ~391 |
 | Civilization | 0.20% | ~391 |
 | Dwarven Rumors | 0.20% | ~391 |
-| The Templar's Camp | 0.20% | ~458 |
-| Rescue in the Jungle | 0.20% | ~458 |
+| The Templar's Camp | 0.20% | ~459 |
+| Rescue in the Jungle | 0.20% | ~459 |
 | The Hunt for The Last Breath | 0.20% | ~391 |
 | To Infinity's and Beyond | 0.20% | ~391 |
 | The End | 0.20% | ~391 |
@@ -176,7 +178,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~229 |
 | Best Thay Ever | 0.10% | ~196 |
 | Overwhelmed with Knowledge | 0.10% | ~196 |
-| A Demi-god's Defender | 0.10% | ~196 |
 | Well Equipped | 0.10% | ~196 |
 | Friends of the Forest | 0.10% | ~229 |
 | More Than Well Equipped | 0.10% | ~196 |
@@ -297,7 +298,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.10% | ~229 |
 | Flame(skull) War | 0.10% | ~229 |
 | Servants of the Demon Prince | 0.10% | ~196 |
-| Enter the Sargauth | 0.10% | ~229 |
 | Elder Rune Madness | 0.10% | ~229 |
 | The Madness Grows | 0.10% | ~229 |
 | The Madness Peaks | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,250 (Ranked 57)  
+Progressed: 229,254 (Ranked 57)  
 Completed: 2,292 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,292 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,250 | 2,292 |
+| 2023-09-18 | 229,254 | 2,292 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,284 |
+| Until death do us apart | 4.00% | ~16,285 |
 | That's a Grand Army | 3.00% | ~12,213 |
 | That is mine! | 3.00% | ~12,213 |
 | Victorious! | 3.00% | ~12,213 |
@@ -27,9 +27,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.70% | ~2,850 |
 | Total Control | 0.70% | ~2,850 |
 | My armies are invincible! | 0.60% | ~2,443 |
-| Agressive Expander | 0.50% | ~2,035 |
-| City of Cities | 0.50% | ~2,035 |
-| Combined Arms | 0.50% | ~2,035 |
+| Agressive Expander | 0.50% | ~2,036 |
+| City of Cities | 0.50% | ~2,036 |
+| Combined Arms | 0.50% | ~2,036 |
 | Azur semé de lis or | 0.40% | ~1,628 |
 | Factionalism | 0.40% | ~1,628 |
 | Gentle Persuasion | 0.40% | ~1,628 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,090 (Ranked 40)  
+Progressed: 407,115 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,20 +512,20 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 404,131 | 0 |
 | 2023-09-16 | 405,611 | 0 |
 | 2023-09-17 | 406,888 | 0 |
-| 2023-09-18 | 407,090 | 0 |
+| 2023-09-18 | 407,115 | 0 |
 ## Awards
 Max (Educational): 6,141  (Ranked 56)  
-Sum: 50,474 (Ranked 26)  
+Sum: 50,503 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,141 |
 | This game is Highly Recommended | 5,862 |
+| This game has Challenging Combat | 5,822 |
 | This game is Extremely Fun | 5,811 |
-| This game has Challenging Combat | 5,808 |
 | This game has Diverse Characters | 5,802 |
 | This game is Relaxing | 5,654 |
-| This game has Competitive Players | 5,476 |
+| This game has Competitive Players | 5,491 |
 | This game has Amazing Storytelling | 5,137 |
 | This game has Amazing Characters | 4,783 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -776,4 +776,4 @@ Diff (max vs sum): 30
 | 2023-09-15 | 4.69 | - | 6,102 | 50,146 |
 | 2023-09-16 | 4.69 | - | 6,125 | 50,304 |
 | 2023-09-17 | 4.69 | - | 6,141 | 50,420 |
-| 2023-09-18 | 4.69 | - | 6,141 | 50,474 |
+| 2023-09-18 | 4.69 | - | 6,141 | 50,503 |

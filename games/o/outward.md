@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,579 |
-| Ready for Winter | 65.00% | ~2,205 |
-| Ready for Summer | 52.00% | ~1,764 |
-| Cordon Bleu | 44.00% | ~1,493 |
-| Tapped! | 37.00% | ~1,255 |
+| Venture Outward | 76.00% | ~2,580 |
+| Ready for Winter | 65.00% | ~2,207 |
+| Ready for Summer | 52.00% | ~1,765 |
+| Cordon Bleu | 44.00% | ~1,494 |
+| Tapped! | 37.00% | ~1,256 |
 | Eureka | 32.00% | ~1,086 |
-| Scourge Slayer | 26.00% | ~882 |
-| Science, Troglodyte! | 24.00% | ~814 |
-| Exceptional Skill | 23.00% | ~780 |
-| Home Sweet Home | 22.00% | ~746 |
+| Scourge Slayer | 26.00% | ~883 |
+| Science, Troglodyte! | 24.00% | ~815 |
+| Exceptional Skill | 23.00% | ~781 |
+| Home Sweet Home | 22.00% | ~747 |
 | Encyclopedic! | 20.00% | ~679 |
 | The Power of Family | 17.00% | ~577 |
 | A Fortress Toppled! | 16.00% | ~543 |
 | Apex Predator | 16.00% | ~543 |
 | Strange amalgams | 12.00% | ~407 |
 | The Power of Faith | 12.00% | ~407 |
-| The Power of Freedom | 10.00% | ~339 |
-| Ace Detective | 8.00% | ~271 |
-| Gift from the Ancestors | 8.00% | ~271 |
-| Magic is a science | 8.00% | ~271 |
+| The Power of Freedom | 10.00% | ~340 |
+| Ace Detective | 8.00% | ~272 |
+| Gift from the Ancestors | 8.00% | ~272 |
+| Magic is a science | 8.00% | ~272 |
 | House of Cards | 7.00% | ~238 |
 | Let ‘em eat magma! | 7.00% | ~238 |
 | The power of ambition | 7.00% | ~238 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,393 (Ranked 166)  
+Progressed: 3,395 (Ranked 166)  
 Completed: 4 (0.12%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 4 (0.12%) (Ranked 214)
 | 2023-09-15 | 3,357 | 3 |
 | 2023-09-16 | 3,367 | 3 |
 | 2023-09-17 | 3,388 | 3 |
-| 2023-09-18 | 3,393 | 4 |
+| 2023-09-18 | 3,395 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 445)  
 Sum: 244 (Ranked 360)  

@@ -2,9 +2,9 @@
   "ID": "767ef5b53bde471090219bbec4f9d78a",
   "Name": "Active DBG Brave\u0027s Rage",
   "ProductSlug": "active-dbg-braves-rage-deed2f",
-  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Progress": 598,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-22T00:00:00+00:00",
@@ -374,8 +374,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-21T15:01:07.7005769+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:03:19.5036034+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:03:18.3530841+00:00",
   "LastUpdate_AppInfo": "2023-09-13T20:57:01.2844088+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:01:33.5645777+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:03:19.5036454+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:01:33.3065402+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:03:18.3531184+00:00"
 }

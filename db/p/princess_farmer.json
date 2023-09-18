@@ -2,9 +2,9 @@
   "ID": "286af74903fa418d931df4916c59779d",
   "Name": "Princess Farmer",
   "ProductSlug": "princess-farmer-bd4c4e",
-  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Progress": 598,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-03-31T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6591396+00:00",
   "LastChanged": "2023-03-31T05:58:18.6591397+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.1507471+00:00",
-  "LastUpdate_Ratings": "2023-09-18T08:58:23.9130134+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:07:10.9338666+00:00"
+  "LastUpdate_Ratings": "2023-09-18T09:58:24.147635+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:07:13.0465092+00:00"
 }

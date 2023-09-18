@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 67)  
+Rating: 4.82 (Ranked 66)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,6 +9,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.30% | ~2,145 |
 | The Assault | 0.20% | ~1,430 |
 | The Hateful Pole Fighter | 0.20% | ~1,430 |
+| A Lady's Blood in the Snow | 0.20% | ~1,430 |
 | Stuntmaster | 0.20% | ~1,430 |
 | Street Fighting | 0.20% | ~1,430 |
 | Life is your teacher | 0.20% | ~1,430 |
@@ -22,7 +23,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 0.20% | ~49 |
 | Martial Hub | 0.20% | ~49 |
 | Fight the way you practice | 0.20% | ~49 |
-| A Lady's Blood in the Snow | 0.10% | ~715 |
 | Lady Wing Chun | 0.10% | ~715 |
 | Furious Fists | 0.10% | ~715 |
 | Muk Yan Master | 0.10% | ~715 |

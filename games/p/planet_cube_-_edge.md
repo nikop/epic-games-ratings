@@ -45,7 +45,7 @@
 | Oooh, Shiny | 0.00% | ~0 |
 | Never Forget your First | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 525)  
+Progressed: 2 (Ranked 526)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |

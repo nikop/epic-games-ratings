@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1878,9 +1878,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20800,
+  "EOS_Progressed": 20801,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8473,6 +8473,11 @@
       "Time": "2023-09-17T18:12:17.8659091+00:00",
       "NumProgressed": 20800,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-18T10:09:28.9643844+00:00",
+      "NumProgressed": 20801,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8490,9 +8495,9 @@
       "ID": "CarMechanic",
       "SetID": "d0jo315",
       "Name": "Car Mechanic",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 146
     },
     {
       "ID": "ChangChoi",
@@ -8532,7 +8537,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19552
+      "UsersEstimate": 19553
     },
     {
       "ID": "GameOver",
@@ -8667,15 +8672,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20800,
+      "Progressed": 20801,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-12T18:58:36.6310426+00:00",
-  "LastChanged_Achievements": "2023-09-18T09:09:24.7962778+00:00",
+  "LastChanged_Achievements": "2023-09-18T10:09:28.9643839+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.2506303+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:00:24.2857462+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:09:24.7963587+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:00:25.9706641+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:09:28.9644384+00:00"
 }

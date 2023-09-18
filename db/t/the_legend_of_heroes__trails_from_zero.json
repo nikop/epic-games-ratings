@@ -2,9 +2,9 @@
   "ID": "642f25b89cc5446faad25cad7b03181a",
   "Name": "The Legend of Heroes: Trails from Zero",
   "ProductSlug": "the-legend-of-heroes-trails-from-zero",
-  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Progress": 598,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-31T17:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.9849445+00:00",
   "LastChanged": "2023-03-31T05:58:09.9849447+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:04.0072077+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:01:42.4459994+00:00",
-  "LastUpdate_Achievements": "2023-09-18T09:08:28.0445143+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:01:42.4089947+00:00",
+  "LastUpdate_Achievements": "2023-09-18T10:08:30.9561567+00:00"
 }
