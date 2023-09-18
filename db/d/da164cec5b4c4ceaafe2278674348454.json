@@ -2,9 +2,9 @@
   "ID": "da164cec5b4c4ceaafe2278674348454",
   "Name": "ProtoCorgi",
   "ProductSlug": "protocorgi",
-  "Ranking_EOS_Progress": 601,
+  "Ranking_EOS_Progress": 603,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -38,8 +38,8 @@
   ],
   "FirstSeen": "2023-06-19T07:57:10.6142502+00:00",
   "FirstSeenAchievements": "2023-06-15T16:00:17.539634+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:04:02.8269571+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:03:49.3311641+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:10.5682308+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:03:03.9194643+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:04:02.8269619+00:00"
+  "LastUpdate_Ratings": "2023-09-18T22:02:08.2508125+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:03:49.3311683+00:00"
 }

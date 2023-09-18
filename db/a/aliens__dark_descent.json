@@ -324,9 +324,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3305,
+  "EOS_Progressed": 3306,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4419,6 +4419,11 @@
       "Time": "2023-09-18T21:07:01.0310077+00:00",
       "NumProgressed": 3305,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T22:06:45.902532+00:00",
+      "NumProgressed": 3306,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4454,7 +4459,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -4542,7 +4547,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4550,7 +4555,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4606,7 +4611,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4622,7 +4627,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4638,7 +4643,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4646,7 +4651,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4678,7 +4683,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_MISSION_09",
@@ -4686,7 +4691,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_MISSION_10",
@@ -4734,7 +4739,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4742,7 +4747,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4758,7 +4763,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4789,7 +4794,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3305,
+      "Progressed": 3306,
       "Completed": 3
     }
   ],
@@ -4797,8 +4802,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:07:01.0310072+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:06:45.9025315+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:59:57.2961659+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:07:01.0310685+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:59:50.1225346+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:06:45.9025824+00:00"
 }

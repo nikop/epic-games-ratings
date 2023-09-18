@@ -19,17 +19,17 @@ Rating: 4.54 (Ranked 504)
 | Personal Assistant Personally Assisted | 2.00% | ~13,647 |
 | This is My Weapon | 2.00% | ~13,647 |
 | Welcome To Hell-A | 2.00% | ~13,647 |
-| Anger Management | 1.00% | ~6,823 |
-| Perks of the Job | 1.00% | ~6,823 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,823 |
-| Slayer Squad | 1.00% | ~6,823 |
-| Can't Handle the Truth | 1.00% | ~6,823 |
-| Like Riding a Bike | 1.00% | ~6,823 |
-| Zombologist | 1.00% | ~6,823 |
-| Ooh, Shiny! | 1.00% | ~6,823 |
-| A Patton Emerges | 1.00% | ~6,823 |
-| I Am the Resurrection | 1.00% | ~6,823 |
-| Our True Nature | 1.00% | ~6,823 |
+| Anger Management | 1.00% | ~6,824 |
+| Perks of the Job | 1.00% | ~6,824 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,824 |
+| Slayer Squad | 1.00% | ~6,824 |
+| Can't Handle the Truth | 1.00% | ~6,824 |
+| Like Riding a Bike | 1.00% | ~6,824 |
+| Zombologist | 1.00% | ~6,824 |
+| Ooh, Shiny! | 1.00% | ~6,824 |
+| A Patton Emerges | 1.00% | ~6,824 |
+| I Am the Resurrection | 1.00% | ~6,824 |
+| Our True Nature | 1.00% | ~6,824 |
 | Making Your Mark | 0.90% | ~6,141 |
 | Humanity Distilled | 0.90% | ~6,141 |
 | Down with the Sickness | 0.90% | ~6,141 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,343 (Ranked 22)  
+Progressed: 682,367 (Ranked 22)  
 Completed: 2,153 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2,153 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
-| 2023-09-18 | 682,343 | 2,153 |
+| 2023-09-18 | 682,367 | 2,153 |
 ## Awards
 Max (Great Boss Battles): 6,105  (Ranked 57)  
 Sum: 9,051 (Ranked 94)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -857,9 +857,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -1178,8 +1178,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:06:09.7526204+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:05:55.3851134+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:26.6139779+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:02:07.4736565+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:06:09.7527009+00:00"
+  "LastUpdate_Ratings": "2023-09-18T22:00:33.0258645+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:05:55.3851894+00:00"
 }

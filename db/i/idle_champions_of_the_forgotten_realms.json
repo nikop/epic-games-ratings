@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6680,10 +6680,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31631,
       "NumberOfAwardsMax": 5285
+    },
+    {
+      "Time": "2023-09-18T21:58:03.5069847+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31633,
+      "NumberOfAwardsMax": 5285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31631,
+  "NumberOfAwards": 31633,
   "NumberOfAwardsMax": 5285,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6703,7 +6709,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4767
+      "Count": 4769
     },
     {
       "Text": "This game is Relaxing",
@@ -6730,9 +6736,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229310,
+  "EOS_Progressed": 229315,
   "EOS_Completed": 2294,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 869,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23515,6 +23521,11 @@
       "Time": "2023-09-18T21:06:44.883593+00:00",
       "NumProgressed": 229310,
       "NumCompleted": 2294
+    },
+    {
+      "Time": "2023-09-18T22:06:30.3319537+00:00",
+      "NumProgressed": 229315,
+      "NumCompleted": 2294
     }
   ],
   "TotalAchievements": 520,
@@ -23894,7 +23905,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "objective_completed_110",
@@ -24940,9 +24951,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 688
     },
     {
       "ID": "objective_completed_231",
@@ -27685,21 +27696,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195584,
+      "Progressed": 195589,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229310,
+      "Progressed": 229315,
       "Completed": 2294
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-18T19:58:28.9400181+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:06:44.8835926+00:00",
+  "LastChanged": "2023-09-18T21:58:03.5069845+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:06:30.3319531+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:58:10.4037363+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:06:44.8863008+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:58:03.5069852+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:06:30.3352011+00:00"
 }

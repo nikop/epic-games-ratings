@@ -357,9 +357,9 @@
       "ID": "A_Salvage_1_Wreck",
       "SetID": "56632p4",
       "Name": "Salvager",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "A_Salvage_25_Wrecks",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:03:21.4051427+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:03:07.8228403+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:52.1778029+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:58:51.0974629+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:03:21.4051623+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:58:44.8178603+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:03:07.8228613+00:00"
 }

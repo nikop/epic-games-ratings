@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 4.00% | ~560 |
 | Architect | 4.00% | ~560 |
 | Good | 4.00% | ~560 |
+| Learned | 4.00% | ~560 |
 | Mason | 4.00% | ~560 |
 | Noble | 4.00% | ~560 |
 | Strong | 4.00% | ~560 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 3.00% | ~420 |
 | Just | 3.00% | ~420 |
 | Keystone | 3.00% | ~420 |
-| Learned | 3.00% | ~420 |
 | Magnificent | 3.00% | ~420 |
 | Pioneer | 3.00% | ~420 |
 | Warrior | 3.00% | ~420 |
@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 2.00% | ~280 |
 | Great | 2.00% | ~280 |
 | Intercessor | 2.00% | ~280 |
+| Mighty | 2.00% | ~280 |
 | Valiant | 2.00% | ~280 |
 | Wise | 2.00% | ~280 |
 | Legendary Cities | 2.00% | ~280 |
@@ -68,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 2.00% | ~280 |
 | Learn to Play 1 | 2.00% | ~280 |
 | Learn to Play 2 | 2.00% | ~280 |
+| Greece | 2.00% | ~280 |
 | Manichaeism | 2.00% | ~280 |
 | Egyptian Paganism | 2.00% | ~280 |
 | Mythology | 2.00% | ~280 |
@@ -77,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 1.00% | ~140 |
 | Invincible | 1.00% | ~140 |
 | Lion | 1.00% | ~140 |
-| Mighty | 1.00% | ~140 |
 | Ready | 1.00% | ~140 |
 | Subjugator | 1.00% | ~140 |
 | Victorious | 1.00% | ~140 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 1.00% | ~140 |
 | Via Recta Souk | 1.00% | ~140 |
 | Learn to Play 3 | 1.00% | ~140 |
-| Greece | 1.00% | ~140 |
 | Power to the People | 1.00% | ~140 |
 | Assyrian Paganism | 1.00% | ~140 |
 | Persian Paganism | 1.00% | ~140 |
@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 1.00% | ~140 |
 | Legalism | 1.00% | ~140 |
 | Redemption | 1.00% | ~140 |
+| Veneration | 1.00% | ~140 |
 | Cimmerian Archer | 1.00% | ~140 |
 | Legionary | 1.00% | ~140 |
 | Phalangite | 1.00% | ~140 |
@@ -121,23 +122,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.90% | ~126 |
 | Enlightenment | 0.90% | ~126 |
 | Revelation | 0.90% | ~126 |
-| Veneration | 0.90% | ~126 |
+| Kushite Cavalry | 0.90% | ~126 |
 | Strong Difficulty | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
 | Learn to Play 4 | 0.80% | ~112 |
 | Babylonia | 0.80% | ~112 |
 | Hittite Paganism | 0.80% | ~112 |
-| Kushite Cavalry | 0.80% | ~112 |
 | Turreted Elephant | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
+| Peacemaker | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
+| Cao'an | 0.70% | ~98 |
+| Egypt | 0.70% | ~98 |
 | Rome | 0.70% | ~98 |
 | One True Faith | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
 | Old | 0.60% | ~84 |
-| Peacemaker | 0.60% | ~84 |
-| Cao'an | 0.60% | ~84 |
-| Egypt | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
@@ -192,6 +192,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
 | Word of God | 0.20% | ~28 |
+| Randomized Families | 0.20% | ~28 |
 | Randomized Leaders | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -271,7 +272,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat in Ur | 0.10% | ~14 |
 | No Characters | 0.10% | ~14 |
 | One City Challenge | 0.10% | ~14 |
-| Randomized Families | 0.10% | ~14 |
 | Role-Playing | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
 | Win a 1-v-1 Game | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,994 (Ranked 124)  
+Progressed: 13,996 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -454,7 +454,7 @@ Completed: 5 (0.04%) (Ranked 245)
 | 2023-09-15 | 13,926 | 5 |
 | 2023-09-16 | 13,958 | 5 |
 | 2023-09-17 | 13,979 | 5 |
-| 2023-09-18 | 13,994 | 5 |
+| 2023-09-18 | 13,996 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

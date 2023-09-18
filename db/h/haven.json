@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1440,
+  "EOS_Progressed": 1441,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1729,6 +1729,11 @@
       "Time": "2023-09-18T19:06:38.9832163+00:00",
       "NumProgressed": 1440,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-18T22:05:21.8102839+00:00",
+      "NumProgressed": 1441,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1764,7 +1769,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "13",
@@ -1979,15 +1984,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1440,
+      "Progressed": 1441,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:05:35.8624882+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:05:21.8102832+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.4812312+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:59:19.2053356+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:05:35.8625209+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:59:13.5300401+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:05:21.8103217+00:00"
 }

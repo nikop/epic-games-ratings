@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3541,
+  "EOS_Progressed": 3545,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3609,6 +3609,11 @@
       "Time": "2023-09-18T21:06:29.9164962+00:00",
       "NumProgressed": 3541,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T22:06:15.853161+00:00",
+      "NumProgressed": 3545,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3620,7 +3625,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "bonus2",
@@ -3668,7 +3673,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3120
     },
     {
       "ID": "campaign10",
@@ -3700,7 +3705,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "campaign14",
@@ -3756,7 +3761,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2730
     },
     {
       "ID": "campaign20",
@@ -3772,7 +3777,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2162
     },
     {
       "ID": "campaign4",
@@ -3780,7 +3785,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1560
     },
     {
       "ID": "campaign5",
@@ -3804,7 +3809,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "campaign8",
@@ -3820,7 +3825,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "scenario1",
@@ -3828,7 +3833,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1383
     },
     {
       "ID": "scenario2",
@@ -3836,7 +3841,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "scenario3",
@@ -3852,7 +3857,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "scenario5",
@@ -3883,7 +3888,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3541,
+      "Progressed": 3545,
       "Completed": 11
     }
   ],
@@ -3891,8 +3896,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:06:29.9164958+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:06:15.8531603+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:00:15.3278125+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:06:29.9165446+00:00"
+  "LastUpdate_Ratings": "2023-09-18T22:00:07.7314835+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:06:15.8532193+00:00"
 }

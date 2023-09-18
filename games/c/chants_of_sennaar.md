@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 49.00% | ~83 |
+| That's the spirit | 50.00% | ~85 |
 | Welcome to the Tower | 46.00% | ~78 |
 | The Preacher's fate | 42.00% | ~71 |
 | The great escape | 42.00% | ~71 |
@@ -15,9 +15,9 @@
 | True G4M3R | 32.00% | ~54 |
 | One last step | 31.00% | ~53 |
 | Cable guy | 29.00% | ~49 |
-| Champollion | 28.00% | ~48 |
-| Half the way | 27.00% | ~46 |
-| In this together | 26.00% | ~44 |
+| Champollion | 29.00% | ~49 |
+| Half the way | 28.00% | ~48 |
+| In this together | 27.00% | ~46 |
 | Peace walker | 26.00% | ~44 |
 | Open door | 24.00% | ~41 |
 | Free at last | 22.00% | ~37 |

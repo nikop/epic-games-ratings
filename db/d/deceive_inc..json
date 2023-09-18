@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18054,
+  "EOS_Progressed": 18055,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10406,6 +10406,11 @@
       "Time": "2023-09-18T21:03:42.9497164+00:00",
       "NumProgressed": 18054,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T22:03:29.2160026+00:00",
+      "NumProgressed": 18055,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10513,7 +10518,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "0014",
@@ -10569,7 +10574,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "0021",
@@ -10633,7 +10638,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "0029",
@@ -10657,7 +10662,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "0032",
@@ -10681,7 +10686,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "0035",
@@ -10704,7 +10709,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18054,
+      "Progressed": 18055,
       "Completed": 3
     }
   ],
@@ -10712,8 +10717,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:03:42.9497159+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:03:29.2160017+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:59:46.4580463+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:03:42.9498018+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:59:39.8575455+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:03:29.2161133+00:00"
 }

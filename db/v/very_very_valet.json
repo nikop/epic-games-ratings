@@ -2,9 +2,9 @@
   "ID": "5e9638c996de4ab2ad074a9a515a3342",
   "Name": "Very Very Valet",
   "ProductSlug": "very-very-valet-70633e",
-  "Ranking_EOS_Progress": 601,
+  "Ranking_EOS_Progress": 603,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-09T16:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:49.0313345+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:58:49.1311621+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:05:59.8912002+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:58:42.4837759+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:05:45.3910844+00:00"
 }

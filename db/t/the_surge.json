@@ -2601,9 +2601,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3576
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2929,8 +2929,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:08:13.2415128+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:06:57.3144482+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:19.4999947+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:58:21.254529+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:08:13.2415969+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:58:13.9849321+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:06:57.3145218+00:00"
 }

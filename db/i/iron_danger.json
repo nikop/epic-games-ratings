@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 262,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-09-18T17:08:06.9306008+00:00",
       "NumProgressed": 261,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-18T22:06:59.0101382+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -657,7 +662,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_SHARD_2",
@@ -665,7 +670,7 @@
       "Name": "Second Shard",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_SHARD_3",
@@ -720,7 +725,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 262,
       "Completed": 4
     }
   ],
@@ -728,8 +733,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-09-18T21:08:14.9738222+00:00",
+  "LastChanged_Achievements": "2023-09-18T22:06:59.0101376+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:47.2979676+00:00",
-  "LastUpdate_Ratings": "2023-09-18T20:59:51.0094001+00:00",
-  "LastUpdate_Achievements": "2023-09-18T21:08:14.9738444+00:00"
+  "LastUpdate_Ratings": "2023-09-18T21:59:44.4924252+00:00",
+  "LastUpdate_Achievements": "2023-09-18T22:06:59.0101591+00:00"
 }
