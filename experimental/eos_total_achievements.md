@@ -19,6 +19,7 @@
 | [Football Manager 2022](../games/f/football_manager_2022.md) | 98 | 1,000 |
 | [Supraland](../games/s/supraland.md) | 98 | 1,000 |
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
+| [Gas Station Simulator](../games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 91 | 1,000 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 |
 | [Project Highrise](../games/p/project_highrise.md) | 88 | 1,000 |
 | [Rocket League®](../games/r/rocket_league®.md) | 88 | 1,000 |
