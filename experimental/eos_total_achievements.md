@@ -161,6 +161,7 @@
 | [Pillars of Eternity - Definitive Edition](../games/p/pillars_of_eternity_-_definitive_edition.md) | 48 | 1,000 |
 | [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |
 | [Session: Skate Sim](../games/s/session__skate_sim.md) | 48 | 1,000 |
+| [WILD HEARTS™ Standard Edition](../games/w/wild_hearts™_standard_edition.md) | 48 | 1,000 |
 | [Dust to the End](../games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 47 | 1,000 |
 | [HITMAN World of Assassination](../games/h/hitman_3.md) | 47 | 1,000 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
