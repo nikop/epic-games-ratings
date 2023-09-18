@@ -13,9 +13,9 @@
 | Tactician | 9.00% | ~14 |
 | Breached | 8.00% | ~12 |
 | Fight Another Day | 8.00% | ~12 |
+| Acquaintance | 7.00% | ~11 |
 | Tail-wind | 7.00% | ~11 |
 | Scholar | 6.00% | ~9 |
-| Acquaintance | 6.00% | ~9 |
 | Taskmaster | 6.00% | ~9 |
 | Conciliator | 5.00% | ~8 |
 | The More the Merrier | 5.00% | ~8 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152 (Ranked 329)  
+Progressed: 152 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@ Rating: 4.56 (Ranked 466)
 | Huzza, he's back. | 88.00% | ~351 |
 | And again, and again, and... | 63.00% | ~251 |
 | Burn, Elysium, burn! | 62.00% | ~247 |
-| Kuvaq Minigame-Master | 60.00% | ~239 |
+| Kuvaq Minigame-Master | 61.00% | ~243 |
 | FunScore | 55.00% | ~219 |
 | Funtime's over | 53.00% | ~211 |
 | Chunky | 50.00% | ~200 |
@@ -22,8 +22,8 @@ Rating: 4.56 (Ranked 466)
 | Portals come in packs | 29.00% | ~116 |
 | Photo Friend | 26.00% | ~104 |
 | Brainfreeze | 21.00% | ~84 |
+| Masseltov | 20.00% | ~80 |
 | And everything comes full circle. | 20.00% | ~80 |
-| Masseltov | 19.00% | ~76 |
 | Quickdraw | 15.00% | ~60 |
 | Thuna...? | 15.00% | ~60 |
 | Monstrous Harassment | 14.00% | ~56 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 466)
 | Every man for himself! | 5.00% | ~20 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 263)  
+Progressed: 399 (Ranked 264)  
 Completed: 6 (1.50%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |

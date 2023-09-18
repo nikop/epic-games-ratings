@@ -2,7 +2,7 @@
   "ID": "2fdd28261b43442e8ac1e9e060fec80f",
   "Name": "Inspector Gadget - Mad Time Party",
   "ProductSlug": "inspector-gadget-mad-time-party-1dc812",
-  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
@@ -25,9 +25,99 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-18T12:04:28.3205462+00:00",
+  "TotalAchievements": 11,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "d16pl5o",
+      "Name": "Hey, who comes here? Inspector Gadget!",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1",
+      "SetID": "d16pl5o",
+      "Name": "Always ready to enforce the law!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "d16pl5o",
+      "Name": "Like Clockwork",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "d16pl5o",
+      "Name": "Always here to help you!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "d16pl5o",
+      "Name": "Don\u2019t worry: Inspector Gadget is here!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "d16pl5o",
+      "Name": "Halt in the name of the law!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "d16pl5o",
+      "Name": "Model Inspector",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "d16pl5o",
+      "Name": "Perfect Uncle",
+      "Percentage": 0,
+      "XP": 160,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "d16pl5o",
+      "Name": "One for all, and all for Gadget!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "d16pl5o",
+      "Name": "First Flight",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "d16pl5o",
+      "Name": "Light as a Feather",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d16pl5o",
@@ -37,8 +127,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-15T16:03:28.4278363+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:04:23.2097424+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:04:28.3205439+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:35.5425648+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:03:04.6664738+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:04:23.209746+00:00"
+  "LastUpdate_Ratings": "2023-09-18T12:03:08.8335177+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:04:28.3221715+00:00"
 }

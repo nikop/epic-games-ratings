@@ -2,7 +2,7 @@
   "ID": "5b93ba7d580342d3ab19d28da40bc852",
   "Name": "Godstrike",
   "ProductSlug": "godstrike-dad86e",
-  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.7115161+00:00",
   "LastChanged": "2023-03-31T05:58:24.7115162+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:50.0917621+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:59:28.8122602+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:06:37.0091549+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:59:35.2348797+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:06:43.9675169+00:00"
 }

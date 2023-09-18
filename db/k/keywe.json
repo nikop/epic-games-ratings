@@ -2,7 +2,7 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 115,
@@ -232,9 +232,9 @@
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "completeTheFirstWeek",
@@ -256,9 +256,9 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "goldOnAllLevels",
@@ -327,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:03:30.4388828+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:03:37.6320648+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:29.5048719+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:59:16.5339336+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:03:30.4389017+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:59:25.0269509+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:03:37.6320813+00:00"
 }

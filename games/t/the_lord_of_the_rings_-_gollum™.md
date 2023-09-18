@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Wraith | 63.00% | ~326 |
+| Collectibles Part 1 | 53.00% | ~275 |
 | Welcome to Mordor! | 53.00% | ~275 |
-| Collectibles Part 1 | 52.00% | ~269 |
 | Wait! Wait! Not yet! | 39.00% | ~202 |
 | Like Flying... | 33.00% | ~171 |
 | The Maggot | 28.00% | ~145 |
 | Memories | 27.00% | ~140 |
-| The Breeder | 23.00% | ~119 |
+| The Breeder | 24.00% | ~124 |
 | The Veteran | 19.00% | ~98 |
 | The Traitor | 15.00% | ~78 |
 | The Spider | 14.00% | ~73 |

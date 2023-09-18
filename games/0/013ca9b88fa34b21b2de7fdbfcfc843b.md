@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~2,831 |
-| A Thorny Situation | 69.00% | ~2,676 |
-| ... And Spit Back Out | 58.00% | ~2,249 |
-| Break-Net Speed | 45.00% | ~1,745 |
-| Bramble Breaker | 40.00% | ~1,551 |
-| Miner 49er | 38.00% | ~1,474 |
-| Humble Collector | 36.00% | ~1,396 |
-| Calm Sailing | 27.00% | ~1,047 |
-| Open the Gate! | 23.00% | ~892 |
-| Mist Walker | 21.00% | ~814 |
-| Lumberjack | 20.00% | ~776 |
-| Oui, Chef! | 19.00% | ~737 |
-| Botanical Breakthrough | 10.00% | ~388 |
-| Clear the Air | 9.00% | ~349 |
-| Beach Comber | 9.00% | ~349 |
+| Azoria Beckons | 73.00% | ~2,840 |
+| A Thorny Situation | 69.00% | ~2,685 |
+| ... And Spit Back Out | 57.00% | ~2,218 |
+| Break-Net Speed | 45.00% | ~1,751 |
+| Bramble Breaker | 40.00% | ~1,556 |
+| Miner 49er | 38.00% | ~1,479 |
+| Humble Collector | 36.00% | ~1,401 |
+| Calm Sailing | 27.00% | ~1,051 |
+| Open the Gate! | 23.00% | ~895 |
+| Mist Walker | 21.00% | ~817 |
+| Lumberjack | 20.00% | ~778 |
+| Oui, Chef! | 19.00% | ~739 |
+| Botanical Breakthrough | 10.00% | ~389 |
+| Clear the Air | 9.00% | ~350 |
+| Beach Comber | 9.00% | ~350 |
 | Higher Tax Bracket | 6.00% | ~233 |
-| Search for the Hairy Grell | 5.00% | ~194 |
-| Got to Catch Them All | 3.00% | ~116 |
-| Rumble in the Jumble | 3.00% | ~116 |
-| Fanatical Farmer | 3.00% | ~116 |
-| Skilled | 3.00% | ~116 |
+| Search for the Hairy Grell | 5.00% | ~195 |
+| Got to Catch Them All | 3.00% | ~117 |
+| Rumble in the Jumble | 3.00% | ~117 |
+| Fanatical Farmer | 3.00% | ~117 |
+| Skilled | 3.00% | ~117 |
 | Flaming Hot Completos | 2.00% | ~78 |
 | Fae Farmer | 2.00% | ~78 |
 | Scattered Scroll Scrounger | 2.00% | ~78 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~4 |
 | Very Skilled | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,878 (Ranked 159)  
+Progressed: 3,891 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 3,022 | 0 |
 | 2023-09-16 | 3,404 | 0 |
 | 2023-09-17 | 3,792 | 0 |
-| 2023-09-18 | 3,878 | 0 |
+| 2023-09-18 | 3,891 | 0 |

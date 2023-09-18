@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
@@ -36,8 +36,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:05:07.3673147+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:05:13.2359667+00:00",
   "LastUpdate_AppInfo": "2023-09-14T20:57:16.8400032+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:00:02.0768987+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:05:07.3673188+00:00"
+  "LastUpdate_Ratings": "2023-09-18T12:00:01.82702+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:05:13.2359698+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "563071ca232a4a5a9a7f10c37bacec4f",
   "Name": "Night Lights",
   "ProductSlug": "night-lights-4cd904",
-  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7906522+00:00",
   "LastChanged": "2023-03-31T05:58:10.7906523+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:10.0938616+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:00:23.8760117+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:08:18.3169878+00:00"
+  "LastUpdate_Ratings": "2023-09-18T12:00:23.7277038+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:09:14.1876516+00:00"
 }

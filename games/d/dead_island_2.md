@@ -8,6 +8,7 @@ Rating: 4.54 (Ranked 504)
 | Dr. Reed, I Presume? | 2.00% | ~13,641 |
 | Git Gutte! | 2.00% | ~13,641 |
 | Break A Leg | 2.00% | ~13,641 |
+| But Doctor, I am Butcho | 2.00% | ~13,641 |
 | Coup de Grâce | 2.00% | ~13,641 |
 | Hazardous Materials | 2.00% | ~13,641 |
 | Friends Like These | 2.00% | ~13,641 |
@@ -16,24 +17,23 @@ Rating: 4.54 (Ranked 504)
 | Stacking the Deck | 2.00% | ~13,641 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,641 |
 | Welcome To Hell-A | 2.00% | ~13,641 |
-| Anger Management | 1.00% | ~6,820 |
-| Perks of the Job | 1.00% | ~6,820 |
-| Bookworm | 1.00% | ~6,820 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,820 |
-| But Doctor, I am Butcho | 1.00% | ~6,820 |
-| Slayer Squad | 1.00% | ~6,820 |
-| Can't Handle the Truth | 1.00% | ~6,820 |
-| Like Riding a Bike | 1.00% | ~6,820 |
-| Zombologist | 1.00% | ~6,820 |
-| Ooh, Shiny! | 1.00% | ~6,820 |
-| A Patton Emerges | 1.00% | ~6,820 |
-| I Am the Resurrection | 1.00% | ~6,820 |
-| Our True Nature | 1.00% | ~6,820 |
-| This is My Weapon | 1.00% | ~6,820 |
-| Making Your Mark | 0.90% | ~6,138 |
-| Humanity Distilled | 0.90% | ~6,138 |
-| Down with the Sickness | 0.90% | ~6,138 |
-| Max Headroom | 0.80% | ~5,456 |
+| Anger Management | 1.00% | ~6,821 |
+| Perks of the Job | 1.00% | ~6,821 |
+| Bookworm | 1.00% | ~6,821 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,821 |
+| Slayer Squad | 1.00% | ~6,821 |
+| Can't Handle the Truth | 1.00% | ~6,821 |
+| Like Riding a Bike | 1.00% | ~6,821 |
+| Zombologist | 1.00% | ~6,821 |
+| Ooh, Shiny! | 1.00% | ~6,821 |
+| A Patton Emerges | 1.00% | ~6,821 |
+| I Am the Resurrection | 1.00% | ~6,821 |
+| Our True Nature | 1.00% | ~6,821 |
+| This is My Weapon | 1.00% | ~6,821 |
+| Making Your Mark | 0.90% | ~6,139 |
+| Humanity Distilled | 0.90% | ~6,139 |
+| Down with the Sickness | 0.90% | ~6,139 |
+| Max Headroom | 0.80% | ~5,457 |
 | Jumbo Keyring | 0.60% | ~4,092 |
 | Go, Bobcats! | 0.60% | ~4,092 |
 | Rising Star | 0.60% | ~4,092 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,043 (Ranked 22)  
+Progressed: 682,070 (Ranked 22)  
 Completed: 2,152 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2,152 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
-| 2023-09-18 | 682,043 | 2,152 |
+| 2023-09-18 | 682,070 | 2,152 |
 ## Awards
 Max (Great Boss Battles): 6,086  (Ranked 57)  
 Sum: 9,030 (Ranked 94)  

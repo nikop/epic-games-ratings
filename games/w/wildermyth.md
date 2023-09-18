@@ -22,8 +22,8 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 11.00% | ~154 |
 | Thematic Divergence | 10.00% | ~140 |
 | Echoes Die | 10.00% | ~140 |
-| Chain Reaction | 9.00% | ~126 |
 | Plague Doctor | 8.00% | ~112 |
+| Chain Reaction | 8.00% | ~112 |
 | Everfading | 8.00% | ~112 |
 | Another Tale to Tell | 8.00% | ~112 |
 | Let Me Get My Chisel | 7.00% | ~98 |
@@ -37,18 +37,18 @@ Number of Ratings: 45  (23.09.2022)
 | We Emerge Changed | 4.00% | ~56 |
 | Storied Past | 4.00% | ~56 |
 | Worldwalker | 4.00% | ~56 |
-| No More Nightmares | 4.00% | ~56 |
 | Grillmaster | 4.00% | ~56 |
 | No Time for Clawmonsters | 4.00% | ~56 |
-| The Power of Friendship | 3.00% | ~42 |
 | Empty the Caves | 3.00% | ~42 |
 | Bonebreakers | 3.00% | ~42 |
+| No More Nightmares | 3.00% | ~42 |
 | Bears are Scary | 3.00% | ~42 |
 | Some Say I'm Too Flashy | 3.00% | ~42 |
 | Into Mulch | 3.00% | ~42 |
 | Astrology | 3.00% | ~42 |
 | Tempest | 3.00% | ~42 |
 | Lochias's Hunger | 3.00% | ~42 |
+| The Power of Friendship | 2.00% | ~28 |
 | Drauvenslayers | 2.00% | ~28 |
 | Back into the Sea | 2.00% | ~28 |
 | War-Ender | 2.00% | ~28 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,400 (Ranked 200)  
+Progressed: 1,401 (Ranked 200)  
 Completed: 5 (0.36%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 5 (0.36%) (Ranked 169)
 | 2023-09-12 | 1,398 | 5 |
 | 2023-09-15 | 1,399 | 5 |
 | 2023-09-16 | 1,400 | 5 |
+| 2023-09-18 | 1,401 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 469)  
 Sum: 28 (Ranked 484)  

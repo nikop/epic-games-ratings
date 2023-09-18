@@ -1724,9 +1724,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 394
     },
     {
       "ID": "AC19",
@@ -1957,8 +1957,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:03:21.3509642+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:03:28.6021355+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:00:45.5408633+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:03:21.3510134+00:00"
+  "LastUpdate_Ratings": "2023-09-18T12:00:42.0271664+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:03:28.6021841+00:00"
 }

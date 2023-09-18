@@ -1333,9 +1333,9 @@
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_prestige_1",
@@ -1573,9 +1573,9 @@
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_util_water",
@@ -1589,9 +1589,9 @@
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_visitors_1",
@@ -1614,8 +1614,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:06:51.2086677+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:06:58.1353049+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.3055446+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:58:09.3700853+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:06:51.2087594+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:58:12.6087009+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:06:58.1354177+00:00"
 }

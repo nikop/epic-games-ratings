@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3055,
+  "EOS_Progressed": 3063,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2989,
+  "EOS_NewPlayers": 2997,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -482,6 +482,11 @@
       "Time": "2023-09-18T11:04:09.0564388+00:00",
       "NumProgressed": 3055,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T12:04:15.2668078+00:00",
+      "NumProgressed": 3063,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -494,7 +499,7 @@
       "Name": "First of Many",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2297
     },
     {
       "ID": "achievement_01_02",
@@ -510,7 +515,7 @@
       "Name": "Brand New Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievement_01_04",
@@ -518,7 +523,7 @@
       "Name": "Bzzzt",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1838
     },
     {
       "ID": "achievement_01_05",
@@ -526,7 +531,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1041
     },
     {
       "ID": "achievement_01_06",
@@ -534,15 +539,15 @@
       "Name": "Mr Wheeler",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1378
     },
     {
       "ID": "achievement_01_07",
       "SetID": "4f1m94d",
       "Name": "Car Workshop",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 796
     },
     {
       "ID": "achievement_01_08",
@@ -550,7 +555,7 @@
       "Name": "Trophy Collector",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1899
     },
     {
       "ID": "achievement_01_09",
@@ -558,7 +563,7 @@
       "Name": "Right Foot",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1225
     },
     {
       "ID": "achievement_01_10",
@@ -566,7 +571,7 @@
       "Name": "Beat the Clock",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1286
     },
     {
       "ID": "achievement_02_01",
@@ -574,7 +579,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_02_02",
@@ -588,9 +593,9 @@
       "ID": "achievement_02_03",
       "SetID": "4f1m94d",
       "Name": "Professional Champion",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_02_04",
@@ -606,7 +611,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_02_06",
@@ -622,7 +627,7 @@
       "Name": "Whale of a Time",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1195
     },
     {
       "ID": "achievement_02_08",
@@ -636,9 +641,9 @@
       "ID": "achievement_03_01",
       "SetID": "4f1m94d",
       "Name": "USA - Check!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 519
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_03_02",
@@ -646,7 +651,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_03_03",
@@ -654,7 +659,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_03_04",
@@ -718,7 +723,7 @@
       "Name": "Japan - Check!",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_04_01",
@@ -734,7 +739,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 766
     },
     {
       "ID": "achievement_04_03",
@@ -742,7 +747,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 980
     },
     {
       "ID": "achievement_04_04",
@@ -758,7 +763,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_04_06",
@@ -774,7 +779,7 @@
       "Name": "Nitro Saver",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_04_08",
@@ -782,7 +787,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2236
     },
     {
       "ID": "achievement_04_09",
@@ -790,21 +795,21 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 796
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 3055,
+      "Progressed": 3063,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:04:09.0564381+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:04:15.2668071+00:00",
   "LastUpdate_AppInfo": "2023-09-14T15:57:19.4150066+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:57:47.3137009+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:04:09.0564717+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:57:53.5210033+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:04:15.2668402+00:00"
 }

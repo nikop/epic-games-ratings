@@ -6,23 +6,23 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,286 |
-| That's a Grand Army | 3.00% | ~12,215 |
-| That is mine! | 3.00% | ~12,215 |
-| Victorious! | 3.00% | ~12,215 |
-| Brothers in Arms | 2.00% | ~8,143 |
-| For the Glory | 2.00% | ~8,143 |
-| That's a Grand Navy | 2.00% | ~8,143 |
-| Seriously?! | 2.00% | ~8,143 |
+| Until death do us apart | 4.00% | ~16,288 |
+| That's a Grand Army | 3.00% | ~12,216 |
+| That is mine! | 3.00% | ~12,216 |
+| Victorious! | 3.00% | ~12,216 |
+| Brothers in Arms | 2.00% | ~8,144 |
+| For the Glory | 2.00% | ~8,144 |
+| That's a Grand Navy | 2.00% | ~8,144 |
+| Seriously?! | 2.00% | ~8,144 |
 | Cold War | 1.00% | ~4,072 |
 | Defender of the Faith | 1.00% | ~4,072 |
 | It's all about the money | 1.00% | ~4,072 |
 | The Princess is in this Castle | 1.00% | ~4,072 |
 | True Catholic | 1.00% | ~4,072 |
-| It's all about luck | 0.90% | ~3,664 |
-| Respected | 0.90% | ~3,664 |
-| Truly Divine Ruler | 0.90% | ~3,664 |
-| Blockader | 0.80% | ~3,257 |
+| It's all about luck | 0.90% | ~3,665 |
+| Respected | 0.90% | ~3,665 |
+| Truly Divine Ruler | 0.90% | ~3,665 |
+| Blockader | 0.80% | ~3,258 |
 | Double the Love | 0.70% | ~2,850 |
 | Royal Authority | 0.70% | ~2,850 |
 | Total Control | 0.70% | ~2,850 |
@@ -36,15 +36,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.40% | ~1,629 |
 | Queen of Conquest | 0.40% | ~1,629 |
 | This navy can take it all | 0.40% | ~1,629 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,221 |
-| Bright Spark | 0.30% | ~1,221 |
-| Down Under | 0.30% | ~1,221 |
-| The Emperors new clothes | 0.30% | ~1,221 |
-| A Golden Empire | 0.30% | ~1,221 |
-| Market Control | 0.30% | ~1,221 |
-| Populists in Government | 0.30% | ~1,221 |
-| The Five Colonies | 0.30% | ~1,221 |
-| Trustworthy | 0.30% | ~1,221 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,222 |
+| Bright Spark | 0.30% | ~1,222 |
+| Down Under | 0.30% | ~1,222 |
+| The Emperors new clothes | 0.30% | ~1,222 |
+| A Golden Empire | 0.30% | ~1,222 |
+| Market Control | 0.30% | ~1,222 |
+| Populists in Government | 0.30% | ~1,222 |
+| The Five Colonies | 0.30% | ~1,222 |
+| Trustworthy | 0.30% | ~1,222 |
 | All belongs to Mother Russia | 0.20% | ~814 |
 | At every continent | 0.20% | ~814 |
 | Early-Modern Warfare | 0.20% | ~814 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,151 (Ranked 40)  
+Progressed: 407,190 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 404,131 | 0 |
 | 2023-09-16 | 405,611 | 0 |
 | 2023-09-17 | 406,888 | 0 |
-| 2023-09-18 | 407,151 | 0 |
+| 2023-09-18 | 407,190 | 0 |
 ## Awards
 Max (Educational): 6,158  (Ranked 56)  
 Sum: 50,520 (Ranked 26)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 523,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2023-09-17T17:13:45.2977135+00:00",
       "NumProgressed": 522,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-18T12:06:17.5321243+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -771,7 +776,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Healthy_Child",
@@ -779,7 +784,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Hitman",
@@ -787,7 +792,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Illustrator",
@@ -811,7 +816,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Leisurely_Strol",
@@ -865,9 +870,9 @@
       "ID": "Old_Friend",
       "SetID": "ek310c",
       "Name": "A Familiar Face",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 78
     },
     {
       "ID": "Paparazzi",
@@ -907,7 +912,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -922,7 +927,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 523,
       "Completed": 5
     }
   ],
@@ -930,8 +935,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:06:11.0231246+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:06:17.5321238+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:16.5027878+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:00:52.5780837+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:06:11.0231513+00:00"
+  "LastUpdate_Ratings": "2023-09-18T12:00:49.002009+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:06:17.5321669+00:00"
 }

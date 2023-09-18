@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1400,
+  "EOS_Progressed": 1401,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1502,6 +1502,11 @@
       "Time": "2023-09-16T01:43:27.9930774+00:00",
       "NumProgressed": 1400,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-18T12:04:28.6531784+00:00",
+      "NumProgressed": 1401,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1591,9 +1596,9 @@
       "ID": "achievement_friendsBlock20Times",
       "SetID": "95dc8p",
       "Name": "The Power of Friendship",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_fullTransformation",
@@ -1647,9 +1652,9 @@
       "ID": "achievement_kill1000Thrixl",
       "SetID": "95dc8p",
       "Name": "No More Nightmares",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -1719,9 +1724,9 @@
       "ID": "achievement_use3ReactionStrikesInOneTurn",
       "SetID": "95dc8p",
       "Name": "Chain Reaction",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1960,15 +1965,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1400,
+      "Progressed": 1401,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:04:23.5790846+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:04:28.6531776+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.065544+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:59:18.1430583+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:04:23.5791381+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:59:26.9091446+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:04:28.6532377+00:00"
 }

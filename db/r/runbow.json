@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249423,
+  "EOS_Progressed": 249424,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14349,6 +14349,11 @@
       "Time": "2023-09-18T10:07:48.8533087+00:00",
       "NumProgressed": 249423,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-18T12:06:25.748041+00:00",
+      "NumProgressed": 249424,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14432,7 +14437,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37413
+      "UsersEstimate": 37414
     },
     {
       "ID": "clearCut",
@@ -14536,7 +14541,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132194
+      "UsersEstimate": 132195
     },
     {
       "ID": "indegestible",
@@ -14727,7 +14732,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249423,
+      "Progressed": 249424,
       "Completed": 5
     }
   ],
@@ -14735,8 +14740,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:06:19.253683+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:06:25.7480406+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.9787856+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:59:11.8037026+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:06:19.253797+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:59:19.0032665+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:06:25.7482085+00:00"
 }

@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | You're Hired | 96.00% | ~26 |
 | Learn the Ropes | 78.00% | ~21 |
+| Working for the Kiweekend | 56.00% | ~15 |
 | Practice Makes Postmasters | 52.00% | ~14 |
-| Working for the Kiweekend | 52.00% | ~14 |
 | A Startling Discovery | 48.00% | ~13 |
-| Fun in the Bungalow Basin Sun | 41.00% | ~11 |
+| Fun in the Bungalow Basin Sun | 44.00% | ~12 |
 | Pumpkins and Postage Stamps | 26.00% | ~7 |
 | Kiwinter Kiwonderland | 19.00% | ~5 |
 | Secrets of the Telepost | 11.00% | ~3 |
@@ -25,7 +25,7 @@
 | Working Overtime | 0.00% | ~0 |
 | Stocking Up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 434)  
+Progressed: 27 (Ranked 435)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |

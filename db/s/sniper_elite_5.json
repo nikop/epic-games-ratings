@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3633,
+  "EOS_Progressed": 3634,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6744,6 +6744,11 @@
       "Time": "2023-09-18T03:05:40.5227146+00:00",
       "NumProgressed": 3633,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T12:05:36.7253598+00:00",
+      "NumProgressed": 3634,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6835,7 +6840,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6923,7 +6928,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7123,7 +7128,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7322,13 +7327,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3584,
+      "Progressed": 3585,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3633,
+      "Progressed": 3634,
       "Completed": 11
     }
   ],
@@ -7336,8 +7341,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:05:30.9279477+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:05:36.7253588+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:00:48.3660331+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:05:30.9280556+00:00"
+  "LastUpdate_Ratings": "2023-09-18T12:00:45.1324823+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:05:36.7254715+00:00"
 }

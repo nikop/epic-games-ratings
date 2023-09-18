@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 208,
-  "EOS_Completed": 47,
+  "EOS_Completed": 48,
   "EOS_NewPlayers": 50,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 22.6,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 23.08,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1036,6 +1036,11 @@
       "Time": "2023-09-18T11:06:40.7184634+00:00",
       "NumProgressed": 208,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-18T12:06:47.6389102+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 48
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1070,9 +1075,9 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "FirstBox",
@@ -1118,9 +1123,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "Hologram",
@@ -1142,9 +1147,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Synthesis",
@@ -1160,13 +1165,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 208,
-      "Completed": 47
+      "Completed": 48
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:06:40.7184627+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:06:47.6389095+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:00:21.7515698+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:06:40.7184789+00:00"
+  "LastUpdate_Ratings": "2023-09-18T12:00:21.524933+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:06:47.6389298+00:00"
 }

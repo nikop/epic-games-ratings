@@ -2,7 +2,7 @@
   "ID": "2eb9074c818542998a61adb2d19b6cd7",
   "Name": "Venice 2089",
   "ProductSlug": "venice-2089-2bad63",
-  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:15.5806604+00:00",
   "LastChanged": "2023-03-31T05:58:15.5806605+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:02.9387161+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:58:49.0489958+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:04:59.2269459+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:58:55.144732+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:05:05.0009505+00:00"
 }

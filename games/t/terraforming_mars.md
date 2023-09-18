@@ -6,30 +6,30 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~28,169 |
-| Final touch | 37.00% | ~28,169 |
-| Prop-M Rover | 32.00% | ~24,362 |
-| Changing the Planet | 28.00% | ~21,317 |
-| Sojourner | 26.00% | ~19,794 |
-| Beagle 2 | 24.00% | ~18,272 |
-| New Home | 23.00% | ~17,510 |
-| Winner Winner Terraformer | 22.00% | ~16,749 |
-| Project Manager | 19.00% | ~14,465 |
-| Curiosity | 19.00% | ~14,465 |
-| Collector | 19.00% | ~14,465 |
-| Master | 19.00% | ~14,465 |
+| It's a steal! | 37.00% | ~28,170 |
+| Final touch | 37.00% | ~28,170 |
+| Prop-M Rover | 32.00% | ~24,364 |
+| Changing the Planet | 28.00% | ~21,318 |
+| Sojourner | 26.00% | ~19,795 |
+| Beagle 2 | 24.00% | ~18,273 |
+| New Home | 23.00% | ~17,511 |
+| Winner Winner Terraformer | 22.00% | ~16,750 |
+| Project Manager | 19.00% | ~14,466 |
+| Curiosity | 19.00% | ~14,466 |
+| Collector | 19.00% | ~14,466 |
+| Master | 19.00% | ~14,466 |
 | No Longer Red | 18.00% | ~13,704 |
 | Self-sufficient | 18.00% | ~13,704 |
 | Money money | 15.00% | ~11,420 |
-| Biggest Reward | 14.00% | ~10,658 |
-| Acquired knowledge | 13.00% | ~9,897 |
+| Biggest Reward | 14.00% | ~10,659 |
+| Acquired knowledge | 13.00% | ~9,898 |
 | First Journey | 12.00% | ~9,136 |
 | Hellenic Elysium | 12.00% | ~9,136 |
 | Grand champion | 12.00% | ~9,136 |
 | Landlord | 11.00% | ~8,375 |
 | Most Achievements | 11.00% | ~8,375 |
-| Spirit | 10.00% | ~7,613 |
-| Ultimate success | 10.00% | ~7,613 |
+| Spirit | 10.00% | ~7,614 |
+| Ultimate success | 10.00% | ~7,614 |
 | Variety Expert | 9.00% | ~6,852 |
 | Frequent tester | 8.00% | ~6,091 |
 | Determined | 8.00% | ~6,091 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,284 |
 | Opportunity | 3.00% | ~2,284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,132 (Ranked 80)  
+Progressed: 76,136 (Ranked 80)  
 Completed: 127 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 127 (0.17%) (Ranked 202)
 | 2023-09-15 | 75,826 | 118 |
 | 2023-09-16 | 75,960 | 123 |
 | 2023-09-17 | 76,109 | 127 |
-| 2023-09-18 | 76,132 | 127 |
+| 2023-09-18 | 76,136 | 127 |
 ## Awards
 Max (Relaxing): 513  (Ranked 199)  
 Sum: 3,163 (Ranked 163)  

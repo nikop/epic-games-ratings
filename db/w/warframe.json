@@ -2,10 +2,10 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 369,
+  "Ranking_Rating": 394,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 27,
-  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 12660,
   "RatingHistory": [
     {
@@ -9743,18 +9743,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 46498,
       "NumberOfAwardsMax": 17147
+    },
+    {
+      "Time": "2023-09-18T11:57:16.5593436+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 46531,
+      "NumberOfAwardsMax": 17174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46498,
-  "NumberOfAwardsMax": 17147,
+  "NumberOfAwards": 46531,
+  "NumberOfAwardsMax": 17174,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 17147
+      "Count": 17174
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9802,7 +9808,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 3406
+      "Count": 3412
     },
     {
       "Text": "This game has a Kind Community",
@@ -9828,8 +9834,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-09-18T01:45:22.3618722+00:00",
+  "LastChanged": "2023-09-18T11:57:16.5593434+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:34.4575182+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:03:01.0925638+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:05:45.4905226+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:57:16.5593441+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:05:51.7603224+00:00"
 }

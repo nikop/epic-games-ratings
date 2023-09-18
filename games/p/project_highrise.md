@@ -27,9 +27,9 @@
 | Lux Living | 21.00% | ~71 |
 | Artfully Done | 21.00% | ~71 |
 | Leveled Up Shops | 21.00% | ~71 |
+| Get Electrified | 21.00% | ~71 |
 | Rehab Expert | 20.00% | ~68 |
 | We Don't Need No Education | 20.00% | ~68 |
-| Get Electrified | 20.00% | ~68 |
 | Tasty Profits | 19.00% | ~64 |
 | Established Fame | 17.00% | ~57 |
 | Cashflow Chief | 17.00% | ~57 |
@@ -37,14 +37,14 @@
 | Starred Dining | 16.00% | ~54 |
 | Smooth Operator | 14.00% | ~47 |
 | Boutique Benefits | 14.00% | ~47 |
+| Thrilled Tenants | 14.00% | ~47 |
 | Terrifically Trashed | 13.00% | ~44 |
-| Thrilled Tenants | 13.00% | ~44 |
 | 28 Days Later | 11.00% | ~37 |
 | Swimming in Surplus | 11.00% | ~37 |
 | Aestheticly Pleased | 10.00% | ~34 |
+| Master of Puppets | 10.00% | ~34 |
 | Refined Palates | 10.00% | ~34 |
 | Plaza Plan | 9.00% | ~30 |
-| Master of Puppets | 9.00% | ~30 |
 | Phoning It In | 9.00% | ~30 |
 | First 100 Days | 8.00% | ~27 |
 | Water Features | 8.00% | ~27 |

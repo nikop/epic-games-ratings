@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10742,
+  "EOS_Progressed": 10744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5712,6 +5712,11 @@
       "Time": "2023-09-18T10:09:19.1178765+00:00",
       "NumProgressed": 10742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T12:09:18.4454042+00:00",
+      "NumProgressed": 10744,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5740,7 +5745,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "12",
@@ -5804,7 +5809,7 @@
       "Name": "Martian Music",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "2",
@@ -5820,7 +5825,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "21",
@@ -5900,7 +5905,7 @@
       "Name": "Captain Drummer",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "30",
@@ -5956,14 +5961,14 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10742,
+      "Progressed": 10744,
       "Completed": 0
     }
   ],
@@ -5971,8 +5976,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-17T17:02:33.3197326+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:08:22.42978+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:09:18.4454037+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:58:54.9368155+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:08:22.4298369+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:59:02.5673163+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:09:18.4454608+00:00"
 }

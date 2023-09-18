@@ -4,8 +4,8 @@
   "ProductSlug": "yooka-laylee-and-the-impossible-lair",
   "Ranking_Rating": 741,
   "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 373,
-  "Ranking_EOS_Progress": 599,
+  "Ranking_PopularitySum": 372,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
@@ -636,10 +636,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-09-18T11:57:54.7131174+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 204,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
+  "NumberOfAwards": 204,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -671,7 +677,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -709,8 +715,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
-  "LastChanged": "2023-08-16T13:02:39.4746147+00:00",
+  "LastChanged": "2023-09-18T11:57:54.7131173+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.3764969+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:57:48.3821827+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:06:13.7600149+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:57:54.7131178+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:06:20.2366766+00:00"
 }

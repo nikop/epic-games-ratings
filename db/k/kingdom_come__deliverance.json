@@ -7278,9 +7278,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 801781,
+  "EOS_Progressed": 801785,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 892,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24033,6 +24033,11 @@
       "Time": "2023-09-18T11:08:09.6195073+00:00",
       "NumProgressed": 801781,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-18T12:09:05.3506575+00:00",
+      "NumProgressed": 801785,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 82,
@@ -24068,7 +24073,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128285
+      "UsersEstimate": 128286
     },
     {
       "ID": "Awakening",
@@ -24076,7 +24081,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168374
+      "UsersEstimate": 168375
     },
     {
       "ID": "BadGirl",
@@ -24108,7 +24113,7 @@
       "Name": "Bard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24053
+      "UsersEstimate": 24054
     },
     {
       "ID": "Bastard",
@@ -24124,7 +24129,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256570
+      "UsersEstimate": 256571
     },
     {
       "ID": "Bookworm",
@@ -24132,7 +24137,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120267
+      "UsersEstimate": 120268
     },
     {
       "ID": "Buddy",
@@ -24156,7 +24161,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200445
+      "UsersEstimate": 200446
     },
     {
       "ID": "Chivalrous",
@@ -24196,7 +24201,7 @@
       "Name": "Conqueror",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24053
+      "UsersEstimate": 24054
     },
     {
       "ID": "Convict",
@@ -24244,7 +24249,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184410
+      "UsersEstimate": 184411
     },
     {
       "ID": "Fighter",
@@ -24260,7 +24265,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120267
+      "UsersEstimate": 120268
     },
     {
       "ID": "Freud",
@@ -24316,7 +24321,7 @@
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24053
+      "UsersEstimate": 24054
     },
     {
       "ID": "Haggler",
@@ -24324,7 +24329,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72160
+      "UsersEstimate": 72161
     },
     {
       "ID": "HardcoreHenry",
@@ -24388,7 +24393,7 @@
       "Name": "Kingdom did not come",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24053
+      "UsersEstimate": 24054
     },
     {
       "ID": "Knightrider",
@@ -24524,7 +24529,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160356
+      "UsersEstimate": 160357
     },
     {
       "ID": "RevenantOfLedechko",
@@ -24564,7 +24569,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160356
+      "UsersEstimate": 160357
     },
     {
       "ID": "SerialKiller",
@@ -24699,15 +24704,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 801781,
+      "Progressed": 801785,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-17T14:59:50.8007538+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:08:09.6195064+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:09:05.3506567+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:41.6954076+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:58:29.5425832+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:08:09.619672+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:58:35.5706301+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:09:05.3508616+00:00"
 }

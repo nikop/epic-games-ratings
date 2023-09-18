@@ -832,7 +832,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6931,
+  "EOS_Progressed": 6932,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -5592,6 +5592,11 @@
       "Time": "2023-09-18T09:04:45.1941591+00:00",
       "NumProgressed": 6931,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-18T12:04:15.5064306+00:00",
+      "NumProgressed": 6932,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5611,7 +5616,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5651,7 +5656,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -5659,7 +5664,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -5795,7 +5800,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3812
+      "UsersEstimate": 3813
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5851,7 +5856,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -5931,7 +5936,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3812
+      "UsersEstimate": 3813
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -5955,14 +5960,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3674
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6931,
+      "Progressed": 6932,
       "Completed": 8
     }
   ],
@@ -5970,8 +5975,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:04:09.1185578+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:04:15.5064298+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:57:50.7247059+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:04:09.1186113+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:57:56.890553+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:04:15.5064927+00:00"
 }

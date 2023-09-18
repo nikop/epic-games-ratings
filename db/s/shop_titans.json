@@ -6118,9 +6118,9 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136355,
+  "EOS_Progressed": 136358,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21633,6 +21633,11 @@
       "Time": "2023-09-18T11:03:16.1967475+00:00",
       "NumProgressed": 136355,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-09-18T12:03:23.3271882+00:00",
+      "NumProgressed": 136358,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 112,
@@ -21652,7 +21657,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "advlevel03",
@@ -21692,7 +21697,7 @@
       "Name": "Ascended",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "ascend02",
@@ -21836,7 +21841,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "collection02",
@@ -22052,7 +22057,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "furniture02",
@@ -22108,7 +22113,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "gold01",
@@ -22236,7 +22241,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "level03",
@@ -22516,7 +22521,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "workers03",
@@ -22539,15 +22544,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136355,
+      "Progressed": 136358,
       "Completed": 152
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-18T03:57:56.8219259+00:00",
-  "LastChanged_Achievements": "2023-09-18T11:03:16.1967466+00:00",
+  "LastChanged_Achievements": "2023-09-18T12:03:23.3271878+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:58:11.6718115+00:00",
-  "LastUpdate_Achievements": "2023-09-18T11:03:16.1970035+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:58:14.9637085+00:00",
+  "LastUpdate_Achievements": "2023-09-18T12:03:23.3275011+00:00"
 }
