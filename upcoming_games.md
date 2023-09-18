@@ -14,6 +14,7 @@
 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 2023-09-22 | 5 (1,000 XP) | 4 | - | - |
 | [Bud Spencer and Terence Hill - Slaps and Beans 2](games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 2023-09-22 | 33 (1,000 XP) | 0 | - | - |
 | [Battle of Guardians](games/8/8acd1f98795f45b5bb8c16556e1fc7ae.md) | 2023-09-22 | - |  | - | - |
+| [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-09-23 | 21 (1,000 XP) | 1 | - | - |
 | [Vasilisa the Wise](games/d/dff3527c17ff4a52b9a775ae0956b7d2.md) | 2023-09-26 | - |  | - | - |
 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 2023-09-26 | - |  | - | - |
 | [Danghost](games/6/66b12faffa204da39bda39d087789944.md) | 2023-09-27 | - |  | - | - |
@@ -307,7 +308,6 @@
 | [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | 2099-01-01 | - |  | - | - |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2099-01-01 | - |  | - | - |
 | [Don Duality](games/2/2325c580f06d4eb4ba6814c1b6802bed.md) | 2099-01-01 | - |  | - | - |
-| [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 2099-01-01 | - |  | - | - |
 | [Dumbriel - Magnificent Adventure in Hell](games/d/dda406e1f3d54507b7de96870809da62.md) | 2099-01-01 | - |  | - | - |
 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2099-01-01 | - |  | - | - |
@@ -489,7 +489,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,185 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,186 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
