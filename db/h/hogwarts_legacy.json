@@ -2,13 +2,13 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 110,
+  "Ranking_Rating": 111,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7708,10 +7708,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43655,
       "NumberOfAwardsMax": 22799
+    },
+    {
+      "Time": "2023-09-18T15:57:25.4617197+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43663,
+      "NumberOfAwardsMax": 22799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43655,
+  "NumberOfAwards": 43663,
   "NumberOfAwardsMax": 22799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7761,7 +7767,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1028
+      "Count": 1031
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7779,7 +7785,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 922
+      "Count": 927
     },
     {
       "Text": "This game has a Creative Community",
@@ -7788,9 +7794,9 @@
       "Count": 657
     }
   ],
-  "EOS_Progressed": 296895,
+  "EOS_Progressed": 296899,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24163,6 +24169,11 @@
       "Time": "2023-09-18T15:04:33.0410929+00:00",
       "NumProgressed": 296895,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-18T16:04:51.2731168+00:00",
+      "NumProgressed": 296899,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24174,7 +24185,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41565
+      "UsersEstimate": 41566
     },
     {
       "ID": "PFA_10",
@@ -24294,7 +24305,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35627
+      "UsersEstimate": 35628
     },
     {
       "ID": "PFA_24",
@@ -24358,7 +24369,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32658
+      "UsersEstimate": 32659
     },
     {
       "ID": "PFA_31",
@@ -24502,7 +24513,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38596
+      "UsersEstimate": 38597
     },
     {
       "ID": "PFA_7",
@@ -24510,7 +24521,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38596
+      "UsersEstimate": 38597
     },
     {
       "ID": "PFA_8",
@@ -24518,7 +24529,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32658
+      "UsersEstimate": 32659
     },
     {
       "ID": "PFA_9",
@@ -24533,16 +24544,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296895,
+      "Progressed": 296899,
       "Completed": 474
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-18T13:57:32.3934199+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:04:33.0410924+00:00",
+  "LastChanged": "2023-09-18T15:57:25.4617193+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:04:51.2731161+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:57:21.6385016+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:04:33.0412293+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:57:25.4617207+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:04:51.2733685+00:00"
 }

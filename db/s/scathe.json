@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1368,6 +1368,11 @@
       "Time": "2023-09-17T22:08:04.4853319+00:00",
       "NumProgressed": 307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T16:08:27.7845621+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1385,9 +1390,9 @@
       "ID": "ACHIEVEMENT_AND_IM_ALL_OUT_OF_GUN",
       "SetID": "2ff85j2",
       "Name": "...And I\u0027m All Out Of Gun",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_BAD_BLOOD",
@@ -1401,9 +1406,9 @@
       "ID": "ACHIEVEMENT_BLOODSTORM",
       "SetID": "2ff85j2",
       "Name": "Bloodstorm",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_CASTLE_OF_THE_WOLF",
@@ -1417,9 +1422,9 @@
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_FEAR_NOTHING",
@@ -1433,9 +1438,9 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -1489,9 +1494,9 @@
       "ID": "ACHIEVEMENT_POSTAL_SERVICE",
       "SetID": "2ff85j2",
       "Name": "Postal Service",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_PURELY_NOT",
@@ -1537,9 +1542,9 @@
       "ID": "ACHIEVEMENT_SERIOUS_BAM",
       "SetID": "2ff85j2",
       "Name": "Serious Bam",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
@@ -1553,9 +1558,9 @@
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
       "SetID": "2ff85j2",
       "Name": "Shock to the System",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
@@ -1593,7 +1598,7 @@
       "ID": "ACHIEVEMENT_UNREAL",
       "SetID": "2ff85j2",
       "Name": "Unreal",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1618,7 +1623,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
@@ -1626,8 +1631,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:08:14.493387+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:08:27.7845616+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:17.4741739+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:57:31.148291+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:08:14.4934171+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:57:36.9681453+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:08:27.7845941+00:00"
 }

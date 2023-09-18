@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 217,
+  "Ranking_Rating": 218,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 112,
@@ -1878,9 +1878,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20802,
+  "EOS_Progressed": 20803,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8483,6 +8483,11 @@
       "Time": "2023-09-18T15:08:18.6604314+00:00",
       "NumProgressed": 20802,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-18T16:08:32.2958397+00:00",
+      "NumProgressed": 20803,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8542,7 +8547,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19554
+      "UsersEstimate": 19555
     },
     {
       "ID": "GameOver",
@@ -8606,7 +8611,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3953
     },
     {
       "ID": "Negotiator",
@@ -8630,7 +8635,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4161
     },
     {
       "ID": "SeniorEstateAgent",
@@ -8646,7 +8651,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3745
     },
     {
       "ID": "Strongman",
@@ -8677,15 +8682,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20802,
+      "Progressed": 20803,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-12T18:58:36.6310426+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:08:18.660431+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:08:32.2958388+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.2506303+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:59:10.6531772+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:08:18.6604884+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:59:39.0315945+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:08:32.2958992+00:00"
 }

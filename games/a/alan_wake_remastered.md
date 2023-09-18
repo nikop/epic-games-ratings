@@ -1,21 +1,21 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 485)  
+Rating: 4.55 (Ranked 486)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,936 |
-| Let There Be Light | 33.00% | ~21,680 |
-| Float Like a Butterfly | 32.00% | ~21,023 |
-| Nordic Walking | 26.00% | ~17,081 |
-| Bright Falls' Finest | 25.00% | ~16,424 |
-| Under a Thin Layer of Skin | 22.00% | ~14,453 |
-| Park Ranger | 18.00% | ~11,825 |
-| Paging Mr. Wake | 18.00% | ~11,825 |
-| Back! Back, I Say! | 17.00% | ~11,168 |
-| Finders Keepers | 17.00% | ~11,168 |
+| Follow the Light | 41.00% | ~26,938 |
+| Let There Be Light | 34.00% | ~22,339 |
+| Float Like a Butterfly | 32.00% | ~21,025 |
+| Nordic Walking | 26.00% | ~17,083 |
+| Bright Falls' Finest | 25.00% | ~16,426 |
+| Under a Thin Layer of Skin | 22.00% | ~14,454 |
+| Park Ranger | 18.00% | ~11,826 |
+| Paging Mr. Wake | 18.00% | ~11,826 |
+| Back! Back, I Say! | 17.00% | ~11,169 |
+| Finders Keepers | 17.00% | ~11,169 |
 | Damn Good Cup of Coffee | 16.00% | ~10,512 |
 | They're Heeeeeere! | 15.00% | ~9,855 |
 | Sound and Fury | 15.00% | ~9,855 |
@@ -36,7 +36,7 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 10.00% | ~6,570 |
 | What Light Through Yonder Window | 9.00% | ~5,913 |
 | Tornado Wrangler | 8.00% | ~5,256 |
-| A Friend in Need | 8.00% | ~2,333 |
+| A Friend in Need | 8.00% | ~2,334 |
 | Departure | 7.00% | ~4,599 |
 | Drink 'Em Both Up | 6.00% | ~3,942 |
 | Hardboiled Writer | 6.00% | ~3,942 |
@@ -65,7 +65,7 @@ Number of Ratings: 524  (23.09.2022)
 | Run-On Sentence | 0.40% | ~117 |
 | License Revoked | 0.40% | ~117 |
 | Whirlwind | 0.40% | ~117 |
-| Tick Tock | 0.30% | ~87 |
+| Tick Tock | 0.30% | ~88 |
 | Gunless Wonder | 0.20% | ~131 |
 | Every Nook and Cranny | 0.20% | ~131 |
 | Collector's Edition | 0.20% | ~131 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,697 (Ranked 88)  
+Progressed: 65,702 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 65 (0.10%) (Ranked 222)
 | 2023-09-15 | 65,366 | 65 |
 | 2023-09-16 | 65,510 | 65 |
 | 2023-09-17 | 65,643 | 65 |
-| 2023-09-18 | 65,697 | 65 |
+| 2023-09-18 | 65,702 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

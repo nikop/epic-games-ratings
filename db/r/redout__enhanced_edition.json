@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 54,
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232045,
+  "EOS_Progressed": 232046,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
@@ -16228,6 +16228,11 @@
       "Time": "2023-09-18T15:05:01.7201139+00:00",
       "NumProgressed": 232045,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-18T16:05:25.7872459+00:00",
+      "NumProgressed": 232046,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16503,22 +16508,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95138
+      "UsersEstimate": 95139
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232045,
+      "Progressed": 232046,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:05:01.7201132+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:05:25.7872452+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.1224951+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:58:17.7091913+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:05:01.720234+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:58:32.9502311+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:05:25.7874772+00:00"
 }

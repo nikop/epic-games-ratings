@@ -1,15 +1,15 @@
 # A Plague Tale: Innocence
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-innocence)  
 [View Rawdata](../../db/a/a_plague_tale__innocence.json)  
-Rating: 4.68 (Ranked 243)  
+Rating: 4.68 (Ranked 244)  
 Number of Ratings: 10,904  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 3,347  (Ranked 91)  
-Sum: 3,802 (Ranked 150)  
+Max (Great Boss Battles): 3,350  (Ranked 91)  
+Sum: 3,805 (Ranked 150)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,347 |
+| This game has Great Boss Battles | 3,350 |
 | This game is Educational | 57 |
 | This game is Great for Beginners | 57 |
 | This game is Extremely Fun | 56 |
@@ -126,3 +126,4 @@ Diff (max vs sum): -59
 | 2023-09-08 | 4.68 | - | 3,346 | 3,800 |
 | 2023-09-13 | 4.68 | - | 3,347 | 3,801 |
 | 2023-09-17 | 4.68 | - | 3,347 | 3,802 |
+| 2023-09-18 | 4.68 | - | 3,350 | 3,805 |

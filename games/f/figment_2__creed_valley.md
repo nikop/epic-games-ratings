@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Remembering of the past | 17.00% | ~1 |
+| Remembering of the past | 33.00% | ~2 |
+| Ouch, that hurt! | 17.00% | ~1 |
+| Fight like an idiot | 17.00% | ~1 |
 | Black Hog Down | 17.00% | ~1 |
 | Slam-KABAM | 0.00% | ~0 |
 | Heavy Thoughts | 0.00% | ~0 |
 | Patient Listener | 0.00% | ~0 |
 | A heavy thinker | 0.00% | ~0 |
-| Ouch, that hurt! | 0.00% | ~0 |
 | Whac-a-worker | 0.00% | ~0 |
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | GOAAAAAAAAAL! | 0.00% | ~0 |
 | Come full circle | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
-| Fight like an idiot | 0.00% | ~0 |
 | Dance like an idiot | 0.00% | ~0 |
 | I'm Back at the Surface now | 0.00% | ~0 |
 | Repair the Mind Validation Machine | 0.00% | ~0 |

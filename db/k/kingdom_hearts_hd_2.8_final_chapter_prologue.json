@@ -2,12 +2,12 @@
   "ID": "c8ff067c1c984cd7ab1998e8a9afc8b6",
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
   "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
-  "Ranking_Rating": 174,
+  "Ranking_Rating": 175,
   "Ranking_Popularity": 314,
-  "Ranking_PopularitySum": 380,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -760,18 +760,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 190,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2023-09-18T16:00:12.8777956+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 190,
-  "NumberOfAwardsMax": 126,
+  "NumberOfAwards": 191,
+  "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 126
+      "Count": 127
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -791,8 +797,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2023-09-18T08:00:24.7346568+00:00",
+  "LastChanged": "2023-09-18T16:00:12.8777953+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:53.7973301+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:59:38.4394798+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:06:00.4214751+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:00:12.877796+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:06:36.1865823+00:00"
 }

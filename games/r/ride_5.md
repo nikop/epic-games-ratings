@@ -13,9 +13,9 @@
 | I'm Here Too! | 25.00% | ~234 |
 | Bitter Rivalry | 21.00% | ~197 |
 | I Want One Too! | 18.00% | ~168 |
+| Restored and Ready | 17.00% | ~159 |
 | Quick Pit Stop | 17.00% | ~159 |
 | Champagne Spray | 17.00% | ~159 |
-| Restored and Ready | 16.00% | ~150 |
 | Go-Faster Stripes | 15.00% | ~140 |
 | Legendary!!! | 15.00% | ~140 |
 | We've Just Begun | 8.00% | ~75 |

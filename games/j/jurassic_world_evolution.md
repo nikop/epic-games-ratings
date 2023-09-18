@@ -1,11 +1,11 @@
 # Jurassic World Evolution
 [Store](https://store.epicgames.com/en-US/p/jurassic-world-evolution)  
 [View Rawdata](../../db/j/jurassic_world_evolution.json)  
-Rating: 4.62 (Ranked 349)  
+Rating: 4.62 (Ranked 350)  
 Number of Ratings: 9,223  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 577  (Ranked 190)  
-Sum: 5,106 (Ranked 132)  
+Sum: 5,107 (Ranked 132)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): 58
 | This game has Amazing Characters | 491 |
 | This game is Highly Recommended | 483 |
 | This game has Obsessive Gameplay | 415 |
-| This game has a Creative Community | 388 |
+| This game has a Creative Community | 389 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -234,4 +234,4 @@ Diff (max vs sum): 58
 | 2023-09-15 | 4.62 | - | 576 | 5,100 |
 | 2023-09-16 | 4.62 | - | 577 | 5,103 |
 | 2023-09-17 | 4.62 | - | 577 | 5,104 |
-| 2023-09-18 | 4.62 | - | 577 | 5,106 |
+| 2023-09-18 | 4.62 | - | 577 | 5,107 |

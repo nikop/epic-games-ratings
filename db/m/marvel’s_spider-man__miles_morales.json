@@ -2,12 +2,12 @@
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
-  "Ranking_Rating": 101,
+  "Ranking_Rating": 102,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
@@ -2096,10 +2096,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 2022,
       "NumberOfAwardsMax": 1497
+    },
+    {
+      "Time": "2023-09-18T15:59:15.3755984+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 2024,
+      "NumberOfAwardsMax": 1497
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2022,
+  "NumberOfAwards": 2024,
   "NumberOfAwardsMax": 1497,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2143,7 +2149,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game is Relaxing",
@@ -2155,7 +2161,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2194,8 +2200,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-09-17T18:00:50.2472251+00:00",
+  "LastChanged": "2023-09-18T15:59:15.3755981+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.3813265+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:58:51.1547519+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:06:24.6838325+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:59:15.3755987+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:07:05.6126534+00:00"
 }

@@ -1,16 +1,16 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.56 (Ranked 466)  
+Rating: 4.56 (Ranked 467)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~351 |
-| And again, and again, and... | 63.00% | ~251 |
-| Burn, Elysium, burn! | 62.00% | ~247 |
-| Kuvaq Minigame-Master | 61.00% | ~243 |
-| FunScore | 55.00% | ~219 |
-| Funtime's over | 53.00% | ~211 |
+| Huzza, he's back. | 88.00% | ~352 |
+| And again, and again, and... | 64.00% | ~256 |
+| Burn, Elysium, burn! | 62.00% | ~248 |
+| Kuvaq Minigame-Master | 61.00% | ~244 |
+| FunScore | 55.00% | ~220 |
+| Funtime's over | 53.00% | ~212 |
 | Chunky | 50.00% | ~200 |
 | Shall we play a game? | 49.00% | ~196 |
 | Boat of love, boat of love | 48.00% | ~192 |
@@ -25,7 +25,7 @@ Rating: 4.56 (Ranked 466)
 | Masseltov | 20.00% | ~80 |
 | And everything comes full circle. | 20.00% | ~80 |
 | Quickdraw | 15.00% | ~60 |
-| Thuna...? | 15.00% | ~60 |
+| Thuna...? | 14.00% | ~56 |
 | Monstrous Harassment | 14.00% | ~56 |
 | Heading the inverter | 14.00% | ~56 |
 | Blast from the Past | 13.00% | ~52 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 466)
 | Every man for himself! | 5.00% | ~20 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 264)  
+Progressed: 400 (Ranked 264)  
 Completed: 6 (1.50%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 6 (1.50%) (Ranked 107)
 | 2023-09-14 | 391 | 6 |
 | 2023-09-15 | 393 | 6 |
 | 2023-09-17 | 399 | 6 |
+| 2023-09-18 | 400 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

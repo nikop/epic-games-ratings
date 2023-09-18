@@ -2,13 +2,13 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
-  "Ranking_Rating": 83,
+  "Ranking_Rating": 84,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7391,9 +7391,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473347,
+  "EOS_Progressed": 473348,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23331,6 +23331,11 @@
       "Time": "2023-09-18T15:05:03.3035947+00:00",
       "NumProgressed": 473347,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-18T16:05:27.7438123+00:00",
+      "NumProgressed": 473348,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -23366,7 +23371,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175138
+      "UsersEstimate": 175139
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -23462,7 +23467,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113603
+      "UsersEstimate": 113604
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -23494,7 +23499,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175138
+      "UsersEstimate": 175139
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -23518,7 +23523,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104136
+      "UsersEstimate": 104137
     },
     {
       "ID": "achievement_clean_sheet",
@@ -23582,7 +23587,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113603
+      "UsersEstimate": 113604
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -23614,7 +23619,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104136
+      "UsersEstimate": 104137
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -23638,7 +23643,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94669
+      "UsersEstimate": 94670
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -23662,7 +23667,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194072
+      "UsersEstimate": 194073
     },
     {
       "ID": "achievement_head_to_head",
@@ -23710,7 +23715,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 113603
+      "UsersEstimate": 113604
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -23726,7 +23731,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113603
+      "UsersEstimate": 113604
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -23766,7 +23771,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165671
+      "UsersEstimate": 165672
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -23782,7 +23787,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94669
+      "UsersEstimate": 94670
     },
     {
       "ID": "achievement_pick_feeder",
@@ -23982,7 +23987,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104136
+      "UsersEstimate": 104137
     },
     {
       "ID": "achievement_won_international_championship",
@@ -24125,15 +24130,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473347,
+      "Progressed": 473348,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-17T22:01:20.2522244+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:05:03.3035941+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:05:27.7438117+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:00:17.8482651+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:05:03.30381+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:01:00.4596995+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:05:27.7441308+00:00"
 }

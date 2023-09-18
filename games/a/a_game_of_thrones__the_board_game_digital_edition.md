@@ -1,7 +1,7 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 859)  
+Rating: 4.21 (Ranked 860)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,16 +20,16 @@ Number of Ratings: 2,500  (23.09.2022)
 | Oathkeeper | 7.00% | ~1,694 |
 | Influential | 7.00% | ~1,694 |
 | We Do Not Sow | 6.00% | ~1,452 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,452 |
 | Hear me Roar! | 6.00% | ~1,452 |
 | Defender of the Wall | 6.00% | ~1,452 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,210 |
 | Growing Strong | 5.00% | ~1,210 |
 | What is Dead may Never Die | 3.00% | ~726 |
 | The Swift | 3.00% | ~726 |
 | King in the North | 2.00% | ~484 |
 | War of the Five Kings | 1.00% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,199 (Ranked 108)  
+Progressed: 24,201 (Ranked 108)  
 Completed: 56 (0.23%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 56 (0.23%) (Ranked 194)
 | 2023-09-15 | 23,980 | 54 |
 | 2023-09-16 | 24,082 | 55 |
 | 2023-09-17 | 24,172 | 56 |
-| 2023-09-18 | 24,199 | 56 |
+| 2023-09-18 | 24,201 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 319)  
 Sum: 786 (Ranked 267)  

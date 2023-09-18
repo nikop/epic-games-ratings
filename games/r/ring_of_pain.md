@@ -1,13 +1,13 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 431)  
+Rating: 4.58 (Ranked 432)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,753 |
-| Uncharted Territory | 89.00% | ~210,219 |
+| First Steps | 96.00% | ~226,754 |
+| Uncharted Territory | 89.00% | ~210,220 |
 | Getting A Glimpse | 73.00% | ~172,427 |
 | A Quick Escape | 65.00% | ~153,531 |
 | Explorer | 62.00% | ~146,445 |
@@ -18,32 +18,32 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 57.00% | ~134,635 |
 | Goodbye, Frog Friend | 54.00% | ~127,549 |
 | Heavy Hitter | 53.00% | ~125,187 |
-| Heartless | 46.00% | ~108,652 |
-| Spine Breaker | 46.00% | ~108,652 |
-| Deflection | 45.00% | ~106,290 |
-| Sneaky | 43.00% | ~101,566 |
-| Delving Deeper | 42.00% | ~99,204 |
-| C-C-Combo | 42.00% | ~99,204 |
-| Ambitious Intent | 41.00% | ~96,842 |
-| Nothing To Lose | 40.00% | ~94,480 |
-| The Bestiary | 40.00% | ~94,480 |
-| What's Yours Is Mine | 38.00% | ~89,756 |
-| R.I.P | 37.00% | ~87,394 |
-| Shootout | 36.00% | ~85,032 |
-| I Am Overburdened | 35.00% | ~82,670 |
-| Cold Hearted | 34.00% | ~80,308 |
-| Dig Your Own Grave | 33.00% | ~77,946 |
-| Toxic | 33.00% | ~77,946 |
-| Who To Trust? | 32.00% | ~75,584 |
-| Flesh Wound | 29.00% | ~68,498 |
-| Walk It Off | 28.00% | ~66,136 |
-| Stone Touch | 28.00% | ~66,136 |
-| Shadow Walker | 28.00% | ~66,136 |
-| Consecutive Curses | 27.00% | ~63,774 |
-| Acid Bath | 27.00% | ~63,774 |
-| New Perspectives | 27.00% | ~63,774 |
-| Shapeshifting | 27.00% | ~63,774 |
-| Destroy Your Fears | 26.00% | ~61,412 |
+| Heartless | 46.00% | ~108,653 |
+| Spine Breaker | 46.00% | ~108,653 |
+| Deflection | 45.00% | ~106,291 |
+| Sneaky | 43.00% | ~101,567 |
+| Delving Deeper | 42.00% | ~99,205 |
+| C-C-Combo | 42.00% | ~99,205 |
+| Ambitious Intent | 41.00% | ~96,843 |
+| Nothing To Lose | 40.00% | ~94,481 |
+| The Bestiary | 40.00% | ~94,481 |
+| What's Yours Is Mine | 38.00% | ~89,757 |
+| R.I.P | 37.00% | ~87,395 |
+| Shootout | 36.00% | ~85,033 |
+| I Am Overburdened | 35.00% | ~82,671 |
+| Cold Hearted | 34.00% | ~80,309 |
+| Dig Your Own Grave | 33.00% | ~77,947 |
+| Toxic | 33.00% | ~77,947 |
+| Who To Trust? | 32.00% | ~75,585 |
+| Flesh Wound | 29.00% | ~68,499 |
+| Walk It Off | 28.00% | ~66,137 |
+| Stone Touch | 28.00% | ~66,137 |
+| Shadow Walker | 28.00% | ~66,137 |
+| Consecutive Curses | 27.00% | ~63,775 |
+| Acid Bath | 27.00% | ~63,775 |
+| New Perspectives | 27.00% | ~63,775 |
+| Shapeshifting | 27.00% | ~63,775 |
+| Destroy Your Fears | 26.00% | ~61,413 |
 | Save Our Souls | 25.00% | ~59,050 |
 | To The Death! | 20.00% | ~47,240 |
 | Well Prepared | 20.00% | ~47,240 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,181 |
 | Near Death Experience | 0.30% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,201 (Ranked 53)  
+Progressed: 236,202 (Ranked 53)  
 Completed: 273 (0.12%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 273 (0.12%) (Ranked 214)
 | 2023-09-15 | 236,029 | 271 |
 | 2023-09-16 | 236,098 | 271 |
 | 2023-09-17 | 236,162 | 271 |
-| 2023-09-18 | 236,201 | 273 |
+| 2023-09-18 | 236,202 | 273 |
 ## Awards
 Max (Quickly Understood Controls): 1,493  (Ranked 124)  
 Sum: 11,560 (Ranked 80)  

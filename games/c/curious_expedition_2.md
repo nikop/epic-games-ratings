@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.73 (Ranked 161)  
+Rating: 4.73 (Ranked 162)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 20  (23.09.2022)
 | The Adventure Begins | 61.00% | ~197 |
 | Cartographer | 54.00% | ~174 |
 | A Strange Artefact | 50.00% | ~162 |
-| Insomnia | 45.00% | ~145 |
+| Insomnia | 46.00% | ~149 |
 | From Whence we Came | 41.00% | ~132 |
 | Lost & Found & Lost Again | 40.00% | ~129 |
 | Fire and Flood | 38.00% | ~123 |

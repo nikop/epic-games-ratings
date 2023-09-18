@@ -1,23 +1,24 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 503)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,643 |
-| Git Gutte! | 2.00% | ~13,643 |
-| Bookworm | 2.00% | ~13,643 |
-| Break A Leg | 2.00% | ~13,643 |
-| But Doctor, I am Butcho | 2.00% | ~13,643 |
-| Coup de Grâce | 2.00% | ~13,643 |
-| Hazardous Materials | 2.00% | ~13,643 |
-| Friends Like These | 2.00% | ~13,643 |
-| Hotel California | 2.00% | ~13,643 |
-| Apex Predator | 2.00% | ~13,643 |
-| Stacking the Deck | 2.00% | ~13,643 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,643 |
-| Welcome To Hell-A | 2.00% | ~13,643 |
+| Dr. Reed, I Presume? | 2.00% | ~13,644 |
+| Git Gutte! | 2.00% | ~13,644 |
+| Bookworm | 2.00% | ~13,644 |
+| Break A Leg | 2.00% | ~13,644 |
+| But Doctor, I am Butcho | 2.00% | ~13,644 |
+| Coup de Grâce | 2.00% | ~13,644 |
+| Hazardous Materials | 2.00% | ~13,644 |
+| Friends Like These | 2.00% | ~13,644 |
+| Hotel California | 2.00% | ~13,644 |
+| Apex Predator | 2.00% | ~13,644 |
+| Stacking the Deck | 2.00% | ~13,644 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,644 |
+| This is My Weapon | 2.00% | ~13,644 |
+| Welcome To Hell-A | 2.00% | ~13,644 |
 | Anger Management | 1.00% | ~6,822 |
 | Perks of the Job | 1.00% | ~6,822 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,822 |
@@ -29,11 +30,10 @@ Rating: 4.54 (Ranked 503)
 | A Patton Emerges | 1.00% | ~6,822 |
 | I Am the Resurrection | 1.00% | ~6,822 |
 | Our True Nature | 1.00% | ~6,822 |
-| This is My Weapon | 1.00% | ~6,822 |
-| Making Your Mark | 0.90% | ~6,139 |
-| Humanity Distilled | 0.90% | ~6,139 |
-| Down with the Sickness | 0.90% | ~6,139 |
-| Max Headroom | 0.80% | ~5,457 |
+| Making Your Mark | 0.90% | ~6,140 |
+| Humanity Distilled | 0.90% | ~6,140 |
+| Down with the Sickness | 0.90% | ~6,140 |
+| Max Headroom | 0.80% | ~5,458 |
 | Jumbo Keyring | 0.60% | ~4,093 |
 | Go, Bobcats! | 0.60% | ~4,093 |
 | Rising Star | 0.60% | ~4,093 |
@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 503)
 | Not Even My Final Form | 0.40% | ~2,729 |
 | Internet Famous | 0.40% | ~2,729 |
 | Variety is the Spice of Death | 0.40% | ~2,729 |
-| LA Influential | 0.30% | ~2,046 |
-| Gore Horse | 0.30% | ~2,046 |
-| Sharpest Tool in the Box | 0.30% | ~2,046 |
+| LA Influential | 0.30% | ~2,047 |
+| Gore Horse | 0.30% | ~2,047 |
+| Sharpest Tool in the Box | 0.30% | ~2,047 |
 | Sole Survivor | 0.20% | ~1,364 |
 | Survival Skills | 0.20% | ~1,364 |
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,152 (Ranked 22)  
+Progressed: 682,195 (Ranked 22)  
 Completed: 2,152 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2,152 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
-| 2023-09-18 | 682,152 | 2,152 |
+| 2023-09-18 | 682,195 | 2,152 |
 ## Awards
 Max (Great Boss Battles): 6,105  (Ranked 57)  
 Sum: 9,049 (Ranked 94)  

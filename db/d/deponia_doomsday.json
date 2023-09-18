@@ -2,12 +2,12 @@
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
   "ProductSlug": "deponia-doomsday-1848dd",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
@@ -290,6 +290,11 @@
       "Time": "2023-09-17T20:08:10.0702675+00:00",
       "NumProgressed": 399,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-18T16:07:00.7421971+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -301,7 +306,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "dep4_achievement_10",
@@ -381,15 +386,15 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 256
     },
     {
       "ID": "dep4_achievement_20",
@@ -427,9 +432,9 @@
       "ID": "dep4_achievement_24",
       "SetID": "5d32b60",
       "Name": "Thuna...?",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "dep4_achievement_25",
@@ -461,7 +466,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "dep4_achievement_29",
@@ -477,7 +482,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "dep4_achievement_30",
@@ -541,7 +546,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "dep4_achievement_5",
@@ -588,7 +593,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 6
     }
   ],
@@ -596,8 +601,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:06:20.9369846+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:07:00.7421966+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.6821745+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:00:12.3437996+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:06:20.9370148+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:00:53.5069437+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:07:00.7422284+00:00"
 }

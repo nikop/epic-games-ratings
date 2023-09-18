@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 331,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 502,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 229871,
+  "EOS_Progressed": 229873,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16019,6 +16019,11 @@
       "Time": "2023-09-18T15:06:57.3993506+00:00",
       "NumProgressed": 229871,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-18T16:07:45.6495504+00:00",
+      "NumProgressed": 229873,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -16174,7 +16179,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78156
+      "UsersEstimate": 78157
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -16253,7 +16258,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229871,
+      "Progressed": 229873,
       "Completed": 5
     }
   ],
@@ -16261,8 +16266,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-14T16:00:52.1630549+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:06:57.3993501+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:07:45.6495498+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.0573997+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:59:54.3688875+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:06:57.3994684+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:00:31.9454477+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:07:45.6497658+00:00"
 }

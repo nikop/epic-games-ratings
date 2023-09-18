@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18047,
+  "EOS_Progressed": 18049,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10386,6 +10386,11 @@
       "Time": "2023-09-18T14:03:34.0231404+00:00",
       "NumProgressed": 18047,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T16:03:28.8462649+00:00",
+      "NumProgressed": 18049,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10453,7 +10458,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3249
     },
     {
       "ID": "0009",
@@ -10461,7 +10466,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "0010",
@@ -10581,7 +10586,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "0025",
@@ -10629,7 +10634,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3249
     },
     {
       "ID": "0031",
@@ -10684,7 +10689,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18047,
+      "Progressed": 18049,
       "Completed": 3
     }
   ],
@@ -10692,8 +10697,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:03:24.8731454+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:03:28.8462644+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:59:29.877952+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:03:24.8732319+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:00:02.6565012+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:03:28.8463596+00:00"
 }

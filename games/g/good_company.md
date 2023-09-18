@@ -1,14 +1,14 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.44 (Ranked 649)  
+Rating: 4.44 (Ranked 650)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,651 |
+| Level: Returning Home | 49.00% | ~2,652 |
 | Returning Home: Quick Learner | 26.00% | ~1,407 |
-| Level: Charlie's Circuits | 22.00% | ~1,190 |
+| Level: Charlie's Circuits | 22.00% | ~1,191 |
 | Level: Rising Markets | 9.00% | ~487 |
 | Peddler | 8.00% | ~433 |
 | Level: Extra Life | 7.00% | ~379 |
@@ -17,9 +17,9 @@ Number of Ratings: 75  (23.09.2022)
 | Millionaire | 6.00% | ~325 |
 | Data Churn Type II | 5.00% | ~271 |
 | Speedy | 5.00% | ~271 |
-| Extra Life: Wish Granted | 4.00% | ~216 |
-| High Five! | 4.00% | ~216 |
-| Modular Progress | 4.00% | ~216 |
+| Extra Life: Wish Granted | 4.00% | ~217 |
+| High Five! | 4.00% | ~217 |
+| Modular Progress | 4.00% | ~217 |
 | Campaign: Lesson Learned | 3.00% | ~162 |
 | Level: Bet On Bots | 3.00% | ~162 |
 | Modular Performance | 3.00% | ~162 |
@@ -43,8 +43,8 @@ Number of Ratings: 75  (23.09.2022)
 | Data Churn Type IV | 1.00% | ~54 |
 | Keen Eye | 1.00% | ~54 |
 | Level: Topple The Top | 0.90% | ~49 |
-| Tycoon | 0.90% | ~49 |
 | Bet On Bots: Safety First | 0.80% | ~43 |
+| Tycoon | 0.80% | ~43 |
 | Merry-Go-Around: Self-Made | 0.70% | ~38 |
 | Level: Eye In The Sky | 0.60% | ~32 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,411 (Ranked 149)  
+Progressed: 5,413 (Ranked 149)  
 Completed: 1 (0.02%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 1 (0.02%) (Ranked 254)
 | 2023-09-15 | 5,401 | 1 |
 | 2023-09-16 | 5,405 | 1 |
 | 2023-09-17 | 5,411 | 1 |
+| 2023-09-18 | 5,413 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

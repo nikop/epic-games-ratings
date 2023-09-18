@@ -1,48 +1,48 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 349)  
+Rating: 4.62 (Ranked 350)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~22,623 |
-| Exploitative | 4.00% | ~18,099 |
-| Point Shooting | 4.00% | ~18,099 |
-| Wet Feet | 4.00% | ~18,099 |
-| High Speed Low Drag | 3.00% | ~13,574 |
-| Lucky | 3.00% | ~13,574 |
-| Stylin' | 3.00% | ~13,574 |
-| Turf War | 3.00% | ~13,574 |
-| Banged | 2.00% | ~9,049 |
-| Checkpoint Victory | 2.00% | ~9,049 |
-| First Blood | 2.00% | ~9,049 |
-| Flaccid Paralysis | 2.00% | ~9,049 |
-| Push Victory | 2.00% | ~9,049 |
-| Self-destructive | 2.00% | ~9,049 |
+| Wallbanger | 5.00% | ~22,625 |
+| Exploitative | 4.00% | ~18,100 |
+| Point Shooting | 4.00% | ~18,100 |
+| Wet Feet | 4.00% | ~18,100 |
+| High Speed Low Drag | 3.00% | ~13,575 |
+| Lucky | 3.00% | ~13,575 |
+| Stylin' | 3.00% | ~13,575 |
+| Turf War | 3.00% | ~13,575 |
+| Banged | 2.00% | ~9,050 |
+| Checkpoint Victory | 2.00% | ~9,050 |
+| First Blood | 2.00% | ~9,050 |
+| Flaccid Paralysis | 2.00% | ~9,050 |
+| Push Victory | 2.00% | ~9,050 |
+| Self-destructive | 2.00% | ~9,050 |
 | Blindfire | 1.00% | ~4,525 |
 | Ruthless | 1.00% | ~4,525 |
 | Semper Paratus | 1.00% | ~4,525 |
-| Carrying | 0.90% | ~4,072 |
-| Efficient | 0.90% | ~4,072 |
-| Mount & Gun | 0.90% | ~4,072 |
-| Personal | 0.90% | ~4,072 |
+| Carrying | 0.90% | ~4,073 |
+| Efficient | 0.90% | ~4,073 |
+| Mount & Gun | 0.90% | ~4,073 |
+| Personal | 0.90% | ~4,073 |
 | Grounded | 0.80% | ~3,620 |
 | Play to Win | 0.80% | ~3,620 |
-| Special Delivery | 0.70% | ~3,167 |
+| Special Delivery | 0.70% | ~3,168 |
 | Firefight Victory | 0.60% | ~2,715 |
 | #1 | 0.60% | ~2,715 |
-| Cinematic | 0.50% | ~2,262 |
+| Cinematic | 0.50% | ~2,263 |
 | Thanks Station! | 0.40% | ~1,810 |
-| Knock Knock | 0.30% | ~1,357 |
-| There For You | 0.30% | ~1,357 |
+| Knock Knock | 0.30% | ~1,358 |
+| There For You | 0.30% | ~1,358 |
 | Hit and Run | 0.20% | ~905 |
-| Designated Driver | 0.10% | ~452 |
-| J.R. .50 | 0.10% | ~452 |
-| It's All in the Reflexes | 0.10% | ~452 |
-| Road Hazard | 0.10% | ~452 |
+| Designated Driver | 0.10% | ~453 |
+| J.R. .50 | 0.10% | ~453 |
+| It's All in the Reflexes | 0.10% | ~453 |
+| Road Hazard | 0.10% | ~453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,463 (Ranked 38)  
+Progressed: 452,508 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.00%) (Ranked 277)
 | 2023-09-15 | 449,748 | 2 |
 | 2023-09-16 | 450,782 | 2 |
 | 2023-09-17 | 451,981 | 2 |
-| 2023-09-18 | 452,463 | 2 |
+| 2023-09-18 | 452,508 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 380  (Ranked 223)  
 Sum: 2,988 (Ranked 169)  

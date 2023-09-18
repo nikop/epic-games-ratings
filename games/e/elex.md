@@ -1,12 +1,12 @@
 # ELEX
 [Store](https://store.epicgames.com/en-US/p/elex)  
 [View Rawdata](../../db/e/elex.json)  
-Rating: 4.44 (Ranked 649)  
+Rating: 4.44 (Ranked 650)  
 Number of Ratings: 58  (23.09.2022)  
 ## Awards
 Max (Character Customization): 24  (Ranked 490)  
-Sum: 24 (Ranked 497)  
-Diff (max vs sum): -7  
+Sum: 24 (Ranked 498)  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |

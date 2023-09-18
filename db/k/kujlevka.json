@@ -4,7 +4,7 @@
   "ProductSlug": "kujlevka-9b53bb",
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-06T14:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-04-09T15:57:36.5906541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:48.4284276+00:00",
   "LastChanged": "2023-04-09T15:57:36.5906542+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:03:18.4704971+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:03:21.612283+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:20.2444408+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:57:35.6358034+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:03:18.4705008+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:57:42.8416771+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:03:21.6122858+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 485,
+  "Ranking_Rating": 486,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65697,
+  "EOS_Progressed": 65702,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1222,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15092,6 +15092,11 @@
       "Time": "2023-09-18T15:03:39.428793+00:00",
       "NumProgressed": 65697,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-18T16:03:46.3789083+00:00",
+      "NumProgressed": 65702,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15103,7 +15108,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26936
+      "UsersEstimate": 26938
     },
     {
       "ID": "02",
@@ -15111,7 +15116,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17081
+      "UsersEstimate": 17083
     },
     {
       "ID": "03",
@@ -15119,7 +15124,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16424
+      "UsersEstimate": 16426
     },
     {
       "ID": "04",
@@ -15135,7 +15140,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14453
+      "UsersEstimate": 14454
     },
     {
       "ID": "06",
@@ -15143,7 +15148,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11825
+      "UsersEstimate": 11826
     },
     {
       "ID": "07",
@@ -15343,7 +15348,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11168
+      "UsersEstimate": 11169
     },
     {
       "ID": "32",
@@ -15351,7 +15356,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21023
+      "UsersEstimate": 21025
     },
     {
       "ID": "33",
@@ -15373,9 +15378,9 @@
       "ID": "35",
       "SetID": "212770e",
       "Name": "Let There Be Light",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 21680
+      "UsersEstimate": 22339
     },
     {
       "ID": "36",
@@ -15423,7 +15428,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11168
+      "UsersEstimate": 11169
     },
     {
       "ID": "42",
@@ -15439,7 +15444,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11825
+      "UsersEstimate": 11826
     },
     {
       "ID": "44",
@@ -15503,7 +15508,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "52",
@@ -15551,7 +15556,7 @@
       "Name": "Tick Tock",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "58",
@@ -15638,21 +15643,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65697,
+      "Progressed": 65702,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29165,
+      "Progressed": 29170,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:03:39.4287926+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:03:46.3789077+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:57:36.151544+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:03:39.4289476+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:57:43.6211851+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:03:46.3791991+00:00"
 }

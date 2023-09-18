@@ -1670,9 +1670,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 347
     },
     {
       "ID": "AC11",
@@ -1742,9 +1742,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 403
     },
     {
       "ID": "AC20",
@@ -1967,8 +1967,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:03:15.8051281+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:03:18.6155108+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-18T15:00:28.9350433+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:03:15.8051805+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:02:04.3814477+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:03:18.6155601+00:00"
 }

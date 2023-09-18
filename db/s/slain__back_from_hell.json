@@ -2,12 +2,12 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 814,
-  "Ranking_Popularity": 314,
+  "Ranking_Rating": 815,
+  "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36812,
+  "EOS_Progressed": 36814,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16818,6 +16818,11 @@
       "Time": "2023-09-18T15:04:25.5292274+00:00",
       "NumProgressed": 36812,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-18T16:04:42.057888+00:00",
+      "NumProgressed": 36814,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -16837,7 +16842,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7362
+      "UsersEstimate": 7363
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -16853,7 +16858,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -16861,7 +16866,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -16917,7 +16922,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -16933,7 +16938,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -16965,7 +16970,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -16973,7 +16978,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -16997,7 +17002,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -17060,7 +17065,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36812,
+      "Progressed": 36814,
       "Completed": 25
     }
   ],
@@ -17068,8 +17073,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:04:25.5292269+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:04:42.0578876+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.2246972+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:59:32.7087441+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:04:25.5293674+00:00"
+  "LastUpdate_Ratings": "2023-09-18T16:00:06.0993588+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:04:42.0580125+00:00"
 }

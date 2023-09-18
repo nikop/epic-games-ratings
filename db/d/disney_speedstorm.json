@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3187,
+  "EOS_Progressed": 3188,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.52,
   "EosHistory": [
@@ -4725,6 +4725,11 @@
       "Time": "2023-09-18T11:03:59.9255483+00:00",
       "NumProgressed": 3187,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-09-18T16:04:05.832367+00:00",
+      "NumProgressed": 3188,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 24,
@@ -4744,7 +4749,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "11",
@@ -4776,7 +4781,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "15",
@@ -4822,9 +4827,9 @@
       "ID": "2",
       "SetID": "9p3jgda",
       "Name": "ACE SPEEDSTER",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 797
+      "UsersEstimate": 765
     },
     {
       "ID": "20",
@@ -4888,7 +4893,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "6",
@@ -4896,7 +4901,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "7",
@@ -4927,13 +4932,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3187,
+      "Progressed": 3188,
       "Completed": 176
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:03:55.7386865+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:04:05.8323667+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:58:49.1869055+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:03:55.7387324+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:59:12.9279657+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:04:05.8324173+00:00"
 }

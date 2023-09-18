@@ -1,16 +1,16 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 961)  
+Rating: 3.93 (Ranked 962)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First One’s Free | 0.40% | ~351 |
 | Downed but Not Outed | 0.40% | ~351 |
 | Neophyte Ninja | 0.30% | ~263 |
+| Too Old for This | 0.30% | ~263 |
 | Underworld Initiate | 0.20% | ~175 |
 | Roid Ranger | 0.20% | ~175 |
-| Too Old for This | 0.20% | ~175 |
 | King of the Hill | 0.20% | ~175 |
 | Fancy Pants | 0.20% | ~175 |
 | Off the Rocks | 0.20% | ~175 |
@@ -47,7 +47,7 @@ Rating: 3.93 (Ranked 961)
 | One for All | 0.10% | ~16 |
 | Now You See Me | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,690 (Ranked 77)  
+Progressed: 87,697 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 46 (0.05%) (Ranked 240)
 | 2023-09-15 | 87,269 | 46 |
 | 2023-09-16 | 87,447 | 46 |
 | 2023-09-17 | 87,608 | 46 |
-| 2023-09-18 | 87,690 | 46 |
+| 2023-09-18 | 87,697 | 46 |
 ## Awards
 Max (Diverse Characters): 440  (Ranked 209)  
 Sum: 2,119 (Ranked 198)  

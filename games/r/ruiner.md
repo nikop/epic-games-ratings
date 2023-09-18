@@ -1,12 +1,12 @@
 # RUINER
 [Store](https://store.epicgames.com/en-US/p/ruiner)  
 [View Rawdata](../../db/r/ruiner.json)  
-Rating: 4.53 (Ranked 518)  
+Rating: 4.53 (Ranked 519)  
 Number of Ratings: 137  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 490)  
-Sum: 24 (Ranked 497)  
-Diff (max vs sum): -7  
+Sum: 24 (Ranked 498)  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 24 |

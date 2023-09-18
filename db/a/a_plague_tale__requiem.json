@@ -2,13 +2,13 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 161,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 213,
-  "Ranking_PopularitySum": 293,
+  "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -360,10 +360,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 640,
       "NumberOfAwardsMax": 419
+    },
+    {
+      "Time": "2023-09-18T15:59:27.1915431+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 642,
+      "NumberOfAwardsMax": 419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 640,
+  "NumberOfAwards": 642,
   "NumberOfAwardsMax": 419,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -377,13 +383,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",
@@ -428,11 +434,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13076,
-  "EOS_Completed": 46,
-  "EOS_NewPlayers": 114,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Progressed": 13077,
+  "EOS_Completed": 47,
+  "EOS_NewPlayers": 115,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:45.6707556+00:00",
@@ -8458,6 +8464,11 @@
       "Time": "2023-09-18T15:06:39.9831864+00:00",
       "NumProgressed": 13076,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-18T16:07:23.6392492+00:00",
+      "NumProgressed": 13077,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -8469,7 +8480,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12030
+      "UsersEstimate": 12031
     },
     {
       "ID": "ACH_02",
@@ -8477,7 +8488,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10330
+      "UsersEstimate": 10331
     },
     {
       "ID": "ACH_03",
@@ -8485,7 +8496,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9676
+      "UsersEstimate": 9677
     },
     {
       "ID": "ACH_04",
@@ -8493,7 +8504,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9153
+      "UsersEstimate": 9154
     },
     {
       "ID": "ACH_05",
@@ -8509,7 +8520,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8499
+      "UsersEstimate": 8500
     },
     {
       "ID": "ACH_07",
@@ -8517,7 +8528,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8107
+      "UsersEstimate": 8108
     },
     {
       "ID": "ACH_08",
@@ -8525,7 +8536,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7976
+      "UsersEstimate": 7977
     },
     {
       "ID": "ACH_09",
@@ -8533,7 +8544,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7584
+      "UsersEstimate": 7585
     },
     {
       "ID": "ACH_10",
@@ -8541,7 +8552,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 6930
+      "UsersEstimate": 6931
     },
     {
       "ID": "ACH_11",
@@ -8549,7 +8560,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_12",
@@ -8565,7 +8576,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "ACH_14",
@@ -8685,7 +8696,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9022
+      "UsersEstimate": 9023
     },
     {
       "ID": "ACH_29",
@@ -8748,16 +8759,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13076,
-      "Completed": 46
+      "Progressed": 13077,
+      "Completed": 47
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-09-18T06:59:41.5491135+00:00",
-  "LastChanged_Achievements": "2023-09-18T15:06:39.9831855+00:00",
+  "LastChanged": "2023-09-18T15:59:27.1915428+00:00",
+  "LastChanged_Achievements": "2023-09-18T16:07:23.6392487+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:18.7719014+00:00",
-  "LastUpdate_Ratings": "2023-09-18T14:59:00.9484662+00:00",
-  "LastUpdate_Achievements": "2023-09-18T15:06:39.9832624+00:00"
+  "LastUpdate_Ratings": "2023-09-18T15:59:27.1915439+00:00",
+  "LastUpdate_Achievements": "2023-09-18T16:07:23.6394296+00:00"
 }

@@ -1,46 +1,46 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 885)  
+Rating: 4.18 (Ranked 886)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,773 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,424 |
-| Loose Ends | 34.00% | ~24,698 |
+| First Step Into the Knight | 52.00% | ~37,774 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,425 |
+| Loose Ends | 34.00% | ~24,699 |
 | To the Victor Go the Spoils | 29.00% | ~21,066 |
-| Knighthood | 28.00% | ~20,339 |
-| Get ReQ'd | 25.00% | ~18,160 |
-| Whispered Words | 25.00% | ~18,160 |
-| The Batman Family | 23.00% | ~16,707 |
-| Lock and Key | 23.00% | ~16,707 |
-| Something in the Clay | 21.00% | ~15,254 |
-| Quartzer Life Crisis | 21.00% | ~15,254 |
-| Working Hard or Harley Working? | 20.00% | ~14,528 |
-| Unstoppable Force | 20.00% | ~14,528 |
-| Bad Apples in Every Orchard | 20.00% | ~14,528 |
+| Knighthood | 28.00% | ~20,340 |
+| Get ReQ'd | 25.00% | ~18,161 |
+| Whispered Words | 25.00% | ~18,161 |
+| The Batman Family | 23.00% | ~16,708 |
+| Lock and Key | 23.00% | ~16,708 |
+| Something in the Clay | 21.00% | ~15,255 |
+| Quartzer Life Crisis | 21.00% | ~15,255 |
+| Working Hard or Harley Working? | 20.00% | ~14,529 |
+| Unstoppable Force | 20.00% | ~14,529 |
+| Bad Apples in Every Orchard | 20.00% | ~14,529 |
 | Snow Problem | 19.00% | ~13,802 |
-| The Show Mud Go On | 18.00% | ~13,075 |
-| From Inside Gotham's Walls | 18.00% | ~13,075 |
+| The Show Mud Go On | 18.00% | ~13,076 |
+| From Inside Gotham's Walls | 18.00% | ~13,076 |
 | Protector of Gotham | 17.00% | ~12,349 |
-| Universal Health Scare | 16.00% | ~11,622 |
+| Universal Health Scare | 16.00% | ~11,623 |
 | In Your Element | 15.00% | ~10,896 |
 | Voiceless | 15.00% | ~10,896 |
 | Rock and a Hard Place | 14.00% | ~10,170 |
 | Cooldown | 14.00% | ~10,170 |
-| Not On My Watch | 13.00% | ~9,443 |
-| Shock Til They Drop | 13.00% | ~9,443 |
-| Seeking Asylum | 13.00% | ~9,443 |
+| Not On My Watch | 13.00% | ~9,444 |
+| Shock Til They Drop | 13.00% | ~9,444 |
+| Seeking Asylum | 13.00% | ~9,444 |
 | End of an Era | 12.00% | ~8,717 |
 | Bulldozed | 12.00% | ~8,717 |
 | Gotham Knight | 12.00% | ~8,717 |
-| Gotham City Confidential | 11.00% | ~7,990 |
+| Gotham City Confidential | 11.00% | ~7,991 |
 | Drone You Out | 10.00% | ~7,264 |
 | Out of Their League | 9.00% | ~6,538 |
 | Solid Alibi | 9.00% | ~6,538 |
 | Fusion Expert | 7.00% | ~5,085 |
-| Family Meeting | 6.00% | ~4,358 |
-| A Worthy Successor | 6.00% | ~4,358 |
+| Family Meeting | 6.00% | ~4,359 |
+| A Worthy Successor | 6.00% | ~4,359 |
 | Expert Crime Fighter | 5.00% | ~3,632 |
 | Dressed to Impress | 4.00% | ~2,906 |
 | A Momentum Occasion | 3.00% | ~2,179 |
@@ -54,7 +54,7 @@ Rating: 4.18 (Ranked 885)
 | Icebreaker | 0.80% | ~343 |
 | History Major | 0.80% | ~581 |
 | A Sophisticated Mallet | 0.80% | ~343 |
-| Read Owl About It | 0.70% | ~508 |
+| Read Owl About It | 0.70% | ~509 |
 | Don't Mecha Big Deal About It | 0.60% | ~258 |
 | Confronting Your Demon | 0.60% | ~258 |
 | Gotham's Greatest Depths | 0.50% | ~215 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 885)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,640 (Ranked 83)  
+Progressed: 72,643 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,22 +218,22 @@ Completed: 113 (0.16%) (Ranked 205)
 | 2023-09-15 | 72,563 | 113 |
 | 2023-09-16 | 72,594 | 113 |
 | 2023-09-17 | 72,625 | 113 |
-| 2023-09-18 | 72,640 | 113 |
+| 2023-09-18 | 72,643 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,708  (Ranked 96)  
-Sum: 4,487 (Ranked 139)  
+Sum: 4,494 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,708 |
 | This game has Quickly Understood Controls | 229 |
 | This game is Extremely Fun | 229 |
-| This game is Relaxing | 224 |
+| This game is Relaxing | 227 |
 | This game has Diverse Characters | 224 |
 | This game has Amazing Characters | 220 |
+| This game is Highly Recommended | 220 |
 | This game is Great for Beginners | 219 |
 | This game has Amazing Storytelling | 218 |
-| This game is Highly Recommended | 216 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -443,4 +443,4 @@ Diff (max vs sum): -43
 | 2023-09-15 | 4.18 | 2,683 | 4,447 |
 | 2023-09-16 | 4.18 | 2,698 | 4,468 |
 | 2023-09-17 | 4.18 | 2,708 | 4,485 |
-| 2023-09-18 | 4.18 | 2,708 | 4,487 |
+| 2023-09-18 | 4.18 | 2,708 | 4,494 |

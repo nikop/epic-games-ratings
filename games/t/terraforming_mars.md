@@ -1,28 +1,28 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 518)  
+Rating: 4.53 (Ranked 519)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~28,177 |
-| Final touch | 37.00% | ~28,177 |
-| Prop-M Rover | 32.00% | ~24,370 |
-| Changing the Planet | 28.00% | ~21,323 |
-| Sojourner | 26.00% | ~19,800 |
-| Beagle 2 | 24.00% | ~18,277 |
+| It's a steal! | 37.00% | ~28,178 |
+| Final touch | 37.00% | ~28,178 |
+| Prop-M Rover | 32.00% | ~24,371 |
+| Changing the Planet | 28.00% | ~21,324 |
+| Sojourner | 26.00% | ~19,801 |
+| Beagle 2 | 24.00% | ~18,278 |
 | New Home | 23.00% | ~17,516 |
-| Winner Winner Terraformer | 22.00% | ~16,754 |
-| Project Manager | 19.00% | ~14,469 |
-| Curiosity | 19.00% | ~14,469 |
-| Collector | 19.00% | ~14,469 |
-| Master | 19.00% | ~14,469 |
+| Winner Winner Terraformer | 22.00% | ~16,755 |
+| Project Manager | 19.00% | ~14,470 |
+| Curiosity | 19.00% | ~14,470 |
+| Collector | 19.00% | ~14,470 |
+| Master | 19.00% | ~14,470 |
 | No Longer Red | 18.00% | ~13,708 |
 | Self-sufficient | 18.00% | ~13,708 |
-| Money money | 15.00% | ~11,423 |
+| Money money | 15.00% | ~11,424 |
 | Biggest Reward | 14.00% | ~10,662 |
-| Acquired knowledge | 13.00% | ~9,900 |
+| Acquired knowledge | 13.00% | ~9,901 |
 | First Journey | 12.00% | ~9,139 |
 | Hellenic Elysium | 12.00% | ~9,139 |
 | Grand champion | 12.00% | ~9,139 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 10.00% | ~7,616 |
 | Ultimate success | 10.00% | ~7,616 |
 | Variety Expert | 9.00% | ~6,854 |
-| Frequent tester | 8.00% | ~6,092 |
-| Determined | 8.00% | ~6,092 |
+| Frequent tester | 8.00% | ~6,093 |
+| Determined | 8.00% | ~6,093 |
 | Terraformer | 4.00% | ~3,046 |
 | Team Effort | 3.00% | ~2,285 |
 | Opportunity | 3.00% | ~2,285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,155 (Ranked 80)  
+Progressed: 76,158 (Ranked 80)  
 Completed: 127 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 127 (0.17%) (Ranked 202)
 | 2023-09-15 | 75,826 | 118 |
 | 2023-09-16 | 75,960 | 123 |
 | 2023-09-17 | 76,109 | 127 |
-| 2023-09-18 | 76,155 | 127 |
+| 2023-09-18 | 76,158 | 127 |
 ## Awards
 Max (Relaxing): 513  (Ranked 199)  
 Sum: 3,163 (Ranked 163)  

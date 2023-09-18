@@ -1,30 +1,30 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 602)  
+Rating: 4.48 (Ranked 603)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 72.00% | ~6,530 |
-| Leader | 60.00% | ~5,441 |
+| Leader | 60.00% | ~5,442 |
 | Explorer | 53.00% | ~4,807 |
 | Healer | 52.00% | ~4,716 |
-| Aspiring Inventor | 44.00% | ~3,990 |
-| Adventurer | 41.00% | ~3,718 |
-| Famous Healer | 38.00% | ~3,446 |
+| Aspiring Inventor | 44.00% | ~3,991 |
+| Adventurer | 41.00% | ~3,719 |
+| Famous Healer | 38.00% | ~3,447 |
 | Local Leader | 35.00% | ~3,174 |
-| Famous Explorer | 34.00% | ~3,083 |
-| New Opportunities | 34.00% | ~3,083 |
+| Famous Explorer | 34.00% | ~3,084 |
+| New Opportunities | 34.00% | ~3,084 |
 | Energized | 33.00% | ~2,993 |
 | The Long Haul | 33.00% | ~2,993 |
-| The Great Healer | 31.00% | ~2,811 |
-| Survivor | 31.00% | ~2,811 |
-| Legendary Explorer | 28.00% | ~2,539 |
-| Cleaner | 28.00% | ~2,539 |
-| Catastrofan | 28.00% | ~2,539 |
+| The Great Healer | 31.00% | ~2,812 |
+| Survivor | 31.00% | ~2,812 |
+| Legendary Explorer | 28.00% | ~2,540 |
+| Cleaner | 28.00% | ~2,540 |
+| Catastrofan | 28.00% | ~2,540 |
 | Finders, Keepers | 26.00% | ~2,358 |
-| Top Notch | 25.00% | ~2,267 |
+| Top Notch | 25.00% | ~2,268 |
 | Great Leader | 23.00% | ~2,086 |
 | Mentor | 23.00% | ~2,086 |
 | Merchant | 22.00% | ~1,995 |
@@ -48,7 +48,7 @@ Number of Ratings: 836  (23.09.2022)
 | Tailored to fit | 7.00% | ~635 |
 | Really Friendly | 6.00% | ~544 |
 | Amped Up | 6.00% | ~544 |
-| Look, no Hands! | 5.00% | ~453 |
+| Look, no Hands! | 5.00% | ~454 |
 | Luxurious Living | 4.00% | ~363 |
 | Mogul | 3.00% | ~272 |
 | Ranch Hand | 3.00% | ~272 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,069 (Ranked 135)  
+Progressed: 9,070 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 9,013 | 0 |
 | 2023-09-16 | 9,038 | 0 |
 | 2023-09-17 | 9,060 | 0 |
-| 2023-09-18 | 9,069 | 0 |
+| 2023-09-18 | 9,070 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 336)  
 Sum: 701 (Ranked 279)  
