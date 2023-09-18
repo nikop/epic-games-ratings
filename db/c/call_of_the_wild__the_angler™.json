@@ -732,7 +732,7 @@
   ],
   "EOS_Progressed": 5825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7683,9 +7683,9 @@
       "ID": "ACHIEVEMENT_014",
       "SetID": "1a05lfd",
       "Name": "Goldfish?",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1689
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -7874,8 +7874,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-17T15:02:52.6190869+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:06:36.1873407+00:00",
+  "LastChanged_Achievements": "2023-09-18T18:07:45.9201855+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:51.4356282+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:00:08.1122547+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:06:36.1874658+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:01:00.5997262+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:07:45.9202405+00:00"
 }

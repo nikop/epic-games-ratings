@@ -19,24 +19,24 @@ Rating: 4.54 (Ranked 504)
 | Personal Assistant Personally Assisted | 2.00% | ~13,645 |
 | This is My Weapon | 2.00% | ~13,645 |
 | Welcome To Hell-A | 2.00% | ~13,645 |
-| Anger Management | 1.00% | ~6,822 |
-| Perks of the Job | 1.00% | ~6,822 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,822 |
-| Slayer Squad | 1.00% | ~6,822 |
-| Can't Handle the Truth | 1.00% | ~6,822 |
-| Like Riding a Bike | 1.00% | ~6,822 |
-| Zombologist | 1.00% | ~6,822 |
-| Ooh, Shiny! | 1.00% | ~6,822 |
-| A Patton Emerges | 1.00% | ~6,822 |
-| I Am the Resurrection | 1.00% | ~6,822 |
-| Our True Nature | 1.00% | ~6,822 |
+| Anger Management | 1.00% | ~6,823 |
+| Perks of the Job | 1.00% | ~6,823 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,823 |
+| Slayer Squad | 1.00% | ~6,823 |
+| Can't Handle the Truth | 1.00% | ~6,823 |
+| Like Riding a Bike | 1.00% | ~6,823 |
+| Zombologist | 1.00% | ~6,823 |
+| Ooh, Shiny! | 1.00% | ~6,823 |
+| A Patton Emerges | 1.00% | ~6,823 |
+| I Am the Resurrection | 1.00% | ~6,823 |
+| Our True Nature | 1.00% | ~6,823 |
 | Making Your Mark | 0.90% | ~6,140 |
 | Humanity Distilled | 0.90% | ~6,140 |
 | Down with the Sickness | 0.90% | ~6,140 |
 | Max Headroom | 0.80% | ~5,458 |
-| Jumbo Keyring | 0.60% | ~4,093 |
-| Go, Bobcats! | 0.60% | ~4,093 |
-| Rising Star | 0.60% | ~4,093 |
+| Jumbo Keyring | 0.60% | ~4,094 |
+| Go, Bobcats! | 0.60% | ~4,094 |
+| Rising Star | 0.60% | ~4,094 |
 | Smorgasbord | 0.50% | ~3,411 |
 | Make it So | 0.40% | ~2,729 |
 | On Safari | 0.40% | ~2,729 |
@@ -46,13 +46,13 @@ Rating: 4.54 (Ranked 504)
 | LA Influential | 0.30% | ~2,047 |
 | Gore Horse | 0.30% | ~2,047 |
 | Sharpest Tool in the Box | 0.30% | ~2,047 |
-| Sole Survivor | 0.20% | ~1,364 |
-| Survival Skills | 0.20% | ~1,364 |
+| Sole Survivor | 0.20% | ~1,365 |
+| Survival Skills | 0.20% | ~1,365 |
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,231 (Ranked 22)  
-Completed: 2,152 (0.32%) (Ranked 177)  
+Progressed: 682,255 (Ranked 22)  
+Completed: 2,153 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -202,10 +202,10 @@ Completed: 2,152 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
-| 2023-09-18 | 682,231 | 2,152 |
+| 2023-09-18 | 682,255 | 2,153 |
 ## Awards
 Max (Great Boss Battles): 6,105  (Ranked 57)  
-Sum: 9,049 (Ranked 94)  
+Sum: 9,050 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -214,7 +214,7 @@ Diff (max vs sum): -37
 | This game has Diverse Characters | 410 |
 | This game has Quickly Understood Controls | 396 |
 | This game is Relaxing | 377 |
-| This game has Amazing Storytelling | 352 |
+| This game has Amazing Storytelling | 353 |
 | This game is Extremely Fun | 339 |
 | This game has Amazing Characters | 327 |
 | This game is Highly Recommended | 324 |
@@ -371,4 +371,4 @@ Diff (max vs sum): -37
 | 2023-09-15 | 4.54 | 6,061 | 8,982 |
 | 2023-09-16 | 4.54 | 6,073 | 9,005 |
 | 2023-09-17 | 4.54 | 6,086 | 9,030 |
-| 2023-09-18 | 4.54 | 6,105 | 9,049 |
+| 2023-09-18 | 4.54 | 6,105 | 9,050 |

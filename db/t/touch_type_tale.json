@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3524,
+  "EOS_Progressed": 3526,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3589,6 +3589,11 @@
       "Time": "2023-09-18T17:06:40.632788+00:00",
       "NumProgressed": 3524,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T18:07:51.7579054+00:00",
+      "NumProgressed": 3526,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3648,7 +3653,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3101
+      "UsersEstimate": 3103
     },
     {
       "ID": "campaign10",
@@ -3688,7 +3693,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "campaign15",
@@ -3696,7 +3701,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "campaign16",
@@ -3736,7 +3741,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2715
     },
     {
       "ID": "campaign20",
@@ -3752,7 +3757,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "campaign4",
@@ -3776,7 +3781,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "campaign7",
@@ -3784,7 +3789,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "campaign8",
@@ -3808,7 +3813,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "scenario2",
@@ -3816,7 +3821,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "scenario3",
@@ -3832,7 +3837,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "scenario5",
@@ -3863,7 +3868,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3524,
+      "Progressed": 3526,
       "Completed": 11
     }
   ],
@@ -3871,8 +3876,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:06:40.6327874+00:00",
+  "LastChanged_Achievements": "2023-09-18T18:07:51.7579049+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:00:22.0338007+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:06:40.6328707+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:01:19.4316743+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:07:51.7579433+00:00"
 }

@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.20% | ~459 |
 | March of the Undead | 0.20% | ~459 |
 | Wisdom Check | 0.20% | ~459 |
+| A Grand Puzzle | 0.20% | ~459 |
 | No Time To Rest | 0.20% | ~459 |
 | The Mists of Ravenloft | 0.20% | ~459 |
 | Invisible Shadows | 0.20% | ~459 |
@@ -84,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.20% | ~459 |
 | A Tale of Two Cities | 0.20% | ~459 |
 | The Dead Three | 0.20% | ~459 |
+| Slow and Steady | 0.20% | ~459 |
 | Flying Monkey Skulls of Doom | 0.20% | ~459 |
 | Lair of the Xanathar | 0.20% | ~459 |
 | The Darkness Runs Deeper | 0.20% | ~459 |
@@ -107,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.20% | ~391 |
 | Durable Deep | 0.20% | ~459 |
 | Dwarven Rumors | 0.20% | ~391 |
+| Sunblight | 0.20% | ~391 |
 | The Templar's Camp | 0.20% | ~459 |
 | Rescue in the Jungle | 0.20% | ~459 |
 | The Hunt for The Last Breath | 0.20% | ~391 |
@@ -233,7 +236,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vajra's Guards | 0.10% | ~229 |
 | Sleuth It Out | 0.10% | ~229 |
 | The Newcomers of Notoriety | 0.10% | ~196 |
-| A Grand Puzzle | 0.10% | ~229 |
 | Never Split the Party | 0.10% | ~229 |
 | Azaka's Procession - Part 1 | 0.10% | ~229 |
 | Snakes on our Plane | 0.10% | ~196 |
@@ -314,7 +316,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~229 |
 | A Tale of Two Champions | 0.10% | ~229 |
 | A Tale of Two Years | 0.10% | ~196 |
-| Slow and Steady | 0.10% | ~229 |
 | A Hero's Entourage | 0.10% | ~229 |
 | Sneak Attack | 0.10% | ~196 |
 | Dreams of Beholders | 0.10% | ~229 |
@@ -437,7 +438,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Perception | 0.10% | ~196 |
 | Frozen in Fear | 0.10% | ~196 |
 | It's Cold Out There Today | 0.10% | ~196 |
-| Sunblight | 0.10% | ~196 |
 | Fortress Assault | 0.10% | ~196 |
 | Hats off to you! | 0.10% | ~196 |
 | It's Cold Out There Every Day | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,291 (Ranked 57)  
+Progressed: 229,298 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,291 | 2,294 |
+| 2023-09-18 | 229,298 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

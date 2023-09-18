@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 15.00% | ~396 |
-| Debuff Dogpile | 14.00% | ~370 |
-| Hit 'Em Where It Hurts | 14.00% | ~370 |
-| Perk Shard Punch Card | 14.00% | ~370 |
-| That'll Leave a Mark | 14.00% | ~370 |
-| Mushroom Madness! | 13.00% | ~344 |
-| First Strike | 10.00% | ~264 |
-| Horder Better Faster Stronger | 10.00% | ~264 |
-| Spending Spree | 10.00% | ~264 |
-| Everything Must Go! | 9.00% | ~238 |
-| Ten Steps from the Grave | 9.00% | ~238 |
-| Next Time on MythForce... | 7.00% | ~185 |
+| Faceroll the Bones | 15.00% | ~398 |
+| Debuff Dogpile | 14.00% | ~371 |
+| Hit 'Em Where It Hurts | 14.00% | ~371 |
+| Perk Shard Punch Card | 14.00% | ~371 |
+| That'll Leave a Mark | 14.00% | ~371 |
+| Mushroom Madness! | 13.00% | ~345 |
+| First Strike | 10.00% | ~265 |
+| Horder Better Faster Stronger | 10.00% | ~265 |
+| Spending Spree | 10.00% | ~265 |
+| Everything Must Go! | 9.00% | ~239 |
+| Ten Steps from the Grave | 9.00% | ~239 |
+| Next Time on MythForce... | 7.00% | ~186 |
 | Cold-Blooded Critters | 6.00% | ~159 |
 | Death Becomes You | 6.00% | ~159 |
 | Flawless Victory | 4.00% | ~106 |
-| The Harder They Fall | 3.00% | ~79 |
-| On this Episode! | 3.00% | ~79 |
+| The Harder They Fall | 3.00% | ~80 |
+| On this Episode! | 3.00% | ~80 |
 | Deadication | 2.00% | ~53 |
-| We've Got a Kaiju on the Field | 1.00% | ~26 |
-| Season Finale | 1.00% | ~26 |
+| We've Got a Kaiju on the Field | 1.00% | ~27 |
+| Season Finale | 1.00% | ~27 |
 | The Fourth Gate | 0.70% | ~19 |
 | Vexed Her | 0.20% | ~5 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,643 (Ranked 177)  
+Progressed: 2,651 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 2,137 | 0 |
 | 2023-09-16 | 2,380 | 0 |
 | 2023-09-17 | 2,572 | 0 |
-| 2023-09-18 | 2,643 | 0 |
+| 2023-09-18 | 2,651 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 261 (Ranked 356)  

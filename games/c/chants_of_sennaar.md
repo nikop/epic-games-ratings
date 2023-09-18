@@ -11,8 +11,8 @@
 | A new dawn | 38.00% | ~64 |
 | Scholar | 37.00% | ~63 |
 | The darkness | 36.00% | ~61 |
-| A good beginning | 34.00% | ~57 |
-| True G4M3R | 32.00% | ~54 |
+| A good beginning | 35.00% | ~59 |
+| True G4M3R | 33.00% | ~56 |
 | One last step | 31.00% | ~52 |
 | Cable guy | 28.00% | ~47 |
 | Champollion | 28.00% | ~47 |
@@ -30,7 +30,7 @@
 | Fashion victim | 14.00% | ~24 |
 | I did it | 11.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 324)  
+Progressed: 169 (Ranked 325)  
 Completed: 9 (5.33%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |

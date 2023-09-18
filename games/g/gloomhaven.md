@@ -6,52 +6,52 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 25.00% | ~96 |
-| Overkill | 23.00% | ~88 |
-| A normal day in Gloomhaven | 22.00% | ~84 |
-| Vaccine Incoming | 19.00% | ~73 |
-| Get over here! | 17.00% | ~65 |
-| Spread the plague | 15.00% | ~57 |
-| Mine... All Mine... | 12.00% | ~46 |
-| Just when I thought I was out... | 12.00% | ~46 |
-| You activated my trap card! | 10.00% | ~38 |
-| Augmented rat | 10.00% | ~38 |
-| Anatomy Lesson | 10.00% | ~38 |
-| Light of my life | 8.00% | ~31 |
-| Obstacle race | 6.00% | ~23 |
-| Pack leader | 5.00% | ~19 |
-| Play it again, Sam | 5.00% | ~19 |
-| Doom and gloom | 5.00% | ~19 |
-| Caught off guard | 4.00% | ~15 |
-| Precious! | 4.00% | ~15 |
-| Pain is your friend | 4.00% | ~15 |
-| Black death | 4.00% | ~15 |
-| Now you see me... | 4.00% | ~15 |
-| Grizzled veteran | 3.00% | ~11 |
-| The Pro from Dover | 3.00% | ~11 |
-| Pretty lights! | 3.00% | ~11 |
-| Quad damage | 3.00% | ~11 |
-| Dungeon Veteran | 2.00% | ~8 |
-| Who's the Boss? | 2.00% | ~8 |
-| How to train your Drake | 2.00% | ~8 |
-| The Sniper | 2.00% | ~8 |
-| Grin and bear it | 2.00% | ~8 |
-| The Pacifist | 2.00% | ~8 |
-| An axe to grind | 2.00% | ~8 |
-| Power Up! | 1.00% | ~4 |
-| I hate portals | 1.00% | ~4 |
-| Merchant of doom | 1.00% | ~4 |
-| Master Assassin | 1.00% | ~4 |
-| From Gloom, only greed and death emerges | 0.80% | ~3 |
-| Add a bit of colour | 0.80% | ~3 |
-| The Rat King | 0.80% | ~3 |
-| Down the hatch | 0.80% | ~3 |
-| An eye for an eye | 0.80% | ~3 |
-| The Cephalophore | 0.80% | ~3 |
-| Betray this | 0.50% | ~2 |
-| Captain hooked | 0.50% | ~2 |
-| Spoiler police! | 0.50% | ~2 |
-| New Blood | 0.50% | ~2 |
+| I'm not dead yet | 25.00% | ~117 |
+| A normal day in Gloomhaven | 23.00% | ~107 |
+| Overkill | 22.00% | ~103 |
+| Vaccine Incoming | 19.00% | ~89 |
+| Get over here! | 17.00% | ~79 |
+| Spread the plague | 15.00% | ~70 |
+| Mine... All Mine... | 12.00% | ~56 |
+| Just when I thought I was out... | 12.00% | ~56 |
+| Augmented rat | 11.00% | ~51 |
+| Anatomy Lesson | 10.00% | ~47 |
+| You activated my trap card! | 9.00% | ~42 |
+| Light of my life | 8.00% | ~37 |
+| Obstacle race | 6.00% | ~28 |
+| Pack leader | 5.00% | ~23 |
+| Play it again, Sam | 5.00% | ~23 |
+| Doom and gloom | 5.00% | ~23 |
+| Who's the Boss? | 4.00% | ~19 |
+| Precious! | 4.00% | ~19 |
+| Pain is your friend | 4.00% | ~19 |
+| Black death | 4.00% | ~19 |
+| Now you see me... | 4.00% | ~19 |
+| Caught off guard | 3.00% | ~14 |
+| Grizzled veteran | 3.00% | ~14 |
+| The Pro from Dover | 3.00% | ~14 |
+| Pretty lights! | 3.00% | ~14 |
+| Quad damage | 3.00% | ~14 |
+| Dungeon Veteran | 2.00% | ~9 |
+| The Sniper | 2.00% | ~9 |
+| Grin and bear it | 2.00% | ~9 |
+| Power Up! | 1.00% | ~5 |
+| I hate portals | 1.00% | ~5 |
+| Merchant of doom | 1.00% | ~5 |
+| How to train your Drake | 1.00% | ~5 |
+| Master Assassin | 1.00% | ~5 |
+| The Pacifist | 1.00% | ~5 |
+| An axe to grind | 1.00% | ~5 |
+| Add a bit of colour | 0.90% | ~4 |
+| The Rat King | 0.90% | ~4 |
+| An eye for an eye | 0.90% | ~4 |
+| The Cephalophore | 0.90% | ~4 |
+| From Gloom, only greed and death emerges | 0.60% | ~3 |
+| Down the hatch | 0.60% | ~3 |
+| Betray this | 0.40% | ~2 |
+| Captain hooked | 0.40% | ~2 |
+| Spoiler police! | 0.40% | ~2 |
+| New Blood | 0.40% | ~2 |
 | A cult following | 0.00% | ~0 |
 | Over your dead body | 0.00% | ~0 |
 | The Guildmaster | 0.00% | ~0 |
@@ -68,12 +68,12 @@ Number of Ratings: 68  (23.09.2022)
 | Murder Death Kill | 0.00% | ~0 |
 | Born Support | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383 (Ranked 268)  
+Progressed: 467 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-18 | 383 | 0 |
+| 2023-09-18 | 467 | 0 |
 ## Awards
 Max (Character Customization): 3,524  (Ranked 89)  
 Sum: 8,197 (Ranked 99)  

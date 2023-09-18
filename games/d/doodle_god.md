@@ -15,16 +15,16 @@
 | Honorable Santa | 22.00% | ~52 |
 | God of Fun | 18.00% | ~43 |
 | Creator of Modernity | 16.00% | ~38 |
+| Deity of Darkness | 16.00% | ~38 |
 | Doodle Bar | 16.00% | ~38 |
 | Half the Kingdom | 16.00% | ~38 |
-| Deity of Darkness | 15.00% | ~36 |
 | Creator of Magic | 14.00% | ~33 |
 | Salvation! | 11.00% | ~26 |
 | Heavenly Virtues | 11.00% | ~26 |
 | Brilliant Inventor | 8.00% | ~19 |
 | Greatest inventor | 8.00% | ~19 |
-| Master of Alchemy | 5.00% | ~12 |
-| Master of the Worlds | 5.00% | ~12 |
+| Master of Alchemy | 6.00% | ~14 |
+| Master of the Worlds | 6.00% | ~14 |
 | God of Patience | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 238 (Ranked 304)  

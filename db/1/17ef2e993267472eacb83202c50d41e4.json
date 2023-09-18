@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6128,
+  "EOS_Progressed": 6130,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1881,6 +1881,11 @@
       "Time": "2023-09-18T17:06:03.2638869+00:00",
       "NumProgressed": 6128,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T18:07:03.600973+00:00",
+      "NumProgressed": 6130,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2005,7 +2010,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "GamesPlayed1",
@@ -2301,7 +2306,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "NeutralKills200",
@@ -2389,7 +2394,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "SEUpgraded1",
@@ -2484,14 +2489,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6128,
+      "Progressed": 6130,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:06:03.2638863+00:00",
+  "LastChanged_Achievements": "2023-09-18T18:07:03.6009725+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:00:28.9311038+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:06:03.2640469+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:01:28.5348359+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:07:03.6010434+00:00"
 }

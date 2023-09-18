@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-4",
   "Ranking_Rating": 260,
   "Ranking_Popularity": 176,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
@@ -1780,10 +1780,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 975,
       "NumberOfAwardsMax": 659
+    },
+    {
+      "Time": "2023-09-18T17:57:39.7127155+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1015,
+      "NumberOfAwardsMax": 659
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 975,
+  "NumberOfAwards": 1015,
   "NumberOfAwardsMax": 659,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1815,7 +1821,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 37
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1859,8 +1865,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-09-18T15:57:17.4277359+00:00",
+  "LastChanged": "2023-09-18T17:57:39.7127154+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:36.6138328+00:00",
-  "LastUpdate_Ratings": "2023-09-18T16:57:33.2556261+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:05:47.5255544+00:00"
+  "LastUpdate_Ratings": "2023-09-18T17:57:39.7127159+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:06:43.3336114+00:00"
 }

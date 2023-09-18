@@ -31,12 +31,12 @@ Number of Ratings: 177  (23.09.2022)
 | Benedict Brahrnold | 0.50% | ~31 |
 | I'll Be Back | 0.50% | ~31 |
 | Casanova | 0.50% | ~31 |
+| Love Conquers All | 0.50% | ~31 |
 | Now It's a Party! | 0.50% | ~31 |
 | Stephanie | 0.50% | ~31 |
 | Te Amo Lety | 0.50% | ~31 |
 | Ashley | 0.40% | ~25 |
 | Deck the Balls | 0.40% | ~13 |
-| Love Conquers All | 0.40% | ~25 |
 | Good Ol' Days | 0.40% | ~25 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |

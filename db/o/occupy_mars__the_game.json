@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1615,
+  "EOS_Progressed": 1616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3705,6 +3705,11 @@
       "Time": "2023-09-17T15:07:08.6416616+00:00",
       "NumProgressed": 1615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T18:05:36.7945335+00:00",
+      "NumProgressed": 1616,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3794,9 +3799,9 @@
       "ID": "ACHIEVEMENT_ZERO_WASTE",
       "SetID": "l546gc",
       "Name": "Zero Waste",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 468
+      "UsersEstimate": 485
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3940,7 +3945,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3972,7 +3977,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4076,7 +4081,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4099,7 +4104,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1615,
+      "Progressed": 1616,
       "Completed": 0
     }
   ],
@@ -4107,8 +4112,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-16T23:02:55.7025228+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:04:57.5749732+00:00",
+  "LastChanged_Achievements": "2023-09-18T18:05:36.7945331+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:31.3503943+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:03:14.2822941+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:04:57.5750801+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:03:11.620642+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:05:36.7945809+00:00"
 }

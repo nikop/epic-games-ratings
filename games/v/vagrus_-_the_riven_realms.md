@@ -11,8 +11,8 @@
 | Conquered | 17.00% | ~26 |
 | Scribe | 10.00% | ~15 |
 | Tactician | 9.00% | ~14 |
+| Fight Another Day | 9.00% | ~14 |
 | Breached | 8.00% | ~12 |
-| Fight Another Day | 8.00% | ~12 |
 | Scholar | 7.00% | ~11 |
 | Acquaintance | 7.00% | ~11 |
 | Tail-wind | 7.00% | ~11 |

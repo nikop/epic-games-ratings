@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -280,9 +280,9 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "aq_achievement_25",
@@ -376,9 +376,9 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "aq_achievement_36",
@@ -473,8 +473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:06:06.0211664+00:00",
+  "LastChanged_Achievements": "2023-09-18T18:07:06.7769288+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0346445+00:00",
-  "LastUpdate_Ratings": "2023-09-18T16:59:03.0861735+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:06:06.0212046+00:00"
+  "LastUpdate_Ratings": "2023-09-18T17:59:33.6692182+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:07:06.7769549+00:00"
 }

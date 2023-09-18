@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1251,9 +1251,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9072,
+  "EOS_Progressed": 9073,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13071,6 +13071,11 @@
       "Time": "2023-09-18T17:05:27.8596859+00:00",
       "NumProgressed": 9072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T18:06:17.2982839+00:00",
+      "NumProgressed": 9073,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13082,7 +13087,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5443
+      "UsersEstimate": 5444
     },
     {
       "ID": "10",
@@ -13114,7 +13119,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4808
+      "UsersEstimate": 4809
     },
     {
       "ID": "14",
@@ -13122,7 +13127,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "15",
@@ -13162,7 +13167,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "2",
@@ -13170,7 +13175,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "20",
@@ -13178,7 +13183,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "21",
@@ -13186,7 +13191,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "22",
@@ -13194,7 +13199,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6532
+      "UsersEstimate": 6533
     },
     {
       "ID": "23",
@@ -13202,7 +13207,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "24",
@@ -13250,7 +13255,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "3",
@@ -13338,7 +13343,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "4",
@@ -13530,7 +13535,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "8",
@@ -13553,15 +13558,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9072,
+      "Progressed": 9073,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-15T09:59:20.5978639+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:05:27.8596854+00:00",
+  "LastChanged_Achievements": "2023-09-18T18:06:17.2982835+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:54.26707+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:00:01.623859+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:05:27.8598226+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:00:52.207256+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:06:17.2983863+00:00"
 }

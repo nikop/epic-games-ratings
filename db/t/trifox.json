@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.1,
+  "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -96,6 +96,11 @@
     {
       "Time": "2023-08-15T09:06:37.9580577+00:00",
       "NumProgressed": 91,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T18:09:10.8762515+00:00",
+      "NumProgressed": 92,
       "NumCompleted": 1
     }
   ],
@@ -194,7 +199,7 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -258,7 +263,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 57
     },
@@ -274,7 +279,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -290,7 +295,7 @@
       "ID": "ACH_LEVELCOMPLETION_02_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-1",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -386,7 +391,7 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 49
     },
@@ -475,7 +480,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 1
     }
   ],
@@ -483,8 +488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:08:23.3045466+00:00",
+  "LastChanged_Achievements": "2023-09-18T18:09:10.876251+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.8085502+00:00",
-  "LastUpdate_Ratings": "2023-09-18T16:59:08.0144571+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:08:23.3046135+00:00"
+  "LastUpdate_Ratings": "2023-09-18T17:59:41.0705913+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:09:10.8762801+00:00"
 }

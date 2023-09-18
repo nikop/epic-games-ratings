@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 182
     },
     {
       "ID": "Trumpet",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-09-18T17:03:44.3311949+00:00",
+  "LastChanged_Achievements": "2023-09-18T18:03:50.6143837+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.4674218+00:00",
-  "LastUpdate_Ratings": "2023-09-18T17:00:19.808473+00:00",
-  "LastUpdate_Achievements": "2023-09-18T17:03:44.3312319+00:00"
+  "LastUpdate_Ratings": "2023-09-18T18:01:16.7023506+00:00",
+  "LastUpdate_Achievements": "2023-09-18T18:03:50.6144008+00:00"
 }
