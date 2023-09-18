@@ -29,9 +29,9 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.25% |
 | 28 | [Smelter](games/s/smelter.md) | 10.00% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 30 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.30% |
+| 30 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
-| 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.61% |
+| 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.59% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.11% |
@@ -49,7 +49,7 @@
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.67% |
 | 48 | [JARS](games/j/jars.md) | 5.56% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.52% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.45% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.39% |
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
@@ -120,7 +120,7 @@
 | 118 | [Eternights](games/e/eternights.md) | 1.19% |
 | 118 | [Infindustry](games/i/infindustry.md) | 1.19% |
 | 120 | [Trifox](games/t/trifox.md) | 1.10% |
-| 121 | [Adios](games/a/adios.md) | 1.03% |
+| 121 | [Adios](games/a/adios.md) | 1.04% |
 | 122 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
 | 123 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
 | 124 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
@@ -185,8 +185,8 @@
 | 183 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 183 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 183 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 186 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.28% |
-| 187 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.27% |
+| 186 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.27% |
+| 186 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.27% |
 | 188 | [Scrapnaut](games/s/scrapnaut.md) | 0.26% |
 | 189 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 189 | [Filament](games/f/filament.md) | 0.25% |
@@ -445,6 +445,7 @@
 | 277 | [Monster Outbreak](games/m/monster_outbreak.md) | 0.00% |
 | 277 | [Moonglow Bay](games/m/moonglow_bay.md) | 0.00% |
 | 277 | [MORDHAU](games/m/mordhau.md) | 0.00% |
+| 277 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 0.00% |
 | 277 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 0.00% |
 | 277 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 0.00% |
 | 277 | [My Lovely Wife](games/m/my_lovely_wife.md) | 0.00% |
