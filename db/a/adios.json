@@ -108,9 +108,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73535,
+  "EOS_Progressed": 73537,
   "EOS_Completed": 761,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -16843,6 +16843,11 @@
       "Time": "2023-09-17T23:07:08.3394097+00:00",
       "NumProgressed": 73535,
       "NumCompleted": 761
+    },
+    {
+      "Time": "2023-09-18T00:06:59.926933+00:00",
+      "NumProgressed": 73537,
+      "NumCompleted": 761
     }
   ],
   "TotalAchievements": 25,
@@ -16870,7 +16875,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13236
+      "UsersEstimate": 13237
     },
     {
       "ID": "Audiophile",
@@ -16894,7 +16899,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13236
+      "UsersEstimate": 13237
     },
     {
       "ID": "Butcher",
@@ -16990,7 +16995,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5147
+      "UsersEstimate": 5148
     },
     {
       "ID": "Piano Man",
@@ -17014,7 +17019,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5147
+      "UsersEstimate": 5148
     },
     {
       "ID": "Spicy",
@@ -17053,7 +17058,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73535,
+      "Progressed": 73537,
       "Completed": 761
     }
   ],
@@ -17061,8 +17066,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:07:08.3394092+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:06:59.9269325+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:02:25.1268664+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:07:08.339498+00:00"
+  "LastUpdate_Ratings": "2023-09-18T00:02:27.3049443+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:06:59.9270566+00:00"
 }

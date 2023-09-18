@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2703,
+  "EOS_Progressed": 2704,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -3313,6 +3313,11 @@
       "Time": "2023-09-17T22:07:06.1083697+00:00",
       "NumProgressed": 2703,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-18T00:08:13.8551464+00:00",
+      "NumProgressed": 2704,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3396,7 +3401,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "THE_END",
@@ -3427,7 +3432,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2703,
+      "Progressed": 2704,
       "Completed": 6
     }
   ],
@@ -3435,8 +3440,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:08:17.7152725+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:08:13.8551454+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:24.7392815+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:00:11.4220991+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:08:17.7152955+00:00"
+  "LastUpdate_Ratings": "2023-09-18T00:00:13.8357272+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:08:13.8551766+00:00"
 }

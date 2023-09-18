@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -2798,9 +2798,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 859
     },
     {
       "ID": "GetRangedWeapon",
@@ -2917,8 +2917,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:08:12.9817128+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:08:08.6164732+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.8509537+00:00",
-  "LastUpdate_Ratings": "2023-09-17T22:58:40.7806478+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:08:12.9817415+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:58:30.5196724+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:08:08.6165146+00:00"
 }

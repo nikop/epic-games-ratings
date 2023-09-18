@@ -6,26 +6,26 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~131,553 |
-| Taste | 84.00% | ~125,573 |
-| The Hunt | 66.00% | ~98,665 |
-| Ravenous | 63.00% | ~94,180 |
-| Weeper | 44.00% | ~65,776 |
-| Devourer | 23.00% | ~34,383 |
-| Harmless | 19.00% | ~28,403 |
-| Silenced Whispers | 19.00% | ~28,403 |
-| Sharpened Vessel | 16.00% | ~23,919 |
-| Yank | 15.00% | ~22,424 |
-| Scion | 12.00% | ~17,889 |
-| Jawcrab | 12.00% | ~17,939 |
-| Jawstag | 12.00% | ~17,939 |
-| Feast | 12.00% | ~17,939 |
-| Watcher | 10.00% | ~14,949 |
-| Shapely | 9.00% | ~13,454 |
-| Glare | 9.00% | ~13,417 |
-| Predator | 8.00% | ~11,959 |
-| Assimilation | 7.00% | ~10,464 |
-| Host | 7.00% | ~10,435 |
+| Imprint | 88.00% | ~131,561 |
+| Taste | 84.00% | ~125,581 |
+| The Hunt | 66.00% | ~98,671 |
+| Ravenous | 63.00% | ~94,186 |
+| Weeper | 44.00% | ~65,780 |
+| Devourer | 23.00% | ~34,385 |
+| Harmless | 19.00% | ~28,405 |
+| Silenced Whispers | 19.00% | ~28,405 |
+| Sharpened Vessel | 16.00% | ~23,920 |
+| Yank | 15.00% | ~22,425 |
+| Scion | 12.00% | ~17,890 |
+| Jawcrab | 12.00% | ~17,940 |
+| Jawstag | 12.00% | ~17,940 |
+| Feast | 12.00% | ~17,940 |
+| Watcher | 10.00% | ~14,950 |
+| Shapely | 9.00% | ~13,455 |
+| Glare | 9.00% | ~13,418 |
+| Predator | 8.00% | ~11,960 |
+| Assimilation | 7.00% | ~10,465 |
+| Host | 7.00% | ~10,436 |
 | Celebration | 6.00% | ~8,970 |
 | Hunt Down | 5.00% | ~7,475 |
 | Artisan | 5.00% | ~7,475 |
@@ -45,11 +45,11 @@ Number of Ratings: 46  (23.09.2022)
 | Listen | 2.00% | ~2,982 |
 | Weakness | 1.00% | ~1,495 |
 | Generous | 1.00% | ~1,495 |
-| Skinmaker | 0.90% | ~1,345 |
+| Skinmaker | 0.90% | ~1,346 |
 | Instruments | 0.80% | ~1,196 |
-| Spiral Heart | 0.10% | ~149 |
+| Spiral Heart | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,492 (Ranked 67)  
+Progressed: 149,501 (Ranked 67)  
 Completed: 1 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,14 +181,15 @@ Completed: 1 (0.00%) (Ranked 277)
 | 2023-09-15 | 148,840 | 1 |
 | 2023-09-16 | 149,163 | 1 |
 | 2023-09-17 | 149,492 | 1 |
+| 2023-09-18 | 149,501 | 1 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 451)  
-Sum: 225 (Ranked 364)  
+Sum: 226 (Ranked 364)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 34 |
-| This game has Quickly Understood Controls | 31 |
+| This game has Quickly Understood Controls | 32 |
 | This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 29 |
 | This game has Amazing Storytelling | 28 |
@@ -289,3 +290,4 @@ Diff (max vs sum): 87
 | 2023-09-14 | 4.59 | - | 34 | 223 |
 | 2023-09-15 | 4.59 | - | 34 | 224 |
 | 2023-09-16 | 4.59 | - | 34 | 225 |
+| 2023-09-18 | 4.59 | - | 34 | 226 |

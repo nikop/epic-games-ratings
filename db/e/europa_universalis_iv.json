@@ -9672,9 +9672,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 406888,
+  "EOS_Progressed": 406918,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7498,
+  "EOS_NewPlayers": 7505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26597,6 +26597,11 @@
       "Time": "2023-09-17T23:03:42.9067826+00:00",
       "NumProgressed": 406888,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T00:03:48.8233671+00:00",
+      "NumProgressed": 406918,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -26736,7 +26741,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -27120,7 +27125,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "achievement_cold_war",
@@ -27144,7 +27149,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -27608,7 +27613,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12207
+      "UsersEstimate": 12208
     },
     {
       "ID": "achievement_grand_coalition",
@@ -28176,7 +28181,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "achievement_my_true_friend",
@@ -28888,7 +28893,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12207
+      "UsersEstimate": 12208
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -29272,7 +29277,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16276
+      "UsersEstimate": 16277
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29304,7 +29309,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12207
+      "UsersEstimate": 12208
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -29439,21 +29444,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 406888,
+      "Progressed": 406918,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 406888,
+      "Progressed": 406918,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-17T18:57:32.540344+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:03:42.9067817+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:03:48.8233666+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-17T22:57:24.4695325+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:03:42.9078828+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:57:19.4573005+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:03:48.824829+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,637 |
-| Git Gutte! | 2.00% | ~13,637 |
-| Break A Leg | 2.00% | ~13,637 |
-| Coup de Grâce | 2.00% | ~13,637 |
-| Hazardous Materials | 2.00% | ~13,637 |
-| Friends Like These | 2.00% | ~13,637 |
-| Hotel California | 2.00% | ~13,637 |
-| Apex Predator | 2.00% | ~13,637 |
-| Stacking the Deck | 2.00% | ~13,637 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,637 |
-| Welcome To Hell-A | 2.00% | ~13,637 |
+| Dr. Reed, I Presume? | 2.00% | ~13,638 |
+| Git Gutte! | 2.00% | ~13,638 |
+| Break A Leg | 2.00% | ~13,638 |
+| Coup de Grâce | 2.00% | ~13,638 |
+| Hazardous Materials | 2.00% | ~13,638 |
+| Friends Like These | 2.00% | ~13,638 |
+| Hotel California | 2.00% | ~13,638 |
+| Apex Predator | 2.00% | ~13,638 |
+| Stacking the Deck | 2.00% | ~13,638 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,638 |
+| Welcome To Hell-A | 2.00% | ~13,638 |
 | Anger Management | 1.00% | ~6,819 |
 | Perks of the Job | 1.00% | ~6,819 |
 | Bookworm | 1.00% | ~6,819 |
@@ -38,11 +38,11 @@ Rating: 4.54 (Ranked 505)
 | Go, Bobcats! | 0.60% | ~4,091 |
 | Rising Star | 0.60% | ~4,091 |
 | Smorgasbord | 0.50% | ~3,409 |
-| Make it So | 0.40% | ~2,727 |
-| On Safari | 0.40% | ~2,727 |
-| Not Even My Final Form | 0.40% | ~2,727 |
-| Internet Famous | 0.40% | ~2,727 |
-| Variety is the Spice of Death | 0.40% | ~2,727 |
+| Make it So | 0.40% | ~2,728 |
+| On Safari | 0.40% | ~2,728 |
+| Not Even My Final Form | 0.40% | ~2,728 |
+| Internet Famous | 0.40% | ~2,728 |
+| Variety is the Spice of Death | 0.40% | ~2,728 |
 | LA Influential | 0.30% | ~2,046 |
 | Gore Horse | 0.30% | ~2,046 |
 | Sharpest Tool in the Box | 0.30% | ~2,046 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,855 (Ranked 22)  
+Progressed: 681,876 (Ranked 22)  
 Completed: 2,150 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 2,150 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
+| 2023-09-18 | 681,876 | 2,150 |
 ## Awards
 Max (Great Boss Battles): 6,086  (Ranked 57)  
 Sum: 9,030 (Ranked 94)  

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3063,
+  "EOS_Progressed": 3064,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -6556,6 +6556,11 @@
       "Time": "2023-09-17T23:04:39.281193+00:00",
       "NumProgressed": 3063,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-18T00:04:49.6234774+00:00",
+      "NumProgressed": 3064,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 16,
@@ -6599,7 +6604,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "ach_architecture_completed",
@@ -6639,7 +6644,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "ach_food_completed",
@@ -6671,7 +6676,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ach_no_boosters",
@@ -6694,14 +6699,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3063,
+      "Progressed": 3064,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:04:39.2811926+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:04:49.6234768+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:06.0619884+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:02:45.6260572+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:04:39.2812302+00:00"
+  "LastUpdate_Ratings": "2023-09-18T00:02:53.1827491+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:04:49.6235332+00:00"
 }

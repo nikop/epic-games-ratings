@@ -312,9 +312,9 @@
       "ID": "A_Mine_1_Asteroid",
       "SetID": "56632p4",
       "Name": "Miner",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "A_Mine_25_Asteroid",
@@ -385,8 +385,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:08:44.4450566+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:08:43.7905194+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:52.1778029+00:00",
-  "LastUpdate_Ratings": "2023-09-17T22:59:14.31391+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:08:44.4450707+00:00"
+  "LastUpdate_Ratings": "2023-09-17T23:59:12.0191075+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:08:43.7905371+00:00"
 }

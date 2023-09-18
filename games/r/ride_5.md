@@ -7,12 +7,12 @@
 | First Love | 40.00% | ~370 |
 | Clean Race | 39.00% | ~361 |
 | Hear That Roar! | 38.00% | ~352 |
-| Eat My Dust | 34.00% | ~314 |
+| Eat My Dust | 34.00% | ~315 |
 | Rivals to the End | 30.00% | ~278 |
-| We're Going to Need a Bigger Garage | 25.00% | ~231 |
-| I'm Here Too! | 25.00% | ~231 |
+| We're Going to Need a Bigger Garage | 25.00% | ~232 |
+| I'm Here Too! | 25.00% | ~232 |
 | Bitter Rivalry | 21.00% | ~194 |
-| I Want One Too! | 18.00% | ~166 |
+| I Want One Too! | 18.00% | ~167 |
 | Quick Pit Stop | 17.00% | ~157 |
 | Champagne Spray | 17.00% | ~157 |
 | Restored and Ready | 16.00% | ~148 |
@@ -27,12 +27,12 @@
 | Cherry Blossom and Temples | 3.00% | ~28 |
 | The Road to Liberty | 3.00% | ~28 |
 | I Make the Rules! | 3.00% | ~28 |
-| Iconic! | 2.00% | ~18 |
-| Spoilt for Choice | 2.00% | ~18 |
-| La Dolce Vita | 2.00% | ~18 |
-| Romantic Races | 2.00% | ~18 |
-| Rounding Off | 2.00% | ~18 |
-| My Work Here Is Done | 2.00% | ~18 |
+| Iconic! | 2.00% | ~19 |
+| Spoilt for Choice | 2.00% | ~19 |
+| La Dolce Vita | 2.00% | ~19 |
+| Romantic Races | 2.00% | ~19 |
+| Rounding Off | 2.00% | ~19 |
+| My Work Here Is Done | 2.00% | ~19 |
 | I'll Be the Best! | 1.00% | ~9 |
 | Back in Blighty | 1.00% | ~9 |
 | Exhausted but Happy | 1.00% | ~9 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 925 (Ranked 216)  
+Progressed: 926 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,3 +71,4 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 834 | 0 |
 | 2023-09-16 | 887 | 0 |
 | 2023-09-17 | 925 | 0 |
+| 2023-09-18 | 926 | 0 |

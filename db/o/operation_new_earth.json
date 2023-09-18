@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4861,6 +4861,11 @@
       "Time": "2023-09-17T19:08:10.8277802+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T00:05:29.4267937+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4976,7 +4981,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5000,7 +5005,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -5175,14 +5180,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:05:14.3643712+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:05:29.4267932+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:02:24.2251476+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:05:14.364415+00:00"
+  "LastUpdate_Ratings": "2023-09-18T00:02:26.5498623+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:05:29.4268567+00:00"
 }

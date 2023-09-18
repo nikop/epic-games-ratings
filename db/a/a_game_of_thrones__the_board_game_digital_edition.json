@@ -1275,7 +1275,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24172,
+  "EOS_Progressed": 24174,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 2,
@@ -17395,6 +17395,11 @@
       "Time": "2023-09-17T23:05:23.3120791+00:00",
       "NumProgressed": 24172,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-18T00:05:39.0630751+00:00",
+      "NumProgressed": 24174,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 22,
@@ -17502,7 +17507,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "1028",
@@ -17526,7 +17531,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4835
     },
     {
       "ID": "1031",
@@ -17542,7 +17547,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9669
+      "UsersEstimate": 9670
     },
     {
       "ID": "1033",
@@ -17566,7 +17571,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "1036",
@@ -17581,15 +17586,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24172,
+      "Progressed": 24174,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:05:23.3120787+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:05:39.0630744+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.9877962+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:02:02.1632311+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:05:23.3121662+00:00"
+  "LastUpdate_Ratings": "2023-09-18T00:02:11.6483008+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:05:39.0631937+00:00"
 }

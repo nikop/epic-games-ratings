@@ -6,38 +6,38 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~614,063 |
-| Death From Above | 46.00% | ~614,063 |
-| Master of the Household | 38.00% | ~507,269 |
-| Death of the Party | 36.00% | ~480,571 |
-| NEXUS-47 | 33.00% | ~440,523 |
-| The Last Tango | 31.00% | ~413,825 |
-| Nightmare Fuel | 30.00% | ~400,476 |
-| The Result of Previous Training | 28.00% | ~373,777 |
-| Tools of the Trade | 28.00% | ~373,777 |
-| Cleared for Field Duty | 27.00% | ~360,428 |
-| Seizing the Opportunity | 26.00% | ~347,079 |
-| Bullet Train | 21.00% | ~280,333 |
-| Stylish Assassin | 20.00% | ~266,984 |
-| Silent Assassin | 14.00% | ~186,889 |
-| Rise Up | 13.00% | ~173,539 |
-| Evil Wine Club | 11.00% | ~146,841 |
-| Console Cowboy | 10.00% | ~133,492 |
-| Last Stop | 10.00% | ~133,492 |
-| A New Profile | 9.00% | ~120,143 |
-| Full House | 9.00% | ~120,143 |
-| Dune Raider | 8.00% | ~106,794 |
-| No Stone Unturned | 8.00% | ~106,794 |
-| Train Surfing | 8.00% | ~106,794 |
-| Icebreaker | 7.00% | ~93,444 |
-| Family Feud | 6.00% | ~80,095 |
-| Rich Harvest | 6.00% | ~80,095 |
-| Count Down From 47 | 6.00% | ~80,095 |
-| Shortcut Killer | 5.00% | ~66,746 |
-| Treacherous Architecture | 5.00% | ~66,746 |
-| Stair Master | 5.00% | ~66,746 |
-| Followed the Trails | 5.00% | ~66,746 |
-| Last Call | 5.00% | ~66,746 |
+| Unseen Assassin | 46.00% | ~614,070 |
+| Death From Above | 46.00% | ~614,070 |
+| Master of the Household | 38.00% | ~507,275 |
+| Death of the Party | 36.00% | ~480,577 |
+| NEXUS-47 | 33.00% | ~440,529 |
+| The Last Tango | 31.00% | ~413,830 |
+| Nightmare Fuel | 30.00% | ~400,480 |
+| The Result of Previous Training | 28.00% | ~373,782 |
+| Tools of the Trade | 28.00% | ~373,782 |
+| Cleared for Field Duty | 27.00% | ~360,432 |
+| Seizing the Opportunity | 26.00% | ~347,083 |
+| Bullet Train | 21.00% | ~280,336 |
+| Stylish Assassin | 20.00% | ~266,987 |
+| Silent Assassin | 14.00% | ~186,891 |
+| Rise Up | 13.00% | ~173,542 |
+| Evil Wine Club | 11.00% | ~146,843 |
+| Console Cowboy | 10.00% | ~133,494 |
+| Last Stop | 10.00% | ~133,494 |
+| A New Profile | 9.00% | ~120,144 |
+| Full House | 9.00% | ~120,144 |
+| Dune Raider | 8.00% | ~106,795 |
+| No Stone Unturned | 8.00% | ~106,795 |
+| Train Surfing | 8.00% | ~106,795 |
+| Icebreaker | 7.00% | ~93,445 |
+| Family Feud | 6.00% | ~80,096 |
+| Rich Harvest | 6.00% | ~80,096 |
+| Count Down From 47 | 6.00% | ~80,096 |
+| Shortcut Killer | 5.00% | ~66,747 |
+| Treacherous Architecture | 5.00% | ~66,747 |
+| Stair Master | 5.00% | ~66,747 |
+| Followed the Trails | 5.00% | ~66,747 |
+| Last Call | 5.00% | ~66,747 |
 | Upstairs, Downstairs | 4.00% | ~53,397 |
 | The Great Outdoors | 4.00% | ~53,397 |
 | Partied Out | 4.00% | ~53,397 |
@@ -49,12 +49,12 @@ Number of Ratings: 21,082  (23.09.2022)
 | Hack the Planet | 3.00% | ~40,048 |
 | Master the Terroir | 3.00% | ~40,048 |
 | Vineyard Virtuoso | 3.00% | ~40,048 |
-| Bird Art | 2.00% | ~26,698 |
+| Bird Art | 2.00% | ~26,699 |
 | Top of the Class | 1.00% | ~13,349 |
 | Ripe for the Picking | 1.00% | ~13,349 |
-| The Creative Assassin | 0.70% | ~9,344 |
+| The Creative Assassin | 0.70% | ~9,345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,334,919 (Ranked 9)  
+Progressed: 1,334,935 (Ranked 9)  
 Completed: 2,145 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 2,145 (0.16%) (Ranked 205)
 | 2023-09-15 | 1,333,710 | 2,143 |
 | 2023-09-16 | 1,334,281 | 2,144 |
 | 2023-09-17 | 1,334,919 | 2,145 |
+| 2023-09-18 | 1,334,935 | 2,145 |
 ## Awards
 Max (Diverse Characters): 10,064  (Ranked 37)  
 Sum: 71,103 (Ranked 21)  

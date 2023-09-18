@@ -1727,9 +1727,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 402
     },
     {
       "ID": "AC20",
@@ -1751,9 +1751,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 321
     },
     {
       "ID": "AC23",
@@ -1952,8 +1952,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:03:35.0454102+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:03:40.1833062+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:02:33.6401759+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:03:35.0454548+00:00"
+  "LastUpdate_Ratings": "2023-09-18T00:02:39.8947746+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:03:40.1833621+00:00"
 }

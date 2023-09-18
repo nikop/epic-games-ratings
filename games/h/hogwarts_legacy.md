@@ -8,7 +8,7 @@ Rating: 4.77 (Ranked 110)
 | The Sort Who Makes an Entrance | 14.00% | ~41,561 |
 | First Class Student | 13.00% | ~38,592 |
 | Troll with the Punches | 13.00% | ~38,592 |
-| A Keen Sense of Spell | 12.00% | ~35,623 |
+| A Keen Sense of Spell | 12.00% | ~35,624 |
 | A Talent for Spending | 11.00% | ~32,655 |
 | That's a Keeper | 11.00% | ~32,655 |
 | Grappling with a Graphorn | 10.00% | ~29,686 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 110)
 | The Root of the Problem | 5.00% | ~14,843 |
 | Third Time's a Charm | 5.00% | ~14,843 |
 | The Ends Petrify the Means | 5.00% | ~14,843 |
-| The Toast of the Town | 4.00% | ~11,874 |
-| Going Through the Potions | 4.00% | ~11,874 |
-| Room with a View | 4.00% | ~11,874 |
-| The Intrepid Explorer | 4.00% | ~11,874 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,874 |
-| The Wise Owl | 4.00% | ~11,874 |
+| The Toast of the Town | 4.00% | ~11,875 |
+| Going Through the Potions | 4.00% | ~11,875 |
+| Room with a View | 4.00% | ~11,875 |
+| The Intrepid Explorer | 4.00% | ~11,875 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,875 |
+| The Wise Owl | 4.00% | ~11,875 |
 | Put Down Roots | 3.00% | ~8,906 |
 | Floo Around the World | 3.00% | ~8,906 |
 | The Good Samaritan | 2.00% | ~5,937 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,781 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,862 (Ranked 43)  
+Progressed: 296,864 (Ranked 43)  
 Completed: 474 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,9 +202,10 @@ Completed: 474 (0.16%) (Ranked 205)
 | 2023-09-15 | 296,672 | 470 |
 | 2023-09-16 | 296,761 | 472 |
 | 2023-09-17 | 296,862 | 474 |
+| 2023-09-18 | 296,864 | 474 |
 ## Awards
 Max (Character Customization): 22,799  (Ranked 17)  
-Sum: 43,618 (Ranked 30)  
+Sum: 43,623 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -218,7 +219,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,001 |
 | This game is Highly Recommended | 984 |
 | This game has Quickly Understood Controls | 922 |
-| This game has Beautiful Visuals | 856 |
+| This game has Beautiful Visuals | 861 |
 | This game has a Creative Community | 655 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -400,4 +401,4 @@ Diff (max vs sum): -13
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
 | 2023-09-16 | 4.77 | 22,752 | 43,493 |
-| 2023-09-17 | 4.77 | 22,799 | 43,618 |
+| 2023-09-17 | 4.77 | 22,799 | 43,623 |

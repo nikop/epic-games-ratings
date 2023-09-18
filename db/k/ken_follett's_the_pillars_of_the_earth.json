@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15253,
+  "EOS_Progressed": 15255,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -10342,6 +10342,11 @@
       "Time": "2023-09-17T23:08:29.4143585+00:00",
       "NumProgressed": 15253,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-18T00:08:26.5926631+00:00",
+      "NumProgressed": 15255,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10353,7 +10358,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "tpote_achievement_10",
@@ -10393,7 +10398,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5033
+      "UsersEstimate": 5034
     },
     {
       "ID": "tpote_achievement_15",
@@ -10409,7 +10414,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "tpote_achievement_17",
@@ -10441,7 +10446,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5033
+      "UsersEstimate": 5034
     },
     {
       "ID": "tpote_achievement_20",
@@ -10513,7 +10518,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "tpote_achievement_29",
@@ -10529,7 +10534,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4881
+      "UsersEstimate": 4882
     },
     {
       "ID": "tpote_achievement_30",
@@ -10537,7 +10542,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "tpote_achievement_31",
@@ -10553,7 +10558,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "tpote_achievement_33",
@@ -10617,7 +10622,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6254
+      "UsersEstimate": 6255
     },
     {
       "ID": "tpote_achievement_40",
@@ -10680,15 +10685,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15253,
+      "Progressed": 15255,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-17T23:08:29.4143581+00:00",
+  "LastChanged_Achievements": "2023-09-18T00:08:26.5926626+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-17T23:01:19.2896501+00:00",
-  "LastUpdate_Achievements": "2023-09-17T23:08:29.4144288+00:00"
+  "LastUpdate_Ratings": "2023-09-18T00:01:20.8344996+00:00",
+  "LastUpdate_Achievements": "2023-09-18T00:08:26.5927541+00:00"
 }

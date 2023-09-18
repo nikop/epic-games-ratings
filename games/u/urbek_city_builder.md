@@ -18,6 +18,7 @@
 | Bucolic city | 0.60% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food producer | 0.30% | ~1 |
+| Food provider master | 0.30% | ~1 |
 | I love books! | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
@@ -34,7 +35,6 @@
 | Pumpkin farmer | 0.00% | ~0 |
 | Ready to make sopaipillas | 0.00% | ~0 |
 | Green energy | 0.00% | ~0 |
-| Food provider master | 0.00% | ~0 |
 | I can't see the sky | 0.00% | ~0 |
 | I can't breathe | 0.00% | ~0 |
 | Urban style | 0.00% | ~0 |

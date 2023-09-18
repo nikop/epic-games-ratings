@@ -7,7 +7,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~23,920 |
-| Landlord | 32.00% | ~19,627 |
+| Landlord | 33.00% | ~20,240 |
 | Bannerlord | 23.00% | ~14,107 |
 | Horde breaker | 23.00% | ~14,107 |
 | Lawmaker | 23.00% | ~14,107 |
