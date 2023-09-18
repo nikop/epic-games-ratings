@@ -1435,9 +1435,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1554,8 +1554,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:09:48.161265+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:04:21.7356322+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.4255118+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:06:07.6199513+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:09:48.1612859+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:00:11.8821669+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:04:21.7356467+00:00"
 }

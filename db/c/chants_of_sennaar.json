@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 169,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.36,
+  "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -799,6 +799,11 @@
       "Time": "2023-09-18T13:13:08.1161596+00:00",
       "NumProgressed": 168,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-18T14:07:22.2199994+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 25,
@@ -810,7 +815,7 @@
       "Name": "I did it",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "END_GOOD",
@@ -818,7 +823,7 @@
       "Name": "In this together",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "META_ALL_LINK",
@@ -840,9 +845,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "META_HALF_LINK",
@@ -850,7 +855,7 @@
       "Name": "Half the way",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "META_RESULT_1-2",
@@ -858,7 +863,7 @@
       "Name": "Open door",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "META_RESULT_1-3",
@@ -928,9 +933,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -962,7 +967,7 @@
       "Name": "Scholar",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "PROGRESS_N1",
@@ -970,7 +975,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PROGRESS_N2",
@@ -994,7 +999,7 @@
       "Name": "The darkness",
       "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "PROGRESS_N5",
@@ -1009,14 +1014,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:13:08.1161589+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:07:22.2199988+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:04:40.9735672+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:13:08.116183+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:58:58.3776584+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:07:22.2200176+00:00"
 }

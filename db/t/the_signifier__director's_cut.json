@@ -4,7 +4,7 @@
   "ProductSlug": "the-signifier-directors-cut",
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.8899791+00:00",
   "LastChanged": "2023-03-31T05:57:42.8899792+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:25.1512637+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:04:59.4176705+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:09:53.6483347+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:59:13.5746776+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:04:26.9717302+00:00"
 }

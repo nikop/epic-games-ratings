@@ -2405,9 +2405,9 @@
       "ID": "ACH_MUSICFORCOWS",
       "SetID": "7pam6gn",
       "Name": "Music for Cows",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 247
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -2429,9 +2429,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_THEEND",
@@ -2462,8 +2462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:10:24.1468904+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:04:56.8309078+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:43.1531361+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:04:14.1107048+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:10:24.1469201+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:58:35.3668517+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:04:56.8309283+00:00"
 }

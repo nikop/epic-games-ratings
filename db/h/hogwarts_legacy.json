@@ -5,7 +5,7 @@
   "Ranking_Rating": 110,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
-  "Ranking_EOS_Progress": 43,
+  "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 45,
@@ -7702,10 +7702,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43644,
       "NumberOfAwardsMax": 22799
+    },
+    {
+      "Time": "2023-09-18T13:57:32.39342+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43655,
+      "NumberOfAwardsMax": 22799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43644,
+  "NumberOfAwards": 43655,
   "NumberOfAwardsMax": 22799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7731,13 +7737,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1001
+      "Count": 1009
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1075
+      "Count": 1078
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7784,7 +7790,7 @@
   ],
   "EOS_Progressed": 296893,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24529,9 +24535,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-18T10:57:20.3934485+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:10:06.6041148+00:00",
+  "LastChanged": "2023-09-18T13:57:32.3934199+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:04:39.9177504+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:03:00.1474152+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:10:06.6042518+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:57:32.3934204+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:04:39.9178549+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~2,852 |
-| A Thorny Situation | 69.00% | ~2,696 |
-| ... And Spit Back Out | 57.00% | ~2,227 |
-| Break-Net Speed | 45.00% | ~1,758 |
-| Bramble Breaker | 40.00% | ~1,563 |
-| Miner 49er | 38.00% | ~1,485 |
-| Humble Collector | 36.00% | ~1,407 |
-| Calm Sailing | 28.00% | ~1,094 |
-| Open the Gate! | 23.00% | ~899 |
-| Mist Walker | 22.00% | ~860 |
-| Lumberjack | 20.00% | ~781 |
-| Oui, Chef! | 19.00% | ~742 |
-| Botanical Breakthrough | 10.00% | ~391 |
-| Clear the Air | 9.00% | ~352 |
-| Beach Comber | 9.00% | ~352 |
-| Higher Tax Bracket | 6.00% | ~234 |
-| Search for the Hairy Grell | 5.00% | ~195 |
-| Skilled | 4.00% | ~156 |
-| Got to Catch Them All | 3.00% | ~117 |
-| Rumble in the Jumble | 3.00% | ~117 |
-| Fanatical Farmer | 3.00% | ~117 |
+| Azoria Beckons | 73.00% | ~2,859 |
+| A Thorny Situation | 69.00% | ~2,703 |
+| ... And Spit Back Out | 58.00% | ~2,272 |
+| Break-Net Speed | 45.00% | ~1,763 |
+| Bramble Breaker | 40.00% | ~1,567 |
+| Miner 49er | 38.00% | ~1,488 |
+| Humble Collector | 36.00% | ~1,410 |
+| Calm Sailing | 28.00% | ~1,097 |
+| Open the Gate! | 24.00% | ~940 |
+| Mist Walker | 22.00% | ~862 |
+| Lumberjack | 20.00% | ~783 |
+| Oui, Chef! | 19.00% | ~744 |
+| Botanical Breakthrough | 10.00% | ~392 |
+| Clear the Air | 9.00% | ~353 |
+| Beach Comber | 9.00% | ~353 |
+| Higher Tax Bracket | 6.00% | ~235 |
+| Search for the Hairy Grell | 5.00% | ~196 |
+| Got to Catch Them All | 3.00% | ~118 |
+| Rumble in the Jumble | 3.00% | ~118 |
+| Fanatical Farmer | 3.00% | ~118 |
+| Skilled | 3.00% | ~118 |
 | Flaming Hot Completos | 2.00% | ~78 |
 | Fae Farmer | 2.00% | ~78 |
 | Scattered Scroll Scrounger | 2.00% | ~78 |
@@ -33,14 +33,14 @@
 | Azorian Anniversary | 2.00% | ~78 |
 | House Proud | 2.00% | ~78 |
 | Right Tool For the Job | 1.00% | ~39 |
-| Captain of Cozy | 0.60% | ~23 |
+| Captain of Cozy | 0.60% | ~24 |
 | Angling Authority | 0.50% | ~20 |
 | Cloverfield Island | 0.10% | ~4 |
 | Workaholic | 0.10% | ~4 |
 | Giving the People What They Want | 0.10% | ~4 |
 | Very Skilled | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,907 (Ranked 159)  
+Progressed: 3,917 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 3,022 | 0 |
 | 2023-09-16 | 3,404 | 0 |
 | 2023-09-17 | 3,792 | 0 |
-| 2023-09-18 | 3,907 | 0 |
+| 2023-09-18 | 3,917 | 0 |

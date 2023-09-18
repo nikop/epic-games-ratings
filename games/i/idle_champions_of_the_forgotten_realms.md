@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 933)  
+Rating: 4.06 (Ranked 932)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,585 |
+| A Brief Tour of the Realms | 2.00% | ~4,586 |
 | Beast Intentions | 0.80% | ~1,834 |
 | The Cursed Farmer | 0.70% | ~1,605 |
 | The Mad Wizard | 0.60% | ~1,376 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,268 (Ranked 57)  
+Progressed: 229,275 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,7 +678,7 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,268 | 2,294 |
+| 2023-09-18 | 229,275 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,629 (Ranked 39)  

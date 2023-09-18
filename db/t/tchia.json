@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7486,
+  "EOS_Progressed": 7487,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6974,6 +6974,11 @@
       "Time": "2023-09-17T22:07:31.3297317+00:00",
       "NumProgressed": 7486,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-18T14:07:08.2474587+00:00",
+      "NumProgressed": 7487,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7009,7 +7014,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -7057,7 +7062,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -7152,7 +7157,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7486,
+      "Progressed": 7487,
       "Completed": 33
     }
   ],
@@ -7160,8 +7165,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:12:33.2961687+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:07:08.2474582+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:01.8462778+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:02:55.4603545+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:12:33.2962275+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:57:27.956358+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:07:08.247501+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
-  "Ranking_Rating": 940,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 900,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2080,6 +2080,11 @@
       "Time": "2023-09-18T09:04:16.3142719+00:00",
       "NumProgressed": 899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-18T14:03:52.1917748+00:00",
+      "NumProgressed": 900,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2091,7 +2096,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "ACH001",
@@ -2099,7 +2104,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH002",
@@ -2147,7 +2152,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH008",
@@ -2187,7 +2192,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH013",
@@ -2275,7 +2280,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH024",
@@ -2379,7 +2384,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ACH037",
@@ -2395,7 +2400,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH039",
@@ -2490,15 +2495,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:09:17.8261014+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:03:52.1917743+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.7770724+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:04:11.4979077+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:09:17.8261861+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:58:32.8200467+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:03:52.1918158+00:00"
 }

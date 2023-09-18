@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~377 |
-| Defenses Online | 25.00% | ~337 |
-| Facility Online | 21.00% | ~283 |
+| It's Good to have Allies | 28.00% | ~378 |
+| Defenses Online | 25.00% | ~338 |
+| Facility Online | 21.00% | ~284 |
 | Corporal | 15.00% | ~202 |
 | Sergeant | 11.00% | ~148 |
 | Covert Operative | 11.00% | ~148 |
 | Lieutenant | 10.00% | ~135 |
-| Getting Deployment | 9.00% | ~121 |
-| On Target | 9.00% | ~121 |
+| Getting Deployment | 9.00% | ~122 |
+| On Target | 9.00% | ~122 |
 | Fighting for Survival | 8.00% | ~108 |
 | Keeping Busy | 8.00% | ~108 |
 | Stocking Up | 8.00% | ~108 |
 | Infantry Reporting | 8.00% | ~108 |
-| Silver Competitor | 7.00% | ~94 |
-| Factory Expansion | 7.00% | ~94 |
+| Silver Competitor | 7.00% | ~95 |
+| Factory Expansion | 7.00% | ~95 |
 | Exterminator | 6.00% | ~81 |
 | Captain | 6.00% | ~81 |
-| Brothers in Arms | 5.00% | ~67 |
+| Brothers in Arms | 5.00% | ~68 |
 | Know The Enemy | 4.00% | ~54 |
 | Player Betrayer | 4.00% | ~54 |
 | Silver Achiever | 4.00% | ~54 |
-| Moving On Up | 3.00% | ~40 |
+| Moving On Up | 4.00% | ~54 |
 | Major | 3.00% | ~40 |
 | Gold Achiever | 2.00% | ~27 |
 | Advanced Warfare | 2.00% | ~27 |
@@ -33,9 +33,9 @@
 | Resourceful | 2.00% | ~27 |
 | Battle Ready | 2.00% | ~27 |
 | Control the Skies | 2.00% | ~27 |
-| General | 1.00% | ~13 |
-| Seek & Destroy | 1.00% | ~13 |
-| Titan Tanks | 1.00% | ~13 |
+| General | 1.00% | ~14 |
+| Seek & Destroy | 1.00% | ~14 |
+| Titan Tanks | 1.00% | ~14 |
 | Advanced Interceptors | 0.70% | ~9 |
 | Shock Troops | 0.70% | ~9 |
 | Jet Troops | 0.60% | ~8 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,348 (Ranked 202)  
+Progressed: 1,350 (Ranked 202)  
 Completed: 1 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,4 +145,4 @@ Completed: 1 (0.07%) (Ranked 232)
 | 2023-09-15 | 1,324 | 1 |
 | 2023-09-16 | 1,332 | 1 |
 | 2023-09-17 | 1,345 | 1 |
-| 2023-09-18 | 1,348 | 1 |
+| 2023-09-18 | 1,350 | 1 |

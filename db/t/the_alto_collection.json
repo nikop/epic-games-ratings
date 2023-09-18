@@ -763,7 +763,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 39644,
+  "EOS_Progressed": 39649,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
@@ -17583,6 +17583,11 @@
       "Time": "2023-09-18T13:09:04.8664834+00:00",
       "NumProgressed": 39644,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-18T14:03:39.0832262+00:00",
+      "NumProgressed": 39649,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -17634,7 +17639,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10704
+      "UsersEstimate": 10705
     },
     {
       "ID": "goals180",
@@ -17714,7 +17719,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6740
     },
     {
       "ID": "novice",
@@ -17722,7 +17727,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "playerFelipe",
@@ -17802,7 +17807,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10307
+      "UsersEstimate": 10309
     },
     {
       "ID": "sandboarder",
@@ -17905,15 +17910,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 39644,
+      "Progressed": 39649,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-15T18:59:46.0517452+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:09:04.8664824+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:03:39.0832256+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:21.9725238+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:04:56.1311053+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:09:04.8666084+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:59:10.2951677+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:03:39.0833278+00:00"
 }

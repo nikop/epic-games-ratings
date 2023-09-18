@@ -6,38 +6,38 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~614,154 |
-| Death From Above | 46.00% | ~614,154 |
-| Master of the Household | 38.00% | ~507,345 |
-| Death of the Party | 36.00% | ~480,642 |
-| NEXUS-47 | 33.00% | ~440,589 |
-| The Last Tango | 31.00% | ~413,887 |
-| Nightmare Fuel | 30.00% | ~400,535 |
-| The Result of Previous Training | 28.00% | ~373,833 |
-| Tools of the Trade | 28.00% | ~373,833 |
-| Cleared for Field Duty | 27.00% | ~360,482 |
-| Seizing the Opportunity | 26.00% | ~347,131 |
-| Bullet Train | 21.00% | ~280,375 |
-| Stylish Assassin | 20.00% | ~267,024 |
-| Silent Assassin | 14.00% | ~186,917 |
-| Rise Up | 13.00% | ~173,565 |
-| Evil Wine Club | 11.00% | ~146,863 |
-| Console Cowboy | 10.00% | ~133,512 |
-| Last Stop | 10.00% | ~133,512 |
-| A New Profile | 9.00% | ~120,161 |
-| Full House | 9.00% | ~120,161 |
-| Dune Raider | 8.00% | ~106,809 |
-| No Stone Unturned | 8.00% | ~106,809 |
-| Train Surfing | 8.00% | ~106,809 |
-| Icebreaker | 7.00% | ~93,458 |
-| Family Feud | 6.00% | ~80,107 |
-| Rich Harvest | 6.00% | ~80,107 |
-| Count Down From 47 | 6.00% | ~80,107 |
-| Shortcut Killer | 5.00% | ~66,756 |
-| Treacherous Architecture | 5.00% | ~66,756 |
-| Stair Master | 5.00% | ~66,756 |
-| Followed the Trails | 5.00% | ~66,756 |
-| Last Call | 5.00% | ~66,756 |
+| Unseen Assassin | 46.00% | ~614,162 |
+| Death From Above | 46.00% | ~614,162 |
+| Master of the Household | 38.00% | ~507,351 |
+| Death of the Party | 36.00% | ~480,648 |
+| NEXUS-47 | 33.00% | ~440,594 |
+| The Last Tango | 31.00% | ~413,892 |
+| Nightmare Fuel | 30.00% | ~400,540 |
+| The Result of Previous Training | 28.00% | ~373,838 |
+| Tools of the Trade | 28.00% | ~373,838 |
+| Cleared for Field Duty | 27.00% | ~360,486 |
+| Seizing the Opportunity | 26.00% | ~347,135 |
+| Bullet Train | 21.00% | ~280,378 |
+| Stylish Assassin | 20.00% | ~267,027 |
+| Silent Assassin | 14.00% | ~186,919 |
+| Rise Up | 13.00% | ~173,567 |
+| Evil Wine Club | 11.00% | ~146,865 |
+| Console Cowboy | 10.00% | ~133,513 |
+| Last Stop | 10.00% | ~133,513 |
+| A New Profile | 9.00% | ~120,162 |
+| Full House | 9.00% | ~120,162 |
+| Dune Raider | 8.00% | ~106,811 |
+| No Stone Unturned | 8.00% | ~106,811 |
+| Train Surfing | 8.00% | ~106,811 |
+| Icebreaker | 7.00% | ~93,459 |
+| Family Feud | 6.00% | ~80,108 |
+| Rich Harvest | 6.00% | ~80,108 |
+| Count Down From 47 | 6.00% | ~80,108 |
+| Shortcut Killer | 5.00% | ~66,757 |
+| Treacherous Architecture | 5.00% | ~66,757 |
+| Stair Master | 5.00% | ~66,757 |
+| Followed the Trails | 5.00% | ~66,757 |
+| Last Call | 5.00% | ~66,757 |
 | Upstairs, Downstairs | 4.00% | ~53,405 |
 | The Great Outdoors | 4.00% | ~53,405 |
 | Partied Out | 4.00% | ~53,405 |
@@ -49,12 +49,12 @@ Number of Ratings: 21,082  (23.09.2022)
 | Hack the Planet | 3.00% | ~40,054 |
 | Master the Terroir | 3.00% | ~40,054 |
 | Vineyard Virtuoso | 3.00% | ~40,054 |
-| Bird Art | 2.00% | ~26,702 |
+| Bird Art | 2.00% | ~26,703 |
 | Top of the Class | 1.00% | ~13,351 |
 | Ripe for the Picking | 1.00% | ~13,351 |
 | The Creative Assassin | 0.70% | ~9,346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,335,118 (Ranked 9)  
+Progressed: 1,335,134 (Ranked 9)  
 Completed: 2,145 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,14 +205,14 @@ Completed: 2,145 (0.16%) (Ranked 205)
 | 2023-09-15 | 1,333,710 | 2,143 |
 | 2023-09-16 | 1,334,281 | 2,144 |
 | 2023-09-17 | 1,334,919 | 2,145 |
-| 2023-09-18 | 1,335,118 | 2,145 |
+| 2023-09-18 | 1,335,134 | 2,145 |
 ## Awards
-Max (Diverse Characters): 10,064  (Ranked 37)  
-Sum: 71,115 (Ranked 21)  
+Max (Diverse Characters): 10,080  (Ranked 37)  
+Sum: 71,131 (Ranked 21)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 10,064 |
+| This game has Diverse Characters | 10,080 |
 | This game is Highly Recommended | 9,329 |
 | This game is Extremely Fun | 9,087 |
 | This game has Amazing Storytelling | 8,951 |
@@ -488,4 +488,4 @@ Diff (max vs sum): 16
 | 2023-09-15 | 4.78 | - | 10,037 | 70,980 |
 | 2023-09-16 | 4.78 | - | 10,051 | 71,040 |
 | 2023-09-17 | 4.78 | - | 10,064 | 71,103 |
-| 2023-09-18 | 4.78 | - | 10,064 | 71,115 |
+| 2023-09-18 | 4.78 | - | 10,080 | 71,131 |

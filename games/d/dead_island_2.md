@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 503)
 | Jumbo Keyring | 0.60% | ~4,093 |
 | Go, Bobcats! | 0.60% | ~4,093 |
 | Rising Star | 0.60% | ~4,093 |
-| Smorgasbord | 0.50% | ~3,410 |
+| Smorgasbord | 0.50% | ~3,411 |
 | Make it So | 0.40% | ~2,728 |
 | On Safari | 0.40% | ~2,728 |
 | Not Even My Final Form | 0.40% | ~2,728 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,100 (Ranked 22)  
+Progressed: 682,119 (Ranked 22)  
 Completed: 2,152 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,14 +202,14 @@ Completed: 2,152 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
-| 2023-09-18 | 682,100 | 2,152 |
+| 2023-09-18 | 682,119 | 2,152 |
 ## Awards
-Max (Great Boss Battles): 6,086  (Ranked 57)  
-Sum: 9,030 (Ranked 94)  
+Max (Great Boss Battles): 6,105  (Ranked 57)  
+Sum: 9,049 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,086 |
+| This game has Great Boss Battles | 6,105 |
 | This game is Great for Beginners | 419 |
 | This game has Diverse Characters | 410 |
 | This game has Quickly Understood Controls | 396 |
@@ -371,3 +371,4 @@ Diff (max vs sum): -37
 | 2023-09-15 | 4.54 | 6,061 | 8,982 |
 | 2023-09-16 | 4.54 | 6,073 | 9,005 |
 | 2023-09-17 | 4.54 | 6,086 | 9,030 |
+| 2023-09-18 | 4.54 | 6,105 | 9,049 |

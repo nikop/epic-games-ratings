@@ -10,8 +10,8 @@
 | First winning | 85.00% | ~276 |
 | Your first job | 84.00% | ~273 |
 | Old movies enjoyer | 80.00% | ~260 |
+| Fitness professional | 79.00% | ~257 |
 | Depressed visitor | 79.00% | ~257 |
-| Fitness professional | 78.00% | ~254 |
 | Neurotrainer – power gainer! | 78.00% | ~254 |
 | Employee of the week | 78.00% | ~254 |
 | Your own amateur gym | 74.00% | ~240 |
@@ -30,7 +30,7 @@
 | It's good to be alive | 60.00% | ~195 |
 | Own four walls | 60.00% | ~195 |
 | Employee of the year | 60.00% | ~195 |
-| Fight for life | 58.00% | ~188 |
+| Fight for life | 59.00% | ~192 |
 | Little hacker | 58.00% | ~188 |
 | Intriguing candies | 58.00% | ~188 |
 | Legal courier | 56.00% | ~182 |

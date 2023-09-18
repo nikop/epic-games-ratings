@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108174,
+  "EOS_Progressed": 108175,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 847,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11311,6 +11311,11 @@
       "Time": "2023-09-18T13:09:26.5450877+00:00",
       "NumProgressed": 108174,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-18T14:04:00.5398123+00:00",
+      "NumProgressed": 108175,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -11330,7 +11335,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 82212
+      "UsersEstimate": 82213
     },
     {
       "ID": "EAwards_10",
@@ -11346,7 +11351,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28125
+      "UsersEstimate": 28126
     },
     {
       "ID": "EAwards_12",
@@ -11354,7 +11359,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15144
+      "UsersEstimate": 15145
     },
     {
       "ID": "EAwards_13",
@@ -11378,7 +11383,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     },
     {
       "ID": "EAwards_16",
@@ -11426,7 +11431,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     },
     {
       "ID": "EAwards_21",
@@ -11522,7 +11527,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     },
     {
       "ID": "EAwards_32",
@@ -11538,7 +11543,7 @@
       "Name": "Mr. Worldwide",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "EAwards_34",
@@ -11562,7 +11567,7 @@
       "Name": "Legend of the Timelines",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "EAwards_37",
@@ -11706,14 +11711,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 108174,
+      "Progressed": 108175,
       "Completed": 42
     }
   ],
@@ -11721,8 +11726,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:09:26.5450869+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:04:00.5398117+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:10.7751349+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:06:39.2918171+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:09:26.54521+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:00:38.4190175+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:04:00.5398983+00:00"
 }

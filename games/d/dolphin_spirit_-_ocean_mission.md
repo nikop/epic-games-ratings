@@ -37,9 +37,9 @@
 | Welcome to Maupiroa | 0.00% | ~0 |
 | The fifth one! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 552)  
+Progressed: 2 (Ranked 528)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-18 | 1 | 0 |
+| 2023-09-18 | 2 | 0 |

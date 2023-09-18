@@ -2,9 +2,9 @@
   "ID": "c609e63aa7f44e55835f51df979ee6b8",
   "Name": "Batora: Lost Haven",
   "ProductSlug": "batora-lost-haven-1773c3",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
@@ -285,8 +285,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:10:06.6955228+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:04:39.873773+00:00",
   "LastUpdate_AppInfo": "2023-09-12T16:57:19.7595057+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:04:10.4664069+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:10:06.6955452+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:58:31.8194179+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:04:39.8737897+00:00"
 }

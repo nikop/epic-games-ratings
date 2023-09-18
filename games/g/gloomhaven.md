@@ -6,57 +6,57 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 17.00% | ~22 |
-| Overkill | 17.00% | ~22 |
-| A normal day in Gloomhaven | 15.00% | ~19 |
-| Vaccine Incoming | 13.00% | ~17 |
-| Get over here! | 10.00% | ~13 |
-| Just when I thought I was out... | 9.00% | ~12 |
-| Spread the plague | 8.00% | ~10 |
-| Augmented rat | 8.00% | ~10 |
-| You activated my trap card! | 6.00% | ~8 |
-| Light of my life | 6.00% | ~8 |
-| Mine... All Mine... | 5.00% | ~6 |
-| Obstacle race | 5.00% | ~6 |
-| Now you see me... | 5.00% | ~6 |
-| Dungeon Veteran | 4.00% | ~5 |
-| Who's the Boss? | 4.00% | ~5 |
-| Grizzled veteran | 4.00% | ~5 |
-| The Sniper | 4.00% | ~5 |
-| Black death | 4.00% | ~5 |
-| Doom and gloom | 4.00% | ~5 |
-| Anatomy Lesson | 4.00% | ~5 |
-| The Pacifist | 4.00% | ~5 |
-| The Pro from Dover | 3.00% | ~4 |
-| Merchant of doom | 2.00% | ~3 |
-| From Gloom, only greed and death emerges | 2.00% | ~3 |
-| Caught off guard | 2.00% | ~3 |
-| The Rat King | 2.00% | ~3 |
-| Down the hatch | 2.00% | ~3 |
-| The Cephalophore | 2.00% | ~3 |
-| Precious! | 2.00% | ~3 |
-| Pack leader | 2.00% | ~3 |
-| Pain is your friend | 2.00% | ~3 |
-| Grin and bear it | 2.00% | ~3 |
-| Play it again, Sam | 2.00% | ~3 |
-| An axe to grind | 2.00% | ~3 |
-| Power Up! | 0.80% | ~1 |
-| I hate portals | 0.80% | ~1 |
-| Betray this | 0.80% | ~1 |
-| Add a bit of colour | 0.80% | ~1 |
-| How to train your Drake | 0.80% | ~1 |
-| An eye for an eye | 0.80% | ~1 |
-| Spoiler police! | 0.80% | ~1 |
-| Quad damage | 0.80% | ~1 |
+| I'm not dead yet | 21.00% | ~39 |
+| Overkill | 19.00% | ~36 |
+| A normal day in Gloomhaven | 19.00% | ~36 |
+| Vaccine Incoming | 15.00% | ~28 |
+| Get over here! | 13.00% | ~24 |
+| Just when I thought I was out... | 12.00% | ~22 |
+| Spread the plague | 11.00% | ~21 |
+| Augmented rat | 9.00% | ~17 |
+| Mine... All Mine... | 9.00% | ~17 |
+| You activated my trap card! | 7.00% | ~13 |
+| Anatomy Lesson | 7.00% | ~13 |
+| Light of my life | 6.00% | ~11 |
+| Obstacle race | 5.00% | ~9 |
+| The Pro from Dover | 4.00% | ~7 |
+| Pain is your friend | 4.00% | ~7 |
+| Black death | 4.00% | ~7 |
+| Now you see me... | 4.00% | ~7 |
+| Play it again, Sam | 4.00% | ~7 |
+| Doom and gloom | 4.00% | ~7 |
+| Dungeon Veteran | 3.00% | ~6 |
+| Who's the Boss? | 3.00% | ~6 |
+| Caught off guard | 3.00% | ~6 |
+| Grizzled veteran | 3.00% | ~6 |
+| The Sniper | 3.00% | ~6 |
+| The Pacifist | 3.00% | ~6 |
+| Merchant of doom | 2.00% | ~4 |
+| The Rat King | 2.00% | ~4 |
+| Precious! | 2.00% | ~4 |
+| Pack leader | 2.00% | ~4 |
+| Quad damage | 2.00% | ~4 |
+| Grin and bear it | 2.00% | ~4 |
+| An axe to grind | 2.00% | ~4 |
+| Power Up! | 1.00% | ~2 |
+| From Gloom, only greed and death emerges | 1.00% | ~2 |
+| Down the hatch | 1.00% | ~2 |
+| The Cephalophore | 1.00% | ~2 |
+| Master Assassin | 1.00% | ~2 |
+| I hate portals | 0.50% | ~1 |
+| Betray this | 0.50% | ~1 |
+| Add a bit of colour | 0.50% | ~1 |
+| How to train your Drake | 0.50% | ~1 |
+| An eye for an eye | 0.50% | ~1 |
+| Spoiler police! | 0.50% | ~1 |
+| Pretty lights! | 0.50% | ~1 |
 | Captain hooked | 0.00% | ~0 |
 | A cult following | 0.00% | ~0 |
 | Over your dead body | 0.00% | ~0 |
 | The Guildmaster | 0.00% | ~0 |
 | The Cartographer | 0.00% | ~0 |
 | Lara Who? | 0.00% | ~0 |
-| Master Assassin | 0.00% | ~0 |
 | A tough job | 0.00% | ~0 |
-| Pretty lights! | 0.00% | ~0 |
 | The evil that men do | 0.00% | ~0 |
 | MacReady Steady.. Go! | 0.00% | ~0 |
 | Beware my power | 0.00% | ~0 |
@@ -68,12 +68,12 @@ Number of Ratings: 68  (23.09.2022)
 | Murder Death Kill | 0.00% | ~0 |
 | Born Support | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 339)  
+Progressed: 187 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-18 | 129 | 0 |
+| 2023-09-18 | 187 | 0 |
 ## Awards
 Max (Character Customization): 3,524  (Ranked 89)  
 Sum: 8,197 (Ranked 99)  

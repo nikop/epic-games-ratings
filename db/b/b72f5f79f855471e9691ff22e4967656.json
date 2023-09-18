@@ -661,9 +661,9 @@
       "ID": "killPlant20",
       "SetID": "ci65fo0",
       "Name": "Weed killer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "killPlant5",
@@ -757,9 +757,9 @@
       "ID": "locCompRandomLabyrinth",
       "SetID": "ci65fo0",
       "Name": "Winner of the Random",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "locDungeon1",
@@ -1090,8 +1090,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:10:10.6572322+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:04:43.8656588+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.2829646+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:06:23.4209484+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:10:10.6573154+00:00"
+  "LastUpdate_Ratings": "2023-09-18T14:00:24.302917+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:04:43.8657212+00:00"
 }

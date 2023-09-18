@@ -324,9 +324,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3301,
+  "EOS_Progressed": 3302,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4399,6 +4399,11 @@
       "Time": "2023-09-18T13:12:17.6358375+00:00",
       "NumProgressed": 3301,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T14:06:52.9292081+00:00",
+      "NumProgressed": 3302,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4458,7 +4463,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -4586,7 +4591,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4618,7 +4623,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4626,7 +4631,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4634,7 +4639,7 @@
       "Name": "Where It All Begun",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4642,7 +4647,7 @@
       "Name": "Living Nightmare",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4650,7 +4655,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ACH_MISSION_08",
@@ -4658,7 +4663,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACH_MISSION_09",
@@ -4666,7 +4671,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACH_MISSION_10",
@@ -4674,7 +4679,7 @@
       "Name": "The Spire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACH_MISSION_11",
@@ -4714,7 +4719,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4738,7 +4743,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4746,7 +4751,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -4754,7 +4759,7 @@
       "Name": "The More The Merrier",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -4769,7 +4774,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3301,
+      "Progressed": 3302,
       "Completed": 3
     }
   ],
@@ -4777,8 +4782,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-18T13:12:17.6358371+00:00",
+  "LastChanged_Achievements": "2023-09-18T14:06:52.9292074+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-18T13:05:35.4483081+00:00",
-  "LastUpdate_Achievements": "2023-09-18T13:12:17.6358962+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:59:44.9583281+00:00",
+  "LastUpdate_Achievements": "2023-09-18T14:06:52.9292601+00:00"
 }
