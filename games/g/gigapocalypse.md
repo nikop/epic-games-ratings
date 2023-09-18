@@ -20,31 +20,31 @@
 | Chomp Chomp! | 46.00% | ~86 |
 | The Duelist | 44.00% | ~82 |
 | Diaper Time! | 43.00% | ~80 |
+| Target Practice | 43.00% | ~80 |
 | Glorious Battle | 42.00% | ~78 |
-| Target Practice | 42.00% | ~78 |
-| Meat Larder | 40.00% | ~74 |
+| Meat Larder | 41.00% | ~76 |
 | Mutant And Proud | 39.00% | ~73 |
 | The Emperor's New Clothes | 33.00% | ~61 |
+| Final Evolution | 33.00% | ~61 |
+| You Shall Not Pass | 32.00% | ~60 |
+| Godlike Power | 32.00% | ~60 |
+| Undying Skin | 32.00% | ~60 |
 | Happy Little Home | 32.00% | ~60 |
-| Final Evolution | 32.00% | ~60 |
-| You Shall Not Pass | 31.00% | ~58 |
-| Godlike Power | 31.00% | ~58 |
-| Undying Skin | 31.00% | ~58 |
-| Animal Lover | 30.00% | ~56 |
+| Animal Lover | 31.00% | ~58 |
+| Mommy's Very Angry | 30.00% | ~56 |
 | Fight Me! | 30.00% | ~56 |
-| Mommy's Very Angry | 29.00% | ~54 |
 | Supremacy | 29.00% | ~54 |
-| Loyal Companion | 26.00% | ~48 |
+| Loyal Companion | 27.00% | ~50 |
 | Back To The Future | 25.00% | ~46 |
 | Immortal Skin | 25.00% | ~46 |
+| Fire Beacon | 24.00% | ~45 |
 | Lunch Before The Lunch | 23.00% | ~43 |
-| Fire Beacon | 23.00% | ~43 |
 | From Here To Eternity | 20.00% | ~37 |
 | Building Blocks | 20.00% | ~37 |
 | Octopostructure | 18.00% | ~33 |
 | Boss Hunter | 15.00% | ~28 |
+| Fashion Victim | 9.00% | ~17 |
 | Hawkman | 9.00% | ~17 |
-| Fashion Victim | 8.00% | ~15 |
 | Annihilate | 8.00% | ~15 |
 | Godlike Skin | 7.00% | ~13 |
 | See You Later | 6.00% | ~11 |

@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,300 |
+| First Step | 70.00% | ~369,301 |
 | Now You're Talking | 62.00% | ~327,095 |
 | Steel Yourself | 62.00% | ~327,095 |
 | Window Dressing | 50.00% | ~263,786 |
-| Trigger Happy | 46.00% | ~242,683 |
-| Riverborn | 45.00% | ~237,407 |
-| Starry Eyed | 34.00% | ~179,374 |
-| Poking Around | 34.00% | ~179,374 |
-| Talk of the Town | 24.00% | ~126,617 |
+| Trigger Happy | 46.00% | ~242,684 |
+| Riverborn | 45.00% | ~237,408 |
+| Starry Eyed | 34.00% | ~179,375 |
+| Poking Around | 34.00% | ~179,375 |
+| Talk of the Town | 24.00% | ~126,618 |
 | AAARR! | 23.00% | ~121,342 |
 | Hello Darkness | 23.00% | ~121,342 |
 | Wind At Our Backs | 22.00% | ~116,066 |
-| To the Beat | 20.00% | ~105,514 |
+| To the Beat | 20.00% | ~105,515 |
 | Sunny Shores | 17.00% | ~89,687 |
 | Sunday Best | 16.00% | ~84,412 |
 | To Victory! | 15.00% | ~79,136 |
@@ -28,8 +28,8 @@ Number of Ratings: 617  (23.09.2022)
 | Make Peace, Not War | 11.00% | ~58,033 |
 | Walking The Line | 10.00% | ~52,757 |
 | Not So Cute Anymore | 10.00% | ~52,757 |
-| Road Less Travelled | 9.00% | ~47,481 |
-| Lost and Found | 9.00% | ~47,481 |
+| Road Less Travelled | 9.00% | ~47,482 |
+| Lost and Found | 9.00% | ~47,482 |
 | Under the Radar | 8.00% | ~42,206 |
 | Partner in Crime | 7.00% | ~36,930 |
 | Hard to Hear | 7.00% | ~36,930 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,583 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,572 (Ranked 33)  
+Progressed: 527,573 (Ranked 33)  
 Completed: 474 (0.09%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 474 (0.09%) (Ranked 227)
 | 2023-09-15 | 527,375 | 474 |
 | 2023-09-16 | 527,467 | 474 |
 | 2023-09-17 | 527,562 | 474 |
-| 2023-09-18 | 527,572 | 474 |
+| 2023-09-18 | 527,573 | 474 |
 ## Awards
 Max (Relaxing): 20  (Ranked 514)  
 Sum: 20 (Ranked 514)  

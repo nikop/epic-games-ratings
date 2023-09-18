@@ -28,7 +28,7 @@ Rating: 4.69 (Ranked 217)
 | Lyrical Longing | 10.00% | ~65 |
 | Fully Decked | 7.00% | ~46 |
 | Corsair | 6.00% | ~39 |
-| Freebooter | 4.00% | ~26 |
+| Freebooter | 5.00% | ~33 |
 | Marauder | 4.00% | ~26 |
 | Welcome Back Jester | 3.00% | ~20 |
 ## Popularity (Based on EOS Achievements)

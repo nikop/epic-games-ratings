@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -164,11 +164,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.56,
+  "EOS_Completed_Percentage": 8.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -314,6 +314,11 @@
       "Time": "2023-09-15T18:07:23.2035363+00:00",
       "NumProgressed": 689,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-09-18T04:09:09.8760473+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 50,
@@ -325,7 +330,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -333,7 +338,7 @@
       "Name": "Partners?",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -389,7 +394,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -405,7 +410,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -421,7 +426,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -501,7 +506,7 @@
       "Name": "Armor Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -541,7 +546,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -597,7 +602,7 @@
       "Name": "First Time Fishing",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -635,9 +640,9 @@
       "ID": "ACHIEVEMENT040",
       "SetID": "dejhjd5",
       "Name": "Rune Wall Master",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -724,15 +729,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:08:17.3792943+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:09:09.8760464+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.7885163+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:00:44.4047059+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:08:17.3793446+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:59:53.436946+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:09:09.8760978+00:00"
 }

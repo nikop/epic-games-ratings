@@ -505,9 +505,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -593,9 +593,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:06:22.8126236+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:06:08.1837863+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:02.5081406+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:01:09.0241166+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:06:22.8126745+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:00:14.8062782+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:06:08.1838313+00:00"
 }

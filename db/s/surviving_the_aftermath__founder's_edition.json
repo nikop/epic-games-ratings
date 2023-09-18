@@ -1251,9 +1251,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9063,
+  "EOS_Progressed": 9064,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13041,6 +13041,11 @@
       "Time": "2023-09-18T01:47:55.6057804+00:00",
       "NumProgressed": 9063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T04:04:59.6969877+00:00",
+      "NumProgressed": 9064,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13084,7 +13089,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "14",
@@ -13092,7 +13097,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "15",
@@ -13164,7 +13169,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6525
+      "UsersEstimate": 6526
     },
     {
       "ID": "23",
@@ -13172,7 +13177,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "24",
@@ -13228,7 +13233,7 @@
       "Name": "Great Leader",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "30",
@@ -13372,7 +13377,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "47",
@@ -13396,7 +13401,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "5",
@@ -13412,15 +13417,15 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "51",
       "SetID": "8idi9ml",
       "Name": "Sky Burial",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 816
     },
     {
       "ID": "52",
@@ -13523,15 +13528,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9063,
+      "Progressed": 9064,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-15T09:59:20.5978639+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:05:14.4359163+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:04:59.6969872+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:54.26707+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:00:15.163492+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:05:14.436041+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:59:27.3719039+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:04:59.6971175+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 254,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.32,
+  "EOS_Completed_Percentage": 6.3,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1056,6 +1056,11 @@
       "Time": "2023-09-18T01:47:46.0852054+00:00",
       "NumProgressed": 253,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-18T04:04:52.892446+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -1065,17 +1070,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 145
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1105,9 +1110,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 150
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1131,15 +1136,15 @@
       "Name": "Family pond",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 94
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1179,7 +1184,7 @@
       "Name": "On fire",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1194,14 +1199,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:05:07.3512289+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:04:52.8924455+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:01:32.0316612+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:05:07.3512473+00:00"
+  "LastUpdate_Ratings": "2023-09-18T04:00:33.7977617+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:04:52.8924652+00:00"
 }

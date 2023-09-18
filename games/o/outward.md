@@ -6,7 +6,7 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,545 |
+| Venture Outward | 76.00% | ~2,579 |
 | Ready for Winter | 65.00% | ~2,205 |
 | Ready for Summer | 52.00% | ~1,764 |
 | Cordon Bleu | 44.00% | ~1,493 |

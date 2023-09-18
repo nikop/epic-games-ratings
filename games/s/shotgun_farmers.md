@@ -48,12 +48,12 @@
 | King of the Crow | 1.00% | ~2 |
 | Easy Peasy | 1.00% | ~2 |
 | Pro Pyromancer | 0.70% | ~2 |
+| Pro Sniperagus | 0.70% | ~2 |
 | Unstoppable | 0.70% | ~2 |
 | Death From Above | 0.70% | ~2 |
 | Tomassacred | 0.70% | ~2 |
 | 30 Days | 0.30% | ~1 |
 | Pro Carrocketeer | 0.30% | ~1 |
-| Pro Sniperagus | 0.30% | ~1 |
 | Berry Loved | 0.30% | ~1 |
 | Carrocket From Above | 0.30% | ~1 |
 | Heal Me Peas | 0.30% | ~1 |

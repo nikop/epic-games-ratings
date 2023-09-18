@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 60.00% | ~3 |
 | I Challenge You To Save More Money! | 60.00% | ~3 |
+| Doesn't Matter I'll Handle It | 60.00% | ~3 |
 | A Slap In The Face! | 60.00% | ~3 |
 | I Love How Tough You Are | 60.00% | ~3 |
 | Love Actually | 60.00% | ~3 |
@@ -15,7 +16,6 @@
 | FIRST LOVE | 60.00% | ~3 |
 | Are You Alright? | 60.00% | ~3 |
 | You're Really Something Else | 60.00% | ~3 |
-| Doesn't Matter I'll Handle It | 40.00% | ~2 |
 | Boys Need To Protect Themselves | 40.00% | ~2 |
 | Days Of Innocence | 40.00% | ~2 |
 | Hurrah! | 40.00% | ~2 |
@@ -29,6 +29,7 @@
 | Can You Do This Or Not? | 20.00% | ~1 |
 | Go Clean up In Your Own Way | 20.00% | ~1 |
 | Drama CP: Reel to Real | 20.00% | ~1 |
+| That's So You | 20.00% | ~1 |
 | Worthless Speech | 20.00% | ~1 |
 | Drama King | 20.00% | ~1 |
 | Off We Sail Tonight | 0.00% | ~0 |
@@ -43,7 +44,6 @@
 | Tall; Grande; Venti | 0.00% | ~0 |
 | Limerence | 0.00% | ~0 |
 | David | 0.00% | ~0 |
-| That's So You | 0.00% | ~0 |
 | This Ain't Right In Many Ways... | 0.00% | ~0 |
 | SALUTE | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

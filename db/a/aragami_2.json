@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43246,
+  "EOS_Progressed": 43247,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15456,6 +15456,11 @@
       "Time": "2023-09-18T00:08:21.6397871+00:00",
       "NumProgressed": 43246,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-18T04:06:36.4524228+00:00",
+      "NumProgressed": 43247,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15467,7 +15472,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24650
+      "UsersEstimate": 24651
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15475,7 +15480,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13406
+      "UsersEstimate": 13407
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -15499,7 +15504,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6054
+      "UsersEstimate": 6055
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -15539,7 +15544,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6054
+      "UsersEstimate": 6055
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -15587,7 +15592,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34597
+      "UsersEstimate": 34598
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15627,7 +15632,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6919
+      "UsersEstimate": 6920
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -15651,7 +15656,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6919
+      "UsersEstimate": 6920
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -15691,7 +15696,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23785
+      "UsersEstimate": 23786
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -15707,7 +15712,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27245
+      "UsersEstimate": 27246
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -15715,7 +15720,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11676
+      "UsersEstimate": 11677
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -15755,7 +15760,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6054
+      "UsersEstimate": 6055
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -15803,7 +15808,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40219
+      "UsersEstimate": 40220
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -15818,7 +15823,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43246,
+      "Progressed": 43247,
       "Completed": 238
     }
   ],
@@ -15826,8 +15831,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:06:51.1242726+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:06:36.4524223+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:19.6302549+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:58:12.99911+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:06:51.1244044+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:57:52.5350337+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:06:36.4525511+00:00"
 }

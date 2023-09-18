@@ -13,7 +13,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 72.00% | ~351 |
 | Ring Collector | 69.00% | ~337 |
 | Time Traveler | 68.00% | ~332 |
-| Everyone's Hero | 64.00% | ~312 |
+| Everyone's Hero | 65.00% | ~317 |
 | Easy Peasy with Shields | 60.00% | ~293 |
 | Gallant Spin Dash | 60.00% | ~293 |
 | Knuckles the Echidna | 60.00% | ~293 |

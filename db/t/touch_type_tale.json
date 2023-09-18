@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3503,
+  "EOS_Progressed": 3507,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3534,6 +3534,11 @@
       "Time": "2023-09-18T03:06:23.21954+00:00",
       "NumProgressed": 3503,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T04:06:08.5046864+00:00",
+      "NumProgressed": 3507,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3545,7 +3550,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "bonus2",
@@ -3593,7 +3598,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3086
     },
     {
       "ID": "campaign10",
@@ -3625,7 +3630,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "campaign14",
@@ -3633,7 +3638,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "campaign15",
@@ -3681,7 +3686,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2700
     },
     {
       "ID": "campaign20",
@@ -3697,7 +3702,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2139
     },
     {
       "ID": "campaign4",
@@ -3705,7 +3710,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1543
     },
     {
       "ID": "campaign5",
@@ -3713,7 +3718,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "campaign6",
@@ -3721,7 +3726,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "campaign7",
@@ -3729,7 +3734,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "campaign8",
@@ -3737,7 +3742,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "campaign9",
@@ -3745,7 +3750,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "scenario1",
@@ -3753,7 +3758,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1368
     },
     {
       "ID": "scenario2",
@@ -3808,7 +3813,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3503,
+      "Progressed": 3507,
       "Completed": 11
     }
   ],
@@ -3816,8 +3821,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:06:23.2195379+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:06:08.504686+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:00:39.4550239+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:06:23.219585+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:59:49.6762517+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:06:08.5047277+00:00"
 }

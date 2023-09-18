@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -243,7 +243,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 201617,
+  "EOS_Progressed": 201624,
   "EOS_Completed": 502,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 7,
@@ -16478,6 +16478,11 @@
       "Time": "2023-09-18T03:05:15.9269824+00:00",
       "NumProgressed": 201617,
       "NumCompleted": 502
+    },
+    {
+      "Time": "2023-09-18T04:05:01.1628534+00:00",
+      "NumProgressed": 201624,
+      "NumCompleted": 502
     }
   ],
   "TotalAchievements": 29,
@@ -16513,7 +16518,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 189520
+      "UsersEstimate": 189527
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -16689,7 +16694,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14113
+      "UsersEstimate": 14114
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -16720,7 +16725,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 201617,
+      "Progressed": 201624,
       "Completed": 502
     }
   ],
@@ -16728,8 +16733,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:05:15.9269819+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:05:01.1628529+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:10.0973549+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:59:17.6647585+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:05:15.9271037+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:58:41.4305974+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:05:01.1629748+00:00"
 }

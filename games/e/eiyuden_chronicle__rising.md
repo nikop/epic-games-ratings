@@ -6,16 +6,16 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~606 |
+| Plenty More to Go | 88.00% | ~607 |
 | All Bark, No Bite | 77.00% | ~531 |
 | Hopeful Hunter | 67.00% | ~462 |
 | Amateur Adventurer | 65.00% | ~448 |
-| The Road to Recovery | 64.00% | ~441 |
-| Partners? | 62.00% | ~427 |
+| The Road to Recovery | 64.00% | ~442 |
+| Partners? | 62.00% | ~428 |
 | Magical Mineral Golem | 56.00% | ~386 |
-| On Outlander Lane | 55.00% | ~379 |
-| First Time Fishing | 52.00% | ~358 |
-| A Girl About the Town | 51.00% | ~351 |
+| On Outlander Lane | 55.00% | ~380 |
+| First Time Fishing | 52.00% | ~359 |
+| A Girl About the Town | 51.00% | ~352 |
 | First Time Hunting | 49.00% | ~338 |
 | Rune Wall Wreckage | 48.00% | ~331 |
 | ...And Your Tax Money | 47.00% | ~324 |
@@ -28,15 +28,15 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 36.00% | ~248 |
 | Adept, for an Acting Mayor | 35.00% | ~241 |
 | Money, Money, Money | 35.00% | ~241 |
-| Rune Wall Master | 34.00% | ~234 |
+| Rune Wall Master | 33.00% | ~228 |
 | The Quarry...On Foot! | 31.00% | ~214 |
 | The Runebarrows...On Foot! | 29.00% | ~200 |
 | The Lava Ruins...On Foot! | 28.00% | ~193 |
 | The Snowpeak...On Foot! | 27.00% | ~186 |
 | Meat Master | 26.00% | ~179 |
 | Fishing Master | 25.00% | ~172 |
-| Armor Master | 24.00% | ~165 |
-| The Pride of the Town | 23.00% | ~158 |
+| Armor Master | 24.00% | ~166 |
+| The Pride of the Town | 23.00% | ~159 |
 | This Treasure I've Found | 21.00% | ~145 |
 | New Nevaeh's Number One Customer | 21.00% | ~145 |
 | Arms Master | 19.00% | ~131 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~55 |
 | Rising Champion | 7.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689 (Ranked 229)  
-Completed: 59 (8.56%) (Ranked 33)  
+Progressed: 690 (Ranked 229)  
+Completed: 59 (8.55%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 59 (8.56%) (Ranked 33)
 | 2023-09-13 | 687 | 59 |
 | 2023-09-14 | 688 | 59 |
 | 2023-09-15 | 689 | 59 |
+| 2023-09-18 | 690 | 59 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

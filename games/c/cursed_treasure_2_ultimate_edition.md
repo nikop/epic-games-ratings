@@ -18,10 +18,10 @@
 | Sergeant of the Evil | 74.00% | ~125 |
 | Look After the Pence... | 73.00% | ~123 |
 | Drunken Master | 73.00% | ~123 |
-| V.I.P. Cemetery | 71.00% | ~120 |
+| V.I.P. Cemetery | 72.00% | ~122 |
+| Top of the World | 70.00% | ~118 |
 | Woodcutter | 70.00% | ~118 |
 | Architect of Darkness | 70.00% | ~118 |
-| Top of the World | 69.00% | ~117 |
 | Takeover | 69.00% | ~117 |
 | Sharpshooter | 69.00% | ~117 |
 | The Apotheosis of War | 67.00% | ~113 |

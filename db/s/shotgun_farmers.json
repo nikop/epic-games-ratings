@@ -1501,9 +1501,9 @@
       "ID": "ach_pro_sniper_kills",
       "SetID": "cmg602e",
       "Name": "Pro Sniperagus",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
@@ -1844,8 +1844,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:05:50.9852661+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:05:36.2218376+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.845501+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:58:42.3003118+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:05:50.9853499+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:58:13.9954966+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:05:36.2219225+00:00"
 }

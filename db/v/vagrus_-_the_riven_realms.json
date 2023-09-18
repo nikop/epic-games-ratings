@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -527,6 +527,11 @@
     {
       "Time": "2023-09-18T01:50:23.2644873+00:00",
       "NumProgressed": 151,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T04:06:49.9819666+00:00",
+      "NumProgressed": 152,
       "NumCompleted": 0
     }
   ],
@@ -1217,9 +1222,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1330,7 +1335,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 152,
       "Completed": 0
     }
   ],
@@ -1338,8 +1343,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:07:14.4739187+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:06:49.9819657+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.3873754+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:59:07.6948882+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:07:14.4740459+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:58:32.7898971+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:06:49.9820923+00:00"
 }

@@ -13,12 +13,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 5.00% | ~832 |
 | The Scarlet Orchard | 5.00% | ~832 |
 | Taking Action | 5.00% | ~832 |
-| Ancient Battleground | 4.00% | ~665 |
-| Fertile Meadows | 4.00% | ~665 |
-| Lost Colonies | 4.00% | ~665 |
-| Watchtower | 4.00% | ~665 |
-| A Real Challenge | 4.00% | ~665 |
-| Trade Baron | 4.00% | ~665 |
+| Ancient Battleground | 4.00% | ~666 |
+| Fertile Meadows | 4.00% | ~666 |
+| Lost Colonies | 4.00% | ~666 |
+| Watchtower | 4.00% | ~666 |
+| A Real Challenge | 4.00% | ~666 |
+| Trade Baron | 4.00% | ~666 |
 | Homesick | 3.00% | ~499 |
 | Against All Odds | 3.00% | ~499 |
 | Ruined Armory | 3.00% | ~499 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,637 (Ranked 120)  
+Progressed: 16,638 (Ranked 120)  
 Completed: 48 (0.29%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 48 (0.29%) (Ranked 183)
 | 2023-09-15 | 16,616 | 48 |
 | 2023-09-16 | 16,625 | 48 |
 | 2023-09-17 | 16,635 | 48 |
-| 2023-09-18 | 16,637 | 48 |
+| 2023-09-18 | 16,638 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 431  (Ranked 211)  
 Sum: 3,144 (Ranked 166)  

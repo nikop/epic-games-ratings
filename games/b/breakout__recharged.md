@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is There Anybody Out There? | 93.00% | ~99 |
+| Is There Anybody Out There? | 94.00% | ~100 |
 | Cluster One | 84.00% | ~89 |
 | Another Brick in the Wall (Part 1) | 73.00% | ~77 |
 | High Hopes | 62.00% | ~66 |

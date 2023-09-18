@@ -3,9 +3,9 @@
   "Name": "ZZT!",
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3209,
-  "EOS_Completed": 137,
-  "EOS_NewPlayers": 31,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 4.27,
+  "EOS_Progressed": 3210,
+  "EOS_Completed": 138,
+  "EOS_NewPlayers": 32,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 4.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -4676,6 +4676,11 @@
       "Time": "2023-09-18T01:46:50.5471978+00:00",
       "NumProgressed": 3209,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-09-18T04:04:11.4382428+00:00",
+      "NumProgressed": 3210,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 5,
@@ -4687,7 +4692,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     },
     {
       "ID": "2",
@@ -4726,16 +4731,16 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3209,
-      "Completed": 137
+      "Progressed": 3210,
+      "Completed": 138
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:04:15.9802423+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:04:11.4382424+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.9825565+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:58:22.2428391+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:04:15.9802794+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:57:58.7270426+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:04:11.4382759+00:00"
 }

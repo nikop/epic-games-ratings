@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65656,
+  "EOS_Progressed": 65658,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15032,6 +15032,11 @@
       "Time": "2023-09-18T03:03:26.0311431+00:00",
       "NumProgressed": 65656,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-18T04:03:42.2829364+00:00",
+      "NumProgressed": 65658,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15043,7 +15048,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26919
+      "UsersEstimate": 26920
     },
     {
       "ID": "02",
@@ -15075,7 +15080,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14444
+      "UsersEstimate": 14445
     },
     {
       "ID": "06",
@@ -15091,7 +15096,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8535
+      "UsersEstimate": 8536
     },
     {
       "ID": "08",
@@ -15099,7 +15104,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8535
+      "UsersEstimate": 8536
     },
     {
       "ID": "09",
@@ -15129,9 +15134,9 @@
       "ID": "12",
       "SetID": "212770e",
       "Name": "Perchance to Dream",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7879
+      "UsersEstimate": 8536
     },
     {
       "ID": "13",
@@ -15163,7 +15168,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5253
     },
     {
       "ID": "17",
@@ -15203,7 +15208,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "22",
@@ -15251,7 +15256,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8535
+      "UsersEstimate": 8536
     },
     {
       "ID": "28",
@@ -15259,7 +15264,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8535
+      "UsersEstimate": 8536
     },
     {
       "ID": "29",
@@ -15267,7 +15272,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "30",
@@ -15291,7 +15296,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21010
+      "UsersEstimate": 21011
     },
     {
       "ID": "33",
@@ -15299,7 +15304,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "34",
@@ -15315,7 +15320,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21666
+      "UsersEstimate": 21667
     },
     {
       "ID": "36",
@@ -15329,9 +15334,9 @@
       "ID": "37",
       "SetID": "212770e",
       "Name": "Meet the Deadline",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 263
     },
     {
       "ID": "38",
@@ -15451,7 +15456,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "53",
@@ -15475,7 +15480,7 @@
       "Name": "Run-On Sentence",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "56",
@@ -15483,7 +15488,7 @@
       "Name": "License Revoked",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "57",
@@ -15539,7 +15544,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "64",
@@ -15547,7 +15552,7 @@
       "Name": "Whirlwind",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "65",
@@ -15578,21 +15583,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65656,
+      "Progressed": 65658,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29124,
+      "Progressed": 29126,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:03:26.0311424+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:03:42.2829359+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:57:39.6587018+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:03:26.0312966+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:57:27.5720561+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:03:42.2830913+00:00"
 }

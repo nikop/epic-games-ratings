@@ -2,7 +2,7 @@
   "ID": "6110c92696a54f108c8e9002713ea5f9",
   "Name": "Borderlands: The Pre-Sequel",
   "ProductSlug": "borderlands-the-pre-sequel",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 596,
@@ -3258,10 +3258,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2913,
       "NumberOfAwardsMax": 414
+    },
+    {
+      "Time": "2023-09-18T03:57:54.1599048+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2915,
+      "NumberOfAwardsMax": 414
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2913,
+  "NumberOfAwards": 2915,
   "NumberOfAwardsMax": 414,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3299,7 +3305,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 396
+      "Count": 398
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3337,8 +3343,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2023-09-17T18:59:15.6235193+00:00",
+  "LastChanged": "2023-09-18T03:57:54.1599047+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:21.4153659+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:58:17.6282502+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:04:15.6459714+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:57:54.1599054+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:04:10.9805628+00:00"
 }

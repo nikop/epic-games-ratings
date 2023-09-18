@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 565)  
+Rating: 4.50 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,6 +18,7 @@ Rating: 4.50 (Ranked 565)
 | Clutch Capture | 0.20% | ~52 |
 | I collect Spores, Molds, and Fungi | 0.20% | ~52 |
 | Cultured | 0.20% | ~52 |
+| Ghostbuster In Training | 0.20% | ~52 |
 | Icing on the Cake | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
 | Side Hustle | 0.20% | ~52 |
@@ -37,7 +38,6 @@ Rating: 4.50 (Ranked 565)
 | Ectoplasmic Entity | 0.10% | ~26 |
 | Escape Artist | 0.10% | ~26 |
 | Fragile Panes | 0.10% | ~26 |
-| Ghostbuster In Training | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
 | Legions | 0.10% | ~26 |
 | Liability | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 565)
 | Ultimate Defense | 0.10% | ~26 |
 | Mycophile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,878 (Ranked 106)  
+Progressed: 25,880 (Ranked 106)  
 Completed: 56 (0.22%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 56 (0.22%) (Ranked 195)
 | 2023-09-15 | 25,818 | 56 |
 | 2023-09-16 | 25,847 | 56 |
 | 2023-09-17 | 25,875 | 56 |
-| 2023-09-18 | 25,878 | 56 |
+| 2023-09-18 | 25,880 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,316 (Ranked 188)  

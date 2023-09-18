@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2990,7 +2990,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72631,
+  "EOS_Progressed": 72633,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 1,
@@ -15835,6 +15835,11 @@
       "Time": "2023-09-18T03:03:41.0274157+00:00",
       "NumProgressed": 72631,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-18T04:03:56.8795137+00:00",
+      "NumProgressed": 72633,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15894,7 +15899,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16705
+      "UsersEstimate": 16706
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15942,7 +15947,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12347
+      "UsersEstimate": 12348
     },
     {
       "ID": "CLAYFACE_1",
@@ -15966,7 +15971,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10168
+      "UsersEstimate": 10169
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -16070,7 +16075,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21063
+      "UsersEstimate": 21064
     },
     {
       "ID": "FREEZE_1_5",
@@ -16094,7 +16099,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10168
+      "UsersEstimate": 10169
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -16150,7 +16155,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25421
+      "UsersEstimate": 25422
     },
     {
       "ID": "HARLEY_2",
@@ -16166,7 +16171,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14526
+      "UsersEstimate": 14527
     },
     {
       "ID": "HARLEY_4",
@@ -16190,7 +16195,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37768
+      "UsersEstimate": 37769
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16214,7 +16219,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14526
+      "UsersEstimate": 14527
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16254,7 +16259,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16705
+      "UsersEstimate": 16706
     },
     {
       "ID": "MYSTERY_04",
@@ -16262,7 +16267,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14526
+      "UsersEstimate": 14527
     },
     {
       "ID": "MYSTERY_05",
@@ -16302,7 +16307,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -16333,13 +16338,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72631,
+      "Progressed": 72633,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42911,
+      "Progressed": 42913,
       "Completed": 2663
     }
   ],
@@ -16347,8 +16352,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-17T19:02:25.672411+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:03:41.0274151+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:03:56.8795131+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-18T02:59:49.3035734+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:03:41.0275795+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:59:07.923006+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:03:56.879649+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -507,7 +507,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15255,
+  "EOS_Progressed": 15256,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
@@ -10347,6 +10347,11 @@
       "Time": "2023-09-18T00:08:26.5926631+00:00",
       "NumProgressed": 15255,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-18T04:06:40.2268516+00:00",
+      "NumProgressed": 15256,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10422,7 +10427,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "tpote_achievement_18",
@@ -10462,7 +10467,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4576
+      "UsersEstimate": 4577
     },
     {
       "ID": "tpote_achievement_22",
@@ -10678,22 +10683,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5340
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15255,
+      "Progressed": 15256,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-18T03:07:04.7558616+00:00",
+  "LastChanged_Achievements": "2023-09-18T04:06:40.2268507+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-18T03:00:20.6850153+00:00",
-  "LastUpdate_Achievements": "2023-09-18T03:07:04.7559509+00:00"
+  "LastUpdate_Ratings": "2023-09-18T03:59:33.0950628+00:00",
+  "LastUpdate_Achievements": "2023-09-18T04:06:40.2269408+00:00"
 }
