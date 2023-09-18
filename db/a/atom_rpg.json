@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2706,9 +2706,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 431
     },
     {
       "ID": "WISHMASTER_1",
@@ -2730,8 +2730,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-18T12:03:29.5667868+00:00",
+  "LastChanged_Achievements": "2023-09-18T13:08:31.4214288+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.8587226+00:00",
-  "LastUpdate_Ratings": "2023-09-18T12:00:12.5828274+00:00",
-  "LastUpdate_Achievements": "2023-09-18T12:03:29.5668377+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:05:57.943167+00:00",
+  "LastUpdate_Achievements": "2023-09-18T13:08:31.4214702+00:00"
 }

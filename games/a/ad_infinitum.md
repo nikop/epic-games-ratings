@@ -11,6 +11,7 @@
 | Awaken | 33.00% | ~8 |
 | Path of Corruption | 21.00% | ~5 |
 | Hope | 17.00% | ~4 |
+| The shining | 13.00% | ~3 |
 | An act of courage | 8.00% | ~2 |
 | Health | 8.00% | ~2 |
 | Lost | 8.00% | ~2 |
@@ -18,7 +19,6 @@
 | Path of Pain | 8.00% | ~2 |
 | Rage | 8.00% | ~2 |
 | Reflections | 8.00% | ~2 |
-| The shining | 8.00% | ~2 |
 | An act of mercy | 4.00% | ~1 |
 | Ad Infinitum | 4.00% | ~1 |
 | Art critic | 4.00% | ~1 |

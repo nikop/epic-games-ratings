@@ -1,22 +1,22 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 504)  
+Rating: 4.54 (Ranked 503)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,641 |
-| Git Gutte! | 2.00% | ~13,641 |
-| Break A Leg | 2.00% | ~13,641 |
-| But Doctor, I am Butcho | 2.00% | ~13,641 |
-| Coup de Grâce | 2.00% | ~13,641 |
-| Hazardous Materials | 2.00% | ~13,641 |
-| Friends Like These | 2.00% | ~13,641 |
-| Hotel California | 2.00% | ~13,641 |
-| Apex Predator | 2.00% | ~13,641 |
-| Stacking the Deck | 2.00% | ~13,641 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,641 |
-| Welcome To Hell-A | 2.00% | ~13,641 |
+| Dr. Reed, I Presume? | 2.00% | ~13,642 |
+| Git Gutte! | 2.00% | ~13,642 |
+| Break A Leg | 2.00% | ~13,642 |
+| But Doctor, I am Butcho | 2.00% | ~13,642 |
+| Coup de Grâce | 2.00% | ~13,642 |
+| Hazardous Materials | 2.00% | ~13,642 |
+| Friends Like These | 2.00% | ~13,642 |
+| Hotel California | 2.00% | ~13,642 |
+| Apex Predator | 2.00% | ~13,642 |
+| Stacking the Deck | 2.00% | ~13,642 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,642 |
+| Welcome To Hell-A | 2.00% | ~13,642 |
 | Anger Management | 1.00% | ~6,821 |
 | Perks of the Job | 1.00% | ~6,821 |
 | Bookworm | 1.00% | ~6,821 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 504)
 | Humanity Distilled | 0.90% | ~6,139 |
 | Down with the Sickness | 0.90% | ~6,139 |
 | Max Headroom | 0.80% | ~5,457 |
-| Jumbo Keyring | 0.60% | ~4,092 |
-| Go, Bobcats! | 0.60% | ~4,092 |
-| Rising Star | 0.60% | ~4,092 |
+| Jumbo Keyring | 0.60% | ~4,093 |
+| Go, Bobcats! | 0.60% | ~4,093 |
+| Rising Star | 0.60% | ~4,093 |
 | Smorgasbord | 0.50% | ~3,410 |
 | Make it So | 0.40% | ~2,728 |
 | On Safari | 0.40% | ~2,728 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,070 (Ranked 22)  
+Progressed: 682,100 (Ranked 22)  
 Completed: 2,152 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2,152 (0.32%) (Ranked 177)
 | 2023-09-15 | 680,356 | 2,143 |
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
-| 2023-09-18 | 682,070 | 2,152 |
+| 2023-09-18 | 682,100 | 2,152 |
 ## Awards
 Max (Great Boss Battles): 6,086  (Ranked 57)  
 Sum: 9,030 (Ranked 94)  

@@ -371,9 +371,9 @@
       "ID": "ACH_THESHINING",
       "SetID": "88d7anj",
       "Name": "The shining",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -386,8 +386,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-09-18T12:05:59.174465+00:00",
+  "LastChanged_Achievements": "2023-09-18T13:11:26.5160576+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:17.1765053+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:59:10.8586173+00:00",
-  "LastUpdate_Achievements": "2023-09-18T12:05:59.1744882+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:04:50.0291798+00:00",
+  "LastUpdate_Achievements": "2023-09-18T13:11:26.5160798+00:00"
 }

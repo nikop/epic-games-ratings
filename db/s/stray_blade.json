@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -655,9 +655,9 @@
       "ID": "ACH_FIND_FLUX_BATTERY",
       "SetID": "7i20me3",
       "Name": "Finally!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FIND_WOODEN_CLUB",
@@ -719,9 +719,9 @@
       "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
       "SetID": "7i20me3",
       "Name": "A Deceiving Gift",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_REVEAL_MIRAGE_ILLUSION",
@@ -798,8 +798,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-18T12:09:18.2570634+00:00",
+  "LastChanged_Achievements": "2023-09-18T13:13:16.109518+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.4303858+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:57:37.1783462+00:00",
-  "LastUpdate_Achievements": "2023-09-18T12:09:18.2571035+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:03:09.0477984+00:00",
+  "LastUpdate_Achievements": "2023-09-18T13:13:16.1095608+00:00"
 }

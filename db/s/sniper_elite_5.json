@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3634,
+  "EOS_Progressed": 3635,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6749,6 +6749,11 @@
       "Time": "2023-09-18T12:05:36.7253598+00:00",
       "NumProgressed": 3634,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T13:11:03.5031257+00:00",
+      "NumProgressed": 3635,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6760,7 +6765,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6768,7 +6773,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6784,7 +6789,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6792,7 +6797,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6824,7 +6829,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6912,7 +6917,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6992,7 +6997,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7000,7 +7005,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7008,7 +7013,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7072,7 +7077,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7166,9 +7171,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 836
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7327,13 +7332,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3585,
+      "Progressed": 3586,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3634,
+      "Progressed": 3635,
       "Completed": 11
     }
   ],
@@ -7341,8 +7346,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-18T12:05:36.7253588+00:00",
+  "LastChanged_Achievements": "2023-09-18T13:11:03.503125+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-18T12:00:45.1324823+00:00",
-  "LastUpdate_Achievements": "2023-09-18T12:05:36.7254715+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:06:34.532318+00:00",
+  "LastUpdate_Achievements": "2023-09-18T13:11:03.5032371+00:00"
 }

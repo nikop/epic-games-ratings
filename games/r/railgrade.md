@@ -1,26 +1,26 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 504)  
+Rating: 4.54 (Ranked 503)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 99.00% | ~19,189 |
-| Before the Downfall | 94.00% | ~18,220 |
-| Money like Water | 92.00% | ~17,832 |
-| Minimalist | 91.00% | ~17,639 |
-| Builder | 83.00% | ~16,088 |
-| Eraser | 71.00% | ~13,762 |
-| Pocket of Trains | 66.00% | ~12,793 |
-| Inspector | 60.00% | ~11,630 |
-| Going the Distance | 55.00% | ~10,661 |
-| Oil Baron | 43.00% | ~8,335 |
-| Loads-a-Money | 42.00% | ~8,141 |
+| Trevithick's Legacy | 99.00% | ~19,188 |
+| Before the Downfall | 94.00% | ~18,219 |
+| Money like Water | 92.00% | ~17,831 |
+| Minimalist | 91.00% | ~17,638 |
+| Builder | 83.00% | ~16,087 |
+| Eraser | 71.00% | ~13,761 |
+| Pocket of Trains | 66.00% | ~12,792 |
+| Inspector | 60.00% | ~11,629 |
+| Going the Distance | 55.00% | ~10,660 |
+| Oil Baron | 43.00% | ~8,334 |
+| Loads-a-Money | 42.00% | ~8,140 |
 | Helper of the People | 40.00% | ~7,753 |
 | Simplification | 34.00% | ~6,590 |
 | Box of Trains | 34.00% | ~6,590 |
 | Let There be Light | 33.00% | ~6,396 |
-| Hot Water | 31.00% | ~6,009 |
+| Hot Water | 31.00% | ~6,008 |
 | Indecisive | 29.00% | ~5,621 |
 | The scenic route | 28.00% | ~5,427 |
 | Industrialist | 25.00% | ~4,846 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 504)
 | Overdeer | 0.60% | ~116 |
 | Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,383 (Ranked 115)  
+Progressed: 19,382 (Ranked 115)  
 Completed: 37 (0.19%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

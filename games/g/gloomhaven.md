@@ -6,45 +6,48 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 10.00% | ~6 |
-| A normal day in Gloomhaven | 10.00% | ~6 |
-| Overkill | 8.00% | ~5 |
-| Dungeon Veteran | 5.00% | ~3 |
-| Who's the Boss? | 5.00% | ~3 |
-| Grizzled veteran | 5.00% | ~3 |
-| Vaccine Incoming | 5.00% | ~3 |
-| The Sniper | 5.00% | ~3 |
-| The Pacifist | 5.00% | ~3 |
-| Merchant of doom | 3.00% | ~2 |
-| The Rat King | 3.00% | ~2 |
-| The Cephalophore | 3.00% | ~2 |
-| Precious! | 3.00% | ~2 |
-| Spread the plague | 3.00% | ~2 |
-| Augmented rat | 3.00% | ~2 |
-| Get over here! | 3.00% | ~2 |
-| Just when I thought I was out... | 3.00% | ~2 |
-| Light of my life | 3.00% | ~2 |
-| Now you see me... | 3.00% | ~2 |
-| Doom and gloom | 3.00% | ~2 |
-| Power Up! | 2.00% | ~1 |
-| I hate portals | 2.00% | ~1 |
-| From Gloom, only greed and death emerges | 2.00% | ~1 |
-| Betray this | 2.00% | ~1 |
-| Caught off guard | 2.00% | ~1 |
-| How to train your Drake | 2.00% | ~1 |
-| Down the hatch | 2.00% | ~1 |
-| An eye for an eye | 2.00% | ~1 |
-| Spoiler police! | 2.00% | ~1 |
-| You activated my trap card! | 2.00% | ~1 |
-| Pack leader | 2.00% | ~1 |
-| The Pro from Dover | 2.00% | ~1 |
-| Mine... All Mine... | 2.00% | ~1 |
-| Pain is your friend | 2.00% | ~1 |
-| Black death | 2.00% | ~1 |
-| Grin and bear it | 2.00% | ~1 |
-| Play it again, Sam | 2.00% | ~1 |
-| Anatomy Lesson | 2.00% | ~1 |
-| Add a bit of colour | 0.00% | ~0 |
+| I'm not dead yet | 17.00% | ~22 |
+| Overkill | 17.00% | ~22 |
+| A normal day in Gloomhaven | 15.00% | ~19 |
+| Vaccine Incoming | 13.00% | ~17 |
+| Get over here! | 10.00% | ~13 |
+| Just when I thought I was out... | 9.00% | ~12 |
+| Spread the plague | 8.00% | ~10 |
+| Augmented rat | 8.00% | ~10 |
+| You activated my trap card! | 6.00% | ~8 |
+| Light of my life | 6.00% | ~8 |
+| Mine... All Mine... | 5.00% | ~6 |
+| Obstacle race | 5.00% | ~6 |
+| Now you see me... | 5.00% | ~6 |
+| Dungeon Veteran | 4.00% | ~5 |
+| Who's the Boss? | 4.00% | ~5 |
+| Grizzled veteran | 4.00% | ~5 |
+| The Sniper | 4.00% | ~5 |
+| Black death | 4.00% | ~5 |
+| Doom and gloom | 4.00% | ~5 |
+| Anatomy Lesson | 4.00% | ~5 |
+| The Pacifist | 4.00% | ~5 |
+| The Pro from Dover | 3.00% | ~4 |
+| Merchant of doom | 2.00% | ~3 |
+| From Gloom, only greed and death emerges | 2.00% | ~3 |
+| Caught off guard | 2.00% | ~3 |
+| The Rat King | 2.00% | ~3 |
+| Down the hatch | 2.00% | ~3 |
+| The Cephalophore | 2.00% | ~3 |
+| Precious! | 2.00% | ~3 |
+| Pack leader | 2.00% | ~3 |
+| Pain is your friend | 2.00% | ~3 |
+| Grin and bear it | 2.00% | ~3 |
+| Play it again, Sam | 2.00% | ~3 |
+| An axe to grind | 2.00% | ~3 |
+| Power Up! | 0.80% | ~1 |
+| I hate portals | 0.80% | ~1 |
+| Betray this | 0.80% | ~1 |
+| Add a bit of colour | 0.80% | ~1 |
+| How to train your Drake | 0.80% | ~1 |
+| An eye for an eye | 0.80% | ~1 |
+| Spoiler police! | 0.80% | ~1 |
+| Quad damage | 0.80% | ~1 |
 | Captain hooked | 0.00% | ~0 |
 | A cult following | 0.00% | ~0 |
 | Over your dead body | 0.00% | ~0 |
@@ -54,8 +57,6 @@ Number of Ratings: 68  (23.09.2022)
 | Master Assassin | 0.00% | ~0 |
 | A tough job | 0.00% | ~0 |
 | Pretty lights! | 0.00% | ~0 |
-| Obstacle race | 0.00% | ~0 |
-| Quad damage | 0.00% | ~0 |
 | The evil that men do | 0.00% | ~0 |
 | MacReady Steady.. Go! | 0.00% | ~0 |
 | Beware my power | 0.00% | ~0 |
@@ -63,17 +64,16 @@ Number of Ratings: 68  (23.09.2022)
 | The Jaws of victory! | 0.00% | ~0 |
 | New Blood | 0.00% | ~0 |
 | Pull out the big guns | 0.00% | ~0 |
-| An axe to grind | 0.00% | ~0 |
 | Crimson Tornado | 0.00% | ~0 |
 | Murder Death Kill | 0.00% | ~0 |
 | Born Support | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 391)  
+Progressed: 129 (Ranked 339)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-18 | 60 | 0 |
+| 2023-09-18 | 129 | 0 |
 ## Awards
 Max (Character Customization): 3,524  (Ranked 89)  
 Sum: 8,197 (Ranked 99)  

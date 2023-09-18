@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3777,
+  "EOS_Progressed": 3788,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1303,
+  "EOS_NewPlayers": 1310,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3275,6 +3275,11 @@
       "Time": "2023-09-18T12:06:16.0603863+00:00",
       "NumProgressed": 3777,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-18T13:11:43.9961898+00:00",
+      "NumProgressed": 3788,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3287,7 +3292,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "a_10",
@@ -3319,7 +3324,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "a_16",
@@ -3335,7 +3340,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1364
     },
     {
       "ID": "a_19",
@@ -3343,7 +3348,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "a_2",
@@ -3351,7 +3356,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "a_20",
@@ -3375,7 +3380,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "a_23",
@@ -3391,7 +3396,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "a_26",
@@ -3423,7 +3428,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "a_30",
@@ -3495,7 +3500,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "a_6",
@@ -3509,9 +3514,9 @@
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "a_8",
@@ -3519,7 +3524,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "a_9",
@@ -3534,7 +3539,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3777,
+      "Progressed": 3788,
       "Completed": 5
     }
   ],
@@ -3542,8 +3547,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-18T12:06:16.0603854+00:00",
+  "LastChanged_Achievements": "2023-09-18T13:11:43.9961892+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:57:52.4181579+00:00",
-  "LastUpdate_Achievements": "2023-09-18T12:06:16.0604241+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:03:26.5316677+00:00",
+  "LastUpdate_Achievements": "2023-09-18T13:11:43.9962257+00:00"
 }

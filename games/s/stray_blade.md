@@ -24,15 +24,15 @@
 | Craftsmen | 7.00% | ~6 |
 | The A-Team | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
+| Finally! | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | Defeat Uskol | 5.00% | ~4 |
 | Bringing guns to a sword fight | 5.00% | ~4 |
-| Finally! | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
+| A Deceiving Gift | 5.00% | ~4 |
 | Defeat Tezuth | 4.00% | ~3 |
 | Ancient Powers | 4.00% | ~3 |
 | The End | 4.00% | ~3 |
-| A Deceiving Gift | 4.00% | ~3 |
 | Unveiling the Truth | 4.00% | ~3 |
 | Sponsor | 2.00% | ~2 |
 | Wizard | 2.00% | ~2 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 371)  
+Progressed: 82 (Ranked 372)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |

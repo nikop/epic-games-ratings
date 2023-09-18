@@ -2,7 +2,7 @@
   "ID": "3d27fbb922a04299b8401e1b50c55619",
   "Name": "Influent",
   "ProductSlug": "influent-4b0f43",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 115,
@@ -453,8 +453,8 @@
   ],
   "FirstSeen": "2023-06-11T13:57:13.0508769+00:00",
   "FirstSeenAchievements": "2023-05-25T18:00:02.4221088+00:00",
-  "LastChanged_Achievements": "2023-09-18T12:05:54.5448434+00:00",
+  "LastChanged_Achievements": "2023-09-18T13:11:21.7654226+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:13:52.273343+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:00:58.1667764+00:00",
-  "LastUpdate_Achievements": "2023-09-18T12:05:54.5448569+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:02:42.5532498+00:00",
+  "LastUpdate_Achievements": "2023-09-18T13:11:21.7654359+00:00"
 }

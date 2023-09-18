@@ -1,15 +1,15 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 466)  
+Rating: 4.55 (Ranked 485)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,109 |
+| Getting Started | 81.00% | ~10,110 |
 | Pay 'n' Spray | 51.00% | ~6,365 |
 | All Dressed Up for San Fierro | 26.00% | ~3,245 |
 | The American Dream | 19.00% | ~2,371 |
-| School's Out | 18.00% | ~2,246 |
+| School's Out | 18.00% | ~2,247 |
 | Smooth Moves | 17.00% | ~2,122 |
 | What happens in Las Venturas... | 15.00% | ~1,872 |
 | Today Was a Good Day | 15.00% | ~1,872 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 466)
 | ...Here we go again | 0.50% | ~62 |
 | I Ain't No Buster | 0.40% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,480 (Ranked 126)  
+Progressed: 12,481 (Ranked 126)  
 Completed: 45 (0.36%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,16 +192,16 @@ Completed: 45 (0.36%) (Ranked 169)
 | 2023-09-15 | 12,292 | 45 |
 | 2023-09-16 | 12,369 | 45 |
 | 2023-09-17 | 12,454 | 45 |
-| 2023-09-18 | 12,480 | 45 |
+| 2023-09-18 | 12,481 | 45 |
 ## Awards
 Max (Great Boss Battles): 291  (Ranked 241)  
-Sum: 384 (Ranked 324)  
+Sum: 385 (Ranked 324)  
 Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 291 |
 | This game is Relaxing | 26 |
-| This game has Amazing Storytelling | 23 |
+| This game has Amazing Storytelling | 24 |
 | This game has Amazing Characters | 22 |
 | This game is Highly Recommended | 22 |
 ## Ratings History
@@ -329,3 +329,4 @@ Diff (max vs sum): -83
 | 2023-09-15 | 4.55 | 289 | 380 |
 | 2023-09-16 | 4.55 | 291 | 384 |
 | 2023-09-17 | 4.56 | 291 | 384 |
+| 2023-09-18 | 4.55 | 291 | 385 |

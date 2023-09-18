@@ -10,11 +10,11 @@
 | Orb Gatherer | 34.00% | ~22 |
 | Space worm! | 34.00% | ~22 |
 | Beast Hunter | 32.00% | ~21 |
+| Loot, loot! | 32.00% | ~21 |
 | Orb Collector | 31.00% | ~20 |
 | Twin slayer! | 31.00% | ~20 |
 | Unmasked! | 31.00% | ~20 |
 | Mercenary! | 31.00% | ~20 |
-| Loot, loot! | 31.00% | ~20 |
 | Vanquisher! | 29.00% | ~19 |
 | Beast Knight | 29.00% | ~19 |
 | Snakehead! | 29.00% | ~19 |
@@ -35,7 +35,7 @@
 | No match for me! | 5.00% | ~3 |
 | True Titan | 5.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 383)  
+Progressed: 65 (Ranked 384)  
 Completed: 3 (4.62%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |

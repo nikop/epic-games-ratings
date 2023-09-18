@@ -9628,10 +9628,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 50520,
       "NumberOfAwardsMax": 6158
+    },
+    {
+      "Time": "2023-09-18T13:03:08.4915378+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50532,
+      "NumberOfAwardsMax": 6158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50520,
+  "NumberOfAwards": 50532,
   "NumberOfAwardsMax": 6158,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9681,7 +9687,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5654
+      "Count": 5666
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9702,9 +9708,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 407190,
+  "EOS_Progressed": 407247,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7477,
+  "EOS_NewPlayers": 7467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26692,6 +26698,11 @@
       "Time": "2023-09-18T12:03:37.1685895+00:00",
       "NumProgressed": 407190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T13:08:39.9859939+00:00",
+      "NumProgressed": 407247,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27143,7 +27154,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -27359,7 +27370,7 @@
       "Name": "Double the Love",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -27535,7 +27546,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "achievement_forever_golden",
@@ -27703,7 +27714,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "achievement_grand_coalition",
@@ -27727,7 +27738,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -28655,7 +28666,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -28703,7 +28714,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -28983,7 +28994,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -29255,7 +29266,7 @@
       "Name": "Total Control",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -29367,7 +29378,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16288
+      "UsersEstimate": 16290
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29399,7 +29410,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -29534,21 +29545,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 407190,
+      "Progressed": 407247,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 407190,
+      "Progressed": 407247,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-18T10:57:27.4227892+00:00",
-  "LastChanged_Achievements": "2023-09-18T12:03:37.168589+00:00",
+  "LastChanged": "2023-09-18T13:03:08.4915377+00:00",
+  "LastChanged_Achievements": "2023-09-18T13:08:39.9859935+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-18T11:57:36.6525837+00:00",
-  "LastUpdate_Achievements": "2023-09-18T12:03:37.1697952+00:00"
+  "LastUpdate_Ratings": "2023-09-18T13:03:08.4915385+00:00",
+  "LastUpdate_Achievements": "2023-09-18T13:08:39.9873907+00:00"
 }

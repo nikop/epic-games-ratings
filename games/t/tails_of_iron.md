@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.54 (Ranked 504)  
+Rating: 4.54 (Ranked 503)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.54 (Ranked 504)
 | Return Power To The Depths | 36.00% | ~688 |
 | Defeat Ratnor Rodentson | 30.00% | ~573 |
 | Return the Statues | 27.00% | ~516 |
-| Defeat Rattus Augustail | 26.00% | ~497 |
+| Defeat Rattus Augustail | 27.00% | ~516 |
 | Complete the Chefs Book | 25.00% | ~478 |
 | Complete Ranger Faction | 21.00% | ~401 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~382 |
