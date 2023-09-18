@@ -148,7 +148,7 @@
 | 146 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 519 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 814 | 157 |
 | 146 | [Haven](games/h/haven.md) | 4.74 | 0 | 519 |
-| 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 12,153 | 31 |
+| 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 12,248 | 31 |
 | 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 691 | 171 |
 | 146 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 519 |
 | 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,099 | 51 |
@@ -297,7 +297,7 @@
 | 282 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 565 | 192 |
 | 282 | [SOMA](games/s/soma.md) | 4.66 | 0 | 519 |
 | 282 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 112 | 327 |
-| 282 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,874 | 61 |
+| 282 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,878 | 61 |
 | 282 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 205 |
 | 282 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 519 |
 | 301 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 519 |
@@ -398,7 +398,7 @@
 | 395 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,831 | 25 |
 | 395 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 519 |
 | 395 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 306 | 236 |
-| 395 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,634 | 72 |
+| 395 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,641 | 72 |
 | 395 | [Control](games/c/control.md) | 4.60 | 8,514 | 40 |
 | 395 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 519 |
 | 395 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 266 |
@@ -752,7 +752,7 @@
 | 750 | [Core](games/c/core.md) | 4.36 | 749 | 163 |
 | 750 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 287 |
 | 750 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.36 | 0 | 519 |
-| 750 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,681 | 29 |
+| 750 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,682 | 29 |
 | 750 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 519 |
 | 750 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 482 |
 | 750 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 519 |
@@ -809,7 +809,7 @@
 | 801 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.30 | 0 | 519 |
 | 808 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 519 |
 | 808 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 519 |
-| 808 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,709,837 | 1 |
+| 808 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,713,529 | 1 |
 | 808 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 731 | 165 |
 | 808 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 519 |
 | 808 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 143 | 306 |

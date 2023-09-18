@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,709,837 | 4.29 | 808 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,713,529 | 4.29 | 808 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 545,386 | 4.49 | 583 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 306,049 | 4.68 | 244 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 228,092 | 4.68 | 244 |
@@ -28,9 +28,9 @@
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,721 | 4.60 | 395 |
 | 27 | [Maneater](games/m/maneater.md) | 13,683 | 4.49 | 583 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,949 | 4.43 | 666 |
-| 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,681 | 4.36 | 750 |
+| 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,682 | 4.36 | 750 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,494 | 4.86 | 32 |
-| 31 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 12,153 | 4.74 | 146 |
+| 31 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 12,248 | 4.74 | 146 |
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,757 | 4.39 | 723 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 11,556 | 4.88 | 19 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,535 | 4.45 | 641 |
@@ -60,7 +60,7 @@
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,007 | 4.79 | 90 |
 | 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,979 | 4.75 | 137 |
 | 60 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,971 | 4.64 | 315 |
-| 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,874 | 4.66 | 282 |
+| 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,878 | 4.66 | 282 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,823 | 4.82 | 66 |
 | 63 | [Prey](games/p/prey.md) | 5,694 | 4.62 | 350 |
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,568 | 4.85 | 42 |
@@ -71,7 +71,7 @@
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,983 | 4.69 | 218 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 467 |
 | 70 | [Shop Titans](games/s/shop_titans.md) | 4,748 | 3.99 | 949 |
-| 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,634 | 4.60 | 395 |
+| 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,641 | 4.60 | 395 |
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,576 | 4.70 | 203 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,550 | 4.76 | 118 |
 | 75 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,547 | 4.70 | 203 |
