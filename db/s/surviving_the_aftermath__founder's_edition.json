@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1251,9 +1251,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9078,
+  "EOS_Progressed": 9079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13086,6 +13086,11 @@
       "Time": "2023-09-18T21:05:18.6041818+00:00",
       "NumProgressed": 9078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T23:06:33.670715+00:00",
+      "NumProgressed": 9079,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13129,7 +13134,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4811
+      "UsersEstimate": 4812
     },
     {
       "ID": "14",
@@ -13185,7 +13190,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "20",
@@ -13209,7 +13214,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "23",
@@ -13305,7 +13310,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "34",
@@ -13345,7 +13350,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "39",
@@ -13377,7 +13382,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "42",
@@ -13417,7 +13422,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "47",
@@ -13521,7 +13526,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "59",
@@ -13568,15 +13573,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9078,
+      "Progressed": 9079,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-15T09:59:20.5978639+00:00",
-  "LastChanged_Achievements": "2023-09-18T22:05:05.057959+00:00",
+  "LastChanged_Achievements": "2023-09-18T23:06:33.6707142+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:54.26707+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:59:48.481131+00:00",
-  "LastUpdate_Achievements": "2023-09-18T22:05:05.0581115+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:01:22.8777604+00:00",
+  "LastUpdate_Achievements": "2023-09-18T23:06:33.6708767+00:00"
 }

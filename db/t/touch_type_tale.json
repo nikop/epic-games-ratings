@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3545,
+  "EOS_Progressed": 3547,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3614,6 +3614,11 @@
       "Time": "2023-09-18T22:06:15.853161+00:00",
       "NumProgressed": 3545,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T23:08:12.8140248+00:00",
+      "NumProgressed": 3547,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3673,7 +3678,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "campaign10",
@@ -3703,9 +3708,9 @@
       "ID": "campaign13",
       "SetID": "2h56gn1",
       "Name": "Damage Control",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 248
     },
     {
       "ID": "campaign14",
@@ -3713,7 +3718,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "campaign15",
@@ -3761,7 +3766,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "campaign20",
@@ -3777,7 +3782,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2164
     },
     {
       "ID": "campaign4",
@@ -3785,7 +3790,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "campaign5",
@@ -3793,7 +3798,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "campaign6",
@@ -3801,7 +3806,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "campaign7",
@@ -3817,7 +3822,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "campaign9",
@@ -3888,7 +3893,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3545,
+      "Progressed": 3547,
       "Completed": 11
     }
   ],
@@ -3896,8 +3901,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-18T22:06:15.8531603+00:00",
+  "LastChanged_Achievements": "2023-09-18T23:08:12.8140241+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-18T22:00:07.7314835+00:00",
-  "LastUpdate_Achievements": "2023-09-18T22:06:15.8532193+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:01:51.2703652+00:00",
+  "LastUpdate_Achievements": "2023-09-18T23:08:12.8140784+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "get-together-176532",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T16:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "GT_ACH_GATE",
       "SetID": "883j7b4",
       "Name": "Wait for me!",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "GT_ACH_PHYSSTONE",
@@ -306,8 +306,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-09-18T22:06:59.1767022+00:00",
+  "LastChanged_Achievements": "2023-09-18T23:09:12.7881478+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:02.8105653+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:58:55.880345+00:00",
-  "LastUpdate_Achievements": "2023-09-18T22:06:59.1767127+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:00:04.0657157+00:00",
+  "LastUpdate_Achievements": "2023-09-18T23:09:12.7881557+00:00"
 }

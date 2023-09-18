@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,536 |
+| First Step | 72.00% | ~6,537 |
 | Leader | 60.00% | ~5,447 |
-| Explorer | 53.00% | ~4,811 |
+| Explorer | 53.00% | ~4,812 |
 | Healer | 52.00% | ~4,721 |
-| Aspiring Inventor | 44.00% | ~3,994 |
+| Aspiring Inventor | 44.00% | ~3,995 |
 | Adventurer | 41.00% | ~3,722 |
 | Famous Healer | 38.00% | ~3,450 |
-| Local Leader | 35.00% | ~3,177 |
+| Local Leader | 35.00% | ~3,178 |
 | Famous Explorer | 34.00% | ~3,087 |
 | New Opportunities | 34.00% | ~3,087 |
 | Energized | 33.00% | ~2,996 |
@@ -23,7 +23,7 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 28.00% | ~2,542 |
 | Cleaner | 28.00% | ~2,542 |
 | Catastrofan | 28.00% | ~2,542 |
-| Finders, Keepers | 26.00% | ~2,360 |
+| Finders, Keepers | 26.00% | ~2,361 |
 | Top Notch | 25.00% | ~2,270 |
 | Great Leader | 23.00% | ~2,088 |
 | Mentor | 23.00% | ~2,088 |
@@ -35,7 +35,7 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 17.00% | ~1,543 |
 | Big Game Hunter | 17.00% | ~1,543 |
 | Spreading Influence | 17.00% | ~1,543 |
-| Around the World | 16.00% | ~1,452 |
+| Around the World | 16.00% | ~1,453 |
 | Bookworm | 15.00% | ~1,362 |
 | Famous Adventurer | 14.00% | ~1,271 |
 | Prepared for Anything | 13.00% | ~1,180 |
@@ -44,8 +44,8 @@ Number of Ratings: 836  (23.09.2022)
 | Sky Burial | 10.00% | ~908 |
 | Trader | 9.00% | ~817 |
 | Bread and Circuses | 8.00% | ~726 |
-| New Eden | 7.00% | ~635 |
-| Tailored to fit | 7.00% | ~635 |
+| New Eden | 7.00% | ~636 |
+| Tailored to fit | 7.00% | ~636 |
 | Really Friendly | 6.00% | ~545 |
 | Amped Up | 6.00% | ~545 |
 | Look, no Hands! | 5.00% | ~454 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,078 (Ranked 135)  
+Progressed: 9,079 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 9,013 | 0 |
 | 2023-09-16 | 9,038 | 0 |
 | 2023-09-17 | 9,060 | 0 |
-| 2023-09-18 | 9,078 | 0 |
+| 2023-09-18 | 9,079 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 336)  
 Sum: 701 (Ranked 279)  

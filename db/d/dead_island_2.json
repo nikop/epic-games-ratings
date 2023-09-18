@@ -4638,9 +4638,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 682367,
+  "EOS_Progressed": 682392,
   "EOS_Completed": 2153,
-  "EOS_NewPlayers": 4154,
+  "EOS_NewPlayers": 4157,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -21643,6 +21643,11 @@
       "Time": "2023-09-18T22:04:50.874059+00:00",
       "NumProgressed": 682367,
       "NumCompleted": 2153
+    },
+    {
+      "Time": "2023-09-18T23:06:14.1547962+00:00",
+      "NumProgressed": 682392,
+      "NumCompleted": 2153
     }
   ],
   "TotalAchievements": 45,
@@ -21654,7 +21659,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -21662,7 +21667,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "ach_ammo_ran",
@@ -21670,7 +21675,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_anger_management",
@@ -21686,7 +21691,7 @@
       "Name": "Make it So",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ach_big_name_in_town",
@@ -21710,7 +21715,7 @@
       "Name": "Bookworm",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_break_a_leg",
@@ -21718,7 +21723,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_contender",
@@ -21726,7 +21731,7 @@
       "Name": "On Safari",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ach_defensive",
@@ -21742,7 +21747,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_doom_buddies",
@@ -21774,7 +21779,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -21788,9 +21793,9 @@
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2729
+      "UsersEstimate": 3412
     },
     {
       "ID": "ach_hazardous_materials",
@@ -21798,7 +21803,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -21806,7 +21811,7 @@
       "Name": "Friends Like These",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_hotel_california",
@@ -21814,7 +21819,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_impressive_aim",
@@ -21854,7 +21859,7 @@
       "Name": "Apex Predator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_knowledgeable",
@@ -21894,7 +21899,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "ach_revival_tour",
@@ -21910,7 +21915,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "ach_secrets_of_la",
@@ -21926,7 +21931,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_star_performance",
@@ -21934,7 +21939,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_survival_expert",
@@ -21974,7 +21979,7 @@
       "Name": "This is My Weapon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -21982,7 +21987,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -21990,7 +21995,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ach_well_known_survivor",
@@ -22013,22 +22018,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 682367,
+      "Progressed": 682392,
       "Completed": 2153
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 7908,
-      "Completed": 7908
+      "Progressed": 7933,
+      "Completed": 7933
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-18T20:58:44.3103407+00:00",
-  "LastChanged_Achievements": "2023-09-18T22:04:50.8740582+00:00",
+  "LastChanged_Achievements": "2023-09-18T23:06:14.1547954+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:58:37.6377165+00:00",
-  "LastUpdate_Achievements": "2023-09-18T22:04:50.874231+00:00"
+  "LastUpdate_Ratings": "2023-09-18T22:59:36.564797+00:00",
+  "LastUpdate_Achievements": "2023-09-18T23:06:14.1550214+00:00"
 }

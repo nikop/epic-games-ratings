@@ -7,13 +7,14 @@
 | Breaking Free | 33.00% | ~8 |
 | Overcoming Weakness | 17.00% | ~4 |
 | Boulder Breaker | 13.00% | ~3 |
+| Crystal Hunter | 8.00% | ~2 |
 | Fence-Sitter | 8.00% | ~2 |
 | Green Thumb | 8.00% | ~2 |
-| Crystal Hunter | 4.00% | ~1 |
 | Bye-Bye, Butcher | 4.00% | ~1 |
 | Equivalent Exchange | 4.00% | ~1 |
 | Setting Off | 4.00% | ~1 |
 | Danger | 4.00% | ~1 |
+| Rabbit Hunter | 4.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Column Crusher | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
@@ -30,7 +31,6 @@
 | Conqueror of the Devil Blade | 0.00% | ~0 |
 | Eviction | 0.00% | ~0 |
 | For Justice | 0.00% | ~0 |
-| Rabbit Hunter | 0.00% | ~0 |
 | Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 | Breach of Contract | 0.00% | ~0 |

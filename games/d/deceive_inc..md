@@ -9,11 +9,11 @@ Rating: 4.56 (Ranked 467)
 | The Spy who eliminated me | 23.00% | ~4,153 |
 | Mainframe Hacker | 22.00% | ~3,972 |
 | Tomorrow Never Dyes | 22.00% | ~3,972 |
-| Never Say Loser Again | 19.00% | ~3,430 |
+| Never Say Loser Again | 19.00% | ~3,431 |
 | From the Vault with Love | 18.00% | ~3,250 |
 | For your Eyes only | 18.00% | ~3,250 |
-| Assistant Accountant | 17.00% | ~3,069 |
-| Tailor-Made | 17.00% | ~3,069 |
+| Assistant Accountant | 17.00% | ~3,070 |
+| Tailor-Made | 17.00% | ~3,070 |
 | You Only Live Twice | 16.00% | ~2,889 |
 | Fully Decked Out | 16.00% | ~2,889 |
 | A view to Win | 13.00% | ~2,347 |
@@ -36,13 +36,13 @@ Rating: 4.56 (Ranked 467)
 | PHD in VIP | 2.00% | ~361 |
 | The terminals are not enough | 1.00% | ~181 |
 | Lose Another Day | 1.00% | ~181 |
-| Chairman of Deceive Inc. | 0.90% | ~162 |
+| Chairman of Deceive Inc. | 0.90% | ~163 |
 | Chief Information Officer | 0.80% | ~144 |
 | Masteries Are Forever | 0.40% | ~72 |
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,055 (Ranked 118)  
+Progressed: 18,056 (Ranked 118)  
 Completed: 3 (0.02%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 3 (0.02%) (Ranked 254)
 | 2023-09-15 | 18,009 | 3 |
 | 2023-09-16 | 18,024 | 3 |
 | 2023-09-17 | 18,043 | 3 |
-| 2023-09-18 | 18,055 | 3 |
+| 2023-09-18 | 18,056 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

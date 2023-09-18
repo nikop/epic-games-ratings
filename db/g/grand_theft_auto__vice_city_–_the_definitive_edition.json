@@ -652,9 +652,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 10101,
+  "EOS_Progressed": 10102,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -9802,6 +9802,11 @@
       "Time": "2023-09-18T22:07:11.1682747+00:00",
       "NumProgressed": 10101,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-18T23:09:29.3162821+00:00",
+      "NumProgressed": 10102,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9917,7 +9922,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4242
+      "UsersEstimate": 4243
     },
     {
       "ID": "ACH15",
@@ -9973,7 +9978,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "ACH22",
@@ -9987,9 +9992,9 @@
       "ID": "ACH23",
       "SetID": "9llo822",
       "Name": "South American Connection",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACH24",
@@ -10084,7 +10089,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10101,
+      "Progressed": 10102,
       "Completed": 56
     }
   ],
@@ -10092,8 +10097,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-17T05:59:07.322299+00:00",
-  "LastChanged_Achievements": "2023-09-18T22:07:11.1682741+00:00",
+  "LastChanged_Achievements": "2023-09-18T23:09:29.3162813+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:58:34.4826514+00:00",
-  "LastUpdate_Achievements": "2023-09-18T22:07:11.1683883+00:00"
+  "LastUpdate_Ratings": "2023-09-18T22:59:31.8212562+00:00",
+  "LastUpdate_Achievements": "2023-09-18T23:09:29.3164328+00:00"
 }

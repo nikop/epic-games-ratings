@@ -12,10 +12,10 @@
 | What have I done!? | 19.00% | ~41 |
 | Them and Us | 18.00% | ~39 |
 | OUTRAGE | 18.00% | ~39 |
+| This Coffin Has Your Name On It! | 15.00% | ~32 |
 | Alone In The Dark | 14.00% | ~30 |
+| Parasite Exterminated | 14.00% | ~30 |
 | The Cultists | 14.00% | ~30 |
-| This Coffin Has Your Name On It! | 14.00% | ~30 |
-| Parasite Exterminated | 13.00% | ~28 |
 | The Forgotten Tower | 13.00% | ~28 |
 | Lover of classics | 11.00% | ~24 |
 | Trapped | 11.00% | ~24 |

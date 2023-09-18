@@ -18,8 +18,8 @@
 | Chapter 7 Complete | 19.00% | ~17 |
 | Plant Enchanter | 19.00% | ~17 |
 | Reconciliation | 19.00% | ~17 |
+| The Terror | 17.00% | ~15 |
 | Bounty Hunter | 16.00% | ~14 |
-| The Terror | 16.00% | ~14 |
 | All Geared Up | 13.00% | ~12 |
 | The End | 13.00% | ~12 |
 | Good Deed | 13.00% | ~12 |

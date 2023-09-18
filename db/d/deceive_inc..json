@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18055,
+  "EOS_Progressed": 18056,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -10411,6 +10411,11 @@
       "Time": "2023-09-18T22:03:29.2160026+00:00",
       "NumProgressed": 18055,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T23:04:23.2074394+00:00",
+      "NumProgressed": 18056,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10438,7 +10443,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "0004",
@@ -10550,7 +10555,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "0018",
@@ -10614,7 +10619,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "0026",
@@ -10694,7 +10699,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "0036",
@@ -10709,7 +10714,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18055,
+      "Progressed": 18056,
       "Completed": 3
     }
   ],
@@ -10717,8 +10722,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-18T22:03:29.2160017+00:00",
+  "LastChanged_Achievements": "2023-09-18T23:04:23.2074385+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:59:39.8575455+00:00",
-  "LastUpdate_Achievements": "2023-09-18T22:03:29.2161133+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:01:10.3084211+00:00",
+  "LastUpdate_Achievements": "2023-09-18T23:04:23.2075246+00:00"
 }

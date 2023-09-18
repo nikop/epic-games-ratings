@@ -13,7 +13,7 @@
 | The darkness | 36.00% | ~61 |
 | A good beginning | 35.00% | ~59 |
 | True G4M3R | 32.00% | ~54 |
-| One last step | 31.00% | ~53 |
+| One last step | 32.00% | ~54 |
 | Cable guy | 29.00% | ~49 |
 | Champollion | 29.00% | ~49 |
 | Half the way | 28.00% | ~48 |

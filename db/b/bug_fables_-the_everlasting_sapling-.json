@@ -4,8 +4,8 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "BFT_CH5HB",
       "SetID": "7o7kd30",
       "Name": "The Terror",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BFT_CH6",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-09-18T22:06:41.2520152+00:00",
+  "LastChanged_Achievements": "2023-09-18T23:08:48.1180003+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.7876028+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:59:44.7342244+00:00",
-  "LastUpdate_Achievements": "2023-09-18T22:06:41.2520537+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:01:17.2210568+00:00",
+  "LastUpdate_Achievements": "2023-09-18T23:08:48.1180228+00:00"
 }

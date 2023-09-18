@@ -22,8 +22,8 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 11.00% | ~154 |
 | Thematic Divergence | 10.00% | ~140 |
 | Echoes Die | 10.00% | ~140 |
+| Chain Reaction | 9.00% | ~126 |
 | Plague Doctor | 8.00% | ~112 |
-| Chain Reaction | 8.00% | ~112 |
 | Everfading | 8.00% | ~112 |
 | Another Tale to Tell | 8.00% | ~112 |
 | Let Me Get My Chisel | 7.00% | ~98 |

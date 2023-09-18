@@ -5,62 +5,62 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 75.00% | ~3 |
-| On the Top Step | 75.00% | ~3 |
-| Crucial Combo | 50.00% | ~2 |
-| Setting up for Success | 50.00% | ~2 |
-| Hitting a Season | 50.00% | ~2 |
-| Hitting a Bullseye | 50.00% | ~2 |
-| Undisputed Winner | 50.00% | ~2 |
-| Team Orders | 50.00% | ~2 |
-| A Dozen Pieces | 50.00% | ~2 |
-| Sharing the Love | 50.00% | ~2 |
-| Engineer | 50.00% | ~2 |
-| Familiar Faces | 50.00% | ~2 |
-| Going the Extra Mile | 50.00% | ~2 |
-| Making History | 50.00% | ~2 |
-| Writing a new Chapter | 50.00% | ~2 |
-| Gathering Dust | 25.00% | ~1 |
-| All in a Weekend's Work | 25.00% | ~1 |
-| Oil and Water | 25.00% | ~1 |
-| Lightning Round the World | 25.00% | ~1 |
-| For all Those Back at the Factory | 25.00% | ~1 |
-| Loyal Bond | 25.00% | ~1 |
-| Reduce | 25.00% | ~1 |
-| Reuse | 25.00% | ~1 |
-| Challenge Yourself | 25.00% | ~1 |
-| Living up to Expectations | 25.00% | ~1 |
-| Ups and Downs | 25.00% | ~1 |
-| One for the Book | 25.00% | ~1 |
-| Peak Performance | 25.00% | ~1 |
-| Proving Them Wrong | 25.00% | ~1 |
-| Spring Cleaning | 0.00% | ~0 |
+| Getting on the Step | 85.00% | ~11 |
+| Setting up for Success | 62.00% | ~8 |
+| On the Top Step | 62.00% | ~8 |
+| Familiar Faces | 54.00% | ~7 |
+| Team Orders | 46.00% | ~6 |
+| Going the Extra Mile | 46.00% | ~6 |
+| Sharing the Love | 38.00% | ~5 |
+| Hitting a Season | 31.00% | ~4 |
+| Engineer | 31.00% | ~4 |
+| Making History | 31.00% | ~4 |
+| Writing a new Chapter | 31.00% | ~4 |
+| Crucial Combo | 23.00% | ~3 |
+| Hitting a Bullseye | 23.00% | ~3 |
+| A Dozen Pieces | 23.00% | ~3 |
+| Gathering Dust | 15.00% | ~2 |
+| Undisputed Winner | 15.00% | ~2 |
+| Loyal Bond | 15.00% | ~2 |
+| Reduce | 15.00% | ~2 |
+| Reuse | 15.00% | ~2 |
+| Challenge Yourself | 15.00% | ~2 |
+| Ups and Downs | 15.00% | ~2 |
+| Proving Them Wrong | 15.00% | ~2 |
+| Spring Cleaning | 8.00% | ~1 |
+| Eagle Eye | 8.00% | ~1 |
+| All in a Weekend's Work | 8.00% | ~1 |
+| Oil and Water | 8.00% | ~1 |
+| Lightning Round the World | 8.00% | ~1 |
+| For all Those Back at the Factory | 8.00% | ~1 |
+| Wait, I know you? | 8.00% | ~1 |
+| Friendly Competition | 8.00% | ~1 |
+| Switcheroo | 8.00% | ~1 |
+| Tinkerer | 8.00% | ~1 |
+| Living up to Expectations | 8.00% | ~1 |
+| One for the Book | 8.00% | ~1 |
+| Peak Performance | 8.00% | ~1 |
+| Media Darling | 8.00% | ~1 |
 | Under the Microscope | 0.00% | ~0 |
 | Shot in the Dark | 0.00% | ~0 |
-| Eagle Eye | 0.00% | ~0 |
 | Network Success | 0.00% | ~0 |
 | Seasoned Rookie | 0.00% | ~0 |
 | Saturday Night Drama | 0.00% | ~0 |
 | Hitting a Century | 0.00% | ~0 |
-| Wait, I know you? | 0.00% | ~0 |
-| Friendly Competition | 0.00% | ~0 |
-| Switcheroo | 0.00% | ~0 |
 | Spinning Around | 0.00% | ~0 |
 | Recycle | 0.00% | ~0 |
-| Tinkerer | 0.00% | ~0 |
 | Golden Touch | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 | Smooth Operator | 0.00% | ~0 |
 | Filling in the Gaps | 0.00% | ~0 |
 | Ultimate Collector | 0.00% | ~0 |
-| Media Darling | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 509)  
+Progressed: 13 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-18 | 4 | 0 |
+| 2023-09-18 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

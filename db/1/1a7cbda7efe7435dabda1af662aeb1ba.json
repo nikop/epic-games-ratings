@@ -4,8 +4,8 @@
   "ProductSlug": "zoeti-3ccef9",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
     "PcReleaseDate": "2023-04-20T16:00:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "BOSS_KILL12",
       "SetID": "1icc7kd",
       "Name": "Crystal Hunter",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_KILL2",
@@ -348,9 +348,9 @@
       "ID": "STORY4",
       "SetID": "1icc7kd",
       "Name": "Rabbit Hunter",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "STORY5",
@@ -387,8 +387,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-09-18T22:06:53.6420022+00:00",
+  "LastChanged_Achievements": "2023-09-18T23:09:05.4614119+00:00",
   "LastUpdate_AppInfo": "2023-09-13T04:57:01.0109865+00:00",
-  "LastUpdate_Ratings": "2023-09-18T21:57:17.4553277+00:00",
-  "LastUpdate_Achievements": "2023-09-18T22:06:53.642043+00:00"
+  "LastUpdate_Ratings": "2023-09-18T22:57:38.902931+00:00",
+  "LastUpdate_Achievements": "2023-09-18T23:09:05.4614355+00:00"
 }

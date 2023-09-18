@@ -6,32 +6,32 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~375 |
-| Close call! | 72.00% | ~346 |
-| Builder | 52.00% | ~250 |
-| Pangs of conscience | 46.00% | ~221 |
+| Getting started | 78.00% | ~376 |
+| Close call! | 72.00% | ~347 |
+| Builder | 52.00% | ~251 |
+| Pangs of conscience | 46.00% | ~222 |
 | Living it large! | 44.00% | ~212 |
 | Collector | 42.00% | ~202 |
-| Need to think | 41.00% | ~197 |
+| Need to think | 41.00% | ~198 |
 | Completely nuts! | 39.00% | ~188 |
 | Just in time! | 33.00% | ~159 |
 | Europe | 31.00% | ~149 |
-| It's no coincidence. | 30.00% | ~144 |
-| Madness! | 29.00% | ~139 |
+| It's no coincidence. | 29.00% | ~140 |
+| Madness! | 29.00% | ~140 |
 | Let's roll! | 26.00% | ~125 |
 | Philatelist | 25.00% | ~120 |
 | Ouroboros | 25.00% | ~120 |
 | Non Stop! | 23.00% | ~111 |
 | Foreman | 21.00% | ~101 |
-| Russia | 19.00% | ~91 |
-| Missed it! | 19.00% | ~91 |
+| Russia | 19.00% | ~92 |
+| Missed it! | 19.00% | ~92 |
 | America | 17.00% | ~82 |
 | Sabotage | 16.00% | ~77 |
 | Woodcutter | 11.00% | ~53 |
 | Engineer | 11.00% | ~53 |
 | Achtung! | 11.00% | ~53 |
 | Japan | 10.00% | ~48 |
-| Tycoon | 8.00% | ~38 |
+| Tycoon | 8.00% | ~39 |
 | Germany | 6.00% | ~29 |
 | Chuck Norris | 5.00% | ~24 |
 | Сhancellor | 4.00% | ~19 |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481 (Ranked 253)  
-Completed: 2 (0.42%) (Ranked 163)  
+Progressed: 482 (Ranked 253)  
+Completed: 2 (0.41%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 2 (0.42%) (Ranked 163)
 | 2023-09-15 | 468 | 2 |
 | 2023-09-16 | 474 | 2 |
 | 2023-09-17 | 476 | 2 |
-| 2023-09-18 | 481 | 2 |
+| 2023-09-18 | 482 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,32 +5,32 @@ Rating: 4.41 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 93.00% | ~1,343 |
-| Ranidaphobia | 78.00% | ~1,126 |
-| Aspiring Editor | 75.00% | ~1,083 |
+| First Blood | 93.00% | ~1,344 |
+| Ranidaphobia | 78.00% | ~1,127 |
+| Aspiring Editor | 75.00% | ~1,084 |
 | Gun for Hire | 70.00% | ~1,011 |
-| I am the law! | 64.00% | ~924 |
-| Lumberjack | 53.00% | ~765 |
-| Croaked | 48.00% | ~693 |
-| Limp Richard | 48.00% | ~693 |
+| I am the law! | 64.00% | ~925 |
+| Lumberjack | 53.00% | ~766 |
+| Croaked | 48.00% | ~694 |
+| Limp Richard | 48.00% | ~694 |
 | Exorcist | 47.00% | ~679 |
 | From Darkness to Light | 47.00% | ~679 |
-| Editor Adept | 46.00% | ~664 |
+| Editor Adept | 46.00% | ~665 |
 | Giant Killer | 45.00% | ~650 |
 | Sensei | 43.00% | ~621 |
-| Firestarter | 42.00% | ~606 |
+| Firestarter | 42.00% | ~607 |
 | The meaning of Kain | 41.00% | ~592 |
 | Technophobe | 40.00% | ~578 |
-| Recycler | 39.00% | ~563 |
+| Recycler | 39.00% | ~564 |
 | Are you not entertained? | 34.00% | ~491 |
 | Ganglord | 34.00% | ~491 |
 | Jarhead | 34.00% | ~491 |
-| Infiltrator | 34.00% | ~491 |
+| Infiltrator | 33.00% | ~477 |
 | Pushing Daisy | 32.00% | ~462 |
 | Experienced | 31.00% | ~448 |
-| Hold The Line | 30.00% | ~433 |
+| Hold The Line | 30.00% | ~434 |
 | Endgame | 27.00% | ~390 |
-| Savior | 26.00% | ~375 |
+| Savior | 26.00% | ~376 |
 | There Can Be Only One! | 25.00% | ~361 |
 | Chain Killer | 22.00% | ~318 |
 | Silent but Violent | 22.00% | ~318 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 692)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,444 (Ranked 198)  
+Progressed: 1,445 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 1,432 | 0 |
 | 2023-09-16 | 1,437 | 0 |
 | 2023-09-17 | 1,441 | 0 |
-| 2023-09-18 | 1,444 | 0 |
+| 2023-09-18 | 1,445 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

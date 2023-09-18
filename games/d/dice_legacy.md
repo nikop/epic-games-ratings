@@ -6,8 +6,8 @@ Rating: 4.27 (Ranked 823)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 38.00% | ~402 |
+| The City | 10.00% | ~106 |
 | Manipulating Fate | 9.00% | ~95 |
-| The City | 9.00% | ~95 |
 | Full house | 6.00% | ~63 |
 | Burn and Pillage | 6.00% | ~63 |
 | Hear me out | 6.00% | ~63 |
