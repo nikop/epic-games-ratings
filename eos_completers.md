@@ -18,9 +18,9 @@
 | 16 | [Island Cities](games/i/island_cities.md) | 15.69% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 18 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 14.29% |
-| 19 | [Anna's Quest](games/a/anna's_quest.md) | 12.50% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
-| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.33% |
+| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.33% |
+| 21 | [Anna's Quest](games/a/anna's_quest.md) | 12.20% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.95% |
@@ -34,9 +34,9 @@
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.59% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
-| 35 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.89% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
-| 37 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.69% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
+| 36 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.69% |
+| 36 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.69% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.55% |
 | 39 | [Time Loader](games/t/time_loader.md) | 7.38% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.09% |
@@ -105,7 +105,7 @@
 | 102 | [Sifu](games/s/sifu.md) | 1.80% |
 | 104 | [Somerville](games/s/somerville.md) | 1.71% |
 | 105 | [Five Dates](games/f/five_dates.md) | 1.66% |
-| 106 | [Iron Danger](games/i/iron_danger.md) | 1.54% |
+| 106 | [Iron Danger](games/i/iron_danger.md) | 1.53% |
 | 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.50% |
 | 107 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -146,12 +146,12 @@
 | 144 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 144 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 146 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
-| 146 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
+| 147 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 148 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 149 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.57% |
 | 149 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
-| 151 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
-| 152 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 151 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 151 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
 | 153 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
 | 154 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
 | 154 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
