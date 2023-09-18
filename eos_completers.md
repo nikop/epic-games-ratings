@@ -49,7 +49,7 @@
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.67% |
 | 48 | [JARS](games/j/jars.md) | 5.56% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.52% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.36% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.33% |
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
@@ -165,9 +165,9 @@
 | 163 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
 | 163 | [Train Valley](games/t/train_valley.md) | 0.42% |
 | 165 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 166 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 166 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 166 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
+| 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 167 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 169 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.36% |
 | 169 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
 | 169 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
@@ -598,4 +598,4 @@
 | 277 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 277 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 277 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,260 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,261 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
