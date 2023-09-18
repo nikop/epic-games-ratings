@@ -145,6 +145,7 @@
 | [Sword and Fairy Inn 2](../games/5/511787884bc344e080cf5ae502e8092d.md) | 50 | 1,000 |
 | [Train World](../games/t/train_world.md) | 50 | 1,000 |
 | [Ash of Gods: The Way](../games/a/ash_of_gods__the_way.md) | 49 | 1,000 |
+| [F1® 23](../games/f/f1®_23_standard_edition.md) | 49 | 1,000 |
 | [Grindstone](../games/g/grindstone.md) | 49 | 1,000 |
 | [Guacamelee! 2](../games/2/277e364d24ec43069f4ee3c4414d5096.md) | 49 | 1,000 |
 | [Hades](../games/h/hades.md) | 49 | 1,000 |

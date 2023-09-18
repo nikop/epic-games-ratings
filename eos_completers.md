@@ -49,8 +49,8 @@
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.67% |
 | 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.55% |
 | 49 | [JARS](games/j/jars.md) | 5.48% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.33% |
-| 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.29% |
+| 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
@@ -76,8 +76,8 @@
 | 74 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 77 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
-| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.91% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.93% |
+| 78 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -95,7 +95,7 @@
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.24% |
 | 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.10% |
-| 96 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
+| 96 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.00% |
 | 97 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.89% |
 | 99 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -111,7 +111,7 @@
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 110 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.47% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
-| 112 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.42% |
+| 112 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.41% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.35% |
 | 115 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
@@ -599,4 +599,4 @@
 | 277 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 277 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 277 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,263 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,264 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
