@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3528,
+  "EOS_Progressed": 3537,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3599,6 +3599,11 @@
       "Time": "2023-09-18T19:07:53.8312406+00:00",
       "NumProgressed": 3528,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-18T20:07:57.3570229+00:00",
+      "NumProgressed": 3537,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3610,7 +3615,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "bonus2",
@@ -3618,7 +3623,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "bonus3",
@@ -3626,7 +3631,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "bonus4",
@@ -3658,7 +3663,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3105
+      "UsersEstimate": 3113
     },
     {
       "ID": "campaign10",
@@ -3666,7 +3671,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "campaign11",
@@ -3682,7 +3687,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "campaign13",
@@ -3690,7 +3695,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "campaign14",
@@ -3698,7 +3703,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "campaign15",
@@ -3714,7 +3719,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "campaign17",
@@ -3738,7 +3743,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "campaign2",
@@ -3746,7 +3751,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2723
     },
     {
       "ID": "campaign20",
@@ -3754,7 +3759,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "campaign3",
@@ -3762,7 +3767,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2158
     },
     {
       "ID": "campaign4",
@@ -3770,7 +3775,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1556
     },
     {
       "ID": "campaign5",
@@ -3778,7 +3783,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 564
+      "UsersEstimate": 566
     },
     {
       "ID": "campaign6",
@@ -3786,7 +3791,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "campaign7",
@@ -3794,7 +3799,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 917
+      "UsersEstimate": 920
     },
     {
       "ID": "campaign8",
@@ -3802,7 +3807,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "campaign9",
@@ -3810,7 +3815,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "scenario1",
@@ -3818,7 +3823,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1379
     },
     {
       "ID": "scenario2",
@@ -3826,7 +3831,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 637
     },
     {
       "ID": "scenario3",
@@ -3834,7 +3839,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "scenario4",
@@ -3873,7 +3878,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3528,
+      "Progressed": 3537,
       "Completed": 11
     }
   ],
@@ -3881,8 +3886,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:07:53.83124+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:07:57.3570223+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:01:34.6705719+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:07:53.8313001+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:01:38.2534473+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:07:57.3570822+00:00"
 }

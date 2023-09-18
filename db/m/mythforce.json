@@ -629,9 +629,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2662,
+  "EOS_Progressed": 2665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1353,
+  "EOS_NewPlayers": 1352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4834,6 +4834,11 @@
       "Time": "2023-09-18T19:03:25.755332+00:00",
       "NumProgressed": 2662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T20:03:27.9878412+00:00",
+      "NumProgressed": 2665,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4894,7 +4899,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -4910,7 +4915,7 @@
       "Name": "Flawless Victory",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -4966,7 +4971,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -4980,9 +4985,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 373
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4996,9 +5001,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 293
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5029,15 +5034,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2662,
+      "Progressed": 2665,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-17T17:01:48.1393189+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:03:25.7553316+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:03:27.9878407+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:59:35.6803531+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:03:25.7553805+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:59:33.6330738+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:03:27.9879014+00:00"
 }

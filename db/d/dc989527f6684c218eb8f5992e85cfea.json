@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11570,
+  "EOS_Progressed": 11571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9906,6 +9906,11 @@
       "Time": "2023-09-18T19:04:12.1203546+00:00",
       "NumProgressed": 11570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T20:04:13.5258161+00:00",
+      "NumProgressed": 11571,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9917,7 +9922,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -9941,7 +9946,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -10116,14 +10121,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11570,
+      "Progressed": 11571,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:04:12.120354+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:04:13.5258157+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5872219+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:02:24.116938+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:04:12.1204428+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:02:27.7121168+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:04:13.5258976+00:00"
 }

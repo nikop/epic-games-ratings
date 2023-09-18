@@ -8,7 +8,7 @@ Rating: 4.18 (Ranked 886)
 | First Step Into the Knight | 52.00% | ~37,776 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,426 |
 | Loose Ends | 34.00% | ~24,700 |
-| To the Victor Go the Spoils | 29.00% | ~21,067 |
+| To the Victor Go the Spoils | 29.00% | ~21,068 |
 | Knighthood | 28.00% | ~20,341 |
 | Get ReQ'd | 25.00% | ~18,162 |
 | Whispered Words | 25.00% | ~18,162 |
@@ -23,12 +23,12 @@ Rating: 4.18 (Ranked 886)
 | The Show Mud Go On | 18.00% | ~13,076 |
 | From Inside Gotham's Walls | 18.00% | ~13,076 |
 | Protector of Gotham | 17.00% | ~12,350 |
-| Universal Health Scare | 16.00% | ~11,623 |
+| Universal Health Scare | 16.00% | ~11,624 |
 | In Your Element | 15.00% | ~10,897 |
 | Voiceless | 15.00% | ~10,897 |
-| Rock and a Hard Place | 14.00% | ~10,170 |
-| Cooldown | 14.00% | ~10,170 |
-| Seeking Asylum | 14.00% | ~10,170 |
+| Rock and a Hard Place | 14.00% | ~10,171 |
+| Cooldown | 14.00% | ~10,171 |
+| Seeking Asylum | 14.00% | ~10,171 |
 | Not On My Watch | 13.00% | ~9,444 |
 | Shock Til They Drop | 13.00% | ~9,444 |
 | End of an Era | 12.00% | ~8,718 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 886)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,646 (Ranked 83)  
+Progressed: 72,647 (Ranked 83)  
 Completed: 114 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 114 (0.16%) (Ranked 205)
 | 2023-09-15 | 72,563 | 113 |
 | 2023-09-16 | 72,594 | 113 |
 | 2023-09-17 | 72,625 | 113 |
-| 2023-09-18 | 72,646 | 114 |
+| 2023-09-18 | 72,647 | 114 |
 ## Awards
 Max (Great Boss Battles): 2,708  (Ranked 96)  
-Sum: 4,495 (Ranked 139)  
+Sum: 4,497 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -231,9 +231,9 @@ Diff (max vs sum): -43
 | This game is Relaxing | 227 |
 | This game has Diverse Characters | 225 |
 | This game has Amazing Characters | 220 |
+| This game has Amazing Storytelling | 220 |
 | This game is Highly Recommended | 220 |
 | This game is Great for Beginners | 219 |
-| This game has Amazing Storytelling | 218 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -443,4 +443,4 @@ Diff (max vs sum): -43
 | 2023-09-15 | 4.18 | 2,683 | 4,447 |
 | 2023-09-16 | 4.18 | 2,698 | 4,468 |
 | 2023-09-17 | 4.18 | 2,708 | 4,485 |
-| 2023-09-18 | 4.18 | 2,708 | 4,495 |
+| 2023-09-18 | 4.18 | 2,708 | 4,497 |

@@ -5,7 +5,7 @@ Rating: 4.41 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,328 |
+| First Blood | 93.00% | ~1,343 |
 | Ranidaphobia | 78.00% | ~1,126 |
 | Aspiring Editor | 75.00% | ~1,083 |
 | Gun for Hire | 70.00% | ~1,011 |
@@ -25,7 +25,7 @@ Rating: 4.41 (Ranked 692)
 | Are you not entertained? | 34.00% | ~491 |
 | Ganglord | 34.00% | ~491 |
 | Jarhead | 34.00% | ~491 |
-| Infiltrator | 33.00% | ~477 |
+| Infiltrator | 34.00% | ~491 |
 | Pushing Daisy | 32.00% | ~462 |
 | Experienced | 31.00% | ~448 |
 | Hold The Line | 30.00% | ~433 |

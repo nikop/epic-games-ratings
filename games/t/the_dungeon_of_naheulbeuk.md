@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,530 |
-| Alt+F4 | 5.00% | ~11,255 |
+| Sowwy! | 30.00% | ~67,533 |
+| Alt+F4 | 5.00% | ~11,256 |
 | Déjà vu | 4.00% | ~9,004 |
 | Where's that freaking Dwarf? | 4.00% | ~9,004 |
 | Sock! SOCK! | 3.00% | ~6,753 |
@@ -44,8 +44,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 0.70% | ~1,576 |
 | Material Girl | 0.70% | ~1,576 |
 | Gargantua | 0.60% | ~1,351 |
-| In Navalu's footsteps | 0.50% | ~1,125 |
-| Lëgal Legend | 0.50% | ~1,125 |
+| In Navalu's footsteps | 0.50% | ~1,126 |
+| Lëgal Legend | 0.50% | ~1,126 |
 | Holistic Adventuring Party | 0.40% | ~900 |
 | An old poacher makes the best gamekeeper | 0.40% | ~900 |
 | We come in peace | 0.40% | ~900 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,099 (Ranked 58)  
+Progressed: 225,111 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 3 (0.00%) (Ranked 277)
 | 2023-09-15 | 224,285 | 3 |
 | 2023-09-16 | 224,568 | 3 |
 | 2023-09-17 | 224,910 | 3 |
-| 2023-09-18 | 225,099 | 3 |
+| 2023-09-18 | 225,111 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 337 (Ranked 336)  

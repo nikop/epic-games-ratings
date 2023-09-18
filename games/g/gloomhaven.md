@@ -6,53 +6,54 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 26.00% | ~157 |
-| A normal day in Gloomhaven | 22.00% | ~133 |
-| Overkill | 21.00% | ~127 |
-| Vaccine Incoming | 18.00% | ~109 |
-| Get over here! | 16.00% | ~97 |
-| Spread the plague | 15.00% | ~91 |
-| Mine... All Mine... | 12.00% | ~72 |
-| Just when I thought I was out... | 11.00% | ~66 |
-| Augmented rat | 10.00% | ~60 |
-| You activated my trap card! | 9.00% | ~54 |
-| Anatomy Lesson | 9.00% | ~54 |
-| Light of my life | 8.00% | ~48 |
-| Obstacle race | 6.00% | ~36 |
-| Pack leader | 5.00% | ~30 |
-| Doom and gloom | 5.00% | ~30 |
-| Who's the Boss? | 4.00% | ~24 |
-| Caught off guard | 4.00% | ~24 |
-| Precious! | 4.00% | ~24 |
-| Pain is your friend | 4.00% | ~24 |
-| Black death | 4.00% | ~24 |
-| Quad damage | 4.00% | ~24 |
-| Now you see me... | 4.00% | ~24 |
-| Play it again, Sam | 4.00% | ~24 |
-| Grizzled veteran | 3.00% | ~18 |
-| The Pro from Dover | 3.00% | ~18 |
-| Power Up! | 2.00% | ~12 |
-| Dungeon Veteran | 2.00% | ~12 |
-| Merchant of doom | 2.00% | ~12 |
-| The Sniper | 2.00% | ~12 |
-| Pretty lights! | 2.00% | ~12 |
-| Grin and bear it | 2.00% | ~12 |
-| I hate portals | 1.00% | ~6 |
-| How to train your Drake | 1.00% | ~6 |
-| An eye for an eye | 1.00% | ~6 |
-| The Pacifist | 1.00% | ~6 |
-| An axe to grind | 1.00% | ~6 |
-| Add a bit of colour | 0.80% | ~5 |
-| Down the hatch | 0.80% | ~5 |
-| The Cephalophore | 0.80% | ~5 |
-| Master Assassin | 0.80% | ~5 |
-| From Gloom, only greed and death emerges | 0.70% | ~4 |
-| The Rat King | 0.70% | ~4 |
-| Betray this | 0.50% | ~3 |
-| Spoiler police! | 0.50% | ~3 |
+| I'm not dead yet | 26.00% | ~189 |
+| A normal day in Gloomhaven | 22.00% | ~160 |
+| Overkill | 21.00% | ~153 |
+| Vaccine Incoming | 18.00% | ~131 |
+| Spread the plague | 16.00% | ~116 |
+| Get over here! | 16.00% | ~116 |
+| Mine... All Mine... | 12.00% | ~87 |
+| Just when I thought I was out... | 10.00% | ~73 |
+| You activated my trap card! | 9.00% | ~65 |
+| Augmented rat | 9.00% | ~65 |
+| Anatomy Lesson | 9.00% | ~65 |
+| Light of my life | 8.00% | ~58 |
+| Obstacle race | 6.00% | ~44 |
+| Doom and gloom | 6.00% | ~44 |
+| Pack leader | 5.00% | ~36 |
+| Precious! | 4.00% | ~29 |
+| Grizzled veteran | 4.00% | ~29 |
+| Pain is your friend | 4.00% | ~29 |
+| Black death | 4.00% | ~29 |
+| Play it again, Sam | 4.00% | ~29 |
+| Who's the Boss? | 3.00% | ~22 |
+| Caught off guard | 3.00% | ~22 |
+| The Pro from Dover | 3.00% | ~22 |
+| Quad damage | 3.00% | ~22 |
+| Now you see me... | 3.00% | ~22 |
+| Power Up! | 2.00% | ~15 |
+| Dungeon Veteran | 2.00% | ~15 |
+| Pretty lights! | 2.00% | ~15 |
+| Grin and bear it | 2.00% | ~15 |
+| I hate portals | 1.00% | ~7 |
+| Merchant of doom | 1.00% | ~7 |
+| How to train your Drake | 1.00% | ~7 |
+| An eye for an eye | 1.00% | ~7 |
+| The Sniper | 1.00% | ~7 |
+| Down the hatch | 0.80% | ~6 |
+| Master Assassin | 0.80% | ~6 |
+| The Pacifist | 0.80% | ~6 |
+| An axe to grind | 0.80% | ~6 |
+| Add a bit of colour | 0.70% | ~5 |
+| The Rat King | 0.70% | ~5 |
+| The Cephalophore | 0.70% | ~5 |
+| From Gloom, only greed and death emerges | 0.60% | ~4 |
+| Betray this | 0.40% | ~3 |
+| Spoiler police! | 0.40% | ~3 |
 | Captain hooked | 0.30% | ~2 |
 | New Blood | 0.30% | ~2 |
-| Pull out the big guns | 0.20% | ~1 |
+| Pull out the big guns | 0.10% | ~1 |
+| Born Support | 0.10% | ~1 |
 | A cult following | 0.00% | ~0 |
 | Over your dead body | 0.00% | ~0 |
 | The Guildmaster | 0.00% | ~0 |
@@ -66,14 +67,13 @@ Number of Ratings: 68  (23.09.2022)
 | The Jaws of victory! | 0.00% | ~0 |
 | Crimson Tornado | 0.00% | ~0 |
 | Murder Death Kill | 0.00% | ~0 |
-| Born Support | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604 (Ranked 240)  
+Progressed: 727 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-18 | 604 | 0 |
+| 2023-09-18 | 727 | 0 |
 ## Awards
 Max (Character Customization): 3,524  (Ranked 89)  
 Sum: 8,197 (Ranked 99)  

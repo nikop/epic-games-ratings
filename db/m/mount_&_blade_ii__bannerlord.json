@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7257,7 +7257,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61409,
+  "EOS_Progressed": 61410,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 0,
@@ -23282,6 +23282,11 @@
       "Time": "2023-09-18T19:08:27.1516949+00:00",
       "NumProgressed": 61409,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T20:08:32.0469322+00:00",
+      "NumProgressed": 61410,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23301,7 +23306,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9211
+      "UsersEstimate": 9212
     },
     {
       "ID": "Bannerlord",
@@ -23461,7 +23466,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9825
+      "UsersEstimate": 9826
     },
     {
       "ID": "I spit on your grave",
@@ -23651,9 +23656,9 @@
       "ID": "This Is Our Land",
       "SetID": "den0lp1",
       "Name": "This Is Our Land",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6755
+      "UsersEstimate": 7369
     },
     {
       "ID": "This is Sparta",
@@ -23700,15 +23705,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61409,
+      "Progressed": 61410,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-18T19:00:56.8768058+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:08:27.1516943+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:08:32.0469317+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:00:56.8768068+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:08:27.1518653+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:00:58.4690657+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:08:32.0470842+00:00"
 }

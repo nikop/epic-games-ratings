@@ -7,22 +7,22 @@
 | Self-Defence | 89.00% | ~73 |
 | Tinkerer | 70.00% | ~57 |
 | Welcome to the Club | 40.00% | ~33 |
-| Apprentice | 34.00% | ~28 |
+| Apprentice | 37.00% | ~30 |
 | A new World ahead | 32.00% | ~26 |
+| Can't touch this | 27.00% | ~22 |
 | Don't Cry Wolf | 26.00% | ~21 |
-| Can't touch this | 24.00% | ~20 |
 | Freezing Cold | 17.00% | ~14 |
 | Expert | 16.00% | ~13 |
 | The Power of the Mountains | 13.00% | ~11 |
 | Searing Heat | 12.00% | ~10 |
 | Nothing but the Truth | 12.00% | ~10 |
-| The Golden Flash | 11.00% | ~9 |
+| The Golden Flash | 12.00% | ~10 |
 | Changing the World | 11.00% | ~9 |
 | Through Dangers Untold | 9.00% | ~7 |
 | Locked and Loaded | 9.00% | ~7 |
 | Witch | 9.00% | ~7 |
+| The A-Team | 9.00% | ~7 |
 | Craftsmen | 7.00% | ~6 |
-| The A-Team | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
 | Finally! | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
@@ -32,12 +32,12 @@
 | A Deceiving Gift | 5.00% | ~4 |
 | Defeat Tezuth | 4.00% | ~3 |
 | Ancient Powers | 4.00% | ~3 |
+| Pathfinder | 4.00% | ~3 |
 | The End | 4.00% | ~3 |
 | Unveiling the Truth | 4.00% | ~3 |
 | Sponsor | 2.00% | ~2 |
 | Wizard | 2.00% | ~2 |
 | Wayseeker | 2.00% | ~2 |
-| Pathfinder | 2.00% | ~2 |
 | Globetrotter | 2.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
 | Mountain Lover | 1.00% | ~1 |

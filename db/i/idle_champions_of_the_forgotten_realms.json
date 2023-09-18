@@ -6674,10 +6674,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31629,
       "NumberOfAwardsMax": 5285
+    },
+    {
+      "Time": "2023-09-18T19:58:28.9400183+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31631,
+      "NumberOfAwardsMax": 5285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31629,
+  "NumberOfAwards": 31631,
   "NumberOfAwardsMax": 5285,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6721,12 +6727,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3422
+      "Count": 3424
     }
   ],
-  "EOS_Progressed": 229304,
+  "EOS_Progressed": 229308,
   "EOS_Completed": 2294,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23499,6 +23505,11 @@
       "Time": "2023-09-18T19:08:12.0124102+00:00",
       "NumProgressed": 229304,
       "NumCompleted": 2294
+    },
+    {
+      "Time": "2023-09-18T20:08:16.7208303+00:00",
+      "NumProgressed": 229308,
+      "NumCompleted": 2294
     }
   ],
   "TotalAchievements": 520,
@@ -23820,9 +23831,9 @@
       "ID": "objective_completed_1090",
       "SetID": "415jc5c",
       "Name": "Slack-jawed Lorna",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1091",
@@ -24124,9 +24135,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_1152",
@@ -24756,9 +24767,9 @@
       "ID": "objective_completed_171",
       "SetID": "cc37lbc",
       "Name": "Sleuth It Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_172",
@@ -27669,21 +27680,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195578,
+      "Progressed": 195582,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229304,
+      "Progressed": 229308,
       "Completed": 2294
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-17T21:57:49.5337386+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:08:12.012409+00:00",
+  "LastChanged": "2023-09-18T19:58:28.9400181+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:08:16.7208297+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:58:30.8934403+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:08:12.0192005+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:58:28.9400188+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:08:16.7240132+00:00"
 }

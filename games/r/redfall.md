@@ -21,8 +21,8 @@ Rating: 3.52 (Ranked 989)
 | Home Is Where the Heart Is | 0.50% | ~9 |
 | Enter of Your Own Free Will | 0.50% | ~9 |
 | Heart Attack | 0.50% | ~9 |
+| Skin of Their Teeth | 0.50% | ~9 |
 | Radio Silence | 0.40% | ~7 |
-| Skin of Their Teeth | 0.40% | ~7 |
 | Right This Way | 0.40% | ~7 |
 | Bad Wiring | 0.30% | ~5 |
 | Sic Transit Umbra | 0.30% | ~5 |

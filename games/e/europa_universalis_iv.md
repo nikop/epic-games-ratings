@@ -6,36 +6,36 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,304 |
-| That's a Grand Army | 3.00% | ~12,228 |
-| That is mine! | 3.00% | ~12,228 |
-| Victorious! | 3.00% | ~12,228 |
-| Brothers in Arms | 2.00% | ~8,152 |
-| For the Glory | 2.00% | ~8,152 |
-| That's a Grand Navy | 2.00% | ~8,152 |
-| Seriously?! | 2.00% | ~8,152 |
+| Until death do us apart | 4.00% | ~16,306 |
+| That's a Grand Army | 3.00% | ~12,229 |
+| That is mine! | 3.00% | ~12,229 |
+| Victorious! | 3.00% | ~12,229 |
+| Brothers in Arms | 2.00% | ~8,153 |
+| For the Glory | 2.00% | ~8,153 |
+| That's a Grand Navy | 2.00% | ~8,153 |
+| Seriously?! | 2.00% | ~8,153 |
 | Cold War | 1.00% | ~4,076 |
 | Defender of the Faith | 1.00% | ~4,076 |
 | It's all about the money | 1.00% | ~4,076 |
 | The Princess is in this Castle | 1.00% | ~4,076 |
 | True Catholic | 1.00% | ~4,076 |
-| It's all about luck | 0.90% | ~3,668 |
-| Respected | 0.90% | ~3,668 |
-| Truly Divine Ruler | 0.90% | ~3,668 |
+| It's all about luck | 0.90% | ~3,669 |
+| Respected | 0.90% | ~3,669 |
+| Truly Divine Ruler | 0.90% | ~3,669 |
 | Blockader | 0.80% | ~3,261 |
-| Double the Love | 0.70% | ~2,853 |
-| Royal Authority | 0.70% | ~2,853 |
-| Total Control | 0.70% | ~2,853 |
+| Double the Love | 0.70% | ~2,854 |
+| Royal Authority | 0.70% | ~2,854 |
+| Total Control | 0.70% | ~2,854 |
 | My armies are invincible! | 0.60% | ~2,446 |
 | Agressive Expander | 0.50% | ~2,038 |
 | City of Cities | 0.50% | ~2,038 |
 | Combined Arms | 0.50% | ~2,038 |
-| Azur semé de lis or | 0.40% | ~1,630 |
-| Factionalism | 0.40% | ~1,630 |
-| Gentle Persuasion | 0.40% | ~1,630 |
-| Isn't this the way to India? | 0.40% | ~1,630 |
-| Queen of Conquest | 0.40% | ~1,630 |
-| This navy can take it all | 0.40% | ~1,630 |
+| Azur semé de lis or | 0.40% | ~1,631 |
+| Factionalism | 0.40% | ~1,631 |
+| Gentle Persuasion | 0.40% | ~1,631 |
+| Isn't this the way to India? | 0.40% | ~1,631 |
+| Queen of Conquest | 0.40% | ~1,631 |
+| This navy can take it all | 0.40% | ~1,631 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,223 |
 | Bright Spark | 0.30% | ~1,223 |
 | Down Under | 0.30% | ~1,223 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,598 (Ranked 40)  
+Progressed: 407,644 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 404,131 | 0 |
 | 2023-09-16 | 405,611 | 0 |
 | 2023-09-17 | 406,888 | 0 |
-| 2023-09-18 | 407,598 | 0 |
+| 2023-09-18 | 407,644 | 0 |
 ## Awards
 Max (Educational): 6,158  (Ranked 56)  
 Sum: 50,551 (Ranked 26)  

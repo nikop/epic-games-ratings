@@ -31,19 +31,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 0.80% | ~1,091 |
 | On the Path to Greatness | 0.70% | ~955 |
 | Ascended | 0.70% | ~955 |
+| Vanity, Verily | 0.70% | ~955 |
 | Blank Page Syndrome | 0.70% | ~955 |
 | Efficient Floor Space | 0.70% | ~955 |
 | Gem Expert | 0.70% | ~955 |
 | Accomplished Merchant | 0.70% | ~955 |
 | Arcane Industries | 0.70% | ~955 |
 | Research & Development | 0.60% | ~818 |
-| Vanity, Verily | 0.60% | ~818 |
 | Fated Encounters | 0.60% | ~818 |
 | Power of Love | 0.60% | ~818 |
 | Flawless Fusion | 0.60% | ~818 |
 | Royal Ransom | 0.60% | ~818 |
 | Helping Hand | 0.60% | ~818 |
 | Natural 20 | 0.60% | ~818 |
+| Magical Harmony | 0.60% | ~818 |
 | A Notch Above the Rest | 0.50% | ~682 |
 | Tax not Included | 0.50% | ~682 |
 | The King's Caprice | 0.50% | ~682 |
@@ -60,9 +61,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.50% | ~682 |
 | Mammonite | 0.50% | ~682 |
 | Miracle Alchemist | 0.50% | ~682 |
+| Laden with Loot | 0.50% | ~682 |
 | Seasoned Journeyman | 0.50% | ~682 |
 | Black Friday Special | 0.50% | ~682 |
-| Magical Harmony | 0.50% | ~682 |
 | Special Ingredient | 0.50% | ~682 |
 | Complete Monopoly | 0.50% | ~682 |
 | Cream of the Crop | 0.40% | ~545 |
@@ -86,7 +87,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.40% | ~545 |
 | Item of Renown | 0.40% | ~545 |
 | Master Merchant | 0.40% | ~545 |
-| Laden with Loot | 0.40% | ~545 |
 | Bountiful Harvest | 0.40% | ~545 |
 | Precision Engineering | 0.40% | ~545 |
 | Scourge of the Seas | 0.40% | ~545 |

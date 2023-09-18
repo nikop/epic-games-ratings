@@ -324,9 +324,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3303,
+  "EOS_Progressed": 3304,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4409,6 +4409,11 @@
       "Time": "2023-09-18T16:07:31.0063794+00:00",
       "NumProgressed": 3303,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T20:08:40.1560438+00:00",
+      "NumProgressed": 3304,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4428,7 +4433,7 @@
       "Name": "Flawless Victory",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -4500,7 +4505,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -4516,7 +4521,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4524,7 +4529,7 @@
       "Name": "Regicide",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -4532,7 +4537,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4540,7 +4545,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4628,7 +4633,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4636,7 +4641,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4644,7 +4649,7 @@
       "Name": "Where It All Begun",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4716,15 +4721,15 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2676
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4748,7 +4753,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4756,7 +4761,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -4779,7 +4784,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3303,
+      "Progressed": 3304,
       "Completed": 3
     }
   ],
@@ -4787,8 +4792,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:08:35.2951592+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:08:40.1560433+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:01:08.7233158+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:08:35.2952336+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:01:10.4751728+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:08:40.1560945+00:00"
 }

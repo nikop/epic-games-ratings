@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -204,7 +204,7 @@
   "Tags": [],
   "EOS_Progressed": 1444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3385,9 +3385,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1343
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3457,9 +3457,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 491
     },
     {
       "ID": "LUMBERJACK",
@@ -3618,8 +3618,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-11T15:02:07.7710532+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:03:45.3346355+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:03:47.3256044+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.650961+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:59:10.9582946+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:03:45.3347063+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:59:09.0953186+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:03:47.3256585+00:00"
 }

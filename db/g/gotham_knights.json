@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2940,10 +2940,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4495,
       "NumberOfAwardsMax": 2708
+    },
+    {
+      "Time": "2023-09-18T20:00:41.0698944+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4497,
+      "NumberOfAwardsMax": 2708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4495,
+  "NumberOfAwards": 4497,
   "NumberOfAwardsMax": 2708,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2975,7 +2981,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 218
+      "Count": 220
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3008,7 +3014,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72646,
+  "EOS_Progressed": 72647,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 2,
@@ -15913,6 +15919,11 @@
       "Time": "2023-09-18T19:04:40.7644493+00:00",
       "NumProgressed": 72646,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-18T20:04:41.2555429+00:00",
+      "NumProgressed": 72647,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16044,7 +16055,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10170
+      "UsersEstimate": 10171
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -16148,7 +16159,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21067
+      "UsersEstimate": 21068
     },
     {
       "ID": "FREEZE_1_5",
@@ -16172,7 +16183,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10170
+      "UsersEstimate": 10171
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -16252,7 +16263,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11624
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16364,7 +16375,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10170
+      "UsersEstimate": 10171
     },
     {
       "ID": "MYSTERY_08",
@@ -16411,22 +16422,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72646,
+      "Progressed": 72647,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42926,
+      "Progressed": 42927,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-18T16:59:42.335639+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:04:40.7644488+00:00",
+  "LastChanged": "2023-09-18T20:00:41.0698941+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:04:41.2555421+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:00:38.5878814+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:04:40.7646147+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:00:41.0698947+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:04:41.2556808+00:00"
 }

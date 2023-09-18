@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,105 |
-| Flanked! | 77.00% | ~2,717 |
-| Economics 101 | 61.00% | ~2,152 |
-| Get Rich Quick | 44.00% | ~1,552 |
-| Do the Splits | 39.00% | ~1,376 |
-| Maestro | 26.00% | ~917 |
-| Full Employment | 18.00% | ~635 |
-| Clay Fighter | 16.00% | ~564 |
-| Nowhere left to Hide | 14.00% | ~494 |
-| All Ovens Blazing | 13.00% | ~459 |
-| Boulder Clash | 13.00% | ~459 |
-| Held Back by the Roots | 12.00% | ~423 |
-| Well Supplied | 10.00% | ~353 |
-| Damage Control | 8.00% | ~282 |
-| Sniped | 7.00% | ~247 |
-| Leave Them no Cake | 7.00% | ~247 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~247 |
-| Master of the Brawl | 7.00% | ~247 |
+| You and what Army? | 88.00% | ~3,113 |
+| Flanked! | 77.00% | ~2,723 |
+| Economics 101 | 61.00% | ~2,158 |
+| Get Rich Quick | 44.00% | ~1,556 |
+| Do the Splits | 39.00% | ~1,379 |
+| Maestro | 26.00% | ~920 |
+| Full Employment | 18.00% | ~637 |
+| Clay Fighter | 16.00% | ~566 |
+| Nowhere left to Hide | 14.00% | ~495 |
+| All Ovens Blazing | 13.00% | ~460 |
+| Boulder Clash | 13.00% | ~460 |
+| Held Back by the Roots | 12.00% | ~424 |
+| Well Supplied | 10.00% | ~354 |
+| Damage Control | 8.00% | ~283 |
+| Sniped | 7.00% | ~248 |
+| Leave Them no Cake | 7.00% | ~248 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~248 |
+| Master of the Brawl | 7.00% | ~248 |
 | A Secret Recipe | 6.00% | ~212 |
-| Your Biggest Fans | 5.00% | ~176 |
-| An Ally in Need | 5.00% | ~176 |
-| For the Queen | 5.00% | ~176 |
-| Not a Drop Wasted | 5.00% | ~176 |
+| Your Biggest Fans | 5.00% | ~177 |
+| An Ally in Need | 5.00% | ~177 |
+| For the Queen | 5.00% | ~177 |
+| Not a Drop Wasted | 5.00% | ~177 |
 | Reinforcements | 4.00% | ~141 |
 | Sweet Revenge | 4.00% | ~141 |
 | We Have the Technology | 4.00% | ~141 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~35 |
 | All Geared Up | 0.90% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,528 (Ranked 164)  
+Progressed: 3,537 (Ranked 164)  
 Completed: 11 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 11 (0.31%) (Ranked 178)
 | 2023-09-15 | 3,380 | 11 |
 | 2023-09-16 | 3,447 | 11 |
 | 2023-09-17 | 3,500 | 11 |
-| 2023-09-18 | 3,528 | 11 |
+| 2023-09-18 | 3,537 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

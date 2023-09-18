@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3401,
+  "EOS_Progressed": 3402,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4479,6 +4479,11 @@
       "Time": "2023-09-18T17:04:32.91727+00:00",
       "NumProgressed": 3401,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-18T20:04:59.2265612+00:00",
+      "NumProgressed": 3402,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4530,7 +4535,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "CrowdPleaser",
@@ -4554,7 +4559,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4698,7 +4703,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4714,7 +4719,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4810,7 +4815,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4825,15 +4830,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3401,
+      "Progressed": 3402,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:04:58.1889158+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:04:59.2265608+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:58:59.3906035+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:04:58.1889821+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:58:58.3820187+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:04:59.2266231+00:00"
 }

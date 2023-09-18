@@ -6120,7 +6120,7 @@
   ],
   "EOS_Progressed": 136373,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21805,9 +21805,9 @@
       "ID": "bookentry",
       "SetID": "anfd17p",
       "Name": "Vanity, Verily",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 955
     },
     {
       "ID": "boss01",
@@ -22309,9 +22309,9 @@
       "ID": "loot02",
       "SetID": "anfd17p",
       "Name": "Laden with Loot",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 682
     },
     {
       "ID": "loot03",
@@ -22501,9 +22501,9 @@
       "ID": "twinenchant01",
       "SetID": "anfd17p",
       "Name": "Magical Harmony",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 818
     },
     {
       "ID": "typeunlock01",
@@ -22581,8 +22581,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-18T03:57:56.8219259+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:03:30.8210414+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:03:33.1228057+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:58:53.6021346+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:03:30.8213578+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:58:52.740347+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:03:33.1230704+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -179,17 +179,17 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BehemothOfTheSkies",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:04:19.3115347+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:04:20.6581132+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.2821663+00:00",
-  "LastUpdate_Ratings": "2023-09-18T19:01:44.0608889+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:04:19.3115621+00:00"
+  "LastUpdate_Ratings": "2023-09-18T20:01:47.712562+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:04:20.6581379+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.77 (Ranked 111)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,566 |
-| First Class Student | 13.00% | ~38,597 |
-| Troll with the Punches | 13.00% | ~38,597 |
-| A Keen Sense of Spell | 12.00% | ~35,628 |
-| A Talent for Spending | 11.00% | ~32,659 |
-| That's a Keeper | 11.00% | ~32,659 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,567 |
+| First Class Student | 13.00% | ~38,598 |
+| Troll with the Punches | 13.00% | ~38,598 |
+| A Keen Sense of Spell | 12.00% | ~35,629 |
+| A Talent for Spending | 11.00% | ~32,660 |
+| That's a Keeper | 11.00% | ~32,660 |
 | Grappling with a Graphorn | 10.00% | ~29,690 |
 | The One Who Mastered Memories | 10.00% | ~29,690 |
 | The Hallowed Hero | 10.00% | ~29,690 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 111)
 | The Nature of the Beast | 0.60% | ~1,781 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,903 (Ranked 44)  
+Progressed: 296,905 (Ranked 44)  
 Completed: 474 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,10 +202,10 @@ Completed: 474 (0.16%) (Ranked 205)
 | 2023-09-15 | 296,672 | 470 |
 | 2023-09-16 | 296,761 | 472 |
 | 2023-09-17 | 296,862 | 474 |
-| 2023-09-18 | 296,903 | 474 |
+| 2023-09-18 | 296,905 | 474 |
 ## Awards
 Max (Character Customization): 22,827  (Ranked 17)  
-Sum: 43,691 (Ranked 30)  
+Sum: 43,697 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,033 |
 | This game is Relaxing | 1,031 |
 | This game has Amazing Characters | 1,009 |
-| This game is Highly Recommended | 984 |
+| This game is Highly Recommended | 990 |
 | This game has Quickly Understood Controls | 927 |
 | This game has Beautiful Visuals | 861 |
 | This game has a Creative Community | 657 |
@@ -402,4 +402,4 @@ Diff (max vs sum): -13
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
 | 2023-09-16 | 4.77 | 22,752 | 43,493 |
 | 2023-09-17 | 4.77 | 22,799 | 43,623 |
-| 2023-09-18 | 4.77 | 22,827 | 43,691 |
+| 2023-09-18 | 4.77 | 22,827 | 43,697 |

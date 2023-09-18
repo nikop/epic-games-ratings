@@ -930,9 +930,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 225099,
+  "EOS_Progressed": 225111,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1797,
+  "EOS_NewPlayers": 1796,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11375,6 +11375,11 @@
       "Time": "2023-09-18T19:09:33.0302463+00:00",
       "NumProgressed": 225099,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-18T20:09:38.2939034+00:00",
+      "NumProgressed": 225111,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11834,7 +11839,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67530
+      "UsersEstimate": 67533
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11882,7 +11887,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11255
+      "UsersEstimate": 11256
     },
     {
       "ID": "FollowBraztok",
@@ -11970,7 +11975,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "QuestEmile",
@@ -11994,7 +11999,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "QuestPriestess",
@@ -12089,21 +12094,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225099,
+      "Progressed": 225111,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225099,
+      "Progressed": 225111,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-17T19:59:07.4739475+00:00",
-  "LastChanged_Achievements": "2023-09-18T19:09:33.0302458+00:00",
+  "LastChanged_Achievements": "2023-09-18T20:09:38.2939029+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-18T18:59:13.1790099+00:00",
-  "LastUpdate_Achievements": "2023-09-18T19:09:33.0304235+00:00"
+  "LastUpdate_Ratings": "2023-09-18T19:59:11.3149433+00:00",
+  "LastUpdate_Achievements": "2023-09-18T20:09:38.2940852+00:00"
 }

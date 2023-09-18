@@ -6,35 +6,35 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,003 |
-| Say goodbye, creep! | 66.00% | ~28,698 |
-| Blood splattered | 65.00% | ~28,263 |
-| Choo choo! | 62.00% | ~26,959 |
-| Groovy | 61.00% | ~26,524 |
-| Cleanup on aisle 4! | 57.00% | ~24,785 |
-| Gold | 50.00% | ~21,741 |
-| The boat can leave now...tell the crew | 49.00% | ~21,306 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,004 |
+| Say goodbye, creep! | 66.00% | ~28,699 |
+| Blood splattered | 65.00% | ~28,265 |
+| Choo choo! | 62.00% | ~26,960 |
+| Groovy | 61.00% | ~26,525 |
+| Cleanup on aisle 4! | 57.00% | ~24,786 |
+| Gold | 50.00% | ~21,742 |
+| The boat can leave now...tell the crew | 49.00% | ~21,307 |
 | Stand back boy! | 47.00% | ~20,437 |
-| Give me something to shoot! | 46.00% | ~20,002 |
-| Chain reaction | 45.00% | ~19,567 |
-| Weird science | 44.00% | ~19,132 |
-| What did you say, Blain? | 42.00% | ~18,262 |
+| Give me something to shoot! | 46.00% | ~20,003 |
+| Chain reaction | 45.00% | ~19,568 |
+| Weird science | 44.00% | ~19,133 |
+| What did you say, Blain? | 42.00% | ~18,263 |
 | Look mummy! A shark! | 41.00% | ~17,828 |
-| In the dark dark woods... | 39.00% | ~16,958 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,523 |
-| Double tap | 37.00% | ~16,088 |
+| In the dark dark woods... | 39.00% | ~16,959 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,524 |
+| Double tap | 37.00% | ~16,089 |
 | All of this has happened before… | 36.00% | ~15,654 |
 | Cranial blowout! | 36.00% | ~15,654 |
 | Zombie killin' machine | 36.00% | ~15,654 |
 | Every bullet counts | 36.00% | ~15,654 |
-| All roads lead to Rome | 34.00% | ~14,784 |
-| You've got red on you | 34.00% | ~14,784 |
-| You're all going to die down here | 32.00% | ~13,914 |
-| He did Nazi that coming | 32.00% | ~13,914 |
-| Kill of the week | 31.00% | ~13,479 |
+| All roads lead to Rome | 34.00% | ~14,785 |
+| You've got red on you | 34.00% | ~14,785 |
+| You're all going to die down here | 32.00% | ~13,915 |
+| He did Nazi that coming | 32.00% | ~13,915 |
+| Kill of the week | 31.00% | ~13,480 |
 | I never liked them anyway | 30.00% | ~13,045 |
-| Is it over? | 28.00% | ~12,175 |
-| Got your back | 27.00% | ~11,740 |
+| Is it over? | 28.00% | ~12,176 |
+| Got your back | 27.00% | ~11,741 |
 | Gore soaked | 24.00% | ~10,436 |
 | Shock therapy | 23.00% | ~10,001 |
 | Leave the limbs you've lost | 23.00% | ~10,001 |
@@ -42,11 +42,11 @@ Number of Ratings: 743  (23.09.2022)
 | Take them down screaming | 18.00% | ~7,827 |
 | Bad Blood | 17.00% | ~7,392 |
 | Weapons expert | 17.00% | ~7,392 |
-| The bigger they are... | 15.00% | ~6,522 |
-| I'm going deeper underground | 14.00% | ~6,087 |
+| The bigger they are... | 15.00% | ~6,523 |
+| I'm going deeper underground | 14.00% | ~6,088 |
 | Well equipped | 13.00% | ~5,653 |
 | Into the deep | 12.00% | ~5,218 |
-| Damnedbusters | 9.00% | ~3,913 |
+| Damnedbusters | 9.00% | ~3,914 |
 | Plane sailing | 8.00% | ~3,479 |
 | I can do anything I want. I got guns | 8.00% | ~3,479 |
 | Send me an angel | 8.00% | ~3,479 |
@@ -66,14 +66,14 @@ Number of Ratings: 743  (23.09.2022)
 | They're coming to get you Barbara | 4.00% | ~1,739 |
 | Total protonic reversal | 4.00% | ~1,739 |
 | A friend in need | 4.00% | ~1,739 |
-| People don't change. We go round in circles | 3.00% | ~1,304 |
-| The blighters got through a second time. | 3.00% | ~1,304 |
-| I'm a survivor! | 3.00% | ~1,304 |
+| People don't change. We go round in circles | 3.00% | ~1,305 |
+| The blighters got through a second time. | 3.00% | ~1,305 |
+| I'm a survivor! | 3.00% | ~1,305 |
 | That's a lot of them, and only 4 of us | 2.00% | ~870 |
 | Just me and my trusty sidearm | 1.00% | ~435 |
 | None more hard | 0.50% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,482 (Ranked 95)  
+Progressed: 43,484 (Ranked 95)  
 Completed: 25 (0.06%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 25 (0.06%) (Ranked 237)
 | 2023-09-15 | 43,450 | 25 |
 | 2023-09-16 | 43,463 | 25 |
 | 2023-09-17 | 43,478 | 25 |
-| 2023-09-18 | 43,482 | 25 |
+| 2023-09-18 | 43,484 | 25 |
 ## Awards
 Max (Great Boss Battles): 824  (Ranked 156)  
 Sum: 2,497 (Ranked 180)  

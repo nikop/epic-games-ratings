@@ -6,43 +6,43 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~109,830 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~83,849 |
-| A Clear Conscience | 69.00% | ~81,487 |
-| Unleash Hell | 68.00% | ~80,306 |
-| Unfulfilled Desires | 68.00% | ~80,306 |
-| Funny Guy | 67.00% | ~79,125 |
-| Unshackled | 67.00% | ~79,125 |
-| Long Live the King | 66.00% | ~77,944 |
-| Resurrection | 62.00% | ~73,220 |
-| Wyrdly Reconstructed | 62.00% | ~73,220 |
-| Boxcar Kid | 60.00% | ~70,858 |
-| Rush Hour | 60.00% | ~70,858 |
-| To Grandmother's House | 60.00% | ~70,858 |
-| Serenity Now! | 53.00% | ~62,591 |
-| Hope Rekindled | 50.00% | ~59,048 |
-| Ramble On | 49.00% | ~57,868 |
-| Nope | 48.00% | ~56,687 |
-| This Looks Familiar | 38.00% | ~44,877 |
-| Now Stay Dead | 37.00% | ~43,696 |
-| Harvest Festival | 36.00% | ~42,515 |
-| Hot Air | 36.00% | ~42,515 |
-| Merry Time | 35.00% | ~41,334 |
-| Creep and Sleep | 33.00% | ~38,972 |
-| Overdue Notice | 32.00% | ~37,791 |
-| Banishment | 31.00% | ~36,610 |
-| Whale | 31.00% | ~36,610 |
-| FNG | 29.00% | ~34,248 |
-| Predator | 25.00% | ~29,524 |
-| Reverse Banditry | 25.00% | ~29,524 |
-| Autodidact | 24.00% | ~28,343 |
-| Meat and Greet | 22.00% | ~25,981 |
-| Spelunker | 21.00% | ~24,800 |
-| Eyes Up | 21.00% | ~24,800 |
-| Road Trip | 21.00% | ~24,800 |
-| It Rings a Bell | 20.00% | ~23,619 |
-| Escape from the Black Hole | 18.00% | ~21,257 |
-| It Happens | 17.00% | ~20,076 |
+| A Place to Lay Your Head | 93.00% | ~109,836 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~83,853 |
+| A Clear Conscience | 69.00% | ~81,491 |
+| Unleash Hell | 68.00% | ~80,310 |
+| Unfulfilled Desires | 68.00% | ~80,310 |
+| Funny Guy | 67.00% | ~79,129 |
+| Unshackled | 67.00% | ~79,129 |
+| Long Live the King | 66.00% | ~77,948 |
+| Resurrection | 62.00% | ~73,224 |
+| Wyrdly Reconstructed | 62.00% | ~73,224 |
+| Boxcar Kid | 60.00% | ~70,862 |
+| Rush Hour | 60.00% | ~70,862 |
+| To Grandmother's House | 60.00% | ~70,862 |
+| Serenity Now! | 53.00% | ~62,595 |
+| Hope Rekindled | 50.00% | ~59,052 |
+| Ramble On | 49.00% | ~57,870 |
+| Nope | 48.00% | ~56,689 |
+| This Looks Familiar | 38.00% | ~44,879 |
+| Now Stay Dead | 37.00% | ~43,698 |
+| Harvest Festival | 36.00% | ~42,517 |
+| Hot Air | 36.00% | ~42,517 |
+| Merry Time | 35.00% | ~41,336 |
+| Creep and Sleep | 33.00% | ~38,974 |
+| Overdue Notice | 32.00% | ~37,793 |
+| Banishment | 31.00% | ~36,612 |
+| Whale | 31.00% | ~36,612 |
+| FNG | 29.00% | ~34,250 |
+| Predator | 25.00% | ~29,526 |
+| Reverse Banditry | 25.00% | ~29,526 |
+| Autodidact | 24.00% | ~28,345 |
+| Meat and Greet | 22.00% | ~25,983 |
+| Spelunker | 21.00% | ~24,802 |
+| Eyes Up | 21.00% | ~24,802 |
+| Road Trip | 21.00% | ~24,802 |
+| It Rings a Bell | 20.00% | ~23,621 |
+| Escape from the Black Hole | 18.00% | ~21,259 |
+| It Happens | 17.00% | ~20,078 |
 | This Belongs in a Museum | 16.00% | ~18,896 |
 | Dissector | 16.00% | ~18,896 |
 | Handled | 16.00% | ~18,896 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~118 |
 | 20,000 Leagues Above the Sea | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,097 (Ranked 73)  
+Progressed: 118,103 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,17 +213,17 @@ Completed: 1 (0.00%) (Ranked 277)
 | 2023-09-15 | 117,800 | 1 |
 | 2023-09-16 | 117,909 | 1 |
 | 2023-09-17 | 118,035 | 1 |
-| 2023-09-18 | 118,097 | 1 |
+| 2023-09-18 | 118,103 | 1 |
 ## Awards
 Max (Character Customization): 7,400  (Ranked 48)  
-Sum: 19,315 (Ranked 56)  
+Sum: 19,318 (Ranked 56)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,400 |
 | This game has Diverse Characters | 1,541 |
 | This game has Challenging Combat | 1,475 |
-| This game is Highly Recommended | 1,414 |
+| This game is Highly Recommended | 1,417 |
 | This game is Extremely Fun | 1,374 |
 | This game has Amazing Characters | 1,368 |
 | This game has Amazing Storytelling | 1,290 |
@@ -469,4 +469,4 @@ Diff (max vs sum): -8
 | 2023-09-15 | 4.68 | - | 7,393 | 19,281 |
 | 2023-09-16 | 4.68 | - | 7,395 | 19,289 |
 | 2023-09-17 | 4.68 | - | 7,400 | 19,306 |
-| 2023-09-18 | 4.68 | - | 7,400 | 19,315 |
+| 2023-09-18 | 4.68 | - | 7,400 | 19,318 |

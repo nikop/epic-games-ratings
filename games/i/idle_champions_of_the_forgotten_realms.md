@@ -39,10 +39,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prince of a Thousand Enemies | 0.20% | ~391 |
 | Downfall | 0.20% | ~391 |
 | The Silken Swamp | 0.20% | ~459 |
+| Slack-jawed Lorna | 0.20% | ~391 |
 | Wet Feet | 0.20% | ~459 |
 | Hatchlings Underfoot | 0.20% | ~459 |
 | Don't Look Up! | 0.20% | ~459 |
 | Supply Run | 0.20% | ~459 |
+| Heavy Burden | 0.20% | ~459 |
 | Vecna Lives! | 0.20% | ~391 |
 | A Demi-god's Defender | 0.20% | ~391 |
 | Vecna Loots! | 0.20% | ~391 |
@@ -58,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.20% | ~459 |
 | March of the Undead | 0.20% | ~459 |
 | Wisdom Check | 0.20% | ~459 |
+| Sleuth It Out | 0.20% | ~459 |
 | A Grand Puzzle | 0.20% | ~459 |
 | No Time To Rest | 0.20% | ~459 |
 | The Mists of Ravenloft | 0.20% | ~459 |
@@ -144,7 +147,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.10% | ~196 |
 | Second Third Out | 0.10% | ~196 |
 | Third Third Out | 0.10% | ~196 |
-| Slack-jawed Lorna | 0.10% | ~196 |
 | I'm Sure I Saw It Move! | 0.10% | ~196 |
 | End of the Line | 0.10% | ~196 |
 | A Steadfast Love | 0.10% | ~196 |
@@ -177,7 +179,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~196 |
 | Strength of Character | 0.10% | ~196 |
 | The Invisible Wizards of Thay | 0.10% | ~196 |
-| Heavy Burden | 0.10% | ~229 |
 | Seeds of Destruction | 0.10% | ~196 |
 | Speeds of Destruction | 0.10% | ~196 |
 | Owlbear Necessities | 0.10% | ~196 |
@@ -235,7 +236,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~229 |
 | Force Grey Unleashed | 0.10% | ~229 |
 | Vajra's Guards | 0.10% | ~229 |
-| Sleuth It Out | 0.10% | ~229 |
 | The Newcomers of Notoriety | 0.10% | ~196 |
 | Never Split the Party | 0.10% | ~229 |
 | Azaka's Procession - Part 1 | 0.10% | ~229 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,304 (Ranked 57)  
+Progressed: 229,308 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -678,10 +678,10 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-15 | 228,918 | 2,285 |
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
-| 2023-09-18 | 229,304 | 2,294 |
+| 2023-09-18 | 229,308 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
-Sum: 31,629 (Ranked 39)  
+Sum: 31,631 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -691,7 +691,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,654 |
 | This game has Amazing Characters | 4,124 |
 | This game is Highly Recommended | 4,109 |
-| This game has Playful Visuals | 3,422 |
+| This game has Playful Visuals | 3,424 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -930,3 +930,4 @@ Diff (max vs sum): 28
 | 2023-09-15 | 4.06 | - | 5,276 | 31,596 |
 | 2023-09-16 | 4.06 | - | 5,283 | 31,617 |
 | 2023-09-17 | 4.06 | - | 5,285 | 31,629 |
+| 2023-09-18 | 4.06 | - | 5,285 | 31,631 |

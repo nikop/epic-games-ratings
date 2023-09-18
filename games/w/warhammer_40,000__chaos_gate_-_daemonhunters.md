@@ -13,10 +13,10 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 5.00% | ~161 |
 | Blood for the Blood God! | 4.00% | ~128 |
 | Purging Spree | 4.00% | ~128 |
+| Friendly Fire | 3.00% | ~96 |
 | Bloodless | 3.00% | ~96 |
 | Honoured Battle-Brother | 2.00% | ~64 |
 | Surgical Excision | 2.00% | ~64 |
-| Friendly Fire | 2.00% | ~64 |
 | The Emperor Protects | 2.00% | ~64 |
 | Nemesis Master | 2.00% | ~64 |
 | Gunmaster | 2.00% | ~64 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,212 (Ranked 168)  
+Progressed: 3,212 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
