@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -720,9 +720,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3207,
+  "EOS_Progressed": 3208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3375,6 +3375,11 @@
       "Time": "2023-09-17T21:06:28.0147199+00:00",
       "NumProgressed": 3207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T11:06:01.7148879+00:00",
+      "NumProgressed": 3208,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3712,9 +3717,9 @@
       "ID": "MissionVictory_NoAmmo",
       "SetID": "3jha1np",
       "Name": "Efficient Killer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -3929,21 +3934,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3207,
+      "Progressed": 3208,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3207,
+      "Progressed": 3208,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:07:24.1054609+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:06:01.7148872+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:59:22.9354223+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:07:24.1055547+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:58:37.8189769+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:06:01.7149642+00:00"
 }

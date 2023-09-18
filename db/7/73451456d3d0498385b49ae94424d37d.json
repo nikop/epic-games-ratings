@@ -2,10 +2,10 @@
   "ID": "73451456d3d0498385b49ae94424d37d",
   "Name": "Lesson Learned",
   "ProductSlug": "lesson-learned-ad4bd7",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-11T17:56:57.6437338+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:00:52.8262667+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:05:21.4256701+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:59:33.7946825+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:04:36.2570593+00:00"
 }

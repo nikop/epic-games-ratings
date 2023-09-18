@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -408,9 +408,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246353,
+  "EOS_Progressed": 246354,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17193,6 +17193,11 @@
       "Time": "2023-09-18T10:07:39.532543+00:00",
       "NumProgressed": 246353,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-18T11:06:12.5877109+00:00",
+      "NumProgressed": 246354,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17204,7 +17209,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66515
+      "UsersEstimate": 66516
     },
     {
       "ID": "ACH_AON",
@@ -17619,7 +17624,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246353,
+      "Progressed": 246354,
       "Completed": 7
     }
   ],
@@ -17627,8 +17632,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-14T17:02:57.7818889+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:07:39.5325426+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:06:12.5877103+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.3686602+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:57:59.2544826+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:07:39.5327348+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:57:38.7759323+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:06:12.5879325+00:00"
 }

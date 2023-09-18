@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 875,
+  "EOS_Progressed": 876,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2195,6 +2195,11 @@
       "Time": "2023-09-18T00:09:11.6516788+00:00",
       "NumProgressed": 875,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-18T11:03:12.1745549+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2326,7 +2331,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2404,9 +2409,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 123
     },
     {
       "ID": "NoCritterSump",
@@ -2510,7 +2515,7 @@
       "Name": "Golem Hunter",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ScrambotProgress1",
@@ -2629,7 +2634,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 875,
+      "Progressed": 876,
       "Completed": 5
     }
   ],
@@ -2637,8 +2642,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:03:14.71481+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:03:12.1745543+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:00:47.4985704+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:03:14.7148737+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:59:29.670495+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:03:12.1746113+00:00"
 }

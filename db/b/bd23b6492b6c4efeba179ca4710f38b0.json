@@ -2,10 +2,10 @@
   "ID": "bd23b6492b6c4efeba179ca4710f38b0",
   "Name": "E30 Drift Car Simulator",
   "ProductSlug": "e30-drift-car-simulator-2d2977",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-03T17:00:00+00:00",
     "PcReleaseDate": "2023-02-10T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-15T21:57:02.0517707+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:01:12.6052234+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:06:14.9119218+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:59:47.4068544+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:05:13.3437247+00:00"
 }

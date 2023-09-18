@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1195,9 +1195,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
@@ -1210,8 +1210,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:05:51.7251854+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:04:57.3400372+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:02:49.4507355+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:05:51.7252062+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:00:56.9180062+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:04:57.3400522+00:00"
 }

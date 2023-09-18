@@ -56,9 +56,9 @@ Rating: 4.18 (Ranked 884)
 | A Sophisticated Mallet | 0.80% | ~343 |
 | Read Owl About It | 0.70% | ~508 |
 | Don't Mecha Big Deal About It | 0.60% | ~258 |
+| Confronting Your Demon | 0.60% | ~258 |
 | Gotham's Greatest Depths | 0.50% | ~215 |
 | That's Showbiz, Clayby | 0.50% | ~215 |
-| Confronting Your Demon | 0.50% | ~215 |
 | Hammer and Icicle | 0.40% | ~172 |
 | Showdown Sovereign | 0.40% | ~172 |
 | Renewable Enemy Source | 0.30% | ~129 |

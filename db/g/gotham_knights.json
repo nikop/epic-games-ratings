@@ -16352,9 +16352,9 @@
       "ID": "TALIA_SHOWDOWN_1",
       "SetID": "18c818l",
       "Name": "Confronting Your Demon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 258
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -16383,8 +16383,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-18T04:59:51.1208949+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:04:30.4415451+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:03:59.1536349+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:00:40.9205013+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:04:30.4416838+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:59:24.4507919+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:03:59.1537671+00:00"
 }

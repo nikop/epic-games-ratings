@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7696,10 +7696,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43641,
       "NumberOfAwardsMax": 22799
+    },
+    {
+      "Time": "2023-09-18T10:57:20.3934486+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43644,
+      "NumberOfAwardsMax": 22799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43641,
+  "NumberOfAwards": 43644,
   "NumberOfAwardsMax": 22799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7737,7 +7743,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1030
+      "Count": 1033
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7776,9 +7782,9 @@
       "Count": 657
     }
   ],
-  "EOS_Progressed": 296887,
+  "EOS_Progressed": 296888,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24131,6 +24137,11 @@
       "Time": "2023-09-18T10:05:22.1257779+00:00",
       "NumProgressed": 296887,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-18T11:04:36.740947+00:00",
+      "NumProgressed": 296888,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24230,7 +24241,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "PFA_20",
@@ -24262,7 +24273,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35626
+      "UsersEstimate": 35627
     },
     {
       "ID": "PFA_24",
@@ -24294,7 +24305,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "PFA_28",
@@ -24342,7 +24353,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "PFA_33",
@@ -24390,7 +24401,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "PFA_39",
@@ -24406,7 +24417,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "PFA_40",
@@ -24462,7 +24473,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "PFA_6",
@@ -24501,16 +24512,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296887,
+      "Progressed": 296888,
       "Completed": 474
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-18T07:57:27.6321927+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:05:22.1257774+00:00",
+  "LastChanged": "2023-09-18T10:57:20.3934485+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:04:36.7409461+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:57:30.0701322+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:05:22.1260545+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:57:20.3934491+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:04:36.7410654+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.60 (Ranked 395)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 28.00% | ~245 |
 | Rail Rat | 23.00% | ~201 |
-| The Mysterious Stranger | 22.00% | ~192 |
+| The Mysterious Stranger | 22.00% | ~193 |
 | Make Up For Lost Time | 20.00% | ~175 |
 | The Prince in Heels | 20.00% | ~175 |
 | Immaculate Aim | 20.00% | ~175 |
@@ -30,8 +30,8 @@ Rating: 4.60 (Ranked 395)
 | Right On Time | 16.00% | ~140 |
 | The Man Who Shattered Time | 16.00% | ~140 |
 | Street Style | 15.00% | ~131 |
-| Cartographer | 15.00% | ~131 |
 | Treasure Trove | 14.00% | ~123 |
+| Cartographer | 14.00% | ~123 |
 | Whiz Kid | 13.00% | ~114 |
 | Good Neighbor | 12.00% | ~105 |
 | Chaincrawler Explorer | 11.00% | ~96 |
@@ -46,7 +46,7 @@ Rating: 4.60 (Ranked 395)
 | Entresol Explorer | 8.00% | ~70 |
 | Corin Goes Home | 7.00% | ~61 |
 | Sartorialist | 7.00% | ~61 |
-| Golem Hunter | 6.00% | ~52 |
+| Golem Hunter | 6.00% | ~53 |
 | Clovemary for Remembering | 5.00% | ~44 |
 | Rungs Was Right | 5.00% | ~44 |
 | Hexlock for Protection | 4.00% | ~35 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875 (Ranked 219)  
+Progressed: 876 (Ranked 219)  
 Completed: 5 (0.57%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 5 (0.57%) (Ranked 149)
 | 2023-09-15 | 868 | 5 |
 | 2023-09-16 | 870 | 5 |
 | 2023-09-17 | 874 | 5 |
-| 2023-09-18 | 875 | 5 |
+| 2023-09-18 | 876 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

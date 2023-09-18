@@ -2,10 +2,10 @@
   "ID": "3582d65783144a76a49256c3ac01444d",
   "Name": "Car Mechanic - City Driving",
   "ProductSlug": "car-mechanic-city-driving-4996c5",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-17T23:00:00+00:00",
     "PcReleaseDate": "2023-09-17T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-12T11:56:59.9496215+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:02:11.0366556+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:07:11.7420299+00:00"
+  "LastUpdate_Ratings": "2023-09-18T11:00:28.949431+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:05:52.9322284+00:00"
 }

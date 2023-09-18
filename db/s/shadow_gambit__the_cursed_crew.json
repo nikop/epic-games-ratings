@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1804,9 +1804,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "_07_FinishAct3",
@@ -1981,8 +1981,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:03:42.691307+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:03:31.8409689+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:58:56.898532+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:03:42.6913376+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:58:21.526957+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:03:31.8410022+00:00"
 }

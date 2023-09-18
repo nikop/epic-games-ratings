@@ -13,7 +13,7 @@ Rating: 4.69 (Ranked 217)
 | The Gambit Has Begun | 34.00% | ~222 |
 | Somewhere Deep in the Lost Caribbean | 30.00% | ~196 |
 | Powder Monkey | 30.00% | ~196 |
-| Mirror Mirror on the Wall | 28.00% | ~183 |
+| Mirror Mirror on the Wall | 29.00% | ~190 |
 | Pirates Assemble! | 26.00% | ~170 |
 | Buccaneer | 23.00% | ~150 |
 | Fishy Fish | 22.00% | ~144 |

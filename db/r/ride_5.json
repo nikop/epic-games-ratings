@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 933,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2023-09-18T10:08:48.2345167+00:00",
       "NumProgressed": 930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-18T11:07:10.8432111+00:00",
+      "NumProgressed": 933,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1216,7 +1221,7 @@
       "Name": "First Love",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1224,7 +1229,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 355
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1272,7 +1277,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -1288,7 +1293,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1320,7 +1325,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1392,7 +1397,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -1424,7 +1429,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1472,7 +1477,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1504,7 +1509,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -1512,7 +1517,7 @@
       "Name": "Eat My Dust",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -1520,7 +1525,7 @@
       "Name": "Champagne Spray",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -1568,7 +1573,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -1607,14 +1612,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 933,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:08:48.2345157+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:07:10.8432104+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-18T09:59:18.329417+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:08:48.2345685+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:58:35.3929342+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:07:10.8432616+00:00"
 }

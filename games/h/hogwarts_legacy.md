@@ -8,7 +8,7 @@ Rating: 4.77 (Ranked 110)
 | The Sort Who Makes an Entrance | 14.00% | ~41,564 |
 | First Class Student | 13.00% | ~38,595 |
 | Troll with the Punches | 13.00% | ~38,595 |
-| A Keen Sense of Spell | 12.00% | ~35,626 |
+| A Keen Sense of Spell | 12.00% | ~35,627 |
 | A Talent for Spending | 11.00% | ~32,658 |
 | That's a Keeper | 11.00% | ~32,658 |
 | Grappling with a Graphorn | 10.00% | ~29,689 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 110)
 | The Root of the Problem | 5.00% | ~14,844 |
 | Third Time's a Charm | 5.00% | ~14,844 |
 | The Ends Petrify the Means | 5.00% | ~14,844 |
-| The Toast of the Town | 4.00% | ~11,875 |
-| Going Through the Potions | 4.00% | ~11,875 |
-| Room with a View | 4.00% | ~11,875 |
-| The Intrepid Explorer | 4.00% | ~11,875 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,875 |
-| The Wise Owl | 4.00% | ~11,875 |
+| The Toast of the Town | 4.00% | ~11,876 |
+| Going Through the Potions | 4.00% | ~11,876 |
+| Room with a View | 4.00% | ~11,876 |
+| The Intrepid Explorer | 4.00% | ~11,876 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,876 |
+| The Wise Owl | 4.00% | ~11,876 |
 | Put Down Roots | 3.00% | ~8,907 |
 | Floo Around the World | 3.00% | ~8,907 |
 | The Good Samaritan | 2.00% | ~5,938 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,781 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,887 (Ranked 43)  
+Progressed: 296,888 (Ranked 43)  
 Completed: 474 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,10 +202,10 @@ Completed: 474 (0.16%) (Ranked 205)
 | 2023-09-15 | 296,672 | 470 |
 | 2023-09-16 | 296,761 | 472 |
 | 2023-09-17 | 296,862 | 474 |
-| 2023-09-18 | 296,887 | 474 |
+| 2023-09-18 | 296,888 | 474 |
 ## Awards
 Max (Character Customization): 22,799  (Ranked 17)  
-Sum: 43,641 (Ranked 30)  
+Sum: 43,644 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -214,7 +214,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,075 |
 | This game has Amazing Storytelling | 1,044 |
 | This game has Diverse Characters | 1,035 |
-| This game is Extremely Fun | 1,030 |
+| This game is Extremely Fun | 1,033 |
 | This game is Relaxing | 1,028 |
 | This game has Amazing Characters | 1,001 |
 | This game is Highly Recommended | 984 |
@@ -402,4 +402,4 @@ Diff (max vs sum): -13
 | 2023-09-15 | 4.77 | 22,703 | 43,384 |
 | 2023-09-16 | 4.77 | 22,752 | 43,493 |
 | 2023-09-17 | 4.77 | 22,799 | 43,623 |
-| 2023-09-18 | 4.77 | 22,799 | 43,641 |
+| 2023-09-18 | 4.77 | 22,799 | 43,644 |

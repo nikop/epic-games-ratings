@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -922,9 +922,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12477,
+  "EOS_Progressed": 12479,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10662,6 +10662,11 @@
       "Time": "2023-09-18T08:06:01.9247881+00:00",
       "NumProgressed": 12477,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-18T11:05:25.1809392+00:00",
+      "NumProgressed": 12479,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10673,7 +10678,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10106
+      "UsersEstimate": 10108
     },
     {
       "ID": "ACH02",
@@ -10681,7 +10686,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH03",
@@ -10729,7 +10734,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     },
     {
       "ID": "ACH09",
@@ -10777,7 +10782,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACH15",
@@ -10849,7 +10854,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3244
+      "UsersEstimate": 3245
     },
     {
       "ID": "ACH24",
@@ -10952,7 +10957,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12477,
+      "Progressed": 12479,
       "Completed": 45
     }
   ],
@@ -10960,8 +10965,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-17T18:01:39.7938651+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:06:32.0323333+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:05:25.1809386+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:00:29.4597119+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:06:32.0324423+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:59:16.9655277+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:05:25.1810141+00:00"
 }

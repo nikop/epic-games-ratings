@@ -14,6 +14,7 @@
 | An act of courage | 8.00% | ~2 |
 | Health | 8.00% | ~2 |
 | Lost | 8.00% | ~2 |
+| Mayhem | 8.00% | ~2 |
 | Path of Pain | 8.00% | ~2 |
 | Rage | 8.00% | ~2 |
 | Reflections | 8.00% | ~2 |
@@ -24,7 +25,6 @@
 | Clarity | 4.00% | ~1 |
 | Despair | 4.00% | ~1 |
 | Jigsaw | 4.00% | ~1 |
-| Mayhem | 4.00% | ~1 |
 | Pain | 4.00% | ~1 |
 | Peace | 4.00% | ~1 |
 | An act of compassion | 0.00% | ~0 |
@@ -34,7 +34,7 @@
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 438)  
+Progressed: 24 (Ranked 439)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |

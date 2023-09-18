@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1279,9 +1279,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 383
     },
     {
       "ID": "BoxingClever",
@@ -1438,8 +1438,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-18T10:09:27.2300445+00:00",
+  "LastChanged_Achievements": "2023-09-18T11:08:28.0563691+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:01.9364829+00:00",
-  "LastUpdate_Ratings": "2023-09-18T10:00:56.1912439+00:00",
-  "LastUpdate_Achievements": "2023-09-18T10:09:27.2300694+00:00"
+  "LastUpdate_Ratings": "2023-09-18T10:59:37.5991587+00:00",
+  "LastUpdate_Achievements": "2023-09-18T11:08:28.0563921+00:00"
 }

@@ -124,13 +124,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.90% | ~126 |
 | Strong Difficulty | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
+| Learn to Play 4 | 0.80% | ~112 |
 | Babylonia | 0.80% | ~112 |
 | Hittite Paganism | 0.80% | ~112 |
 | Kushite Cavalry | 0.80% | ~112 |
 | Turreted Elephant | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
-| Learn to Play 4 | 0.70% | ~98 |
 | Rome | 0.70% | ~98 |
 | One True Faith | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,985 (Ranked 124)  
+Progressed: 13,987 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -454,7 +454,7 @@ Completed: 5 (0.04%) (Ranked 245)
 | 2023-09-15 | 13,926 | 5 |
 | 2023-09-16 | 13,958 | 5 |
 | 2023-09-17 | 13,979 | 5 |
-| 2023-09-18 | 13,985 | 5 |
+| 2023-09-18 | 13,987 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  
