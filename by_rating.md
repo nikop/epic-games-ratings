@@ -346,7 +346,7 @@
 | 332 | [Returnal™](games/r/returnal™.md) | 4.63 | 76 | 372 |
 | 332 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 281 |
 | 332 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 237 |
-| 332 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,779 | 115 |
+| 332 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,780 | 115 |
 | 332 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 22 | 499 |
 | 332 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 68 | 383 |
 | 350 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.62 | 0 | 519 |
@@ -518,22 +518,22 @@
 | 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
 | 503 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 519 |
 | 503 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 519 |
-| 519 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 519 |
-| 519 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
-| 519 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 519 |
-| 519 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,060 | 18 |
-| 519 | [Everything](games/e/everything.md) | 4.53 | 0 | 519 |
-| 519 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 519 |
-| 519 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 519 |
-| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,446 | 126 |
-| 519 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 519 |
-| 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 519 |
-| 519 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 490 |
-| 519 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 514 | 199 |
-| 519 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 519 |
-| 519 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 519 |
-| 519 | [VALORANT](games/v/valorant.md) | 4.53 | 70,831 | 10 |
-| 519 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 345 |
+| 503 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 514 | 199 |
+| 520 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 519 |
+| 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
+| 520 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 519 |
+| 520 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,060 | 18 |
+| 520 | [Everything](games/e/everything.md) | 4.53 | 0 | 519 |
+| 520 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 519 |
+| 520 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 519 |
+| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,446 | 126 |
+| 520 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 519 |
+| 520 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 519 |
+| 520 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 490 |
+| 520 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 519 |
+| 520 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 519 |
+| 520 | [VALORANT](games/v/valorant.md) | 4.53 | 70,831 | 10 |
+| 520 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 345 |
 | 535 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 43 | 424 |
 | 535 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 32,726 | 15 |
 | 535 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 22 | 499 |
@@ -586,7 +586,7 @@
 | 583 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 390 |
 | 583 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 519 |
 | 583 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,994 | 109 |
-| 583 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,501 | 14 |
+| 583 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,545 | 14 |
 | 583 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 519 |
 | 583 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 248 |
 | 583 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 130 | 311 |
@@ -681,7 +681,7 @@
 | 679 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 0 | 519 |
 | 679 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 225 | 262 |
 | 679 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 38 | 434 |
-| 679 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,203 | 135 |
+| 679 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,204 | 135 |
 | 679 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 434 |
 | 679 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 52 |
 | 679 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 68 | 383 |
@@ -846,16 +846,16 @@
 | 843 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 463 |
 | 843 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 499 |
 | 843 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 519 |
+| 843 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 623 | 183 |
 | 843 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 414 |
 | 843 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 519 |
 | 843 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 519 |
 | 843 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 490 |
-| 851 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 519 |
-| 851 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
-| 851 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 519 |
-| 851 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 623 | 183 |
-| 851 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 519 |
-| 851 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 212 | 271 |
+| 852 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 519 |
+| 852 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
+| 852 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 519 |
+| 852 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 519 |
+| 852 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 212 | 271 |
 | 857 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 284 |
 | 857 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 519 |
 | 859 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.21 | 0 | 519 |

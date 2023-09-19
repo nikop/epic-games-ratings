@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.98% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.87% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.47% |
@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.58% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.48% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.95% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -19,7 +19,7 @@
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 18 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.89% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
-| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.33% |
+| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
 | 21 | [Anna's Quest](games/a/anna's_quest.md) | 11.90% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
@@ -50,7 +50,7 @@
 | 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.58% |
 | 49 | [JARS](games/j/jars.md) | 5.48% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.26% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.23% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.94% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
@@ -76,12 +76,12 @@
 | 74 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.97% |
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
-| 77 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.94% |
-| 78 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 79 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
-| 80 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
-| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
-| 82 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 78 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
+| 79 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
+| 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
+| 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 82 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.70% |
 | 83 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.63% |
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 84 | [Lamentum](games/l/lamentum.md) | 2.50% |
@@ -93,7 +93,7 @@
 | 91 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 92 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
 | 93 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
-| 93 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.29% |
+| 94 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.28% |
 | 95 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 96 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
 | 97 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
@@ -131,7 +131,7 @@
 | 129 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 131 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
-| 132 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.92% |
+| 132 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.91% |
 | 133 | [Hades](games/h/hades.md) | 0.90% |
 | 134 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 135 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
