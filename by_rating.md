@@ -643,7 +643,7 @@
 | 641 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 247 | 258 |
 | 641 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 842 | 155 |
 | 641 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 108 | 332 |
-| 641 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,535 | 34 |
+| 641 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,552 | 34 |
 | 641 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.45 | 0 | 519 |
 | 641 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 880 | 153 |
 | 641 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 118 | 324 |
@@ -667,7 +667,6 @@
 | 650 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 394 |
 | 666 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 0 | 519 |
 | 666 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 40 | 429 |
-| 666 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 225 | 262 |
 | 666 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 0 | 519 |
 | 666 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 519 |
 | 666 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 12,949 | 28 |
@@ -679,18 +678,19 @@
 | 666 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 466 |
 | 666 | [Train Valley 2](games/t/train_valley_2.md) | 4.43 | 636 | 180 |
 | 666 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 283 | 244 |
-| 680 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 0 | 519 |
-| 680 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.42 | 0 | 519 |
-| 680 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 38 | 434 |
-| 680 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.42 | 0 | 519 |
-| 680 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,203 | 135 |
-| 680 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 434 |
-| 680 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 52 |
-| 680 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 68 | 383 |
-| 680 | [Sheltered](games/s/sheltered.md) | 4.42 | 273 | 249 |
-| 680 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 158 | 297 |
-| 680 | [Warpips](games/w/warpips.md) | 4.42 | 27 | 474 |
-| 680 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.42 | 0 | 519 |
+| 679 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 0 | 519 |
+| 679 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 225 | 262 |
+| 679 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.42 | 0 | 519 |
+| 679 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 38 | 434 |
+| 679 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.42 | 0 | 519 |
+| 679 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,203 | 135 |
+| 679 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 434 |
+| 679 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 52 |
+| 679 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 68 | 383 |
+| 679 | [Sheltered](games/s/sheltered.md) | 4.42 | 273 | 249 |
+| 679 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 158 | 297 |
+| 679 | [Warpips](games/w/warpips.md) | 4.42 | 27 | 474 |
+| 679 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.42 | 0 | 519 |
 | 692 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 519 |
 | 692 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 519 |
 | 692 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 67 | 386 |
@@ -933,7 +933,7 @@
 | 931 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 0 | 519 |
 | 931 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 182 | 283 |
 | 933 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 519 |
-| 933 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,285 | 67 |
+| 933 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,292 | 67 |
 | 933 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 519 |
 | 936 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 189 | 279 |
 | 936 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 466 | 204 |
