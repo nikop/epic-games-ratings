@@ -6,27 +6,27 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,831 |
-| keep it tidy | 77.00% | ~7,886 |
-| podium | 72.00% | ~7,374 |
-| medium attack | 60.00% | ~6,145 |
-| brail | 57.00% | ~5,837 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,301 |
-| grocery-getter | 40.00% | ~4,096 |
+| light attack | 96.00% | ~9,833 |
+| keep it tidy | 77.00% | ~7,887 |
+| podium | 72.00% | ~7,375 |
+| medium attack | 60.00% | ~6,146 |
+| brail | 57.00% | ~5,839 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,302 |
+| grocery-getter | 40.00% | ~4,097 |
 | rwd only | 26.00% | ~2,663 |
 | food tour: pasta | 26.00% | ~2,663 |
 | to finish first, first you must finish | 21.00% | ~2,151 |
 | autopilot | 21.00% | ~2,151 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,151 |
-| turbo | 20.00% | ~2,048 |
+| turbo | 20.00% | ~2,049 |
 | food tour: pretzel | 19.00% | ~1,946 |
 | bicycle race | 15.00% | ~1,536 |
 | car wash | 15.00% | ~1,536 |
 | monster | 14.00% | ~1,434 |
 | the artist | 14.00% | ~1,434 |
-| perkele | 13.00% | ~1,331 |
-| night ride | 13.00% | ~1,331 |
-| snorkel | 13.00% | ~1,331 |
+| perkele | 13.00% | ~1,332 |
+| night ride | 13.00% | ~1,332 |
+| snorkel | 13.00% | ~1,332 |
 | where is the stage? | 12.00% | ~1,229 |
 | maximum attack | 11.00% | ~1,127 |
 | espresso | 10.00% | ~1,024 |
@@ -37,9 +37,9 @@ Number of Ratings: 56  (23.09.2022)
 | viking | 7.00% | ~717 |
 | master of rally | 7.00% | ~717 |
 | antilag | 7.00% | ~717 |
-| parking lot | 6.00% | ~614 |
-| oktoberfest | 6.00% | ~614 |
-| in like a lamb, out like a lion | 6.00% | ~614 |
+| parking lot | 6.00% | ~615 |
+| oktoberfest | 6.00% | ~615 |
+| in like a lamb, out like a lion | 6.00% | ~615 |
 | group b | 5.00% | ~512 |
 | if in doubt, flat out! | 5.00% | ~512 |
 | comfy seats | 4.00% | ~410 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,241 (Ranked 131)  
+Progressed: 10,243 (Ranked 131)  
 Completed: 9 (0.09%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 9 (0.09%) (Ranked 228)
 | 2023-09-16 | 10,235 | 9 |
 | 2023-09-17 | 10,239 | 9 |
 | 2023-09-18 | 10,241 | 9 |
+| 2023-09-19 | 10,243 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

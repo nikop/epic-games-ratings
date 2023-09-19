@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 50.00% | ~86 |
 | Welcome to the Tower | 47.00% | ~81 |
+| The great escape | 43.00% | ~74 |
 | The Preacher's fate | 42.00% | ~72 |
-| The great escape | 42.00% | ~72 |
 | A new dawn | 38.00% | ~65 |
 | Scholar | 37.00% | ~64 |
 | The darkness | 35.00% | ~60 |
@@ -15,7 +15,7 @@
 | One last step | 33.00% | ~57 |
 | True G4M3R | 32.00% | ~55 |
 | Cable guy | 30.00% | ~52 |
-| Champollion | 29.00% | ~50 |
+| Champollion | 30.00% | ~52 |
 | Half the way | 28.00% | ~48 |
 | In this together | 27.00% | ~46 |
 | Peace walker | 27.00% | ~46 |
@@ -28,7 +28,7 @@
 | A great audience | 15.00% | ~26 |
 | For its own good | 15.00% | ~26 |
 | Fashion victim | 14.00% | ~24 |
-| I did it | 11.00% | ~19 |
+| I did it | 12.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 172 (Ranked 324)  
 Completed: 9 (5.23%) (Ranked 51)  

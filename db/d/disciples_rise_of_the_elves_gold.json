@@ -2,10 +2,10 @@
   "ID": "ecf42e27d0e6495c8da84059efd039ab",
   "Name": "Disciples Rise of the Elves Gold",
   "ProductSlug": "disciples-rise-of-the-elves-gold-669f54",
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-08T03:00:00+00:00",
     "PcReleaseDate": "2006-07-06T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:59.3138831+00:00",
   "LastChanged": "2023-03-31T05:57:59.3138832+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.6420401+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:58:50.5074865+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:04:23.4163686+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:58:40.7172922+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:04:17.2585875+00:00"
 }

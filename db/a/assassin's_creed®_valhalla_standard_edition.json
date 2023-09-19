@@ -5,10 +5,10 @@
   "Ranking_Rating": 395,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 38,
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9664,10 +9664,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 32713,
       "NumberOfAwardsMax": 13851
+    },
+    {
+      "Time": "2023-09-19T22:57:42.8462293+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 32714,
+      "NumberOfAwardsMax": 13851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32713,
+  "NumberOfAwards": 32714,
   "NumberOfAwardsMax": 13851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9735,7 +9741,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 628
+      "Count": 629
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9755,8 +9761,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-09-19T19:57:45.2599161+00:00",
+  "LastChanged": "2023-09-19T22:57:42.8462288+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:01.0191292+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:57:53.4350549+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:07:04.2588552+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:57:42.8462297+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:07:00.6008837+00:00"
 }

@@ -3582,9 +3582,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 87821,
+  "EOS_Progressed": 87822,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19357,6 +19357,11 @@
       "Time": "2023-09-19T22:07:05.2598489+00:00",
       "NumProgressed": 87821,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-19T23:07:01.7050106+00:00",
+      "NumProgressed": 87822,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19374,9 +19379,9 @@
       "ID": "ACH_0011",
       "SetID": "3kam13l",
       "Name": "Underworld Initiate",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_0012",
@@ -19695,13 +19700,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 87821,
+      "Progressed": 87822,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16168,
+      "Progressed": 16169,
       "Completed": 15525
     }
   ],
@@ -19709,8 +19714,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-19T09:00:05.494722+00:00",
-  "LastChanged_Achievements": "2023-09-19T22:07:05.2598485+00:00",
+  "LastChanged_Achievements": "2023-09-19T23:07:01.7050102+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:00:20.5811653+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:07:05.2599432+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:00:16.4095697+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:07:01.705112+00:00"
 }

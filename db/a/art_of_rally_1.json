@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10241,
+  "EOS_Progressed": 10243,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1496,6 +1496,11 @@
       "Time": "2023-09-18T19:08:20.8493887+00:00",
       "NumProgressed": 10241,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-19T23:06:55.0428128+00:00",
+      "NumProgressed": 10243,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1539,7 +1544,7 @@
       "Name": "parking lot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_BICYCLE",
@@ -1563,7 +1568,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1571,7 +1576,7 @@
       "Name": "oktoberfest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_COLLECTIBLES_JAPAN",
@@ -1611,7 +1616,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1627,7 +1632,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1667,7 +1672,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7886
+      "UsersEstimate": 7887
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1683,7 +1688,7 @@
       "Name": "in like a lamb, out like a lion",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_FIVE_HUNDRED_KM",
@@ -1715,7 +1720,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5837
+      "UsersEstimate": 5839
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1731,7 +1736,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9831
+      "UsersEstimate": 9833
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1747,7 +1752,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6145
+      "UsersEstimate": 6146
     },
     {
       "ID": "ACH_NIGHT",
@@ -1755,7 +1760,7 @@
       "Name": "night ride",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1771,7 +1776,7 @@
       "Name": "snorkel",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_ROLL",
@@ -1795,7 +1800,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "ACH_SNOW",
@@ -1843,22 +1848,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7374
+      "UsersEstimate": 7375
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10241,
+      "Progressed": 10243,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-19T22:06:58.9197423+00:00",
+  "LastChanged_Achievements": "2023-09-19T23:06:55.0428124+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.9885415+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:58:34.5598506+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:06:58.9197775+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:58:24.5709892+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:06:55.0428471+00:00"
 }

@@ -14,7 +14,7 @@ Rating: 4.46 (Ranked 625)
 | Taking it back | 28.00% | ~1,019 |
 | Resourceful | 26.00% | ~946 |
 | Target America | 26.00% | ~946 |
-| The Kraken Sleeps | 23.00% | ~837 |
+| The Kraken Sleeps | 24.00% | ~873 |
 | Liberté | 22.00% | ~801 |
 | Organ Grinder | 22.00% | ~801 |
 | As Quiet as a Mouse | 22.00% | ~801 |

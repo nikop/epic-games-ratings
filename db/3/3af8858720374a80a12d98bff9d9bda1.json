@@ -2,10 +2,10 @@
   "ID": "3af8858720374a80a12d98bff9d9bda1",
   "Name": "Goblin\u0027s mystic war",
   "ProductSlug": "a-war-for-better-tomorrow-e77f40",
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T13:57:00.2958291+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:58:20.3248267+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:06:45.3164721+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:58:09.1326442+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:06:41.2642728+00:00"
 }

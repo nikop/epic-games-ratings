@@ -10,8 +10,8 @@ Rating: 4.27 (Ranked 822)
 | Fronting the Money | 15.00% | ~51,604 |
 | The Dawn of Automation | 14.00% | ~48,164 |
 | Extraordinary Logistics | 14.00% | ~48,164 |
-| Dirty Money | 13.00% | ~44,723 |
-| Family First | 13.00% | ~44,723 |
+| Dirty Money | 13.00% | ~44,724 |
+| Family First | 13.00% | ~44,724 |
 | Cleaning House | 12.00% | ~41,283 |
 | Room in the Back | 12.00% | ~41,283 |
 | Beating the Heat | 11.00% | ~37,843 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 822)
 | High Pillow | 0.10% | ~344 |
 | Station Master | 0.10% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,026 (Ranked 42)  
+Progressed: 344,027 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 7 (0.00%) (Ranked 278)
 | 2023-09-16 | 343,523 | 7 |
 | 2023-09-17 | 343,757 | 7 |
 | 2023-09-18 | 343,909 | 7 |
-| 2023-09-19 | 344,026 | 7 |
+| 2023-09-19 | 344,027 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 439)  
 Sum: 195 (Ranked 376)  

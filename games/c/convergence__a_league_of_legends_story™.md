@@ -6,8 +6,8 @@ Rating: 4.60 (Ranked 395)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 28.00% | ~246 |
+| The Mysterious Stranger | 23.00% | ~202 |
 | Rail Rat | 23.00% | ~202 |
-| The Mysterious Stranger | 22.00% | ~193 |
 | Make Up For Lost Time | 20.00% | ~176 |
 | The Prince in Heels | 20.00% | ~176 |
 | Immaculate Aim | 20.00% | ~176 |
@@ -25,10 +25,10 @@ Rating: 4.60 (Ranked 395)
 | Like Clockwork | 17.00% | ~149 |
 | The Betrayer | 17.00% | ~149 |
 | The Loose Cannon | 17.00% | ~149 |
-| Check Your Pulse | 17.00% | ~149 |
-| The Family Fortune | 17.00% | ~149 |
-| Right On Time | 16.00% | ~140 |
-| The Man Who Shattered Time | 16.00% | ~140 |
+| Right On Time | 16.00% | ~141 |
+| The Man Who Shattered Time | 16.00% | ~141 |
+| Check Your Pulse | 16.00% | ~141 |
+| The Family Fortune | 16.00% | ~141 |
 | Street Style | 15.00% | ~132 |
 | Treasure Trove | 14.00% | ~123 |
 | Cartographer | 14.00% | ~123 |
@@ -44,8 +44,8 @@ Rating: 4.60 (Ranked 395)
 | Fairgrounds Explorer | 9.00% | ~79 |
 | Cultivair Explorer | 8.00% | ~70 |
 | Entresol Explorer | 8.00% | ~70 |
-| Corin Goes Home | 7.00% | ~61 |
-| Sartorialist | 7.00% | ~61 |
+| Corin Goes Home | 7.00% | ~62 |
+| Sartorialist | 7.00% | ~62 |
 | Golem Hunter | 6.00% | ~53 |
 | Clovemary for Remembering | 5.00% | ~44 |
 | Rungs Was Right | 5.00% | ~44 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 878 (Ranked 221)  
+Progressed: 879 (Ranked 221)  
 Completed: 5 (0.57%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 5 (0.57%) (Ranked 150)
 | 2023-09-16 | 870 | 5 |
 | 2023-09-17 | 874 | 5 |
 | 2023-09-18 | 876 | 5 |
-| 2023-09-19 | 878 | 5 |
+| 2023-09-19 | 879 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

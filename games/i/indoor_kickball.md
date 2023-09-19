@@ -8,11 +8,11 @@
 | Accessory Unlocked | 82.00% | ~73 |
 | Character Unlocked | 79.00% | ~70 |
 | Homer | 76.00% | ~68 |
+| Settle Down | 73.00% | ~65 |
 | Butter Fingers | 73.00% | ~65 |
-| Settle Down | 72.00% | ~64 |
 | Kickball Unlocked | 71.00% | ~63 |
 | Have a good trip! | 70.00% | ~62 |
-| Stay Hydrated | 64.00% | ~57 |
+| Stay Hydrated | 65.00% | ~58 |
 | First Win | 63.00% | ~56 |
 | True Story! | 44.00% | ~39 |
 | Bedroom Secret Spot | 40.00% | ~36 |
@@ -23,10 +23,10 @@
 | Grand Slam! | 26.00% | ~23 |
 | Save some water for the fishies | 25.00% | ~22 |
 | Angry Dad | 25.00% | ~22 |
+| Bathroom Secret Spot | 24.00% | ~21 |
 | Have Mercy | 22.00% | ~20 |
-| Bathroom Secret Spot | 22.00% | ~20 |
+| Living Room Secret Spot | 19.00% | ~17 |
 | Angry Mom | 19.00% | ~17 |
-| Living Room Secret Spot | 18.00% | ~16 |
 | Hi Hungry, I'm Dad | 18.00% | ~16 |
 | Just how we drew it up | 13.00% | ~12 |
 | Interference | 10.00% | ~9 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 368)  
+Progressed: 89 (Ranked 369)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

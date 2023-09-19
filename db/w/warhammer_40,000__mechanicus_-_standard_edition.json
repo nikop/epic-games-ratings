@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -645,9 +645,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 222922,
+  "EOS_Progressed": 222925,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17205,6 +17205,11 @@
       "Time": "2023-09-19T22:05:14.2948968+00:00",
       "NumProgressed": 222922,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T23:05:08.0116736+00:00",
+      "NumProgressed": 222925,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -17216,7 +17221,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42355
+      "UsersEstimate": 42356
     },
     {
       "ID": "ACH_BASE_10",
@@ -17296,7 +17301,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13375
+      "UsersEstimate": 13376
     },
     {
       "ID": "ACH_BASE_20",
@@ -17487,7 +17492,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 222922,
+      "Progressed": 222925,
       "Completed": 5
     }
   ],
@@ -17495,8 +17500,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-09-15T21:57:58.4572232+00:00",
-  "LastChanged_Achievements": "2023-09-19T22:05:14.2948963+00:00",
+  "LastChanged_Achievements": "2023-09-19T23:05:08.0116731+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:32.2325018+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:59:00.5023146+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:05:14.2949975+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:58:52.1509125+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:05:08.0117732+00:00"
 }

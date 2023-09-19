@@ -2,10 +2,10 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84 Epic",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
     "PcReleaseDate": "2023-08-22T09:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "LastUpdate_AppInfo": "2023-09-19T10:57:10.5315374+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:59:08.325948+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:08:17.6053066+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:58:59.9074479+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:08:13.3533264+00:00"
 }

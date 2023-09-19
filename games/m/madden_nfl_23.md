@@ -2,6 +2,30 @@
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
 Rating: 4.28 (Ranked 815)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Primetime | 0.00% | ~0 |
+| Bragging Rights | 0.00% | ~0 |
+| Future of the Franchise | 0.00% | ~0 |
+| Stud Finder | 0.00% | ~0 |
+| Big Spender | 0.00% | ~0 |
+| Dealmaker | 0.00% | ~0 |
+| MVP | 0.00% | ~0 |
+| ROTY | 0.00% | ~0 |
+| Pocket Ace | 0.00% | ~0 |
+| Gain Train | 0.00% | ~0 |
+| Ol' Reliable | 0.00% | ~0 |
+| Unblockable | 0.00% | ~0 |
+| Lockdown Leader | 0.00% | ~0 |
+| The Fortress | 0.00% | ~0 |
+| Throwin’ Dots | 0.00% | ~0 |
+| Lockdown Corner | 0.00% | ~0 |
+| Already in Progress | 0.00% | ~0 |
+| Change of Scenery | 0.00% | ~0 |
+| Roster Reshuffle | 0.00% | ~0 |
+| Pro Bowler | 0.00% | ~0 |
+| Head-to-Head | 0.00% | ~0 |
 ## Awards
 Max (Diverse Characters): 25  (Ranked 485)  
 Sum: 66 (Ranked 446)  

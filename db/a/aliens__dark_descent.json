@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3319,
+  "EOS_Progressed": 3320,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4484,6 +4484,11 @@
       "Time": "2023-09-19T19:09:10.4682162+00:00",
       "NumProgressed": 3319,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-19T23:07:02.6129365+00:00",
+      "NumProgressed": 3320,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4503,7 +4508,7 @@
       "Name": "Flawless Victory",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -4527,7 +4532,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -4543,7 +4548,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -4551,7 +4556,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -4575,7 +4580,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -4591,7 +4596,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4607,7 +4612,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4711,7 +4716,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4727,7 +4732,7 @@
       "Name": "Living Nightmare",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4743,7 +4748,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_MISSION_09",
@@ -4751,7 +4756,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_MISSION_10",
@@ -4791,7 +4796,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4807,7 +4812,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4831,7 +4836,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -4839,7 +4844,7 @@
       "Name": "The More The Merrier",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -4854,7 +4859,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3319,
+      "Progressed": 3320,
       "Completed": 3
     }
   ],
@@ -4862,8 +4867,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-19T22:07:06.1120475+00:00",
+  "LastChanged_Achievements": "2023-09-19T23:07:02.6129357+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:00:25.652624+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:07:06.1120982+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:00:21.2357269+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:07:02.6129873+00:00"
 }

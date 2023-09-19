@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17220,
+  "EOS_Progressed": 17221,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 2,
@@ -11952,6 +11952,11 @@
       "Time": "2023-09-19T22:03:35.4044742+00:00",
       "NumProgressed": 17220,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-09-19T23:03:28.9224217+00:00",
+      "NumProgressed": 17221,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 16,
@@ -11963,7 +11968,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "Burning_For_You",
@@ -11987,7 +11992,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "Eyes_On_Fire",
@@ -12035,7 +12040,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7232
+      "UsersEstimate": 7233
     },
     {
       "ID": "Mirrors",
@@ -12067,7 +12072,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6371
+      "UsersEstimate": 6372
     },
     {
       "ID": "Still_Burning",
@@ -12090,15 +12095,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17220,
+      "Progressed": 17221,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-19T22:03:35.4044733+00:00",
+  "LastChanged_Achievements": "2023-09-19T23:03:28.922421+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.7549106+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:59:45.7807694+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:03:35.4045377+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:59:37.2307962+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:03:28.9224804+00:00"
 }

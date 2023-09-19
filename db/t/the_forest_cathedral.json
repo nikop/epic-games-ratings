@@ -2,10 +2,10 @@
   "ID": "73df10dff2634269b4c897aa9ce0e8e7",
   "Name": "The Forest Cathedral",
   "ProductSlug": "the-forest-cathedral-54f32c",
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-14T16:00:00+00:00",
     "PcReleaseDate": "2023-03-14T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-18T20:00:10.1250147+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.5395273+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:00:43.1453456+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:03:13.1949539+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:00:37.2035198+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:03:06.2344097+00:00"
 }

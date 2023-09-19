@@ -2,12 +2,12 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2160,9 +2160,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25905,
+  "EOS_Progressed": 25909,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13155,6 +13155,11 @@
       "Time": "2023-09-19T20:05:15.4743065+00:00",
       "NumProgressed": 25905,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-19T23:05:02.7161726+00:00",
+      "NumProgressed": 25909,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13573,7 +13578,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25905,
+      "Progressed": 25909,
       "Completed": 56
     }
   ],
@@ -13581,8 +13586,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-17T19:01:08.4051073+00:00",
-  "LastChanged_Achievements": "2023-09-19T22:05:09.2735686+00:00",
+  "LastChanged_Achievements": "2023-09-19T23:05:02.7161721+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:59:34.4613162+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:05:09.273655+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:59:27.3499174+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:05:02.7162612+00:00"
 }

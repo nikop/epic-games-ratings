@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Red Skeleton | 60.00% | ~296 |
-| Orange Skeleton | 43.00% | ~212 |
-| Yellow Skeleton | 16.00% | ~79 |
+| Orange Skeleton | 44.00% | ~217 |
+| Yellow Skeleton | 17.00% | ~84 |
 | Blue Skeleton | 12.00% | ~59 |
 | Green Skeleton | 4.00% | ~20 |
 | Black Skeleton | 3.00% | ~15 |

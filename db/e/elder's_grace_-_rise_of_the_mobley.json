@@ -2,10 +2,10 @@
   "ID": "e1436caf44134bc298f30b28bf63b954",
   "Name": "Elders Grace - Rise of the Mobley",
   "ProductSlug": "eldersgrace-333b83",
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T09:57:28.4931493+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:57:37.9230977+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:06:41.5319509+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:57:28.4377042+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:06:37.2343293+00:00"
 }

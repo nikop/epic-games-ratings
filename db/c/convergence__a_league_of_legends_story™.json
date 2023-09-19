@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 878,
+  "EOS_Progressed": 879,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2210,6 +2210,11 @@
       "Time": "2023-09-19T22:03:30.065528+00:00",
       "NumProgressed": 878,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T23:03:23.4813818+00:00",
+      "NumProgressed": 879,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2253,7 +2258,7 @@
       "Name": "Right On Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2261,7 +2266,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ClockworkProgress1",
@@ -2285,7 +2290,7 @@
       "Name": "Sartorialist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CosmeticProgress1",
@@ -2339,9 +2344,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 202
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2357,7 +2362,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "GadgetCompletion1",
@@ -2579,9 +2584,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 141
     },
     {
       "ID": "TheaterChests1",
@@ -2635,16 +2640,16 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 878,
+      "Progressed": 879,
       "Completed": 5
     }
   ],
@@ -2652,8 +2657,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-19T22:03:30.0655274+00:00",
+  "LastChanged_Achievements": "2023-09-19T23:03:23.4813814+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:00:10.0369003+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:03:30.065575+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:00:04.9452667+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:03:23.4814332+00:00"
 }

@@ -2,16 +2,65 @@
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
 Rating: 4.26 (Ranked 831)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Power Shot | 73.00% | ~96 |
+| Dead-ball specialist | 59.00% | ~78 |
+| Multitasking | 55.00% | ~73 |
+| Let the Games Begin | 52.00% | ~69 |
+| Aiming High | 52.00% | ~69 |
+| A Moment of Your Time | 51.00% | ~67 |
+| Balanced Path | 51.00% | ~67 |
+| Intuition and Execution | 50.00% | ~66 |
+| European Legend | 47.00% | ~62 |
+| Tactical Tinkerer | 45.00% | ~59 |
+| High Grades | 45.00% | ~59 |
+| The Winning Formula | 42.00% | ~55 |
+| Squad Building Connoisseur | 40.00% | ~53 |
+| Safe House | 34.00% | ~45 |
+| Parking the Bus | 32.00% | ~42 |
+| The Chosen One | 26.00% | ~34 |
+| Fresh Fit | 26.00% | ~34 |
+| Best of Five | 25.00% | ~33 |
+| Football is Everything | 25.00% | ~33 |
+| Specialist | 19.00% | ~25 |
+| Bring it on | 17.00% | ~22 |
+| Make the Grade | 17.00% | ~22 |
+| Teamwork works | 15.00% | ~20 |
+| First of Many | 14.00% | ~18 |
+| I Played Them All | 13.00% | ~17 |
+| Life-Like | 12.00% | ~16 |
+| Shop till you drop | 11.00% | ~15 |
+| Becoming Unplayable | 10.00% | ~13 |
+| On the way up | 9.00% | ~12 |
+| Volta's best | 8.00% | ~11 |
+| Momentous Achievement | 8.00% | ~11 |
+| Sharing is Caring | 7.00% | ~9 |
+| In Cahoots | 5.00% | ~7 |
+| Tune Your Club | 5.00% | ~7 |
+| Full-House | 5.00% | ~7 |
+| Full wardrobe | 0.80% | ~1 |
+| Training Addict | 0.00% | ~0 |
+| Dazzling Personality | 0.00% | ~0 |
+| Girl Power | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 132 (Ranked 341)  
+Completed: 0 (0.00%) (Ranked 278)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-09-19 | 132 | 0 |
 ## Awards
 Max (Diverse Characters): 19,551  (Ranked 19)  
-Sum: 99,801 (Ranked 14)  
+Sum: 99,813 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 19,551 |
 | This game is Highly Recommended | 13,785 |
 | This game has a Competitive Community | 12,949 |
-| This game has Amazing Characters | 11,299 |
+| This game has Amazing Characters | 11,311 |
 | This game is Extremely Fun | 10,893 |
 | This game has Competitive Players | 10,838 |
 | This game has Amazing Storytelling | 10,653 |
@@ -277,4 +326,4 @@ Diff (max vs sum): 5
 | 2023-09-16 | 4.26 | 19,438 | 99,230 |
 | 2023-09-17 | 4.26 | 19,480 | 99,466 |
 | 2023-09-18 | 4.26 | 19,515 | 99,653 |
-| 2023-09-19 | 4.26 | 19,551 | 99,801 |
+| 2023-09-19 | 4.26 | 19,551 | 99,813 |

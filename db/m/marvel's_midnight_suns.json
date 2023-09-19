@@ -4,11 +4,11 @@
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 520,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 165,
-  "Ranking_EOS_Progress": 608,
+  "Ranking_PopularitySum": 164,
+  "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -3618,10 +3618,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 3165,
       "NumberOfAwardsMax": 1446
+    },
+    {
+      "Time": "2023-09-19T22:57:29.0917703+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 3168,
+      "NumberOfAwardsMax": 1446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3165,
+  "NumberOfAwards": 3168,
   "NumberOfAwardsMax": 1446,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3641,7 +3647,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3653,7 +3659,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3683,7 +3689,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3704,8 +3710,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-09-19T15:57:40.2364054+00:00",
+  "LastChanged": "2023-09-19T22:57:29.0917701+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:00.1946832+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:57:38.5426988+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:04:47.2525502+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:57:29.0917708+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:04:40.9099648+00:00"
 }

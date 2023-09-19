@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9768,9 +9768,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 408535,
+  "EOS_Progressed": 408554,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7333,
+  "EOS_NewPlayers": 7334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26928,6 +26928,11 @@
       "Time": "2023-09-19T22:04:05.2227318+00:00",
       "NumProgressed": 408535,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T23:03:59.0344205+00:00",
+      "NumProgressed": 408554,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27459,7 +27464,7 @@
       "Name": "Cold War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4086
     },
     {
       "ID": "achievement_colonial_management",
@@ -27555,7 +27560,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4086
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -27939,7 +27944,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12256
+      "UsersEstimate": 12257
     },
     {
       "ID": "achievement_grand_coalition",
@@ -28155,7 +28160,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4086
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -29219,7 +29224,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12256
+      "UsersEstimate": 12257
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -29363,7 +29368,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4086
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -29531,7 +29536,7 @@
       "Name": "True Catholic",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4086
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -29603,7 +29608,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16341
+      "UsersEstimate": 16342
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29635,7 +29640,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12256
+      "UsersEstimate": 12257
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -29770,21 +29775,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 408535,
+      "Progressed": 408554,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 408535,
+      "Progressed": 408554,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-19T19:58:07.5753664+00:00",
-  "LastChanged_Achievements": "2023-09-19T22:04:05.2227312+00:00",
+  "LastChanged_Achievements": "2023-09-19T23:03:59.0344201+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:58:14.3521638+00:00",
-  "LastUpdate_Achievements": "2023-09-19T22:04:05.2238447+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:58:04.5435265+00:00",
+  "LastUpdate_Achievements": "2023-09-19T23:03:59.0355142+00:00"
 }
