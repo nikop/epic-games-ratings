@@ -52,7 +52,7 @@
 | 50 | [DEATH STRANDING](games/d/death_stranding.md) | 7,114 | 4.77 | 111 |
 | 51 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,099 | 4.74 | 146 |
 | 52 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 680 |
-| 53 | [Sifu](games/s/sifu.md) | 6,528 | 4.82 | 66 |
+| 53 | [Sifu](games/s/sifu.md) | 6,528 | 4.82 | 67 |
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,449 | 4.80 | 84 |
 | 55 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,371 | 4.58 | 433 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,158 | 4.69 | 218 |
@@ -61,7 +61,7 @@
 | 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,979 | 4.75 | 137 |
 | 60 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,971 | 4.64 | 315 |
 | 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,878 | 4.66 | 282 |
-| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,823 | 4.82 | 66 |
+| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,823 | 4.82 | 67 |
 | 63 | [Prey](games/p/prey.md) | 5,694 | 4.62 | 350 |
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,568 | 4.85 | 42 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 5,473 | 4.66 | 282 |
@@ -119,7 +119,7 @@
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,737 | 4.50 | 568 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,713 | 4.76 | 118 |
 | 119 | [Remnant 2](games/r/remnant_2.md) | 1,637 | 4.76 | 118 |
-| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,633 | 4.82 | 66 |
+| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,633 | 4.82 | 67 |
 | 121 | [Celeste](games/c/celeste.md) | 1,610 | 4.92 | 4 |
 | 122 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,509 | 4.79 | 90 |
 | 123 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,497 | 4.78 | 102 |
@@ -148,7 +148,7 @@
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 983 | 4.69 | 218 |
 | 147 | [The Sims™ 4](games/t/the_sims™_4.md) | 980 | 4.62 | 350 |
 | 148 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 966 | 4.31 | 794 |
-| 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 954 | 4.76 | 118 |
+| 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 955 | 4.76 | 118 |
 | 150 | [Sonic Mania](games/s/sonic_mania.md) | 940 | 4.78 | 102 |
 | 151 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 939 | 4.54 | 504 |
 | 152 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 936 | 4.79 | 90 |
@@ -158,7 +158,7 @@
 | 156 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 826 | 4.69 | 218 |
 | 157 | [Frostpunk](games/f/frostpunk.md) | 814 | 4.74 | 146 |
 | 158 | [The Long Dark](games/t/the_long_dark.md) | 808 | 4.74 | 146 |
-| 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 796 | 4.50 | 568 |
+| 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 799 | 4.50 | 568 |
 | 160 | [Auto Chess](games/a/auto_chess.md) | 795 | 4.51 | 549 |
 | 161 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 765 | 4.51 | 549 |
 | 162 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 762 | 4.79 | 90 |
@@ -173,7 +173,7 @@
 | 171 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 691 | 4.74 | 146 |
 | 172 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 690 | 4.61 | 370 |
 | 173 | [Neon Abyss](games/n/neon_abyss.md) | 686 | 4.68 | 244 |
-| 174 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 681 | 4.82 | 66 |
+| 174 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 681 | 4.82 | 67 |
 | 175 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 673 | 4.67 | 260 |
 | 176 | [FAR CRY 4](games/f/far_cry_4.md) | 659 | 4.67 | 260 |
 | 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 659 | 4.60 | 395 |
@@ -216,7 +216,7 @@
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 419 | 4.70 | 203 |
 | 215 | [Warface](games/w/warface.md) | 416 | 3.91 | 966 |
 | 216 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 414 | 4.50 | 568 |
-| 217 | [Slime Rancher](games/s/slime_rancher.md) | 410 | 4.82 | 66 |
+| 217 | [Slime Rancher](games/s/slime_rancher.md) | 410 | 4.82 | 67 |
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 396 | 4.84 | 50 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 392 | 4.70 | 203 |
 | 220 | [For The King](games/f/for_the_king.md) | 389 | 4.70 | 203 |
@@ -255,7 +255,7 @@
 | 253 | [MudRunner](games/m/mudrunner.md) | 260 | 4.61 | 370 |
 | 254 | [Roller Champions™](games/r/roller_champions™.md) | 255 | 4.34 | 769 |
 | 255 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 254 | 4.50 | 568 |
-| 256 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 252 | 4.82 | 66 |
+| 256 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 252 | 4.82 | 67 |
 | 257 | [Crysis Remastered](games/c/crysis_remastered.md) | 248 | 4.41 | 692 |
 | 258 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 247 | 4.45 | 641 |
 | 259 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 242 | 4.83 | 58 |
@@ -453,7 +453,7 @@
 | 446 | [TUNIC](games/t/tunic.md) | 35 | 4.83 | 58 |
 | 452 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 34 | 4.16 | 896 |
 | 452 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 350 |
-| 452 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 66 |
+| 452 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 67 |
 | 452 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 34 | 4.44 | 650 |
 | 452 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.54 | 504 |
 | 457 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 875 |

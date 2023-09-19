@@ -60,24 +60,24 @@
 | 58 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 51 | 405 |
 | 58 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 519 |
 | 58 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 519 |
+| 58 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.83 | 0 | 519 |
 | 58 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 519 |
 | 58 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 242 | 259 |
 | 58 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.83 | 46 | 414 |
 | 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 91 | 354 |
 | 58 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 446 |
-| 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 519 |
-| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,633 | 120 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,823 | 62 |
-| 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 519 |
-| 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 519 |
-| 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 452 |
-| 66 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.82 | 0 | 519 |
-| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 681 | 174 |
-| 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 252 | 256 |
-| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,528 | 53 |
-| 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 410 | 217 |
-| 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 519 |
-| 66 | [WarmSnow](games/w/warmsnow.md) | 4.82 | 0 | 519 |
+| 67 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 519 |
+| 67 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,633 | 120 |
+| 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,823 | 62 |
+| 67 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 519 |
+| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 519 |
+| 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 452 |
+| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 681 | 174 |
+| 67 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 252 | 256 |
+| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,528 | 53 |
+| 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 410 | 217 |
+| 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 519 |
+| 67 | [WarmSnow](games/w/warmsnow.md) | 4.82 | 0 | 519 |
 | 79 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 431 | 211 |
 | 79 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 519 |
 | 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 519 |
@@ -120,7 +120,7 @@
 | 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,351 | 23 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 519 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,334 | 92 |
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 954 | 149 |
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 955 | 149 |
 | 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 721 | 167 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,550 | 74 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 519 |
@@ -581,7 +581,7 @@
 | 568 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 519 |
 | 568 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 635 | 181 |
 | 568 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 519 |
-| 568 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 796 | 159 |
+| 568 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 799 | 159 |
 | 583 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 28 | 469 |
 | 583 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 389 |
 | 583 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 519 |

@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.79% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.69% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.95% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -118,7 +118,7 @@
 | 116 | [Chorus](games/c/chorus.md) | 1.26% |
 | 117 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 118 | [Infindustry](games/i/infindustry.md) | 1.19% |
-| 119 | [Eternights](games/e/eternights.md) | 1.15% |
+| 119 | [Eternights](games/e/eternights.md) | 1.14% |
 | 120 | [Trifox](games/t/trifox.md) | 1.09% |
 | 121 | [Adios](games/a/adios.md) | 1.04% |
 | 122 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
