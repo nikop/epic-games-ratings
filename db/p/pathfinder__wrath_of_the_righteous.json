@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3752,9 +3752,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11356,
+  "EOS_Progressed": 11357,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12607,6 +12607,11 @@
       "Time": "2023-09-19T16:03:33.0548317+00:00",
       "NumProgressed": 11356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T21:03:32.0461956+00:00",
+      "NumProgressed": 11357,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12618,7 +12623,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "02_BurningCity",
@@ -12642,7 +12647,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -13545,21 +13550,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10138,
+      "Progressed": 10139,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11356,
+      "Progressed": 11357,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-19T19:58:32.748951+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:03:28.5194888+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:03:32.0461947+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.4694151+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:58:32.7489515+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:03:28.5197118+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:59:31.2441345+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:03:32.0464424+00:00"
 }

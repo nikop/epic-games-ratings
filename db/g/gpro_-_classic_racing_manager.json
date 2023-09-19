@@ -2,10 +2,10 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 272,
+  "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 385,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -831,6 +831,11 @@
       "Time": "2023-09-19T05:05:44.0257832+00:00",
       "NumProgressed": 379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T21:07:12.7775094+00:00",
+      "NumProgressed": 385,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -840,9 +845,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "76k7b7p",
       "Name": "First taste",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -906,15 +911,15 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "76k7b7p",
       "Name": "Amateur newbie",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -944,9 +949,9 @@
       "ID": "ACHIEVEMENT_183",
       "SetID": "76k7b7p",
       "Name": "Monster Amateur car",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_184",
@@ -1048,9 +1053,9 @@
       "ID": "ACHIEVEMENT_197",
       "SetID": "76k7b7p",
       "Name": "Loyalty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_198",
@@ -1082,7 +1087,7 @@
       "Name": "Better than cake",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -1346,7 +1351,7 @@
       "Name": "No brakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1520,9 +1525,9 @@
       "ID": "ACHIEVEMENT_304",
       "SetID": "76k7b7p",
       "Name": "Addict",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_305",
@@ -1568,9 +1573,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "76k7b7p",
       "Name": "Hattrick",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_311",
@@ -1962,7 +1967,7 @@
       "Name": "Photo shoot",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -2137,14 +2142,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 385,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:05:54.4907096+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:07:12.7775084+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:16.3469079+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:58:10.2564146+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:05:54.4909799+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:58:55.44105+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:07:12.7779917+00:00"
 }

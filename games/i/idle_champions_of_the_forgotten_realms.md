@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.40% | ~918 |
 | Seeking Allies | 0.40% | ~918 |
 | Are Ya Chicken? | 0.40% | ~918 |
+| Mad Cow Disease | 0.40% | ~918 |
 | Friendly Imps | 0.40% | ~918 |
 | Maddening | 0.30% | ~688 |
 | The Silken Swamp | 0.30% | ~688 |
@@ -26,7 +27,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~688 |
 | The Crumbling Temple | 0.30% | ~688 |
 | Useless Allies | 0.30% | ~688 |
-| Mad Cow Disease | 0.30% | ~688 |
 | Exploring Port Nyanzaru | 0.30% | ~688 |
 | The Contagious Curse | 0.30% | ~688 |
 | Escort to Waterdeep | 0.30% | ~688 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.20% | ~391 |
 | The Castle of a Thousand Vecnas | 0.20% | ~391 |
 | The Sanctum of the Sword | 0.20% | ~391 |
+| Get Back In The Castle | 0.20% | ~391 |
 | Homecoming | 0.20% | ~459 |
 | The Lost Heir of Omu | 0.20% | ~459 |
 | The Forbidden City | 0.20% | ~459 |
@@ -209,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.10% | ~196 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~196 |
 | Kas the Bloody Handed | 0.10% | ~196 |
-| Get Back In The Castle | 0.10% | ~196 |
 | Kas the Destroyer | 0.10% | ~196 |
 | Checkmate | 0.10% | ~196 |
 | Pin and Skewer | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,398 (Ranked 57)  
+Progressed: 229,401 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,7 +679,7 @@ Completed: 2,295 (1.00%) (Ranked 126)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,398 | 2,295 |
+| 2023-09-19 | 229,401 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  

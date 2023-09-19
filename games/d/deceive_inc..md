@@ -17,8 +17,8 @@ Rating: 4.56 (Ranked 467)
 | You Only Live Twice | 16.00% | ~2,890 |
 | Fully Decked Out | 16.00% | ~2,890 |
 | A view to Win | 13.00% | ~2,348 |
-| Private Collection | 12.00% | ~2,167 |
-| Smells Like Trouble | 12.00% | ~2,167 |
+| Private Collection | 12.00% | ~2,168 |
+| Smells Like Trouble | 12.00% | ~2,168 |
 | The Living Portrait | 11.00% | ~1,987 |
 | My Motto, My Creed | 11.00% | ~1,987 |
 | Killer Looks | 11.00% | ~1,987 |
@@ -37,12 +37,12 @@ Rating: 4.56 (Ranked 467)
 | The terminals are not enough | 1.00% | ~181 |
 | Lose Another Day | 1.00% | ~181 |
 | Chairman of Deceive Inc. | 0.90% | ~163 |
-| Chief Information Officer | 0.80% | ~144 |
+| Chief Information Officer | 0.80% | ~145 |
 | Masteries Are Forever | 0.40% | ~72 |
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,062 (Ranked 118)  
+Progressed: 18,063 (Ranked 118)  
 Completed: 3 (0.02%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 3 (0.02%) (Ranked 255)
 | 2023-09-16 | 18,024 | 3 |
 | 2023-09-17 | 18,043 | 3 |
 | 2023-09-18 | 18,056 | 3 |
-| 2023-09-19 | 18,062 | 3 |
+| 2023-09-19 | 18,063 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -38,13 +38,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.70% | ~955 |
 | Accomplished Merchant | 0.70% | ~955 |
 | Arcane Industries | 0.70% | ~955 |
-| Research & Development | 0.60% | ~818 |
-| Fated Encounters | 0.60% | ~818 |
-| Power of Love | 0.60% | ~818 |
-| Flawless Fusion | 0.60% | ~818 |
-| Royal Ransom | 0.60% | ~818 |
-| Natural 20 | 0.60% | ~818 |
-| Magical Harmony | 0.60% | ~818 |
+| Research & Development | 0.60% | ~819 |
+| Fated Encounters | 0.60% | ~819 |
+| Power of Love | 0.60% | ~819 |
+| Flawless Fusion | 0.60% | ~819 |
+| Royal Ransom | 0.60% | ~819 |
+| Natural 20 | 0.60% | ~819 |
+| Magical Harmony | 0.60% | ~819 |
 | A Notch Above the Rest | 0.50% | ~682 |
 | Tax not Included | 0.50% | ~682 |
 | The King's Caprice | 0.50% | ~682 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,416 (Ranked 69)  
+Progressed: 136,420 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 153 (0.11%) (Ranked 222)
 | 2023-09-16 | 136,276 | 152 |
 | 2023-09-17 | 136,337 | 152 |
 | 2023-09-18 | 136,378 | 152 |
-| 2023-09-19 | 136,416 | 153 |
+| 2023-09-19 | 136,420 | 153 |
 ## Awards
 Max (Great for Beginners): 4,748  (Ranked 70)  
 Sum: 27,259 (Ranked 48)  

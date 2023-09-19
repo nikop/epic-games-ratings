@@ -2,13 +2,13 @@
   "ID": "54399b3ef40d4c568e5904607470ffe9",
   "Name": "Yoku\u0027s Island Express",
   "ProductSlug": "yokus-island-express",
-  "Ranking_Rating": 218,
+  "Ranking_Rating": 203,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-09-02T15:00:00+00:00",
     "PcReleaseDate": "2018-05-29T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 354,
   "RatingHistory": [
     {
@@ -437,6 +437,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-19T21:01:14.8944271+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -454,8 +460,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:47.6965849+00:00",
-  "LastChanged": "2023-03-31T05:58:45.5503299+00:00",
+  "LastChanged": "2023-09-19T21:01:14.8944269+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:22.9707478+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:59:41.5307563+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:08:10.5081105+00:00"
+  "LastUpdate_Ratings": "2023-09-19T21:01:14.8944277+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:09:09.6922208+00:00"
 }

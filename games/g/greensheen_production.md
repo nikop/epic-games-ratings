@@ -3,6 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Evasive prey | 20.00% | ~1 |
 | In The Palm Of My Hand | 0.00% | ~0 |
 | Bully of Bullies | 0.00% | ~0 |
 | Toys Are For Kids | 0.00% | ~0 |
@@ -36,7 +37,6 @@
 | True Colours | 0.00% | ~0 |
 | First do no harm | 0.00% | ~0 |
 | How Do I Look? | 0.00% | ~0 |
-| Evasive prey | 0.00% | ~0 |
 | X Best Friends | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 504)  

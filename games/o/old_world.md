@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 1.00% | ~140 |
 | Legalism | 1.00% | ~140 |
 | Redemption | 1.00% | ~140 |
+| Veneration | 1.00% | ~140 |
 | Cimmerian Archer | 1.00% | ~140 |
 | Legionary | 1.00% | ~140 |
 | Phalangite | 1.00% | ~140 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.90% | ~126 |
 | Enlightenment | 0.90% | ~126 |
 | Revelation | 0.90% | ~126 |
-| Veneration | 0.90% | ~126 |
 | Kushite Cavalry | 0.90% | ~126 |
 | Strong Difficulty | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,001 (Ranked 124)  
+Progressed: 14,002 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -455,7 +455,7 @@ Completed: 5 (0.04%) (Ranked 246)
 | 2023-09-16 | 13,958 | 5 |
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
-| 2023-09-19 | 14,001 | 5 |
+| 2023-09-19 | 14,002 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

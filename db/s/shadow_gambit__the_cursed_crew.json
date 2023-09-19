@@ -2,13 +2,13 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 218,
+  "Ranking_Rating": 219,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -1769,6 +1769,11 @@
       "Time": "2023-09-19T20:03:36.2628843+00:00",
       "NumProgressed": 657,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-19T21:03:42.1918007+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1789,7 +1794,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "_03_FinishAct1",
@@ -1813,7 +1818,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1859,9 +1864,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 112
     },
     {
       "ID": "_12_Completion_50",
@@ -1891,9 +1896,9 @@
       "ID": "_15_Completion_80",
       "SetID": "8a1io5d",
       "Name": "Marauder",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -1965,7 +1970,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -1988,7 +1993,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 15
     }
   ],
@@ -1996,8 +2001,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:03:36.2628835+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:03:42.1918001+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:58:53.4842474+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:03:36.262906+00:00"
+  "LastUpdate_Ratings": "2023-09-19T21:00:03.2278674+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:03:42.1918291+00:00"
 }

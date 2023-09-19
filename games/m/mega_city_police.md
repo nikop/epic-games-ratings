@@ -11,6 +11,7 @@
 | Gibbing Love | 3.00% | ~1 |
 | Head of the Snake | 3.00% | ~1 |
 | Barbecue Time | 3.00% | ~1 |
+| Vehicular Mayhem | 3.00% | ~1 |
 | Vintage Collector | 3.00% | ~1 |
 | Losing your Head | 3.00% | ~1 |
 | Captain | 3.00% | ~1 |
@@ -24,7 +25,6 @@
 | Bring Down the Corp | 3.00% | ~1 |
 | Speedrunner | 3.00% | ~1 |
 | Overthrow The Crown | 3.00% | ~0 |
-| Vehicular Mayhem | 0.00% | ~0 |
 | Lieutenant | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |
 | Dust to Dust | 0.00% | ~0 |

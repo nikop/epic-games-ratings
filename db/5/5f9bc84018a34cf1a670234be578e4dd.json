@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 218,
-  "EOS_Completed": 49,
+  "EOS_Completed": 50,
   "EOS_NewPlayers": 58,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 22.48,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 22.94,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1086,6 +1086,11 @@
       "Time": "2023-09-19T20:03:23.7705184+00:00",
       "NumProgressed": 218,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-19T21:03:25.2685899+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1096,9 +1101,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "Batteries",
@@ -1112,9 +1117,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "FallDeath",
@@ -1152,9 +1157,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "GasDeath",
@@ -1176,9 +1181,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "Screwdriver",
@@ -1200,9 +1205,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
@@ -1210,13 +1215,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 218,
-      "Completed": 49
+      "Completed": 50
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:03:23.7705179+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:03:25.2685891+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:57:17.0592187+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:03:23.770534+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:57:33.3238053+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:03:25.2686103+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 371,
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 423,
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -608,15 +608,20 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-09-19T18:06:12.9172474+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T21:07:52.2934902+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -628,9 +633,9 @@
       "ID": "achievement_1",
       "SetID": "222fo9l",
       "Name": "Welcome Aboard",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_10",
@@ -716,17 +721,17 @@
       "ID": "achievement_2",
       "SetID": "222fo9l",
       "Name": "Lab Rat",
-      "Percentage": 0,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_21",
@@ -788,9 +793,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_29",
@@ -804,9 +809,9 @@
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_30",
@@ -820,9 +825,9 @@
       "ID": "achievement_31",
       "SetID": "222fo9l",
       "Name": "Marksman",
-      "Percentage": 0,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_32",
@@ -852,9 +857,9 @@
       "ID": "achievement_35",
       "SetID": "222fo9l",
       "Name": "Freeze",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_36",
@@ -892,9 +897,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_40",
@@ -916,17 +921,17 @@
       "ID": "achievement_42",
       "SetID": "222fo9l",
       "Name": "Brute Force",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_44",
@@ -964,17 +969,17 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_7",
@@ -1005,7 +1010,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
@@ -1013,8 +1018,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-18T17:00:35.0191785+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:06:23.3496469+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:07:52.2934894+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.1200386+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:02:42.768906+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:06:23.3496795+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:57:18.0683878+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:07:52.2935329+00:00"
 }

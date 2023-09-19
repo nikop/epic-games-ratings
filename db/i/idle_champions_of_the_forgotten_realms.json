@@ -6754,9 +6754,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229398,
+  "EOS_Progressed": 229401,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 852,
+  "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23639,6 +23639,11 @@
       "Time": "2023-09-19T20:03:26.609529+00:00",
       "NumProgressed": 229398,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-19T21:03:29.9147006+00:00",
+      "NumProgressed": 229401,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 520,
@@ -24496,9 +24501,9 @@
       "ID": "objective_completed_1198",
       "SetID": "415jc5c",
       "Name": "Get Back In The Castle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1199",
@@ -25784,9 +25789,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 918
     },
     {
       "ID": "objective_completed_54",
@@ -27809,21 +27814,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195672,
+      "Progressed": 195675,
       "Completed": 3438
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229398,
+      "Progressed": 229401,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:03:26.6095286+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:03:29.9146996+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:58:29.7363129+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:03:26.6119972+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:59:26.3823084+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:03:29.9181735+00:00"
 }

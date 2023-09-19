@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1701,9 +1701,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14001,
+  "EOS_Progressed": 14002,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11796,6 +11796,11 @@
       "Time": "2023-09-19T20:09:17.4420183+00:00",
       "NumProgressed": 14001,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T21:09:46.0579741+00:00",
+      "NumProgressed": 14002,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13821,9 +13826,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -14174,21 +14179,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14001,
+      "Progressed": 14002,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14001,
+      "Progressed": 14002,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T20:58:47.8598835+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:09:17.4420177+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:09:46.0579734+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:58:42.1555251+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:09:17.4427748+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:59:45.3306027+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:09:46.0590053+00:00"
 }

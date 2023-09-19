@@ -3,8 +3,8 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -318,9 +318,9 @@
       "ID": "TrapAvoid",
       "SetID": "aph8hbk",
       "Name": "Evasive prey",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Xray",
@@ -340,8 +340,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:06:46.5232565+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:08:23.9754874+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:57:29.8263013+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:06:46.5232773+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:57:53.0910456+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:08:23.9755169+00:00"
 }

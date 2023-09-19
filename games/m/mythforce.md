@@ -15,8 +15,8 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 11.00% | ~303 |
 | Horder Better Faster Stronger | 11.00% | ~303 |
 | Spending Spree | 11.00% | ~303 |
-| Everything Must Go! | 10.00% | ~275 |
-| Ten Steps from the Grave | 10.00% | ~275 |
+| Everything Must Go! | 10.00% | ~276 |
+| Ten Steps from the Grave | 10.00% | ~276 |
 | Next Time on MythForce... | 8.00% | ~220 |
 | Cold-Blooded Critters | 6.00% | ~165 |
 | Death Becomes You | 6.00% | ~165 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,754 (Ranked 176)  
+Progressed: 2,756 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-16 | 2,380 | 0 |
 | 2023-09-17 | 2,572 | 0 |
 | 2023-09-18 | 2,683 | 0 |
-| 2023-09-19 | 2,754 | 0 |
+| 2023-09-19 | 2,756 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 261 (Ranked 356)  

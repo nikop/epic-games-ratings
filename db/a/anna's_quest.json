@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -213,9 +213,9 @@
       "ID": "aq_achievement_16",
       "SetID": "7jh86ne",
       "Name": "Shattered",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_17",
@@ -237,9 +237,9 @@
       "ID": "aq_achievement_19",
       "SetID": "7jh86ne",
       "Name": "Memories",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 55,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "aq_achievement_2",
@@ -478,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-19T20:06:17.5650567+00:00",
+  "LastChanged_Achievements": "2023-09-19T21:07:44.3009041+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0346445+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:59:18.6572132+00:00",
-  "LastUpdate_Achievements": "2023-09-19T20:06:17.5650844+00:00"
+  "LastUpdate_Ratings": "2023-09-19T21:00:40.2079811+00:00",
+  "LastUpdate_Achievements": "2023-09-19T21:07:44.3009385+00:00"
 }

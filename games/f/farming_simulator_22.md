@@ -1,26 +1,26 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 218)  
+Rating: 4.69 (Ranked 219)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~36,613 |
-| I read Shakespeare and stuff | 64.00% | ~31,243 |
+| Own use | 75.00% | ~36,614 |
+| I read Shakespeare and stuff | 64.00% | ~31,244 |
 | Just a sprinkle | 63.00% | ~30,755 |
-| I'm stumped | 61.00% | ~29,778 |
-| Plant get enough | 60.00% | ~29,290 |
-| It's just the beginning | 59.00% | ~28,802 |
+| I'm stumped | 61.00% | ~29,779 |
+| Plant get enough | 60.00% | ~29,291 |
+| It's just the beginning | 59.00% | ~28,803 |
 | This is just my weekend vehicle | 58.00% | ~28,314 |
-| Hard work pays off | 53.00% | ~25,873 |
-| It's never too late to farm | 50.00% | ~24,408 |
-| All out of Land | 44.00% | ~21,479 |
-| Field Trip | 43.00% | ~20,991 |
+| Hard work pays off | 53.00% | ~25,874 |
+| It's never too late to farm | 50.00% | ~24,409 |
+| All out of Land | 44.00% | ~21,480 |
+| Field Trip | 43.00% | ~20,992 |
 | I like to switch it up | 40.00% | ~19,527 |
-| Help me to help you | 38.00% | ~18,550 |
+| Help me to help you | 38.00% | ~18,551 |
 | Ultimutt Pawesomeness | 28.00% | ~13,669 |
-| Van Gogh | 26.00% | ~12,692 |
+| Van Gogh | 26.00% | ~12,693 |
 | You wood not believe it | 22.00% | ~10,740 |
 | Vehicle fleet | 22.00% | ~10,740 |
 | The plot thickens | 16.00% | ~7,811 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~195 |
 | Raisin the stakes | 0.30% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,817 (Ranked 94)  
+Progressed: 48,818 (Ranked 94)  
 Completed: 6 (0.01%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,17 +202,17 @@ Completed: 6 (0.01%) (Ranked 264)
 | 2023-09-16 | 48,697 | 6 |
 | 2023-09-17 | 48,757 | 6 |
 | 2023-09-18 | 48,791 | 6 |
-| 2023-09-19 | 48,817 | 6 |
+| 2023-09-19 | 48,818 | 6 |
 ## Awards
 Max (Great for Beginners): 4,983  (Ranked 69)  
-Sum: 40,323 (Ranked 32)  
+Sum: 40,329 (Ranked 32)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,983 |
 | This game is Educational | 4,180 |
 | This game has Diverse Characters | 4,157 |
-| This game is Relaxing | 4,138 |
+| This game is Relaxing | 4,144 |
 | This game has Quickly Understood Controls | 4,096 |
 | This game is Highly Recommended | 4,003 |
 | This game is Extremely Fun | 3,977 |
@@ -469,4 +469,4 @@ Diff (max vs sum): 37
 | 2023-09-16 | 4.69 | - | 4,957 | 40,219 |
 | 2023-09-17 | 4.69 | - | 4,971 | 40,263 |
 | 2023-09-18 | 4.69 | - | 4,983 | 40,300 |
-| 2023-09-19 | 4.69 | - | 4,983 | 40,323 |
+| 2023-09-19 | 4.69 | - | 4,983 | 40,329 |

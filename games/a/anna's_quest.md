@@ -27,12 +27,12 @@
 | No posters allowed | 38.00% | ~16 |
 | You've got mail! | 36.00% | ~15 |
 | Close the deal | 33.00% | ~14 |
+| Shattered | 33.00% | ~14 |
 | Beekeeper | 33.00% | ~14 |
 | Pain in the hands | 33.00% | ~14 |
 | Mischief maker | 33.00% | ~14 |
-| Shattered | 31.00% | ~13 |
+| Memories | 31.00% | ~13 |
 | Ring-a-ding-ding | 31.00% | ~13 |
-| Memories | 29.00% | ~12 |
 | Turn the last page | 29.00% | ~12 |
 | Makeover | 26.00% | ~11 |
 | Singstar | 26.00% | ~11 |
