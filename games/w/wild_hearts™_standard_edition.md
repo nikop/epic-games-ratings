@@ -46,11 +46,11 @@
 | Charmed by the Hunt | 67.00% | ~2 |
 | Commencing of Quests | 67.00% | ~2 |
 | Tender Touch | 33.00% | ~1 |
+| Bewitched by Bathing | 33.00% | ~1 |
 | Superlative View | 33.00% | ~1 |
 | Big Spender | 33.00% | ~1 |
 | Quintessence of Form | 33.00% | ~1 |
 | Karakuri Minato | 33.00% | ~1 |
-| Bewitched by Bathing | 0.00% | ~0 |
 | Tsukumo Whisperer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 521)  

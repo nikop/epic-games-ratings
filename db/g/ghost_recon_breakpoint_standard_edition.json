@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
@@ -8065,10 +8065,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10613,
       "NumberOfAwardsMax": 1378
+    },
+    {
+      "Time": "2023-09-19T13:04:01.5326876+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10614,
+      "NumberOfAwardsMax": 1378
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10613,
+  "NumberOfAwards": 10614,
   "NumberOfAwardsMax": 1378,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8130,7 +8136,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 957
+      "Count": 958
     }
   ],
   "EOS_Progressed": 0,
@@ -8144,8 +8150,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-09-19T09:58:10.207364+00:00",
+  "LastChanged": "2023-09-19T13:04:01.5326875+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.0847641+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:59:01.110119+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:07:14.5198943+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:04:01.5326881+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:11:44.4265761+00:00"
 }

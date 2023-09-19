@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1390,
+  "EOS_Progressed": 1391,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2640,6 +2640,11 @@
       "Time": "2023-09-19T01:45:16.7233407+00:00",
       "NumProgressed": 1390,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T13:08:31.9051753+00:00",
+      "NumProgressed": 1391,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2739,7 +2744,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Experienced_strategist",
@@ -2779,7 +2784,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "High_noon",
@@ -2890,15 +2895,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1390,
+      "Progressed": 1391,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:03:20.3245816+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:08:31.9051749+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-19T12:00:59.3691232+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:03:20.3246209+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:05:22.5783327+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:08:31.9052022+00:00"
 }

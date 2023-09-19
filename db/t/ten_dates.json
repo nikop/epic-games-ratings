@@ -2,9 +2,9 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
@@ -483,6 +483,11 @@
       "Time": "2023-09-10T21:04:26.3463281+00:00",
       "NumProgressed": 279,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-19T13:12:26.7773059+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -534,7 +539,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ryan_date2_all",
@@ -558,7 +563,7 @@
       "Name": "The activist",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "success_bash",
@@ -582,7 +587,7 @@
       "Name": "The debonair",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "success_hazel",
@@ -606,7 +611,7 @@
       "Name": "The intellectual",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "success_lucas",
@@ -645,7 +650,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 4
     }
   ],
@@ -653,8 +658,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:08:12.7797479+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:12:26.7773055+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.4216578+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:58:34.3472657+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:08:12.7797683+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:03:43.7079246+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:12:26.7773192+00:00"
 }

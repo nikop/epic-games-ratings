@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6164,
+  "EOS_Progressed": 6168,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1951,6 +1951,11 @@
       "Time": "2023-09-19T12:07:15.1483279+00:00",
       "NumProgressed": 6164,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T13:11:44.9590818+00:00",
+      "NumProgressed": 6168,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2043,7 +2048,7 @@
       "Name": "Upgraded Energy Amplifier to Level 3",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "EEUpgraded1",
@@ -2051,7 +2056,7 @@
       "Name": "Upgraded Energy Expansion to Level 3",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FGPurchased1",
@@ -2083,7 +2088,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "GamesPlayed10",
@@ -2099,7 +2104,7 @@
       "Name": "Played 100 Matches",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "GamesWon1",
@@ -2107,7 +2112,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "GamesWon10",
@@ -2155,7 +2160,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "HAUpgraded1",
@@ -2193,9 +2198,9 @@
       "ID": "HandCannonUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded the Hand Cannon to Level 3",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 185
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -2219,7 +2224,7 @@
       "Name": "Upgraded Incoming Heal Boost to Level 3",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "IRPurchased1",
@@ -2251,7 +2256,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "LaserUpgraded1",
@@ -2267,7 +2272,7 @@
       "Name": "Earned 50000 Credits in a single match",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "MaxCreditsSpent25000",
@@ -2347,7 +2352,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "MinionKills2000",
@@ -2387,7 +2392,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "PlayerKills10",
@@ -2491,7 +2496,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -2547,21 +2552,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6164,
+      "Progressed": 6168,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:07:15.1483272+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:11:44.9590813+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:57:26.5740073+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:07:15.1484482+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:02:56.3262222+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:11:44.9591503+00:00"
 }

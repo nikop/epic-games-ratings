@@ -4,7 +4,7 @@
   "ProductSlug": "lost-wing-074a1b",
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-20T12:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-29T10:00:20.0818228+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:03:08.6297912+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:08:23.4157966+00:00",
   "LastUpdate_AppInfo": "2023-09-14T15:57:20.9734589+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:57:55.1714579+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:03:08.6298048+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:03:16.3325824+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:08:23.4157984+00:00"
 }

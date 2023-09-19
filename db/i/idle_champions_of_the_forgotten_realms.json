@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 932,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6754,10 +6754,10 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229357,
+  "EOS_Progressed": 229362,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 858,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 854,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23599,6 +23599,11 @@
       "Time": "2023-09-19T12:03:06.3321967+00:00",
       "NumProgressed": 229357,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-19T13:08:22.1885722+00:00",
+      "NumProgressed": 229362,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 520,
@@ -23912,9 +23917,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 688
     },
     {
       "ID": "objective_completed_1090",
@@ -25282,7 +25287,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "objective_completed_34",
@@ -26824,9 +26829,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_80",
@@ -27769,21 +27774,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195631,
+      "Progressed": 195636,
       "Completed": 3438
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229357,
+      "Progressed": 229362,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:03:06.3321961+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:08:22.1885718+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:59:08.6843129+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:03:06.3350961+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:04:06.798321+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:08:22.1909806+00:00"
 }

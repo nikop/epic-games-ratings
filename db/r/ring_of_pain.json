@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -2875,9 +2875,9 @@
       "Count": 735
     }
   ],
-  "EOS_Progressed": 236239,
+  "EOS_Progressed": 236240,
   "EOS_Completed": 273,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -18440,6 +18440,11 @@
       "Time": "2023-09-19T12:06:53.1826117+00:00",
       "NumProgressed": 236239,
       "NumCompleted": 273
+    },
+    {
+      "Time": "2023-09-19T13:11:28.9568905+00:00",
+      "NumProgressed": 236240,
+      "NumCompleted": 273
     }
   ],
   "TotalAchievements": 122,
@@ -18483,7 +18488,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 226789
+      "UsersEstimate": 226790
     },
     {
       "ID": "CURSE1HP",
@@ -18547,7 +18552,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99220
+      "UsersEstimate": 99221
     },
     {
       "ID": "DEPTH12HARD",
@@ -18571,7 +18576,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 172454
+      "UsersEstimate": 172455
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -18603,7 +18608,7 @@
       "Name": "R.I.P",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 87408
+      "UsersEstimate": 87409
     },
     {
       "ID": "DIEBOSS",
@@ -18627,7 +18632,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 134656
+      "UsersEstimate": 134657
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -18667,7 +18672,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 75596
+      "UsersEstimate": 75597
     },
     {
       "ID": "ENDWOUNDED",
@@ -18715,7 +18720,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 80321
+      "UsersEstimate": 80322
     },
     {
       "ID": "FULLINVENTORY",
@@ -18923,7 +18928,7 @@
       "Name": "All Consuming",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44885
+      "UsersEstimate": 44886
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -18939,7 +18944,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 127569
+      "UsersEstimate": 127570
     },
     {
       "ID": "KILLNICEDOG",
@@ -18963,7 +18968,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44885
+      "UsersEstimate": 44886
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -19035,7 +19040,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 134656
+      "UsersEstimate": 134657
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -19051,7 +19056,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99220
+      "UsersEstimate": 99221
     },
     {
       "ID": "NOEPIC",
@@ -19099,7 +19104,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 153555
+      "UsersEstimate": 153556
     },
     {
       "ID": "PETRIFY50",
@@ -19195,7 +19200,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 210253
+      "UsersEstimate": 210254
     },
     {
       "ID": "SPECIALROOMS10",
@@ -19203,7 +19208,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 146468
+      "UsersEstimate": 146469
     },
     {
       "ID": "SPEEDRUN10",
@@ -19235,7 +19240,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 68509
+      "UsersEstimate": 68510
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -19275,7 +19280,7 @@
       "Name": "The Long Run",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 33073
+      "UsersEstimate": 33074
     },
     {
       "ID": "WIN0ATTACK",
@@ -19426,7 +19431,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 236239,
+      "Progressed": 236240,
       "Completed": 273
     }
   ],
@@ -19434,8 +19439,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-09-18T13:05:09.8118521+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:06:53.182611+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:11:28.9568901+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:32.581326+00:00",
-  "LastUpdate_Ratings": "2023-09-19T12:01:15.9630461+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:06:53.1829434+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:05:35.1266671+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:11:28.9570988+00:00"
 }

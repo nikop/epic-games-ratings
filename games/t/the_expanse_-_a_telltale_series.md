@@ -5,8 +5,8 @@ Rating: 4.53 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,563 |
-| Stogie for Fogey | 26.00% | ~2,807 |
+| Impossible Objects | 33.00% | ~3,564 |
+| Stogie for Fogey | 26.00% | ~2,808 |
 | Martian Music | 24.00% | ~2,592 |
 | Captain Drummer | 24.00% | ~2,592 |
 | Spore Taste | 23.00% | ~2,484 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 520)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,798 (Ranked 130)  
+Progressed: 10,800 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-16 | 10,668 | 0 |
 | 2023-09-17 | 10,717 | 0 |
 | 2023-09-18 | 10,769 | 0 |
-| 2023-09-19 | 10,798 | 0 |
+| 2023-09-19 | 10,800 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

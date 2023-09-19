@@ -1,20 +1,22 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 933)  
+Rating: 4.06 (Ranked 932)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,587 |
 | Beast Intentions | 0.80% | ~1,835 |
-| The Cursed Farmer | 0.70% | ~1,605 |
+| The Cursed Farmer | 0.70% | ~1,606 |
 | The Mad Wizard | 0.60% | ~1,376 |
 | The Ring of Regeneration | 0.50% | ~1,147 |
 | Were-verpowered | 0.40% | ~917 |
 | Seeking Allies | 0.40% | ~917 |
 | Are Ya Chicken? | 0.40% | ~917 |
+| Friendly Imps | 0.40% | ~917 |
 | Maddening | 0.30% | ~688 |
+| The Silken Swamp | 0.30% | ~688 |
 | A Persistent Buzzing | 0.30% | ~688 |
 | Beast Mode | 0.30% | ~688 |
 | Terror in the Dark | 0.30% | ~688 |
@@ -28,7 +30,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~688 |
 | The Contagious Curse | 0.30% | ~688 |
 | Escort to Waterdeep | 0.30% | ~688 |
-| Friendly Imps | 0.30% | ~688 |
 | Pure Energy | 0.30% | ~688 |
 | Legends and Lore | 0.30% | ~587 |
 | Pros and CONs | 0.20% | ~459 |
@@ -40,7 +41,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~391 |
 | The Prince of a Thousand Enemies | 0.20% | ~391 |
 | Downfall | 0.20% | ~391 |
-| The Silken Swamp | 0.20% | ~459 |
 | Slack-jawed Lorna | 0.20% | ~391 |
 | Wet Feet | 0.20% | ~459 |
 | Hatchlings Underfoot | 0.20% | ~459 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,357 (Ranked 57)  
+Progressed: 229,362 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,7 +679,7 @@ Completed: 2,295 (1.00%) (Ranked 125)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,357 | 2,295 |
+| 2023-09-19 | 229,362 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  

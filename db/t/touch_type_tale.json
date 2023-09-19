@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3582,
+  "EOS_Progressed": 3584,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3684,6 +3684,11 @@
       "Time": "2023-09-19T12:08:04.0426071+00:00",
       "NumProgressed": 3582,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-19T13:12:20.1284938+00:00",
+      "NumProgressed": 3584,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3719,7 +3724,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "bonus5",
@@ -3743,7 +3748,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3154
     },
     {
       "ID": "campaign10",
@@ -3807,7 +3812,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "campaign18",
@@ -3831,7 +3836,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2760
     },
     {
       "ID": "campaign20",
@@ -3847,7 +3852,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "campaign4",
@@ -3855,7 +3860,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "campaign5",
@@ -3871,7 +3876,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "campaign7",
@@ -3879,7 +3884,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "campaign8",
@@ -3903,7 +3908,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "scenario2",
@@ -3951,14 +3956,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3582,
+      "Progressed": 3584,
       "Completed": 11
     }
   ],
@@ -3966,8 +3971,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:08:04.0426062+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:12:20.1284933+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-19T12:02:16.693426+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:08:04.0426596+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:06:19.384058+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:12:20.1285291+00:00"
 }

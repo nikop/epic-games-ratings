@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
@@ -2316,6 +2316,11 @@
       "Time": "2023-09-18T06:04:55.4986727+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-19T13:10:56.1835463+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 16,
@@ -2375,7 +2380,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -2383,7 +2388,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2391,7 +2396,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2415,7 +2420,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2429,9 +2434,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 507
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_THEEND",
@@ -2454,7 +2459,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 51
     }
   ],
@@ -2462,8 +2467,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:06:07.6198147+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:10:56.183546+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:43.1531361+00:00",
-  "LastUpdate_Ratings": "2023-09-19T12:00:01.8739152+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:06:07.6198434+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:04:42.2822072+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:10:56.1835648+00:00"
 }

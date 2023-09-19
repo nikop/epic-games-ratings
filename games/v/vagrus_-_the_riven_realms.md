@@ -27,13 +27,13 @@
 | Quartermaster | 4.00% | ~6 |
 | Strategist | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
+| Been There | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
 | Supercargo | 3.00% | ~5 |
 | Xevarian Gambit | 3.00% | ~5 |
 | The Voice of Hereafter | 3.00% | ~5 |
 | Despised | 3.00% | ~5 |
-| Been There | 3.00% | ~5 |
 | Life... Finds a Way | 3.00% | ~5 |
 | Merchant | 3.00% | ~5 |
 | Trouble at Fort Larius | 3.00% | ~5 |

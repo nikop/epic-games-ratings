@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 63.00% | ~77 |
+| Screwdriver | 64.00% | ~79 |
 | Springs | 60.00% | ~74 |
 | Soap | 41.00% | ~50 |
 | Act 1 | 34.00% | ~42 |

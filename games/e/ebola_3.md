@@ -17,12 +17,12 @@
 | Hospital ✔ | 8.00% | ~21 |
 | Thirst ✔ | 8.00% | ~21 |
 | City ✔ | 7.00% | ~19 |
+| Fraternal help ✔ | 7.00% | ~19 |
 | Alice ✔ | 6.00% | ~16 |
 | Antivirus ✔ | 6.00% | ~16 |
 | Betty ✔ | 6.00% | ~16 |
 | Cheats ✔ | 6.00% | ~16 |
 | Food ✔ | 6.00% | ~16 |
-| Fraternal help ✔ | 6.00% | ~16 |
 | King of survival ✔ | 6.00% | ~16 |
 | All secrets revealed ✔ | 6.00% | ~16 |
 | Boss 1 ✔ | 5.00% | ~13 |
@@ -31,6 +31,7 @@
 | Mutant fight ✔ | 5.00% | ~13 |
 | Infected ✔ | 5.00% | ~13 |
 | Broadcasting ✔ | 5.00% | ~13 |
+| Secret ✔ | 4.00% | ~11 |
 | Group Alpha ✔ | 4.00% | ~11 |
 | Mutant run ✔ | 4.00% | ~11 |
 | Sheriff ✔ | 4.00% | ~11 |
@@ -38,7 +39,6 @@
 | Priest ✔ | 4.00% | ~11 |
 | Car ✔ | 3.00% | ~8 |
 | Crocodile Attack ✔ | 3.00% | ~8 |
-| Secret ✔ | 3.00% | ~8 |
 | Boss 2 ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
 | Rank B+ ✔ | 3.00% | ~8 |

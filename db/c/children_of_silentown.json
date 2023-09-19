@@ -452,9 +452,9 @@
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "Offroad",
@@ -492,9 +492,9 @@
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "Toy",
@@ -549,8 +549,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:04:03.8056791+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:09:26.5491948+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.4674218+00:00",
-  "LastUpdate_Ratings": "2023-09-19T12:02:13.2043777+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:04:03.8056975+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:06:17.2817626+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:09:26.549211+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -640,9 +640,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "HOUSEWARMING",
@@ -743,8 +743,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-19T12:08:13.3896933+00:00",
+  "LastChanged_Achievements": "2023-09-19T13:12:27.1618529+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:57:57.9417867+00:00",
-  "LastUpdate_Achievements": "2023-09-19T12:08:13.3897129+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:03:18.2285731+00:00",
+  "LastUpdate_Achievements": "2023-09-19T13:12:27.1618681+00:00"
 }
