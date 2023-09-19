@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 99.83% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 99.68% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.23% |
@@ -29,7 +29,7 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.22% |
 | 28 | [Smelter](games/s/smelter.md) | 10.00% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.16% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.20% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.54% |
@@ -56,7 +56,7 @@
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.77% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 57 | [ZZT!](games/z/zzt!.md) | 4.30% |
+| 57 | [ZZT!](games/z/zzt!.md) | 4.29% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.28% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.01% |
@@ -68,13 +68,13 @@
 | 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.41% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.36% |
-| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.35% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.34% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 71 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 74 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.99% |
+| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.98% |
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -87,8 +87,8 @@
 | 83 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 83 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.46% |
-| 88 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.44% |
-| 89 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
+| 88 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.43% |
+| 88 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 90 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 91 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
 | 92 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.29% |
