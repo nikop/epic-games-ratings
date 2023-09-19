@@ -119,7 +119,7 @@
 | 111 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 519 |
 | 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,351 | 23 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 519 |
-| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,334 | 92 |
+| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,335 | 92 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 955 | 149 |
 | 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 721 | 167 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,550 | 74 |
@@ -402,7 +402,7 @@
 | 395 | [Control](games/c/control.md) | 4.60 | 8,514 | 40 |
 | 395 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 519 |
 | 395 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 266 |
-| 395 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,721 | 26 |
+| 395 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,731 | 26 |
 | 395 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 519 |
 | 395 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 321 |
 | 395 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 519 |
@@ -506,6 +506,7 @@
 | 503 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,434 | 128 |
 | 503 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,105 | 57 |
 | 503 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 446 |
+| 503 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.54 | 0 | 519 |
 | 503 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,378 | 130 |
 | 503 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 75 | 374 |
 | 503 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 380 |
@@ -518,28 +519,27 @@
 | 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
 | 503 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 519 |
 | 503 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 519 |
-| 519 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
-| 519 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 519 |
-| 519 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,060 | 18 |
-| 519 | [Everything](games/e/everything.md) | 4.53 | 0 | 519 |
-| 519 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.53 | 0 | 519 |
-| 519 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 519 |
-| 519 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 519 |
-| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,446 | 126 |
-| 519 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 519 |
-| 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 519 |
-| 519 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 490 |
-| 519 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 514 | 199 |
-| 519 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 519 |
-| 519 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 519 |
-| 519 | [VALORANT](games/v/valorant.md) | 4.53 | 70,831 | 10 |
-| 519 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 345 |
+| 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
+| 520 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 519 |
+| 520 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,060 | 18 |
+| 520 | [Everything](games/e/everything.md) | 4.53 | 0 | 519 |
+| 520 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 519 |
+| 520 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 519 |
+| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,446 | 126 |
+| 520 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 519 |
+| 520 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 519 |
+| 520 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 490 |
+| 520 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 514 | 199 |
+| 520 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 519 |
+| 520 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 519 |
+| 520 | [VALORANT](games/v/valorant.md) | 4.53 | 70,831 | 10 |
+| 520 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 345 |
 | 535 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 43 | 424 |
 | 535 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 32,666 | 15 |
 | 535 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 22 | 498 |
 | 535 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 35 | 446 |
 | 535 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 519 |
-| 535 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 532 | 197 |
+| 535 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 533 | 197 |
 | 535 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.52 | 0 | 519 |
 | 535 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 103 | 336 |
 | 535 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 125 | 316 |

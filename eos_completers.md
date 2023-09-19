@@ -109,7 +109,7 @@
 | 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.50% |
 | 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 110 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.46% |
+| 110 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.45% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 112 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.41% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
@@ -118,7 +118,7 @@
 | 116 | [Chorus](games/c/chorus.md) | 1.26% |
 | 117 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 118 | [Infindustry](games/i/infindustry.md) | 1.19% |
-| 119 | [Eternights](games/e/eternights.md) | 1.13% |
+| 119 | [Eternights](games/e/eternights.md) | 1.12% |
 | 120 | [Trifox](games/t/trifox.md) | 1.09% |
 | 121 | [Adios](games/a/adios.md) | 1.04% |
 | 122 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
@@ -130,7 +130,7 @@
 | 128 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 129 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 130 | [Hades](games/h/hades.md) | 0.90% |
-| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
 | 132 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 133 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -195,9 +195,9 @@
 | 191 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.24% |
 | 194 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
 | 195 | [Blanc](games/b/blanc.md) | 0.22% |
-| 195 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 195 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 195 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 198 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 199 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 199 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
