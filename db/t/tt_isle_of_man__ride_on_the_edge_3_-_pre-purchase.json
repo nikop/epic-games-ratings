@@ -3,9 +3,9 @@
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.45,
+  "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -682,6 +682,11 @@
       "Time": "2023-09-19T07:03:33.4967355+00:00",
       "NumProgressed": 138,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-19T11:03:44.3982421+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -717,7 +722,7 @@
       "Name": "Like Phileas Fogg",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -763,9 +768,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "gagif7",
       "Name": "Nerd",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -957,7 +962,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -989,29 +994,29 @@
       "Name": "Lone Wolf",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_39",
       "SetID": "gagif7",
       "Name": "Playing God",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-09-19T10:03:08.5056208+00:00",
+  "LastChanged_Achievements": "2023-09-19T11:03:44.3982414+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.5809683+00:00",
-  "LastUpdate_Ratings": "2023-09-19T09:57:57.7560133+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:03:08.5056483+00:00"
+  "LastUpdate_Ratings": "2023-09-19T10:58:19.832657+00:00",
+  "LastUpdate_Achievements": "2023-09-19T11:03:44.3982809+00:00"
 }

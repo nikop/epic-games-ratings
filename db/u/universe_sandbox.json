@@ -2,13 +2,13 @@
   "ID": "b42434df8847448c93022ce9c46feec1",
   "Name": "Universe Sandbox",
   "ProductSlug": "universe-sandbox",
-  "Ranking_Rating": 370,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-23T17:00:00+00:00",
     "PcReleaseDate": "2015-08-24T12:00:00+00:00",
@@ -322,6 +322,6 @@
   "FirstSeen": "2022-07-22T20:23:26.3960335+00:00",
   "LastChanged": "2023-09-11T22:58:59.6258099+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:27.5872842+00:00",
-  "LastUpdate_Ratings": "2023-09-19T10:02:14.3709782+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:05:43.273797+00:00"
+  "LastUpdate_Ratings": "2023-09-19T11:03:12.2862672+00:00",
+  "LastUpdate_Achievements": "2023-09-19T11:06:39.4151456+00:00"
 }

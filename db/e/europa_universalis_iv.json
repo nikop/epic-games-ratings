@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9658,10 +9658,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 50573,
       "NumberOfAwardsMax": 6158
+    },
+    {
+      "Time": "2023-09-19T10:58:13.6649207+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50582,
+      "NumberOfAwardsMax": 6158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50573,
+  "NumberOfAwards": 50582,
   "NumberOfAwardsMax": 6158,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9723,7 +9729,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4783
+      "Count": 4792
     },
     {
       "Text": "This game has Unique Visuals",
@@ -9732,9 +9738,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 407950,
+  "EOS_Progressed": 407983,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7383,
+  "EOS_NewPlayers": 7374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26832,6 +26838,11 @@
       "Time": "2023-09-19T10:03:37.8151555+00:00",
       "NumProgressed": 407950,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T11:04:19.1780728+00:00",
+      "NumProgressed": 407983,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27283,7 +27294,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8159
+      "UsersEstimate": 8160
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -27675,7 +27686,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8159
+      "UsersEstimate": 8160
     },
     {
       "ID": "achievement_forever_golden",
@@ -27843,7 +27854,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12238
+      "UsersEstimate": 12239
     },
     {
       "ID": "achievement_grand_coalition",
@@ -27867,7 +27878,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8159
+      "UsersEstimate": 8160
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -28843,7 +28854,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8159
+      "UsersEstimate": 8160
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -29123,7 +29134,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12238
+      "UsersEstimate": 12239
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -29507,7 +29518,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16318
+      "UsersEstimate": 16319
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29539,7 +29550,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12238
+      "UsersEstimate": 12239
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -29674,21 +29685,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 407950,
+      "Progressed": 407983,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 407950,
+      "Progressed": 407983,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-19T04:57:48.102201+00:00",
-  "LastChanged_Achievements": "2023-09-19T10:03:37.8151551+00:00",
+  "LastChanged": "2023-09-19T10:58:13.6649205+00:00",
+  "LastChanged_Achievements": "2023-09-19T11:04:19.1780721+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-19T09:57:53.2361861+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:03:37.8162236+00:00"
+  "LastUpdate_Ratings": "2023-09-19T10:58:13.6649213+00:00",
+  "LastUpdate_Achievements": "2023-09-19T11:04:19.1794388+00:00"
 }

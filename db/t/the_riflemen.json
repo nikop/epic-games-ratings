@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11756,
-  "EOS_Completed": 11756,
+  "EOS_Progressed": 11763,
+  "EOS_Completed": 11759,
   "EOS_NewPlayers": 1590,
-  "EOS_NewCompleters": 1590,
-  "EOS_Completed_Percentage": 100,
+  "EOS_NewCompleters": 1586,
+  "EOS_Completed_Percentage": 99.97,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -2439,22 +2439,141 @@
       "Time": "2023-09-19T10:08:28.1715474+00:00",
       "NumProgressed": 11756,
       "NumCompleted": 11756
+    },
+    {
+      "Time": "2023-09-19T11:09:10.225588+00:00",
+      "NumProgressed": 11763,
+      "NumCompleted": 11759
     }
   ],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "bazookaKills",
+      "SetID": "b3jeemd",
+      "Name": "Bazooka Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "firstMatch",
+      "SetID": "b3jeemd",
+      "Name": "First blood",
+      "Percentage": 0.1,
+      "XP": 25,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "grenadeKills",
+      "SetID": "b3jeemd",
+      "Name": "Grenade Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "headshots100",
+      "SetID": "b3jeemd",
+      "Name": "Head popping I",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "headshots1000",
+      "SetID": "b3jeemd",
+      "Name": "Head popping III",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "headshots500",
+      "SetID": "b3jeemd",
+      "Name": "Head popping II",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "knifeKills",
+      "SetID": "b3jeemd",
+      "Name": "Knife Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "matchesLost",
+      "SetID": "b3jeemd",
+      "Name": "Hang in there",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "matchesWon",
+      "SetID": "b3jeemd",
+      "Name": "It\u0027s a piece of cake",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "revengeMedal",
+      "SetID": "b3jeemd",
+      "Name": "He who laughs last laughs best",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "rifleKills",
+      "SetID": "b3jeemd",
+      "Name": "Rifle Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "shotgunKills",
+      "SetID": "b3jeemd",
+      "Name": "Shotgun Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sniperKills",
+      "SetID": "b3jeemd",
+      "Name": "Sniper Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "swordKills",
+      "SetID": "b3jeemd",
+      "Name": "Sword Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 11756,
-      "Completed": 11756
+      "Progressed": 11763,
+      "Completed": 11759
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-19T10:08:28.171547+00:00",
+  "LastChanged_Achievements": "2023-09-19T11:09:10.2255874+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:17.0170255+00:00",
-  "LastUpdate_Ratings": "2023-09-19T10:02:15.2763263+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:08:28.1715619+00:00"
+  "LastUpdate_Ratings": "2023-09-19T11:03:13.4480706+00:00",
+  "LastUpdate_Achievements": "2023-09-19T11:09:10.2815497+00:00"
 }

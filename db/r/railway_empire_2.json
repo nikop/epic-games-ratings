@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5101,9 +5101,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1036
     },
     {
       "ID": "A39",
@@ -5246,8 +5246,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-12T04:00:17.7506037+00:00",
-  "LastChanged_Achievements": "2023-09-19T10:04:47.579893+00:00",
+  "LastChanged_Achievements": "2023-09-19T11:05:31.1734379+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.7134355+00:00",
-  "LastUpdate_Ratings": "2023-09-19T09:58:34.997651+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:04:47.5799525+00:00"
+  "LastUpdate_Ratings": "2023-09-19T10:59:05.6724138+00:00",
+  "LastUpdate_Achievements": "2023-09-19T11:05:31.1735214+00:00"
 }

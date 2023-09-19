@@ -5,26 +5,26 @@ Rating: 4.83 (Ranked 58)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~2,983 |
-| A Thorny Situation | 69.00% | ~2,819 |
-| ... And Spit Back Out | 58.00% | ~2,370 |
-| Break-Net Speed | 45.00% | ~1,839 |
-| Bramble Breaker | 41.00% | ~1,675 |
-| Miner 49er | 39.00% | ~1,594 |
-| Humble Collector | 37.00% | ~1,512 |
-| Calm Sailing | 29.00% | ~1,185 |
+| Azoria Beckons | 73.00% | ~2,986 |
+| A Thorny Situation | 69.00% | ~2,822 |
+| ... And Spit Back Out | 58.00% | ~2,372 |
+| Break-Net Speed | 45.00% | ~1,840 |
+| Bramble Breaker | 41.00% | ~1,677 |
+| Miner 49er | 39.00% | ~1,595 |
+| Humble Collector | 37.00% | ~1,513 |
+| Calm Sailing | 29.00% | ~1,186 |
 | Open the Gate! | 25.00% | ~1,022 |
-| Mist Walker | 23.00% | ~940 |
-| Lumberjack | 21.00% | ~858 |
-| Oui, Chef! | 20.00% | ~817 |
-| Botanical Breakthrough | 11.00% | ~449 |
+| Mist Walker | 23.00% | ~941 |
+| Lumberjack | 21.00% | ~859 |
+| Oui, Chef! | 20.00% | ~818 |
+| Botanical Breakthrough | 11.00% | ~450 |
 | Clear the Air | 10.00% | ~409 |
 | Beach Comber | 10.00% | ~409 |
 | Search for the Hairy Grell | 6.00% | ~245 |
 | Higher Tax Bracket | 6.00% | ~245 |
-| Rumble in the Jumble | 4.00% | ~163 |
-| Fanatical Farmer | 4.00% | ~163 |
-| Skilled | 4.00% | ~163 |
+| Rumble in the Jumble | 4.00% | ~164 |
+| Fanatical Farmer | 4.00% | ~164 |
+| Skilled | 4.00% | ~164 |
 | Got to Catch Them All | 3.00% | ~123 |
 | Flaming Hot Completos | 2.00% | ~82 |
 | Fae Farmer | 2.00% | ~82 |
@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 58)
 | Giving the People What They Want | 0.10% | ~4 |
 | Very Skilled | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,086 (Ranked 158)  
+Progressed: 4,090 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-16 | 3,404 | 0 |
 | 2023-09-17 | 3,792 | 0 |
 | 2023-09-18 | 4,045 | 0 |
-| 2023-09-19 | 4,086 | 0 |
+| 2023-09-19 | 4,090 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

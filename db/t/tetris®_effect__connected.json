@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
     "PcReleaseDate": "2019-07-23T15:00:00+00:00",
@@ -673,10 +673,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 499,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2023-09-19T10:58:27.3157164+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 500,
+      "NumberOfAwardsMax": 157
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 499,
+  "NumberOfAwards": 500,
   "NumberOfAwardsMax": 157,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -770,8 +776,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-09-18T08:57:59.4990164+00:00",
+  "LastChanged": "2023-09-19T10:58:27.3157162+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:32.3200821+00:00",
-  "LastUpdate_Ratings": "2023-09-19T09:58:04.0773861+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:06:06.4216683+00:00"
+  "LastUpdate_Ratings": "2023-09-19T10:58:27.3157168+00:00",
+  "LastUpdate_Achievements": "2023-09-19T11:07:07.4291931+00:00"
 }

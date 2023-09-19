@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 717,
+  "EOS_Progressed": 718,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.74,
+  "EOS_Completed_Percentage": 10.72,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2476,6 +2476,11 @@
       "Time": "2023-09-18T23:07:12.9183245+00:00",
       "NumProgressed": 717,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-19T11:06:39.6311209+00:00",
+      "NumProgressed": 718,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 30,
@@ -2487,7 +2492,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "LEVEL_002",
@@ -2495,7 +2500,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "LEVEL_003",
@@ -2503,15 +2508,15 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 416
     },
     {
       "ID": "LEVEL_005",
@@ -2519,7 +2524,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "LEVEL_006",
@@ -2527,7 +2532,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "LEVEL_007",
@@ -2535,7 +2540,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "LEVEL_008",
@@ -2559,7 +2564,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "LEVEL_011",
@@ -2591,7 +2596,7 @@
       "Name": "Cross-country",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_015",
@@ -2631,7 +2636,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_020",
@@ -2639,7 +2644,7 @@
       "Name": "Go round and round",
       "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_021",
@@ -2726,14 +2731,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 717,
+      "Progressed": 718,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-19T10:05:43.4770975+00:00",
+  "LastChanged_Achievements": "2023-09-19T11:06:39.63112+00:00",
   "LastUpdate_AppInfo": "2023-09-18T22:57:19.1812695+00:00",
-  "LastUpdate_Ratings": "2023-09-19T09:57:36.132152+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:05:43.4771265+00:00"
+  "LastUpdate_Ratings": "2023-09-19T10:57:51.4421658+00:00",
+  "LastUpdate_Achievements": "2023-09-19T11:06:39.631163+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,650 |
-| Git Gutte! | 2.00% | ~13,650 |
-| Bookworm | 2.00% | ~13,650 |
-| Break A Leg | 2.00% | ~13,650 |
-| But Doctor, I am Butcho | 2.00% | ~13,650 |
-| Coup de Grâce | 2.00% | ~13,650 |
-| Hazardous Materials | 2.00% | ~13,650 |
-| Friends Like These | 2.00% | ~13,650 |
-| Hotel California | 2.00% | ~13,650 |
-| Apex Predator | 2.00% | ~13,650 |
-| Stacking the Deck | 2.00% | ~13,650 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,650 |
-| This is My Weapon | 2.00% | ~13,650 |
-| Welcome To Hell-A | 2.00% | ~13,650 |
+| Dr. Reed, I Presume? | 2.00% | ~13,651 |
+| Git Gutte! | 2.00% | ~13,651 |
+| Bookworm | 2.00% | ~13,651 |
+| Break A Leg | 2.00% | ~13,651 |
+| But Doctor, I am Butcho | 2.00% | ~13,651 |
+| Coup de Grâce | 2.00% | ~13,651 |
+| Hazardous Materials | 2.00% | ~13,651 |
+| Friends Like These | 2.00% | ~13,651 |
+| Hotel California | 2.00% | ~13,651 |
+| Apex Predator | 2.00% | ~13,651 |
+| Stacking the Deck | 2.00% | ~13,651 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,651 |
+| This is My Weapon | 2.00% | ~13,651 |
+| Welcome To Hell-A | 2.00% | ~13,651 |
 | Anger Management | 1.00% | ~6,825 |
 | Perks of the Job | 1.00% | ~6,825 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,825 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,510 (Ranked 22)  
+Progressed: 682,530 (Ranked 22)  
 Completed: 2,154 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,16 +203,16 @@ Completed: 2,154 (0.32%) (Ranked 177)
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
-| 2023-09-19 | 682,510 | 2,154 |
+| 2023-09-19 | 682,530 | 2,154 |
 ## Awards
 Max (Great Boss Battles): 6,105  (Ranked 57)  
-Sum: 9,051 (Ranked 94)  
+Sum: 9,053 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,105 |
 | This game is Great for Beginners | 419 |
-| This game has Diverse Characters | 410 |
+| This game has Diverse Characters | 412 |
 | This game has Quickly Understood Controls | 396 |
 | This game is Relaxing | 377 |
 | This game has Amazing Storytelling | 353 |
@@ -373,3 +373,4 @@ Diff (max vs sum): -37
 | 2023-09-16 | 4.54 | 6,073 | 9,005 |
 | 2023-09-17 | 4.54 | 6,086 | 9,030 |
 | 2023-09-18 | 4.54 | 6,105 | 9,051 |
+| 2023-09-19 | 4.54 | 6,105 | 9,053 |

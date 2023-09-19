@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18154,
+  "EOS_Progressed": 18155,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12517,6 +12517,11 @@
       "Time": "2023-09-19T08:05:19.6356187+00:00",
       "NumProgressed": 18154,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-19T11:05:20.4996515+00:00",
+      "NumProgressed": 18155,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12544,7 +12549,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -12592,7 +12597,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -12639,15 +12644,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18154,
+      "Progressed": 18155,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-19T10:04:38.7312619+00:00",
+  "LastChanged_Achievements": "2023-09-19T11:05:20.499651+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9412789+00:00",
   "LastUpdate_Ratings": "2023-09-19T10:02:07.3364315+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:04:38.7313282+00:00"
+  "LastUpdate_Achievements": "2023-09-19T11:05:20.4997339+00:00"
 }

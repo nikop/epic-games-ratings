@@ -16,6 +16,7 @@
 | An Acquired Taste | 38.00% | ~10 |
 | A Light in the Dark | 38.00% | ~10 |
 | Warning: Fragile | 38.00% | ~10 |
+| A Total Riot | 35.00% | ~9 |
 | The Guardian | 35.00% | ~9 |
 | Endgame | 35.00% | ~9 |
 | The Philosopher | 35.00% | ~9 |
@@ -25,7 +26,6 @@
 | They Flock to Him | 35.00% | ~9 |
 | The Counsellor | 35.00% | ~9 |
 | A Real Headache | 31.00% | ~8 |
-| A Total Riot | 31.00% | ~8 |
 | Everyone Needs a Break | 31.00% | ~8 |
 | Knock Knock | 31.00% | ~8 |
 | That One Doesn't Count | 31.00% | ~8 |

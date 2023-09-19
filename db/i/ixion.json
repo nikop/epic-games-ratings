@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3172,
+  "EOS_Progressed": 3173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5019,6 +5019,11 @@
       "Time": "2023-09-17T22:02:43.1603048+00:00",
       "NumProgressed": 3172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T11:04:28.0555112+00:00",
+      "NumProgressed": 3173,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5118,7 +5123,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_BASE_22",
@@ -5142,7 +5147,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH_BASE_25",
@@ -5485,13 +5490,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3172,
+      "Progressed": 3173,
       "Completed": 0
     }
   ],
@@ -5499,8 +5504,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-09-19T10:03:45.3082671+00:00",
+  "LastChanged_Achievements": "2023-09-19T11:04:28.0555105+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.2986447+00:00",
-  "LastUpdate_Ratings": "2023-09-19T09:58:38.3418906+00:00",
-  "LastUpdate_Achievements": "2023-09-19T10:03:45.308333+00:00"
+  "LastUpdate_Ratings": "2023-09-19T10:59:10.1418336+00:00",
+  "LastUpdate_Achievements": "2023-09-19T11:04:28.0555989+00:00"
 }

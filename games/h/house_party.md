@@ -45,7 +45,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.30% | ~19 |
 | The Elder Brahs | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
-| Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~6 |
+| Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
 | First Impressions | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
 | Rule 34 | 0.20% | ~12 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,211 (Ranked 144)  
+Progressed: 6,212 (Ranked 144)  
 Completed: 3 (0.05%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 3 (0.05%) (Ranked 241)
 | 2023-09-16 | 6,184 | 3 |
 | 2023-09-17 | 6,198 | 3 |
 | 2023-09-18 | 6,206 | 3 |
-| 2023-09-19 | 6,211 | 3 |
+| 2023-09-19 | 6,212 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
