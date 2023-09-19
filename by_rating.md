@@ -465,7 +465,7 @@
 | 449 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,551 | 19 |
 | 449 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,778 | 116 |
 | 449 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 519 |
-| 449 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 64 | 389 |
+| 449 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 65 | 389 |
 | 467 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 519 |
 | 467 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.56 | 0 | 519 |
 | 467 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 46 | 414 |
@@ -502,7 +502,6 @@
 | 487 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 366 |
 | 487 | [Wall World](games/w/wall_world.md) | 4.55 | 0 | 519 |
 | 487 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,270 | 134 |
-| 503 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 519 |
 | 503 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,434 | 128 |
 | 503 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,115 | 57 |
 | 503 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 446 |
@@ -519,21 +518,22 @@
 | 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
 | 503 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 519 |
 | 503 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 519 |
-| 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
-| 520 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 519 |
-| 520 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,060 | 18 |
-| 520 | [Everything](games/e/everything.md) | 4.53 | 0 | 519 |
-| 520 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 519 |
-| 520 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 519 |
-| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,446 | 126 |
-| 520 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 519 |
-| 520 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 519 |
-| 520 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 490 |
-| 520 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 514 | 199 |
-| 520 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 519 |
-| 520 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 519 |
-| 520 | [VALORANT](games/v/valorant.md) | 4.53 | 70,831 | 10 |
-| 520 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 345 |
+| 519 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 519 |
+| 519 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
+| 519 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 519 |
+| 519 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,060 | 18 |
+| 519 | [Everything](games/e/everything.md) | 4.53 | 0 | 519 |
+| 519 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 519 |
+| 519 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 519 |
+| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,446 | 126 |
+| 519 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 519 |
+| 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 519 |
+| 519 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 490 |
+| 519 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 514 | 199 |
+| 519 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 519 |
+| 519 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 519 |
+| 519 | [VALORANT](games/v/valorant.md) | 4.53 | 70,831 | 10 |
+| 519 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 345 |
 | 535 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 43 | 424 |
 | 535 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 32,726 | 15 |
 | 535 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 22 | 499 |
@@ -579,13 +579,13 @@
 | 568 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,779 | 95 |
 | 568 | [Horace](games/h/horace.md) | 4.50 | 0 | 519 |
 | 568 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 519 |
-| 568 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 635 | 181 |
+| 568 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 636 | 181 |
 | 568 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 519 |
 | 568 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 799 | 159 |
 | 583 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 28 | 469 |
-| 583 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 389 |
+| 583 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 390 |
 | 583 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 519 |
-| 583 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,993 | 109 |
+| 583 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,994 | 109 |
 | 583 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,501 | 14 |
 | 583 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 519 |
 | 583 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 248 |
