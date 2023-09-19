@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 207939,
+  "EOS_Progressed": 207940,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1377,
+  "EOS_NewPlayers": 1375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17393,6 +17393,11 @@
       "Time": "2023-09-19T09:05:19.333822+00:00",
       "NumProgressed": 207939,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-19T10:05:06.9788636+00:00",
+      "NumProgressed": 207940,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -17404,7 +17409,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 97731
+      "UsersEstimate": 97732
     },
     {
       "ID": "AlekhinesGun",
@@ -17452,7 +17457,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 114366
+      "UsersEstimate": 114367
     },
     {
       "ID": "Checkmate",
@@ -17476,7 +17481,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 145557
+      "UsersEstimate": 145558
     },
     {
       "ID": "DoubleCheck",
@@ -17572,7 +17577,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 49905
+      "UsersEstimate": 49906
     },
     {
       "ID": "O-O-O",
@@ -17707,7 +17712,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 207939,
+      "Progressed": 207940,
       "Completed": 2
     }
   ],
@@ -17715,8 +17720,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-09-19T09:05:19.3338214+00:00",
+  "LastChanged_Achievements": "2023-09-19T10:05:06.9788632+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:09.4209703+00:00",
-  "LastUpdate_Ratings": "2023-09-19T08:58:35.4835024+00:00",
-  "LastUpdate_Achievements": "2023-09-19T09:05:19.3340512+00:00"
+  "LastUpdate_Ratings": "2023-09-19T09:58:26.605117+00:00",
+  "LastUpdate_Achievements": "2023-09-19T10:05:06.9789657+00:00"
 }

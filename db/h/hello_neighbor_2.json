@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 666,
+  "Ranking_Rating": 667,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 174,
@@ -3298,9 +3298,9 @@
       "ID": "ACH_CAT_LOVER",
       "SetID": "4kfb9pd",
       "Name": "Cat Person",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 746
+      "UsersEstimate": 775
     },
     {
       "ID": "ACH_CLIMBER",
@@ -3403,8 +3403,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-09-17T11:03:57.624996+00:00",
-  "LastChanged_Achievements": "2023-09-19T09:04:55.5382042+00:00",
+  "LastChanged_Achievements": "2023-09-19T10:04:42.9768139+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.0537561+00:00",
-  "LastUpdate_Ratings": "2023-09-19T09:00:26.2614147+00:00",
-  "LastUpdate_Achievements": "2023-09-19T09:04:55.5382499+00:00"
+  "LastUpdate_Ratings": "2023-09-19T10:00:22.9620236+00:00",
+  "LastUpdate_Achievements": "2023-09-19T10:04:42.9768379+00:00"
 }

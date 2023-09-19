@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -992,9 +992,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8185,
+  "EOS_Progressed": 8186,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4682,6 +4682,11 @@
       "Time": "2023-09-18T15:07:08.0624575+00:00",
       "NumProgressed": 8185,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-19T10:08:29.6969617+00:00",
+      "NumProgressed": 8186,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4749,7 +4754,7 @@
       "Name": "Deadly Power",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4789,7 +4794,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "LeoniasFall_2",
@@ -4853,7 +4858,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7612
+      "UsersEstimate": 7613
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4869,7 +4874,7 @@
       "Name": "Master of Speed",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "WhattoBuy",
@@ -4877,22 +4882,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6875
+      "UsersEstimate": 6876
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8185,
+      "Progressed": 8186,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-09-13T01:39:18.805523+00:00",
-  "LastChanged_Achievements": "2023-09-19T09:09:23.6764629+00:00",
+  "LastChanged_Achievements": "2023-09-19T10:08:29.6969611+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:48.1944325+00:00",
-  "LastUpdate_Ratings": "2023-09-19T08:59:04.5502846+00:00",
-  "LastUpdate_Achievements": "2023-09-19T09:09:23.6765304+00:00"
+  "LastUpdate_Ratings": "2023-09-19T09:58:57.2339334+00:00",
+  "LastUpdate_Achievements": "2023-09-19T10:08:29.696991+00:00"
 }

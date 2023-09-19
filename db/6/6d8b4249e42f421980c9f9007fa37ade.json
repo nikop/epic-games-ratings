@@ -2,10 +2,10 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -493,9 +493,9 @@
       "ID": "Epic_DailyTask_100",
       "SetID": "ba1m2fc",
       "Name": "Good Harvest",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_DangerousDrive_1",
@@ -836,8 +836,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-19T09:04:06.5772936+00:00",
+  "LastChanged_Achievements": "2023-09-19T10:03:43.9835533+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:14.2709326+00:00",
-  "LastUpdate_Ratings": "2023-09-19T08:57:42.7178589+00:00",
-  "LastUpdate_Achievements": "2023-09-19T09:04:06.5773696+00:00"
+  "LastUpdate_Ratings": "2023-09-19T09:57:33.7282131+00:00",
+  "LastUpdate_Achievements": "2023-09-19T10:03:43.9835883+00:00"
 }

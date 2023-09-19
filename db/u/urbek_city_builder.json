@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1302,9 +1302,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "FAITH_2",
@@ -1727,8 +1727,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-19T09:05:09.687504+00:00",
+  "LastChanged_Achievements": "2023-09-19T10:04:57.3346966+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.0271956+00:00",
-  "LastUpdate_Ratings": "2023-09-19T08:59:05.6817242+00:00",
-  "LastUpdate_Achievements": "2023-09-19T09:05:09.6876737+00:00"
+  "LastUpdate_Ratings": "2023-09-19T09:58:58.5394336+00:00",
+  "LastUpdate_Achievements": "2023-09-19T10:04:57.3347688+00:00"
 }

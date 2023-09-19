@@ -10,7 +10,7 @@
 | Novice Scavenger | 62.00% | ~110 |
 | Master Craftsman | 49.00% | ~87 |
 | First wall | 48.00% | ~85 |
-| Piggyback Expert | 46.00% | ~82 |
+| Piggyback Expert | 47.00% | ~84 |
 | Second wall | 34.00% | ~61 |
 | Expert Scavenger | 29.00% | ~52 |
 | Their Rock | 26.00% | ~46 |

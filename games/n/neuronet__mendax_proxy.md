@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 69.00% | ~18 |
-| Hello World | 65.00% | ~17 |
-| I Think, Therefore I Am | 62.00% | ~16 |
-| The Real Beginning | 62.00% | ~16 |
-| Shook Up | 54.00% | ~14 |
+| First Day of the Rest of Your Life | 73.00% | ~19 |
+| Hello World | 69.00% | ~18 |
+| I Think, Therefore I Am | 65.00% | ~17 |
+| The Real Beginning | 65.00% | ~17 |
+| Shook Up | 58.00% | ~15 |
 | The Birds and the Bees | 50.00% | ~13 |
 | Vaccinated | 50.00% | ~13 |
 | Busybody | 42.00% | ~11 |

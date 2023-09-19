@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,553 |
+| Sowwy! | 30.00% | ~67,556 |
 | Alt+F4 | 5.00% | ~11,259 |
-| Déjà vu | 4.00% | ~9,007 |
-| Where's that freaking Dwarf? | 4.00% | ~9,007 |
-| Sock! SOCK! | 3.00% | ~6,755 |
-| Speedrun | 3.00% | ~6,755 |
+| Déjà vu | 4.00% | ~9,008 |
+| Where's that freaking Dwarf? | 4.00% | ~9,008 |
+| Sock! SOCK! | 3.00% | ~6,756 |
+| Speedrun | 3.00% | ~6,756 |
 | Livin' in a dwarven paradise | 2.00% | ~4,504 |
 | Way of the Wimp | 2.00% | ~4,504 |
 | A beer, two curses, three companions | 2.00% | ~4,504 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | Res Judicata | 0.90% | ~2,027 |
 | Dwarf Fortress | 0.90% | ~2,027 |
 | %#*!$*! | 0.90% | ~2,027 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,801 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,802 |
 | Dead for good | 0.70% | ~1,576 |
 | Lust and Debauchery | 0.70% | ~1,576 |
 | Material Girl | 0.70% | ~1,576 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,178 (Ranked 58)  
+Progressed: 225,188 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 3 (0.00%) (Ranked 277)
 | 2023-09-16 | 224,568 | 3 |
 | 2023-09-17 | 224,910 | 3 |
 | 2023-09-18 | 225,135 | 3 |
-| 2023-09-19 | 225,178 | 3 |
+| 2023-09-19 | 225,188 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 338 (Ranked 336)  

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 217,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 22.69,
+  "EOS_Completed_Percentage": 22.58,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1076,6 +1076,11 @@
       "Time": "2023-09-19T02:25:17.0360624+00:00",
       "NumProgressed": 216,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-19T10:02:22.6716523+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1096,15 +1101,15 @@
       "Name": "Batteries",
       "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "FallDeath",
@@ -1128,7 +1133,7 @@
       "Name": "Additional Data",
       "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Fusses",
@@ -1136,7 +1141,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 86,
       "XP": 70,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "GameComplete",
@@ -1144,7 +1149,7 @@
       "Name": "Savior",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "GasDeath",
@@ -1168,7 +1173,7 @@
       "Name": "Holographic Scanner",
       "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Screwdriver",
@@ -1176,7 +1181,7 @@
       "Name": "Screwdriver",
       "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "SecretRoom",
@@ -1184,7 +1189,7 @@
       "Name": "Researcher",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Synthesis",
@@ -1192,21 +1197,21 @@
       "Name": "Beginner Chemist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 217,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:07:56.3059774+00:00",
+  "LastChanged_Achievements": "2023-09-19T10:02:22.6716518+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
   "LastUpdate_Ratings": "2023-09-19T09:00:36.2373929+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:07:56.3059899+00:00"
+  "LastUpdate_Achievements": "2023-09-19T10:02:22.6716708+00:00"
 }

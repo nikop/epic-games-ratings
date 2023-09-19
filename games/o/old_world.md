@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
 | Play a Network Game | 0.50% | ~70 |
+| Capturing Cities | 0.50% | ~70 |
 | Ten Crowns | 0.50% | ~70 |
 | Ancient | 0.40% | ~56 |
 | Glorious Difficulty | 0.40% | ~56 |
@@ -152,7 +153,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.40% | ~56 |
 | Hatti | 0.40% | ~56 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
-| Capturing Cities | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
 | Siege Tower | 0.40% | ~56 |
 | Conquest Victory | 0.40% | ~56 |

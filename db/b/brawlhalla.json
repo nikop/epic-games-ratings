@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -6324,10 +6324,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2860,
       "NumberOfAwardsMax": 309
+    },
+    {
+      "Time": "2023-09-19T09:59:56.9875713+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2862,
+      "NumberOfAwardsMax": 309
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2860,
+  "NumberOfAwards": 2862,
   "NumberOfAwardsMax": 309,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6377,7 +6383,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 226
+      "Count": 228
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6416,8 +6422,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-09-19T08:00:25.4439765+00:00",
+  "LastChanged": "2023-09-19T09:59:56.9875711+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.9541261+00:00",
-  "LastUpdate_Ratings": "2023-09-19T09:00:04.7285694+00:00",
-  "LastUpdate_Achievements": "2023-09-19T09:06:24.8774013+00:00"
+  "LastUpdate_Ratings": "2023-09-19T09:59:56.9875716+00:00",
+  "LastUpdate_Achievements": "2023-09-19T10:06:12.744854+00:00"
 }

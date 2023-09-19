@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | I like parks | 3.00% | ~10 |
 | Small town | 3.00% | ~10 |
+| The spiritual world... | 2.00% | ~7 |
 | I like books | 1.00% | ~3 |
-| The spiritual world... | 1.00% | ~3 |
 | I like my life | 1.00% | ~3 |
 | It is nice to share with friends in the city | 1.00% | ~3 |
 | Sport is good for you | 1.00% | ~3 |
