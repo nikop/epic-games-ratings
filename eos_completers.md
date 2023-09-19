@@ -594,6 +594,7 @@
 | 277 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
 | 277 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 277 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 0.00% |
+| 277 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.00% |
 | 277 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 277 | [World of Warships](games/w/world_of_warships.md) | 0.00% |
 | 277 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |

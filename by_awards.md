@@ -61,7 +61,7 @@
 | 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,979 | 4.75 | 137 |
 | 60 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,971 | 4.64 | 315 |
 | 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,878 | 4.66 | 282 |
-| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,823 | 4.82 | 67 |
+| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,827 | 4.82 | 67 |
 | 63 | [Prey](games/p/prey.md) | 5,694 | 4.62 | 350 |
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,568 | 4.85 | 42 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 5,473 | 4.66 | 282 |
@@ -117,7 +117,7 @@
 | 115 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,779 | 4.63 | 332 |
 | 116 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,778 | 4.57 | 449 |
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,737 | 4.50 | 568 |
-| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,713 | 4.76 | 118 |
+| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,714 | 4.76 | 118 |
 | 119 | [Remnant 2](games/r/remnant_2.md) | 1,637 | 4.76 | 118 |
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,633 | 4.82 | 67 |
 | 121 | [Celeste](games/c/celeste.md) | 1,610 | 4.92 | 4 |
@@ -137,8 +137,8 @@
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,203 | 4.42 | 680 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,196 | 4.61 | 370 |
 | 137 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,190 | 4.69 | 218 |
+| 138 | [EVE Online](games/e/eve_online.md) | 1,081 | 4.25 | 836 |
 | 138 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,081 | 4.61 | 370 |
-| 139 | [EVE Online](games/e/eve_online.md) | 1,080 | 4.25 | 836 |
 | 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,068 | 4.65 | 301 |
 | 141 | [Saints Row](games/s/saints_row.md) | 1,067 | 3.79 | 978 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,031 | 4.40 | 713 |
@@ -425,7 +425,7 @@
 | 419 | [STG Football](games/s/stg_football.md) | 45 | 4.43 | 666 |
 | 424 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 43 | 4.52 | 535 |
 | 425 | [Coromon](games/c/coromon.md) | 41 | 4.66 | 282 |
-| 425 | [Poker Club](games/p/poker_club.md) | 41 | 3.81 | 976 |
+| 425 | [Poker Club](games/p/poker_club.md) | 41 | 3.80 | 977 |
 | 425 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 118 |
 | 425 | [Transport Fever 2](games/t/transport_fever_2.md) | 41 | 4.69 | 218 |
 | 429 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 40 | 4.43 | 666 |

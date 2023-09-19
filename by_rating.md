@@ -68,7 +68,7 @@
 | 58 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 446 |
 | 67 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 519 |
 | 67 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,633 | 120 |
-| 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,823 | 62 |
+| 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,827 | 62 |
 | 67 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 519 |
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 519 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 452 |
@@ -126,7 +126,7 @@
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 519 |
 | 118 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 519 |
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 519 |
-| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,713 | 118 |
+| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,714 | 118 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 49 | 409 |
 | 118 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,637 | 119 |
 | 118 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 519 |
@@ -836,7 +836,7 @@
 | 831 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 519 |
 | 831 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 240 |
 | 836 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 519 |
-| 836 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,080 | 139 |
+| 836 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,081 | 138 |
 | 836 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 0 | 519 |
 | 836 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 519 |
 | 836 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 519 |
@@ -976,7 +976,7 @@
 | 974 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 519 |
 | 974 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 519 |
 | 976 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 519 |
-| 976 | [Poker Club](games/p/poker_club.md) | 3.81 | 41 | 425 |
+| 977 | [Poker Club](games/p/poker_club.md) | 3.80 | 41 | 425 |
 | 978 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,067 | 141 |
 | 978 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.79 | 0 | 519 |
 | 978 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 519 |
