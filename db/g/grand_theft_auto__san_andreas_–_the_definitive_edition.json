@@ -946,7 +946,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12528,
+  "EOS_Progressed": 12529,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
@@ -10786,6 +10786,11 @@
       "Time": "2023-09-19T07:06:39.7156092+00:00",
       "NumProgressed": 12528,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-19T08:06:28.5442469+00:00",
+      "NumProgressed": 12529,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10845,15 +10850,15 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "ACH08",
       "SetID": "4ck5mbe",
       "Name": "Pay \u0027n\u0027 Spray",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6389
+      "UsersEstimate": 6264
     },
     {
       "ID": "ACH09",
@@ -10973,7 +10978,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "ACH24",
@@ -11076,7 +11081,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12528,
+      "Progressed": 12529,
       "Completed": 45
     }
   ],
@@ -11084,8 +11089,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-19T04:59:29.2903512+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:06:39.7156087+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:06:28.5442463+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:00:20.6158403+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:06:39.7156793+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:00:01.1571852+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:06:28.5443112+00:00"
 }

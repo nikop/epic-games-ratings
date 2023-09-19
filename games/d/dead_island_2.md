@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~682 |
 | Bucket List | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,467 (Ranked 22)  
+Progressed: 682,472 (Ranked 22)  
 Completed: 2,153 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 2,153 (0.32%) (Ranked 177)
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
-| 2023-09-19 | 682,467 | 2,153 |
+| 2023-09-19 | 682,472 | 2,153 |
 ## Awards
 Max (Great Boss Battles): 6,105  (Ranked 57)  
 Sum: 9,051 (Ranked 94)  

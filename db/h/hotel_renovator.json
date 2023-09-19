@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -116,9 +116,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1006,
+  "EOS_Progressed": 1007,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -1601,6 +1601,11 @@
       "Time": "2023-09-19T00:08:15.5713087+00:00",
       "NumProgressed": 1006,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-19T08:03:32.4608893+00:00",
+      "NumProgressed": 1007,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1628,7 +1633,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1642,9 +1647,9 @@
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1668,7 +1673,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1676,7 +1681,7 @@
       "Name": "No need to call anyone",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1708,7 +1713,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1716,7 +1721,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1772,7 +1777,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH_STAR_3",
@@ -1820,14 +1825,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1006,
+      "Progressed": 1007,
       "Completed": 15
     }
   ],
@@ -1835,8 +1840,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-18T09:57:15.7351218+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:03:16.2663712+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:03:32.4608887+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-19T06:57:39.0646323+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:03:16.2664455+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:57:38.769172+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:03:32.4609159+00:00"
 }

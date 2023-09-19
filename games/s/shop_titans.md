@@ -21,10 +21,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,364 |
 | Through Repetition, Perfection | 1.00% | ~1,364 |
 | Own the Means of Production | 1.00% | ~1,364 |
-| The Daily Grind | 0.90% | ~1,227 |
-| Bounty Hunters | 0.90% | ~1,227 |
-| Flooding the Market | 0.90% | ~1,227 |
-| Dungeon Imports | 0.90% | ~1,227 |
+| The Daily Grind | 0.90% | ~1,228 |
+| Bounty Hunters | 0.90% | ~1,228 |
+| Flooding the Market | 0.90% | ~1,228 |
+| Dungeon Imports | 0.90% | ~1,228 |
 | Demand for Supplies | 0.80% | ~1,091 |
 | Where it Hurts | 0.80% | ~1,091 |
 | Gild-Gotten Goods | 0.80% | ~1,091 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,388 (Ranked 69)  
+Progressed: 136,390 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 153 (0.11%) (Ranked 221)
 | 2023-09-16 | 136,276 | 152 |
 | 2023-09-17 | 136,337 | 152 |
 | 2023-09-18 | 136,378 | 152 |
-| 2023-09-19 | 136,388 | 153 |
+| 2023-09-19 | 136,390 | 153 |
 ## Awards
 Max (Great for Beginners): 4,748  (Ranked 70)  
 Sum: 27,255 (Ranked 48)  

@@ -9,17 +9,17 @@ Number of Ratings: 524  (23.09.2022)
 | Follow the Light | 41.00% | ~26,960 |
 | Let There Be Light | 34.00% | ~22,357 |
 | Float Like a Butterfly | 32.00% | ~21,042 |
-| Nordic Walking | 26.00% | ~17,096 |
+| Nordic Walking | 26.00% | ~17,097 |
 | Bright Falls' Finest | 25.00% | ~16,439 |
-| Under a Thin Layer of Skin | 22.00% | ~14,466 |
+| Under a Thin Layer of Skin | 22.00% | ~14,467 |
 | Park Ranger | 18.00% | ~11,836 |
 | Paging Mr. Wake | 18.00% | ~11,836 |
-| Back! Back, I Say! | 17.00% | ~11,178 |
-| Finders Keepers | 17.00% | ~11,178 |
+| Back! Back, I Say! | 17.00% | ~11,179 |
+| Finders Keepers | 17.00% | ~11,179 |
 | Damn Good Cup of Coffee | 16.00% | ~10,521 |
-| They're Heeeeeere! | 15.00% | ~9,863 |
-| Sound and Fury | 15.00% | ~9,863 |
-| Missed by a Mile | 15.00% | ~9,863 |
+| They're Heeeeeere! | 15.00% | ~9,864 |
+| Sound and Fury | 15.00% | ~9,864 |
+| Missed by a Mile | 15.00% | ~9,864 |
 | Wheels Within Wheels | 14.00% | ~9,206 |
 | The Six-Gun Scribe | 14.00% | ~9,206 |
 | Heavy Metal | 13.00% | ~8,548 |
@@ -35,12 +35,12 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 11.00% | ~7,233 |
 | Right of Way | 10.00% | ~6,576 |
 | What Light Through Yonder Window | 9.00% | ~5,918 |
-| Tornado Wrangler | 8.00% | ~5,260 |
+| Tornado Wrangler | 8.00% | ~5,261 |
 | A Friend in Need | 8.00% | ~2,338 |
 | Departure | 7.00% | ~4,603 |
 | Drink 'Em Both Up | 6.00% | ~3,945 |
 | Hardboiled Writer | 6.00% | ~3,945 |
-| A Friend Indeed | 6.00% | ~1,753 |
+| A Friend Indeed | 6.00% | ~1,754 |
 | Children of the Elder God | 5.00% | ~3,288 |
 | If It Flies, It Burns | 5.00% | ~3,288 |
 | KBF-FM | 5.00% | ~3,288 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,755 (Ranked 88)  
+Progressed: 65,757 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 65 (0.10%) (Ranked 223)
 | 2023-09-16 | 65,510 | 65 |
 | 2023-09-17 | 65,643 | 65 |
 | 2023-09-18 | 65,733 | 65 |
-| 2023-09-19 | 65,755 | 65 |
+| 2023-09-19 | 65,757 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

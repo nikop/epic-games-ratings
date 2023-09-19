@@ -13,9 +13,9 @@
 | Don't Cry Wolf | 26.00% | ~21 |
 | Freezing Cold | 17.00% | ~14 |
 | Expert | 17.00% | ~14 |
+| Searing Heat | 13.00% | ~11 |
+| Nothing but the Truth | 13.00% | ~11 |
 | The Power of the Mountains | 13.00% | ~11 |
-| Searing Heat | 12.00% | ~10 |
-| Nothing but the Truth | 12.00% | ~10 |
 | The Golden Flash | 12.00% | ~10 |
 | Changing the World | 11.00% | ~9 |
 | Locked and Loaded | 10.00% | ~8 |
@@ -28,16 +28,16 @@
 | Defeat Ingla | 5.00% | ~4 |
 | Defeat Uskol | 5.00% | ~4 |
 | Bringing guns to a sword fight | 5.00% | ~4 |
+| Ancient Powers | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
 | A Deceiving Gift | 5.00% | ~4 |
 | Defeat Tezuth | 4.00% | ~3 |
-| Ancient Powers | 4.00% | ~3 |
+| Wayseeker | 4.00% | ~3 |
 | Pathfinder | 4.00% | ~3 |
 | The End | 4.00% | ~3 |
 | Unveiling the Truth | 4.00% | ~3 |
 | Sponsor | 2.00% | ~2 |
 | Wizard | 2.00% | ~2 |
-| Wayseeker | 2.00% | ~2 |
 | Globetrotter | 2.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
 | Mountain Lover | 1.00% | ~1 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 372)  
+Progressed: 82 (Ranked 373)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |

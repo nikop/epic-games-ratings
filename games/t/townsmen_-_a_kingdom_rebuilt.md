@@ -29,13 +29,13 @@ Number of Ratings: 37  (23.09.2022)
 | Builder II | 5.00% | ~214 |
 | Tax-man III | 5.00% | ~214 |
 | Tools of the trade I | 5.00% | ~214 |
-| Conflicting parties | 5.00% | ~214 |
 | Bread for the people II | 4.00% | ~172 |
 | I like to build stuff... III | 4.00% | ~172 |
 | An honorable Governor II | 4.00% | ~172 |
 | Full-time job III | 4.00% | ~172 |
 | Tax-man IV | 4.00% | ~172 |
 | A time consuming game III | 4.00% | ~172 |
+| Conflicting parties | 4.00% | ~172 |
 | Another one bites the dust | 3.00% | ~129 |
 | Bread for the people III | 3.00% | ~129 |
 | I like to build stuff... IV | 3.00% | ~129 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,288 (Ranked 156)  
+Progressed: 4,289 (Ranked 156)  
 Completed: 3 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 3 (0.07%) (Ranked 232)
 | 2023-09-16 | 4,281 | 3 |
 | 2023-09-17 | 4,285 | 3 |
 | 2023-09-18 | 4,286 | 3 |
-| 2023-09-19 | 4,288 | 3 |
+| 2023-09-19 | 4,289 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

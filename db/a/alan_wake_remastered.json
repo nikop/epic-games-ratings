@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65755,
+  "EOS_Progressed": 65757,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 989,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15157,6 +15157,11 @@
       "Time": "2023-09-19T07:04:27.1977474+00:00",
       "NumProgressed": 65755,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-19T08:04:30.5617818+00:00",
+      "NumProgressed": 65757,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15176,7 +15181,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17096
+      "UsersEstimate": 17097
     },
     {
       "ID": "03",
@@ -15200,7 +15205,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14466
+      "UsersEstimate": 14467
     },
     {
       "ID": "06",
@@ -15288,7 +15293,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5260
+      "UsersEstimate": 5261
     },
     {
       "ID": "17",
@@ -15328,7 +15333,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9863
+      "UsersEstimate": 9864
     },
     {
       "ID": "22",
@@ -15392,7 +15397,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9863
+      "UsersEstimate": 9864
     },
     {
       "ID": "30",
@@ -15408,7 +15413,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11178
+      "UsersEstimate": 11179
     },
     {
       "ID": "32",
@@ -15424,7 +15429,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9863
+      "UsersEstimate": 9864
     },
     {
       "ID": "34",
@@ -15488,7 +15493,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11178
+      "UsersEstimate": 11179
     },
     {
       "ID": "42",
@@ -15576,7 +15581,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "53",
@@ -15703,21 +15708,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65755,
+      "Progressed": 65757,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29223,
+      "Progressed": 29225,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:04:27.1977468+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:04:30.5617809+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-19T06:58:10.4268454+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:04:27.1978773+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:58:06.0228422+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:04:30.5619+00:00"
 }

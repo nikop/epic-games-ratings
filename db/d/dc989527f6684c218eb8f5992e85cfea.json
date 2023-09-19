@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11583,
+  "EOS_Progressed": 11584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9941,6 +9941,11 @@
       "Time": "2023-09-19T06:04:05.3407219+00:00",
       "NumProgressed": 11583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T08:04:24.9309704+00:00",
+      "NumProgressed": 11584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9992,7 +9997,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -10032,7 +10037,7 @@
       "Name": "First words",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -10151,14 +10156,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11583,
+      "Progressed": 11584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:04:20.9736051+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:04:24.9309696+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5872219+00:00",
-  "LastUpdate_Ratings": "2023-09-19T06:57:06.2667457+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:04:20.9736726+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:57:08.9675154+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:04:24.931028+00:00"
 }

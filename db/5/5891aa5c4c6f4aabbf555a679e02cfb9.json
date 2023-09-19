@@ -689,9 +689,9 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "b36c5kb",
       "Name": "I Am The Night",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:07:42.739722+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:07:24.8753422+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:02.5081406+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:02:17.6224626+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:07:42.7397587+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:03:16.4055768+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:07:24.8753823+00:00"
 }

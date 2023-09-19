@@ -6124,9 +6124,9 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136388,
+  "EOS_Progressed": 136390,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21729,6 +21729,11 @@
       "Time": "2023-09-19T07:03:52.5517972+00:00",
       "NumProgressed": 136388,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-19T08:03:59.995069+00:00",
+      "NumProgressed": 136390,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -21740,7 +21745,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "advlevel02",
@@ -21876,7 +21881,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "boss02",
@@ -22012,7 +22017,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "craft03",
@@ -22364,7 +22369,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "loot02",
@@ -22635,15 +22640,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136388,
+      "Progressed": 136390,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-19T05:58:19.8454272+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:03:52.5517967+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:03:59.9950684+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-19T06:58:50.7153652+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:03:52.5520141+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:58:41.2777102+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:03:59.9952572+00:00"
 }

@@ -5690,9 +5690,9 @@
       "ID": "ACH_SURVIVE_40_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Last man standing",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4134
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -5739,8 +5739,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-09-10T14:58:56.3860075+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:04:43.046326+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:04:44.2325214+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.2935217+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:02:07.2624924+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:04:43.0463951+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:03:07.3648685+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:04:44.2325864+00:00"
 }

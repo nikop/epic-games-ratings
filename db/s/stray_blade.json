@@ -2,7 +2,7 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 112,
@@ -511,9 +511,9 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ENTER_REGION_SPIRE",
@@ -575,9 +575,9 @@
       "ID": "ACH_FIND_ALL_ELESSINE_SCHEMATICS",
       "SetID": "7i20me3",
       "Name": "Ancient Powers",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FIND_ALL_LORE_TABLETS",
@@ -607,9 +607,9 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
@@ -631,9 +631,9 @@
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_LIZARD",
       "SetID": "7i20me3",
       "Name": "Wayseeker",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_STAG",
@@ -798,8 +798,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:09:07.7756027+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:09:10.7004654+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.4303858+00:00",
-  "LastUpdate_Ratings": "2023-09-19T06:58:00.1595671+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:09:07.7756359+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:57:56.9444744+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:09:10.7004948+00:00"
 }

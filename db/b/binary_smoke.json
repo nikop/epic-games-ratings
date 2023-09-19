@@ -4,7 +4,7 @@
   "ProductSlug": "binary-smoke",
   "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.210789+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:01:18.7879033+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:03:32.2882162+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:00:50.2923566+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:03:46.5351175+00:00"
 }

@@ -10,6 +10,7 @@ Rating: 4.50 (Ranked 568)
 | Meticulously Efficient | 0.40% | ~104 |
 | Back Off | 0.30% | ~78 |
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
+| Cultured | 0.30% | ~78 |
 | Discovery | 0.30% | ~78 |
 | Fully Upgraded | 0.30% | ~78 |
 | Solo Capture | 0.30% | ~78 |
@@ -18,7 +19,6 @@ Rating: 4.50 (Ranked 568)
 | Whoopsie | 0.30% | ~78 |
 | Animated | 0.20% | ~52 |
 | Clutch Capture | 0.20% | ~52 |
-| Cultured | 0.20% | ~52 |
 | Ectoplasmic Entity | 0.20% | ~52 |
 | Ghostbuster In Training | 0.20% | ~52 |
 | Icing on the Cake | 0.20% | ~52 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 568)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,895 (Ranked 107)  
+Progressed: 25,896 (Ranked 107)  
 Completed: 56 (0.22%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 56 (0.22%) (Ranked 195)
 | 2023-09-16 | 25,847 | 56 |
 | 2023-09-17 | 25,875 | 56 |
 | 2023-09-18 | 25,888 | 56 |
-| 2023-09-19 | 25,895 | 56 |
+| 2023-09-19 | 25,896 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 255)  
 Sum: 2,316 (Ranked 188)  

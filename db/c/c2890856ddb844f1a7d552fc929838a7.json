@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1600,6 +1600,11 @@
       "Time": "2023-09-19T06:03:46.8885712+00:00",
       "NumProgressed": 810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T08:04:04.1471747+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1620,7 +1625,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "AC02",
@@ -1628,7 +1633,7 @@
       "Name": "Blood and Dust",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "AC03",
@@ -1636,7 +1641,7 @@
       "Name": "Blood and Gold",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "AC04",
@@ -1644,7 +1649,7 @@
       "Name": "Blood and Iron",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "AC05",
@@ -1660,7 +1665,7 @@
       "Name": "The Last Ascension",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "AC07",
@@ -1684,7 +1689,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "AC10",
@@ -1692,7 +1697,7 @@
       "Name": "The Wait is Over",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "AC11",
@@ -1700,7 +1705,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "AC12",
@@ -1714,9 +1719,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 292
     },
     {
       "ID": "AC14",
@@ -1738,9 +1743,9 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 146
     },
     {
       "ID": "AC17",
@@ -1764,7 +1769,7 @@
       "Name": "Soledad",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "AC20",
@@ -1804,7 +1809,7 @@
       "Name": "The Work of a Master",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "AC25",
@@ -1860,7 +1865,7 @@
       "Name": "The Merciless One",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "AC32",
@@ -1900,7 +1905,7 @@
       "Name": "Blessed Incense",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "AC37",
@@ -1908,7 +1913,7 @@
       "Name": "Storm of Death",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "AC38",
@@ -1930,9 +1935,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 673
     },
     {
       "ID": "AC41",
@@ -1979,7 +1984,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 0
     }
   ],
@@ -1987,8 +1992,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:03:57.3488492+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:04:04.1471742+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-19T06:57:12.6133971+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:03:57.3488852+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:57:14.896046+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:04:04.1472202+00:00"
 }

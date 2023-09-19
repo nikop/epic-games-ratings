@@ -3014,9 +3014,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72662,
+  "EOS_Progressed": 72663,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15969,6 +15969,11 @@
       "Time": "2023-09-19T07:04:46.5642451+00:00",
       "NumProgressed": 72662,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-19T08:04:47.3580064+00:00",
+      "NumProgressed": 72663,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16060,7 +16065,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8719
+      "UsersEstimate": 8720
     },
     {
       "ID": "APPLY_STATUS",
@@ -16116,7 +16121,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -16156,7 +16161,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8719
+      "UsersEstimate": 8720
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -16300,7 +16305,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14532
+      "UsersEstimate": 14533
     },
     {
       "ID": "HARLEY_4",
@@ -16324,7 +16329,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37784
+      "UsersEstimate": 37785
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16348,7 +16353,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14532
+      "UsersEstimate": 14533
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16356,7 +16361,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20345
+      "UsersEstimate": 20346
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16396,7 +16401,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14532
+      "UsersEstimate": 14533
     },
     {
       "ID": "MYSTERY_05",
@@ -16428,7 +16433,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8719
+      "UsersEstimate": 8720
     },
     {
       "ID": "SECRET_CACHE",
@@ -16467,13 +16472,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72662,
+      "Progressed": 72663,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42942,
+      "Progressed": 42943,
       "Completed": 2663
     }
   ],
@@ -16481,8 +16486,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-18T20:00:41.0698941+00:00",
-  "LastChanged_Achievements": "2023-09-19T07:04:46.5642445+00:00",
+  "LastChanged_Achievements": "2023-09-19T08:04:47.3580058+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:00:31.5566208+00:00",
-  "LastUpdate_Achievements": "2023-09-19T07:04:46.5643572+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:00:09.3649911+00:00",
+  "LastUpdate_Achievements": "2023-09-19T08:04:47.3581082+00:00"
 }

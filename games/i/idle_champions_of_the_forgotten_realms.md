@@ -101,6 +101,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~459 |
 | Elturel Has Fallen | 0.20% | ~459 |
 | Resolve Amongst Chaos | 0.20% | ~459 |
+| Dreamscape | 0.20% | ~391 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
 | The Everlasting Rime | 0.20% | ~391 |
 | Close Escort | 0.20% | ~459 |
@@ -385,7 +386,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Difficult Descent | 0.10% | ~196 |
 | The Devil Arrives | 0.10% | ~196 |
 | Hearts Aflame | 0.10% | ~196 |
-| Dreamscape | 0.10% | ~196 |
 | Dream Gauntlet | 0.10% | ~196 |
 | Zombie Dreams | 0.10% | ~196 |
 | Look Out! | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,336 (Ranked 57)  
+Progressed: 229,341 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,7 +679,7 @@ Completed: 2,295 (1.00%) (Ranked 124)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,336 | 2,295 |
+| 2023-09-19 | 229,341 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  
