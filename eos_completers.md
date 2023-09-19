@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.43% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.79% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.95% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -32,7 +32,7 @@
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.16% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.55% |
+| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.54% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 36 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.69% |
@@ -94,9 +94,9 @@
 | 92 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.24% |
 | 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
-| 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.10% |
+| 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
+| 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 96 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.00% |
-| 97 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.89% |
 | 99 | [Night Book](games/n/night_book.md) | 1.86% |
 | 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -109,7 +109,7 @@
 | 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.50% |
 | 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 110 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.47% |
+| 110 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.46% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 112 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.41% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
@@ -130,7 +130,7 @@
 | 128 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 129 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 130 | [Hades](games/h/hades.md) | 0.90% |
-| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
+| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
 | 132 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 133 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -209,17 +209,17 @@
 | 205 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 205 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 209 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 209 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.15% |
 | 209 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 211 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 211 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
-| 213 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.13% |
-| 214 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 214 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 214 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.12% |
-| 214 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 214 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 214 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
-| 214 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 212 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
+| 212 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
+| 214 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.13% |
+| 215 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
+| 215 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 215 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 215 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 215 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
+| 215 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 221 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
 | 221 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
 | 223 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |

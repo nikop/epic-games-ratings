@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 1,062 | - | - |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 1,198 | - | - |
 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2023-09-20 | 17 (1,000 XP) | 1 | - | - |
 | [Witchfire](games/w/witchfire.md) | 2023-09-20 | - |  | - | - |
 | [Evil Wizard](games/6/663ea0c5bcaa43fc8127b466ac781ac5.md) | 2023-09-20 | - |  | - | - |
@@ -315,7 +315,7 @@
 | [Dwarf Delve](games/c/cabbe55543164097b412696d626120af.md) | 2099-01-01 | - |  | - | - |
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | 2099-01-01 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2099-01-01 | - |  | - | - |
-| [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 2099-01-01 | - |  | - | - |
+| [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 2099-01-01 | 22 (1,000 XP) | 0 | - | - |
 | [Eternal Damnation](games/f/f804fcc3063f467699936dbd544d9e9a.md) | 2099-01-01 | - |  | - | - |
 | [Eternity Convergence](games/e/eternity_convergence.md) | 2099-01-01 | - |  | - | - |
 | [Everholm](games/e/everholm.md) | 2099-01-01 | - |  | - | - |

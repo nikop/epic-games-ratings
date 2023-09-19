@@ -208,6 +208,7 @@
 | [ELEGIES Aya](../games/e/elegies_aya.md) | 13 | 1,000 |
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Elypse](../games/e/elypse.md) | 34 | 1,000 |
+| [Enchanted Portals](../games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 22 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |
 | [Eternal Evil](../games/c/c188c5b560174a979ede32563e6e25e5.md) | 31 | 1,000 |
