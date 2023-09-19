@@ -5,30 +5,30 @@ Rating: 4.30 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~145,618 |
-| Doubled Pawn | 56.00% | ~116,494 |
-| Check | 55.00% | ~114,414 |
-| Absolute pin | 47.00% | ~97,772 |
-| Promotion | 31.00% | ~64,488 |
-| Checkmate | 30.00% | ~62,408 |
-| O-O | 24.00% | ~49,926 |
-| Spanish Bishop | 21.00% | ~43,685 |
-| Queen Sacrifice | 20.00% | ~41,605 |
-| Stalemate | 18.00% | ~37,444 |
-| O-O-O | 13.00% | ~27,043 |
-| Octopus | 13.00% | ~27,043 |
-| Stranger Danger | 12.00% | ~24,963 |
-| En Passant | 9.00% | ~18,722 |
-| Double Check | 7.00% | ~14,562 |
+| Chop Wood | 70.00% | ~145,626 |
+| Doubled Pawn | 56.00% | ~116,501 |
+| Check | 55.00% | ~114,420 |
+| Absolute pin | 47.00% | ~97,777 |
+| Promotion | 31.00% | ~64,491 |
+| Checkmate | 30.00% | ~62,411 |
+| O-O | 24.00% | ~49,929 |
+| Spanish Bishop | 21.00% | ~43,688 |
+| Queen Sacrifice | 20.00% | ~41,607 |
+| Stalemate | 18.00% | ~37,447 |
+| O-O-O | 13.00% | ~27,045 |
+| Octopus | 13.00% | ~27,045 |
+| Stranger Danger | 12.00% | ~24,964 |
+| En Passant | 9.00% | ~18,723 |
+| Double Check | 7.00% | ~14,563 |
 | Piece Collector | 6.00% | ~12,482 |
-| ELO | 5.00% | ~10,401 |
-| Family Fork | 5.00% | ~10,401 |
-| Friendly Fire | 5.00% | ~10,401 |
+| ELO | 5.00% | ~10,402 |
+| Family Fork | 5.00% | ~10,402 |
+| Friendly Fire | 5.00% | ~10,402 |
 | Underpromote | 4.00% | ~8,321 |
 | ELO ELO | 3.00% | ~6,241 |
-| Blind Pigs | 2.00% | ~4,160 |
-| ELO ELO ELO | 2.00% | ~4,160 |
-| Learner | 2.00% | ~4,160 |
+| Blind Pigs | 2.00% | ~4,161 |
+| ELO ELO ELO | 2.00% | ~4,161 |
+| Learner | 2.00% | ~4,161 |
 | Bobby Time | 1.00% | ~2,080 |
 | Back-rank Mate | 0.90% | ~1,872 |
 | Chess Champion | 0.30% | ~624 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 800)
 | Tournament Master | 0.10% | ~208 |
 | Tournament Pro | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,025 (Ranked 61)  
+Progressed: 208,037 (Ranked 61)  
 Completed: 2 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.00%) (Ranked 278)
 | 2023-09-16 | 207,468 | 2 |
 | 2023-09-17 | 207,713 | 2 |
 | 2023-09-18 | 207,888 | 2 |
-| 2023-09-19 | 208,025 | 2 |
+| 2023-09-19 | 208,037 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

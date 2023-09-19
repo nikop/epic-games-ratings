@@ -152,6 +152,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
 | Hatti | 0.40% | ~56 |
+| Pantheon of Gods | 0.40% | ~56 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
 | Siege Tower | 0.40% | ~56 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.30% | ~42 |
 | Nenikekamen | 0.30% | ~42 |
 | Assyria | 0.30% | ~42 |
-| Pantheon of Gods | 0.30% | ~42 |
 | Apadana in Parsa | 0.30% | ~42 |
 | Play a MP Teams Game | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |

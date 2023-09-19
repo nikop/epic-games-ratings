@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1243,6 +1243,11 @@
       "Time": "2023-09-19T17:07:09.6026253+00:00",
       "NumProgressed": 289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T19:07:48.6079602+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1302,7 +1307,7 @@
       "Name": "First Blood",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_first_harvest",
@@ -1310,7 +1315,7 @@
       "Name": "Seeds of War",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1318,7 +1323,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1334,7 +1339,7 @@
       "Name": "Getting Started",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_honk_horn",
@@ -1532,9 +1537,9 @@
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_sniperKillNoScope",
@@ -1564,9 +1569,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1588,9 +1593,9 @@
       "ID": "ach_x_victims_using_rocket_launcher",
       "SetID": "cmg602e",
       "Name": "Carrocketeer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_x_victims_using_shotgun",
@@ -1598,7 +1603,7 @@
       "Name": "Cornivore",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach_all_koth_points",
@@ -1710,15 +1715,15 @@
       "Name": "Survivor",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_waves_20",
@@ -1772,9 +1777,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1798,7 +1803,7 @@
       "Name": "This Is My Boomstick",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_x_victims_using_grenade_launcher",
@@ -1845,13 +1850,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 2
     }
   ],
@@ -1859,8 +1864,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-19T18:06:08.5403718+00:00",
+  "LastChanged_Achievements": "2023-09-19T19:07:48.6079598+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.845501+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:58:57.3720242+00:00",
-  "LastUpdate_Achievements": "2023-09-19T18:06:08.5404427+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:00:14.812098+00:00",
+  "LastUpdate_Achievements": "2023-09-19T19:07:48.6080616+00:00"
 }

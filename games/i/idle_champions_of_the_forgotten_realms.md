@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prince of a Thousand Enemies | 0.20% | ~391 |
 | Downfall | 0.20% | ~391 |
 | Slack-jawed Lorna | 0.20% | ~391 |
+| The Fairy Rings of Thither | 0.20% | ~391 |
 | Wet Feet | 0.20% | ~459 |
 | Hatchlings Underfoot | 0.20% | ~459 |
 | Don't Look Up! | 0.20% | ~459 |
@@ -161,7 +162,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | I'm Sure I Saw It Move! | 0.10% | ~196 |
 | End of the Line | 0.10% | ~196 |
 | A Steadfast Love | 0.10% | ~196 |
-| The Fairy Rings of Thither | 0.10% | ~196 |
 | Zarak's Revenge | 0.10% | ~196 |
 | Bully for You! | 0.10% | ~196 |
 | The Dark Heart | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,385 (Ranked 57)  
+Progressed: 229,391 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,7 +679,7 @@ Completed: 2,295 (1.00%) (Ranked 126)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,385 | 2,295 |
+| 2023-09-19 | 229,391 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  

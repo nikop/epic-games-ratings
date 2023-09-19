@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 722,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2808,9 +2808,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 137
     },
     {
       "ID": "ManagementMaster",
@@ -2983,8 +2983,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-19T18:03:41.2379413+00:00",
+  "LastChanged_Achievements": "2023-09-19T19:04:23.3408462+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:48.9786266+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:57:18.5247931+00:00",
-  "LastUpdate_Achievements": "2023-09-19T18:03:41.2379807+00:00"
+  "LastUpdate_Ratings": "2023-09-19T18:57:53.847909+00:00",
+  "LastUpdate_Achievements": "2023-09-19T19:04:23.3409039+00:00"
 }

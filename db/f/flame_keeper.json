@@ -4,7 +4,7 @@
   "ProductSlug": "flame-keeper-fc7a6d",
   "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-17T14:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.2495216+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:29.3358905+00:00",
   "LastChanged": "2023-03-31T05:57:56.2495217+00:00",
-  "LastChanged_Achievements": "2023-09-19T18:06:49.5138122+00:00",
+  "LastChanged_Achievements": "2023-09-19T19:08:45.530958+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.2049687+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:59:08.359425+00:00",
-  "LastUpdate_Achievements": "2023-09-19T18:06:49.513815+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:00:31.7190503+00:00",
+  "LastUpdate_Achievements": "2023-09-19T19:08:45.5309629+00:00"
 }

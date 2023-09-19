@@ -7,30 +7,30 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 16.00% | ~440 |
-| Debuff Dogpile | 15.00% | ~412 |
-| Hit 'Em Where It Hurts | 15.00% | ~412 |
-| Perk Shard Punch Card | 15.00% | ~412 |
-| That'll Leave a Mark | 15.00% | ~412 |
+| Debuff Dogpile | 15.00% | ~413 |
+| Hit 'Em Where It Hurts | 15.00% | ~413 |
+| Perk Shard Punch Card | 15.00% | ~413 |
+| That'll Leave a Mark | 15.00% | ~413 |
 | Mushroom Madness! | 14.00% | ~385 |
-| First Strike | 11.00% | ~302 |
-| Horder Better Faster Stronger | 11.00% | ~302 |
-| Spending Spree | 11.00% | ~302 |
+| First Strike | 11.00% | ~303 |
+| Horder Better Faster Stronger | 11.00% | ~303 |
+| Spending Spree | 11.00% | ~303 |
 | Everything Must Go! | 10.00% | ~275 |
 | Ten Steps from the Grave | 10.00% | ~275 |
-| Next Time on MythForce... | 7.00% | ~192 |
+| Next Time on MythForce... | 7.00% | ~193 |
 | Cold-Blooded Critters | 6.00% | ~165 |
 | Death Becomes You | 6.00% | ~165 |
-| Flawless Victory | 5.00% | ~137 |
-| The Harder They Fall | 3.00% | ~82 |
-| On this Episode! | 3.00% | ~82 |
+| Flawless Victory | 5.00% | ~138 |
+| The Harder They Fall | 4.00% | ~110 |
+| On this Episode! | 3.00% | ~83 |
 | Deadication | 2.00% | ~55 |
-| We've Got a Kaiju on the Field | 1.00% | ~27 |
-| Season Finale | 1.00% | ~27 |
-| The Fourth Gate | 0.70% | ~19 |
-| Vexed Her | 0.20% | ~5 |
+| We've Got a Kaiju on the Field | 1.00% | ~28 |
+| Season Finale | 1.00% | ~28 |
+| The Fourth Gate | 0.80% | ~22 |
+| Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,747 (Ranked 176)  
+Progressed: 2,753 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-16 | 2,380 | 0 |
 | 2023-09-17 | 2,572 | 0 |
 | 2023-09-18 | 2,683 | 0 |
-| 2023-09-19 | 2,747 | 0 |
+| 2023-09-19 | 2,753 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 261 (Ranked 356)  

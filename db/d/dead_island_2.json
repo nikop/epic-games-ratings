@@ -4650,9 +4650,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 682733,
+  "EOS_Progressed": 682756,
   "EOS_Completed": 2155,
-  "EOS_NewPlayers": 4077,
+  "EOS_NewPlayers": 4073,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -21755,6 +21755,11 @@
       "Time": "2023-09-19T18:05:14.5169156+00:00",
       "NumProgressed": 682733,
       "NumCompleted": 2155
+    },
+    {
+      "Time": "2023-09-19T19:06:32.573233+00:00",
+      "NumProgressed": 682756,
+      "NumCompleted": 2155
     }
   ],
   "TotalAchievements": 45,
@@ -21790,7 +21795,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -21814,7 +21819,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_bookworm",
@@ -21846,7 +21851,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -21862,7 +21867,7 @@
       "Name": "Slayer Squad",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_explorer",
@@ -21878,7 +21883,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_finisher",
@@ -21894,7 +21899,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_good_eyesight",
@@ -21950,7 +21955,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -21958,7 +21963,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "ach_knock_down",
@@ -21974,7 +21979,7 @@
       "Name": "Zombologist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_legendary",
@@ -21982,7 +21987,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_magnum_opus",
@@ -21998,7 +22003,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_mind_over_monster",
@@ -22006,7 +22011,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_revival_tour",
@@ -22014,7 +22019,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_salvation",
@@ -22054,7 +22059,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -22078,7 +22083,7 @@
       "Name": "Our True Nature",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -22110,7 +22115,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "ach_well_trained",
@@ -22125,22 +22130,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 682733,
+      "Progressed": 682756,
       "Completed": 2155
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 8274,
-      "Completed": 8274
+      "Progressed": 8297,
+      "Completed": 8297
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-19T13:59:05.9720522+00:00",
-  "LastChanged_Achievements": "2023-09-19T18:05:14.5169152+00:00",
+  "LastChanged_Achievements": "2023-09-19T19:06:32.5732325+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:58:58.236744+00:00",
-  "LastUpdate_Achievements": "2023-09-19T18:05:14.5170239+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:00:16.1375381+00:00",
+  "LastUpdate_Achievements": "2023-09-19T19:06:32.5733992+00:00"
 }

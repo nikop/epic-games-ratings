@@ -22,7 +22,7 @@
 | The Promise | 10.00% | ~55 |
 | People Pleaser | 9.00% | ~50 |
 | The Nano Glitches And The Martyr | 8.00% | ~44 |
-| Second Chances | 7.00% | ~39 |
+| Second Chances | 8.00% | ~44 |
 | Not A People Person | 4.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 554 (Ranked 243)  

@@ -4,7 +4,7 @@
   "ProductSlug": "sentinel-3-homeworld-2f6183",
   "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-28T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7669971+00:00",
   "LastChanged": "2023-03-31T05:57:26.7669972+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:02.3943046+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:59:17.5241178+00:00",
-  "LastUpdate_Achievements": "2023-09-19T18:07:12.8871673+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:00:45.3180233+00:00",
+  "LastUpdate_Achievements": "2023-09-19T19:09:17.0799619+00:00"
 }

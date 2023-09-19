@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1357,
+  "EOS_Progressed": 1358,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4911,6 +4911,11 @@
       "Time": "2023-09-19T18:05:05.038907+00:00",
       "NumProgressed": 1357,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T19:06:19.4755954+00:00",
+      "NumProgressed": 1358,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5024,17 +5029,17 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 285
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 204
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5178,7 +5183,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5186,7 +5191,7 @@
       "Name": "Advanced Interceptors",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -5202,7 +5207,7 @@
       "Name": "Shock Troops",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -5225,14 +5230,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1357,
+      "Progressed": 1358,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-19T18:05:05.0389067+00:00",
+  "LastChanged_Achievements": "2023-09-19T19:06:19.4755948+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:57:10.1355068+00:00",
-  "LastUpdate_Achievements": "2023-09-19T18:05:05.0389524+00:00"
+  "LastUpdate_Ratings": "2023-09-19T18:57:41.5728506+00:00",
+  "LastUpdate_Achievements": "2023-09-19T19:06:19.4756644+00:00"
 }
