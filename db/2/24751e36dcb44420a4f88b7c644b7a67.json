@@ -2,10 +2,10 @@
   "ID": "24751e36dcb44420a4f88b7c644b7a67",
   "Name": "Last Remains",
   "ProductSlug": "last-remains-ef50c2",
-  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-19T13:02:49.8596526+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:03:46.3912073+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:11:32.0014764+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:58:08.010157+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:05:52.1576381+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 94  (23.09.2022)
 | Nature or Nurture | 51.00% | ~190 |
 | Power Glove | 50.00% | ~186 |
 | Forgotten Memories | 49.00% | ~182 |
-| Cogs in the Machine | 43.00% | ~160 |
+| Cogs in the Machine | 44.00% | ~164 |
 | Mission Success | 26.00% | ~97 |
 | There's No Place Like Home | 22.00% | ~82 |
 | Green Cube Killer | 21.00% | ~78 |
@@ -19,7 +19,7 @@ Number of Ratings: 94  (23.09.2022)
 | Path to Salvation | 17.00% | ~63 |
 | Descendants | 16.00% | ~60 |
 | The Flawed Teacher | 15.00% | ~56 |
-| To Infinity and Beyond | 6.00% | ~22 |
+| To Infinity and Beyond | 7.00% | ~26 |
 | The Truthful Enemy | 5.00% | ~19 |
 | True collector | 0.50% | ~2 |
 | Bronze collector | 0.50% | ~2 |

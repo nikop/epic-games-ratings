@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1671,9 +1671,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 487
     },
     {
       "ID": "AC08",
@@ -1935,9 +1935,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 681
     },
     {
       "ID": "AC41",
@@ -1992,8 +1992,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-19T13:09:23.4800676+00:00",
+  "LastChanged_Achievements": "2023-09-19T14:03:37.2755921+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:03:08.2050077+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:09:23.4801035+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:57:30.7169135+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:03:37.275626+00:00"
 }

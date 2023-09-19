@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65767,
+  "EOS_Progressed": 65768,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 918,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15187,6 +15187,11 @@
       "Time": "2023-09-19T13:09:47.226922+00:00",
       "NumProgressed": 65767,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-19T14:04:01.1786124+00:00",
+      "NumProgressed": 65768,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15198,7 +15203,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26964
+      "UsersEstimate": 26965
     },
     {
       "ID": "02",
@@ -15206,7 +15211,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17099
+      "UsersEstimate": 17100
     },
     {
       "ID": "03",
@@ -15262,7 +15267,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9207
+      "UsersEstimate": 9208
     },
     {
       "ID": "10",
@@ -15366,7 +15371,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9207
+      "UsersEstimate": 9208
     },
     {
       "ID": "23",
@@ -15438,7 +15443,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11180
+      "UsersEstimate": 11181
     },
     {
       "ID": "32",
@@ -15446,7 +15451,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21045
+      "UsersEstimate": 21046
     },
     {
       "ID": "33",
@@ -15518,7 +15523,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11180
+      "UsersEstimate": 11181
     },
     {
       "ID": "42",
@@ -15733,21 +15738,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65767,
+      "Progressed": 65768,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29235,
+      "Progressed": 29236,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-19T13:09:47.2269217+00:00",
+  "LastChanged_Achievements": "2023-09-19T14:04:01.178612+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:03:52.7163809+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:09:47.2270497+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:58:15.6049194+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:04:01.1787314+00:00"
 }

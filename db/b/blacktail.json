@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -1861,9 +1861,9 @@
       "ID": "DevilDetail",
       "SetID": "2aagp3d",
       "Name": "Devil\u0027s in the details",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 101
     },
     {
       "ID": "Devoted",
@@ -2045,9 +2045,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 176
     },
     {
       "ID": "Toxic",
@@ -2094,8 +2094,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-19T13:09:42.7669809+00:00",
+  "LastChanged_Achievements": "2023-09-19T14:03:56.8155512+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.6981239+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:03:44.2520564+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:09:42.7670123+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:58:05.650854+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:03:56.8155821+00:00"
 }

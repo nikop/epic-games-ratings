@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14147,9 +14147,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA",
       "SetID": "9201eeb",
       "Name": "Hypatia the Teacher",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_THE_ROYAL_COUPLE",
@@ -14177,8 +14177,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T20:58:47.8598835+00:00",
-  "LastChanged_Achievements": "2023-09-19T13:14:29.4673009+00:00",
+  "LastChanged_Achievements": "2023-09-19T14:08:29.7966093+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:04:19.740733+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:14:29.4680331+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:58:44.5358802+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:08:29.7973814+00:00"
 }

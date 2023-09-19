@@ -5,10 +5,10 @@
   "Ranking_Rating": 19,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 15,
-  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -10730,10 +10730,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 95825,
       "NumberOfAwardsMax": 11571
+    },
+    {
+      "Time": "2023-09-19T14:00:11.5668891+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 95835,
+      "NumberOfAwardsMax": 11571
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 95825,
+  "NumberOfAwards": 95835,
   "NumberOfAwardsMax": 11571,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10777,7 +10783,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 9608
+      "Count": 9618
     },
     {
       "Text": "This game has Easy Combat",
@@ -10815,8 +10821,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-09-19T09:59:56.1217239+00:00",
+  "LastChanged": "2023-09-19T14:00:11.5668889+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.9411792+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:05:52.2695413+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:10:30.1939833+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:00:11.5668896+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:04:50.1015892+00:00"
 }

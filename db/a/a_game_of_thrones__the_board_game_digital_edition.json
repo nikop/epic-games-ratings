@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24268,
+  "EOS_Progressed": 24272,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -17555,6 +17555,11 @@
       "Time": "2023-09-19T12:06:01.1608673+00:00",
       "NumProgressed": 24268,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-19T14:05:11.7005031+00:00",
+      "NumProgressed": 24272,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 22,
@@ -17590,7 +17595,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "1019",
@@ -17606,7 +17611,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "1021",
@@ -17638,7 +17643,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "1025",
@@ -17670,7 +17675,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "1029",
@@ -17678,7 +17683,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "1030",
@@ -17702,7 +17707,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9707
+      "UsersEstimate": 9709
     },
     {
       "ID": "1033",
@@ -17734,22 +17739,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24268,
+      "Progressed": 24272,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-19T13:10:51.365086+00:00",
+  "LastChanged_Achievements": "2023-09-19T14:05:11.7005029+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.9877962+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:06:28.6722957+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:10:51.3651725+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:02:06.281118+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:05:11.7005973+00:00"
 }

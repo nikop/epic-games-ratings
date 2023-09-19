@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -641,9 +641,9 @@
       "ID": "ending_3",
       "SetID": "d4f4pll",
       "Name": "Get Out Of This Alive",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "ending_4",
@@ -681,9 +681,9 @@
       "ID": "ending_8",
       "SetID": "d4f4pll",
       "Name": "MVP - Most Vanishing Person",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "falling_for_you",
@@ -770,8 +770,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-09-19T13:08:24.1681222+00:00",
+  "LastChanged_Achievements": "2023-09-19T14:03:08.6938479+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.849651+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:03:16.9725559+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:08:24.1681402+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:57:39.3553273+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:03:08.6938661+00:00"
 }

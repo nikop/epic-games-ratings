@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1319,9 +1319,9 @@
       "ID": "achIvan",
       "SetID": "72gjli4",
       "Name": "Group Alpha \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achKloyn",
@@ -1536,8 +1536,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-19T13:10:49.8765232+00:00",
+  "LastChanged_Achievements": "2023-09-19T14:05:10.1982842+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:56.0185522+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:06:19.4983686+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:10:49.8765627+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:00:36.9324588+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:05:10.1983266+00:00"
 }

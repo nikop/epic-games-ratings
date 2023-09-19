@@ -2,10 +2,10 @@
   "ID": "0847267a85324af4b97381f568c35139",
   "Name": "Bum Ball Bears",
   "ProductSlug": "bum-ball-bears-067a49",
-  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-14T10:00:00+00:00",
     "PcReleaseDate": "2023-08-14T10:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-13T21:57:15.5904813+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:05:39.4165746+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:10:43.4958001+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:59:58.6480764+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:05:03.5943572+00:00"
 }

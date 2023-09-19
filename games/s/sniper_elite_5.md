@@ -7,11 +7,11 @@ Rating: 4.46 (Ranked 625)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,673 |
 | Confirming Suspicions | 40.00% | ~1,455 |
-| The Kraken Wakes | 36.00% | ~1,309 |
-| It's Starting to Crack | 33.00% | ~1,200 |
+| The Kraken Wakes | 36.00% | ~1,310 |
+| It's Starting to Crack | 33.00% | ~1,201 |
 | Change the Channel | 30.00% | ~1,091 |
 | Lord of War | 29.00% | ~1,055 |
-| Taking it back | 28.00% | ~1,018 |
+| Taking it back | 28.00% | ~1,019 |
 | Resourceful | 26.00% | ~946 |
 | Target America | 26.00% | ~946 |
 | The Kraken Sleeps | 24.00% | ~873 |
@@ -26,13 +26,13 @@ Rating: 4.46 (Ranked 625)
 | Der Geist | 16.00% | ~582 |
 | Close Quarters | 15.00% | ~546 |
 | Brains of the Operation | 15.00% | ~546 |
-| Enemy at the Gates | 14.00% | ~509 |
 | Fields of Glory | 14.00% | ~509 |
 | Skirmisher | 14.00% | ~509 |
 | Die Nussknacker Sweet! | 14.00% | ~509 |
 | Snake in the Grass | 14.00% | ~509 |
 | No Stone Unturned | 13.00% | ~473 |
 | Opposing Force | 13.00% | ~473 |
+| Enemy at the Gates | 13.00% | ~473 |
 | Set Europe Ablaze | 13.00% | ~473 |
 | Precision Is Key | 9.00% | ~327 |
 | My Little Friend | 9.00% | ~327 |
@@ -42,10 +42,10 @@ Rating: 4.46 (Ranked 625)
 | It'll Buff Right Out | 5.00% | ~182 |
 | Don't hold your breath | 5.00% | ~182 |
 | Operation Foxley | 5.00% | ~179 |
-| Strategist | 4.00% | ~145 |
-| Tinkerer | 4.00% | ~145 |
-| Locomotion Commotion | 4.00% | ~145 |
-| Road Rage | 4.00% | ~145 |
+| Strategist | 4.00% | ~146 |
+| Tinkerer | 4.00% | ~146 |
+| Locomotion Commotion | 4.00% | ~146 |
+| Road Rage | 4.00% | ~146 |
 | Last Resort | 4.00% | ~144 |
 | Siegebreaker | 4.00% | ~144 |
 | Ghost of Falaise | 4.00% | ~144 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 625)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,637 (Ranked 162)  
+Progressed: 3,638 (Ranked 162)  
 Completed: 11 (0.30%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 11 (0.30%) (Ranked 182)
 | 2023-09-16 | 3,621 | 10 |
 | 2023-09-17 | 3,631 | 11 |
 | 2023-09-18 | 3,637 | 11 |
+| 2023-09-19 | 3,638 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

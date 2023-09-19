@@ -2,10 +2,10 @@
   "ID": "9d62ea77c82b468ab869e7c564fa9d36",
   "Name": "Brie Parmesan Mysteries",
   "ProductSlug": "brie-parmesan-mysteries-e65b5c",
-  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T09:57:33.7476339+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:03:17.5157057+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:12:42.5365192+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:57:39.9247658+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:07:03.7990038+00:00"
 }

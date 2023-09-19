@@ -2,10 +2,10 @@
   "ID": "01d1f832f50747ee97915be1f8fcfa45",
   "Name": "Out There Oceans of Time",
   "ProductSlug": "out-there-oceans-of-time-c92c90",
-  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-26T15:00:00+00:00",
     "PcReleaseDate": "2022-05-26T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.9034795+00:00",
   "LastChanged": "2023-03-31T05:58:12.9034796+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:13.7076877+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:03:01.041405+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:11:16.2107787+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:57:22.9228818+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:05:36.6818149+00:00"
 }

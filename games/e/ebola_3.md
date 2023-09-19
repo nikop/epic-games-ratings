@@ -28,11 +28,11 @@
 | Boss 1 ✔ | 5.00% | ~13 |
 | Brain ✔ | 5.00% | ~13 |
 | Eva ✔ | 5.00% | ~13 |
+| Group Alpha ✔ | 5.00% | ~13 |
 | Mutant fight ✔ | 5.00% | ~13 |
 | Infected ✔ | 5.00% | ~13 |
 | Broadcasting ✔ | 5.00% | ~13 |
 | Secret ✔ | 4.00% | ~11 |
-| Group Alpha ✔ | 4.00% | ~11 |
 | Mutant run ✔ | 4.00% | ~11 |
 | Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |

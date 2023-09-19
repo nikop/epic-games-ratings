@@ -2,10 +2,10 @@
   "ID": "a1c3859f738641ec9d1a39d6eedbe7ea",
   "Name": "Desert Law",
   "ProductSlug": "desert-law-81b321",
-  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-12T17:00:00+00:00",
     "PcReleaseDate": "2005-04-29T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-12T17:57:09.1554077+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:04:39.6277357+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:10:28.9350743+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:59:04.8497003+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:04:48.0845712+00:00"
 }

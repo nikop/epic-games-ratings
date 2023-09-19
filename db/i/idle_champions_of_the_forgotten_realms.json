@@ -6754,9 +6754,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229362,
+  "EOS_Progressed": 229367,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 858,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23604,6 +23604,11 @@
       "Time": "2023-09-19T13:08:22.1885722+00:00",
       "NumProgressed": 229362,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-19T14:03:07.1850918+00:00",
+      "NumProgressed": 229367,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 520,
@@ -24333,9 +24338,9 @@
       "ID": "objective_completed_117",
       "SetID": "cc37lbc",
       "Name": "Friends of the Forest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_1170",
@@ -27774,21 +27779,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195636,
+      "Progressed": 195641,
       "Completed": 3438
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229362,
+      "Progressed": 229367,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-19T13:08:22.1885718+00:00",
+  "LastChanged_Achievements": "2023-09-19T14:03:07.1850915+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:04:06.798321+00:00",
-  "LastUpdate_Achievements": "2023-09-19T13:08:22.1909806+00:00"
+  "LastUpdate_Ratings": "2023-09-19T13:58:30.8119185+00:00",
+  "LastUpdate_Achievements": "2023-09-19T14:03:07.1875219+00:00"
 }

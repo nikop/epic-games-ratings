@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.20% | ~391 |
 | A Demi-god's Defender | 0.20% | ~391 |
 | Vecna Loots! | 0.20% | ~391 |
+| Friends of the Forest | 0.20% | ~459 |
 | Return to the Tomb | 0.20% | ~391 |
 | Heatwave | 0.20% | ~391 |
 | The Dread Domain of Tovag | 0.20% | ~391 |
@@ -196,7 +197,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.10% | ~196 |
 | Overwhelmed with Knowledge | 0.10% | ~196 |
 | Well Equipped | 0.10% | ~196 |
-| Friends of the Forest | 0.10% | ~229 |
 | More Than Well Equipped | 0.10% | ~196 |
 | Arcane Efforts | 0.10% | ~196 |
 | Keep Your Distance | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,362 (Ranked 57)  
+Progressed: 229,367 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,7 +679,7 @@ Completed: 2,295 (1.00%) (Ranked 125)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,362 | 2,295 |
+| 2023-09-19 | 229,367 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  
