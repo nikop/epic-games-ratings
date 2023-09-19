@@ -162,6 +162,7 @@
 | [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |
 | [Session: Skate Sim](../games/s/session__skate_sim.md) | 48 | 1,000 |
 | [WILD HEARTS™ Standard Edition](../games/w/wild_hearts™_standard_edition.md) | 48 | 1,000 |
+| [Dead Space](../games/d/dead_space.md) | 47 | 1,000 |
 | [Dust to the End](../games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 47 | 1,000 |
 | [HITMAN World of Assassination](../games/h/hitman_3.md) | 47 | 1,000 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
@@ -205,6 +206,7 @@
 | [Tour de France 2023](../games/c/c20377f30dfa44eb929b0081c1182381.md) | 43 | 1,000 |
 | [Watch Over Christmas](../games/2/263f654a1236484397892332888256aa.md) | 43 | 1,000 |
 | [Active DBG Brave's Rage](../games/7/767ef5b53bde471090219bbec4f9d78a.md) | 42 | 1,000 |
+| [CyberTD](../games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 42 | 1,000 |
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |

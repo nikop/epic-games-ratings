@@ -160,6 +160,7 @@
 | [Cursed Treasure 2 Ultimate Edition](../games/c/cursed_treasure_2_ultimate_edition.md) | 53 | 1,000 |
 | [Cyber Drift](../games/c/cyber_drift.md) | 5 | 1,000 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 |
+| [CyberTD](../games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 42 | 1,000 |
 | [Cymatically Muffed](../games/c/cymatically_muffed.md) | 16 | 1,000 |
 | [Danger Scavenger](../games/d/danger_scavenger.md) | 41 | 1,000 |
 | [Dark Fantasy 2: Jigsaw Puzzle](../games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24 | 1,000 |
@@ -168,6 +169,7 @@
 | [Daydream. Forgotten Sorrow](../games/7/7b8963f6857041fd97a4a23845eb113d.md) | 14 | 1,000 |
 | [De-Exit - Eternal Matters](../games/d/de-exit_-_eternal_matters.md) | 29 | 1,000 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 45 | 1,000 |
+| [Dead Space](../games/d/dead_space.md) | 47 | 1,000 |
 | [Deadwater Saloon](../games/0/0011a38fecb741dc9923879a4f490d42.md) | 64 | 1,000 |
 | [Death Crown](../games/3/36c80652a9de4ac28ab9f990034dc847.md) | 22 | 1,000 |
 | [DEATH STRANDING](../games/d/death_stranding.md) | 63 | 1,000 |
