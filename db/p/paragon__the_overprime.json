@@ -2,13 +2,13 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 843,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
     "PcReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2022-11-10T14:19:52.8915147+00:00",
@@ -5008,10 +5008,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 4582,
       "NumberOfAwardsMax": 623
+    },
+    {
+      "Time": "2023-09-19T19:59:19.8223875+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 4583,
+      "NumberOfAwardsMax": 623
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4582,
+  "NumberOfAwards": 4583,
   "NumberOfAwardsMax": 623,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5067,7 +5073,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 413
+      "Count": 414
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5106,8 +5112,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-09-19T15:59:56.3210696+00:00",
+  "LastChanged": "2023-09-19T19:59:19.8223874+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:58.9661731+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:00:41.2407704+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:05:22.9208539+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:59:19.822388+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:04:36.0030027+00:00"
 }

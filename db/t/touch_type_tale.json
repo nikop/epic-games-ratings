@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 3595,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3923,9 +3923,9 @@
       "ID": "campaign9",
       "SetID": "2h56gn1",
       "Name": "Boulder Clash",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 467
     },
     {
       "ID": "scenario1",
@@ -3996,8 +3996,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:08:34.1386963+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:06:51.814977+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-19T18:57:26.4777723+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:08:34.1387631+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:57:08.3856731+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:06:51.8150153+00:00"
 }

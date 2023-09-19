@@ -1304,9 +1304,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428076,
+  "EOS_Progressed": 428077,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -11674,6 +11674,11 @@
       "Time": "2023-09-19T19:08:04.962341+00:00",
       "NumProgressed": 428076,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-09-19T20:06:31.135356+00:00",
+      "NumProgressed": 428077,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 41,
@@ -11685,7 +11690,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64211
+      "UsersEstimate": 64212
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -11853,7 +11858,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406672
+      "UsersEstimate": 406673
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -11885,7 +11890,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295372
+      "UsersEstimate": 295373
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -11901,7 +11906,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342461
+      "UsersEstimate": 342462
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -12012,15 +12017,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428076,
+      "Progressed": 428077,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-10T15:01:55.9798538+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:08:04.9623405+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:06:31.1353556+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:55.7444197+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:00:34.4625423+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:08:04.9624545+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:59:15.5301484+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:06:31.13543+00:00"
 }

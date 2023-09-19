@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 377,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -1623,6 +1623,11 @@
       "Time": "2023-09-19T17:03:38.3929968+00:00",
       "NumProgressed": 376,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T20:03:37.5596022+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1643,7 +1648,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1785,9 +1790,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_OASIS",
@@ -1851,30 +1856,30 @@
       "Name": "Lost in Space",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 377,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:03:31.4891478+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:03:37.5596015+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-19T18:58:44.5269609+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:03:31.4891746+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:58:01.9921242+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:03:37.5596286+00:00"
 }

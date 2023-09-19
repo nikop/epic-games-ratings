@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1895,9 +1895,9 @@
       "ID": "AC35",
       "SetID": "l4abp0",
       "Name": "Flawless Penance",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 73
     },
     {
       "ID": "AC36",
@@ -1992,8 +1992,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:04:24.633772+00:00",
-  "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-19T18:58:01.1234313+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:04:24.6338246+00:00"
+  "LastChanged_Achievements": "2023-09-19T20:03:54.0269083+00:00",
+  "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
+  "LastUpdate_Ratings": "2023-09-19T19:57:32.1855373+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:03:54.0269453+00:00"
 }

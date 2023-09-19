@@ -22,7 +22,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~560 |
 | Oracle | 4.00% | ~560 |
 | Ambitious | 3.00% | ~420 |
-| Brilliant | 3.00% | ~420 |
 | Enlightened | 3.00% | ~420 |
 | Fountainhead | 3.00% | ~420 |
 | Glorious | 3.00% | ~420 |
@@ -50,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~280 |
 | Hanging Gardens in Babylon | 2.00% | ~280 |
 | Drillmaster | 2.00% | ~280 |
+| Brilliant | 2.00% | ~280 |
 | Great | 2.00% | ~280 |
 | Intercessor | 2.00% | ~280 |
 | Mighty | 2.00% | ~280 |
@@ -130,14 +130,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.80% | ~112 |
 | Turreted Elephant | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
-| Peacemaker | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
-| Cao'an | 0.70% | ~98 |
 | Egypt | 0.70% | ~98 |
 | Rome | 0.70% | ~98 |
 | One True Faith | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
 | Old | 0.60% | ~84 |
+| Peacemaker | 0.60% | ~84 |
+| Cao'an | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
@@ -152,29 +152,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
 | Hatti | 0.40% | ~56 |
-| Pantheon of Gods | 0.40% | ~56 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
-| Siege Tower | 0.40% | ~56 |
 | Conquest Victory | 0.40% | ~56 |
 | Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
-| Hypatia the Teacher | 0.40% | ~56 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
-| Silver Victory (Carthage 1) | 0.30% | ~42 |
-| Carthage - Riches and Influence | 0.30% | ~42 |
 | Great Difficulty | 0.30% | ~42 |
 | Magnificent Difficulty | 0.30% | ~42 |
 | Event Level High | 0.30% | ~42 |
 | Run, Pheidippides, Run! | 0.30% | ~42 |
 | Nenikekamen | 0.30% | ~42 |
 | Assyria | 0.30% | ~42 |
+| Pantheon of Gods | 0.30% | ~42 |
 | Apadana in Parsa | 0.30% | ~42 |
 | Play a MP Teams Game | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
 | Pantheon in Roma | 0.30% | ~42 |
+| Siege Tower | 0.30% | ~42 |
 | Patriarch St Paul | 0.30% | ~42 |
+| Hypatia the Teacher | 0.30% | ~42 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
+| Silver Victory (Carthage 1) | 0.20% | ~28 |
+| Carthage - Riches and Influence | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
@@ -186,6 +186,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.20% | ~28 |
 | Macedonian Wars | 0.20% | ~28 |
 | Medo-Babylonian Conquest | 0.20% | ~28 |
+| Realistic Mortality | 0.20% | ~28 |
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
 | Word of God | 0.20% | ~28 |
@@ -263,7 +264,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 4 - Strong | 0.10% | ~14 |
 | Pyramids in Menefer | 0.10% | ~14 |
 | Merchants of the Levant | 0.10% | ~14 |
-| Realistic Mortality | 0.10% | ~14 |
 | Play a 1-v-1 Game | 0.10% | ~14 |
 | Play a Hotseat Game | 0.10% | ~14 |
 | Play a LAN Game | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,000 (Ranked 124)  
+Progressed: 14,001 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -455,7 +455,7 @@ Completed: 5 (0.04%) (Ranked 246)
 | 2023-09-16 | 13,958 | 5 |
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
-| 2023-09-19 | 14,000 | 5 |
+| 2023-09-19 | 14,001 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

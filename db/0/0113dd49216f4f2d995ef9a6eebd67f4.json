@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -291,17 +291,17 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -451,9 +451,9 @@
       "ID": "SG_NOTTAKINGANYCHANCES",
       "SetID": "bj5g0n4",
       "Name": "Not Taking Any Chances",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_QUEENWITHOUTATHRONE",
@@ -594,8 +594,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:05:26.5428953+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:04:38.6713349+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.7040236+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:02:41.2511898+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:05:26.5429285+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:00:42.2461154+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:04:38.6713598+00:00"
 }

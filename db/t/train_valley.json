@@ -5,10 +5,10 @@
   "Ranking_Rating": 625,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1113,6 +1113,11 @@
       "Time": "2023-09-19T13:12:09.2960188+00:00",
       "NumProgressed": 484,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-19T20:06:41.20481+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1132,7 +1137,7 @@
       "Name": "Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "03_philatelist",
@@ -1220,7 +1225,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "14_woodcutter",
@@ -1276,7 +1281,7 @@
       "Name": "Sabotage",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "21_missed",
@@ -1300,7 +1305,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "24_mega",
@@ -1340,7 +1345,7 @@
       "Name": "Non Stop!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "29_madness",
@@ -1348,7 +1353,7 @@
       "Name": "Madness!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "30_completelynuts",
@@ -1388,7 +1393,7 @@
       "Name": "Need to think",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "35_achtung",
@@ -1435,15 +1440,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:08:19.1296509+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:06:41.2048095+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:28.7863119+00:00",
-  "LastUpdate_Ratings": "2023-09-19T18:58:50.5065256+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:08:19.1297087+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:58:06.2661882+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:06:41.2048398+00:00"
 }

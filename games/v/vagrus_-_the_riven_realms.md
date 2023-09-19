@@ -18,6 +18,7 @@
 | Tail-wind | 7.00% | ~11 |
 | Conciliator | 6.00% | ~9 |
 | Taskmaster | 6.00% | ~9 |
+| Strategist | 5.00% | ~8 |
 | The More the Merrier | 5.00% | ~8 |
 | Deputized | 5.00% | ~8 |
 | Harbinger | 5.00% | ~8 |
@@ -26,7 +27,6 @@
 | Spiritual Journey | 5.00% | ~8 |
 | Pilgrimage's End | 5.00% | ~8 |
 | Quartermaster | 4.00% | ~6 |
-| Strategist | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
@@ -60,6 +60,7 @@
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
+| General | 0.70% | ~1 |
 | Ever After | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
 | Forager | 0.70% | ~1 |
@@ -79,7 +80,6 @@
 | Beloved by Irafons | 0.00% | ~0 |
 | Deceptions Disclosed | 0.00% | ~0 |
 | Carpenter | 0.00% | ~0 |
-| General | 0.00% | ~0 |
 | Company of Heroes | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
 | Over the Horizon | 0.00% | ~0 |

@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,588 |
-| Alt+F4 | 5.00% | ~11,265 |
-| Déjà vu | 4.00% | ~9,012 |
-| Where's that freaking Dwarf? | 4.00% | ~9,012 |
+| Sowwy! | 30.00% | ~67,595 |
+| Alt+F4 | 5.00% | ~11,266 |
+| Déjà vu | 4.00% | ~9,013 |
+| Where's that freaking Dwarf? | 4.00% | ~9,013 |
+| A beer, two curses, three companions | 3.00% | ~6,759 |
 | Sock! SOCK! | 3.00% | ~6,759 |
 | Speedrun | 3.00% | ~6,759 |
 | Livin' in a dwarven paradise | 2.00% | ~4,506 |
 | Way of the Wimp | 2.00% | ~4,506 |
-| A beer, two curses, three companions | 2.00% | ~4,506 |
 | The plot thickens... At the tavern | 2.00% | ~4,506 |
 | GG EZ | 2.00% | ~4,506 |
 | DM intervention | 2.00% | ~4,506 |
@@ -29,6 +29,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 1.00% | ~2,253 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,253 |
 | A tale of adventurers not quite like the others... | 1.00% | ~2,253 |
+| %#*!$*! | 1.00% | ~2,253 |
 | Look but don't touch | 1.00% | ~2,253 |
 | The beards of change | 1.00% | ~2,253 |
 | The Ranger of Chaos | 1.00% | ~2,253 |
@@ -38,14 +39,13 @@ Number of Ratings: 118  (23.09.2022)
 | Oh, when I'll be level 10... | 1.00% | ~2,253 |
 | Res Judicata | 0.90% | ~2,028 |
 | Dwarf Fortress | 0.90% | ~2,028 |
-| %#*!$*! | 0.90% | ~2,028 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,802 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,803 |
 | Dead for good | 0.70% | ~1,577 |
 | Lust and Debauchery | 0.70% | ~1,577 |
 | Material Girl | 0.70% | ~1,577 |
 | Gargantua | 0.60% | ~1,352 |
-| In Navalu's footsteps | 0.50% | ~1,126 |
-| Lëgal Legend | 0.50% | ~1,126 |
+| In Navalu's footsteps | 0.50% | ~1,127 |
+| Lëgal Legend | 0.50% | ~1,127 |
 | Holistic Adventuring Party | 0.40% | ~901 |
 | An old poacher makes the best gamekeeper | 0.40% | ~901 |
 | We come in peace | 0.40% | ~901 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,292 (Ranked 58)  
+Progressed: 225,316 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,11 +206,11 @@ Completed: 3 (0.00%) (Ranked 278)
 | 2023-09-16 | 224,568 | 3 |
 | 2023-09-17 | 224,910 | 3 |
 | 2023-09-18 | 225,135 | 3 |
-| 2023-09-19 | 225,292 | 3 |
+| 2023-09-19 | 225,316 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
-Sum: 340 (Ranked 335)  
-Diff (max vs sum): -60  
+Sum: 340 (Ranked 336)  
+Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 196 |

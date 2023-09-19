@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -834,7 +834,7 @@
   ],
   "EOS_Progressed": 6947,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5773,9 +5773,9 @@
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
       "SetID": "akchbl3",
       "Name": "Gabriele D\u0027Annunzio",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2362
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -6030,8 +6030,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:05:33.1949648+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:04:43.4021087+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-19T18:59:22.440644+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:05:33.1950433+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:58:27.3299429+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:04:43.4021616+00:00"
 }

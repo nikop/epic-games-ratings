@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1463,
+  "EOS_Progressed": 1464,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -2538,6 +2538,11 @@
       "Time": "2023-09-19T19:07:08.8859669+00:00",
       "NumProgressed": 1463,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-19T20:05:51.0737626+00:00",
+      "NumProgressed": 1464,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2589,7 +2594,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_FineGioco",
@@ -2597,7 +2602,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2605,7 +2610,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2613,7 +2618,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2636,15 +2641,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1463,
+      "Progressed": 1464,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:07:08.8859663+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:05:51.0737621+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:01:53.8750806+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:07:08.8859944+00:00"
+  "LastUpdate_Ratings": "2023-09-19T20:00:08.438949+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:05:51.0737818+00:00"
 }

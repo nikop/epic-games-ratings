@@ -13,10 +13,10 @@
 | I like my life | 1.00% | ~3 |
 | The woodcutter | 1.00% | ~3 |
 | Soviet town | 1.00% | ~3 |
+| I love parks | 0.90% | ~3 |
+| Clean energy | 0.90% | ~3 |
 | Bucolic city | 0.90% | ~3 |
 | I am very happy! | 0.60% | ~2 |
-| I love parks | 0.60% | ~2 |
-| Clean energy | 0.60% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food producer | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |

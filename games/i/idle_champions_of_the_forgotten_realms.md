@@ -127,6 +127,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~391 |
 | The Templar's Camp | 0.20% | ~459 |
 | Rescue in the Jungle | 0.20% | ~459 |
+| Rocky Reception | 0.20% | ~391 |
 | Rock and Roll | 0.20% | ~391 |
 | Flight of the Kindori Pod | 0.20% | ~391 |
 | The Hunt for The Last Breath | 0.20% | ~391 |
@@ -515,7 +516,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Goblin Halls: the Next Generation | 0.10% | ~196 |
 | Bazaar Companions | 0.10% | ~196 |
 | Bahamut's Army | 0.10% | ~196 |
-| Rocky Reception | 0.10% | ~196 |
 | Luigi After Hours | 0.10% | ~196 |
 | Electric Mayhem | 0.10% | ~196 |
 | 3,720 to 1 | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,391 (Ranked 57)  
+Progressed: 229,398 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,7 +679,7 @@ Completed: 2,295 (1.00%) (Ranked 126)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,391 | 2,295 |
+| 2023-09-19 | 229,398 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  

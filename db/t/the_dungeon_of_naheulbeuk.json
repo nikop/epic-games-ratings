@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 418,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 47,
@@ -948,9 +948,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 225292,
+  "EOS_Progressed": 225316,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1775,
+  "EOS_NewPlayers": 1780,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11513,6 +11513,11 @@
       "Time": "2023-09-19T19:09:48.5433601+00:00",
       "NumProgressed": 225292,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-19T20:09:15.6998703+00:00",
+      "NumProgressed": 225316,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11572,15 +11577,15 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "Chapter2",
       "SetID": "50chcgj",
       "Name": "A beer, two curses, three companions",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4506
+      "UsersEstimate": 6759
     },
     {
       "ID": "Chapter3",
@@ -11924,7 +11929,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "DwarfElf15Support",
@@ -11946,9 +11951,9 @@
       "ID": "DwarfInsultWin",
       "SetID": "50chcgj",
       "Name": "%#*!$*!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2253
     },
     {
       "ID": "DwarfLevel2",
@@ -11972,7 +11977,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67588
+      "UsersEstimate": 67595
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12020,7 +12025,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11265
+      "UsersEstimate": 11266
     },
     {
       "ID": "FollowBraztok",
@@ -12044,7 +12049,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "KillDungeonLich",
@@ -12108,7 +12113,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "QuestEmile",
@@ -12132,7 +12137,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "QuestPriestess",
@@ -12227,21 +12232,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225292,
+      "Progressed": 225316,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225292,
+      "Progressed": 225316,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-19T14:58:54.893282+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:09:48.5433591+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:09:15.6998699+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:00:08.1739904+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:09:48.5435607+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:58:58.0832332+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:09:15.700006+00:00"
 }

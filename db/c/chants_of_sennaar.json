@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.26,
+  "EOS_Completed_Percentage": 5.23,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -814,6 +814,11 @@
       "Time": "2023-09-19T18:08:15.6552561+00:00",
       "NumProgressed": 171,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-19T20:09:05.2686546+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 25,
@@ -849,15 +854,15 @@
       "Name": "Cable guy",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "META_HALF_LINK",
@@ -871,17 +876,17 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "META_RESULT_1-4",
@@ -913,7 +918,7 @@
       "Name": "A Link to the Past",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -967,9 +972,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -977,7 +982,7 @@
       "Name": "Scholar",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PROGRESS_N1",
@@ -991,9 +996,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "PROGRESS_N3",
@@ -1007,9 +1012,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "PROGRESS_N5",
@@ -1024,14 +1029,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:09:34.0918976+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:09:05.2686541+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:00:53.0763269+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:09:34.0919246+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:59:27.708775+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:09:05.2686728+00:00"
 }

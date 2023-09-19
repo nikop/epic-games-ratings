@@ -4,8 +4,8 @@
   "ProductSlug": "thunder-ray-e9a2e3",
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
     "PcReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -73,9 +73,9 @@
       "ID": "ACH_DEFEAT_CYBER",
       "SetID": "b9ng4ag",
       "Name": "Killer Debut",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_EVIL_RICO",
@@ -121,9 +121,9 @@
       "ID": "ACH_UNLOCK_ALL_SPECIALS",
       "SetID": "b9ng4ag",
       "Name": "Thunder Fist",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -135,8 +135,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:04:45.665867+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:04:08.5642881+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.8034381+00:00",
-  "LastUpdate_Ratings": "2023-09-19T18:58:21.167521+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:04:45.6658785+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:57:45.8646404+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:04:08.564296+00:00"
 }

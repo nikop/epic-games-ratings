@@ -4,7 +4,7 @@
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 32,
   "Ranking_Popularity": 430,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 151,
@@ -699,10 +699,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 340,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-09-19T19:59:54.950227+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 340,
+  "NumberOfAwards": 341,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -770,7 +776,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Easy Combat",
@@ -5575,9 +5581,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2023-09-16T17:59:44.6117897+00:00",
-  "LastChanged_Achievements": "2023-09-19T19:08:48.4295698+00:00",
+  "LastChanged": "2023-09-19T19:59:54.9502269+00:00",
+  "LastChanged_Achievements": "2023-09-19T20:07:02.208477+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.8200902+00:00",
-  "LastUpdate_Ratings": "2023-09-19T19:01:34.6667083+00:00",
-  "LastUpdate_Achievements": "2023-09-19T19:08:48.429629+00:00"
+  "LastUpdate_Ratings": "2023-09-19T19:59:54.9502274+00:00",
+  "LastUpdate_Achievements": "2023-09-19T20:07:02.2085159+00:00"
 }
