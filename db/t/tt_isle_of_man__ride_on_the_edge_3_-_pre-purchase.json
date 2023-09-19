@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -672,6 +672,11 @@
       "Time": "2023-09-18T16:02:27.0271995+00:00",
       "NumProgressed": 136,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-19T01:45:25.5367462+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -699,7 +704,7 @@
       "Name": "To Each Their Own",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -707,7 +712,7 @@
       "Name": "Like Phileas Fogg",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -905,9 +910,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -915,7 +920,7 @@
       "Name": "Onwards and Upwards",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -947,7 +952,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -994,14 +999,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:03:10.7193778+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:45:25.5367457+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.5809683+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:58:09.9096538+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:03:10.7194198+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:40:38.6480677+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:45:25.5367974+00:00"
 }

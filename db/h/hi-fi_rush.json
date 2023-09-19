@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4071,
+  "EOS_Progressed": 4073,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6624,6 +6624,11 @@
       "Time": "2023-09-18T23:09:12.0463125+00:00",
       "NumProgressed": 4071,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-19T01:50:40.2821777+00:00",
+      "NumProgressed": 4073,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6651,7 +6656,7 @@
       "Name": "This will cost you big time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Ach004",
@@ -6763,7 +6768,7 @@
       "Name": "I play my own way!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Ach018",
@@ -6891,7 +6896,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Ach034",
@@ -7202,13 +7207,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4071,
+      "Progressed": 4073,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2592,
+      "Progressed": 2594,
       "Completed": 1929
     }
   ],
@@ -7216,8 +7221,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:07:19.434946+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:50:40.2821769+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:58:30.1714949+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:07:19.4350623+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:41:05.5177045+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:50:40.2823816+00:00"
 }

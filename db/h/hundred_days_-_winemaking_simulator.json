@@ -6,7 +6,7 @@
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3870,
+  "EOS_Progressed": 3874,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1293,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3335,6 +3335,11 @@
       "Time": "2023-09-19T00:06:31.9762748+00:00",
       "NumProgressed": 3870,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T01:49:43.6166448+00:00",
+      "NumProgressed": 3874,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3347,7 +3352,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "a_10",
@@ -3395,7 +3400,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1395
     },
     {
       "ID": "a_19",
@@ -3594,7 +3599,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3870,
+      "Progressed": 3874,
       "Completed": 5
     }
   ],
@@ -3602,8 +3607,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:06:31.9762744+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:49:43.616644+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:58:20.4208653+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:06:31.976317+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:40:52.8845321+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:49:43.6168899+00:00"
 }

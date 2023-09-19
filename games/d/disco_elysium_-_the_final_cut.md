@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,902 |
-| Biggest Communism Builder | 24.00% | ~30,773 |
-| The World's Most Laughable Centrist | 20.00% | ~25,644 |
+| Goodest Of The Good Cops | 28.00% | ~35,903 |
+| Biggest Communism Builder | 24.00% | ~30,774 |
+| The World's Most Laughable Centrist | 20.00% | ~25,645 |
 | Il Coppo Del'Arte! | 18.00% | ~23,080 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,515 |
-| Hyperstellar Law Official | 16.00% | ~20,515 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,951 |
-| Gurdi-Ball Is Lit | 14.00% | ~17,951 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,516 |
+| Hyperstellar Law Official | 16.00% | ~20,516 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,952 |
+| Gurdi-Ball Is Lit | 14.00% | ~17,952 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,669 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,104 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,105 |
 | Unbelievably Boring **** | 9.00% | ~11,540 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,540 |
 | Enemy Of The Physical Realm | 8.00% | ~10,258 |
-| Hardie's Heroes | 6.00% | ~7,693 |
+| Hardie's Heroes | 6.00% | ~7,694 |
 | The Lawbringer | 4.00% | ~5,129 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,129 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,847 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,220 (Ranked 71)  
+Progressed: 128,225 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,6 +199,7 @@ Completed: 28 (0.02%) (Ranked 254)
 | 2023-09-16 | 127,956 | 28 |
 | 2023-09-17 | 128,111 | 28 |
 | 2023-09-18 | 128,220 | 28 |
+| 2023-09-19 | 128,225 | 28 |
 ## Awards
 Max (Character Customization): 723  (Ranked 166)  
 Sum: 1,088 (Ranked 238)  

@@ -9,12 +9,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 6.00% | ~999 |
 | First Real Expedition | 5.00% | ~832 |
 | Overcoming Difficulty | 5.00% | ~832 |
+| Fertile Meadows | 5.00% | ~832 |
 | Coral Forest | 5.00% | ~832 |
 | The Marshlands | 5.00% | ~832 |
 | The Scarlet Orchard | 5.00% | ~832 |
 | Taking Action | 5.00% | ~832 |
 | Ancient Battleground | 4.00% | ~666 |
-| Fertile Meadows | 4.00% | ~666 |
 | Royal Outpost | 4.00% | ~666 |
 | Lost Colonies | 4.00% | ~666 |
 | Watchtower | 4.00% | ~666 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,646 (Ranked 120)  
+Progressed: 16,648 (Ranked 120)  
 Completed: 48 (0.29%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,9 +209,10 @@ Completed: 48 (0.29%) (Ranked 183)
 | 2023-09-16 | 16,625 | 48 |
 | 2023-09-17 | 16,635 | 48 |
 | 2023-09-18 | 16,646 | 48 |
+| 2023-09-19 | 16,648 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 431  (Ranked 211)  
-Sum: 3,145 (Ranked 166)  
+Sum: 3,146 (Ranked 166)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +225,7 @@ Diff (max vs sum): 45
 | This game has Amazing Storytelling | 309 |
 | This game has Amazing Characters | 278 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 202 |
+| This game has a Creative Community | 203 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -422,4 +423,4 @@ Diff (max vs sum): 45
 | 2023-09-16 | 4.81 | - | 430 | 3,140 |
 | 2023-09-17 | 4.81 | - | 430 | 3,142 |
 | 2023-09-18 | 4.81 | - | 431 | 3,144 |
-| 2023-09-19 | 4.81 | - | 431 | 3,145 |
+| 2023-09-19 | 4.81 | - | 431 | 3,146 |

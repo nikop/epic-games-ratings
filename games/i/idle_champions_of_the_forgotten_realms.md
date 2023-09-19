@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~459 |
 | Tall Tales | 0.20% | ~391 |
 | Nightmare Rats! | 0.20% | ~391 |
+| An Unexpected Geist | 0.20% | ~391 |
 | The Witchlight Carnival | 0.20% | ~391 |
 | Thieves of the Coven | 0.20% | ~391 |
 | Hither of the Feywild | 0.20% | ~391 |
@@ -128,7 +129,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~196 |
 | Friends and Foes | 0.10% | ~196 |
 | And Your Enemies Closer | 0.10% | ~196 |
-| An Unexpected Geist | 0.10% | ~196 |
 | Back to Nature | 0.10% | ~196 |
 | A Monarch Among Us | 0.10% | ~196 |
 | A Dragon Against Us | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,318 (Ranked 57)  
+Progressed: 229,320 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,14 +679,15 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
+| 2023-09-19 | 229,320 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
-Sum: 31,633 (Ranked 39)  
+Sum: 31,638 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,285 |
-| This game is Great for Beginners | 5,268 |
+| This game is Great for Beginners | 5,273 |
 | This game has Quickly Understood Controls | 4,769 |
 | This game is Relaxing | 4,654 |
 | This game has Amazing Characters | 4,124 |
@@ -931,3 +932,4 @@ Diff (max vs sum): 28
 | 2023-09-16 | 4.06 | - | 5,283 | 31,617 |
 | 2023-09-17 | 4.06 | - | 5,285 | 31,629 |
 | 2023-09-18 | 4.06 | - | 5,285 | 31,633 |
+| 2023-09-19 | 4.06 | - | 5,285 | 31,638 |

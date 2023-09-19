@@ -7,31 +7,31 @@ Number of Ratings: 6,336  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escaped Tartarus | 89.00% | ~626,329 |
-| Escaped Asphodel | 80.00% | ~562,992 |
-| Arms Collector | 71.00% | ~499,655 |
-| Friends in High Places | 68.00% | ~478,543 |
-| Escaped Elysium | 66.00% | ~464,468 |
-| Chthonic Colleagues | 63.00% | ~443,356 |
+| Escaped Asphodel | 80.00% | ~562,993 |
+| Arms Collector | 71.00% | ~499,656 |
+| Friends in High Places | 68.00% | ~478,544 |
+| Escaped Elysium | 66.00% | ~464,469 |
+| Chthonic Colleagues | 63.00% | ~443,357 |
 | Is There No Escape? | 52.00% | ~365,945 |
 | Death Dealer | 45.00% | ~316,683 |
 | Skelly Slayer | 42.00% | ~295,571 |
 | Well Stocked | 40.00% | ~281,496 |
-| Back to Work | 38.00% | ~267,421 |
+| Back to Work | 38.00% | ~267,422 |
 | Day-or-Night Trader | 37.00% | ~260,384 |
 | Blessed by the Gods | 37.00% | ~260,384 |
-| Urge to Sing | 36.00% | ~253,346 |
+| Urge to Sing | 36.00% | ~253,347 |
 | Blood Bound | 35.00% | ~246,309 |
 | Three-Headed Boy | 32.00% | ~225,197 |
 | River Denizens | 28.00% | ~197,047 |
 | Grown Close | 28.00% | ~197,047 |
 | Home Makeover | 27.00% | ~190,010 |
-| The Family Secret | 26.00% | ~182,972 |
+| The Family Secret | 26.00% | ~182,973 |
 | Had to Happen | 25.00% | ~175,935 |
 | To Charon's Credit | 23.00% | ~161,860 |
 | Tools of the Architect | 23.00% | ~161,860 |
 | Master of Arms | 23.00% | ~161,860 |
 | Rare Collectible | 22.00% | ~154,823 |
-| Weapon of Fate | 21.00% | ~147,785 |
+| Weapon of Fate | 21.00% | ~147,786 |
 | Something From Everyone | 19.00% | ~133,711 |
 | Hold the Onions | 18.00% | ~126,673 |
 | Well Versed | 17.00% | ~119,636 |
@@ -40,7 +40,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | The Useless Trinket | 13.00% | ~91,486 |
 | Champion of Elysium | 13.00% | ~91,486 |
 | Slashed Benefits | 12.00% | ~84,449 |
-| Haste of Hermes | 11.00% | ~77,411 |
+| Haste of Hermes | 11.00% | ~77,412 |
 | Bad Call | 10.00% | ~70,374 |
 | Nyx's Mirror | 10.00% | ~70,374 |
 | Night and Darkness | 10.00% | ~70,374 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,150 |
 | Friends Forever | 4.00% | ~28,150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,740 (Ranked 21)  
+Progressed: 703,741 (Ranked 21)  
 Completed: 6,359 (0.90%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 6,359 (0.90%) (Ranked 130)
 | 2023-09-16 | 703,603 | 6,353 |
 | 2023-09-17 | 703,693 | 6,356 |
 | 2023-09-18 | 703,738 | 6,359 |
-| 2023-09-19 | 703,740 | 6,359 |
+| 2023-09-19 | 703,741 | 6,359 |
 ## Awards
 Max (Character Customization): 3,267  (Ranked 94)  
 Sum: 7,906 (Ranked 102)  

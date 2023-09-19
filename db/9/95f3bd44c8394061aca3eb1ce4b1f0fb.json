@@ -2,9 +2,9 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 95,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -451,6 +451,11 @@
       "Time": "2023-09-17T23:09:17.9664354+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T01:50:52.5698724+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -460,7 +465,7 @@
       "ID": "CompleteTutorials",
       "SetID": "9ajogia",
       "Name": "Student",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 200,
       "UsersEstimate": 7
     },
@@ -501,14 +506,14 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 95,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:08:10.0874052+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:50:52.5698717+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:11.1842236+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:57:46.3217396+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:08:10.0874147+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:40:09.9902682+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:50:52.5698847+00:00"
 }

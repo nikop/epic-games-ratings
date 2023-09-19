@@ -3740,9 +3740,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11348,
+  "EOS_Progressed": 11351,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12570,6 +12570,11 @@
       "Time": "2023-09-18T19:08:56.9297854+00:00",
       "NumProgressed": 11348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T01:50:42.7484259+00:00",
+      "NumProgressed": 11351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12597,7 +12602,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "04_FithCrusade",
@@ -12621,7 +12626,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "07_FinalThreshold",
@@ -12629,7 +12634,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "08_PathOfAngel",
@@ -12669,7 +12674,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "13_PathOfLich",
@@ -12709,7 +12714,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "18_MythicChoices",
@@ -12781,7 +12786,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "28_GreatUpstart",
@@ -12789,7 +12794,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "29_StrategicVictory",
@@ -12797,7 +12802,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -12805,7 +12810,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "31_DivideAndRule",
@@ -12845,7 +12850,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -12853,7 +12858,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -12925,7 +12930,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "46_AllPathsOpen",
@@ -12933,7 +12938,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -12949,7 +12954,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "49_Flame",
@@ -12965,7 +12970,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -13508,21 +13513,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10130,
+      "Progressed": 10133,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11348,
+      "Progressed": 11351,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-18T19:58:33.1710233+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:07:21.6136768+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:50:42.7484254+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.4694151+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:58:30.0519957+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:07:21.6138921+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:41:05.420776+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:50:42.7486312+00:00"
 }

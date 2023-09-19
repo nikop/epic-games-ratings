@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 808,
+  "EOS_Progressed": 809,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1590,6 +1590,11 @@
       "Time": "2023-09-19T00:03:28.2170525+00:00",
       "NumProgressed": 808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T01:46:16.28574+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1610,7 +1615,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "AC02",
@@ -1618,15 +1623,15 @@
       "Name": "Blood and Dust",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 558
     },
     {
       "ID": "AC04",
@@ -1642,7 +1647,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "AC06",
@@ -1674,7 +1679,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "AC10",
@@ -1682,7 +1687,7 @@
       "Name": "The Wait is Over",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "AC11",
@@ -1690,7 +1695,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "AC12",
@@ -1730,7 +1735,7 @@
       "Name": "Weight of Penance",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AC17",
@@ -1778,7 +1783,7 @@
       "Name": "Empty Handed",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "AC23",
@@ -1834,7 +1839,7 @@
       "Name": "The Veteran One",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "AC30",
@@ -1850,7 +1855,7 @@
       "Name": "The Merciless One",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "AC32",
@@ -1906,7 +1911,7 @@
       "Name": "Edge of Orison",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "AC39",
@@ -1922,7 +1927,7 @@
       "Name": "Welcome Back!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "AC41",
@@ -1969,7 +1974,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 808,
+      "Progressed": 809,
       "Completed": 0
     }
   ],
@@ -1977,8 +1982,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:03:28.217052+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:46:16.2857393+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:57:30.3615877+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:03:28.2170985+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:39:49.8953734+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:46:16.2858182+00:00"
 }

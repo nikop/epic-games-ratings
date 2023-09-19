@@ -5,7 +5,7 @@
   "Ranking_Rating": 568,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 188,
-  "Ranking_EOS_Progress": 106,
+  "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 73,
@@ -2160,9 +2160,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25888,
+  "EOS_Progressed": 25891,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13105,6 +13105,11 @@
       "Time": "2023-09-18T23:06:00.1340822+00:00",
       "NumProgressed": 25888,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-19T01:47:52.2708575+00:00",
+      "NumProgressed": 25891,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13322,9 +13327,9 @@
       "ID": "Mycophile",
       "SetID": "819popo",
       "Name": "Mycophile",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Pesky_Jerks",
@@ -13523,7 +13528,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25888,
+      "Progressed": 25891,
       "Completed": 56
     }
   ],
@@ -13531,8 +13536,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-17T19:01:08.4051073+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:04:59.1771889+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:47:52.2708568+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:59:22.9783577+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:04:59.1773094+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:42:12.6823888+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:47:52.2710476+00:00"
 }

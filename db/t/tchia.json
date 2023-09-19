@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7487,
+  "EOS_Progressed": 7489,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6979,6 +6979,11 @@
       "Time": "2023-09-18T14:07:08.2474587+00:00",
       "NumProgressed": 7487,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-19T01:50:40.9501358+00:00",
+      "NumProgressed": 7489,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7094,7 +7099,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "LIBERATOR",
@@ -7110,7 +7115,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "SHREDDER",
@@ -7157,7 +7162,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7487,
+      "Progressed": 7489,
       "Completed": 33
     }
   ],
@@ -7165,8 +7170,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:07:20.1108492+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:50:40.9501351+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:01.8462778+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:57:54.6292049+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:07:20.1109056+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:40:18.5999338+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:50:40.9502346+00:00"
 }

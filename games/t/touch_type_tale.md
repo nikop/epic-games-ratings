@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,123 |
-| Flanked! | 77.00% | ~2,733 |
-| Economics 101 | 61.00% | ~2,165 |
-| Get Rich Quick | 44.00% | ~1,562 |
-| Do the Splits | 39.00% | ~1,384 |
-| Maestro | 26.00% | ~923 |
+| You and what Army? | 88.00% | ~3,126 |
+| Flanked! | 77.00% | ~2,735 |
+| Economics 101 | 61.00% | ~2,167 |
+| Get Rich Quick | 44.00% | ~1,563 |
+| Do the Splits | 39.00% | ~1,385 |
+| Maestro | 26.00% | ~924 |
 | Full Employment | 18.00% | ~639 |
 | Clay Fighter | 16.00% | ~568 |
 | Nowhere left to Hide | 14.00% | ~497 |
-| All Ovens Blazing | 13.00% | ~461 |
-| Boulder Clash | 13.00% | ~461 |
+| All Ovens Blazing | 13.00% | ~462 |
+| Boulder Clash | 13.00% | ~462 |
 | Held Back by the Roots | 12.00% | ~426 |
 | Well Supplied | 10.00% | ~355 |
-| Sniped | 7.00% | ~248 |
-| Leave Them no Cake | 7.00% | ~248 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~248 |
-| Damage Control | 7.00% | ~248 |
-| Master of the Brawl | 7.00% | ~248 |
+| Sniped | 7.00% | ~249 |
+| Leave Them no Cake | 7.00% | ~249 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~249 |
+| Damage Control | 7.00% | ~249 |
+| Master of the Brawl | 7.00% | ~249 |
 | A Secret Recipe | 6.00% | ~213 |
-| Your Biggest Fans | 5.00% | ~177 |
-| An Ally in Need | 5.00% | ~177 |
-| For the Queen | 5.00% | ~177 |
-| Not a Drop Wasted | 5.00% | ~177 |
+| Your Biggest Fans | 5.00% | ~178 |
+| An Ally in Need | 5.00% | ~178 |
+| For the Queen | 5.00% | ~178 |
+| Not a Drop Wasted | 5.00% | ~178 |
 | Reinforcements | 4.00% | ~142 |
 | Sweet Revenge | 4.00% | ~142 |
 | We Have the Technology | 4.00% | ~142 |
 | Figure of Breach | 4.00% | ~142 |
-| Work It | 3.00% | ~106 |
-| The Handyman Can! | 3.00% | ~106 |
-| A Brief Moment of Respite | 3.00% | ~106 |
+| Work It | 3.00% | ~107 |
+| The Handyman Can! | 3.00% | ~107 |
+| A Brief Moment of Respite | 3.00% | ~107 |
 | Almost Like Winning | 2.00% | ~71 |
-| Untouchable | 1.00% | ~35 |
+| Untouchable | 1.00% | ~36 |
 | All Geared Up | 0.90% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,549 (Ranked 164)  
+Progressed: 3,552 (Ranked 164)  
 Completed: 11 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 11 (0.31%) (Ranked 178)
 | 2023-09-16 | 3,447 | 11 |
 | 2023-09-17 | 3,500 | 11 |
 | 2023-09-18 | 3,547 | 11 |
-| 2023-09-19 | 3,549 | 11 |
+| 2023-09-19 | 3,552 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3644,
+  "EOS_Progressed": 3645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1529,6 +1529,11 @@
       "Time": "2023-09-18T09:07:24.235877+00:00",
       "NumProgressed": 3644,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T01:49:35.9270993+00:00",
+      "NumProgressed": 3645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1580,7 +1585,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1612,7 +1617,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1708,7 +1713,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1740,14 +1745,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3644,
+      "Progressed": 3645,
       "Completed": 0
     }
   ],
@@ -1755,8 +1760,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:06:25.6563658+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:49:35.9270986+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.4547018+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:59:24.9925353+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:06:25.656393+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:42:14.9231512+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:49:35.927144+00:00"
 }

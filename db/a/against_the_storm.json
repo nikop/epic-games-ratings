@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2814,10 +2814,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3145,
       "NumberOfAwardsMax": 431
+    },
+    {
+      "Time": "2023-09-19T01:43:50.2913692+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3146,
+      "NumberOfAwardsMax": 431
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3145,
+  "NumberOfAwards": 3146,
   "NumberOfAwardsMax": 431,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2873,7 +2879,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 202
+      "Count": 203
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2882,9 +2888,9 @@
       "Count": 318
     }
   ],
-  "EOS_Progressed": 16646,
+  "EOS_Progressed": 16648,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10707,6 +10713,11 @@
       "Time": "2023-09-18T23:04:21.7885294+00:00",
       "NumProgressed": 16646,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-19T01:46:25.4821708+00:00",
+      "NumProgressed": 16648,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 50,
@@ -10876,9 +10887,9 @@
       "ID": "WinNearFertile",
       "SetID": "cfbk359",
       "Name": "Fertile Meadows",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 832
     },
     {
       "ID": "WinNearFishmen",
@@ -11117,15 +11128,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16646,
+      "Progressed": 16648,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-09-19T00:00:45.2396448+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:03:35.435866+00:00",
+  "LastChanged": "2023-09-19T01:43:50.2913689+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:46:25.48217+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.8255237+00:00",
-  "LastUpdate_Ratings": "2023-09-19T00:00:45.2396459+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:03:35.435957+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:43:50.2913697+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:46:25.4823269+00:00"
 }

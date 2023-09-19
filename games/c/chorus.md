@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Overcharged | 9.00% | ~107 |
 | At Least You Tried | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,190 (Ranked 206)  
+Progressed: 1,190 (Ranked 207)  
 Completed: 15 (1.26%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |

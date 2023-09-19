@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 113,
-  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -398,11 +398,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20375,
-  "EOS_Completed": 406,
-  "EOS_NewPlayers": 477,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 1.99,
+  "EOS_Progressed": 20380,
+  "EOS_Completed": 407,
+  "EOS_NewPlayers": 476,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -16623,6 +16623,11 @@
       "Time": "2023-09-18T23:04:15.6481952+00:00",
       "NumProgressed": 20375,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-09-19T01:46:19.8441638+00:00",
+      "NumProgressed": 20380,
+      "NumCompleted": 407
     }
   ],
   "TotalAchievements": 20,
@@ -16634,7 +16639,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3464
+      "UsersEstimate": 3465
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -16642,7 +16647,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "EAST_FINISHED",
@@ -16666,7 +16671,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -16690,7 +16695,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -16698,7 +16703,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "FOUND_ERIN",
@@ -16714,7 +16719,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "FOUND_MAMBA",
@@ -16722,7 +16727,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -16738,7 +16743,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "GAME_FINISHED",
@@ -16746,7 +16751,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "INTRO_FINISHED",
@@ -16754,7 +16759,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15689
+      "UsersEstimate": 15693
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16762,7 +16767,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5706
     },
     {
       "ID": "NORTH_FINISHED",
@@ -16778,7 +16783,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "WEST_FINISHED",
@@ -16793,15 +16798,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20375,
-      "Completed": 406
+      "Progressed": 20380,
+      "Completed": 407
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:03:30.7847032+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:46:19.8441631+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:59:54.8506196+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:03:30.7848158+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:42:51.0832354+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:46:19.8443694+00:00"
 }

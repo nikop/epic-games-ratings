@@ -639,9 +639,9 @@
       "ID": "L6_FINISH",
       "SetID": "6finf64",
       "Name": "Road-Trip",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "L6_PERFECT",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:05:12.2302333+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:48:06.9531837+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.5035835+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:58:25.8729954+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:05:12.2302902+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:41:00.1420168+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:48:06.953271+00:00"
 }

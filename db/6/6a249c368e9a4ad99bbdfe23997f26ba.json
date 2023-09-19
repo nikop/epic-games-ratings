@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -281,9 +281,9 @@
       "ID": "A14",
       "SetID": "7f5j12l",
       "Name": "Pentagon Destroyed",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "A15",
@@ -520,8 +520,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:06:43.7113919+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:49:57.3289822+00:00",
   "LastUpdate_AppInfo": "2023-09-12T03:57:05.0237752+00:00",
-  "LastUpdate_Ratings": "2023-09-19T00:00:59.9252742+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:06:43.7114198+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:44:08.4146712+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:49:57.3290257+00:00"
 }

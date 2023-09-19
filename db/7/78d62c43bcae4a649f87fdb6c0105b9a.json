@@ -25,9 +25,187 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-19T01:48:39.6492868+00:00",
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "bisont",
+      "SetID": "40o2ndb",
+      "Name": "The Good, the Bad and the Rooster",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cave",
+      "SetID": "40o2ndb",
+      "Name": "To the Frog Cave!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "forest",
+      "SetID": "40o2ndb",
+      "Name": "Welcome to the whoOoOoOoOotel",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hotel",
+      "SetID": "40o2ndb",
+      "Name": "Very clean, would recommend!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "insane",
+      "SetID": "40o2ndb",
+      "Name": "The tale is over and the mages come over - INSANE",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "jungle",
+      "SetID": "40o2ndb",
+      "Name": "Jungle Fever",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "laboratory",
+      "SetID": "40o2ndb",
+      "Name": "Loose frogs in the laboratory",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "mafia",
+      "SetID": "40o2ndb",
+      "Name": "Bye Gangrooster City",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "matrix",
+      "SetID": "40o2ndb",
+      "Name": "The virus database has been updated.",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "temple",
+      "SetID": "40o2ndb",
+      "Name": "It Belongs In A Museum!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ufo",
+      "SetID": "40o2ndb",
+      "Name": "The great escape",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world1",
+      "SetID": "40o2ndb",
+      "Name": "Hasta la vista, Meowitch!",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world1insane",
+      "SetID": "40o2ndb",
+      "Name": "Hasta la vista, Meowitch! - INSANE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world2",
+      "SetID": "40o2ndb",
+      "Name": "Moo!",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world2insane",
+      "SetID": "40o2ndb",
+      "Name": "Moo! - INSANE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world3",
+      "SetID": "40o2ndb",
+      "Name": "Haaaaarmit and company",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world3insane",
+      "SetID": "40o2ndb",
+      "Name": "Haaaaarmit and company - INSANE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world4",
+      "SetID": "40o2ndb",
+      "Name": "Sleep well Mwamwa Princess",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world4insane",
+      "SetID": "40o2ndb",
+      "Name": "Sleep well Mwamwa Princess - INSANE",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world5",
+      "SetID": "40o2ndb",
+      "Name": "Rocky, the eye of the rooster",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world5insane",
+      "SetID": "40o2ndb",
+      "Name": "Rocky, the eye of the rooster - INSANE",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "world6",
+      "SetID": "40o2ndb",
+      "Name": "The tale is over and the mages come over",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "40o2ndb",
@@ -37,8 +215,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-09-19T00:05:39.0765048+00:00",
+  "LastChanged_Achievements": "2023-09-19T01:48:39.6492833+00:00",
   "LastUpdate_AppInfo": "2023-09-17T18:57:03.3812979+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:57:52.2922885+00:00",
-  "LastUpdate_Achievements": "2023-09-19T00:05:39.0765094+00:00"
+  "LastUpdate_Ratings": "2023-09-19T01:40:15.7786766+00:00",
+  "LastUpdate_Achievements": "2023-09-19T01:48:39.7028429+00:00"
 }
