@@ -4,7 +4,7 @@
 Rating: 4.74 (Ranked 146)  
 ## Awards
 Max (Character Customization): 12,248  (Ranked 31)  
-Sum: 36,215 (Ranked 35)  
+Sum: 36,299 (Ranked 35)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -13,12 +13,12 @@ Diff (max vs sum): -4
 | This game is Great for Quick Sessions | 2,889 |
 | This game has Diverse Characters | 2,707 |
 | This game has Amazing Characters | 2,378 |
-| This game is Highly Recommended | 2,313 |
+| This game is Highly Recommended | 2,361 |
 | This game has Beautiful Visuals | 2,250 |
 | This game has Amazing Storytelling | 2,236 |
 | This game is Extremely Fun | 2,227 |
+| This game has Quickly Understood Controls | 2,055 |
 | This game is Relaxing | 2,031 |
-| This game has Quickly Understood Controls | 2,019 |
 | This game has a Creative Community | 215 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -121,4 +121,4 @@ Diff (max vs sum): -4
 | 2023-09-16 | 4.74 | 12,019 | 34,918 |
 | 2023-09-17 | 4.74 | 12,153 | 35,599 |
 | 2023-09-18 | 4.74 | 12,248 | 36,177 |
-| 2023-09-19 | 4.74 | 12,248 | 36,215 |
+| 2023-09-19 | 4.74 | 12,248 | 36,299 |

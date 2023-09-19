@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -579,9 +579,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "BRING_MARY",
@@ -595,9 +595,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -667,9 +667,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -738,8 +738,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:06:47.4179989+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:06:46.2092566+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:57:23.7461489+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:06:47.4180142+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:57:14.3797629+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:06:46.2092699+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -1368,17 +1368,17 @@
       "ID": "ACHIEVEMENT_286",
       "SetID": "76k7b7p",
       "Name": "Grand Chelem",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_288",
       "SetID": "76k7b7p",
       "Name": "Amateur Grand Chelem",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_289",
@@ -1464,9 +1464,9 @@
       "ID": "ACHIEVEMENT_299",
       "SetID": "76k7b7p",
       "Name": "All over the place",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1520,9 +1520,9 @@
       "ID": "ACHIEVEMENT_304",
       "SetID": "76k7b7p",
       "Name": "Addict",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_305",
@@ -1600,9 +1600,9 @@
       "ID": "ACHIEVEMENT_315",
       "SetID": "76k7b7p",
       "Name": "Amateur top racer",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_316",
@@ -1728,9 +1728,9 @@
       "ID": "ACHIEVEMENT_341",
       "SetID": "76k7b7p",
       "Name": "Endurance team mate",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_348",
@@ -1968,9 +1968,9 @@
       "ID": "ACHIEVEMENT_76",
       "SetID": "76k7b7p",
       "Name": "Weatherman",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_77",
@@ -2088,9 +2088,9 @@
       "ID": "ACHIEVEMENT_93",
       "SetID": "76k7b7p",
       "Name": "Top Amateur",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_94",
@@ -2143,8 +2143,8 @@
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:05:44.0257827+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:05:43.1165284+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:16.3469079+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:57:50.6705874+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:05:44.0260552+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:57:43.8792311+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:05:43.116817+00:00"
 }

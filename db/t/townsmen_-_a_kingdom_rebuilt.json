@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4287,
+  "EOS_Progressed": 4288,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1245,6 +1245,11 @@
       "Time": "2023-09-19T04:08:33.8593651+00:00",
       "NumProgressed": 4287,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-19T06:09:13.464673+00:00",
+      "NumProgressed": 4288,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1296,7 +1301,7 @@
       "Name": "Bread for the people II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_BREAD3",
@@ -1336,7 +1341,7 @@
       "Name": "I like to build stuff... III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -1536,7 +1541,7 @@
       "Name": "An honorable Governor II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -1600,7 +1605,7 @@
       "Name": "Full-time job III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
@@ -1608,7 +1613,7 @@
       "Name": "Eureka!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -1928,7 +1933,7 @@
       "Name": "Tax-man IV",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_TAXES5",
@@ -1960,7 +1965,7 @@
       "Name": "A time consuming game III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
@@ -2063,15 +2068,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4287,
+      "Progressed": 4288,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:09:26.6800208+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:09:13.4646726+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:58:30.5310816+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:09:26.680125+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:58:25.1147391+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:09:13.4647762+00:00"
 }

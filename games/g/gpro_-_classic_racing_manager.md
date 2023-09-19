@@ -24,23 +24,29 @@
 | Pro hitchhiker | 0.80% | ~3 |
 | No brakes Amateur | 0.80% | ~3 |
 | First Amateur taste | 0.80% | ~3 |
+| Addict | 0.80% | ~3 |
+| Weatherman | 0.80% | ~3 |
 | Pro newbie | 0.50% | ~2 |
 | Monster Amateur car | 0.50% | ~2 |
 | Amateur wannabe | 0.50% | ~2 |
-| Addict | 0.50% | ~2 |
 | Amateur hattrick | 0.50% | ~2 |
 | Tutorial master | 0.50% | ~2 |
-| Weatherman | 0.50% | ~2 |
 | Pro photo shoot | 0.30% | ~1 |
 | Monster Pro car | 0.30% | ~1 |
 | Amateur champion | 0.30% | ~1 |
 | Pro wannabe | 0.30% | ~1 |
 | Knockout Amateur | 0.30% | ~1 |
 | No brakes Pro | 0.30% | ~1 |
+| Grand Chelem | 0.30% | ~1 |
+| Amateur Grand Chelem | 0.30% | ~1 |
+| All over the place | 0.30% | ~1 |
 | Shepherd | 0.30% | ~1 |
+| Amateur top racer | 0.30% | ~1 |
 | Pro top pit crew | 0.30% | ~1 |
 | Amateur blue flag wonder | 0.30% | ~1 |
+| Endurance team mate | 0.30% | ~1 |
 | First Pro taste | 0.30% | ~1 |
+| Top Amateur | 0.30% | ~1 |
 | Standing tall | 0.30% | ~1 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -86,8 +92,6 @@
 | Knockout Elite | 0.00% | ~0 |
 | Elite wannabe | 0.00% | ~0 |
 | Relay | 0.00% | ~0 |
-| Grand Chelem | 0.00% | ~0 |
-| Amateur Grand Chelem | 0.00% | ~0 |
 | Pro Grand Chelem | 0.00% | ~0 |
 | No brakes Master | 0.00% | ~0 |
 | Master Grand Chelem | 0.00% | ~0 |
@@ -98,7 +102,6 @@
 | Qualifying record breaker | 0.00% | ~0 |
 | Record breaker | 0.00% | ~0 |
 | Ladder climber | 0.00% | ~0 |
-| All over the place | 0.00% | ~0 |
 | No brakes Elite | 0.00% | ~0 |
 | Consistency | 0.00% | ~0 |
 | Giant killer | 0.00% | ~0 |
@@ -110,7 +113,6 @@
 | Amateur top qualifier | 0.00% | ~0 |
 | Pro top qualifier | 0.00% | ~0 |
 | Master top qualifier | 0.00% | ~0 |
-| Amateur top racer | 0.00% | ~0 |
 | Pro top racer | 0.00% | ~0 |
 | Master top racer | 0.00% | ~0 |
 | Amateur fast racer | 0.00% | ~0 |
@@ -123,7 +125,6 @@
 | Master blue flag wonder | 0.00% | ~0 |
 | Pro blue flag wonder | 0.00% | ~0 |
 | Pro hattrick | 0.00% | ~0 |
-| Endurance team mate | 0.00% | ~0 |
 | Who's laughing now? | 0.00% | ~0 |
 | Deep pockets racer | 0.00% | ~0 |
 | Master hattrick | 0.00% | ~0 |
@@ -161,7 +162,6 @@
 | Untouchable Pro | 0.00% | ~0 |
 | Untouchable Master | 0.00% | ~0 |
 | Untouchable Elite | 0.00% | ~0 |
-| Top Amateur | 0.00% | ~0 |
 | Top Pro | 0.00% | ~0 |
 | Top Master | 0.00% | ~0 |
 | Top Elite | 0.00% | ~0 |

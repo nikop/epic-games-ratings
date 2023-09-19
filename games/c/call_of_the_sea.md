@@ -5,12 +5,12 @@ Rating: 4.39 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~94,935 |
-| 74 miles East of Otaheité | 55.00% | ~66,094 |
+| A Family Heirloom | 79.00% | ~94,936 |
+| 74 miles East of Otaheité | 55.00% | ~66,095 |
 | Interesting... | 42.00% | ~50,472 |
 | The Everhart Expedition | 39.00% | ~46,867 |
-| The Vanishing of the Lady Shannon | 30.00% | ~36,051 |
-| Seaside Serenade | 30.00% | ~36,051 |
+| The Vanishing of the Lady Shannon | 30.00% | ~36,052 |
+| Seaside Serenade | 30.00% | ~36,052 |
 | Halfway there | 29.00% | ~34,850 |
 | A brigantine, a brig and a barque | 28.00% | ~33,648 |
 | 506 East Hampden Avenue | 28.00% | ~33,648 |
@@ -22,7 +22,7 @@ Rating: 4.39 (Ranked 723)
 | FHALGOF'N' | 22.00% | ~26,438 |
 | Marsh Cannery | 21.00% | ~25,236 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~20,429 |
-| The only thing I have now | 16.00% | ~19,227 |
+| The only thing I have now | 16.00% | ~19,228 |
 | Not Another Boring Slideshow! | 15.00% | ~18,026 |
 | Naacalvision | 15.00% | ~18,026 |
 | I'll make a note of that... | 9.00% | ~10,815 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 723)
 | Gently down the stream... | 1.00% | ~1,202 |
 | Meta-reference | 1.00% | ~1,202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,171 (Ranked 72)  
+Progressed: 120,172 (Ranked 72)  
 Completed: 984 (0.82%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 984 (0.82%) (Ranked 133)
 | 2023-09-16 | 119,687 | 976 |
 | 2023-09-17 | 119,962 | 980 |
 | 2023-09-18 | 120,142 | 984 |
-| 2023-09-19 | 120,171 | 984 |
+| 2023-09-19 | 120,172 | 984 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,18 +7,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 4.00% | ~16,314 |
-| That's a Grand Army | 3.00% | ~12,235 |
-| That is mine! | 3.00% | ~12,235 |
-| Victorious! | 3.00% | ~12,235 |
+| That's a Grand Army | 3.00% | ~12,236 |
+| That is mine! | 3.00% | ~12,236 |
+| Victorious! | 3.00% | ~12,236 |
 | Brothers in Arms | 2.00% | ~8,157 |
 | For the Glory | 2.00% | ~8,157 |
 | That's a Grand Navy | 2.00% | ~8,157 |
 | Seriously?! | 2.00% | ~8,157 |
-| Cold War | 1.00% | ~4,078 |
-| Defender of the Faith | 1.00% | ~4,078 |
-| It's all about the money | 1.00% | ~4,078 |
-| The Princess is in this Castle | 1.00% | ~4,078 |
-| True Catholic | 1.00% | ~4,078 |
+| Cold War | 1.00% | ~4,079 |
+| Defender of the Faith | 1.00% | ~4,079 |
+| It's all about the money | 1.00% | ~4,079 |
+| The Princess is in this Castle | 1.00% | ~4,079 |
+| True Catholic | 1.00% | ~4,079 |
 | It's all about luck | 0.90% | ~3,671 |
 | Respected | 0.90% | ~3,671 |
 | Truly Divine Ruler | 0.90% | ~3,671 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,842 (Ranked 40)  
+Progressed: 407,858 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-16 | 405,611 | 0 |
 | 2023-09-17 | 406,888 | 0 |
 | 2023-09-18 | 407,728 | 0 |
-| 2023-09-19 | 407,842 | 0 |
+| 2023-09-19 | 407,858 | 0 |
 ## Awards
 Max (Educational): 6,158  (Ranked 56)  
 Sum: 50,573 (Ranked 26)  

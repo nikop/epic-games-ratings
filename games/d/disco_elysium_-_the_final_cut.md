@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,906 |
-| Biggest Communism Builder | 24.00% | ~30,776 |
-| The World's Most Laughable Centrist | 20.00% | ~25,647 |
-| Il Coppo Del'Arte! | 18.00% | ~23,082 |
+| Goodest Of The Good Cops | 28.00% | ~35,907 |
+| Biggest Communism Builder | 24.00% | ~30,777 |
+| The World's Most Laughable Centrist | 20.00% | ~25,648 |
+| Il Coppo Del'Arte! | 18.00% | ~23,083 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,518 |
 | Hyperstellar Law Official | 16.00% | ~20,518 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,953 |
 | Gurdi-Ball Is Lit | 14.00% | ~17,953 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,671 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,106 |
-| Unbelievably Boring **** | 9.00% | ~11,541 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,541 |
+| Unbelievably Boring **** | 9.00% | ~11,542 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,542 |
 | Enemy Of The Physical Realm | 8.00% | ~10,259 |
 | Hardie's Heroes | 6.00% | ~7,694 |
-| The Lawbringer | 4.00% | ~5,129 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,129 |
+| The Lawbringer | 4.00% | ~5,130 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,130 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,847 |
 | Bother Kim After Hours | 3.00% | ~3,847 |
 | Baddest Of the Bad Cops | 2.00% | ~2,565 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,235 (Ranked 71)  
+Progressed: 128,239 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 28 (0.02%) (Ranked 254)
 | 2023-09-16 | 127,956 | 28 |
 | 2023-09-17 | 128,111 | 28 |
 | 2023-09-18 | 128,220 | 28 |
-| 2023-09-19 | 128,235 | 28 |
+| 2023-09-19 | 128,239 | 28 |
 ## Awards
 Max (Character Customization): 723  (Ranked 166)  
 Sum: 1,088 (Ranked 238)  

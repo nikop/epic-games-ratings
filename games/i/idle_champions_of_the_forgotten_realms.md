@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~459 |
 | Seeds of Deceit | 0.20% | ~459 |
 | Trollskull Manor | 0.20% | ~459 |
+| The Gargoyle's Apprentice | 0.20% | ~459 |
 | Attack on the Manor | 0.20% | ~459 |
 | The Death Curse | 0.20% | ~459 |
 | Treasure Hunters | 0.20% | ~459 |
@@ -270,7 +271,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~229 |
 | Seeds of Corruption | 0.10% | ~229 |
 | The Strahd Squad | 0.10% | ~196 |
-| The Gargoyle's Apprentice | 0.10% | ~229 |
 | House of Darkness | 0.10% | ~229 |
 | Home Not So Alone | 0.10% | ~196 |
 | The Trepidatious Trio | 0.10% | ~229 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,334 (Ranked 57)  
-Completed: 2,294 (1.00%) (Ranked 124)  
+Progressed: 229,336 (Ranked 57)  
+Completed: 2,295 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -679,10 +679,10 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,334 | 2,294 |
+| 2023-09-19 | 229,336 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
-Sum: 31,645 (Ranked 39)  
+Sum: 31,652 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -690,8 +690,8 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 5,273 |
 | This game has Quickly Understood Controls | 4,769 |
 | This game is Relaxing | 4,654 |
-| This game has Amazing Characters | 4,124 |
-| This game is Highly Recommended | 4,109 |
+| This game has Amazing Characters | 4,126 |
+| This game is Highly Recommended | 4,114 |
 | This game has Playful Visuals | 3,424 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -932,4 +932,4 @@ Diff (max vs sum): 28
 | 2023-09-16 | 4.06 | - | 5,283 | 31,617 |
 | 2023-09-17 | 4.06 | - | 5,285 | 31,629 |
 | 2023-09-18 | 4.06 | - | 5,285 | 31,633 |
-| 2023-09-19 | 4.06 | - | 5,292 | 31,645 |
+| 2023-09-19 | 4.06 | - | 5,292 | 31,652 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2125,9 +2125,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 665942,
+  "EOS_Progressed": 665947,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2016,
+  "EOS_NewPlayers": 2015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19135,6 +19135,11 @@
       "Time": "2023-09-19T05:09:13.9583924+00:00",
       "NumProgressed": 665942,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-19T06:08:30.7987674+00:00",
+      "NumProgressed": 665947,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -19146,7 +19151,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 532754
+      "UsersEstimate": 532758
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -19162,7 +19167,7 @@
       "Name": "Earn your stripes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "ALL_AMATEUR_CHALLENGES",
@@ -19234,7 +19239,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 239739
+      "UsersEstimate": 239741
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -19250,7 +19255,7 @@
       "Name": "Lawn \u0026 Order",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "CONTRACT_SMALL_DECK",
@@ -19386,7 +19391,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 206442
+      "UsersEstimate": 206444
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -19434,7 +19439,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -19450,7 +19455,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 99891
+      "UsersEstimate": 99892
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -19538,7 +19543,7 @@
       "Name": "Professional",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "RP_RANK_UP",
@@ -19577,15 +19582,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 665942,
+      "Progressed": 665947,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-15T01:40:12.0973967+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:09:13.9583918+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:08:30.7987671+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.4311229+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:58:27.9453985+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:09:13.9585079+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:58:22.3039255+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:08:30.7988802+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~53,297 |
-| Zealous | 5.00% | ~44,414 |
-| Skillful | 5.00% | ~44,414 |
-| Not half bad | 4.00% | ~35,531 |
-| Apt Survivor | 4.00% | ~35,531 |
-| Survival Treasures | 4.00% | ~35,531 |
-| Make Some Noise | 4.00% | ~35,531 |
-| The Grand Sacrifice | 3.00% | ~26,648 |
-| Backdoor Escape | 3.00% | ~26,648 |
-| No one left behind | 3.00% | ~26,648 |
-| Medic | 3.00% | ~26,648 |
-| Handyman | 3.00% | ~26,648 |
-| Nerves of steel | 3.00% | ~26,648 |
-| Bloody Millionaire | 3.00% | ~26,648 |
-| I | 3.00% | ~26,648 |
-| Sorted | 3.00% | ~26,648 |
-| Healthy Obsession | 3.00% | ~26,648 |
-| Resurgence | 3.00% | ~26,648 |
-| Preemptive Strike | 3.00% | ~26,648 |
-| Humanitarian | 3.00% | ~26,648 |
+| It wakes | 6.00% | ~53,299 |
+| Zealous | 5.00% | ~44,416 |
+| Skillful | 5.00% | ~44,416 |
+| Not half bad | 4.00% | ~35,532 |
+| Apt Survivor | 4.00% | ~35,532 |
+| Survival Treasures | 4.00% | ~35,532 |
+| Make Some Noise | 4.00% | ~35,532 |
+| The Grand Sacrifice | 3.00% | ~26,649 |
+| Backdoor Escape | 3.00% | ~26,649 |
+| No one left behind | 3.00% | ~26,649 |
+| Medic | 3.00% | ~26,649 |
+| Handyman | 3.00% | ~26,649 |
+| Nerves of steel | 3.00% | ~26,649 |
+| Bloody Millionaire | 3.00% | ~26,649 |
+| I | 3.00% | ~26,649 |
+| Sorted | 3.00% | ~26,649 |
+| Healthy Obsession | 3.00% | ~26,649 |
+| Resurgence | 3.00% | ~26,649 |
+| Preemptive Strike | 3.00% | ~26,649 |
+| Humanitarian | 3.00% | ~26,649 |
 | Agonizing Escape | 2.00% | ~17,766 |
 | I've got your back | 2.00% | ~17,766 |
 | Perfect Escape | 2.00% | ~17,766 |
@@ -70,12 +70,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~8,883 |
 | One More Step | 1.00% | ~8,883 |
 | Terror of LV-426 | 1.00% | ~8,883 |
-| A bite for the Entity | 0.90% | ~7,994 |
-| Blood on your face | 0.90% | ~7,994 |
-| Leapfrog | 0.90% | ~7,994 |
-| Ancestor's Rite | 0.90% | ~7,994 |
-| Grim Pilgrimage | 0.90% | ~7,994 |
-| Extraterrestrial | 0.90% | ~7,994 |
+| A bite for the Entity | 0.90% | ~7,995 |
+| Blood on your face | 0.90% | ~7,995 |
+| Leapfrog | 0.90% | ~7,995 |
+| Ancestor's Rite | 0.90% | ~7,995 |
+| Grim Pilgrimage | 0.90% | ~7,995 |
+| Extraterrestrial | 0.90% | ~7,995 |
 | Hemophobia | 0.80% | ~7,106 |
 | Serial Killer | 0.80% | ~7,106 |
 | Escaping the Nightmare | 0.80% | ~7,106 |
@@ -96,15 +96,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shrine Apparatus | 0.60% | ~5,330 |
 | Broken Bodies | 0.60% | ~5,330 |
 | Hack the Mainframe | 0.60% | ~5,330 |
-| Blood in your mouth | 0.50% | ~4,441 |
-| Whiffing to Success | 0.50% | ~4,441 |
-| Heavy Burden | 0.50% | ~4,441 |
-| I See You | 0.50% | ~4,441 |
-| Power Moves | 0.50% | ~4,441 |
-| Punch Drunk | 0.50% | ~4,441 |
-| Prowler | 0.50% | ~4,441 |
-| Triage | 0.50% | ~4,441 |
-| High Speed Pursuit | 0.50% | ~4,441 |
+| Blood in your mouth | 0.50% | ~4,442 |
+| Whiffing to Success | 0.50% | ~4,442 |
+| Heavy Burden | 0.50% | ~4,442 |
+| I See You | 0.50% | ~4,442 |
+| Power Moves | 0.50% | ~4,442 |
+| Punch Drunk | 0.50% | ~4,442 |
+| Prowler | 0.50% | ~4,442 |
+| Triage | 0.50% | ~4,442 |
+| High Speed Pursuit | 0.50% | ~4,442 |
 | Looter | 0.40% | ~3,553 |
 | In the void she walks | 0.30% | ~2,665 |
 | Mad House | 0.30% | ~2,665 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~888 |
 | Adept Ripley | 0.10% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,277 (Ranked 14)  
+Progressed: 888,312 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 49 (0.01%) (Ranked 263)
 | 2023-09-16 | 882,949 | 48 |
 | 2023-09-17 | 885,845 | 48 |
 | 2023-09-18 | 887,865 | 48 |
-| 2023-09-19 | 888,277 | 49 |
+| 2023-09-19 | 888,312 | 49 |
 ## Awards
 Max (Diverse Characters): 32,666  (Ranked 15)  
 Sum: 254,861 (Ranked 11)  

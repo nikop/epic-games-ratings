@@ -25,7 +25,7 @@
 | Spirit of the past | 65.00% | ~211 |
 | Law student | 63.00% | ~205 |
 | Workout professional | 62.00% | ~202 |
-| Handyman | 60.00% | ~195 |
+| Handyman | 61.00% | ~198 |
 | Champion – starter pack | 60.00% | ~195 |
 | It's good to be alive | 60.00% | ~195 |
 | Own four walls | 60.00% | ~195 |

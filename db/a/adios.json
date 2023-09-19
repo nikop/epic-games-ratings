@@ -108,7 +108,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73650,
+  "EOS_Progressed": 73652,
   "EOS_Completed": 764,
   "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 10,
@@ -16988,6 +16988,11 @@
       "Time": "2023-09-19T04:05:30.9980967+00:00",
       "NumProgressed": 73650,
       "NumCompleted": 764
+    },
+    {
+      "Time": "2023-09-19T06:06:13.6716979+00:00",
+      "NumProgressed": 73652,
+      "NumCompleted": 764
     }
   ],
   "TotalAchievements": 25,
@@ -17087,7 +17092,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6629
     },
     {
       "ID": "Magnetic Miracles",
@@ -17095,7 +17100,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3682
+      "UsersEstimate": 3683
     },
     {
       "ID": "Master, Commander",
@@ -17151,7 +17156,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9574
+      "UsersEstimate": 9575
     },
     {
       "ID": "Sniper",
@@ -17198,7 +17203,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73650,
+      "Progressed": 73652,
       "Completed": 764
     }
   ],
@@ -17206,8 +17211,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:06:14.7338103+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:06:13.6716975+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:03:05.9390905+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:06:14.733902+00:00"
+  "LastUpdate_Ratings": "2023-09-19T06:03:07.5213824+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:06:13.6718048+00:00"
 }

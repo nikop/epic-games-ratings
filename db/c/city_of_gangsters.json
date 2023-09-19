@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 343931,
+  "EOS_Progressed": 343933,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17580,6 +17580,11 @@
       "Time": "2023-09-19T05:06:04.8961061+00:00",
       "NumProgressed": 343931,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-19T06:06:03.900953+00:00",
+      "NumProgressed": 343933,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17679,7 +17684,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27514
+      "UsersEstimate": 27515
     },
     {
       "ID": "ach013",
@@ -17727,7 +17732,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27514
+      "UsersEstimate": 27515
     },
     {
       "ID": "ach019",
@@ -17799,7 +17804,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158208
+      "UsersEstimate": 158209
     },
     {
       "ID": "ach028",
@@ -17815,7 +17820,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37832
+      "UsersEstimate": 37833
     },
     {
       "ID": "ach030",
@@ -17991,7 +17996,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37832
+      "UsersEstimate": 37833
     },
     {
       "ID": "ach052",
@@ -18103,7 +18108,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48150
+      "UsersEstimate": 48151
     },
     {
       "ID": "ach067",
@@ -18127,7 +18132,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48150
+      "UsersEstimate": 48151
     },
     {
       "ID": "ach070",
@@ -18230,7 +18235,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 343931,
+      "Progressed": 343933,
       "Completed": 7
     }
   ],
@@ -18238,8 +18243,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-18T14:58:00.4320017+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:06:04.8961053+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:06:03.9009526+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.6830274+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:58:19.7106017+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:06:04.8962544+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:58:14.1585098+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:06:03.9011041+00:00"
 }

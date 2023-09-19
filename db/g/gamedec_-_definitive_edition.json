@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -408,9 +408,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246441,
+  "EOS_Progressed": 246443,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17283,6 +17283,11 @@
       "Time": "2023-09-19T05:06:39.7390881+00:00",
       "NumProgressed": 246441,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-19T06:06:38.4976133+00:00",
+      "NumProgressed": 246443,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17294,7 +17299,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66539
+      "UsersEstimate": 66540
     },
     {
       "ID": "ACH_AON",
@@ -17358,7 +17363,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32037
+      "UsersEstimate": 32038
     },
     {
       "ID": "ACH_HATTRICK",
@@ -17438,7 +17443,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69003
+      "UsersEstimate": 69004
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -17574,7 +17579,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14786
+      "UsersEstimate": 14787
     },
     {
       "ID": "ACH_MEMORY5",
@@ -17614,7 +17619,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61610
+      "UsersEstimate": 61611
     },
     {
       "ID": "ACH_SOREAD",
@@ -17662,7 +17667,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14786
+      "UsersEstimate": 14787
     },
     {
       "ID": "ACH_TROLLKING",
@@ -17709,7 +17714,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246441,
+      "Progressed": 246443,
       "Completed": 7
     }
   ],
@@ -17717,8 +17722,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-14T17:02:57.7818889+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:06:39.7390876+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:06:38.4976127+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.3686602+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:57:57.9304374+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:06:39.7392024+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:57:51.8535571+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:06:38.4977255+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -946,9 +946,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12524,
+  "EOS_Progressed": 12525,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10776,6 +10776,11 @@
       "Time": "2023-09-19T05:05:51.6618996+00:00",
       "NumProgressed": 12524,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-19T06:05:50.6954018+00:00",
+      "NumProgressed": 12525,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10787,7 +10792,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10144
+      "UsersEstimate": 10145
     },
     {
       "ID": "ACH02",
@@ -10841,9 +10846,9 @@
       "ID": "ACH08",
       "SetID": "4ck5mbe",
       "Name": "Pay \u0027n\u0027 Spray",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6262
+      "UsersEstimate": 6388
     },
     {
       "ID": "ACH09",
@@ -10923,7 +10928,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ACH19",
@@ -11066,7 +11071,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12524,
+      "Progressed": 12525,
       "Completed": 45
     }
   ],
@@ -11074,8 +11079,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-19T04:59:29.2903512+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:05:51.6618991+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:05:50.6954013+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:59:29.2903516+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:05:51.6619644+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:59:24.6753452+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:05:50.6954681+00:00"
 }

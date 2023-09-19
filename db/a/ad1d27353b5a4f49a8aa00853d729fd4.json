@@ -3,9 +3,9 @@
   "Name": "SPACE ELITE FORCE",
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 418,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
     "PcReleaseDate": "2018-05-17T08:30:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "destroy_battle_cruiser",
       "SetID": "94981fl",
       "Name": "battle cruiser",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "destroy_cruiser",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:03:58.3867354+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:04:01.6294986+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.9397468+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:57:17.5716921+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:03:58.3867541+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:57:08.484976+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:04:01.6295178+00:00"
 }

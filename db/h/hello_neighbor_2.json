@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -408,9 +408,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2870,
+  "EOS_Progressed": 2871,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.01,
   "EosHistory": [
@@ -3268,6 +3268,11 @@
       "Time": "2023-09-18T07:05:01.9220891+00:00",
       "NumProgressed": 2870,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-09-19T06:04:56.2087334+00:00",
+      "NumProgressed": 2871,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 14,
@@ -3279,7 +3284,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -3383,14 +3388,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2870,
+      "Progressed": 2871,
       "Completed": 115
     }
   ],
@@ -3398,8 +3403,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-09-17T11:03:57.624996+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:04:57.3141852+00:00",
+  "LastChanged_Achievements": "2023-09-19T06:04:56.2087329+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.0537561+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:00:12.8287765+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:04:57.3142089+00:00"
+  "LastUpdate_Ratings": "2023-09-19T06:00:06.4325119+00:00",
+  "LastUpdate_Achievements": "2023-09-19T06:04:56.2087564+00:00"
 }
