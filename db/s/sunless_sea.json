@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37498,
+  "EOS_Progressed": 37500,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16137,6 +16137,11 @@
       "Time": "2023-09-19T01:50:04.6400386+00:00",
       "NumProgressed": 37498,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-19T04:06:09.6054564+00:00",
+      "NumProgressed": 37500,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16196,7 +16201,7 @@
       "Name": "A Drownie devotee",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_controman",
@@ -16204,7 +16209,7 @@
       "Name": "Romans 6:9",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_cursesalt",
@@ -16244,7 +16249,7 @@
       "Name": "Ofermod",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_deathphlebas",
@@ -16252,7 +16257,7 @@
       "Name": "Consider Phlebas",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_deathwat",
@@ -16260,7 +16265,7 @@
       "Name": "Death By Water",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_die1",
@@ -16268,7 +16273,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13499
+      "UsersEstimate": 13500
     },
     {
       "ID": "ach_die10",
@@ -16276,7 +16281,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ach_die5",
@@ -16436,7 +16441,7 @@
       "Name": "Leviathan",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ach_portpearls",
@@ -16452,7 +16457,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ach_portrose",
@@ -16532,7 +16537,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ach_underpressure",
@@ -16564,7 +16569,7 @@
       "Name": "Ten Years at Zee",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_year5",
@@ -16572,22 +16577,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37498,
+      "Progressed": 37500,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:07:39.3870667+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:06:09.605456+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:44.1241122+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:00:37.7204976+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:07:39.3871853+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:59:36.5653853+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:06:09.605562+00:00"
 }

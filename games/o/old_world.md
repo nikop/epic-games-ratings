@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 3.00% | ~420 |
 | Developing Cities | 3.00% | ~420 |
 | Strong Cities | 3.00% | ~420 |
+| Great Ziggurat | 3.00% | ~420 |
 | Ishtar Gate | 3.00% | ~420 |
 | Lighthouse | 3.00% | ~420 |
 | Pyramids | 3.00% | ~420 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 2.00% | ~280 |
 | Apadana | 2.00% | ~280 |
 | Colossus | 2.00% | ~280 |
-| Great Ziggurat | 2.00% | ~280 |
 | Mausoleum | 2.00% | ~280 |
 | Musaeum | 2.00% | ~280 |
 | Necropolis | 2.00% | ~280 |

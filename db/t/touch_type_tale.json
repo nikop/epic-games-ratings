@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3555,
+  "EOS_Progressed": 3558,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3639,6 +3639,11 @@
       "Time": "2023-09-19T03:07:22.4667317+00:00",
       "NumProgressed": 3555,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-19T04:05:56.6221927+00:00",
+      "NumProgressed": 3558,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3650,7 +3655,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "bonus2",
@@ -3698,7 +3703,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3128
+      "UsersEstimate": 3131
     },
     {
       "ID": "campaign10",
@@ -3786,7 +3791,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2740
     },
     {
       "ID": "campaign20",
@@ -3802,7 +3807,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "campaign4",
@@ -3810,7 +3815,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1566
     },
     {
       "ID": "campaign5",
@@ -3834,7 +3839,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "campaign8",
@@ -3850,7 +3855,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "scenario1",
@@ -3858,7 +3863,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1388
     },
     {
       "ID": "scenario2",
@@ -3913,7 +3918,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3555,
+      "Progressed": 3558,
       "Completed": 11
     }
   ],
@@ -3921,8 +3926,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:07:22.4667312+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:05:56.6221922+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:01:17.320727+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:07:22.4667678+00:00"
+  "LastUpdate_Ratings": "2023-09-19T04:00:04.9573211+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:05:56.6222338+00:00"
 }

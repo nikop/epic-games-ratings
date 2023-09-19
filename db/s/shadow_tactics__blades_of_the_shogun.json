@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1493,10 +1493,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4757,
       "NumberOfAwardsMax": 565
+    },
+    {
+      "Time": "2023-09-19T03:59:00.1243509+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4758,
+      "NumberOfAwardsMax": 565
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4757,
+  "NumberOfAwards": 4758,
   "NumberOfAwardsMax": 565,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1522,7 +1528,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 505
+      "Count": 506
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1567,10 +1573,10 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 203026,
-  "EOS_Completed": 81,
-  "EOS_NewPlayers": 1405,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 203035,
+  "EOS_Completed": 82,
+  "EOS_NewPlayers": 1410,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -18632,6 +18638,11 @@
       "Time": "2023-09-19T03:09:08.9436013+00:00",
       "NumProgressed": 203026,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-09-19T04:08:32.6321915+00:00",
+      "NumProgressed": 203035,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 44,
@@ -18643,7 +18654,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20303
+      "UsersEstimate": 20304
     },
     {
       "ID": "AtheistOx",
@@ -18683,7 +18694,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16242
+      "UsersEstimate": 16243
     },
     {
       "ID": "FiveShadows",
@@ -18715,7 +18726,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22333
+      "UsersEstimate": 22334
     },
     {
       "ID": "HappyLittleAccidents",
@@ -18819,7 +18830,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "OldMan",
@@ -18843,7 +18854,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "ReleaseTheKraken",
@@ -18859,7 +18870,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16242
+      "UsersEstimate": 16243
     },
     {
       "ID": "Rollin",
@@ -18867,7 +18878,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16242
+      "UsersEstimate": 16243
     },
     {
       "ID": "StillRollin",
@@ -18899,7 +18910,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16242
+      "UsersEstimate": 16243
     },
     {
       "ID": "TheCave",
@@ -18931,7 +18942,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20303
+      "UsersEstimate": 20304
     },
     {
       "ID": "TimeParadox",
@@ -18955,7 +18966,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "Warzone",
@@ -18994,15 +19005,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 203026,
-      "Completed": 81
+      "Progressed": 203035,
+      "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-09-18T16:59:14.5359234+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:09:08.9436007+00:00",
+  "LastChanged": "2023-09-19T03:59:00.1243507+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:08:32.6321912+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.289608+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:59:49.5838912+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:09:08.9437156+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:59:00.1243513+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:08:32.6322983+00:00"
 }

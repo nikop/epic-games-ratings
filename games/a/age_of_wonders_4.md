@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 395)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 8.00% | ~415 |
-| Realm Estate | 6.00% | ~311 |
+| Realm Estate | 7.00% | ~363 |
 | A Wonderful Discovery | 6.00% | ~311 |
 | Walls Cannot Stop Us | 6.00% | ~311 |
 | Bone Peddler | 6.00% | ~311 |

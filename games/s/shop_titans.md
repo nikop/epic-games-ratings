@@ -63,6 +63,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.50% | ~682 |
 | Laden with Loot | 0.50% | ~682 |
 | Seasoned Journeyman | 0.50% | ~682 |
+| Moment of Respite | 0.50% | ~682 |
 | Black Friday Special | 0.50% | ~682 |
 | Special Ingredient | 0.50% | ~682 |
 | Complete Monopoly | 0.50% | ~682 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Attrition Mission | 0.40% | ~546 |
 | Glittering Collection | 0.40% | ~546 |
 | Treasure Trove | 0.40% | ~546 |
-| Moment of Respite | 0.40% | ~546 |
 | King's Shadow | 0.40% | ~546 |
 | Master Recycler | 0.40% | ~546 |
 | Exotic Commodities | 0.40% | ~546 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,384 (Ranked 69)  
+Progressed: 136,385 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 153 (0.11%) (Ranked 221)
 | 2023-09-16 | 136,276 | 152 |
 | 2023-09-17 | 136,337 | 152 |
 | 2023-09-18 | 136,378 | 152 |
-| 2023-09-19 | 136,384 | 153 |
+| 2023-09-19 | 136,385 | 153 |
 ## Awards
 Max (Great for Beginners): 4,748  (Ranked 70)  
 Sum: 27,254 (Ranked 48)  

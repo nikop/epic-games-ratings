@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1058,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1664,6 +1664,11 @@
       "Time": "2023-09-19T01:47:21.0761089+00:00",
       "NumProgressed": 1058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T04:03:57.2585677+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1675,7 +1680,7 @@
       "Name": "Full house",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -1827,7 +1832,7 @@
       "Name": "Burn and Pillage",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -1875,7 +1880,7 @@
       "Name": "Hear me out",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "RUIN_CLEAR",
@@ -1907,7 +1912,7 @@
       "Name": "Listening to the crowd",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -2034,7 +2039,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1058,
+      "Progressed": 1059,
       "Completed": 0
     }
   ],
@@ -2042,8 +2047,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:04:47.4075529+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:03:57.2585673+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.3964182+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:58:03.8575568+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:04:47.4075924+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:57:41.8567954+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:03:57.2586108+00:00"
 }

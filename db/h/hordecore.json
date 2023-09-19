@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
@@ -166,6 +166,11 @@
       "Time": "2023-09-16T06:06:39.6428762+00:00",
       "NumProgressed": 352,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-19T04:03:14.3380112+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 28,
@@ -177,7 +182,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "10",
@@ -223,9 +228,9 @@
       "ID": "15",
       "SetID": "1530e6b",
       "Name": "Size Doesn\u2019t Matter",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "16",
@@ -257,7 +262,7 @@
       "Name": "That\u2019s What Friends Are For",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "2",
@@ -271,17 +276,17 @@
       "ID": "20",
       "SetID": "1530e6b",
       "Name": "Is Anyone Out There?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "21",
       "SetID": "1530e6b",
       "Name": "My Savior!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "22",
@@ -289,7 +294,7 @@
       "Name": "Poker-Man",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "23",
@@ -369,7 +374,7 @@
       "Name": "FOR THE GAUNTLET!",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "7",
@@ -385,7 +390,7 @@
       "Name": "Master Chef",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "9",
@@ -400,7 +405,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 11
     }
   ],
@@ -408,8 +413,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:03:50.7712453+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:03:14.3380108+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:49.9919811+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:00:48.9308225+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:03:50.7712638+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:59:45.2842527+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:03:14.3380284+00:00"
 }

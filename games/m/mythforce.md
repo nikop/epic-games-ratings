@@ -6,8 +6,8 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Faceroll the Bones | 16.00% | ~432 |
 | Debuff Dogpile | 15.00% | ~405 |
-| Faceroll the Bones | 15.00% | ~405 |
 | Hit 'Em Where It Hurts | 15.00% | ~405 |
 | That'll Leave a Mark | 15.00% | ~405 |
 | Mushroom Madness! | 14.00% | ~378 |
@@ -15,7 +15,7 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 11.00% | ~297 |
 | Horder Better Faster Stronger | 11.00% | ~297 |
 | Spending Spree | 11.00% | ~297 |
-| Everything Must Go! | 9.00% | ~243 |
+| Everything Must Go! | 10.00% | ~270 |
 | Ten Steps from the Grave | 9.00% | ~243 |
 | Next Time on MythForce... | 7.00% | ~189 |
 | Cold-Blooded Critters | 6.00% | ~162 |

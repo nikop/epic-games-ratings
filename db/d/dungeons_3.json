@@ -2638,7 +2638,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30776,
+  "EOS_Progressed": 30777,
   "EOS_Completed": 252,
   "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 7,
@@ -19158,6 +19158,11 @@
       "Time": "2023-09-19T03:07:01.6275443+00:00",
       "NumProgressed": 30776,
       "NumCompleted": 252
+    },
+    {
+      "Time": "2023-09-19T04:05:40.7061144+00:00",
+      "NumProgressed": 30777,
+      "NumCompleted": 252
     }
   ],
   "TotalAchievements": 60,
@@ -19169,7 +19174,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17850
+      "UsersEstimate": 17851
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -19185,7 +19190,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17542
+      "UsersEstimate": 17543
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -19281,7 +19286,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 15080
+      "UsersEstimate": 15081
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -19385,7 +19390,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12310
+      "UsersEstimate": 12311
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -19393,7 +19398,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11079
+      "UsersEstimate": 11080
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -19401,7 +19406,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12618
+      "UsersEstimate": 12619
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -19425,7 +19430,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -19441,7 +19446,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5847
+      "UsersEstimate": 5848
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -19473,7 +19478,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7078
+      "UsersEstimate": 7079
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -19505,7 +19510,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4616
+      "UsersEstimate": 4617
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -19553,7 +19558,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13849
+      "UsersEstimate": 13850
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -19569,7 +19574,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 21235
+      "UsersEstimate": 21236
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -19601,7 +19606,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5847
+      "UsersEstimate": 5848
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -19648,15 +19653,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30776,
+      "Progressed": 30777,
       "Completed": 252
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-18T20:59:20.0910886+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:07:01.6275439+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:05:40.7061136+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.8919956+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:00:03.3706522+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:07:01.6276741+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:59:10.374857+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:05:40.7062342+00:00"
 }

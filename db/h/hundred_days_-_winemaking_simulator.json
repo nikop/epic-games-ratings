@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3880,
+  "EOS_Progressed": 3885,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1286,
+  "EOS_NewPlayers": 1288,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3350,6 +3350,11 @@
       "Time": "2023-09-19T03:07:16.9700918+00:00",
       "NumProgressed": 3880,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T04:05:52.5034046+00:00",
+      "NumProgressed": 3885,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3362,7 +3367,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "a_10",
@@ -3394,7 +3399,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "a_16",
@@ -3410,7 +3415,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1399
     },
     {
       "ID": "a_19",
@@ -3498,7 +3503,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "a_30",
@@ -3594,7 +3599,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "a_9",
@@ -3609,7 +3614,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3880,
+      "Progressed": 3885,
       "Completed": 5
     }
   ],
@@ -3617,8 +3622,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:07:16.9700913+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:05:52.5034039+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:58:18.8143421+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:07:16.9701224+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:57:52.9820002+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:05:52.5034349+00:00"
 }

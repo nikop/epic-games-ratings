@@ -6,18 +6,18 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,340 |
-| Now You're Talking | 62.00% | ~327,130 |
-| Steel Yourself | 62.00% | ~327,130 |
-| Window Dressing | 50.00% | ~263,814 |
-| Trigger Happy | 46.00% | ~242,709 |
-| Riverborn | 45.00% | ~237,433 |
+| First Step | 70.00% | ~369,341 |
+| Now You're Talking | 62.00% | ~327,131 |
+| Steel Yourself | 62.00% | ~327,131 |
+| Window Dressing | 50.00% | ~263,815 |
+| Trigger Happy | 46.00% | ~242,710 |
+| Riverborn | 45.00% | ~237,434 |
 | Starry Eyed | 34.00% | ~179,394 |
 | Poking Around | 34.00% | ~179,394 |
 | Talk of the Town | 24.00% | ~126,631 |
 | AAARR! | 23.00% | ~121,355 |
 | Hello Darkness | 23.00% | ~121,355 |
-| Wind At Our Backs | 22.00% | ~116,078 |
+| Wind At Our Backs | 22.00% | ~116,079 |
 | To the Beat | 20.00% | ~105,526 |
 | Sunny Shores | 17.00% | ~89,697 |
 | Sunday Best | 16.00% | ~84,421 |
@@ -39,9 +39,9 @@ Number of Ratings: 617  (23.09.2022)
 | Oh, Romeo! | 6.00% | ~31,658 |
 | Dressed to Kill | 6.00% | ~31,658 |
 | Beast Mode | 6.00% | ~31,658 |
-| Noble Intentions | 5.00% | ~26,381 |
-| Rising Star | 5.00% | ~26,381 |
-| Slime Slayer | 5.00% | ~26,381 |
+| Noble Intentions | 5.00% | ~26,382 |
+| Rising Star | 5.00% | ~26,382 |
+| Slime Slayer | 5.00% | ~26,382 |
 | Privacy, Please! | 4.00% | ~21,105 |
 | Silky Smooth | 4.00% | ~21,105 |
 | Hash It Over | 4.00% | ~21,105 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,583 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,629 (Ranked 33)  
+Progressed: 527,630 (Ranked 33)  
 Completed: 474 (0.09%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 474 (0.09%) (Ranked 227)
 | 2023-09-16 | 527,467 | 474 |
 | 2023-09-17 | 527,562 | 474 |
 | 2023-09-18 | 527,622 | 474 |
-| 2023-09-19 | 527,629 | 474 |
+| 2023-09-19 | 527,630 | 474 |
 ## Awards
 Max (Relaxing): 20  (Ranked 514)  
 Sum: 20 (Ranked 515)  

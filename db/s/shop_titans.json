@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6118,7 +6118,7 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136384,
+  "EOS_Progressed": 136385,
   "EOS_Completed": 153,
   "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 4,
@@ -21703,6 +21703,11 @@
       "Time": "2023-09-19T03:03:31.8322879+00:00",
       "NumProgressed": 136384,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-19T04:02:29.6361379+00:00",
+      "NumProgressed": 136385,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22480,9 +22485,9 @@
       "ID": "rudo_a",
       "SetID": "anfd17p",
       "Name": "Moment of Respite",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 682
     },
     {
       "ID": "sell01",
@@ -22609,15 +22614,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136384,
+      "Progressed": 136385,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-18T03:57:56.8219259+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:03:31.8322874+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:02:29.6361375+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:58:49.2922518+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:03:31.8324903+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:58:15.5287164+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:02:29.6363304+00:00"
 }

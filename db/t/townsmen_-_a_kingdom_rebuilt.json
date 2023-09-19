@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4286,
+  "EOS_Progressed": 4287,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1240,6 +1240,11 @@
       "Time": "2023-09-18T02:24:50.5716613+00:00",
       "NumProgressed": 4286,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-19T04:08:33.8593651+00:00",
+      "NumProgressed": 4287,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1899,7 +1904,7 @@
       "Name": "Tax-man I",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2003,7 +2008,7 @@
       "Name": "A new beginning",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2058,15 +2063,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4286,
+      "Progressed": 4287,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-19T03:09:10.3665897+00:00",
+  "LastChanged_Achievements": "2023-09-19T04:08:33.8593647+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:58:56.6746629+00:00",
-  "LastUpdate_Achievements": "2023-09-19T03:09:10.3666976+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:58:20.4999229+00:00",
+  "LastUpdate_Achievements": "2023-09-19T04:08:33.8594658+00:00"
 }

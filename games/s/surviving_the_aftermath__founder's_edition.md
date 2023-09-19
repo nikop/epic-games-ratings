@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,538 |
+| First Step | 72.00% | ~6,539 |
 | Leader | 60.00% | ~5,449 |
 | Explorer | 53.00% | ~4,813 |
-| Healer | 52.00% | ~4,722 |
+| Healer | 52.00% | ~4,723 |
 | Aspiring Inventor | 44.00% | ~3,996 |
-| Adventurer | 41.00% | ~3,723 |
+| Adventurer | 41.00% | ~3,724 |
 | Famous Healer | 38.00% | ~3,451 |
-| Local Leader | 35.00% | ~3,178 |
+| Local Leader | 35.00% | ~3,179 |
 | Famous Explorer | 34.00% | ~3,088 |
 | New Opportunities | 34.00% | ~3,088 |
 | Energized | 33.00% | ~2,997 |
@@ -31,7 +31,7 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 22.00% | ~1,998 |
 | Real Survivor | 22.00% | ~1,998 |
 | Rocket Surgeon | 20.00% | ~1,816 |
-| War Never Changes | 19.00% | ~1,725 |
+| War Never Changes | 19.00% | ~1,726 |
 | Friendly | 17.00% | ~1,544 |
 | Big Game Hunter | 17.00% | ~1,544 |
 | Spreading Influence | 17.00% | ~1,544 |
@@ -43,7 +43,7 @@ Number of Ratings: 836  (23.09.2022)
 | It's a Finnish Thing | 10.00% | ~908 |
 | Sky Burial | 10.00% | ~908 |
 | Trader | 9.00% | ~817 |
-| Bread and Circuses | 8.00% | ~726 |
+| Bread and Circuses | 8.00% | ~727 |
 | New Eden | 7.00% | ~636 |
 | Tailored to fit | 7.00% | ~636 |
 | Really Friendly | 6.00% | ~545 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,081 (Ranked 135)  
+Progressed: 9,082 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-16 | 9,038 | 0 |
 | 2023-09-17 | 9,060 | 0 |
 | 2023-09-18 | 9,079 | 0 |
-| 2023-09-19 | 9,081 | 0 |
+| 2023-09-19 | 9,082 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 336)  
 Sum: 701 (Ranked 279)  
