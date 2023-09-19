@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -736,7 +736,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5826,
+  "EOS_Progressed": 5827,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -7581,6 +7581,11 @@
       "Time": "2023-09-19T14:06:36.8480456+00:00",
       "NumProgressed": 5826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T17:07:46.1436803+00:00",
+      "NumProgressed": 5827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7600,7 +7605,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7608,7 +7613,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4020
+      "UsersEstimate": 4021
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7632,7 +7637,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7648,7 +7653,7 @@
       "Name": "Scaling up",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7760,7 +7765,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -7871,13 +7876,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5826,
+      "Progressed": 5827,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5198,
+      "Progressed": 5199,
       "Completed": 112
     }
   ],
@@ -7885,8 +7890,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-19T16:01:15.2479877+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:07:37.82037+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:07:46.1436799+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:51.4356282+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:01:15.2479881+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:07:37.8204524+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:01:23.7165485+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:07:46.1437375+00:00"
 }

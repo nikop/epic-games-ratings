@@ -3020,9 +3020,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72672,
+  "EOS_Progressed": 72674,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16000,6 +16000,11 @@
       "Time": "2023-09-19T16:04:51.7918884+00:00",
       "NumProgressed": 72672,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-19T17:04:50.9504251+00:00",
+      "NumProgressed": 72674,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16107,7 +16112,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12354
+      "UsersEstimate": 12355
     },
     {
       "ID": "CLAYFACE_1",
@@ -16115,7 +16120,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15261
+      "UsersEstimate": 15262
     },
     {
       "ID": "CLAYFACE_2",
@@ -16171,7 +16176,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9447
+      "UsersEstimate": 9448
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -16195,7 +16200,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6540
+      "UsersEstimate": 6541
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -16219,7 +16224,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9447
+      "UsersEstimate": 9448
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -16243,7 +16248,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15261
+      "UsersEstimate": 15262
     },
     {
       "ID": "FREEZE_2",
@@ -16315,7 +16320,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25435
+      "UsersEstimate": 25436
     },
     {
       "ID": "HARLEY_2",
@@ -16331,7 +16336,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14534
+      "UsersEstimate": 14535
     },
     {
       "ID": "HARLEY_4",
@@ -16355,7 +16360,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37789
+      "UsersEstimate": 37790
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16379,7 +16384,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14534
+      "UsersEstimate": 14535
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16387,7 +16392,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20348
+      "UsersEstimate": 20349
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16403,7 +16408,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24708
+      "UsersEstimate": 24709
     },
     {
       "ID": "MYSTERY_02",
@@ -16427,7 +16432,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14534
+      "UsersEstimate": 14535
     },
     {
       "ID": "MYSTERY_05",
@@ -16475,7 +16480,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6540
+      "UsersEstimate": 6541
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -16498,13 +16503,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72672,
+      "Progressed": 72674,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42952,
+      "Progressed": 42954,
       "Completed": 2663
     }
   ],
@@ -16512,8 +16517,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-19T12:01:21.0770808+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:04:51.7918877+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:04:50.9504244+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:00:44.9501265+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:04:51.7921006+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:00:51.0211076+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:04:50.9505323+00:00"
 }

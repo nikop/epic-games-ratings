@@ -37,9 +37,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Reverse Banditry | 25.00% | ~29,544 |
 | Autodidact | 24.00% | ~28,362 |
 | Meat and Greet | 22.00% | ~25,998 |
+| Road Trip | 22.00% | ~25,998 |
 | Spelunker | 21.00% | ~24,817 |
 | Eyes Up | 21.00% | ~24,817 |
-| Road Trip | 21.00% | ~24,817 |
 | It Rings a Bell | 20.00% | ~23,635 |
 | Escape from the Black Hole | 18.00% | ~21,272 |
 | It Happens | 17.00% | ~20,090 |

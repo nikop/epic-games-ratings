@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 607,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -25,9 +25,347 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-19T17:06:43.329078+00:00",
+  "TotalAchievements": 42,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "6hl9l7f",
+      "Name": "Platinum",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1",
+      "SetID": "6hl9l7f",
+      "Name": "Activator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "6hl9l7f",
+      "Name": "The End?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "6hl9l7f",
+      "Name": "Weapon Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "6hl9l7f",
+      "Name": "Weapon Unlocked",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "6hl9l7f",
+      "Name": "Ability Unlocked",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "6hl9l7f",
+      "Name": "Ability Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "6hl9l7f",
+      "Name": "Infected Triforce",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "6hl9l7f",
+      "Name": "Brute",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "6hl9l7f",
+      "Name": "Launcher",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "6hl9l7f",
+      "Name": "Monolith",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "6hl9l7f",
+      "Name": "Spine Dragon",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "6hl9l7f",
+      "Name": "Level-Up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "6hl9l7f",
+      "Name": "Jammer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "6hl9l7f",
+      "Name": "Laser Fiend",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "6hl9l7f",
+      "Name": "Trashmaster",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "6hl9l7f",
+      "Name": "Megashield",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "6hl9l7f",
+      "Name": "Modulator",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "6hl9l7f",
+      "Name": "Milestone Reached",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "6hl9l7f",
+      "Name": "Virus Zone",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "6hl9l7f",
+      "Name": "Full Power",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "6hl9l7f",
+      "Name": "Mutated",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "6hl9l7f",
+      "Name": "Mutator Master",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "6hl9l7f",
+      "Name": "Challenger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "6hl9l7f",
+      "Name": "Laser Fireworks",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "6hl9l7f",
+      "Name": "Explosive Piercing",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "6hl9l7f",
+      "Name": "They Live",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "6hl9l7f",
+      "Name": "Endless Jumps",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "6hl9l7f",
+      "Name": "Laser Chain",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "6hl9l7f",
+      "Name": "Variety",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "36",
+      "SetID": "6hl9l7f",
+      "Name": "Stubborn",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "37",
+      "SetID": "6hl9l7f",
+      "Name": "Smoking Can Kill",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "38",
+      "SetID": "6hl9l7f",
+      "Name": "Everything with Everything",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "39",
+      "SetID": "6hl9l7f",
+      "Name": "Away Victory",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "6hl9l7f",
+      "Name": "Weapons Armed",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40",
+      "SetID": "6hl9l7f",
+      "Name": "Super Rotation",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41",
+      "SetID": "6hl9l7f",
+      "Name": "Why\u0027s Nothing Happening?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "6hl9l7f",
+      "Name": "Heart of the Cards",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "6hl9l7f",
+      "Name": "Loadout Accepted",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "6hl9l7f",
+      "Name": "ViKing 2000",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "6hl9l7f",
+      "Name": "Core Down",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "6hl9l7f",
+      "Name": "Maximum Power",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6hl9l7f",
@@ -37,8 +375,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:06:38.1209005+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:06:43.3290762+00:00",
   "LastUpdate_AppInfo": "2023-09-17T10:57:04.3508232+00:00",
-  "LastUpdate_Ratings": "2023-09-19T15:57:28.7814147+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:06:38.1209051+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:57:15.8724408+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:06:43.3695616+00:00"
 }

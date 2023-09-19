@@ -10,9 +10,9 @@
 | Novice Scavenger | 62.00% | ~112 |
 | Master Craftsman | 49.00% | ~88 |
 | First wall | 48.00% | ~86 |
-| Piggyback Expert | 46.00% | ~83 |
+| Piggyback Expert | 47.00% | ~85 |
 | Second wall | 34.00% | ~61 |
-| Expert Scavenger | 29.00% | ~52 |
+| Expert Scavenger | 30.00% | ~54 |
 | Their Rock | 26.00% | ~47 |
 | Yuna's Promise | 26.00% | ~47 |
 | Stone Retriever | 24.00% | ~43 |

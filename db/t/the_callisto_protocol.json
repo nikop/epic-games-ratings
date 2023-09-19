@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1184,9 +1184,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15950,
+  "EOS_Progressed": 15951,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7024,6 +7024,11 @@
       "Time": "2023-09-19T14:06:16.6539976+00:00",
       "NumProgressed": 15950,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-19T17:07:19.7144812+00:00",
+      "NumProgressed": 15951,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -7051,7 +7056,7 @@
       "Name": "Giving Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -7059,7 +7064,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "DISARM_ENEMY",
@@ -7099,7 +7104,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -7139,7 +7144,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -7171,7 +7176,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -7179,7 +7184,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -7227,7 +7232,7 @@
       "Name": "The Outer Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "STORY_ESCAPE",
@@ -7235,7 +7240,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "STORY_HABITAT",
@@ -7243,7 +7248,7 @@
       "Name": "Without A Paddle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "STORY_HANGAR",
@@ -7259,7 +7264,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -7267,7 +7272,7 @@
       "Name": "Desperate Times",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -7275,7 +7280,7 @@
       "Name": "Crash Site",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "STORY_TOWER",
@@ -7291,7 +7296,7 @@
       "Name": "Power Up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "DISMEMBER_100",
@@ -7410,13 +7415,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15950,
+      "Progressed": 15951,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3876,
+      "Progressed": 3877,
       "Completed": 29
     }
   ],
@@ -7424,8 +7429,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-18T18:58:59.4201017+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:07:12.5587438+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:07:19.7144808+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.1512746+00:00",
-  "LastUpdate_Ratings": "2023-09-19T15:59:19.0591634+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:07:12.5588365+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:59:17.0645159+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:07:19.7145441+00:00"
 }

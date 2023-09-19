@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -507,7 +507,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15278,
+  "EOS_Progressed": 15279,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 1,
@@ -10432,6 +10432,11 @@
       "Time": "2023-09-19T15:02:15.6789886+00:00",
       "NumProgressed": 15278,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-19T17:03:14.7495809+00:00",
+      "NumProgressed": 15279,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10547,7 +10552,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4583
+      "UsersEstimate": 4584
     },
     {
       "ID": "tpote_achievement_22",
@@ -10659,7 +10664,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "tpote_achievement_35",
@@ -10747,7 +10752,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "tpote_achievement_8",
@@ -10763,22 +10768,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5347
+      "UsersEstimate": 5348
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15278,
+      "Progressed": 15279,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:03:21.2932261+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:03:14.7495805+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:01:15.0903638+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:03:21.2933393+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:01:23.5272379+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:03:14.7496599+00:00"
 }

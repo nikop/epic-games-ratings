@@ -5,21 +5,21 @@ Rating: 4.60 (Ranked 395)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 28.00% | ~245 |
-| Rail Rat | 23.00% | ~201 |
+| Time Heals All Wounds | 28.00% | ~246 |
+| Rail Rat | 23.00% | ~202 |
 | The Mysterious Stranger | 22.00% | ~193 |
 | Make Up For Lost Time | 20.00% | ~175 |
 | The Prince in Heels | 20.00% | ~175 |
 | Immaculate Aim | 20.00% | ~175 |
 | The Brass Boss | 20.00% | ~175 |
-| The Steel Shadow | 19.00% | ~166 |
-| Time Flies | 19.00% | ~166 |
-| The Harder They Fall | 19.00% | ~166 |
-| No, Thanks! | 19.00% | ~166 |
-| Breaking Down Barriers | 19.00% | ~166 |
-| Honest Mistake | 19.00% | ~166 |
-| Fast Learner | 19.00% | ~166 |
-| Immaculate Aim | 19.00% | ~166 |
+| The Steel Shadow | 19.00% | ~167 |
+| Time Flies | 19.00% | ~167 |
+| The Harder They Fall | 19.00% | ~167 |
+| No, Thanks! | 19.00% | ~167 |
+| Breaking Down Barriers | 19.00% | ~167 |
+| Honest Mistake | 19.00% | ~167 |
+| Fast Learner | 19.00% | ~167 |
+| Immaculate Aim | 19.00% | ~167 |
 | The Wicked Twins | 18.00% | ~158 |
 | Golem Chaser | 18.00% | ~158 |
 | Like Clockwork | 17.00% | ~149 |
@@ -29,7 +29,7 @@ Rating: 4.60 (Ranked 395)
 | The Family Fortune | 17.00% | ~149 |
 | Right On Time | 16.00% | ~140 |
 | The Man Who Shattered Time | 16.00% | ~140 |
-| Street Style | 15.00% | ~131 |
+| Street Style | 15.00% | ~132 |
 | Treasure Trove | 14.00% | ~123 |
 | Cartographer | 14.00% | ~123 |
 | Whiz Kid | 13.00% | ~114 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876 (Ranked 221)  
+Progressed: 877 (Ranked 221)  
 Completed: 5 (0.57%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 5 (0.57%) (Ranked 150)
 | 2023-09-16 | 870 | 5 |
 | 2023-09-17 | 874 | 5 |
 | 2023-09-18 | 876 | 5 |
+| 2023-09-19 | 877 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -27,7 +27,7 @@
 | Inner Core | 3.00% | ~23 |
 | Integration | 3.00% | ~23 |
 | Trickshot | 1.00% | ~8 |
-| Destruction | 0.70% | ~5 |
+| Destruction | 0.90% | ~7 |
 | Ripperdoc | 0.50% | ~4 |
 | Hard Boiled | 0.40% | ~3 |
 | Cyborg | 0.10% | ~1 |

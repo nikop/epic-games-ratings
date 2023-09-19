@@ -2,6 +2,56 @@
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
 Rating: 4.61 (Ranked 371)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Welcome Aboard | 0.00% | ~0 |
+| Keeper of the Faith | 0.00% | ~0 |
+| Betrayed | 0.00% | ~0 |
+| Exodus | 0.00% | ~0 |
+| Final Regeneration | 0.00% | ~0 |
+| Whole Again | 0.00% | ~0 |
+| Set A Benchmark | 0.00% | ~0 |
+| Untouchable | 0.00% | ~0 |
+| Trusted Contractor | 0.00% | ~0 |
+| Full Arsenal | 0.00% | ~0 |
+| Built To Order | 0.00% | ~0 |
+| Lab Rat | 0.00% | ~0 |
+| Autofire | 0.00% | ~0 |
+| Live with the Hot Ones | 0.00% | ~0 |
+| A Cut Above | 0.00% | ~0 |
+| Pusher | 0.00% | ~0 |
+| Eviscerator | 0.00% | ~0 |
+| Full Contact | 0.00% | ~0 |
+| One Gun | 0.00% | ~0 |
+| Pack Rat | 0.00% | ~0 |
+| Story Teller | 0.00% | ~0 |
+| Legend Teller | 0.00% | ~0 |
+| All Systems Go | 0.00% | ~0 |
+| Merchant | 0.00% | ~0 |
+| Marksman | 0.00% | ~0 |
+| Surgeon | 0.00% | ~0 |
+| Wishbone | 0.00% | ~0 |
+| Raise the Stakes | 0.00% | ~0 |
+| Freeze | 0.00% | ~0 |
+| Backbreaker | 0.00% | ~0 |
+| Maxed Out | 0.00% | ~0 |
+| Front Toward Enemy | 0.00% | ~0 |
+| Z-Baller | 0.00% | ~0 |
+| Cannon Fodder | 0.00% | ~0 |
+| There's Always Peng! | 0.00% | ~0 |
+| Full Clearance | 0.00% | ~0 |
+| Brute Force | 0.00% | ~0 |
+| Exterminator | 0.00% | ~0 |
+| Get Off My Ship! | 0.00% | ~0 |
+| Mindless Prey | 0.00% | ~0 |
+| Marked | 0.00% | ~0 |
+| Reunion | 0.00% | ~0 |
+| True Believer | 0.00% | ~0 |
+| Greenhouse Effect | 0.00% | ~0 |
+| S.O.S. | 0.00% | ~0 |
+| Strange Transmissions | 0.00% | ~0 |
+| Wreckage | 0.00% | ~0 |
 ## Awards
 Max (Great Boss Battles): 93  (Ranked 351)  
 Sum: 93 (Ranked 423)  

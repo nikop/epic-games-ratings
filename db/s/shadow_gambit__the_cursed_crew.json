@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1838,9 +1838,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 203
     },
     {
       "ID": "_10_Completion_30",
@@ -1991,8 +1991,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:03:42.3909015+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:03:36.6396514+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-19T15:59:24.8328183+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:03:42.3909349+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:59:23.6920899+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:03:36.6396718+00:00"
 }

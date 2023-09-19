@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 607,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -5016,10 +5016,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 6848,
       "NumberOfAwardsMax": 814
+    },
+    {
+      "Time": "2023-09-19T17:03:07.105466+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6849,
+      "NumberOfAwardsMax": 814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6848,
+  "NumberOfAwards": 6849,
   "NumberOfAwardsMax": 814,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -5039,7 +5045,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 780
+      "Count": 781
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5109,9 +5115,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-09-19T13:08:16.2906672+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:07:52.3641056+00:00",
+  "LastChanged": "2023-09-19T17:03:07.1054658+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:08:01.681897+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:40.8396034+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:03:15.1552424+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:07:52.3641101+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:03:07.1054664+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:08:01.6818996+00:00"
 }

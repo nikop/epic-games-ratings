@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 99.00% | ~19,174 |
-| Before the Downfall | 94.00% | ~18,206 |
-| Money like Water | 92.00% | ~17,819 |
-| Minimalist | 91.00% | ~17,625 |
-| Builder | 84.00% | ~16,269 |
-| Eraser | 71.00% | ~13,751 |
-| Pocket of Trains | 66.00% | ~12,783 |
-| Inspector | 60.00% | ~11,621 |
-| Going the Distance | 55.00% | ~10,652 |
-| Oil Baron | 43.00% | ~8,328 |
-| Loads-a-Money | 43.00% | ~8,328 |
-| Helper of the People | 40.00% | ~7,747 |
-| Simplification | 34.00% | ~6,585 |
-| Box of Trains | 34.00% | ~6,585 |
+| Trevithick's Legacy | 99.00% | ~19,172 |
+| Before the Downfall | 94.00% | ~18,204 |
+| Money like Water | 92.00% | ~17,817 |
+| Minimalist | 91.00% | ~17,623 |
+| Builder | 84.00% | ~16,267 |
+| Eraser | 71.00% | ~13,750 |
+| Pocket of Trains | 66.00% | ~12,782 |
+| Inspector | 60.00% | ~11,620 |
+| Going the Distance | 55.00% | ~10,651 |
+| Oil Baron | 43.00% | ~8,327 |
+| Loads-a-Money | 43.00% | ~8,327 |
+| Helper of the People | 40.00% | ~7,746 |
+| Simplification | 34.00% | ~6,584 |
+| Box of Trains | 34.00% | ~6,584 |
 | Let There be Light | 33.00% | ~6,391 |
-| Hot Water | 31.00% | ~6,004 |
+| Hot Water | 31.00% | ~6,003 |
 | Indecisive | 30.00% | ~5,810 |
-| The scenic route | 28.00% | ~5,423 |
+| The scenic route | 28.00% | ~5,422 |
 | Industrialist | 25.00% | ~4,842 |
 | Perfectionist | 24.00% | ~4,648 |
-| 8K is Enough for Everyone | 23.00% | ~4,455 |
-| Trains over Pipes | 23.00% | ~4,455 |
-| Man of Steel | 17.00% | ~3,293 |
+| 8K is Enough for Everyone | 23.00% | ~4,454 |
+| Trains over Pipes | 23.00% | ~4,454 |
+| Man of Steel | 17.00% | ~3,292 |
 | Room Full of Trains | 13.00% | ~2,518 |
 | Investor | 10.00% | ~1,937 |
 | Multiverse | 7.00% | ~1,356 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 503)
 | Overdeer | 0.60% | ~116 |
 | Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,368 (Ranked 115)  
+Progressed: 19,366 (Ranked 115)  
 Completed: 37 (0.19%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |

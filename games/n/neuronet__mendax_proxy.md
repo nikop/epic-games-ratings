@@ -11,8 +11,8 @@
 | Shook Up | 58.00% | ~15 |
 | The Birds and the Bees | 50.00% | ~13 |
 | Vaccinated | 50.00% | ~13 |
+| Task Master | 46.00% | ~12 |
 | Busybody | 42.00% | ~11 |
-| Task Master | 42.00% | ~11 |
 | An Acquired Taste | 38.00% | ~10 |
 | A Light in the Dark | 38.00% | ~10 |
 | Warning: Fragile | 38.00% | ~10 |

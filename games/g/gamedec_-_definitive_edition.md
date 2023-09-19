@@ -1,17 +1,17 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 794)  
+Rating: 4.30 (Ranked 800)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,016 |
-| Powergamer | 27.00% | ~66,551 |
-| Barely scratched the surface | 25.00% | ~61,621 |
-| Write that down | 24.00% | ~59,156 |
-| Guns, lots of guns | 13.00% | ~32,043 |
-| Collector | 11.00% | ~27,113 |
+| I will finish what you started | 28.00% | ~69,017 |
+| Powergamer | 27.00% | ~66,552 |
+| Barely scratched the surface | 25.00% | ~61,622 |
+| Write that down | 24.00% | ~59,157 |
+| Guns, lots of guns | 13.00% | ~32,044 |
+| Collector | 11.00% | ~27,114 |
 | Elementary! | 9.00% | ~22,184 |
 | Pumpkin Jack | 8.00% | ~19,719 |
 | Wake up! | 8.00% | ~19,719 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~14,789 |
 | Good listener | 5.00% | ~12,324 |
 | Valedictorian | 5.00% | ~12,324 |
-| BOY! | 4.00% | ~9,859 |
-| Ka-ching! | 4.00% | ~9,859 |
-| So you like to read? | 4.00% | ~9,859 |
+| BOY! | 4.00% | ~9,860 |
+| Ka-ching! | 4.00% | ~9,860 |
+| So you like to read? | 4.00% | ~9,860 |
 | Hoarder | 3.00% | ~7,395 |
 | I like to sniff around | 3.00% | ~7,395 |
 | Mind reader | 3.00% | ~7,395 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~493 |
 | Memory 5 | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,485 (Ranked 51)  
+Progressed: 246,489 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 7 (0.00%) (Ranked 278)
 | 2023-09-16 | 246,180 | 7 |
 | 2023-09-17 | 246,319 | 7 |
 | 2023-09-18 | 246,425 | 7 |
-| 2023-09-19 | 246,485 | 7 |
+| 2023-09-19 | 246,489 | 7 |
 ## Awards
 Max (Character Customization): 81  (Ranked 363)  
 Sum: 81 (Ranked 430)  
@@ -290,3 +290,4 @@ Diff (max vs sum): -67
 | 2023-08-15 | 4.31 | - | 79 | 79 |
 | 2023-09-02 | 4.31 | - | 80 | 80 |
 | 2023-09-14 | 4.31 | - | 81 | 81 |
+| 2023-09-19 | 4.30 | - | 81 | 81 |

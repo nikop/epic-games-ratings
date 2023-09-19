@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Let the Adventure Begin! | 59.00% | ~19 |
 | Prized Possession | 34.00% | ~11 |
+| Spirit of competition | 31.00% | ~10 |
 | Creature Evolution | 28.00% | ~9 |
-| Spirit of competition | 28.00% | ~9 |
-| Think Positive | 22.00% | ~7 |
+| Think Positive | 25.00% | ~8 |
 | Kingdom Party Time | 22.00% | ~7 |
 | Festival Fever | 16.00% | ~5 |
 | Entering New Territory | 13.00% | ~4 |

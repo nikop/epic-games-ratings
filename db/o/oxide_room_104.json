@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -823,9 +823,9 @@
       "ID": "ACH_ALLROOMS",
       "SetID": "511e31d",
       "Name": "373",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ANTIDOTE",
@@ -863,9 +863,9 @@
       "ID": "ACH_DOCDOCUMENTS",
       "SetID": "511e31d",
       "Name": "The experiment",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ENTRANCE",
@@ -903,9 +903,9 @@
       "ID": "ACH_EVILDOCUMENTS",
       "SetID": "511e31d",
       "Name": "Horror book",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FORCE",
@@ -943,9 +943,9 @@
       "ID": "ACH_MATTDOCUMENTS",
       "SetID": "511e31d",
       "Name": "A dark past",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_MUSICRADIO",
@@ -999,9 +999,9 @@
       "ID": "ACH_REVENGE",
       "SetID": "511e31d",
       "Name": "Matthew\u0027s revenge",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ROOM104",
@@ -1070,8 +1070,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:05:26.5533471+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:05:27.900918+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.0334042+00:00",
-  "LastUpdate_Ratings": "2023-09-19T15:58:47.6992443+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:05:26.5533885+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:58:44.0028482+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:05:27.900941+00:00"
 }

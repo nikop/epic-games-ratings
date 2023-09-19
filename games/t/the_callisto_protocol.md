@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 7.00% | ~1,116 |
+| Get a Grip | 7.00% | ~1,117 |
 | Paper Jams | 6.00% | ~957 |
 | Float Like A Butterfly | 5.00% | ~798 |
 | Flesh Wound | 4.00% | ~638 |
@@ -15,18 +15,18 @@ Rating: 4.19 (Ranked 875)
 | In the Pipe, Five by Five | 4.00% | ~638 |
 | Full Circle | 4.00% | ~638 |
 | Keep Fighting | 4.00% | ~155 |
-| Giving Back | 3.00% | ~478 |
-| You Need a Gun | 3.00% | ~478 |
-| I Do Belong Here | 3.00% | ~478 |
-| Terminated | 3.00% | ~478 |
-| Workplace Hazard | 3.00% | ~478 |
-| The Outer Way | 3.00% | ~478 |
-| If the SHU Fits... | 3.00% | ~478 |
-| Without A Paddle | 3.00% | ~478 |
-| What Lies Beneath | 3.00% | ~478 |
-| Desperate Times | 3.00% | ~478 |
-| Crash Site | 3.00% | ~478 |
-| Power Up | 3.00% | ~478 |
+| Giving Back | 3.00% | ~479 |
+| You Need a Gun | 3.00% | ~479 |
+| I Do Belong Here | 3.00% | ~479 |
+| Terminated | 3.00% | ~479 |
+| Workplace Hazard | 3.00% | ~479 |
+| The Outer Way | 3.00% | ~479 |
+| If the SHU Fits... | 3.00% | ~479 |
+| Without A Paddle | 3.00% | ~479 |
+| What Lies Beneath | 3.00% | ~479 |
+| Desperate Times | 3.00% | ~479 |
+| Crash Site | 3.00% | ~479 |
+| Power Up | 3.00% | ~479 |
 | It's Time | 3.00% | ~116 |
 | In Striking Distance | 2.00% | ~319 |
 | The Commonality | 2.00% | ~319 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 875)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,950 (Ranked 122)  
+Progressed: 15,951 (Ranked 122)  
 Completed: 73 (0.46%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 73 (0.46%) (Ranked 160)
 | 2023-09-15 | 15,939 | 73 |
 | 2023-09-16 | 15,942 | 73 |
 | 2023-09-17 | 15,949 | 73 |
-| 2023-09-19 | 15,950 | 73 |
+| 2023-09-19 | 15,951 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 379)  
 Sum: 424 (Ranked 316)  

@@ -26,13 +26,13 @@
 | Take the long way round | 12.00% | ~21 |
 | Nightmare in the kitchen | 11.00% | ~20 |
 | He who seeks, finds! | 11.00% | ~20 |
+| The experiment | 7.00% | ~12 |
 | Born again | 7.00% | ~12 |
-| The experiment | 6.00% | ~11 |
-| 373 | 5.00% | ~9 |
-| Matthew's revenge | 5.00% | ~9 |
+| 373 | 6.00% | ~11 |
+| Matthew's revenge | 6.00% | ~11 |
 | Eva's diary | 2.00% | ~4 |
-| Horror book | 1.00% | ~2 |
-| A dark past | 1.00% | ~2 |
+| Horror book | 2.00% | ~4 |
+| A dark past | 2.00% | ~4 |
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

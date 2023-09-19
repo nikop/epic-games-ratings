@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -177,6 +177,11 @@
       "Time": "2023-09-19T15:04:37.540301+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T17:05:25.2262353+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -226,9 +231,9 @@
       "ID": "0000_achv_kickEverything",
       "SetID": "dhn82m5",
       "Name": "Let the boot talk",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "0000_achv_noskip",
@@ -242,7 +247,7 @@
       "ID": "0000_achv_nosnoop",
       "SetID": "dhn82m5",
       "Name": "Sherlock Holmes",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -258,7 +263,7 @@
       "ID": "0000_achv_skip_puzzle",
       "SetID": "dhn82m5",
       "Name": "Done. First!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -274,17 +279,17 @@
       "ID": "0000_achv_spotinteract",
       "SetID": "dhn82m5",
       "Name": "Useless but beautiful",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "0000_achv_spotlick",
       "SetID": "dhn82m5",
       "Name": "Lollipop",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "0000_achv_unstoppable",
@@ -316,15 +321,15 @@
       "Name": "Open up wide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "1006_achv_demoliton",
@@ -332,7 +337,7 @@
       "Name": "Demolition expert",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "1006_achv_dropball",
@@ -340,7 +345,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -348,15 +353,15 @@
       "Name": "Handyman",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "1006_achv_pacifist",
       "SetID": "dhn82m5",
       "Name": "Pacifist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "2001_achv_shrooms",
@@ -364,21 +369,21 @@
       "Name": "Keep away from children",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "2002_achv_feedfish",
       "SetID": "dhn82m5",
       "Name": "Do not feed the fish!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -394,9 +399,9 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -474,9 +479,9 @@
       "ID": "3003_achv_useAllCandlesWithAllObjects",
       "SetID": "dhn82m5",
       "Name": "Fastidious Clown",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "3004_achv_sneeze",
@@ -484,7 +489,7 @@
       "Name": "Achoo!!",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -492,7 +497,7 @@
       "Name": "Unfullfilled dreams",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "3011_achv_magicbox",
@@ -524,7 +529,7 @@
       "Name": "Chapter III",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "3017_achv_flycloud",
@@ -532,7 +537,7 @@
       "Name": "Like a moth in the Wind",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "4004_achv_home",
@@ -555,7 +560,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
@@ -563,8 +568,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:05:24.0116487+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:05:25.2262347+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:41.2824222+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:00:51.9410882+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:05:24.0116886+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:00:58.5825722+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:05:25.2262674+00:00"
 }

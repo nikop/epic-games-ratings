@@ -19,7 +19,7 @@ Number of Ratings: 48  (23.09.2022)
 | First Time Hunting | 49.00% | ~338 |
 | Rune Wall Wreckage | 49.00% | ~338 |
 | ...And Your Tax Money | 47.00% | ~324 |
-| The Lords of the Snowpeak | 40.00% | ~276 |
+| The Lords of the Snowpeak | 41.00% | ~283 |
 | The Go-To Girl | 37.00% | ~255 |
 | Natural Born Monster-Killer | 37.00% | ~255 |
 | The Lava Mantor Wyrm | 36.00% | ~248 |

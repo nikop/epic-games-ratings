@@ -2,10 +2,10 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 279,
-  "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -1431,6 +1431,11 @@
       "Time": "2023-09-19T05:04:40.3029784+00:00",
       "NumProgressed": 327,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T17:05:15.2421793+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1448,9 +1453,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1488,17 +1493,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1553,14 +1558,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-19T16:05:14.6068087+00:00",
+  "LastChanged_Achievements": "2023-09-19T17:05:15.2421788+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.4255118+00:00",
-  "LastUpdate_Ratings": "2023-09-19T15:57:18.3528319+00:00",
-  "LastUpdate_Achievements": "2023-09-19T16:05:14.6068349+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:57:04.166862+00:00",
+  "LastUpdate_Achievements": "2023-09-19T17:05:15.2421953+00:00"
 }
