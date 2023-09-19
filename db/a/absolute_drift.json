@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541055,
+  "EOS_Progressed": 1541064,
   "EOS_Completed": 688,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17513,6 +17513,11 @@
       "Time": "2023-09-19T14:05:19.6987449+00:00",
       "NumProgressed": 1541055,
       "NumCompleted": 688
+    },
+    {
+      "Time": "2023-09-19T15:05:07.9609935+00:00",
+      "NumProgressed": 1541064,
+      "NumCompleted": 688
     }
   ],
   "TotalAchievements": 20,
@@ -17572,7 +17577,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 138695
+      "UsersEstimate": 138696
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -17636,7 +17641,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138695
+      "UsersEstimate": 138696
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -17644,7 +17649,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13869
+      "UsersEstimate": 13870
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -17683,15 +17688,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1541055,
+      "Progressed": 1541064,
       "Completed": 688
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-06T23:02:05.1723132+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:05:19.6987446+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:05:07.960993+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.5170065+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:00:14.9566355+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:05:19.6988413+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:00:06.960635+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:05:07.9611073+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7738,10 +7738,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43723,
       "NumberOfAwardsMax": 22827
+    },
+    {
+      "Time": "2023-09-19T14:57:57.0489062+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43734,
+      "NumberOfAwardsMax": 22827
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43723,
+  "NumberOfAwards": 43734,
   "NumberOfAwardsMax": 22827,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7761,7 +7767,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 861
+      "Count": 869
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7815,12 +7821,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 657
+      "Count": 660
     }
   ],
-  "EOS_Progressed": 296937,
+  "EOS_Progressed": 296940,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24278,6 +24284,11 @@
       "Time": "2023-09-19T14:04:59.0188368+00:00",
       "NumProgressed": 296937,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-19T15:04:48.7452869+00:00",
+      "NumProgressed": 296940,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24289,7 +24300,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41571
+      "UsersEstimate": 41572
     },
     {
       "ID": "PFA_10",
@@ -24321,7 +24332,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26724
+      "UsersEstimate": 26725
     },
     {
       "ID": "PFA_14",
@@ -24377,7 +24388,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11878
     },
     {
       "ID": "PFA_20",
@@ -24409,7 +24420,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35632
+      "UsersEstimate": 35633
     },
     {
       "ID": "PFA_24",
@@ -24441,7 +24452,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11878
     },
     {
       "ID": "PFA_28",
@@ -24489,7 +24500,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11878
     },
     {
       "ID": "PFA_33",
@@ -24497,7 +24508,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "PFA_34",
@@ -24513,7 +24524,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26724
+      "UsersEstimate": 26725
     },
     {
       "ID": "PFA_36",
@@ -24537,7 +24548,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11878
     },
     {
       "ID": "PFA_39",
@@ -24553,7 +24564,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11878
     },
     {
       "ID": "PFA_40",
@@ -24609,7 +24620,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11878
     },
     {
       "ID": "PFA_6",
@@ -24641,23 +24652,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26724
+      "UsersEstimate": 26725
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296937,
+      "Progressed": 296940,
       "Completed": 474
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-19T13:03:37.8626271+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:04:59.0188365+00:00",
+  "LastChanged": "2023-09-19T14:57:57.048906+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:04:48.7452863+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:57:59.3173037+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:04:59.018942+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:57:57.0489067+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:04:48.7454202+00:00"
 }

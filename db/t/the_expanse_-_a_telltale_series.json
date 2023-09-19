@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10804,
+  "EOS_Progressed": 10805,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5822,6 +5822,11 @@
       "Time": "2023-09-19T14:08:22.2503622+00:00",
       "NumProgressed": 10804,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T15:08:17.733166+00:00",
+      "NumProgressed": 10805,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5906,7 +5911,7 @@
       "Name": "Bottoms up!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "19",
@@ -6066,14 +6071,14 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3566
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10804,
+      "Progressed": 10805,
       "Completed": 0
     }
   ],
@@ -6081,8 +6086,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-17T17:02:33.3197326+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:08:22.2503619+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:08:17.7331656+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:59:30.9584682+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:08:22.2504072+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:59:24.5506521+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:08:17.7332198+00:00"
 }

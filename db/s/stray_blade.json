@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
@@ -607,9 +607,9 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
@@ -655,9 +655,9 @@
       "ID": "ACH_FIND_FLUX_BATTERY",
       "SetID": "7i20me3",
       "Name": "Finally!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIND_WOODEN_CLUB",
@@ -719,9 +719,9 @@
       "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
       "SetID": "7i20me3",
       "Name": "A Deceiving Gift",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_REVEAL_MIRAGE_ILLUSION",
@@ -798,8 +798,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:08:22.0486826+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:08:17.3925726+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.4303858+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:58:06.6962007+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:08:22.0487141+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:58:04.3385499+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:08:17.3926104+00:00"
 }

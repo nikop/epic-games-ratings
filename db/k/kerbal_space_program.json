@@ -3,11 +3,11 @@
   "Name": "Kerbal Space Program",
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 90,
-  "Ranking_Popularity": 152,
+  "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
@@ -5134,11 +5134,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 5467,
       "NumberOfAwardsMax": 936
+    },
+    {
+      "Time": "2023-09-19T14:57:58.4592871+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 5480,
+      "NumberOfAwardsMax": 940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5467,
-  "NumberOfAwardsMax": 936,
+  "NumberOfAwards": 5480,
+  "NumberOfAwardsMax": 940,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -5157,19 +5163,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 735
+      "Count": 740
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 936
+      "Count": 940
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 797
+      "Count": 801
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5202,8 +5208,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-09-18T23:58:00.6903035+00:00",
+  "LastChanged": "2023-09-19T14:57:58.4592869+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:13.4350094+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:58:00.7442028+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:07:09.4125754+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:57:58.4592877+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:06:56.1222756+00:00"
 }

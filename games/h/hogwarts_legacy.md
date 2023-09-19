@@ -5,10 +5,10 @@ Rating: 4.77 (Ranked 111)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,571 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,572 |
 | First Class Student | 13.00% | ~38,602 |
 | Troll with the Punches | 13.00% | ~38,602 |
-| A Keen Sense of Spell | 12.00% | ~35,632 |
+| A Keen Sense of Spell | 12.00% | ~35,633 |
 | A Talent for Spending | 11.00% | ~32,663 |
 | That's a Keeper | 11.00% | ~32,663 |
 | Grappling with a Graphorn | 10.00% | ~29,694 |
@@ -18,9 +18,9 @@ Rating: 4.77 (Ranked 111)
 | Challenge Accepted | 10.00% | ~29,694 |
 | Loom for Improvement | 10.00% | ~29,694 |
 | Coasting Along | 10.00% | ~29,694 |
-| The Hero of Hogwarts | 9.00% | ~26,724 |
-| Followed the Butterflies | 9.00% | ~26,724 |
-| Rising From the Ashes | 9.00% | ~26,724 |
+| The Hero of Hogwarts | 9.00% | ~26,725 |
+| Followed the Butterflies | 9.00% | ~26,725 |
+| Rising From the Ashes | 9.00% | ~26,725 |
 | A Sallow Grave | 8.00% | ~23,755 |
 | The Spell Master | 8.00% | ~23,755 |
 | The Avenging Gazelle | 7.00% | ~20,786 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 111)
 | Raising Expectations | 6.00% | ~17,816 |
 | Third Time's a Charm | 5.00% | ~14,847 |
 | The Ends Petrify the Means | 5.00% | ~14,847 |
-| The Toast of the Town | 4.00% | ~11,877 |
-| Going Through the Potions | 4.00% | ~11,877 |
-| Room with a View | 4.00% | ~11,877 |
-| The Intrepid Explorer | 4.00% | ~11,877 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,877 |
-| The Wise Owl | 4.00% | ~11,877 |
+| The Toast of the Town | 4.00% | ~11,878 |
+| Going Through the Potions | 4.00% | ~11,878 |
+| Room with a View | 4.00% | ~11,878 |
+| The Intrepid Explorer | 4.00% | ~11,878 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,878 |
+| The Wise Owl | 4.00% | ~11,878 |
 | Put Down Roots | 3.00% | ~8,908 |
 | Floo Around the World | 3.00% | ~8,908 |
 | The Good Samaritan | 2.00% | ~5,939 |
@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 111)
 | Demiguise Dread | 1.00% | ~2,969 |
 | A Forte for Achievement | 1.00% | ~2,969 |
 | Merlin's Beard! | 0.90% | ~2,672 |
-| Spilled Milk | 0.80% | ~2,375 |
+| Spilled Milk | 0.80% | ~2,376 |
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,937 (Ranked 44)  
+Progressed: 296,940 (Ranked 44)  
 Completed: 474 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,10 +203,10 @@ Completed: 474 (0.16%) (Ranked 205)
 | 2023-09-16 | 296,761 | 472 |
 | 2023-09-17 | 296,862 | 474 |
 | 2023-09-18 | 296,907 | 474 |
-| 2023-09-19 | 296,937 | 474 |
+| 2023-09-19 | 296,940 | 474 |
 ## Awards
 Max (Character Customization): 22,827  (Ranked 17)  
-Sum: 43,723 (Ranked 30)  
+Sum: 43,734 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -220,8 +220,8 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,009 |
 | This game is Highly Recommended | 990 |
 | This game has Quickly Understood Controls | 927 |
-| This game has Beautiful Visuals | 861 |
-| This game has a Creative Community | 657 |
+| This game has Beautiful Visuals | 869 |
+| This game has a Creative Community | 660 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -404,4 +404,4 @@ Diff (max vs sum): -13
 | 2023-09-16 | 4.77 | 22,752 | 43,493 |
 | 2023-09-17 | 4.77 | 22,799 | 43,623 |
 | 2023-09-18 | 4.77 | 22,827 | 43,717 |
-| 2023-09-19 | 4.77 | 22,827 | 43,723 |
+| 2023-09-19 | 4.77 | 22,827 | 43,734 |

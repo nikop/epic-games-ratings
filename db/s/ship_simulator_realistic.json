@@ -4,7 +4,7 @@
   "ProductSlug": "ship-simulator-realistic-434fc0",
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-21T18:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:31.2786354+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:04:20.8284867+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:04:11.0853901+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.0762667+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:58:58.6928437+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:04:20.8284897+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:58:51.9785412+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:04:11.0853933+00:00"
 }

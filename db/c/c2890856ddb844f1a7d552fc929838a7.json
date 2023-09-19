@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1879,9 +1879,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 478
     },
     {
       "ID": "AC34",
@@ -1911,9 +1911,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 203
     },
     {
       "ID": "AC38",
@@ -1992,8 +1992,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:03:37.2755921+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:03:31.4804319+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:57:30.7169135+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:03:37.275626+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:57:29.4622637+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:03:31.4804837+00:00"
 }

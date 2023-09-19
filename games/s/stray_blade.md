@@ -11,10 +11,10 @@
 | A new World ahead | 32.00% | ~26 |
 | Can't touch this | 28.00% | ~23 |
 | Don't Cry Wolf | 26.00% | ~21 |
-| Freezing Cold | 17.00% | ~14 |
+| Freezing Cold | 18.00% | ~15 |
 | Expert | 17.00% | ~14 |
+| Nothing but the Truth | 15.00% | ~12 |
 | Searing Heat | 13.00% | ~11 |
-| Nothing but the Truth | 13.00% | ~11 |
 | The Power of the Mountains | 13.00% | ~11 |
 | The Golden Flash | 12.00% | ~10 |
 | Changing the World | 11.00% | ~9 |
@@ -23,15 +23,15 @@
 | Through Dangers Untold | 9.00% | ~7 |
 | Witch | 9.00% | ~7 |
 | Craftsmen | 7.00% | ~6 |
+| Finally! | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
-| Finally! | 6.00% | ~5 |
+| A Deceiving Gift | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | Defeat Tezuth | 5.00% | ~4 |
 | Defeat Uskol | 5.00% | ~4 |
 | Bringing guns to a sword fight | 5.00% | ~4 |
 | Ancient Powers | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
-| A Deceiving Gift | 5.00% | ~4 |
 | Wayseeker | 4.00% | ~3 |
 | Pathfinder | 4.00% | ~3 |
 | The End | 4.00% | ~3 |

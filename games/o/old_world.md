@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~560 |
 | Oracle | 4.00% | ~560 |
 | Ambitious | 3.00% | ~420 |
+| Brilliant | 3.00% | ~420 |
 | Enlightened | 3.00% | ~420 |
 | Fountainhead | 3.00% | ~420 |
 | Glorious | 3.00% | ~420 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~280 |
 | Hanging Gardens in Babylon | 2.00% | ~280 |
 | Drillmaster | 2.00% | ~280 |
-| Brilliant | 2.00% | ~280 |
 | Great | 2.00% | ~280 |
 | Intercessor | 2.00% | ~280 |
 | Mighty | 2.00% | ~280 |

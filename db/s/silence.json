@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -172,6 +172,11 @@
       "Time": "2023-09-17T06:04:46.3456362+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T15:04:37.540301+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -263,7 +268,7 @@
       "Name": "The Green, the Fat, the Ugly",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "0000_achv_spotinteract",
@@ -271,7 +276,7 @@
       "Name": "Useless but beautiful",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "0000_achv_spotlick",
@@ -279,7 +284,7 @@
       "Name": "Lollipop",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "0000_achv_unstoppable",
@@ -309,15 +314,15 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
       "UsersEstimate": 60
     },
@@ -333,7 +338,7 @@
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 61
     },
@@ -381,9 +386,9 @@
       "ID": "2002_achv_taste",
       "SetID": "dhn82m5",
       "Name": "Haute cuisine",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "2004_achv_abyss",
@@ -407,7 +412,7 @@
       "Name": "Chapter II",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "2008_achv_bubble",
@@ -421,17 +426,17 @@
       "ID": "2008_achv_spotfly",
       "SetID": "dhn82m5",
       "Name": "Master of Thermodynamics",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "2009_achv_deathwheel",
       "SetID": "dhn82m5",
       "Name": "Death is a part of life",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -439,7 +444,7 @@
       "Name": "Life is but a dream",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "2009_achv_lifewheel",
@@ -455,7 +460,7 @@
       "Name": "Checkmate in 8 moves",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "3003_achv_allKyraTexts",
@@ -471,15 +476,15 @@
       "Name": "Fastidious Clown",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "3004_achv_sneeze",
       "SetID": "dhn82m5",
       "Name": "Achoo!!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -541,16 +546,16 @@
       "ID": "4004_achv_mirror",
       "SetID": "dhn82m5",
       "Name": "Mirror mirror on the wall...",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
@@ -558,8 +563,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:04:47.0936813+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:04:37.5403006+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:41.2824222+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:00:04.2733943+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:04:47.0937123+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:59:57.3603417+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:04:37.5403388+00:00"
 }

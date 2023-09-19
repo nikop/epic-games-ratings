@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -875,9 +875,9 @@
       "ID": "Old_Friend",
       "SetID": "ek310c",
       "Name": "A Familiar Face",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "Paparazzi",
@@ -940,8 +940,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:06:38.7534391+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:06:26.0960847+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:16.5027878+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:02:12.7713611+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:06:38.7534589+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:02:07.3599037+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:06:26.0961106+00:00"
 }

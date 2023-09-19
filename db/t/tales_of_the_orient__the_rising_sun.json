@@ -2,9 +2,9 @@
   "ID": "abb92d3abb7a40e7b05b473759947382",
   "Name": "Tales of the Orient: The Rising Sun",
   "ProductSlug": "tales-of-the-orient-the-rising-sun-001806",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-01T09:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -63,6 +63,11 @@
       "Time": "2023-09-10T01:50:28.0487671+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T15:08:19.2154818+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -72,15 +77,15 @@
       "ID": "TALES_1",
       "SetID": "c5idb6k",
       "Name": "Good Start",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TALES_10",
       "SetID": "c5idb6k",
       "Name": "10 Hours!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -96,17 +101,17 @@
       "ID": "TALES_12",
       "SetID": "c5idb6k",
       "Name": "Constructor",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 150,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TALES_13",
       "SetID": "c5idb6k",
       "Name": "Happy Ending",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TALES_2",
@@ -120,7 +125,7 @@
       "ID": "TALES_3",
       "SetID": "c5idb6k",
       "Name": "10 is good!",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -128,7 +133,7 @@
       "ID": "TALES_4",
       "SetID": "c5idb6k",
       "Name": "One-quarter mark",
-      "Percentage": 44,
+      "Percentage": 41,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -136,7 +141,7 @@
       "ID": "TALES_5",
       "SetID": "c5idb6k",
       "Name": "Half way!",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -144,7 +149,7 @@
       "ID": "TALES_6",
       "SetID": "c5idb6k",
       "Name": "Almost there!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -152,7 +157,7 @@
       "ID": "TALES_7",
       "SetID": "c5idb6k",
       "Name": "You did it!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -160,7 +165,7 @@
       "ID": "TALES_8",
       "SetID": "c5idb6k",
       "Name": "1 Hour!",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -168,7 +173,7 @@
       "ID": "TALES_9",
       "SetID": "c5idb6k",
       "Name": "5 Hours!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -201,7 +206,7 @@
     {
       "ID": "c5idb6k",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
@@ -209,8 +214,8 @@
   "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00",
   "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:08:23.8860933+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:08:19.2154814+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:38.7886116+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:00:03.8968618+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:08:23.886102+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:59:56.8427716+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:08:19.2154949+00:00"
 }

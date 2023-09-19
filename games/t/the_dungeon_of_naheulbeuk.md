@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,568 |
-| Alt+F4 | 5.00% | ~11,261 |
+| Sowwy! | 30.00% | ~67,570 |
+| Alt+F4 | 5.00% | ~11,262 |
 | Déjà vu | 4.00% | ~9,009 |
 | Where's that freaking Dwarf? | 4.00% | ~9,009 |
 | Sock! SOCK! | 3.00% | ~6,757 |
 | Speedrun | 3.00% | ~6,757 |
-| Livin' in a dwarven paradise | 2.00% | ~4,504 |
-| Way of the Wimp | 2.00% | ~4,504 |
-| A beer, two curses, three companions | 2.00% | ~4,504 |
-| The plot thickens... At the tavern | 2.00% | ~4,504 |
-| GG EZ | 2.00% | ~4,504 |
-| DM intervention | 2.00% | ~4,504 |
-| Fireproof Wizardess | 2.00% | ~4,504 |
+| Livin' in a dwarven paradise | 2.00% | ~4,505 |
+| Way of the Wimp | 2.00% | ~4,505 |
+| A beer, two curses, three companions | 2.00% | ~4,505 |
+| The plot thickens... At the tavern | 2.00% | ~4,505 |
+| GG EZ | 2.00% | ~4,505 |
+| DM intervention | 2.00% | ~4,505 |
+| Fireproof Wizardess | 2.00% | ~4,505 |
 | Shiny and Crôm | 1.00% | ~2,252 |
 | The demons' feast | 1.00% | ~2,252 |
 | The Great Library | 1.00% | ~2,252 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,225 (Ranked 58)  
+Progressed: 225,232 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,11 +206,11 @@ Completed: 3 (0.00%) (Ranked 277)
 | 2023-09-16 | 224,568 | 3 |
 | 2023-09-17 | 224,910 | 3 |
 | 2023-09-18 | 225,135 | 3 |
-| 2023-09-19 | 225,225 | 3 |
+| 2023-09-19 | 225,232 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
-Sum: 339 (Ranked 336)  
-Diff (max vs sum): -61  
+Sum: 340 (Ranked 335)  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 196 |
@@ -218,7 +218,7 @@ Diff (max vs sum): -61
 | This game is Great for Beginners | 27 |
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 22 |
-| This game has Quickly Understood Controls | 21 |
+| This game has Quickly Understood Controls | 22 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -358,4 +358,4 @@ Diff (max vs sum): -61
 | 2023-09-16 | 4.59 | - | 196 | 335 |
 | 2023-09-17 | 4.59 | - | 196 | 337 |
 | 2023-09-18 | 4.59 | - | 196 | 338 |
-| 2023-09-19 | 4.59 | - | 196 | 339 |
+| 2023-09-19 | 4.59 | - | 196 | 340 |

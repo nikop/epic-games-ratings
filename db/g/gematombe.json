@@ -4,7 +4,7 @@
   "ProductSlug": "gematombe-b47681",
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:17.6996532+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:59:39.1238898+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:06:13.4972217+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:59:33.3030823+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:06:01.105678+00:00"
 }

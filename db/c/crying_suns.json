@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467593,
+  "EOS_Progressed": 467597,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16534,6 +16534,11 @@
       "Time": "2023-09-19T14:03:30.4022318+00:00",
       "NumProgressed": 467593,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-19T15:03:24.3764876+00:00",
+      "NumProgressed": 467597,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16545,7 +16550,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70139
+      "UsersEstimate": 70140
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -16553,7 +16558,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70139
+      "UsersEstimate": 70140
     },
     {
       "ID": "achievement_first_death",
@@ -16561,7 +16566,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112222
+      "UsersEstimate": 112223
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -16569,7 +16574,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102870
+      "UsersEstimate": 102871
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -16577,7 +16582,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70139
+      "UsersEstimate": 70140
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -16585,7 +16590,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46759
+      "UsersEstimate": 46760
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -16593,7 +16598,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37407
+      "UsersEstimate": 37408
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -16633,7 +16638,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308611
+      "UsersEstimate": 308614
     },
     {
       "ID": "achievement_story_landa",
@@ -16657,7 +16662,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37407
+      "UsersEstimate": 37408
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -16665,7 +16670,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116898
+      "UsersEstimate": 116899
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -16697,7 +16702,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51435
+      "UsersEstimate": 51436
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -16705,7 +16710,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37407
+      "UsersEstimate": 37408
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -16713,7 +16718,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70139
+      "UsersEstimate": 70140
     },
     {
       "ID": "achievement_story_neon_child",
@@ -16729,7 +16734,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154306
+      "UsersEstimate": 154307
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -16737,7 +16742,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37407
+      "UsersEstimate": 37408
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -16969,7 +16974,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205741
+      "UsersEstimate": 205743
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -16977,7 +16982,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140278
+      "UsersEstimate": 140279
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -16993,7 +16998,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51435
+      "UsersEstimate": 51436
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -17001,7 +17006,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182361
+      "UsersEstimate": 182363
     },
     {
       "ID": "achievement_win_run_hard",
@@ -17049,7 +17054,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37407
+      "UsersEstimate": 37408
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -17057,7 +17062,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102870
+      "UsersEstimate": 102871
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -17176,21 +17181,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11527,
+      "Progressed": 11531,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467593,
+      "Progressed": 467597,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:03:30.4022314+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:03:24.3764871+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:49.9396656+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:59:11.0453194+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:03:30.4023766+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:59:05.5456445+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:03:24.3766641+00:00"
 }

@@ -110,9 +110,9 @@
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -294,9 +294,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -534,9 +534,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -574,9 +574,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -781,8 +781,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-19T14:03:27.9685939+00:00",
+  "LastChanged_Achievements": "2023-09-19T15:03:21.9828379+00:00",
   "LastUpdate_AppInfo": "2023-09-18T10:57:05.2673097+00:00",
-  "LastUpdate_Ratings": "2023-09-19T13:57:44.6773162+00:00",
-  "LastUpdate_Achievements": "2023-09-19T14:03:27.9686759+00:00"
+  "LastUpdate_Ratings": "2023-09-19T14:57:43.3958029+00:00",
+  "LastUpdate_Achievements": "2023-09-19T15:03:21.9829557+00:00"
 }
