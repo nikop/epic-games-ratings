@@ -582,6 +582,7 @@
 | [Luna's Fishing Garden](../games/l/luna's_fishing_garden.md) | 14 | 1,000 |
 | [The Devil's Face](../games/t/the_devil's_face.md) | 14 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
+| [The Riflemen](../games/t/the_riflemen.md) | 14 | 1,000 |
 | [Blanc](../games/b/blanc.md) | 13 | 1,000 |
 | [BloodRayne: Terminal Cut](../games/b/bloodrayne__terminal_cut.md) | 13 | 1,000 |
 | [ELEGIES Aya](../games/e/elegies_aya.md) | 13 | 1,000 |

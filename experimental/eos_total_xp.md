@@ -586,6 +586,7 @@
 | [The Making of Karateka](../games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 19 | 1,000 |
 | [The Many Pieces of Mr. Coo](../games/t/the_many_pieces_of_mr._coo.md) | 21 | 1,000 |
 | [The Outbound Ghost](../games/t/the_outbound_ghost.md) | 31 | 1,000 |
+| [The Riflemen](../games/t/the_riflemen.md) | 14 | 1,000 |
 | [The Shapeshifting Detective](../games/t/the_shapeshifting_detective.md) | 21 | 1,000 |
 | [The Spirit and the Mouse](../games/t/the_spirit_and_the_mouse.md) | 40 | 1,000 |
 | [The Suicide of Rachel Foster](../games/t/the_suicide_of_rachel_foster.md) | 11 | 1,000 |
