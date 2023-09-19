@@ -117,7 +117,7 @@
 | 111 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 39 | 430 |
 | 111 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 304 |
 | 111 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 519 |
-| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,351 | 23 |
+| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,360 | 23 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 519 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,335 | 92 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 955 | 149 |
@@ -552,7 +552,7 @@
 | 549 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 795 | 160 |
 | 549 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,126 | 80 |
 | 549 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 519 |
-| 549 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 148,509 | 7 |
+| 549 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 148,571 | 7 |
 | 549 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 110 | 330 |
 | 549 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 0 | 519 |
 | 549 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 149 | 302 |
@@ -618,28 +618,28 @@
 | 612 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 519 |
 | 612 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 519 |
 | 612 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,524 | 89 |
-| 612 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 519 |
 | 612 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.47 | 0 | 519 |
 | 612 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 514 |
 | 612 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 519 |
 | 612 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 519 |
 | 612 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 519 |
 | 612 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 519 |
-| 626 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 519 |
-| 626 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 519 |
-| 626 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,576 | 87 |
-| 626 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 458 |
-| 626 | [Faeria](games/f/faeria.md) | 4.46 | 111 | 329 |
-| 626 | [Figment](games/f/figment.md) | 4.46 | 20 | 514 |
-| 626 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 519 |
-| 626 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 519 |
-| 626 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 54 | 396 |
-| 626 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 519 |
-| 626 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 519 |
-| 626 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.46 | 0 | 519 |
-| 626 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 289 | 242 |
-| 626 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 519 |
-| 626 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 519 |
+| 625 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 519 |
+| 625 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 519 |
+| 625 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,576 | 87 |
+| 625 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 458 |
+| 625 | [Faeria](games/f/faeria.md) | 4.46 | 111 | 329 |
+| 625 | [Figment](games/f/figment.md) | 4.46 | 20 | 514 |
+| 625 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 519 |
+| 625 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 519 |
+| 625 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 519 |
+| 625 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 54 | 396 |
+| 625 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 519 |
+| 625 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 519 |
+| 625 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.46 | 0 | 519 |
+| 625 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 289 | 242 |
+| 625 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 519 |
+| 625 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 519 |
 | 641 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 247 | 258 |
 | 641 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 842 | 155 |
 | 641 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 108 | 332 |

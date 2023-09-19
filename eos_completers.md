@@ -74,7 +74,7 @@
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 74 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.98% |
+| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.99% |
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -92,7 +92,7 @@
 | 90 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 91 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
 | 92 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.29% |
-| 93 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
+| 93 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
 | 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
@@ -548,6 +548,7 @@
 | 277 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 0.00% |
 | 277 | [tERRORbane](games/t/terrorbane.md) | 0.00% |
 | 277 | [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 0.00% |
+| 277 | [The Bridge Curse Road to Salvation](games/0/0edc15388101433f8619477c7860311c.md) | 0.00% |
 | 277 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 0.00% |
 | 277 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 0.00% |
 | 277 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 0.00% |

@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 1,659 | - | - |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 1,746 | - | - |
 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2023-09-20 | 17 (1,000 XP) | 1 | - | - |
 | [Witchfire](games/w/witchfire.md) | 2023-09-20 | - |  | - | - |
 | [Evil Wizard](games/6/663ea0c5bcaa43fc8127b466ac781ac5.md) | 2023-09-20 | - |  | - | - |
@@ -29,7 +29,6 @@
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | 2023-09-30 | - |  | - | - |
 | [Cats Hidden in Italy](games/c/cats_hidden_in_italy.md) | 2023-09-30 | - |  | - | - |
 | [chaosMetaverse](games/9/9926944b03b14dc98d84869233860862.md) | 2023-09-30 | - |  | - | - |
-| [CoopValor WW2 Battle of the Bulge](games/a/a607d7b55d8a4a3ab898c28a16897c5e.md) | 2023-09-30 | - |  | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2023-09-30 | - |  | - | - |
 | [DEVOUR](games/d/devour.md) | 2023-09-30 | - |  | - | - |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-30 | 32 (1,000 XP) | 2 | - | - |
@@ -61,6 +60,7 @@
 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
 | [Dinobreak](games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 2023-10-04 | 25 (1,000 XP) | 1 | - | - |
 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-05 | - |  | - | - |
+| [Knight vs Giant: The Broken Excalibur](games/9/973549a03a1441058badf7a1bc8b565d.md) | 2023-10-05 | - |  | - | - |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-06 | 24 (1,000 XP) | 0 | - | - |
 | [Wild Card Football](games/3/3072dbe471f84dac8b2e9ba8af253ee2.md) | 2023-10-10 | - |  | - | 0 |
 | [Harvest Island](games/4/4057468aee2a495ab81771b1c4d61a5c.md) | 2023-10-10 | - |  | - | - |
@@ -87,6 +87,7 @@
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-10-31 | - |  | - | - |
 | [Black Hair Girl is Best Girl](games/5/5e519ea163f74060808d84dae8a3ff95.md) | 2023-10-31 | - |  | - | - |
 | [Brawlers](games/0/03daf1d62b1b42c0a2a5168d91cb61b2.md) | 2023-10-31 | - |  | - | - |
+| [CoopValor WW2 Battle of the Bulge](games/a/a607d7b55d8a4a3ab898c28a16897c5e.md) | 2023-10-31 | - |  | - | - |
 | [Hero Survival](games/9/9247eb45e73d4cccbd0b27d783e243e7.md) | 2023-10-31 | - |  | - | - |
 | [Lunar Axe](games/8/837d902a50ee4f9295d5f7d324306f1a.md) | 2023-10-31 | - |  | - | - |
 | [Survivor - Castaway Island](games/f/f8cbf321729f439aae9c088cbbebe93e.md) | 2023-10-31 | - |  | - | - |
@@ -348,7 +349,6 @@
 | [KAREN SEES](games/e/e53f61969af043f8a9cf3892b2371963.md) | 2099-01-01 | - |  | - | - |
 | [KarmaZoo](games/k/karmazoo.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
-| [Knight vs Giant: The Broken Excalibur](games/9/973549a03a1441058badf7a1bc8b565d.md) | 2099-01-01 | - |  | - | - |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | - |  | - | - |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | - |  | - | - |
