@@ -8,7 +8,7 @@ Rating: 4.33 (Ranked 774)
 | The First Step | 68.00% | ~754 |
 | First Blood | 64.00% | ~710 |
 | Ready to Learn | 62.00% | ~688 |
-| Monster Hunter | 52.00% | ~577 |
+| Monster Hunter | 53.00% | ~588 |
 | Earning Trust | 50.00% | ~554 |
 | Monster Slayer | 29.00% | ~322 |
 | Awakening | 23.00% | ~255 |

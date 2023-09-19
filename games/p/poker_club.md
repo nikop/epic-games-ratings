@@ -1,31 +1,31 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.81 (Ranked 976)  
+Rating: 3.80 (Ranked 977)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~398,812 |
-| Handy | 41.00% | ~215,148 |
-| Cold Caller | 39.00% | ~204,653 |
-| A Bit On The Side | 26.00% | ~136,436 |
-| Backdoor | 25.00% | ~131,188 |
-| Rank Amateur | 21.00% | ~110,198 |
-| Three Way | 18.00% | ~94,455 |
-| Deadly Assassin | 15.00% | ~78,713 |
-| Gutshot | 13.00% | ~68,218 |
-| Risk It For A Biscuit | 13.00% | ~68,218 |
-| Showoff | 13.00% | ~68,218 |
+| Pro Creation | 76.00% | ~398,817 |
+| Handy | 41.00% | ~215,151 |
+| Cold Caller | 39.00% | ~204,656 |
+| A Bit On The Side | 26.00% | ~136,437 |
+| Backdoor | 25.00% | ~131,190 |
+| Rank Amateur | 21.00% | ~110,199 |
+| Three Way | 18.00% | ~94,457 |
+| Deadly Assassin | 15.00% | ~78,714 |
+| Gutshot | 13.00% | ~68,219 |
+| Risk It For A Biscuit | 13.00% | ~68,219 |
+| Showoff | 13.00% | ~68,219 |
 | W.H.I.P. | 11.00% | ~57,723 |
 | Bet Bet Bet | 9.00% | ~47,228 |
 | Blindman's Bluff | 9.00% | ~47,228 |
 | Poker Joker | 9.00% | ~47,228 |
-| Never Give Up | 8.00% | ~41,980 |
-| Total Knock Out | 8.00% | ~41,980 |
+| Never Give Up | 8.00% | ~41,981 |
+| Total Knock Out | 8.00% | ~41,981 |
 | Dog Eat Dog | 7.00% | ~36,733 |
 | Quack Quack | 7.00% | ~36,733 |
 | The Bigger They Are | 7.00% | ~36,733 |
-| Give Your Regards To Broadway | 6.00% | ~31,485 |
+| Give Your Regards To Broadway | 6.00% | ~31,486 |
 | Check Yourself | 4.00% | ~20,990 |
 | Moneymaker | 4.00% | ~20,990 |
 | In The Gang | 3.00% | ~15,743 |
@@ -51,7 +51,7 @@ Rating: 3.81 (Ranked 976)
 | Rounder | 0.10% | ~525 |
 | Top Dog | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,752 (Ranked 34)  
+Progressed: 524,759 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2 (0.00%) (Ranked 277)
 | 2023-09-16 | 524,153 | 2 |
 | 2023-09-17 | 524,495 | 2 |
 | 2023-09-18 | 524,731 | 2 |
-| 2023-09-19 | 524,752 | 2 |
+| 2023-09-19 | 524,759 | 2 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 425)  
 Sum: 111 (Ranked 414)  
@@ -293,3 +293,4 @@ Diff (max vs sum): 11
 | 2023-09-15 | 3.80 | 40 | 110 |
 | 2023-09-16 | 3.81 | 40 | 110 |
 | 2023-09-17 | 3.81 | 41 | 111 |
+| 2023-09-19 | 3.80 | 41 | 111 |

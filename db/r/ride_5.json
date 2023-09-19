@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 947,
+  "EOS_Progressed": 948,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1249,6 +1249,11 @@
       "Time": "2023-09-18T22:07:02.9528326+00:00",
       "NumProgressed": 947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T03:03:08.8587938+00:00",
+      "NumProgressed": 948,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1261,7 +1266,7 @@
       "Name": "First Love",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1317,7 +1322,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -1451,7 +1456,7 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "c7hf6a4",
       "Name": "Exhausted but Happy",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -1469,7 +1474,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1549,7 +1554,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -1557,7 +1562,7 @@
       "Name": "Eat My Dust",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -1565,7 +1570,7 @@
       "Name": "Champagne Spray",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -1603,7 +1608,7 @@
       "ID": "ML_ACHIEVEMENT_44",
       "SetID": "c7hf6a4",
       "Name": "Overtaking the Master",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -1652,14 +1657,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 947,
+      "Progressed": 948,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-19T02:20:06.2643922+00:00",
+  "LastChanged_Achievements": "2023-09-19T03:03:08.8587931+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:16:19.7006121+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:20:06.2644969+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:59:19.6044922+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:03:08.8588543+00:00"
 }

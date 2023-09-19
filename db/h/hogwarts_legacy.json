@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7812,7 +7812,7 @@
       "Count": 657
     }
   ],
-  "EOS_Progressed": 296920,
+  "EOS_Progressed": 296922,
   "EOS_Completed": 474,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 4,
@@ -24227,6 +24227,11 @@
       "Time": "2023-09-19T02:22:20.721983+00:00",
       "NumProgressed": 296920,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-19T03:05:14.013354+00:00",
+      "NumProgressed": 296922,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24286,7 +24291,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20784
+      "UsersEstimate": 20785
     },
     {
       "ID": "PFA_16",
@@ -24302,7 +24307,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20784
+      "UsersEstimate": 20785
     },
     {
       "ID": "PFA_18",
@@ -24318,7 +24323,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20784
+      "UsersEstimate": 20785
     },
     {
       "ID": "PFA_2",
@@ -24358,7 +24363,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35630
+      "UsersEstimate": 35631
     },
     {
       "ID": "PFA_24",
@@ -24597,7 +24602,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296920,
+      "Progressed": 296922,
       "Completed": 474
     }
   ],
@@ -24605,8 +24610,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-18T22:58:03.6335777+00:00",
-  "LastChanged_Achievements": "2023-09-19T02:22:20.7219827+00:00",
+  "LastChanged_Achievements": "2023-09-19T03:05:14.0133534+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:14:41.1968532+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:22:20.7221128+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:57:49.9342092+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:05:14.0134663+00:00"
 }

@@ -3014,9 +3014,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72657,
+  "EOS_Progressed": 72658,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15949,6 +15949,11 @@
       "Time": "2023-09-19T02:21:29.0609327+00:00",
       "NumProgressed": 72657,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-19T03:04:25.7912991+00:00",
+      "NumProgressed": 72658,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16120,7 +16125,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9445
+      "UsersEstimate": 9446
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -16168,7 +16173,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9445
+      "UsersEstimate": 9446
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -16216,7 +16221,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -16280,7 +16285,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14531
+      "UsersEstimate": 14532
     },
     {
       "ID": "HARLEY_4",
@@ -16296,7 +16301,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -16328,7 +16333,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14531
+      "UsersEstimate": 14532
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16352,7 +16357,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24703
+      "UsersEstimate": 24704
     },
     {
       "ID": "MYSTERY_02",
@@ -16376,7 +16381,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14531
+      "UsersEstimate": 14532
     },
     {
       "ID": "MYSTERY_05",
@@ -16447,13 +16452,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72657,
+      "Progressed": 72658,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42937,
+      "Progressed": 42938,
       "Completed": 2663
     }
   ],
@@ -16461,8 +16466,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-18T20:00:41.0698941+00:00",
-  "LastChanged_Achievements": "2023-09-19T02:21:29.0609323+00:00",
+  "LastChanged_Achievements": "2023-09-19T03:04:25.7912985+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:17:33.6313081+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:21:29.0610647+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:00:24.929645+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:04:25.7914307+00:00"
 }

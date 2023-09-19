@@ -12,7 +12,7 @@
 | Can't touch this | 28.00% | ~23 |
 | Don't Cry Wolf | 26.00% | ~21 |
 | Freezing Cold | 17.00% | ~14 |
-| Expert | 16.00% | ~13 |
+| Expert | 17.00% | ~14 |
 | The Power of the Mountains | 13.00% | ~11 |
 | Searing Heat | 12.00% | ~10 |
 | Nothing but the Truth | 12.00% | ~10 |

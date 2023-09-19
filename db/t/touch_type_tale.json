@@ -2,7 +2,7 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 114,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3553,
+  "EOS_Progressed": 3555,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3634,6 +3634,11 @@
       "Time": "2023-09-19T02:24:38.9617157+00:00",
       "NumProgressed": 3553,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-19T03:07:22.4667317+00:00",
+      "NumProgressed": 3555,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3693,7 +3698,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "campaign10",
@@ -3733,7 +3738,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "campaign15",
@@ -3781,7 +3786,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "campaign20",
@@ -3797,7 +3802,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2169
     },
     {
       "ID": "campaign4",
@@ -3805,7 +3810,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "campaign5",
@@ -3813,7 +3818,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "campaign6",
@@ -3821,7 +3826,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "campaign7",
@@ -3837,7 +3842,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "campaign9",
@@ -3908,7 +3913,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3553,
+      "Progressed": 3555,
       "Completed": 11
     }
   ],
@@ -3916,8 +3921,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-19T02:24:38.9617153+00:00",
+  "LastChanged_Achievements": "2023-09-19T03:07:22.4667312+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:18:29.9436129+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:24:38.9617702+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:01:17.320727+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:07:22.4667678+00:00"
 }

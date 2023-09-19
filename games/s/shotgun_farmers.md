@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 79.00% | ~227 |
-| Aspairagus | 61.00% | ~145 |
-| First Blood | 60.00% | ~172 |
-| Triple Kill | 60.00% | ~172 |
+| Seeds of War | 79.00% | ~228 |
+| First Blood | 60.00% | ~173 |
+| Aspairagus | 60.00% | ~143 |
+| Triple Kill | 59.00% | ~170 |
 | No Asperascope | 57.00% | ~164 |
 | Survivor | 56.00% | ~133 |
-| Cornivore | 53.00% | ~152 |
+| Cornivore | 52.00% | ~150 |
 | I Believe I Can Fly | 50.00% | ~144 |
 | No Diggity | 43.00% | ~102 |
 | Early Survivor | 42.00% | ~100 |
-| Bouncemato | 31.00% | ~73 |
-| Amateur Survivor | 31.00% | ~73 |
+| Bouncemato | 31.00% | ~74 |
+| Amateur Survivor | 31.00% | ~74 |
 | 10K | 30.00% | ~86 |
-| 15K | 29.00% | ~83 |
+| 15K | 28.00% | ~81 |
 | Quick-Draw Pod | 23.00% | ~55 |
 | Drinking Problem | 22.00% | ~63 |
 | Professional Survivor | 22.00% | ~52 |
@@ -29,8 +29,8 @@
 | Getting Started | 15.00% | ~43 |
 | Eggtraordinary | 15.00% | ~43 |
 | This Is My Boomstick | 14.00% | ~33 |
-| Quit Horsin' Around | 12.00% | ~34 |
-| Summers Here | 12.00% | ~28 |
+| Quit Horsin' Around | 12.00% | ~35 |
+| Summers Here | 12.00% | ~29 |
 | Perfect | 11.00% | ~26 |
 | Fresh Pancake | 10.00% | ~29 |
 | Quadsparagus | 10.00% | ~24 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287 (Ranked 290)  
+Progressed: 288 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-15 | 284 | 0 |
 | 2023-09-17 | 286 | 0 |
 | 2023-09-18 | 287 | 0 |
+| 2023-09-19 | 288 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

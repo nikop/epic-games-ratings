@@ -7,7 +7,7 @@ Rating: 4.18 (Ranked 886)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~37,782 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,430 |
-| Loose Ends | 34.00% | ~24,703 |
+| Loose Ends | 34.00% | ~24,704 |
 | To the Victor Go the Spoils | 29.00% | ~21,071 |
 | Knighthood | 28.00% | ~20,344 |
 | Get ReQ'd | 25.00% | ~18,164 |
@@ -16,9 +16,9 @@ Rating: 4.18 (Ranked 886)
 | Lock and Key | 23.00% | ~16,711 |
 | Something in the Clay | 21.00% | ~15,258 |
 | Quartzer Life Crisis | 21.00% | ~15,258 |
-| Working Hard or Harley Working? | 20.00% | ~14,531 |
-| Unstoppable Force | 20.00% | ~14,531 |
-| Bad Apples in Every Orchard | 20.00% | ~14,531 |
+| Working Hard or Harley Working? | 20.00% | ~14,532 |
+| Unstoppable Force | 20.00% | ~14,532 |
+| Bad Apples in Every Orchard | 20.00% | ~14,532 |
 | Snow Problem | 19.00% | ~13,805 |
 | The Show Mud Go On | 18.00% | ~13,078 |
 | From Inside Gotham's Walls | 18.00% | ~13,078 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 886)
 | Rock and a Hard Place | 14.00% | ~10,172 |
 | Cooldown | 14.00% | ~10,172 |
 | Seeking Asylum | 14.00% | ~10,172 |
-| Not On My Watch | 13.00% | ~9,445 |
-| Shock Til They Drop | 13.00% | ~9,445 |
+| Not On My Watch | 13.00% | ~9,446 |
+| Shock Til They Drop | 13.00% | ~9,446 |
 | End of an Era | 12.00% | ~8,719 |
 | Bulldozed | 12.00% | ~8,719 |
 | Gotham Knight | 12.00% | ~8,719 |
@@ -51,9 +51,9 @@ Rating: 4.18 (Ranked 886)
 | The Man-Bat Family | 1.00% | ~727 |
 | Batarang Collector | 1.00% | ~727 |
 | Claiming the Mural High Ground | 1.00% | ~727 |
-| Icebreaker | 0.80% | ~343 |
+| Icebreaker | 0.80% | ~344 |
 | History Major | 0.80% | ~581 |
-| A Sophisticated Mallet | 0.80% | ~343 |
+| A Sophisticated Mallet | 0.80% | ~344 |
 | Read Owl About It | 0.70% | ~509 |
 | Gotham's Greatest Depths | 0.60% | ~258 |
 | Don't Mecha Big Deal About It | 0.60% | ~258 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 886)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,657 (Ranked 83)  
+Progressed: 72,658 (Ranked 83)  
 Completed: 114 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 114 (0.16%) (Ranked 205)
 | 2023-09-16 | 72,594 | 113 |
 | 2023-09-17 | 72,625 | 113 |
 | 2023-09-18 | 72,652 | 114 |
-| 2023-09-19 | 72,657 | 114 |
+| 2023-09-19 | 72,658 | 114 |
 ## Awards
 Max (Great Boss Battles): 2,708  (Ranked 96)  
 Sum: 4,497 (Ranked 139)  

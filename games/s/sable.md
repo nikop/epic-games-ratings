@@ -8,14 +8,14 @@ Number of Ratings: 43  (23.09.2022)
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~30,647 |
 | Just The Two of Us | 32.00% | ~28,844 |
-| Up On High | 25.00% | ~22,534 |
-| Under The Hood | 25.00% | ~22,534 |
+| Up On High | 25.00% | ~22,535 |
+| Under The Hood | 25.00% | ~22,535 |
 | Got Your Nose | 24.00% | ~21,633 |
 | The Gift of Gab | 24.00% | ~21,633 |
-| Wrapping Up | 22.00% | ~19,830 |
+| Wrapping Up | 22.00% | ~19,831 |
 | More Than A Box Of Sand | 18.00% | ~16,225 |
-| The Dunboyne | 17.00% | ~15,323 |
-| Badge Hobbyist | 17.00% | ~15,323 |
+| The Dunboyne | 17.00% | ~15,324 |
+| Badge Hobbyist | 17.00% | ~15,324 |
 | Chum Novice | 16.00% | ~14,422 |
 | Silver-Tongued Sable | 16.00% | ~14,422 |
 | Sticky Paws | 16.00% | ~14,422 |
@@ -34,12 +34,12 @@ Number of Ratings: 43  (23.09.2022)
 | Balfron Connection | 10.00% | ~9,014 |
 | Ceiling Of Stars | 10.00% | ~9,014 |
 | Playing Dress Up | 10.00% | ~9,014 |
-| Many Different Faces | 9.00% | ~8,112 |
-| Trellick's Pillar | 9.00% | ~8,112 |
-| Centre Of Brunswick | 9.00% | ~8,112 |
-| Bike Collector | 9.00% | ~8,112 |
-| Dune Rider | 9.00% | ~8,112 |
-| Not That Kind Of Gliding | 9.00% | ~8,112 |
+| Many Different Faces | 9.00% | ~8,113 |
+| Trellick's Pillar | 9.00% | ~8,113 |
+| Centre Of Brunswick | 9.00% | ~8,113 |
+| Bike Collector | 9.00% | ~8,113 |
+| Dune Rider | 9.00% | ~8,113 |
+| Not That Kind Of Gliding | 9.00% | ~8,113 |
 | The Scrapper Mask | 8.00% | ~7,211 |
 | Shadow Of Neave | 8.00% | ~7,211 |
 | Fragile Goods | 8.00% | ~7,211 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,704 |
 | Vivacious Vivarium | 2.00% | ~1,803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,138 (Ranked 76)  
+Progressed: 90,139 (Ranked 76)  
 Completed: 901 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 901 (1.00%) (Ranked 124)
 | 2023-09-16 | 89,702 | 895 |
 | 2023-09-17 | 89,959 | 900 |
 | 2023-09-18 | 90,110 | 901 |
-| 2023-09-19 | 90,138 | 901 |
+| 2023-09-19 | 90,139 | 901 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 490)  
 Sum: 86 (Ranked 426)  

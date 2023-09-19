@@ -10,14 +10,14 @@ Number of Ratings: 9,133  (23.09.2022)
 | Cavalier | 25.00% | ~200,466 |
 | Fatso | 23.00% | ~184,428 |
 | Awakening | 21.00% | ~168,391 |
-| Ranger | 20.00% | ~160,372 |
-| Scrooge | 20.00% | ~160,372 |
+| Ranger | 20.00% | ~160,373 |
+| Scrooge | 20.00% | ~160,373 |
 | Anorectic | 16.00% | ~128,298 |
 | Bookworm | 15.00% | ~120,279 |
 | Firestarter | 15.00% | ~120,279 |
 | Insomniac | 13.00% | ~104,242 |
-| Buddy | 12.00% | ~96,223 |
-| Thief | 12.00% | ~96,223 |
+| Buddy | 12.00% | ~96,224 |
+| Thief | 12.00% | ~96,224 |
 | Sinner | 11.00% | ~88,205 |
 | Traveller | 11.00% | ~88,205 |
 | Convict | 10.00% | ~80,186 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~40,093 |
 | Monk | 5.00% | ~40,093 |
 | Serial Killer | 5.00% | ~40,093 |
-| Bastard | 4.00% | ~32,074 |
-| Hunter | 4.00% | ~32,074 |
-| Plague Doctor | 4.00% | ~32,074 |
+| Bastard | 4.00% | ~32,075 |
+| Hunter | 4.00% | ~32,075 |
+| Plague Doctor | 4.00% | ~32,075 |
 | Bard | 3.00% | ~24,056 |
 | Conqueror | 3.00% | ~24,056 |
 | Ginger in a Pickle | 3.00% | ~24,056 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~802 |
 | Wingman | 0.10% | ~802 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,862 (Ranked 16)  
+Progressed: 801,863 (Ranked 16)  
 Completed: 47 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,22 +241,22 @@ Completed: 47 (0.01%) (Ranked 263)
 | 2023-09-16 | 801,578 | 47 |
 | 2023-09-17 | 801,749 | 47 |
 | 2023-09-18 | 801,851 | 47 |
-| 2023-09-19 | 801,862 | 47 |
+| 2023-09-19 | 801,863 | 47 |
 ## Awards
 Max (Character Customization): 7,455  (Ranked 47)  
-Sum: 27,775 (Ranked 47)  
+Sum: 27,777 (Ranked 47)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,455 |
 | This game has Great Boss Battles | 5,490 |
 | This game has Challenging Combat | 1,739 |
-| This game has Amazing Storytelling | 1,697 |
+| This game has Amazing Storytelling | 1,698 |
 | This game has Diverse Characters | 1,688 |
 | This game is Extremely Fun | 1,667 |
 | This game is Highly Recommended | 1,661 |
 | This game has Amazing Characters | 1,642 |
-| This game has Realistic Visuals | 1,637 |
+| This game has Realistic Visuals | 1,638 |
 | This game is Educational | 1,584 |
 | This game is Relaxing | 1,515 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -499,3 +499,4 @@ Diff (max vs sum): 0
 | 2023-09-16 | 4.71 | - | 7,451 | 27,757 |
 | 2023-09-17 | 4.71 | - | 7,452 | 27,765 |
 | 2023-09-18 | 4.71 | - | 7,455 | 27,775 |
+| 2023-09-19 | 4.71 | - | 7,455 | 27,777 |

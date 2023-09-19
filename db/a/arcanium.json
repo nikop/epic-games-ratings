@@ -2,7 +2,7 @@
   "ID": "164204939e7f4c9aae8349a62355befe",
   "Name": "Arcanium",
   "ProductSlug": "arcanium-ab22e4",
-  "Ranking_EOS_Progress": 603,
+  "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 114,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:27.5226342+00:00",
   "LastChanged": "2023-03-31T05:57:27.5226343+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.2151935+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:17:06.8837924+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:23:04.1120987+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:00:01.0682143+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:05:54.6495471+00:00"
 }

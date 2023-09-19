@@ -2,7 +2,7 @@
   "ID": "8d4a32fcfce3401e96e1cbe349b8d859",
   "Name": "Kosmokrats",
   "ProductSlug": "kosmokrats",
-  "Ranking_EOS_Progress": 603,
+  "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 114,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.5095997+00:00",
   "LastChanged": "2023-03-31T05:57:10.5095998+00:00",
   "LastUpdate_AppInfo": "2023-09-16T05:57:01.3130381+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:14:29.9365948+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:22:30.5514787+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:57:39.6568771+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:05:23.4039542+00:00"
 }

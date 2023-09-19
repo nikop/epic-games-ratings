@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6153,
+  "EOS_Progressed": 6154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1921,6 +1921,11 @@
       "Time": "2023-09-19T02:23:49.2970307+00:00",
       "NumProgressed": 6153,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T03:06:36.350497+00:00",
+      "NumProgressed": 6154,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2123,9 +2128,9 @@
       "ID": "HASPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Heal and Shield",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 800
     },
     {
       "ID": "HAUpgraded1",
@@ -2524,14 +2529,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6153,
+      "Progressed": 6154,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-19T02:23:49.2970302+00:00",
+  "LastChanged_Achievements": "2023-09-19T03:06:36.3504965+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:18:39.6860814+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:23:49.2971438+00:00"
+  "LastUpdate_Ratings": "2023-09-19T03:01:26.2665116+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:06:36.350573+00:00"
 }

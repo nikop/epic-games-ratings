@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,586 |
+| A Brief Tour of the Realms | 2.00% | ~4,587 |
 | Beast Intentions | 0.80% | ~1,835 |
 | The Cursed Farmer | 0.70% | ~1,605 |
 | The Mad Wizard | 0.60% | ~1,376 |
@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.20% | ~459 |
 | Flying Monkey Skulls of Doom | 0.20% | ~459 |
 | Lair of the Xanathar | 0.20% | ~459 |
+| Waterdeep Under Siege | 0.20% | ~459 |
 | The Darkness Runs Deeper | 0.20% | ~459 |
 | Difficult Terrain | 0.20% | ~459 |
 | Running of the Saurs | 0.20% | ~459 |
@@ -324,7 +325,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.10% | ~229 |
 | Feigned Weakness | 0.10% | ~229 |
 | DPS in the Deeps | 0.10% | ~196 |
-| Waterdeep Under Siege | 0.10% | ~229 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~229 |
 | Sober Up | 0.10% | ~229 |
 | In The Beginning | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,323 (Ranked 57)  
+Progressed: 229,326 (Ranked 57)  
 Completed: 2,294 (1.00%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,7 +679,7 @@ Completed: 2,294 (1.00%) (Ranked 124)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,323 | 2,294 |
+| 2023-09-19 | 229,326 | 2,294 |
 ## Awards
 Max (Diverse Characters): 5,285  (Ranked 67)  
 Sum: 31,638 (Ranked 39)  

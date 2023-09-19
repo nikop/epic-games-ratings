@@ -8,6 +8,7 @@ Rating: 4.50 (Ranked 568)
 | Stylish | 0.50% | ~129 |
 | Advancement | 0.40% | ~104 |
 | Meticulously Efficient | 0.40% | ~104 |
+| Back Off | 0.30% | ~78 |
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Discovery | 0.30% | ~78 |
 | Fully Upgraded | 0.30% | ~78 |
@@ -16,7 +17,6 @@ Rating: 4.50 (Ranked 568)
 | Vaporous Expansion | 0.30% | ~78 |
 | Whoopsie | 0.30% | ~78 |
 | Animated | 0.20% | ~52 |
-| Back Off | 0.20% | ~52 |
 | Clutch Capture | 0.20% | ~52 |
 | Cultured | 0.20% | ~52 |
 | Ectoplasmic Entity | 0.20% | ~52 |

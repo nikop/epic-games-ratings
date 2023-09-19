@@ -1742,9 +1742,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 58629,
+  "EOS_Progressed": 58630,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18342,6 +18342,11 @@
       "Time": "2023-09-19T02:24:06.5089523+00:00",
       "NumProgressed": 58629,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-19T03:06:52.2111966+00:00",
+      "NumProgressed": 58630,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -18353,7 +18358,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 32246
+      "UsersEstimate": 32247
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -18393,7 +18398,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -18409,7 +18414,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -18577,7 +18582,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -18609,7 +18614,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 18761
+      "UsersEstimate": 18762
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -18641,7 +18646,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36936
+      "UsersEstimate": 36937
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -18649,7 +18654,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7035
+      "UsersEstimate": 7036
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -18697,7 +18702,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -18824,15 +18829,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 58629,
+      "Progressed": 58630,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-17T09:00:12.2978228+00:00",
-  "LastChanged_Achievements": "2023-09-19T02:24:06.5089519+00:00",
+  "LastChanged_Achievements": "2023-09-19T03:06:52.2111962+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:45.4198616+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:16:17.1542343+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:24:06.5091026+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:59:17.1394919+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:06:52.2113236+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6742,9 +6742,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229323,
+  "EOS_Progressed": 229326,
   "EOS_Completed": 2294,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23547,6 +23547,11 @@
       "Time": "2023-09-19T02:25:00.6285883+00:00",
       "NumProgressed": 229323,
       "NumCompleted": 2294
+    },
+    {
+      "Time": "2023-09-19T03:07:42.8667647+00:00",
+      "NumProgressed": 229326,
+      "NumCompleted": 2294
     }
   ],
   "TotalAchievements": 520,
@@ -23558,7 +23563,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "objective_completed_10",
@@ -25812,9 +25817,9 @@
       "ID": "objective_completed_555",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Under Siege",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_556",
@@ -27717,21 +27722,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195597,
+      "Progressed": 195600,
       "Completed": 3437
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229323,
+      "Progressed": 229326,
       "Completed": 2294
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T01:41:01.7702049+00:00",
-  "LastChanged_Achievements": "2023-09-19T02:25:00.6285876+00:00",
+  "LastChanged_Achievements": "2023-09-19T03:07:42.8667641+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-19T02:15:22.9198329+00:00",
-  "LastUpdate_Achievements": "2023-09-19T02:25:00.6318453+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:58:28.5278219+00:00",
+  "LastUpdate_Achievements": "2023-09-19T03:07:42.869434+00:00"
 }

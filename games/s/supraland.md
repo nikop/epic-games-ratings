@@ -6,22 +6,22 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~718,919 |
-| The Blues | 85.00% | ~617,254 |
-| Fast | 66.00% | ~479,279 |
-| Healthbar | 55.00% | ~399,400 |
-| Force Cube | 53.00% | ~384,876 |
-| Double Jump | 48.00% | ~348,567 |
-| Regeneration | 47.00% | ~341,305 |
-| Triple Jump | 43.00% | ~312,258 |
-| Climb the hill | 42.00% | ~304,996 |
+| Out of bed | 99.00% | ~718,921 |
+| The Blues | 85.00% | ~617,256 |
+| Fast | 66.00% | ~479,281 |
+| Healthbar | 55.00% | ~399,401 |
+| Force Cube | 53.00% | ~384,877 |
+| Double Jump | 48.00% | ~348,568 |
+| Regeneration | 47.00% | ~341,306 |
+| Triple Jump | 43.00% | ~312,259 |
+| Climb the hill | 42.00% | ~304,997 |
 | Through the fire pipe | 39.00% | ~283,211 |
-| MacGuffin | 38.00% | ~275,949 |
-| Just once | 37.00% | ~268,687 |
-| Armor | 30.00% | ~217,854 |
+| MacGuffin | 38.00% | ~275,950 |
+| Just once | 37.00% | ~268,688 |
+| Armor | 30.00% | ~217,855 |
 | True holy spirit | 28.00% | ~203,331 |
-| That's how electronics work obviously | 26.00% | ~188,807 |
-| Force Cube Catapult | 25.00% | ~181,545 |
+| That's how electronics work obviously | 26.00% | ~188,808 |
+| Force Cube Catapult | 25.00% | ~181,546 |
 | Holy Sword | 23.00% | ~167,022 |
 | Telefrag | 23.00% | ~167,022 |
 | Freed from prison | 21.00% | ~152,498 |
@@ -31,7 +31,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Green Keycard | 17.00% | ~123,451 |
 | All Shells | 15.00% | ~108,927 |
 | Rattle Hag | 15.00% | ~108,927 |
-| Beam | 14.00% | ~101,665 |
+| Beam | 14.00% | ~101,666 |
 | Health Drink | 13.00% | ~94,404 |
 | Helped a star | 13.00% | ~94,404 |
 | 9 | 13.00% | ~94,404 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~726 |
 | DLC: Top of the world | 0.10% | ~726 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,181 (Ranked 19)  
+Progressed: 726,183 (Ranked 19)  
 Completed: 735 (0.10%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 735 (0.10%) (Ranked 223)
 | 2023-09-16 | 725,919 | 735 |
 | 2023-09-17 | 726,075 | 735 |
 | 2023-09-18 | 726,173 | 735 |
-| 2023-09-19 | 726,181 | 735 |
+| 2023-09-19 | 726,183 | 735 |
 ## Awards
 Max (Challenging Puzzles): 7,685  (Ranked 46)  
 Sum: 10,017 (Ranked 87)  
