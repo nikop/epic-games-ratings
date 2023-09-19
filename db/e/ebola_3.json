@@ -1199,9 +1199,9 @@
       "ID": "achCity",
       "SetID": "72gjli4",
       "Name": "City \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "achCoinOne",
@@ -1536,8 +1536,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:05:44.6690404+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:05:59.1315038+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:56.0185522+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:01:21.1687654+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:05:44.6690926+00:00"
+  "LastUpdate_Ratings": "2023-09-19T12:02:16.9682131+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:05:59.1315598+00:00"
 }

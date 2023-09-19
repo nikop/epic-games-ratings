@@ -9,8 +9,8 @@ Rating: 4.77 (Ranked 111)
 | First Class Student | 13.00% | ~38,601 |
 | Troll with the Punches | 13.00% | ~38,601 |
 | A Keen Sense of Spell | 12.00% | ~35,632 |
-| A Talent for Spending | 11.00% | ~32,662 |
-| That's a Keeper | 11.00% | ~32,662 |
+| A Talent for Spending | 11.00% | ~32,663 |
+| That's a Keeper | 11.00% | ~32,663 |
 | Grappling with a Graphorn | 10.00% | ~29,693 |
 | The One Who Mastered Memories | 10.00% | ~29,693 |
 | The Hallowed Hero | 10.00% | ~29,693 |
@@ -21,16 +21,16 @@ Rating: 4.77 (Ranked 111)
 | The Hero of Hogwarts | 9.00% | ~26,724 |
 | Followed the Butterflies | 9.00% | ~26,724 |
 | Rising From the Ashes | 9.00% | ~26,724 |
-| A Sallow Grave | 8.00% | ~23,754 |
-| The Spell Master | 8.00% | ~23,754 |
+| A Sallow Grave | 8.00% | ~23,755 |
+| The Spell Master | 8.00% | ~23,755 |
 | The Avenging Gazelle | 7.00% | ~20,785 |
 | Beast Friends | 7.00% | ~20,785 |
 | Flight the Good Flight | 7.00% | ~20,785 |
 | The Seeker of Knowledge | 6.00% | ~17,816 |
+| The Root of the Problem | 6.00% | ~17,816 |
 | Raising Expectations | 6.00% | ~17,816 |
-| The Root of the Problem | 5.00% | ~14,846 |
-| Third Time's a Charm | 5.00% | ~14,846 |
-| The Ends Petrify the Means | 5.00% | ~14,846 |
+| Third Time's a Charm | 5.00% | ~14,847 |
+| The Ends Petrify the Means | 5.00% | ~14,847 |
 | The Toast of the Town | 4.00% | ~11,877 |
 | Going Through the Potions | 4.00% | ~11,877 |
 | Room with a View | 4.00% | ~11,877 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 111)
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,930 (Ranked 44)  
+Progressed: 296,932 (Ranked 44)  
 Completed: 474 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 474 (0.16%) (Ranked 205)
 | 2023-09-16 | 296,761 | 472 |
 | 2023-09-17 | 296,862 | 474 |
 | 2023-09-18 | 296,907 | 474 |
-| 2023-09-19 | 296,930 | 474 |
+| 2023-09-19 | 296,932 | 474 |
 ## Awards
 Max (Character Customization): 22,827  (Ranked 17)  
 Sum: 43,717 (Ranked 30)  

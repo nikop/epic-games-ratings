@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1225,6 +1225,11 @@
       "Time": "2023-09-18T03:06:08.0050163+00:00",
       "NumProgressed": 518,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T12:07:42.0489411+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1236,7 +1241,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BreakLegs",
@@ -1260,7 +1265,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Chapter10",
@@ -1268,7 +1273,7 @@
       "Name": "The Friend",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Chapter2",
@@ -1284,7 +1289,7 @@
       "Name": "The Breeder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Chapter4",
@@ -1292,7 +1297,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Chapter5",
@@ -1338,9 +1343,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 270
     },
     {
       "ID": "Collectibles2",
@@ -1523,14 +1528,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:07:12.7055963+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:07:42.0489407+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:02.4007324+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:03:20.6834175+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:07:12.7056305+00:00"
+  "LastUpdate_Ratings": "2023-09-19T12:02:50.5305668+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:07:42.0489743+00:00"
 }

@@ -1767,9 +1767,9 @@
       "ID": "ACH_HUB1",
       "SetID": "232494e",
       "Name": "Mission Success",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_HUB2",
@@ -1847,9 +1847,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     }
   ],
   "AchievementSets": [
@@ -1863,8 +1863,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:03:42.3256697+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:03:26.8891843+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-19T10:58:06.770407+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:03:42.3256995+00:00"
+  "LastUpdate_Ratings": "2023-09-19T11:58:26.9356019+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:03:26.8892117+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65763,
+  "EOS_Progressed": 65765,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15177,6 +15177,11 @@
       "Time": "2023-09-19T11:04:29.7981634+00:00",
       "NumProgressed": 65763,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-19T12:04:31.5241638+00:00",
+      "NumProgressed": 65765,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15188,7 +15193,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26963
+      "UsersEstimate": 26964
     },
     {
       "ID": "02",
@@ -15196,7 +15201,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17098
+      "UsersEstimate": 17099
     },
     {
       "ID": "03",
@@ -15228,7 +15233,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11837
+      "UsersEstimate": 11838
     },
     {
       "ID": "07",
@@ -15316,7 +15321,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "18",
@@ -15348,7 +15353,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "22",
@@ -15412,7 +15417,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "30",
@@ -15436,7 +15441,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21044
+      "UsersEstimate": 21045
     },
     {
       "ID": "33",
@@ -15444,7 +15449,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "34",
@@ -15460,7 +15465,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22359
+      "UsersEstimate": 22360
     },
     {
       "ID": "36",
@@ -15524,7 +15529,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11837
+      "UsersEstimate": 11838
     },
     {
       "ID": "44",
@@ -15588,7 +15593,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "52",
@@ -15723,21 +15728,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65763,
+      "Progressed": 65765,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29231,
+      "Progressed": 29233,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:04:29.7981627+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:04:31.5241631+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-19T10:58:24.4104952+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:04:29.7983403+00:00"
+  "LastUpdate_Ratings": "2023-09-19T11:58:48.4878361+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:04:31.5243343+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let the Adventure Begin! | 59.00% | ~19 |
-| Prized Possession | 31.00% | ~10 |
+| Prized Possession | 34.00% | ~11 |
 | Creature Evolution | 28.00% | ~9 |
 | Spirit of competition | 28.00% | ~9 |
 | Think Positive | 22.00% | ~7 |

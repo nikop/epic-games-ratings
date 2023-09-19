@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.38,
+  "EOS_Completed_Percentage": 7.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -181,6 +181,11 @@
       "Time": "2023-09-17T19:11:05.9720185+00:00",
       "NumProgressed": 122,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-19T12:08:42.8615617+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -192,15 +197,15 @@
       "Name": "Wrench",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "02_Soap",
       "SetID": "681m9fa",
       "Name": "Soap",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "03_Cassette",
@@ -208,15 +213,15 @@
       "Name": "Cassette",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "04_Mug",
       "SetID": "681m9fa",
       "Name": "Mug",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "05_TimeCapsule",
@@ -270,9 +275,9 @@
       "ID": "11_Itsinthevault",
       "SetID": "681m9fa",
       "Name": "It\u2019s in the Vault",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "12_Purrfect",
@@ -280,15 +285,15 @@
       "Name": "Purr-fect",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "13_DrAntivirus",
       "SetID": "681m9fa",
       "Name": "Dr. Antivirus",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "14_VhsBlogger",
@@ -302,15 +307,15 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     },
     {
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 74
     },
@@ -320,15 +325,15 @@
       "Name": "Capacitors",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "18_SolderingIron",
       "SetID": "681m9fa",
       "Name": "Soldering iron",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "19_Harpoon",
@@ -352,7 +357,7 @@
       "Name": "Robot Bros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -376,7 +381,7 @@
       "Name": "Here we go again",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "25_LeaveMeAlone",
@@ -400,13 +405,13 @@
       "Name": "Act 1",
       "Percentage": 34,
       "XP": 70,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "28_Act2",
       "SetID": "681m9fa",
       "Name": "Act 2",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 70,
       "UsersEstimate": 30
     },
@@ -423,7 +428,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 9
     }
   ],
@@ -431,8 +436,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:08:15.3750227+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:08:42.861561+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.5450266+00:00",
-  "LastUpdate_Ratings": "2023-09-19T10:58:48.1740106+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:08:15.375046+00:00"
+  "LastUpdate_Ratings": "2023-09-19T11:59:15.245904+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:08:42.8615827+00:00"
 }

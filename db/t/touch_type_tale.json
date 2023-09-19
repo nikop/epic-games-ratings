@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3579,
+  "EOS_Progressed": 3582,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3679,6 +3679,11 @@
       "Time": "2023-09-19T11:07:31.7968328+00:00",
       "NumProgressed": 3579,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-19T12:08:04.0426071+00:00",
+      "NumProgressed": 3582,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3690,7 +3695,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "bonus2",
@@ -3738,7 +3743,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3152
     },
     {
       "ID": "campaign10",
@@ -3826,7 +3831,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2758
     },
     {
       "ID": "campaign20",
@@ -3842,15 +3847,15 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2185
     },
     {
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1540
     },
     {
       "ID": "campaign5",
@@ -3882,7 +3887,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "campaign9",
@@ -3890,7 +3895,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "scenario1",
@@ -3898,7 +3903,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "scenario2",
@@ -3906,7 +3911,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "scenario3",
@@ -3920,9 +3925,9 @@
       "ID": "scenario4",
       "SetID": "2h56gn1",
       "Name": "A Secret Recipe",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 179
     },
     {
       "ID": "scenario5",
@@ -3953,7 +3958,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3579,
+      "Progressed": 3582,
       "Completed": 11
     }
   ],
@@ -3961,8 +3966,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:07:31.7968321+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:08:04.0426062+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:01:21.0055039+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:07:31.7968867+00:00"
+  "LastUpdate_Ratings": "2023-09-19T12:02:16.693426+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:08:04.0426596+00:00"
 }

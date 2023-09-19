@@ -4,7 +4,7 @@
   "ProductSlug": "skye-tales-02bf5b",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-16T23:00:00+00:00",
@@ -309,9 +309,9 @@
       "ID": "One Dragon Band",
       "SetID": "dene75h",
       "Name": "One Dragon Band",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Perfect Recall",
@@ -397,9 +397,9 @@
       "ID": "Squirrelly",
       "SetID": "dene75h",
       "Name": "Squirrelly",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Sweeter Shooter",
@@ -436,8 +436,8 @@
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:09:26.8461054+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:09:18.8783815+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.5727546+00:00",
-  "LastUpdate_Ratings": "2023-09-19T10:57:17.0851765+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:09:26.8461383+00:00"
+  "LastUpdate_Ratings": "2023-09-19T11:57:28.2787816+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:09:18.878417+00:00"
 }

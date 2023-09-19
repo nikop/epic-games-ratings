@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 64.00% | ~78 |
-| Springs | 61.00% | ~74 |
-| Soap | 42.00% | ~51 |
-| Act 1 | 34.00% | ~41 |
-| Wrench | 33.00% | ~40 |
-| Purr-fect | 33.00% | ~40 |
-| Capacitors | 33.00% | ~40 |
-| Mug | 30.00% | ~37 |
-| Soldering iron | 29.00% | ~35 |
-| Robot Bros | 25.00% | ~30 |
-| Act 2 | 25.00% | ~30 |
+| Screwdriver | 63.00% | ~77 |
+| Springs | 60.00% | ~74 |
+| Soap | 41.00% | ~50 |
+| Act 1 | 34.00% | ~42 |
+| Wrench | 33.00% | ~41 |
+| Purr-fect | 33.00% | ~41 |
+| Capacitors | 33.00% | ~41 |
+| Mug | 29.00% | ~36 |
+| Soldering iron | 28.00% | ~34 |
+| Robot Bros | 25.00% | ~31 |
+| Act 2 | 24.00% | ~30 |
 | Harpoon | 21.00% | ~26 |
 | Act 3 | 21.00% | ~26 |
-| Cassette | 20.00% | ~24 |
-| Here we go again | 20.00% | ~24 |
+| Cassette | 20.00% | ~25 |
+| Here we go again | 20.00% | ~25 |
 | Flyer | 18.00% | ~22 |
-| It’s in the Vault | 16.00% | ~20 |
-| Dr. Antivirus | 16.00% | ~20 |
+| It’s in the Vault | 15.00% | ~18 |
+| Dr. Antivirus | 15.00% | ~18 |
 | Access protocol | 15.00% | ~18 |
 | Photo | 14.00% | ~17 |
 | Time Capsule | 13.00% | ~16 |
@@ -34,8 +34,8 @@
 | Leave me alone | 8.00% | ~10 |
 | Secret ending | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 342)  
-Completed: 9 (7.38%) (Ranked 38)  
+Progressed: 123 (Ranked 342)  
+Completed: 9 (7.32%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,6 +63,7 @@ Completed: 9 (7.38%) (Ranked 38)
 | 2023-08-14 | 118 | 8 |
 | 2023-09-03 | 120 | 9 |
 | 2023-09-17 | 122 | 9 |
+| 2023-09-19 | 123 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

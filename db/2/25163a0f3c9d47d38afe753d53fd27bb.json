@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.72,
+  "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2481,6 +2481,11 @@
       "Time": "2023-09-19T11:06:39.6311209+00:00",
       "NumProgressed": 718,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-19T12:07:03.4858755+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 30,
@@ -2492,7 +2497,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "LEVEL_002",
@@ -2500,7 +2505,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "LEVEL_003",
@@ -2514,9 +2519,9 @@
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 424
     },
     {
       "ID": "LEVEL_005",
@@ -2546,9 +2551,9 @@
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 244
     },
     {
       "ID": "LEVEL_009",
@@ -2556,7 +2561,7 @@
       "Name": "Going zig zag",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "LEVEL_010",
@@ -2572,7 +2577,7 @@
       "Name": "This island of mine",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "LEVEL_012",
@@ -2716,7 +2721,7 @@
       "Name": "Bridges connect us",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_030",
@@ -2724,21 +2729,21 @@
       "Name": "Celebration with Cake and Balloons",
       "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:06:39.63112+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:07:03.4858749+00:00",
   "LastUpdate_AppInfo": "2023-09-18T22:57:19.1812695+00:00",
-  "LastUpdate_Ratings": "2023-09-19T10:57:51.4421658+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:06:39.631163+00:00"
+  "LastUpdate_Ratings": "2023-09-19T11:58:08.784586+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:07:03.4859122+00:00"
 }

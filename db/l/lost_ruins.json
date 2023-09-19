@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -776,6 +776,11 @@
       "Time": "2023-09-10T02:23:19.8734063+00:00",
       "NumProgressed": 436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T12:05:38.4142616+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -905,9 +910,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 166
     },
     {
       "ID": "Librarian",
@@ -987,7 +992,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Roughneck",
@@ -1106,7 +1111,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 0
     }
   ],
@@ -1114,8 +1119,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:05:27.3976395+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:05:38.4142608+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.131083+00:00",
-  "LastUpdate_Ratings": "2023-09-19T11:00:56.5554893+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:05:27.3976789+00:00"
+  "LastUpdate_Ratings": "2023-09-19T12:01:49.1214473+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:05:38.4142962+00:00"
 }

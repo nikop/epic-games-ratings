@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6161,
+  "EOS_Progressed": 6164,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1946,6 +1946,11 @@
       "Time": "2023-09-19T09:06:03.907745+00:00",
       "NumProgressed": 6161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T12:07:15.1483279+00:00",
+      "NumProgressed": 6164,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1966,7 +1971,7 @@
       "Name": "Upgraded Accelerated Reload to Level 3",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ArachnidKills1",
@@ -1982,7 +1987,7 @@
       "Name": "Purchased Blink Dash",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "BIUpgraded1",
@@ -2014,7 +2019,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "DHUpgraded1",
@@ -2030,7 +2035,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "EAUpgraded1",
@@ -2070,7 +2075,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "GamesPlayed1",
@@ -2078,7 +2083,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "GamesPlayed10",
@@ -2102,7 +2107,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "GamesWon10",
@@ -2166,7 +2171,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "HSPurchased1",
@@ -2302,7 +2307,7 @@
       "Name": "Eliminated 150 Minions in a single match",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "MaxNeutralKills150",
@@ -2366,7 +2371,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "NeutralKills200",
@@ -2438,7 +2443,7 @@
       "Name": "Purchased Rally Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "RFSPurchased1",
@@ -2454,7 +2459,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "SEUpgraded1",
@@ -2549,14 +2554,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6161,
+      "Progressed": 6164,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-19T11:06:49.4921346+00:00",
+  "LastChanged_Achievements": "2023-09-19T12:07:15.1483272+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-19T10:57:15.6178837+00:00",
-  "LastUpdate_Achievements": "2023-09-19T11:06:49.4922297+00:00"
+  "LastUpdate_Ratings": "2023-09-19T11:57:26.5740073+00:00",
+  "LastUpdate_Achievements": "2023-09-19T12:07:15.1484482+00:00"
 }
