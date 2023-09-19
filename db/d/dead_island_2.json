@@ -4594,10 +4594,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9070,
       "NumberOfAwardsMax": 6115
+    },
+    {
+      "Time": "2023-09-19T21:59:11.1109875+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9071,
+      "NumberOfAwardsMax": 6115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9070,
+  "NumberOfAwards": 9071,
   "NumberOfAwardsMax": 6115,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4623,7 +4629,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 419
+      "Count": 420
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4656,9 +4662,9 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 682803,
+  "EOS_Progressed": 682822,
   "EOS_Completed": 2155,
-  "EOS_NewPlayers": 4044,
+  "EOS_NewPlayers": 4034,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -21776,6 +21782,11 @@
       "Time": "2023-09-19T21:06:32.2229032+00:00",
       "NumProgressed": 682803,
       "NumCompleted": 2155
+    },
+    {
+      "Time": "2023-09-19T22:05:18.7222211+00:00",
+      "NumProgressed": 682822,
+      "NumCompleted": 2155
     }
   ],
   "TotalAchievements": 45,
@@ -22083,7 +22094,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5462
+      "UsersEstimate": 5463
     },
     {
       "ID": "ach_the_vcla",
@@ -22146,22 +22157,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 682803,
+      "Progressed": 682822,
       "Completed": 2155
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 8344,
-      "Completed": 8344
+      "Progressed": 8363,
+      "Completed": 8363
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-19T19:59:03.7510609+00:00",
-  "LastChanged_Achievements": "2023-09-19T21:06:32.2229025+00:00",
+  "LastChanged": "2023-09-19T21:59:11.1109873+00:00",
+  "LastChanged_Achievements": "2023-09-19T22:05:18.7222205+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:00:17.8415102+00:00",
-  "LastUpdate_Achievements": "2023-09-19T21:06:32.2230432+00:00"
+  "LastUpdate_Ratings": "2023-09-19T21:59:11.1109878+00:00",
+  "LastUpdate_Achievements": "2023-09-19T22:05:18.7223269+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,744,495 |
-| Easy to forget | 46.00% | ~1,637,689 |
-| Back in the black | 39.00% | ~1,388,475 |
-| That's what I'm talking about | 29.00% | ~1,032,456 |
-| The Best of Both Worlds | 25.00% | ~890,048 |
-| Get your wings | 20.00% | ~712,039 |
-| Double trouble | 16.00% | ~569,631 |
-| Smashing it | 11.00% | ~391,621 |
-| But can it run Crysis? | 9.00% | ~320,417 |
-| My favourite feature... | 9.00% | ~320,417 |
-| From humble beginnings... | 7.00% | ~249,214 |
-| Customer satisfaction | 7.00% | ~249,214 |
+| You need to plug it in... | 49.00% | ~1,744,503 |
+| Easy to forget | 46.00% | ~1,637,697 |
+| Back in the black | 39.00% | ~1,388,482 |
+| That's what I'm talking about | 29.00% | ~1,032,461 |
+| The Best of Both Worlds | 25.00% | ~890,052 |
+| Get your wings | 20.00% | ~712,042 |
+| Double trouble | 16.00% | ~569,634 |
+| Smashing it | 11.00% | ~391,623 |
+| But can it run Crysis? | 9.00% | ~320,419 |
+| My favourite feature... | 9.00% | ~320,419 |
+| From humble beginnings... | 7.00% | ~249,215 |
+| Customer satisfaction | 7.00% | ~249,215 |
 | Keeping things neat | 4.00% | ~142,408 |
 | Seems you're pretty good at this | 4.00% | ~142,408 |
 | Bending over backwards | 4.00% | ~142,408 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,560 |
 | Treat yourself - GPU | 0.10% | ~3,560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,560,193 (Ranked 5)  
+Progressed: 3,560,210 (Ranked 5)  
 Completed: 35 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 35 (0.00%) (Ranked 278)
 | 2023-09-16 | 3,558,918 | 35 |
 | 2023-09-17 | 3,559,471 | 35 |
 | 2023-09-18 | 3,559,849 | 35 |
-| 2023-09-19 | 3,560,193 | 35 |
+| 2023-09-19 | 3,560,210 | 35 |
 ## Awards
 Max (Great for Beginners): 1,068  (Ranked 140)  
 Sum: 8,010 (Ranked 100)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 982,
+  "EOS_Progressed": 984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2023-09-19T21:03:39.368524+00:00",
       "NumProgressed": 982,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T22:03:31.8977726+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1344,7 +1349,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1424,7 +1429,7 @@
       "Name": "Legendary!!!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1464,7 +1469,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1488,7 +1493,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -1520,7 +1525,7 @@
       "Name": "Still Here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -1544,7 +1549,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1560,7 +1565,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -1727,14 +1732,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 982,
+      "Progressed": 984,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-19T21:03:39.3685233+00:00",
+  "LastChanged_Achievements": "2023-09-19T22:03:31.897772+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:00:24.7987266+00:00",
-  "LastUpdate_Achievements": "2023-09-19T21:03:39.3685753+00:00"
+  "LastUpdate_Ratings": "2023-09-19T21:59:15.7569026+00:00",
+  "LastUpdate_Achievements": "2023-09-19T22:03:31.8978097+00:00"
 }

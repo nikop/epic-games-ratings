@@ -12,8 +12,8 @@
 | Scholar | 37.00% | ~64 |
 | The darkness | 35.00% | ~60 |
 | A good beginning | 34.00% | ~58 |
+| One last step | 33.00% | ~57 |
 | True G4M3R | 32.00% | ~55 |
-| One last step | 32.00% | ~55 |
 | Cable guy | 30.00% | ~52 |
 | Champollion | 29.00% | ~50 |
 | Half the way | 28.00% | ~48 |
@@ -21,8 +21,8 @@
 | Peace walker | 27.00% | ~46 |
 | Open door | 24.00% | ~41 |
 | Free at last | 23.00% | ~40 |
-| Feels like springtime | 22.00% | ~38 |
-| Alchemists Express | 21.00% | ~36 |
+| Feels like springtime | 23.00% | ~40 |
+| Alchemists Express | 22.00% | ~38 |
 | Rascal | 21.00% | ~36 |
 | A Link to the Past | 19.00% | ~33 |
 | A great audience | 15.00% | ~26 |

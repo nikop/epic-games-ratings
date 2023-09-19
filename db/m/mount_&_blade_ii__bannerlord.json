@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7275,7 +7275,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61507,
+  "EOS_Progressed": 61509,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 0,
@@ -23430,6 +23430,11 @@
       "Time": "2023-09-19T21:09:02.4212471+00:00",
       "NumProgressed": 61507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T22:07:03.2652666+00:00",
+      "NumProgressed": 61509,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23633,7 +23638,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10456
+      "UsersEstimate": 10457
     },
     {
       "ID": "Kingslayer",
@@ -23649,7 +23654,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "Lance-a-lot",
@@ -23665,7 +23670,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20297
+      "UsersEstimate": 20298
     },
     {
       "ID": "Lawbringer",
@@ -23673,7 +23678,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23988
+      "UsersEstimate": 23989
     },
     {
       "ID": "Lawmaker",
@@ -23697,7 +23702,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "Minor Clan",
@@ -23793,7 +23798,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11071
+      "UsersEstimate": 11072
     },
     {
       "ID": "This Is Our Land",
@@ -23848,15 +23853,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61507,
+      "Progressed": 61509,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-19T21:01:55.4614157+00:00",
-  "LastChanged_Achievements": "2023-09-19T21:09:02.4212462+00:00",
+  "LastChanged_Achievements": "2023-09-19T22:07:03.2652659+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:01:55.4614164+00:00",
-  "LastUpdate_Achievements": "2023-09-19T21:09:02.4213893+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:00:18.1199841+00:00",
+  "LastUpdate_Achievements": "2023-09-19T22:07:03.2653729+00:00"
 }

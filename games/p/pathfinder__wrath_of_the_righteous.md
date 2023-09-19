@@ -11,12 +11,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 16.00% | ~1,817 |
 | Mythic Choices | 14.00% | ~1,590 |
 | Defender's Heart | 14.00% | ~1,590 |
-| Banner over the Citadel | 13.00% | ~1,476 |
+| Banner over the Citadel | 13.00% | ~1,477 |
 | Queen's Gratitude | 11.00% | ~1,249 |
 | Fifth Crusade | 8.00% | ~909 |
-| Embrace of the Abyss | 6.00% | ~681 |
-| Path of the Angel | 6.00% | ~681 |
-| Demonic and Divine | 6.00% | ~681 |
+| Embrace of the Abyss | 6.00% | ~682 |
+| Path of the Angel | 6.00% | ~682 |
+| Demonic and Divine | 6.00% | ~682 |
 | Transformation | 5.00% | ~568 |
 | Great Upstart | 5.00% | ~568 |
 | Voice from Your Dreams | 5.00% | ~568 |
@@ -53,8 +53,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | End of Eternal Guard | 0.90% | ~102 |
 | Truly Profane Gift | 0.90% | ~102 |
 | Path of the Dragon | 0.80% | ~91 |
-| Playful Mood | 0.70% | ~79 |
-| Dreadful Dragon | 0.70% | ~79 |
+| Playful Mood | 0.70% | ~80 |
+| Dreadful Dragon | 0.70% | ~80 |
 | Masterful Charge | 0.60% | ~68 |
 | Prelate's Nemesis | 0.50% | ~57 |
 | Ashes to Ashes | 0.40% | ~45 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,357 (Ranked 129)  
+Progressed: 11,359 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-16 | 11,312 | 0 |
 | 2023-09-17 | 11,334 | 0 |
 | 2023-09-18 | 11,348 | 0 |
-| 2023-09-19 | 11,357 | 0 |
+| 2023-09-19 | 11,359 | 0 |
 ## Awards
 Max (Character Customization): 1,714  (Ranked 118)  
 Sum: 6,948 (Ranked 114)  

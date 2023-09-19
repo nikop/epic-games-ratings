@@ -15,8 +15,8 @@
 | Expert | 17.00% | ~14 |
 | Nothing but the Truth | 15.00% | ~12 |
 | Searing Heat | 13.00% | ~11 |
+| The Golden Flash | 13.00% | ~11 |
 | The Power of the Mountains | 13.00% | ~11 |
-| The Golden Flash | 12.00% | ~10 |
 | Changing the World | 11.00% | ~9 |
 | Locked and Loaded | 10.00% | ~8 |
 | The A-Team | 10.00% | ~8 |

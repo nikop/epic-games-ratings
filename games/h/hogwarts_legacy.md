@@ -6,26 +6,26 @@ Rating: 4.77 (Ranked 111)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,575 |
-| First Class Student | 13.00% | ~38,605 |
-| Troll with the Punches | 13.00% | ~38,605 |
+| First Class Student | 13.00% | ~38,606 |
+| Troll with the Punches | 13.00% | ~38,606 |
 | A Keen Sense of Spell | 12.00% | ~35,636 |
 | A Talent for Spending | 11.00% | ~32,666 |
 | That's a Keeper | 11.00% | ~32,666 |
-| Grappling with a Graphorn | 10.00% | ~29,696 |
-| The One Who Mastered Memories | 10.00% | ~29,696 |
-| The Hallowed Hero | 10.00% | ~29,696 |
-| The Defender of Dragons | 10.00% | ~29,696 |
-| Challenge Accepted | 10.00% | ~29,696 |
-| Loom for Improvement | 10.00% | ~29,696 |
-| Coasting Along | 10.00% | ~29,696 |
+| Grappling with a Graphorn | 10.00% | ~29,697 |
+| The One Who Mastered Memories | 10.00% | ~29,697 |
+| The Hallowed Hero | 10.00% | ~29,697 |
+| The Defender of Dragons | 10.00% | ~29,697 |
+| Challenge Accepted | 10.00% | ~29,697 |
+| Loom for Improvement | 10.00% | ~29,697 |
+| Coasting Along | 10.00% | ~29,697 |
 | The Hero of Hogwarts | 9.00% | ~26,727 |
 | Followed the Butterflies | 9.00% | ~26,727 |
 | Rising From the Ashes | 9.00% | ~26,727 |
 | A Sallow Grave | 8.00% | ~23,757 |
 | The Spell Master | 8.00% | ~23,757 |
-| The Avenging Gazelle | 7.00% | ~20,787 |
-| Beast Friends | 7.00% | ~20,787 |
-| Flight the Good Flight | 7.00% | ~20,787 |
+| The Avenging Gazelle | 7.00% | ~20,788 |
+| Beast Friends | 7.00% | ~20,788 |
+| Flight the Good Flight | 7.00% | ~20,788 |
 | The Seeker of Knowledge | 6.00% | ~17,818 |
 | The Root of the Problem | 6.00% | ~17,818 |
 | Raising Expectations | 6.00% | ~17,818 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 111)
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,963 (Ranked 44)  
+Progressed: 296,966 (Ranked 44)  
 Completed: 475 (0.16%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 475 (0.16%) (Ranked 206)
 | 2023-09-16 | 296,761 | 472 |
 | 2023-09-17 | 296,862 | 474 |
 | 2023-09-18 | 296,907 | 474 |
-| 2023-09-19 | 296,963 | 475 |
+| 2023-09-19 | 296,966 | 475 |
 ## Awards
 Max (Character Customization): 22,827  (Ranked 17)  
 Sum: 43,746 (Ranked 30)  

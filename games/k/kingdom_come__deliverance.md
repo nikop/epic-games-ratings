@@ -6,20 +6,20 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,624 |
+| Blacksmith's Son | 32.00% | ~256,625 |
 | Cavalier | 25.00% | ~200,488 |
-| Fatso | 23.00% | ~184,448 |
+| Fatso | 23.00% | ~184,449 |
 | Awakening | 21.00% | ~168,410 |
-| Ranger | 20.00% | ~160,390 |
-| Scrooge | 20.00% | ~160,390 |
+| Ranger | 20.00% | ~160,391 |
+| Scrooge | 20.00% | ~160,391 |
 | Anorectic | 16.00% | ~128,312 |
-| Bookworm | 15.00% | ~120,292 |
-| Firestarter | 15.00% | ~120,292 |
+| Bookworm | 15.00% | ~120,293 |
+| Firestarter | 15.00% | ~120,293 |
 | Insomniac | 13.00% | ~104,254 |
 | Buddy | 12.00% | ~96,234 |
 | Thief | 12.00% | ~96,234 |
-| Sinner | 11.00% | ~88,214 |
-| Traveller | 11.00% | ~88,214 |
+| Sinner | 11.00% | ~88,215 |
+| Traveller | 11.00% | ~88,215 |
 | Convict | 10.00% | ~80,195 |
 | Haggler | 9.00% | ~72,176 |
 | McLovin | 7.00% | ~56,137 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~32,078 |
 | Hunter | 4.00% | ~32,078 |
 | Plague Doctor | 4.00% | ~32,078 |
-| Bard | 3.00% | ~24,058 |
-| Conqueror | 3.00% | ~24,058 |
-| Ginger in a Pickle | 3.00% | ~24,058 |
-| Kingdom did not come | 3.00% | ~24,058 |
+| Bard | 3.00% | ~24,059 |
+| Conqueror | 3.00% | ~24,059 |
+| Ginger in a Pickle | 3.00% | ~24,059 |
+| Kingdom did not come | 3.00% | ~24,059 |
 | Completionist | 2.00% | ~16,039 |
 | Death by splinter | 2.00% | ~16,039 |
 | King Charming | 2.00% | ~16,039 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~802 |
 | Wingman | 0.10% | ~802 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,950 (Ranked 16)  
+Progressed: 801,953 (Ranked 16)  
 Completed: 47 (0.01%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 47 (0.01%) (Ranked 264)
 | 2023-09-16 | 801,578 | 47 |
 | 2023-09-17 | 801,749 | 47 |
 | 2023-09-18 | 801,851 | 47 |
-| 2023-09-19 | 801,950 | 47 |
+| 2023-09-19 | 801,953 | 47 |
 ## Awards
 Max (Character Customization): 7,458  (Ranked 47)  
 Sum: 27,785 (Ranked 47)  

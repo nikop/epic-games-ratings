@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3562,
+  "EOS_Progressed": 3582,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3496,
+  "EOS_NewPlayers": 3516,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -652,6 +652,11 @@
       "Time": "2023-09-19T21:05:33.1673995+00:00",
       "NumProgressed": 3562,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T22:04:37.6154417+00:00",
+      "NumProgressed": 3582,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -664,7 +669,7 @@
       "Name": "First of Many",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2758
     },
     {
       "ID": "achievement_01_02",
@@ -672,7 +677,7 @@
       "Name": "Tournament Star",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_01_03",
@@ -680,7 +685,7 @@
       "Name": "Brand New Ride",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1791
     },
     {
       "ID": "achievement_01_04",
@@ -688,7 +693,7 @@
       "Name": "Bzzzt",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2257
     },
     {
       "ID": "achievement_01_05",
@@ -696,15 +701,15 @@
       "Name": "Automotive Stylist",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1290
     },
     {
       "ID": "achievement_01_06",
       "SetID": "4f1m94d",
       "Name": "Mr Wheeler",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1755
     },
     {
       "ID": "achievement_01_07",
@@ -712,15 +717,15 @@
       "Name": "Car Workshop",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 1003
     },
     {
       "ID": "achievement_01_08",
       "SetID": "4f1m94d",
       "Name": "Trophy Collector",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2328
     },
     {
       "ID": "achievement_01_09",
@@ -728,7 +733,7 @@
       "Name": "Right Foot",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1469
     },
     {
       "ID": "achievement_01_10",
@@ -736,7 +741,7 @@
       "Name": "Beat the Clock",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1612
     },
     {
       "ID": "achievement_02_01",
@@ -744,15 +749,15 @@
       "Name": "Roll the Credits!",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_02_02",
       "SetID": "4f1m94d",
       "Name": "Amateur Champion",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_02_03",
@@ -776,7 +781,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_02_06",
@@ -792,7 +797,7 @@
       "Name": "Whale of a Time",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1469
     },
     {
       "ID": "achievement_02_08",
@@ -800,23 +805,23 @@
       "Name": "Car Specialist",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_03_01",
       "SetID": "4f1m94d",
       "Name": "USA - Check!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 716
     },
     {
       "ID": "achievement_03_02",
       "SetID": "4f1m94d",
       "Name": "Brazil - Check!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_03_03",
@@ -824,7 +829,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_03_04",
@@ -848,7 +853,7 @@
       "Name": "Passport Complete",
       "Percentage": 0.8,
       "XP": 125,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_03_07",
@@ -856,15 +861,15 @@
       "Name": "Golden Amateur Champion",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_03_08",
       "SetID": "4f1m94d",
       "Name": "Golden Professional Champion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_03_09",
@@ -904,7 +909,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 1003
     },
     {
       "ID": "achievement_04_03",
@@ -912,7 +917,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1218
     },
     {
       "ID": "achievement_04_04",
@@ -920,7 +925,7 @@
       "Name": "Flawless Racer",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_04_05",
@@ -928,7 +933,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 677
+      "UsersEstimate": 681
     },
     {
       "ID": "achievement_04_06",
@@ -944,7 +949,7 @@
       "Name": "Nitro Saver",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1325
     },
     {
       "ID": "achievement_04_08",
@@ -952,7 +957,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2686
     },
     {
       "ID": "achievement_04_09",
@@ -960,21 +965,21 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 1003
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 3562,
+      "Progressed": 3582,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-19T21:05:33.1673988+00:00",
+  "LastChanged_Achievements": "2023-09-19T22:04:37.6154408+00:00",
   "LastUpdate_AppInfo": "2023-09-14T15:57:19.4150066+00:00",
-  "LastUpdate_Ratings": "2023-09-19T20:59:15.8277299+00:00",
-  "LastUpdate_Achievements": "2023-09-19T21:05:33.1674438+00:00"
+  "LastUpdate_Ratings": "2023-09-19T21:58:31.1758678+00:00",
+  "LastUpdate_Achievements": "2023-09-19T22:04:37.6154672+00:00"
 }

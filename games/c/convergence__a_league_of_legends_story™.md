@@ -8,10 +8,10 @@ Rating: 4.60 (Ranked 395)
 | Time Heals All Wounds | 28.00% | ~246 |
 | Rail Rat | 23.00% | ~202 |
 | The Mysterious Stranger | 22.00% | ~193 |
-| Make Up For Lost Time | 20.00% | ~175 |
-| The Prince in Heels | 20.00% | ~175 |
-| Immaculate Aim | 20.00% | ~175 |
-| The Brass Boss | 20.00% | ~175 |
+| Make Up For Lost Time | 20.00% | ~176 |
+| The Prince in Heels | 20.00% | ~176 |
+| Immaculate Aim | 20.00% | ~176 |
+| The Brass Boss | 20.00% | ~176 |
 | The Steel Shadow | 19.00% | ~167 |
 | Time Flies | 19.00% | ~167 |
 | The Harder They Fall | 19.00% | ~167 |
@@ -34,8 +34,8 @@ Rating: 4.60 (Ranked 395)
 | Cartographer | 14.00% | ~123 |
 | Whiz Kid | 13.00% | ~114 |
 | Good Neighbor | 12.00% | ~105 |
-| Chaincrawler Explorer | 11.00% | ~96 |
-| Family Memories | 11.00% | ~96 |
+| Chaincrawler Explorer | 11.00% | ~97 |
+| Family Memories | 11.00% | ~97 |
 | Sump Explorer | 10.00% | ~88 |
 | Syron for Hope | 10.00% | ~88 |
 | Theater Explorer | 10.00% | ~88 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 877 (Ranked 221)  
+Progressed: 878 (Ranked 221)  
 Completed: 5 (0.57%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 5 (0.57%) (Ranked 150)
 | 2023-09-16 | 870 | 5 |
 | 2023-09-17 | 874 | 5 |
 | 2023-09-18 | 876 | 5 |
-| 2023-09-19 | 877 | 5 |
+| 2023-09-19 | 878 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

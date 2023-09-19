@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1701,9 +1701,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14002,
+  "EOS_Progressed": 14005,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11801,6 +11801,11 @@
       "Time": "2023-09-19T21:09:46.0579741+00:00",
       "NumProgressed": 14002,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T22:08:23.3619552+00:00",
+      "NumProgressed": 14005,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12194,9 +12199,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -13898,9 +13903,9 @@
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -14179,21 +14184,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14002,
+      "Progressed": 14005,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14002,
+      "Progressed": 14005,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T20:58:47.8598835+00:00",
-  "LastChanged_Achievements": "2023-09-19T21:09:46.0579734+00:00",
+  "LastChanged_Achievements": "2023-09-19T22:08:23.3619548+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-19T20:59:45.3306027+00:00",
-  "LastUpdate_Achievements": "2023-09-19T21:09:46.0590053+00:00"
+  "LastUpdate_Ratings": "2023-09-19T21:58:50.0240847+00:00",
+  "LastUpdate_Achievements": "2023-09-19T22:08:23.3627399+00:00"
 }

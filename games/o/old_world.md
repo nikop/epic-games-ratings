@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~560 |
 | Oracle | 4.00% | ~560 |
 | Ambitious | 3.00% | ~420 |
+| Brilliant | 3.00% | ~420 |
 | Enlightened | 3.00% | ~420 |
 | Fountainhead | 3.00% | ~420 |
 | Glorious | 3.00% | ~420 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~280 |
 | Hanging Gardens in Babylon | 2.00% | ~280 |
 | Drillmaster | 2.00% | ~280 |
-| Brilliant | 2.00% | ~280 |
 | Great | 2.00% | ~280 |
 | Intercessor | 2.00% | ~280 |
 | Mighty | 2.00% | ~280 |
@@ -154,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.40% | ~56 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
+| Siege Tower | 0.40% | ~56 |
 | Conquest Victory | 0.40% | ~56 |
 | Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
@@ -169,7 +170,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
 | Pantheon in Roma | 0.30% | ~42 |
-| Siege Tower | 0.30% | ~42 |
 | Patriarch St Paul | 0.30% | ~42 |
 | Hypatia the Teacher | 0.30% | ~42 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,002 (Ranked 124)  
+Progressed: 14,005 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -455,7 +455,7 @@ Completed: 5 (0.04%) (Ranked 246)
 | 2023-09-16 | 13,958 | 5 |
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
-| 2023-09-19 | 14,002 | 5 |
+| 2023-09-19 | 14,005 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

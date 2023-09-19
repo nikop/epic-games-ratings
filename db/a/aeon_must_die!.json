@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 3264,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3554,
+  "EOS_Progressed": 3556,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.79,
   "EosHistory": [
@@ -511,6 +511,11 @@
       "Time": "2023-09-11T22:08:19.0170713+00:00",
       "NumProgressed": 3554,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-09-19T22:08:22.015909+00:00",
+      "NumProgressed": 3556,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -578,7 +583,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "17",
@@ -594,7 +599,7 @@
       "Name": "Rightfully Yours",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "19",
@@ -618,7 +623,7 @@
       "Name": "Even While Weakened",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "21",
@@ -690,7 +695,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "3",
@@ -730,7 +735,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "34",
@@ -801,7 +806,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3554,
+      "Progressed": 3556,
       "Completed": -28
     }
   ],
@@ -809,8 +814,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-09-19T21:09:44.3338419+00:00",
+  "LastChanged_Achievements": "2023-09-19T22:08:22.0159085+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:33.5403665+00:00",
-  "LastUpdate_Ratings": "2023-09-19T20:58:10.468954+00:00",
-  "LastUpdate_Achievements": "2023-09-19T21:09:44.3338715+00:00"
+  "LastUpdate_Ratings": "2023-09-19T21:57:47.6730373+00:00",
+  "LastUpdate_Achievements": "2023-09-19T22:08:22.0159333+00:00"
 }

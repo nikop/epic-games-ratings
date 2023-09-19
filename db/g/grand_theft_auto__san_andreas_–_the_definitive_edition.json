@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -952,9 +952,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12567,
+  "EOS_Progressed": 12569,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10862,6 +10862,11 @@
       "Time": "2023-09-19T21:07:21.852015+00:00",
       "NumProgressed": 12567,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-19T22:05:53.3141254+00:00",
+      "NumProgressed": 12569,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10873,7 +10878,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10179
+      "UsersEstimate": 10181
     },
     {
       "ID": "ACH02",
@@ -10889,7 +10894,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH04",
@@ -10977,7 +10982,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH15",
@@ -10993,7 +10998,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "ACH17",
@@ -11049,7 +11054,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3267
+      "UsersEstimate": 3268
     },
     {
       "ID": "ACH24",
@@ -11089,7 +11094,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH29",
@@ -11152,7 +11157,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12567,
+      "Progressed": 12569,
       "Completed": 45
     }
   ],
@@ -11160,8 +11165,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-19T16:00:35.923303+00:00",
-  "LastChanged_Achievements": "2023-09-19T21:07:21.8520141+00:00",
+  "LastChanged_Achievements": "2023-09-19T22:05:53.3141249+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-19T21:01:26.5012546+00:00",
-  "LastUpdate_Achievements": "2023-09-19T21:07:21.852105+00:00"
+  "LastUpdate_Ratings": "2023-09-19T22:00:00.282106+00:00",
+  "LastUpdate_Achievements": "2023-09-19T22:05:53.3141903+00:00"
 }

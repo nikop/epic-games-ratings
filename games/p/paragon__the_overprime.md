@@ -3,12 +3,12 @@
 [View Rawdata](../../db/p/paragon__the_overprime.json)  
 Rating: 4.24 (Ranked 843)  
 ## Awards
-Max (Diverse Characters): 623  (Ranked 183)  
-Sum: 4,583 (Ranked 138)  
+Max (Diverse Characters): 624  (Ranked 183)  
+Sum: 4,584 (Ranked 138)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 623 |
+| This game has Diverse Characters | 624 |
 | This game has Competitive Players | 579 |
 | This game is Highly Recommended | 542 |
 | This game has Quickly Understood Controls | 540 |
@@ -232,4 +232,4 @@ Diff (max vs sum): 45
 | 2023-09-16 | 4.24 | 618 | 4,534 |
 | 2023-09-17 | 4.24 | 618 | 4,551 |
 | 2023-09-18 | 4.23 | 623 | 4,573 |
-| 2023-09-19 | 4.24 | 623 | 4,583 |
+| 2023-09-19 | 4.24 | 624 | 4,584 |

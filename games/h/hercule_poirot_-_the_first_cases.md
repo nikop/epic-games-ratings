@@ -5,7 +5,7 @@ Rating: 4.35 (Ranked 759)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 89.00% | ~379 |
+| It Wasn’t a Burglary | 90.00% | ~383 |
 | Luc Piette | 76.00% | ~324 |
 | Angeline Van den Bosch | 73.00% | ~311 |
 | Elizabeth Padget | 70.00% | ~298 |

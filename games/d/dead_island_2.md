@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 503)
 | I Am the Resurrection | 1.00% | ~6,828 |
 | Our True Nature | 1.00% | ~6,828 |
 | Down with the Sickness | 0.90% | ~6,145 |
-| Max Headroom | 0.80% | ~5,462 |
+| Max Headroom | 0.80% | ~5,463 |
 | Go, Bobcats! | 0.70% | ~4,780 |
 | Jumbo Keyring | 0.60% | ~4,097 |
 | Rising Star | 0.60% | ~4,097 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,803 (Ranked 22)  
+Progressed: 682,822 (Ranked 22)  
 Completed: 2,155 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,15 +203,15 @@ Completed: 2,155 (0.32%) (Ranked 178)
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
-| 2023-09-19 | 682,803 | 2,155 |
+| 2023-09-19 | 682,822 | 2,155 |
 ## Awards
 Max (Great Boss Battles): 6,115  (Ranked 57)  
-Sum: 9,070 (Ranked 94)  
+Sum: 9,071 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,115 |
-| This game is Great for Beginners | 419 |
+| This game is Great for Beginners | 420 |
 | This game has Diverse Characters | 412 |
 | This game has Quickly Understood Controls | 396 |
 | This game is Relaxing | 377 |
@@ -373,4 +373,4 @@ Diff (max vs sum): -37
 | 2023-09-16 | 4.54 | 6,073 | 9,005 |
 | 2023-09-17 | 4.54 | 6,086 | 9,030 |
 | 2023-09-18 | 4.54 | 6,105 | 9,051 |
-| 2023-09-19 | 4.54 | 6,115 | 9,070 |
+| 2023-09-19 | 4.54 | 6,115 | 9,071 |
