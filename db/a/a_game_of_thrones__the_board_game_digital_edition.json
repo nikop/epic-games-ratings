@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24249,
+  "EOS_Progressed": 24250,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -17520,6 +17520,11 @@
       "Time": "2023-09-19T04:04:30.370973+00:00",
       "NumProgressed": 24249,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-19T05:05:14.5479199+00:00",
+      "NumProgressed": 24250,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 22,
@@ -17539,7 +17544,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "1017",
@@ -17563,7 +17568,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "1020",
@@ -17595,7 +17600,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "1024",
@@ -17619,7 +17624,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "1027",
@@ -17675,7 +17680,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "1034",
@@ -17683,7 +17688,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "1035",
@@ -17706,15 +17711,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24249,
+      "Progressed": 24250,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-19T04:04:30.3709726+00:00",
+  "LastChanged_Achievements": "2023-09-19T05:05:14.5479192+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.9877962+00:00",
-  "LastUpdate_Ratings": "2023-09-19T04:00:17.6519469+00:00",
-  "LastUpdate_Achievements": "2023-09-19T04:04:30.3710612+00:00"
+  "LastUpdate_Ratings": "2023-09-19T05:00:27.3291245+00:00",
+  "LastUpdate_Achievements": "2023-09-19T05:05:14.548007+00:00"
 }

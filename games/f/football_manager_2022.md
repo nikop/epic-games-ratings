@@ -26,10 +26,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Star Man | 29.00% | ~137,279 |
 | Attack! | 28.00% | ~132,546 |
 | Tremendous Trio | 27.00% | ~127,812 |
+| Record Sale | 27.00% | ~127,812 |
 | You're On Fire | 26.00% | ~123,078 |
 | On A Roll | 26.00% | ~123,078 |
 | Unstoppable Force | 26.00% | ~123,078 |
-| Record Sale | 26.00% | ~123,078 |
 | Armchair Expert | 25.00% | ~118,344 |
 | Fantastic Five | 24.00% | ~113,610 |
 | Full Faith | 24.00% | ~113,610 |

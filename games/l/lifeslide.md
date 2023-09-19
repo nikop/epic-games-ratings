@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | All Starts Here | 96.00% | ~312 |
 | Road to Improvement | 72.00% | ~234 |
-| Wonderful World | 59.00% | ~192 |
+| Wonderful World | 60.00% | ~195 |
 | Second Wind | 58.00% | ~188 |
 | Chain of Events | 58.00% | ~188 |
 | Change of Heart | 56.00% | ~182 |

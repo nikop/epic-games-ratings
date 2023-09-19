@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1125,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -900,6 +900,11 @@
       "Time": "2023-09-17T07:07:29.4115682+00:00",
       "NumProgressed": 1125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T05:03:52.8889315+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1031,7 +1036,7 @@
       "Name": "I, need, more, shelves!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CAREERACADEMY",
@@ -1063,7 +1068,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1071,7 +1076,7 @@
       "Name": "This is to go, even Further Beyond!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CAREERCLASSS",
@@ -1103,7 +1108,7 @@
       "Name": "Gitting Gud",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CAREERTRIALSS",
@@ -1111,7 +1116,7 @@
       "Name": "[Sweats profusely]",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CHAMPION",
@@ -1119,7 +1124,7 @@
       "Name": "Redout Champion",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "COMPLETE10FRIENDS",
@@ -1207,7 +1212,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ONELIVERY",
@@ -1247,7 +1252,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1319,14 +1324,14 @@
       "Name": "Great Start",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 0
     }
   ],
@@ -1334,8 +1339,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-19T04:03:12.9432912+00:00",
+  "LastChanged_Achievements": "2023-09-19T05:03:52.8889309+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.9478991+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:59:28.6143895+00:00",
-  "LastUpdate_Achievements": "2023-09-19T04:03:12.9433324+00:00"
+  "LastUpdate_Ratings": "2023-09-19T04:59:38.74226+00:00",
+  "LastUpdate_Achievements": "2023-09-19T05:03:52.8889749+00:00"
 }

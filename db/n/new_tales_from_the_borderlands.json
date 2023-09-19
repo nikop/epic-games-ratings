@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,7 +174,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3645,
+  "EOS_Progressed": 3646,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -1534,6 +1534,11 @@
       "Time": "2023-09-19T01:49:35.9270993+00:00",
       "NumProgressed": 3645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T05:06:30.0651672+00:00",
+      "NumProgressed": 3646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1577,7 +1582,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1609,7 +1614,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1665,7 +1670,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1743,16 +1748,16 @@
       "ID": "WISH_FOR_MORE_TACOS",
       "SetID": "kakdpn",
       "Name": "Mas, Por Favor",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 620
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3645,
+      "Progressed": 3646,
       "Completed": 0
     }
   ],
@@ -1760,8 +1765,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-09-19T04:05:46.2750849+00:00",
+  "LastChanged_Achievements": "2023-09-19T05:06:30.0651668+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.4547018+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:58:58.1283122+00:00",
-  "LastUpdate_Achievements": "2023-09-19T04:05:46.2751058+00:00"
+  "LastUpdate_Ratings": "2023-09-19T04:59:07.7332816+00:00",
+  "LastUpdate_Achievements": "2023-09-19T05:06:30.0651875+00:00"
 }

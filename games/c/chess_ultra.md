@@ -5,27 +5,27 @@ Rating: 4.30 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~145,540 |
-| Doubled Pawn | 56.00% | ~116,432 |
-| Check | 55.00% | ~114,353 |
-| Absolute pin | 47.00% | ~97,720 |
-| Promotion | 31.00% | ~64,453 |
-| Checkmate | 30.00% | ~62,374 |
-| O-O | 24.00% | ~49,899 |
-| Spanish Bishop | 21.00% | ~43,662 |
-| Queen Sacrifice | 20.00% | ~41,583 |
-| Stalemate | 18.00% | ~37,425 |
-| O-O-O | 13.00% | ~27,029 |
-| Octopus | 13.00% | ~27,029 |
+| Chop Wood | 70.00% | ~145,544 |
+| Doubled Pawn | 56.00% | ~116,435 |
+| Check | 55.00% | ~114,356 |
+| Absolute pin | 47.00% | ~97,722 |
+| Promotion | 31.00% | ~64,455 |
+| Checkmate | 30.00% | ~62,376 |
+| O-O | 24.00% | ~49,901 |
+| Spanish Bishop | 21.00% | ~43,663 |
+| Queen Sacrifice | 20.00% | ~41,584 |
+| Stalemate | 18.00% | ~37,426 |
+| O-O-O | 13.00% | ~27,030 |
+| Octopus | 13.00% | ~27,030 |
 | Stranger Danger | 12.00% | ~24,950 |
-| En Passant | 9.00% | ~18,712 |
+| En Passant | 9.00% | ~18,713 |
 | Double Check | 7.00% | ~14,554 |
 | Piece Collector | 6.00% | ~12,475 |
 | ELO | 5.00% | ~10,396 |
 | Family Fork | 5.00% | ~10,396 |
 | Friendly Fire | 5.00% | ~10,396 |
 | Underpromote | 4.00% | ~8,317 |
-| ELO ELO | 3.00% | ~6,237 |
+| ELO ELO | 3.00% | ~6,238 |
 | Blind Pigs | 2.00% | ~4,158 |
 | ELO ELO ELO | 2.00% | ~4,158 |
 | Learner | 2.00% | ~4,158 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 801)
 | Tournament Master | 0.10% | ~208 |
 | Tournament Pro | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,914 (Ranked 61)  
+Progressed: 207,920 (Ranked 61)  
 Completed: 2 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.00%) (Ranked 277)
 | 2023-09-16 | 207,468 | 2 |
 | 2023-09-17 | 207,713 | 2 |
 | 2023-09-18 | 207,888 | 2 |
-| 2023-09-19 | 207,914 | 2 |
+| 2023-09-19 | 207,920 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

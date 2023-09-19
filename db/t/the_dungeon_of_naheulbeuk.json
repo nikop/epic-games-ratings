@@ -936,9 +936,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 225160,
+  "EOS_Progressed": 225168,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1781,
+  "EOS_NewPlayers": 1782,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11426,6 +11426,11 @@
       "Time": "2023-09-19T04:08:32.9142859+00:00",
       "NumProgressed": 225160,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-19T05:09:25.63501+00:00",
+      "NumProgressed": 225168,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11477,7 +11482,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "Chapter1",
@@ -11485,7 +11490,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9006
+      "UsersEstimate": 9007
     },
     {
       "ID": "Chapter2",
@@ -11581,7 +11586,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "CompanionPriestress",
@@ -11837,7 +11842,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9006
+      "UsersEstimate": 9007
     },
     {
       "ID": "DwarfElf15Support",
@@ -11853,7 +11858,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "DwarfInsultWin",
@@ -11861,7 +11866,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "DwarfLevel2",
@@ -11885,7 +11890,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67548
+      "UsersEstimate": 67550
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12005,7 +12010,7 @@
       "Name": "Law and Order",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "Poster",
@@ -12029,7 +12034,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "QuestMinstrel",
@@ -12140,21 +12145,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225160,
+      "Progressed": 225168,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225160,
+      "Progressed": 225168,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-18T23:58:55.1350342+00:00",
-  "LastChanged_Achievements": "2023-09-19T04:08:32.9142856+00:00",
+  "LastChanged_Achievements": "2023-09-19T05:09:25.6350093+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:58:28.7604616+00:00",
-  "LastUpdate_Achievements": "2023-09-19T04:08:32.9144226+00:00"
+  "LastUpdate_Ratings": "2023-09-19T04:58:38.1794294+00:00",
+  "LastUpdate_Achievements": "2023-09-19T05:09:25.6351424+00:00"
 }

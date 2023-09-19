@@ -37,10 +37,10 @@
 | Starred Dining | 16.00% | ~54 |
 | Smooth Operator | 14.00% | ~47 |
 | Boutique Benefits | 14.00% | ~47 |
+| Terrifically Trashed | 14.00% | ~47 |
 | Thrilled Tenants | 14.00% | ~47 |
-| Terrifically Trashed | 13.00% | ~44 |
+| Swimming in Surplus | 12.00% | ~41 |
 | 28 Days Later | 11.00% | ~37 |
-| Swimming in Surplus | 11.00% | ~37 |
 | Aestheticly Pleased | 10.00% | ~34 |
 | Master of Puppets | 10.00% | ~34 |
 | Refined Palates | 10.00% | ~34 |
@@ -50,18 +50,18 @@
 | Water Features | 8.00% | ~27 |
 | Careful Constructor | 7.00% | ~24 |
 | Meet Me at HQ | 7.00% | ~24 |
+| Profound Proceeds | 7.00% | ~24 |
 | Maximum Reuse | 7.00% | ~24 |
 | Revenue Royalty | 7.00% | ~24 |
 | Golden Opportunity | 7.00% | ~24 |
 | Pipe Up | 7.00% | ~24 |
 | I'm Busy Ruling | 6.00% | ~20 |
 | Sky High Stature | 6.00% | ~20 |
-| Profound Proceeds | 6.00% | ~20 |
+| Tuned In | 6.00% | ~20 |
 | It's a Gas | 6.00% | ~20 |
 | Meet ADA/360 | 5.00% | ~17 |
 | Penthouse in the Sky | 5.00% | ~17 |
 | Baron of Business | 5.00% | ~17 |
-| Tuned In | 5.00% | ~17 |
 | Office Bigwigs | 4.00% | ~14 |
 | Three of a Kind | 4.00% | ~14 |
 | Sandbagger | 4.00% | ~14 |

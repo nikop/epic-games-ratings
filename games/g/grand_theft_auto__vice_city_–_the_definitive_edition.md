@@ -5,9 +5,9 @@ Rating: 4.55 (Ranked 486)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,650 |
-| Greasy Palms | 42.00% | ~4,245 |
-| South American Connection | 25.00% | ~2,527 |
+| Legal Counsel | 46.00% | ~4,651 |
+| Greasy Palms | 42.00% | ~4,246 |
+| South American Connection | 25.00% | ~2,528 |
 | Life of the Party | 20.00% | ~2,022 |
 | Big Heat from Little Havana | 15.00% | ~1,516 |
 | Chauffeur | 15.00% | ~1,516 |
@@ -17,10 +17,10 @@ Rating: 4.55 (Ranked 486)
 | Gun for Hire | 9.00% | ~910 |
 | Mischief Managed | 9.00% | ~910 |
 | Vice City Mogul | 7.00% | ~708 |
-| Catch Me if You Can | 6.00% | ~606 |
-| Bloodstained Hands | 6.00% | ~606 |
-| Not my First Time | 5.00% | ~505 |
-| Grand Theft Auto | 5.00% | ~505 |
+| Catch Me if You Can | 6.00% | ~607 |
+| Bloodstained Hands | 6.00% | ~607 |
+| Not my First Time | 5.00% | ~506 |
+| Grand Theft Auto | 5.00% | ~506 |
 | Pie Guy | 4.00% | ~404 |
 | Running Rampant | 3.00% | ~303 |
 | Point A to Point B | 3.00% | ~303 |
@@ -40,7 +40,7 @@ Rating: 4.55 (Ranked 486)
 | Done it All | 0.90% | ~91 |
 | Kingpin | 0.60% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,108 (Ranked 132)  
+Progressed: 10,110 (Ranked 132)  
 Completed: 56 (0.55%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 56 (0.55%) (Ranked 151)
 | 2023-09-16 | 10,010 | 56 |
 | 2023-09-17 | 10,065 | 56 |
 | 2023-09-18 | 10,102 | 56 |
-| 2023-09-19 | 10,108 | 56 |
+| 2023-09-19 | 10,110 | 56 |
 ## Awards
 Max (Great Boss Battles): 75  (Ranked 374)  
 Sum: 75 (Ranked 437)  

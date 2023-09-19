@@ -8,11 +8,11 @@ Rating: 4.55 (Ranked 486)
 | Getting Started | 81.00% | ~10,144 |
 | Pay 'n' Spray | 50.00% | ~6,262 |
 | All Dressed Up for San Fierro | 26.00% | ~3,256 |
-| The American Dream | 19.00% | ~2,379 |
+| The American Dream | 19.00% | ~2,380 |
 | School's Out | 18.00% | ~2,254 |
 | Smooth Moves | 17.00% | ~2,129 |
-| What happens in Las Venturas... | 15.00% | ~1,878 |
-| Today Was a Good Day | 15.00% | ~1,878 |
+| What happens in Las Venturas... | 15.00% | ~1,879 |
+| Today Was a Good Day | 15.00% | ~1,879 |
 | Horror of the Santa Maria | 11.00% | ~1,378 |
 | Liberty City State of Mind | 10.00% | ~1,252 |
 | The End of the Line | 8.00% | ~1,002 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 486)
 | ...Here we go again | 0.50% | ~63 |
 | I Ain't No Buster | 0.40% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,523 (Ranked 126)  
+Progressed: 12,524 (Ranked 126)  
 Completed: 45 (0.36%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,10 +193,10 @@ Completed: 45 (0.36%) (Ranked 169)
 | 2023-09-16 | 12,369 | 45 |
 | 2023-09-17 | 12,454 | 45 |
 | 2023-09-18 | 12,512 | 45 |
-| 2023-09-19 | 12,523 | 45 |
+| 2023-09-19 | 12,524 | 45 |
 ## Awards
 Max (Great Boss Battles): 295  (Ranked 241)  
-Sum: 390 (Ranked 322)  
+Sum: 391 (Ranked 322)  
 Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
@@ -204,7 +204,7 @@ Diff (max vs sum): -81
 | This game is Relaxing | 26 |
 | This game has Amazing Storytelling | 24 |
 | This game has Amazing Characters | 23 |
-| This game is Highly Recommended | 22 |
+| This game is Highly Recommended | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -331,4 +331,4 @@ Diff (max vs sum): -81
 | 2023-09-16 | 4.55 | 291 | 384 |
 | 2023-09-17 | 4.56 | 291 | 384 |
 | 2023-09-18 | 4.55 | 291 | 386 |
-| 2023-09-19 | 4.55 | 295 | 390 |
+| 2023-09-19 | 4.55 | 295 | 391 |

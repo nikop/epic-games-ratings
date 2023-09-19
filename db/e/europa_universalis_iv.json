@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9652,10 +9652,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 50563,
       "NumberOfAwardsMax": 6158
+    },
+    {
+      "Time": "2023-09-19T04:57:48.1022012+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50573,
+      "NumberOfAwardsMax": 6158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50563,
+  "NumberOfAwards": 50573,
   "NumberOfAwardsMax": 6158,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9681,7 +9687,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5811
+      "Count": 5821
     },
     {
       "Text": "This game is Educational",
@@ -9726,9 +9732,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 407830,
+  "EOS_Progressed": 407842,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7405,
+  "EOS_NewPlayers": 7393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26796,6 +26802,11 @@
       "Time": "2023-09-19T04:03:16.6212791+00:00",
       "NumProgressed": 407830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T05:03:56.8647101+00:00",
+      "NumProgressed": 407842,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -26967,7 +26978,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -27239,7 +27250,7 @@
       "Name": "Bright Spark",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_brothers_in_arms",
@@ -27479,7 +27490,7 @@
       "Name": "Down Under",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -27535,7 +27546,7 @@
       "Name": "The Emperors new clothes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -27767,7 +27778,7 @@
       "Name": "A Golden Empire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_golden_horn",
@@ -28015,7 +28026,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -28303,7 +28314,7 @@
       "Name": "Market Control",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_marshy_march",
@@ -28615,7 +28626,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_prester_john",
@@ -28743,7 +28754,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -29151,7 +29162,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -29415,7 +29426,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "achievement_trustworthy",
@@ -29423,7 +29434,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_turkish_delight",
@@ -29471,7 +29482,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16313
+      "UsersEstimate": 16314
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29638,21 +29649,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 407830,
+      "Progressed": 407842,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 407830,
+      "Progressed": 407842,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-19T02:57:58.5677579+00:00",
-  "LastChanged_Achievements": "2023-09-19T04:03:16.6212787+00:00",
+  "LastChanged": "2023-09-19T04:57:48.102201+00:00",
+  "LastChanged_Achievements": "2023-09-19T05:03:56.8647096+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:57:38.1300507+00:00",
-  "LastUpdate_Achievements": "2023-09-19T04:03:16.6223343+00:00"
+  "LastUpdate_Ratings": "2023-09-19T04:57:48.1022016+00:00",
+  "LastUpdate_Achievements": "2023-09-19T05:03:56.8657987+00:00"
 }

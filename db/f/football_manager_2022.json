@@ -7405,7 +7405,7 @@
   ],
   "EOS_Progressed": 473377,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23903,9 +23903,9 @@
       "ID": "achievement_record_sale",
       "SetID": "8k91p5b",
       "Name": "Record Sale",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 123078
+      "UsersEstimate": 127812
     },
     {
       "ID": "achievement_record_signing",
@@ -24199,8 +24199,8 @@
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-18T23:57:33.231519+00:00",
-  "LastChanged_Achievements": "2023-09-19T04:04:48.2344253+00:00",
+  "LastChanged_Achievements": "2023-09-19T05:05:32.4880316+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:57:06.6250724+00:00",
-  "LastUpdate_Achievements": "2023-09-19T04:04:48.2345915+00:00"
+  "LastUpdate_Ratings": "2023-09-19T04:57:16.6274104+00:00",
+  "LastUpdate_Achievements": "2023-09-19T05:05:32.4881997+00:00"
 }

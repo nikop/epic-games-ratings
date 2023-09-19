@@ -4,7 +4,7 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 519,
   "Ranking_Popularity": 199,
-  "Ranking_PopularitySum": 163,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 69,
@@ -2764,9 +2764,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 76225,
+  "EOS_Progressed": 76226,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19464,6 +19464,11 @@
       "Time": "2023-09-19T04:03:14.9414336+00:00",
       "NumProgressed": 76225,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2023-09-19T05:03:54.8316888+00:00",
+      "NumProgressed": 76226,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -19507,7 +19512,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 13720
+      "UsersEstimate": 13721
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -19555,7 +19560,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 28203
+      "UsersEstimate": 28204
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -19579,7 +19584,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7622
+      "UsersEstimate": 7623
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -19611,7 +19616,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 19818
+      "UsersEstimate": 19819
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -19651,7 +19656,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 28203
+      "UsersEstimate": 28204
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -19659,7 +19664,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13720
+      "UsersEstimate": 13721
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -19683,7 +19688,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7622
+      "UsersEstimate": 7623
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -19714,15 +19719,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 76225,
+      "Progressed": 76226,
       "Completed": 130
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-18T20:57:37.5732562+00:00",
-  "LastChanged_Achievements": "2023-09-19T04:03:14.9414332+00:00",
+  "LastChanged_Achievements": "2023-09-19T05:03:54.8316883+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.6851624+00:00",
-  "LastUpdate_Ratings": "2023-09-19T03:57:28.6101278+00:00",
-  "LastUpdate_Achievements": "2023-09-19T04:03:14.9415247+00:00"
+  "LastUpdate_Ratings": "2023-09-19T04:57:38.9763398+00:00",
+  "LastUpdate_Achievements": "2023-09-19T05:03:54.8317831+00:00"
 }

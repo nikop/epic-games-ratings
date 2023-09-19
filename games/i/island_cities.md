@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~681 |
-| A tiny town | 86.00% | ~604 |
-| Buildings, roads, cars, ...and people | 66.00% | ~463 |
-| Great view from the beach and from the hill | 57.00% | ~400 |
+| Welcome! | 96.00% | ~675 |
+| A tiny town | 86.00% | ~605 |
+| Buildings, roads, cars, ...and people | 66.00% | ~464 |
+| Great view from the beach and from the hill | 56.00% | ~394 |
 | Bridges to come and go | 49.00% | ~344 |
 | Found an oasis | 43.00% | ~302 |
 | Burger or pizza? | 38.00% | ~267 |
 | Passion for sports | 32.00% | ~225 |
 | Who loves trains? | 29.00% | ~204 |
 | Easy and steady climb | 28.00% | ~197 |
-| At the heart of the city | 24.00% | ~168 |
-| Calm neighborhood | 22.00% | ~154 |
-| Elevated ring | 20.00% | ~140 |
-| Not lonely anymore | 19.00% | ~133 |
-| Monumental tribute | 19.00% | ~133 |
-| The beach is right there | 18.00% | ~126 |
-| Commuting | 17.00% | ~119 |
-| Le jardin magnifique | 17.00% | ~119 |
+| At the heart of the city | 24.00% | ~169 |
+| Calm neighborhood | 22.00% | ~155 |
+| Elevated ring | 20.00% | ~141 |
+| Not lonely anymore | 19.00% | ~134 |
+| Monumental tribute | 19.00% | ~134 |
+| The beach is right there | 18.00% | ~127 |
+| Commuting | 17.00% | ~120 |
+| Le jardin magnifique | 17.00% | ~120 |
 | Aiming for a living and human city | 16.00% | ~112 |
 | City of dreams | 16.00% | ~112 |
 | Happy Christmas night! | 16.00% | ~112 |
 | Night walk along the beach | 16.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702 (Ranked 230)  
-Completed: 110 (15.67%) (Ranked 16)  
+Progressed: 703 (Ranked 230)  
+Completed: 110 (15.65%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,6 +156,7 @@ Completed: 110 (15.67%) (Ranked 16)
 | 2023-09-16 | 700 | 107 |
 | 2023-09-17 | 700 | 109 |
 | 2023-09-18 | 702 | 110 |
+| 2023-09-19 | 703 | 110 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
