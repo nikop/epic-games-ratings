@@ -1,13 +1,13 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,713,529 | 4.29 | 808 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 545,386 | 4.49 | 583 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 546,448 | 4.49 | 583 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 306,049 | 4.68 | 244 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 228,092 | 4.68 | 244 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 201,663 | 4.19 | 875 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 177,604 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 148,509 | 4.51 | 549 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 116,776 | 4.69 | 218 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 116,845 | 4.69 | 218 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 79,059 | 4.62 | 350 |
 | 10 | [VALORANT](games/v/valorant.md) | 70,688 | 4.53 | 519 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 61,199 | 4.58 | 433 |
@@ -65,7 +65,7 @@
 | 63 | [Prey](games/p/prey.md) | 5,694 | 4.62 | 350 |
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,568 | 4.85 | 42 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 5,473 | 4.66 | 282 |
-| 66 | [Rogue Company](games/r/rogue_company.md) | 5,411 | 4.32 | 784 |
+| 66 | [Rogue Company](games/r/rogue_company.md) | 5,416 | 4.32 | 784 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,285 | 4.06 | 933 |
 | 68 | [Bloons TD 6](games/b/bloons_td_6.md) | 5,094 | 4.77 | 111 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,983 | 4.69 | 218 |
@@ -96,7 +96,7 @@
 | 94 | [Hades](games/h/hades.md) | 3,267 | 4.92 | 4 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,779 | 4.50 | 568 |
 | 96 | [Gotham Knights](games/g/gotham_knights.md) | 2,708 | 4.18 | 886 |
-| 97 | [Among Us](games/a/among_us.md) | 2,670 | 4.57 | 449 |
+| 97 | [Among Us](games/a/among_us.md) | 2,672 | 4.57 | 449 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,625 | 4.61 | 370 |
 | 99 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,603 | 4.49 | 583 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,565 | 4.27 | 823 |
@@ -104,9 +104,9 @@
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,469 | 4.80 | 84 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,406 | 4.78 | 102 |
 | 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,250 | 4.67 | 260 |
-| 105 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,224 | 4.63 | 332 |
-| 106 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,206 | 4.41 | 692 |
-| 107 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 2,200 | 4.33 | 774 |
+| 105 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 2,237 | 4.33 | 774 |
+| 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,224 | 4.63 | 332 |
+| 107 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,206 | 4.41 | 692 |
 | 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,149 | 4.37 | 742 |
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,993 | 4.49 | 583 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,918 | 4.66 | 282 |
@@ -433,15 +433,15 @@
 | 430 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 39 | 4.57 | 449 |
 | 430 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 175 |
 | 430 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 39 | 4.77 | 111 |
+| 434 | [Hell is Others](games/h/hell_is_others.md) | 38 | 4.42 | 680 |
 | 434 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 38 | 4.62 | 350 |
 | 434 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.48 | 603 |
 | 434 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 38 | 4.42 | 680 |
-| 437 | [20XX](games/2/20xx.md) | 37 | 4.61 | 370 |
-| 437 | [City of Gangsters](games/c/city_of_gangsters.md) | 37 | 4.27 | 823 |
-| 437 | [Hell is Others](games/h/hell_is_others.md) | 37 | 4.42 | 680 |
-| 437 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 37 | 4.60 | 395 |
-| 437 | [Voidtrain](games/v/voidtrain.md) | 37 | 4.51 | 549 |
-| 437 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 37 | 4.49 | 583 |
+| 438 | [20XX](games/2/20xx.md) | 37 | 4.61 | 370 |
+| 438 | [City of Gangsters](games/c/city_of_gangsters.md) | 37 | 4.27 | 823 |
+| 438 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 37 | 4.60 | 395 |
+| 438 | [Voidtrain](games/v/voidtrain.md) | 37 | 4.51 | 549 |
+| 438 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 37 | 4.49 | 583 |
 | 443 | [GRIME](games/g/grime.md) | 36 | 4.59 | 417 |
 | 443 | [Isonzo](games/i/isonzo.md) | 36 | 4.56 | 467 |
 | 443 | [Steelrising](games/s/steelrising.md) | 36 | 4.29 | 808 |

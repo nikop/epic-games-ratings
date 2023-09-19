@@ -36,7 +36,7 @@
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 36 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.69% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.55% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.54% |
 | 38 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.50% |
 | 39 | [Time Loader](games/t/time_loader.md) | 7.38% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.09% |
@@ -47,7 +47,7 @@
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.65% |
-| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.55% |
+| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.58% |
 | 49 | [JARS](games/j/jars.md) | 5.48% |
 | 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.29% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
@@ -81,7 +81,7 @@
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 82 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
+| 82 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.63% |
 | 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 83 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.50% |
 | 83 | [Lamentum](games/l/lamentum.md) | 2.50% |
@@ -215,22 +215,22 @@
 | 213 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.13% |
 | 214 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 214 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 214 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.12% |
 | 214 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 214 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 214 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
 | 214 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 220 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
-| 220 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
-| 222 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 222 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 222 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 222 | [Supraland](games/s/supraland.md) | 0.10% |
-| 226 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
-| 226 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 226 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.09% |
-| 226 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 226 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 226 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 221 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
+| 221 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
+| 223 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 223 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 223 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 223 | [Supraland](games/s/supraland.md) | 0.10% |
+| 227 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
+| 227 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 227 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 227 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 227 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 232 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
 | 232 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 232 | [Saints Row](games/s/saints_row.md) | 0.07% |
