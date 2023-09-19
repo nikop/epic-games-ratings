@@ -2,9 +2,9 @@
   "ID": "d9090f3f39f64d5bb827c6e44b95cff0",
   "Name": "3 out of 10, EP 1: Welcome To Shovelworks",
   "ProductSlug": "3-out-of-10-ep-1",
-  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-08-06T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.6710051+00:00",
   "LastChanged": "2023-03-31T05:58:42.6710052+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:04.7645766+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:00:05.8363149+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:05:54.5794241+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:59:19.0928259+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:05:10.2401182+00:00"
 }

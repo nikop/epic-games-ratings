@@ -22,12 +22,12 @@
 | Deputized | 5.00% | ~8 |
 | Harbinger | 5.00% | ~8 |
 | Courier | 5.00% | ~8 |
+| Been There | 5.00% | ~8 |
 | Spiritual Journey | 5.00% | ~8 |
 | Pilgrimage's End | 5.00% | ~8 |
 | Quartermaster | 4.00% | ~6 |
 | Strategist | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
-| Been There | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
 | Supercargo | 3.00% | ~5 |

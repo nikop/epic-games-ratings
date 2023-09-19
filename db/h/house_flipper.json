@@ -1878,7 +1878,7 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20807,
+  "EOS_Progressed": 20808,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -8508,6 +8508,11 @@
       "Time": "2023-09-19T02:26:12.9892835+00:00",
       "NumProgressed": 20807,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-19T18:08:25.8728796+00:00",
+      "NumProgressed": 20808,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8567,7 +8572,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19559
+      "UsersEstimate": 19560
     },
     {
       "ID": "GameOver",
@@ -8631,7 +8636,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "Negotiator",
@@ -8655,7 +8660,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4161
+      "UsersEstimate": 4162
     },
     {
       "ID": "SeniorEstateAgent",
@@ -8702,15 +8707,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20807,
+      "Progressed": 20808,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-12T18:58:36.6310426+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:09:11.3825516+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:08:25.8728789+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.2506303+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:00:37.9997777+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:09:11.3825957+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:59:42.8875757+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:08:25.8729224+00:00"
 }

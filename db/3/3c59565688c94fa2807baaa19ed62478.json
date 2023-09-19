@@ -2,9 +2,9 @@
   "ID": "3c59565688c94fa2807baaa19ed62478",
   "Name": "Thunder Ray",
   "ProductSlug": "thunder-ray-e9a2e3",
-  "Ranking_EOS_Progress": 559,
+  "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-09-19T14:03:53.5179014+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T18:03:58.6052019+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -39,7 +44,7 @@
       "ID": "ACH_COMPLETE_TUTORIAL",
       "SetID": "b9ng4ag",
       "Name": "Fighting Steps",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -55,7 +60,7 @@
       "ID": "ACH_DEFEAT_BULLET",
       "SetID": "b9ng4ag",
       "Name": "Snake Eye",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 65,
       "UsersEstimate": 1
     },
@@ -63,7 +68,7 @@
       "ID": "ACH_DEFEAT_CYBER",
       "SetID": "b9ng4ag",
       "Name": "Killer Debut",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "ACH_DEFEAT_GOBLIN",
       "SetID": "b9ng4ag",
       "Name": "Sting like a bee",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -111,7 +116,7 @@
       "ID": "ACH_UNLOCK_ALL_SPECIALS",
       "SetID": "b9ng4ag",
       "Name": "Thunder Fist",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 75,
       "UsersEstimate": 1
     }
@@ -120,13 +125,13 @@
     {
       "ID": "b9ng4ag",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:04:21.2513251+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:03:58.6052015+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.8034381+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:57:48.4078787+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:04:21.2513316+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:57:37.2384866+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:03:58.6052087+00:00"
 }

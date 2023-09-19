@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2445,6 +2445,11 @@
       "Time": "2023-09-19T10:03:24.2844531+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T18:03:43.0820811+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2512,7 +2517,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "EXPERT_1",
@@ -2726,9 +2731,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 420
     },
     {
       "ID": "WISHMASTER_1",
@@ -2743,15 +2748,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:04:01.4901069+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:03:43.0820807+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.8587226+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:02:05.2443344+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:04:01.4901403+00:00"
+  "LastUpdate_Ratings": "2023-09-19T18:02:04.2646982+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:03:43.0821134+00:00"
 }

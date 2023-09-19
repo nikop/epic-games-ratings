@@ -6,7 +6,7 @@ Rating: 4.00 (Ranked 943)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 41.00% | ~663 |
-| Electrician | 33.00% | ~534 |
+| Electrician | 34.00% | ~550 |
 | Fear my botany powers, Mars | 32.00% | ~517 |
 | Zero Waste | 30.00% | ~485 |
 | Bob The Builder | 29.00% | ~469 |

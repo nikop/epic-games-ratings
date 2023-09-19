@@ -15,7 +15,7 @@ Rating: 4.56 (Ranked 467)
 | Shall we play a game? | 49.00% | ~197 |
 | Boat of love, boat of love | 48.00% | ~193 |
 | School's out | 43.00% | ~173 |
-| Scaffolding Expert | 37.00% | ~149 |
+| Scaffolding Expert | 38.00% | ~153 |
 | Elysian Minigame-Master | 37.00% | ~149 |
 | Sole Music | 36.00% | ~145 |
 | No man left behind! | 29.00% | ~117 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 467)
 | Every man for himself! | 5.00% | ~20 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402 (Ranked 265)  
+Progressed: 402 (Ranked 266)  
 Completed: 6 (1.49%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |

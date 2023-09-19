@@ -1,9 +1,9 @@
 {
   "ID": "bd8a7e894699493fb21503837f7b66c5",
   "Name": "Shadowrun Collection",
-  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:10.6882072+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:01:34.1134905+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:06:11.8507828+00:00"
+  "LastUpdate_Ratings": "2023-09-19T18:00:25.6227958+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:05:24.0779329+00:00"
 }

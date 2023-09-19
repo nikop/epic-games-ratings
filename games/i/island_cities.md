@@ -20,7 +20,7 @@
 | Not lonely anymore | 19.00% | ~134 |
 | Monumental tribute | 19.00% | ~134 |
 | The beach is right there | 18.00% | ~127 |
-| Commuting | 17.00% | ~120 |
+| Commuting | 18.00% | ~127 |
 | Le jardin magnifique | 17.00% | ~120 |
 | Aiming for a living and human city | 16.00% | ~112 |
 | City of dreams | 16.00% | ~112 |

@@ -52,6 +52,13 @@ Rating: 4.61 (Ranked 371)
 | S.O.S. | 0.00% | ~0 |
 | Strange Transmissions | 0.00% | ~0 |
 | Wreckage | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 560)  
+Completed: 0 (0.00%) (Ranked 278)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-09-19 | 1 | 0 |
 ## Awards
 Max (Great Boss Battles): 93  (Ranked 351)  
 Sum: 93 (Ranked 423)  

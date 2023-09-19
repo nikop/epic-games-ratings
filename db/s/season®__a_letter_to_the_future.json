@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2434,9 +2434,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_THEEND",
@@ -2467,8 +2467,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:06:02.2990498+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:05:16.4385887+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:43.1531361+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:59:39.1453669+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:06:02.2990737+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:58:59.4304158+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:05:16.4386087+00:00"
 }

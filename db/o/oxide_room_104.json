@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -919,9 +919,9 @@
       "ID": "ACH_GOODENDING",
       "SetID": "511e31d",
       "Name": "Born again",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_HOHARMFORCE104",
@@ -1070,8 +1070,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:05:27.900918+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:04:50.0435564+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.0334042+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:58:44.0028482+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:05:27.900941+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:58:18.4059734+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:04:50.0435789+00:00"
 }

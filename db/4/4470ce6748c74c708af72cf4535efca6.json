@@ -671,9 +671,9 @@
       "ID": "61",
       "SetID": "5e3maia",
       "Name": "Welcomer",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "62",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:06:46.7514156+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:05:50.1926657+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:57:07.6092966+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:06:46.751472+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:57:07.3903452+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:05:50.1927246+00:00"
 }

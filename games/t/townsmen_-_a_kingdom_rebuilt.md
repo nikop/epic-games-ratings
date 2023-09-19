@@ -89,6 +89,7 @@ Number of Ratings: 37  (23.09.2022)
 | Impregnable | 0.50% | ~21 |
 | To serve and protect | 0.50% | ~21 |
 | It went unnoticed | 0.40% | ~17 |
+| Brew master | 0.40% | ~17 |
 | Negotiator | 0.40% | ~17 |
 | Panacea | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
@@ -96,7 +97,6 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere IX | 0.40% | ~17 |
 | I've been everywhere X | 0.40% | ~17 |
 | You shall not pass | 0.40% | ~17 |
-| Brew master | 0.30% | ~13 |
 | Malediction | 0.30% | ~13 |
 | Chief Inspector | 0.30% | ~13 |
 | LEGEN… wait for it… DARY | 0.30% | ~13 |

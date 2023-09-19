@@ -2,7 +2,7 @@
   "ID": "62dde68a8e2a400da4f259d970803658",
   "Name": "My Fantastic Ranch: Unicorns \u0026 Dragons",
   "ProductSlug": "my-fantastic-ranch",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 110,
@@ -206,9 +206,9 @@
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "11",
@@ -254,9 +254,9 @@
       "ID": "16",
       "SetID": "6ljhbe4",
       "Name": "Gotta Adopt Them All!",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "17",
@@ -407,8 +407,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:03:21.6110812+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:03:12.2280501+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.3029411+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:59:35.0124074+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:03:21.6110968+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:58:56.6873+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:03:12.2280673+00:00"
 }

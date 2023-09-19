@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,654 |
-| Git Gutte! | 2.00% | ~13,654 |
-| Bookworm | 2.00% | ~13,654 |
-| Break A Leg | 2.00% | ~13,654 |
-| But Doctor, I am Butcho | 2.00% | ~13,654 |
-| Coup de Grâce | 2.00% | ~13,654 |
-| Hazardous Materials | 2.00% | ~13,654 |
-| Friends Like These | 2.00% | ~13,654 |
-| Hotel California | 2.00% | ~13,654 |
-| Apex Predator | 2.00% | ~13,654 |
-| Stacking the Deck | 2.00% | ~13,654 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,654 |
-| This is My Weapon | 2.00% | ~13,654 |
-| Welcome To Hell-A | 2.00% | ~13,654 |
+| Dr. Reed, I Presume? | 2.00% | ~13,655 |
+| Git Gutte! | 2.00% | ~13,655 |
+| Bookworm | 2.00% | ~13,655 |
+| Break A Leg | 2.00% | ~13,655 |
+| But Doctor, I am Butcho | 2.00% | ~13,655 |
+| Coup de Grâce | 2.00% | ~13,655 |
+| Hazardous Materials | 2.00% | ~13,655 |
+| Friends Like These | 2.00% | ~13,655 |
+| Hotel California | 2.00% | ~13,655 |
+| Apex Predator | 2.00% | ~13,655 |
+| Stacking the Deck | 2.00% | ~13,655 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,655 |
+| This is My Weapon | 2.00% | ~13,655 |
+| Welcome To Hell-A | 2.00% | ~13,655 |
 | Anger Management | 1.00% | ~6,827 |
 | Perks of the Job | 1.00% | ~6,827 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,827 |
@@ -31,15 +31,15 @@ Rating: 4.54 (Ranked 503)
 | Humanity Distilled | 1.00% | ~6,827 |
 | I Am the Resurrection | 1.00% | ~6,827 |
 | Our True Nature | 1.00% | ~6,827 |
-| Making Your Mark | 0.90% | ~6,144 |
-| Down with the Sickness | 0.90% | ~6,144 |
+| Making Your Mark | 0.90% | ~6,145 |
+| Down with the Sickness | 0.90% | ~6,145 |
 | Max Headroom | 0.80% | ~5,462 |
 | Go, Bobcats! | 0.70% | ~4,779 |
 | Jumbo Keyring | 0.60% | ~4,096 |
 | Rising Star | 0.60% | ~4,096 |
-| Smorgasbord | 0.50% | ~3,413 |
-| Not Even My Final Form | 0.50% | ~3,413 |
-| Internet Famous | 0.50% | ~3,413 |
+| Smorgasbord | 0.50% | ~3,414 |
+| Not Even My Final Form | 0.50% | ~3,414 |
+| Internet Famous | 0.50% | ~3,414 |
 | Make it So | 0.40% | ~2,731 |
 | On Safari | 0.40% | ~2,731 |
 | Variety is the Spice of Death | 0.40% | ~2,731 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,697 (Ranked 22)  
+Progressed: 682,733 (Ranked 22)  
 Completed: 2,155 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 2,155 (0.32%) (Ranked 178)
 | 2023-09-16 | 681,084 | 2,146 |
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
-| 2023-09-19 | 682,697 | 2,155 |
+| 2023-09-19 | 682,733 | 2,155 |
 ## Awards
 Max (Great Boss Battles): 6,115  (Ranked 57)  
 Sum: 9,066 (Ranked 94)  

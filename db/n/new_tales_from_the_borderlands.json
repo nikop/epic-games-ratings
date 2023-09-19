@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3647,
+  "EOS_Progressed": 3648,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1544,6 +1544,11 @@
       "Time": "2023-09-19T07:07:30.0551574+00:00",
       "NumProgressed": 3647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T18:06:30.1642448+00:00",
+      "NumProgressed": 3648,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1587,7 +1592,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1595,7 +1600,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1611,7 +1616,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1635,7 +1640,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -1659,7 +1664,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1683,7 +1688,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1691,7 +1696,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1762,7 +1767,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3647,
+      "Progressed": 3648,
       "Completed": 0
     }
   ],
@@ -1770,8 +1775,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:07:37.6055298+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:06:30.1642444+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.4547018+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:00:10.5993689+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:07:37.605551+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:59:22.635598+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:06:30.1642661+00:00"
 }

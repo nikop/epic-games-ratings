@@ -14,6 +14,7 @@ Rating: 3.93 (Ranked 961)
 | Case Closed | 0.20% | ~176 |
 | King of the Hill | 0.20% | ~176 |
 | Fancy Pants | 0.20% | ~176 |
+| True Player | 0.20% | ~176 |
 | Off the Rocks | 0.20% | ~176 |
 | Raider’s Ruin | 0.20% | ~176 |
 | Dragonslayer | 0.20% | ~176 |
@@ -40,14 +41,13 @@ Rating: 3.93 (Ranked 961)
 | Red Star | 0.10% | ~88 |
 | Geek Out | 0.10% | ~88 |
 | Classy Joint | 0.10% | ~88 |
-| True Player | 0.10% | ~88 |
 | Impossible Dreamer | 0.10% | ~88 |
 | All that Glitters | 0.10% | ~16 |
 | All for One | 0.10% | ~16 |
 | One for All | 0.10% | ~16 |
 | Now You See Me | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,802 (Ranked 77)  
+Progressed: 87,806 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 46 (0.05%) (Ranked 242)
 | 2023-09-16 | 87,447 | 46 |
 | 2023-09-17 | 87,608 | 46 |
 | 2023-09-18 | 87,735 | 46 |
-| 2023-09-19 | 87,802 | 46 |
+| 2023-09-19 | 87,806 | 46 |
 ## Awards
 Max (Diverse Characters): 446  (Ranked 208)  
 Sum: 2,129 (Ranked 198)  

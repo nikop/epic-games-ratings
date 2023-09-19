@@ -2,9 +2,9 @@
   "ID": "66b12faffa204da39bda39d087789944",
   "Name": "Danghost",
   "ProductSlug": "danghost-30897c",
-  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-27T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-02T10:01:01.4047594+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:05:13.7447623+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:04:38.9627187+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.5166518+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:57:05.944638+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:05:13.7447652+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:57:06.2141057+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:04:38.9627218+00:00"
 }

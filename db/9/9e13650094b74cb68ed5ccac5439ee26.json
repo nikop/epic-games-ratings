@@ -2,9 +2,9 @@
   "ID": "9e13650094b74cb68ed5ccac5439ee26",
   "Name": "iCode STEM Universe",
   "ProductSlug": "icode-stem-universe-ead8e4",
-  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-18T13:57:13.132298+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:57:42.5568752+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:03:33.4917805+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:57:32.8325327+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:03:21.5320452+00:00"
 }

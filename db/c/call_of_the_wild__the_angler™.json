@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -736,9 +736,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5827,
+  "EOS_Progressed": 5828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7586,6 +7586,11 @@
       "Time": "2023-09-19T17:07:46.1436803+00:00",
       "NumProgressed": 5827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T18:06:36.6999893+00:00",
+      "NumProgressed": 5828,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7597,7 +7602,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7621,7 +7626,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -7629,7 +7634,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7637,7 +7642,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3438
+      "UsersEstimate": 3439
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7645,7 +7650,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -7661,7 +7666,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -7717,7 +7722,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -7876,13 +7881,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5827,
+      "Progressed": 5828,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5199,
+      "Progressed": 5200,
       "Completed": 112
     }
   ],
@@ -7890,8 +7895,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-19T16:01:15.2479877+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:07:46.1436799+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:06:36.6999882+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:51.4356282+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:01:23.7165485+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:07:46.1437375+00:00"
+  "LastUpdate_Ratings": "2023-09-19T18:00:18.6799893+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:06:36.7000419+00:00"
 }

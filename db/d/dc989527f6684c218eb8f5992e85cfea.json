@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11598,
+  "EOS_Progressed": 11602,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9971,6 +9971,11 @@
       "Time": "2023-09-19T17:04:24.2389876+00:00",
       "NumProgressed": 11598,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T18:04:00.9621075+00:00",
+      "NumProgressed": 11602,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -10012,9 +10017,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Shape Novice!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_10_SECONDS_4_PLAYERS",
@@ -10054,7 +10059,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5105
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -10181,14 +10186,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11598,
+      "Progressed": 11602,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:04:24.2389871+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:04:00.9621072+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5872219+00:00",
-  "LastUpdate_Ratings": "2023-09-19T16:57:23.5384933+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:04:24.2390413+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:57:18.7927141+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:04:00.9621713+00:00"
 }

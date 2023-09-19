@@ -3020,9 +3020,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72674,
+  "EOS_Progressed": 72675,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16005,6 +16005,11 @@
       "Time": "2023-09-19T17:04:50.9504251+00:00",
       "NumProgressed": 72674,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-19T18:04:21.6403036+00:00",
+      "NumProgressed": 72675,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16088,7 +16093,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "ALL_VILLAIN",
@@ -16128,7 +16133,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13081
+      "UsersEstimate": 13082
     },
     {
       "ID": "CLAYFACE_3",
@@ -16136,7 +16141,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10174
+      "UsersEstimate": 10175
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -16232,7 +16237,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7267
+      "UsersEstimate": 7268
     },
     {
       "ID": "FREEZE_1",
@@ -16240,7 +16245,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21075
+      "UsersEstimate": 21076
     },
     {
       "ID": "FREEZE_1_5",
@@ -16264,7 +16269,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10174
+      "UsersEstimate": 10175
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -16328,7 +16333,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18168
+      "UsersEstimate": 18169
     },
     {
       "ID": "HARLEY_3",
@@ -16360,7 +16365,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37790
+      "UsersEstimate": 37791
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16368,7 +16373,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -16408,7 +16413,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24709
+      "UsersEstimate": 24710
     },
     {
       "ID": "MYSTERY_02",
@@ -16416,7 +16421,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18168
+      "UsersEstimate": 18169
     },
     {
       "ID": "MYSTERY_03",
@@ -16440,7 +16445,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13081
+      "UsersEstimate": 13082
     },
     {
       "ID": "MYSTERY_06",
@@ -16456,7 +16461,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10174
+      "UsersEstimate": 10175
     },
     {
       "ID": "MYSTERY_08",
@@ -16503,13 +16508,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72674,
+      "Progressed": 72675,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42954,
+      "Progressed": 42955,
       "Completed": 2663
     }
   ],
@@ -16517,8 +16522,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-19T12:01:21.0770808+00:00",
-  "LastChanged_Achievements": "2023-09-19T17:04:50.9504244+00:00",
+  "LastChanged_Achievements": "2023-09-19T18:04:21.6403032+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-19T17:00:51.0211076+00:00",
-  "LastUpdate_Achievements": "2023-09-19T17:04:50.9505323+00:00"
+  "LastUpdate_Ratings": "2023-09-19T17:59:52.1729815+00:00",
+  "LastUpdate_Achievements": "2023-09-19T18:04:21.6404088+00:00"
 }

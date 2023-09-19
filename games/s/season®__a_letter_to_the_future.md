@@ -7,7 +7,7 @@
 | Home Leaver | 82.00% | ~1,015 |
 | Journal Beautifier | 82.00% | ~1,015 |
 | Outside World Seer | 66.00% | ~817 |
-| Stranger Encounterer | 40.00% | ~495 |
+| Stranger Encounterer | 41.00% | ~508 |
 | Grey Hands Praxis 101 | 31.00% | ~384 |
 | Deep Listener | 29.00% | ~359 |
 | Music for Cows | 21.00% | ~260 |

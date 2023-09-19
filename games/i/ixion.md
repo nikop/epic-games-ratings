@@ -12,15 +12,15 @@ Rating: 4.56 (Ranked 467)
 | Space Society | 16.00% | ~508 |
 | A Thousand Strong | 16.00% | ~508 |
 | Ready for a New World | 16.00% | ~508 |
-| Permanent Redesigns | 14.00% | ~444 |
+| Permanent Redesigns | 14.00% | ~445 |
 | Guy de Borderlands | 12.00% | ~381 |
 | Fully Recycled | 12.00% | ~381 |
 | Ain't Nobody Got Time for That | 12.00% | ~381 |
 | The Ship of Theseus | 12.00% | ~381 |
 | Hope Seeker | 11.00% | ~349 |
-| A Hunk of Junk | 10.00% | ~317 |
-| Exceeding Capacity | 10.00% | ~317 |
-| Breaking Protocol | 10.00% | ~317 |
+| A Hunk of Junk | 10.00% | ~318 |
+| Exceeding Capacity | 10.00% | ~318 |
+| Breaking Protocol | 10.00% | ~318 |
 | Man's Best Friend | 7.00% | ~222 |
 | Sightseeing | 7.00% | ~222 |
 | Power Outage | 7.00% | ~222 |
@@ -40,13 +40,13 @@ Rating: 4.56 (Ranked 467)
 | Delivery! | 3.00% | ~95 |
 | Pedal to the Metal | 3.00% | ~95 |
 | Pulsar Disciple | 3.00% | ~95 |
-| Mutual Loyalty | 2.00% | ~63 |
-| Tiqqun Contender | 2.00% | ~63 |
-| Catastrophe Avoided | 2.00% | ~63 |
-| Praise the Hull! | 2.00% | ~63 |
-| Space Greenhouse | 2.00% | ~63 |
-| Drill-dozer | 2.00% | ~63 |
-| Help of the Forgotten Member | 2.00% | ~63 |
+| Mutual Loyalty | 2.00% | ~64 |
+| Tiqqun Contender | 2.00% | ~64 |
+| Catastrophe Avoided | 2.00% | ~64 |
+| Praise the Hull! | 2.00% | ~64 |
+| Space Greenhouse | 2.00% | ~64 |
+| Drill-dozer | 2.00% | ~64 |
+| Help of the Forgotten Member | 2.00% | ~64 |
 | Better Him Than Me | 1.00% | ~32 |
 | Remember the Dead | 1.00% | ~32 |
 | You Had One Job... | 1.00% | ~32 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 467)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,174 (Ranked 172)  
+Progressed: 3,175 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-15 | 3,166 | 0 |
 | 2023-09-16 | 3,169 | 0 |
 | 2023-09-17 | 3,172 | 0 |
-| 2023-09-19 | 3,174 | 0 |
+| 2023-09-19 | 3,175 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

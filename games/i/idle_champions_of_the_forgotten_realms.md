@@ -107,6 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into The Fire | 0.20% | ~391 |
 | Dreamscape | 0.20% | ~391 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
+| Rime Bandits | 0.20% | ~391 |
 | The Everlasting Rime | 0.20% | ~391 |
 | Close Escort | 0.20% | ~459 |
 | Constant Banditry | 0.20% | ~459 |
@@ -419,7 +420,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~196 |
 | Prisoners of Lolth | 0.10% | ~196 |
 | Prisoners of Unknown Choices | 0.10% | ~196 |
-| Rime Bandits | 0.10% | ~196 |
 | Giant-Size Adventure | 0.10% | ~196 |
 | Power of Three | 0.10% | ~196 |
 | Enemy Summit | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,383 (Ranked 57)  
+Progressed: 229,385 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -679,7 +679,7 @@ Completed: 2,295 (1.00%) (Ranked 126)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,383 | 2,295 |
+| 2023-09-19 | 229,385 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  
