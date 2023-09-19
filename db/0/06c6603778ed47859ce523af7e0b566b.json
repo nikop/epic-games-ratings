@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-16T23:00:00+00:00",
     "PcReleaseDate": "2023-08-16T23:00:00+00:00",
@@ -157,9 +157,9 @@
       "ID": "Buckets and Bouquets",
       "SetID": "dene75h",
       "Name": "Buckets and Bouquets",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Concerted Effort",
@@ -221,17 +221,17 @@
       "ID": "Fruit Salad",
       "SetID": "dene75h",
       "Name": "Fruit Salad",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Grand Circus",
       "SetID": "dene75h",
       "Name": "Grand Circus",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Gummed Up",
@@ -436,8 +436,8 @@
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:09:08.5064261+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:09:10.7763831+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.5727546+00:00",
   "LastUpdate_Ratings": "2023-09-19T06:00:15.6930225+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:09:08.5064532+00:00"
+  "LastUpdate_Achievements": "2023-09-19T07:09:10.7764094+00:00"
 }

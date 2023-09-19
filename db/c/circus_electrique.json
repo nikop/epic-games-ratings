@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.1721869+00:00",
@@ -449,6 +449,11 @@
       "Time": "2023-09-18T21:03:30.3946723+00:00",
       "NumProgressed": 465,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-19T07:03:52.3725107+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -508,7 +513,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -548,7 +553,7 @@
       "Name": "Fan Service",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -692,7 +697,7 @@
       "Name": "King of District 1",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -700,7 +705,7 @@
       "Name": "King of District 2",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -859,7 +864,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 1
     }
   ],
@@ -867,8 +872,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:03:43.1218919+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:03:52.3725103+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.7956717+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:58:09.7840095+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:03:43.1219278+00:00"
+  "LastUpdate_Ratings": "2023-09-19T06:58:36.2123946+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:03:52.3725537+00:00"
 }

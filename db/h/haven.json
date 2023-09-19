@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1441,
+  "EOS_Progressed": 1442,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1734,6 +1734,11 @@
       "Time": "2023-09-18T22:05:21.8102839+00:00",
       "NumProgressed": 1441,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-19T07:06:33.7487171+00:00",
+      "NumProgressed": 1442,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1745,7 +1750,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "10",
@@ -1809,15 +1814,15 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "18",
       "SetID": "n50no0",
       "Name": "Like new!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 202
     },
     {
       "ID": "19",
@@ -1897,7 +1902,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "3",
@@ -1945,7 +1950,7 @@
       "Name": "An eye for an eye",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "6",
@@ -1953,7 +1958,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "7",
@@ -1969,7 +1974,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "9",
@@ -1984,15 +1989,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1441,
+      "Progressed": 1442,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:05:46.3294605+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:06:33.7487167+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.4812312+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:59:14.3247635+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:05:46.3294858+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:00:05.6093679+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:06:33.7487435+00:00"
 }

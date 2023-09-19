@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3414,
+  "EOS_Progressed": 3416,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3348,
+  "EOS_NewPlayers": 3350,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -577,6 +577,11 @@
       "Time": "2023-09-19T06:04:34.223636+00:00",
       "NumProgressed": 3414,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T07:04:59.2578525+00:00",
+      "NumProgressed": 3416,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -589,7 +594,7 @@
       "Name": "First of Many",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "achievement_01_02",
@@ -605,7 +610,7 @@
       "Name": "Brand New Ride",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "achievement_01_04",
@@ -613,7 +618,7 @@
       "Name": "Bzzzt",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "achievement_01_05",
@@ -621,7 +626,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "achievement_01_06",
@@ -629,7 +634,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "achievement_01_07",
@@ -645,7 +650,7 @@
       "Name": "Trophy Collector",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "achievement_01_09",
@@ -653,7 +658,7 @@
       "Name": "Right Foot",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "achievement_01_10",
@@ -661,7 +666,7 @@
       "Name": "Beat the Clock",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "achievement_02_01",
@@ -701,7 +706,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "achievement_02_06",
@@ -747,9 +752,9 @@
       "ID": "achievement_03_03",
       "SetID": "4f1m94d",
       "Name": "Morocco - Check!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_03_04",
@@ -869,7 +874,7 @@
       "Name": "Nitro Saver",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "achievement_04_08",
@@ -877,7 +882,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2528
     },
     {
       "ID": "achievement_04_09",
@@ -892,14 +897,14 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 3414,
+      "Progressed": 3416,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:04:34.2236355+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:04:59.2578521+00:00",
   "LastUpdate_AppInfo": "2023-09-14T15:57:19.4150066+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:57:58.2124148+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:04:34.2236626+00:00"
+  "LastUpdate_Ratings": "2023-09-19T06:58:21.7053299+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:04:59.2578788+00:00"
 }

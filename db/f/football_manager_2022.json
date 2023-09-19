@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7405,7 +7405,7 @@
   ],
   "EOS_Progressed": 473378,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23908,9 +23908,9 @@
       "ID": "achievement_record_sale",
       "SetID": "8k91p5b",
       "Name": "Record Sale",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 123078
+      "UsersEstimate": 127812
     },
     {
       "ID": "achievement_record_signing",
@@ -24204,8 +24204,8 @@
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-18T23:57:33.231519+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:05:31.5432481+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:06:14.2758311+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:57:07.5713181+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:05:31.5434178+00:00"
+  "LastUpdate_Ratings": "2023-09-19T06:57:16.736251+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:06:14.2760007+00:00"
 }

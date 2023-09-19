@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -664,9 +664,9 @@
       "ID": "Level_completed_002_008",
       "SetID": "6od1ndi",
       "Name": "Onk Boga II",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 157
+      "UsersEstimate": 159
     },
     {
       "ID": "Level_completed_003_001",
@@ -744,9 +744,9 @@
       "ID": "Rainman_was_shocked_by_lightning_in_001",
       "SetID": "6od1ndi",
       "Name": "Bzzzzzz",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "Toad_exploded_in_003",
@@ -777,8 +777,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:06:42.0027256+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:07:47.1868522+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.3930441+00:00",
-  "LastUpdate_Ratings": "2023-09-19T06:00:05.0375888+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:06:42.002743+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:01:18.9734784+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:07:47.1868726+00:00"
 }

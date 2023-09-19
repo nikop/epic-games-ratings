@@ -434,9 +434,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13088,
+  "EOS_Progressed": 13089,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -8499,6 +8499,11 @@
       "Time": "2023-09-19T00:07:00.9802021+00:00",
       "NumProgressed": 13088,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-19T07:03:14.740279+00:00",
+      "NumProgressed": 13089,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -8510,7 +8515,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12041
+      "UsersEstimate": 12042
     },
     {
       "ID": "ACH_02",
@@ -8526,7 +8531,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9685
+      "UsersEstimate": 9686
     },
     {
       "ID": "ACH_04",
@@ -8542,7 +8547,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8900
+      "UsersEstimate": 8901
     },
     {
       "ID": "ACH_06",
@@ -8550,7 +8555,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8507
+      "UsersEstimate": 8508
     },
     {
       "ID": "ACH_07",
@@ -8574,7 +8579,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7591
+      "UsersEstimate": 7592
     },
     {
       "ID": "ACH_10",
@@ -8590,7 +8595,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6414
     },
     {
       "ID": "ACH_12",
@@ -8598,7 +8603,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6021
     },
     {
       "ID": "ACH_13",
@@ -8606,7 +8611,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5235
+      "UsersEstimate": 5236
     },
     {
       "ID": "ACH_14",
@@ -8638,7 +8643,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "ACH_18",
@@ -8694,7 +8699,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "ACH_25",
@@ -8702,7 +8707,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "ACH_26",
@@ -8758,7 +8763,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "ACH_33",
@@ -8766,7 +8771,7 @@
       "Name": "Perfect throw",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "ACH_34",
@@ -8789,7 +8794,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13088,
+      "Progressed": 13089,
       "Completed": 47
     }
   ],
@@ -8797,8 +8802,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-18T15:59:27.1915428+00:00",
-  "LastChanged_Achievements": "2023-09-19T05:07:04.6828428+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:03:14.7402778+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:18.7719014+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:59:13.4785682+00:00",
-  "LastUpdate_Achievements": "2023-09-19T05:07:04.6829038+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:00:04.2992461+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:03:14.7425116+00:00"
 }

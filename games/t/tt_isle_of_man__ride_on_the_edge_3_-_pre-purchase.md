@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Going Down! | 96.00% | ~132 |
-| To Each Their Own | 45.00% | ~62 |
+| To Each Their Own | 44.00% | ~61 |
 | You Get An Upgrade, You Get An Upgrade! | 23.00% | ~32 |
-| Like Phileas Fogg | 18.00% | ~25 |
 | Onwards and Upwards | 18.00% | ~25 |
+| Like Phileas Fogg | 17.00% | ~23 |
 | Serial Winner | 13.00% | ~18 |
 | Highly Qualified | 10.00% | ~14 |
 | No Room for Improvement | 10.00% | ~14 |
@@ -21,11 +21,11 @@
 | Made Mother Proud | 5.00% | ~7 |
 | Winner Winner Chicken Dinner | 5.00% | ~7 |
 | Tailor-Made | 5.00% | ~7 |
-| POI Hunter | 4.00% | ~5 |
-| Seven-League Boots | 4.00% | ~5 |
-| Gotta Go Fast! | 4.00% | ~5 |
-| Say My Name | 4.00% | ~5 |
-| Tempus Fugit | 4.00% | ~5 |
+| POI Hunter | 4.00% | ~6 |
+| Seven-League Boots | 4.00% | ~6 |
+| Gotta Go Fast! | 4.00% | ~6 |
+| Say My Name | 4.00% | ~6 |
+| Tempus Fugit | 4.00% | ~6 |
 | Geek | 3.00% | ~4 |
 | Last One Standing | 3.00% | ~4 |
 | Time Lord | 3.00% | ~4 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 1.00% | ~1 |
 | Playing Favourites | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 339)  
-Completed: 2 (1.46%) (Ranked 110)  
+Progressed: 138 (Ranked 338)  
+Completed: 2 (1.45%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,4 +116,4 @@ Completed: 2 (1.46%) (Ranked 110)
 | 2023-09-16 | 131 | 2 |
 | 2023-09-17 | 133 | 2 |
 | 2023-09-18 | 136 | 2 |
-| 2023-09-19 | 137 | 2 |
+| 2023-09-19 | 138 | 2 |

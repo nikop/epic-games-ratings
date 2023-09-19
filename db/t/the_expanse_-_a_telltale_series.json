@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -82,7 +82,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10790,
+  "EOS_Progressed": 10791,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
@@ -5792,6 +5792,11 @@
       "Time": "2023-09-19T05:09:19.7761075+00:00",
       "NumProgressed": 10790,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T07:09:08.0292582+00:00",
+      "NumProgressed": 10791,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5852,7 +5857,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "16",
@@ -6043,7 +6048,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10790,
+      "Progressed": 10791,
       "Completed": 0
     }
   ],
@@ -6051,8 +6056,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-17T17:02:33.3197326+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:09:06.5269605+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:09:08.0292578+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:59:02.7088368+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:09:06.5270053+00:00"
+  "LastUpdate_Ratings": "2023-09-19T06:59:51.2216889+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:09:08.0292991+00:00"
 }

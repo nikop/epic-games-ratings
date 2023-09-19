@@ -3014,9 +3014,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72661,
+  "EOS_Progressed": 72662,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15964,6 +15964,11 @@
       "Time": "2023-09-19T06:04:24.5314571+00:00",
       "NumProgressed": 72661,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-19T07:04:46.5642451+00:00",
+      "NumProgressed": 72662,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16071,7 +16076,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12352
+      "UsersEstimate": 12353
     },
     {
       "ID": "CLAYFACE_1",
@@ -16159,7 +16164,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6539
+      "UsersEstimate": 6540
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -16279,7 +16284,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25431
+      "UsersEstimate": 25432
     },
     {
       "ID": "HARLEY_2",
@@ -16287,7 +16292,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18165
+      "UsersEstimate": 18166
     },
     {
       "ID": "HARLEY_3",
@@ -16375,7 +16380,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18165
+      "UsersEstimate": 18166
     },
     {
       "ID": "MYSTERY_03",
@@ -16439,7 +16444,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6539
+      "UsersEstimate": 6540
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -16462,13 +16467,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72661,
+      "Progressed": 72662,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42941,
+      "Progressed": 42942,
       "Completed": 2663
     }
   ],
@@ -16476,8 +16481,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-18T20:00:41.0698941+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:04:24.5314565+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:04:46.5642445+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:59:31.3342684+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:04:24.5315633+00:00"
+  "LastUpdate_Ratings": "2023-09-19T07:00:31.5566208+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:04:46.5643572+00:00"
 }

@@ -154,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Capturing Cities | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
+| Siege Tower | 0.40% | ~56 |
 | Conquest Victory | 0.40% | ~56 |
 | Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
@@ -171,7 +172,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
 | Pantheon in Roma | 0.30% | ~42 |
-| Siege Tower | 0.30% | ~42 |
 | Patriarch St Paul | 0.30% | ~42 |
 | Hypatia the Teacher | 0.30% | ~42 |
 | Blade of the Monkey | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,998 (Ranked 124)  
+Progressed: 13,999 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -455,7 +455,7 @@ Completed: 5 (0.04%) (Ranked 245)
 | 2023-09-16 | 13,958 | 5 |
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
-| 2023-09-19 | 13,998 | 5 |
+| 2023-09-19 | 13,999 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

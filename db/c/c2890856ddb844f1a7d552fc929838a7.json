@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1738,9 +1738,9 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 154
     },
     {
       "ID": "AC17",
@@ -1987,8 +1987,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-19T06:03:46.8885706+00:00",
+  "LastChanged_Achievements": "2023-09-19T07:03:57.3488492+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-19T05:57:04.6557203+00:00",
-  "LastUpdate_Achievements": "2023-09-19T06:03:46.8886092+00:00"
+  "LastUpdate_Ratings": "2023-09-19T06:57:12.6133971+00:00",
+  "LastUpdate_Achievements": "2023-09-19T07:03:57.3488852+00:00"
 }
