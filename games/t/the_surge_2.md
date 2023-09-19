@@ -5,25 +5,25 @@ Rating: 4.24 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,614 |
+| Rigged And Ready | 80.00% | ~1,615 |
 | Don't I Know You...? | 76.00% | ~1,534 |
 | Jailbreak | 65.00% | ~1,312 |
-| Suited and Booted | 39.00% | ~787 |
 | HEADSHOT! | 38.00% | ~767 |
-| Sleeping With The Fishes | 36.00% | ~726 |
-| Overheated | 30.00% | ~605 |
-| High Performance | 30.00% | ~605 |
+| Suited and Booted | 38.00% | ~767 |
+| Sleeping With The Fishes | 36.00% | ~727 |
+| Overheated | 30.00% | ~606 |
+| High Performance | 30.00% | ~606 |
 | Powered Up | 28.00% | ~565 |
-| Studied The Blade | 25.00% | ~504 |
+| Studied The Blade | 25.00% | ~505 |
 | Home Invasion | 23.00% | ~464 |
 | Luminary | 22.00% | ~444 |
 | It's a Trap | 22.00% | ~444 |
 | True Survivor | 21.00% | ~424 |
 | Offensive Defense | 20.00% | ~404 |
 | Shocking | 20.00% | ~404 |
-| Court Martial | 19.00% | ~383 |
-| Clean Cut | 19.00% | ~383 |
-| Unforeseeable Consequences | 19.00% | ~383 |
+| Court Martial | 19.00% | ~384 |
+| Clean Cut | 19.00% | ~384 |
+| Unforeseeable Consequences | 19.00% | ~384 |
 | Dead Again | 18.00% | ~363 |
 | Full Arsenal | 17.00% | ~343 |
 | Can't Trust Banks | 15.00% | ~303 |
@@ -39,8 +39,8 @@ Rating: 4.24 (Ranked 843)
 | Triplets | 10.00% | ~202 |
 | Denying Prophecy | 9.00% | ~182 |
 | Defense in Depth | 9.00% | ~182 |
-| A Little Banged Up | 8.00% | ~161 |
-| Following In Their Footsteps | 8.00% | ~161 |
+| A Little Banged Up | 8.00% | ~162 |
+| Following In Their Footsteps | 8.00% | ~162 |
 | Reverse Engineering | 7.00% | ~141 |
 | Reborn | 6.00% | ~121 |
 | Remote Surgery | 6.00% | ~121 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 843)
 | Loot, Pillage & Craft | 2.00% | ~40 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,018 (Ranked 184)  
+Progressed: 2,019 (Ranked 184)  
 Completed: 12 (0.59%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 12 (0.59%) (Ranked 147)
 | 2023-09-16 | 2,009 | 12 |
 | 2023-09-17 | 2,013 | 12 |
 | 2023-09-18 | 2,018 | 12 |
+| 2023-09-19 | 2,019 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

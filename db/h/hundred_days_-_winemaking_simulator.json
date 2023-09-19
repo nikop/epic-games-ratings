@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3898,
+  "EOS_Progressed": 3906,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1280,
+  "EOS_NewPlayers": 1282,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3375,6 +3375,11 @@
       "Time": "2023-09-19T08:07:20.8537054+00:00",
       "NumProgressed": 3898,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T09:06:34.2395346+00:00",
+      "NumProgressed": 3906,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3387,7 +3392,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "a_10",
@@ -3435,7 +3440,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1406
     },
     {
       "ID": "a_19",
@@ -3609,9 +3614,9 @@
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "a_8",
@@ -3634,7 +3639,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3898,
+      "Progressed": 3906,
       "Completed": 5
     }
   ],
@@ -3642,8 +3647,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:07:20.8537046+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:06:34.239534+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:58:13.8498541+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:07:20.8537343+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:58:18.6668285+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:06:34.239599+00:00"
 }

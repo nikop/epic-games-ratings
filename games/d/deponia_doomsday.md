@@ -27,7 +27,7 @@ Rating: 4.56 (Ranked 467)
 | Quickdraw | 15.00% | ~60 |
 | Thuna...? | 14.00% | ~56 |
 | Monstrous Harassment | 14.00% | ~56 |
-| Heading the inverter | 13.00% | ~52 |
+| Heading the inverter | 14.00% | ~56 |
 | Blast from the Past | 13.00% | ~52 |
 | Play it again, Ronny | 11.00% | ~44 |
 | Goat Team | 10.00% | ~40 |

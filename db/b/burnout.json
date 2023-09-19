@@ -2,7 +2,7 @@
   "ID": "eaf6622e52a148bcbc8185051a338976",
   "Name": "BurnOut",
   "ProductSlug": "burnout-c041a6",
-  "Ranking_EOS_Progress": 604,
+  "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 112,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T09:57:35.92699+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:57:40.6212981+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:08:10.671302+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:57:49.8360471+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:09:16.3240162+00:00"
 }

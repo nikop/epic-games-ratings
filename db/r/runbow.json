@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 625,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 50,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249445,
+  "EOS_Progressed": 249448,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14414,6 +14414,11 @@
       "Time": "2023-09-19T07:07:51.0709242+00:00",
       "NumProgressed": 249445,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T09:06:43.9095456+00:00",
+      "NumProgressed": 249448,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14449,7 +14454,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52383
+      "UsersEstimate": 52384
     },
     {
       "ID": "blotbuster",
@@ -14521,7 +14526,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44900
+      "UsersEstimate": 44901
     },
     {
       "ID": "curator",
@@ -14529,7 +14534,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49889
+      "UsersEstimate": 49890
     },
     {
       "ID": "didYourTime",
@@ -14601,7 +14606,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132206
+      "UsersEstimate": 132207
     },
     {
       "ID": "indegestible",
@@ -14657,7 +14662,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34922
+      "UsersEstimate": 34923
     },
     {
       "ID": "myFirstRunbow",
@@ -14665,7 +14670,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124722
+      "UsersEstimate": 124724
     },
     {
       "ID": "notScared",
@@ -14729,7 +14734,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54878
+      "UsersEstimate": 54879
     },
     {
       "ID": "thunderstruck",
@@ -14785,14 +14790,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39911
+      "UsersEstimate": 39912
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249445,
+      "Progressed": 249448,
       "Completed": 5
     }
   ],
@@ -14800,8 +14805,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:07:32.1542613+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:06:43.9095451+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.9787856+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:59:54.6359498+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:07:32.1543545+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:59:38.7979449+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:06:43.909765+00:00"
 }

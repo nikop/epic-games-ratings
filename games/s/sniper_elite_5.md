@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 626)  
+Rating: 4.46 (Ranked 625)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.46 (Ranked 626)
 | Taking it back | 28.00% | ~1,018 |
 | Resourceful | 26.00% | ~946 |
 | Target America | 26.00% | ~946 |
-| The Kraken Sleeps | 23.00% | ~837 |
+| The Kraken Sleeps | 24.00% | ~873 |
 | Liberté | 22.00% | ~800 |
 | Organ Grinder | 22.00% | ~800 |
 | As Quiet as a Mouse | 22.00% | ~800 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 67,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2562,
+  "EOS_Progressed": 2563,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -3600,6 +3600,11 @@
       "Time": "2023-09-18T16:07:08.842664+00:00",
       "NumProgressed": 2562,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-19T09:06:50.4804814+00:00",
+      "NumProgressed": 2563,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3659,7 +3664,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3691,7 +3696,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3723,7 +3728,7 @@
       "Name": "I chose my shackles",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3731,7 +3736,7 @@
       "Name": "Past trauma",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3787,7 +3792,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3795,7 +3800,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3811,7 +3816,7 @@
       "Name": "The end of the experiments",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -3827,7 +3832,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3899,7 +3904,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -3955,7 +3960,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4011,7 +4016,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -4034,7 +4039,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2562,
+      "Progressed": 2563,
       "Completed": 7
     }
   ],
@@ -4042,8 +4047,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:07:39.7532669+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:06:50.4804809+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:32.2915355+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:58:09.1465371+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:07:39.753328+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:58:14.3179213+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:06:50.4805482+00:00"
 }

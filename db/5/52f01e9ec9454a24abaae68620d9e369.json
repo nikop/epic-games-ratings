@@ -2,7 +2,7 @@
   "ID": "52f01e9ec9454a24abaae68620d9e369",
   "Name": "Video Game Trivia",
   "ProductSlug": "video-game-trivia-5db425",
-  "Ranking_EOS_Progress": 604,
+  "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 112,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-15T10:57:10.3590635+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:57:50.4108224+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:07:07.3052809+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:57:58.4606612+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:06:22.6016251+00:00"
 }

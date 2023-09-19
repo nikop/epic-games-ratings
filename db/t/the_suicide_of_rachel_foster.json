@@ -248,7 +248,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1461,
+  "EOS_Progressed": 1462,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
@@ -2528,6 +2528,11 @@
       "Time": "2023-09-18T16:05:40.9521624+00:00",
       "NumProgressed": 1461,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-19T09:05:40.0426266+00:00",
+      "NumProgressed": 1462,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2571,7 +2576,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH_FineEV9",
@@ -2579,7 +2584,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_FineGioco",
@@ -2595,7 +2600,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2603,7 +2608,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2626,15 +2631,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1461,
+      "Progressed": 1462,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:06:16.7341651+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:05:40.0426258+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-19T08:00:22.4732709+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:06:16.7341812+00:00"
+  "LastUpdate_Ratings": "2023-09-19T09:00:02.212812+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:05:40.0426648+00:00"
 }

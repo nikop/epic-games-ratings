@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197010,
+  "EOS_Progressed": 197013,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16691,6 +16691,11 @@
       "Time": "2023-09-19T08:07:10.6681139+00:00",
       "NumProgressed": 197010,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-19T09:06:25.4404712+00:00",
+      "NumProgressed": 197013,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -16710,7 +16715,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 139877
+      "UsersEstimate": 139879
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -16718,7 +16723,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9850
+      "UsersEstimate": 9851
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -16782,7 +16787,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9850
+      "UsersEstimate": 9851
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -16822,14 +16827,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9850
+      "UsersEstimate": 9851
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 197010,
+      "Progressed": 197013,
       "Completed": 4
     }
   ],
@@ -16837,8 +16842,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:07:10.6681133+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:06:25.4404705+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.6203771+00:00",
-  "LastUpdate_Ratings": "2023-09-19T08:00:20.821302+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:07:10.6681915+00:00"
+  "LastUpdate_Ratings": "2023-09-19T09:00:00.6190246+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:06:25.440667+00:00"
 }

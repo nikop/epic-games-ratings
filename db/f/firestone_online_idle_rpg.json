@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1951,
+  "EOS_Progressed": 1952,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5642,6 +5642,11 @@
       "Time": "2023-09-19T01:46:47.4045186+00:00",
       "NumProgressed": 1951,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-19T09:04:12.8442122+00:00",
+      "NumProgressed": 1952,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5885,7 +5890,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "herewegoagain",
@@ -6051,9 +6056,9 @@
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 429
     },
     {
       "ID": "relicofthepast",
@@ -6109,7 +6114,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "thealchemist",
@@ -6213,7 +6218,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "warmachinesarmy",
@@ -6245,14 +6250,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1951,
+      "Progressed": 1952,
       "Completed": 2
     }
   ],
@@ -6260,8 +6265,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:04:34.6490462+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:04:12.8442117+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:58:40.9424637+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:04:34.6491305+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:58:40.5236033+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:04:12.8443596+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~393,902 |
-| Happy Returns | 78.00% | ~379,313 |
-| Hey! That's mine! | 78.00% | ~379,313 |
-| Field Promotion | 74.00% | ~359,861 |
-| Leadhead | 71.00% | ~345,272 |
-| Eradicator | 67.00% | ~325,820 |
-| Surplus | 65.00% | ~316,094 |
-| I Spy | 64.00% | ~311,231 |
-| Burn Baby Burn | 59.00% | ~286,916 |
-| Yellow Beats Green | 55.00% | ~267,464 |
-| Salvage Rights | 53.00% | ~257,738 |
+| First Blood | 81.00% | ~393,903 |
+| Happy Returns | 78.00% | ~379,314 |
+| Hey! That's mine! | 78.00% | ~379,314 |
+| Field Promotion | 74.00% | ~359,862 |
+| Leadhead | 71.00% | ~345,273 |
+| Eradicator | 67.00% | ~325,821 |
+| Surplus | 65.00% | ~316,095 |
+| I Spy | 64.00% | ~311,232 |
+| Burn Baby Burn | 59.00% | ~286,917 |
+| Yellow Beats Green | 55.00% | ~267,465 |
+| Salvage Rights | 53.00% | ~257,739 |
 | Close Call | 50.00% | ~243,150 |
 | Pew Pew | 50.00% | ~243,150 |
 | What IS that? | 50.00% | ~243,150 |
@@ -63,8 +63,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Master Siege Breaker | 0.80% | ~3,890 |
 | Few and Proud | 0.80% | ~3,890 |
 | Shell-shocked | 0.70% | ~3,404 |
-| Alien Tears | 0.50% | ~2,431 |
-| Full House | 0.50% | ~2,431 |
+| Alien Tears | 0.50% | ~2,432 |
+| Full House | 0.50% | ~2,432 |
 | Kickstarter | 0.30% | ~1,459 |
 | The Container | 0.30% | ~1,459 |
 | Foresight is 20/20 | 0.20% | ~973 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~486 |
 | You Monster | 0.10% | ~486 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,299 (Ranked 35)  
+Progressed: 486,300 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 4 (0.00%) (Ranked 277)
 | 2023-09-16 | 486,158 | 4 |
 | 2023-09-17 | 486,224 | 4 |
 | 2023-09-18 | 486,282 | 4 |
-| 2023-09-19 | 486,299 | 4 |
+| 2023-09-19 | 486,300 | 4 |
 ## Awards
 Max (Great for Beginners): 247  (Ranked 258)  
 Sum: 1,686 (Ranked 213)  

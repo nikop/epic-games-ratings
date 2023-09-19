@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~941,749 |
-| I Need a Bigger Garage | 63.00% | ~659,224 |
-| Pump my Ride | 47.00% | ~491,802 |
-| Ghostbuster | 33.00% | ~345,308 |
-| Call Roadside Assistance | 18.00% | ~188,350 |
-| That Was Close | 18.00% | ~188,350 |
-| Quickie | 11.00% | ~115,103 |
-| California Dreamer | 7.00% | ~73,247 |
-| Can't Touch This | 5.00% | ~52,319 |
+| The First of Many | 90.00% | ~941,771 |
+| I Need a Bigger Garage | 63.00% | ~659,240 |
+| Pump my Ride | 47.00% | ~491,814 |
+| Ghostbuster | 33.00% | ~345,316 |
+| Call Roadside Assistance | 18.00% | ~188,354 |
+| That Was Close | 18.00% | ~188,354 |
+| Quickie | 11.00% | ~115,105 |
+| California Dreamer | 7.00% | ~73,249 |
+| Can't Touch This | 5.00% | ~52,321 |
 | Driver from Ipanema | 3.00% | ~31,392 |
 | Carménère Taster | 3.00% | ~31,392 |
 | Supersonic | 3.00% | ~31,392 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,464 |
 | Golden Passport | 1.00% | ~10,464 |
 | Brave and Bold | 1.00% | ~10,464 |
-| Crocodile Hunter | 0.90% | ~9,417 |
-| Old Master | 0.90% | ~9,417 |
+| Crocodile Hunter | 0.90% | ~9,418 |
+| Old Master | 0.90% | ~9,418 |
 | Volcano Surfer | 0.80% | ~8,371 |
 | Otaku | 0.80% | ~8,371 |
 | Survivor | 0.60% | ~6,278 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,046 |
 | Look Mom, No Hands! | 0.10% | ~1,046 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,046,388 (Ranked 13)  
+Progressed: 1,046,412 (Ranked 13)  
 Completed: 426 (0.04%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 426 (0.04%) (Ranked 245)
 | 2023-09-16 | 1,044,452 | 423 |
 | 2023-09-17 | 1,045,393 | 424 |
 | 2023-09-18 | 1,046,161 | 426 |
-| 2023-09-19 | 1,046,388 | 426 |
+| 2023-09-19 | 1,046,412 | 426 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 301)  
 Sum: 1,278 (Ranked 229)  

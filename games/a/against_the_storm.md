@@ -7,13 +7,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No Deaths | 6.00% | ~999 |
-| First Real Expedition | 5.00% | ~832 |
-| Overcoming Difficulty | 5.00% | ~832 |
-| Fertile Meadows | 5.00% | ~832 |
-| Coral Forest | 5.00% | ~832 |
-| The Marshlands | 5.00% | ~832 |
-| The Scarlet Orchard | 5.00% | ~832 |
-| Taking Action | 5.00% | ~832 |
+| First Real Expedition | 5.00% | ~833 |
+| Overcoming Difficulty | 5.00% | ~833 |
+| Fertile Meadows | 5.00% | ~833 |
+| Coral Forest | 5.00% | ~833 |
+| The Marshlands | 5.00% | ~833 |
+| The Scarlet Orchard | 5.00% | ~833 |
+| Taking Action | 5.00% | ~833 |
 | Ancient Battleground | 4.00% | ~666 |
 | Royal Outpost | 4.00% | ~666 |
 | Lost Colonies | 4.00% | ~666 |
@@ -42,11 +42,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 2.00% | ~333 |
 | Defying the Crown | 2.00% | ~333 |
 | Into the Forest | 2.00% | ~333 |
-| Feeding The People | 1.00% | ~166 |
-| Efficient Explorer | 1.00% | ~166 |
-| Prestigious Expedition | 1.00% | ~166 |
-| Blood Flower Farmer | 1.00% | ~166 |
-| Victory through Prosperity | 1.00% | ~166 |
+| Feeding The People | 1.00% | ~167 |
+| Efficient Explorer | 1.00% | ~167 |
+| Prestigious Expedition | 1.00% | ~167 |
+| Blood Flower Farmer | 1.00% | ~167 |
+| Victory through Prosperity | 1.00% | ~167 |
 | Human Utopia | 0.70% | ~117 |
 | Lizard Utopia | 0.70% | ~117 |
 | Beaver Utopia | 0.60% | ~100 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,650 (Ranked 120)  
+Progressed: 16,651 (Ranked 120)  
 Completed: 48 (0.29%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 48 (0.29%) (Ranked 183)
 | 2023-09-16 | 16,625 | 48 |
 | 2023-09-17 | 16,635 | 48 |
 | 2023-09-18 | 16,646 | 48 |
-| 2023-09-19 | 16,650 | 48 |
+| 2023-09-19 | 16,651 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 431  (Ranked 211)  
 Sum: 3,147 (Ranked 166)  

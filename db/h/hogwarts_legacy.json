@@ -7812,9 +7812,9 @@
       "Count": 657
     }
   ],
-  "EOS_Progressed": 296929,
+  "EOS_Progressed": 296930,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24252,6 +24252,11 @@
       "Time": "2023-09-19T08:05:30.5872637+00:00",
       "NumProgressed": 296929,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-19T09:05:00.9083157+00:00",
+      "NumProgressed": 296930,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24383,7 +24388,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35631
+      "UsersEstimate": 35632
     },
     {
       "ID": "PFA_24",
@@ -24622,7 +24627,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296929,
+      "Progressed": 296930,
       "Completed": 474
     }
   ],
@@ -24630,8 +24635,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-18T22:58:03.6335777+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:05:30.5872631+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:05:00.9083093+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:57:48.5179312+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:05:30.5873703+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:57:56.9719407+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:05:00.9085561+00:00"
 }

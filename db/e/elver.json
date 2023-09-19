@@ -1,7 +1,7 @@
 {
   "ID": "c32d9943a2784fe0994f76872cfad489",
   "Name": "Elver",
-  "Ranking_EOS_Progress": 604,
+  "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 112,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:33.3096227+00:00",
-  "LastUpdate_Ratings": "2023-09-19T08:03:12.6095357+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:09:16.4739855+00:00"
+  "LastUpdate_Ratings": "2023-09-19T09:00:41.4833558+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:09:38.1120424+00:00"
 }

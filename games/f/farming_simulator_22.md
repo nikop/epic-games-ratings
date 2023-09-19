@@ -7,22 +7,22 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~36,598 |
-| I read Shakespeare and stuff | 64.00% | ~31,230 |
-| Just a sprinkle | 63.00% | ~30,742 |
-| I'm stumped | 61.00% | ~29,766 |
-| Plant get enough | 60.00% | ~29,278 |
-| It's just the beginning | 59.00% | ~28,790 |
-| This is just my weekend vehicle | 58.00% | ~28,302 |
-| Hard work pays off | 53.00% | ~25,862 |
-| It's never too late to farm | 50.00% | ~24,398 |
+| I read Shakespeare and stuff | 64.00% | ~31,231 |
+| Just a sprinkle | 63.00% | ~30,743 |
+| I'm stumped | 61.00% | ~29,767 |
+| Plant get enough | 60.00% | ~29,279 |
+| It's just the beginning | 59.00% | ~28,791 |
+| This is just my weekend vehicle | 58.00% | ~28,303 |
+| Hard work pays off | 53.00% | ~25,863 |
+| It's never too late to farm | 50.00% | ~24,399 |
 | All out of Land | 44.00% | ~21,471 |
 | Field Trip | 43.00% | ~20,983 |
 | I like to switch it up | 40.00% | ~19,519 |
 | Help me to help you | 38.00% | ~18,543 |
 | Ultimutt Pawesomeness | 28.00% | ~13,663 |
 | Van Gogh | 26.00% | ~12,687 |
-| You wood not believe it | 22.00% | ~10,735 |
-| Vehicle fleet | 22.00% | ~10,735 |
+| You wood not believe it | 22.00% | ~10,736 |
+| Vehicle fleet | 22.00% | ~10,736 |
 | The plot thickens | 16.00% | ~7,808 |
 | Large-scale supplier | 16.00% | ~7,808 |
 | Well-Oiled Machine | 16.00% | ~7,808 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~195 |
 | Raisin the stakes | 0.30% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,797 (Ranked 94)  
+Progressed: 48,798 (Ranked 94)  
 Completed: 6 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 6 (0.01%) (Ranked 263)
 | 2023-09-16 | 48,697 | 6 |
 | 2023-09-17 | 48,757 | 6 |
 | 2023-09-18 | 48,791 | 6 |
-| 2023-09-19 | 48,797 | 6 |
+| 2023-09-19 | 48,798 | 6 |
 ## Awards
 Max (Great for Beginners): 4,983  (Ranked 69)  
 Sum: 40,300 (Ranked 32)  

@@ -2,7 +2,7 @@
   "ID": "592f2146b4d944d5ab0e895e344c8669",
   "Name": "REPLACED",
   "ProductSlug": "replaced",
-  "Ranking_EOS_Progress": 604,
+  "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 112,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:40.0507986+00:00",
-  "LastUpdate_Ratings": "2023-09-19T08:00:17.0262652+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:09:15.9949666+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:59:57.4168138+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:09:37.7716237+00:00"
 }

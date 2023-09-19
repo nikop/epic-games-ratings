@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5883,
+  "EOS_Progressed": 5885,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9886,6 +9886,11 @@
       "Time": "2023-09-19T07:05:16.5956577+00:00",
       "NumProgressed": 5883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T09:04:46.4966921+00:00",
+      "NumProgressed": 5885,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9897,7 +9902,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "10",
@@ -9913,7 +9918,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "12",
@@ -9953,7 +9958,7 @@
       "Name": "Dense Forest",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "3",
@@ -9961,7 +9966,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "4",
@@ -10001,7 +10006,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "9",
@@ -10016,7 +10021,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5883,
+      "Progressed": 5885,
       "Completed": 0
     }
   ],
@@ -10024,8 +10029,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:05:14.04291+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:04:46.4966916+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:58:21.8003803+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:05:14.0429664+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:58:24.7568583+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:04:46.496816+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65757,
+  "EOS_Progressed": 65758,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 971,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15162,6 +15162,11 @@
       "Time": "2023-09-19T08:04:30.5617818+00:00",
       "NumProgressed": 65757,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-19T09:04:09.3206068+00:00",
+      "NumProgressed": 65758,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15173,7 +15178,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26960
+      "UsersEstimate": 26961
     },
     {
       "ID": "02",
@@ -15189,7 +15194,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16439
+      "UsersEstimate": 16440
     },
     {
       "ID": "04",
@@ -15221,7 +15226,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8549
     },
     {
       "ID": "08",
@@ -15229,7 +15234,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8549
     },
     {
       "ID": "09",
@@ -15261,7 +15266,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8549
     },
     {
       "ID": "13",
@@ -15381,7 +15386,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8549
     },
     {
       "ID": "28",
@@ -15389,7 +15394,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8549
     },
     {
       "ID": "29",
@@ -15421,7 +15426,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21042
+      "UsersEstimate": 21043
     },
     {
       "ID": "33",
@@ -15445,7 +15450,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22357
+      "UsersEstimate": 22358
     },
     {
       "ID": "36",
@@ -15669,7 +15674,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "64",
@@ -15708,21 +15713,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65757,
+      "Progressed": 65758,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29225,
+      "Progressed": 29226,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-19T08:04:30.5617809+00:00",
+  "LastChanged_Achievements": "2023-09-19T09:04:09.3206061+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-19T07:58:06.0228422+00:00",
-  "LastUpdate_Achievements": "2023-09-19T08:04:30.5619+00:00"
+  "LastUpdate_Ratings": "2023-09-19T08:58:11.739902+00:00",
+  "LastUpdate_Achievements": "2023-09-19T09:04:09.3208833+00:00"
 }
