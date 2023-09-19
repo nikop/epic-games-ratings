@@ -621,7 +621,7 @@
 | [Dark Future: Blood Red States](games/d/dark_future__blood_red_states.md) | - | - | 0 | - |
 | [Dark Light](games/d/dark_light.md) | 4.31 | 794 | 0 | 519 |
 | [Dark Matter](games/d/dark_matter.md) | - | - | 0 | - |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 244 | 7,400 | 48 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 244 | 7,402 | 48 |
 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 118 | 3,335 | 92 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 535 | 43 | 424 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 350 | 386 | 222 |
@@ -867,7 +867,7 @@
 | [Eternights](games/e/eternights.md) | - | - | 0 | - |
 | [Eternity Convergence](games/e/eternity_convergence.md) | - | - | - | - |
 | [Etherborn](games/e/etherborn.md) | - | - | 0 | - |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 218 | 6,158 | 56 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 218 | 6,170 | 56 |
 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | - | - | 0 | - |
 | [Evan's Remains](games/e/evan's_remains.md) | - | - | 0 | - |
 | [EVE Online](games/e/eve_online.md) | 4.25 | 836 | 1,081 | 138 |
@@ -923,7 +923,7 @@
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 808 | 0 | 519 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 395 | 0 | 519 |
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 260 | 659 | 176 |
-| [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 350 | 1,487 | 125 |
+| [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 350 | 1,492 | 125 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 641 | 845 | 155 |
 | [Far Cry New Dawn - Complete](games/f/far_cry_new_dawn_-_complete.md) | - | - | - | - |
 | [Far Cry New Dawn - Ultimate](games/f/far_cry_new_dawn_-_ultimate.md) | - | - | - | - |
@@ -1120,7 +1120,7 @@
 | [Good Company](games/g/good_company.md) | 4.44 | 650 | 0 | 519 |
 | [Good Heavens!](games/g/good_heavens!.md) | - | - | - | - |
 | [Gorogoa](games/g/gorogoa.md) | - | - | 0 | - |
-| [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 886 | 2,708 | 96 |
+| [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 886 | 2,713 | 96 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | - | - | 0 | - |
 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 875 | 0 | 519 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.19 | 875 | 0 | 519 |
@@ -1360,8 +1360,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 449 | 39 | 430 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Judas](games/j/judas.md) | - | - | 0 | - |
+| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 350 | 577 | 190 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 146 | 693 | 171 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 815 | 3,769 | 84 |
@@ -1626,7 +1626,7 @@
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | - | - | - | - |
 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 218 | 1,190 | 137 |
 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 90 | 6,007 | 58 |
-| [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 203 | 1,887 | 113 |
+| [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 203 | 1,888 | 113 |
 | [Metro Simulator](games/d/d1c8b68acafc466d9b393b5ff6797dc4.md) | - | - | 0 | - |
 | [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | - | - | 0 | - |
 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | - | - | 0 | - |
@@ -2825,7 +2825,7 @@
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | - | - | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | - | - | - | - |
 | [The Witch of Fern Island](games/t/the_witch_of_fern_island.md) | - | - | 0 | - |
-| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 12 | 18,409 | 21 |
+| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 12 | 18,428 | 21 |
 | [The Witness](games/t/the_witness.md) | 4.70 | 203 | 181 | 284 |
 | [The Wizard and The Slug](games/t/the_wizard_and_the_slug.md) | - | - | 0 | - |
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 79 | 0 | 519 |
@@ -2905,7 +2905,7 @@
 | [Total Reload](games/t/total_reload.md) | - | - | - | - |
 | [Total War: PHARAOH](games/3/3928d2045d28460b96db76dc1b9ca146.md) | - | - | - | - |
 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 433 | 6,371 | 55 |
-| [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 203 | 4,547 | 75 |
+| [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 203 | 4,550 | 74 |
 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 190 | 1,902 | 111 |
 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 118 | 368 | 225 |
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 603 | 0 | 519 |

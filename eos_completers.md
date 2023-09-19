@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 99.97% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 99.83% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.23% |
@@ -24,7 +24,7 @@
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.95% |
-| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.72% |
+| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.71% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.22% |
 | 28 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.54% |
 | 37 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.50% |
-| 38 | [Time Loader](games/t/time_loader.md) | 7.38% |
+| 38 | [Time Loader](games/t/time_loader.md) | 7.32% |
 | 39 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.14% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.09% |
 | 41 | [Scorn](games/s/scorn.md) | 7.07% |
@@ -74,7 +74,7 @@
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 74 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.98% |
+| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.99% |
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -119,7 +119,7 @@
 | 117 | [Chorus](games/c/chorus.md) | 1.26% |
 | 118 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 119 | [Infindustry](games/i/infindustry.md) | 1.19% |
-| 120 | [Eternights](games/e/eternights.md) | 1.12% |
+| 120 | [Eternights](games/e/eternights.md) | 1.11% |
 | 121 | [Trifox](games/t/trifox.md) | 1.09% |
 | 122 | [Adios](games/a/adios.md) | 1.04% |
 | 123 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
@@ -209,10 +209,10 @@
 | 205 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 205 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 209 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 209 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.15% |
 | 209 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 212 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 212 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
+| 211 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
+| 211 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
+| 211 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.14% |
 | 214 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.13% |
 | 215 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 215 | [Fall Guys](games/f/fall_guys.md) | 0.12% |

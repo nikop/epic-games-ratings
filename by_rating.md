@@ -17,7 +17,7 @@
 | 12 | [Rain World](games/r/rain_world.md) | 4.89 | 0 | 519 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 436 | 210 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 519 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,409 | 21 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,428 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 308 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,269 | 78 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,025 | 144 |
@@ -210,18 +210,18 @@
 | 203 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 519 |
 | 203 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 52 | 402 |
 | 203 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,319 | 132 |
-| 203 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,887 | 113 |
+| 203 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,888 | 113 |
 | 203 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 465 |
 | 203 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 48 | 411 |
 | 203 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 519 |
 | 203 | [The Witness](games/t/the_witness.md) | 4.70 | 181 | 284 |
-| 203 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,547 | 75 |
+| 203 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,550 | 74 |
 | 203 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 519 |
 | 218 | [Black Book](games/b/black_book.md) | 4.69 | 54 | 396 |
 | 218 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 116,845 | 8 |
 | 218 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 519 |
 | 218 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 519 |
-| 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,158 | 56 |
+| 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,170 | 56 |
 | 218 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,983 | 69 |
 | 218 | [House Flipper](games/h/house_flipper.md) | 4.69 | 310 | 235 |
 | 218 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 519 |
@@ -248,7 +248,7 @@
 | 244 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 519 |
 | 244 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 70 | 381 |
 | 244 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 519 |
-| 244 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,400 | 48 |
+| 244 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,402 | 48 |
 | 244 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,950 | 81 |
 | 244 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 482 |
 | 244 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,234 | 79 |
@@ -356,7 +356,7 @@
 | 350 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 246 |
 | 350 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 452 |
 | 350 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 82 | 362 |
-| 350 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,487 | 125 |
+| 350 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,492 | 125 |
 | 350 | [GigaBash](games/g/gigabash.md) | 4.62 | 0 | 519 |
 | 350 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.62 | 0 | 519 |
 | 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.62 | 38 | 434 |
@@ -887,7 +887,7 @@
 | 875 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 519 |
 | 886 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 519 |
 | 886 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 519 |
-| 886 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,708 | 96 |
+| 886 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,713 | 96 |
 | 886 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 347 |
 | 886 | [SYNCED](games/s/synced.md) | 4.18 | 0 | 519 |
 | 886 | [Wreckfest](games/w/wreckfest.md) | 4.18 | 0 | 519 |
