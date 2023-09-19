@@ -2,10 +2,10 @@
   "ID": "3c59565688c94fa2807baaa19ed62478",
   "Name": "Thunder Ray",
   "ProductSlug": "thunder-ray-e9a2e3",
-  "Ranking_EOS_Progress": 558,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Progress": 559,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
     "PcReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -39,9 +39,9 @@
       "ID": "ACH_COMPLETE_TUTORIAL",
       "SetID": "b9ng4ag",
       "Name": "Fighting Steps",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_BOWIE_SPECIAL",
@@ -79,9 +79,9 @@
       "ID": "ACH_DEFEAT_GOBLIN",
       "SetID": "b9ng4ag",
       "Name": "Sting like a bee",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_GOBLIN_SPECIAL",
@@ -125,8 +125,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:03:48.6481729+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:04:23.915189+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.8034381+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:57:42.9373384+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:03:48.6481805+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:57:57.7982435+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:04:23.9152013+00:00"
 }

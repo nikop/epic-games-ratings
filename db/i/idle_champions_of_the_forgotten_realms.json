@@ -6,8 +6,8 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
-  "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6754,9 +6754,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229373,
+  "EOS_Progressed": 229377,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 854,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23614,6 +23614,11 @@
       "Time": "2023-09-19T15:02:21.8162635+00:00",
       "NumProgressed": 229373,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-19T16:03:29.5858184+00:00",
+      "NumProgressed": 229377,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 520,
@@ -23625,7 +23630,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4587
+      "UsersEstimate": 4588
     },
     {
       "ID": "objective_completed_10",
@@ -24247,9 +24252,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1153",
@@ -24489,7 +24494,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "objective_completed_1203",
@@ -25417,7 +25422,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "objective_completed_390",
@@ -25489,7 +25494,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "objective_completed_40",
@@ -26841,7 +26846,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "objective_completed_80",
@@ -27784,21 +27789,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195647,
+      "Progressed": 195651,
       "Completed": 3438
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229373,
+      "Progressed": 229377,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:02:21.8162631+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:03:29.5858178+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:58:25.338515+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:02:21.8190068+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:58:53.9390251+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:03:29.5887417+00:00"
 }

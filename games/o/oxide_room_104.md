@@ -12,19 +12,19 @@
 | Let's play a game… | 75.00% | ~134 |
 | Now or never | 75.00% | ~134 |
 | Soundtrack | 63.00% | ~112 |
-| First aid | 61.00% | ~109 |
+| First aid | 62.00% | ~110 |
 | Antidote | 54.00% | ~96 |
 | Pick the right door | 25.00% | ~44 |
 | The third floor | 17.00% | ~30 |
-| One-way | 15.00% | ~27 |
-| On the right path | 14.00% | ~25 |
-| It can't be true | 13.00% | ~23 |
-| I'm close now | 11.00% | ~20 |
-| Failed attempt | 11.00% | ~20 |
-| The real escape | 11.00% | ~20 |
+| One-way | 16.00% | ~28 |
+| On the right path | 15.00% | ~27 |
+| It can't be true | 14.00% | ~25 |
+| I'm close now | 12.00% | ~21 |
+| Failed attempt | 12.00% | ~21 |
+| The real escape | 12.00% | ~21 |
+| Good choice | 12.00% | ~21 |
+| Take the long way round | 12.00% | ~21 |
 | Nightmare in the kitchen | 11.00% | ~20 |
-| Good choice | 11.00% | ~20 |
-| Take the long way round | 11.00% | ~20 |
 | He who seeks, finds! | 11.00% | ~20 |
 | Born again | 7.00% | ~12 |
 | The experiment | 6.00% | ~11 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 178 (Ranked 323)  
-Completed: 0 (0.00%) (Ranked 277)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 808)
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Awards
 Max (Competitive Players): 1,713,529  (Ranked 1)  
-Sum: 12,261,282 (Ranked 1)  
+Sum: 12,263,065 (Ranked 1)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 1,589,326 |
 | This game has Amazing Storytelling | 1,506,816 |
 | This game has Amazing Characters | 1,490,801 |
-| This game is Highly Recommended | 1,472,194 |
+| This game is Highly Recommended | 1,473,977 |
 | This game has a Competitive Community | 1,234,424 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -256,3 +256,4 @@ Diff (max vs sum): 0
 | 2023-09-16 | 4.29 | - | 1,704,529 | 12,199,891 |
 | 2023-09-17 | 4.29 | - | 1,709,837 | 12,236,166 |
 | 2023-09-18 | 4.29 | - | 1,713,529 | 12,261,282 |
+| 2023-09-19 | 4.29 | - | 1,713,529 | 12,263,065 |

@@ -7,8 +7,8 @@ Number of Ratings: 54  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Atom Agent | 99.00% | ~1,188 |
+| Wanderer | 36.00% | ~432 |
 | One HIT wonder | 35.00% | ~420 |
-| Wanderer | 35.00% | ~420 |
 | One shot, one kill | 29.00% | ~348 |
 | Traveler | 26.00% | ~312 |
 | Head Burst | 19.00% | ~228 |
@@ -44,7 +44,7 @@ Number of Ratings: 54  (23.09.2022)
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,200 (Ranked 207)  
-Completed: 0 (0.00%) (Ranked 277)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

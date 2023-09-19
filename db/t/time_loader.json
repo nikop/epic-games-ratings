@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.32,
+  "EOS_Completed_Percentage": 7.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -186,6 +186,11 @@
       "Time": "2023-09-19T12:08:42.8615617+00:00",
       "NumProgressed": 123,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-19T16:08:18.2808233+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -205,7 +210,7 @@
       "Name": "Soap",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "03_Cassette",
@@ -277,7 +282,7 @@
       "Name": "It\u2019s in the Vault",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "12_Purrfect",
@@ -293,7 +298,7 @@
       "Name": "Dr. Antivirus",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "14_VhsBlogger",
@@ -323,9 +328,9 @@
       "ID": "17_Capacitors",
       "SetID": "681m9fa",
       "Name": "Capacitors",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "18_SolderingIron",
@@ -333,7 +338,7 @@
       "Name": "Soldering iron",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "19_Harpoon",
@@ -349,7 +354,7 @@
       "Name": "Access protocol",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "21_RobotBros",
@@ -379,9 +384,9 @@
       "ID": "24_HereWeGoAgain",
       "SetID": "681m9fa",
       "Name": "Here we go again",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "25_LeaveMeAlone",
@@ -428,7 +433,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 9
     }
   ],
@@ -436,8 +441,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:06:56.5806017+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:08:18.2808227+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.5450266+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:58:29.611589+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:06:56.5806235+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:58:59.3391924+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:08:18.280845+00:00"
 }

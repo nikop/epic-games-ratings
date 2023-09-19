@@ -31,11 +31,11 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 0.80% | ~26 |
 | A Gift Spurned | 0.80% | ~26 |
 | Tactical Sabotage | 0.80% | ~26 |
-| Fleetmaster | 0.70% | ~22 |
-| Exterminator | 0.70% | ~22 |
-| Junk Banishment | 0.70% | ~22 |
-| Long Distance Call | 0.70% | ~22 |
-| Tactical Flexibility | 0.70% | ~22 |
+| Fleetmaster | 0.70% | ~23 |
+| Exterminator | 0.70% | ~23 |
+| Junk Banishment | 0.70% | ~23 |
+| Long Distance Call | 0.70% | ~23 |
+| Tactical Flexibility | 0.70% | ~23 |
 | Mind Like a Fortress | 0.60% | ~19 |
 | Preservationist | 0.60% | ~19 |
 | Engine Kill | 0.60% | ~19 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,214 (Ranked 170)  
-Completed: 0 (0.00%) (Ranked 277)  
+Progressed: 3,216 (Ranked 169)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-16 | 3,202 | 0 |
 | 2023-09-17 | 3,207 | 0 |
 | 2023-09-18 | 3,213 | 0 |
-| 2023-09-19 | 3,214 | 0 |
+| 2023-09-19 | 3,216 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
 Sum: 474 (Ranked 306)  

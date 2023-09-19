@@ -2,20 +2,20 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -908,6 +908,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 391,
       "NumberOfAwardsMax": 295
+    },
+    {
+      "Time": "2023-09-19T16:00:35.9233032+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 391,
+      "NumberOfAwardsMax": 295
     }
   ],
   "ReviewsDisabled": false,
@@ -946,9 +952,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12544,
+  "EOS_Progressed": 12550,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10826,6 +10832,11 @@
       "Time": "2023-09-19T15:05:39.5141101+00:00",
       "NumProgressed": 12544,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-19T16:06:40.8544541+00:00",
+      "NumProgressed": 12550,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10837,7 +10848,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10161
+      "UsersEstimate": 10166
     },
     {
       "ID": "ACH02",
@@ -10845,7 +10856,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH03",
@@ -10861,7 +10872,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH05",
@@ -10885,7 +10896,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "ACH08",
@@ -10893,7 +10904,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6397
+      "UsersEstimate": 6400
     },
     {
       "ID": "ACH09",
@@ -10917,7 +10928,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH12",
@@ -10933,7 +10944,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "ACH14",
@@ -10949,7 +10960,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH16",
@@ -10957,7 +10968,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2134
     },
     {
       "ID": "ACH17",
@@ -10981,7 +10992,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH20",
@@ -10997,7 +11008,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH22",
@@ -11013,7 +11024,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3263
     },
     {
       "ID": "ACH24",
@@ -11021,7 +11032,7 @@
       "Name": "Not a Player",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH25",
@@ -11077,7 +11088,7 @@
       "Name": "Chick Magnet",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH32",
@@ -11116,16 +11127,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12544,
+      "Progressed": 12550,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-09-19T04:59:29.2903512+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:05:39.5141097+00:00",
+  "LastChanged": "2023-09-19T16:00:35.923303+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:06:40.8544535+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:59:45.1064001+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:05:39.5141947+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:00:35.9233041+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:06:40.8545543+00:00"
 }

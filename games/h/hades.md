@@ -6,41 +6,41 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~626,353 |
-| Escaped Asphodel | 80.00% | ~563,014 |
-| Arms Collector | 71.00% | ~499,675 |
-| Friends in High Places | 68.00% | ~478,562 |
-| Escaped Elysium | 66.00% | ~464,486 |
-| Chthonic Colleagues | 63.00% | ~443,373 |
-| Is There No Escape? | 52.00% | ~365,959 |
-| Death Dealer | 45.00% | ~316,695 |
-| Skelly Slayer | 42.00% | ~295,582 |
-| Well Stocked | 40.00% | ~281,507 |
-| Back to Work | 38.00% | ~267,431 |
-| Day-or-Night Trader | 37.00% | ~260,394 |
-| Blessed by the Gods | 37.00% | ~260,394 |
-| Urge to Sing | 36.00% | ~253,356 |
-| Blood Bound | 35.00% | ~246,318 |
-| Three-Headed Boy | 32.00% | ~225,205 |
+| Escaped Tartarus | 89.00% | ~626,354 |
+| Escaped Asphodel | 80.00% | ~563,015 |
+| Arms Collector | 71.00% | ~499,676 |
+| Friends in High Places | 68.00% | ~478,563 |
+| Escaped Elysium | 66.00% | ~464,488 |
+| Chthonic Colleagues | 63.00% | ~443,374 |
+| Is There No Escape? | 52.00% | ~365,960 |
+| Death Dealer | 45.00% | ~316,696 |
+| Skelly Slayer | 42.00% | ~295,583 |
+| Well Stocked | 40.00% | ~281,508 |
+| Back to Work | 38.00% | ~267,432 |
+| Day-or-Night Trader | 37.00% | ~260,395 |
+| Blessed by the Gods | 37.00% | ~260,395 |
+| Urge to Sing | 36.00% | ~253,357 |
+| Blood Bound | 35.00% | ~246,319 |
+| Three-Headed Boy | 32.00% | ~225,206 |
 | River Denizens | 28.00% | ~197,055 |
 | Grown Close | 28.00% | ~197,055 |
-| Home Makeover | 27.00% | ~190,017 |
-| The Family Secret | 26.00% | ~182,979 |
+| Home Makeover | 27.00% | ~190,018 |
+| The Family Secret | 26.00% | ~182,980 |
 | Had to Happen | 25.00% | ~175,942 |
-| To Charon's Credit | 23.00% | ~161,866 |
-| Tools of the Architect | 23.00% | ~161,866 |
-| Master of Arms | 23.00% | ~161,866 |
+| To Charon's Credit | 23.00% | ~161,867 |
+| Tools of the Architect | 23.00% | ~161,867 |
+| Master of Arms | 23.00% | ~161,867 |
 | Rare Collectible | 22.00% | ~154,829 |
 | Weapon of Fate | 21.00% | ~147,791 |
 | Something From Everyone | 19.00% | ~133,716 |
 | Hold the Onions | 18.00% | ~126,678 |
-| Well Versed | 17.00% | ~119,640 |
+| Well Versed | 17.00% | ~119,641 |
 | War-God's Bloodlust | 15.00% | ~105,565 |
-| Musician and Muse | 14.00% | ~98,527 |
+| Musician and Muse | 14.00% | ~98,528 |
 | The Useless Trinket | 13.00% | ~91,490 |
 | Champion of Elysium | 13.00% | ~91,490 |
 | Slashed Benefits | 12.00% | ~84,452 |
-| Haste of Hermes | 11.00% | ~77,414 |
+| Haste of Hermes | 11.00% | ~77,415 |
 | Bad Call | 10.00% | ~70,377 |
 | Nyx's Mirror | 10.00% | ~70,377 |
 | Night and Darkness | 10.00% | ~70,377 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~63,339 |
 | Thanks, But No Thanks | 9.00% | ~63,339 |
 | Infernal Arms | 9.00% | ~63,339 |
-| Divided by Death | 8.00% | ~56,301 |
+| Divided by Death | 8.00% | ~56,302 |
 | Harsh Conditions | 7.00% | ~49,264 |
 | One for the Ages | 7.00% | ~49,264 |
 | Complete Set | 6.00% | ~42,226 |
@@ -56,8 +56,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,151 |
 | Friends Forever | 4.00% | ~28,151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,767 (Ranked 21)  
-Completed: 6,359 (0.90%) (Ranked 132)  
+Progressed: 703,769 (Ranked 21)  
+Completed: 6,359 (0.90%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,15 +208,15 @@ Completed: 6,359 (0.90%) (Ranked 132)
 | 2023-09-16 | 703,603 | 6,353 |
 | 2023-09-17 | 703,693 | 6,356 |
 | 2023-09-18 | 703,738 | 6,359 |
-| 2023-09-19 | 703,767 | 6,359 |
+| 2023-09-19 | 703,769 | 6,359 |
 ## Awards
 Max (Character Customization): 3,267  (Ranked 94)  
-Sum: 7,906 (Ranked 102)  
+Sum: 7,907 (Ranked 102)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,267 |
-| This game has Great Boss Battles | 2,289 |
+| This game has Great Boss Battles | 2,290 |
 | This game is Highly Recommended | 262 |
 | This game is Great for Beginners | 252 |
 | This game has Amazing Storytelling | 244 |
@@ -454,3 +454,4 @@ Diff (max vs sum): -8
 | 2023-09-16 | 4.92 | - | 3,263 | 7,894 |
 | 2023-09-17 | 4.92 | - | 3,267 | 7,899 |
 | 2023-09-18 | 4.92 | - | 3,267 | 7,906 |
+| 2023-09-19 | 4.92 | - | 3,267 | 7,907 |

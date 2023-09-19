@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7491,
+  "EOS_Progressed": 7493,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6994,6 +6994,11 @@
       "Time": "2023-09-19T11:09:05.8387413+00:00",
       "NumProgressed": 7491,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-19T16:08:26.1660985+00:00",
+      "NumProgressed": 7493,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7021,7 +7026,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -7045,7 +7050,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ENERGY_SAVER",
@@ -7053,7 +7058,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -7093,7 +7098,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ICONOCLAST",
@@ -7101,7 +7106,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "IN_A_PINCH",
@@ -7109,7 +7114,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "LIBERATOR",
@@ -7149,7 +7154,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -7172,7 +7177,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7491,
+      "Progressed": 7493,
       "Completed": 33
     }
   ],
@@ -7180,8 +7185,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:07:02.8729865+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:08:26.166098+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:01.8462778+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:57:52.6211472+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:07:02.8730414+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:58:09.9335689+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:08:26.1662353+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3020,7 +3020,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72670,
+  "EOS_Progressed": 72672,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 2,
@@ -15995,6 +15995,11 @@
       "Time": "2023-09-19T15:04:11.3174735+00:00",
       "NumProgressed": 72670,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-19T16:04:51.7918884+00:00",
+      "NumProgressed": 72672,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16054,7 +16059,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16714
+      "UsersEstimate": 16715
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16086,7 +16091,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8720
+      "UsersEstimate": 8721
     },
     {
       "ID": "APPLY_STATUS",
@@ -16094,7 +16099,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10900
+      "UsersEstimate": 10901
     },
     {
       "ID": "CHALLENGES_1",
@@ -16182,7 +16187,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8720
+      "UsersEstimate": 8721
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -16230,7 +16235,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21074
+      "UsersEstimate": 21075
     },
     {
       "ID": "FREEZE_1_5",
@@ -16246,7 +16251,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13807
+      "UsersEstimate": 13808
     },
     {
       "ID": "FREEZE_3",
@@ -16310,7 +16315,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25434
+      "UsersEstimate": 25435
     },
     {
       "ID": "HARLEY_2",
@@ -16334,7 +16339,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11627
+      "UsersEstimate": 11628
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16350,7 +16355,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37788
+      "UsersEstimate": 37789
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16414,7 +16419,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16714
+      "UsersEstimate": 16715
     },
     {
       "ID": "MYSTERY_04",
@@ -16438,7 +16443,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10900
+      "UsersEstimate": 10901
     },
     {
       "ID": "MYSTERY_07",
@@ -16454,7 +16459,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8720
+      "UsersEstimate": 8721
     },
     {
       "ID": "SECRET_CACHE",
@@ -16493,13 +16498,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72670,
+      "Progressed": 72672,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42950,
+      "Progressed": 42952,
       "Completed": 2663
     }
   ],
@@ -16507,8 +16512,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-19T12:01:21.0770808+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:04:11.3174731+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:04:51.7918877+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:59:52.1237583+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:04:11.3176029+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:00:44.9501265+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:04:51.7921006+00:00"
 }

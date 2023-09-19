@@ -6,29 +6,29 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 65.00% | ~329 |
-| Cowardice | 58.00% | ~293 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~253 |
+| Explorer | 65.00% | ~330 |
+| Cowardice | 58.00% | ~294 |
+| NO LIFE IS WORTH SAVING... | 50.00% | ~254 |
 | Eat Lead! | 48.00% | ~243 |
 | The Breaking Point | 45.00% | ~228 |
 | Prospector | 44.00% | ~223 |
 | Here Comes the Boom | 44.00% | ~223 |
-| Treasure Hunter | 41.00% | ~207 |
-| The Motivation | 40.00% | ~202 |
-| Sniper Wolf | 40.00% | ~202 |
-| Heroism | 38.00% | ~192 |
-| Missing in Action | 37.00% | ~187 |
+| Treasure Hunter | 41.00% | ~208 |
+| Sniper Wolf | 40.00% | ~203 |
+| The Motivation | 39.00% | ~198 |
+| Heroism | 38.00% | ~193 |
+| Missing in Action | 36.00% | ~183 |
 | Collectibles of Chapter I | 34.00% | ~172 |
 | Consequences | 34.00% | ~172 |
 | King of Knives | 33.00% | ~167 |
 | Opportunities | 32.00% | ~162 |
 | The Horror | 30.00% | ~152 |
 | The Difference | 27.00% | ~137 |
-| Vengeance | 25.00% | ~126 |
-| Collectibles of Chapter II | 23.00% | ~116 |
-| Broken Hopes | 23.00% | ~116 |
-| It's Just an Accident | 22.00% | ~111 |
-| Bullseye! | 22.00% | ~111 |
+| Vengeance | 25.00% | ~127 |
+| Collectibles of Chapter II | 23.00% | ~117 |
+| Broken Hopes | 22.00% | ~112 |
+| It's Just an Accident | 22.00% | ~112 |
+| Bullseye! | 22.00% | ~112 |
 | Sorrow | 20.00% | ~101 |
 | Food Massacre | 20.00% | ~101 |
 | Atonement | 18.00% | ~91 |
@@ -38,7 +38,7 @@ Number of Ratings: 34  (23.09.2022)
 | Without a Second Thought | 15.00% | ~76 |
 | Collectibles of Chapter V | 10.00% | ~51 |
 | Such is War! | 9.00% | ~46 |
-| Tiptoe Around | 8.00% | ~40 |
+| Tiptoe Around | 8.00% | ~41 |
 | Collectibles of Chapter XII | 7.00% | ~35 |
 | Piece of Cake | 7.00% | ~35 |
 | Collectibles of Chapter VII | 6.00% | ~30 |
@@ -66,8 +66,8 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 506 (Ranked 248)  
-Completed: 0 (0.00%) (Ranked 277)  
+Progressed: 507 (Ranked 248)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-16 | 502 | 0 |
 | 2023-09-17 | 503 | 0 |
 | 2023-09-18 | 504 | 0 |
-| 2023-09-19 | 506 | 0 |
+| 2023-09-19 | 507 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -854,10 +854,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 464,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-09-19T16:00:01.3595958+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 465,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 464,
+  "NumberOfAwards": 465,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -883,7 +889,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Extremely Fun",
@@ -934,9 +940,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2871,
+  "EOS_Progressed": 2872,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4639,6 +4645,11 @@
       "Time": "2023-09-19T13:12:10.5030361+00:00",
       "NumProgressed": 2871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T16:07:31.4007318+00:00",
+      "NumProgressed": 2872,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4954,7 +4965,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5033,15 +5044,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2871,
+      "Progressed": 2872,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-09-18T06:59:22.6806147+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:06:19.1319919+00:00",
+  "LastChanged": "2023-09-19T16:00:01.3595957+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:07:31.4007312+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:59:19.9663382+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:06:19.1320586+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:00:01.3595962+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:07:31.4007933+00:00"
 }

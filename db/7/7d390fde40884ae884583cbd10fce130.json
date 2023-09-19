@@ -2,10 +2,10 @@
   "ID": "7d390fde40884ae884583cbd10fce130",
   "Name": "City Ambulance Car Driving",
   "ProductSlug": "city-ambulance-car-driving-1d3872",
-  "Ranking_EOS_Progress": 606,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-05T19:30:00+00:00",
     "PcReleaseDate": "2023-02-07T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.1875546+00:00",
-  "LastUpdate_Ratings": "2023-09-19T15:00:32.7377703+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:06:01.6790584+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:01:37.2672509+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:07:09.1279262+00:00"
 }

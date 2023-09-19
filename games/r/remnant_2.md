@@ -5,44 +5,44 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,510 |
-| The Killing Jar | 8.00% | ~14,675 |
-| Not Your Average Trait | 8.00% | ~14,675 |
-| Expanding Horizons | 7.00% | ~12,841 |
-| Quest for Survival | 7.00% | ~12,841 |
-| Gleaming the Cube | 6.00% | ~11,006 |
-| Not a Janitor | 6.00% | ~11,006 |
-| Familiar Face | 6.00% | ~11,006 |
-| Duality | 6.00% | ~11,006 |
-| Top Performer | 6.00% | ~11,006 |
-| Boss'n Up | 6.00% | ~11,006 |
-| Good, But Could Be Better! | 6.00% | ~11,006 |
-| Trait Chaser | 6.00% | ~11,006 |
-| Not So Special Now | 5.00% | ~9,172 |
-| Equal Measures | 5.00% | ~9,172 |
-| Blue Goddess | 5.00% | ~9,172 |
-| Shhh...It's a Secret | 5.00% | ~9,172 |
-| Almost There | 5.00% | ~9,172 |
-| Make Some Room | 5.00% | ~9,172 |
-| Chaos | 4.00% | ~7,338 |
-| Traitor | 4.00% | ~7,338 |
-| Power Surge | 4.00% | ~7,338 |
-| The God Gambit | 4.00% | ~7,338 |
-| Dark Designs | 4.00% | ~7,338 |
-| Madman's Paradise | 4.00% | ~7,338 |
-| Was This Supposed To Happen? | 4.00% | ~7,338 |
-| The Web | 4.00% | ~7,338 |
-| Scrap Collector | 4.00% | ~7,338 |
-| All These Traits� | 4.00% | ~7,338 |
-| Am I Seeing This? | 3.00% | ~5,503 |
-| Forever is a Long Time Coming | 3.00% | ~5,503 |
-| The Agenda | 3.00% | ~5,503 |
-| Tall Tales | 3.00% | ~5,503 |
-| Bad Moon Rising | 3.00% | ~5,503 |
-| Strapped | 3.00% | ~5,503 |
-| Edgelord | 3.00% | ~5,503 |
-| The Ultimate Weapon | 3.00% | ~5,503 |
-| No One Should Have All That Power | 3.00% | ~5,503 |
+| First of Many | 9.00% | ~16,512 |
+| The Killing Jar | 8.00% | ~14,678 |
+| Not Your Average Trait | 8.00% | ~14,678 |
+| Expanding Horizons | 7.00% | ~12,843 |
+| Quest for Survival | 7.00% | ~12,843 |
+| Gleaming the Cube | 6.00% | ~11,008 |
+| Not a Janitor | 6.00% | ~11,008 |
+| Familiar Face | 6.00% | ~11,008 |
+| Duality | 6.00% | ~11,008 |
+| Top Performer | 6.00% | ~11,008 |
+| Boss'n Up | 6.00% | ~11,008 |
+| Good, But Could Be Better! | 6.00% | ~11,008 |
+| Trait Chaser | 6.00% | ~11,008 |
+| Not So Special Now | 5.00% | ~9,173 |
+| Equal Measures | 5.00% | ~9,173 |
+| Blue Goddess | 5.00% | ~9,173 |
+| Shhh...It's a Secret | 5.00% | ~9,173 |
+| Almost There | 5.00% | ~9,173 |
+| Make Some Room | 5.00% | ~9,173 |
+| Chaos | 4.00% | ~7,339 |
+| Traitor | 4.00% | ~7,339 |
+| Power Surge | 4.00% | ~7,339 |
+| The God Gambit | 4.00% | ~7,339 |
+| Dark Designs | 4.00% | ~7,339 |
+| Madman's Paradise | 4.00% | ~7,339 |
+| Was This Supposed To Happen? | 4.00% | ~7,339 |
+| The Web | 4.00% | ~7,339 |
+| Scrap Collector | 4.00% | ~7,339 |
+| All These Traits� | 4.00% | ~7,339 |
+| Am I Seeing This? | 3.00% | ~5,504 |
+| Forever is a Long Time Coming | 3.00% | ~5,504 |
+| The Agenda | 3.00% | ~5,504 |
+| Tall Tales | 3.00% | ~5,504 |
+| Bad Moon Rising | 3.00% | ~5,504 |
+| Strapped | 3.00% | ~5,504 |
+| Edgelord | 3.00% | ~5,504 |
+| The Ultimate Weapon | 3.00% | ~5,504 |
+| No One Should Have All That Power | 3.00% | ~5,504 |
 | Crafty | 2.00% | ~3,669 |
 | Only Human | 2.00% | ~3,669 |
 | Red Room | 2.00% | ~3,669 |
@@ -51,13 +51,13 @@ Rating: 4.76 (Ranked 118)
 | Carnage in C-Minor | 2.00% | ~3,669 |
 | Maxed Out! | 2.00% | ~3,669 |
 | Transmutate | 2.00% | ~3,669 |
-| The Trigger | 1.00% | ~1,834 |
-| Cutting Edge | 1.00% | ~1,834 |
-| Proving Grounds | 1.00% | ~1,834 |
+| The Trigger | 1.00% | ~1,835 |
+| Cutting Edge | 1.00% | ~1,835 |
+| Proving Grounds | 1.00% | ~1,835 |
 | Ghost in the Machine | 0.90% | ~1,651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,441 (Ranked 65)  
-Completed: 310 (0.17%) (Ranked 202)  
+Progressed: 183,469 (Ranked 65)  
+Completed: 310 (0.17%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 310 (0.17%) (Ranked 202)
 | 2023-09-16 | 181,964 | 302 |
 | 2023-09-17 | 182,692 | 308 |
 | 2023-09-18 | 183,173 | 309 |
-| 2023-09-19 | 183,441 | 310 |
+| 2023-09-19 | 183,469 | 310 |
 ## Awards
 Max (Great Boss Battles): 1,637  (Ranked 119)  
 Sum: 3,290 (Ranked 157)  

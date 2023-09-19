@@ -43,7 +43,7 @@ Number of Ratings: 281  (23.09.2022)
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,826 (Ranked 148)  
-Completed: 0 (0.00%) (Ranked 277)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,15 +197,15 @@ Completed: 0 (0.00%) (Ranked 277)
 | 2023-09-19 | 5,826 | 0 |
 ## Awards
 Max (Relaxing): 34  (Ranked 452)  
-Sum: 172 (Ranked 389)  
-Diff (max vs sum): 63  
+Sum: 173 (Ranked 388)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 34 |
 | This game has Amazing Storytelling | 32 |
 | This game is Highly Recommended | 31 |
+| This game is Great for Beginners | 28 |
 | This game is Extremely Fun | 27 |
-| This game is Great for Beginners | 27 |
 | This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -277,3 +277,4 @@ Diff (max vs sum): 63
 | 2023-09-11 | 4.15 | - | 34 | 170 |
 | 2023-09-14 | 4.15 | - | 34 | 171 |
 | 2023-09-17 | 4.16 | - | 34 | 172 |
+| 2023-09-19 | 4.16 | - | 34 | 173 |

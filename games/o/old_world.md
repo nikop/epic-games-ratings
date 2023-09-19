@@ -106,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 1.00% | ~140 |
 | Legalism | 1.00% | ~140 |
 | Redemption | 1.00% | ~140 |
-| Veneration | 1.00% | ~140 |
 | Cimmerian Archer | 1.00% | ~140 |
 | Legionary | 1.00% | ~140 |
 | Phalangite | 1.00% | ~140 |
@@ -122,6 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.90% | ~126 |
 | Enlightenment | 0.90% | ~126 |
 | Revelation | 0.90% | ~126 |
+| Veneration | 0.90% | ~126 |
 | Kushite Cavalry | 0.90% | ~126 |
 | Strong Difficulty | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
@@ -174,10 +174,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.30% | ~42 |
 | Pantheon in Roma | 0.30% | ~42 |
 | Patriarch St Paul | 0.30% | ~42 |
-| Blade of the Monkey | 0.20% | ~28 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
-| Silver Victory (Carthage 2) | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
@@ -188,11 +186,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.20% | ~28 |
 | Macedonian Wars | 0.20% | ~28 |
 | Medo-Babylonian Conquest | 0.20% | ~28 |
-| Realistic Mortality | 0.20% | ~28 |
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
 | Word of God | 0.20% | ~28 |
-| Randomized Families | 0.20% | ~28 |
 | Randomized Leaders | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -203,10 +199,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.10% | ~14 |
 | Battle of Opis | 0.10% | ~14 |
 | Before the Mongol Horde | 0.10% | ~14 |
+| Blade of the Monkey | 0.10% | ~14 |
 | Hagia Sophia in Byzantion | 0.10% | ~14 |
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Epic Victory (Carthage 2) | 0.10% | ~14 |
 | Gold Victory (Carthage 2) | 0.10% | ~14 |
+| Silver Victory (Carthage 2) | 0.10% | ~14 |
 | Carthage - Rise of Rome | 0.10% | ~14 |
 | Bronze Victory (Carthage 3) | 0.10% | ~14 |
 | Epic Victory (Carthage 3) | 0.10% | ~14 |
@@ -265,6 +263,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 4 - Strong | 0.10% | ~14 |
 | Pyramids in Menefer | 0.10% | ~14 |
 | Merchants of the Levant | 0.10% | ~14 |
+| Realistic Mortality | 0.10% | ~14 |
 | Play a 1-v-1 Game | 0.10% | ~14 |
 | Play a Hotseat Game | 0.10% | ~14 |
 | Play a LAN Game | 0.10% | ~14 |
@@ -272,6 +271,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat in Ur | 0.10% | ~14 |
 | No Characters | 0.10% | ~14 |
 | One City Challenge | 0.10% | ~14 |
+| Randomized Families | 0.10% | ~14 |
 | Role-Playing | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
 | Win a 1-v-1 Game | 0.10% | ~14 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,999 (Ranked 124)  
-Completed: 5 (0.04%) (Ranked 245)  
+Progressed: 14,000 (Ranked 124)  
+Completed: 5 (0.04%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -455,7 +455,7 @@ Completed: 5 (0.04%) (Ranked 245)
 | 2023-09-16 | 13,958 | 5 |
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
-| 2023-09-19 | 13,999 | 5 |
+| 2023-09-19 | 14,000 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

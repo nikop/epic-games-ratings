@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 52.00% | ~61 |
-| Chapter I | 51.00% | ~60 |
-| Haute cuisine | 46.00% | ~54 |
+| Fire in the... nevermind | 53.00% | ~62 |
+| Chapter I | 52.00% | ~61 |
+| Haute cuisine | 47.00% | ~55 |
 | I didn't do it! | 41.00% | ~48 |
 | Demolition expert | 38.00% | ~44 |
+| Keep away from children | 37.00% | ~43 |
 | Wooooooow! | 37.00% | ~43 |
-| Keep away from children | 36.00% | ~42 |
 | Artistic fool | 35.00% | ~41 |
 | Open up wide | 32.00% | ~37 |
 | Let the boot talk | 30.00% | ~35 |
 | Chapter II | 28.00% | ~33 |
 | Achoo!! | 26.00% | ~30 |
+| Handyman | 25.00% | ~29 |
 | Chapter III | 25.00% | ~29 |
 | Like a moth in the Wind | 25.00% | ~29 |
-| Handyman | 24.00% | ~28 |
 | Bubblekillerfamily | 23.00% | ~27 |
 | Quite a buggy game | 22.00% | ~26 |
 | Shadow on the wall | 22.00% | ~26 |
+| Pacifist | 21.00% | ~25 |
 | Fastidious Clown | 21.00% | ~25 |
 | Mirror mirror on the wall... | 21.00% | ~25 |
-| Pacifist | 20.00% | ~23 |
 | It's not easy being green! | 19.00% | ~22 |
 | Home is where the heart is | 19.00% | ~22 |
 | Master of Thermodynamics | 15.00% | ~18 |
@@ -52,7 +52,7 @@
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 117 (Ranked 344)  
-Completed: 0 (0.00%) (Ranked 277)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,8 +7,8 @@
 | Good Start | 82.00% | ~14 |
 | Constructor | 82.00% | ~14 |
 | Happy Ending | 82.00% | ~14 |
-| 10 is good! | 53.00% | ~9 |
-| 1 Hour! | 53.00% | ~9 |
+| 10 is good! | 59.00% | ~10 |
+| 1 Hour! | 59.00% | ~10 |
 | One-quarter mark | 41.00% | ~7 |
 | Half way! | 29.00% | ~5 |
 | 10 Hours! | 24.00% | ~4 |
@@ -22,7 +22,7 @@
 | Swap Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 458)  
-Completed: 0 (0.00%) (Ranked 277)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

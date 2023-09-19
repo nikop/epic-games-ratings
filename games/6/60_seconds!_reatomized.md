@@ -11,7 +11,7 @@ Rating: 4.62 (Ranked 350)
 | Home, sweet home | 91.00% | ~4,706 |
 | Survivalist | 89.00% | ~4,602 |
 | One way ticket | 84.00% | ~4,344 |
-| Last man standing | 79.00% | ~4,085 |
+| Last man standing | 80.00% | ~4,137 |
 | Family guy | 77.00% | ~3,982 |
 | Out of the Bag | 75.00% | ~3,878 |
 | The Dark Side | 70.00% | ~3,620 |
@@ -67,7 +67,7 @@ Rating: 4.62 (Ranked 350)
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,171 (Ranked 153)  
-Completed: 1 (0.02%) (Ranked 254)  
+Completed: 1 (0.02%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

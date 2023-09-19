@@ -6,15 +6,15 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,587 |
+| A Brief Tour of the Realms | 2.00% | ~4,588 |
 | Beast Intentions | 0.80% | ~1,835 |
 | The Cursed Farmer | 0.70% | ~1,606 |
 | The Mad Wizard | 0.60% | ~1,376 |
 | The Ring of Regeneration | 0.50% | ~1,147 |
-| Were-verpowered | 0.40% | ~917 |
-| Seeking Allies | 0.40% | ~917 |
-| Are Ya Chicken? | 0.40% | ~917 |
-| Friendly Imps | 0.40% | ~917 |
+| Were-verpowered | 0.40% | ~918 |
+| Seeking Allies | 0.40% | ~918 |
+| Are Ya Chicken? | 0.40% | ~918 |
+| Friendly Imps | 0.40% | ~918 |
 | Maddening | 0.30% | ~688 |
 | The Silken Swamp | 0.30% | ~688 |
 | A Persistent Buzzing | 0.30% | ~688 |
@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.20% | ~459 |
 | Supply Run | 0.20% | ~459 |
 | Heavy Burden | 0.20% | ~459 |
+| Seeds of Destruction | 0.20% | ~391 |
 | Vecna Lives! | 0.20% | ~391 |
 | A Demi-god's Defender | 0.20% | ~391 |
 | Vecna Loots! | 0.20% | ~391 |
@@ -188,7 +189,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~196 |
 | Strength of Character | 0.10% | ~196 |
 | The Invisible Wizards of Thay | 0.10% | ~196 |
-| Seeds of Destruction | 0.10% | ~196 |
 | Speeds of Destruction | 0.10% | ~196 |
 | Owlbear Necessities | 0.10% | ~196 |
 | The Evacuation of Waterdeep | 0.10% | ~196 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,373 (Ranked 57)  
-Completed: 2,295 (1.00%) (Ranked 125)  
+Progressed: 229,377 (Ranked 57)  
+Completed: 2,295 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -679,7 +679,7 @@ Completed: 2,295 (1.00%) (Ranked 125)
 | 2023-09-16 | 229,085 | 2,289 |
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
-| 2023-09-19 | 229,373 | 2,295 |
+| 2023-09-19 | 229,377 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  

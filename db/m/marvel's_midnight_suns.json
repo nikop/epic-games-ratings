@@ -4,11 +4,11 @@
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 520,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 165,
-  "Ranking_EOS_Progress": 606,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_PopularitySum": 164,
+  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -3612,10 +3612,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 3163,
       "NumberOfAwardsMax": 1446
+    },
+    {
+      "Time": "2023-09-19T15:57:40.2364056+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 3165,
+      "NumberOfAwardsMax": 1446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3163,
+  "NumberOfAwards": 3165,
   "NumberOfAwardsMax": 1446,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3671,7 +3677,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 195
+      "Count": 197
     },
     {
       "Text": "This game has a Creative Community",
@@ -3698,8 +3704,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-09-19T03:57:02.8986167+00:00",
+  "LastChanged": "2023-09-19T15:57:40.2364054+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:00.1946832+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:57:28.3498363+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:04:31.3393126+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:57:40.236406+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:05:16.7235183+00:00"
 }

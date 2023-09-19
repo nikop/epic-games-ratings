@@ -6,9 +6,9 @@
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1122,9 +1122,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5207,
+  "EOS_Progressed": 5210,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9902,6 +9902,11 @@
       "Time": "2023-09-19T15:04:55.8315373+00:00",
       "NumProgressed": 5207,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-19T16:05:46.3488532+00:00",
+      "NumProgressed": 5210,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9921,7 +9926,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -9969,7 +9974,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -9977,7 +9982,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -9985,7 +9990,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -10001,7 +10006,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -10009,7 +10014,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -10017,7 +10022,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -10065,7 +10070,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -10073,7 +10078,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3908
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10097,7 +10102,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -10105,7 +10110,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_MYWAYS",
@@ -10169,7 +10174,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2449
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10185,7 +10190,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -10193,7 +10198,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -10217,7 +10222,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -10232,15 +10237,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5207,
+      "Progressed": 5210,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-18T15:00:11.2211125+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:04:55.8315369+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:05:46.3488526+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.3896086+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:57:15.0960807+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:04:55.8316378+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:57:23.3499251+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:05:46.348963+00:00"
 }

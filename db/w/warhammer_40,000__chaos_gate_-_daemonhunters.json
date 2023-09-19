@@ -5,10 +5,10 @@
   "Ranking_Rating": 417,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 306,
-  "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -726,9 +726,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3214,
+  "EOS_Progressed": 3216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3416,6 +3416,11 @@
       "Time": "2023-09-19T00:06:24.3307693+00:00",
       "NumProgressed": 3214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-19T16:07:28.7356198+00:00",
+      "NumProgressed": 3216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3539,7 +3544,7 @@
       "Name": "Fleetmaster",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ForTheMachineGod",
@@ -3627,7 +3632,7 @@
       "Name": "Exterminator",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -3843,7 +3848,7 @@
       "Name": "Junk Banishment",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -3867,7 +3872,7 @@
       "Name": "Long Distance Call",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SkilledKnight",
@@ -3891,7 +3896,7 @@
       "Name": "Tactical Flexibility",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -3970,21 +3975,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3214,
+      "Progressed": 3216,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3214,
+      "Progressed": 3216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-18T16:58:55.1300205+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:06:17.189066+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:07:28.7356193+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:59:07.1991746+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:06:17.1891488+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:59:44.7490145+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:07:28.7357009+00:00"
 }

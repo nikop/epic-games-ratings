@@ -2,10 +2,10 @@
   "ID": "868bda1708d248e4b928e0ff3975318d",
   "Name": "HYPERVIOLENT",
   "ProductSlug": "hyperviolent-5d1983",
-  "Ranking_EOS_Progress": 606,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-06T17:00:00+00:00",
     "PcReleaseDate": "2023-04-06T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-23T19:57:22.5283921+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:33.4108571+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:57:38.1495146+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:04:28.947136+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:57:51.6961405+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:05:13.6276878+00:00"
 }

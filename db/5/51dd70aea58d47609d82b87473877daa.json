@@ -3,9 +3,9 @@
   "Name": "The Backroom Project",
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 336,
-  "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 96,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.08,
+  "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -701,6 +701,11 @@
       "Time": "2023-09-19T01:49:10.8710052+00:00",
       "NumProgressed": 144,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-19T16:07:04.5843019+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 18,
@@ -710,9 +715,9 @@
       "ID": "ACH_CORPSE",
       "SetID": "c2kf3nm",
       "Name": "Are you still Alive?",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_DIE",
@@ -736,15 +741,15 @@
       "Name": "THERE IS NO EXIT",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_FIND_ENTITY",
       "SetID": "c2kf3nm",
       "Name": "YOU DESERVE THAT",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_FRIEND",
@@ -782,9 +787,9 @@
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_HOUND",
@@ -848,21 +853,21 @@
       "Name": "Why are you running?!",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:05:57.9522802+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:07:04.5843014+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:57:17.6657778+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:57:40.8252764+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:05:57.9522971+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:57:55.1633547+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:07:04.5843221+00:00"
 }

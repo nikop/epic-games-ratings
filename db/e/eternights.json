@@ -3,7 +3,7 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 180,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -707,9 +707,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -738,8 +738,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:04:55.0051939+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:05:45.3564889+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:59:22.8059426+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:04:55.0052153+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:00:05.0952026+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:05:45.356511+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "51b1503392e04abab64364092cbfca2b",
   "Name": "INDUSTRIA",
   "ProductSlug": "industria",
-  "Ranking_EOS_Progress": 606,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-30T16:00:00+00:00",
     "PcReleaseDate": "2021-09-30T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.1554458+00:00",
   "LastChanged": "2023-03-31T05:57:34.1554459+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:53.9505173+00:00",
-  "LastUpdate_Ratings": "2023-09-19T15:00:10.2145812+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:03:36.1719998+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:01:08.5323922+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:04:11.0460471+00:00"
 }

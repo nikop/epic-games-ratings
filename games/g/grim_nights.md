@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting somewhere | 58.00% | ~26 |
+| Getting somewhere | 60.00% | ~27 |
 | Poor things... | 56.00% | ~25 |
-| So far so good... | 44.00% | ~20 |
-| Slay it! | 33.00% | ~15 |
+| So far so good... | 47.00% | ~21 |
+| Slay it! | 36.00% | ~16 |
 | Top notch! | 33.00% | ~15 |
 | Bling bling! | 24.00% | ~11 |
 | Slaughter | 20.00% | ~9 |
@@ -21,7 +21,7 @@
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 45 (Ranked 409)  
-Completed: 0 (0.00%) (Ranked 277)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3590,
+  "EOS_Progressed": 3593,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3699,6 +3699,11 @@
       "Time": "2023-09-19T15:06:28.7069573+00:00",
       "NumProgressed": 3590,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-19T16:07:43.1546229+00:00",
+      "NumProgressed": 3593,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3718,7 +3723,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "bonus3",
@@ -3758,7 +3763,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3159
+      "UsersEstimate": 3162
     },
     {
       "ID": "campaign10",
@@ -3766,7 +3771,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "campaign11",
@@ -3782,7 +3787,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "campaign13",
@@ -3790,7 +3795,7 @@
       "Name": "Damage Control",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "campaign14",
@@ -3814,7 +3819,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "campaign17",
@@ -3846,7 +3851,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2767
     },
     {
       "ID": "campaign20",
@@ -3862,7 +3867,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2192
     },
     {
       "ID": "campaign4",
@@ -3870,7 +3875,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "campaign5",
@@ -3878,7 +3883,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "campaign6",
@@ -3894,7 +3899,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "campaign8",
@@ -3908,9 +3913,9 @@
       "ID": "campaign9",
       "SetID": "2h56gn1",
       "Name": "Boulder Clash",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 431
     },
     {
       "ID": "scenario1",
@@ -3918,7 +3923,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "scenario2",
@@ -3926,7 +3931,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "scenario3",
@@ -3973,7 +3978,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3590,
+      "Progressed": 3593,
       "Completed": 11
     }
   ],
@@ -3981,8 +3986,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:06:28.7069566+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:07:43.1546223+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-19T15:00:28.6480134+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:06:28.7070053+00:00"
+  "LastUpdate_Ratings": "2023-09-19T16:01:32.3184411+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:07:43.1547079+00:00"
 }

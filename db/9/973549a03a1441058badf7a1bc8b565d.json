@@ -2,10 +2,10 @@
   "ID": "973549a03a1441058badf7a1bc8b565d",
   "Name": "Knight vs Giant: The Broken Excalibur",
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
-  "Ranking_EOS_Progress": 606,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-09-19T16:07:01.5129876+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-09-19T15:05:55.5796702+00:00",
   "TotalAchievements": 25,
   "TotalAchievementsXP": 1000,
@@ -234,13 +240,13 @@
     {
       "ID": "4mjb15",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:05:55.5796684+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:07:01.512987+00:00",
   "LastUpdate_AppInfo": "2023-09-15T11:57:11.7371839+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:57:12.1069277+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:05:55.6193231+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:57:19.5104849+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:07:01.5130209+00:00"
 }

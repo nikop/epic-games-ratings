@@ -6,9 +6,9 @@
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1701,9 +1701,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13999,
+  "EOS_Progressed": 14000,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11786,6 +11786,11 @@
       "Time": "2023-09-19T07:09:17.3794955+00:00",
       "NumProgressed": 13999,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T16:09:13.4916574+00:00",
+      "NumProgressed": 14000,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11931,9 +11936,9 @@
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
       "SetID": "9201eeb",
       "Name": "Blade of the Monkey",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA",
@@ -12019,9 +12024,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 2)",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3",
@@ -13387,9 +13392,9 @@
       "ID": "ACHIEVEMENT_MORTALITY_REALISTIC",
       "SetID": "9201eeb",
       "Name": "Realistic Mortality",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_NATION_ASSYRIA",
@@ -13811,9 +13816,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -13971,9 +13976,9 @@
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
       "SetID": "9201eeb",
       "Name": "Randomized Families",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS",
@@ -14164,21 +14169,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13999,
+      "Progressed": 14000,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13999,
+      "Progressed": 14000,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T20:58:47.8598835+00:00",
-  "LastChanged_Achievements": "2023-09-19T15:08:25.0054594+00:00",
+  "LastChanged_Achievements": "2023-09-19T16:09:13.4916568+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-19T14:58:38.3031774+00:00",
-  "LastUpdate_Achievements": "2023-09-19T15:08:25.0064227+00:00"
+  "LastUpdate_Ratings": "2023-09-19T15:59:09.6728067+00:00",
+  "LastUpdate_Achievements": "2023-09-19T16:09:13.4925735+00:00"
 }

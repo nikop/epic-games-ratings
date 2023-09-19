@@ -24,8 +24,8 @@
 | Open Sesame | 0.00% | ~0 |
 | Play It Again | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 558)  
-Completed: 0 (0.00%) (Ranked 277)  
+Progressed: 1 (Ranked 559)  
+Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
