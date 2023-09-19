@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6118,10 +6118,10 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136382,
-  "EOS_Completed": 152,
+  "EOS_Progressed": 136383,
+  "EOS_Completed": 153,
   "EOS_NewPlayers": 333,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -21693,6 +21693,11 @@
       "Time": "2023-09-19T01:46:09.2354706+00:00",
       "NumProgressed": 136382,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-09-19T02:20:30.5616829+00:00",
+      "NumProgressed": 136383,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -21918,9 +21923,9 @@
       "ID": "collection04",
       "SetID": "anfd17p",
       "Name": "The Free Encyclopedia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 409
     },
     {
       "ID": "collection05",
@@ -22599,15 +22604,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136382,
-      "Completed": 152
+      "Progressed": 136383,
+      "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-18T03:57:56.8219259+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:46:09.23547+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:20:30.5616825+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:41:20.7254636+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:46:09.2359105+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:15:46.1912558+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:20:30.5619868+00:00"
 }

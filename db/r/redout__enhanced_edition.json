@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232075,
+  "EOS_Progressed": 232076,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16278,6 +16278,11 @@
       "Time": "2023-09-19T01:48:21.339567+00:00",
       "NumProgressed": 232075,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-19T02:22:59.5938422+00:00",
+      "NumProgressed": 232076,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16513,7 +16518,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51056
+      "UsersEstimate": 51057
     },
     {
       "ID": "TACTICIAN",
@@ -16537,7 +16542,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51056
+      "UsersEstimate": 51057
     },
     {
       "ID": "TUNINGMANIAC",
@@ -16560,15 +16565,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232075,
+      "Progressed": 232076,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:48:21.3395662+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:22:59.5938415+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.1224951+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:41:33.6056844+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:48:21.3397875+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:16:01.6656167+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:22:59.5940052+00:00"
 }

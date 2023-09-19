@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
     "PcReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -174,7 +174,7 @@
   "Tags": [],
   "EOS_Progressed": 5509,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 2023,
+  "EOS_NewPlayers": 2018,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -2184,9 +2184,9 @@
       "ID": "achievement_18",
       "SetID": "nk00bp",
       "Name": "Back At You",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 4022
+      "UsersEstimate": 4077
     },
     {
       "ID": "achievement_19",
@@ -2433,8 +2433,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-07-11T17:57:37.1037412+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:48:41.7830694+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:23:22.7830969+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:11.3356761+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:44:02.8828167+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:48:41.7831142+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:19:08.7524479+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:23:22.7831364+00:00"
 }

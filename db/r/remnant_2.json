@@ -2130,10 +2130,10 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 183216,
-  "EOS_Completed": 309,
-  "EOS_NewPlayers": 3946,
-  "EOS_NewCompleters": 35,
+  "EOS_Progressed": 183220,
+  "EOS_Completed": 310,
+  "EOS_NewPlayers": 3940,
+  "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -9180,6 +9180,11 @@
       "Time": "2023-09-19T01:47:49.929167+00:00",
       "NumProgressed": 183216,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2023-09-19T02:22:24.7014644+00:00",
+      "NumProgressed": 183220,
+      "NumCompleted": 310
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -9208,7 +9213,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -9256,7 +9261,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Defeat_Guardian",
@@ -9272,7 +9277,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -9328,7 +9333,7 @@
       "Name": "The Agenda",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Meet_Custodian",
@@ -9360,7 +9365,7 @@
       "Name": "Tall Tales",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Meet_Nimue",
@@ -9376,7 +9381,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16489
+      "UsersEstimate": 16490
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -9408,7 +9413,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -9432,7 +9437,7 @@
       "Name": "Strapped",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Obtain_Guns_B",
@@ -9448,7 +9453,7 @@
       "Name": "Edgelord",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -9496,7 +9501,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "Obtain_Traits_B",
@@ -9528,7 +9533,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -9560,7 +9565,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -9591,16 +9596,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 183216,
-      "Completed": 309
+      "Progressed": 183220,
+      "Completed": 310
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-18T22:00:05.2670444+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:47:49.9291662+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:22:24.7014638+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.9152732+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:43:34.7274389+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:47:49.9293151+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:18:26.4487532+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:22:24.7015649+00:00"
 }

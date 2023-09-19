@@ -11,6 +11,7 @@ Rating: 3.93 (Ranked 962)
 | Too Old for This | 0.30% | ~263 |
 | Underworld Initiate | 0.20% | ~175 |
 | Roid Ranger | 0.20% | ~175 |
+| Case Closed | 0.20% | ~175 |
 | King of the Hill | 0.20% | ~175 |
 | Fancy Pants | 0.20% | ~175 |
 | Off the Rocks | 0.20% | ~175 |
@@ -38,7 +39,6 @@ Rating: 3.93 (Ranked 962)
 | Ding Dong | 0.10% | ~88 |
 | Red Star | 0.10% | ~88 |
 | Geek Out | 0.10% | ~88 |
-| Case Closed | 0.10% | ~88 |
 | Classy Joint | 0.10% | ~88 |
 | True Player | 0.10% | ~88 |
 | Impossible Dreamer | 0.10% | ~88 |

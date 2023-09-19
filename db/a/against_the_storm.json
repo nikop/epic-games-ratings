@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2820,10 +2820,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3146,
       "NumberOfAwardsMax": 431
+    },
+    {
+      "Time": "2023-09-19T02:18:43.8340447+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3147,
+      "NumberOfAwardsMax": 431
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3146,
+  "NumberOfAwards": 3147,
   "NumberOfAwardsMax": 431,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2885,12 +2891,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 318
+      "Count": 319
     }
   ],
-  "EOS_Progressed": 16648,
+  "EOS_Progressed": 16650,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10718,6 +10724,11 @@
       "Time": "2023-09-19T01:46:25.4821708+00:00",
       "NumProgressed": 16648,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-19T02:20:48.8101204+00:00",
+      "NumProgressed": 16650,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 50,
@@ -10809,7 +10820,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinFirstGame",
@@ -10833,7 +10844,7 @@
       "Name": "Against All Odds",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearArmory",
@@ -10841,7 +10852,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearBandit",
@@ -10849,7 +10860,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearBarren",
@@ -10857,7 +10868,7 @@
       "Name": "Barren Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearBattleground",
@@ -10873,7 +10884,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearDangerous",
@@ -10913,7 +10924,7 @@
       "Name": "Haunted Forest",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearLevitating",
@@ -10921,7 +10932,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearMines",
@@ -10929,7 +10940,7 @@
       "Name": "Flooded Mines",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearMonastery",
@@ -10937,7 +10948,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearOutpost",
@@ -10961,7 +10972,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearTemple",
@@ -10977,7 +10988,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinNearWatchtower",
@@ -11001,7 +11012,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WinOnMarshlands",
@@ -11128,15 +11139,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16648,
+      "Progressed": 16650,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-09-19T01:43:50.2913689+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:46:25.48217+00:00",
+  "LastChanged": "2023-09-19T02:18:43.8340445+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:20:48.8101199+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.8255237+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:43:50.2913697+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:46:25.4823269+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:18:43.8340452+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:20:48.8102284+00:00"
 }

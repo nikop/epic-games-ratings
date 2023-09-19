@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,489 |
-| The Killing Jar | 8.00% | ~14,657 |
-| Not Your Average Trait | 8.00% | ~14,657 |
+| First of Many | 9.00% | ~16,490 |
+| The Killing Jar | 8.00% | ~14,658 |
+| Not Your Average Trait | 8.00% | ~14,658 |
 | Expanding Horizons | 7.00% | ~12,825 |
 | Quest for Survival | 7.00% | ~12,825 |
 | Gleaming the Cube | 6.00% | ~10,993 |
@@ -34,15 +34,15 @@ Rating: 4.76 (Ranked 118)
 | The Web | 4.00% | ~7,329 |
 | Scrap Collector | 4.00% | ~7,329 |
 | All These Traits� | 4.00% | ~7,329 |
-| Am I Seeing This? | 3.00% | ~5,496 |
-| Forever is a Long Time Coming | 3.00% | ~5,496 |
-| The Agenda | 3.00% | ~5,496 |
-| Tall Tales | 3.00% | ~5,496 |
-| Bad Moon Rising | 3.00% | ~5,496 |
-| Strapped | 3.00% | ~5,496 |
-| Edgelord | 3.00% | ~5,496 |
-| The Ultimate Weapon | 3.00% | ~5,496 |
-| No One Should Have All That Power | 3.00% | ~5,496 |
+| Am I Seeing This? | 3.00% | ~5,497 |
+| Forever is a Long Time Coming | 3.00% | ~5,497 |
+| The Agenda | 3.00% | ~5,497 |
+| Tall Tales | 3.00% | ~5,497 |
+| Bad Moon Rising | 3.00% | ~5,497 |
+| Strapped | 3.00% | ~5,497 |
+| Edgelord | 3.00% | ~5,497 |
+| The Ultimate Weapon | 3.00% | ~5,497 |
+| No One Should Have All That Power | 3.00% | ~5,497 |
 | Crafty | 2.00% | ~3,664 |
 | Only Human | 2.00% | ~3,664 |
 | Red Room | 2.00% | ~3,664 |
@@ -56,8 +56,8 @@ Rating: 4.76 (Ranked 118)
 | Ghost in the Machine | 0.90% | ~1,649 |
 | Proving Grounds | 0.90% | ~1,649 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,216 (Ranked 65)  
-Completed: 309 (0.17%) (Ranked 202)  
+Progressed: 183,220 (Ranked 65)  
+Completed: 310 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 309 (0.17%) (Ranked 202)
 | 2023-09-16 | 181,964 | 302 |
 | 2023-09-17 | 182,692 | 308 |
 | 2023-09-18 | 183,173 | 309 |
-| 2023-09-19 | 183,216 | 309 |
+| 2023-09-19 | 183,220 | 310 |
 ## Awards
 Max (Great Boss Battles): 1,637  (Ranked 119)  
 Sum: 3,276 (Ranked 157)  

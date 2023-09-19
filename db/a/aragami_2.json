@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43253,
+  "EOS_Progressed": 43254,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15486,6 +15486,11 @@
       "Time": "2023-09-19T01:50:23.9436512+00:00",
       "NumProgressed": 43253,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-19T02:25:19.5162078+00:00",
+      "NumProgressed": 43254,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15497,7 +15502,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24654
+      "UsersEstimate": 24655
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15505,7 +15510,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13408
+      "UsersEstimate": 13409
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -15529,7 +15534,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6055
+      "UsersEstimate": 6056
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -15569,7 +15574,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6055
+      "UsersEstimate": 6056
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -15617,7 +15622,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34602
+      "UsersEstimate": 34603
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15657,7 +15662,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -15681,7 +15686,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -15721,7 +15726,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23789
+      "UsersEstimate": 23790
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -15737,7 +15742,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27249
+      "UsersEstimate": 27250
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -15745,7 +15750,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11678
+      "UsersEstimate": 11679
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -15785,7 +15790,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6055
+      "UsersEstimate": 6056
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -15833,7 +15838,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40225
+      "UsersEstimate": 40226
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -15848,7 +15853,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43253,
+      "Progressed": 43254,
       "Completed": 238
     }
   ],
@@ -15856,8 +15861,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:50:23.9436507+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:25:19.5162074+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:19.6302549+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:41:15.1223108+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:50:23.9437753+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:15:39.4680464+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:25:19.5163418+00:00"
 }

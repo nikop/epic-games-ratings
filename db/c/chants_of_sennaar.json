@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -898,9 +898,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1025,8 +1025,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:50:56.4203795+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:25:57.1989692+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:42:15.3415006+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:50:56.4204158+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:16:50.7925092+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:25:57.1989904+00:00"
 }

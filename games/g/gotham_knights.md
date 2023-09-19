@@ -5,10 +5,10 @@ Rating: 4.18 (Ranked 886)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,781 |
+| First Step Into the Knight | 52.00% | ~37,782 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,430 |
 | Loose Ends | 34.00% | ~24,703 |
-| To the Victor Go the Spoils | 29.00% | ~21,070 |
+| To the Victor Go the Spoils | 29.00% | ~21,071 |
 | Knighthood | 28.00% | ~20,344 |
 | Get ReQ'd | 25.00% | ~18,164 |
 | Whispered Words | 25.00% | ~18,164 |
@@ -24,8 +24,8 @@ Rating: 4.18 (Ranked 886)
 | From Inside Gotham's Walls | 18.00% | ~13,078 |
 | Protector of Gotham | 17.00% | ~12,352 |
 | Universal Health Scare | 16.00% | ~11,625 |
-| In Your Element | 15.00% | ~10,898 |
-| Voiceless | 15.00% | ~10,898 |
+| In Your Element | 15.00% | ~10,899 |
+| Voiceless | 15.00% | ~10,899 |
 | Rock and a Hard Place | 14.00% | ~10,172 |
 | Cooldown | 14.00% | ~10,172 |
 | Seeking Asylum | 14.00% | ~10,172 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 886)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,656 (Ranked 83)  
+Progressed: 72,657 (Ranked 83)  
 Completed: 114 (0.16%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 114 (0.16%) (Ranked 205)
 | 2023-09-16 | 72,594 | 113 |
 | 2023-09-17 | 72,625 | 113 |
 | 2023-09-18 | 72,652 | 114 |
-| 2023-09-19 | 72,656 | 114 |
+| 2023-09-19 | 72,657 | 114 |
 ## Awards
 Max (Great Boss Battles): 2,708  (Ranked 96)  
 Sum: 4,497 (Ranked 139)  

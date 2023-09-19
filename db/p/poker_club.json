@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -700,9 +700,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 524751,
+  "EOS_Progressed": 524752,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1907,
+  "EOS_NewPlayers": 1902,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17510,6 +17510,11 @@
       "Time": "2023-09-19T01:51:06.7687876+00:00",
       "NumProgressed": 524751,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-19T02:26:09.1944559+00:00",
+      "NumProgressed": 524752,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -17521,7 +17526,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 136435
+      "UsersEstimate": 136436
     },
     {
       "ID": "Backdoor",
@@ -17769,7 +17774,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 398811
+      "UsersEstimate": 398812
     },
     {
       "ID": "ProPlayer",
@@ -17880,7 +17885,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 524751,
+      "Progressed": 524752,
       "Completed": 2
     }
   ],
@@ -17888,8 +17893,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-09-17T11:03:06.0403213+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:51:06.7687868+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:26:09.1944553+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.0665616+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:43:09.0083727+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:51:06.7690382+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:17:54.9217139+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:26:09.1946246+00:00"
 }

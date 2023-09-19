@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3874,
+  "EOS_Progressed": 3877,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1284,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3340,6 +3340,11 @@
       "Time": "2023-09-19T01:49:43.6166448+00:00",
       "NumProgressed": 3874,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T02:24:33.1810418+00:00",
+      "NumProgressed": 3877,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3360,7 +3365,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "a_11",
@@ -3368,7 +3373,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "a_12",
@@ -3376,7 +3381,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "a_15",
@@ -3392,7 +3397,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "a_18",
@@ -3400,7 +3405,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "a_19",
@@ -3448,7 +3453,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "a_25",
@@ -3464,7 +3469,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "a_27",
@@ -3472,7 +3477,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "a_28",
@@ -3576,7 +3581,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "a_8",
@@ -3592,14 +3597,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3874,
+      "Progressed": 3877,
       "Completed": 5
     }
   ],
@@ -3607,8 +3612,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:49:43.616644+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:24:33.1810414+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:40:52.8845321+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:49:43.6168899+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:15:12.7765919+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:24:33.1810959+00:00"
 }

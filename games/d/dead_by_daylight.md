@@ -6,40 +6,40 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~53,287 |
-| Zealous | 5.00% | ~44,405 |
-| Skillful | 5.00% | ~44,405 |
-| Not half bad | 4.00% | ~35,524 |
-| Apt Survivor | 4.00% | ~35,524 |
-| Survival Treasures | 4.00% | ~35,524 |
-| Make Some Noise | 4.00% | ~35,524 |
-| The Grand Sacrifice | 3.00% | ~26,643 |
-| No one left behind | 3.00% | ~26,643 |
-| Medic | 3.00% | ~26,643 |
-| Handyman | 3.00% | ~26,643 |
-| Nerves of steel | 3.00% | ~26,643 |
-| Bloody Millionaire | 3.00% | ~26,643 |
-| I | 3.00% | ~26,643 |
-| Sorted | 3.00% | ~26,643 |
-| Healthy Obsession | 3.00% | ~26,643 |
-| Resurgence | 3.00% | ~26,643 |
-| Preemptive Strike | 3.00% | ~26,643 |
-| Humanitarian | 3.00% | ~26,643 |
-| Agonizing Escape | 2.00% | ~17,762 |
-| Backdoor Escape | 2.00% | ~17,762 |
-| I've got your back | 2.00% | ~17,762 |
-| Perfect Escape | 2.00% | ~17,762 |
-| Perfect Killing | 2.00% | ~17,762 |
-| Apt Killer | 2.00% | ~17,762 |
-| Risk it all | 2.00% | ~17,762 |
-| Vulture | 2.00% | ~17,762 |
-| II | 2.00% | ~17,762 |
-| III | 2.00% | ~17,762 |
-| Engineer | 2.00% | ~17,762 |
-| Wounded Healer | 2.00% | ~17,762 |
-| Close Shave | 2.00% | ~17,762 |
-| Second Act | 2.00% | ~17,762 |
-| MU/TH/UR Dearest | 2.00% | ~17,762 |
+| It wakes | 6.00% | ~53,289 |
+| Zealous | 5.00% | ~44,407 |
+| Skillful | 5.00% | ~44,407 |
+| Not half bad | 4.00% | ~35,526 |
+| Apt Survivor | 4.00% | ~35,526 |
+| Survival Treasures | 4.00% | ~35,526 |
+| Make Some Noise | 4.00% | ~35,526 |
+| The Grand Sacrifice | 3.00% | ~26,644 |
+| No one left behind | 3.00% | ~26,644 |
+| Medic | 3.00% | ~26,644 |
+| Handyman | 3.00% | ~26,644 |
+| Nerves of steel | 3.00% | ~26,644 |
+| Bloody Millionaire | 3.00% | ~26,644 |
+| I | 3.00% | ~26,644 |
+| Sorted | 3.00% | ~26,644 |
+| Healthy Obsession | 3.00% | ~26,644 |
+| Resurgence | 3.00% | ~26,644 |
+| Preemptive Strike | 3.00% | ~26,644 |
+| Humanitarian | 3.00% | ~26,644 |
+| Agonizing Escape | 2.00% | ~17,763 |
+| Backdoor Escape | 2.00% | ~17,763 |
+| I've got your back | 2.00% | ~17,763 |
+| Perfect Escape | 2.00% | ~17,763 |
+| Perfect Killing | 2.00% | ~17,763 |
+| Apt Killer | 2.00% | ~17,763 |
+| Risk it all | 2.00% | ~17,763 |
+| Vulture | 2.00% | ~17,763 |
+| II | 2.00% | ~17,763 |
+| III | 2.00% | ~17,763 |
+| Engineer | 2.00% | ~17,763 |
+| Wounded Healer | 2.00% | ~17,763 |
+| Close Shave | 2.00% | ~17,763 |
+| Second Act | 2.00% | ~17,763 |
+| MU/TH/UR Dearest | 2.00% | ~17,763 |
 | Blood on your hands | 1.00% | ~8,881 |
 | Escape Artist | 1.00% | ~8,881 |
 | Made it out alive! | 1.00% | ~8,881 |
@@ -105,7 +105,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Prowler | 0.50% | ~4,441 |
 | Triage | 0.50% | ~4,441 |
 | High Speed Pursuit | 0.50% | ~4,441 |
-| Looter | 0.40% | ~3,552 |
+| Looter | 0.40% | ~3,553 |
 | In the void she walks | 0.30% | ~2,664 |
 | Mad House | 0.30% | ~2,664 |
 | Happy Holidays | 0.30% | ~2,664 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~888 |
 | Adept Ripley | 0.10% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,109 (Ranked 14)  
-Completed: 48 (0.01%) (Ranked 263)  
+Progressed: 888,145 (Ranked 14)  
+Completed: 49 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -388,7 +388,7 @@ Completed: 48 (0.01%) (Ranked 263)
 | 2023-09-16 | 882,949 | 48 |
 | 2023-09-17 | 885,845 | 48 |
 | 2023-09-18 | 887,865 | 48 |
-| 2023-09-19 | 888,109 | 48 |
+| 2023-09-19 | 888,145 | 49 |
 ## Awards
 Max (Diverse Characters): 32,666  (Ranked 15)  
 Sum: 254,861 (Ranked 11)  

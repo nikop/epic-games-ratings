@@ -22,10 +22,10 @@
 | Your Prestige is Rising | 25.00% | ~84 |
 | Retail Revenue | 25.00% | ~84 |
 | Don't Feel a Loan | 23.00% | ~78 |
+| Artfully Done | 22.00% | ~74 |
 | People Mover | 22.00% | ~74 |
 | Emporium Empire | 22.00% | ~74 |
 | Lux Living | 21.00% | ~71 |
-| Artfully Done | 21.00% | ~71 |
 | Leveled Up Shops | 21.00% | ~71 |
 | Get Electrified | 21.00% | ~71 |
 | Rehab Expert | 20.00% | ~68 |

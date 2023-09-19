@@ -2,13 +2,13 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
-  "Ranking_Rating": 66,
+  "Ranking_Rating": 67,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 603,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8541,6 +8541,6 @@
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
   "LastChanged": "2023-09-19T01:41:04.2722057+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:36.4077604+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:41:04.2722067+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:45:28.8522495+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:15:25.7816506+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:20:19.4117385+00:00"
 }

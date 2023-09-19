@@ -20,19 +20,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 4.00% | ~666 |
 | A Real Challenge | 4.00% | ~666 |
 | Trade Baron | 4.00% | ~666 |
-| Homesick | 3.00% | ~499 |
-| Against All Odds | 3.00% | ~499 |
-| Ruined Armory | 3.00% | ~499 |
-| Bandit Camp | 3.00% | ~499 |
-| Barren Lands | 3.00% | ~499 |
-| Sparkdew Crystals | 3.00% | ~499 |
-| Haunted Forest | 3.00% | ~499 |
-| Levitating Monument | 3.00% | ~499 |
-| Flooded Mines | 3.00% | ~499 |
-| Monastery of the Holy Flame | 3.00% | ~499 |
-| Statue of the Forefathers | 3.00% | ~499 |
-| Corrosive Torrent | 3.00% | ~499 |
-| Cursed Lands | 3.00% | ~499 |
+| Homesick | 3.00% | ~500 |
+| Against All Odds | 3.00% | ~500 |
+| Ruined Armory | 3.00% | ~500 |
+| Bandit Camp | 3.00% | ~500 |
+| Barren Lands | 3.00% | ~500 |
+| Sparkdew Crystals | 3.00% | ~500 |
+| Haunted Forest | 3.00% | ~500 |
+| Levitating Monument | 3.00% | ~500 |
+| Flooded Mines | 3.00% | ~500 |
+| Monastery of the Holy Flame | 3.00% | ~500 |
+| Statue of the Forefathers | 3.00% | ~500 |
+| Corrosive Torrent | 3.00% | ~500 |
+| Cursed Lands | 3.00% | ~500 |
 | Serving Ale | 2.00% | ~333 |
 | Refinery | 2.00% | ~333 |
 | Dangerous Lands | 2.00% | ~333 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,648 (Ranked 120)  
+Progressed: 16,650 (Ranked 120)  
 Completed: 48 (0.29%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 48 (0.29%) (Ranked 183)
 | 2023-09-16 | 16,625 | 48 |
 | 2023-09-17 | 16,635 | 48 |
 | 2023-09-18 | 16,646 | 48 |
-| 2023-09-19 | 16,648 | 48 |
+| 2023-09-19 | 16,650 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 431  (Ranked 211)  
-Sum: 3,146 (Ranked 166)  
+Sum: 3,147 (Ranked 166)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -221,7 +221,7 @@ Diff (max vs sum): 45
 | This game is Great for Beginners | 401 |
 | This game is Extremely Fun | 399 |
 | This game is Highly Recommended | 383 |
-| This game has Unique Visuals | 318 |
+| This game has Unique Visuals | 319 |
 | This game has Amazing Storytelling | 309 |
 | This game has Amazing Characters | 278 |
 | This game has Obsessive Gameplay | 254 |
@@ -423,4 +423,4 @@ Diff (max vs sum): 45
 | 2023-09-16 | 4.81 | - | 430 | 3,140 |
 | 2023-09-17 | 4.81 | - | 430 | 3,142 |
 | 2023-09-18 | 4.81 | - | 431 | 3,144 |
-| 2023-09-19 | 4.81 | - | 431 | 3,146 |
+| 2023-09-19 | 4.81 | - | 431 | 3,147 |

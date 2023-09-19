@@ -5,29 +5,29 @@ Rating: 4.40 (Ranked 713)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~172,313 |
-| Destroyer-In-Chief | 57.00% | ~153,466 |
-| There Is No Pancakes | 54.00% | ~145,389 |
-| First of Many | 42.00% | ~113,080 |
-| Woah. | 37.00% | ~99,618 |
-| Don't Look Down | 29.00% | ~78,079 |
-| Don't Panic | 28.00% | ~75,387 |
-| Ooo A Piece of Candy! | 23.00% | ~61,925 |
-| Ghost in the Machine | 18.00% | ~48,463 |
-| All Too Easy | 15.00% | ~40,386 |
-| Didn't Need to See Him Naked | 14.00% | ~37,693 |
+| Zero Saints Thirty | 64.00% | ~172,317 |
+| Destroyer-In-Chief | 57.00% | ~153,470 |
+| There Is No Pancakes | 54.00% | ~145,392 |
+| First of Many | 42.00% | ~113,083 |
+| Woah. | 37.00% | ~99,621 |
+| Don't Look Down | 29.00% | ~78,081 |
+| Don't Panic | 28.00% | ~75,389 |
+| Ooo A Piece of Candy! | 23.00% | ~61,926 |
+| Ghost in the Machine | 18.00% | ~48,464 |
+| All Too Easy | 15.00% | ~40,387 |
+| Didn't Need to See Him Naked | 14.00% | ~37,694 |
 | Indomitable | 10.00% | ~26,924 |
 | Blast from the Past | 9.00% | ~24,232 |
 | Bow to the Boss! | 9.00% | ~24,232 |
 | Friend of the Raptors | 9.00% | ~24,232 |
-| About Time! | 8.00% | ~21,539 |
+| About Time! | 8.00% | ~21,540 |
 | Actor-Turned-Politician | 7.00% | ~18,847 |
 | Betrayed | 7.00% | ~18,847 |
 | Maximum Stopping Power | 7.00% | ~18,847 |
 | Poodle Skirt | 7.00% | ~18,847 |
 | You Chose... Poorly | 7.00% | ~18,847 |
-| Double Team | 6.00% | ~16,154 |
-| Keymaster | 6.00% | ~16,154 |
+| Double Team | 6.00% | ~16,155 |
+| Keymaster | 6.00% | ~16,155 |
 | *BEEP* YOU, CLAWZ! | 5.00% | ~13,462 |
 | Imperator | 5.00% | ~13,462 |
 | ...A Saint Gets a Gun | 4.00% | ~10,770 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 713)
 | Super Power Team Up! | 0.10% | ~269 |
 | Ultimate Hot Potato | 0.10% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269,239 (Ranked 46)  
+Progressed: 269,245 (Ranked 46)  
 Completed: 15 (0.01%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 15 (0.01%) (Ranked 263)
 | 2023-09-16 | 267,727 | 15 |
 | 2023-09-17 | 268,591 | 15 |
 | 2023-09-18 | 269,188 | 15 |
-| 2023-09-19 | 269,239 | 15 |
+| 2023-09-19 | 269,245 | 15 |
 ## Awards
 Max (Great Boss Battles): 458  (Ranked 206)  
 Sum: 458 (Ranked 312)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -625,7 +625,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 343922,
+  "EOS_Progressed": 343923,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1155,
   "EOS_NewCompleters": 0,
@@ -17560,6 +17560,11 @@
       "Time": "2023-09-19T01:49:04.736043+00:00",
       "NumProgressed": 343922,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-19T02:23:48.9866841+00:00",
+      "NumProgressed": 343923,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17779,7 +17784,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158204
+      "UsersEstimate": 158205
     },
     {
       "ID": "ach028",
@@ -17795,7 +17800,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37831
+      "UsersEstimate": 37832
     },
     {
       "ID": "ach030",
@@ -17971,7 +17976,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37831
+      "UsersEstimate": 37832
     },
     {
       "ID": "ach052",
@@ -18210,7 +18215,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 343922,
+      "Progressed": 343923,
       "Completed": 7
     }
   ],
@@ -18218,8 +18223,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-18T14:58:00.4320017+00:00",
-  "LastChanged_Achievements": "2023-09-19T01:49:04.7360422+00:00",
+  "LastChanged_Achievements": "2023-09-19T02:23:48.9866836+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.6830274+00:00",
-  "LastUpdate_Ratings": "2023-09-19T01:41:13.4572685+00:00",
-  "LastUpdate_Achievements": "2023-09-19T01:49:04.736393+00:00"
+  "LastUpdate_Ratings": "2023-09-19T02:15:37.659484+00:00",
+  "LastUpdate_Achievements": "2023-09-19T02:23:48.9870146+00:00"
 }

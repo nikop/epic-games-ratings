@@ -19,9 +19,9 @@
 | The Golden Flash | 12.00% | ~10 |
 | Changing the World | 11.00% | ~9 |
 | Locked and Loaded | 10.00% | ~8 |
+| The A-Team | 10.00% | ~8 |
 | Through Dangers Untold | 9.00% | ~7 |
 | Witch | 9.00% | ~7 |
-| The A-Team | 9.00% | ~7 |
 | Craftsmen | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
 | Finally! | 6.00% | ~5 |
