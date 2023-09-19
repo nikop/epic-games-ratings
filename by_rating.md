@@ -11,7 +11,7 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 519 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,895 | 112 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 519 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,206 | 41 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,214 | 41 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 519 |
 | 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 519 |
 | 12 | [Rain World](games/r/rain_world.md) | 4.89 | 0 | 519 |
@@ -107,7 +107,7 @@
 | 102 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 519 |
 | 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,406 | 103 |
 | 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,497 | 123 |
-| 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 940 | 150 |
+| 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 940 | 151 |
 | 102 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 519 |
 | 102 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 469 |
 | 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 5,094 | 68 |
@@ -199,7 +199,7 @@
 | 190 | [shapez](games/s/shapez.md) | 4.71 | 0 | 519 |
 | 190 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 363 |
 | 190 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 519 |
-| 190 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,899 | 111 |
+| 190 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,902 | 111 |
 | 190 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 519 |
 | 190 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 519 |
 | 203 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,576 | 73 |
@@ -511,7 +511,7 @@
 | 504 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 380 |
 | 504 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 498 |
 | 504 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 519 |
-| 504 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 939 | 151 |
+| 504 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 941 | 150 |
 | 504 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 452 |
 | 504 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 358 |
 | 504 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 519 |
@@ -591,7 +591,7 @@
 | 583 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 248 |
 | 583 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 130 | 311 |
 | 583 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 519 |
-| 583 | [Maneater](games/m/maneater.md) | 4.49 | 13,683 | 27 |
+| 583 | [Maneater](games/m/maneater.md) | 4.49 | 13,686 | 27 |
 | 583 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 341 |
 | 583 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 458 |
 | 583 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 23 | 495 |
