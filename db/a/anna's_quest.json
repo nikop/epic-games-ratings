@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 21,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -253,17 +253,17 @@
       "ID": "aq_achievement_20",
       "SetID": "7jh86ne",
       "Name": "Beekeeper",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_21",
       "SetID": "7jh86ne",
       "Name": "Turn the last page",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 55,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "aq_achievement_22",
@@ -478,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:07:26.2474226+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:06:02.0797501+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0346445+00:00",
-  "LastUpdate_Ratings": "2023-09-18T22:59:59.6394847+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:07:26.2474585+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:59:15.6328257+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:06:02.0797822+00:00"
 }

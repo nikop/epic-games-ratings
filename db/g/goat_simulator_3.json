@@ -3856,9 +3856,9 @@
       "Count": 286
     }
   ],
-  "EOS_Progressed": 244179,
+  "EOS_Progressed": 244180,
   "EOS_Completed": 831,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -20291,6 +20291,11 @@
       "Time": "2023-09-18T23:09:21.9837856+00:00",
       "NumProgressed": 244179,
       "NumCompleted": 831
+    },
+    {
+      "Time": "2023-09-19T00:08:06.312892+00:00",
+      "NumProgressed": 244180,
+      "NumCompleted": 831
     }
   ],
   "TotalAchievements": 39,
@@ -20318,7 +20323,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 29301
+      "UsersEstimate": 29302
     },
     {
       "ID": "AchievementBaywatchID",
@@ -20334,7 +20339,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 65928
+      "UsersEstimate": 65929
     },
     {
       "ID": "AchievementBigFootID",
@@ -20366,7 +20371,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222203
+      "UsersEstimate": 222204
     },
     {
       "ID": "AchievementClownID",
@@ -20374,7 +20379,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 41510
+      "UsersEstimate": 41511
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -20470,7 +20475,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 139182
+      "UsersEstimate": 139183
     },
     {
       "ID": "AchievementLootBoxID",
@@ -20534,7 +20539,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180692
+      "UsersEstimate": 180693
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -20574,7 +20579,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134298
+      "UsersEstimate": 134299
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -20582,7 +20587,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 114764
+      "UsersEstimate": 114765
     },
     {
       "ID": "AchievementTrinketID",
@@ -20598,7 +20603,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158716
+      "UsersEstimate": 158717
     },
     {
       "ID": "AchievementWhaleID",
@@ -20606,14 +20611,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 65928
+      "UsersEstimate": 65929
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 244179,
+      "Progressed": 244180,
       "Completed": 831
     }
   ],
@@ -20621,8 +20626,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-18T08:01:06.2759147+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:09:21.9837849+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:08:06.3128915+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.6695951+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:02:06.3323193+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:09:21.9839386+00:00"
+  "LastUpdate_Ratings": "2023-09-19T00:00:45.1817208+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:08:06.3130176+00:00"
 }

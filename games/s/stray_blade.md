@@ -7,7 +7,7 @@
 | Self-Defence | 89.00% | ~73 |
 | Tinkerer | 70.00% | ~57 |
 | Welcome to the Club | 40.00% | ~33 |
-| Apprentice | 37.00% | ~30 |
+| Apprentice | 38.00% | ~31 |
 | A new World ahead | 32.00% | ~26 |
 | Can't touch this | 28.00% | ~23 |
 | Don't Cry Wolf | 26.00% | ~21 |
@@ -18,8 +18,8 @@
 | Nothing but the Truth | 12.00% | ~10 |
 | The Golden Flash | 12.00% | ~10 |
 | Changing the World | 11.00% | ~9 |
+| Locked and Loaded | 10.00% | ~8 |
 | Through Dangers Untold | 9.00% | ~7 |
-| Locked and Loaded | 9.00% | ~7 |
 | Witch | 9.00% | ~7 |
 | The A-Team | 9.00% | ~7 |
 | Craftsmen | 7.00% | ~6 |

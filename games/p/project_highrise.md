@@ -68,16 +68,16 @@
 | Decorator's Touch | 3.00% | ~10 |
 | Apartment Awareness | 3.00% | ~10 |
 | Luxury Boutiques | 3.00% | ~10 |
+| Four of a Kind | 3.00% | ~10 |
+| In the Money | 3.00% | ~10 |
 | Loft Life | 2.00% | ~7 |
 | Glut of Gastronomy | 2.00% | ~7 |
 | Plebs Are Needed | 2.00% | ~7 |
+| Royal Flush | 2.00% | ~7 |
 | The King of Cool | 2.00% | ~7 |
-| Four of a Kind | 2.00% | ~7 |
-| In the Money | 2.00% | ~7 |
 | It is Payday | 2.00% | ~7 |
 | Curated Class | 1.00% | ~3 |
 | Full House | 1.00% | ~3 |
-| Royal Flush | 1.00% | ~3 |
 | Such Great Heights | 1.00% | ~3 |
 | Scenario Success | 1.00% | ~3 |
 | Double Down | 0.90% | ~3 |

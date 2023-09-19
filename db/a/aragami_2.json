@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43250,
+  "EOS_Progressed": 43251,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15476,6 +15476,11 @@
       "Time": "2023-09-18T22:06:45.1099003+00:00",
       "NumProgressed": 43250,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-19T00:07:05.6733219+00:00",
+      "NumProgressed": 43251,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15487,7 +15492,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24652
+      "UsersEstimate": 24653
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15503,7 +15508,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9082
+      "UsersEstimate": 9083
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -15543,7 +15548,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3892
+      "UsersEstimate": 3893
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -15567,7 +15572,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -15607,7 +15612,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34600
+      "UsersEstimate": 34601
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15631,7 +15636,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3892
+      "UsersEstimate": 3893
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -15639,7 +15644,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -15655,7 +15660,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3892
+      "UsersEstimate": 3893
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -15679,7 +15684,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16002
+      "UsersEstimate": 16003
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -15751,7 +15756,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25950
+      "UsersEstimate": 25951
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -15767,7 +15772,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -15791,7 +15796,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19462
+      "UsersEstimate": 19463
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -15799,7 +15804,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -15823,7 +15828,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40222
+      "UsersEstimate": 40223
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -15831,14 +15836,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22490
+      "UsersEstimate": 22491
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43250,
+      "Progressed": 43251,
       "Completed": 238
     }
   ],
@@ -15846,8 +15851,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:08:53.6391277+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:07:05.6733202+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:19.6302549+00:00",
-  "LastUpdate_Ratings": "2023-09-18T22:59:02.4968074+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:08:53.6392793+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:58:37.9678834+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:07:05.6734528+00:00"
 }

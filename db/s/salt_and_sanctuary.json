@@ -2613,7 +2613,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533500,
+  "EOS_Progressed": 533502,
   "EOS_Completed": 1552,
   "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 12,
@@ -19108,6 +19108,11 @@
       "Time": "2023-09-18T23:08:28.1778705+00:00",
       "NumProgressed": 533500,
       "NumCompleted": 1552
+    },
+    {
+      "Time": "2023-09-19T00:06:47.2856726+00:00",
+      "NumProgressed": 533502,
+      "NumCompleted": 1552
     }
   ],
   "TotalAchievements": 37,
@@ -19135,7 +19140,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165385
+      "UsersEstimate": 165386
     },
     {
       "ID": "DEVOTED",
@@ -19175,7 +19180,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 442805
+      "UsersEstimate": 442807
     },
     {
       "ID": "HONED",
@@ -19231,7 +19236,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213400
+      "UsersEstimate": 213401
     },
     {
       "ID": "THE_CASTLE",
@@ -19375,7 +19380,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341440
+      "UsersEstimate": 341441
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -19414,15 +19419,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533500,
+      "Progressed": 533502,
       "Completed": 1552
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-18T05:58:52.061443+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:08:28.1778698+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:06:47.2856719+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.1616875+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:00:13.9593456+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:08:28.1780405+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:59:25.4075282+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:06:47.2858003+00:00"
 }

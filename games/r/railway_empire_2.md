@@ -55,7 +55,7 @@ Rating: 4.44 (Ranked 650)
 | Conductor | 6.00% | ~115 |
 | Engineer | 4.00% | ~77 |
 | Let off some steam | 4.00% | ~77 |
-| Accurate | 3.00% | ~58 |
+| Accurate | 4.00% | ~77 |
 | European Union | 0.60% | ~12 |
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |

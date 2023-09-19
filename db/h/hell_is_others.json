@@ -3,12 +3,12 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 680,
-  "Ranking_Popularity": 437,
+  "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -902,18 +902,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 255,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-09-19T00:00:32.9983753+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 256,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 255,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 256,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Unique Visuals",
@@ -964,9 +970,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256382,
+  "EOS_Progressed": 256384,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16259,6 +16265,11 @@
       "Time": "2023-09-18T22:04:27.5505461+00:00",
       "NumProgressed": 256382,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-19T00:04:44.8746788+00:00",
+      "NumProgressed": 256384,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -16318,7 +16329,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79478
+      "UsersEstimate": 79479
     },
     {
       "ID": "BackHomeNTimes",
@@ -16382,7 +16393,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7691
+      "UsersEstimate": 7692
     },
     {
       "ID": "CreditLevel3",
@@ -16542,7 +16553,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7691
+      "UsersEstimate": 7692
     },
     {
       "ID": "KillOtherWithMine",
@@ -16717,16 +16728,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256382,
+      "Progressed": 256384,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-09-15T04:00:43.6238077+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:05:41.9606564+00:00",
+  "LastChanged": "2023-09-19T00:00:32.9983752+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:04:44.8746783+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.3482551+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:01:48.4400819+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:05:41.9608523+00:00"
+  "LastUpdate_Ratings": "2023-09-19T00:00:32.9983757+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:04:44.8748068+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7304eee6de244842b8158bfa95542b7a",
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.67,
+  "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -242,6 +242,11 @@
       "Time": "2023-09-11T22:03:35.7735703+00:00",
       "NumProgressed": 75,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-19T00:05:16.0382452+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -251,7 +256,7 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -315,7 +320,7 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -347,7 +352,7 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -379,7 +384,7 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -443,7 +448,7 @@
       "ID": "ACH_KILL_1000_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Horror Show",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 75,
       "UsersEstimate": 14
     },
@@ -451,7 +456,7 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -492,7 +497,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 2
     }
   ],
@@ -500,8 +505,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:06:21.9842375+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:05:16.0382448+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.2087294+00:00",
-  "LastUpdate_Ratings": "2023-09-18T22:59:24.6068473+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:06:21.9842624+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:58:53.0591016+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:05:16.0382663+00:00"
 }

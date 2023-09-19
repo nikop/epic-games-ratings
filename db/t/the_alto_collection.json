@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -763,9 +763,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 39705,
+  "EOS_Progressed": 39706,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17633,6 +17633,11 @@
       "Time": "2023-09-18T23:04:29.394365+00:00",
       "NumProgressed": 39705,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-19T00:03:40.9992903+00:00",
+      "NumProgressed": 39706,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -17684,7 +17689,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10720
+      "UsersEstimate": 10721
     },
     {
       "ID": "goals180",
@@ -17700,7 +17705,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "goals75",
@@ -17852,7 +17857,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10323
+      "UsersEstimate": 10324
     },
     {
       "ID": "sandboarder",
@@ -17955,15 +17960,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 39705,
+      "Progressed": 39706,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-15T18:59:46.0517452+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:04:29.3943642+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:03:40.9992898+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:21.9725238+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:00:32.4146954+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:04:29.3945275+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:59:37.7533253+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:03:40.9994235+00:00"
 }

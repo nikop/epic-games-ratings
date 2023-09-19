@@ -5,7 +5,7 @@ Rating: 4.42 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,478 |
+| Survivor | 31.00% | ~79,479 |
 | Predator I | 22.00% | ~56,404 |
 | Fixer I | 10.00% | ~25,638 |
 | A week in Century City | 10.00% | ~25,638 |
@@ -18,8 +18,8 @@ Rating: 4.42 (Ranked 680)
 | Pacifist | 4.00% | ~10,255 |
 | Vandalism | 4.00% | ~10,255 |
 | Capitalist I | 4.00% | ~10,255 |
-| Fixer II | 3.00% | ~7,691 |
-| Adrenaline | 3.00% | ~7,691 |
+| Fixer II | 3.00% | ~7,692 |
+| Adrenaline | 3.00% | ~7,692 |
 | By a hair | 2.00% | ~5,128 |
 | It took a while | 2.00% | ~5,128 |
 | Samurai | 2.00% | ~5,128 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 680)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,382 (Ranked 49)  
+Progressed: 256,384 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,13 +214,14 @@ Completed: 3 (0.00%) (Ranked 277)
 | 2023-09-16 | 256,317 | 3 |
 | 2023-09-17 | 256,354 | 3 |
 | 2023-09-18 | 256,382 | 3 |
+| 2023-09-19 | 256,384 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 37  (Ranked 437)  
-Sum: 255 (Ranked 358)  
-Diff (max vs sum): 79  
+Max (Great for Quick Sessions): 38  (Ranked 434)  
+Sum: 256 (Ranked 358)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 37 |
+| This game is Great for Quick Sessions | 38 |
 | This game has Unique Visuals | 34 |
 | This game has Amazing Characters | 31 |
 | This game has Challenging Combat | 31 |
@@ -364,3 +365,4 @@ Diff (max vs sum): 79
 | 2023-09-13 | 4.41 | 37 | 254 |
 | 2023-09-14 | 4.42 | 37 | 254 |
 | 2023-09-15 | 4.42 | 37 | 255 |
+| 2023-09-19 | 4.42 | 38 | 256 |

@@ -7812,9 +7812,9 @@
       "Count": 657
     }
   ],
-  "EOS_Progressed": 296907,
+  "EOS_Progressed": 296912,
   "EOS_Completed": 474,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24212,6 +24212,11 @@
       "Time": "2023-09-18T21:04:49.8063706+00:00",
       "NumProgressed": 296907,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-09-19T00:04:54.3250381+00:00",
+      "NumProgressed": 296912,
+      "NumCompleted": 474
     }
   ],
   "TotalAchievements": 45,
@@ -24223,7 +24228,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41567
+      "UsersEstimate": 41568
     },
     {
       "ID": "PFA_10",
@@ -24263,7 +24268,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17814
+      "UsersEstimate": 17815
     },
     {
       "ID": "PFA_15",
@@ -24271,7 +24276,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20783
+      "UsersEstimate": 20784
     },
     {
       "ID": "PFA_16",
@@ -24287,7 +24292,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20783
+      "UsersEstimate": 20784
     },
     {
       "ID": "PFA_18",
@@ -24303,7 +24308,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20783
+      "UsersEstimate": 20784
     },
     {
       "ID": "PFA_2",
@@ -24359,7 +24364,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14845
+      "UsersEstimate": 14846
     },
     {
       "ID": "PFA_26",
@@ -24391,7 +24396,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14845
+      "UsersEstimate": 14846
     },
     {
       "ID": "PFA_3",
@@ -24503,7 +24508,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14845
+      "UsersEstimate": 14846
     },
     {
       "ID": "PFA_42",
@@ -24511,7 +24516,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17814
+      "UsersEstimate": 17815
     },
     {
       "ID": "PFA_43",
@@ -24551,7 +24556,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38598
+      "UsersEstimate": 38599
     },
     {
       "ID": "PFA_7",
@@ -24559,7 +24564,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38598
+      "UsersEstimate": 38599
     },
     {
       "ID": "PFA_8",
@@ -24582,7 +24587,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296907,
+      "Progressed": 296912,
       "Completed": 474
     }
   ],
@@ -24590,8 +24595,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-18T22:58:03.6335777+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:05:53.7739258+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:04:54.3250376+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-18T22:58:03.6335785+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:05:53.7740983+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:57:59.0158041+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:04:54.3251726+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "defimons-ac6e3e",
   "Ranking_EOS_Progress": 603,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-18T17:57:13.0642135+00:00",
-  "LastUpdate_Ratings": "2023-09-18T22:58:20.6068025+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:04:16.1672639+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:58:10.0318201+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:03:31.2570701+00:00"
 }

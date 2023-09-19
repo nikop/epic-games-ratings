@@ -6,11 +6,11 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,999 |
+| I will finish what you started | 28.00% | ~69,000 |
 | Powergamer | 27.00% | ~66,535 |
-| Barely scratched the surface | 25.00% | ~61,606 |
+| Barely scratched the surface | 25.00% | ~61,607 |
 | Write that down | 24.00% | ~59,142 |
-| Guns, lots of guns | 13.00% | ~32,035 |
+| Guns, lots of guns | 13.00% | ~32,036 |
 | Collector | 11.00% | ~27,107 |
 | Elementary! | 9.00% | ~22,178 |
 | Pumpkin Jack | 8.00% | ~19,714 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,393 |
 | I like to sniff around | 3.00% | ~7,393 |
 | Mind reader | 3.00% | ~7,393 |
-| Catnip | 2.00% | ~4,928 |
-| Gentleman's classic | 2.00% | ~4,928 |
-| Is that a rift? | 2.00% | ~4,928 |
-| It's alive! | 2.00% | ~4,928 |
-| Enjoy the beach | 2.00% | ~4,928 |
-| Rinse and repeat | 2.00% | ~4,928 |
-| Mama, I'm a criminal | 2.00% | ~4,928 |
-| Never gonna give you up | 2.00% | ~4,928 |
+| Catnip | 2.00% | ~4,929 |
+| Gentleman's classic | 2.00% | ~4,929 |
+| Is that a rift? | 2.00% | ~4,929 |
+| It's alive! | 2.00% | ~4,929 |
+| Enjoy the beach | 2.00% | ~4,929 |
+| Rinse and repeat | 2.00% | ~4,929 |
+| Mama, I'm a criminal | 2.00% | ~4,929 |
+| Never gonna give you up | 2.00% | ~4,929 |
 | A muscle to rely on | 1.00% | ~2,464 |
 | A true blacksmith | 1.00% | ~2,464 |
 | I am in great pain, please help me | 1.00% | ~2,464 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~493 |
 | Memory 5 | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,425 (Ranked 51)  
+Progressed: 246,427 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 7 (0.00%) (Ranked 277)
 | 2023-09-16 | 246,180 | 7 |
 | 2023-09-17 | 246,319 | 7 |
 | 2023-09-18 | 246,425 | 7 |
+| 2023-09-19 | 246,427 | 7 |
 ## Awards
 Max (Character Customization): 81  (Ranked 363)  
 Sum: 81 (Ranked 430)  

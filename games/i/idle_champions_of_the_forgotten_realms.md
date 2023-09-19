@@ -112,11 +112,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.20% | ~391 |
 | Civilization | 0.20% | ~391 |
 | Durable Deep | 0.20% | ~459 |
+| Expert Opinion | 0.20% | ~459 |
 | Dwarven Rumors | 0.20% | ~391 |
 | Sunblight | 0.20% | ~391 |
 | The Templar's Camp | 0.20% | ~459 |
 | Rescue in the Jungle | 0.20% | ~459 |
 | Rock and Roll | 0.20% | ~391 |
+| Flight of the Kindori Pod | 0.20% | ~391 |
 | The Hunt for The Last Breath | 0.20% | ~391 |
 | To Infinity's and Beyond | 0.20% | ~391 |
 | The End | 0.20% | ~391 |
@@ -435,7 +437,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.10% | ~196 |
 | Relentless Peril | 0.10% | ~196 |
 | Rickety Rubble | 0.10% | ~196 |
-| Expert Opinion | 0.10% | ~229 |
 | Mimic Perception | 0.10% | ~196 |
 | Frozen in Fear | 0.10% | ~196 |
 | It's Cold Out There Today | 0.10% | ~196 |
@@ -517,7 +518,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 0.10% | ~196 |
 | Luigi After Hours | 0.10% | ~196 |
 | Electric Mayhem | 0.10% | ~196 |
-| Flight of the Kindori Pod | 0.10% | ~196 |
 | 3,720 to 1 | 0.10% | ~196 |
 | Topolah's Tower | 0.10% | ~196 |
 | Krux's Speed Run | 0.10% | ~196 |

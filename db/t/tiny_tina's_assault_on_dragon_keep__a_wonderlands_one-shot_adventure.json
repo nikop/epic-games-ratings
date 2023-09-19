@@ -4,11 +4,11 @@
   "ProductSlug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
   "Ranking_Rating": 626,
   "Ranking_Popularity": 242,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 603,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-11-09T16:00:00+00:00",
     "PcReleaseDate": "2021-11-09T16:00:00+00:00",
@@ -700,6 +700,6 @@
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
   "LastChanged": "2023-09-17T17:03:44.1548689+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.6935419+00:00",
-  "LastUpdate_Ratings": "2023-09-18T23:00:44.1098719+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:06:46.6527881+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:59:47.0709677+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:05:33.3718938+00:00"
 }

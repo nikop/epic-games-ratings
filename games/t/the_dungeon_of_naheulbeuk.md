@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,540 |
+| Sowwy! | 30.00% | ~67,542 |
 | Alt+F4 | 5.00% | ~11,257 |
-| Déjà vu | 4.00% | ~9,005 |
-| Where's that freaking Dwarf? | 4.00% | ~9,005 |
+| Déjà vu | 4.00% | ~9,006 |
+| Where's that freaking Dwarf? | 4.00% | ~9,006 |
 | Sock! SOCK! | 3.00% | ~6,754 |
 | Speedrun | 3.00% | ~6,754 |
 | Livin' in a dwarven paradise | 2.00% | ~4,503 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,135 (Ranked 58)  
+Progressed: 225,140 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,9 +206,10 @@ Completed: 3 (0.00%) (Ranked 277)
 | 2023-09-16 | 224,568 | 3 |
 | 2023-09-17 | 224,910 | 3 |
 | 2023-09-18 | 225,135 | 3 |
+| 2023-09-19 | 225,140 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
-Sum: 337 (Ranked 336)  
+Sum: 338 (Ranked 336)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +217,7 @@ Diff (max vs sum): -61
 | This game is Relaxing | 29 |
 | This game is Great for Beginners | 26 |
 | This game has Amazing Characters | 24 |
-| This game is Highly Recommended | 21 |
+| This game is Highly Recommended | 22 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
@@ -356,3 +357,4 @@ Diff (max vs sum): -61
 | 2023-09-15 | 4.59 | - | 196 | 315 |
 | 2023-09-16 | 4.59 | - | 196 | 335 |
 | 2023-09-17 | 4.59 | - | 196 | 337 |
+| 2023-09-18 | 4.59 | - | 196 | 338 |

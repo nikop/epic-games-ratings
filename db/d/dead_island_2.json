@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4638,10 +4638,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 682392,
+  "EOS_Progressed": 682408,
   "EOS_Completed": 2153,
   "EOS_NewPlayers": 4157,
-  "EOS_NewCompleters": 16,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -21648,6 +21648,11 @@
       "Time": "2023-09-18T23:06:14.1547962+00:00",
       "NumProgressed": 682392,
       "NumCompleted": 2153
+    },
+    {
+      "Time": "2023-09-19T00:05:10.5774047+00:00",
+      "NumProgressed": 682408,
+      "NumCompleted": 2153
     }
   ],
   "TotalAchievements": 45,
@@ -21897,9 +21902,9 @@
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6142
+      "UsersEstimate": 6824
     },
     {
       "ID": "ach_revival_tour",
@@ -22018,22 +22023,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 682392,
+      "Progressed": 682408,
       "Completed": 2153
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 7933,
-      "Completed": 7933
+      "Progressed": 7949,
+      "Completed": 7949
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-18T20:58:44.3103407+00:00",
-  "LastChanged_Achievements": "2023-09-18T23:06:14.1547954+00:00",
+  "LastChanged_Achievements": "2023-09-19T00:05:10.5774042+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-18T22:59:36.564797+00:00",
-  "LastUpdate_Achievements": "2023-09-18T23:06:14.1550214+00:00"
+  "LastUpdate_Ratings": "2023-09-18T23:59:01.1006398+00:00",
+  "LastUpdate_Achievements": "2023-09-19T00:05:10.577544+00:00"
 }

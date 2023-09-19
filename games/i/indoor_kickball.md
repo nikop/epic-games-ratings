@@ -11,10 +11,10 @@
 | Settle Down | 73.00% | ~64 |
 | Butter Fingers | 73.00% | ~64 |
 | Kickball Unlocked | 70.00% | ~62 |
-| Have a good trip! | 69.00% | ~61 |
+| Have a good trip! | 70.00% | ~62 |
 | Stay Hydrated | 65.00% | ~57 |
 | First Win | 64.00% | ~56 |
-| True Story! | 43.00% | ~38 |
+| True Story! | 44.00% | ~39 |
 | Bedroom Secret Spot | 40.00% | ~35 |
 | Kick It | 33.00% | ~29 |
 | Spooky | 30.00% | ~26 |
@@ -22,13 +22,13 @@
 | Grand Slam! | 26.00% | ~23 |
 | At least everyone still had fun | 26.00% | ~23 |
 | Save some water for the fishies | 25.00% | ~22 |
+| Angry Dad | 24.00% | ~21 |
+| Have Mercy | 23.00% | ~20 |
 | Bathroom Secret Spot | 23.00% | ~20 |
-| Angry Dad | 23.00% | ~20 |
-| Have Mercy | 22.00% | ~19 |
 | Angry Mom | 19.00% | ~17 |
 | Living Room Secret Spot | 18.00% | ~16 |
-| Hi Hungry, I'm Dad | 17.00% | ~15 |
-| Just how we drew it up | 13.00% | ~11 |
+| Hi Hungry, I'm Dad | 18.00% | ~16 |
+| Just how we drew it up | 14.00% | ~12 |
 | Interference | 10.00% | ~9 |
 | You broke it, you bought it | 8.00% | ~7 |
 | Kitchen Secret Spot | 7.00% | ~6 |
