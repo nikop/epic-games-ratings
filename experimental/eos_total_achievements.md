@@ -634,6 +634,7 @@
 | [Olija](../games/o/olija.md) | 10 | 1,000 |
 | [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
 | [Sylvio And The Mountains Giants](../games/e/eeeac1c46be840b1a8977237cbeb6b09.md) | 10 | 1,000 |
+| [Thunder Ray](../games/3/3c59565688c94fa2807baaa19ed62478.md) | 10 | 1,000 |
 | [Volley Pals](../games/v/volley_pals.md) | 10 | 1,000 |
 | [Wild Animal Sports Day](../games/w/wild_animal_sports_day.md) | 10 | 1,000 |
 | [ALAN-13 Reformation](../games/f/f514ca89c14c49858748fd9569d35d52.md) | 9 | 1,000 |

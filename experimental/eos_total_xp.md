@@ -600,6 +600,7 @@
 | [Them and Us](../games/t/them_and_us.md) | 40 | 1,000 |
 | [Them's Fightin' Herds](../games/t/them's_fightin'_herds.md) | 28 | 1,000 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
+| [Thunder Ray](../games/3/3c59565688c94fa2807baaa19ed62478.md) | 10 | 1,000 |
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |
 | [Time on Frog Island](../games/t/time_on_frog_island.md) | 35 | 1,000 |
 | [Time Trap](../games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 5 | 1,000 |
