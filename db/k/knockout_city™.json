@@ -3,11 +3,11 @@
   "Name": "Knockout City\u2122",
   "ProductSlug": "knockout-city",
   "Ranking_Rating": 583,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 614,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-05-30T12:00:00+00:00",
@@ -434,6 +434,6 @@
   "FirstSeenRating": "2023-01-27T02:09:44.3604465+00:00",
   "LastChanged": "2023-09-04T21:57:53.6647305+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.0094162+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:00:19.7030384+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:06:54.2770754+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:59:11.2217235+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:25.6758759+00:00"
 }

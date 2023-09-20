@@ -647,9 +647,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2835,
+  "EOS_Progressed": 2840,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5062,6 +5062,11 @@
       "Time": "2023-09-20T20:04:52.6857617+00:00",
       "NumProgressed": 2835,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T21:03:47.9720477+00:00",
+      "NumProgressed": 2840,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5122,15 +5127,15 @@
       "Name": "Faceroll the Bones",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 341
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5154,7 +5159,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -5170,7 +5175,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5186,7 +5191,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5226,7 +5231,7 @@
       "Name": "Spending Spree",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5257,15 +5262,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2835,
+      "Progressed": 2840,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T16:59:50.1144164+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:04:52.685761+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:03:47.9720473+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:16.4445762+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:04:52.6858151+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:59:56.0731915+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:03:47.9720945+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 434,
+  "Ranking_Rating": 433,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37596,
+  "EOS_Progressed": 37598,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16327,6 +16327,11 @@
       "Time": "2023-09-20T20:09:24.3742128+00:00",
       "NumProgressed": 37596,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T21:07:28.4294186+00:00",
+      "NumProgressed": 37598,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16354,7 +16359,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6391
+      "UsersEstimate": 6392
     },
     {
       "ID": "ach_antiquarian10",
@@ -16546,7 +16551,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "ach_legacysalvager",
@@ -16690,7 +16695,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6767
+      "UsersEstimate": 6768
     },
     {
       "ID": "ach_terror100",
@@ -16706,7 +16711,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5640
     },
     {
       "ID": "ach_undercurrent",
@@ -16769,15 +16774,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37596,
+      "Progressed": 37598,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:09:24.3742119+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:07:28.4294181+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:44.1241122+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:02:38.7130996+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:09:24.3744165+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:58.3168002+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:07:28.4295675+00:00"
 }

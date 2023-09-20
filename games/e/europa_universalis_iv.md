@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,372 |
-| That's a Grand Army | 3.00% | ~12,279 |
-| That is mine! | 3.00% | ~12,279 |
-| Victorious! | 3.00% | ~12,279 |
-| Brothers in Arms | 2.00% | ~8,186 |
-| For the Glory | 2.00% | ~8,186 |
-| That's a Grand Navy | 2.00% | ~8,186 |
-| Seriously?! | 2.00% | ~8,186 |
+| Until death do us apart | 4.00% | ~16,374 |
+| That's a Grand Army | 3.00% | ~12,280 |
+| That is mine! | 3.00% | ~12,280 |
+| Victorious! | 3.00% | ~12,280 |
+| Brothers in Arms | 2.00% | ~8,187 |
+| For the Glory | 2.00% | ~8,187 |
+| That's a Grand Navy | 2.00% | ~8,187 |
+| Seriously?! | 2.00% | ~8,187 |
 | Cold War | 1.00% | ~4,093 |
 | Defender of the Faith | 1.00% | ~4,093 |
 | It's all about the money | 1.00% | ~4,093 |
@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,684 |
 | Respected | 0.90% | ~3,684 |
 | Truly Divine Ruler | 0.90% | ~3,684 |
-| Blockader | 0.80% | ~3,274 |
+| Blockader | 0.80% | ~3,275 |
 | Double the Love | 0.70% | ~2,865 |
 | Royal Authority | 0.70% | ~2,865 |
 | Total Control | 0.70% | ~2,865 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,309 (Ranked 40)  
+Progressed: 409,345 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,18 +514,18 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-17 | 406,888 | 0 |
 | 2023-09-18 | 407,728 | 0 |
 | 2023-09-19 | 408,554 | 0 |
-| 2023-09-20 | 409,309 | 0 |
+| 2023-09-20 | 409,345 | 0 |
 ## Awards
 Max (Educational): 6,187  (Ranked 56)  
-Sum: 50,760 (Ranked 25)  
+Sum: 50,773 (Ranked 25)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,187 |
 | This game is Highly Recommended | 5,890 |
 | This game has Challenging Combat | 5,845 |
+| This game has Diverse Characters | 5,843 |
 | This game is Extremely Fun | 5,833 |
-| This game has Diverse Characters | 5,830 |
 | This game is Relaxing | 5,695 |
 | This game has Competitive Players | 5,513 |
 | This game has Amazing Storytelling | 5,169 |
@@ -780,4 +780,4 @@ Diff (max vs sum): 31
 | 2023-09-17 | 4.69 | - | 6,141 | 50,420 |
 | 2023-09-18 | 4.69 | - | 6,158 | 50,551 |
 | 2023-09-19 | 4.69 | - | 6,170 | 50,667 |
-| 2023-09-20 | 4.69 | - | 6,187 | 50,760 |
+| 2023-09-20 | 4.69 | - | 6,187 | 50,773 |

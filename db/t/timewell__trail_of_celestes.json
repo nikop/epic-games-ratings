@@ -2,9 +2,9 @@
   "ID": "36cff9e593e64a5e85a4cf22a9bc4071",
   "Name": "Timewell: Trail Of Celestes",
   "ProductSlug": "timewell_trail_of_celestes-0c45ea",
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-15T10:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.0341364+00:00",
   "LastChanged": "2023-03-31T05:58:13.0341364+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:22.510977+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:59:57.5033225+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:09:02.4342014+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:58:53.6540004+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:07:11.2018324+00:00"
 }

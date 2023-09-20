@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 24.00% | ~2,728 |
-| A Spark | 17.00% | ~1,932 |
+| Devoured by Darkness | 24.00% | ~2,729 |
+| A Spark | 17.00% | ~1,933 |
 | Burning City | 16.00% | ~1,819 |
-| Mythic Choices | 14.00% | ~1,591 |
-| Defender's Heart | 14.00% | ~1,591 |
+| Mythic Choices | 14.00% | ~1,592 |
+| Defender's Heart | 14.00% | ~1,592 |
 | Banner over the Citadel | 13.00% | ~1,478 |
-| Queen's Gratitude | 11.00% | ~1,250 |
-| Fifth Crusade | 8.00% | ~909 |
+| Queen's Gratitude | 11.00% | ~1,251 |
+| Fifth Crusade | 8.00% | ~910 |
 | Embrace of the Abyss | 6.00% | ~682 |
 | Path of the Angel | 6.00% | ~682 |
 | Demonic and Divine | 6.00% | ~682 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~341 |
 | Core of the Riddle | 3.00% | ~341 |
 | Hey, I Know You! | 3.00% | ~341 |
-| The Lady of the Forest | 3.00% | ~304 |
-| Beware Still Water | 3.00% | ~304 |
+| The Lady of the Forest | 3.00% | ~305 |
+| Beware Still Water | 3.00% | ~305 |
 | Path of the Demon | 2.00% | ~227 |
 | Path of the Aeon | 2.00% | ~227 |
 | Path of the Lich | 2.00% | ~227 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Final Threshold | 1.00% | ~114 |
 | Strategic Victory | 1.00% | ~114 |
 | Abyssal Conspiracy | 1.00% | ~114 |
-| This Wall Won't Fall | 1.00% | ~101 |
-| Not the Last Sarkorian | 1.00% | ~101 |
+| This Wall Won't Fall | 1.00% | ~102 |
+| Not the Last Sarkorian | 1.00% | ~102 |
 | Path of the Legend | 0.90% | ~102 |
 | End of Eternal Guard | 0.90% | ~102 |
 | Truly Profane Gift | 0.90% | ~102 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,367 (Ranked 130)  
+Progressed: 11,369 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-17 | 11,334 | 0 |
 | 2023-09-18 | 11,348 | 0 |
 | 2023-09-19 | 11,359 | 0 |
-| 2023-09-20 | 11,367 | 0 |
+| 2023-09-20 | 11,369 | 0 |
 ## Awards
 Max (Character Customization): 1,714  (Ranked 118)  
 Sum: 6,948 (Ranked 115)  

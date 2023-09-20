@@ -17,8 +17,8 @@
 | Cable guy | 30.00% | ~52 |
 | Champollion | 30.00% | ~52 |
 | Half the way | 29.00% | ~51 |
+| Peace walker | 28.00% | ~49 |
 | In this together | 27.00% | ~47 |
-| Peace walker | 27.00% | ~47 |
 | Open door | 25.00% | ~44 |
 | Free at last | 23.00% | ~40 |
 | Feels like springtime | 23.00% | ~40 |

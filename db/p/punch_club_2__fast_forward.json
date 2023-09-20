@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1400,9 +1400,9 @@
       "ID": "first_job",
       "SetID": "69co12a",
       "Name": "Your first job",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 274
     },
     {
       "ID": "flash_bobo",
@@ -1704,9 +1704,9 @@
       "ID": "sleep_candy",
       "SetID": "69co12a",
       "Name": "Intriguing candies",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "soft_install",
@@ -1791,8 +1791,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:09:45.6263649+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:08:05.2059471+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:27.7978975+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:56.1973585+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:09:45.6264443+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:58:06.4231503+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:08:05.2060197+00:00"
 }

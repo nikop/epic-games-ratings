@@ -2079,9 +2079,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43495,
+  "EOS_Progressed": 43496,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7009,6 +7009,11 @@
       "Time": "2023-09-20T20:06:36.3807493+00:00",
       "NumProgressed": 43495,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-20T21:05:11.7315394+00:00",
+      "NumProgressed": 43496,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7020,7 +7025,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26532
+      "UsersEstimate": 26533
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -7140,7 +7145,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13918
+      "UsersEstimate": 13919
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -7188,7 +7193,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5219
+      "UsersEstimate": 5220
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -7212,7 +7217,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26967
+      "UsersEstimate": 26968
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7228,7 +7233,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14788
+      "UsersEstimate": 14789
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -7244,7 +7249,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13918
+      "UsersEstimate": 13919
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -7276,7 +7281,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15658
+      "UsersEstimate": 15659
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -7284,7 +7289,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13483
+      "UsersEstimate": 13484
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -7308,7 +7313,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16093
+      "UsersEstimate": 16094
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -7340,7 +7345,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15658
+      "UsersEstimate": 15659
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -7364,7 +7369,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13048
+      "UsersEstimate": 13049
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -7380,7 +7385,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24792
+      "UsersEstimate": 24793
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -7396,7 +7401,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15658
+      "UsersEstimate": 15659
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -7460,7 +7465,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14788
+      "UsersEstimate": 14789
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -7540,22 +7545,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15658
+      "UsersEstimate": 15659
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43495,
+      "Progressed": 43496,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-18T21:00:12.8095304+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:06:36.3807487+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:11.7315389+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.0135076+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:00.3493847+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:06:36.3808606+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:21.1821464+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:11.731633+00:00"
 }

@@ -1,9 +1,9 @@
 # Guild of Dungeoneering Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/guild-of-dungeoneering-ultimate-edition)  
 [View Rawdata](../../db/g/guild_of_dungeoneering_ultimate_edition.json)  
-Rating: 4.60 (Ranked 396)  
+Rating: 4.60 (Ranked 395)  
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 527)  
+Progressed: 3 (Ranked 528)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

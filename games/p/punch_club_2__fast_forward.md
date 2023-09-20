@@ -8,7 +8,7 @@
 | Good Person Chip | 86.00% | ~280 |
 | Your first fight | 86.00% | ~280 |
 | First winning | 85.00% | ~277 |
-| Your first job | 83.00% | ~271 |
+| Your first job | 84.00% | ~274 |
 | Old movies enjoyer | 80.00% | ~261 |
 | Fitness professional | 79.00% | ~258 |
 | Depressed visitor | 79.00% | ~258 |
@@ -32,7 +32,7 @@
 | Employee of the year | 60.00% | ~196 |
 | Fight for life | 59.00% | ~192 |
 | Little hacker | 58.00% | ~189 |
-| Intriguing candies | 57.00% | ~186 |
+| Intriguing candies | 58.00% | ~189 |
 | Legal courier | 56.00% | ~183 |
 | Extreme neuropower! | 55.00% | ~179 |
 | Escaped from a big trouble | 53.00% | ~173 |

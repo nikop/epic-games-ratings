@@ -6,15 +6,15 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~21,323 |
+| The Shadow strikes | 69.00% | ~21,324 |
 | The Evilest Evil | 58.00% | ~17,924 |
 | Twistram is devastated | 57.00% | ~17,615 |
-| The Gehenna Stones | 49.00% | ~15,142 |
-| No one has to die today! | 46.00% | ~14,215 |
-| Death and destruction! | 45.00% | ~13,906 |
-| The Swamplanders from the swamplands | 43.00% | ~13,288 |
-| Rusty Steel | 41.00% | ~12,670 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,361 |
+| The Gehenna Stones | 49.00% | ~15,143 |
+| No one has to die today! | 46.00% | ~14,216 |
+| Death and destruction! | 45.00% | ~13,907 |
+| The Swamplanders from the swamplands | 43.00% | ~13,289 |
+| Rusty Steel | 41.00% | ~12,671 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,362 |
 | The last burger | 37.00% | ~11,434 |
 | Braiiiiins! | 37.00% | ~11,434 |
 | Hands off the Dungeonheart! | 36.00% | ~11,125 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~5,563 |
 | Flat as a pancake | 17.00% | ~5,254 |
 | Lifeguard | 17.00% | ~5,254 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,635 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,636 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,708 |
 | Then let them eat cake! | 12.00% | ~3,708 |
 | The White Knight | 10.00% | ~3,090 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~618 |
 | Sacrifices! | 2.00% | ~618 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,903 (Ranked 105)  
+Progressed: 30,904 (Ranked 105)  
 Completed: 253 (0.82%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,14 +220,14 @@ Completed: 253 (0.82%) (Ranked 135)
 | 2023-09-17 | 30,691 | 251 |
 | 2023-09-18 | 30,767 | 252 |
 | 2023-09-19 | 30,839 | 253 |
-| 2023-09-20 | 30,903 | 253 |
+| 2023-09-20 | 30,904 | 253 |
 ## Awards
-Max (Great for Beginners): 349  (Ranked 228)  
-Sum: 2,647 (Ranked 175)  
+Max (Great for Beginners): 351  (Ranked 228)  
+Sum: 2,649 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 349 |
+| This game is Great for Beginners | 351 |
 | This game is Extremely Fun | 316 |
 | This game has Quickly Understood Controls | 303 |
 | This game has Amazing Storytelling | 295 |
@@ -416,3 +416,4 @@ Diff (max vs sum): 53
 | 2023-09-17 | 4.66 | - | 349 | 2,642 |
 | 2023-09-18 | 4.66 | - | 349 | 2,644 |
 | 2023-09-19 | 4.66 | - | 349 | 2,647 |
+| 2023-09-20 | 4.66 | - | 351 | 2,649 |

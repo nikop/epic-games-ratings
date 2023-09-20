@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -658,9 +658,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 10161,
+  "EOS_Progressed": 10162,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -9968,6 +9968,11 @@
       "Time": "2023-09-20T20:04:29.0408006+00:00",
       "NumProgressed": 10161,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-20T21:03:28.711326+00:00",
+      "NumProgressed": 10162,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -10107,7 +10112,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH18",
@@ -10139,7 +10144,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4674
+      "UsersEstimate": 4675
     },
     {
       "ID": "ACH22",
@@ -10153,9 +10158,9 @@
       "ID": "ACH23",
       "SetID": "9llo822",
       "Name": "South American Connection",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2540
     },
     {
       "ID": "ACH24",
@@ -10211,7 +10216,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH31",
@@ -10250,7 +10255,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10161,
+      "Progressed": 10162,
       "Completed": 56
     }
   ],
@@ -10258,8 +10263,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-19T05:58:35.1786441+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:04:29.0407999+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:03:28.7113255+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:00:58.4124437+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:04:29.0409029+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:59:40.8986701+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:03:28.7114147+00:00"
 }

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -361,6 +361,11 @@
       "Time": "2023-09-20T11:06:49.3636731+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T21:05:47.5752695+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -373,15 +378,15 @@
       "Name": "MISSION 01",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
       "SetID": "b50kim2",
       "Name": "MISSION 02",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
@@ -389,7 +394,7 @@
       "Name": "MISSION 03",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -403,9 +408,9 @@
       "ID": "ACHIEVEMENT_AV_05",
       "SetID": "b50kim2",
       "Name": "MISSION 05",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_AV_06",
@@ -573,7 +578,7 @@
       "Name": "MY 1ST REWARD",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_MR_02",
@@ -772,14 +777,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:07:21.5926763+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:47.575269+00:00",
   "LastUpdate_AppInfo": "2023-09-19T02:13:55.3494068+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:36.5860692+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:07:21.5927232+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:49.6093425+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:47.5753123+00:00"
 }

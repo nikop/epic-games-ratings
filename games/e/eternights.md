@@ -24,8 +24,8 @@
 | TentacleMAN | 11.00% | ~21 |
 | Plushyboy | 6.00% | ~11 |
 | Flawless | 5.00% | ~9 |
+| Yohan's Promise | 4.00% | ~8 |
 | LOVEassistant | 4.00% | ~8 |
-| Yohan's Promise | 3.00% | ~6 |
 | Dreamboat | 2.00% | ~4 |
 | Bond Lord | 0.50% | ~1 |
 | True Player | 0.50% | ~1 |

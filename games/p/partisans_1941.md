@@ -1,24 +1,24 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.61 (Ranked 372)  
+Rating: 4.61 (Ranked 371)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 40.00% | ~558 |
-| Grenadier | 39.00% | ~544 |
-| War Never Changes | 39.00% | ~544 |
-| Heroes Never Die | 36.00% | ~503 |
+| E1M1 | 40.00% | ~559 |
+| Grenadier | 39.00% | ~545 |
+| War Never Changes | 39.00% | ~545 |
+| Heroes Never Die | 35.00% | ~489 |
 | Mosquito bite | 34.00% | ~475 |
 | Spice It Up | 30.00% | ~419 |
-| Agent 47 | 25.00% | ~349 |
-| Bomberman | 25.00% | ~349 |
-| You're Gonna Go Far, Kid | 24.00% | ~335 |
-| Death to the Oppressor! | 17.00% | ~237 |
-| The Gang's All Here | 15.00% | ~209 |
-| Your Answer | 14.00% | ~195 |
-| One by One | 13.00% | ~181 |
+| Agent 47 | 25.00% | ~350 |
+| Bomberman | 25.00% | ~350 |
+| You're Gonna Go Far, Kid | 24.00% | ~336 |
+| Death to the Oppressor! | 17.00% | ~238 |
+| The Gang's All Here | 15.00% | ~210 |
+| Your Answer | 14.00% | ~196 |
+| One by One | 13.00% | ~182 |
 | The Big Bertha | 11.00% | ~154 |
 | Game Over | 10.00% | ~140 |
 | Lock, Stock | 7.00% | ~98 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,396 (Ranked 204)  
+Progressed: 1,398 (Ranked 204)  
 Completed: 1 (0.07%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.07%) (Ranked 234)
 | 2023-09-17 | 1,379 | 1 |
 | 2023-09-18 | 1,388 | 1 |
 | 2023-09-19 | 1,393 | 1 |
-| 2023-09-20 | 1,396 | 1 |
+| 2023-09-20 | 1,398 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

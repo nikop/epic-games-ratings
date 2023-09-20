@@ -2,12 +2,12 @@
   "ID": "72bdc702b4974024a69a5eb718a7a135",
   "Name": "Assassin\u0027s Creed Unity",
   "ProductSlug": "assassins-creed-unity",
-  "Ranking_Rating": 372,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 254,
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
@@ -1465,10 +1465,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 907,
       "NumberOfAwardsMax": 748
+    },
+    {
+      "Time": "2023-09-20T20:57:21.8073663+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 908,
+      "NumberOfAwardsMax": 748
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 907,
+  "NumberOfAwards": 908,
   "NumberOfAwardsMax": 748,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1518,7 +1524,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1544,8 +1550,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-09-20T19:58:01.1483177+00:00",
+  "LastChanged": "2023-09-20T20:57:21.8073661+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.729412+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:01.1483184+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:05:09.2395133+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:21.8073666+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:04:01.206829+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "52584c975e1d43d5b8c521f9a3eb64a1",
   "Name": "Lost And Found Beta",
   "ProductSlug": "lost-and-found-beta-eff956",
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-20T02:12:42.2333273+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:09.8570401+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:07:42.3785685+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:28.6166249+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:06:03.9222359+00:00"
 }

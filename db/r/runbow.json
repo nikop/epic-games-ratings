@@ -3,12 +3,12 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 626,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -14905,8 +14905,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:03:28.4828489+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:02:16.8717918+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.9787856+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:02:02.9489853+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:03:28.4831207+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:32.0583602+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:02:16.8719872+00:00"
 }

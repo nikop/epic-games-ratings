@@ -2,9 +2,9 @@
   "ID": "159f5c2372264a7fbb3e0430924bce9a",
   "Name": "Medieval Delivery",
   "ProductSlug": "medieval-delivery-938731",
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-28T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-30T02:57:30.4801964+00:00",
   "LastUpdate_AppInfo": "2023-09-17T02:57:10.0114179+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:23.419095+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:08:28.5525246+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:01.7626296+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:06:41.1826205+00:00"
 }

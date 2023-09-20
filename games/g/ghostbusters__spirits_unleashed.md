@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 567)  
+Rating: 4.50 (Ranked 568)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,15 +9,15 @@ Rating: 4.50 (Ranked 567)
 | Advancement | 0.50% | ~130 |
 | Meticulously Efficient | 0.50% | ~130 |
 | Discovery | 0.40% | ~104 |
+| Fully Upgraded | 0.40% | ~104 |
+| Teamwork | 0.40% | ~104 |
 | Back Off | 0.30% | ~78 |
 | Clutch Capture | 0.30% | ~78 |
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Cultured | 0.30% | ~78 |
-| Fully Upgraded | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |
 | Solo Capture | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
-| Teamwork | 0.30% | ~78 |
 | There you are! | 0.30% | ~78 |
 | Vaporous Expansion | 0.30% | ~78 |
 | Whoopsie | 0.30% | ~78 |
@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 567)
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25,926 (Ranked 108)  
-Completed: 56 (0.22%) (Ranked 198)  
+Completed: 57 (0.22%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,7 +210,7 @@ Completed: 56 (0.22%) (Ranked 198)
 | 2023-09-17 | 25,875 | 56 |
 | 2023-09-18 | 25,888 | 56 |
 | 2023-09-19 | 25,909 | 56 |
-| 2023-09-20 | 25,926 | 56 |
+| 2023-09-20 | 25,926 | 57 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 255)  
 Sum: 2,325 (Ranked 188)  

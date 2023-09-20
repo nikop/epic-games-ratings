@@ -2,9 +2,9 @@
   "ID": "b9cad2ee3e58423ca7c46a5f8ffee059",
   "Name": "SCARY AND DOT",
   "ProductSlug": "scary-and-dot-86b1ff",
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-30T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-02T17:57:11.7372875+00:00",
   "LastUpdate_AppInfo": "2023-09-18T17:57:14.2385369+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:43.2188935+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:05:57.200893+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:56.0259533+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:04:39.5780127+00:00"
 }

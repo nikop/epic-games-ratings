@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1364,
+  "EOS_Progressed": 1365,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4941,6 +4941,11 @@
       "Time": "2023-09-20T13:11:44.4214585+00:00",
       "NumProgressed": 1364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T21:05:27.0751341+00:00",
+      "NumProgressed": 1365,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5016,7 +5021,7 @@
       "Name": "Silver Competitor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -5056,7 +5061,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5088,7 +5093,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -5158,9 +5163,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5200,7 +5205,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -5255,14 +5260,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1364,
+      "Progressed": 1365,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:06:55.9388934+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:27.0751335+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:26.3411167+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:06:55.938964+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:41.6643234+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:27.0751945+00:00"
 }

@@ -651,9 +651,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 222972,
+  "EOS_Progressed": 222974,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17296,6 +17296,11 @@
       "Time": "2023-09-20T20:07:02.509246+00:00",
       "NumProgressed": 222972,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-20T21:05:32.2562633+00:00",
+      "NumProgressed": 222974,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -17347,7 +17352,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20067
+      "UsersEstimate": 20068
     },
     {
       "ID": "ACH_BASE_16",
@@ -17355,7 +17360,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20067
+      "UsersEstimate": 20068
     },
     {
       "ID": "ACH_BASE_17",
@@ -17363,7 +17368,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20067
+      "UsersEstimate": 20068
     },
     {
       "ID": "ACH_BASE_18",
@@ -17371,7 +17376,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20067
+      "UsersEstimate": 20068
     },
     {
       "ID": "ACH_BASE_19",
@@ -17571,14 +17576,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20067
+      "UsersEstimate": 20068
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 222972,
+      "Progressed": 222974,
       "Completed": 5
     }
   ],
@@ -17586,8 +17591,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-09-20T09:00:05.5038573+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:07:02.5092455+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:32.2562626+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:32.2325018+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:00:46.6312108+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:07:02.5093755+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:59:31.7005714+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:32.2564085+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 626,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -398,10 +398,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20481,
-  "EOS_Completed": 409,
-  "EOS_NewPlayers": 494,
-  "EOS_NewCompleters": 12,
+  "EOS_Progressed": 20482,
+  "EOS_Completed": 410,
+  "EOS_NewPlayers": 493,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
     {
@@ -16808,6 +16808,11 @@
       "Time": "2023-09-20T20:04:21.9810713+00:00",
       "NumProgressed": 20481,
       "NumCompleted": 409
+    },
+    {
+      "Time": "2023-09-20T21:03:22.9221019+00:00",
+      "NumProgressed": 20482,
+      "NumCompleted": 410
     }
   ],
   "TotalAchievements": 20,
@@ -16867,7 +16872,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -16939,7 +16944,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15770
+      "UsersEstimate": 15771
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16978,15 +16983,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20481,
-      "Completed": 409
+      "Progressed": 20482,
+      "Completed": 410
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:04:21.9810708+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:03:22.9221014+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:02:22.6756952+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:04:21.9811887+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:47.667884+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:03:22.9222267+00:00"
 }

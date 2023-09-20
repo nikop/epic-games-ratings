@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2394,
+  "EOS_Progressed": 2395,
   "EOS_Completed": 220,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 9.19,
   "EosHistory": [
@@ -6023,6 +6023,11 @@
       "Time": "2023-09-20T08:05:47.4937483+00:00",
       "NumProgressed": 2394,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2023-09-20T21:05:57.0711235+00:00",
+      "NumProgressed": 2395,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 12,
@@ -6106,7 +6111,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Nazis in Paris",
@@ -6114,7 +6119,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Nuremberg Laws",
@@ -6129,7 +6134,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2394,
+      "Progressed": 2395,
       "Completed": 220
     }
   ],
@@ -6137,8 +6142,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:07:33.8305836+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:57.0711229+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.6209571+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:50.8967319+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:07:33.8306321+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:23.2886321+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:57.071176+00:00"
 }

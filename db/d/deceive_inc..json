@@ -3,11 +3,11 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 469,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18071,
+  "EOS_Progressed": 18072,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10466,6 +10466,11 @@
       "Time": "2023-09-20T17:04:22.1286836+00:00",
       "NumProgressed": 18071,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T21:04:05.7221695+00:00",
+      "NumProgressed": 18072,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10565,7 +10570,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "0013",
@@ -10581,7 +10586,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "0015",
@@ -10605,7 +10610,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "0018",
@@ -10693,7 +10698,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "0029",
@@ -10764,7 +10769,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18071,
+      "Progressed": 18072,
       "Completed": 3
     }
   ],
@@ -10772,8 +10777,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:05:14.6095542+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:04:05.7221689+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:02:38.5306915+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:05:14.6096503+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:58.1689658+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:04:05.722265+00:00"
 }

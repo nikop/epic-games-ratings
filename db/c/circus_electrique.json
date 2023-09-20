@@ -3,8 +3,8 @@
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
   "Ranking_Rating": 897,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 266,
@@ -468,9 +468,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -877,8 +877,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:04:59.0263867+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:03:53.086615+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.7956717+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:00:19.1981979+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:04:59.0264703+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:59:10.7135732+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:03:53.086667+00:00"
 }

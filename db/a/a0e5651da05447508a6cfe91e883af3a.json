@@ -2,9 +2,9 @@
   "ID": "a0e5651da05447508a6cfe91e883af3a",
   "Name": null,
   "ProductSlug": "dark-table-ccg-abe8b6",
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:08:08.4342059+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:06:24.9633974+00:00",
   "LastUpdate_AppInfo": "2023-09-14T15:57:20.4498792+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:31.15656+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:08:08.4342095+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:45.4106071+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:06:24.9634011+00:00"
 }

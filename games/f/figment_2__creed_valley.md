@@ -7,8 +7,8 @@
 | Remembering of the past | 43.00% | ~3 |
 | Ouch, that hurt! | 29.00% | ~2 |
 | Black Hog Down | 29.00% | ~2 |
+| Slam-KABAM | 14.00% | ~1 |
 | Fight like an idiot | 14.00% | ~1 |
-| Slam-KABAM | 0.00% | ~0 |
 | Heavy Thoughts | 0.00% | ~0 |
 | Patient Listener | 0.00% | ~0 |
 | A heavy thinker | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | Flee like an idiot | 0.00% | ~0 |
 | Elementary, My Dear Dusty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 496)  
+Progressed: 7 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

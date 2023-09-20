@@ -3,11 +3,11 @@
   "Name": "Good Company",
   "ProductSlug": "good-company",
   "Ranking_Rating": 651,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5415,
+  "EOS_Progressed": 5416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3515,6 +3515,11 @@
       "Time": "2023-09-20T05:05:30.6593178+00:00",
       "NumProgressed": 5415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T21:05:13.4203877+00:00",
+      "NumProgressed": 5416,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3582,7 +3587,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "ach_campaign_progress10",
@@ -3638,7 +3643,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4133,15 +4138,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5415,
+      "Progressed": 5416,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:06:38.2187447+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:13.4203869+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:47.9419518+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:07.5697457+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:06:38.2188688+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:59:48.8705639+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:13.420495+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 224,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
+  "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1787,9 +1787,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 416
     },
     {
       "ID": "AC20",
@@ -2012,8 +2012,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:05:03.5799601+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:03:56.7279072+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:46.8443994+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:05:03.5800175+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:58.9336021+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:03:56.7279567+00:00"
 }

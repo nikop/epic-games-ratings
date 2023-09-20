@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1241,
+  "EOS_Progressed": 1242,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -2336,6 +2336,11 @@
       "Time": "2023-09-20T17:05:44.7057492+00:00",
       "NumProgressed": 1241,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-20T21:05:38.8927444+00:00",
+      "NumProgressed": 1242,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 16,
@@ -2435,7 +2440,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2449,9 +2454,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 509
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_THEEND",
@@ -2474,7 +2479,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1241,
+      "Progressed": 1242,
       "Completed": 51
     }
   ],
@@ -2482,8 +2487,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:07:10.6962552+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:38.8927438+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:43.1531361+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:04.6710344+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:07:10.6962826+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:59:46.3341536+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:38.8927707+00:00"
 }

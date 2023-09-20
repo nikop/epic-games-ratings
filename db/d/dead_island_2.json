@@ -4686,9 +4686,9 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 683266,
+  "EOS_Progressed": 683300,
   "EOS_Completed": 2156,
-  "EOS_NewPlayers": 3978,
+  "EOS_NewPlayers": 3995,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -21921,6 +21921,11 @@
       "Time": "2023-09-20T20:07:08.7263198+00:00",
       "NumProgressed": 683266,
       "NumCompleted": 2156
+    },
+    {
+      "Time": "2023-09-20T21:05:37.2676895+00:00",
+      "NumProgressed": 683300,
+      "NumCompleted": 2156
     }
   ],
   "TotalAchievements": 45,
@@ -21932,7 +21937,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -21948,7 +21953,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_anger_management",
@@ -21988,7 +21993,7 @@
       "Name": "Bookworm",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_break_a_leg",
@@ -21996,7 +22001,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_contender",
@@ -22020,7 +22025,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_doom_buddies",
@@ -22044,7 +22049,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_finisher",
@@ -22052,7 +22057,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -22060,7 +22065,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_good_eyesight",
@@ -22076,7 +22081,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -22084,7 +22089,7 @@
       "Name": "Friends Like These",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_hotel_california",
@@ -22092,7 +22097,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_impressive_aim",
@@ -22132,7 +22137,7 @@
       "Name": "Apex Predator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_knowledgeable",
@@ -22188,7 +22193,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6149
+      "UsersEstimate": 6150
     },
     {
       "ID": "ach_secrets_of_la",
@@ -22204,7 +22209,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_star_performance",
@@ -22212,7 +22217,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_survival_expert",
@@ -22252,7 +22257,7 @@
       "Name": "This is My Weapon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -22268,7 +22273,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13665
+      "UsersEstimate": 13666
     },
     {
       "ID": "ach_well_known_survivor",
@@ -22291,22 +22296,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 683266,
+      "Progressed": 683300,
       "Completed": 2156
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 8807,
-      "Completed": 8807
+      "Progressed": 8841,
+      "Completed": 8841
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-20T18:00:35.4065201+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:07:08.7263193+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:37.267689+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:02.4460256+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:07:08.7264671+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:59:44.1707233+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:37.2678778+00:00"
 }

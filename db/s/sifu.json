@@ -6352,10 +6352,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11315,
       "NumberOfAwardsMax": 6547
+    },
+    {
+      "Time": "2023-09-20T21:00:27.1024863+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11316,
+      "NumberOfAwardsMax": 6547
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11315,
+  "NumberOfAwards": 11316,
   "NumberOfAwardsMax": 6547,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6381,7 +6387,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 549
+      "Count": 550
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6432,9 +6438,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 715168,
+  "EOS_Progressed": 715169,
   "EOS_Completed": 12897,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -20557,6 +20563,11 @@
       "Time": "2023-09-20T20:08:35.9008611+00:00",
       "NumProgressed": 715168,
       "NumCompleted": 12897
+    },
+    {
+      "Time": "2023-09-20T21:06:47.0127681+00:00",
+      "NumProgressed": 715169,
+      "NumCompleted": 12897
     }
   ],
   "TotalAchievements": 60,
@@ -21047,21 +21058,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24469,
+      "Progressed": 24470,
       "Completed": 10642
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715168,
+      "Progressed": 715169,
       "Completed": 12897
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-20T15:02:01.1742851+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:08:35.9008604+00:00",
+  "LastChanged": "2023-09-20T21:00:27.1024861+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:06:47.0127675+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.6713568+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:56.3212404+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:08:35.9010092+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:27.1024866+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:06:47.0129213+00:00"
 }

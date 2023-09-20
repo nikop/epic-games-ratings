@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something ever-changing... | 23.00% | ~10 |
-| Something foundational... | 23.00% | ~10 |
-| Something to make you dream... | 23.00% | ~10 |
-| Something natural... | 23.00% | ~10 |
-| Something to long for... | 23.00% | ~10 |
+| Something ever-changing... | 22.00% | ~10 |
+| Something foundational... | 22.00% | ~10 |
+| Something to make you dream... | 22.00% | ~10 |
+| Something natural... | 22.00% | ~10 |
+| Something to long for... | 22.00% | ~10 |
 | Something gentle... | 20.00% | ~9 |
 | Something fully in bloom... | 20.00% | ~9 |
 | Somewhere to belong... | 20.00% | ~9 |
@@ -31,8 +31,8 @@
 | Something more... (fragile) | 11.00% | ~5 |
 | Something more... | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 415)  
-Completed: 4 (9.09%) (Ranked 31)  
+Progressed: 45 (Ranked 414)  
+Completed: 4 (8.89%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,3 +69,4 @@ Completed: 4 (9.09%) (Ranked 31)
 | 2023-09-16 | 39 | 4 |
 | 2023-09-17 | 42 | 4 |
 | 2023-09-18 | 44 | 4 |
+| 2023-09-20 | 45 | 4 |

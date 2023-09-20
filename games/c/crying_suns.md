@@ -1,16 +1,16 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 567)  
+Rating: 4.50 (Ranked 568)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,663 |
-| Jeef Skeejj | 44.00% | ~205,775 |
+| The Shutdown | 66.00% | ~308,664 |
+| Jeef Skeejj | 44.00% | ~205,776 |
 | Careful planning | 39.00% | ~182,392 |
-| Second Coming | 33.00% | ~154,331 |
-| Jeef Skagg | 30.00% | ~140,301 |
+| Second Coming | 33.00% | ~154,332 |
+| Jeef Skagg | 30.00% | ~140,302 |
 | Mother | 25.00% | ~116,918 |
 | In space, no one can hear you scream | 24.00% | ~112,241 |
 | Chapter I: Echoes | 22.00% | ~102,888 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,671 (Ranked 37)  
+Progressed: 467,672 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 18 (0.00%) (Ranked 280)
 | 2023-09-17 | 467,534 | 18 |
 | 2023-09-18 | 467,574 | 18 |
 | 2023-09-19 | 467,629 | 18 |
-| 2023-09-20 | 467,671 | 18 |
+| 2023-09-20 | 467,672 | 18 |
 ## Awards
 Max (Character Customization): 219  (Ranked 268)  
 Sum: 239 (Ranked 361)  

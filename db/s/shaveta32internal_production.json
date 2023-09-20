@@ -1,9 +1,9 @@
 {
   "ID": "ea9b3f58e1f14a92846f1194be80feea",
   "Name": "shaveta32internal Production",
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:02.5667838+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:03:18.1006785+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:05:47.0412367+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:02:08.2707415+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:04:31.568946+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 626,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 87,
@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11041,
+  "EOS_Progressed": 11049,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5978,6 +5978,11 @@
       "Time": "2023-09-20T20:09:55.6407663+00:00",
       "NumProgressed": 11041,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T21:08:13.2593867+00:00",
+      "NumProgressed": 11049,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6006,15 +6011,15 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 88
     },
     {
       "ID": "13",
@@ -6030,7 +6035,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1989
     },
     {
       "ID": "15",
@@ -6038,7 +6043,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2873
     },
     {
       "ID": "16",
@@ -6054,7 +6059,7 @@
       "Name": "Spore Taste",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2541
     },
     {
       "ID": "18",
@@ -6070,7 +6075,7 @@
       "Name": "Martian Music",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2652
     },
     {
       "ID": "2",
@@ -6078,7 +6083,7 @@
       "Name": "Data Logger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "20",
@@ -6086,7 +6091,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "21",
@@ -6094,7 +6099,7 @@
       "Name": "Drone Dodger",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2210
     },
     {
       "ID": "22",
@@ -6108,9 +6113,9 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "24",
@@ -6124,25 +6129,25 @@
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 88
     },
     {
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 110
     },
     {
       "ID": "28",
@@ -6166,7 +6171,7 @@
       "Name": "Captain Drummer",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2652
     },
     {
       "ID": "30",
@@ -6198,7 +6203,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2541
     },
     {
       "ID": "7",
@@ -6222,14 +6227,14 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3646
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 11041,
+      "Progressed": 11049,
       "Completed": 0
     }
   ],
@@ -6237,8 +6242,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-20T17:00:05.303439+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:09:55.6407657+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:08:13.2593862+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:39.7634331+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:09:55.6408369+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:14.2041844+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:08:13.2594468+00:00"
 }

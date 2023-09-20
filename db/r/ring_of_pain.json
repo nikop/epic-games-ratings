@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 434,
+  "Ranking_Rating": 433,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 53,
@@ -2807,10 +2807,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11562,
       "NumberOfAwardsMax": 1493
+    },
+    {
+      "Time": "2023-09-20T21:00:43.3754242+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11564,
+      "NumberOfAwardsMax": 1493
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11562,
+  "NumberOfAwards": 11564,
   "NumberOfAwardsMax": 1493,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2830,7 +2836,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1415
+      "Count": 1417
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2883,7 +2889,7 @@
   ],
   "EOS_Progressed": 236314,
   "EOS_Completed": 273,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -19599,9 +19605,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-09-20T02:15:34.2497975+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:07:59.8514775+00:00",
+  "LastChanged": "2023-09-20T21:00:43.375424+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:06:18.0464668+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:32.581326+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:02:17.051517+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:07:59.8517595+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:43.3754245+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:06:18.0467526+00:00"
 }

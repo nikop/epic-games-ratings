@@ -1,24 +1,24 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 418)  
+Rating: 4.59 (Ranked 417)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~69,911 |
+| Sowwy! | 31.00% | ~69,914 |
 | Alt+F4 | 5.00% | ~11,276 |
 | Déjà vu | 4.00% | ~9,021 |
 | Where's that freaking Dwarf? | 4.00% | ~9,021 |
 | A beer, two curses, three companions | 3.00% | ~6,766 |
 | Sock! SOCK! | 3.00% | ~6,766 |
 | Speedrun | 3.00% | ~6,766 |
-| Livin' in a dwarven paradise | 2.00% | ~4,510 |
-| Way of the Wimp | 2.00% | ~4,510 |
-| The plot thickens... At the tavern | 2.00% | ~4,510 |
-| GG EZ | 2.00% | ~4,510 |
-| DM intervention | 2.00% | ~4,510 |
-| Fireproof Wizardess | 2.00% | ~4,510 |
+| Livin' in a dwarven paradise | 2.00% | ~4,511 |
+| Way of the Wimp | 2.00% | ~4,511 |
+| The plot thickens... At the tavern | 2.00% | ~4,511 |
+| GG EZ | 2.00% | ~4,511 |
+| DM intervention | 2.00% | ~4,511 |
+| Fireproof Wizardess | 2.00% | ~4,511 |
 | Shiny and Crôm | 1.00% | ~2,255 |
 | The demons' feast | 1.00% | ~2,255 |
 | The Great Library | 1.00% | ~2,255 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~226 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,518 (Ranked 58)  
+Progressed: 225,530 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 3 (0.00%) (Ranked 280)
 | 2023-09-17 | 224,910 | 3 |
 | 2023-09-18 | 225,135 | 3 |
 | 2023-09-19 | 225,343 | 3 |
-| 2023-09-20 | 225,518 | 3 |
+| 2023-09-20 | 225,530 | 3 |
 ## Awards
 Max (Character Customization): 197  (Ranked 275)  
 Sum: 341 (Ranked 334)  

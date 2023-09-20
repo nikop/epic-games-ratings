@@ -35,13 +35,13 @@
 | Xevarian Gambit | 3.00% | ~5 |
 | The Voice of Hereafter | 3.00% | ~5 |
 | Despised | 3.00% | ~5 |
+| Business As Usual | 3.00% | ~5 |
 | Life... Finds a Way | 3.00% | ~5 |
 | Merchant | 3.00% | ~5 |
 | Unseen Patterns | 3.00% | ~5 |
 | Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
-| Business As Usual | 2.00% | ~3 |
 | Legacy of a Mercenary | 2.00% | ~3 |
 | Moving At Odd Angles | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |

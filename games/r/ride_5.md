@@ -18,8 +18,8 @@
 | Restored and Ready | 17.00% | ~171 |
 | Go-Faster Stripes | 16.00% | ~160 |
 | Legendary!!! | 16.00% | ~160 |
-| We've Just Begun | 8.00% | ~80 |
-| Stamina Star | 7.00% | ~70 |
+| We've Just Begun | 9.00% | ~90 |
+| Stamina Star | 8.00% | ~80 |
 | Is It the Right Size? | 6.00% | ~60 |
 | Evangelist | 6.00% | ~60 |
 | Make It Your Own! | 4.00% | ~40 |

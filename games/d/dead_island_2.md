@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,665 |
-| Git Gutte! | 2.00% | ~13,665 |
-| Bookworm | 2.00% | ~13,665 |
-| Break A Leg | 2.00% | ~13,665 |
-| But Doctor, I am Butcho | 2.00% | ~13,665 |
-| Can't Handle the Truth | 2.00% | ~13,665 |
-| Coup de Grâce | 2.00% | ~13,665 |
-| Like Riding a Bike | 2.00% | ~13,665 |
-| Hazardous Materials | 2.00% | ~13,665 |
-| Friends Like These | 2.00% | ~13,665 |
-| Hotel California | 2.00% | ~13,665 |
-| Apex Predator | 2.00% | ~13,665 |
-| Stacking the Deck | 2.00% | ~13,665 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,665 |
-| This is My Weapon | 2.00% | ~13,665 |
-| Welcome To Hell-A | 2.00% | ~13,665 |
+| Dr. Reed, I Presume? | 2.00% | ~13,666 |
+| Git Gutte! | 2.00% | ~13,666 |
+| Bookworm | 2.00% | ~13,666 |
+| Break A Leg | 2.00% | ~13,666 |
+| But Doctor, I am Butcho | 2.00% | ~13,666 |
+| Can't Handle the Truth | 2.00% | ~13,666 |
+| Coup de Grâce | 2.00% | ~13,666 |
+| Like Riding a Bike | 2.00% | ~13,666 |
+| Hazardous Materials | 2.00% | ~13,666 |
+| Friends Like These | 2.00% | ~13,666 |
+| Hotel California | 2.00% | ~13,666 |
+| Apex Predator | 2.00% | ~13,666 |
+| Stacking the Deck | 2.00% | ~13,666 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,666 |
+| This is My Weapon | 2.00% | ~13,666 |
+| Welcome To Hell-A | 2.00% | ~13,666 |
 | Making Your Mark | 1.00% | ~6,833 |
 | Anger Management | 1.00% | ~6,833 |
 | Perks of the Job | 1.00% | ~6,833 |
@@ -32,7 +32,7 @@ Rating: 4.54 (Ranked 502)
 | Humanity Distilled | 1.00% | ~6,833 |
 | I Am the Resurrection | 1.00% | ~6,833 |
 | Our True Nature | 1.00% | ~6,833 |
-| Down with the Sickness | 0.90% | ~6,149 |
+| Down with the Sickness | 0.90% | ~6,150 |
 | Max Headroom | 0.80% | ~5,466 |
 | Go, Bobcats! | 0.70% | ~4,783 |
 | Rising Star | 0.70% | ~4,783 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,266 (Ranked 22)  
+Progressed: 683,300 (Ranked 22)  
 Completed: 2,156 (0.32%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2,156 (0.32%) (Ranked 179)
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
-| 2023-09-20 | 683,266 | 2,156 |
+| 2023-09-20 | 683,300 | 2,156 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,094 (Ranked 93)  

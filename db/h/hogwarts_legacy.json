@@ -7804,10 +7804,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43813,
       "NumberOfAwardsMax": 22851
+    },
+    {
+      "Time": "2023-09-20T20:58:31.244994+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43814,
+      "NumberOfAwardsMax": 22851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43813,
+  "NumberOfAwards": 43814,
   "NumberOfAwardsMax": 22851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7845,7 +7851,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1035
+      "Count": 1036
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7884,9 +7890,9 @@
       "Count": 663
     }
   ],
-  "EOS_Progressed": 297021,
+  "EOS_Progressed": 297025,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24489,6 +24495,11 @@
       "Time": "2023-09-20T20:06:47.578545+00:00",
       "NumProgressed": 297021,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-20T21:05:20.5387222+00:00",
+      "NumProgressed": 297025,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24500,7 +24511,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41583
+      "UsersEstimate": 41584
     },
     {
       "ID": "PFA_10",
@@ -24540,7 +24551,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17821
+      "UsersEstimate": 17822
     },
     {
       "ID": "PFA_15",
@@ -24548,7 +24559,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20791
+      "UsersEstimate": 20792
     },
     {
       "ID": "PFA_16",
@@ -24564,7 +24575,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20791
+      "UsersEstimate": 20792
     },
     {
       "ID": "PFA_18",
@@ -24580,7 +24591,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20791
+      "UsersEstimate": 20792
     },
     {
       "ID": "PFA_2",
@@ -24636,7 +24647,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17821
+      "UsersEstimate": 17822
     },
     {
       "ID": "PFA_26",
@@ -24684,7 +24695,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32672
+      "UsersEstimate": 32673
     },
     {
       "ID": "PFA_31",
@@ -24788,7 +24799,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17821
+      "UsersEstimate": 17822
     },
     {
       "ID": "PFA_43",
@@ -24844,7 +24855,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32672
+      "UsersEstimate": 32673
     },
     {
       "ID": "PFA_9",
@@ -24859,16 +24870,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297021,
+      "Progressed": 297025,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-20T19:59:29.7959383+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:06:47.5785444+00:00",
+  "LastChanged": "2023-09-20T20:58:31.2449937+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:20.5387215+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:59:29.795939+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:06:47.5787409+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:58:31.2449944+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:20.5388727+00:00"
 }

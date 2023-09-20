@@ -3,11 +3,11 @@
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
   "Ranking_Rating": 520,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 519,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9730,
+  "EOS_Progressed": 9731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -776,6 +776,11 @@
     {
       "Time": "2023-09-13T00:08:21.8383526+00:00",
       "NumProgressed": 9730,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T21:08:19.6791+00:00",
+      "NumProgressed": 9731,
       "NumCompleted": 0
     }
   ],
@@ -1475,21 +1480,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9730,
+      "Progressed": 9731,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 227,
+      "Progressed": 228,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-07-15T20:59:23.7762639+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:10:03.4682747+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:08:19.6790995+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:57.3697845+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:01:22.6472863+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:10:03.4683841+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:00:01.1520941+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:08:19.6791999+00:00"
 }

@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 3.00% | ~420 |
 | Magnificent | 3.00% | ~420 |
 | Warrior | 3.00% | ~420 |
+| Wise | 3.00% | ~420 |
 | Developing Cities | 3.00% | ~420 |
 | Strong Cities | 3.00% | ~420 |
 | Great Ziggurat | 3.00% | ~420 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 2.00% | ~280 |
 | Mighty | 2.00% | ~280 |
 | Valiant | 2.00% | ~280 |
-| Wise | 2.00% | ~280 |
 | Legendary Cities | 2.00% | ~280 |
 | Able Difficulty | 2.00% | ~280 |
 | Just Difficulty | 2.00% | ~280 |

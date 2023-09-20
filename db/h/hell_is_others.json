@@ -908,10 +908,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 256,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-09-20T20:57:21.6615835+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 257,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 256,
+  "NumberOfAwards": 257,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -937,7 +943,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Challenging Combat",
@@ -970,7 +976,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256436,
+  "EOS_Progressed": 256437,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
@@ -16405,6 +16411,11 @@
       "Time": "2023-09-20T20:06:37.1008878+00:00",
       "NumProgressed": 256436,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T21:05:12.4217567+00:00",
+      "NumProgressed": 256437,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -16863,16 +16874,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256436,
+      "Progressed": 256437,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-09-19T00:00:32.9983752+00:00",
-  "LastChanged_Achievements": "2023-09-20T20:06:37.1008871+00:00",
+  "LastChanged": "2023-09-20T20:57:21.6615832+00:00",
+  "LastChanged_Achievements": "2023-09-20T21:05:12.4217558+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.3482551+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:58:00.9516821+00:00",
-  "LastUpdate_Achievements": "2023-09-20T20:06:37.1010344+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:57:21.6615838+00:00",
+  "LastUpdate_Achievements": "2023-09-20T21:05:12.4219075+00:00"
 }
