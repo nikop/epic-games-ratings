@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2626,9 +2626,9 @@
       "ID": "Achievement_050",
       "SetID": "6b34g18",
       "Name": "So Anyway I Started Blasting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_051",
@@ -2738,9 +2738,9 @@
       "ID": "Achievement_065",
       "SetID": "6b34g18",
       "Name": "Curious Finch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_066",
@@ -2795,8 +2795,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-30T23:01:05.938528+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:06:30.0563327+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:07:53.2475829+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.3443799+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:59:23.232395+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:06:30.05642+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:00:08.9712508+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:07:53.2476845+00:00"
 }

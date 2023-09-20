@@ -4,7 +4,7 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -395,9 +395,9 @@
       "ID": "ACHIEVEMENT_AV_04",
       "SetID": "b50kim2",
       "Name": "MISSION 04",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_AV_05",
@@ -571,9 +571,9 @@
       "ID": "ACHIEVEMENT_MR_01",
       "SetID": "b50kim2",
       "Name": "MY 1ST REWARD",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_MR_02",
@@ -778,8 +778,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:05:52.2477858+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:06:59.3165918+00:00",
   "LastUpdate_AppInfo": "2023-09-19T02:13:55.3494068+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:57:58.3702537+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:05:52.2478339+00:00"
+  "LastUpdate_Ratings": "2023-09-20T17:58:05.9338055+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:06:59.3166321+00:00"
 }

@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1017,
+  "EOS_Progressed": 1018,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -1652,6 +1652,11 @@
       "Time": "2023-09-20T11:03:04.8130258+00:00",
       "NumProgressed": 1017,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-20T18:03:24.610806+00:00",
+      "NumProgressed": 1018,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1663,7 +1668,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1679,7 +1684,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1695,7 +1700,7 @@
       "Name": "Kaboom",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1703,7 +1708,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1711,7 +1716,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1759,7 +1764,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1767,7 +1772,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1783,7 +1788,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1797,9 +1802,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1815,15 +1820,15 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH_STAR_3",
@@ -1863,7 +1868,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1871,14 +1876,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1017,
+      "Progressed": 1018,
       "Completed": 15
     }
   ],
@@ -1886,8 +1891,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-19T13:03:28.3019162+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:03:17.8911135+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:03:24.6108054+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:58:28.2782145+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:03:17.8911504+00:00"
+  "LastUpdate_Ratings": "2023-09-20T17:58:45.7190391+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:03:24.6108523+00:00"
 }

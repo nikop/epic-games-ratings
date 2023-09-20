@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 108
     },
     {
       "ID": "BasiliskFishingRod",
@@ -1909,9 +1909,9 @@
       "ID": "PrincessThrone",
       "SetID": "db30heh",
       "Name": "New Order",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "RogueChest",
@@ -1949,9 +1949,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 351
+      "UsersEstimate": 355
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1965,9 +1965,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -2012,8 +2012,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:05:29.1397506+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:06:25.5087936+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:57:56.6395971+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:05:29.1397977+00:00"
+  "LastUpdate_Ratings": "2023-09-20T17:58:03.1989881+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:06:25.5088498+00:00"
 }

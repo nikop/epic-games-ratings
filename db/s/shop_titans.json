@@ -6086,10 +6086,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27259,
       "NumberOfAwardsMax": 4748
+    },
+    {
+      "Time": "2023-09-20T18:00:07.29801+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27260,
+      "NumberOfAwardsMax": 4748
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27259,
+  "NumberOfAwards": 27260,
   "NumberOfAwardsMax": 4748,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6121,7 +6127,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3998
+      "Count": 3999
     },
     {
       "Text": "This game is Relaxing",
@@ -6142,7 +6148,7 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136445,
+  "EOS_Progressed": 136447,
   "EOS_Completed": 153,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 3,
@@ -21877,6 +21883,11 @@
       "Time": "2023-09-20T17:04:12.8890374+00:00",
       "NumProgressed": 136445,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-20T18:04:37.4789304+00:00",
+      "NumProgressed": 136447,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22783,15 +22794,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136445,
+      "Progressed": 136447,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-19T17:58:38.5337428+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:04:12.8890368+00:00",
+  "LastChanged": "2023-09-20T18:00:07.2980099+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:04:37.4789297+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:59:22.3373725+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:04:12.8892853+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:00:07.2980106+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:04:37.4792426+00:00"
 }

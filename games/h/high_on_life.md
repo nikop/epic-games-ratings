@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 316)  
+Rating: 4.64 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 316)
 | Series Wrap on Suit-O | 22.00% | ~5,294 |
 | Lezduit! | 20.00% | ~4,813 |
 | Who's The Boss? | 20.00% | ~4,813 |
+| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,813 |
 | Self-Actualization | 19.00% | ~4,572 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,572 |
 | Legendary Bounty Hunter | 18.00% | ~4,332 |
 | Seeing All The Sights | 16.00% | ~3,850 |
 | Carried Stan's Load To Completion | 13.00% | ~3,128 |

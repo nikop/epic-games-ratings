@@ -13,13 +13,13 @@
 | I'm Here Too! | 25.00% | ~250 |
 | Bitter Rivalry | 22.00% | ~220 |
 | I Want One Too! | 18.00% | ~180 |
+| Quick Pit Stop | 18.00% | ~180 |
 | Champagne Spray | 18.00% | ~180 |
-| Quick Pit Stop | 17.00% | ~170 |
+| Restored and Ready | 17.00% | ~170 |
 | Go-Faster Stripes | 16.00% | ~160 |
-| Restored and Ready | 16.00% | ~160 |
-| Legendary!!! | 15.00% | ~150 |
-| We've Just Begun | 8.00% | ~80 |
-| Stamina Star | 7.00% | ~70 |
+| Legendary!!! | 16.00% | ~160 |
+| We've Just Begun | 9.00% | ~90 |
+| Stamina Star | 8.00% | ~80 |
 | Is It the Right Size? | 6.00% | ~60 |
 | Evangelist | 6.00% | ~60 |
 | Make It Your Own! | 4.00% | ~40 |

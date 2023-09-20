@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1235,6 +1235,11 @@
       "Time": "2023-09-19T14:06:25.3999117+00:00",
       "NumProgressed": 520,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T18:08:25.340021+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1326,7 +1331,7 @@
       "Name": "Good as Fish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Chapter8",
@@ -1334,7 +1339,7 @@
       "Name": "Her Eyes",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Chapter9",
@@ -1350,7 +1355,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Collectibles2",
@@ -1422,7 +1427,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Murderer",
@@ -1533,14 +1538,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:06:52.6484763+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:08:25.3400201+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:02.4007324+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:03:11.9588668+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:06:52.6485121+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:03:13.1676139+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:08:25.3400639+00:00"
 }

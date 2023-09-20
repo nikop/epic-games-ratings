@@ -11,13 +11,13 @@ Number of Ratings: 36  (23.09.2022)
 | Let’s patch things up | 66.00% | ~595 |
 | I can fix it! | 63.00% | ~568 |
 | Post No Bills | 55.00% | ~496 |
-| Truly Shocking! | 49.00% | ~441 |
-| Critical Thinker | 36.00% | ~324 |
-| Act I Complete | 29.00% | ~261 |
-| Always Finding Your Mark | 29.00% | ~261 |
-| A drop in the Ocean | 29.00% | ~261 |
-| The Weight of the World | 29.00% | ~261 |
-| No Niños | 27.00% | ~243 |
+| Truly Shocking! | 49.00% | ~442 |
+| Critical Thinker | 36.00% | ~325 |
+| Act I Complete | 29.00% | ~262 |
+| Always Finding Your Mark | 29.00% | ~262 |
+| The Weight of the World | 29.00% | ~262 |
+| A drop in the Ocean | 28.00% | ~253 |
+| No Niños | 27.00% | ~244 |
 | I ain’t afraid of no Ghost | 24.00% | ~216 |
 | Act II Complete | 21.00% | ~189 |
 | A successful procedure! | 19.00% | ~171 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 901 (Ranked 221)  
+Progressed: 902 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-17 | 895 | 0 |
 | 2023-09-18 | 897 | 0 |
 | 2023-09-19 | 900 | 0 |
-| 2023-09-20 | 901 | 0 |
+| 2023-09-20 | 902 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

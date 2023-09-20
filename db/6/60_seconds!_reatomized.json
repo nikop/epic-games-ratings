@@ -188,7 +188,7 @@
   "Tags": [],
   "EOS_Progressed": 5178,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5759,9 +5759,9 @@
       "ID": "ACH_TRADER",
       "SetID": "5nj1ea3",
       "Name": "Fair Exchange",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_YESMAN",
@@ -5784,8 +5784,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-09-10T14:58:56.3860075+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:04:49.2122858+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:05:28.1698591+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.2935217+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:57:49.9467555+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:04:49.2123758+00:00"
+  "LastUpdate_Ratings": "2023-09-20T17:57:54.0780703+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:05:28.1699676+00:00"
 }

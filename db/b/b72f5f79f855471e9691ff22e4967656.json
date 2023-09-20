@@ -679,9 +679,9 @@
       "ID": "killPlant5",
       "SetID": "ci65fo0",
       "Name": "Nature\u0027s enemy",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "killSWBoss",
@@ -1100,8 +1100,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:05:33.5736591+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:06:32.2035783+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:10.772081+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:57:51.5357534+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:05:33.5737443+00:00"
+  "LastUpdate_Ratings": "2023-09-20T17:57:56.1861266+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:06:32.2036828+00:00"
 }

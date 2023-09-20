@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,445 (Ranked 69)  
+Progressed: 136,447 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,16 +272,16 @@ Completed: 153 (0.11%) (Ranked 223)
 | 2023-09-17 | 136,337 | 152 |
 | 2023-09-18 | 136,378 | 152 |
 | 2023-09-19 | 136,421 | 153 |
-| 2023-09-20 | 136,445 | 153 |
+| 2023-09-20 | 136,447 | 153 |
 ## Awards
 Max (Great for Beginners): 4,748  (Ranked 70)  
-Sum: 27,259 (Ranked 48)  
+Sum: 27,260 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,748 |
 | This game is Relaxing | 4,012 |
-| This game has Quickly Understood Controls | 3,998 |
+| This game has Quickly Understood Controls | 3,999 |
 | This game has Diverse Characters | 3,888 |
 | This game is Highly Recommended | 3,745 |
 | This game has Easy Combat | 3,693 |
@@ -526,3 +526,4 @@ Diff (max vs sum): 22
 | 2023-09-17 | 3.99 | - | 4,746 | 27,249 |
 | 2023-09-18 | 3.99 | - | 4,748 | 27,254 |
 | 2023-09-19 | 3.99 | - | 4,748 | 27,259 |
+| 2023-09-20 | 3.99 | - | 4,748 | 27,260 |

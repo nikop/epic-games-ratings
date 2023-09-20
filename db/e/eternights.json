@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 189,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -577,9 +577,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -601,9 +601,9 @@
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -641,9 +641,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -697,9 +697,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -753,9 +753,9 @@
       "ID": "ACHIEVEMENT_9_Flawless",
       "SetID": "9bke6f1",
       "Name": "Flawless",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -768,8 +768,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:05:34.6407997+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:06:33.55024+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:00:03.2320459+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:05:34.6408331+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:01:10.7149712+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:06:33.550266+00:00"
 }

@@ -24,7 +24,7 @@ Number of Ratings: 38  (23.09.2022)
 | Electro-Scrap Master | 25.00% | ~96 |
 | Robot Hunter | 22.00% | ~85 |
 | Advanced Survivalist | 20.00% | ~77 |
-| Master Of Technology | 17.00% | ~66 |
+| Master Of Technology | 18.00% | ~69 |
 | Treasure Hunter | 16.00% | ~62 |
 | Mythical Smelter | 14.00% | ~54 |
 | Blacksmith | 12.00% | ~46 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~8 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386 (Ranked 270)  
+Progressed: 386 (Ranked 271)  
 Completed: 1 (0.26%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |

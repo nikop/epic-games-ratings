@@ -2,7 +2,7 @@
   "ID": "4fd85a772cd5471aa5e38efcaa0d6f24",
   "Name": "Last Day of June",
   "ProductSlug": "last-day-of-june",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 613,
@@ -156,6 +156,6 @@
   "FirstSeenRating": "2022-08-09T02:31:32.2864337+00:00",
   "LastChanged": "2023-03-31T05:57:43.969303+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.8406151+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:00:20.1755099+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:04:06.6702027+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:01:37.4191141+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:04:28.7652024+00:00"
 }

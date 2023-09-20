@@ -2,9 +2,9 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 86,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 3.49,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -192,6 +192,11 @@
       "Time": "2023-09-20T17:09:14.2221424+00:00",
       "NumProgressed": 84,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T18:09:38.2168967+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -202,7 +207,7 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 90,
       "UsersEstimate": 19
     },
@@ -210,7 +215,7 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 30,
       "UsersEstimate": 51
     },
@@ -218,7 +223,7 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 44
     },
@@ -226,15 +231,15 @@
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
       "UsersEstimate": 38
     },
@@ -258,9 +263,9 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_17",
@@ -268,13 +273,13 @@
       "Name": "Clean Sheet",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
       "UsersEstimate": 42
     },
@@ -282,7 +287,7 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 21
     },
@@ -290,7 +295,7 @@
       "ID": "achievement_3",
       "SetID": "7ldgi7j",
       "Name": "A Passion for Excellence",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
       "UsersEstimate": 26
     },
@@ -298,7 +303,7 @@
       "ID": "achievement_4",
       "SetID": "7ldgi7j",
       "Name": "From Many, One",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 100,
       "UsersEstimate": 29
     },
@@ -306,7 +311,7 @@
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 25
     },
@@ -314,7 +319,7 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 90,
       "UsersEstimate": 31
     },
@@ -322,7 +327,7 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 15,
       "UsersEstimate": 62
     },
@@ -330,7 +335,7 @@
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 35,
       "UsersEstimate": 51
     },
@@ -338,7 +343,7 @@
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 90,
       "UsersEstimate": 31
     }
@@ -347,13 +352,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 86,
       "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:09:14.2221418+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:09:38.2168961+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.8902845+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:03:06.6988518+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:09:14.2221571+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:03:05.2568925+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:09:38.2169124+00:00"
 }

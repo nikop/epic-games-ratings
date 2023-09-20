@@ -41,6 +41,7 @@ Rating: 3.52 (Ranked 990)
 | Blacklight Down | 0.20% | ~3 |
 | Dexterity Save | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
+| Curious Finch | 0.20% | ~3 |
 | I Spit On Your Grave | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
@@ -51,11 +52,11 @@ Rating: 3.52 (Ranked 990)
 | Someplace to Be | 0.10% | ~2 |
 | Bloody Initiate | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
+| So Anyway I Started Blasting | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |
 | Under a Bushel | 0.10% | ~2 |
 | Enemy of My Enemy | 0.10% | ~2 |
 | Good Samaritan | 0.10% | ~2 |
-| Curious Finch | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Scream Team | 0.00% | ~0 |
 | Monster Hunters Club | 0.00% | ~0 |
@@ -63,7 +64,6 @@ Rating: 3.52 (Ranked 990)
 | Faith Healer | 0.00% | ~0 |
 | A Cry in the Dark | 0.00% | ~0 |
 | Ask Not For Whom The Horns Blow | 0.00% | ~0 |
-| So Anyway I Started Blasting | 0.00% | ~0 |
 | Rum Runner | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |

@@ -33,7 +33,7 @@
 | Temple Objectives Complete | 0.00% | ~0 |
 | Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,164 (Ranked 139)  
+Progressed: 8,165 (Ranked 139)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-17 | 8,157 | 0 |
 | 2023-09-18 | 8,160 | 0 |
 | 2023-09-19 | 8,163 | 0 |
-| 2023-09-20 | 8,164 | 0 |
+| 2023-09-20 | 8,165 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

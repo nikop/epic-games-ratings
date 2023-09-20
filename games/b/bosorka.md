@@ -11,10 +11,10 @@
 | Runes collector | 49.00% | ~52 |
 | Kind heart | 47.00% | ~50 |
 | Skilled rider | 45.00% | ~48 |
-| Devil's dozen | 27.00% | ~29 |
+| Devil's dozen | 28.00% | ~30 |
 | It doesn't work like that | 24.00% | ~25 |
+| This is just the beginning... | 19.00% | ~20 |
 | Unstoppable Curiosity | 19.00% | ~20 |
-| This is just the beginning... | 18.00% | ~19 |
 | A small victory | 18.00% | ~19 |
 | Gold Digger | 12.00% | ~13 |
 | Time is on my side | 10.00% | ~11 |

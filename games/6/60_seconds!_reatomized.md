@@ -61,7 +61,7 @@ Rating: 4.62 (Ranked 351)
 | Pro gamer | 0.70% | ~36 |
 | Naysayer | 0.60% | ~31 |
 | Manhattan Project | 0.60% | ~31 |
-| Fair Exchange | 0.40% | ~21 |
+| Fair Exchange | 0.50% | ~26 |
 | Miracle | 0.30% | ~16 |
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |

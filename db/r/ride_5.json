@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1000,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1413,17 +1413,17 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 80
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 170
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1477,9 +1477,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "c7hf6a4",
       "Name": "Legendary!!!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 160
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1493,9 +1493,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 180
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1645,9 +1645,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "c7hf6a4",
       "Name": "We\u0027ve Just Begun",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 90
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1788,8 +1788,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-20T17:03:46.5615592+00:00",
+  "LastChanged_Achievements": "2023-09-20T18:04:14.6257772+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:59:45.4449016+00:00",
-  "LastUpdate_Achievements": "2023-09-20T17:03:46.5616112+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:00:42.2002853+00:00",
+  "LastUpdate_Achievements": "2023-09-20T18:04:14.6258407+00:00"
 }
