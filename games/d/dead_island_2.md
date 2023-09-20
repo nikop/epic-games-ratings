@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,659 |
-| Git Gutte! | 2.00% | ~13,659 |
-| Bookworm | 2.00% | ~13,659 |
-| Break A Leg | 2.00% | ~13,659 |
-| But Doctor, I am Butcho | 2.00% | ~13,659 |
-| Can't Handle the Truth | 2.00% | ~13,659 |
-| Coup de Grâce | 2.00% | ~13,659 |
-| Hazardous Materials | 2.00% | ~13,659 |
-| Friends Like These | 2.00% | ~13,659 |
-| Hotel California | 2.00% | ~13,659 |
-| Apex Predator | 2.00% | ~13,659 |
-| Stacking the Deck | 2.00% | ~13,659 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,659 |
-| This is My Weapon | 2.00% | ~13,659 |
-| Welcome To Hell-A | 2.00% | ~13,659 |
+| Dr. Reed, I Presume? | 2.00% | ~13,660 |
+| Git Gutte! | 2.00% | ~13,660 |
+| Bookworm | 2.00% | ~13,660 |
+| Break A Leg | 2.00% | ~13,660 |
+| But Doctor, I am Butcho | 2.00% | ~13,660 |
+| Can't Handle the Truth | 2.00% | ~13,660 |
+| Coup de Grâce | 2.00% | ~13,660 |
+| Hazardous Materials | 2.00% | ~13,660 |
+| Friends Like These | 2.00% | ~13,660 |
+| Hotel California | 2.00% | ~13,660 |
+| Apex Predator | 2.00% | ~13,660 |
+| Stacking the Deck | 2.00% | ~13,660 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,660 |
+| This is My Weapon | 2.00% | ~13,660 |
+| Welcome To Hell-A | 2.00% | ~13,660 |
 | Making Your Mark | 1.00% | ~6,830 |
 | Anger Management | 1.00% | ~6,830 |
 | Perks of the Job | 1.00% | ~6,830 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,973 (Ranked 22)  
-Completed: 2,155 (0.32%) (Ranked 178)  
+Progressed: 682,991 (Ranked 22)  
+Completed: 2,155 (0.32%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 2,155 (0.32%) (Ranked 178)
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
-| 2023-09-20 | 682,973 | 2,155 |
+| 2023-09-20 | 682,991 | 2,155 |
 ## Awards
 Max (Great Boss Battles): 6,115  (Ranked 57)  
 Sum: 9,079 (Ranked 94)  

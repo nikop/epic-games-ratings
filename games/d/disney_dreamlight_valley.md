@@ -9,7 +9,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Goofy's Investor | 70.00% | ~6,966 |
 | Photographer | 69.00% | ~6,867 |
 | Valley's Helper | 63.00% | ~6,270 |
-| Constructor | 51.00% | ~5,076 |
+| Constructor | 52.00% | ~5,175 |
 | Renovator | 51.00% | ~5,076 |
 | Bestest Friend | 47.00% | ~4,677 |
 | Banker | 39.00% | ~3,881 |
@@ -129,12 +129,12 @@ Completed: 228 (2.29%) (Ranked 94)
 | 2023-09-20 | 9,952 | 228 |
 ## Awards
 Max (Great for Beginners): 958  (Ranked 149)  
-Sum: 7,556 (Ranked 106)  
+Sum: 7,558 (Ranked 106)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 958 |
-| This game has Diverse Characters | 828 |
+| This game has Diverse Characters | 830 |
 | This game is Relaxing | 798 |
 | This game is Highly Recommended | 797 |
 | This game has Amazing Characters | 795 |
@@ -338,4 +338,4 @@ Diff (max vs sum): 43
 | 2023-09-17 | 4.76 | - | 954 | 7,540 |
 | 2023-09-18 | 4.76 | - | 954 | 7,546 |
 | 2023-09-19 | 4.76 | - | 955 | 7,551 |
-| 2023-09-20 | 4.76 | - | 958 | 7,556 |
+| 2023-09-20 | 4.76 | - | 958 | 7,558 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65833,
+  "EOS_Progressed": 65835,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15282,6 +15282,11 @@
       "Time": "2023-09-20T10:04:19.6938248+00:00",
       "NumProgressed": 65833,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T11:05:02.2763286+00:00",
+      "NumProgressed": 65835,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15309,7 +15314,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16458
+      "UsersEstimate": 16459
     },
     {
       "ID": "04",
@@ -15325,7 +15330,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "06",
@@ -15341,7 +15346,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "08",
@@ -15349,7 +15354,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "09",
@@ -15381,7 +15386,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "13",
@@ -15501,7 +15506,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "28",
@@ -15509,7 +15514,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "29",
@@ -15565,7 +15570,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22383
+      "UsersEstimate": 22384
     },
     {
       "ID": "36",
@@ -15605,7 +15610,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6583
+      "UsersEstimate": 6584
     },
     {
       "ID": "41",
@@ -15653,7 +15658,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10533
+      "UsersEstimate": 10534
     },
     {
       "ID": "47",
@@ -15828,21 +15833,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65833,
+      "Progressed": 65835,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29301,
+      "Progressed": 29303,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T10:04:19.6938243+00:00",
+  "LastChanged_Achievements": "2023-09-20T11:05:02.2763281+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:58:20.1514786+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:04:19.6939523+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:59:19.9327414+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:05:02.276524+00:00"
 }

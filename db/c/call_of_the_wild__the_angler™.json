@@ -6,9 +6,9 @@
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -736,7 +736,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5830,
+  "EOS_Progressed": 5831,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -7601,6 +7601,11 @@
       "Time": "2023-09-19T21:08:25.3052611+00:00",
       "NumProgressed": 5830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T11:08:29.651427+00:00",
+      "NumProgressed": 5831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7644,7 +7649,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7652,7 +7657,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7676,7 +7681,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -7770,9 +7775,9 @@
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -7891,13 +7896,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5830,
+      "Progressed": 5831,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5202,
+      "Progressed": 5203,
       "Completed": 112
     }
   ],
@@ -7905,8 +7910,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-19T16:01:15.2479877+00:00",
-  "LastChanged_Achievements": "2023-09-20T10:06:44.7583918+00:00",
+  "LastChanged_Achievements": "2023-09-20T11:08:29.6514265+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:51.4356282+00:00",
-  "LastUpdate_Ratings": "2023-09-20T10:00:30.5650286+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:06:44.7584441+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:02:36.5898341+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:08:29.6515627+00:00"
 }

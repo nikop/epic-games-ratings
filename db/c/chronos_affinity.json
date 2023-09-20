@@ -2,10 +2,10 @@
   "ID": "c8cf82d6921541dd9ef0e0be9092c2a2",
   "Name": "Chronos Affinity",
   "ProductSlug": "chronosaffinity-e8c2c8",
-  "Ranking_EOS_Progress": 611,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T09:57:34.0528027+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:57:50.4375934+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:03:44.7224376+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:58:35.3198805+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:04:13.8339557+00:00"
 }

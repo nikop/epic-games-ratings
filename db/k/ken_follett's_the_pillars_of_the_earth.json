@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15290,
+  "EOS_Progressed": 15291,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -10472,6 +10472,11 @@
       "Time": "2023-09-20T08:03:33.0381264+00:00",
       "NumProgressed": 15290,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-20T11:03:25.9109668+00:00",
+      "NumProgressed": 15291,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10507,7 +10512,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "tpote_achievement_13",
@@ -10515,7 +10520,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "tpote_achievement_14",
@@ -10723,7 +10728,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "tpote_achievement_38",
@@ -10810,15 +10815,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15290,
+      "Progressed": 15291,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-20T10:03:24.5425486+00:00",
+  "LastChanged_Achievements": "2023-09-20T11:03:25.9109661+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-20T10:00:30.2967187+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:03:24.542622+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:02:36.2102489+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:03:25.9110801+00:00"
 }

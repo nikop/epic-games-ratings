@@ -6,24 +6,24 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~719,030 |
-| The Blues | 85.00% | ~617,349 |
-| Fast | 66.00% | ~479,353 |
-| Healthbar | 55.00% | ~399,461 |
-| Force Cube | 53.00% | ~384,935 |
+| Out of bed | 99.00% | ~719,031 |
+| The Blues | 85.00% | ~617,350 |
+| Fast | 66.00% | ~479,354 |
+| Healthbar | 55.00% | ~399,462 |
+| Force Cube | 53.00% | ~384,936 |
 | Double Jump | 48.00% | ~348,621 |
 | Regeneration | 47.00% | ~341,358 |
 | Triple Jump | 43.00% | ~312,306 |
 | Climb the hill | 42.00% | ~305,043 |
-| Through the fire pipe | 39.00% | ~283,254 |
-| MacGuffin | 38.00% | ~275,991 |
-| Just once | 37.00% | ~268,728 |
+| Through the fire pipe | 39.00% | ~283,255 |
+| MacGuffin | 38.00% | ~275,992 |
+| Just once | 37.00% | ~268,729 |
 | Armor | 30.00% | ~217,888 |
 | True holy spirit | 28.00% | ~203,362 |
 | That's how electronics work obviously | 27.00% | ~196,099 |
-| Force Cube Catapult | 25.00% | ~181,573 |
-| Holy Sword | 23.00% | ~167,047 |
-| Telefrag | 23.00% | ~167,047 |
+| Force Cube Catapult | 25.00% | ~181,574 |
+| Holy Sword | 23.00% | ~167,048 |
+| Telefrag | 23.00% | ~167,048 |
 | Freed from prison | 21.00% | ~152,522 |
 | Stomp | 21.00% | ~152,522 |
 | Double Health | 18.00% | ~130,733 |
@@ -105,8 +105,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~726 |
 | DLC: Top of the world | 0.10% | ~726 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,293 (Ranked 19)  
-Completed: 736 (0.10%) (Ranked 224)  
+Progressed: 726,294 (Ranked 19)  
+Completed: 736 (0.10%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,7 +258,7 @@ Completed: 736 (0.10%) (Ranked 224)
 | 2023-09-17 | 726,075 | 735 |
 | 2023-09-18 | 726,173 | 735 |
 | 2023-09-19 | 726,267 | 735 |
-| 2023-09-20 | 726,293 | 736 |
+| 2023-09-20 | 726,294 | 736 |
 ## Awards
 Max (Challenging Puzzles): 7,687  (Ranked 46)  
 Sum: 10,020 (Ranked 87)  

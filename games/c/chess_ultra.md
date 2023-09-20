@@ -5,25 +5,25 @@ Rating: 4.30 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~145,690 |
-| Doubled Pawn | 56.00% | ~116,552 |
-| Check | 55.00% | ~114,470 |
-| Absolute pin | 47.00% | ~97,820 |
-| Promotion | 31.00% | ~64,520 |
-| Checkmate | 30.00% | ~62,438 |
-| O-O | 24.00% | ~49,951 |
-| Spanish Bishop | 21.00% | ~43,707 |
-| Queen Sacrifice | 20.00% | ~41,626 |
-| Stalemate | 18.00% | ~37,463 |
+| Chop Wood | 70.00% | ~145,694 |
+| Doubled Pawn | 56.00% | ~116,555 |
+| Check | 55.00% | ~114,474 |
+| Absolute pin | 47.00% | ~97,823 |
+| Promotion | 31.00% | ~64,522 |
+| Checkmate | 30.00% | ~62,440 |
+| O-O | 24.00% | ~49,952 |
+| Spanish Bishop | 21.00% | ~43,708 |
+| Queen Sacrifice | 20.00% | ~41,627 |
+| Stalemate | 18.00% | ~37,464 |
 | O-O-O | 13.00% | ~27,057 |
 | Octopus | 13.00% | ~27,057 |
-| Stranger Danger | 12.00% | ~24,975 |
+| Stranger Danger | 12.00% | ~24,976 |
 | En Passant | 9.00% | ~18,732 |
 | Double Check | 7.00% | ~14,569 |
 | Piece Collector | 6.00% | ~12,488 |
-| ELO | 5.00% | ~10,406 |
-| Family Fork | 5.00% | ~10,406 |
-| Friendly Fire | 5.00% | ~10,406 |
+| ELO | 5.00% | ~10,407 |
+| Family Fork | 5.00% | ~10,407 |
+| Friendly Fire | 5.00% | ~10,407 |
 | Underpromote | 4.00% | ~8,325 |
 | ELO ELO | 3.00% | ~6,244 |
 | Blind Pigs | 2.00% | ~4,163 |
@@ -44,8 +44,8 @@ Rating: 4.30 (Ranked 801)
 | Tournament Master | 0.10% | ~208 |
 | Tournament Pro | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,128 (Ranked 61)  
-Completed: 2 (0.00%) (Ranked 278)  
+Progressed: 208,134 (Ranked 61)  
+Completed: 2 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,7 +197,7 @@ Completed: 2 (0.00%) (Ranked 278)
 | 2023-09-17 | 207,713 | 2 |
 | 2023-09-18 | 207,888 | 2 |
 | 2023-09-19 | 208,070 | 2 |
-| 2023-09-20 | 208,128 | 2 |
+| 2023-09-20 | 208,134 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

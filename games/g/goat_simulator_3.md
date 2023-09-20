@@ -5,23 +5,23 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~222,311 |
-| Private Club | 74.00% | ~180,781 |
-| Rogue Guild | 65.00% | ~158,794 |
-| I Watched the Intro | 57.00% | ~139,250 |
-| Covert Consortium | 55.00% | ~134,364 |
-| Goat Queen | 53.00% | ~129,478 |
-| Reach the Stratosphere | 50.00% | ~122,149 |
-| Synchronization Complete | 47.00% | ~114,820 |
-| Secret Society | 45.00% | ~109,934 |
-| Shadow Syndicate | 38.00% | ~92,833 |
-| What a Waste of Money | 33.00% | ~80,618 |
-| New Goat Order | 30.00% | ~73,289 |
-| Don't touch the servers | 28.00% | ~68,403 |
-| San Angora: Become Human | 27.00% | ~65,960 |
-| Real Buoy | 27.00% | ~65,960 |
-| Raider of the Lost Parking Garage | 26.00% | ~63,517 |
-| Welcome to Earth | 25.00% | ~61,074 |
+| Forgotten Sorority | 91.00% | ~222,314 |
+| Private Club | 74.00% | ~180,783 |
+| Rogue Guild | 65.00% | ~158,796 |
+| I Watched the Intro | 57.00% | ~139,252 |
+| Covert Consortium | 55.00% | ~134,366 |
+| Goat Queen | 53.00% | ~129,480 |
+| Reach the Stratosphere | 50.00% | ~122,150 |
+| Synchronization Complete | 47.00% | ~114,821 |
+| Secret Society | 45.00% | ~109,935 |
+| Shadow Syndicate | 38.00% | ~92,834 |
+| What a Waste of Money | 33.00% | ~80,619 |
+| New Goat Order | 30.00% | ~73,290 |
+| Don't touch the servers | 28.00% | ~68,404 |
+| San Angora: Become Human | 27.00% | ~65,961 |
+| Real Buoy | 27.00% | ~65,961 |
+| Raider of the Lost Parking Garage | 26.00% | ~63,518 |
+| Welcome to Earth | 25.00% | ~61,075 |
 | Into the Matrix | 19.00% | ~46,417 |
 | Egg Simulator | 18.00% | ~43,974 |
 | Where is It? | 17.00% | ~41,531 |
@@ -45,8 +45,8 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,466 |
 | G.O.A.T | 0.30% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,298 (Ranked 52)  
-Completed: 831 (0.34%) (Ranked 175)  
+Progressed: 244,301 (Ranked 52)  
+Completed: 831 (0.34%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,10 +198,10 @@ Completed: 831 (0.34%) (Ranked 175)
 | 2023-09-17 | 244,092 | 831 |
 | 2023-09-18 | 244,179 | 831 |
 | 2023-09-19 | 244,277 | 831 |
-| 2023-09-20 | 244,298 | 831 |
+| 2023-09-20 | 244,301 | 831 |
 ## Awards
 Max (Great for Beginners): 396  (Ranked 218)  
-Sum: 3,408 (Ranked 154)  
+Sum: 3,411 (Ranked 154)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -210,8 +210,8 @@ Diff (max vs sum): 64
 | This game is Highly Recommended | 362 |
 | This game has Amazing Characters | 343 |
 | This game is Extremely Fun | 339 |
+| This game has Amazing Storytelling | 329 |
 | This game is Relaxing | 326 |
-| This game has Amazing Storytelling | 326 |
 | This game has Quickly Understood Controls | 324 |
 | This game has a Silly Community | 318 |
 | This game has Easy Combat | 287 |
@@ -398,4 +398,4 @@ Diff (max vs sum): 64
 | 2023-09-17 | 4.84 | 396 | 3,397 |
 | 2023-09-18 | 4.84 | 396 | 3,399 |
 | 2023-09-19 | 4.84 | 396 | 3,404 |
-| 2023-09-20 | 4.84 | 396 | 3,408 |
+| 2023-09-20 | 4.84 | 396 | 3,411 |

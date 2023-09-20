@@ -27,7 +27,7 @@
 | Skin Of Your Teeth | 16.00% | ~46 |
 | Oh My Gourd | 16.00% | ~38 |
 | Getting Started | 15.00% | ~44 |
-| Eggtraordinary | 14.00% | ~41 |
+| Eggtraordinary | 15.00% | ~44 |
 | This Is My Boomstick | 14.00% | ~34 |
 | Quit Horsin' Around | 12.00% | ~35 |
 | Summers Here | 12.00% | ~29 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 290 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 278)  
+Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

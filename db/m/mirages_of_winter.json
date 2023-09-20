@@ -2,10 +2,10 @@
   "ID": "219a655d3a144141b8c967d3e6acc15d",
   "Name": "Mirages of Winter",
   "ProductSlug": "mirages-of-winter-604dc1",
-  "Ranking_EOS_Progress": 611,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-23T14:00:00+00:00",
     "PcReleaseDate": "2022-11-22T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:51.7706895+00:00",
-  "LastUpdate_Ratings": "2023-09-20T10:00:31.0859763+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:04:44.1579245+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:02:37.5601051+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:05:37.5773368+00:00"
 }

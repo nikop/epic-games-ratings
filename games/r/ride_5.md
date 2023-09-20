@@ -35,8 +35,8 @@
 | My Work Here Is Done | 2.00% | ~20 |
 | I'll Be the Best! | 1.00% | ~10 |
 | Back in Blighty | 1.00% | ~10 |
+| Overtaking the Master | 1.00% | ~10 |
 | Exhausted but Happy | 0.90% | ~9 |
-| Overtaking the Master | 0.90% | ~9 |
 | I Don't Stop | 0.70% | ~7 |
 | Next Level | 0.60% | ~6 |
 | In Search of Perfection | 0.40% | ~4 |
@@ -55,7 +55,7 @@
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 989 (Ranked 218)  
-Completed: 0 (0.00%) (Ranked 278)  
+Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

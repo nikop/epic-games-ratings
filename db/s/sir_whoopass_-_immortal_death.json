@@ -2,10 +2,10 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -1108,8 +1108,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-09-20T10:05:02.4876079+00:00",
+  "LastChanged_Achievements": "2023-09-20T11:06:04.163796+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:16.5517431+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:58:15.7959829+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:05:02.4876816+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:59:13.5947605+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:06:04.1638867+00:00"
 }

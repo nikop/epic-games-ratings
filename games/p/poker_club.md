@@ -5,18 +5,18 @@ Rating: 3.81 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~399,009 |
-| Handy | 41.00% | ~215,255 |
-| Cold Caller | 39.00% | ~204,755 |
-| A Bit On The Side | 26.00% | ~136,503 |
-| Backdoor | 25.00% | ~131,253 |
+| Pro Creation | 76.00% | ~399,012 |
+| Handy | 41.00% | ~215,257 |
+| Cold Caller | 39.00% | ~204,756 |
+| A Bit On The Side | 26.00% | ~136,504 |
+| Backdoor | 25.00% | ~131,254 |
 | Rank Amateur | 21.00% | ~110,253 |
-| Three Way | 18.00% | ~94,502 |
+| Three Way | 18.00% | ~94,503 |
 | Deadly Assassin | 15.00% | ~78,752 |
 | Gutshot | 13.00% | ~68,252 |
 | Risk It For A Biscuit | 13.00% | ~68,252 |
 | Showoff | 13.00% | ~68,252 |
-| W.H.I.P. | 11.00% | ~57,751 |
+| W.H.I.P. | 11.00% | ~57,752 |
 | Bet Bet Bet | 9.00% | ~47,251 |
 | Blindman's Bluff | 9.00% | ~47,251 |
 | Poker Joker | 9.00% | ~47,251 |
@@ -26,8 +26,8 @@ Rating: 3.81 (Ranked 977)
 | Quack Quack | 7.00% | ~36,751 |
 | The Bigger They Are | 7.00% | ~36,751 |
 | Give Your Regards To Broadway | 6.00% | ~31,501 |
-| Check Yourself | 4.00% | ~21,000 |
-| Moneymaker | 4.00% | ~21,000 |
+| Check Yourself | 4.00% | ~21,001 |
+| Moneymaker | 4.00% | ~21,001 |
 | In The Gang | 3.00% | ~15,750 |
 | On The Button | 3.00% | ~15,750 |
 | Before You Wreck Yourself | 2.00% | ~10,500 |
@@ -51,8 +51,8 @@ Rating: 3.81 (Ranked 977)
 | Rounder | 0.10% | ~525 |
 | Top Dog | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,012 (Ranked 34)  
-Completed: 2 (0.00%) (Ranked 278)  
+Progressed: 525,016 (Ranked 34)  
+Completed: 2 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,7 +203,7 @@ Completed: 2 (0.00%) (Ranked 278)
 | 2023-09-17 | 524,495 | 2 |
 | 2023-09-18 | 524,731 | 2 |
 | 2023-09-19 | 524,946 | 2 |
-| 2023-09-20 | 525,012 | 2 |
+| 2023-09-20 | 525,016 | 2 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 425)  
 Sum: 111 (Ranked 414)  

@@ -33,12 +33,12 @@ Rating: 4.02 (Ranked 943)
 | Doing My Part | 11.00% | ~215 |
 | Hunter | 11.00% | ~215 |
 | Mastery | 11.00% | ~215 |
+| Moving Up The Ladder | 11.00% | ~215 |
 | Relic Of The Past | 11.00% | ~215 |
 | Scroll Master | 11.00% | ~215 |
 | The power of Awakening | 11.00% | ~215 |
 | Four Leaf Clover | 10.00% | ~195 |
 | Frostfire Liberator | 10.00% | ~195 |
-| Moving Up The Ladder | 10.00% | ~195 |
 | Here We Go Again | 9.00% | ~176 |
 | Master Enchanter | 9.00% | ~176 |
 | The father of Dragons | 9.00% | ~176 |
@@ -82,7 +82,7 @@ Rating: 4.02 (Ranked 943)
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,953 (Ranked 188)  
-Completed: 2 (0.10%) (Ranked 224)  
+Completed: 2 (0.10%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

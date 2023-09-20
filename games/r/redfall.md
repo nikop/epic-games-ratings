@@ -18,10 +18,10 @@ Rating: 3.52 (Ranked 990)
 | Throw The First Stone | 0.60% | ~10 |
 | Wounded Whispers | 0.60% | ~10 |
 | Catch and Release | 0.60% | ~10 |
+| Heart Attack | 0.60% | ~10 |
 | Neighborhood Revitalization | 0.50% | ~9 |
 | Home Is Where the Heart Is | 0.50% | ~9 |
 | Radio Silence | 0.50% | ~9 |
-| Heart Attack | 0.50% | ~9 |
 | Skin of Their Teeth | 0.50% | ~9 |
 | Right This Way | 0.40% | ~7 |
 | Bad Wiring | 0.30% | ~5 |
@@ -73,7 +73,7 @@ Rating: 3.52 (Ranked 990)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,746 (Ranked 193)  
-Completed: 0 (0.00%) (Ranked 278)  
+Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

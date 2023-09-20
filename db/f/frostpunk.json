@@ -5,10 +5,10 @@
   "Ranking_Rating": 146,
   "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 117,
-  "Ranking_EOS_Progress": 611,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -5034,11 +5034,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 6851,
       "NumberOfAwardsMax": 814
+    },
+    {
+      "Time": "2023-09-20T10:57:15.9412337+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6857,
+      "NumberOfAwardsMax": 815
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6851,
-  "NumberOfAwardsMax": 814,
+  "NumberOfAwards": 6857,
+  "NumberOfAwardsMax": 815,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -5051,7 +5057,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 814
+      "Count": 815
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5069,7 +5075,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 728
+      "Count": 729
     },
     {
       "Text": "This game is Educational",
@@ -5087,7 +5093,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 614
+      "Count": 615
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5099,7 +5105,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 383
+      "Count": 386
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5127,9 +5133,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-09-20T08:03:16.6795917+00:00",
-  "LastChanged_Achievements": "2023-09-20T10:06:54.7956667+00:00",
+  "LastChanged": "2023-09-20T10:57:15.9412336+00:00",
+  "LastChanged_Achievements": "2023-09-20T11:08:43.7657487+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:40.8396034+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:56:58.3374515+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:06:54.7956689+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:57:15.9412342+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:08:43.7657526+00:00"
 }

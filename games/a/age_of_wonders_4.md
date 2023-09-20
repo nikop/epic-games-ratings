@@ -41,12 +41,12 @@ Rating: 4.60 (Ranked 396)
 | The Magic That Empowers Me! | 2.00% | ~104 |
 | The Eternal Court | 2.00% | ~104 |
 | Jack of All Tomes | 2.00% | ~104 |
+| Pruning for Progress | 2.00% | ~104 |
 | Grexolis | 2.00% | ~104 |
 | One for All, All for One | 2.00% | ~104 |
 | Duality | 2.00% | ~104 |
 | I've Got Everything I Need Right Here | 1.00% | ~52 |
 | Manufactured War | 1.00% | ~52 |
-| Pruning for Progress | 1.00% | ~52 |
 | Snap Out of It! | 0.80% | ~41 |
 | Betrayal Most Foul | 0.50% | ~26 |
 | I Want to Break Free | 0.30% | ~16 |
@@ -57,7 +57,7 @@ Rating: 4.60 (Ranked 396)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,187 (Ranked 153)  
-Completed: 6 (0.12%) (Ranked 215)  
+Completed: 6 (0.12%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

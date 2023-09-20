@@ -30,11 +30,11 @@
 | Eva ✔ | 5.00% | ~13 |
 | Group Alpha ✔ | 5.00% | ~13 |
 | Mutant fight ✔ | 5.00% | ~13 |
+| Sheriff ✔ | 5.00% | ~13 |
 | Infected ✔ | 5.00% | ~13 |
 | Broadcasting ✔ | 5.00% | ~13 |
 | Secret ✔ | 4.00% | ~11 |
 | Mutant run ✔ | 4.00% | ~11 |
-| Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |
 | Priest ✔ | 4.00% | ~11 |
 | Car ✔ | 3.00% | ~8 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 265 (Ranked 300)  
-Completed: 0 (0.00%) (Ranked 278)  
+Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

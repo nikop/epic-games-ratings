@@ -56,7 +56,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,098 (Ranked 212)  
-Completed: 4 (0.36%) (Ranked 170)  
+Completed: 4 (0.36%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 4 (0.36%) (Ranked 170)
 | 2023-09-05 | 1,098 | 4 |
 ## Awards
 Max (Character Customization): 1,918  (Ranked 110)  
-Sum: 4,706 (Ranked 137)  
+Sum: 4,707 (Ranked 137)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -96,7 +96,7 @@ Diff (max vs sum): -27
 | This game has Diverse Characters | 339 |
 | This game has Amazing Characters | 332 |
 | This game is Highly Recommended | 319 |
-| This game is Relaxing | 315 |
+| This game is Relaxing | 316 |
 | This game has Challenging Combat | 312 |
 | This game has Quickly Understood Controls | 304 |
 | This game has a Creative Community | 185 |
@@ -275,3 +275,4 @@ Diff (max vs sum): -27
 | 2023-09-10 | 4.66 | - | 1,916 | 4,703 |
 | 2023-09-13 | 4.66 | - | 1,916 | 4,704 |
 | 2023-09-14 | 4.66 | - | 1,918 | 4,706 |
+| 2023-09-20 | 4.66 | - | 1,918 | 4,707 |

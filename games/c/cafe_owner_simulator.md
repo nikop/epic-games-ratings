@@ -9,7 +9,7 @@
 | OH NO, HE'S LEAVING! | 79.00% | ~792 |
 | FIREFIGHTER | 58.00% | ~582 |
 | ADVANCED | 42.00% | ~421 |
-| CHIEF | 21.00% | ~211 |
+| CHIEF | 22.00% | ~221 |
 | INTRODUCTION | 17.00% | ~171 |
 | SECOND_FLOOR | 14.00% | ~140 |
 | DEBTOR | 10.00% | ~100 |
@@ -20,7 +20,7 @@
 | 500K$. | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,003 (Ranked 217)  
-Completed: 0 (0.00%) (Ranked 278)  
+Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

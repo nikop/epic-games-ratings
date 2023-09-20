@@ -5,24 +5,24 @@ Rating: 4.27 (Ranked 823)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,275 |
-| Copacetic Coordination | 16.00% | ~55,052 |
-| Fronting the Money | 15.00% | ~51,611 |
-| The Dawn of Automation | 14.00% | ~48,171 |
-| Extraordinary Logistics | 14.00% | ~48,171 |
-| Dirty Money | 13.00% | ~44,730 |
-| Family First | 13.00% | ~44,730 |
-| Cleaning House | 12.00% | ~41,289 |
-| Room in the Back | 12.00% | ~41,289 |
-| Beating the Heat | 11.00% | ~37,848 |
-| Booze Baron | 11.00% | ~37,848 |
+| Corner Clout | 46.00% | ~158,278 |
+| Copacetic Coordination | 16.00% | ~55,053 |
+| Fronting the Money | 15.00% | ~51,612 |
+| The Dawn of Automation | 14.00% | ~48,172 |
+| Extraordinary Logistics | 14.00% | ~48,172 |
+| Dirty Money | 13.00% | ~44,731 |
+| Family First | 13.00% | ~44,731 |
+| Cleaning House | 12.00% | ~41,290 |
+| Room in the Back | 12.00% | ~41,290 |
+| Beating the Heat | 11.00% | ~37,849 |
+| Booze Baron | 11.00% | ~37,849 |
 | Friends on the Force | 10.00% | ~34,408 |
 | Neighborhood Watch | 10.00% | ~34,408 |
-| Core Corps | 8.00% | ~27,526 |
-| Sizeable Stash | 8.00% | ~27,526 |
-| Street Fighter | 7.00% | ~24,085 |
-| Friendly Gestures | 7.00% | ~24,085 |
-| People Person | 7.00% | ~24,085 |
+| Core Corps | 8.00% | ~27,527 |
+| Sizeable Stash | 8.00% | ~27,527 |
+| Street Fighter | 7.00% | ~24,086 |
+| Friendly Gestures | 7.00% | ~24,086 |
+| People Person | 7.00% | ~24,086 |
 | Liquor Lord | 6.00% | ~20,645 |
 | Safety in Numbers | 6.00% | ~20,645 |
 | Moving Experiences | 6.00% | ~20,645 |
@@ -86,8 +86,8 @@ Rating: 4.27 (Ranked 823)
 | High Pillow | 0.10% | ~344 |
 | Station Master | 0.10% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,076 (Ranked 43)  
-Completed: 7 (0.00%) (Ranked 278)  
+Progressed: 344,083 (Ranked 43)  
+Completed: 7 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,7 +239,7 @@ Completed: 7 (0.00%) (Ranked 278)
 | 2023-09-17 | 343,757 | 7 |
 | 2023-09-18 | 343,909 | 7 |
 | 2023-09-19 | 344,027 | 7 |
-| 2023-09-20 | 344,076 | 7 |
+| 2023-09-20 | 344,083 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 439)  
 Sum: 195 (Ranked 377)  

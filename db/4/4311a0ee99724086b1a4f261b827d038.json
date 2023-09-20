@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -258,9 +258,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219498,
+  "EOS_Progressed": 219509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2415,
+  "EOS_NewPlayers": 2411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6803,6 +6803,11 @@
       "Time": "2023-09-20T10:04:50.9927821+00:00",
       "NumProgressed": 219498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T11:05:47.3814338+00:00",
+      "NumProgressed": 219509,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -6847,7 +6852,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -6871,7 +6876,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43900
+      "UsersEstimate": 43902
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -6879,7 +6884,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19755
+      "UsersEstimate": 19756
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -6975,7 +6980,7 @@
       "Name": "Balcora Gate Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -6999,7 +7004,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28535
+      "UsersEstimate": 28536
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -7007,7 +7012,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15365
+      "UsersEstimate": 15366
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -7063,7 +7068,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -7071,7 +7076,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54874
+      "UsersEstimate": 54877
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -7079,14 +7084,14 @@
       "Name": "Raiders Retreat Complete",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     }
   ],
   "AchievementSets": [
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 219498,
+      "Progressed": 219509,
       "Completed": 0
     }
   ],
@@ -7094,8 +7099,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-14T11:00:09.7645849+00:00",
-  "LastChanged_Achievements": "2023-09-20T10:04:50.9927817+00:00",
+  "LastChanged_Achievements": "2023-09-20T11:05:47.3814333+00:00",
   "LastUpdate_AppInfo": "2023-09-14T20:57:17.4276242+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:57:16.7225072+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:04:50.9928312+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:57:42.8496251+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:05:47.3815001+00:00"
 }

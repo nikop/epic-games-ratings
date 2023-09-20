@@ -2,10 +2,10 @@
   "ID": "563071ca232a4a5a9a7f10c37bacec4f",
   "Name": "Night Lights",
   "ProductSlug": "night-lights-4cd904",
-  "Ranking_EOS_Progress": 611,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2019-06-07T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7906522+00:00",
   "LastChanged": "2023-03-31T05:58:10.7906523+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:10.0938616+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:57:10.5198429+00:00",
-  "LastUpdate_Achievements": "2023-09-20T10:08:12.991263+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:57:34.5615391+00:00",
+  "LastUpdate_Achievements": "2023-09-20T11:09:22.9163065+00:00"
 }

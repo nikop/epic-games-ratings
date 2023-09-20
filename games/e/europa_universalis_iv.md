@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,351 |
-| That's a Grand Army | 3.00% | ~12,263 |
-| That is mine! | 3.00% | ~12,263 |
-| Victorious! | 3.00% | ~12,263 |
-| Brothers in Arms | 2.00% | ~8,175 |
-| For the Glory | 2.00% | ~8,175 |
-| That's a Grand Navy | 2.00% | ~8,175 |
-| Seriously?! | 2.00% | ~8,175 |
+| Until death do us apart | 4.00% | ~16,352 |
+| That's a Grand Army | 3.00% | ~12,264 |
+| That is mine! | 3.00% | ~12,264 |
+| Victorious! | 3.00% | ~12,264 |
+| Brothers in Arms | 2.00% | ~8,176 |
+| For the Glory | 2.00% | ~8,176 |
+| That's a Grand Navy | 2.00% | ~8,176 |
+| Seriously?! | 2.00% | ~8,176 |
 | Cold War | 1.00% | ~4,088 |
 | Defender of the Faith | 1.00% | ~4,088 |
 | It's all about the money | 1.00% | ~4,088 |
@@ -23,9 +23,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 0.90% | ~3,679 |
 | Truly Divine Ruler | 0.90% | ~3,679 |
 | Blockader | 0.80% | ~3,270 |
-| Double the Love | 0.70% | ~2,861 |
-| Royal Authority | 0.70% | ~2,861 |
-| Total Control | 0.70% | ~2,861 |
+| Double the Love | 0.70% | ~2,862 |
+| Royal Authority | 0.70% | ~2,862 |
+| Total Control | 0.70% | ~2,862 |
 | My armies are invincible! | 0.60% | ~2,453 |
 | Agressive Expander | 0.50% | ~2,044 |
 | City of Cities | 0.50% | ~2,044 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408,773 (Ranked 40)  
-Completed: 0 (0.00%) (Ranked 278)  
+Progressed: 408,800 (Ranked 40)  
+Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -514,7 +514,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-17 | 406,888 | 0 |
 | 2023-09-18 | 407,728 | 0 |
 | 2023-09-19 | 408,554 | 0 |
-| 2023-09-20 | 408,773 | 0 |
+| 2023-09-20 | 408,800 | 0 |
 ## Awards
 Max (Educational): 6,170  (Ranked 56)  
 Sum: 50,695 (Ranked 26)  
