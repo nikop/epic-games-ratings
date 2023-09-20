@@ -3,12 +3,12 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 67,
-  "Ranking_Popularity": 174,
+  "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 130,
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -6768,11 +6768,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 5211,
       "NumberOfAwardsMax": 681
+    },
+    {
+      "Time": "2023-09-19T23:59:52.091998+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 5224,
+      "NumberOfAwardsMax": 687
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5211,
-  "NumberOfAwardsMax": 681,
+  "NumberOfAwards": 5224,
+  "NumberOfAwardsMax": 687,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6797,7 +6803,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 681
+      "Count": 687
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6833,7 +6839,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 621
+      "Count": 628
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6859,8 +6865,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-09-19T21:59:53.2456599+00:00",
+  "LastChanged": "2023-09-19T23:59:52.0919977+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0999472+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:59:45.1004424+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:03:33.513637+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:59:52.0919987+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:03:40.5229191+00:00"
 }

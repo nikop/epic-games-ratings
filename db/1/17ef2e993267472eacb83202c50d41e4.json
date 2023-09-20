@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6190,
+  "EOS_Progressed": 6194,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 1,
@@ -2001,6 +2001,11 @@
       "Time": "2023-09-19T23:06:03.8973354+00:00",
       "NumProgressed": 6190,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T00:06:13.1856685+00:00",
+      "NumProgressed": 6194,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2053,7 +2058,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "CreditsEarned50000",
@@ -2133,7 +2138,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "GamesPlayed10",
@@ -2157,7 +2162,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "GamesWon10",
@@ -2203,9 +2208,9 @@
       "ID": "HASPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Heal and Shield",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 743
     },
     {
       "ID": "HAUpgraded1",
@@ -2301,7 +2306,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "LaserUpgraded1",
@@ -2325,7 +2330,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "MaxDamageDone30000",
@@ -2373,7 +2378,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "MaxTowersKilled3",
@@ -2381,7 +2386,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "MaxTowersKilled6",
@@ -2397,7 +2402,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "MinionKills2000",
@@ -2421,7 +2426,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "NeutralKills200",
@@ -2437,7 +2442,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "PlayerKills10",
@@ -2469,7 +2474,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "QAUpgraded1",
@@ -2485,7 +2490,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "RAPurchased1",
@@ -2509,7 +2514,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "SEUpgraded1",
@@ -2525,7 +2530,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "SOVUpgraded1",
@@ -2541,7 +2546,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -2557,7 +2562,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "TGPurchased1",
@@ -2573,7 +2578,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "TSUPurchased1",
@@ -2604,14 +2609,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6190,
+      "Progressed": 6194,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:06:03.8973348+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:06:13.1856678+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:57:17.9913703+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:06:03.8974119+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:57:25.1621721+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:06:13.1857841+00:00"
 }

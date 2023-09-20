@@ -2,10 +2,10 @@
   "ID": "ce26dbe651074deb9eeea2b179dd3b9a",
   "Name": "Asterogues",
   "ProductSlug": "paleon-cb76c1",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:43.9664309+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:59:04.4632576+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:04:01.2904065+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:59:12.3631066+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:04:08.9732661+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4406d4cb1abc4799bc1abbba367209c0",
   "Name": "Avian Knights",
   "ProductSlug": "jousting-heroes-ba4766",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:07.3146178+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:58:17.9123263+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:04:03.3213337+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:27.3044558+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:04:10.663934+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 380,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1638,6 +1638,11 @@
       "Time": "2023-09-19T22:03:34.7901012+00:00",
       "NumProgressed": 379,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T00:03:35.420146+00:00",
+      "NumProgressed": 380,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1786,7 +1791,7 @@
       "Name": "Infinity Loop",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_HUB1",
@@ -1802,7 +1807,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_OASIS",
@@ -1810,7 +1815,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_PEAK",
@@ -1818,7 +1823,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_PROPELL",
@@ -1866,7 +1871,7 @@
       "Name": "Lost in Space",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_STATUE",
@@ -1881,15 +1886,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 380,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:03:28.3434798+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:03:35.4201452+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:57:58.9935709+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:03:28.3435039+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:07.7629579+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:03:35.4201959+00:00"
 }

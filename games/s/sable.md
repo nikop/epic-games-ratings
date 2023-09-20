@@ -1,19 +1,19 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.52 (Ranked 535)  
+Rating: 4.52 (Ranked 534)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~30,685 |
-| Just The Two of Us | 32.00% | ~28,880 |
+| Simoon | 34.00% | ~30,686 |
+| Just The Two of Us | 32.00% | ~28,881 |
 | Up On High | 25.00% | ~22,563 |
 | Under The Hood | 25.00% | ~22,563 |
-| Got Your Nose | 24.00% | ~21,660 |
-| The Gift of Gab | 24.00% | ~21,660 |
-| Wrapping Up | 22.00% | ~19,855 |
-| More Than A Box Of Sand | 18.00% | ~16,245 |
+| Got Your Nose | 24.00% | ~21,661 |
+| The Gift of Gab | 24.00% | ~21,661 |
+| Wrapping Up | 22.00% | ~19,856 |
+| More Than A Box Of Sand | 18.00% | ~16,246 |
 | The Dunboyne | 17.00% | ~15,343 |
 | Badge Hobbyist | 17.00% | ~15,343 |
 | Chum Novice | 16.00% | ~14,440 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,708 |
 | Vivacious Vivarium | 2.00% | ~1,805 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,251 (Ranked 76)  
+Progressed: 90,253 (Ranked 76)  
 Completed: 903 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 903 (1.00%) (Ranked 126)
 | 2023-09-17 | 89,959 | 900 |
 | 2023-09-18 | 90,110 | 901 |
 | 2023-09-19 | 90,251 | 903 |
+| 2023-09-20 | 90,253 | 903 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 490)  
 Sum: 86 (Ranked 426)  

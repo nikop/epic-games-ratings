@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6754,7 +6754,7 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229412,
+  "EOS_Progressed": 229417,
   "EOS_Completed": 2295,
   "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 22,
@@ -23654,6 +23654,11 @@
       "Time": "2023-09-19T23:03:19.3363605+00:00",
       "NumProgressed": 229412,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-20T00:03:27.132057+00:00",
+      "NumProgressed": 229417,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 520,
@@ -25111,9 +25116,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 688
     },
     {
       "ID": "objective_completed_236",
@@ -26809,7 +26814,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "objective_completed_70",
@@ -27135,9 +27140,9 @@
       "ID": "objective_completed_847",
       "SetID": "415jc5c",
       "Name": "The Radiant Nightmare",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_848",
@@ -27824,21 +27829,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195686,
+      "Progressed": 195691,
       "Completed": 3438
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229412,
+      "Progressed": 229417,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:03:19.3363598+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:03:27.1320561+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:58:27.0371923+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:03:19.3388436+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:36.7451893+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:03:27.1352848+00:00"
 }

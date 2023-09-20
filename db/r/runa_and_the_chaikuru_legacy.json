@@ -2,10 +2,10 @@
   "ID": "fc4247baa2584cce9c7202b114b77230",
   "Name": "Runa and the Chaikuru Legacy",
   "ProductSlug": "runa-and-the-chaikuru-legacy-843ebd",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:04.2134128+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:59:24.8223414+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:03:18.7153281+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:59:30.3179865+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:03:25.8823391+00:00"
 }

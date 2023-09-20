@@ -2,10 +2,10 @@
   "ID": "0768071d71f74091a237eacef8dd9575",
   "Name": "Opera GX - The First Browser for Gamers",
   "ProductSlug": "opera-gx-the-first-browser-for-gamers",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.7067016+00:00",
   "LastChanged": "2023-03-31T05:58:05.7067017+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:31.3617771+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:58:51.2453151+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:04:52.5642235+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:59.6312303+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:05:01.7303132+00:00"
 }

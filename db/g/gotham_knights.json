@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3020,9 +3020,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72676,
+  "EOS_Progressed": 72677,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16015,6 +16015,11 @@
       "Time": "2023-09-19T21:05:20.0325986+00:00",
       "NumProgressed": 72676,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-20T00:04:30.2343465+00:00",
+      "NumProgressed": 72677,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16074,7 +16079,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16715
+      "UsersEstimate": 16716
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16114,7 +16119,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10901
+      "UsersEstimate": 10902
     },
     {
       "ID": "CHALLENGES_1",
@@ -16266,7 +16271,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13808
+      "UsersEstimate": 13809
     },
     {
       "ID": "FREEZE_3",
@@ -16402,7 +16407,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20349
+      "UsersEstimate": 20350
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16434,7 +16439,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16715
+      "UsersEstimate": 16716
     },
     {
       "ID": "MYSTERY_04",
@@ -16458,7 +16463,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10901
+      "UsersEstimate": 10902
     },
     {
       "ID": "MYSTERY_07",
@@ -16513,13 +16518,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72676,
+      "Progressed": 72677,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42956,
+      "Progressed": 42957,
       "Completed": 2663
     }
   ],
@@ -16527,8 +16532,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-19T12:01:21.0770808+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:04:22.2800186+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:04:30.2343459+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:00:00.5267325+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:04:22.2801277+00:00"
+  "LastUpdate_Ratings": "2023-09-20T00:00:06.2533412+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:04:30.2344877+00:00"
 }

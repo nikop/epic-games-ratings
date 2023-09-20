@@ -10,10 +10,10 @@ Rating: 3.93 (Ranked 961)
 | Downed but Not Outed | 0.40% | ~351 |
 | Underworld Initiate | 0.30% | ~263 |
 | Too Old for This | 0.30% | ~263 |
+| Fancy Pants | 0.30% | ~263 |
 | Roid Ranger | 0.20% | ~176 |
 | Case Closed | 0.20% | ~176 |
 | King of the Hill | 0.20% | ~176 |
-| Fancy Pants | 0.20% | ~176 |
 | True Player | 0.20% | ~176 |
 | Off the Rocks | 0.20% | ~176 |
 | Raider’s Ruin | 0.20% | ~176 |

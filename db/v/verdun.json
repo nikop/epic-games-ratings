@@ -2,13 +2,13 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 519,
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1750,7 +1750,7 @@
   ],
   "EOS_Progressed": 58713,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18942,8 +18942,8 @@
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:06:14.7786231+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:06:24.8819239+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:45.4198616+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:59:05.1123858+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:06:14.7787448+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:59:12.9812091+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:06:24.8823662+00:00"
 }

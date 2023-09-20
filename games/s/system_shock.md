@@ -52,7 +52,7 @@ Rating: 4.64 (Ranked 315)
 | System Shocked | 0.00% | ~0 |
 | Off The Grid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 524)  
+Progressed: 3 (Ranked 526)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

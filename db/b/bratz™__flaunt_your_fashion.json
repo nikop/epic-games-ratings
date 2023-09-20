@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -275,9 +275,9 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "3",
@@ -331,9 +331,9 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 70,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
@@ -348,8 +348,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:03:44.3060489+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:03:51.2984745+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:56.9658517+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:59:17.928301+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:03:44.3060607+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:59:23.930737+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:03:51.2984967+00:00"
 }

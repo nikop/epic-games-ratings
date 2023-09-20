@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -409,9 +409,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -561,9 +561,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:06:36.9576968+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:06:47.2954297+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:02.5081406+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:57:17.4165342+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:06:36.9577389+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:57:24.2870585+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:06:47.2955448+00:00"
 }

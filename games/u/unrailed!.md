@@ -6,25 +6,25 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~109,686 |
-| Incurious | 16.00% | ~103,234 |
-| Climate Change | 15.00% | ~96,782 |
-| Stroller | 14.00% | ~90,329 |
-| Toy Train | 13.00% | ~83,877 |
-| Advanced Hiker | 12.00% | ~77,425 |
-| Hiker | 11.00% | ~70,973 |
-| Mojave Courier | 5.00% | ~32,260 |
-| Saved by Nausicaä | 5.00% | ~32,260 |
-| Voyager | 3.00% | ~19,356 |
-| Advanced Voyager | 3.00% | ~19,356 |
-| Expert Stroller | 3.00% | ~19,356 |
-| Orient Express | 3.00% | ~19,356 |
+| Advanced Stroller | 17.00% | ~109,687 |
+| Incurious | 16.00% | ~103,235 |
+| Climate Change | 15.00% | ~96,783 |
+| Stroller | 14.00% | ~90,331 |
+| Toy Train | 13.00% | ~83,878 |
+| Advanced Hiker | 12.00% | ~77,426 |
+| Hiker | 11.00% | ~70,974 |
+| Mojave Courier | 5.00% | ~32,261 |
+| Saved by Nausicaä | 5.00% | ~32,261 |
+| Voyager | 3.00% | ~19,357 |
+| Advanced Voyager | 3.00% | ~19,357 |
+| Expert Stroller | 3.00% | ~19,357 |
+| Orient Express | 3.00% | ~19,357 |
 | Expert Hiker | 2.00% | ~12,904 |
 | Marathon | 2.00% | ~12,904 |
 | Destructionist | 2.00% | ~12,904 |
 | Lost | 2.00% | ~12,904 |
-| Rocketman | 0.70% | ~4,516 |
-| Shopaholic | 0.70% | ~4,516 |
+| Rocketman | 0.70% | ~4,517 |
+| Shopaholic | 0.70% | ~4,517 |
 | Expert Voyager | 0.60% | ~3,871 |
 | Nanuk | 0.60% | ~3,871 |
 | Dynamite Fishing | 0.60% | ~3,871 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~645 |
 | 20 Miles under the Sea | 0.10% | ~645 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645,210 (Ranked 26)  
+Progressed: 645,219 (Ranked 26)  
 Completed: 10 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 10 (0.00%) (Ranked 278)
 | 2023-09-17 | 644,749 | 10 |
 | 2023-09-18 | 644,991 | 10 |
 | 2023-09-19 | 645,210 | 10 |
+| 2023-09-20 | 645,219 | 10 |
 ## Awards
 Max (Great for Beginners): 196  (Ranked 275)  
 Sum: 1,570 (Ranked 220)  

@@ -2,10 +2,10 @@
   "ID": "414fba27d6474abc887f41b49d1ed456",
   "Name": "Hidden Cats in London",
   "ProductSlug": "hidden-cats-in-london-7cec14",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2022-12-15T20:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.9674249+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:58:24.0843451+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:04:10.5552145+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:33.7262933+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:04:18.3103143+00:00"
 }

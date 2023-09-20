@@ -9,9 +9,9 @@
 | Creature Evolution | 31.00% | ~10 |
 | Spirit of competition | 31.00% | ~10 |
 | Think Positive | 25.00% | ~8 |
-| Kingdom Party Time | 22.00% | ~7 |
-| Festival Fever | 16.00% | ~5 |
-| Entering New Territory | 13.00% | ~4 |
+| Kingdom Party Time | 25.00% | ~8 |
+| Festival Fever | 19.00% | ~6 |
+| Entering New Territory | 16.00% | ~5 |
 | Landscaper | 9.00% | ~3 |
 | Gotta Adopt Them All! | 6.00% | ~2 |
 | Diamonds in the Rough | 6.00% | ~2 |

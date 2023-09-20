@@ -16,7 +16,7 @@
 | Their Rock | 26.00% | ~48 |
 | Yuna's Promise | 25.00% | ~46 |
 | Stone Retriever | 24.00% | ~44 |
-| Find myself | 21.00% | ~38 |
+| Find myself | 22.00% | ~40 |
 | Truebro | 17.00% | ~31 |
 | Min's Promise | 16.00% | ~29 |
 | Sia's Promise | 15.00% | ~27 |
@@ -30,7 +30,7 @@
 | Bond Lord | 0.50% | ~1 |
 | True Player | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 321)  
+Progressed: 183 (Ranked 322)  
 Completed: 2 (1.09%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |

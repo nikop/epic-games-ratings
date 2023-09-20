@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 4.00% | ~560 |
 | Architect | 4.00% | ~560 |
 | Good | 4.00% | ~560 |
+| Just | 4.00% | ~560 |
 | Learned | 4.00% | ~560 |
 | Mason | 4.00% | ~560 |
 | Noble | 4.00% | ~560 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 3.00% | ~420 |
 | Fountainhead | 3.00% | ~420 |
 | Glorious | 3.00% | ~420 |
-| Just | 3.00% | ~420 |
 | Keystone | 3.00% | ~420 |
 | Magnificent | 3.00% | ~420 |
 | Pioneer | 3.00% | ~420 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,005 (Ranked 124)  
+Progressed: 14,006 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -456,6 +456,7 @@ Completed: 5 (0.04%) (Ranked 246)
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
 | 2023-09-19 | 14,005 | 5 |
+| 2023-09-20 | 14,006 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

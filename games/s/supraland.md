@@ -6,32 +6,32 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~719,004 |
-| The Blues | 85.00% | ~617,327 |
-| Fast | 66.00% | ~479,336 |
+| Out of bed | 99.00% | ~719,005 |
+| The Blues | 85.00% | ~617,328 |
+| Fast | 66.00% | ~479,337 |
 | Healthbar | 55.00% | ~399,447 |
 | Force Cube | 53.00% | ~384,922 |
-| Double Jump | 48.00% | ~348,608 |
-| Regeneration | 47.00% | ~341,345 |
+| Double Jump | 48.00% | ~348,609 |
+| Regeneration | 47.00% | ~341,346 |
 | Triple Jump | 43.00% | ~312,295 |
-| Climb the hill | 42.00% | ~305,032 |
-| Through the fire pipe | 39.00% | ~283,244 |
-| MacGuffin | 38.00% | ~275,981 |
+| Climb the hill | 42.00% | ~305,033 |
+| Through the fire pipe | 39.00% | ~283,245 |
+| MacGuffin | 38.00% | ~275,982 |
 | Just once | 37.00% | ~268,719 |
 | Armor | 30.00% | ~217,880 |
 | True holy spirit | 28.00% | ~203,355 |
-| That's how electronics work obviously | 26.00% | ~188,829 |
+| That's how electronics work obviously | 26.00% | ~188,830 |
 | Force Cube Catapult | 25.00% | ~181,567 |
-| Holy Sword | 23.00% | ~167,041 |
-| Telefrag | 23.00% | ~167,041 |
+| Holy Sword | 23.00% | ~167,042 |
+| Telefrag | 23.00% | ~167,042 |
 | Freed from prison | 21.00% | ~152,516 |
 | Stomp | 21.00% | ~152,516 |
 | Double Health | 18.00% | ~130,728 |
-| Buckle | 17.00% | ~123,465 |
-| Green Keycard | 17.00% | ~123,465 |
+| Buckle | 17.00% | ~123,466 |
+| Green Keycard | 17.00% | ~123,466 |
 | All Shells | 15.00% | ~108,940 |
 | Rattle Hag | 15.00% | ~108,940 |
-| Beam | 14.00% | ~101,677 |
+| Beam | 14.00% | ~101,678 |
 | Health Drink | 13.00% | ~94,415 |
 | Helped a star | 13.00% | ~94,415 |
 | 9 | 13.00% | ~94,415 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~726 |
 | DLC: Top of the world | 0.10% | ~726 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,267 (Ranked 19)  
+Progressed: 726,268 (Ranked 19)  
 Completed: 735 (0.10%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,6 +258,7 @@ Completed: 735 (0.10%) (Ranked 224)
 | 2023-09-17 | 726,075 | 735 |
 | 2023-09-18 | 726,173 | 735 |
 | 2023-09-19 | 726,267 | 735 |
+| 2023-09-20 | 726,268 | 735 |
 ## Awards
 Max (Challenging Puzzles): 7,687  (Ranked 46)  
 Sum: 10,020 (Ranked 87)  

@@ -2,10 +2,10 @@
   "ID": "3d98021dc6a74599afbce9bb5cacd017",
   "Name": "Fastest Cars Traffic Racer",
   "ProductSlug": "fastest-cars-traffic-racer-d363db",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-10T20:00:00+00:00",
     "PcReleaseDate": "2023-09-22T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-11T22:57:18.3188616+00:00",
   "LastUpdate_AppInfo": "2023-09-17T20:56:57.3494034+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:59:34.307928+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:05:19.46128+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:59:39.6811322+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:05:28.3888523+00:00"
 }

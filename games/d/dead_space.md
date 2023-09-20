@@ -19,8 +19,10 @@ Rating: 4.61 (Ranked 371)
 | True Believer | 43.00% | ~3 |
 | Greenhouse Effect | 43.00% | ~3 |
 | Final Regeneration | 29.00% | ~2 |
+| Whole Again | 29.00% | ~2 |
 | Full Arsenal | 29.00% | ~2 |
 | Live with the Hot Ones | 29.00% | ~2 |
+| Full Contact | 29.00% | ~2 |
 | Legend Teller | 29.00% | ~2 |
 | Surgeon | 29.00% | ~2 |
 | Raise the Stakes | 29.00% | ~2 |
@@ -34,14 +36,12 @@ Rating: 4.61 (Ranked 371)
 | Keeper of the Faith | 14.00% | ~1 |
 | Betrayed | 14.00% | ~1 |
 | Exodus | 14.00% | ~1 |
-| Whole Again | 14.00% | ~1 |
 | Set A Benchmark | 14.00% | ~1 |
 | Untouchable | 14.00% | ~1 |
 | Trusted Contractor | 14.00% | ~1 |
 | Built To Order | 14.00% | ~1 |
 | Pusher | 14.00% | ~1 |
 | Eviscerator | 14.00% | ~1 |
-| Full Contact | 14.00% | ~1 |
 | One Gun | 14.00% | ~1 |
 | Pack Rat | 14.00% | ~1 |
 | Merchant | 14.00% | ~1 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 371)
 | Marked | 14.00% | ~1 |
 | Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 492)  
+Progressed: 7 (Ranked 494)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

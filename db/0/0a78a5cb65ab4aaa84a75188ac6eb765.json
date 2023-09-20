@@ -2,10 +2,10 @@
   "ID": "0a78a5cb65ab4aaa84a75188ac6eb765",
   "Name": "Maiden Cops",
   "ProductSlug": "maiden-cops-42325d",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-13T17:57:02.2565843+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:58:49.7771227+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:03:18.1966867+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:58.1654895+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:03:25.6050047+00:00"
 }

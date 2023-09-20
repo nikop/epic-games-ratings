@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9768,9 +9768,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 408554,
+  "EOS_Progressed": 408572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7334,
+  "EOS_NewPlayers": 7333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26933,6 +26933,11 @@
       "Time": "2023-09-19T23:03:59.0344205+00:00",
       "NumProgressed": 408554,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T00:04:06.9015833+00:00",
+      "NumProgressed": 408572,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27336,7 +27341,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -29608,7 +29613,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16342
+      "UsersEstimate": 16343
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29775,21 +29780,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 408554,
+      "Progressed": 408572,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 408554,
+      "Progressed": 408572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-19T19:58:07.5753664+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:03:59.0344201+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:04:06.9015825+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:58:04.5435265+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:03:59.0355142+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:13.4934167+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:04:06.9036019+00:00"
 }

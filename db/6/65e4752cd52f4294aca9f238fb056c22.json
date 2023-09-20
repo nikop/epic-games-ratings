@@ -2,10 +2,10 @@
   "ID": "65e4752cd52f4294aca9f238fb056c22",
   "Name": "Inside Soccer",
   "ProductSlug": "inside-soccer-2bf632",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-15T15:00:00+00:00",
     "PcReleaseDate": "2021-08-17T18:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-13T01:38:59.2135904+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:00:39.7207129+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:06:19.9977534+00:00"
+  "LastUpdate_Ratings": "2023-09-20T00:00:45.3647872+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:06:29.9492844+00:00"
 }

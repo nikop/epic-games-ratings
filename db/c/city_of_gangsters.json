@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 344027,
+  "EOS_Progressed": 344029,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17670,6 +17670,11 @@
       "Time": "2023-09-19T23:06:01.8994509+00:00",
       "NumProgressed": 344027,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-20T00:06:10.9675425+00:00",
+      "NumProgressed": 344029,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17889,7 +17894,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158252
+      "UsersEstimate": 158253
     },
     {
       "ID": "ach028",
@@ -18209,7 +18214,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55044
+      "UsersEstimate": 55045
     },
     {
       "ID": "ach069",
@@ -18320,7 +18325,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 344027,
+      "Progressed": 344029,
       "Completed": 7
     }
   ],
@@ -18328,8 +18333,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-18T14:58:00.4320017+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:06:01.8994505+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:06:10.9675418+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.6830274+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:58:37.0047261+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:06:01.8996004+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:46.2143797+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:06:10.9679033+00:00"
 }

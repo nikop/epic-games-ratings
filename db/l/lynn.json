@@ -2,10 +2,10 @@
   "ID": "66713e41b7044554a091023c7e83ef86",
   "Name": "Lynn",
   "ProductSlug": "lynn-d61495",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:38.3484549+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:00:05.3403204+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:05:51.5313095+00:00"
+  "LastUpdate_Ratings": "2023-09-20T00:00:10.0242402+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:06:00.1566565+00:00"
 }

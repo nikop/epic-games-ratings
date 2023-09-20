@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7275,9 +7275,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61511,
+  "EOS_Progressed": 61514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23440,6 +23440,11 @@
       "Time": "2023-09-19T23:06:59.573332+00:00",
       "NumProgressed": 61511,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T00:07:10.2119135+00:00",
+      "NumProgressed": 61514,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23451,7 +23456,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7381
+      "UsersEstimate": 7382
     },
     {
       "ID": "Apple of my eye",
@@ -23507,7 +23512,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "Crackshot",
@@ -23579,7 +23584,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7996
+      "UsersEstimate": 7997
     },
     {
       "ID": "Great Granny",
@@ -23675,7 +23680,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20299
+      "UsersEstimate": 20300
     },
     {
       "ID": "Lawbringer",
@@ -23683,7 +23688,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23989
+      "UsersEstimate": 23990
     },
     {
       "ID": "Lawmaker",
@@ -23803,7 +23808,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11072
+      "UsersEstimate": 11073
     },
     {
       "ID": "This Is Our Land",
@@ -23811,7 +23816,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7381
+      "UsersEstimate": 7382
     },
     {
       "ID": "This is Sparta",
@@ -23843,7 +23848,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -23858,15 +23863,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61511,
+      "Progressed": 61514,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-19T21:01:55.4614157+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:06:59.5733316+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:07:10.2119129+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:00:13.8628853+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:06:59.5734444+00:00"
+  "LastUpdate_Ratings": "2023-09-20T00:00:18.8544161+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:07:10.212088+00:00"
 }

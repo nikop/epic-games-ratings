@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -970,7 +970,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256416,
+  "EOS_Progressed": 256418,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
@@ -16345,6 +16345,11 @@
       "Time": "2023-09-19T22:04:56.5659888+00:00",
       "NumProgressed": 256416,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T00:04:58.9280338+00:00",
+      "NumProgressed": 256418,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -16404,7 +16409,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79489
+      "UsersEstimate": 79490
     },
     {
       "ID": "BackHomeNTimes",
@@ -16468,7 +16473,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7692
+      "UsersEstimate": 7693
     },
     {
       "ID": "CreditLevel3",
@@ -16588,7 +16593,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "KillCrawlingThing",
@@ -16628,7 +16633,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7692
+      "UsersEstimate": 7693
     },
     {
       "ID": "KillOtherWithMine",
@@ -16803,7 +16808,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256416,
+      "Progressed": 256418,
       "Completed": 3
     }
   ],
@@ -16811,8 +16816,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-19T00:00:32.9983752+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:04:49.9185067+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:04:58.9280331+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.3482551+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:00:37.4156801+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:04:49.9186186+00:00"
+  "LastUpdate_Ratings": "2023-09-20T00:00:42.9153732+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:04:58.9282904+00:00"
 }

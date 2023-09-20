@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1170,9 +1170,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18299,
+  "EOS_Progressed": 18301,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17650,6 +17650,11 @@
       "Time": "2023-09-19T23:03:45.1893246+00:00",
       "NumProgressed": 18299,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-20T00:03:52.0529197+00:00",
+      "NumProgressed": 18301,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 45,
@@ -17789,7 +17794,7 @@
       "Name": "Legacy Drivers",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Longrunner",
@@ -17797,7 +17802,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13909
     },
     {
       "ID": "MoreThanHuman",
@@ -17885,7 +17890,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 9881
+      "UsersEstimate": 9883
     },
     {
       "ID": "RunningWild",
@@ -17933,7 +17938,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11162
+      "UsersEstimate": 11164
     },
     {
       "ID": "SwordToAGunfight",
@@ -17981,7 +17986,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 9698
+      "UsersEstimate": 9700
     },
     {
       "ID": "WaveOfMutilation",
@@ -18020,21 +18025,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 18299,
+      "Progressed": 18301,
       "Completed": 44
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 18299,
+      "Progressed": 18301,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-19T05:58:11.7202009+00:00",
-  "LastChanged_Achievements": "2023-09-19T23:03:45.1893242+00:00",
+  "LastChanged_Achievements": "2023-09-20T00:03:52.052919+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:15.9392073+00:00",
-  "LastUpdate_Ratings": "2023-09-19T22:58:34.242752+00:00",
-  "LastUpdate_Achievements": "2023-09-19T23:03:45.1894395+00:00"
+  "LastUpdate_Ratings": "2023-09-19T23:58:43.5967682+00:00",
+  "LastUpdate_Achievements": "2023-09-20T00:03:52.0531605+00:00"
 }

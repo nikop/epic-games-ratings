@@ -25,8 +25,8 @@
 | Second Chances | 8.00% | ~44 |
 | Not A People Person | 4.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 554 (Ranked 243)  
-Completed: 18 (3.25%) (Ranked 71)  
+Progressed: 554 (Ranked 244)  
+Completed: 19 (3.43%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 18 (3.25%) (Ranked 71)
 | 2023-09-16 | 552 | 18 |
 | 2023-09-17 | 553 | 18 |
 | 2023-09-19 | 554 | 18 |
+| 2023-09-20 | 554 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

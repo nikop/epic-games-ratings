@@ -6,15 +6,15 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,724 |
+| You're free now! | 60.00% | ~1,725 |
 | Keeping it classy | 27.00% | ~776 |
 | Welcome to the family | 21.00% | ~604 |
 | The finer things in life | 19.00% | ~546 |
-| Backpacker | 14.00% | ~402 |
+| Backpacker | 14.00% | ~403 |
 | Go with the Flow | 13.00% | ~374 |
-| Plastic Surgeon | 10.00% | ~287 |
-| The flip trick crown jewel | 10.00% | ~287 |
-| The hard way | 10.00% | ~287 |
+| Plastic Surgeon | 10.00% | ~288 |
+| The flip trick crown jewel | 10.00% | ~288 |
+| The hard way | 10.00% | ~288 |
 | Good vibes | 9.00% | ~259 |
 | Keep the dream alive | 9.00% | ~259 |
 | Upfront shredder | 9.00% | ~259 |
@@ -44,9 +44,9 @@ Number of Ratings: 111  (23.09.2022)
 | We get it, you're good | 4.00% | ~115 |
 | Hoarder | 3.00% | ~86 |
 | Pew-Pew | 3.00% | ~86 |
-| Cross lock country | 2.00% | ~57 |
-| Many plys later... | 2.00% | ~57 |
-| That was wheelie fun | 2.00% | ~57 |
+| Cross lock country | 2.00% | ~58 |
+| Many plys later... | 2.00% | ~58 |
+| That was wheelie fun | 2.00% | ~58 |
 | Dipped! | 1.00% | ~29 |
 | Skatepark hero | 0.90% | ~26 |
 | That's how it's done! | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,874 (Ranked 174)  
+Progressed: 2,875 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-17 | 2,847 | 0 |
 | 2023-09-18 | 2,864 | 0 |
 | 2023-09-19 | 2,874 | 0 |
+| 2023-09-20 | 2,875 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 399)  
 Sum: 465 (Ranked 310)  
