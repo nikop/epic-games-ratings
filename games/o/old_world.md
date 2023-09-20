@@ -190,6 +190,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
 | Word of God | 0.20% | ~28 |
+| Randomized Families | 0.20% | ~28 |
 | Randomized Leaders | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -271,7 +272,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat in Ur | 0.10% | ~14 |
 | No Characters | 0.10% | ~14 |
 | One City Challenge | 0.10% | ~14 |
-| Randomized Families | 0.10% | ~14 |
 | Role-Playing | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
 | Win a 1-v-1 Game | 0.10% | ~14 |

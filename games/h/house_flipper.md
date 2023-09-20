@@ -6,7 +6,7 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~19,560 |
+| First money | 95.00% | ~19,769 |
 | Strongman | 31.00% | ~6,451 |
 | Alpha Male | 20.00% | ~4,162 |
 | Just Enough | 19.00% | ~3,954 |

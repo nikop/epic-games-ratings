@@ -8,13 +8,13 @@
 | Is it merely a dream? | 12.00% | ~40 |
 | The path to enlightenment | 7.00% | ~23 |
 | Our efforts are finally yielding progress | 7.00% | ~23 |
-| This looks really bad | 6.00% | ~20 |
+| This looks really bad | 7.00% | ~23 |
 | Unholy lands | 5.00% | ~17 |
 | Unveiling the Magnitude of Sin | 4.00% | ~13 |
+| The court | 3.00% | ~10 |
 | The crucifixion | 2.00% | ~7 |
 | The choice | 2.00% | ~7 |
 | Hubris | 2.00% | ~7 |
-| The court | 2.00% | ~7 |
 | Holy Nails | 2.00% | ~7 |
 | Flagellation | 2.00% | ~7 |
 | Humility | 0.60% | ~2 |

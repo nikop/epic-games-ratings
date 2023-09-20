@@ -37,8 +37,8 @@
 | Back in Blighty | 1.00% | ~10 |
 | Exhausted but Happy | 1.00% | ~10 |
 | Overtaking the Master | 1.00% | ~10 |
+| Next Level | 0.70% | ~7 |
 | I Don't Stop | 0.70% | ~7 |
-| Next Level | 0.60% | ~6 |
 | In Search of Perfection | 0.40% | ~4 |
 | Globe-trotter | 0.30% | ~3 |
 | Maximum Endurance | 0.20% | ~2 |
@@ -54,8 +54,8 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999 (Ranked 218)  
-Completed: 0 (0.00%) (Ranked 279)  
+Progressed: 1,000 (Ranked 218)  
+Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-17 | 925 | 0 |
 | 2023-09-18 | 947 | 0 |
 | 2023-09-19 | 985 | 0 |
-| 2023-09-20 | 999 | 0 |
+| 2023-09-20 | 1,000 | 0 |

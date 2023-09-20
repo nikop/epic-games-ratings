@@ -6,28 +6,28 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~216,888 |
-| I know the Rules | 36.00% | ~95,219 |
-| Contender | 10.00% | ~26,450 |
-| I Found it! | 10.00% | ~26,450 |
+| Ball Launched | 82.00% | ~216,896 |
+| I know the Rules | 36.00% | ~95,223 |
+| Contender | 10.00% | ~26,451 |
+| I Found it! | 10.00% | ~26,451 |
 | First but not Last | 4.00% | ~10,580 |
 | Ready Steady Score | 3.00% | ~7,935 |
 | Dress Code | 3.00% | ~7,935 |
 | Full Loot Madness | 2.00% | ~5,290 |
 | My Table, my Rules | 1.00% | ~2,645 |
-| Nine Zeroes | 0.90% | ~2,380 |
-| Shiny Memento | 0.30% | ~793 |
-| Pinball Hoarder | 0.30% | ~793 |
-| Interior Designer | 0.30% | ~793 |
-| Table Mastered, part 10 | 0.10% | ~264 |
-| Medal Hunter | 0.10% | ~264 |
-| Medal Wizard | 0.10% | ~264 |
-| Virtual Pinball Museum | 0.10% | ~264 |
-| Challenge Accepted! | 0.10% | ~264 |
-| Relic Hunter | 0.10% | ~264 |
-| Show Them | 0.10% | ~264 |
-| Totally Furnished | 0.10% | ~264 |
-| Customizer | 0.10% | ~264 |
+| Nine Zeroes | 0.90% | ~2,381 |
+| Shiny Memento | 0.30% | ~794 |
+| Pinball Hoarder | 0.30% | ~794 |
+| Interior Designer | 0.30% | ~794 |
+| Table Mastered, part 10 | 0.10% | ~265 |
+| Medal Hunter | 0.10% | ~265 |
+| Medal Wizard | 0.10% | ~265 |
+| Virtual Pinball Museum | 0.10% | ~265 |
+| Challenge Accepted! | 0.10% | ~265 |
+| Relic Hunter | 0.10% | ~265 |
+| Show Them | 0.10% | ~265 |
+| Totally Furnished | 0.10% | ~265 |
+| Customizer | 0.10% | ~265 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,8 +37,8 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264,498 (Ranked 48)  
-Completed: 0 (0.00%) (Ranked 279)  
+Progressed: 264,507 (Ranked 48)  
+Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-17 | 263,910 | 0 |
 | 2023-09-18 | 264,130 | 0 |
 | 2023-09-19 | 264,372 | 0 |
-| 2023-09-20 | 264,498 | 0 |
+| 2023-09-20 | 264,507 | 0 |
 ## Awards
 Max (Great for Beginners): 190  (Ranked 279)  
 Sum: 1,552 (Ranked 222)  

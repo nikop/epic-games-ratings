@@ -2,12 +2,12 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2098,10 +2098,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2321,
       "NumberOfAwardsMax": 254
+    },
+    {
+      "Time": "2023-09-20T17:00:02.1036982+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2323,
+      "NumberOfAwardsMax": 254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2321,
+  "NumberOfAwards": 2323,
   "NumberOfAwardsMax": 254,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2139,7 +2145,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 216
+      "Count": 218
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2178,9 +2184,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25924,
+  "EOS_Progressed": 25925,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13228,6 +13234,11 @@
       "Time": "2023-09-20T16:06:01.5957314+00:00",
       "NumProgressed": 25924,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-20T17:05:34.0307057+00:00",
+      "NumProgressed": 25925,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13349,9 +13360,9 @@
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 130
     },
     {
       "ID": "Escape_Artist",
@@ -13565,9 +13576,9 @@
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Teamwork",
@@ -13646,16 +13657,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25924,
+      "Progressed": 25925,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-20T07:01:09.7570762+00:00",
-  "LastChanged_Achievements": "2023-09-20T16:06:01.595731+00:00",
+  "LastChanged": "2023-09-20T17:00:02.103698+00:00",
+  "LastChanged_Achievements": "2023-09-20T17:05:34.0307049+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:00:42.3249938+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:06:01.5958453+00:00"
+  "LastUpdate_Ratings": "2023-09-20T17:00:02.103699+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:05:34.0308174+00:00"
 }

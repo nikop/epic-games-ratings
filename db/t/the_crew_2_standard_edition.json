@@ -4,9 +4,9 @@
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 260,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 141,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 613,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -6031,10 +6031,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4276,
       "NumberOfAwardsMax": 633
+    },
+    {
+      "Time": "2023-09-20T16:57:30.9124953+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4278,
+      "NumberOfAwardsMax": 633
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4276,
+  "NumberOfAwards": 4278,
   "NumberOfAwardsMax": 633,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6078,7 +6084,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 519
+      "Count": 521
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6110,8 +6116,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-09-20T14:57:34.4233353+00:00",
+  "LastChanged": "2023-09-20T16:57:30.9124951+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:01.2555217+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:57:29.8628748+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:04:43.4685632+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:57:30.9124959+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:04:29.7482284+00:00"
 }

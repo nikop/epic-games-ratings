@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -472,9 +472,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7927,
+  "EOS_Progressed": 7930,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -8717,6 +8717,11 @@
       "Time": "2023-09-20T16:03:55.1634093+00:00",
       "NumProgressed": 7927,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-20T17:03:40.1492222+00:00",
+      "NumProgressed": 7930,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8728,7 +8733,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6579
+      "UsersEstimate": 6582
     },
     {
       "ID": "ACH02",
@@ -8736,7 +8741,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ACH03",
@@ -8752,7 +8757,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3012
+      "UsersEstimate": 3013
     },
     {
       "ID": "ACH05",
@@ -8912,7 +8917,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "ACH25",
@@ -8959,7 +8964,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7927,
+      "Progressed": 7930,
       "Completed": 50
     }
   ],
@@ -8967,8 +8972,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-17T18:58:19.8654024+00:00",
-  "LastChanged_Achievements": "2023-09-20T16:03:55.1634088+00:00",
+  "LastChanged_Achievements": "2023-09-20T17:03:40.1492217+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:59:23.1745479+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:03:55.163477+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:59:01.7955292+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:03:40.1492846+00:00"
 }

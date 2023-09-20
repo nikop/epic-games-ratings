@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -958,9 +958,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12586,
+  "EOS_Progressed": 12587,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10933,6 +10933,11 @@
       "Time": "2023-09-20T16:06:55.1465573+00:00",
       "NumProgressed": 12586,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-20T17:06:17.9083456+00:00",
+      "NumProgressed": 12587,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10992,7 +10997,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ACH08",
@@ -11040,7 +11045,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACH14",
@@ -11048,7 +11053,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "ACH15",
@@ -11120,7 +11125,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "ACH24",
@@ -11223,7 +11228,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12586,
+      "Progressed": 12587,
       "Completed": 45
     }
   ],
@@ -11231,8 +11236,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-20T07:01:45.9326846+00:00",
-  "LastChanged_Achievements": "2023-09-20T16:06:55.1465568+00:00",
+  "LastChanged_Achievements": "2023-09-20T17:06:17.9083449+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:01:12.9775227+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:06:55.1466504+00:00"
+  "LastUpdate_Ratings": "2023-09-20T17:00:26.9369593+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:06:17.9084242+00:00"
 }

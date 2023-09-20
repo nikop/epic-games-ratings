@@ -48,7 +48,7 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 2.00% | ~58 |
 | That was wheelie fun | 2.00% | ~58 |
 | Dipped! | 1.00% | ~29 |
-| Skatepark hero | 0.90% | ~26 |
+| Skatepark hero | 1.00% | ~29 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 | Bing Bong! | 0.00% | ~0 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,882 (Ranked 176)  
-Completed: 0 (0.00%) (Ranked 279)  
+Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

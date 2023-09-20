@@ -1,20 +1,21 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 568)  
+Rating: 4.50 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 0.60% | ~156 |
 | Advancement | 0.50% | ~130 |
+| Meticulously Efficient | 0.50% | ~130 |
 | Discovery | 0.40% | ~104 |
-| Meticulously Efficient | 0.40% | ~104 |
 | Back Off | 0.30% | ~78 |
 | Clutch Capture | 0.30% | ~78 |
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Cultured | 0.30% | ~78 |
 | Fully Upgraded | 0.30% | ~78 |
 | Solo Capture | 0.30% | ~78 |
+| Swift Rift Removers | 0.30% | ~78 |
 | Teamwork | 0.30% | ~78 |
 | There you are! | 0.30% | ~78 |
 | Vaporous Expansion | 0.30% | ~78 |
@@ -28,7 +29,6 @@ Rating: 4.50 (Ranked 568)
 | Skilled | 0.20% | ~52 |
 | Stunner | 0.20% | ~52 |
 | Summoner | 0.20% | ~52 |
-| Swift Rift Removers | 0.20% | ~52 |
 | Terrifying | 0.20% | ~52 |
 | Welcome to the Crew | 0.20% | ~52 |
 | We have the best insurance | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 568)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,924 (Ranked 108)  
+Progressed: 25,925 (Ranked 108)  
 Completed: 56 (0.22%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 56 (0.22%) (Ranked 198)
 | 2023-09-17 | 25,875 | 56 |
 | 2023-09-18 | 25,888 | 56 |
 | 2023-09-19 | 25,909 | 56 |
-| 2023-09-20 | 25,924 | 56 |
+| 2023-09-20 | 25,925 | 56 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 255)  
-Sum: 2,321 (Ranked 188)  
+Sum: 2,323 (Ranked 188)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -225,7 +225,7 @@ Diff (max vs sum): 67
 | This game has Diverse Characters | 230 |
 | This game is Highly Recommended | 226 |
 | This game is Relaxing | 225 |
-| This game has Quickly Understood Controls | 216 |
+| This game has Quickly Understood Controls | 218 |
 | This game has Amazing Characters | 215 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
@@ -394,4 +394,4 @@ Diff (max vs sum): 67
 | 2023-09-16 | 4.50 | 254 | 2,314 |
 | 2023-09-17 | 4.50 | 254 | 2,316 |
 | 2023-09-19 | 4.50 | 254 | 2,317 |
-| 2023-09-20 | 4.50 | 254 | 2,321 |
+| 2023-09-20 | 4.50 | 254 | 2,323 |

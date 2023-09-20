@@ -5,19 +5,19 @@ Rating: 4.30 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 89.00% | ~142 |
-| Bullseye! | 85.00% | ~135 |
-| Graduation! | 80.00% | ~127 |
-| Villfir Forest | 77.00% | ~122 |
-| Right in the kisser! | 60.00% | ~95 |
+| Level Up! | 88.00% | ~141 |
+| Bullseye! | 84.00% | ~134 |
+| Graduation! | 80.00% | ~128 |
+| Villfir Forest | 76.00% | ~122 |
+| Right in the kisser! | 60.00% | ~96 |
 | Duscot Steamcity | 49.00% | ~78 |
-| The Thrower | 48.00% | ~76 |
+| The Thrower | 48.00% | ~77 |
 | The Shaman | 47.00% | ~75 |
 | The Penguin | 45.00% | ~72 |
 | The Magician | 42.00% | ~67 |
-| The Tunneler | 40.00% | ~64 |
-| Level Up!! | 38.00% | ~60 |
-| The Shield | 38.00% | ~60 |
+| The Tunneler | 39.00% | ~62 |
+| Level Up!! | 38.00% | ~61 |
+| The Shield | 38.00% | ~61 |
 | Kill-streak | 30.00% | ~48 |
 | Topped up | 28.00% | ~45 |
 | The Bird | 28.00% | ~45 |
@@ -27,18 +27,18 @@ Rating: 4.30 (Ranked 801)
 | I'm Rich | 24.00% | ~38 |
 | 1 is all I need | 23.00% | ~37 |
 | The Slime | 23.00% | ~37 |
-| Untouchable | 21.00% | ~33 |
+| Untouchable | 21.00% | ~34 |
 | The Blacksmith | 17.00% | ~27 |
 | The Flower | 17.00% | ~27 |
 | Out of the Frying Pan... | 17.00% | ~27 |
-| The Giant | 16.00% | ~25 |
-| The Ooze | 16.00% | ~25 |
-| Ember | 16.00% | ~25 |
+| The Giant | 16.00% | ~26 |
+| The Ooze | 16.00% | ~26 |
+| Ember | 16.00% | ~26 |
 | The Assistant | 14.00% | ~22 |
 | Turquoise | 14.00% | ~22 |
 | The Steampunk | 13.00% | ~21 |
-| The Droid | 11.00% | ~17 |
-| Verse | 11.00% | ~17 |
+| The Droid | 11.00% | ~18 |
+| Verse | 11.00% | ~18 |
 | Iron | 10.00% | ~16 |
 | The Bomber | 9.00% | ~14 |
 | Tested | 8.00% | ~13 |
@@ -79,8 +79,8 @@ Rating: 4.30 (Ranked 801)
 | Divinity | 0.60% | ~1 |
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 334)  
-Completed: 1 (0.63%) (Ranked 143)  
+Progressed: 160 (Ranked 334)  
+Completed: 1 (0.62%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -153,7 +153,7 @@ Completed: 1 (0.63%) (Ranked 143)
 | 2023-09-16 | 155 | 1 |
 | 2023-09-18 | 157 | 1 |
 | 2023-09-19 | 158 | 1 |
-| 2023-09-20 | 159 | 1 |
+| 2023-09-20 | 160 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

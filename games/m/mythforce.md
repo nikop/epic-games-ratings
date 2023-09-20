@@ -1,28 +1,28 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 584)  
+Rating: 4.49 (Ranked 583)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 17.00% | ~479 |
-| Debuff Dogpile | 16.00% | ~450 |
-| Hit 'Em Where It Hurts | 16.00% | ~450 |
-| That'll Leave a Mark | 16.00% | ~450 |
-| Mushroom Madness! | 15.00% | ~422 |
-| Perk Shard Punch Card | 15.00% | ~422 |
+| Debuff Dogpile | 16.00% | ~451 |
+| Hit 'Em Where It Hurts | 16.00% | ~451 |
+| That'll Leave a Mark | 16.00% | ~451 |
+| Mushroom Madness! | 15.00% | ~423 |
+| Perk Shard Punch Card | 15.00% | ~423 |
 | Horder Better Faster Stronger | 12.00% | ~338 |
 | Spending Spree | 12.00% | ~338 |
 | First Strike | 11.00% | ~310 |
 | Everything Must Go! | 10.00% | ~282 |
 | Ten Steps from the Grave | 10.00% | ~282 |
-| Next Time on MythForce... | 8.00% | ~225 |
+| Next Time on MythForce... | 8.00% | ~226 |
 | Cold-Blooded Critters | 6.00% | ~169 |
 | Death Becomes You | 6.00% | ~169 |
 | Flawless Victory | 5.00% | ~141 |
 | The Harder They Fall | 4.00% | ~113 |
-| On this Episode! | 3.00% | ~84 |
+| On this Episode! | 3.00% | ~85 |
 | Deadication | 2.00% | ~56 |
 | We've Got a Kaiju on the Field | 1.00% | ~28 |
 | Season Finale | 1.00% | ~28 |
@@ -30,8 +30,8 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,815 (Ranked 178)  
-Completed: 0 (0.00%) (Ranked 279)  
+Progressed: 2,820 (Ranked 178)  
+Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,19 +97,19 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-17 | 2,572 | 0 |
 | 2023-09-18 | 2,683 | 0 |
 | 2023-09-19 | 2,764 | 0 |
-| 2023-09-20 | 2,815 | 0 |
+| 2023-09-20 | 2,820 | 0 |
 ## Awards
-Max (Great for Beginners): 32  (Ranked 458)  
-Sum: 263 (Ranked 356)  
+Max (Highly Recommended): 32  (Ranked 458)  
+Sum: 265 (Ranked 356)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |
 | This game is Great for Beginners | 32 |
-| This game has Amazing Characters | 29 |
+| This game has Amazing Characters | 30 |
 | This game has Quickly Understood Controls | 27 |
+| This game has Challenging Combat | 27 |
 | This game has Unique Visuals | 26 |
-| This game has Challenging Combat | 26 |
 | This game has Diverse Characters | 25 |
 | This game has Amazing Storytelling | 23 |
 | This game is Relaxing | 22 |
@@ -197,4 +197,4 @@ Diff (max vs sum): 102
 | 2023-09-13 | 4.49 | - | 32 | 259 |
 | 2023-09-16 | 4.48 | - | 32 | 259 |
 | 2023-09-17 | 4.49 | - | 32 | 261 |
-| 2023-09-20 | 4.49 | - | 32 | 263 |
+| 2023-09-20 | 4.49 | - | 32 | 265 |

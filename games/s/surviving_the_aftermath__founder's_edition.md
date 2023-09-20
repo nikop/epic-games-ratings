@@ -1,25 +1,25 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 604)  
+Rating: 4.48 (Ranked 603)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,555 |
-| Leader | 60.00% | ~5,462 |
-| Explorer | 53.00% | ~4,825 |
-| Healer | 52.00% | ~4,734 |
+| First Step | 72.00% | ~6,556 |
+| Leader | 60.00% | ~5,463 |
+| Explorer | 53.00% | ~4,826 |
+| Healer | 52.00% | ~4,735 |
 | Aspiring Inventor | 44.00% | ~4,006 |
 | Adventurer | 41.00% | ~3,733 |
 | Famous Healer | 38.00% | ~3,460 |
-| Local Leader | 35.00% | ~3,186 |
-| Famous Explorer | 34.00% | ~3,095 |
-| New Opportunities | 34.00% | ~3,095 |
-| Energized | 33.00% | ~3,004 |
-| The Long Haul | 33.00% | ~3,004 |
-| The Great Healer | 31.00% | ~2,822 |
-| Survivor | 31.00% | ~2,822 |
+| Local Leader | 35.00% | ~3,187 |
+| Famous Explorer | 34.00% | ~3,096 |
+| New Opportunities | 34.00% | ~3,096 |
+| Energized | 33.00% | ~3,005 |
+| The Long Haul | 33.00% | ~3,005 |
+| The Great Healer | 31.00% | ~2,823 |
+| Survivor | 31.00% | ~2,823 |
 | Legendary Explorer | 28.00% | ~2,549 |
 | Cleaner | 28.00% | ~2,549 |
 | Catastrofan | 28.00% | ~2,549 |
@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,104 (Ranked 136)  
-Completed: 0 (0.00%) (Ranked 279)  
+Progressed: 9,105 (Ranked 136)  
+Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,7 +219,7 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-17 | 9,060 | 0 |
 | 2023-09-18 | 9,079 | 0 |
 | 2023-09-19 | 9,097 | 0 |
-| 2023-09-20 | 9,104 | 0 |
+| 2023-09-20 | 9,105 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 336)  
 Sum: 701 (Ranked 279)  

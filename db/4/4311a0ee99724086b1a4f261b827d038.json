@@ -6,7 +6,7 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219564,
+  "EOS_Progressed": 219578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2393,
+  "EOS_NewPlayers": 2386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6839,6 +6839,11 @@
       "Time": "2023-09-20T16:05:31.0770556+00:00",
       "NumProgressed": 219564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T17:05:08.9103811+00:00",
+      "NumProgressed": 219578,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -6907,7 +6912,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43913
+      "UsersEstimate": 43916
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -6915,7 +6920,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19761
+      "UsersEstimate": 19762
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -6923,7 +6928,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10978
+      "UsersEstimate": 10979
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -6939,7 +6944,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -6955,7 +6960,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -6963,7 +6968,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -6971,7 +6976,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -7035,7 +7040,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28543
+      "UsersEstimate": 28545
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -7043,7 +7048,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15369
+      "UsersEstimate": 15370
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -7051,7 +7056,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -7107,7 +7112,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54891
+      "UsersEstimate": 54894
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -7122,7 +7127,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 219564,
+      "Progressed": 219578,
       "Completed": 0
     }
   ],
@@ -7130,8 +7135,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-20T14:57:56.6798771+00:00",
-  "LastChanged_Achievements": "2023-09-20T16:05:31.0770551+00:00",
+  "LastChanged_Achievements": "2023-09-20T17:05:08.9103803+00:00",
   "LastUpdate_AppInfo": "2023-09-14T20:57:17.4276242+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:57:45.8561416+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:05:31.0771145+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:57:44.4797019+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:05:08.9104459+00:00"
 }

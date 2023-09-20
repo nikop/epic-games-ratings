@@ -5,7 +5,7 @@
   "Ranking_Rating": 760,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 217,
-  "Ranking_EOS_Progress": 161,
+  "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 109,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4070,
+  "EOS_Progressed": 4078,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1225,
+  "EOS_NewPlayers": 1227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3530,6 +3530,11 @@
       "Time": "2023-09-20T16:07:50.0058033+00:00",
       "NumProgressed": 4070,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-20T17:07:02.5994708+00:00",
+      "NumProgressed": 4078,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3542,7 +3547,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "a_10",
@@ -3550,7 +3555,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "a_11",
@@ -3558,7 +3563,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "a_12",
@@ -3566,7 +3571,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "a_15",
@@ -3582,7 +3587,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "a_18",
@@ -3590,7 +3595,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1509
     },
     {
       "ID": "a_19",
@@ -3638,7 +3643,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "a_25",
@@ -3654,7 +3659,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "a_27",
@@ -3662,7 +3667,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "a_28",
@@ -3750,7 +3755,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "a_6",
@@ -3782,14 +3787,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4070,
+      "Progressed": 4078,
       "Completed": 5
     }
   ],
@@ -3797,8 +3802,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-20T16:07:50.0058029+00:00",
+  "LastChanged_Achievements": "2023-09-20T17:07:02.5994699+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:59:20.3187627+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:07:50.0058454+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:58:59.2765403+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:07:02.5995101+00:00"
 }

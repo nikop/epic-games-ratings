@@ -3,8 +3,8 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 999,
+  "EOS_Progressed": 1000,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2023-09-20T15:04:25.7967569+00:00",
       "NumProgressed": 999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T17:03:46.5615598+00:00",
+      "NumProgressed": 1000,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1648,9 +1653,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "c7hf6a4",
       "Name": "Next Level",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1777,14 +1782,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 999,
+      "Progressed": 1000,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-20T16:04:03.1823244+00:00",
+  "LastChanged_Achievements": "2023-09-20T17:03:46.5615592+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:00:19.5570066+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:04:03.182376+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:59:45.4449016+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:03:46.5616112+00:00"
 }

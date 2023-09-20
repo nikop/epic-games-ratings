@@ -10,11 +10,11 @@
 | Summer Day | 59.00% | ~16 |
 | Mr. Porter | 48.00% | ~13 |
 | Risky Rescue | 48.00% | ~13 |
-| Carlos Is Tangled | 41.00% | ~11 |
-| Mandy Family | 33.00% | ~9 |
+| Carlos Is Tangled | 44.00% | ~12 |
+| Mandy Family | 37.00% | ~10 |
+| Paw patrol member | 33.00% | ~9 |
+| Robot Out of Control | 33.00% | ~9 |
 | Break Time | 30.00% | ~8 |
-| Paw patrol member | 30.00% | ~8 |
-| Robot Out of Control | 30.00% | ~8 |
 | Master of the Rope | 26.00% | ~7 |
 | Training Day | 26.00% | ~7 |
 | The Fastest | 26.00% | ~7 |
@@ -25,18 +25,18 @@
 | You Have Been Everywhere | 19.00% | ~5 |
 | Don’t Miss Any | 19.00% | ~5 |
 | Adventure Bay’s Citizen | 19.00% | ~5 |
-| Everything Under Control | 11.00% | ~3 |
+| Everything Under Control | 15.00% | ~4 |
+| A Great Explorer | 11.00% | ~3 |
+| Nothing Can Stop You | 11.00% | ~3 |
 | Mountain and Ice | 11.00% | ~3 |
 | King of the Mountain | 7.00% | ~2 |
-| A Great Explorer | 7.00% | ~2 |
-| Nothing Can Stop You | 7.00% | ~2 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27 (Ranked 444)  
-Completed: 0 (0.00%) (Ranked 279)  
+Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

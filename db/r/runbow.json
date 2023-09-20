@@ -2,12 +2,12 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 627,
+  "Ranking_Rating": 626,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -181,7 +181,7 @@
   "Tags": [],
   "EOS_Progressed": 249475,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14895,8 +14895,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-20T16:08:01.1689329+00:00",
+  "LastChanged_Achievements": "2023-09-20T17:07:11.4315782+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.9787856+00:00",
-  "LastUpdate_Ratings": "2023-09-20T16:01:06.2500856+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:08:01.1690637+00:00"
+  "LastUpdate_Ratings": "2023-09-20T17:00:21.4507858+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:07:11.4317008+00:00"
 }

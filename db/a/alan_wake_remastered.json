@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65846,
+  "EOS_Progressed": 65847,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15307,6 +15307,11 @@
       "Time": "2023-09-20T16:04:52.7676648+00:00",
       "NumProgressed": 65846,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T17:04:37.7032305+00:00",
+      "NumProgressed": 65847,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15486,7 +15491,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9218
+      "UsersEstimate": 9219
     },
     {
       "ID": "23",
@@ -15678,7 +15683,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10535
+      "UsersEstimate": 10536
     },
     {
       "ID": "47",
@@ -15853,21 +15858,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65846,
+      "Progressed": 65847,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29314,
+      "Progressed": 29315,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T16:04:52.767664+00:00",
+  "LastChanged_Achievements": "2023-09-20T17:04:37.7032299+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:59:10.0771847+00:00",
-  "LastUpdate_Achievements": "2023-09-20T16:04:52.767827+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:58:52.2346753+00:00",
+  "LastUpdate_Achievements": "2023-09-20T17:04:37.7033872+00:00"
 }
