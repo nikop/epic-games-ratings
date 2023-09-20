@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -658,9 +658,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 10137,
+  "EOS_Progressed": 10139,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -9903,6 +9903,11 @@
       "Time": "2023-09-20T01:44:25.461992+00:00",
       "NumProgressed": 10137,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-20T02:19:05.1428544+00:00",
+      "NumProgressed": 10139,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9970,7 +9975,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH09",
@@ -10042,7 +10047,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH18",
@@ -10074,7 +10079,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     },
     {
       "ID": "ACH22",
@@ -10082,7 +10087,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "ACH23",
@@ -10090,7 +10095,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "ACH24",
@@ -10146,7 +10151,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH31",
@@ -10185,7 +10190,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10137,
+      "Progressed": 10139,
       "Completed": 56
     }
   ],
@@ -10193,8 +10198,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-19T05:58:35.1786441+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:44:25.4619916+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:19:05.1428536+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:40:46.1721985+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:44:25.4620542+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:14:41.3573163+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:19:05.1429384+00:00"
 }

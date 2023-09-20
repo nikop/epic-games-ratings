@@ -211,9 +211,9 @@
       "ID": "ACH_FIND_EXCALIBUR",
       "SetID": "b5c8hh8",
       "Name": "Find Excalibur In All Maps",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_HEIST_COMPLETED",
@@ -290,8 +290,8 @@
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:45:12.1756084+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:19:29.8370073+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:49.319288+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:39:23.3623391+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:45:12.1756181+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:13:23.7046695+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:19:29.8370177+00:00"
 }

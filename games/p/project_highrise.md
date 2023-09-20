@@ -78,9 +78,9 @@
 | It is Payday | 2.00% | ~7 |
 | Curated Class | 1.00% | ~3 |
 | Full House | 1.00% | ~3 |
+| Double Down | 1.00% | ~3 |
 | Such Great Heights | 1.00% | ~3 |
 | Scenario Success | 1.00% | ~3 |
-| Double Down | 0.90% | ~3 |
 | Lofty Landlord | 0.90% | ~3 |
 | Artistic Largesse | 0.60% | ~2 |
 | High Hand | 0.60% | ~2 |

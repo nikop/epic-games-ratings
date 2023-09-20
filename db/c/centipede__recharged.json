@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17223,
+  "EOS_Progressed": 17225,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -11967,6 +11967,11 @@
       "Time": "2023-09-20T01:44:38.1298333+00:00",
       "NumProgressed": 17223,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-09-20T02:19:16.8336982+00:00",
+      "NumProgressed": 17225,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 16,
@@ -11978,7 +11983,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4650
+      "UsersEstimate": 4651
     },
     {
       "ID": "Burning_For_You",
@@ -11986,7 +11991,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4822
+      "UsersEstimate": 4823
     },
     {
       "ID": "Deadline",
@@ -11994,7 +11999,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -12018,7 +12023,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "Fireworks",
@@ -12105,15 +12110,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17223,
+      "Progressed": 17225,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:44:38.1298329+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:19:16.8336975+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.7549106+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:41:23.5365044+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:44:38.1298953+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:15:14.7406154+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:19:16.8337784+00:00"
 }

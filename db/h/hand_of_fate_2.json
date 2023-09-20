@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662334,
+  "EOS_Progressed": 662335,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15323,6 +15323,11 @@
       "Time": "2023-09-20T00:03:29.6871547+00:00",
       "NumProgressed": 662334,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-20T02:19:10.6370168+00:00",
+      "NumProgressed": 662335,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15334,7 +15339,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476880
+      "UsersEstimate": 476881
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -15398,7 +15403,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66233
+      "UsersEstimate": 66234
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -15430,7 +15435,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66233
+      "UsersEstimate": 66234
     },
     {
       "ID": "Achievement_14_Magician",
@@ -15717,15 +15722,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662334,
+      "Progressed": 662335,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:44:31.3571676+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:19:10.6370161+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.7485129+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:40:20.7178028+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:44:31.3572655+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:14:17.2278667+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:19:10.6371588+00:00"
 }

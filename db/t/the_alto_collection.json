@@ -763,9 +763,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 39822,
+  "EOS_Progressed": 39823,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17758,6 +17758,11 @@
       "Time": "2023-09-20T01:45:26.0237983+00:00",
       "NumProgressed": 39822,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-20T02:19:43.3476689+00:00",
+      "NumProgressed": 39823,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -17793,7 +17798,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4381
     },
     {
       "ID": "distance500000",
@@ -17993,7 +17998,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4381
     },
     {
       "ID": "ultimate",
@@ -18080,15 +18085,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 39822,
+      "Progressed": 39823,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-15T18:59:46.0517452+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:45:26.0237978+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:19:43.3476684+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:21.9725238+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:41:29.3007267+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:45:26.0239031+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:15:21.4265002+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:19:43.3477986+00:00"
 }

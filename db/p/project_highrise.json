@@ -1149,7 +1149,7 @@
       "ID": "ach_ep1_event_1",
       "SetID": "b8gh1fi",
       "Name": "Double Down",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1614,8 +1614,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:44:20.5579595+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:18:30.2557003+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.3055446+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:40:26.0048059+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:44:20.5580519+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:14:22.1911066+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:18:30.2558217+00:00"
 }

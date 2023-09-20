@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -1684,6 +1684,11 @@
       "Time": "2023-09-19T22:04:43.8680641+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T02:20:24.1463209+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1791,7 +1796,7 @@
       "Name": "Just Chilling",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "DIE_ALL_TYPEGROUPS",
@@ -1807,7 +1812,7 @@
       "Name": "Ascended",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -1887,7 +1892,7 @@
       "Name": "Greedy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PREVENTRIOT",
@@ -1983,7 +1988,7 @@
       "Name": "The Stranded King",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -2031,7 +2036,7 @@
       "Name": "Like the dream",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WINMATCH_DIFF_PACIFIST",
@@ -2047,14 +2052,14 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 0
     }
   ],
@@ -2062,8 +2067,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:46:08.7168891+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:20:24.1463204+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.3964182+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:39:51.9382125+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:46:08.7169262+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:13:52.0013479+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:20:24.1463677+00:00"
 }

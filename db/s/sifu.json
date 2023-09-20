@@ -2,13 +2,13 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 67,
+  "Ranking_Rating": 66,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 102,
+  "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6408,9 +6408,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 715153,
+  "EOS_Progressed": 715154,
   "EOS_Completed": 12896,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -20483,6 +20483,11 @@
       "Time": "2023-09-20T01:47:46.5885096+00:00",
       "NumProgressed": 715153,
       "NumCompleted": 12896
+    },
+    {
+      "Time": "2023-09-20T02:21:59.0779879+00:00",
+      "NumProgressed": 715154,
+      "NumCompleted": 12896
     }
   ],
   "TotalAchievements": 60,
@@ -20973,21 +20978,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24454,
+      "Progressed": 24455,
       "Completed": 10639
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715153,
+      "Progressed": 715154,
       "Completed": 12896
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-19T11:00:10.6249796+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:47:46.5885092+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:21:59.0779873+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.6713568+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:41:28.2479076+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:47:46.5886216+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:15:20.4320003+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:21:59.0781265+00:00"
 }

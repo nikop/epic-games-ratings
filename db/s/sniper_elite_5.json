@@ -5,10 +5,10 @@
   "Ranking_Rating": 625,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3639,
+  "EOS_Progressed": 3640,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6769,6 +6769,11 @@
       "Time": "2023-09-19T22:06:00.448264+00:00",
       "NumProgressed": 3639,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-20T02:21:40.6561086+00:00",
+      "NumProgressed": 3640,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6828,7 +6833,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6908,7 +6913,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6988,7 +6993,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6996,7 +7001,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -7044,7 +7049,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7188,7 +7193,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7347,13 +7352,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3590,
+      "Progressed": 3591,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3639,
+      "Progressed": 3640,
       "Completed": 11
     }
   ],
@@ -7361,8 +7366,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:47:27.3793003+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:21:40.6561081+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:39:18.2992107+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:47:27.3793879+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:13:18.881632+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:21:40.6562179+00:00"
 }

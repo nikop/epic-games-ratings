@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I like parks | 3.00% | ~10 |
+| I like parks | 4.00% | ~14 |
 | Small town | 3.00% | ~10 |
 | The spiritual world... | 2.00% | ~7 |
 | It is nice to share with friends in the city | 2.00% | ~7 |

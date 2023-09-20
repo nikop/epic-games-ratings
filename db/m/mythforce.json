@@ -635,9 +635,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2775,
+  "EOS_Progressed": 2777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1228,
+  "EOS_NewPlayers": 1219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4975,6 +4975,11 @@
       "Time": "2023-09-20T01:45:06.1917834+00:00",
       "NumProgressed": 2775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T02:19:24.0015744+00:00",
+      "NumProgressed": 2777,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4987,7 +4992,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -5011,15 +5016,15 @@
       "Name": "Death Becomes You",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 416
+      "UsersEstimate": 444
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5075,7 +5080,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -5123,7 +5128,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5170,15 +5175,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2775,
+      "Progressed": 2777,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T01:40:59.1284694+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:45:06.191783+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:19:24.001574+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:40:59.12847+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:45:06.191817+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:14:53.7985052+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:19:24.0016154+00:00"
 }

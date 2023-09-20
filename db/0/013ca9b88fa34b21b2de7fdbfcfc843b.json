@@ -2,7 +2,7 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 58,
+  "Ranking_Rating": 101,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 159,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.83,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-09-18T15:57:21.5975399+00:00",
@@ -28,15 +28,21 @@
       "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-20T02:13:39.7868879+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4215,
+  "EOS_Progressed": 4216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2321,
+  "EOS_NewPlayers": 2313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1529,6 +1535,11 @@
       "Time": "2023-09-20T01:44:26.8070019+00:00",
       "NumProgressed": 4215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T02:19:06.2456586+00:00",
+      "NumProgressed": 4216,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -1541,7 +1552,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -1549,7 +1560,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -1557,7 +1568,7 @@
       "Name": "Calm Sailing",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -1717,7 +1728,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -1820,16 +1831,16 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 4215,
+      "Progressed": 4216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged": "2023-09-19T02:14:37.6319595+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:44:26.8070016+00:00",
+  "LastChanged": "2023-09-20T02:13:39.7868877+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:19:06.2456581+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:57:17.8773822+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:39:39.2051105+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:44:26.807032+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:13:39.7868886+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:19:06.2456929+00:00"
 }

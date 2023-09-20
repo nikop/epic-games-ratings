@@ -11,9 +11,9 @@ Rating: 4.87 (Ranked 25)
 | Who put gears in there? | 12.00% | ~489 |
 | Cream of the Crop | 11.00% | ~448 |
 | Thanks for the free chip, Peppermint! | 11.00% | ~448 |
-| You got this, Peppermint? | 10.00% | ~407 |
-| Perfect Parry | 10.00% | ~407 |
-| Alright, that felt AWESOME! | 10.00% | ~407 |
+| You got this, Peppermint? | 10.00% | ~408 |
+| Perfect Parry | 10.00% | ~408 |
+| Alright, that felt AWESOME! | 10.00% | ~408 |
 | This will cost you big time | 9.00% | ~367 |
 | I play my own way! | 9.00% | ~367 |
 | Uh, they were broken when I got here | 9.00% | ~367 |
@@ -35,10 +35,10 @@ Rating: 4.87 (Ranked 25)
 | Beat-hit mania | 4.00% | ~163 |
 | That's a lot of junk metal… | 4.00% | ~163 |
 | There's such a thing as TOO helpful | 4.00% | ~163 |
-| Chip-tuned | 2.00% | ~81 |
-| Wanna hear my playlist? | 2.00% | ~81 |
-| I told you I'd be fine, Peppermint! | 2.00% | ~81 |
-| Check out my moves! | 2.00% | ~81 |
+| Chip-tuned | 2.00% | ~82 |
+| Wanna hear my playlist? | 2.00% | ~82 |
+| I told you I'd be fine, Peppermint! | 2.00% | ~82 |
+| Check out my moves! | 2.00% | ~82 |
 | Call me Turbo Chai | 2.00% | ~52 |
 | I think I deserve some praise, here! | 1.00% | ~41 |
 | I think I found your calling, Macaron | 1.00% | ~41 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,074 (Ranked 160)  
+Progressed: 4,075 (Ranked 160)  
 Completed: 7 (0.17%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 7 (0.17%) (Ranked 203)
 | 2023-09-17 | 4,067 | 7 |
 | 2023-09-18 | 4,071 | 7 |
 | 2023-09-19 | 4,074 | 7 |
+| 2023-09-20 | 4,075 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

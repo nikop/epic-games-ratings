@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4074,
+  "EOS_Progressed": 4075,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6634,6 +6634,11 @@
       "Time": "2023-09-19T19:09:20.2287803+00:00",
       "NumProgressed": 4074,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-20T02:24:10.4047378+00:00",
+      "NumProgressed": 4075,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6765,7 +6770,7 @@
       "Name": "Chip-tuned",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Ach017",
@@ -6837,7 +6842,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Ach026",
@@ -6885,7 +6890,7 @@
       "Name": "Perfect Parry",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Ach032",
@@ -7021,7 +7026,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Ach049",
@@ -7053,7 +7058,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Ach053",
@@ -7069,7 +7074,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Ach055",
@@ -7117,7 +7122,7 @@
       "Name": "Check out my moves!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Ach061",
@@ -7212,13 +7217,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4074,
+      "Progressed": 4075,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2595,
+      "Progressed": 2596,
       "Completed": 1929
     }
   ],
@@ -7226,8 +7231,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:49:11.4279946+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:24:10.404737+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:40:15.0384217+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:49:11.4280869+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:14:12.3640469+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:24:10.4048551+00:00"
 }

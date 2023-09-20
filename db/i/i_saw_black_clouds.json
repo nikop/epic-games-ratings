@@ -379,9 +379,9 @@
       "ID": "end",
       "SetID": "8b5dfcp",
       "Name": "End",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "escape",
@@ -443,9 +443,9 @@
       "ID": "tough",
       "SetID": "8b5dfcp",
       "Name": "Tough",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "unfinished",
@@ -476,8 +476,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:46:12.8011978+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:20:27.7089914+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:00.3217285+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:42:17.9504835+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:46:12.8012092+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:16:08.5538854+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:20:27.709003+00:00"
 }

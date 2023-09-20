@@ -4516,9 +4516,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 603321,
+  "EOS_Progressed": 603322,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12666,
+  "EOS_NewPlayers": 12645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21641,6 +21641,11 @@
       "Time": "2023-09-20T01:46:55.8601628+00:00",
       "NumProgressed": 603321,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-20T02:21:09.7290248+00:00",
+      "NumProgressed": 603322,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -21844,7 +21849,7 @@
       "Name": "Guardian Angel",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 211162
+      "UsersEstimate": 211163
     },
     {
       "ID": "32",
@@ -21876,7 +21881,7 @@
       "Name": "You Complete Me",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 235295
+      "UsersEstimate": 235296
     },
     {
       "ID": "36",
@@ -21947,7 +21952,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 603321,
+      "Progressed": 603322,
       "Completed": 10
     }
   ],
@@ -21955,8 +21960,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-09-19T16:59:38.0584516+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:46:55.8601624+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:21:09.7290243+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.6155521+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:40:50.2529282+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:46:55.8602661+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:14:44.6637312+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:21:09.7291787+00:00"
 }

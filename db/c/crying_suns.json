@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467633,
+  "EOS_Progressed": 467635,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16584,6 +16584,11 @@
       "Time": "2023-09-20T01:45:07.3546541+00:00",
       "NumProgressed": 467633,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-20T02:19:25.3090573+00:00",
+      "NumProgressed": 467635,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16619,7 +16624,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102879
+      "UsersEstimate": 102880
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -16635,7 +16640,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46763
+      "UsersEstimate": 46764
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -16683,7 +16688,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308638
+      "UsersEstimate": 308639
     },
     {
       "ID": "achievement_story_landa",
@@ -16715,7 +16720,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116908
+      "UsersEstimate": 116909
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -16779,7 +16784,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154319
+      "UsersEstimate": 154320
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17051,7 +17056,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182377
+      "UsersEstimate": 182378
     },
     {
       "ID": "achievement_win_run_hard",
@@ -17107,7 +17112,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102879
+      "UsersEstimate": 102880
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -17226,21 +17231,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11567,
+      "Progressed": 11569,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467633,
+      "Progressed": 467635,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-20T01:45:07.3546538+00:00",
+  "LastChanged_Achievements": "2023-09-20T02:19:25.3090568+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:49.9396656+00:00",
-  "LastUpdate_Ratings": "2023-09-20T01:40:54.7891566+00:00",
-  "LastUpdate_Achievements": "2023-09-20T01:45:07.3547977+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:14:49.4732075+00:00",
+  "LastUpdate_Achievements": "2023-09-20T02:19:25.3092573+00:00"
 }
