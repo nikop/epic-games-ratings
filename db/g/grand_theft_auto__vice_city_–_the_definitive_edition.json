@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -658,9 +658,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 10146,
+  "EOS_Progressed": 10147,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -9933,6 +9933,11 @@
       "Time": "2023-09-20T13:09:34.3470958+00:00",
       "NumProgressed": 10146,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-20T14:03:40.3177028+00:00",
+      "NumProgressed": 10147,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -10048,7 +10053,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4261
+      "UsersEstimate": 4262
     },
     {
       "ID": "ACH15",
@@ -10104,7 +10109,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH22",
@@ -10120,7 +10125,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "ACH24",
@@ -10215,7 +10220,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10146,
+      "Progressed": 10147,
       "Completed": 56
     }
   ],
@@ -10223,8 +10228,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-19T05:58:35.1786441+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:09:34.3470953+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:03:40.3177024+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:05:44.7039276+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:09:34.3472302+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:00:07.2100056+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:03:40.3177666+00:00"
 }

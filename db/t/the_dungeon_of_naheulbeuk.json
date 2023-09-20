@@ -954,9 +954,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 225435,
+  "EOS_Progressed": 225443,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1766,
+  "EOS_NewPlayers": 1761,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11609,6 +11609,11 @@
       "Time": "2023-09-20T13:15:12.0907376+00:00",
       "NumProgressed": 225435,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T14:09:25.0559638+00:00",
+      "NumProgressed": 225443,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11668,7 +11673,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9017
+      "UsersEstimate": 9018
     },
     {
       "ID": "Chapter2",
@@ -12020,7 +12025,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9017
+      "UsersEstimate": 9018
     },
     {
       "ID": "DwarfElf15Support",
@@ -12068,7 +12073,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 69885
+      "UsersEstimate": 69887
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12140,7 +12145,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "KillDungeonLich",
@@ -12323,21 +12328,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225435,
+      "Progressed": 225443,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225435,
+      "Progressed": 225443,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-20T09:59:04.2813866+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:15:12.090737+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:09:25.0559633+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:05:41.7010146+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:15:12.0909541+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:00:02.968971+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:09:25.0560942+00:00"
 }

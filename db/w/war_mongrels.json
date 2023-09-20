@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1552,6 +1552,11 @@
       "Time": "2023-09-20T12:09:05.3403419+00:00",
       "NumProgressed": 508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T14:09:24.8486554+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1667,7 +1672,7 @@
       "Name": "Explorer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_COLL_20",
@@ -1683,7 +1688,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1739,7 +1744,7 @@
       "Name": "Collectibles of Chapter VII",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_COLL_CH08",
@@ -1801,9 +1806,9 @@
       "ID": "ACH_FIN_CH03",
       "SetID": "1j25agn",
       "Name": "The Motivation",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1835,7 +1840,7 @@
       "Name": "The Horror",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1843,7 +1848,7 @@
       "Name": "The Difference",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -1875,7 +1880,7 @@
       "Name": "Atonement",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_HARD_1",
@@ -1985,9 +1990,9 @@
       "ID": "ACH_KILL_SNIPER",
       "SetID": "1j25agn",
       "Name": "Sniper Wolf",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -2034,15 +2039,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:15:11.8236965+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:09:24.8486549+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:14.9227407+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:04:30.0319782+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:15:11.8237692+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:58:49.878901+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:09:24.8487029+00:00"
 }

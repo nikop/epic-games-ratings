@@ -5,7 +5,7 @@
   "Ranking_Rating": 584,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 485,
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 107,
@@ -324,9 +324,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3323,
+  "EOS_Progressed": 3324,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4504,6 +4504,11 @@
       "Time": "2023-09-20T13:14:16.9989342+00:00",
       "NumProgressed": 3323,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T14:08:30.0633298+00:00",
+      "NumProgressed": 3324,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4571,7 +4576,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -4611,7 +4616,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4619,7 +4624,7 @@
       "Name": "Regicide",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -4627,7 +4632,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4635,7 +4640,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4675,7 +4680,7 @@
       "Name": "Bandage Lover",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -4707,7 +4712,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4723,7 +4728,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4731,7 +4736,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4739,7 +4744,7 @@
       "Name": "Where It All Begun",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4763,7 +4768,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ACH_MISSION_09",
@@ -4771,7 +4776,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ACH_MISSION_10",
@@ -4811,7 +4816,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4874,7 +4879,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3323,
+      "Progressed": 3324,
       "Completed": 3
     }
   ],
@@ -4882,8 +4887,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:14:16.9989339+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:08:30.0633293+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:07:29.0297107+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:14:16.9990324+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:01:53.6677832+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:08:30.0633762+00:00"
 }

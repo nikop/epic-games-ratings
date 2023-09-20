@@ -36,7 +36,7 @@ Number of Ratings: 706  (23.09.2022)
 | Deerly Departed | 8.00% | ~469 |
 | Where Wolf? | 5.00% | ~293 |
 | Food Chain | 2.00% | ~117 |
-| Wabbit Season | 0.50% | ~29 |
+| Wabbit Season | 0.60% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,864 (Ranked 148)  
 Completed: 13 (0.22%) (Ranked 197)  

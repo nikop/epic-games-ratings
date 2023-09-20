@@ -2,9 +2,9 @@
   "ID": "b028d8e2032245dfb53bf280cca4a06d",
   "Name": "Mars Tactics",
   "ProductSlug": "mars-tactics-4a717e",
-  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T12:59:15.6077984+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:03:55.3594491+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:11:51.8640151+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:58:12.7434758+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:06:06.6180857+00:00"
 }

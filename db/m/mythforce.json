@@ -641,9 +641,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2800,
+  "EOS_Progressed": 2804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1167,
+  "EOS_NewPlayers": 1163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5021,6 +5021,11 @@
       "Time": "2023-09-20T13:09:55.8473503+00:00",
       "NumProgressed": 2800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T14:04:12.1939958+00:00",
+      "NumProgressed": 2804,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5065,7 +5070,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5081,7 +5086,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5121,7 +5126,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -5145,7 +5150,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5169,7 +5174,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5201,7 +5206,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5216,15 +5221,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2800,
+      "Progressed": 2804,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T09:59:19.0616067+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:09:55.8473497+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:04:12.1939953+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:06:02.2846045+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:09:55.8474048+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:00:25.4677266+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:04:12.1940288+00:00"
 }

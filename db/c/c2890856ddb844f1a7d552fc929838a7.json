@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 813,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1673,9 +1673,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 504
     },
     {
       "ID": "AC07",
@@ -2002,8 +2002,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:10:05.1417881+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:04:21.7115546+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:03:46.9277211+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:10:05.1418416+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:58:04.1066007+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:04:21.7115911+00:00"
 }

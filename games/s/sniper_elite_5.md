@@ -5,7 +5,7 @@ Rating: 4.46 (Ranked 626)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,675 |
+| Meeting Resistance | 46.00% | ~1,676 |
 | Confirming Suspicions | 40.00% | ~1,457 |
 | The Kraken Wakes | 36.00% | ~1,311 |
 | It's Starting to Crack | 33.00% | ~1,202 |
@@ -30,10 +30,10 @@ Rating: 4.46 (Ranked 626)
 | Skirmisher | 14.00% | ~510 |
 | Die Nussknacker Sweet! | 14.00% | ~510 |
 | Snake in the Grass | 14.00% | ~510 |
-| No Stone Unturned | 13.00% | ~473 |
-| Opposing Force | 13.00% | ~473 |
-| Enemy at the Gates | 13.00% | ~473 |
-| Set Europe Ablaze | 13.00% | ~473 |
+| No Stone Unturned | 13.00% | ~474 |
+| Opposing Force | 13.00% | ~474 |
+| Enemy at the Gates | 13.00% | ~474 |
+| Set Europe Ablaze | 13.00% | ~474 |
 | Precision Is Key | 9.00% | ~328 |
 | My Little Friend | 9.00% | ~328 |
 | Rigged to Blow | 8.00% | ~291 |
@@ -71,13 +71,13 @@ Rating: 4.46 (Ranked 626)
 | Das Familienjuwel | 1.00% | ~36 |
 | Master of Secondaries | 0.90% | ~33 |
 | Master of Rifles | 0.80% | ~29 |
-| Master of Pistols | 0.70% | ~25 |
-| Master-at-arms | 0.70% | ~25 |
+| Master of Pistols | 0.70% | ~26 |
+| Master-at-arms | 0.70% | ~26 |
 | Operation Overlord | 0.70% | ~25 |
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,642 (Ranked 164)  
+Progressed: 3,643 (Ranked 164)  
 Completed: 11 (0.30%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 11 (0.30%) (Ranked 182)
 | 2023-09-17 | 3,631 | 11 |
 | 2023-09-18 | 3,637 | 11 |
 | 2023-09-19 | 3,639 | 11 |
-| 2023-09-20 | 3,642 | 11 |
+| 2023-09-20 | 3,643 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

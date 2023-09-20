@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Remembering of the past | 33.00% | ~2 |
-| Ouch, that hurt! | 17.00% | ~1 |
-| Fight like an idiot | 17.00% | ~1 |
-| Black Hog Down | 17.00% | ~1 |
+| Remembering of the past | 29.00% | ~2 |
+| Ouch, that hurt! | 14.00% | ~1 |
+| Fight like an idiot | 14.00% | ~1 |
+| Black Hog Down | 14.00% | ~1 |
 | Slam-KABAM | 0.00% | ~0 |
 | Heavy Thoughts | 0.00% | ~0 |
 | Patient Listener | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | Flee like an idiot | 0.00% | ~0 |
 | Elementary, My Dear Dusty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 499)  
+Progressed: 7 (Ranked 496)  
 Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -32,6 +32,7 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-12 | 3 | 0 |
 | 2023-09-13 | 4 | 0 |
 | 2023-09-15 | 6 | 0 |
+| 2023-09-20 | 7 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

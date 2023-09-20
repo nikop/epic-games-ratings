@@ -6142,7 +6142,7 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136435,
+  "EOS_Progressed": 136437,
   "EOS_Completed": 153,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 3,
@@ -21857,6 +21857,11 @@
       "Time": "2023-09-20T13:10:03.1154785+00:00",
       "NumProgressed": 136435,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-20T14:04:19.6258449+00:00",
+      "NumProgressed": 136437,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22738,9 +22743,9 @@
       "ID": "workers02",
       "SetID": "anfd17p",
       "Name": "Arcane Industries",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 1091
     },
     {
       "ID": "workers03",
@@ -22763,15 +22768,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136435,
+      "Progressed": 136437,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-19T17:58:38.5337428+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:10:03.1154781+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:04:19.6258444+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:05:24.2824657+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:10:03.1157659+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:59:46.1598008+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:04:19.6260437+00:00"
 }

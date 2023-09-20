@@ -1492,9 +1492,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "296pn27",
       "Name": "Hubris",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1540,9 +1540,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1579,8 +1579,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:11:14.320227+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:05:29.6846113+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.4255118+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:03:23.1419742+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:11:14.3202698+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:57:39.9097801+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:05:29.6846293+00:00"
 }

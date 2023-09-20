@@ -11,12 +11,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.70% | ~1,606 |
 | The Mad Wizard | 0.60% | ~1,377 |
 | The Ring of Regeneration | 0.50% | ~1,147 |
+| Maddening | 0.40% | ~918 |
 | Were-verpowered | 0.40% | ~918 |
 | Seeking Allies | 0.40% | ~918 |
 | Are Ya Chicken? | 0.40% | ~918 |
 | Mad Cow Disease | 0.40% | ~918 |
 | Friendly Imps | 0.40% | ~918 |
-| Maddening | 0.30% | ~688 |
 | Tall Tales | 0.30% | ~587 |
 | The Silken Swamp | 0.30% | ~688 |
 | A Persistent Buzzing | 0.30% | ~688 |
@@ -116,6 +116,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.20% | ~459 |
 | Into The Fire | 0.20% | ~391 |
 | Dreamscape | 0.20% | ~391 |
+| The Path of Dreams | 0.20% | ~391 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
 | Rime Bandits | 0.20% | ~391 |
 | The Everlasting Rime | 0.20% | ~391 |
@@ -393,7 +394,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dream Gauntlet | 0.10% | ~196 |
 | Zombie Dreams | 0.10% | ~196 |
 | Look Out! | 0.10% | ~196 |
-| The Path of Dreams | 0.10% | ~196 |
 | The Path of Redcaps | 0.10% | ~196 |
 | The Path of Trials | 0.10% | ~196 |
 | Bad Odds in Avernus | 0.10% | ~196 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,453 (Ranked 57)  
-Completed: 2,296 (1.00%) (Ranked 126)  
+Progressed: 229,457 (Ranked 57)  
+Completed: 2,296 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -680,7 +680,7 @@ Completed: 2,296 (1.00%) (Ranked 126)
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
-| 2023-09-20 | 229,453 | 2,296 |
+| 2023-09-20 | 229,457 | 2,296 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,655 (Ranked 39)  

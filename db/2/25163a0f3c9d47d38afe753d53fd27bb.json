@@ -2,7 +2,7 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 77,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.66,
+  "EOS_Completed_Percentage": 10.65,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2501,6 +2501,11 @@
       "Time": "2023-09-20T05:06:48.9694304+00:00",
       "NumProgressed": 722,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-20T14:07:01.2345753+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 30,
@@ -2512,7 +2517,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "LEVEL_002",
@@ -2520,7 +2525,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "LEVEL_003",
@@ -2552,7 +2557,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "LEVEL_007",
@@ -2560,7 +2565,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "LEVEL_008",
@@ -2568,7 +2573,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "LEVEL_009",
@@ -2576,7 +2581,7 @@
       "Name": "Going zig zag",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "LEVEL_010",
@@ -2592,7 +2597,7 @@
       "Name": "This island of mine",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_012",
@@ -2616,7 +2621,7 @@
       "Name": "Cross-country",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "LEVEL_015",
@@ -2680,7 +2685,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_023",
@@ -2751,14 +2756,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:12:45.8808778+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:07:01.2345748+00:00",
   "LastUpdate_AppInfo": "2023-09-18T22:57:19.1812695+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:04:09.2722996+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:12:45.8809228+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:58:28.2861157+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:07:01.2346047+00:00"
 }

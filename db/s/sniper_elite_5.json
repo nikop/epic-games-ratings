@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3642,
+  "EOS_Progressed": 3643,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6784,6 +6784,11 @@
       "Time": "2023-09-20T11:07:36.7522551+00:00",
       "NumProgressed": 3642,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-20T14:07:03.1442551+00:00",
+      "NumProgressed": 3643,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6819,7 +6824,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6827,7 +6832,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6835,7 +6840,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6875,7 +6880,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6883,7 +6888,7 @@
       "Name": "Master of Pistols",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
@@ -6907,7 +6912,7 @@
       "Name": "Master-at-arms",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_24_GUNSLINGER",
@@ -6947,7 +6952,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7362,13 +7367,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3593,
+      "Progressed": 3594,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3642,
+      "Progressed": 3643,
       "Completed": 11
     }
   ],
@@ -7376,8 +7381,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:12:47.8164316+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:07:03.1442549+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:03:54.074852+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:12:47.8165452+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:58:11.3169837+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:07:03.1443388+00:00"
 }

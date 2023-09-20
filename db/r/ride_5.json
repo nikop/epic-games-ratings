@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 993,
+  "EOS_Progressed": 994,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1364,6 +1364,11 @@
       "Time": "2023-09-20T13:09:43.6035506+00:00",
       "NumProgressed": 993,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T14:03:49.7485759+00:00",
+      "NumProgressed": 994,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1376,7 +1381,7 @@
       "Name": "First Love",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1384,7 +1389,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1406,9 +1411,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 159
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1584,7 +1589,7 @@
       "Name": "Clean Race",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1632,7 +1637,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1664,15 +1669,15 @@
       "Name": "Bitter Rivalry",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 358
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -1767,14 +1772,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 993,
+      "Progressed": 994,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-20T13:09:43.6035502+00:00",
+  "LastChanged_Achievements": "2023-09-20T14:03:49.7485754+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:05:55.736923+00:00",
-  "LastUpdate_Achievements": "2023-09-20T13:09:43.603612+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:00:17.9690713+00:00",
+  "LastUpdate_Achievements": "2023-09-20T14:03:49.7486153+00:00"
 }

@@ -10,13 +10,13 @@
 | Our efforts are finally yielding progress | 7.00% | ~23 |
 | This looks really bad | 6.00% | ~20 |
 | Unholy lands | 5.00% | ~17 |
-| Unveiling the Magnitude of Sin | 3.00% | ~10 |
+| Unveiling the Magnitude of Sin | 4.00% | ~13 |
 | The crucifixion | 2.00% | ~7 |
 | The choice | 2.00% | ~7 |
+| Hubris | 2.00% | ~7 |
 | The court | 2.00% | ~7 |
 | Holy Nails | 2.00% | ~7 |
 | Flagellation | 2.00% | ~7 |
-| Hubris | 1.00% | ~3 |
 | Humility | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 331 (Ranked 282)  

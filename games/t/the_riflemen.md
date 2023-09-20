@@ -19,8 +19,8 @@
 | Sniper Master | 0.00% | ~0 |
 | Sword Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,032 (Ranked 128)  
-Completed: 11,759 (97.73%) (Ranked 1)  
+Progressed: 12,044 (Ranked 128)  
+Completed: 11,759 (97.63%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,4 +58,4 @@ Completed: 11,759 (97.73%) (Ranked 1)
 | 2023-09-17 | 11,521 | 11,521 |
 | 2023-09-18 | 11,694 | 11,694 |
 | 2023-09-19 | 11,914 | 11,759 |
-| 2023-09-20 | 12,032 | 11,759 |
+| 2023-09-20 | 12,044 | 11,759 |

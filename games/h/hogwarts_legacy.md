@@ -11,18 +11,18 @@ Rating: 4.77 (Ranked 112)
 | A Keen Sense of Spell | 12.00% | ~35,639 |
 | A Talent for Spending | 11.00% | ~32,669 |
 | That's a Keeper | 11.00% | ~32,669 |
-| Grappling with a Graphorn | 10.00% | ~29,699 |
-| The One Who Mastered Memories | 10.00% | ~29,699 |
-| The Hallowed Hero | 10.00% | ~29,699 |
-| The Defender of Dragons | 10.00% | ~29,699 |
-| Challenge Accepted | 10.00% | ~29,699 |
-| Loom for Improvement | 10.00% | ~29,699 |
-| Coasting Along | 10.00% | ~29,699 |
-| The Hero of Hogwarts | 9.00% | ~26,729 |
-| Followed the Butterflies | 9.00% | ~26,729 |
-| Rising From the Ashes | 9.00% | ~26,729 |
-| A Sallow Grave | 8.00% | ~23,759 |
-| The Spell Master | 8.00% | ~23,759 |
+| Grappling with a Graphorn | 10.00% | ~29,700 |
+| The One Who Mastered Memories | 10.00% | ~29,700 |
+| The Hallowed Hero | 10.00% | ~29,700 |
+| The Defender of Dragons | 10.00% | ~29,700 |
+| Challenge Accepted | 10.00% | ~29,700 |
+| Loom for Improvement | 10.00% | ~29,700 |
+| Coasting Along | 10.00% | ~29,700 |
+| The Hero of Hogwarts | 9.00% | ~26,730 |
+| Followed the Butterflies | 9.00% | ~26,730 |
+| Rising From the Ashes | 9.00% | ~26,730 |
+| A Sallow Grave | 8.00% | ~23,760 |
+| The Spell Master | 8.00% | ~23,760 |
 | The Avenging Gazelle | 7.00% | ~20,790 |
 | Beast Friends | 7.00% | ~20,790 |
 | Flight the Good Flight | 7.00% | ~20,790 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 112)
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,993 (Ranked 44)  
+Progressed: 296,995 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 476 (0.16%) (Ranked 207)
 | 2023-09-17 | 296,862 | 474 |
 | 2023-09-18 | 296,907 | 474 |
 | 2023-09-19 | 296,968 | 475 |
-| 2023-09-20 | 296,993 | 476 |
+| 2023-09-20 | 296,995 | 476 |
 ## Awards
 Max (Character Customization): 22,851  (Ranked 17)  
 Sum: 43,804 (Ranked 30)  

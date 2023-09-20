@@ -12,7 +12,7 @@
 | Found an oasis | 43.00% | ~302 |
 | Burger or pizza? | 38.00% | ~267 |
 | Passion for sports | 32.00% | ~225 |
-| Who loves trains? | 29.00% | ~204 |
+| Who loves trains? | 30.00% | ~211 |
 | Easy and steady climb | 28.00% | ~197 |
 | At the heart of the city | 24.00% | ~169 |
 | Calm neighborhood | 22.00% | ~155 |
