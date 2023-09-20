@@ -2,9 +2,9 @@
   "ID": "08900611756a442ab81750df9deacd77",
   "Name": "Saint Kotar",
   "ProductSlug": "saint-kotar-7f0c47",
-  "Ranking_EOS_Progress": 450,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:06:45.0751424+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:48:07.3545962+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:15.6940028+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:57:27.5304351+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:06:45.0752302+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:39:02.7317844+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:48:07.3546245+00:00"
 }

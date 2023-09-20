@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -1348,9 +1348,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "scoreminrankrb2",
@@ -1437,8 +1437,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:06:39.069701+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:48:01.2249652+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.6432999+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:59:35.3525673+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:06:39.0697325+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:41:16.9597992+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:48:01.2249801+00:00"
 }

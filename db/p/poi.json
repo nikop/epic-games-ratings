@@ -4,7 +4,7 @@
   "ProductSlug": "poi-08959d",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-01T17:00:00+00:00",
@@ -244,8 +244,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:53.5136061+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:03:58.4323107+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:45:20.8213612+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:58.421961+00:00",
-  "LastUpdate_Ratings": "2023-09-20T00:00:32.5937198+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:03:58.4323396+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:42:13.3886236+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:45:20.8213753+00:00"
 }

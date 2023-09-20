@@ -9,6 +9,7 @@ Rating: 4.50 (Ranked 567)
 | Advancement | 0.40% | ~104 |
 | Meticulously Efficient | 0.40% | ~104 |
 | Back Off | 0.30% | ~78 |
+| Clutch Capture | 0.30% | ~78 |
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Cultured | 0.30% | ~78 |
 | Discovery | 0.30% | ~78 |
@@ -18,7 +19,6 @@ Rating: 4.50 (Ranked 567)
 | Vaporous Expansion | 0.30% | ~78 |
 | Whoopsie | 0.30% | ~78 |
 | Animated | 0.20% | ~52 |
-| Clutch Capture | 0.20% | ~52 |
 | Ectoplasmic Entity | 0.20% | ~52 |
 | Ghostbuster In Training | 0.20% | ~52 |
 | Icing on the Cake | 0.20% | ~52 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 567)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,909 (Ranked 107)  
+Progressed: 25,910 (Ranked 107)  
 Completed: 56 (0.22%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,9 +210,10 @@ Completed: 56 (0.22%) (Ranked 196)
 | 2023-09-17 | 25,875 | 56 |
 | 2023-09-18 | 25,888 | 56 |
 | 2023-09-19 | 25,909 | 56 |
+| 2023-09-20 | 25,910 | 56 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 255)  
-Sum: 2,317 (Ranked 188)  
+Sum: 2,320 (Ranked 188)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -220,8 +221,8 @@ Diff (max vs sum): 67
 | This game is Great for Quick Sessions | 254 |
 | This game has Competitive Players | 236 |
 | This game has Amazing Storytelling | 234 |
+| This game is Extremely Fun | 231 |
 | This game has Diverse Characters | 230 |
-| This game is Extremely Fun | 228 |
 | This game is Highly Recommended | 226 |
 | This game is Relaxing | 224 |
 | This game has Quickly Understood Controls | 216 |
@@ -393,3 +394,4 @@ Diff (max vs sum): 67
 | 2023-09-16 | 4.50 | 254 | 2,314 |
 | 2023-09-17 | 4.50 | 254 | 2,316 |
 | 2023-09-19 | 4.50 | 254 | 2,317 |
+| 2023-09-20 | 4.50 | 254 | 2,320 |

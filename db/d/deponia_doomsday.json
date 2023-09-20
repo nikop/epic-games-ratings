@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -305,6 +305,11 @@
       "Time": "2023-09-19T11:07:38.5062881+00:00",
       "NumProgressed": 402,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-20T01:48:16.5501748+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -316,7 +321,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "dep4_achievement_10",
@@ -340,7 +345,7 @@
       "Name": "Masseltov",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "dep4_achievement_13",
@@ -372,7 +377,7 @@
       "Name": "Brainfreeze",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "dep4_achievement_17",
@@ -388,7 +393,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "dep4_achievement_19",
@@ -396,7 +401,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "dep4_achievement_2",
@@ -404,7 +409,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "dep4_achievement_20",
@@ -458,9 +463,9 @@
       "ID": "dep4_achievement_26",
       "SetID": "5d32b60",
       "Name": "Scaffolding Expert",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 149
     },
     {
       "ID": "dep4_achievement_27",
@@ -476,7 +481,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "dep4_achievement_29",
@@ -492,7 +497,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "dep4_achievement_30",
@@ -556,7 +561,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "dep4_achievement_5",
@@ -588,7 +593,7 @@
       "Name": "And everything comes full circle.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "dep4_achievement_9",
@@ -603,7 +608,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 6
     }
   ],
@@ -611,8 +616,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:06:54.0703495+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:48:16.5501743+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.6821745+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:57:12.4393349+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:06:54.0704018+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:38:47.2215428+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:48:16.5501987+00:00"
 }

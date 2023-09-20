@@ -7768,10 +7768,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43775,
       "NumberOfAwardsMax": 22851
+    },
+    {
+      "Time": "2023-09-20T01:39:41.6418422+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43788,
+      "NumberOfAwardsMax": 22851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43775,
+  "NumberOfAwards": 43788,
   "NumberOfAwardsMax": 22851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7785,7 +7791,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11225
+      "Count": 11238
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -7848,7 +7854,7 @@
       "Count": 660
     }
   ],
-  "EOS_Progressed": 296969,
+  "EOS_Progressed": 296973,
   "EOS_Completed": 475,
   "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 5,
@@ -24358,6 +24364,11 @@
       "Time": "2023-09-20T00:05:07.2870976+00:00",
       "NumProgressed": 296969,
       "NumCompleted": 475
+    },
+    {
+      "Time": "2023-09-20T01:46:29.8580307+00:00",
+      "NumProgressed": 296973,
+      "NumCompleted": 475
     }
   ],
   "TotalAchievements": 45,
@@ -24401,7 +24412,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26727
+      "UsersEstimate": 26728
     },
     {
       "ID": "PFA_14",
@@ -24489,7 +24500,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35636
+      "UsersEstimate": 35637
     },
     {
       "ID": "PFA_24",
@@ -24537,7 +24548,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14848
+      "UsersEstimate": 14849
     },
     {
       "ID": "PFA_3",
@@ -24593,7 +24604,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26727
+      "UsersEstimate": 26728
     },
     {
       "ID": "PFA_36",
@@ -24649,7 +24660,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14848
+      "UsersEstimate": 14849
     },
     {
       "ID": "PFA_42",
@@ -24721,23 +24732,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26727
+      "UsersEstimate": 26728
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296969,
+      "Progressed": 296973,
       "Completed": 475
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-19T23:58:06.9758438+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:05:07.2870968+00:00",
+  "LastChanged": "2023-09-20T01:39:41.6418421+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:46:29.8580302+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:58:06.9758447+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:05:07.2873405+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:39:41.6418432+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:46:29.8581368+00:00"
 }

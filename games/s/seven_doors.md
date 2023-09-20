@@ -22,7 +22,7 @@
 | Egyptologist | 9.00% | ~1 |
 | The Last Skull | 9.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 483)  
+Progressed: 11 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

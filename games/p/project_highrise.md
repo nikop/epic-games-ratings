@@ -48,8 +48,8 @@
 | Phoning It In | 9.00% | ~30 |
 | First 100 Days | 8.00% | ~27 |
 | Water Features | 8.00% | ~27 |
+| Meet Me at HQ | 8.00% | ~27 |
 | Careful Constructor | 7.00% | ~24 |
-| Meet Me at HQ | 7.00% | ~24 |
 | Profound Proceeds | 7.00% | ~24 |
 | Maximum Reuse | 7.00% | ~24 |
 | Revenue Royalty | 7.00% | ~24 |

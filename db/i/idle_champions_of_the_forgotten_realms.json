@@ -6754,9 +6754,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229417,
+  "EOS_Progressed": 229423,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23659,6 +23659,11 @@
       "Time": "2023-09-20T00:03:27.132057+00:00",
       "NumProgressed": 229417,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-20T01:44:29.1083647+00:00",
+      "NumProgressed": 229423,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 520,
@@ -25092,9 +25097,9 @@
       "ID": "objective_completed_231",
       "SetID": "cc37lbc",
       "Name": "Chatty Nobles",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_232",
@@ -27548,9 +27553,9 @@
       "ID": "objective_completed_95",
       "SetID": "cc37lbc",
       "Name": "The Haunted Jungle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_96",
@@ -27829,21 +27834,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195691,
+      "Progressed": 195697,
       "Completed": 3438
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229417,
+      "Progressed": 229423,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:03:27.1320561+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:44:29.1083641+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:58:36.7451893+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:03:27.1352848+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:40:10.365227+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:44:29.1108728+00:00"
 }

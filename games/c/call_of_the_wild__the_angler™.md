@@ -18,7 +18,7 @@ Number of Ratings: 281  (23.09.2022)
 | Things that go Splash in the Night | 31.00% | ~1,807 |
 | Goldfish? | 29.00% | ~1,691 |
 | Going for Gold | 26.00% | ~1,516 |
-| I'm Hooked! | 19.00% | ~1,108 |
+| I'm Hooked! | 20.00% | ~1,166 |
 | Diamond in the Rough | 13.00% | ~758 |
 | More than a Tourist | 11.00% | ~641 |
 | School's Out for Summer | 9.00% | ~525 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,830 (Ranked 148)  
+Progressed: 5,830 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

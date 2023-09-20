@@ -1,38 +1,38 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.28 (Ranked 815)  
+Rating: 4.27 (Ranked 821)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 69.00% | ~11 |
-| MVP | 69.00% | ~11 |
-| Big Spender | 63.00% | ~10 |
-| Stud Finder | 50.00% | ~8 |
-| Dealmaker | 50.00% | ~8 |
-| ROTY | 44.00% | ~7 |
-| Future of the Franchise | 31.00% | ~5 |
-| Roster Reshuffle | 31.00% | ~5 |
-| Throwin’ Dots | 25.00% | ~4 |
-| Change of Scenery | 25.00% | ~4 |
-| Already in Progress | 19.00% | ~3 |
-| Head-to-Head | 19.00% | ~3 |
-| Primetime | 13.00% | ~2 |
-| Lockdown Corner | 13.00% | ~2 |
-| Pro Bowler | 13.00% | ~2 |
-| Pocket Ace | 0.00% | ~0 |
+| MVP | 67.00% | ~62 |
+| Bragging Rights | 66.00% | ~61 |
+| Big Spender | 58.00% | ~53 |
+| Stud Finder | 54.00% | ~50 |
+| Dealmaker | 50.00% | ~46 |
+| ROTY | 39.00% | ~36 |
+| Roster Reshuffle | 34.00% | ~31 |
+| Future of the Franchise | 29.00% | ~27 |
+| Pro Bowler | 21.00% | ~19 |
+| Throwin’ Dots | 20.00% | ~18 |
+| Change of Scenery | 20.00% | ~18 |
+| Primetime | 14.00% | ~13 |
+| Already in Progress | 14.00% | ~13 |
+| Head-to-Head | 9.00% | ~8 |
+| Unblockable | 7.00% | ~6 |
+| Pocket Ace | 4.00% | ~4 |
+| Lockdown Corner | 4.00% | ~4 |
 | Gain Train | 0.00% | ~0 |
 | Ol' Reliable | 0.00% | ~0 |
-| Unblockable | 0.00% | ~0 |
 | Lockdown Leader | 0.00% | ~0 |
 | The Fortress | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 463)  
+Progressed: 92 (Ranked 366)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-20 | 16 | 0 |
+| 2023-09-20 | 92 | 0 |
 ## Awards
 Max (Diverse Characters): 25  (Ranked 485)  
 Sum: 66 (Ranked 446)  
@@ -151,3 +151,4 @@ Diff (max vs sum): 39
 | 2023-09-15 | 4.29 | 24 | 65 |
 | 2023-09-16 | 4.28 | 24 | 65 |
 | 2023-09-18 | 4.28 | 25 | 66 |
+| 2023-09-20 | 4.27 | 25 | 66 |

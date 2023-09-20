@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53531,
+  "EOS_Progressed": 53569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19024,
+  "EOS_NewPlayers": 18696,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1729,6 +1729,11 @@
       "Time": "2023-09-20T00:05:46.5614049+00:00",
       "NumProgressed": 53531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T01:47:09.3331746+00:00",
+      "NumProgressed": 53569,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1741,7 +1746,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3214
     },
     {
       "ID": "10",
@@ -1805,7 +1810,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "3",
@@ -1829,7 +1834,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "6",
@@ -1868,7 +1873,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 53531,
+      "Progressed": 53569,
       "Completed": 0
     }
   ],
@@ -1876,8 +1881,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-19T01:41:08.548779+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:05:46.5614043+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:47:09.3331743+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.1772616+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:58:41.9649577+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:05:46.5614283+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:40:18.6368552+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:47:09.3331909+00:00"
 }

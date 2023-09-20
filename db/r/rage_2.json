@@ -2,12 +2,12 @@
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "RAGE 2",
   "ProductSlug": "rage-2",
-  "Ranking_Rating": 822,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -2558,8 +2558,8 @@
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "FirstSeenAchievements": "2023-05-23T21:03:37.9504818+00:00",
   "LastChanged": "2023-09-19T16:59:19.1939942+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:04:49.9085428+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:46:12.958495+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.1702089+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:58:58.4208943+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:04:49.9085474+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:40:35.9803759+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:46:12.958499+00:00"
 }

@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232126,
+  "EOS_Progressed": 232129,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
@@ -16378,6 +16378,11 @@
       "Time": "2023-09-19T23:05:26.8110884+00:00",
       "NumProgressed": 232126,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-20T01:46:58.1784994+00:00",
+      "NumProgressed": 232129,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16405,7 +16410,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64995
+      "UsersEstimate": 64996
     },
     {
       "ID": "CENTAUR",
@@ -16477,7 +16482,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46425
+      "UsersEstimate": 46426
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -16525,7 +16530,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76602
+      "UsersEstimate": 76603
     },
     {
       "ID": "NOBUNAGA",
@@ -16549,7 +16554,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20891
+      "UsersEstimate": 20892
     },
     {
       "ID": "PHOTOFINISH",
@@ -16653,22 +16658,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95172
+      "UsersEstimate": 95173
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232126,
+      "Progressed": 232129,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:05:35.4924051+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:46:58.1784991+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.1224951+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:59:03.3507394+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:05:35.4925804+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:40:40.9104139+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:46:58.1785932+00:00"
 }

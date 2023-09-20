@@ -13,10 +13,10 @@
 | Festival Fever | 19.00% | ~6 |
 | Entering New Territory | 16.00% | ~5 |
 | Landscaper | 9.00% | ~3 |
+| Lecturer | 9.00% | ~3 |
 | Gotta Adopt Them All! | 6.00% | ~2 |
 | Diamonds in the Rough | 6.00% | ~2 |
 | Dream Big | 6.00% | ~2 |
-| Lecturer | 6.00% | ~2 |
 | Kindred Spirits | 6.00% | ~2 |
 | Protected Nature Reserve | 3.00% | ~1 |
 | Paving the Way | 3.00% | ~1 |
@@ -30,7 +30,7 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 433)  
+Progressed: 32 (Ranked 435)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1952,
+  "EOS_Progressed": 1953,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5647,6 +5647,11 @@
       "Time": "2023-09-19T09:04:12.8442122+00:00",
       "NumProgressed": 1952,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-20T01:45:41.7418723+00:00",
+      "NumProgressed": 1953,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5762,7 +5767,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "dragonmaster",
@@ -5840,9 +5845,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 820
     },
     {
       "ID": "fourleafclover",
@@ -6008,9 +6013,9 @@
       "ID": "movinguptheladder",
       "SetID": "3nl4bcg",
       "Name": "Moving Up The Ladder",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 195
     },
     {
       "ID": "mysteriousrock",
@@ -6050,7 +6055,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "prestigiousx10",
@@ -6058,7 +6063,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "relicofthepast",
@@ -6218,7 +6223,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "warmachinesarmy",
@@ -6250,14 +6255,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1952,
+      "Progressed": 1953,
       "Completed": 2
     }
   ],
@@ -6265,8 +6270,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:04:19.3851192+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:45:41.7418718+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:58:51.5157616+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:04:19.3853059+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:40:30.184462+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:45:41.7419603+00:00"
 }

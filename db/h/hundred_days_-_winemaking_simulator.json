@@ -5,9 +5,9 @@
   "Ranking_Rating": 759,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 217,
-  "Ranking_EOS_Progress": 160,
+  "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1000,11 +1000,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3996,
+  "EOS_Progressed": 4006,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1241,
+  "EOS_NewPlayers": 1246,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -3455,6 +3455,11 @@
       "Time": "2023-09-20T00:06:43.382217+00:00",
       "NumProgressed": 3996,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-20T01:48:05.6263931+00:00",
+      "NumProgressed": 4006,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3467,7 +3472,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "a_10",
@@ -3515,7 +3520,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1482
     },
     {
       "ID": "a_19",
@@ -3617,17 +3622,17 @@
       "ID": "a_31",
       "SetID": "daiie3o",
       "Name": "King of white wines",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "a_33",
@@ -3657,9 +3662,9 @@
       "ID": "a_36",
       "SetID": "daiie3o",
       "Name": "Unsuitable Terroir",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "a_4",
@@ -3689,9 +3694,9 @@
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "a_8",
@@ -3714,7 +3719,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3996,
+      "Progressed": 4006,
       "Completed": 5
     }
   ],
@@ -3722,8 +3727,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:06:43.3822161+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:48:05.6263928+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:58:29.7534925+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:06:43.3822826+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:40:02.9411977+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:48:05.6264225+00:00"
 }

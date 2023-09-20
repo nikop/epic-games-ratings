@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65820,
+  "EOS_Progressed": 65822,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15242,6 +15242,11 @@
       "Time": "2023-09-20T00:04:15.7623004+00:00",
       "NumProgressed": 65820,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T01:45:37.6785647+00:00",
+      "NumProgressed": 65822,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15253,7 +15258,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26986
+      "UsersEstimate": 26987
     },
     {
       "ID": "02",
@@ -15261,7 +15266,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17113
+      "UsersEstimate": 17114
     },
     {
       "ID": "03",
@@ -15269,7 +15274,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16455
+      "UsersEstimate": 16456
     },
     {
       "ID": "04",
@@ -15285,7 +15290,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14480
+      "UsersEstimate": 14481
     },
     {
       "ID": "06",
@@ -15437,7 +15442,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7898
+      "UsersEstimate": 7899
     },
     {
       "ID": "25",
@@ -15453,7 +15458,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7898
+      "UsersEstimate": 7899
     },
     {
       "ID": "27",
@@ -15493,7 +15498,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11189
+      "UsersEstimate": 11190
     },
     {
       "ID": "32",
@@ -15501,7 +15506,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21062
+      "UsersEstimate": 21063
     },
     {
       "ID": "33",
@@ -15573,7 +15578,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11189
+      "UsersEstimate": 11190
     },
     {
       "ID": "42",
@@ -15613,7 +15618,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10531
+      "UsersEstimate": 10532
     },
     {
       "ID": "47",
@@ -15788,21 +15793,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65820,
+      "Progressed": 65822,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29288,
+      "Progressed": 29290,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:04:15.7622995+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:45:37.6785644+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:58:21.679699+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:04:15.7625315+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:39:56.2466979+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:45:37.6786926+00:00"
 }

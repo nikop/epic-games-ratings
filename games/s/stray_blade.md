@@ -14,8 +14,8 @@
 | Freezing Cold | 18.00% | ~15 |
 | Expert | 17.00% | ~14 |
 | Nothing but the Truth | 15.00% | ~12 |
+| The Golden Flash | 15.00% | ~12 |
 | Searing Heat | 13.00% | ~11 |
-| The Golden Flash | 13.00% | ~11 |
 | The Power of the Mountains | 13.00% | ~11 |
 | Changing the World | 11.00% | ~9 |
 | Locked and Loaded | 10.00% | ~8 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 374)  
+Progressed: 82 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

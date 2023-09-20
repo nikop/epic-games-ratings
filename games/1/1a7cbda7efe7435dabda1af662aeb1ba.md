@@ -10,13 +10,13 @@
 | Crystal Hunter | 8.00% | ~2 |
 | Fence-Sitter | 8.00% | ~2 |
 | Green Thumb | 8.00% | ~2 |
+| Danger | 8.00% | ~2 |
+| Column Crusher | 4.00% | ~1 |
 | Bye-Bye, Butcher | 4.00% | ~1 |
 | Equivalent Exchange | 4.00% | ~1 |
 | Setting Off | 4.00% | ~1 |
-| Danger | 4.00% | ~1 |
 | Rabbit Hunter | 4.00% | ~1 |
 | My Turn | 0.00% | ~0 |
-| Column Crusher | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
 | Rejected Parasite | 0.00% | ~0 |
 | Rebellious Servant | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The End of Fate | 0.00% | ~0 |
 | Breach of Contract | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 445)  
+Progressed: 24 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~9,722 |
-| Battering Crew | 20.00% | ~4,861 |
-| The Kingsroad | 18.00% | ~4,375 |
-| Well Stocked | 14.00% | ~3,403 |
-| Royal Fleet | 13.00% | ~3,160 |
+| Conqueror | 40.00% | ~9,725 |
+| Battering Crew | 20.00% | ~4,863 |
+| The Kingsroad | 18.00% | ~4,376 |
+| Well Stocked | 14.00% | ~3,404 |
+| Royal Fleet | 13.00% | ~3,161 |
 | The Kraken’s Grasp | 9.00% | ~2,188 |
-| Daggers in the Dark | 8.00% | ~1,944 |
-| Alliance | 8.00% | ~1,944 |
-| A Long Journey | 8.00% | ~1,944 |
-| Ours is the Fury | 7.00% | ~1,701 |
-| Winter is Coming | 7.00% | ~1,701 |
-| Oathkeeper | 7.00% | ~1,701 |
-| Influential | 7.00% | ~1,701 |
-| We Do Not Sow | 6.00% | ~1,458 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,458 |
-| Hear me Roar! | 6.00% | ~1,458 |
-| Defender of the Wall | 6.00% | ~1,458 |
-| Growing Strong | 5.00% | ~1,215 |
+| Daggers in the Dark | 8.00% | ~1,945 |
+| Alliance | 8.00% | ~1,945 |
+| A Long Journey | 8.00% | ~1,945 |
+| Ours is the Fury | 7.00% | ~1,702 |
+| Winter is Coming | 7.00% | ~1,702 |
+| Oathkeeper | 7.00% | ~1,702 |
+| Influential | 7.00% | ~1,702 |
+| We Do Not Sow | 6.00% | ~1,459 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,459 |
+| Hear me Roar! | 6.00% | ~1,459 |
+| Defender of the Wall | 6.00% | ~1,459 |
+| Growing Strong | 5.00% | ~1,216 |
 | What is Dead may Never Die | 3.00% | ~729 |
 | The Swift | 3.00% | ~729 |
 | King in the North | 2.00% | ~486 |
 | War of the Five Kings | 1.00% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,306 (Ranked 109)  
+Progressed: 24,313 (Ranked 109)  
 Completed: 56 (0.23%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 56 (0.23%) (Ranked 195)
 | 2023-09-17 | 24,172 | 56 |
 | 2023-09-18 | 24,238 | 56 |
 | 2023-09-19 | 24,303 | 56 |
-| 2023-09-20 | 24,306 | 56 |
+| 2023-09-20 | 24,313 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 319)  
 Sum: 786 (Ranked 267)  

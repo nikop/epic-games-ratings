@@ -5039,9 +5039,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 286
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5246,8 +5246,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-20T00:05:13.0243183+00:00",
+  "LastChanged_Achievements": "2023-09-20T01:46:35.622453+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-19T23:57:23.3795373+00:00",
-  "LastUpdate_Achievements": "2023-09-20T00:05:13.0243824+00:00"
+  "LastUpdate_Ratings": "2023-09-20T01:38:58.8456029+00:00",
+  "LastUpdate_Achievements": "2023-09-20T01:46:35.6224998+00:00"
 }

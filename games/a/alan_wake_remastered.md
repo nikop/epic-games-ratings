@@ -6,17 +6,17 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,986 |
+| Follow the Light | 41.00% | ~26,987 |
 | Let There Be Light | 34.00% | ~22,379 |
-| Float Like a Butterfly | 32.00% | ~21,062 |
-| Nordic Walking | 26.00% | ~17,113 |
-| Bright Falls' Finest | 25.00% | ~16,455 |
-| Under a Thin Layer of Skin | 22.00% | ~14,480 |
+| Float Like a Butterfly | 32.00% | ~21,063 |
+| Nordic Walking | 26.00% | ~17,114 |
+| Bright Falls' Finest | 25.00% | ~16,456 |
+| Under a Thin Layer of Skin | 22.00% | ~14,481 |
 | Park Ranger | 18.00% | ~11,848 |
 | Paging Mr. Wake | 18.00% | ~11,848 |
-| Back! Back, I Say! | 17.00% | ~11,189 |
-| Finders Keepers | 17.00% | ~11,189 |
-| Damn Good Cup of Coffee | 16.00% | ~10,531 |
+| Back! Back, I Say! | 17.00% | ~11,190 |
+| Finders Keepers | 17.00% | ~11,190 |
+| Damn Good Cup of Coffee | 16.00% | ~10,532 |
 | Wheels Within Wheels | 15.00% | ~9,873 |
 | They're Heeeeeere! | 15.00% | ~9,873 |
 | Sound and Fury | 15.00% | ~9,873 |
@@ -27,8 +27,8 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 13.00% | ~8,557 |
 | Collateral Carnage | 13.00% | ~8,557 |
 | Come One, Come All | 13.00% | ~8,557 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,898 |
-| Thunder and Lightning | 12.00% | ~7,898 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,899 |
+| Thunder and Lightning | 12.00% | ~7,899 |
 | Gatekeeper | 11.00% | ~7,240 |
 | The Lady of the Light | 11.00% | ~7,240 |
 | Two For the Price of One | 11.00% | ~7,240 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,820 (Ranked 88)  
+Progressed: 65,822 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 65 (0.10%) (Ranked 224)
 | 2023-09-17 | 65,643 | 65 |
 | 2023-09-18 | 65,733 | 65 |
 | 2023-09-19 | 65,814 | 65 |
-| 2023-09-20 | 65,820 | 65 |
+| 2023-09-20 | 65,822 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
