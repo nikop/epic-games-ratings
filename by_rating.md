@@ -106,17 +106,17 @@
 | 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 519 |
 | 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 519 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,406 | 103 |
-| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,497 | 123 |
+| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,501 | 123 |
+| 101 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 39 | 430 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 940 | 151 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 519 |
 | 101 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 469 |
-| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 5,117 | 68 |
-| 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,130 | 50 |
-| 111 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,851 | 17 |
-| 111 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 519 |
-| 111 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 39 | 430 |
-| 111 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 304 |
-| 111 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 519 |
+| 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 5,117 | 68 |
+| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,130 | 50 |
+| 112 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,851 | 17 |
+| 112 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 519 |
+| 112 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 304 |
+| 112 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 519 |
 | 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,360 | 23 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 519 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,335 | 92 |
@@ -373,7 +373,7 @@
 | 371 | [20XX](games/2/20xx.md) | 4.61 | 37 | 439 |
 | 371 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 519 |
 | 371 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 130 | 311 |
-| 371 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 747 | 164 |
+| 371 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 748 | 164 |
 | 371 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 519 |
 | 371 | [Darkwood](games/d/darkwood.md) | 4.61 | 323 | 234 |
 | 371 | [Dead Space](games/d/dead_space.md) | 4.61 | 93 | 351 |
@@ -591,7 +591,7 @@
 | 583 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 248 |
 | 583 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 130 | 311 |
 | 583 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 519 |
-| 583 | [Maneater](games/m/maneater.md) | 4.49 | 13,686 | 27 |
+| 583 | [Maneater](games/m/maneater.md) | 4.49 | 13,688 | 27 |
 | 583 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 341 |
 | 583 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 458 |
 | 583 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 23 | 495 |

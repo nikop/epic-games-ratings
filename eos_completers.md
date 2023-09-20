@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.20% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.12% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.47% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.86% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.52% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
@@ -75,7 +75,7 @@
 | 73 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 75 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.01% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.02% |
 | 77 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 78 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 79 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -120,8 +120,8 @@
 | 118 | [Chorus](games/c/chorus.md) | 1.26% |
 | 119 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 120 | [Infindustry](games/i/infindustry.md) | 1.18% |
-| 121 | [Eternights](games/e/eternights.md) | 1.09% |
 | 121 | [Trifox](games/t/trifox.md) | 1.09% |
+| 122 | [Eternights](games/e/eternights.md) | 1.08% |
 | 123 | [Adios](games/a/adios.md) | 1.04% |
 | 124 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
 | 125 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
