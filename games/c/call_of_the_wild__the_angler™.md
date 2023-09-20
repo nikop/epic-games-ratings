@@ -6,20 +6,20 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,607 |
-| Hey Good Hookin | 69.00% | ~4,024 |
-| I'm on a Boat! | 60.00% | ~3,499 |
-| Can you smell what the Rod is Hooking | 55.00% | ~3,208 |
-| Scaling up | 55.00% | ~3,208 |
-| More Fish in the Sea | 49.00% | ~2,858 |
-| Ready to Rod and Roll | 46.00% | ~2,683 |
-| Fish Out of Water | 35.00% | ~2,041 |
-| License to Gill | 33.00% | ~1,925 |
-| Things that go Splash in the Night | 31.00% | ~1,808 |
-| Goldfish? | 29.00% | ~1,691 |
-| Going for Gold | 26.00% | ~1,516 |
-| I'm Hooked! | 20.00% | ~1,166 |
-| Diamond in the Rough | 13.00% | ~758 |
+| Fish Just Got Reel | 79.00% | ~4,610 |
+| Hey Good Hookin | 69.00% | ~4,026 |
+| I'm on a Boat! | 59.00% | ~3,443 |
+| Can you smell what the Rod is Hooking | 55.00% | ~3,209 |
+| Scaling up | 55.00% | ~3,209 |
+| More Fish in the Sea | 49.00% | ~2,859 |
+| Ready to Rod and Roll | 46.00% | ~2,684 |
+| Fish Out of Water | 35.00% | ~2,042 |
+| License to Gill | 33.00% | ~1,926 |
+| Things that go Splash in the Night | 31.00% | ~1,809 |
+| Goldfish? | 29.00% | ~1,692 |
+| Going for Gold | 26.00% | ~1,517 |
+| I'm Hooked! | 20.00% | ~1,167 |
+| Diamond in the Rough | 13.00% | ~759 |
 | More than a Tourist | 11.00% | ~642 |
 | School's Out for Summer | 9.00% | ~525 |
 | Hook, Line and Sinker | 8.00% | ~467 |
@@ -35,14 +35,14 @@ Number of Ratings: 281  (23.09.2022)
 | Fish upon a Star | 0.60% | ~31 |
 | Lake Me up Before You Go Go | 0.50% | ~29 |
 | Cache and Carry | 0.40% | ~21 |
-| Golden Ridge Ranger | 0.30% | ~17 |
+| Golden Ridge Ranger | 0.30% | ~18 |
 | Trollsporet Tale Teller | 0.30% | ~16 |
 | Buckaroo | 0.20% | ~12 |
 | Lost and Flounder | 0.10% | ~6 |
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,832 (Ranked 149)  
+Progressed: 5,835 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-17 | 5,819 | 0 |
 | 2023-09-18 | 5,825 | 0 |
 | 2023-09-19 | 5,830 | 0 |
-| 2023-09-20 | 5,832 | 0 |
+| 2023-09-20 | 5,835 | 0 |
 ## Awards
 Max (Relaxing): 35  (Ranked 446)  
 Sum: 174 (Ranked 388)  

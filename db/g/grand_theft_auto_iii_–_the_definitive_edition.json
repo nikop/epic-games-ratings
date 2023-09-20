@@ -472,9 +472,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7923,
+  "EOS_Progressed": 7926,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -8707,6 +8707,11 @@
       "Time": "2023-09-20T14:03:41.4453645+00:00",
       "NumProgressed": 7923,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-20T15:04:16.0236095+00:00",
+      "NumProgressed": 7926,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8718,7 +8723,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6579
     },
     {
       "ID": "ACH02",
@@ -8726,7 +8731,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "ACH03",
@@ -8742,7 +8747,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "ACH05",
@@ -8758,7 +8763,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "ACH07",
@@ -8782,7 +8787,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH10",
@@ -8790,7 +8795,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACH11",
@@ -8814,7 +8819,7 @@
       "Name": "Where To?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH14",
@@ -8838,7 +8843,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "ACH17",
@@ -8846,7 +8851,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH18",
@@ -8854,7 +8859,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH19",
@@ -8878,7 +8883,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH22",
@@ -8886,7 +8891,7 @@
       "Name": "Playing Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH23",
@@ -8910,7 +8915,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH26",
@@ -8926,7 +8931,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH28",
@@ -8949,7 +8954,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7923,
+      "Progressed": 7926,
       "Completed": 50
     }
   ],
@@ -8957,8 +8962,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-17T18:58:19.8654024+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:03:41.4453641+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:04:16.0236088+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:59:16.2837921+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:03:41.4454199+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:59:56.7921115+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:04:16.0236844+00:00"
 }

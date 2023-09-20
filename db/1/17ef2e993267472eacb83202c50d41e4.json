@@ -4,8 +4,8 @@
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6222,
+  "EOS_Progressed": 6224,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2066,6 +2066,11 @@
       "Time": "2023-09-20T14:07:13.481169+00:00",
       "NumProgressed": 6222,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T15:08:21.1453483+00:00",
+      "NumProgressed": 6224,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2126,7 +2131,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "CreditsSpent50000",
@@ -2198,7 +2203,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "GamesPlayed10",
@@ -2222,7 +2227,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "GamesWon10",
@@ -2294,7 +2299,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "HSUPurchased1",
@@ -2486,7 +2491,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "NeutralKills200",
@@ -2510,7 +2515,7 @@
       "Name": "10 Eliminations",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "PlayerKills100",
@@ -2574,7 +2579,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "SEUpgraded1",
@@ -2669,14 +2674,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6222,
+      "Progressed": 6224,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:07:13.4811684+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:08:21.1453475+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:57:49.0313287+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:07:13.4812393+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:58:09.6379014+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:08:21.1454602+00:00"
 }

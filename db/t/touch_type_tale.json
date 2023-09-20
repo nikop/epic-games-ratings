@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3612,
+  "EOS_Progressed": 3613,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
@@ -3774,6 +3774,11 @@
       "Time": "2023-09-20T14:07:53.0060272+00:00",
       "NumProgressed": 3612,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-20T15:09:07.6865368+00:00",
+      "NumProgressed": 3613,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3849,7 +3854,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "campaign12",
@@ -3905,7 +3910,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "campaign19",
@@ -3921,7 +3926,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "campaign20",
@@ -3937,7 +3942,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "campaign4",
@@ -3945,7 +3950,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "campaign5",
@@ -3977,7 +3982,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "campaign9",
@@ -4025,7 +4030,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "scenario6",
@@ -4033,7 +4038,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "scenario7",
@@ -4048,7 +4053,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3612,
+      "Progressed": 3613,
       "Completed": 11
     }
   ],
@@ -4056,8 +4061,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:07:53.0060266+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:09:07.6865361+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:57:32.6496688+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:07:53.0060632+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:57:49.7315324+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:09:07.6866018+00:00"
 }

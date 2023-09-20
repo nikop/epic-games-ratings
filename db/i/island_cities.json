@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -2949,9 +2949,9 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 344
+      "UsersEstimate": 352
     },
     {
       "ID": "LEVEL_006",
@@ -3102,8 +3102,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:08:22.5188435+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:09:30.0993107+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:02.2718006+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:57:15.4155587+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:08:22.5188715+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:57:25.2172633+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:09:30.0993527+00:00"
 }

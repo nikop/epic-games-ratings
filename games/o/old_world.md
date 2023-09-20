@@ -12,17 +12,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 5.00% | ~701 |
 | Friendly Family | 5.00% | ~701 |
 | The Clergy | 5.00% | ~701 |
-| Able | 4.00% | ~560 |
-| Architect | 4.00% | ~560 |
-| Good | 4.00% | ~560 |
-| Just | 4.00% | ~560 |
-| Learned | 4.00% | ~560 |
-| Mason | 4.00% | ~560 |
-| Noble | 4.00% | ~560 |
-| Pioneer | 4.00% | ~560 |
-| Strong | 4.00% | ~560 |
-| Hanging Gardens | 4.00% | ~560 |
-| Oracle | 4.00% | ~560 |
+| Able | 4.00% | ~561 |
+| Architect | 4.00% | ~561 |
+| Good | 4.00% | ~561 |
+| Just | 4.00% | ~561 |
+| Learned | 4.00% | ~561 |
+| Mason | 4.00% | ~561 |
+| Noble | 4.00% | ~561 |
+| Pioneer | 4.00% | ~561 |
+| Strong | 4.00% | ~561 |
+| Hanging Gardens | 4.00% | ~561 |
+| Oracle | 4.00% | ~561 |
 | Ambitious | 3.00% | ~420 |
 | Brilliant | 3.00% | ~420 |
 | Enlightened | 3.00% | ~420 |
@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 1.00% | ~140 |
 | Good Difficulty | 1.00% | ~140 |
 | Champions | 1.00% | ~140 |
+| Landowners | 1.00% | ~140 |
 | Patrons | 1.00% | ~140 |
 | Riders | 1.00% | ~140 |
 | Statesmen | 1.00% | ~140 |
@@ -116,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~140 |
 | Bad Heir Day | 0.90% | ~126 |
 | Devout | 0.90% | ~126 |
-| Landowners | 0.90% | ~126 |
 | Adur Burzen-Mihr | 0.90% | ~126 |
 | Carthage | 0.90% | ~126 |
 | Industrial Progress | 0.90% | ~126 |
@@ -130,15 +130,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.80% | ~112 |
 | Turreted Elephant | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
+| Peacemaker | 0.70% | ~98 |
 | Clerics | 0.70% | ~98 |
+| Cao'an | 0.70% | ~98 |
 | Egypt | 0.70% | ~98 |
 | Rome | 0.70% | ~98 |
 | One True Faith | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
 | Old | 0.60% | ~84 |
-| Peacemaker | 0.60% | ~84 |
 | Noble Difficulty | 0.60% | ~84 |
-| Cao'an | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,012 (Ranked 125)  
+Progressed: 14,013 (Ranked 125)  
 Completed: 5 (0.04%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -456,7 +456,7 @@ Completed: 5 (0.04%) (Ranked 247)
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
 | 2023-09-19 | 14,005 | 5 |
-| 2023-09-20 | 14,012 | 5 |
+| 2023-09-20 | 14,013 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

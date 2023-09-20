@@ -6142,9 +6142,9 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136437,
+  "EOS_Progressed": 136439,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21862,6 +21862,11 @@
       "Time": "2023-09-20T14:04:19.6258449+00:00",
       "NumProgressed": 136437,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-20T15:04:48.3575671+00:00",
+      "NumProgressed": 136439,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22113,7 +22118,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "commonres03",
@@ -22177,7 +22182,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "damage02",
@@ -22361,7 +22366,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "gold04",
@@ -22465,7 +22470,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "level03",
@@ -22585,7 +22590,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "quest02",
@@ -22745,7 +22750,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "workers03",
@@ -22768,15 +22773,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136437,
+      "Progressed": 136439,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-19T17:58:38.5337428+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:04:19.6258444+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:04:48.3575662+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:59:46.1598008+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:04:19.6260437+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:00:29.8177116+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:04:48.357802+00:00"
 }

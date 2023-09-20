@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 74.00% | ~20 |
-| Grand Re-Opening | 59.00% | ~16 |
-| Pup Pup Boogie | 56.00% | ~15 |
-| Summer Day | 52.00% | ~14 |
+| Grand Re-Opening | 63.00% | ~17 |
+| Pup Pup Boogie | 59.00% | ~16 |
+| Summer Day | 56.00% | ~15 |
 | Mr. Porter | 44.00% | ~12 |
 | Risky Rescue | 44.00% | ~12 |
 | Carlos Is Tangled | 41.00% | ~11 |
@@ -24,7 +24,7 @@
 | In the Air | 19.00% | ~5 |
 | You Have Been Everywhere | 19.00% | ~5 |
 | Don’t Miss Any | 19.00% | ~5 |
-| Adventure Bay’s Citizen | 15.00% | ~4 |
+| Adventure Bay’s Citizen | 19.00% | ~5 |
 | Everything Under Control | 11.00% | ~3 |
 | Mountain and Ice | 11.00% | ~3 |
 | King of the Mountain | 7.00% | ~2 |

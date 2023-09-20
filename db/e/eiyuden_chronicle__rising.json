@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -164,11 +164,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 691,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.55,
+  "EOS_Completed_Percentage": 8.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -319,6 +319,11 @@
       "Time": "2023-09-18T04:09:09.8760473+00:00",
       "NumProgressed": 690,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-09-20T15:10:06.3066789+00:00",
+      "NumProgressed": 691,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 50,
@@ -330,7 +335,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -346,7 +351,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -354,7 +359,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -362,7 +367,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -378,7 +383,7 @@
       "Name": "The Lava Mantor Wyrm",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -418,7 +423,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -442,7 +447,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -450,7 +455,7 @@
       "Name": "One Mean Merc",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -458,7 +463,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -514,7 +519,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -522,7 +527,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -538,7 +543,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -584,9 +589,9 @@
       "ID": "ACHIEVEMENT033",
       "SetID": "dejhjd5",
       "Name": "Rune Scholar",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -594,7 +599,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -608,9 +613,9 @@
       "ID": "ACHIEVEMENT036",
       "SetID": "dejhjd5",
       "Name": "First Time Hunting",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 339
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -618,7 +623,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -626,7 +631,7 @@
       "Name": "Fishing Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -634,7 +639,7 @@
       "Name": "Meat Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -650,7 +655,7 @@
       "Name": "The Great Forest...On Foot!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -666,15 +671,15 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT044",
       "SetID": "dejhjd5",
       "Name": "The Lava Ruins...On Foot!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -729,15 +734,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 691,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:09:24.7328469+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:10:06.306678+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.7885163+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:08:17.9131311+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:09:24.7328822+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:57:20.0592601+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:10:06.3067283+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 222,
-  "EOS_Completed": 50,
-  "EOS_NewPlayers": 61,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 22.52,
+  "EOS_Completed": 51,
+  "EOS_NewPlayers": 60,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 22.97,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1106,6 +1106,11 @@
       "Time": "2023-09-20T12:03:07.4442048+00:00",
       "NumProgressed": 222,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-20T15:03:38.1654874+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1116,9 +1121,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "Batteries",
@@ -1140,9 +1145,9 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "FirstBox",
@@ -1230,13 +1235,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 222,
-      "Completed": 50
+      "Completed": 51
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:03:16.5853913+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:03:38.1654868+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:57:44.6890472+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:03:16.5854092+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:58:04.4053903+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:03:38.1655289+00:00"
 }

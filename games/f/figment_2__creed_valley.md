@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Remembering of the past | 29.00% | ~2 |
+| Remembering of the past | 43.00% | ~3 |
+| Black Hog Down | 29.00% | ~2 |
 | Ouch, that hurt! | 14.00% | ~1 |
 | Fight like an idiot | 14.00% | ~1 |
-| Black Hog Down | 14.00% | ~1 |
 | Slam-KABAM | 0.00% | ~0 |
 | Heavy Thoughts | 0.00% | ~0 |
 | Patient Listener | 0.00% | ~0 |

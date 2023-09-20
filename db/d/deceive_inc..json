@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18068,
+  "EOS_Progressed": 18069,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10451,6 +10451,11 @@
       "Time": "2023-09-20T14:04:31.246827+00:00",
       "NumProgressed": 18068,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T15:05:12.8388986+00:00",
+      "NumProgressed": 18069,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10662,7 +10667,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "0027",
@@ -10670,7 +10675,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "0028",
@@ -10710,7 +10715,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "0033",
@@ -10718,7 +10723,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "0034",
@@ -10749,7 +10754,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18068,
+      "Progressed": 18069,
       "Completed": 3
     }
   ],
@@ -10757,8 +10762,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:04:31.2468266+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:05:12.8388815+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:01:38.1056337+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:04:31.2468951+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:02:42.4525406+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:05:12.8389965+00:00"
 }

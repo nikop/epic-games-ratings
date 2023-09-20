@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,597 |
-| Ready for Winter | 65.00% | ~2,221 |
-| Ready for Summer | 52.00% | ~1,777 |
-| Cordon Bleu | 44.00% | ~1,503 |
-| Tapped! | 37.00% | ~1,264 |
-| Eureka | 32.00% | ~1,093 |
-| Scourge Slayer | 26.00% | ~888 |
-| Science, Troglodyte! | 24.00% | ~820 |
+| Venture Outward | 75.00% | ~2,564 |
+| Ready for Winter | 64.00% | ~2,188 |
+| Ready for Summer | 52.00% | ~1,778 |
+| Cordon Bleu | 44.00% | ~1,504 |
+| Tapped! | 37.00% | ~1,265 |
+| Eureka | 32.00% | ~1,094 |
+| Scourge Slayer | 26.00% | ~889 |
+| Science, Troglodyte! | 24.00% | ~821 |
 | Exceptional Skill | 23.00% | ~786 |
 | Home Sweet Home | 22.00% | ~752 |
-| Encyclopedic! | 20.00% | ~683 |
+| Encyclopedic! | 20.00% | ~684 |
 | The Power of Family | 17.00% | ~581 |
 | A Fortress Toppled! | 16.00% | ~547 |
 | Apex Predator | 16.00% | ~547 |
 | Strange amalgams | 12.00% | ~410 |
 | The Power of Faith | 12.00% | ~410 |
 | The Power of Freedom | 10.00% | ~342 |
-| Ace Detective | 8.00% | ~273 |
-| Gift from the Ancestors | 8.00% | ~273 |
-| Magic is a science | 8.00% | ~273 |
+| Ace Detective | 8.00% | ~274 |
+| Gift from the Ancestors | 8.00% | ~274 |
+| Magic is a science | 8.00% | ~274 |
 | House of Cards | 7.00% | ~239 |
 | Let ‘em eat magma! | 7.00% | ~239 |
 | The power of ambition | 7.00% | ~239 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,417 (Ranked 168)  
+Progressed: 3,419 (Ranked 168)  
 Completed: 4 (0.12%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 4 (0.12%) (Ranked 216)
 | 2023-09-17 | 3,388 | 3 |
 | 2023-09-18 | 3,406 | 4 |
 | 2023-09-19 | 3,413 | 4 |
-| 2023-09-20 | 3,417 | 4 |
+| 2023-09-20 | 3,419 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 446)  
 Sum: 244 (Ranked 360)  

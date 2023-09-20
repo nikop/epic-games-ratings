@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -180,9 +180,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 59,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "10",
@@ -220,9 +220,9 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "15",
@@ -268,9 +268,9 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "20",
@@ -404,9 +404,9 @@
       "ID": "9",
       "SetID": "38ide56",
       "Name": "Adventure Bay\u2019s Citizen",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -421,8 +421,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:03:18.1856139+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:03:40.0331189+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:33.6260278+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:01:21.6245227+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:03:18.185641+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:02:22.1028491+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:03:40.0331495+00:00"
 }

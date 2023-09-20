@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -13496,10 +13496,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 465951,
       "NumberOfAwardsMax": 178351
+    },
+    {
+      "Time": "2023-09-20T15:01:00.1746119+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 466136,
+      "NumberOfAwardsMax": 178351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 465951,
+  "NumberOfAwards": 466136,
   "NumberOfAwardsMax": 178351,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -13537,7 +13543,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 17341
+      "Count": 17394
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -13555,7 +13561,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 17959
+      "Count": 18037
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13579,7 +13585,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 17059
+      "Count": 17113
     },
     {
       "Text": "This game has a Creative Community",
@@ -13599,8 +13605,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-20T13:05:48.4240436+00:00",
+  "LastChanged": "2023-09-20T15:01:00.1746117+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.347818+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:00:11.3851427+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:03:14.2373385+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:01:00.1746124+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:03:35.0932171+00:00"
 }

@@ -1,23 +1,23 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.46 (Ranked 626)  
+Rating: 4.46 (Ranked 627)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~380 |
-| Close call! | 71.00% | ~346 |
-| Builder | 52.00% | ~253 |
+| Getting started | 78.00% | ~381 |
+| Close call! | 72.00% | ~351 |
+| Builder | 52.00% | ~254 |
 | Pangs of conscience | 46.00% | ~224 |
-| Living it large! | 44.00% | ~214 |
-| Collector | 43.00% | ~209 |
+| Living it large! | 44.00% | ~215 |
+| Collector | 42.00% | ~205 |
 | Need to think | 41.00% | ~200 |
 | Completely nuts! | 39.00% | ~190 |
 | Just in time! | 32.00% | ~156 |
 | Europe | 31.00% | ~151 |
-| It's no coincidence. | 29.00% | ~141 |
-| Madness! | 29.00% | ~141 |
+| It's no coincidence. | 29.00% | ~142 |
+| Madness! | 29.00% | ~142 |
 | Philatelist | 25.00% | ~122 |
 | Let's roll! | 25.00% | ~122 |
 | Ouroboros | 25.00% | ~122 |
@@ -34,9 +34,9 @@ Number of Ratings: 28  (23.09.2022)
 | Tycoon | 8.00% | ~39 |
 | Germany | 6.00% | ~29 |
 | Chuck Norris | 5.00% | ~24 |
-| Сhancellor | 4.00% | ~19 |
-| Peacemaker | 4.00% | ~19 |
-| Supercrash! | 4.00% | ~19 |
+| Сhancellor | 4.00% | ~20 |
+| Peacemaker | 4.00% | ~20 |
+| Supercrash! | 4.00% | ~20 |
 | Forgotten | 2.00% | ~10 |
 | Lucky vandal | 2.00% | ~10 |
 | BBQ | 0.60% | ~3 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487 (Ranked 256)  
+Progressed: 488 (Ranked 256)  
 Completed: 2 (0.41%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.41%) (Ranked 166)
 | 2023-09-17 | 476 | 2 |
 | 2023-09-18 | 482 | 2 |
 | 2023-09-19 | 486 | 2 |
-| 2023-09-20 | 487 | 2 |
+| 2023-09-20 | 488 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

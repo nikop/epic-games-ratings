@@ -7872,9 +7872,9 @@
       "Count": 660
     }
   ],
-  "EOS_Progressed": 296995,
+  "EOS_Progressed": 296996,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24447,6 +24447,11 @@
       "Time": "2023-09-20T14:05:52.2259546+00:00",
       "NumProgressed": 296995,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-20T15:06:46.2514865+00:00",
+      "NumProgressed": 296996,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24578,7 +24583,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35639
+      "UsersEstimate": 35640
     },
     {
       "ID": "PFA_24",
@@ -24642,7 +24647,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32669
+      "UsersEstimate": 32670
     },
     {
       "ID": "PFA_31",
@@ -24802,7 +24807,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32669
+      "UsersEstimate": 32670
     },
     {
       "ID": "PFA_9",
@@ -24817,7 +24822,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296995,
+      "Progressed": 296996,
       "Completed": 476
     }
   ],
@@ -24825,8 +24830,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-20T13:04:24.3012601+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:05:52.2259542+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:06:46.2514861+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:58:42.8568862+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:05:52.2260587+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:59:17.797976+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:06:46.2516611+00:00"
 }

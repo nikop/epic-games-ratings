@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -108,9 +108,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73727,
+  "EOS_Progressed": 73729,
   "EOS_Completed": 764,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -17128,6 +17128,11 @@
       "Time": "2023-09-20T14:07:21.6159435+00:00",
       "NumProgressed": 73727,
       "NumCompleted": 764
+    },
+    {
+      "Time": "2023-09-20T15:08:30.7525899+00:00",
+      "NumProgressed": 73729,
+      "NumCompleted": 764
     }
   ],
   "TotalAchievements": 25,
@@ -17211,7 +17216,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14745
+      "UsersEstimate": 14746
     },
     {
       "ID": "Hearty",
@@ -17227,7 +17232,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6635
+      "UsersEstimate": 6636
     },
     {
       "ID": "Magnetic Miracles",
@@ -17243,7 +17248,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14745
+      "UsersEstimate": 14746
     },
     {
       "ID": "Meaty",
@@ -17259,7 +17264,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14008
+      "UsersEstimate": 14009
     },
     {
       "ID": "Nice Try",
@@ -17267,7 +17272,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11796
+      "UsersEstimate": 11797
     },
     {
       "ID": "Nothing Left to Say",
@@ -17338,7 +17343,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73727,
+      "Progressed": 73729,
       "Completed": 764
     }
   ],
@@ -17346,8 +17351,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:07:21.6159431+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:08:30.7525886+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:57:47.885288+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:07:21.6160343+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:58:08.1243979+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:08:30.7527878+00:00"
 }

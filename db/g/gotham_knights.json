@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3032,10 +3032,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72684,
-  "EOS_Completed": 115,
-  "EOS_NewPlayers": 201,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 72685,
+  "EOS_Completed": 116,
+  "EOS_NewPlayers": 199,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -16072,6 +16072,11 @@
       "Time": "2023-09-20T11:05:24.5215467+00:00",
       "NumProgressed": 72684,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-09-20T15:05:54.8509743+00:00",
+      "NumProgressed": 72685,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 61,
@@ -16131,7 +16136,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16717
+      "UsersEstimate": 16718
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16307,7 +16312,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21078
+      "UsersEstimate": 21079
     },
     {
       "ID": "FREEZE_1_5",
@@ -16387,7 +16392,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25439
+      "UsersEstimate": 25440
     },
     {
       "ID": "HARLEY_2",
@@ -16411,7 +16416,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11629
+      "UsersEstimate": 11630
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16491,7 +16496,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16717
+      "UsersEstimate": 16718
     },
     {
       "ID": "MYSTERY_04",
@@ -16570,13 +16575,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72684,
-      "Completed": 115
+      "Progressed": 72685,
+      "Completed": 116
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42964,
+      "Progressed": 42965,
       "Completed": 2664
     }
   ],
@@ -16584,8 +16589,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-20T12:01:40.0888116+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:05:08.2139571+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:05:54.8509734+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:01:25.6539865+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:05:08.2140632+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:02:27.2486522+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:05:54.85121+00:00"
 }

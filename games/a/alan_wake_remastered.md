@@ -46,9 +46,9 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 5.00% | ~3,292 |
 | Ding! | 5.00% | ~1,466 |
 | Boob Tube | 4.00% | ~2,634 |
+| Heartbreaker | 4.00% | ~1,172 |
 | Carny | 3.00% | ~1,975 |
 | Kill Your Darlings | 3.00% | ~879 |
-| Heartbreaker | 3.00% | ~879 |
 | Medical Opinions | 2.00% | ~1,317 |
 | Taken Season | 2.00% | ~1,317 |
 | An Idyllic Small Town | 2.00% | ~1,317 |

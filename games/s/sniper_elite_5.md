@@ -1,42 +1,42 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 626)  
+Rating: 4.46 (Ranked 627)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,676 |
-| Confirming Suspicions | 40.00% | ~1,457 |
-| The Kraken Wakes | 36.00% | ~1,311 |
-| It's Starting to Crack | 33.00% | ~1,202 |
+| Confirming Suspicions | 40.00% | ~1,458 |
+| The Kraken Wakes | 36.00% | ~1,312 |
+| It's Starting to Crack | 33.00% | ~1,203 |
 | Change the Channel | 30.00% | ~1,093 |
-| Lord of War | 29.00% | ~1,056 |
+| Lord of War | 29.00% | ~1,057 |
 | Taking it back | 28.00% | ~1,020 |
 | Resourceful | 26.00% | ~947 |
 | Target America | 26.00% | ~947 |
-| The Kraken Sleeps | 24.00% | ~874 |
-| Liberté | 22.00% | ~801 |
-| Organ Grinder | 22.00% | ~801 |
-| As Quiet as a Mouse | 22.00% | ~801 |
+| The Kraken Sleeps | 24.00% | ~875 |
+| Liberté | 22.00% | ~802 |
+| Organ Grinder | 22.00% | ~802 |
+| As Quiet as a Mouse | 22.00% | ~802 |
 | Sharpshooter | 21.00% | ~765 |
 | Explosive Efficiency | 18.00% | ~656 |
 | Just a Flesh Wound | 17.00% | ~619 |
 | Gunslinger | 17.00% | ~619 |
 | Climbing the Ladder | 16.00% | ~583 |
 | Der Geist | 16.00% | ~583 |
-| Close Quarters | 15.00% | ~546 |
-| Brains of the Operation | 15.00% | ~546 |
+| Close Quarters | 15.00% | ~547 |
+| Brains of the Operation | 15.00% | ~547 |
+| Enemy at the Gates | 14.00% | ~510 |
 | Fields of Glory | 14.00% | ~510 |
 | Skirmisher | 14.00% | ~510 |
 | Die Nussknacker Sweet! | 14.00% | ~510 |
 | Snake in the Grass | 14.00% | ~510 |
 | No Stone Unturned | 13.00% | ~474 |
 | Opposing Force | 13.00% | ~474 |
-| Enemy at the Gates | 13.00% | ~474 |
 | Set Europe Ablaze | 13.00% | ~474 |
 | Precision Is Key | 9.00% | ~328 |
 | My Little Friend | 9.00% | ~328 |
-| Rigged to Blow | 8.00% | ~291 |
+| Rigged to Blow | 8.00% | ~292 |
 | Herr Today, Gone Tomorrow | 6.00% | ~216 |
 | The Long Game | 5.00% | ~182 |
 | It'll Buff Right Out | 5.00% | ~182 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 626)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,643 (Ranked 164)  
+Progressed: 3,644 (Ranked 164)  
 Completed: 11 (0.30%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 11 (0.30%) (Ranked 182)
 | 2023-09-17 | 3,631 | 11 |
 | 2023-09-18 | 3,637 | 11 |
 | 2023-09-19 | 3,639 | 11 |
-| 2023-09-20 | 3,643 | 11 |
+| 2023-09-20 | 3,644 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

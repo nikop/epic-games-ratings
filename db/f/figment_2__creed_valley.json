@@ -153,9 +153,9 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "story_conviction_lane",
@@ -201,9 +201,9 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "story_principle_square",
@@ -226,8 +226,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:06:34.9413713+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:07:35.5544478+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.351036+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:57:21.4497362+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:06:34.9413831+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:57:34.7223023+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:07:35.5544645+00:00"
 }

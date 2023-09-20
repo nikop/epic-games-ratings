@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1394,
+  "EOS_Progressed": 1395,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2660,6 +2660,11 @@
       "Time": "2023-09-20T04:03:54.3253456+00:00",
       "NumProgressed": 1394,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T15:04:23.7482679+00:00",
+      "NumProgressed": 1395,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2671,7 +2676,7 @@
       "Name": "Agent 47",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "Auditor",
@@ -2717,9 +2722,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 237
     },
     {
       "ID": "Defense_Common",
@@ -2775,15 +2780,15 @@
       "Name": "Game Over",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 530
     },
     {
       "ID": "Hard_Serpent",
@@ -2797,9 +2802,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 488
     },
     {
       "ID": "High_noon",
@@ -2855,7 +2860,7 @@
       "Name": "Bomberman",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "MoskitoBite",
@@ -2910,15 +2915,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1394,
+      "Progressed": 1395,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:03:47.8009465+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:04:23.7482672+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:01:05.5432403+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:03:47.8009749+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:02:05.2582294+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:04:23.7483098+00:00"
 }

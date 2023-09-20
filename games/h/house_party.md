@@ -29,14 +29,14 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.60% | ~37 |
 | Vickie | 0.60% | ~37 |
 | Benedict Brahrnold | 0.50% | ~31 |
-| I'll Be Back | 0.50% | ~31 |
 | Casanova | 0.50% | ~31 |
-| Love Conquers All | 0.50% | ~31 |
 | Now It's a Party! | 0.50% | ~31 |
 | Stephanie | 0.50% | ~31 |
 | Te Amo Lety | 0.50% | ~31 |
 | Ashley | 0.40% | ~25 |
+| I'll Be Back | 0.40% | ~25 |
 | Deck the Balls | 0.40% | ~13 |
+| Love Conquers All | 0.40% | ~25 |
 | Good Ol' Days | 0.40% | ~25 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,222 (Ranked 145)  
+Progressed: 6,223 (Ranked 146)  
 Completed: 3 (0.05%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 3 (0.05%) (Ranked 243)
 | 2023-09-17 | 6,198 | 3 |
 | 2023-09-18 | 6,206 | 3 |
 | 2023-09-19 | 6,219 | 3 |
-| 2023-09-20 | 6,222 | 3 |
+| 2023-09-20 | 6,223 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

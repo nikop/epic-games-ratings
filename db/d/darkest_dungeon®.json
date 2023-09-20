@@ -4,10 +4,10 @@
   "ProductSlug": "darkest-dungeon",
   "Ranking_Rating": 118,
   "Ranking_Popularity": 92,
-  "Ranking_PopularitySum": 93,
+  "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-12-25T16:00:00+00:00",
@@ -4833,6 +4833,6 @@
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
   "LastChanged": "2023-09-20T05:00:18.0049203+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.295641+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:00:42.4869675+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:06:45.1381232+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:01:42.0320001+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:07:47.8400787+00:00"
 }

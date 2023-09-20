@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4258,
+  "EOS_Progressed": 4259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2183,
+  "EOS_NewPlayers": 2163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1595,6 +1595,11 @@
       "Time": "2023-09-20T14:03:14.6850635+00:00",
       "NumProgressed": 4258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T15:03:35.6816375+00:00",
+      "NumProgressed": 4259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -1607,7 +1612,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3109
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -1623,7 +1628,7 @@
       "Name": "Calm Sailing",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -1647,7 +1652,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -1701,9 +1706,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1704
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -1767,7 +1772,7 @@
       "Name": "Mist Walker",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -1783,7 +1788,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -1886,7 +1891,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 4258,
+      "Progressed": 4259,
       "Completed": 0
     }
   ],
@@ -1894,8 +1899,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-20T02:13:39.7868877+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:03:14.6850631+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:03:35.6816196+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:57:17.8773822+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:58:38.5561074+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:03:14.6850978+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:59:13.6661319+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:03:35.6816835+00:00"
 }

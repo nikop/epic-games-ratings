@@ -514,7 +514,7 @@
   ],
   "EOS_Progressed": 65844,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15839,9 +15839,9 @@
       "ID": "67",
       "SetID": "6apfemg",
       "Name": "Heartbreaker",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 879
+      "UsersEstimate": 1172
     }
   ],
   "AchievementSets": [
@@ -15861,8 +15861,8 @@
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T14:04:49.3588939+00:00",
+  "LastChanged_Achievements": "2023-09-20T15:05:33.3364239+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T13:59:02.7241254+00:00",
-  "LastUpdate_Achievements": "2023-09-20T14:04:49.3590147+00:00"
+  "LastUpdate_Ratings": "2023-09-20T14:59:42.0621323+00:00",
+  "LastUpdate_Achievements": "2023-09-20T15:05:33.3366029+00:00"
 }
