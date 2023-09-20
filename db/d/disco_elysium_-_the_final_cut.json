@@ -1301,9 +1301,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128313,
+  "EOS_Progressed": 128315,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 735,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16536,6 +16536,11 @@
       "Time": "2023-09-20T06:09:13.8245497+00:00",
       "NumProgressed": 128313,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-20T07:09:16.063443+00:00",
+      "NumProgressed": 128315,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16579,7 +16584,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23096
+      "UsersEstimate": 23097
     },
     {
       "ID": "ACH_COP_BAD",
@@ -16603,7 +16608,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30795
+      "UsersEstimate": 30796
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -16691,7 +16696,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14114
+      "UsersEstimate": 14115
     },
     {
       "ID": "ACH_CUNO",
@@ -16866,15 +16871,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128313,
+      "Progressed": 128315,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:09:13.824549+00:00",
+  "LastChanged_Achievements": "2023-09-20T07:09:16.0634423+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:01:25.8989057+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:09:13.8246988+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:01:36.805829+00:00",
+  "LastUpdate_Achievements": "2023-09-20T07:09:16.0635738+00:00"
 }

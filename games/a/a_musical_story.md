@@ -12,7 +12,7 @@
 | Pinewood, Here we come! | 75.00% | ~75 |
 | The Van | 70.00% | ~70 |
 | Road-Trip | 63.00% | ~63 |
-| A Musical Pause | 60.00% | ~60 |
+| A Musical Pause | 61.00% | ~61 |
 | Briget's | 52.00% | ~52 |
 | Big City Music | 49.00% | ~49 |
 | Sound of Noise | 47.00% | ~47 |

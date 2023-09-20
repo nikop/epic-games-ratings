@@ -6,17 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~32,969 |
+| First F#@!ing Day | 46.00% | ~32,970 |
 | To The Nines | 41.00% | ~29,386 |
-| Optimized | 36.00% | ~25,802 |
-| Performance Review | 35.00% | ~25,085 |
-| Making a Name | 34.00% | ~24,368 |
+| Optimized | 36.00% | ~25,803 |
+| Performance Review | 35.00% | ~25,086 |
+| Making a Name | 34.00% | ~24,369 |
 | Tune Up | 33.00% | ~23,652 |
-| Landlord | 32.00% | ~22,935 |
-| Wet Work | 31.00% | ~22,218 |
+| Landlord | 32.00% | ~22,936 |
+| Wet Work | 31.00% | ~22,219 |
 | The Side Job | 30.00% | ~21,502 |
-| Wrecking Ball | 27.00% | ~19,351 |
-| Food for Thought | 27.00% | ~19,351 |
+| Wrecking Ball | 27.00% | ~19,352 |
+| Food for Thought | 27.00% | ~19,352 |
 | Finders Keepers | 25.00% | ~17,918 |
 | A Young Empire | 25.00% | ~17,918 |
 | Work Ethic | 23.00% | ~16,485 |
@@ -42,7 +42,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Untouchable | 5.00% | ~3,584 |
 | Free Refills | 5.00% | ~3,584 |
 | Smooth Moves | 5.00% | ~3,584 |
-| Hazardous Heist | 5.00% | ~2,165 |
+| Hazardous Heist | 5.00% | ~2,166 |
 | Neighborly | 4.00% | ~2,867 |
 | Prankster | 4.00% | ~2,867 |
 | Tourist | 4.00% | ~2,867 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~143 |
 | Fiesta Time | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,672 (Ranked 84)  
+Progressed: 71,674 (Ranked 84)  
 Completed: 48 (0.07%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 48 (0.07%) (Ranked 233)
 | 2023-09-17 | 70,964 | 48 |
 | 2023-09-18 | 71,353 | 48 |
 | 2023-09-19 | 71,631 | 48 |
-| 2023-09-20 | 71,672 | 48 |
+| 2023-09-20 | 71,674 | 48 |
 ## Awards
 Max (Extremely Fun): 1,067  (Ranked 141)  
 Sum: 8,642 (Ranked 97)  

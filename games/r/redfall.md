@@ -5,7 +5,7 @@ Rating: 3.52 (Ranked 989)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 0.90% | ~16 |
+| I Like My Stakes Rare! | 1.00% | ~17 |
 | Blood Will Have Blood | 0.80% | ~14 |
 | Ne Plus Ultra | 0.80% | ~14 |
 | Grounded | 0.70% | ~12 |
@@ -72,7 +72,7 @@ Rating: 3.52 (Ranked 989)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,745 (Ranked 193)  
+Progressed: 1,746 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-07 | 1,743 | 0 |
 | 2023-09-08 | 1,744 | 0 |
 | 2023-09-17 | 1,745 | 0 |
+| 2023-09-20 | 1,746 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

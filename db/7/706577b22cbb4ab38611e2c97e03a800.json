@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -374,9 +374,9 @@
       "ID": "ACHIEVEMENT_AV_02",
       "SetID": "b50kim2",
       "Name": "MISSION 02",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
@@ -773,8 +773,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:06:53.9747597+00:00",
+  "LastChanged_Achievements": "2023-09-20T07:06:56.2848291+00:00",
   "LastUpdate_AppInfo": "2023-09-19T02:13:55.3494068+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:57:58.874445+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:06:53.9748032+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:58:10.1887981+00:00",
+  "LastUpdate_Achievements": "2023-09-20T07:06:56.2848942+00:00"
 }

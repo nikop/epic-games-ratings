@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,154 |
-| ''I don't like you either!'' | 79.00% | ~40,847 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,155 |
+| ''I don't like you either!'' | 79.00% | ~40,848 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~37,228 |
 | ''Impressive, most impressive'' | 71.00% | ~36,711 |
-| The Phantom Menace | 59.00% | ~30,506 |
+| The Phantom Menace | 59.00% | ~30,507 |
 | ''Aggressive Negotiations'' | 58.00% | ~29,989 |
 | ''I can fly anything'' | 57.00% | ~29,472 |
 | ''And who gave you permission...?'' | 53.00% | ~27,404 |
-| A New Hope | 48.00% | ~24,818 |
-| Attack of the Clones | 46.00% | ~23,784 |
+| A New Hope | 48.00% | ~24,819 |
+| Attack of the Clones | 46.00% | ~23,785 |
 | Revenge of the Sith | 40.00% | ~20,682 |
 | The Empire Strikes Back | 37.00% | ~19,131 |
 | ''A fine addition to my collection'' | 37.00% | ~19,131 |
 | Return of the Jedi | 32.00% | ~16,546 |
-| The Force Awakens | 27.00% | ~13,960 |
+| The Force Awakens | 27.00% | ~13,961 |
 | The Last Jedi | 23.00% | ~11,892 |
 | The Rise of Skywalker | 20.00% | ~10,341 |
 | ''It's true... all of it'' | 19.00% | ~9,824 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~517 |
 | ''I've never seen a real one!'' | 0.90% | ~465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,705 (Ranked 93)  
+Progressed: 51,706 (Ranked 93)  
 Completed: 232 (0.45%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 232 (0.45%) (Ranked 162)
 | 2023-09-17 | 51,693 | 232 |
 | 2023-09-18 | 51,701 | 232 |
 | 2023-09-19 | 51,704 | 232 |
-| 2023-09-20 | 51,705 | 232 |
+| 2023-09-20 | 51,706 | 232 |
 ## Awards
 Max (Great Boss Battles): 2,406  (Ranked 103)  
-Sum: 6,605 (Ranked 118)  
+Sum: 6,607 (Ranked 118)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +216,7 @@ Diff (max vs sum): -15
 | This game is Great for Beginners | 498 |
 | This game has Diverse Characters | 498 |
 | This game has Amazing Characters | 486 |
-| This game is Highly Recommended | 465 |
+| This game is Highly Recommended | 467 |
 | This game has Easy Combat | 463 |
 | This game has Amazing Storytelling | 462 |
 | This game is Extremely Fun | 452 |
@@ -436,3 +436,4 @@ Diff (max vs sum): -15
 | 2023-09-17 | 4.78 | - | 2,406 | 6,601 |
 | 2023-09-18 | 4.78 | - | 2,406 | 6,603 |
 | 2023-09-19 | 4.78 | - | 2,406 | 6,605 |
+| 2023-09-20 | 4.78 | - | 2,406 | 6,607 |

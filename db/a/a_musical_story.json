@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -671,9 +671,9 @@
       "ID": "L7_FINISH",
       "SetID": "6finf64",
       "Name": "A Musical Pause",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "L7_PERFECT",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:06:44.3525439+00:00",
+  "LastChanged_Achievements": "2023-09-20T07:06:46.6076886+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.5035835+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:59:32.5947455+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:06:44.3525889+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:59:44.0373121+00:00",
+  "LastUpdate_Achievements": "2023-09-20T07:06:46.6077829+00:00"
 }

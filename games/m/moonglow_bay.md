@@ -12,15 +12,16 @@
 | Folklore | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
 | Ocean Wings | 0.80% | ~3 |
+| Wise and Floofy | 0.80% | ~3 |
 | They Can Change | 0.50% | ~2 |
 | The Heart of Moonglow | 0.50% | ~2 |
 | Aquatic Expansion | 0.50% | ~2 |
-| Wise and Floofy | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |
 | Then Peel Me A Grape | 0.50% | ~2 |
 | Worth Your While | 0.50% | ~2 |
 | From Beyond | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
+| Ode to a Blacksmith | 0.30% | ~1 |
 | You Can Pet The Dog | 0.30% | ~1 |
 | The Whole Journey | 0.00% | ~0 |
 | Restored to Prosperity | 0.00% | ~0 |
@@ -35,7 +36,6 @@
 | From the Underworld | 0.00% | ~0 |
 | The Stuff of Legend | 0.00% | ~0 |
 | Collection of Confection | 0.00% | ~0 |
-| Ode to a Blacksmith | 0.00% | ~0 |
 | Expedition | 0.00% | ~0 |
 | Conservationist | 0.00% | ~0 |
 | Uh... Thanks. I Think. | 0.00% | ~0 |

@@ -7780,10 +7780,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43793,
       "NumberOfAwardsMax": 22851
+    },
+    {
+      "Time": "2023-09-20T06:59:01.7780709+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43800,
+      "NumberOfAwardsMax": 22851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43793,
+  "NumberOfAwards": 43800,
   "NumberOfAwardsMax": 22851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7833,7 +7839,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1031
+      "Count": 1038
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7860,9 +7866,9 @@
       "Count": 660
     }
   ],
-  "EOS_Progressed": 296983,
+  "EOS_Progressed": 296985,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24400,6 +24406,11 @@
       "Time": "2023-09-20T06:06:20.4198314+00:00",
       "NumProgressed": 296983,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-20T07:06:22.7278658+00:00",
+      "NumProgressed": 296985,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24443,7 +24454,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26728
+      "UsersEstimate": 26729
     },
     {
       "ID": "PFA_14",
@@ -24571,7 +24582,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8909
+      "UsersEstimate": 8910
     },
     {
       "ID": "PFA_29",
@@ -24627,7 +24638,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8909
+      "UsersEstimate": 8910
     },
     {
       "ID": "PFA_35",
@@ -24635,7 +24646,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26728
+      "UsersEstimate": 26729
     },
     {
       "ID": "PFA_36",
@@ -24763,23 +24774,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26728
+      "UsersEstimate": 26729
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296983,
+      "Progressed": 296985,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-20T02:58:09.5613608+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:06:20.4198289+00:00",
+  "LastChanged": "2023-09-20T06:59:01.7780707+00:00",
+  "LastChanged_Achievements": "2023-09-20T07:06:22.7278652+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:58:49.9840838+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:06:20.4199795+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:59:01.7780714+00:00",
+  "LastUpdate_Achievements": "2023-09-20T07:06:22.7281274+00:00"
 }

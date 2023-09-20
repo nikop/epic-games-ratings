@@ -32,11 +32,11 @@ Rating: 4.54 (Ranked 502)
 | Humanity Distilled | 1.00% | ~6,829 |
 | I Am the Resurrection | 1.00% | ~6,829 |
 | Our True Nature | 1.00% | ~6,829 |
-| Down with the Sickness | 0.90% | ~6,146 |
-| Max Headroom | 0.80% | ~5,463 |
+| Down with the Sickness | 0.90% | ~6,147 |
+| Max Headroom | 0.80% | ~5,464 |
 | Go, Bobcats! | 0.70% | ~4,781 |
+| Rising Star | 0.70% | ~4,781 |
 | Jumbo Keyring | 0.60% | ~4,098 |
-| Rising Star | 0.60% | ~4,098 |
 | Smorgasbord | 0.50% | ~3,415 |
 | Not Even My Final Form | 0.50% | ~3,415 |
 | Internet Famous | 0.50% | ~3,415 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,935 (Ranked 22)  
+Progressed: 682,945 (Ranked 22)  
 Completed: 2,155 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 2,155 (0.32%) (Ranked 178)
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
-| 2023-09-20 | 682,935 | 2,155 |
+| 2023-09-20 | 682,945 | 2,155 |
 ## Awards
 Max (Great Boss Battles): 6,115  (Ranked 57)  
-Sum: 9,075 (Ranked 94)  
+Sum: 9,079 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -215,7 +215,7 @@ Diff (max vs sum): -37
 | This game is Great for Beginners | 420 |
 | This game has Diverse Characters | 412 |
 | This game has Quickly Understood Controls | 396 |
-| This game is Relaxing | 377 |
+| This game is Relaxing | 381 |
 | This game has Amazing Storytelling | 357 |
 | This game is Extremely Fun | 339 |
 | This game has Amazing Characters | 330 |
@@ -375,4 +375,4 @@ Diff (max vs sum): -37
 | 2023-09-17 | 4.54 | 6,086 | 9,030 |
 | 2023-09-18 | 4.54 | 6,105 | 9,051 |
 | 2023-09-19 | 4.54 | 6,115 | 9,071 |
-| 2023-09-20 | 4.54 | 6,115 | 9,075 |
+| 2023-09-20 | 4.54 | 6,115 | 9,079 |

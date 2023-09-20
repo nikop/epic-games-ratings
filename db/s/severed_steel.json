@@ -3,7 +3,7 @@
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
   "Ranking_Rating": 219,
-  "Ranking_Popularity": 239,
+  "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 264,
@@ -536,9 +536,9 @@
       "Count": 298
     }
   ],
-  "EOS_Progressed": 663299,
+  "EOS_Progressed": 663312,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 3586,
+  "EOS_NewPlayers": 3585,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17676,6 +17676,11 @@
       "Time": "2023-09-20T06:06:41.692154+00:00",
       "NumProgressed": 663299,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-09-20T07:06:43.8372263+00:00",
+      "NumProgressed": 663312,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 52,
@@ -17687,7 +17692,7 @@
       "Name": "1000 KILLS",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 53064
+      "UsersEstimate": 53065
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -17695,7 +17700,7 @@
       "Name": "100 KILLS",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 192357
+      "UsersEstimate": 192360
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -17703,7 +17708,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 106128
+      "UsersEstimate": 106130
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -17711,7 +17716,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 179091
+      "UsersEstimate": 179094
     },
     {
       "ID": "BIGUPS",
@@ -17751,7 +17756,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 165825
+      "UsersEstimate": 165828
     },
     {
       "ID": "CHAPTER2",
@@ -17759,7 +17764,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 126027
+      "UsersEstimate": 126029
     },
     {
       "ID": "CHAPTER3",
@@ -17767,7 +17772,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 106128
+      "UsersEstimate": 106130
     },
     {
       "ID": "CHAPTER4",
@@ -17775,7 +17780,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86229
+      "UsersEstimate": 86231
     },
     {
       "ID": "CHAPTER5",
@@ -17783,7 +17788,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 72963
+      "UsersEstimate": 72964
     },
     {
       "ID": "CHAPTER6",
@@ -17791,7 +17796,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 66330
+      "UsersEstimate": 66331
     },
     {
       "ID": "CHURCH",
@@ -17815,7 +17820,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 66330
+      "UsersEstimate": 66331
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -18063,7 +18068,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 172458
+      "UsersEstimate": 172461
     },
     {
       "ID": "SOUL",
@@ -18102,7 +18107,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 663299,
+      "Progressed": 663312,
       "Completed": 63
     }
   ],
@@ -18110,8 +18115,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-09-18T20:59:12.1949708+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:06:41.6921534+00:00",
+  "LastChanged_Achievements": "2023-09-20T07:06:43.8372257+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:11.0496588+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:01:08.3990329+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:06:41.6923839+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:01:18.4450658+00:00",
+  "LastUpdate_Achievements": "2023-09-20T07:06:43.8373951+00:00"
 }

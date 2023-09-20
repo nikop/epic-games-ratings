@@ -68,7 +68,7 @@ Rating: 4.18 (Ranked 886)
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 72,681 (Ranked 83)  
-Completed: 114 (0.16%) (Ranked 206)  
+Completed: 115 (0.16%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -220,7 +220,7 @@ Completed: 114 (0.16%) (Ranked 206)
 | 2023-09-17 | 72,625 | 113 |
 | 2023-09-18 | 72,652 | 114 |
 | 2023-09-19 | 72,676 | 114 |
-| 2023-09-20 | 72,681 | 114 |
+| 2023-09-20 | 72,681 | 115 |
 ## Awards
 Max (Great Boss Battles): 2,713  (Ranked 96)  
 Sum: 4,503 (Ranked 139)  

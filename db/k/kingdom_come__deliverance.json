@@ -7240,10 +7240,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27785,
       "NumberOfAwardsMax": 7458
+    },
+    {
+      "Time": "2023-09-20T07:00:35.5271486+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27786,
+      "NumberOfAwardsMax": 7458
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27785,
+  "NumberOfAwards": 27786,
   "NumberOfAwardsMax": 7458,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7281,7 +7287,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1739
+      "Count": 1740
     },
     {
       "Text": "This game is Educational",
@@ -7326,9 +7332,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 801977,
+  "EOS_Progressed": 801978,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24291,6 +24297,11 @@
       "Time": "2023-09-20T06:04:20.2699354+00:00",
       "NumProgressed": 801977,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-20T07:04:22.2975368+00:00",
+      "NumProgressed": 801978,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 82,
@@ -24782,7 +24793,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160395
+      "UsersEstimate": 160396
     },
     {
       "ID": "RevenantOfLedechko",
@@ -24822,7 +24833,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160395
+      "UsersEstimate": 160396
     },
     {
       "ID": "SerialKiller",
@@ -24838,7 +24849,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88217
+      "UsersEstimate": 88218
     },
     {
       "ID": "Sniper",
@@ -24910,7 +24921,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88217
+      "UsersEstimate": 88218
     },
     {
       "ID": "TrialAndError",
@@ -24957,15 +24968,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 801977,
+      "Progressed": 801978,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-19T21:00:16.8651887+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:04:20.2699347+00:00",
+  "LastChanged": "2023-09-20T07:00:35.5271484+00:00",
+  "LastChanged_Achievements": "2023-09-20T07:04:22.2975363+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:41.6954076+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:00:24.3891866+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:04:20.2701901+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:00:35.5271493+00:00",
+  "LastUpdate_Achievements": "2023-09-20T07:04:22.2977447+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3648,9 +3648,9 @@
       "Count": 1067
     }
   ],
-  "EOS_Progressed": 71672,
+  "EOS_Progressed": 71674,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 2751,
+  "EOS_NewPlayers": 2742,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -20703,6 +20703,11 @@
       "Time": "2023-09-20T06:08:29.5884961+00:00",
       "NumProgressed": 71672,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-20T07:08:31.7225941+00:00",
+      "NumProgressed": 71674,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 53,
@@ -20818,7 +20823,7 @@
       "Name": "Wet Work",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22218
+      "UsersEstimate": 22219
     },
     {
       "ID": "complete_mission_1",
@@ -20826,7 +20831,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 32969
+      "UsersEstimate": 32970
     },
     {
       "ID": "customize_a_vehicle",
@@ -20842,7 +20847,7 @@
       "Name": "Optimized",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 25802
+      "UsersEstimate": 25803
     },
     {
       "ID": "cutting_edge_materials",
@@ -20922,7 +20927,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 22935
+      "UsersEstimate": 22936
     },
     {
       "ID": "fully_complete_a_building",
@@ -20962,7 +20967,7 @@
       "Name": "Performance Review",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 25085
+      "UsersEstimate": 25086
     },
     {
       "ID": "hit_max_level",
@@ -20994,7 +20999,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19351
+      "UsersEstimate": 19352
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -21010,7 +21015,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 24368
+      "UsersEstimate": 24369
     },
     {
       "ID": "one_third_purple",
@@ -21066,7 +21071,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19351
+      "UsersEstimate": 19352
     },
     {
       "ID": "two_thirds_purple",
@@ -21130,20 +21135,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 71672,
+      "Progressed": 71674,
       "Completed": 48
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 43309,
+      "Progressed": 43311,
       "Completed": 3846
     }
   ],
@@ -21151,8 +21156,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-20T01:42:16.3493333+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:08:29.5884955+00:00",
+  "LastChanged_Achievements": "2023-09-20T07:08:31.7225933+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:53.1559897+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:02:26.8838159+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:08:29.5886703+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:02:38.347654+00:00",
+  "LastUpdate_Achievements": "2023-09-20T07:08:31.7227984+00:00"
 }

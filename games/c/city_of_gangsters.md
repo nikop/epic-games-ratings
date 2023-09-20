@@ -5,15 +5,15 @@ Rating: 4.27 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,268 |
+| Corner Clout | 46.00% | ~158,269 |
 | Copacetic Coordination | 16.00% | ~55,050 |
 | Fronting the Money | 15.00% | ~51,609 |
 | The Dawn of Automation | 14.00% | ~48,169 |
 | Extraordinary Logistics | 14.00% | ~48,169 |
 | Dirty Money | 13.00% | ~44,728 |
 | Family First | 13.00% | ~44,728 |
-| Cleaning House | 12.00% | ~41,287 |
-| Room in the Back | 12.00% | ~41,287 |
+| Cleaning House | 12.00% | ~41,288 |
+| Room in the Back | 12.00% | ~41,288 |
 | Beating the Heat | 11.00% | ~37,847 |
 | Booze Baron | 11.00% | ~37,847 |
 | Friends on the Force | 10.00% | ~34,406 |
@@ -36,11 +36,11 @@ Rating: 4.27 (Ranked 821)
 | Opportunity Knocked | 5.00% | ~17,203 |
 | City of Big Shoulders | 5.00% | ~17,203 |
 | Mission Mastery | 5.00% | ~17,203 |
-| Considerable Clams | 4.00% | ~13,762 |
-| Gin Joint | 4.00% | ~13,762 |
-| An Affront to the Enemy | 4.00% | ~13,762 |
-| Friends from Back Home | 4.00% | ~13,762 |
-| Half Century Mark | 4.00% | ~13,762 |
+| Considerable Clams | 4.00% | ~13,763 |
+| Gin Joint | 4.00% | ~13,763 |
+| An Affront to the Enemy | 4.00% | ~13,763 |
+| Friends from Back Home | 4.00% | ~13,763 |
+| Half Century Mark | 4.00% | ~13,763 |
 | Corner Opportunities | 3.00% | ~10,322 |
 | 2122 North Clark Street | 3.00% | ~10,322 |
 | Copious Cabbage | 3.00% | ~10,322 |
@@ -61,9 +61,9 @@ Rating: 4.27 (Ranked 821)
 | Cat’s Meow Clubs | 1.00% | ~3,441 |
 | Determined Deliveries | 0.90% | ~3,097 |
 | Stepping It Up | 0.90% | ~3,097 |
-| Boots in the Ground | 0.80% | ~2,752 |
-| Getting Fancy | 0.80% | ~2,752 |
-| Crossing Over | 0.80% | ~2,752 |
+| Boots in the Ground | 0.80% | ~2,753 |
+| Getting Fancy | 0.80% | ~2,753 |
+| Crossing Over | 0.80% | ~2,753 |
 | Social Butterfly | 0.50% | ~1,720 |
 | Homemade Hooch | 0.40% | ~1,376 |
 | Still Dreaming | 0.40% | ~1,376 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 821)
 | High Pillow | 0.10% | ~344 |
 | Station Master | 0.10% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,061 (Ranked 43)  
+Progressed: 344,063 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 7 (0.00%) (Ranked 278)
 | 2023-09-17 | 343,757 | 7 |
 | 2023-09-18 | 343,909 | 7 |
 | 2023-09-19 | 344,027 | 7 |
-| 2023-09-20 | 344,061 | 7 |
+| 2023-09-20 | 344,063 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 439)  
 Sum: 195 (Ranked 376)  

@@ -18,9 +18,9 @@ Rating: 4.77 (Ranked 112)
 | Challenge Accepted | 10.00% | ~29,698 |
 | Loom for Improvement | 10.00% | ~29,698 |
 | Coasting Along | 10.00% | ~29,698 |
-| The Hero of Hogwarts | 9.00% | ~26,728 |
-| Followed the Butterflies | 9.00% | ~26,728 |
-| Rising From the Ashes | 9.00% | ~26,728 |
+| The Hero of Hogwarts | 9.00% | ~26,729 |
+| Followed the Butterflies | 9.00% | ~26,729 |
+| Rising From the Ashes | 9.00% | ~26,729 |
 | A Sallow Grave | 8.00% | ~23,759 |
 | The Spell Master | 8.00% | ~23,759 |
 | The Avenging Gazelle | 7.00% | ~20,789 |
@@ -37,8 +37,8 @@ Rating: 4.77 (Ranked 112)
 | The Intrepid Explorer | 4.00% | ~11,879 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,879 |
 | The Wise Owl | 4.00% | ~11,879 |
-| Put Down Roots | 3.00% | ~8,909 |
-| Floo Around the World | 3.00% | ~8,909 |
+| Put Down Roots | 3.00% | ~8,910 |
+| Floo Around the World | 3.00% | ~8,910 |
 | The Good Samaritan | 2.00% | ~5,940 |
 | The Auror's Apprentice | 2.00% | ~5,940 |
 | Rise to the Challenges | 2.00% | ~5,940 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 112)
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,983 (Ranked 44)  
+Progressed: 296,985 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 476 (0.16%) (Ranked 206)
 | 2023-09-17 | 296,862 | 474 |
 | 2023-09-18 | 296,907 | 474 |
 | 2023-09-19 | 296,968 | 475 |
-| 2023-09-20 | 296,983 | 476 |
+| 2023-09-20 | 296,985 | 476 |
 ## Awards
 Max (Character Customization): 22,851  (Ranked 17)  
-Sum: 43,793 (Ranked 30)  
+Sum: 43,800 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -216,8 +216,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,083 |
 | This game has Amazing Storytelling | 1,049 |
 | This game has Diverse Characters | 1,039 |
+| This game is Relaxing | 1,038 |
 | This game is Extremely Fun | 1,035 |
-| This game is Relaxing | 1,031 |
 | This game has Amazing Characters | 1,014 |
 | This game is Highly Recommended | 993 |
 | This game has Quickly Understood Controls | 931 |
@@ -406,4 +406,4 @@ Diff (max vs sum): -13
 | 2023-09-17 | 4.77 | 22,799 | 43,623 |
 | 2023-09-18 | 4.77 | 22,827 | 43,717 |
 | 2023-09-19 | 4.77 | 22,851 | 43,775 |
-| 2023-09-20 | 4.77 | 22,851 | 43,793 |
+| 2023-09-20 | 4.77 | 22,851 | 43,800 |

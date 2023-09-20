@@ -811,9 +811,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9054,
+  "EOS_Progressed": 9055,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9411,6 +9411,11 @@
       "Time": "2023-09-20T06:07:52.2767351+00:00",
       "NumProgressed": 9054,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T07:07:54.503206+00:00",
+      "NumProgressed": 9055,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -9454,7 +9459,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 5251
+      "UsersEstimate": 5252
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -9526,7 +9531,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 4889
+      "UsersEstimate": 4890
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -9566,7 +9571,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8149
+      "UsersEstimate": 8150
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -9574,7 +9579,7 @@
       "Name": "Light My Fire",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "ACH_MASTER_OF_ARMS",
@@ -9622,7 +9627,7 @@
       "Name": "Photogenic",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 7786
+      "UsersEstimate": 7787
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -9630,7 +9635,7 @@
       "Name": "Playing With Power",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -9638,7 +9643,7 @@
       "Name": "Plug It In",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7515
+      "UsersEstimate": 7516
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -9694,7 +9699,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -9726,7 +9731,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7515
+      "UsersEstimate": 7516
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -9821,15 +9826,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9054,
+      "Progressed": 9055,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:07:52.2767344+00:00",
+  "LastChanged_Achievements": "2023-09-20T07:07:54.5032053+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.7463066+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:00:22.4280778+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:07:52.2768514+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:00:33.4908649+00:00",
+  "LastUpdate_Achievements": "2023-09-20T07:07:54.5033764+00:00"
 }
