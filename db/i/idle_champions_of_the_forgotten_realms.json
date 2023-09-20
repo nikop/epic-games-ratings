@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6754,9 +6754,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229442,
+  "EOS_Progressed": 229443,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 852,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23689,6 +23689,11 @@
       "Time": "2023-09-20T07:04:09.1328897+00:00",
       "NumProgressed": 229442,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-20T08:03:44.1809798+00:00",
+      "NumProgressed": 229443,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 520,
@@ -23770,9 +23775,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 587
     },
     {
       "ID": "objective_completed_1051",
@@ -24570,9 +24575,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1204",
@@ -27859,21 +27864,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195716,
+      "Progressed": 195717,
       "Completed": 3438
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229442,
+      "Progressed": 229443,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-20T07:04:09.1328889+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:03:44.1809792+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:59:46.2875151+00:00",
-  "LastUpdate_Achievements": "2023-09-20T07:04:09.136914+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:58:46.7458202+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:03:44.1841398+00:00"
 }

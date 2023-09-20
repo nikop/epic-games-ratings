@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -735,9 +735,9 @@
       "ID": "69",
       "SetID": "5e3maia",
       "Name": "Formidable",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "7",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-20T07:07:33.2272388+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:06:03.971459+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:57:56.7872321+00:00",
-  "LastUpdate_Achievements": "2023-09-20T07:07:33.2273134+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:57:35.8530544+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:06:03.9715218+00:00"
 }

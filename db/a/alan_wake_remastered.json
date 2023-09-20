@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65831,
+  "EOS_Progressed": 65832,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15272,6 +15272,11 @@
       "Time": "2023-09-20T06:05:07.5004955+00:00",
       "NumProgressed": 65831,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T08:04:25.6556122+00:00",
+      "NumProgressed": 65832,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15387,7 +15392,7 @@
       "Name": "Gatekeeper",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "15",
@@ -15395,7 +15400,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "16",
@@ -15403,7 +15408,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "17",
@@ -15411,7 +15416,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "18",
@@ -15515,7 +15520,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "31",
@@ -15547,7 +15552,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "35",
@@ -15818,21 +15823,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65831,
+      "Progressed": 65832,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29299,
+      "Progressed": 29300,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T07:05:10.2042538+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:04:25.6556116+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:59:24.702748+00:00",
-  "LastUpdate_Achievements": "2023-09-20T07:05:10.2044235+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:58:32.9972889+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:04:25.6557712+00:00"
 }

@@ -1,7 +1,7 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.27 (Ranked 821)  
+Rating: 4.27 (Ranked 822)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,7 +34,7 @@ Rating: 4.27 (Ranked 821)
 | TRAVELER | 0.90% | ~4 |
 | MISTER ALL THUMBS | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426 (Ranked 260)  
+Progressed: 426 (Ranked 261)  
 Completed: 2 (0.47%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |

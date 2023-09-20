@@ -2,9 +2,9 @@
   "ID": "15cb739316ba44ed87878349d10b3ffc",
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -466,6 +466,11 @@
       "Time": "2023-09-12T21:05:57.2339202+00:00",
       "NumProgressed": 381,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-20T08:08:25.7055851+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -493,7 +498,7 @@
       "Name": "Fore!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CATAPULT_THROW",
@@ -517,7 +522,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -587,9 +592,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -643,9 +648,9 @@
       "ID": "HIGH_COMBO_SCORE",
       "SetID": "20koof9",
       "Name": "C-C-C-Combo!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -661,7 +666,7 @@
       "Name": "Pushover",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "HIT_ALIEN",
@@ -685,7 +690,7 @@
       "Name": "Insurance fraud",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -741,7 +746,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -749,7 +754,7 @@
       "Name": "Snow Fun!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -763,9 +768,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -853,7 +858,7 @@
       "Name": "Event Amateur",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -916,7 +921,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 2
     }
   ],
@@ -924,8 +929,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-20T07:09:17.4246192+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:08:25.7055845+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:57.5319081+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:00:55.4039932+00:00",
-  "LastUpdate_Achievements": "2023-09-20T07:09:17.4246756+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:59:34.2321688+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:08:25.7056408+00:00"
 }

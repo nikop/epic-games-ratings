@@ -17,6 +17,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.40% | ~918 |
 | Friendly Imps | 0.40% | ~918 |
 | Maddening | 0.30% | ~688 |
+| Tall Tales | 0.30% | ~587 |
 | The Silken Swamp | 0.30% | ~688 |
 | A Persistent Buzzing | 0.30% | ~688 |
 | Beast Mode | 0.30% | ~688 |
@@ -34,7 +35,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.30% | ~688 |
 | Legends and Lore | 0.30% | ~587 |
 | Pros and CONs | 0.20% | ~459 |
-| Tall Tales | 0.20% | ~391 |
 | Nightmare Rats! | 0.20% | ~391 |
 | An Unexpected Geist | 0.20% | ~391 |
 | The Witchlight Carnival | 0.20% | ~391 |
@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~391 |
 | The Sanctum of the Sword | 0.20% | ~391 |
 | Get Back In The Castle | 0.20% | ~391 |
+| Checkmate | 0.20% | ~391 |
 | Homecoming | 0.20% | ~459 |
 | The Lost Heir of Omu | 0.20% | ~459 |
 | The Forbidden City | 0.20% | ~459 |
@@ -216,7 +217,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~196 |
 | Kas the Bloody Handed | 0.10% | ~196 |
 | Kas the Destroyer | 0.10% | ~196 |
-| Checkmate | 0.10% | ~196 |
 | Pin and Skewer | 0.10% | ~196 |
 | Vecna Out! | 0.10% | ~196 |
 | Bully for Vecna | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,442 (Ranked 57)  
+Progressed: 229,443 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -680,7 +680,7 @@ Completed: 2,295 (1.00%) (Ranked 126)
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
-| 2023-09-20 | 229,442 | 2,295 |
+| 2023-09-20 | 229,443 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  

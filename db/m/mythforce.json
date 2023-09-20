@@ -635,9 +635,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2785,
+  "EOS_Progressed": 2789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1188,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4990,6 +4990,11 @@
       "Time": "2023-09-20T06:04:25.8778476+00:00",
       "NumProgressed": 2785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T08:03:56.7697299+00:00",
+      "NumProgressed": 2789,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5042,7 +5047,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5050,7 +5055,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5058,7 +5063,7 @@
       "Name": "First Strike",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5082,7 +5087,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -5098,7 +5103,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5154,7 +5159,7 @@
       "Name": "Spending Spree",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5162,7 +5167,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5185,15 +5190,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2785,
+      "Progressed": 2789,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T01:40:59.1284694+00:00",
-  "LastChanged_Achievements": "2023-09-20T07:04:27.97434+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:03:56.7697295+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:00:51.0228768+00:00",
-  "LastUpdate_Achievements": "2023-09-20T07:04:27.9743915+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:59:31.2165008+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:03:56.769772+00:00"
 }

@@ -1,45 +1,45 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.27 (Ranked 821)  
+Rating: 4.28 (Ranked 815)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MVP | 65.00% | ~137 |
-| Bragging Rights | 64.00% | ~135 |
-| Big Spender | 59.00% | ~124 |
-| Stud Finder | 53.00% | ~112 |
-| Dealmaker | 48.00% | ~101 |
-| ROTY | 40.00% | ~84 |
-| Roster Reshuffle | 34.00% | ~72 |
-| Future of the Franchise | 28.00% | ~59 |
-| Change of Scenery | 22.00% | ~46 |
-| Pro Bowler | 22.00% | ~46 |
-| Throwin’ Dots | 17.00% | ~36 |
-| Primetime | 15.00% | ~32 |
-| Already in Progress | 11.00% | ~23 |
+| MVP | 66.00% | ~144 |
+| Bragging Rights | 65.00% | ~142 |
+| Big Spender | 61.00% | ~133 |
+| Stud Finder | 54.00% | ~118 |
+| Dealmaker | 50.00% | ~109 |
+| ROTY | 41.00% | ~89 |
+| Roster Reshuffle | 34.00% | ~74 |
+| Future of the Franchise | 29.00% | ~63 |
+| Change of Scenery | 22.00% | ~48 |
+| Pro Bowler | 22.00% | ~48 |
+| Throwin’ Dots | 17.00% | ~37 |
+| Primetime | 16.00% | ~35 |
+| Already in Progress | 11.00% | ~24 |
 | Pocket Ace | 8.00% | ~17 |
 | Unblockable | 8.00% | ~17 |
 | Head-to-Head | 7.00% | ~15 |
-| Lockdown Corner | 3.00% | ~6 |
+| Lockdown Corner | 3.00% | ~7 |
 | Gain Train | 2.00% | ~4 |
 | Ol' Reliable | 0.90% | ~2 |
 | Lockdown Leader | 0.50% | ~1 |
 | The Fortress | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 316)  
+Progressed: 218 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-20 | 211 | 0 |
+| 2023-09-20 | 218 | 0 |
 ## Awards
-Max (Diverse Characters): 25  (Ranked 485)  
-Sum: 66 (Ranked 446)  
-Diff (max vs sum): 39  
+Max (Diverse Characters): 26  (Ranked 482)  
+Sum: 67 (Ranked 445)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 25 |
+| This game has Diverse Characters | 26 |
 | This game has a Competitive Community | 21 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
@@ -151,4 +151,4 @@ Diff (max vs sum): 39
 | 2023-09-15 | 4.29 | 24 | 65 |
 | 2023-09-16 | 4.28 | 24 | 65 |
 | 2023-09-18 | 4.28 | 25 | 66 |
-| 2023-09-20 | 4.27 | 25 | 66 |
+| 2023-09-20 | 4.28 | 26 | 67 |

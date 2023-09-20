@@ -2116,10 +2116,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 3316,
       "NumberOfAwardsMax": 1651
+    },
+    {
+      "Time": "2023-09-20T07:57:19.9607288+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 3320,
+      "NumberOfAwardsMax": 1651
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3316,
+  "NumberOfAwards": 3320,
   "NumberOfAwardsMax": 1651,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2187,12 +2193,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 172
+      "Count": 176
     }
   ],
-  "EOS_Progressed": 183732,
+  "EOS_Progressed": 183736,
   "EOS_Completed": 313,
-  "EOS_NewPlayers": 3889,
+  "EOS_NewPlayers": 3880,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -9390,6 +9396,11 @@
       "Time": "2023-09-20T07:06:27.6183804+00:00",
       "NumProgressed": 183732,
       "NumCompleted": 313
+    },
+    {
+      "Time": "2023-09-20T08:05:19.3319387+00:00",
+      "NumProgressed": 183736,
+      "NumCompleted": 313
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -9402,7 +9413,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12861
+      "UsersEstimate": 12862
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -9522,7 +9533,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12861
+      "UsersEstimate": 12862
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -9801,16 +9812,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 183732,
+      "Progressed": 183736,
       "Completed": 313
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-09-20T05:57:23.6858078+00:00",
-  "LastChanged_Achievements": "2023-09-20T07:06:27.6183798+00:00",
+  "LastChanged": "2023-09-20T07:57:19.9607285+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:05:19.3319381+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.9152732+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:57:34.6878693+00:00",
-  "LastUpdate_Achievements": "2023-09-20T07:06:27.6184811+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:57:19.9607292+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:05:19.3320285+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 166,
+  "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 255,
@@ -1301,9 +1301,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128315,
+  "EOS_Progressed": 128316,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16541,6 +16541,11 @@
       "Time": "2023-09-20T07:09:16.063443+00:00",
       "NumProgressed": 128315,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-20T08:08:24.6151656+00:00",
+      "NumProgressed": 128316,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16656,7 +16661,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20530
+      "UsersEstimate": 20531
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -16688,7 +16693,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20530
+      "UsersEstimate": 20531
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -16871,15 +16876,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128315,
+      "Progressed": 128316,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-20T07:09:16.0634423+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:08:24.615165+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:01:36.805829+00:00",
-  "LastUpdate_Achievements": "2023-09-20T07:09:16.0635738+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:00:01.5877479+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:08:24.6152712+00:00"
 }

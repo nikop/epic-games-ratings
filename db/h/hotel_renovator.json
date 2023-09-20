@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1015,
+  "EOS_Progressed": 1016,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
@@ -1642,6 +1642,11 @@
       "Time": "2023-09-19T22:03:24.6196587+00:00",
       "NumProgressed": 1015,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-20T08:03:18.1263948+00:00",
+      "NumProgressed": 1016,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1653,7 +1658,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1693,7 +1698,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1709,7 +1714,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1741,7 +1746,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1749,7 +1754,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1757,7 +1762,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1787,9 +1792,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 609
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1805,7 +1810,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ACH_STAR_2",
@@ -1813,7 +1818,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_STAR_3",
@@ -1821,7 +1826,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_STAR_4",
@@ -1853,7 +1858,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1861,14 +1866,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1015,
+      "Progressed": 1016,
       "Completed": 15
     }
   ],
@@ -1876,8 +1881,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-19T13:03:28.3019162+00:00",
-  "LastChanged_Achievements": "2023-09-20T06:03:40.8029874+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:03:18.1263933+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-20T06:58:49.7033329+00:00",
-  "LastUpdate_Achievements": "2023-09-20T06:03:40.8030227+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:58:10.8262675+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:03:18.1283117+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 185,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -687,9 +687,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -719,9 +719,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-20T07:06:31.3416291+00:00",
+  "LastChanged_Achievements": "2023-09-20T08:05:21.968028+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:01:10.9911649+00:00",
-  "LastUpdate_Achievements": "2023-09-20T07:06:31.3416534+00:00"
+  "LastUpdate_Ratings": "2023-09-20T07:59:45.2664495+00:00",
+  "LastUpdate_Achievements": "2023-09-20T08:05:21.9680535+00:00"
 }
