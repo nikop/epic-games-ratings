@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.61% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.50% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.47% |
@@ -32,7 +32,7 @@
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.52% |
+| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.50% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
@@ -46,15 +46,15 @@
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.33% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.62% |
-| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.61% |
+| 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.64% |
+| 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.62% |
 | 49 | [JARS](games/j/jars.md) | 5.41% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.23% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.94% |
-| 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
-| 55 | [Bugsnax](games/b/bugsnax.md) | 4.77% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.77% |
+| 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [ZZT!](games/z/zzt!.md) | 4.29% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.23% |
@@ -98,14 +98,14 @@
 | 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 96 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.00% |
 | 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.89% |
-| 98 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.89% |
-| 100 | [Night Book](games/n/night_book.md) | 1.86% |
-| 101 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 102 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 103 | [Frogun](games/f/frogun.md) | 1.80% |
-| 103 | [Sifu](games/s/sifu.md) | 1.80% |
-| 105 | [Somerville](games/s/somerville.md) | 1.71% |
-| 106 | [Five Dates](games/f/five_dates.md) | 1.66% |
+| 99 | [Night Book](games/n/night_book.md) | 1.86% |
+| 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
+| 101 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 102 | [Frogun](games/f/frogun.md) | 1.80% |
+| 102 | [Sifu](games/s/sifu.md) | 1.80% |
+| 104 | [Somerville](games/s/somerville.md) | 1.71% |
+| 105 | [Five Dates](games/f/five_dates.md) | 1.66% |
+| 106 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.61% |
 | 107 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.55% |
 | 108 | [Iron Danger](games/i/iron_danger.md) | 1.53% |
 | 109 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.49% |
@@ -131,7 +131,7 @@
 | 129 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 131 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
-| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.93% |
+| 132 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.92% |
 | 133 | [Hades](games/h/hades.md) | 0.90% |
 | 134 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 135 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
@@ -214,13 +214,13 @@
 | 212 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 212 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
 | 212 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.14% |
-| 215 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.13% |
-| 216 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 216 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 216 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 216 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 216 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
-| 216 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 215 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
+| 215 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 215 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.12% |
+| 215 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 215 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 215 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
+| 215 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 222 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
 | 222 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
 | 224 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
