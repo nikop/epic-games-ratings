@@ -9,7 +9,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Goodest Of The Good Cops | 28.00% | ~35,931 |
 | Biggest Communism Builder | 24.00% | ~30,798 |
 | The World's Most Laughable Centrist | 20.00% | ~25,665 |
-| Il Coppo Del'Arte! | 18.00% | ~23,098 |
+| Il Coppo Del'Arte! | 18.00% | ~23,099 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,532 |
 | Hyperstellar Law Official | 16.00% | ~20,532 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,966 |
@@ -24,10 +24,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,133 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,850 |
 | Bother Kim After Hours | 3.00% | ~3,850 |
-| Baddest Of the Bad Cops | 2.00% | ~2,566 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,566 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,566 |
-| Wheel of Pleasure and Light | 2.00% | ~2,566 |
+| Baddest Of the Bad Cops | 2.00% | ~2,567 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,567 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,567 |
+| Wheel of Pleasure and Light | 2.00% | ~2,567 |
 | Massive Torque Dork | 1.00% | ~1,283 |
 | Avowed Inframaterialist | 1.00% | ~1,283 |
 | Committee of la Responsabilité | 0.90% | ~1,155 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,325 (Ranked 71)  
+Progressed: 128,326 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 28 (0.02%) (Ranked 256)
 | 2023-09-17 | 128,111 | 28 |
 | 2023-09-18 | 128,220 | 28 |
 | 2023-09-19 | 128,300 | 28 |
-| 2023-09-20 | 128,325 | 28 |
+| 2023-09-20 | 128,326 | 28 |
 ## Awards
 Max (Character Customization): 723  (Ranked 167)  
 Sum: 1,088 (Ranked 238)  

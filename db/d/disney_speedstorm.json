@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3193,
+  "EOS_Progressed": 3195,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 5.67,
   "EosHistory": [
@@ -4765,6 +4765,11 @@
       "Time": "2023-09-20T04:05:03.0909494+00:00",
       "NumProgressed": 3193,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-09-20T12:05:07.3792688+00:00",
+      "NumProgressed": 3195,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 24,
@@ -4784,7 +4789,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "11",
@@ -4816,7 +4821,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "15",
@@ -4864,7 +4869,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "20",
@@ -4928,7 +4933,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "6",
@@ -4967,13 +4972,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3193,
+      "Progressed": 3195,
       "Completed": 181
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:05:23.7675334+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:05:07.3792685+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:01:07.6122547+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:05:23.7676076+00:00"
+  "LastUpdate_Ratings": "2023-09-20T12:00:55.0735022+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:05:07.3793065+00:00"
 }

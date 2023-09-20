@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -9716,10 +9716,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 519784,
       "NumberOfAwardsMax": 70983
+    },
+    {
+      "Time": "2023-09-20T11:58:54.4038513+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 520140,
+      "NumberOfAwardsMax": 70983
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 519784,
+  "NumberOfAwards": 520140,
   "NumberOfAwardsMax": 70983,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9751,13 +9757,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 59876
+      "Count": 59990
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57465
+      "Count": 57604
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9775,7 +9781,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 53033
+      "Count": 53136
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9795,8 +9801,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-09-20T01:39:47.7719595+00:00",
+  "LastChanged": "2023-09-20T11:58:54.4038512+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.0985919+00:00",
-  "LastUpdate_Ratings": "2023-09-20T10:59:07.5020574+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:04:48.0597471+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:58:54.4038517+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:04:33.5479648+00:00"
 }

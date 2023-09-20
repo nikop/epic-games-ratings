@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,352 |
-| That's a Grand Army | 3.00% | ~12,264 |
-| That is mine! | 3.00% | ~12,264 |
-| Victorious! | 3.00% | ~12,264 |
-| Brothers in Arms | 2.00% | ~8,176 |
-| For the Glory | 2.00% | ~8,176 |
-| That's a Grand Navy | 2.00% | ~8,176 |
-| Seriously?! | 2.00% | ~8,176 |
+| Until death do us apart | 4.00% | ~16,353 |
+| That's a Grand Army | 3.00% | ~12,265 |
+| That is mine! | 3.00% | ~12,265 |
+| Victorious! | 3.00% | ~12,265 |
+| Brothers in Arms | 2.00% | ~8,177 |
+| For the Glory | 2.00% | ~8,177 |
+| That's a Grand Navy | 2.00% | ~8,177 |
+| Seriously?! | 2.00% | ~8,177 |
 | Cold War | 1.00% | ~4,088 |
 | Defender of the Faith | 1.00% | ~4,088 |
 | It's all about the money | 1.00% | ~4,088 |
@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,679 |
 | Respected | 0.90% | ~3,679 |
 | Truly Divine Ruler | 0.90% | ~3,679 |
-| Blockader | 0.80% | ~3,270 |
+| Blockader | 0.80% | ~3,271 |
 | Double the Love | 0.70% | ~2,862 |
 | Royal Authority | 0.70% | ~2,862 |
 | Total Control | 0.70% | ~2,862 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408,800 (Ranked 40)  
+Progressed: 408,830 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,10 +514,10 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-17 | 406,888 | 0 |
 | 2023-09-18 | 407,728 | 0 |
 | 2023-09-19 | 408,554 | 0 |
-| 2023-09-20 | 408,800 | 0 |
+| 2023-09-20 | 408,830 | 0 |
 ## Awards
 Max (Educational): 6,170  (Ranked 56)  
-Sum: 50,695 (Ranked 26)  
+Sum: 50,701 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -529,7 +529,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 5,679 |
 | This game has Competitive Players | 5,508 |
 | This game has Amazing Storytelling | 5,160 |
-| This game has Amazing Characters | 4,792 |
+| This game has Amazing Characters | 4,798 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -780,4 +780,4 @@ Diff (max vs sum): 30
 | 2023-09-17 | 4.69 | - | 6,141 | 50,420 |
 | 2023-09-18 | 4.69 | - | 6,158 | 50,551 |
 | 2023-09-19 | 4.69 | - | 6,170 | 50,667 |
-| 2023-09-20 | 4.69 | - | 6,170 | 50,695 |
+| 2023-09-20 | 4.69 | - | 6,170 | 50,701 |

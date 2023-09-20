@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1145,9 +1145,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 209
     },
     {
       "ID": "03_philatelist",
@@ -1457,8 +1457,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:08:21.0367312+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:07:54.8193361+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:28.7863119+00:00",
-  "LastUpdate_Ratings": "2023-09-20T10:59:05.7741063+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:08:21.0367856+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:58:52.2921235+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:07:54.8193658+00:00"
 }

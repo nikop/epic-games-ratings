@@ -5,7 +5,7 @@
   "Ranking_Rating": 175,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 280,
-  "Ranking_EOS_Progress": 116,
+  "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 48,
@@ -1170,9 +1170,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18347,
+  "EOS_Progressed": 18348,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17710,6 +17710,11 @@
       "Time": "2023-09-20T11:04:30.9054196+00:00",
       "NumProgressed": 18347,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-20T12:04:17.0544875+00:00",
+      "NumProgressed": 18348,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 45,
@@ -17809,7 +17814,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8256
+      "UsersEstimate": 8257
     },
     {
       "ID": "ICallItLuck",
@@ -17817,7 +17822,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -17945,7 +17950,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 9907
+      "UsersEstimate": 9908
     },
     {
       "ID": "RunningWild",
@@ -18017,7 +18022,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -18080,21 +18085,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 18347,
+      "Progressed": 18348,
       "Completed": 44
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 18347,
+      "Progressed": 18348,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-19T05:58:11.7202009+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:04:30.9054191+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:04:17.0544869+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:15.9392073+00:00",
-  "LastUpdate_Ratings": "2023-09-20T10:59:51.7809153+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:04:30.9056174+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:59:37.6768754+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:04:17.054592+00:00"
 }

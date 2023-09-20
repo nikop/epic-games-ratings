@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -958,9 +958,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12580,
+  "EOS_Progressed": 12581,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10913,6 +10913,11 @@
       "Time": "2023-09-20T11:07:25.6675946+00:00",
       "NumProgressed": 12580,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-20T12:07:02.3971982+00:00",
+      "NumProgressed": 12581,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10924,7 +10929,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10190
+      "UsersEstimate": 10191
     },
     {
       "ID": "ACH02",
@@ -11020,7 +11025,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "ACH14",
@@ -11203,7 +11208,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12580,
+      "Progressed": 12581,
       "Completed": 45
     }
   ],
@@ -11211,8 +11216,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-20T07:01:45.9326846+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:07:25.6675942+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:07:02.3971978+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:01:44.0355407+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:07:25.6676982+00:00"
+  "LastUpdate_Ratings": "2023-09-20T12:01:30.9444985+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:07:02.3972638+00:00"
 }

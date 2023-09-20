@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.20% | ~459 |
 | Hatchlings Underfoot | 0.20% | ~459 |
 | Don't Look Up! | 0.20% | ~459 |
+| Will of the Feywild | 0.20% | ~391 |
 | Supply Run | 0.20% | ~459 |
 | Heavy Burden | 0.20% | ~459 |
 | Seeds of Destruction | 0.20% | ~391 |
@@ -79,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~459 |
 | Chatty Nobles | 0.20% | ~459 |
 | Haaave You Met Asmodeus? | 0.20% | ~459 |
+| Domesticated Owlbears | 0.20% | ~459 |
 | The Immortal Warrior | 0.20% | ~459 |
 | The Wyrmheart Mine | 0.20% | ~459 |
 | Tower on the Lake | 0.20% | ~459 |
@@ -111,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~459 |
 | Elturel Has Fallen | 0.20% | ~459 |
 | Resolve Amongst Chaos | 0.20% | ~459 |
+| Market Fluctuations | 0.20% | ~459 |
 | Into The Fire | 0.20% | ~391 |
 | Dreamscape | 0.20% | ~391 |
 | The Giant's Bane Tavern | 0.20% | ~391 |
@@ -187,7 +190,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Head over Heals | 0.10% | ~196 |
 | The Demon Lords of the Abyss | 0.10% | ~196 |
 | Speed Demons | 0.10% | ~196 |
-| Will of the Feywild | 0.10% | ~196 |
 | All Damage, All The Time | 0.10% | ~196 |
 | Will of the Frozen Feywild | 0.10% | ~196 |
 | The Roots of Loomlurch | 0.10% | ~196 |
@@ -265,7 +267,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Misfortune | 0.10% | ~229 |
 | Modron Assistance | 0.10% | ~229 |
 | Thine Bounty is Mine! | 0.10% | ~196 |
-| Domesticated Owlbears | 0.10% | ~229 |
 | This Quest Stinks! | 0.10% | ~196 |
 | Hold for the Red Wizards | 0.10% | ~229 |
 | Form Ranks | 0.10% | ~229 |
@@ -369,7 +370,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.10% | ~229 |
 | Shadow Stalkers | 0.10% | ~196 |
 | Avernus Frozen Over | 0.10% | ~196 |
-| Market Fluctuations | 0.10% | ~229 |
 | Once More Into The Breach | 0.10% | ~229 |
 | Twice More Into The Breach | 0.10% | ~229 |
 | Thrice More Into The Breach | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,449 (Ranked 57)  
+Progressed: 229,451 (Ranked 57)  
 Completed: 2,296 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -680,7 +680,7 @@ Completed: 2,296 (1.00%) (Ranked 126)
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
-| 2023-09-20 | 229,449 | 2,296 |
+| 2023-09-20 | 229,451 | 2,296 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,655 (Ranked 39)  

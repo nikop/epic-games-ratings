@@ -137,11 +137,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.70% | ~98 |
 | Old | 0.60% | ~84 |
 | Peacemaker | 0.60% | ~84 |
+| Noble Difficulty | 0.60% | ~84 |
 | Cao'an | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
-| Noble Difficulty | 0.50% | ~70 |
 | Persia | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
 | Play a Network Game | 0.50% | ~70 |

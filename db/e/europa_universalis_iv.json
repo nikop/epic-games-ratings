@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9706,10 +9706,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 50695,
       "NumberOfAwardsMax": 6170
+    },
+    {
+      "Time": "2023-09-20T11:58:55.1677909+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50701,
+      "NumberOfAwardsMax": 6170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50695,
+  "NumberOfAwards": 50701,
   "NumberOfAwardsMax": 6170,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9771,7 +9777,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4792
+      "Count": 4798
     },
     {
       "Text": "This game has Unique Visuals",
@@ -9780,9 +9786,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 408800,
+  "EOS_Progressed": 408830,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7297,
+  "EOS_NewPlayers": 7293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27005,6 +27011,11 @@
       "Time": "2023-09-20T11:04:54.3402806+00:00",
       "NumProgressed": 408800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T12:04:39.8441755+00:00",
+      "NumProgressed": 408830,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27408,7 +27419,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -27456,7 +27467,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8176
+      "UsersEstimate": 8177
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -27848,7 +27859,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8176
+      "UsersEstimate": 8177
     },
     {
       "ID": "achievement_forever_golden",
@@ -28016,7 +28027,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12264
+      "UsersEstimate": 12265
     },
     {
       "ID": "achievement_grand_coalition",
@@ -28040,7 +28051,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8176
+      "UsersEstimate": 8177
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -29016,7 +29027,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8176
+      "UsersEstimate": 8177
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -29296,7 +29307,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12264
+      "UsersEstimate": 12265
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -29680,7 +29691,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16352
+      "UsersEstimate": 16353
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29712,7 +29723,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12264
+      "UsersEstimate": 12265
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -29847,21 +29858,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 408800,
+      "Progressed": 408830,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 408800,
+      "Progressed": 408830,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-20T08:58:54.8014763+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:04:54.3402798+00:00",
+  "LastChanged": "2023-09-20T11:58:55.1677908+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:04:39.8441751+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-20T10:59:08.1688281+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:04:54.3416317+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:58:55.1677913+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:04:39.8453389+00:00"
 }

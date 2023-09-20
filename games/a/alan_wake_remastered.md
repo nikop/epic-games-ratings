@@ -6,29 +6,29 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,992 |
-| Let There Be Light | 34.00% | ~22,384 |
-| Float Like a Butterfly | 32.00% | ~21,067 |
-| Nordic Walking | 26.00% | ~17,117 |
-| Bright Falls' Finest | 25.00% | ~16,459 |
+| Follow the Light | 41.00% | ~26,994 |
+| Let There Be Light | 34.00% | ~22,385 |
+| Float Like a Butterfly | 32.00% | ~21,068 |
+| Nordic Walking | 26.00% | ~17,118 |
+| Bright Falls' Finest | 25.00% | ~16,460 |
 | Under a Thin Layer of Skin | 22.00% | ~14,484 |
-| Park Ranger | 18.00% | ~11,850 |
-| Paging Mr. Wake | 18.00% | ~11,850 |
+| Park Ranger | 18.00% | ~11,851 |
+| Paging Mr. Wake | 18.00% | ~11,851 |
 | Back! Back, I Say! | 17.00% | ~11,192 |
 | Finders Keepers | 17.00% | ~11,192 |
 | Damn Good Cup of Coffee | 16.00% | ~10,534 |
-| Wheels Within Wheels | 15.00% | ~9,875 |
-| They're Heeeeeere! | 15.00% | ~9,875 |
-| Sound and Fury | 15.00% | ~9,875 |
-| Missed by a Mile | 15.00% | ~9,875 |
+| Wheels Within Wheels | 15.00% | ~9,876 |
+| They're Heeeeeere! | 15.00% | ~9,876 |
+| Sound and Fury | 15.00% | ~9,876 |
+| Missed by a Mile | 15.00% | ~9,876 |
 | The Six-Gun Scribe | 14.00% | ~9,217 |
 | Heavy Metal | 13.00% | ~8,559 |
 | Iron Horse | 13.00% | ~8,559 |
 | Perchance to Dream | 13.00% | ~8,559 |
 | Collateral Carnage | 13.00% | ~8,559 |
 | Come One, Come All | 13.00% | ~8,559 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,900 |
-| Thunder and Lightning | 12.00% | ~7,900 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,901 |
+| Thunder and Lightning | 12.00% | ~7,901 |
 | Gatekeeper | 11.00% | ~7,242 |
 | The Lady of the Light | 11.00% | ~7,242 |
 | Two For the Price of One | 11.00% | ~7,242 |
@@ -45,7 +45,7 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 5.00% | ~3,292 |
 | KBF-FM | 5.00% | ~3,292 |
 | Ding! | 5.00% | ~1,465 |
-| Boob Tube | 4.00% | ~2,633 |
+| Boob Tube | 4.00% | ~2,634 |
 | Carny | 3.00% | ~1,975 |
 | Kill Your Darlings | 3.00% | ~879 |
 | Heartbreaker | 3.00% | ~879 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,835 (Ranked 88)  
+Progressed: 65,838 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 65 (0.10%) (Ranked 225)
 | 2023-09-17 | 65,643 | 65 |
 | 2023-09-18 | 65,733 | 65 |
 | 2023-09-19 | 65,814 | 65 |
-| 2023-09-20 | 65,835 | 65 |
+| 2023-09-20 | 65,838 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

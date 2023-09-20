@@ -4,8 +4,8 @@
   "ProductSlug": "game-dev-masters-f5d8f9",
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-03T14:00:00+00:00",
     "PcReleaseDate": "2022-06-03T14:00:00+00:00",
@@ -589,8 +589,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T21:06:08.7793935+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:06:36.5711031+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:06:16.1755663+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:12.3964282+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:01:16.3090121+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:06:36.5712452+00:00"
+  "LastUpdate_Ratings": "2023-09-20T12:01:03.0276838+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:06:16.1756219+00:00"
 }

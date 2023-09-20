@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -992,9 +992,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8187,
+  "EOS_Progressed": 8188,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4692,6 +4692,11 @@
       "Time": "2023-09-20T11:03:17.2840171+00:00",
       "NumProgressed": 8187,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-20T12:03:16.5542696+00:00",
+      "NumProgressed": 8188,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4719,7 +4724,7 @@
       "Name": "Cold-Blooded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Concentration",
@@ -4767,7 +4772,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4783,7 +4788,7 @@
       "Name": "Go Home...",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "HeroSlayer",
@@ -4791,7 +4796,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "LeoniasFall",
@@ -4823,7 +4828,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "SavedElderEnt",
@@ -4839,7 +4844,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "SkeletonKing",
@@ -4855,7 +4860,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "TheLegendBegins",
@@ -4863,7 +4868,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7614
+      "UsersEstimate": 7615
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4887,22 +4892,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6877
+      "UsersEstimate": 6878
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8187,
+      "Progressed": 8188,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-09-13T01:39:18.805523+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:03:17.2840165+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:03:16.5542691+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:48.1944325+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:00:41.4291228+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:03:17.2840658+00:00"
+  "LastUpdate_Ratings": "2023-09-20T12:00:27.5909383+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:03:16.5543006+00:00"
 }

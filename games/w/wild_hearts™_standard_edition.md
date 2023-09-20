@@ -12,6 +12,7 @@
 | Fusion Conjuror | 88.00% | ~7 |
 | Memory Rouser | 88.00% | ~7 |
 | Master of the Skies | 88.00% | ~7 |
+| Man-Machine Master | 88.00% | ~7 |
 | Mountain Splitter | 88.00% | ~7 |
 | Kemono Hunter | 88.00% | ~7 |
 | Single Minded | 88.00% | ~7 |
@@ -24,7 +25,6 @@
 | Reincarnation Cycle Stopper | 88.00% | ~7 |
 | Commencing of Quests | 88.00% | ~7 |
 | Karakuri Isle | 75.00% | ~6 |
-| Man-Machine Master | 75.00% | ~6 |
 | Counter Specialist | 75.00% | ~6 |
 | Left Arm Leverager | 75.00% | ~6 |
 | Relentless Kemono Hunter | 75.00% | ~6 |

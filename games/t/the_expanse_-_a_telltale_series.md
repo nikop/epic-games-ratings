@@ -5,38 +5,38 @@ Rating: 4.53 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,614 |
-| Stogie for Fogey | 26.00% | ~2,848 |
-| Martian Music | 24.00% | ~2,629 |
-| Captain Drummer | 24.00% | ~2,629 |
-| Spore Taste | 23.00% | ~2,519 |
-| Celebrations are in Order | 23.00% | ~2,519 |
-| The Pit and the Pirates | 21.00% | ~2,300 |
-| Drone Dodger | 20.00% | ~2,191 |
-| Doctor Approved | 18.00% | ~1,972 |
-| Thorston Mayer | 14.00% | ~1,533 |
-| Bottoms up! | 11.00% | ~1,205 |
-| Data Logger | 6.00% | ~657 |
+| Impossible Objects | 33.00% | ~3,617 |
+| Stogie for Fogey | 26.00% | ~2,850 |
+| Martian Music | 24.00% | ~2,631 |
+| Captain Drummer | 24.00% | ~2,631 |
+| Spore Taste | 23.00% | ~2,521 |
+| Celebrations are in Order | 23.00% | ~2,521 |
+| The Pit and the Pirates | 20.00% | ~2,192 |
+| Drone Dodger | 20.00% | ~2,192 |
+| Doctor Approved | 18.00% | ~1,973 |
+| Thorston Mayer | 14.00% | ~1,535 |
+| Bottoms up! | 11.00% | ~1,206 |
+| Data Logger | 6.00% | ~658 |
 | Data Master | 5.00% | ~548 |
 | Data Recoverer | 5.00% | ~548 |
 | Debris Spree | 3.00% | ~329 |
 | Urshanabi Hoarder | 2.00% | ~219 |
 | Grave Robber | 2.00% | ~219 |
 | Data Miner | 1.00% | ~110 |
+| Bosmang | 0.20% | ~22 |
 | Data Archivist | 0.10% | ~11 |
 | Brother's Reaper | 0.10% | ~11 |
 | Heal Thy Medic | 0.10% | ~11 |
 | Miraculous Maya | 0.10% | ~11 |
 | Khan's Revenge | 0.10% | ~11 |
 | Call it Even | 0.10% | ~11 |
-| Bosmang | 0.10% | ~11 |
 | Scavenger Star | 0.10% | ~11 |
 | Data Collector | 0.10% | ~11 |
 | No Belter Left Behind | 0.10% | ~11 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,953 (Ranked 131)  
+Progressed: 10,961 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-17 | 10,717 | 0 |
 | 2023-09-18 | 10,769 | 0 |
 | 2023-09-19 | 10,886 | 0 |
-| 2023-09-20 | 10,953 | 0 |
+| 2023-09-20 | 10,961 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

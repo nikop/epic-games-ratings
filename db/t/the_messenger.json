@@ -2,13 +2,13 @@
   "ID": "752368fdba244e9386023cfb2b9d6ceb",
   "Name": "The Messenger",
   "ProductSlug": "the-messenger",
-  "Ranking_Rating": 83,
+  "Ranking_Rating": 78,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2019-11-14T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "NumberOfRatings": 561,
   "RatingHistory": [
     {
@@ -694,6 +694,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 376,
       "NumberOfAwardsMax": 332
+    },
+    {
+      "Time": "2023-09-20T12:02:26.9441774+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 376,
+      "NumberOfAwardsMax": 332
     }
   ],
   "ReviewsDisabled": false,
@@ -731,8 +737,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2023-09-18T08:00:50.2172641+00:00",
+  "LastChanged": "2023-09-20T12:02:26.944177+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.2002867+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:02:48.5944269+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:06:39.8313847+00:00"
+  "LastUpdate_Ratings": "2023-09-20T12:02:26.9441777+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:06:19.0643444+00:00"
 }

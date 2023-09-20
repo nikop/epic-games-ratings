@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -258,9 +258,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219509,
+  "EOS_Progressed": 219516,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2411,
+  "EOS_NewPlayers": 2410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6808,6 +6808,11 @@
       "Time": "2023-09-20T11:05:47.3814338+00:00",
       "NumProgressed": 219509,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T12:05:29.6879337+00:00",
+      "NumProgressed": 219516,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -6876,7 +6881,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43902
+      "UsersEstimate": 43903
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -6892,7 +6897,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10975
+      "UsersEstimate": 10976
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -6900,7 +6905,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8780
+      "UsersEstimate": 8781
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -7004,7 +7009,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28536
+      "UsersEstimate": 28537
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -7076,7 +7081,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54877
+      "UsersEstimate": 54879
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -7091,7 +7096,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 219509,
+      "Progressed": 219516,
       "Completed": 0
     }
   ],
@@ -7099,8 +7104,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-14T11:00:09.7645849+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:05:47.3814333+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:05:29.687933+00:00",
   "LastUpdate_AppInfo": "2023-09-14T20:57:17.4276242+00:00",
-  "LastUpdate_Ratings": "2023-09-20T10:57:42.8496251+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:05:47.3815001+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:57:34.7515502+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:05:29.6879836+00:00"
 }

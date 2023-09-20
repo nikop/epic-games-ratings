@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 112)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,578 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,579 |
 | First Class Student | 13.00% | ~38,609 |
 | Troll with the Punches | 13.00% | ~38,609 |
 | A Keen Sense of Spell | 12.00% | ~35,639 |
@@ -26,11 +26,11 @@ Rating: 4.77 (Ranked 112)
 | The Avenging Gazelle | 7.00% | ~20,789 |
 | Beast Friends | 7.00% | ~20,789 |
 | Flight the Good Flight | 7.00% | ~20,789 |
-| The Seeker of Knowledge | 6.00% | ~17,819 |
-| The Root of the Problem | 6.00% | ~17,819 |
-| Raising Expectations | 6.00% | ~17,819 |
-| Third Time's a Charm | 5.00% | ~14,849 |
-| The Ends Petrify the Means | 5.00% | ~14,849 |
+| The Seeker of Knowledge | 6.00% | ~17,820 |
+| The Root of the Problem | 6.00% | ~17,820 |
+| Raising Expectations | 6.00% | ~17,820 |
+| Third Time's a Charm | 5.00% | ~14,850 |
+| The Ends Petrify the Means | 5.00% | ~14,850 |
 | The Toast of the Town | 4.00% | ~11,880 |
 | Going Through the Potions | 4.00% | ~11,880 |
 | Room with a View | 4.00% | ~11,880 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 112)
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,989 (Ranked 44)  
+Progressed: 296,992 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 476 (0.16%) (Ranked 207)
 | 2023-09-17 | 296,862 | 474 |
 | 2023-09-18 | 296,907 | 474 |
 | 2023-09-19 | 296,968 | 475 |
-| 2023-09-20 | 296,989 | 476 |
+| 2023-09-20 | 296,992 | 476 |
 ## Awards
 Max (Character Customization): 22,851  (Ranked 17)  
 Sum: 43,800 (Ranked 30)  

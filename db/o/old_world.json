@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12624,9 +12624,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -14222,8 +14222,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T20:58:47.8598835+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:09:36.9835871+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:09:07.0244917+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:00:00.6744201+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:09:36.9845945+00:00"
+  "LastUpdate_Ratings": "2023-09-20T11:59:46.9492962+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:09:07.0252613+00:00"
 }

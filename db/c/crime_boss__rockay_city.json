@@ -3594,7 +3594,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 87871,
+  "EOS_Progressed": 87880,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 938,
   "EOS_NewCompleters": 1,
@@ -19424,6 +19424,11 @@
       "Time": "2023-09-20T11:03:10.327868+00:00",
       "NumProgressed": 87871,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-20T12:03:09.855022+00:00",
+      "NumProgressed": 87880,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19435,7 +19440,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_0011",
@@ -19545,9 +19550,9 @@
       "ID": "ACH_0100",
       "SetID": "3kam13l",
       "Name": "Headhunter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_0101",
@@ -19762,13 +19767,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 87871,
+      "Progressed": 87880,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16218,
+      "Progressed": 16227,
       "Completed": 15525
     }
   ],
@@ -19776,8 +19781,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-20T05:01:17.1173393+00:00",
-  "LastChanged_Achievements": "2023-09-20T11:03:10.3278674+00:00",
+  "LastChanged_Achievements": "2023-09-20T12:03:09.8550215+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:02:21.5893457+00:00",
-  "LastUpdate_Achievements": "2023-09-20T11:03:10.3279958+00:00"
+  "LastUpdate_Ratings": "2023-09-20T12:01:59.994472+00:00",
+  "LastUpdate_Achievements": "2023-09-20T12:03:09.855126+00:00"
 }

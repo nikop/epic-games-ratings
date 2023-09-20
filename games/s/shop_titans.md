@@ -28,6 +28,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.80% | ~1,091 |
 | Where it Hurts | 0.80% | ~1,091 |
 | Gild-Gotten Goods | 0.80% | ~1,091 |
+| Accomplished Merchant | 0.80% | ~1,091 |
 | Did we pack lunch? | 0.80% | ~1,091 |
 | On the Path to Greatness | 0.70% | ~955 |
 | Ascended | 0.70% | ~955 |
@@ -36,7 +37,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.70% | ~955 |
 | Gem Expert | 0.70% | ~955 |
 | Helping Hand | 0.70% | ~955 |
-| Accomplished Merchant | 0.70% | ~955 |
 | Arcane Industries | 0.70% | ~955 |
 | Research & Development | 0.60% | ~819 |
 | Fated Encounters | 0.60% | ~819 |
