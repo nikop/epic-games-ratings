@@ -4,7 +4,8 @@
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
 | [Old World](../games/o/old_world.md) | 296 | 3,040 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 520 | 2,600 |
+| [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 524 | 2,620 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 |
@@ -99,6 +100,7 @@
 | [Backrooms: Realm of Shadows](../games/b/b5067143ff63434e9c902de3ffd197f6.md) | 24 | 1,000 |
 | [Batora: Lost Haven](../games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 30 | 1,000 |
 | [Battle Ram](../games/b/battle_ram.md) | 22 | 1,000 |
+| [Battlefield™ 2042](../games/b/battlefield™_2042.md) | 34 | 1,000 |
 | [Beach Invasion 1944](../games/b/beach_invasion_1944.md) | 40 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
 | [Black Book](../games/b/black_book.md) | 50 | 1,000 |
