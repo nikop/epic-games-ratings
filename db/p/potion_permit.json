@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1578,
+  "EOS_Progressed": 1579,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2023,6 +2023,11 @@
       "Time": "2023-09-20T01:45:39.2755883+00:00",
       "NumProgressed": 1578,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-20T03:04:14.6367465+00:00",
+      "NumProgressed": 1579,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -2034,7 +2039,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2090,7 +2095,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2098,7 +2103,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2106,7 +2111,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2146,7 +2151,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2162,7 +2167,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2170,7 +2175,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2202,7 +2207,7 @@
       "Name": "The Capitalist",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2290,7 +2295,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -2337,7 +2342,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1578,
+      "Progressed": 1579,
       "Completed": 9
     }
   ],
@@ -2345,8 +2350,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:19:55.9762819+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:04:14.6367457+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:15.4686624+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:13:13.2845934+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:19:55.9763286+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:57:33.936348+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:04:14.6368155+00:00"
 }

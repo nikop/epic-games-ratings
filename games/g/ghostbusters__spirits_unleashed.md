@@ -16,6 +16,7 @@ Rating: 4.50 (Ranked 567)
 | Fully Upgraded | 0.30% | ~78 |
 | Solo Capture | 0.30% | ~78 |
 | Teamwork | 0.30% | ~78 |
+| There you are! | 0.30% | ~78 |
 | Vaporous Expansion | 0.30% | ~78 |
 | Whoopsie | 0.30% | ~78 |
 | Animated | 0.20% | ~52 |
@@ -29,7 +30,6 @@ Rating: 4.50 (Ranked 567)
 | Summoner | 0.20% | ~52 |
 | Swift Rift Removers | 0.20% | ~52 |
 | Terrifying | 0.20% | ~52 |
-| There you are! | 0.20% | ~52 |
 | Welcome to the Crew | 0.20% | ~52 |
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 567)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,913 (Ranked 107)  
+Progressed: 25,915 (Ranked 107)  
 Completed: 56 (0.22%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 56 (0.22%) (Ranked 196)
 | 2023-09-17 | 25,875 | 56 |
 | 2023-09-18 | 25,888 | 56 |
 | 2023-09-19 | 25,909 | 56 |
-| 2023-09-20 | 25,913 | 56 |
+| 2023-09-20 | 25,915 | 56 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 255)  
 Sum: 2,320 (Ranked 188)  

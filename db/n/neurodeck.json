@@ -4,7 +4,7 @@
   "ProductSlug": "neurodeck",
   "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-03-18T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.1601696+00:00",
   "LastChanged": "2023-03-31T05:58:37.1601697+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:44.9246914+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:15:49.51711+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:20:47.5916145+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:00:55.1748408+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:05:18.9082147+00:00"
 }

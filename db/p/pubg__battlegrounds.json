@@ -4516,9 +4516,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 603322,
+  "EOS_Progressed": 603323,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12645,
+  "EOS_NewPlayers": 12613,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21646,6 +21646,11 @@
       "Time": "2023-09-20T02:21:09.7290248+00:00",
       "NumProgressed": 603322,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-20T03:05:46.3824128+00:00",
+      "NumProgressed": 603323,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -21737,7 +21742,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 446458
+      "UsersEstimate": 446459
     },
     {
       "ID": "2",
@@ -21905,7 +21910,7 @@
       "Name": "Fantastic Four",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 120664
+      "UsersEstimate": 120665
     },
     {
       "ID": "5",
@@ -21952,7 +21957,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 603322,
+      "Progressed": 603323,
       "Completed": 10
     }
   ],
@@ -21960,8 +21965,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-09-19T16:59:38.0584516+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:21:09.7290243+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:05:46.3824121+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.6155521+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:14:44.6637312+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:21:09.7291787+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:59:32.6331848+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:05:46.3825772+00:00"
 }

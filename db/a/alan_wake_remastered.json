@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65825,
+  "EOS_Progressed": 65826,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15252,6 +15252,11 @@
       "Time": "2023-09-20T02:19:53.7432617+00:00",
       "NumProgressed": 65825,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T03:04:13.1378119+00:00",
+      "NumProgressed": 65826,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15263,7 +15268,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26988
+      "UsersEstimate": 26989
     },
     {
       "ID": "02",
@@ -15271,7 +15276,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17114
+      "UsersEstimate": 17115
     },
     {
       "ID": "03",
@@ -15303,7 +15308,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11848
+      "UsersEstimate": 11849
     },
     {
       "ID": "07",
@@ -15335,7 +15340,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "11",
@@ -15439,7 +15444,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "24",
@@ -15535,7 +15540,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22380
+      "UsersEstimate": 22381
     },
     {
       "ID": "36",
@@ -15559,7 +15564,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "39",
@@ -15575,7 +15580,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "41",
@@ -15599,7 +15604,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11848
+      "UsersEstimate": 11849
     },
     {
       "ID": "44",
@@ -15647,7 +15652,7 @@
       "Name": "Couch Potato",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "50",
@@ -15663,7 +15668,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "52",
@@ -15798,21 +15803,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65825,
+      "Progressed": 65826,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29293,
+      "Progressed": 29294,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:19:53.7432612+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:04:13.1378111+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:13:56.6694716+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:19:53.7434258+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:58:29.8556497+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:04:13.1380079+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 184,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -546,9 +546,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -626,9 +626,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -753,8 +753,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:20:50.4313909+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:05:23.1148319+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:15:06.9523873+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:20:50.4314121+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:00:02.636136+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:05:23.1148574+00:00"
 }

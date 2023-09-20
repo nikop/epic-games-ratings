@@ -6,7 +6,7 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,002 |
+| Another Life | 85.00% | ~1,014 |
 | Voices from the Past | 78.00% | ~931 |
 | Space Traveler | 78.00% | ~931 |
 | Demigod | 75.00% | ~895 |
@@ -18,11 +18,11 @@ Number of Ratings: 58  (23.09.2022)
 | Old Days Born Anew | 61.00% | ~728 |
 | Full Arsenal | 56.00% | ~668 |
 | Controlled Demolition | 54.00% | ~644 |
-| Payback | 52.00% | ~620 |
+| Payback | 53.00% | ~632 |
 | Huntress | 52.00% | ~620 |
 | Born to Drift | 51.00% | ~608 |
 | Relentless | 48.00% | ~573 |
-| The Path Forward | 44.00% | ~525 |
+| The Path Forward | 45.00% | ~537 |
 | Disruption | 43.00% | ~513 |
 | Phoenix | 43.00% | ~513 |
 | Cult Slayer | 40.00% | ~477 |

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5944,
+  "EOS_Progressed": 5945,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9961,6 +9961,11 @@
       "Time": "2023-09-20T01:46:15.4097316+00:00",
       "NumProgressed": 5944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T03:04:58.0404793+00:00",
+      "NumProgressed": 5945,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9972,7 +9977,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "10",
@@ -10091,7 +10096,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5944,
+      "Progressed": 5945,
       "Completed": 0
     }
   ],
@@ -10099,8 +10104,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:20:30.5232409+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:04:58.0404787+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:14:08.9297313+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:20:30.5233121+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:58:45.8635997+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:04:58.0405665+00:00"
 }

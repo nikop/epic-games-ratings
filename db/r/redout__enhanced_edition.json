@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232132,
+  "EOS_Progressed": 232133,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16388,6 +16388,11 @@
       "Time": "2023-09-20T02:21:12.0454642+00:00",
       "NumProgressed": 232132,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-20T03:05:49.1740944+00:00",
+      "NumProgressed": 232133,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16487,7 +16492,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46426
+      "UsersEstimate": 46427
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -16663,22 +16668,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95174
+      "UsersEstimate": 95175
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232132,
+      "Progressed": 232133,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:21:12.0454637+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:05:49.1740937+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.1224951+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:14:36.1835229+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:21:12.0455828+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:59:22.3181516+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:05:49.174222+00:00"
 }

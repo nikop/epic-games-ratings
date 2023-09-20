@@ -2131,9 +2131,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 666152,
+  "EOS_Progressed": 666154,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2009,
+  "EOS_NewPlayers": 2005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19246,6 +19246,11 @@
       "Time": "2023-09-20T02:24:18.1605326+00:00",
       "NumProgressed": 666152,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-20T03:08:08.6502572+00:00",
+      "NumProgressed": 666154,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -19257,7 +19262,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 532922
+      "UsersEstimate": 532923
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -19497,7 +19502,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 206507
+      "UsersEstimate": 206508
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -19657,7 +19662,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 119907
+      "UsersEstimate": 119908
     },
     {
       "ID": "RP_TRUSTED",
@@ -19688,15 +19693,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 666152,
+      "Progressed": 666154,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-19T19:58:47.0939593+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:24:18.160532+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:08:08.6502567+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.4311229+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:14:28.0035323+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:24:18.1606848+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:59:12.2050138+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:08:08.6504397+00:00"
 }

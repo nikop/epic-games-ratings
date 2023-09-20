@@ -6756,7 +6756,7 @@
   ],
   "EOS_Progressed": 229427,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -25966,9 +25966,9 @@
       "ID": "objective_completed_56",
       "SetID": "cc37lbc",
       "Name": "Crowded Streets",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_560",
@@ -27852,8 +27852,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:19:08.8862652+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:03:19.1604985+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:14:09.5889173+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:19:08.8889754+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:58:46.8100029+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:03:19.1645972+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9b9b8d67d4ce4b7f81cd74b2fe7325c0",
   "Name": "Dark Fantasy 2: Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 6,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-08-11T03:00:00+00:00",
     "PcReleaseDate": "2019-05-17T02:00:00+00:00",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:19:10.588248+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:03:20.5028023+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.5170965+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:12:56.8387809+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:19:10.5882695+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:57:12.8870457+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:03:20.5028274+00:00"
 }

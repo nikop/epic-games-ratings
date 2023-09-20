@@ -2656,7 +2656,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30846,
+  "EOS_Progressed": 30847,
   "EOS_Completed": 253,
   "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 4,
@@ -19276,6 +19276,11 @@
       "Time": "2023-09-20T01:47:53.9289053+00:00",
       "NumProgressed": 30846,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-09-20T03:06:55.5310108+00:00",
+      "NumProgressed": 30847,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 60,
@@ -19295,7 +19300,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14189
+      "UsersEstimate": 14190
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -19303,7 +19308,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17582
+      "UsersEstimate": 17583
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -19423,7 +19428,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9562
+      "UsersEstimate": 9563
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -19503,7 +19508,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12338
+      "UsersEstimate": 12339
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -19527,7 +19532,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8328
+      "UsersEstimate": 8329
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -19615,7 +19620,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8945
+      "UsersEstimate": 8946
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -19647,7 +19652,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9562
+      "UsersEstimate": 9563
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -19663,7 +19668,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10179
+      "UsersEstimate": 10180
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -19679,7 +19684,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8945
+      "UsersEstimate": 8946
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -19766,15 +19771,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30846,
+      "Progressed": 30847,
       "Completed": 253
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-19T19:59:40.04654+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:22:06.0016856+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:06:55.5310103+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.8919956+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:15:20.9237576+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:22:06.0018355+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:00:20.2460869+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:06:55.5312044+00:00"
 }

@@ -9768,9 +9768,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 408623,
+  "EOS_Progressed": 408640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7333,
+  "EOS_NewPlayers": 7331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26948,6 +26948,11 @@
       "Time": "2023-09-20T02:19:46.713623+00:00",
       "NumProgressed": 408623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T03:04:04.8283104+00:00",
+      "NumProgressed": 408640,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27239,7 +27244,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -27399,7 +27404,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8172
+      "UsersEstimate": 8173
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -27719,7 +27724,7 @@
       "Name": "Factionalism",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "achievement_fanatic_collectivist",
@@ -27791,7 +27796,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8172
+      "UsersEstimate": 8173
     },
     {
       "ID": "achievement_forever_golden",
@@ -27879,7 +27884,7 @@
       "Name": "Gentle Persuasion",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "achievement_georgia_on_my_mind",
@@ -27983,7 +27988,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8172
+      "UsersEstimate": 8173
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -28151,7 +28156,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "achievement_italian_ambition",
@@ -28823,7 +28828,7 @@
       "Name": "Queen of Conquest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -28959,7 +28964,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8172
+      "UsersEstimate": 8173
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -29463,7 +29468,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -29623,7 +29628,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16345
+      "UsersEstimate": 16346
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29790,21 +29795,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 408623,
+      "Progressed": 408640,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 408623,
+      "Progressed": 408640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-19T19:58:07.5753664+00:00",
-  "LastChanged_Achievements": "2023-09-20T02:19:46.7136225+00:00",
+  "LastChanged_Achievements": "2023-09-20T03:04:04.8283096+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:13:48.3914998+00:00",
-  "LastUpdate_Achievements": "2023-09-20T02:19:46.7149929+00:00"
+  "LastUpdate_Ratings": "2023-09-20T02:58:18.2740511+00:00",
+  "LastUpdate_Achievements": "2023-09-20T03:04:04.8300824+00:00"
 }

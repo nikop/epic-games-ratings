@@ -101,6 +101,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.20% | ~459 |
 | Lair of the Xanathar | 0.20% | ~459 |
 | Waterdeep Under Siege | 0.20% | ~459 |
+| Crowded Streets | 0.20% | ~459 |
 | The Darkness Runs Deeper | 0.20% | ~459 |
 | Difficult Terrain | 0.20% | ~459 |
 | Running of the Saurs | 0.20% | ~459 |
@@ -334,7 +335,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~229 |
 | Sober Up | 0.10% | ~229 |
 | In The Beginning | 0.10% | ~196 |
-| Crowded Streets | 0.10% | ~229 |
 | The Sunless Citadel | 0.10% | ~229 |
 | Veteran Brigade | 0.10% | ~229 |
 | Social Grace | 0.10% | ~196 |
