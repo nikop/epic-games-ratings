@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347 (Ranked 280)  
+Progressed: 348 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-17 | 344 | 0 |
 | 2023-09-18 | 345 | 0 |
 | 2023-09-19 | 346 | 0 |
-| 2023-09-20 | 347 | 0 |
+| 2023-09-20 | 348 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

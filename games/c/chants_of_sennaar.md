@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 51.00% | ~89 |
-| Welcome to the Tower | 47.00% | ~82 |
-| The great escape | 44.00% | ~77 |
-| The Preacher's fate | 43.00% | ~75 |
-| A new dawn | 39.00% | ~68 |
-| Scholar | 38.00% | ~66 |
-| The darkness | 36.00% | ~63 |
-| A good beginning | 35.00% | ~61 |
-| True G4M3R | 34.00% | ~60 |
-| One last step | 33.00% | ~58 |
-| Cable guy | 30.00% | ~52 |
-| Champollion | 30.00% | ~52 |
+| That's the spirit | 51.00% | ~90 |
+| Welcome to the Tower | 47.00% | ~83 |
+| The great escape | 44.00% | ~78 |
+| The Preacher's fate | 42.00% | ~74 |
+| A new dawn | 38.00% | ~67 |
+| Scholar | 37.00% | ~65 |
+| The darkness | 36.00% | ~64 |
+| A good beginning | 35.00% | ~62 |
+| True G4M3R | 33.00% | ~58 |
+| One last step | 32.00% | ~57 |
+| Cable guy | 30.00% | ~53 |
+| Champollion | 30.00% | ~53 |
 | Half the way | 29.00% | ~51 |
-| Peace walker | 28.00% | ~49 |
-| In this together | 27.00% | ~47 |
-| Open door | 25.00% | ~44 |
-| Free at last | 23.00% | ~40 |
-| Feels like springtime | 23.00% | ~40 |
-| Alchemists Express | 22.00% | ~38 |
-| Rascal | 22.00% | ~38 |
-| A Link to the Past | 19.00% | ~33 |
-| A great audience | 15.00% | ~26 |
-| For its own good | 15.00% | ~26 |
+| Peace walker | 28.00% | ~50 |
+| In this together | 27.00% | ~48 |
+| Open door | 24.00% | ~42 |
+| Free at last | 23.00% | ~41 |
+| Feels like springtime | 23.00% | ~41 |
+| Alchemists Express | 21.00% | ~37 |
+| Rascal | 21.00% | ~37 |
+| A Link to the Past | 19.00% | ~34 |
+| A great audience | 15.00% | ~27 |
+| For its own good | 15.00% | ~27 |
 | Fashion victim | 14.00% | ~25 |
 | I did it | 13.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175 (Ranked 328)  
-Completed: 9 (5.14%) (Ranked 52)  
+Progressed: 177 (Ranked 328)  
+Completed: 9 (5.08%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,4 +93,4 @@ Completed: 9 (5.14%) (Ranked 52)
 | 2023-09-17 | 164 | 9 |
 | 2023-09-18 | 170 | 9 |
 | 2023-09-19 | 172 | 9 |
-| 2023-09-20 | 175 | 9 |
+| 2023-09-20 | 177 | 9 |

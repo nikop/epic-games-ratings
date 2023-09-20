@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2395,
+  "EOS_Progressed": 2396,
   "EOS_Completed": 220,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.19,
+  "EOS_Completed_Percentage": 9.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6028,6 +6028,11 @@
       "Time": "2023-09-20T21:05:57.0711235+00:00",
       "NumProgressed": 2395,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2023-09-20T23:05:35.0678962+00:00",
+      "NumProgressed": 2396,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 12,
@@ -6071,7 +6076,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "Jakob",
@@ -6103,7 +6108,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6127,14 +6132,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2395,
+      "Progressed": 2396,
       "Completed": 220
     }
   ],
@@ -6142,8 +6147,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:05:33.718582+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:05:35.0678958+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.6209571+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:59:52.9158241+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:05:33.7186164+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:59:48.3649226+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:05:35.0679321+00:00"
 }

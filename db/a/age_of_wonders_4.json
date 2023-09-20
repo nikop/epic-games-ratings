@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6582,9 +6582,9 @@
       "ID": "50",
       "SetID": "7132754",
       "Name": "Draconic Connoisseur",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -6592,7 +6592,7 @@
       "ID": "7132754",
       "IsBase": false,
       "Progressed": 5187,
-      "Completed": 4762
+      "Completed": 4763
     },
     {
       "ID": "3aa2279",
@@ -6605,8 +6605,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:03:55.941004+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:03:57.8543823+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.0952594+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:59:51.7613348+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:03:55.9410683+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:59:47.1038087+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:03:57.8544466+00:00"
 }

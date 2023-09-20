@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6772,9 +6772,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229493,
+  "EOS_Progressed": 229496,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 823,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23782,6 +23782,11 @@
       "Time": "2023-09-20T22:03:30.6235505+00:00",
       "NumProgressed": 229493,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-20T23:03:33.7135741+00:00",
+      "NumProgressed": 229496,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 524,
@@ -23847,9 +23852,9 @@
       "ID": "objective_completed_1045",
       "SetID": "415jc5c",
       "Name": "Friends and Foes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1046",
@@ -23871,9 +23876,9 @@
       "ID": "objective_completed_1051",
       "SetID": "415jc5c",
       "Name": "Nightmare Rats!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1052",
@@ -23911,9 +23916,9 @@
       "ID": "objective_completed_1057",
       "SetID": "415jc5c",
       "Name": "A Dragon Against Us",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1058",
@@ -23975,9 +23980,9 @@
       "ID": "objective_completed_1067",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Blast the Brigands",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1068",
@@ -24007,9 +24012,9 @@
       "ID": "objective_completed_1075",
       "SetID": "415jc5c",
       "Name": "The Fall of Ythryn",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1076",
@@ -24071,9 +24076,9 @@
       "ID": "objective_completed_1086",
       "SetID": "415jc5c",
       "Name": "First Third Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1087",
@@ -24119,9 +24124,9 @@
       "ID": "objective_completed_1092",
       "SetID": "415jc5c",
       "Name": "End of the Line",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1093",
@@ -24495,9 +24500,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1169",
@@ -24583,17 +24588,17 @@
       "ID": "objective_completed_1184",
       "SetID": "415jc5c",
       "Name": "Weak Doesn\u0027t Mean Feeble",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1185",
       "SetID": "415jc5c",
       "Name": "Frail Doesn\u0027t Mean Broken",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1188",
@@ -24703,9 +24708,9 @@
       "ID": "objective_completed_1214",
       "SetID": "415jc5c",
       "Name": "Clowning Around",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1218",
@@ -24727,9 +24732,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_125",
@@ -24887,9 +24892,9 @@
       "ID": "objective_completed_1351",
       "SetID": "415jc5c",
       "Name": "Welcome to the Band",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_14",
@@ -25087,17 +25092,17 @@
       "ID": "objective_completed_184",
       "SetID": "cc37lbc",
       "Name": "Tomb of the Nine Gods",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_185",
       "SetID": "cc37lbc",
       "Name": "The Soulmonger Calls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_186",
@@ -25167,9 +25172,9 @@
       "ID": "objective_completed_211",
       "SetID": "cc37lbc",
       "Name": "We\u0027re not in Faer\u00FBn Anymore",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_213",
@@ -25319,9 +25324,9 @@
       "ID": "objective_completed_253",
       "SetID": "cc37lbc",
       "Name": "Distribute Your Weight",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_254",
@@ -25503,9 +25508,9 @@
       "ID": "objective_completed_378",
       "SetID": "cc37lbc",
       "Name": "The Guardian of Orolunga",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_379",
@@ -25607,9 +25612,9 @@
       "ID": "objective_completed_393",
       "SetID": "cc37lbc",
       "Name": "Backtracking Through Barovia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_394",
@@ -25791,9 +25796,9 @@
       "ID": "objective_completed_418",
       "SetID": "cc37lbc",
       "Name": "Hopelessly Lost",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_419",
@@ -26167,9 +26172,9 @@
       "ID": "objective_completed_572",
       "SetID": "cc37lbc",
       "Name": "Dark Doppelgangers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_573",
@@ -26207,9 +26212,9 @@
       "ID": "objective_completed_578",
       "SetID": "415jc5c",
       "Name": "Faer\u00FBn\u0027s Most Neglected",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_580",
@@ -26327,9 +26332,9 @@
       "ID": "objective_completed_597",
       "SetID": "415jc5c",
       "Name": "The Misty Grove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_6",
@@ -26399,17 +26404,17 @@
       "ID": "objective_completed_607",
       "SetID": "415jc5c",
       "Name": "Shadow Stalkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_608",
       "SetID": "415jc5c",
       "Name": "Avernus Frozen Over",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_61",
@@ -26463,9 +26468,9 @@
       "ID": "objective_completed_616",
       "SetID": "cc37lbc",
       "Name": "Displaced Anger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_617",
@@ -26559,9 +26564,9 @@
       "ID": "objective_completed_630",
       "SetID": "415jc5c",
       "Name": "Into The Fire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_631",
@@ -26759,9 +26764,9 @@
       "ID": "objective_completed_667",
       "SetID": "415jc5c",
       "Name": "Fight Dragons with Dragons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_670",
@@ -26839,9 +26844,9 @@
       "ID": "objective_completed_685",
       "SetID": "415jc5c",
       "Name": "The Prison of Velkynvelve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_686",
@@ -26895,9 +26900,9 @@
       "ID": "objective_completed_693",
       "SetID": "415jc5c",
       "Name": "Power of Three",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_695",
@@ -26919,17 +26924,17 @@
       "ID": "objective_completed_697",
       "SetID": "415jc5c",
       "Name": "Mirage Arcane",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_698",
       "SetID": "415jc5c",
       "Name": "Only Human",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_7",
@@ -26999,9 +27004,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_completed_8",
@@ -27031,17 +27036,17 @@
       "ID": "objective_completed_803",
       "SetID": "415jc5c",
       "Name": "An Awakened Axe",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_804",
       "SetID": "415jc5c",
       "Name": "CONtagious Cold",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_805",
@@ -27071,9 +27076,9 @@
       "ID": "objective_completed_809",
       "SetID": "415jc5c",
       "Name": "The Taunting Lord",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_81",
@@ -27087,9 +27092,9 @@
       "ID": "objective_completed_810",
       "SetID": "415jc5c",
       "Name": "Lone Wolf Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_812",
@@ -27151,9 +27156,9 @@
       "ID": "objective_completed_827",
       "SetID": "415jc5c",
       "Name": "Dwarven Rumors",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_828",
@@ -27271,9 +27276,9 @@
       "ID": "objective_completed_848",
       "SetID": "415jc5c",
       "Name": "Quick Thinking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_849",
@@ -27303,17 +27308,17 @@
       "ID": "objective_completed_853",
       "SetID": "415jc5c",
       "Name": "Frontline Fighters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_854",
       "SetID": "415jc5c",
       "Name": "A Chilling Encounter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_855",
@@ -27503,9 +27508,9 @@
       "ID": "objective_completed_894",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_897",
@@ -27607,9 +27612,9 @@
       "ID": "objective_completed_925",
       "SetID": "415jc5c",
       "Name": "Maroon Madness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_928",
@@ -27623,17 +27628,17 @@
       "ID": "objective_completed_929",
       "SetID": "415jc5c",
       "Name": "Alien Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_930",
       "SetID": "415jc5c",
       "Name": "An Icewind Dale Reunion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_933",
@@ -27655,9 +27660,9 @@
       "ID": "objective_completed_935",
       "SetID": "415jc5c",
       "Name": "The Archaeologist and the Sailor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_94",
@@ -27751,9 +27756,9 @@
       "ID": "objective_completed_1215",
       "SetID": "415jc5c",
       "Name": "The Champion\u0027s Guide to Wildspace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1220",
@@ -27984,21 +27989,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195767,
+      "Progressed": 195770,
       "Completed": 3445
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229493,
+      "Progressed": 229496,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-20T20:00:11.1991766+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:03:30.62355+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:03:33.7135737+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:58:42.8240464+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:03:30.6260473+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:58:40.8555285+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:03:33.7160819+00:00"
 }

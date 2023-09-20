@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1192,7 +1192,7 @@
   ],
   "EOS_Progressed": 15955,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7256,9 +7256,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 638
     },
     {
       "ID": "STORY_ESCAPE",
@@ -7455,8 +7455,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-20T07:59:07.0883208+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:06:16.5701705+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:06:17.8576668+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.1512746+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:59:05.5917682+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:06:16.5702299+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:59:00.0514572+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:06:17.8577251+00:00"
 }

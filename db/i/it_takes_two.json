@@ -2,9 +2,9 @@
   "ID": "8ae7b3c0f490471b967ce26cc2f6e0e6",
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
-  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30,6 +30,11 @@
       "Time": "2023-09-20T22:06:00.0655114+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T23:06:01.399541+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -40,7 +45,7 @@
       "ID": "achievement_1",
       "SetID": "2bk7oji",
       "Name": "It Took Two",
-      "Percentage": 33,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -56,7 +61,7 @@
       "ID": "achievement_11",
       "SetID": "2bk7oji",
       "Name": "Realize Your Art",
-      "Percentage": 33,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -64,9 +69,9 @@
       "ID": "achievement_12",
       "SetID": "2bk7oji",
       "Name": "On Rails Experience",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_13",
@@ -80,7 +85,7 @@
       "ID": "achievement_14",
       "SetID": "2bk7oji",
       "Name": "Force Triangulated",
-      "Percentage": 33,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -96,9 +101,9 @@
       "ID": "achievement_16",
       "SetID": "2bk7oji",
       "Name": "Mood Swing",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_17",
@@ -112,15 +117,15 @@
       "ID": "achievement_18",
       "SetID": "2bk7oji",
       "Name": "Terror Of The Seven Seas",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_19",
       "SetID": "2bk7oji",
       "Name": "Bug Sized Relaxation",
-      "Percentage": 33,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "achievement_20",
       "SetID": "2bk7oji",
       "Name": "Meditation Maestro",
-      "Percentage": 33,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -144,17 +149,17 @@
       "ID": "achievement_3",
       "SetID": "2bk7oji",
       "Name": "Fried Friendship",
-      "Percentage": 100,
+      "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_4",
       "SetID": "2bk7oji",
       "Name": "Struck A Pose",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_5",
@@ -176,38 +181,38 @@
       "ID": "achievement_7",
       "SetID": "2bk7oji",
       "Name": "Look At Him Go",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_8",
       "SetID": "2bk7oji",
       "Name": "Break the Bank",
-      "Percentage": 67,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_9",
       "SetID": "2bk7oji",
       "Name": "A Daring Devil",
-      "Percentage": 33,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:06:00.065511+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:06:01.3995408+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:00.8325724+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:57:01.7002739+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:06:00.0655277+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:56:59.5105519+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:06:01.3995511+00:00"
 }

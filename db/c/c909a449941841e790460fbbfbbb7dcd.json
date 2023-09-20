@@ -2,9 +2,9 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-27T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-09-20T21:05:49.0909541+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T23:05:27.7825562+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -81,7 +86,7 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -89,9 +94,9 @@
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 125,
+      "Percentage": 120,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -105,7 +110,7 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -177,7 +182,7 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 4
     }
@@ -186,13 +191,13 @@
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:05:26.7561538+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:05:27.7825559+00:00",
   "LastUpdate_AppInfo": "2023-09-19T15:57:15.1386888+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:00:31.1494095+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:05:26.756164+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:00:23.9445394+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:05:27.7825655+00:00"
 }

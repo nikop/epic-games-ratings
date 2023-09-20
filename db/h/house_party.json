@@ -5450,9 +5450,9 @@
       "ID": "Inspector",
       "SetID": "bmkn7o4",
       "Name": "Inspector",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "ItSmellsLikeRoses",
@@ -5530,9 +5530,9 @@
       "ID": "Penguinfucker",
       "SetID": "bmkn7o4",
       "Name": "Rule 34",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 19
     },
     {
       "ID": "PoopEnding",
@@ -5768,8 +5768,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:05:51.5115009+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:05:52.9201359+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.7446056+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:57:36.7605537+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:05:51.5115785+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:57:35.0012165+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:05:52.9202158+00:00"
 }

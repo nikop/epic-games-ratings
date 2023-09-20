@@ -3,8 +3,8 @@
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 407,
-  "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2,
+  "EOS_Completed_Percentage": 1.96,
   "EosHistory": [
     {
       "Time": "2023-08-18T13:08:19.6700946+00:00",
@@ -221,6 +221,11 @@
       "Time": "2023-09-18T21:05:40.0896099+00:00",
       "NumProgressed": 50,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T23:05:52.6902128+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-09T18:03:07.1500331+00:00",
@@ -233,7 +238,7 @@
       "Name": "Adventurer",
       "Percentage": 104,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "10",
@@ -247,7 +252,7 @@
       "ID": "11",
       "SetID": "5e3maia",
       "Name": "Snow White",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -255,7 +260,7 @@
       "ID": "12",
       "SetID": "5e3maia",
       "Name": "Stargazer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -263,7 +268,7 @@
       "ID": "13",
       "SetID": "5e3maia",
       "Name": "Stalker",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -271,7 +276,7 @@
       "ID": "14",
       "SetID": "5e3maia",
       "Name": "Trafficker",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -279,7 +284,7 @@
       "ID": "15",
       "SetID": "5e3maia",
       "Name": "Bibliophile",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -287,7 +292,7 @@
       "ID": "16",
       "SetID": "5e3maia",
       "Name": "Matchmaker",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -295,7 +300,7 @@
       "ID": "17",
       "SetID": "5e3maia",
       "Name": "Abbot",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -321,7 +326,7 @@
       "Name": "Clairvoyant",
       "Percentage": 108,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "20",
@@ -343,7 +348,7 @@
       "ID": "22",
       "SetID": "5e3maia",
       "Name": "Vegetarian",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -351,7 +356,7 @@
       "ID": "23",
       "SetID": "5e3maia",
       "Name": "Fashion Designer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -375,7 +380,7 @@
       "ID": "26",
       "SetID": "5e3maia",
       "Name": "Tycoon",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -399,7 +404,7 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -407,7 +412,7 @@
       "ID": "3",
       "SetID": "5e3maia",
       "Name": "Feudal lord",
-      "Percentage": 94,
+      "Percentage": 92,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -423,7 +428,7 @@
       "ID": "33",
       "SetID": "5e3maia",
       "Name": "Arcane Arts",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -455,7 +460,7 @@
       "ID": "37",
       "SetID": "5e3maia",
       "Name": "Veteran",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -479,7 +484,7 @@
       "ID": "4",
       "SetID": "5e3maia",
       "Name": "Epic Alliance",
-      "Percentage": 88,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -495,7 +500,7 @@
       "ID": "41",
       "SetID": "5e3maia",
       "Name": "Drugmaker",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -567,7 +572,7 @@
       "ID": "5",
       "SetID": "5e3maia",
       "Name": "Tax official",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -655,7 +660,7 @@
       "ID": "6",
       "SetID": "5e3maia",
       "Name": "Blacksmith",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -663,7 +668,7 @@
       "ID": "60",
       "SetID": "5e3maia",
       "Name": "Voyager",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -743,7 +748,7 @@
       "ID": "7",
       "SetID": "5e3maia",
       "Name": "Shamanslayer",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -776,14 +781,14 @@
     {
       "ID": "5e3maia",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:05:51.2638083+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:05:52.6902124+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:57:28.7157693+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:05:51.2638649+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:57:26.0016878+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:05:52.6902713+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -332,8 +332,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:03:52.9871661+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:03:54.9354349+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:29.5048719+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:00:05.4801091+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:03:52.9871798+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:00:00.3255426+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:03:54.9354485+00:00"
 }

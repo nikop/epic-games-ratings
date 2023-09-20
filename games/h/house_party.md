@@ -17,9 +17,9 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 2.00% | ~125 |
 | Drunk and Disorderly: Ashley | 1.00% | ~62 |
 | IRL Let's Player | 1.00% | ~62 |
+| Inspector | 0.90% | ~56 |
 | Newcomer: Vickie | 0.90% | ~56 |
 | Amy | 0.80% | ~50 |
-| Inspector | 0.80% | ~50 |
 | Social Butterfly | 0.80% | ~50 |
 | The Muse: Madison | 0.80% | ~50 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
@@ -41,6 +41,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
 | Do Not Burn | 0.30% | ~19 |
+| Rule 34 | 0.30% | ~19 |
 | Rachael | 0.30% | ~19 |
 | The Muse: Derek | 0.30% | ~19 |
 | The Elder Brahs | 0.30% | ~19 |
@@ -48,7 +49,6 @@ Number of Ratings: 177  (23.09.2022)
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
 | First Impressions | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
-| Rule 34 | 0.20% | ~12 |
 | Ronin | 0.20% | ~12 |
 | Do You Smell Blood? | 0.20% | ~12 |
 | A Striking Resemblance | 0.20% | ~12 |

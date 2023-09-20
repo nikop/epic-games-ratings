@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -781,6 +781,11 @@
       "Time": "2023-09-19T12:05:38.4142616+00:00",
       "NumProgressed": 437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T23:04:58.1819734+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -808,7 +813,7 @@
       "Name": "Artifact Collector",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Assassin",
@@ -832,7 +837,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Cryomancer",
@@ -864,7 +869,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GoblinTales",
@@ -872,7 +877,7 @@
       "Name": "Goblin Tales",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Hardboiled",
@@ -984,7 +989,7 @@
       "Name": "Pyromancer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Reincarnation",
@@ -1032,7 +1037,7 @@
       "Name": "Spell Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SwordMaster",
@@ -1072,7 +1077,7 @@
       "Name": "Trap Master",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "TreasureHunter",
@@ -1111,7 +1116,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 0
     }
   ],
@@ -1119,8 +1124,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:04:57.5660888+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:04:58.1819731+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.131083+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:00:35.5441116+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:04:57.5661169+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:00:29.0096182+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:04:58.1820025+00:00"
 }

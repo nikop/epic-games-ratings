@@ -12,6 +12,7 @@ Rating: 4.19 (Ranked 875)
 | Two Heads Are Better Than One | 4.00% | ~638 |
 | Chew 'Em Up | 4.00% | ~638 |
 | Reforged | 4.00% | ~638 |
+| The Outer Way | 4.00% | ~638 |
 | In the Pipe, Five by Five | 4.00% | ~638 |
 | Full Circle | 4.00% | ~638 |
 | Keep Fighting | 4.00% | ~155 |
@@ -20,7 +21,6 @@ Rating: 4.19 (Ranked 875)
 | I Do Belong Here | 3.00% | ~479 |
 | Terminated | 3.00% | ~479 |
 | Workplace Hazard | 3.00% | ~479 |
-| The Outer Way | 3.00% | ~479 |
 | If the SHU Fits... | 3.00% | ~479 |
 | Without A Paddle | 3.00% | ~479 |
 | What Lies Beneath | 3.00% | ~479 |

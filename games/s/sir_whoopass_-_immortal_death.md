@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 92.00% | ~91 |
-| MLG 360 no scope kill! | 92.00% | ~91 |
-| Are you ready to rumble? | 92.00% | ~91 |
-| That's what cheese said! | 86.00% | ~85 |
-| I like you...but I have to kill you... | 85.00% | ~84 |
-| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~83 |
-| Not so hip anymore! | 84.00% | ~83 |
-| Nerd | 84.00% | ~83 |
-| Blurry depth perception | 82.00% | ~81 |
-| Up and down | 80.00% | ~79 |
-| Rolling, Rolling, Rolling | 74.00% | ~73 |
-| Fire-fighter! | 68.00% | ~67 |
-| Oh, you're up to no gouda! | 63.00% | ~62 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~60 |
-| Meat grinder | 60.00% | ~59 |
-| You're not going to blow me up! | 55.00% | ~54 |
-| Butcher | 53.00% | ~52 |
-| Mushroom soup of the day | 53.00% | ~52 |
-| Spare Ribs | 53.00% | ~52 |
-| Honk honk! | 51.00% | ~50 |
-| Cockadoodledoo! | 51.00% | ~50 |
+| Tastes just like chicken! | 92.00% | ~92 |
+| MLG 360 no scope kill! | 92.00% | ~92 |
+| Are you ready to rumble? | 92.00% | ~92 |
+| That's what cheese said! | 85.00% | ~85 |
+| I like you...but I have to kill you... | 84.00% | ~84 |
+| Nerd | 84.00% | ~84 |
+| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~83 |
+| Not so hip anymore! | 83.00% | ~83 |
+| Blurry depth perception | 81.00% | ~81 |
+| Up and down | 79.00% | ~79 |
+| Rolling, Rolling, Rolling | 73.00% | ~73 |
+| Fire-fighter! | 67.00% | ~67 |
+| Oh, you're up to no gouda! | 62.00% | ~62 |
+| Make Love not War-Craft a Mistlefoe | 60.00% | ~60 |
+| Meat grinder | 59.00% | ~59 |
+| You're not going to blow me up! | 54.00% | ~54 |
+| Butcher | 52.00% | ~52 |
+| Mushroom soup of the day | 52.00% | ~52 |
+| Spare Ribs | 52.00% | ~52 |
+| Honk honk! | 50.00% | ~50 |
+| Cockadoodledoo! | 50.00% | ~50 |
 | Thats disgusting! | 47.00% | ~47 |
 | My pants squeak when I walk | 45.00% | ~45 |
 | Self assessed tax return | 42.00% | ~42 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 362)  
+Progressed: 100 (Ranked 361)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,3 +123,4 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-16 | 95 | 0 |
 | 2023-09-17 | 97 | 0 |
 | 2023-09-19 | 99 | 0 |
+| 2023-09-20 | 100 | 0 |

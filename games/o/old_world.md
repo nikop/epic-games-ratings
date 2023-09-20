@@ -24,30 +24,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~561 |
 | Oracle | 4.00% | ~561 |
 | Trade Caravan | 4.00% | ~561 |
-| Ambitious | 3.00% | ~420 |
-| Brilliant | 3.00% | ~420 |
-| Enlightened | 3.00% | ~420 |
-| Fountainhead | 3.00% | ~420 |
-| Glorious | 3.00% | ~420 |
-| Keystone | 3.00% | ~420 |
-| Magnificent | 3.00% | ~420 |
-| Warrior | 3.00% | ~420 |
-| Wise | 3.00% | ~420 |
-| Developing Cities | 3.00% | ~420 |
-| Strong Cities | 3.00% | ~420 |
-| Great Ziggurat | 3.00% | ~420 |
-| Ishtar Gate | 3.00% | ~420 |
-| Lighthouse | 3.00% | ~420 |
-| Pyramids | 3.00% | ~420 |
-| Christianity | 3.00% | ~420 |
-| Judaism | 3.00% | ~420 |
-| Babylonian Paganism | 3.00% | ~420 |
-| Carthaginian Paganism | 3.00% | ~420 |
-| Greek Paganism | 3.00% | ~420 |
-| Roman Paganism | 3.00% | ~420 |
-| Zoroastrianism | 3.00% | ~420 |
-| Naming Landmarks | 3.00% | ~420 |
-| The Great Mage | 3.00% | ~420 |
+| Ambitious | 3.00% | ~421 |
+| Brilliant | 3.00% | ~421 |
+| Enlightened | 3.00% | ~421 |
+| Fountainhead | 3.00% | ~421 |
+| Glorious | 3.00% | ~421 |
+| Keystone | 3.00% | ~421 |
+| Magnificent | 3.00% | ~421 |
+| Warrior | 3.00% | ~421 |
+| Wise | 3.00% | ~421 |
+| Developing Cities | 3.00% | ~421 |
+| Strong Cities | 3.00% | ~421 |
+| Great Ziggurat | 3.00% | ~421 |
+| Ishtar Gate | 3.00% | ~421 |
+| Lighthouse | 3.00% | ~421 |
+| Pyramids | 3.00% | ~421 |
+| Christianity | 3.00% | ~421 |
+| Judaism | 3.00% | ~421 |
+| Babylonian Paganism | 3.00% | ~421 |
+| Carthaginian Paganism | 3.00% | ~421 |
+| Greek Paganism | 3.00% | ~421 |
+| Roman Paganism | 3.00% | ~421 |
+| Zoroastrianism | 3.00% | ~421 |
+| Naming Landmarks | 3.00% | ~421 |
+| The Great Mage | 3.00% | ~421 |
 | Regicide | 2.00% | ~280 |
 | Hanging Gardens in Babylon | 2.00% | ~280 |
 | Drillmaster | 2.00% | ~280 |
@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 2.00% | ~280 |
 | Egyptian Paganism | 2.00% | ~280 |
 | Mythology | 2.00% | ~280 |
+| Points Victory | 2.00% | ~280 |
 | Poetic Leader | 2.00% | ~280 |
 | Beloved | 1.00% | ~140 |
 | Capable | 1.00% | ~140 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 1.00% | ~140 |
 | Ambition Victory | 1.00% | ~140 |
 | Double Victory | 1.00% | ~140 |
-| Points Victory | 1.00% | ~140 |
 | Win a Single Player Game | 1.00% | ~140 |
 | Bad Heir Day | 0.90% | ~126 |
 | Devout | 0.90% | ~126 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,015 (Ranked 125)  
+Progressed: 14,017 (Ranked 125)  
 Completed: 5 (0.04%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -456,7 +456,7 @@ Completed: 5 (0.04%) (Ranked 247)
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
 | 2023-09-19 | 14,005 | 5 |
-| 2023-09-20 | 14,015 | 5 |
+| 2023-09-20 | 14,017 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,812 (Ranked 207)  

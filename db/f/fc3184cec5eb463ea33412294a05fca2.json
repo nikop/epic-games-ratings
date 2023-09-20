@@ -1101,9 +1101,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1197,9 +1197,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1220,8 +1220,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:05:22.449398+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:05:22.9041926+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:57:22.015552+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:05:22.4494127+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:57:20.2515402+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:05:22.9042073+00:00"
 }

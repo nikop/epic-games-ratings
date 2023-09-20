@@ -3892,9 +3892,9 @@
       "Count": 287
     }
   ],
-  "EOS_Progressed": 244351,
+  "EOS_Progressed": 244353,
   "EOS_Completed": 831,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -20537,6 +20537,11 @@
       "Time": "2023-09-20T22:08:17.4964683+00:00",
       "NumProgressed": 244351,
       "NumCompleted": 831
+    },
+    {
+      "Time": "2023-09-20T23:08:07.5258968+00:00",
+      "NumProgressed": 244353,
+      "NumCompleted": 831
     }
   ],
   "TotalAchievements": 39,
@@ -20596,7 +20601,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73305
+      "UsersEstimate": 73306
     },
     {
       "ID": "AchievementBoulderID",
@@ -20604,7 +20609,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63531
+      "UsersEstimate": 63532
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -20612,7 +20617,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222359
+      "UsersEstimate": 222361
     },
     {
       "ID": "AchievementClownID",
@@ -20636,7 +20641,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 68418
+      "UsersEstimate": 68419
     },
     {
       "ID": "AchievementEggID",
@@ -20644,7 +20649,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 43983
+      "UsersEstimate": 43984
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -20676,7 +20681,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129506
+      "UsersEstimate": 129507
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -20708,7 +20713,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 109958
+      "UsersEstimate": 109959
     },
     {
       "ID": "AchievementIntroID",
@@ -20716,7 +20721,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 139280
+      "UsersEstimate": 139281
     },
     {
       "ID": "AchievementLootBoxID",
@@ -20748,7 +20753,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 92853
+      "UsersEstimate": 92854
     },
     {
       "ID": "AchievementRampID",
@@ -20780,7 +20785,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180820
+      "UsersEstimate": 180821
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -20820,7 +20825,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134393
+      "UsersEstimate": 134394
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -20828,7 +20833,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 114845
+      "UsersEstimate": 114846
     },
     {
       "ID": "AchievementTrinketID",
@@ -20844,7 +20849,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158828
+      "UsersEstimate": 158829
     },
     {
       "ID": "AchievementWhaleID",
@@ -20859,7 +20864,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 244351,
+      "Progressed": 244353,
       "Completed": 831
     }
   ],
@@ -20867,8 +20872,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-20T10:57:44.9248467+00:00",
-  "LastChanged_Achievements": "2023-09-20T22:08:17.4964677+00:00",
+  "LastChanged_Achievements": "2023-09-20T23:08:07.5258963+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.6695951+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:57:26.3260966+00:00",
-  "LastUpdate_Achievements": "2023-09-20T22:08:17.4965747+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:57:24.1432919+00:00",
+  "LastUpdate_Achievements": "2023-09-20T23:08:07.5260025+00:00"
 }

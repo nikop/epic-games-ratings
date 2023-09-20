@@ -52,9 +52,9 @@ Rating: 4.60 (Ranked 395)
 | I Want to Break Free | 0.30% | ~16 |
 | Returning Circle | 0.20% | ~10 |
 | I'll Fight You All | 0.20% | ~10 |
+| Draconic Connoisseur | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
-| Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,187 (Ranked 153)  
 Completed: 6 (0.12%) (Ranked 216)  

@@ -5,27 +5,27 @@ Rating: 3.81 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~399,106 |
-| Handy | 41.00% | ~215,307 |
-| Cold Caller | 39.00% | ~204,804 |
-| A Bit On The Side | 26.00% | ~136,536 |
-| Backdoor | 25.00% | ~131,285 |
-| Rank Amateur | 21.00% | ~110,279 |
-| Three Way | 18.00% | ~94,525 |
-| Deadly Assassin | 15.00% | ~78,771 |
-| Gutshot | 13.00% | ~68,268 |
-| Risk It For A Biscuit | 13.00% | ~68,268 |
-| Showoff | 13.00% | ~68,268 |
-| W.H.I.P. | 11.00% | ~57,765 |
+| Pro Creation | 76.00% | ~399,112 |
+| Handy | 41.00% | ~215,311 |
+| Cold Caller | 39.00% | ~204,808 |
+| A Bit On The Side | 26.00% | ~136,538 |
+| Backdoor | 25.00% | ~131,287 |
+| Rank Amateur | 21.00% | ~110,281 |
+| Three Way | 18.00% | ~94,527 |
+| Deadly Assassin | 15.00% | ~78,772 |
+| Gutshot | 13.00% | ~68,269 |
+| Risk It For A Biscuit | 13.00% | ~68,269 |
+| Showoff | 13.00% | ~68,269 |
+| W.H.I.P. | 11.00% | ~57,766 |
 | Bet Bet Bet | 9.00% | ~47,263 |
 | Blindman's Bluff | 9.00% | ~47,263 |
 | Poker Joker | 9.00% | ~47,263 |
-| Never Give Up | 8.00% | ~42,011 |
-| Total Knock Out | 8.00% | ~42,011 |
+| Never Give Up | 8.00% | ~42,012 |
+| Total Knock Out | 8.00% | ~42,012 |
 | Dog Eat Dog | 7.00% | ~36,760 |
 | Quack Quack | 7.00% | ~36,760 |
 | The Bigger They Are | 7.00% | ~36,760 |
-| Give Your Regards To Broadway | 6.00% | ~31,508 |
+| Give Your Regards To Broadway | 6.00% | ~31,509 |
 | Check Yourself | 4.00% | ~21,006 |
 | Moneymaker | 4.00% | ~21,006 |
 | In The Gang | 3.00% | ~15,754 |
@@ -51,7 +51,7 @@ Rating: 3.81 (Ranked 977)
 | Rounder | 0.10% | ~525 |
 | Top Dog | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,139 (Ranked 34)  
+Progressed: 525,148 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 2 (0.00%) (Ranked 280)
 | 2023-09-17 | 524,495 | 2 |
 | 2023-09-18 | 524,731 | 2 |
 | 2023-09-19 | 524,946 | 2 |
-| 2023-09-20 | 525,139 | 2 |
+| 2023-09-20 | 525,148 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 425)  
 Sum: 112 (Ranked 414)  
