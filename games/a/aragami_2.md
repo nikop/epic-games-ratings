@@ -6,33 +6,33 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,236 |
-| First Steps | 80.00% | ~34,612 |
+| Awakening | 93.00% | ~40,237 |
+| First Steps | 80.00% | ~34,613 |
 | Control the Shadows | 67.00% | ~28,988 |
-| Tools of the Trade | 63.00% | ~27,257 |
-| Apprentice | 60.00% | ~25,959 |
-| Secret Seeker | 57.00% | ~24,661 |
+| Tools of the Trade | 63.00% | ~27,258 |
+| Apprentice | 60.00% | ~25,960 |
+| Secret Seeker | 57.00% | ~24,662 |
 | Forge of Assassins | 55.00% | ~23,796 |
 | Revenant | 52.00% | ~22,498 |
-| I don’t Care! | 45.00% | ~19,469 |
+| I don’t Care! | 45.00% | ~19,470 |
 | Bird of Prey | 37.00% | ~16,008 |
 | Engraved with Power | 32.00% | ~13,845 |
 | Lady | 31.00% | ~13,412 |
 | Fashionable Assassin | 27.00% | ~11,682 |
 | Apex Predator | 24.00% | ~10,384 |
-| Soul Reaver | 22.00% | ~9,518 |
+| Soul Reaver | 22.00% | ~9,519 |
 | Embers | 21.00% | ~9,086 |
 | Wall Lizard | 20.00% | ~8,653 |
 | Clinging to Life | 18.00% | ~7,788 |
 | Burning | 17.00% | ~7,355 |
-| Look Behind You | 16.00% | ~6,922 |
-| Sleeping on the Job | 16.00% | ~6,922 |
+| Look Behind You | 16.00% | ~6,923 |
+| Sleeping on the Job | 16.00% | ~6,923 |
 | Family | 14.00% | ~6,057 |
 | War Engines | 14.00% | ~6,057 |
 | Signature Move | 14.00% | ~6,057 |
 | Ruse | 11.00% | ~4,759 |
 | Master Ninja | 11.00% | ~4,759 |
-| Hatching | 10.00% | ~4,326 |
+| Hatching | 10.00% | ~4,327 |
 | Bonds | 9.00% | ~3,894 |
 | Get Over Here | 9.00% | ~3,894 |
 | The Hidden Village | 9.00% | ~3,894 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~865 |
 | Anger Management | 1.00% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,265 (Ranked 96)  
+Progressed: 43,266 (Ranked 96)  
 Completed: 238 (0.55%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 238 (0.55%) (Ranked 153)
 | 2023-09-17 | 43,244 | 238 |
 | 2023-09-18 | 43,250 | 238 |
 | 2023-09-19 | 43,260 | 238 |
-| 2023-09-20 | 43,265 | 238 |
+| 2023-09-20 | 43,266 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

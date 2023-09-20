@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1359,6 +1359,11 @@
       "Time": "2023-09-20T12:03:43.2566055+00:00",
       "NumProgressed": 992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T13:09:43.6035506+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1395,15 +1400,15 @@
       "Name": "Stamina Star",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 169
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1505,9 +1510,9 @@
       "ID": "ML_ACHIEVEMENT_18",
       "SetID": "c7hf6a4",
       "Name": "La Dolce Vita",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 30
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -1667,7 +1672,7 @@
       "Name": "Eat My Dust",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -1762,14 +1767,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-20T12:03:43.2566051+00:00",
+  "LastChanged_Achievements": "2023-09-20T13:09:43.6035502+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-20T12:00:25.2889811+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:03:43.2566569+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:05:55.736923+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:09:43.603612+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -13490,18 +13490,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 465399,
       "NumberOfAwardsMax": 177913
+    },
+    {
+      "Time": "2023-09-20T13:05:48.4240438+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 465951,
+      "NumberOfAwardsMax": 178351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 465399,
-  "NumberOfAwardsMax": 177913,
+  "NumberOfAwards": 465951,
+  "NumberOfAwardsMax": 178351,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 177913
+      "Count": 178351
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -13513,7 +13519,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 17661
+      "Count": 17715
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13561,7 +13567,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 17682
+      "Count": 17742
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13593,8 +13599,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-20T11:00:31.9446833+00:00",
+  "LastChanged": "2023-09-20T13:05:48.4240436+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.347818+00:00",
-  "LastUpdate_Ratings": "2023-09-20T12:00:18.538903+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:03:04.9926045+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:05:48.4240443+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:09:08.4710145+00:00"
 }

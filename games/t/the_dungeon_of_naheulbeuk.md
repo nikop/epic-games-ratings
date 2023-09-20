@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~69,883 |
-| Alt+F4 | 5.00% | ~11,271 |
+| Sowwy! | 31.00% | ~69,885 |
+| Alt+F4 | 5.00% | ~11,272 |
 | Déjà vu | 4.00% | ~9,017 |
 | Where's that freaking Dwarf? | 4.00% | ~9,017 |
 | A beer, two curses, three companions | 3.00% | ~6,763 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,429 (Ranked 58)  
+Progressed: 225,435 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 3 (0.00%) (Ranked 279)
 | 2023-09-17 | 224,910 | 3 |
 | 2023-09-18 | 225,135 | 3 |
 | 2023-09-19 | 225,343 | 3 |
-| 2023-09-20 | 225,429 | 3 |
+| 2023-09-20 | 225,435 | 3 |
 ## Awards
 Max (Character Customization): 197  (Ranked 275)  
 Sum: 341 (Ranked 334)  

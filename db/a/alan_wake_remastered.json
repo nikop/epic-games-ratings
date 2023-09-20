@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65838,
+  "EOS_Progressed": 65840,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15292,6 +15292,11 @@
       "Time": "2023-09-20T12:04:47.052314+00:00",
       "NumProgressed": 65838,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T13:10:33.4389976+00:00",
+      "NumProgressed": 65840,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15335,7 +15340,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14484
+      "UsersEstimate": 14485
     },
     {
       "ID": "06",
@@ -15471,7 +15476,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9217
+      "UsersEstimate": 9218
     },
     {
       "ID": "23",
@@ -15495,7 +15500,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5925
+      "UsersEstimate": 5926
     },
     {
       "ID": "26",
@@ -15543,7 +15548,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11192
+      "UsersEstimate": 11193
     },
     {
       "ID": "32",
@@ -15551,7 +15556,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21068
+      "UsersEstimate": 21069
     },
     {
       "ID": "33",
@@ -15575,7 +15580,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22385
+      "UsersEstimate": 22386
     },
     {
       "ID": "36",
@@ -15623,7 +15628,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11192
+      "UsersEstimate": 11193
     },
     {
       "ID": "42",
@@ -15703,7 +15708,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "52",
@@ -15838,21 +15843,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65838,
+      "Progressed": 65840,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29306,
+      "Progressed": 29308,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T12:04:47.0523132+00:00",
+  "LastChanged_Achievements": "2023-09-20T13:10:33.4389972+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:59:06.0870223+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:04:47.052438+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:04:42.6981622+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:10:33.4391926+00:00"
 }

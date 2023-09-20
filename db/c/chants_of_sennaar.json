@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -993,9 +993,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "PROGRESS_N2",
@@ -1017,9 +1017,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "PROGRESS_N5",
@@ -1040,8 +1040,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-20T12:08:52.7600475+00:00",
+  "LastChanged_Achievements": "2023-09-20T13:14:30.4554827+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-20T12:00:56.6321476+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:08:52.7600709+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:06:22.1547657+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:14:30.455508+00:00"
 }

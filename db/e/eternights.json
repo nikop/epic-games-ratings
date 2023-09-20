@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 188,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -636,9 +636,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -763,8 +763,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-20T12:06:04.0911643+00:00",
+  "LastChanged_Achievements": "2023-09-20T13:11:44.7648698+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-20T12:00:54.5998456+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:06:04.0911821+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:06:20.1599596+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:11:44.7648938+00:00"
 }

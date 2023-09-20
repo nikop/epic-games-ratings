@@ -3,7 +3,7 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 897,
-  "Ranking_Popularity": 452,
+  "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 279,
@@ -692,18 +692,24 @@
       "Rating": 4.16,
       "NumberOfAwards": 173,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-20T13:08:04.7675465+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 174,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 173,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 174,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -736,7 +742,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5831,
+  "EOS_Progressed": 5832,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -7606,6 +7612,11 @@
       "Time": "2023-09-20T11:08:29.651427+00:00",
       "NumProgressed": 5831,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T13:13:35.0737246+00:00",
+      "NumProgressed": 5832,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7617,7 +7628,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7625,7 +7636,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7633,7 +7644,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7641,7 +7652,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -7665,7 +7676,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2857
+      "UsersEstimate": 2858
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -7673,7 +7684,7 @@
       "Name": "Scaling up",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7689,7 +7700,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -7697,7 +7708,7 @@
       "Name": "More than a Tourist",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -7713,7 +7724,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -7769,15 +7780,15 @@
       "Name": "Marathon",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1166
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -7896,22 +7907,22 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5831,
+      "Progressed": 5832,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5203,
+      "Progressed": 5204,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2023-09-19T16:01:15.2479877+00:00",
-  "LastChanged_Achievements": "2023-09-20T12:08:03.0583187+00:00",
+  "LastChanged": "2023-09-20T13:08:04.7675463+00:00",
+  "LastChanged_Achievements": "2023-09-20T13:13:35.0737241+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:51.4356282+00:00",
-  "LastUpdate_Ratings": "2023-09-20T12:02:14.6182142+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:08:03.0583718+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:08:04.7675469+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:13:35.0738314+00:00"
 }

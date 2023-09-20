@@ -5,20 +5,20 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,541 |
-| The Killing Jar | 8.00% | ~14,703 |
-| Not Your Average Trait | 8.00% | ~14,703 |
-| Expanding Horizons | 7.00% | ~12,865 |
-| Quest for Survival | 7.00% | ~12,865 |
-| Gleaming the Cube | 6.00% | ~11,027 |
-| Not a Janitor | 6.00% | ~11,027 |
-| Familiar Face | 6.00% | ~11,027 |
-| Blue Goddess | 6.00% | ~11,027 |
-| Duality | 6.00% | ~11,027 |
-| Top Performer | 6.00% | ~11,027 |
-| Boss'n Up | 6.00% | ~11,027 |
-| Good, But Could Be Better! | 6.00% | ~11,027 |
-| Trait Chaser | 6.00% | ~11,027 |
+| First of Many | 9.00% | ~16,543 |
+| The Killing Jar | 8.00% | ~14,705 |
+| Not Your Average Trait | 8.00% | ~14,705 |
+| Expanding Horizons | 7.00% | ~12,867 |
+| Quest for Survival | 7.00% | ~12,867 |
+| Gleaming the Cube | 6.00% | ~11,029 |
+| Not a Janitor | 6.00% | ~11,029 |
+| Familiar Face | 6.00% | ~11,029 |
+| Blue Goddess | 6.00% | ~11,029 |
+| Duality | 6.00% | ~11,029 |
+| Top Performer | 6.00% | ~11,029 |
+| Boss'n Up | 6.00% | ~11,029 |
+| Good, But Could Be Better! | 6.00% | ~11,029 |
+| Trait Chaser | 6.00% | ~11,029 |
 | Not So Special Now | 5.00% | ~9,190 |
 | Equal Measures | 5.00% | ~9,190 |
 | Shhh...It's a Secret | 5.00% | ~9,190 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,838 |
 | Ghost in the Machine | 0.90% | ~1,654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,791 (Ranked 65)  
+Progressed: 183,809 (Ranked 65)  
 Completed: 313 (0.17%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,10 +122,10 @@ Completed: 313 (0.17%) (Ranked 204)
 | 2023-09-17 | 182,692 | 308 |
 | 2023-09-18 | 183,173 | 309 |
 | 2023-09-19 | 183,629 | 312 |
-| 2023-09-20 | 183,791 | 313 |
+| 2023-09-20 | 183,809 | 313 |
 ## Awards
 Max (Great Boss Battles): 1,651  (Ranked 119)  
-Sum: 3,325 (Ranked 157)  
+Sum: 3,332 (Ranked 157)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -136,8 +136,8 @@ Diff (max vs sum): -38
 | This game is Relaxing | 176 |
 | This game is Highly Recommended | 174 |
 | This game has Amazing Characters | 174 |
+| This game has Amazing Storytelling | 166 |
 | This game has Quickly Understood Controls | 163 |
-| This game has Amazing Storytelling | 159 |
 | This game has Unique Visuals | 152 |
 | This game has a Creative Community | 123 |
 ## Ratings History
@@ -199,4 +199,4 @@ Diff (max vs sum): -38
 | 2023-09-17 | 4.76 | 1,620 | 3,233 |
 | 2023-09-18 | 4.76 | 1,637 | 3,276 |
 | 2023-09-19 | 4.76 | 1,651 | 3,305 |
-| 2023-09-20 | 4.76 | 1,651 | 3,325 |
+| 2023-09-20 | 4.76 | 1,651 | 3,332 |

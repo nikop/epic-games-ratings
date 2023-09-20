@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3610,
+  "EOS_Progressed": 3611,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3764,6 +3764,11 @@
       "Time": "2023-09-20T11:08:35.2447417+00:00",
       "NumProgressed": 3610,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-20T13:13:39.8583448+00:00",
+      "NumProgressed": 3611,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3791,7 +3796,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "bonus4",
@@ -3823,7 +3828,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "campaign10",
@@ -3903,7 +3908,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "campaign2",
@@ -3919,7 +3924,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "campaign3",
@@ -3927,7 +3932,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "campaign4",
@@ -3935,7 +3940,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "campaign5",
@@ -3951,7 +3956,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "campaign7",
@@ -3999,7 +4004,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "scenario4",
@@ -4007,7 +4012,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "scenario5",
@@ -4038,7 +4043,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3610,
+      "Progressed": 3611,
       "Completed": 11
     }
   ],
@@ -4046,8 +4051,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-20T12:08:08.4289909+00:00",
+  "LastChanged_Achievements": "2023-09-20T13:13:39.8583444+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:57:27.6464301+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:08:08.4290307+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:03:16.8525156+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:13:39.8584177+00:00"
 }

@@ -6,36 +6,36 @@ Rating: 4.62 (Ranked 351)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 66.00% | ~438 |
-| Read Between The Lines | 65.00% | ~431 |
-| High Profile | 59.00% | ~391 |
-| Whispers In The Dark | 57.00% | ~378 |
+| Read Between The Lines | 65.00% | ~432 |
+| High Profile | 59.00% | ~392 |
+| Whispers In The Dark | 58.00% | ~385 |
 | Fond Memories | 55.00% | ~365 |
-| A Method To His Madness | 54.00% | ~358 |
-| History Check | 53.00% | ~351 |
+| A Method To His Madness | 54.00% | ~359 |
+| History Check | 53.00% | ~352 |
 | The New World | 50.00% | ~332 |
 | Open Sesame | 49.00% | ~325 |
 | Sticky Fingers | 49.00% | ~325 |
 | Knives Out | 49.00% | ~325 |
-| Lock, Stock, And Barrel | 48.00% | ~318 |
-| Gaze Into The Abyss | 48.00% | ~318 |
-| Land, Ho! | 48.00% | ~318 |
+| Gaze Into The Abyss | 48.00% | ~319 |
+| Land, Ho! | 48.00% | ~319 |
+| Lock, Stock, And Barrel | 47.00% | ~312 |
 | Back In The Saddle | 47.00% | ~312 |
 | No Man Is An Island | 47.00% | ~312 |
 | At Wits' End | 47.00% | ~312 |
-| Fhtagn! | 45.00% | ~298 |
+| Fhtagn! | 45.00% | ~299 |
 | Bookworm | 44.00% | ~292 |
 | Up In Flames | 44.00% | ~292 |
-| Going Once... | 40.00% | ~265 |
+| Going Once... | 40.00% | ~266 |
 | Let Me Be Frank | 39.00% | ~259 |
 | Brain Food | 38.00% | ~252 |
-| No Stone Unturned | 37.00% | ~245 |
-| Read It And Weep | 23.00% | ~152 |
+| No Stone Unturned | 37.00% | ~246 |
+| Read It And Weep | 23.00% | ~153 |
 | Curiosity Killed The Cat | 20.00% | ~133 |
 | Big Breakthrough | 14.00% | ~93 |
 | Reawakened | 5.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663 (Ranked 237)  
-Completed: 26 (3.92%) (Ranked 63)  
+Progressed: 664 (Ranked 237)  
+Completed: 26 (3.92%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,6 +169,7 @@ Completed: 26 (3.92%) (Ranked 63)
 | 2023-09-17 | 662 | 25 |
 | 2023-09-18 | 663 | 25 |
 | 2023-09-19 | 663 | 26 |
+| 2023-09-20 | 664 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

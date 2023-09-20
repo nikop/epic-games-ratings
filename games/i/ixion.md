@@ -14,9 +14,9 @@ Rating: 4.56 (Ranked 468)
 | Ready for a New World | 16.00% | ~508 |
 | Permanent Redesigns | 14.00% | ~445 |
 | Fully Recycled | 13.00% | ~413 |
+| The Ship of Theseus | 13.00% | ~413 |
 | Guy de Borderlands | 12.00% | ~381 |
 | Ain't Nobody Got Time for That | 12.00% | ~381 |
-| The Ship of Theseus | 12.00% | ~381 |
 | Hope Seeker | 11.00% | ~349 |
 | A Hunk of Junk | 10.00% | ~318 |
 | Exceeding Capacity | 10.00% | ~318 |

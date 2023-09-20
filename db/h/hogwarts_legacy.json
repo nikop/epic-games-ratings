@@ -7786,10 +7786,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43800,
       "NumberOfAwardsMax": 22851
+    },
+    {
+      "Time": "2023-09-20T13:04:24.3012602+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43804,
+      "NumberOfAwardsMax": 22851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43800,
+  "NumberOfAwards": 43804,
   "NumberOfAwardsMax": 22851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7833,7 +7839,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1039
+      "Count": 1043
     },
     {
       "Text": "This game is Relaxing",
@@ -7866,9 +7872,9 @@
       "Count": 660
     }
   ],
-  "EOS_Progressed": 296992,
+  "EOS_Progressed": 296993,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24431,6 +24437,11 @@
       "Time": "2023-09-20T12:05:56.189188+00:00",
       "NumProgressed": 296992,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-20T13:11:37.3649252+00:00",
+      "NumProgressed": 296993,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24490,7 +24501,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20789
+      "UsersEstimate": 20790
     },
     {
       "ID": "PFA_16",
@@ -24506,7 +24517,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20789
+      "UsersEstimate": 20790
     },
     {
       "ID": "PFA_18",
@@ -24522,7 +24533,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20789
+      "UsersEstimate": 20790
     },
     {
       "ID": "PFA_2",
@@ -24801,16 +24812,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296992,
+      "Progressed": 296993,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-20T06:59:01.7780707+00:00",
-  "LastChanged_Achievements": "2023-09-20T12:05:56.1891873+00:00",
+  "LastChanged": "2023-09-20T13:04:24.3012601+00:00",
+  "LastChanged_Achievements": "2023-09-20T13:11:37.3649247+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-20T11:58:45.7030496+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:05:56.1892937+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:04:24.3012608+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:11:37.3650999+00:00"
 }

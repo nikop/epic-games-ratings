@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -992,9 +992,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8188,
+  "EOS_Progressed": 8189,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4697,6 +4697,11 @@
       "Time": "2023-09-20T12:03:16.5542696+00:00",
       "NumProgressed": 8188,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-20T13:09:19.3249449+00:00",
+      "NumProgressed": 8189,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4732,7 +4737,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5159
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4748,7 +4753,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "FakeGoddessGone",
@@ -4804,7 +4809,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "LeoniasFall_2",
@@ -4836,7 +4841,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5159
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4868,7 +4873,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7615
+      "UsersEstimate": 7616
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4876,7 +4881,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4892,22 +4897,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8188,
+      "Progressed": 8189,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-09-13T01:39:18.805523+00:00",
-  "LastChanged_Achievements": "2023-09-20T12:03:16.5542691+00:00",
+  "LastChanged_Achievements": "2023-09-20T13:09:19.3249444+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:48.1944325+00:00",
-  "LastUpdate_Ratings": "2023-09-20T12:00:27.5909383+00:00",
-  "LastUpdate_Achievements": "2023-09-20T12:03:16.5543006+00:00"
+  "LastUpdate_Ratings": "2023-09-20T13:05:58.0709724+00:00",
+  "LastUpdate_Achievements": "2023-09-20T13:09:19.324996+00:00"
 }

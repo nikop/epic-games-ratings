@@ -26,11 +26,11 @@ Number of Ratings: 1,023  (23.09.2022)
 | Wall Street Shark | 0.90% | ~187 |
 | Negotiator | 0.80% | ~166 |
 | Car Mechanic | 0.70% | ~146 |
+| Nerd | 0.60% | ~125 |
 | Do it ASAP | 0.60% | ~125 |
 | Senior Estate Agent | 0.60% | ~125 |
-| Nerd | 0.50% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,809 (Ranked 112)  
+Progressed: 20,809 (Ranked 113)  
 Completed: 20 (0.10%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
