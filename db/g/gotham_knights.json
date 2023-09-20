@@ -2952,10 +2952,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4502,
       "NumberOfAwardsMax": 2713
+    },
+    {
+      "Time": "2023-09-20T04:01:01.3601226+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4503,
+      "NumberOfAwardsMax": 2713
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4502,
+  "NumberOfAwards": 4503,
   "NumberOfAwardsMax": 2713,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2999,7 +3005,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3020,9 +3026,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72679,
+  "EOS_Progressed": 72680,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16030,6 +16036,11 @@
       "Time": "2023-09-20T02:20:09.1287326+00:00",
       "NumProgressed": 72679,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-20T04:05:03.4506385+00:00",
+      "NumProgressed": 72680,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 61,
@@ -16121,7 +16132,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8721
+      "UsersEstimate": 8722
     },
     {
       "ID": "APPLY_STATUS",
@@ -16137,7 +16148,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12355
+      "UsersEstimate": 12356
     },
     {
       "ID": "CLAYFACE_1",
@@ -16217,7 +16228,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8721
+      "UsersEstimate": 8722
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -16385,7 +16396,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37793
+      "UsersEstimate": 37794
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16489,7 +16500,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8721
+      "UsersEstimate": 8722
     },
     {
       "ID": "SECRET_CACHE",
@@ -16528,22 +16539,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72679,
+      "Progressed": 72680,
       "Completed": 114
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42959,
+      "Progressed": 42960,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-19T12:01:21.0770808+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:04:31.8827775+00:00",
+  "LastChanged": "2023-09-20T04:01:01.3601224+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:05:03.4506378+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-20T03:00:42.5132869+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:04:31.8829493+00:00"
+  "LastUpdate_Ratings": "2023-09-20T04:01:01.3601232+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:05:03.4508828+00:00"
 }

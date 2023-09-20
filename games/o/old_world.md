@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 6.00% | ~840 |
-| Play a Single Player Game | 6.00% | ~840 |
+| Settler | 6.00% | ~841 |
+| Play a Single Player Game | 6.00% | ~841 |
 | Explorer | 5.00% | ~700 |
 | Intrepid | 5.00% | ~700 |
 | Friendly Family | 5.00% | ~700 |
@@ -152,6 +152,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
 | Hatti | 0.40% | ~56 |
+| Pantheon of Gods | 0.40% | ~56 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Three Man Chariot | 0.40% | ~56 |
 | Siege Tower | 0.40% | ~56 |
@@ -165,7 +166,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.30% | ~42 |
 | Nenikekamen | 0.30% | ~42 |
 | Assyria | 0.30% | ~42 |
-| Pantheon of Gods | 0.30% | ~42 |
 | Apadana in Parsa | 0.30% | ~42 |
 | Play a MP Teams Game | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,008 (Ranked 124)  
+Progressed: 14,010 (Ranked 124)  
 Completed: 5 (0.04%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -456,7 +456,7 @@ Completed: 5 (0.04%) (Ranked 246)
 | 2023-09-17 | 13,979 | 5 |
 | 2023-09-18 | 13,997 | 5 |
 | 2023-09-19 | 14,005 | 5 |
-| 2023-09-20 | 14,008 | 5 |
+| 2023-09-20 | 14,010 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,811 (Ranked 207)  

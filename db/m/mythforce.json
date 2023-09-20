@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -635,9 +635,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2777,
+  "EOS_Progressed": 2779,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1204,
+  "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4980,6 +4980,11 @@
       "Time": "2023-09-20T02:19:24.0015744+00:00",
       "NumProgressed": 2777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T04:04:08.4452448+00:00",
+      "NumProgressed": 2779,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5024,7 +5029,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5040,7 +5045,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5048,7 +5053,7 @@
       "Name": "First Strike",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5078,17 +5083,17 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 445
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 333
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5160,7 +5165,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5175,15 +5180,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2777,
+      "Progressed": 2779,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T01:40:59.1284694+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:03:36.9818761+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:04:08.445244+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:59:44.8708434+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:03:36.9819302+00:00"
+  "LastUpdate_Ratings": "2023-09-20T04:00:04.9181441+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:04:08.4452936+00:00"
 }

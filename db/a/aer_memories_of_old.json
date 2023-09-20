@@ -398,7 +398,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20435,
+  "EOS_Progressed": 20436,
   "EOS_Completed": 408,
   "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 12,
@@ -16733,6 +16733,11 @@
       "Time": "2023-09-20T03:03:08.094831+00:00",
       "NumProgressed": 20435,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-09-20T04:03:39.3287021+00:00",
+      "NumProgressed": 20436,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 20,
@@ -16864,7 +16869,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16888,7 +16893,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "WEST_FINISHED",
@@ -16903,15 +16908,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20435,
+      "Progressed": 20436,
       "Completed": 408
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:03:08.0948303+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:03:39.3287014+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-20T03:00:42.9145555+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:03:08.0949652+00:00"
+  "LastUpdate_Ratings": "2023-09-20T04:01:01.8079299+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:03:39.3288991+00:00"
 }

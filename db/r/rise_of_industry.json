@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735681,
+  "EOS_Progressed": 735687,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2227,
+  "EOS_NewPlayers": 2226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17436,6 +17436,11 @@
       "Time": "2023-09-20T03:06:01.1808239+00:00",
       "NumProgressed": 735681,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T04:06:34.2038048+00:00",
+      "NumProgressed": 735687,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 27,
@@ -17511,7 +17516,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 272202
+      "UsersEstimate": 272204
     },
     {
       "ID": "ach_demolish_trees",
@@ -17519,7 +17524,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 125066
+      "UsersEstimate": 125067
     },
     {
       "ID": "ach_free_cam_mode",
@@ -17575,7 +17580,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 353127
+      "UsersEstimate": 353130
     },
     {
       "ID": "ach_produced",
@@ -17591,7 +17596,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 117709
+      "UsersEstimate": 117710
     },
     {
       "ID": "ach_raise_money",
@@ -17607,7 +17612,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22070
+      "UsersEstimate": 22071
     },
     {
       "ID": "ach_sell_to_state",
@@ -17631,7 +17636,7 @@
       "Name": "Railwayman",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 58854
+      "UsersEstimate": 58855
     },
     {
       "ID": "ach_setup_route_zepplin",
@@ -17655,14 +17660,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 139779
+      "UsersEstimate": 139781
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 735681,
+      "Progressed": 735687,
       "Completed": 3
     }
   ],
@@ -17670,8 +17675,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-09-10T12:00:55.773679+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:06:01.1808233+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:06:34.2038041+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:01.4209619+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:59:55.9097563+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:06:01.1809784+00:00"
+  "LastUpdate_Ratings": "2023-09-20T04:00:15.3712412+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:06:34.2040225+00:00"
 }

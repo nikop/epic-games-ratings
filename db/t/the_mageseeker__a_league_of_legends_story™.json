@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2565,
+  "EOS_Progressed": 2566,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -3610,6 +3610,11 @@
       "Time": "2023-09-19T22:06:54.1007268+00:00",
       "NumProgressed": 2565,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-20T04:08:03.2184253+00:00",
+      "NumProgressed": 2566,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3621,7 +3626,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -3637,7 +3642,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -3653,7 +3658,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -3669,7 +3674,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3685,7 +3690,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3709,7 +3714,7 @@
       "Name": "I smell fear",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -3717,7 +3722,7 @@
       "Name": "Friendly fire",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -3733,7 +3738,7 @@
       "Name": "I chose my shackles",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3741,7 +3746,7 @@
       "Name": "Past trauma",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3749,7 +3754,7 @@
       "Name": "Little light",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -3765,7 +3770,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -3773,7 +3778,7 @@
       "Name": "Do you trust me?",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -3789,7 +3794,7 @@
       "Name": "Chains master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -3805,7 +3810,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3813,7 +3818,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -3885,7 +3890,7 @@
       "Name": "Capelworth",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3901,7 +3906,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -3933,7 +3938,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "STB_PLATINUM",
@@ -3965,7 +3970,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4013,7 +4018,7 @@
       "Name": "Full equipped",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -4044,7 +4049,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2565,
+      "Progressed": 2566,
       "Completed": 7
     }
   ],
@@ -4052,8 +4057,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:07:29.8289879+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:08:03.2184242+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:32.2915355+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:58:33.2721117+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:07:29.8290716+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:58:53.0513367+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:08:03.2185403+00:00"
 }

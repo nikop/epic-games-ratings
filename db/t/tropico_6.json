@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1122,9 +1122,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5217,
+  "EOS_Progressed": 5218,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9937,6 +9937,11 @@
       "Time": "2023-09-20T02:20:51.7366549+00:00",
       "NumProgressed": 5217,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-20T04:05:56.7217723+00:00",
+      "NumProgressed": 5218,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10108,7 +10113,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3913
+      "UsersEstimate": 3914
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10220,7 +10225,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -10267,15 +10272,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5217,
+      "Progressed": 5218,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-18T15:00:11.2211125+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:05:24.7563862+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:05:56.7217716+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.3896086+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:57:15.7971615+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:05:24.7564754+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:57:35.4365483+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:05:56.7218593+00:00"
 }

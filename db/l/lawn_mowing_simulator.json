@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2131,9 +2131,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 666154,
+  "EOS_Progressed": 666156,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2005,
+  "EOS_NewPlayers": 1999,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19251,6 +19251,11 @@
       "Time": "2023-09-20T03:08:08.6502572+00:00",
       "NumProgressed": 666154,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-20T04:09:12.7523954+00:00",
+      "NumProgressed": 666156,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -19262,7 +19267,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 532923
+      "UsersEstimate": 532925
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -19350,7 +19355,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 239815
+      "UsersEstimate": 239816
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -19693,15 +19698,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 666154,
+      "Progressed": 666156,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-19T19:58:47.0939593+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:08:08.6502567+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:09:12.7523946+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.4311229+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:59:12.2050138+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:08:08.6504397+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:59:32.0101056+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:09:12.752671+00:00"
 }

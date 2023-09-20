@@ -6,15 +6,15 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Debuff Dogpile | 16.00% | ~444 |
-| Faceroll the Bones | 16.00% | ~444 |
-| That'll Leave a Mark | 16.00% | ~444 |
-| Hit 'Em Where It Hurts | 15.00% | ~417 |
+| Debuff Dogpile | 16.00% | ~445 |
+| Faceroll the Bones | 16.00% | ~445 |
+| Hit 'Em Where It Hurts | 16.00% | ~445 |
+| That'll Leave a Mark | 16.00% | ~445 |
 | Perk Shard Punch Card | 15.00% | ~417 |
 | Mushroom Madness! | 14.00% | ~389 |
+| Horder Better Faster Stronger | 12.00% | ~333 |
 | Spending Spree | 12.00% | ~333 |
-| First Strike | 11.00% | ~305 |
-| Horder Better Faster Stronger | 11.00% | ~305 |
+| First Strike | 11.00% | ~306 |
 | Everything Must Go! | 10.00% | ~278 |
 | Ten Steps from the Grave | 10.00% | ~278 |
 | Next Time on MythForce... | 8.00% | ~222 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,777 (Ranked 178)  
+Progressed: 2,779 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-17 | 2,572 | 0 |
 | 2023-09-18 | 2,683 | 0 |
 | 2023-09-19 | 2,764 | 0 |
-| 2023-09-20 | 2,777 | 0 |
+| 2023-09-20 | 2,779 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 262 (Ranked 356)  

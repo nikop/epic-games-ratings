@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 886)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,793 |
+| First Step Into the Knight | 52.00% | ~37,794 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,438 |
 | Loose Ends | 34.00% | ~24,711 |
 | To the Victor Go the Spoils | 29.00% | ~21,077 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 886)
 | Snow Problem | 19.00% | ~13,809 |
 | The Show Mud Go On | 18.00% | ~13,082 |
 | From Inside Gotham's Walls | 18.00% | ~13,082 |
-| Protector of Gotham | 17.00% | ~12,355 |
+| Protector of Gotham | 17.00% | ~12,356 |
 | Universal Health Scare | 16.00% | ~11,629 |
 | In Your Element | 15.00% | ~10,902 |
 | Voiceless | 15.00% | ~10,902 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 886)
 | Seeking Asylum | 14.00% | ~10,175 |
 | Not On My Watch | 13.00% | ~9,448 |
 | Shock Til They Drop | 13.00% | ~9,448 |
-| End of an Era | 12.00% | ~8,721 |
-| Bulldozed | 12.00% | ~8,721 |
-| Gotham Knight | 12.00% | ~8,721 |
+| End of an Era | 12.00% | ~8,722 |
+| Bulldozed | 12.00% | ~8,722 |
+| Gotham Knight | 12.00% | ~8,722 |
 | Gotham City Confidential | 11.00% | ~7,995 |
 | Drone You Out | 10.00% | ~7,268 |
 | Out of Their League | 9.00% | ~6,541 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 886)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,679 (Ranked 83)  
+Progressed: 72,680 (Ranked 83)  
 Completed: 114 (0.16%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,17 +220,17 @@ Completed: 114 (0.16%) (Ranked 206)
 | 2023-09-17 | 72,625 | 113 |
 | 2023-09-18 | 72,652 | 114 |
 | 2023-09-19 | 72,676 | 114 |
-| 2023-09-20 | 72,679 | 114 |
+| 2023-09-20 | 72,680 | 114 |
 ## Awards
 Max (Great Boss Battles): 2,713  (Ranked 96)  
-Sum: 4,502 (Ranked 139)  
+Sum: 4,503 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,713 |
 | This game has Quickly Understood Controls | 229 |
 | This game is Extremely Fun | 229 |
-| This game is Relaxing | 227 |
+| This game is Relaxing | 228 |
 | This game has Diverse Characters | 225 |
 | This game has Amazing Characters | 220 |
 | This game has Amazing Storytelling | 220 |
@@ -447,3 +447,4 @@ Diff (max vs sum): -43
 | 2023-09-17 | 4.18 | 2,708 | 4,485 |
 | 2023-09-18 | 4.18 | 2,708 | 4,497 |
 | 2023-09-19 | 4.18 | 2,713 | 4,502 |
+| 2023-09-20 | 4.18 | 2,713 | 4,503 |

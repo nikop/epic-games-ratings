@@ -7860,9 +7860,9 @@
       "Count": 660
     }
   ],
-  "EOS_Progressed": 296976,
+  "EOS_Progressed": 296979,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24385,6 +24385,11 @@
       "Time": "2023-09-20T03:05:15.0570608+00:00",
       "NumProgressed": 296976,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-20T04:05:47.5482023+00:00",
+      "NumProgressed": 296979,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24444,7 +24449,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20788
+      "UsersEstimate": 20789
     },
     {
       "ID": "PFA_16",
@@ -24460,7 +24465,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20788
+      "UsersEstimate": 20789
     },
     {
       "ID": "PFA_18",
@@ -24476,7 +24481,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20788
+      "UsersEstimate": 20789
     },
     {
       "ID": "PFA_2",
@@ -24580,7 +24585,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32667
+      "UsersEstimate": 32668
     },
     {
       "ID": "PFA_31",
@@ -24740,7 +24745,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32667
+      "UsersEstimate": 32668
     },
     {
       "ID": "PFA_9",
@@ -24755,7 +24760,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296976,
+      "Progressed": 296979,
       "Completed": 476
     }
   ],
@@ -24763,8 +24768,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-20T02:58:09.5613608+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:05:15.0570601+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:05:47.5482017+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:58:09.5613615+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:05:15.0572063+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:58:30.6446237+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:05:47.5483395+00:00"
 }

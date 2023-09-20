@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1361,
+  "EOS_Progressed": 1362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4926,6 +4926,11 @@
       "Time": "2023-09-20T00:05:13.0243189+00:00",
       "NumProgressed": 1361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T04:05:54.6374843+00:00",
+      "NumProgressed": 1362,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5129,7 +5134,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5161,7 +5166,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5240,14 +5245,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1361,
+      "Progressed": 1362,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:05:22.6623795+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:05:54.6374835+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:57:17.2634899+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:05:22.6624538+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:57:36.9687713+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:05:54.6376182+00:00"
 }

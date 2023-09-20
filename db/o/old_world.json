@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1701,9 +1701,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14008,
+  "EOS_Progressed": 14010,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11821,6 +11821,11 @@
       "Time": "2023-09-20T03:08:21.4870158+00:00",
       "NumProgressed": 14008,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-20T04:09:25.6642326+00:00",
+      "NumProgressed": 14010,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12456,7 +12461,7 @@
       "Name": "Settler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -13510,9 +13515,9 @@
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
       "SetID": "9201eeb",
       "Name": "Pantheon of Gods",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -13584,7 +13589,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -14199,21 +14204,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14008,
+      "Progressed": 14010,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14008,
+      "Progressed": 14010,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-16T20:58:47.8598835+00:00",
-  "LastChanged_Achievements": "2023-09-20T03:08:21.4870152+00:00",
+  "LastChanged_Achievements": "2023-09-20T04:09:25.6642319+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-20T02:59:02.6017098+00:00",
-  "LastUpdate_Achievements": "2023-09-20T03:08:21.4882382+00:00"
+  "LastUpdate_Ratings": "2023-09-20T03:59:25.2278584+00:00",
+  "LastUpdate_Achievements": "2023-09-20T04:09:25.6660324+00:00"
 }
