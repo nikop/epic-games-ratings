@@ -98,7 +98,7 @@
 | 96 | [Gotham Knights](games/g/gotham_knights.md) | 2,713 | 4.18 | 886 |
 | 97 | [Among Us](games/a/among_us.md) | 2,672 | 4.57 | 449 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,625 | 4.61 | 371 |
-| 99 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,603 | 4.49 | 583 |
+| 99 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,614 | 4.49 | 583 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,566 | 4.27 | 821 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,515 | 4.10 | 915 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,470 | 4.80 | 83 |
@@ -175,9 +175,9 @@
 | 173 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 687 | 4.82 | 66 |
 | 174 | [Neon Abyss](games/n/neon_abyss.md) | 686 | 4.68 | 244 |
 | 175 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 673 | 4.67 | 260 |
+| 176 | [FAR CRY 4](games/f/far_cry_4.md) | 660 | 4.67 | 260 |
 | 176 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 660 | 4.73 | 162 |
-| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 659 | 4.67 | 260 |
-| 177 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 659 | 4.60 | 395 |
+| 178 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 659 | 4.60 | 395 |
 | 179 | [MORDHAU](games/m/mordhau.md) | 653 | 4.39 | 720 |
 | 180 | [Train Valley 2](games/t/train_valley_2.md) | 640 | 4.43 | 667 |
 | 181 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 636 | 4.50 | 567 |
