@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3892,10 +3892,10 @@
       "Count": 287
     }
   ],
-  "EOS_Progressed": 244340,
+  "EOS_Progressed": 244341,
   "EOS_Completed": 831,
-  "EOS_NewPlayers": 681,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 677,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -20522,6 +20522,11 @@
       "Time": "2023-09-20T19:08:27.7824678+00:00",
       "NumProgressed": 244340,
       "NumCompleted": 831
+    },
+    {
+      "Time": "2023-09-20T20:09:46.9523776+00:00",
+      "NumProgressed": 244341,
+      "NumCompleted": 831
     }
   ],
   "TotalAchievements": 39,
@@ -20589,7 +20594,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63528
+      "UsersEstimate": 63529
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -20597,7 +20602,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222349
+      "UsersEstimate": 222350
     },
     {
       "ID": "AchievementClownID",
@@ -20645,7 +20650,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80632
+      "UsersEstimate": 80633
     },
     {
       "ID": "AchievementGoatID",
@@ -20661,7 +20666,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129500
+      "UsersEstimate": 129501
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -20733,7 +20738,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 92849
+      "UsersEstimate": 92850
     },
     {
       "ID": "AchievementRampID",
@@ -20805,7 +20810,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134387
+      "UsersEstimate": 134388
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -20829,7 +20834,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158821
+      "UsersEstimate": 158822
     },
     {
       "ID": "AchievementWhaleID",
@@ -20844,7 +20849,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 244340,
+      "Progressed": 244341,
       "Completed": 831
     }
   ],
@@ -20852,8 +20857,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-20T10:57:44.9248467+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:08:27.7824669+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:09:46.9523771+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.6695951+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:57:45.6665436+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:08:27.7825967+00:00"
+  "LastUpdate_Ratings": "2023-09-20T19:58:19.13384+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:09:46.9525146+00:00"
 }

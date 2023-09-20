@@ -14,6 +14,7 @@ Rating: 4.50 (Ranked 567)
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Cultured | 0.30% | ~78 |
 | Fully Upgraded | 0.30% | ~78 |
+| Icing on the Cake | 0.30% | ~78 |
 | Solo Capture | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
 | Teamwork | 0.30% | ~78 |
@@ -23,7 +24,7 @@ Rating: 4.50 (Ranked 567)
 | Animated | 0.20% | ~52 |
 | Ectoplasmic Entity | 0.20% | ~52 |
 | Ghostbuster In Training | 0.20% | ~52 |
-| Icing on the Cake | 0.20% | ~52 |
+| Pesky Jerks | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
 | Side Hustle | 0.20% | ~52 |
 | Skilled | 0.20% | ~52 |
@@ -46,7 +47,6 @@ Rating: 4.50 (Ranked 567)
 | Little Help Here | 0.10% | ~26 |
 | Master Collector | 0.10% | ~26 |
 | Mycophile | 0.10% | ~26 |
-| Pesky Jerks | 0.10% | ~26 |
 | Reckless | 0.10% | ~26 |
 | Rift Destroyer | 0.10% | ~26 |
 | Rift Seeker | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 567)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,925 (Ranked 108)  
+Progressed: 25,926 (Ranked 108)  
 Completed: 56 (0.22%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 56 (0.22%) (Ranked 198)
 | 2023-09-17 | 25,875 | 56 |
 | 2023-09-18 | 25,888 | 56 |
 | 2023-09-19 | 25,909 | 56 |
-| 2023-09-20 | 25,925 | 56 |
+| 2023-09-20 | 25,926 | 56 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 255)  
-Sum: 2,324 (Ranked 188)  
+Sum: 2,325 (Ranked 188)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -226,7 +226,7 @@ Diff (max vs sum): 67
 | This game is Highly Recommended | 226 |
 | This game is Relaxing | 225 |
 | This game has Quickly Understood Controls | 218 |
-| This game has Amazing Characters | 215 |
+| This game has Amazing Characters | 216 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -394,4 +394,4 @@ Diff (max vs sum): 67
 | 2023-09-16 | 4.50 | 254 | 2,314 |
 | 2023-09-17 | 4.50 | 254 | 2,316 |
 | 2023-09-19 | 4.50 | 254 | 2,317 |
-| 2023-09-20 | 4.50 | 254 | 2,324 |
+| 2023-09-20 | 4.50 | 254 | 2,325 |

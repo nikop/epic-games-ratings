@@ -472,7 +472,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7932,
+  "EOS_Progressed": 7933,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
@@ -8732,6 +8732,11 @@
       "Time": "2023-09-20T19:03:46.5118991+00:00",
       "NumProgressed": 7932,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-20T20:04:30.0392276+00:00",
+      "NumProgressed": 7933,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8767,7 +8772,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3015
     },
     {
       "ID": "ACH05",
@@ -8847,7 +8852,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH15",
@@ -8871,7 +8876,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACH18",
@@ -8974,7 +8979,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7932,
+      "Progressed": 7933,
       "Completed": 50
     }
   ],
@@ -8982,8 +8987,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-17T18:58:19.8654024+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:03:46.5118984+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:04:30.0392271+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:59:00.7229944+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:03:46.5119836+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:00:04.5290511+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:04:30.0393037+00:00"
 }

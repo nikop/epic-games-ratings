@@ -21,23 +21,23 @@ Rating: 4.54 (Ranked 502)
 | Personal Assistant Personally Assisted | 2.00% | ~13,665 |
 | This is My Weapon | 2.00% | ~13,665 |
 | Welcome To Hell-A | 2.00% | ~13,665 |
-| Making Your Mark | 1.00% | ~6,832 |
-| Anger Management | 1.00% | ~6,832 |
-| Perks of the Job | 1.00% | ~6,832 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,832 |
-| Slayer Squad | 1.00% | ~6,832 |
-| Zombologist | 1.00% | ~6,832 |
-| Ooh, Shiny! | 1.00% | ~6,832 |
-| A Patton Emerges | 1.00% | ~6,832 |
-| Humanity Distilled | 1.00% | ~6,832 |
-| I Am the Resurrection | 1.00% | ~6,832 |
-| Our True Nature | 1.00% | ~6,832 |
+| Making Your Mark | 1.00% | ~6,833 |
+| Anger Management | 1.00% | ~6,833 |
+| Perks of the Job | 1.00% | ~6,833 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,833 |
+| Slayer Squad | 1.00% | ~6,833 |
+| Zombologist | 1.00% | ~6,833 |
+| Ooh, Shiny! | 1.00% | ~6,833 |
+| A Patton Emerges | 1.00% | ~6,833 |
+| Humanity Distilled | 1.00% | ~6,833 |
+| I Am the Resurrection | 1.00% | ~6,833 |
+| Our True Nature | 1.00% | ~6,833 |
 | Down with the Sickness | 0.90% | ~6,149 |
 | Max Headroom | 0.80% | ~5,466 |
 | Go, Bobcats! | 0.70% | ~4,783 |
 | Rising Star | 0.70% | ~4,783 |
-| Smorgasbord | 0.60% | ~4,099 |
-| Jumbo Keyring | 0.60% | ~4,099 |
+| Smorgasbord | 0.60% | ~4,100 |
+| Jumbo Keyring | 0.60% | ~4,100 |
 | Not Even My Final Form | 0.50% | ~3,416 |
 | Internet Famous | 0.50% | ~3,416 |
 | Make it So | 0.40% | ~2,733 |
@@ -47,12 +47,12 @@ Rating: 4.54 (Ranked 502)
 | Sole Survivor | 0.30% | ~2,050 |
 | Gore Horse | 0.30% | ~2,050 |
 | Sharpest Tool in the Box | 0.30% | ~2,050 |
-| Survival Skills | 0.20% | ~1,366 |
+| Survival Skills | 0.20% | ~1,367 |
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,232 (Ranked 22)  
-Completed: 2,155 (0.32%) (Ranked 179)  
+Progressed: 683,266 (Ranked 22)  
+Completed: 2,156 (0.32%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 2,155 (0.32%) (Ranked 179)
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
-| 2023-09-20 | 683,232 | 2,155 |
+| 2023-09-20 | 683,266 | 2,156 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,094 (Ranked 93)  

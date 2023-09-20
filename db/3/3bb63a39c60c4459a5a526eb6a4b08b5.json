@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 725,
+  "EOS_Progressed": 726,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2646,6 +2646,11 @@
       "Time": "2023-09-20T17:04:13.7576941+00:00",
       "NumProgressed": 725,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T20:05:02.879463+00:00",
+      "NumProgressed": 726,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2673,7 +2678,7 @@
       "Name": "Basic Controls",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "BigPlane",
@@ -2681,7 +2686,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "BudgetFlight",
@@ -2689,7 +2694,7 @@
       "Name": "Budget Flight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Calculated",
@@ -2713,7 +2718,7 @@
       "Name": "Creator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Debtor",
@@ -2737,7 +2742,7 @@
       "Name": "Experienced Manager",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Fifty",
@@ -2825,7 +2830,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ManagementMaster",
@@ -2873,7 +2878,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "NotPlanned",
@@ -2881,7 +2886,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Ownway",
@@ -2929,7 +2934,7 @@
       "Name": "Resource Economy",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Restructuring",
@@ -2985,21 +2990,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 725,
+      "Progressed": 726,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:04:11.1908287+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:05:02.8794621+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:48.9786266+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:58:01.6626914+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:04:11.1909097+00:00"
+  "LastUpdate_Ratings": "2023-09-20T19:58:40.9729839+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:05:02.8795176+00:00"
 }

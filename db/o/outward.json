@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,7 +514,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3421,
+  "EOS_Progressed": 3422,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
@@ -4554,6 +4554,11 @@
       "Time": "2023-09-20T18:05:49.9221972+00:00",
       "NumProgressed": 3421,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-20T20:06:13.4188318+00:00",
+      "NumProgressed": 3422,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4565,7 +4570,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "AceDetective_9",
@@ -4589,7 +4594,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "BloodAndJustice_50",
@@ -4605,7 +4610,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "CrowdPleaser",
@@ -4677,7 +4682,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -4693,7 +4698,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "LightofLevant_18",
@@ -4755,9 +4760,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2190
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4773,7 +4778,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4813,7 +4818,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -4900,15 +4905,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3421,
+      "Progressed": 3422,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:05:02.8532713+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:06:13.4188314+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:59:27.4866369+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:05:02.853323+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:00:40.4411082+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:06:13.4189011+00:00"
 }

@@ -30,13 +30,13 @@
 | Potential Unlocked | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
+| Trouble at Fort Larius | 4.00% | ~6 |
 | Supercargo | 3.00% | ~5 |
 | Xevarian Gambit | 3.00% | ~5 |
 | The Voice of Hereafter | 3.00% | ~5 |
 | Despised | 3.00% | ~5 |
 | Life... Finds a Way | 3.00% | ~5 |
 | Merchant | 3.00% | ~5 |
-| Trouble at Fort Larius | 3.00% | ~5 |
 | Unseen Patterns | 3.00% | ~5 |
 | Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |

@@ -27,9 +27,9 @@ Rating: 4.27 (Ranked 824)
 | The great fire | 1.00% | ~11 |
 | The Council | 1.00% | ~11 |
 | The Mad | 1.00% | ~11 |
-| Like the dream | 0.80% | ~9 |
 | Charismatic Leader | 0.70% | ~7 |
 | Metropolis | 0.70% | ~7 |
+| Like the dream | 0.70% | ~7 |
 | Six Faces | 0.60% | ~6 |
 | The Great Winter | 0.50% | ~5 |
 | Knowledge is Power | 0.50% | ~5 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 824)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,065 (Ranked 214)  
+Progressed: 1,067 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-17 | 1,055 | 0 |
 | 2023-09-18 | 1,057 | 0 |
 | 2023-09-19 | 1,062 | 0 |
-| 2023-09-20 | 1,065 | 0 |
+| 2023-09-20 | 1,067 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

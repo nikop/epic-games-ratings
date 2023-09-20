@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3615,
+  "EOS_Progressed": 3617,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3784,6 +3784,11 @@
       "Time": "2023-09-20T19:07:09.2932025+00:00",
       "NumProgressed": 3615,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-20T20:09:08.2450277+00:00",
+      "NumProgressed": 3617,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3819,7 +3824,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "bonus5",
@@ -3843,7 +3848,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3183
     },
     {
       "ID": "campaign10",
@@ -3907,7 +3912,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "campaign18",
@@ -3931,7 +3936,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "campaign20",
@@ -3947,7 +3952,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "campaign4",
@@ -3955,7 +3960,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "campaign5",
@@ -3963,7 +3968,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "campaign6",
@@ -4003,7 +4008,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "scenario2",
@@ -4051,14 +4056,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3615,
+      "Progressed": 3617,
       "Completed": 11
     }
   ],
@@ -4066,8 +4071,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:07:09.293202+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:09:08.2450271+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:57:40.5147408+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:07:09.2932509+00:00"
+  "LastUpdate_Ratings": "2023-09-20T19:58:11.755966+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:09:08.2450778+00:00"
 }

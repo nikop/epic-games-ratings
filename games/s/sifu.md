@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 0.30% | ~2,145 |
-| Life is your teacher | 0.30% | ~2,145 |
+| The Old Grandmaster | 0.30% | ~2,146 |
+| Life is your teacher | 0.30% | ~2,146 |
 | Diligence as a goal | 0.30% | ~73 |
 | The Assault | 0.20% | ~1,430 |
 | The Hateful Pole Fighter | 0.20% | ~1,430 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,166 (Ranked 20)  
+Progressed: 715,168 (Ranked 20)  
 Completed: 12,897 (1.80%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 12,897 (1.80%) (Ranked 103)
 | 2023-09-17 | 715,099 | 12,895 |
 | 2023-09-18 | 715,124 | 12,895 |
 | 2023-09-19 | 715,150 | 12,896 |
-| 2023-09-20 | 715,166 | 12,897 |
+| 2023-09-20 | 715,168 | 12,897 |
 ## Awards
 Max (Great Boss Battles): 6,547  (Ranked 53)  
 Sum: 11,315 (Ranked 81)  

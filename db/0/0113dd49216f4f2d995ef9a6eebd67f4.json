@@ -523,9 +523,9 @@
       "ID": "SG_THEHIGHROAD",
       "SetID": "bj5g0n4",
       "Name": "The High Road",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_THEKINGOFHELL",
@@ -539,9 +539,9 @@
       "ID": "SG_THEMUSESENCORE",
       "SetID": "bj5g0n4",
       "Name": "The Muse\u2019s Encore",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -594,8 +594,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:04:55.9063289+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:06:04.0788393+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.7040236+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:57:22.9418886+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:04:55.9063624+00:00"
+  "LastUpdate_Ratings": "2023-09-20T19:57:48.4876201+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:06:04.0788706+00:00"
 }

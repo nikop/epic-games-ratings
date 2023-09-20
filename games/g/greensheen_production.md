@@ -39,7 +39,7 @@
 | How Do I Look? | 0.00% | ~0 |
 | X Best Friends | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 510)  
+Progressed: 5 (Ranked 511)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

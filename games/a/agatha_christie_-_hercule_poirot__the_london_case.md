@@ -51,7 +51,7 @@
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 472)  
+Progressed: 13 (Ranked 473)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 54.00% | ~1,725 |
-| EXTRA BOOST | 43.00% | ~1,374 |
-| IT MAKES BOOM! | 43.00% | ~1,374 |
-| PRO | 35.00% | ~1,118 |
-| PROTECTED | 33.00% | ~1,054 |
-| A TIGER'S FEAR | 33.00% | ~1,054 |
-| AGGRESSIVE RACER | 33.00% | ~1,054 |
-| HERE ARE SOME BARE NECESSITIES | 32.00% | ~1,022 |
+| ROOKIE | 54.00% | ~1,726 |
+| EXTRA BOOST | 43.00% | ~1,375 |
+| IT MAKES BOOM! | 43.00% | ~1,375 |
+| PRO | 35.00% | ~1,119 |
+| PROTECTED | 33.00% | ~1,055 |
+| A TIGER'S FEAR | 33.00% | ~1,055 |
+| AGGRESSIVE RACER | 33.00% | ~1,055 |
+| HERE ARE SOME BARE NECESSITIES | 32.00% | ~1,023 |
 | ACE SPEEDSTER | 25.00% | ~799 |
 | IT'S A LONG WAY TO THE TOP | 21.00% | ~671 |
 | MASTER | 18.00% | ~575 |
 | ACE BRAWLER | 17.00% | ~543 |
-| TRAINING HARD | 16.00% | ~511 |
-| ACE DEFENDER | 16.00% | ~511 |
-| FRIENDLY | 16.00% | ~511 |
-| BE OUR GUEST | 15.00% | ~479 |
-| DEFEAT OUR CHAMPION | 15.00% | ~479 |
-| LEGENDARY HERO | 15.00% | ~479 |
-| RELEASE THE KRAKEN | 14.00% | ~447 |
-| PERFECTLY POISED | 13.00% | ~415 |
-| THE EYE OF THE HUNTER | 13.00% | ~415 |
-| ACE TRICKSTER | 13.00% | ~415 |
+| TRAINING HARD | 16.00% | ~512 |
+| ACE DEFENDER | 16.00% | ~512 |
+| FRIENDLY | 16.00% | ~512 |
+| BE OUR GUEST | 15.00% | ~480 |
+| DEFEAT OUR CHAMPION | 15.00% | ~480 |
+| LEGENDARY HERO | 15.00% | ~480 |
+| RELEASE THE KRAKEN | 14.00% | ~448 |
+| PERFECTLY POISED | 13.00% | ~416 |
+| THE EYE OF THE HUNTER | 13.00% | ~416 |
+| ACE TRICKSTER | 13.00% | ~416 |
 | EXPERIENCED CREW | 7.00% | ~224 |
 | FRAMED! | 7.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,195 (Ranked 173)  
-Completed: 181 (5.67%) (Ranked 47)  
+Progressed: 3,197 (Ranked 173)  
+Completed: 181 (5.66%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,4 +178,4 @@ Completed: 181 (5.67%) (Ranked 47)
 | 2023-09-17 | 3,185 | 176 |
 | 2023-09-18 | 3,189 | 177 |
 | 2023-09-19 | 3,189 | 178 |
-| 2023-09-20 | 3,195 | 181 |
+| 2023-09-20 | 3,197 | 181 |

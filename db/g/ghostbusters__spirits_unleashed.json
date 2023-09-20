@@ -2110,10 +2110,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2324,
       "NumberOfAwardsMax": 254
+    },
+    {
+      "Time": "2023-09-20T20:01:35.2934223+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2325,
+      "NumberOfAwardsMax": 254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2324,
+  "NumberOfAwards": 2325,
   "NumberOfAwardsMax": 254,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2133,7 +2139,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 215
+      "Count": 216
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2190,9 +2196,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25925,
+  "EOS_Progressed": 25926,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13245,6 +13251,11 @@
       "Time": "2023-09-20T17:05:34.0307057+00:00",
       "NumProgressed": 25925,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-20T20:06:55.4611591+00:00",
+      "NumProgressed": 25926,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13414,9 +13425,9 @@
       "ID": "Icing_Cake",
       "SetID": "819popo",
       "Name": "Icing on the Cake",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Legions",
@@ -13470,9 +13481,9 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Reckless",
@@ -13663,16 +13674,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25925,
+      "Progressed": 25926,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-20T19:00:05.6467981+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:05:33.0476456+00:00",
+  "LastChanged": "2023-09-20T20:01:35.2934221+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:06:55.4611585+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:00:05.6467986+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:05:33.0477571+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:01:35.2934228+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:06:55.4612961+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 189,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -601,9 +601,9 @@
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -705,9 +705,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -745,9 +745,9 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -768,8 +768,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:05:33.5887452+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:06:56.2009352+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:00:06.7132666+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:05:33.5887676+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:01:36.6585068+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:06:56.2009583+00:00"
 }

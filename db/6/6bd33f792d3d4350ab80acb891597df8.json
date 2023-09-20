@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -396,17 +396,17 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -468,9 +468,9 @@
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -484,9 +484,9 @@
       "ID": "CgkIxYDzrbcPEAIQEw",
       "SetID": "4egpam7",
       "Name": "Writer",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CgkIxYDzrbcPEAIQFA",
@@ -548,25 +548,25 @@
       "ID": "CgkIxYDzrbcPEAIQGw",
       "SetID": "4egpam7",
       "Name": "Slow and Steady",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHA",
       "SetID": "4egpam7",
       "Name": "Healthy Moderation",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHQ",
       "SetID": "4egpam7",
       "Name": "Feel the Rush",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHg",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:03:55.7072998+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:04:42.2079237+00:00",
   "LastUpdate_AppInfo": "2023-09-19T18:57:24.317096+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:58:22.5164846+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:03:55.7073224+00:00"
+  "LastUpdate_Ratings": "2023-09-20T19:59:12.2852262+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:04:42.2079492+00:00"
 }

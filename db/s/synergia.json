@@ -4,7 +4,7 @@
   "ProductSlug": "synergia",
   "Ranking_EOS_Progress": 614,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-08-10T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:07.0768645+00:00",
   "LastChanged": "2023-03-31T05:57:07.0768646+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:08.5883026+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:58:57.9958497+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:08:07.0931917+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:00:00.500556+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:09:17.8613211+00:00"
 }

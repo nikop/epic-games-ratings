@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1301,9 +1301,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128368,
+  "EOS_Progressed": 128370,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16601,6 +16601,11 @@
       "Time": "2023-09-20T19:08:22.0418966+00:00",
       "NumProgressed": 128368,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-20T20:09:38.7331868+00:00",
+      "NumProgressed": 128370,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16644,7 +16649,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23106
+      "UsersEstimate": 23107
     },
     {
       "ID": "ACH_COP_BAD",
@@ -16668,7 +16673,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30808
+      "UsersEstimate": 30809
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -16676,7 +16681,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10269
+      "UsersEstimate": 10270
     },
     {
       "ID": "ACH_COP_DORK",
@@ -16692,7 +16697,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35943
+      "UsersEstimate": 35944
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16756,7 +16761,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14120
+      "UsersEstimate": 14121
     },
     {
       "ID": "ACH_CUNO",
@@ -16931,15 +16936,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128368,
+      "Progressed": 128370,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:08:22.0418962+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:09:38.7331858+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-20T19:00:25.6332878+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:08:22.0420196+00:00"
+  "LastUpdate_Ratings": "2023-09-20T20:02:01.5383387+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:09:38.7333157+00:00"
 }

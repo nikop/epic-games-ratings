@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
       "SetID": "7i20me3",
       "Name": "Defeat Tezuth",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DEFEAT_BOSS_USKOL",
@@ -798,8 +798,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-20T19:09:04.3544032+00:00",
+  "LastChanged_Achievements": "2023-09-20T20:09:55.4903422+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.4303858+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:58:41.9089743+00:00",
-  "LastUpdate_Achievements": "2023-09-20T19:09:04.3544477+00:00"
+  "LastUpdate_Ratings": "2023-09-20T19:59:39.7131477+00:00",
+  "LastUpdate_Achievements": "2023-09-20T20:09:55.4903846+00:00"
 }

@@ -25,10 +25,10 @@
 | Craftsmen | 7.00% | ~6 |
 | Finally! | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
+| Defeat Tezuth | 6.00% | ~5 |
 | Defeat Uskol | 6.00% | ~5 |
 | A Deceiving Gift | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
-| Defeat Tezuth | 5.00% | ~4 |
 | Bringing guns to a sword fight | 5.00% | ~4 |
 | Ancient Powers | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |

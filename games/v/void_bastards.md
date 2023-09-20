@@ -1,7 +1,7 @@
 # Void Bastards
 [Store](https://store.epicgames.com/en-US/p/void-bastards)  
 [View Rawdata](../../db/v/void_bastards.json)  
-Rating: 4.60 (Ranked 396)  
+Rating: 4.59 (Ranked 418)  
 Number of Ratings: 986  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 22  (Ranked 500)  
@@ -91,3 +91,4 @@ Diff (max vs sum): 53
 | 2023-07-07 | 4.60 | - | 21 | 63 |
 | 2023-07-16 | 4.60 | - | 22 | 64 |
 | 2023-08-13 | 4.60 | - | 22 | 65 |
+| 2023-09-20 | 4.59 | - | 22 | 65 |

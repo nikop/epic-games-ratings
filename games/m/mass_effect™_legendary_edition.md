@@ -4,25 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Medal of Exploration II | 67.00% | ~2 |
-| Medal of Exploration III | 67.00% | ~2 |
-| Soldier Ally | 67.00% | ~2 |
-| Quarian Ally | 67.00% | ~2 |
-| Distinguished Service Medal | 67.00% | ~2 |
-| Spectre Inductee | 67.00% | ~2 |
-| Recruit | 33.00% | ~1 |
-| Archivist | 33.00% | ~1 |
-| Medal of Heroism | 33.00% | ~1 |
-| Completionist | 33.00% | ~1 |
-| Medal of Exploration I | 33.00% | ~1 |
-| Sentinel Ally | 33.00% | ~1 |
-| Krogan Ally | 33.00% | ~1 |
-| Turian Ally | 33.00% | ~1 |
-| Asari Ally | 33.00% | ~1 |
-| Principled | 33.00% | ~1 |
-| Search and Rescue | 33.00% | ~1 |
-| Colonial Savior | 33.00% | ~1 |
-| Honorarium of Corporate Service | 33.00% | ~1 |
+| Recruit | 50.00% | ~3 |
+| Medal of Exploration I | 50.00% | ~3 |
+| Soldier Ally | 50.00% | ~3 |
+| Quarian Ally | 50.00% | ~3 |
+| Distinguished Service Medal | 50.00% | ~3 |
+| Spectre Inductee | 50.00% | ~3 |
+| Medal of Heroism | 33.00% | ~2 |
+| Medal of Exploration II | 33.00% | ~2 |
+| Medal of Exploration III | 33.00% | ~2 |
+| Sentinel Ally | 33.00% | ~2 |
+| Krogan Ally | 33.00% | ~2 |
+| Honorarium of Corporate Service | 33.00% | ~2 |
+| Paramour I | 17.00% | ~1 |
+| Archivist | 17.00% | ~1 |
+| Completionist | 17.00% | ~1 |
+| Turian Ally | 17.00% | ~1 |
+| Asari Ally | 17.00% | ~1 |
+| Principled | 17.00% | ~1 |
+| Search and Rescue | 17.00% | ~1 |
+| Colonial Savior | 17.00% | ~1 |
+| Broke, Blind, and Bedlam | 17.00% | ~1 |
 | Medal of Honor | 0.00% | ~0 |
 | Barrier Mastery | 0.00% | ~0 |
 | A Personal Touch | 0.00% | ~0 |
@@ -47,7 +49,6 @@
 | Insanity II | 0.00% | ~0 |
 | Insanity III | 0.00% | ~0 |
 | Damping Specialist | 0.00% | ~0 |
-| Paramour I | 0.00% | ~0 |
 | Paramour II | 0.00% | ~0 |
 | Paramour III | 0.00% | ~0 |
 | Long Service Medal | 0.00% | ~0 |
@@ -105,7 +106,6 @@
 | Scholar | 0.00% | ~0 |
 | Power Full | 0.00% | ~0 |
 | Revenge! | 0.00% | ~0 |
-| Broke, Blind, and Bedlam | 0.00% | ~0 |
 | Digital Exorcist | 0.00% | ~0 |
 | Heart of Darkness | 0.00% | ~0 |
 | Driven | 0.00% | ~0 |
@@ -132,9 +132,9 @@
 | Master and Commander | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 526)  
+Progressed: 6 (Ranked 500)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-20 | 3 | 0 |
+| 2023-09-20 | 6 | 0 |
