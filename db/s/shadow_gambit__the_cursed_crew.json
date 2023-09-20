@@ -1901,9 +1901,9 @@
       "ID": "_15_Completion_80",
       "SetID": "8a1io5d",
       "Name": "Marauder",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -2006,8 +2006,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:03:47.9795937+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:03:50.7110249+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:59:11.904653+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:03:47.9796225+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:00:07.0928469+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:03:50.7110905+00:00"
 }

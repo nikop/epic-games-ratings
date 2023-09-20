@@ -7427,9 +7427,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473431,
+  "EOS_Progressed": 473432,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23532,6 +23532,11 @@
       "Time": "2023-09-20T07:07:08.1786852+00:00",
       "NumProgressed": 473431,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-20T09:06:55.9249762+00:00",
+      "NumProgressed": 473432,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -23543,7 +23548,7 @@
       "Name": "Best In The Business",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 37874
+      "UsersEstimate": 37875
     },
     {
       "ID": "achievement_10_manager_of_the_year_awards",
@@ -23567,7 +23572,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175169
+      "UsersEstimate": 175170
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -23631,7 +23636,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 127826
+      "UsersEstimate": 127827
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -23655,7 +23660,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142029
+      "UsersEstimate": 142030
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -23663,7 +23668,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113623
+      "UsersEstimate": 113624
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -23695,7 +23700,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175169
+      "UsersEstimate": 175170
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -23783,7 +23788,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113623
+      "UsersEstimate": 113624
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -23911,7 +23916,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 113623
+      "UsersEstimate": 113624
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -23927,7 +23932,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113623
+      "UsersEstimate": 113624
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -24039,7 +24044,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 127826
+      "UsersEstimate": 127827
     },
     {
       "ID": "achievement_record_signing",
@@ -24326,15 +24331,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473431,
+      "Progressed": 473432,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-19T19:57:35.3953818+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:05:47.0682502+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:06:55.9249759+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:57:55.1784231+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:05:47.0684592+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:58:07.9685025+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:06:55.9251528+00:00"
 }

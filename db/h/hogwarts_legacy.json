@@ -7866,9 +7866,9 @@
       "Count": 660
     }
   ],
-  "EOS_Progressed": 296986,
+  "EOS_Progressed": 296987,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24416,6 +24416,11 @@
       "Time": "2023-09-20T08:05:15.8963664+00:00",
       "NumProgressed": 296986,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-20T09:06:09.9348881+00:00",
+      "NumProgressed": 296987,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24611,7 +24616,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32668
+      "UsersEstimate": 32669
     },
     {
       "ID": "PFA_31",
@@ -24771,7 +24776,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32668
+      "UsersEstimate": 32669
     },
     {
       "ID": "PFA_9",
@@ -24786,7 +24791,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296986,
+      "Progressed": 296987,
       "Completed": 476
     }
   ],
@@ -24794,8 +24799,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-20T06:59:01.7780707+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:05:15.8963658+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:06:09.9348877+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:58:18.6123216+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:05:15.896499+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:58:44.8942372+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:06:09.9350769+00:00"
 }

@@ -29,7 +29,7 @@ Rating: 4.69 (Ranked 219)
 | Fully Decked | 7.00% | ~46 |
 | Corsair | 6.00% | ~39 |
 | Freebooter | 5.00% | ~33 |
-| Marauder | 3.00% | ~20 |
+| Marauder | 4.00% | ~26 |
 | Welcome Back Jester | 3.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 658 (Ranked 238)  

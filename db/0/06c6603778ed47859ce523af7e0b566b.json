@@ -165,9 +165,9 @@
       "ID": "Concerted Effort",
       "SetID": "dene75h",
       "Name": "Concerted Effort",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Counting Stars",
@@ -205,9 +205,9 @@
       "ID": "Dragon Fashionista",
       "SetID": "dene75h",
       "Name": "Dragon Fashionista",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Finest Silks",
@@ -325,9 +325,9 @@
       "ID": "Pine time!",
       "SetID": "dene75h",
       "Name": "Pine time!",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Prickly Little Friends",
@@ -349,9 +349,9 @@
       "ID": "Rockstar",
       "SetID": "dene75h",
       "Name": "Rockstar",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Sail Away",
@@ -365,9 +365,9 @@
       "ID": "Sh, Sh, Shake It!",
       "SetID": "dene75h",
       "Name": "Sh, Sh, Shake It!",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Sharp Dressed Dragon",
@@ -436,8 +436,8 @@
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:09:11.7827645+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:09:27.5712335+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.5727546+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:57:41.377365+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:09:11.7827962+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:57:46.3792592+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:09:27.5712617+00:00"
 }

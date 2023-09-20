@@ -5,19 +5,19 @@ Rating: 4.53 (Ranked 519)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,608 |
-| Stogie for Fogey | 27.00% | ~2,952 |
-| Martian Music | 24.00% | ~2,624 |
-| Captain Drummer | 24.00% | ~2,624 |
-| Spore Taste | 23.00% | ~2,515 |
-| Celebrations are in Order | 23.00% | ~2,515 |
-| The Pit and the Pirates | 20.00% | ~2,187 |
-| Drone Dodger | 20.00% | ~2,187 |
-| Doctor Approved | 18.00% | ~1,968 |
-| Thorston Mayer | 14.00% | ~1,531 |
-| Bottoms up! | 11.00% | ~1,203 |
-| Data Logger | 6.00% | ~656 |
-| Data Recoverer | 6.00% | ~656 |
+| Impossible Objects | 33.00% | ~3,611 |
+| Stogie for Fogey | 26.00% | ~2,845 |
+| Martian Music | 24.00% | ~2,626 |
+| Captain Drummer | 24.00% | ~2,626 |
+| Spore Taste | 23.00% | ~2,517 |
+| Celebrations are in Order | 23.00% | ~2,517 |
+| The Pit and the Pirates | 20.00% | ~2,188 |
+| Drone Dodger | 20.00% | ~2,188 |
+| Doctor Approved | 18.00% | ~1,970 |
+| Thorston Mayer | 14.00% | ~1,532 |
+| Bottoms up! | 11.00% | ~1,204 |
+| Data Logger | 6.00% | ~657 |
+| Data Recoverer | 6.00% | ~657 |
 | Data Master | 5.00% | ~547 |
 | Debris Spree | 3.00% | ~328 |
 | Urshanabi Hoarder | 2.00% | ~219 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 519)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,934 (Ranked 131)  
+Progressed: 10,942 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-17 | 10,717 | 0 |
 | 2023-09-18 | 10,769 | 0 |
 | 2023-09-19 | 10,886 | 0 |
-| 2023-09-20 | 10,934 | 0 |
+| 2023-09-20 | 10,942 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

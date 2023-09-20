@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53710,
+  "EOS_Progressed": 53723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17894,
+  "EOS_NewPlayers": 17779,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1769,6 +1769,11 @@
       "Time": "2023-09-20T08:05:53.3648153+00:00",
       "NumProgressed": 53710,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T09:07:05.2211909+00:00",
+      "NumProgressed": 53723,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1819,9 +1824,9 @@
       "ID": "14",
       "SetID": "2cfdi92",
       "Name": "Nano Connoisseur",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 80,
-      "UsersEstimate": 430
+      "UsersEstimate": 484
     },
     {
       "ID": "15",
@@ -1845,15 +1850,15 @@
       "Name": "As Far Away As Possible",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "3",
       "SetID": "2cfdi92",
       "Name": "A Most Unstable Organism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1612
     },
     {
       "ID": "4",
@@ -1875,9 +1880,9 @@
       "ID": "6",
       "SetID": "2cfdi92",
       "Name": "In Two Places At Once",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 430
+      "UsersEstimate": 537
     },
     {
       "ID": "7",
@@ -1908,7 +1913,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 53710,
+      "Progressed": 53723,
       "Completed": 0
     }
   ],
@@ -1916,8 +1921,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-19T01:41:08.548779+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:05:53.3648147+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:07:05.2211904+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.1772616+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:58:52.9153095+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:05:53.3648356+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:59:36.965717+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:07:05.2212168+00:00"
 }

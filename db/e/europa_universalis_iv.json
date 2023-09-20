@@ -9700,10 +9700,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 50683,
       "NumberOfAwardsMax": 6170
+    },
+    {
+      "Time": "2023-09-20T08:58:54.8014766+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50695,
+      "NumberOfAwardsMax": 6170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50683,
+  "NumberOfAwards": 50695,
   "NumberOfAwardsMax": 6170,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9729,7 +9735,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5821
+      "Count": 5833
     },
     {
       "Text": "This game is Educational",
@@ -9774,9 +9780,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 408717,
+  "EOS_Progressed": 408739,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7308,
+  "EOS_NewPlayers": 7303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26984,6 +26990,11 @@
       "Time": "2023-09-20T08:04:19.9967012+00:00",
       "NumProgressed": 408717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T09:04:47.8348547+00:00",
+      "NumProgressed": 408739,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27435,7 +27446,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8174
+      "UsersEstimate": 8175
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -27827,7 +27838,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8174
+      "UsersEstimate": 8175
     },
     {
       "ID": "achievement_forever_golden",
@@ -28019,7 +28030,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8174
+      "UsersEstimate": 8175
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -28203,7 +28214,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -28931,7 +28942,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -28995,7 +29006,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8174
+      "UsersEstimate": 8175
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -29603,7 +29614,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "achievement_trustworthy",
@@ -29659,7 +29670,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16349
+      "UsersEstimate": 16350
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29826,21 +29837,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 408717,
+      "Progressed": 408739,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 408717,
+      "Progressed": 408739,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-20T07:58:24.7715196+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:04:19.9967006+00:00",
+  "LastChanged": "2023-09-20T08:58:54.8014763+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:04:47.8348541+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:58:24.7715205+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:04:19.9979285+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:58:54.8014772+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:04:47.8361445+00:00"
 }

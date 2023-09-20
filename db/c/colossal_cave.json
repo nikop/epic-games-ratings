@@ -274,9 +274,9 @@
       "ID": "20-SoftHands",
       "SetID": "5iij4gg",
       "Name": "Soft Hands",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "21-ColossalCaveExplorer",
@@ -323,8 +323,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:06:51.878896+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:08:31.293646+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:13.2420987+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:57:20.7111538+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:06:51.8789157+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:57:17.0545654+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:08:31.2936649+00:00"
 }

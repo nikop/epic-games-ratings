@@ -5,31 +5,31 @@ Rating: 4.73 (Ranked 161)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,062 |
+| Under a New Sun | 92.00% | ~12,063 |
 | Newcomers | 79.00% | ~10,358 |
-| A Burden of Blood | 74.00% | ~9,702 |
+| A Burden of Blood | 74.00% | ~9,703 |
 | Protector's Duty | 70.00% | ~9,178 |
 | Alchemist | 69.00% | ~9,047 |
-| In our Wake | 68.00% | ~8,915 |
-| Leaving all Behind | 65.00% | ~8,522 |
+| In our Wake | 68.00% | ~8,916 |
+| Leaving all Behind | 65.00% | ~8,523 |
 | Felons | 62.00% | ~8,129 |
 | A Sea of Promises | 61.00% | ~7,998 |
-| Tales and Revelations | 58.00% | ~7,604 |
+| Tales and Revelations | 58.00% | ~7,605 |
 | Bloodline | 53.00% | ~6,949 |
-| The Cradle of Centuries | 49.00% | ~6,424 |
-| The Life We Deserve | 46.00% | ~6,031 |
+| The Cradle of Centuries | 49.00% | ~6,425 |
+| The Life We Deserve | 46.00% | ~6,032 |
 | Night guard | 43.00% | ~5,638 |
-| Nothing Left | 40.00% | ~5,244 |
+| Nothing Left | 40.00% | ~5,245 |
 | Healing our Wounds | 37.00% | ~4,851 |
 | Dying Sun | 34.00% | ~4,458 |
 | Improved crossbow | 27.00% | ~3,540 |
 | King Hugo | 25.00% | ~3,278 |
 | Mercy | 24.00% | ~3,147 |
-| Effective instruments | 22.00% | ~2,884 |
-| Perfect shot | 22.00% | ~2,884 |
-| Perfect throw | 22.00% | ~2,884 |
-| Knights! | 21.00% | ~2,753 |
-| Handful of pockets | 13.00% | ~1,704 |
+| Effective instruments | 22.00% | ~2,885 |
+| Perfect shot | 22.00% | ~2,885 |
+| Perfect throw | 22.00% | ~2,885 |
+| Knights! | 21.00% | ~2,754 |
+| Handful of pockets | 13.00% | ~1,705 |
 | Not a toy anymore | 12.00% | ~1,573 |
 | Pocket laboratory | 12.00% | ~1,573 |
 | Herbalist | 8.00% | ~1,049 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 161)
 | Old protector | 2.00% | ~262 |
 | Malignant | 1.00% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,111 (Ranked 126)  
+Progressed: 13,112 (Ranked 126)  
 Completed: 47 (0.36%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,10 +194,10 @@ Completed: 47 (0.36%) (Ranked 170)
 | 2023-09-17 | 13,059 | 46 |
 | 2023-09-18 | 13,087 | 47 |
 | 2023-09-19 | 13,106 | 47 |
-| 2023-09-20 | 13,111 | 47 |
+| 2023-09-20 | 13,112 | 47 |
 ## Awards
 Max (Great Boss Battles): 419  (Ranked 214)  
-Sum: 642 (Ranked 292)  
+Sum: 643 (Ranked 292)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
@@ -208,7 +208,7 @@ Diff (max vs sum): -78
 | This game is Relaxing | 25 |
 | This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 24 |
-| This game has Amazing Characters | 22 |
+| This game has Amazing Characters | 23 |
 | This game has Quickly Understood Controls | 20 |
 | This game has a Creative Community | 20 |
 ## Ratings History
@@ -267,3 +267,4 @@ Diff (max vs sum): -78
 | 2023-09-10 | 4.73 | 417 | 636 |
 | 2023-09-16 | 4.73 | 419 | 639 |
 | 2023-09-18 | 4.73 | 419 | 642 |
+| 2023-09-20 | 4.73 | 419 | 643 |

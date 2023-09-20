@@ -5829,9 +5829,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 312
     },
     {
       "ID": "exoticmerchant",
@@ -6061,9 +6061,9 @@
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 449
     },
     {
       "ID": "relicofthepast",
@@ -6270,8 +6270,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:04:29.0964639+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:05:01.1867156+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:59:02.1718804+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:04:29.0965594+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:59:52.1617027+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:05:01.1869716+00:00"
 }

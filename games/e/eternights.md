@@ -7,7 +7,7 @@
 | Shelter Escape | 82.00% | ~152 |
 | New arm | 81.00% | ~150 |
 | The First Bond | 71.00% | ~131 |
-| Novice Scavenger | 61.00% | ~113 |
+| Novice Scavenger | 62.00% | ~115 |
 | Master Craftsman | 50.00% | ~92 |
 | First wall | 49.00% | ~91 |
 | Piggyback Expert | 47.00% | ~87 |

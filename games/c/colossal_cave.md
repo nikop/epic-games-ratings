@@ -18,10 +18,10 @@
 | St. George's Gauntlet | 12.00% | ~11 |
 | Redbeard's Revenger | 12.00% | ~11 |
 | BJ & The Bear | 12.00% | ~11 |
+| Soft Hands | 10.00% | ~9 |
 | Can't bear the weight | 9.00% | ~8 |
 | Egg On His Face | 9.00% | ~8 |
 | Who dat? | 9.00% | ~8 |
-| Soft Hands | 9.00% | ~8 |
 | Mr. Magic | 8.00% | ~7 |
 | Batteries not Included | 8.00% | ~7 |
 | What a Winner! | 5.00% | ~5 |

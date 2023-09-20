@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144105,
+  "EOS_Progressed": 144107,
   "EOS_Completed": 274,
-  "EOS_NewPlayers": 1271,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11520,6 +11520,11 @@
       "Time": "2023-09-20T08:09:12.8078416+00:00",
       "NumProgressed": 144105,
       "NumCompleted": 274
+    },
+    {
+      "Time": "2023-09-20T09:09:29.1173946+00:00",
+      "NumProgressed": 144107,
+      "NumCompleted": 274
     }
   ],
   "TotalAchievements": 31,
@@ -11539,7 +11544,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 99432
+      "UsersEstimate": 99434
     },
     {
       "ID": "EAwards_10",
@@ -11579,7 +11584,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56201
+      "UsersEstimate": 56202
     },
     {
       "ID": "EAwards_15",
@@ -11603,7 +11608,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 31703
+      "UsersEstimate": 31704
     },
     {
       "ID": "EAwards_18",
@@ -11627,7 +11632,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 40349
+      "UsersEstimate": 40350
     },
     {
       "ID": "EAwards_20",
@@ -11635,7 +11640,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11528
+      "UsersEstimate": 11529
     },
     {
       "ID": "EAwards_21",
@@ -11723,7 +11728,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12969
+      "UsersEstimate": 12970
     },
     {
       "ID": "EAwards_4",
@@ -11747,7 +11752,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36026
+      "UsersEstimate": 36027
     },
     {
       "ID": "EAwards_7",
@@ -11763,7 +11768,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53319
+      "UsersEstimate": 53320
     },
     {
       "ID": "EAwards_9",
@@ -11778,7 +11783,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 144105,
+      "Progressed": 144107,
       "Completed": 274
     }
   ],
@@ -11786,8 +11791,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-14T21:00:44.2735309+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:09:12.807841+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:09:29.1173939+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:11.0407447+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:58:05.6596907+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:09:12.8079329+00:00"
+  "LastUpdate_Ratings": "2023-09-20T08:58:24.6638161+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:09:29.1175227+00:00"
 }

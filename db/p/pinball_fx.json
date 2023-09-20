@@ -1718,10 +1718,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 1550,
       "NumberOfAwardsMax": 189
+    },
+    {
+      "Time": "2023-09-20T09:01:16.633721+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 1551,
+      "NumberOfAwardsMax": 189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1550,
+  "NumberOfAwards": 1551,
   "NumberOfAwardsMax": 189,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1801,10 +1807,10 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 106
+      "Count": 107
     }
   ],
-  "EOS_Progressed": 264437,
+  "EOS_Progressed": 264440,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1958,
   "EOS_NewCompleters": 0,
@@ -19009,6 +19015,11 @@
       "Time": "2023-09-20T08:08:32.4381486+00:00",
       "NumProgressed": 264437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T09:09:14.3599043+00:00",
+      "NumProgressed": 264440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -19108,7 +19119,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10577
+      "UsersEstimate": 10578
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -19244,7 +19255,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 216838
+      "UsersEstimate": 216841
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19252,22 +19263,22 @@
       "Name": "I know the Rules",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 95197
+      "UsersEstimate": 95198
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 264437,
+      "Progressed": 264440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-09-19T13:59:42.3009945+00:00",
-  "LastChanged_Achievements": "2023-09-20T08:08:32.438148+00:00",
+  "LastChanged": "2023-09-20T09:01:16.6337207+00:00",
+  "LastChanged_Achievements": "2023-09-20T09:09:14.3599038+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.6207097+00:00",
-  "LastUpdate_Ratings": "2023-09-20T07:59:58.1315234+00:00",
-  "LastUpdate_Achievements": "2023-09-20T08:08:32.4382724+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:01:16.6337214+00:00",
+  "LastUpdate_Achievements": "2023-09-20T09:09:14.3600863+00:00"
 }

@@ -11,15 +11,15 @@ Rating: 4.02 (Ranked 942)
 | Prestigious | 54.00% | ~1,055 |
 | Fellowship Power | 42.00% | ~820 |
 | Guild Power | 26.00% | ~508 |
-| Prestigious x10 | 22.00% | ~430 |
+| Prestigious x10 | 23.00% | ~449 |
 | The game is on | 21.00% | ~410 |
 | Exotic Merchant | 19.00% | ~371 |
 | Dragon Clicker | 18.00% | ~352 |
 | Full Party | 17.00% | ~332 |
 | Inspection | 17.00% | ~332 |
 | Miner Clicker | 17.00% | ~332 |
+| Enlightenment | 16.00% | ~312 |
 | Dragon Master | 15.00% | ~293 |
-| Enlightenment | 15.00% | ~293 |
 | Hero inspection | 15.00% | ~293 |
 | Lieutenant | 15.00% | ~293 |
 | Mysterious Rock | 14.00% | ~273 |

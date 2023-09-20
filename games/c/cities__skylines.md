@@ -6,44 +6,44 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~752,636 |
-| Green Energy | 60.00% | ~636,030 |
-| Foggy Weather | 59.00% | ~625,430 |
-| Singing In The- | 59.00% | ~625,430 |
-| Unpopular Mayor | 40.00% | ~424,020 |
-| Power at Your Fingertips | 33.00% | ~349,816 |
-| City Planner | 23.00% | ~243,812 |
-| Rolling in Dough | 20.00% | ~212,010 |
-| Does My Bum Look Big In This? | 17.00% | ~180,208 |
-| Climbing the Social Ladder | 16.00% | ~169,608 |
-| Safe City | 14.00% | ~148,407 |
-| Quay-King | 11.00% | ~116,606 |
-| Lawmaker | 10.00% | ~106,005 |
-| With Canals You Can! | 10.00% | ~106,005 |
-| Nomen Est Omen | 7.00% | ~74,204 |
-| Well Informed | 6.00% | ~63,603 |
-| Fire Watch | 5.00% | ~53,002 |
-| Greenest City | 4.00% | ~42,402 |
-| Heavenly City | 3.00% | ~31,802 |
-| Reporting! | 3.00% | ~31,802 |
-| SIMulated City | 3.00% | ~31,802 |
-| The Safest Town | 3.00% | ~31,802 |
-| Professional Dumper | 2.00% | ~21,201 |
-| City in Motion | 1.00% | ~10,600 |
-| Earthloving City | 1.00% | ~10,600 |
-| Metropolis | 1.00% | ~10,600 |
-| Higher Education | 0.80% | ~8,480 |
-| Beam Me Up | 0.70% | ~7,420 |
-| Full Capacity | 0.60% | ~6,360 |
-| Terraformer | 0.60% | ~6,360 |
-| Decorator | 0.50% | ~5,300 |
-| Drop the Base | 0.50% | ~5,300 |
-| It's heading right for us! | 0.50% | ~5,300 |
-| Postman | 0.50% | ~5,300 |
-| Shake It Up! | 0.50% | ~5,300 |
-| Speed up! | 0.50% | ~5,300 |
-| The Waters of Our Lives | 0.50% | ~5,300 |
-| Twist and shout | 0.50% | ~5,300 |
+| Pioneer | 71.00% | ~752,676 |
+| Green Energy | 60.00% | ~636,064 |
+| Foggy Weather | 59.00% | ~625,463 |
+| Singing In The- | 59.00% | ~625,463 |
+| Unpopular Mayor | 40.00% | ~424,043 |
+| Power at Your Fingertips | 33.00% | ~349,835 |
+| City Planner | 23.00% | ~243,825 |
+| Rolling in Dough | 20.00% | ~212,021 |
+| Does My Bum Look Big In This? | 17.00% | ~180,218 |
+| Climbing the Social Ladder | 16.00% | ~169,617 |
+| Safe City | 14.00% | ~148,415 |
+| Quay-King | 11.00% | ~116,612 |
+| Lawmaker | 10.00% | ~106,011 |
+| With Canals You Can! | 10.00% | ~106,011 |
+| Nomen Est Omen | 7.00% | ~74,207 |
+| Well Informed | 6.00% | ~63,606 |
+| Fire Watch | 5.00% | ~53,005 |
+| Greenest City | 4.00% | ~42,404 |
+| Heavenly City | 3.00% | ~31,803 |
+| Reporting! | 3.00% | ~31,803 |
+| SIMulated City | 3.00% | ~31,803 |
+| The Safest Town | 3.00% | ~31,803 |
+| Professional Dumper | 2.00% | ~21,202 |
+| City in Motion | 1.00% | ~10,601 |
+| Earthloving City | 1.00% | ~10,601 |
+| Metropolis | 1.00% | ~10,601 |
+| Higher Education | 0.80% | ~8,481 |
+| Beam Me Up | 0.70% | ~7,421 |
+| Full Capacity | 0.60% | ~6,361 |
+| Terraformer | 0.60% | ~6,361 |
+| Decorator | 0.50% | ~5,301 |
+| Drop the Base | 0.50% | ~5,301 |
+| It's heading right for us! | 0.50% | ~5,301 |
+| Postman | 0.50% | ~5,301 |
+| Shake It Up! | 0.50% | ~5,301 |
+| Speed up! | 0.50% | ~5,301 |
+| The Waters of Our Lives | 0.50% | ~5,301 |
+| Twist and shout | 0.50% | ~5,301 |
 | Airfield Expertise | 0.40% | ~4,240 |
 | Airlifter | 0.40% | ~4,240 |
 | Get Your Snowshoes Ready! | 0.40% | ~4,240 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,060 |
 | Z00 | 0.10% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060,050 (Ranked 12)  
+Progressed: 1,060,107 (Ranked 12)  
 Completed: 10 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,16 +279,16 @@ Completed: 10 (0.00%) (Ranked 278)
 | 2023-09-17 | 1,055,571 | 10 |
 | 2023-09-18 | 1,057,697 | 10 |
 | 2023-09-19 | 1,059,598 | 10 |
-| 2023-09-20 | 1,060,050 | 10 |
+| 2023-09-20 | 1,060,107 | 10 |
 ## Awards
 Max (Great for Beginners): 5,487  (Ranked 65)  
-Sum: 41,284 (Ranked 31)  
+Sum: 41,292 (Ranked 31)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,487 |
 | This game is Relaxing | 5,463 |
-| This game is Educational | 5,125 |
+| This game is Educational | 5,133 |
 | This game has Quickly Understood Controls | 5,093 |
 | This game is Extremely Fun | 4,741 |
 | This game is Highly Recommended | 4,596 |
@@ -536,4 +536,4 @@ Diff (max vs sum): 34
 | 2023-09-17 | 4.66 | - | 5,459 | 41,096 |
 | 2023-09-18 | 4.66 | - | 5,473 | 41,197 |
 | 2023-09-19 | 4.66 | - | 5,487 | 41,279 |
-| 2023-09-20 | 4.66 | - | 5,487 | 41,284 |
+| 2023-09-20 | 4.66 | - | 5,487 | 41,292 |
