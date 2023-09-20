@@ -1,34 +1,34 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.56 (Ranked 467)  
+Rating: 4.56 (Ranked 468)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~355 |
-| And again, and again, and... | 63.00% | ~254 |
+| Huzza, he's back. | 88.00% | ~356 |
+| And again, and again, and... | 63.00% | ~255 |
 | Burn, Elysium, burn! | 62.00% | ~250 |
 | Kuvaq Minigame-Master | 61.00% | ~246 |
 | FunScore | 55.00% | ~222 |
 | Funtime's over | 53.00% | ~214 |
 | Chunky | 50.00% | ~202 |
-| Shall we play a game? | 49.00% | ~197 |
-| Boat of love, boat of love | 48.00% | ~193 |
-| School's out | 43.00% | ~173 |
+| Shall we play a game? | 49.00% | ~198 |
+| Boat of love, boat of love | 48.00% | ~194 |
+| School's out | 43.00% | ~174 |
 | Scaffolding Expert | 37.00% | ~149 |
 | Elysian Minigame-Master | 37.00% | ~149 |
 | Sole Music | 36.00% | ~145 |
 | No man left behind! | 29.00% | ~117 |
 | Portals come in packs | 29.00% | ~117 |
-| Photo Friend | 26.00% | ~105 |
+| Photo Friend | 25.00% | ~101 |
 | Brainfreeze | 21.00% | ~85 |
 | And everything comes full circle. | 20.00% | ~81 |
 | Masseltov | 19.00% | ~77 |
-| Quickdraw | 15.00% | ~60 |
-| Thuna...? | 14.00% | ~56 |
-| Monstrous Harassment | 14.00% | ~56 |
-| Heading the inverter | 14.00% | ~56 |
-| Blast from the Past | 13.00% | ~52 |
+| Quickdraw | 15.00% | ~61 |
+| Thuna...? | 14.00% | ~57 |
+| Monstrous Harassment | 14.00% | ~57 |
+| Heading the inverter | 14.00% | ~57 |
+| Blast from the Past | 13.00% | ~53 |
 | Play it again, Ronny | 11.00% | ~44 |
 | Goat Team | 10.00% | ~40 |
 | Paradox! | 10.00% | ~40 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 467)
 | Every man for himself! | 5.00% | ~20 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403 (Ranked 268)  
+Progressed: 404 (Ranked 267)  
 Completed: 6 (1.49%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 6 (1.49%) (Ranked 109)
 | 2023-09-17 | 399 | 6 |
 | 2023-09-18 | 401 | 6 |
 | 2023-09-19 | 402 | 6 |
-| 2023-09-20 | 403 | 6 |
+| 2023-09-20 | 404 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 886)  
+Rating: 4.18 (Ranked 887)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,15 +10,15 @@ Rating: 4.18 (Ranked 886)
 | Loose Ends | 34.00% | ~24,712 |
 | To the Victor Go the Spoils | 29.00% | ~21,078 |
 | Knighthood | 28.00% | ~20,351 |
-| Get ReQ'd | 25.00% | ~18,170 |
-| Whispered Words | 25.00% | ~18,170 |
+| Get ReQ'd | 25.00% | ~18,171 |
+| Whispered Words | 25.00% | ~18,171 |
 | The Batman Family | 23.00% | ~16,717 |
 | Lock and Key | 23.00% | ~16,717 |
 | Something in the Clay | 21.00% | ~15,263 |
 | Quartzer Life Crisis | 21.00% | ~15,263 |
-| Working Hard or Harley Working? | 20.00% | ~14,536 |
-| Unstoppable Force | 20.00% | ~14,536 |
-| Bad Apples in Every Orchard | 20.00% | ~14,536 |
+| Working Hard or Harley Working? | 20.00% | ~14,537 |
+| Unstoppable Force | 20.00% | ~14,537 |
+| Bad Apples in Every Orchard | 20.00% | ~14,537 |
 | Snow Problem | 19.00% | ~13,810 |
 | The Show Mud Go On | 18.00% | ~13,083 |
 | From Inside Gotham's Walls | 18.00% | ~13,083 |
@@ -26,9 +26,9 @@ Rating: 4.18 (Ranked 886)
 | Universal Health Scare | 16.00% | ~11,629 |
 | In Your Element | 15.00% | ~10,902 |
 | Voiceless | 15.00% | ~10,902 |
-| Rock and a Hard Place | 14.00% | ~10,175 |
-| Cooldown | 14.00% | ~10,175 |
-| Seeking Asylum | 14.00% | ~10,175 |
+| Rock and a Hard Place | 14.00% | ~10,176 |
+| Cooldown | 14.00% | ~10,176 |
+| Seeking Asylum | 14.00% | ~10,176 |
 | Not On My Watch | 13.00% | ~9,449 |
 | Shock Til They Drop | 13.00% | ~9,449 |
 | End of an Era | 12.00% | ~8,722 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 886)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,682 (Ranked 83)  
+Progressed: 72,683 (Ranked 83)  
 Completed: 115 (0.16%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 115 (0.16%) (Ranked 206)
 | 2023-09-17 | 72,625 | 113 |
 | 2023-09-18 | 72,652 | 114 |
 | 2023-09-19 | 72,676 | 114 |
-| 2023-09-20 | 72,682 | 115 |
+| 2023-09-20 | 72,683 | 115 |
 ## Awards
 Max (Great Boss Battles): 2,713  (Ranked 96)  
 Sum: 4,503 (Ranked 139)  

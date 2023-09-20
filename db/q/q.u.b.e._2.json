@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 272,
@@ -1658,9 +1658,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_BLUEEND",
@@ -1802,9 +1802,9 @@
       "ID": "ACH_HUB1",
       "SetID": "232494e",
       "Name": "Mission Success",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_HUB2",
@@ -1898,8 +1898,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-20T09:03:52.3052957+00:00",
+  "LastChanged_Achievements": "2023-09-20T10:03:41.0653589+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-20T08:58:46.0760494+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:03:52.3053318+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:58:06.0285449+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:03:41.0653821+00:00"
 }

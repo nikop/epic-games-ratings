@@ -2,7 +2,7 @@
   "ID": "09549be3e1f44e449841a8fad7950138",
   "Name": "Osiris: New Dawn",
   "ProductSlug": "osiris-new-dawn",
-  "Ranking_Rating": 984,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 611,
@@ -299,6 +299,6 @@
   "FirstSeen": "2022-07-22T20:30:53.5869447+00:00",
   "LastChanged": "2023-06-20T00:00:11.033138+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:05.7401294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:02:36.2862025+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:04:30.2976401+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:00:41.82281+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:04:00.5851853+00:00"
 }

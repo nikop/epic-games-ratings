@@ -2,7 +2,7 @@
   "ID": "78705aae6f39495e920966615c7a22ae",
   "Name": "Sonic Origins",
   "ProductSlug": "sonic-origins",
-  "Ranking_Rating": 433,
+  "Ranking_Rating": 434,
   "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 251,
@@ -2250,9 +2250,9 @@
       "ID": "ID_15_NOVICE_HERO",
       "SetID": "7o8nc5m",
       "Name": "Newbie Hero",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 407
     },
     {
       "ID": "ID_16_WATCH_AT_MUSEUM",
@@ -2426,8 +2426,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-20T09:04:17.5909474+00:00",
+  "LastChanged_Achievements": "2023-09-20T10:03:51.5815039+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:29.6550361+00:00",
-  "LastUpdate_Ratings": "2023-09-20T08:59:01.287038+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:04:17.5910041+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:58:16.4862776+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:03:51.5815337+00:00"
 }

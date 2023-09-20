@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1301,9 +1301,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128320,
+  "EOS_Progressed": 128323,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16551,6 +16551,11 @@
       "Time": "2023-09-20T09:09:02.8693548+00:00",
       "NumProgressed": 128320,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-20T10:07:11.4330494+00:00",
+      "NumProgressed": 128323,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16618,7 +16623,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30797
+      "UsersEstimate": 30798
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -16666,7 +16671,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20531
+      "UsersEstimate": 20532
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -16674,7 +16679,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25664
+      "UsersEstimate": 25665
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -16698,7 +16703,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20531
+      "UsersEstimate": 20532
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -16706,7 +16711,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14115
+      "UsersEstimate": 14116
     },
     {
       "ID": "ACH_CUNO",
@@ -16881,15 +16886,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128320,
+      "Progressed": 128323,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-20T09:09:02.8693544+00:00",
+  "LastChanged_Achievements": "2023-09-20T10:07:11.4330484+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:01:21.1523538+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:09:02.8694761+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:59:49.9619437+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:07:11.433143+00:00"
 }

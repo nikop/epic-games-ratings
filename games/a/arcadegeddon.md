@@ -1,34 +1,34 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 583)  
+Rating: 4.49 (Ranked 584)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 90.00% | ~8,150 |
-| Photogenic | 86.00% | ~7,787 |
+| Photogenic | 86.00% | ~7,788 |
 | Plug It In | 83.00% | ~7,516 |
 | Surge Gauntlet Jockey | 83.00% | ~7,516 |
-| Adventure Time | 79.00% | ~7,153 |
-| Playing With Power | 76.00% | ~6,882 |
+| Adventure Time | 79.00% | ~7,154 |
+| Playing With Power | 76.00% | ~6,883 |
 | Coup d'Etat | 58.00% | ~5,252 |
-| You're Fired | 57.00% | ~5,161 |
-| Get Furious | 55.00% | ~4,980 |
-| Hacks In Stacks | 55.00% | ~4,980 |
+| You're Fired | 57.00% | ~5,162 |
+| Get Furious | 55.00% | ~4,981 |
+| Hacks In Stacks | 55.00% | ~4,981 |
 | Gunplay And Cosplay | 54.00% | ~4,890 |
-| Meching Enemies | 48.00% | ~4,346 |
-| Ticket Toddler | 44.00% | ~3,984 |
-| Booty Bashing | 39.00% | ~3,531 |
+| Meching Enemies | 48.00% | ~4,347 |
+| Ticket Toddler | 44.00% | ~3,985 |
+| Booty Bashing | 39.00% | ~3,532 |
 | Field Medic | 38.00% | ~3,441 |
-| Here Comes a New Challenger | 37.00% | ~3,350 |
+| Here Comes a New Challenger | 37.00% | ~3,351 |
 | Rapid Response | 33.00% | ~2,988 |
-| Surge Ahead | 30.00% | ~2,716 |
-| The Full Monty | 30.00% | ~2,716 |
-| Guardian Angel | 28.00% | ~2,535 |
+| Surge Ahead | 30.00% | ~2,717 |
+| The Full Monty | 30.00% | ~2,717 |
+| Guardian Angel | 28.00% | ~2,536 |
 | Poppin Noggins | 24.00% | ~2,173 |
-| Clips and Crits | 19.00% | ~1,720 |
-| Grey Goo | 17.00% | ~1,539 |
+| Clips and Crits | 19.00% | ~1,721 |
+| Grey Goo | 17.00% | ~1,540 |
 | Boss of Bosses | 15.00% | ~1,358 |
 | The Final Blow | 14.00% | ~1,268 |
 | To Be Continued | 13.00% | ~1,177 |
@@ -50,14 +50,14 @@ Number of Ratings: 801  (23.09.2022)
 | Treasure Hunting | 3.00% | ~272 |
 | Nexuwizard | 2.00% | ~181 |
 | Everybody Freeze | 1.00% | ~91 |
-| Nature Is Lit | 0.90% | ~81 |
+| Nature Is Lit | 0.90% | ~82 |
 | The Collector | 0.80% | ~72 |
 | I'm The Pluggernaut | 0.60% | ~54 |
 | Shield and Shred | 0.60% | ~54 |
 | Infinite Adventures! | 0.40% | ~36 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,055 (Ranked 137)  
+Progressed: 9,056 (Ranked 137)  
 Completed: 1 (0.01%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 1 (0.01%) (Ranked 264)
 | 2023-09-17 | 9,032 | 1 |
 | 2023-09-18 | 9,043 | 1 |
 | 2023-09-19 | 9,047 | 1 |
-| 2023-09-20 | 9,055 | 1 |
+| 2023-09-20 | 9,056 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 390)  
 Sum: 462 (Ranked 312)  

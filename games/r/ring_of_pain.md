@@ -1,33 +1,33 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 433)  
+Rating: 4.58 (Ranked 434)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,836 |
-| Uncharted Territory | 89.00% | ~210,296 |
-| Getting A Glimpse | 73.00% | ~172,490 |
-| A Quick Escape | 65.00% | ~153,587 |
+| First Steps | 96.00% | ~226,837 |
+| Uncharted Territory | 89.00% | ~210,297 |
+| Getting A Glimpse | 73.00% | ~172,491 |
+| A Quick Escape | 65.00% | ~153,588 |
 | Explorer | 62.00% | ~146,499 |
 | Defeat The Dark | 61.00% | ~144,136 |
 | An Offering | 61.00% | ~144,136 |
-| Colorful Corpse | 58.00% | ~137,047 |
-| That Was Quick | 57.00% | ~134,684 |
-| A Donation | 57.00% | ~134,684 |
+| Colorful Corpse | 58.00% | ~137,048 |
+| That Was Quick | 57.00% | ~134,685 |
+| A Donation | 57.00% | ~134,685 |
 | Goodbye, Frog Friend | 54.00% | ~127,596 |
 | Heavy Hitter | 53.00% | ~125,233 |
-| Heartless | 46.00% | ~108,692 |
-| Spine Breaker | 46.00% | ~108,692 |
+| Heartless | 46.00% | ~108,693 |
+| Spine Breaker | 46.00% | ~108,693 |
 | Deflection | 45.00% | ~106,330 |
 | Sneaky | 43.00% | ~101,604 |
 | Delving Deeper | 42.00% | ~99,241 |
 | C-C-Combo | 42.00% | ~99,241 |
 | Ambitious Intent | 41.00% | ~96,878 |
-| Nothing To Lose | 40.00% | ~94,515 |
-| The Bestiary | 40.00% | ~94,515 |
-| What's Yours Is Mine | 38.00% | ~89,789 |
+| Nothing To Lose | 40.00% | ~94,516 |
+| The Bestiary | 40.00% | ~94,516 |
+| What's Yours Is Mine | 38.00% | ~89,790 |
 | R.I.P | 37.00% | ~87,427 |
 | Shootout | 36.00% | ~85,064 |
 | I Am Overburdened | 35.00% | ~82,701 |
@@ -57,8 +57,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 16.00% | ~37,806 |
 | Spreading Plague | 15.00% | ~35,443 |
 | The Long Run | 14.00% | ~33,080 |
-| A Rough Road | 13.00% | ~30,717 |
-| Chain Reaction | 13.00% | ~30,717 |
+| A Rough Road | 13.00% | ~30,718 |
+| Chain Reaction | 13.00% | ~30,718 |
 | Berzerker | 12.00% | ~28,355 |
 | Antivenom | 12.00% | ~28,355 |
 | Thank You, Friend | 11.00% | ~25,992 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,181 |
 | Near Death Experience | 0.30% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,288 (Ranked 53)  
+Progressed: 236,289 (Ranked 53)  
 Completed: 273 (0.12%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 273 (0.12%) (Ranked 215)
 | 2023-09-17 | 236,162 | 271 |
 | 2023-09-18 | 236,221 | 273 |
 | 2023-09-19 | 236,272 | 273 |
-| 2023-09-20 | 236,288 | 273 |
+| 2023-09-20 | 236,289 | 273 |
 ## Awards
 Max (Quickly Understood Controls): 1,493  (Ranked 124)  
 Sum: 11,562 (Ranked 80)  

@@ -1,27 +1,27 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 488)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,991 |
+| Follow the Light | 41.00% | ~26,992 |
 | Let There Be Light | 34.00% | ~22,383 |
-| Float Like a Butterfly | 32.00% | ~21,066 |
-| Nordic Walking | 26.00% | ~17,116 |
+| Float Like a Butterfly | 32.00% | ~21,067 |
+| Nordic Walking | 26.00% | ~17,117 |
 | Bright Falls' Finest | 25.00% | ~16,458 |
 | Under a Thin Layer of Skin | 22.00% | ~14,483 |
 | Park Ranger | 18.00% | ~11,850 |
 | Paging Mr. Wake | 18.00% | ~11,850 |
-| Back! Back, I Say! | 17.00% | ~11,191 |
-| Finders Keepers | 17.00% | ~11,191 |
+| Back! Back, I Say! | 17.00% | ~11,192 |
+| Finders Keepers | 17.00% | ~11,192 |
 | Damn Good Cup of Coffee | 16.00% | ~10,533 |
 | Wheels Within Wheels | 15.00% | ~9,875 |
 | They're Heeeeeere! | 15.00% | ~9,875 |
 | Sound and Fury | 15.00% | ~9,875 |
 | Missed by a Mile | 15.00% | ~9,875 |
-| The Six-Gun Scribe | 14.00% | ~9,216 |
+| The Six-Gun Scribe | 14.00% | ~9,217 |
 | Heavy Metal | 13.00% | ~8,558 |
 | Iron Horse | 13.00% | ~8,558 |
 | Perchance to Dream | 13.00% | ~8,558 |
@@ -57,8 +57,8 @@ Number of Ratings: 524  (23.09.2022)
 | Go Gentle Into That Good Light | 1.00% | ~293 |
 | Words Will Never Harm You | 0.70% | ~205 |
 | Cardboard Companions | 0.60% | ~176 |
-| Fast and Furious | 0.50% | ~146 |
-| Creative Space | 0.50% | ~146 |
+| Fast and Furious | 0.50% | ~147 |
+| Creative Space | 0.50% | ~147 |
 | Alan, Wake Up | 0.40% | ~263 |
 | Meet the Deadline | 0.40% | ~263 |
 | Picking Up After Yourself | 0.40% | ~263 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,832 (Ranked 88)  
+Progressed: 65,833 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 65 (0.10%) (Ranked 224)
 | 2023-09-17 | 65,643 | 65 |
 | 2023-09-18 | 65,733 | 65 |
 | 2023-09-19 | 65,814 | 65 |
-| 2023-09-20 | 65,832 | 65 |
+| 2023-09-20 | 65,833 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

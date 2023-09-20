@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 467)  
+Rating: 4.56 (Ranked 468)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,11 +29,11 @@ Rating: 4.56 (Ranked 467)
 | Necessary Enhancement | 6.00% | ~190 |
 | From the Past | 6.00% | ~190 |
 | Access Granted | 5.00% | ~159 |
+| BRAWL! | 5.00% | ~159 |
 | All in Good Health | 5.00% | ~159 |
 | Oats | 4.00% | ~127 |
 | What They Hide From Us | 4.00% | ~127 |
 | ...  in a finite world | 4.00% | ~127 |
-| BRAWL! | 4.00% | ~127 |
 | What the Ruins Teach Us | 4.00% | ~127 |
 | Sustainable Energy | 3.00% | ~95 |
 | In Dolos We Trust | 3.00% | ~95 |

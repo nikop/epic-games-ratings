@@ -1,21 +1,21 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.52 (Ranked 534)  
+Rating: 4.52 (Ranked 535)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~30,699 |
-| Just The Two of Us | 32.00% | ~28,893 |
+| Simoon | 34.00% | ~30,700 |
+| Just The Two of Us | 32.00% | ~28,894 |
 | Up On High | 25.00% | ~22,573 |
 | Under The Hood | 25.00% | ~22,573 |
 | Got Your Nose | 24.00% | ~21,670 |
 | The Gift of Gab | 24.00% | ~21,670 |
 | Wrapping Up | 22.00% | ~19,864 |
-| More Than A Box Of Sand | 18.00% | ~16,252 |
-| The Dunboyne | 17.00% | ~15,349 |
-| Badge Hobbyist | 17.00% | ~15,349 |
+| More Than A Box Of Sand | 18.00% | ~16,253 |
+| The Dunboyne | 17.00% | ~15,350 |
+| Badge Hobbyist | 17.00% | ~15,350 |
 | Chum Novice | 16.00% | ~14,447 |
 | Silver-Tongued Sable | 16.00% | ~14,447 |
 | Sticky Paws | 16.00% | ~14,447 |
@@ -45,15 +45,15 @@ Number of Ratings: 43  (23.09.2022)
 | Fragile Goods | 8.00% | ~7,223 |
 | Glider on the Storm | 8.00% | ~7,223 |
 | Squeeze One Out | 8.00% | ~7,223 |
-| Amateur Historian | 7.00% | ~6,320 |
-| The Beetle Mask | 7.00% | ~6,320 |
-| The Guard Mask | 7.00% | ~6,320 |
-| Smoked Out | 7.00% | ~6,320 |
-| A Hard Place | 7.00% | ~6,320 |
-| The Climber Mask | 6.00% | ~5,417 |
-| The Merchant Mask | 6.00% | ~5,417 |
-| Honorary Chum | 6.00% | ~5,417 |
-| Bikes Don't Fly | 6.00% | ~5,417 |
+| Amateur Historian | 7.00% | ~6,321 |
+| The Beetle Mask | 7.00% | ~6,321 |
+| The Guard Mask | 7.00% | ~6,321 |
+| Smoked Out | 7.00% | ~6,321 |
+| A Hard Place | 7.00% | ~6,321 |
+| The Climber Mask | 6.00% | ~5,418 |
+| The Merchant Mask | 6.00% | ~5,418 |
+| Honorary Chum | 6.00% | ~5,418 |
+| Bikes Don't Fly | 6.00% | ~5,418 |
 | The Gliding | 5.00% | ~4,515 |
 | The Entertainer Mask | 5.00% | ~4,515 |
 | The Quick and the Curious | 4.00% | ~3,612 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,709 |
 | Vivacious Vivarium | 2.00% | ~1,806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,291 (Ranked 76)  
+Progressed: 90,293 (Ranked 76)  
 Completed: 906 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 906 (1.00%) (Ranked 126)
 | 2023-09-17 | 89,959 | 900 |
 | 2023-09-18 | 90,110 | 901 |
 | 2023-09-19 | 90,251 | 903 |
-| 2023-09-20 | 90,291 | 906 |
+| 2023-09-20 | 90,293 | 906 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 490)  
 Sum: 86 (Ranked 426)  

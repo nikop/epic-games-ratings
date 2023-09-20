@@ -2,12 +2,12 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 893,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -2607,9 +2607,9 @@
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 572
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_FineGioco",
@@ -2663,8 +2663,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-20T09:07:05.884356+00:00",
+  "LastChanged_Achievements": "2023-09-20T10:05:49.436437+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:01:59.073617+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:07:05.8844108+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:00:17.0325745+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:05:49.4364628+00:00"
 }

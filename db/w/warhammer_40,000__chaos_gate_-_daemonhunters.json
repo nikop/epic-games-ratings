@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3499,9 +3499,9 @@
       "ID": "CompletedAllShipUpgrades",
       "SetID": "3jha1np",
       "Name": "Patron of Deimos",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "Dominus",
@@ -3993,8 +3993,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-18T16:58:55.1300205+00:00",
-  "LastChanged_Achievements": "2023-09-20T09:08:15.6622512+00:00",
+  "LastChanged_Achievements": "2023-09-20T10:06:38.4420366+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:00:32.2944751+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:08:15.6623908+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:59:16.3571981+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:06:38.4421033+00:00"
 }

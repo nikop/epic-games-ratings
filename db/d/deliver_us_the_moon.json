@@ -2,7 +2,7 @@
   "ID": "34f5834b0c404ed09b54af0b5f976c5d",
   "Name": "Deliver Us The Moon",
   "ProductSlug": "deliver-us-the-moon",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 302,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 611,
@@ -193,6 +193,6 @@
   "FirstSeenRating": "2022-08-21T07:01:44.7037763+00:00",
   "LastChanged": "2023-09-09T19:57:08.8125079+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.9328226+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:01:57.4979439+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:06:33.4293573+00:00"
+  "LastUpdate_Ratings": "2023-09-20T10:00:16.2886236+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:05:26.6719928+00:00"
 }

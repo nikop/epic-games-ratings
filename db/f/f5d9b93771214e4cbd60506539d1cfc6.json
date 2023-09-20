@@ -2,12 +2,12 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144107,
+  "EOS_Progressed": 144108,
   "EOS_Completed": 274,
-  "EOS_NewPlayers": 1268,
+  "EOS_NewPlayers": 1265,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11525,6 +11525,11 @@
       "Time": "2023-09-20T09:09:29.1173946+00:00",
       "NumProgressed": 144107,
       "NumCompleted": 274
+    },
+    {
+      "Time": "2023-09-20T10:08:19.5109317+00:00",
+      "NumProgressed": 144108,
+      "NumCompleted": 274
     }
   ],
   "TotalAchievements": 31,
@@ -11544,7 +11549,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 99434
+      "UsersEstimate": 99435
     },
     {
       "ID": "EAwards_10",
@@ -11560,7 +11565,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 28821
+      "UsersEstimate": 28822
     },
     {
       "ID": "EAwards_12",
@@ -11616,7 +11621,7 @@
       "Name": "That was INTENSE",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 30262
+      "UsersEstimate": 30263
     },
     {
       "ID": "EAwards_19",
@@ -11720,7 +11725,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27380
+      "UsersEstimate": 27381
     },
     {
       "ID": "EAwards_30",
@@ -11783,7 +11788,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 144107,
+      "Progressed": 144108,
       "Completed": 274
     }
   ],
@@ -11791,8 +11796,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-14T21:00:44.2735309+00:00",
-  "LastChanged_Achievements": "2023-09-20T09:09:29.1173939+00:00",
+  "LastChanged_Achievements": "2023-09-20T10:08:19.5109312+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:11.0407447+00:00",
-  "LastUpdate_Ratings": "2023-09-20T08:58:24.6638161+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:09:29.1175227+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:57:51.5692723+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:08:19.5110012+00:00"
 }

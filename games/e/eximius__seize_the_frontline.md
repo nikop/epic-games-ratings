@@ -1,7 +1,7 @@
 # Eximius: Seize the Frontline
 [Store](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)  
 [View Rawdata](../../db/e/eximius__seize_the_frontline.json)  
-Rating: 4.18 (Ranked 886)  
+Rating: 4.18 (Ranked 887)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

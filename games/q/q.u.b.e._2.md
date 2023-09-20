@@ -1,7 +1,7 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.41 (Ranked 690)  
+Rating: 4.41 (Ranked 691)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,12 +12,12 @@ Number of Ratings: 94  (23.09.2022)
 | Power Glove | 50.00% | ~191 |
 | Forgotten Memories | 48.00% | ~183 |
 | Cogs in the Machine | 43.00% | ~164 |
-| Mission Success | 25.00% | ~96 |
+| Mission Success | 26.00% | ~99 |
 | There's No Place Like Home | 22.00% | ~84 |
 | Green Cube Killer | 21.00% | ~80 |
 | Path to Salvation | 18.00% | ~69 |
+| Descendants | 17.00% | ~65 |
 | Infinity Loop | 17.00% | ~65 |
-| Descendants | 16.00% | ~61 |
 | The Flawed Teacher | 15.00% | ~57 |
 | To Infinity and Beyond | 7.00% | ~27 |
 | The Truthful Enemy | 5.00% | ~19 |

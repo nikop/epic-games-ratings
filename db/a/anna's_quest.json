@@ -290,9 +290,9 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "aq_achievement_25",
@@ -338,9 +338,9 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "aq_achievement_30",
@@ -483,8 +483,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-20T09:07:42.5243323+00:00",
+  "LastChanged_Achievements": "2023-09-20T10:06:15.2750593+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0346445+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:00:44.3656403+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:07:42.5243883+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:59:24.2233533+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:06:15.2750857+00:00"
 }

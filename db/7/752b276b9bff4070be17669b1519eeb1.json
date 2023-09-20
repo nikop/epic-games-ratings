@@ -2,7 +2,7 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 611,
@@ -378,6 +378,6 @@
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
   "LastChanged": "2023-09-20T07:58:20.9974694+00:00",
   "LastUpdate_AppInfo": "2023-09-14T13:02:18.7208546+00:00",
-  "LastUpdate_Ratings": "2023-09-20T08:58:48.3982465+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:05:11.6321609+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:58:08.1222496+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:04:29.7882291+00:00"
 }

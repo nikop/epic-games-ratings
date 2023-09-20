@@ -1,39 +1,39 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 350)  
+Rating: 4.62 (Ranked 351)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~605,281 |
-| Right Back At Ya | 40.00% | ~350,888 |
-| The Lovers | 36.00% | ~315,799 |
-| Stanislavski's Method | 29.00% | ~254,394 |
-| The Wheel of Fortune | 28.00% | ~245,621 |
-| The Hermit | 25.00% | ~219,305 |
-| Christmas Tree Attack | 23.00% | ~201,760 |
-| True Soldier | 23.00% | ~201,760 |
-| The High Priestess | 22.00% | ~192,988 |
-| Legend of The Afterlife | 22.00% | ~192,988 |
-| Life of the Road | 21.00% | ~184,216 |
-| Full Body Conversion | 19.00% | ~166,672 |
-| The World | 19.00% | ~166,672 |
-| Bushido and Chill | 17.00% | ~149,127 |
-| Gun Fu | 16.00% | ~140,355 |
-| True Warrior | 15.00% | ~131,583 |
-| To Protect and Serve | 14.00% | ~122,811 |
-| Master Crafter | 14.00% | ~122,811 |
-| I Am The Law | 14.00% | ~122,811 |
-| Judy vs Night City | 14.00% | ~122,811 |
-| Two Heads, One Bullet | 12.00% | ~105,266 |
-| The Wandering Fool | 10.00% | ~87,722 |
-| The Quick and the Dead | 10.00% | ~87,722 |
-| Ten out of Ten | 9.00% | ~78,950 |
+| The Fool | 69.00% | ~605,288 |
+| Right Back At Ya | 40.00% | ~350,892 |
+| The Lovers | 36.00% | ~315,802 |
+| Stanislavski's Method | 29.00% | ~254,396 |
+| The Wheel of Fortune | 28.00% | ~245,624 |
+| The Hermit | 25.00% | ~219,307 |
+| Christmas Tree Attack | 23.00% | ~201,763 |
+| True Soldier | 23.00% | ~201,763 |
+| The High Priestess | 22.00% | ~192,990 |
+| Legend of The Afterlife | 22.00% | ~192,990 |
+| Life of the Road | 21.00% | ~184,218 |
+| Full Body Conversion | 19.00% | ~166,674 |
+| The World | 19.00% | ~166,674 |
+| Bushido and Chill | 17.00% | ~149,129 |
+| Gun Fu | 16.00% | ~140,357 |
+| True Warrior | 15.00% | ~131,584 |
+| To Protect and Serve | 14.00% | ~122,812 |
+| Master Crafter | 14.00% | ~122,812 |
+| I Am The Law | 14.00% | ~122,812 |
+| Judy vs Night City | 14.00% | ~122,812 |
+| Two Heads, One Bullet | 12.00% | ~105,267 |
+| The Wandering Fool | 10.00% | ~87,723 |
+| The Quick and the Dead | 10.00% | ~87,723 |
+| Ten out of Ten | 9.00% | ~78,951 |
 | Breathtaking | 8.00% | ~70,178 |
-| To Bad Decisions! | 7.00% | ~61,405 |
-| The Star | 7.00% | ~61,405 |
-| The Sun | 7.00% | ~61,405 |
+| To Bad Decisions! | 7.00% | ~61,406 |
+| The Star | 7.00% | ~61,406 |
+| The Sun | 7.00% | ~61,406 |
 | Must Be Rats | 4.00% | ~35,089 |
 | Temperance | 4.00% | ~35,089 |
 | City Lights | 3.00% | ~26,317 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,317 |
 | V for Vendetta | 3.00% | ~26,317 |
 | It's Elementary | 3.00% | ~26,317 |
-| Autojock | 2.00% | ~17,544 |
-| Frequent Flyer | 2.00% | ~17,544 |
-| Daemon In The Shell | 2.00% | ~17,544 |
-| The Devil | 2.00% | ~17,544 |
+| Autojock | 2.00% | ~17,545 |
+| Frequent Flyer | 2.00% | ~17,545 |
+| Daemon In The Shell | 2.00% | ~17,545 |
+| The Devil | 2.00% | ~17,545 |
 | Gunslinger | 1.00% | ~8,772 |
 | Rough Landing | 0.50% | ~4,386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 877,219 (Ranked 15)  
+Progressed: 877,229 (Ranked 15)  
 Completed: 2,121 (0.24%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2,121 (0.24%) (Ranked 193)
 | 2023-09-17 | 876,813 | 2,109 |
 | 2023-09-18 | 876,981 | 2,113 |
 | 2023-09-19 | 877,162 | 2,120 |
-| 2023-09-20 | 877,219 | 2,121 |
+| 2023-09-20 | 877,229 | 2,121 |
 ## Awards
 Max (Character Customization): 79,164  (Ranked 9)  
 Sum: 212,595 (Ranked 13)  

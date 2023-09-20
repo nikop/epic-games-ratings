@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 5.00% | ~833 |
 | Taking Action | 5.00% | ~833 |
 | Ancient Battleground | 4.00% | ~666 |
+| Sparkdew Crystals | 4.00% | ~666 |
 | Royal Outpost | 4.00% | ~666 |
 | Lost Colonies | 4.00% | ~666 |
 | Watchtower | 4.00% | ~666 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 3.00% | ~500 |
 | Bandit Camp | 3.00% | ~500 |
 | Barren Lands | 3.00% | ~500 |
-| Sparkdew Crystals | 3.00% | ~500 |
 | Haunted Forest | 3.00% | ~500 |
 | Levitating Monument | 3.00% | ~500 |
 | Flooded Mines | 3.00% | ~500 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,659 (Ranked 120)  
+Progressed: 16,659 (Ranked 121)  
 Completed: 48 (0.29%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,9 +2,9 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 336,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 48,
@@ -898,18 +898,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 340,
       "NumberOfAwardsMax": 196
+    },
+    {
+      "Time": "2023-09-20T09:59:04.2813867+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 197
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 340,
-  "NumberOfAwardsMax": 196,
+  "NumberOfAwards": 341,
+  "NumberOfAwardsMax": 197,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 196
+      "Count": 197
     },
     {
       "Text": "This game is Relaxing",
@@ -948,9 +954,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 225411,
+  "EOS_Progressed": 225414,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1777,
+  "EOS_NewPlayers": 1774,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11583,6 +11589,11 @@
       "Time": "2023-09-20T09:09:32.0961035+00:00",
       "NumProgressed": 225411,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T10:08:21.7570201+00:00",
+      "NumProgressed": 225414,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11642,7 +11653,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9016
+      "UsersEstimate": 9017
     },
     {
       "ID": "Chapter2",
@@ -11994,7 +12005,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9016
+      "UsersEstimate": 9017
     },
     {
       "ID": "DwarfElf15Support",
@@ -12042,7 +12053,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67623
+      "UsersEstimate": 67624
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12297,21 +12308,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225411,
+      "Progressed": 225414,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225411,
+      "Progressed": 225414,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-19T14:58:54.893282+00:00",
-  "LastChanged_Achievements": "2023-09-20T09:09:32.0961032+00:00",
+  "LastChanged": "2023-09-20T09:59:04.2813866+00:00",
+  "LastChanged_Achievements": "2023-09-20T10:08:21.7570192+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-20T09:00:13.7832805+00:00",
-  "LastUpdate_Achievements": "2023-09-20T09:09:32.096318+00:00"
+  "LastUpdate_Ratings": "2023-09-20T09:59:04.2813871+00:00",
+  "LastUpdate_Achievements": "2023-09-20T10:08:21.7571489+00:00"
 }
