@@ -976,9 +976,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256437,
+  "EOS_Progressed": 256439,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16416,6 +16416,11 @@
       "Time": "2023-09-20T21:05:12.4217567+00:00",
       "NumProgressed": 256437,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T22:04:53.6430577+00:00",
+      "NumProgressed": 256439,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -16435,7 +16440,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "Act3",
@@ -16475,7 +16480,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79495
+      "UsersEstimate": 79496
     },
     {
       "ID": "BackHomeNTimes",
@@ -16491,7 +16496,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "BreakNWindows",
@@ -16499,7 +16504,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -16715,7 +16720,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56416
+      "UsersEstimate": 56417
     },
     {
       "ID": "KillOthers2",
@@ -16771,7 +16776,7 @@
       "Name": "Committed Relationship",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "NewFloor",
@@ -16795,7 +16800,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "Patrimony2",
@@ -16874,7 +16879,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256437,
+      "Progressed": 256439,
       "Completed": 3
     }
   ],
@@ -16882,8 +16887,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-20T20:57:21.6615832+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:05:12.4217558+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:04:53.6430571+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.3482551+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:57:21.6615838+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:05:12.4219075+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:57:13.3959433+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:04:53.6431658+00:00"
 }

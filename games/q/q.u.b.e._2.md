@@ -12,7 +12,7 @@ Number of Ratings: 94  (23.09.2022)
 | Power Glove | 49.00% | ~192 |
 | Forgotten Memories | 47.00% | ~184 |
 | Cogs in the Machine | 42.00% | ~165 |
-| Mission Success | 25.00% | ~98 |
+| Mission Success | 26.00% | ~102 |
 | There's No Place Like Home | 22.00% | ~86 |
 | Green Cube Killer | 21.00% | ~82 |
 | Descendants | 17.00% | ~67 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.30% | ~1 |
 | Laser Sharp | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392 (Ranked 270)  
+Progressed: 392 (Ranked 271)  
 Completed: 1 (0.26%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |

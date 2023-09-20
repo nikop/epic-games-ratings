@@ -498,9 +498,9 @@
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FourPlayers",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:08:07.4691166+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:08:18.388673+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:11.1842236+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:58:17.5378738+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:08:07.4691268+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:58:01.6600241+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:08:18.3886884+00:00"
 }

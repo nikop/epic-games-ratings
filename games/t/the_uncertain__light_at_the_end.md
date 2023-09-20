@@ -17,7 +17,7 @@ Rating: 3.82 (Ranked 975)
 | A Trip to Remember | 12.00% | ~63 |
 | Does Not Compute | 12.00% | ~63 |
 | U Mad Bro? | 11.00% | ~58 |
-| Short Circuit | 10.00% | ~52 |
+| Short Circuit | 11.00% | ~58 |
 | A Stealthy Outlook | 7.00% | ~37 |
 | Catch You Later | 6.00% | ~31 |
 | Between the Covers | 5.00% | ~26 |

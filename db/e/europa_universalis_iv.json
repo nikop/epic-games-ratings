@@ -9810,9 +9810,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 409345,
+  "EOS_Progressed": 409374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7301,
+  "EOS_NewPlayers": 7297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27085,6 +27085,11 @@
       "Time": "2023-09-20T21:04:18.2027048+00:00",
       "NumProgressed": 409345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T22:04:05.4945347+00:00",
+      "NumProgressed": 409374,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27616,7 +27621,7 @@
       "Name": "Cold War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "achievement_colonial_management",
@@ -27712,7 +27717,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -27752,7 +27757,7 @@
       "Name": "Double the Love",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -28096,7 +28101,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12280
+      "UsersEstimate": 12281
     },
     {
       "ID": "achievement_grand_coalition",
@@ -28312,7 +28317,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -29048,7 +29053,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -29376,7 +29381,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12280
+      "UsersEstimate": 12281
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -29520,7 +29525,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -29648,7 +29653,7 @@
       "Name": "Total Control",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -29688,7 +29693,7 @@
       "Name": "True Catholic",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -29760,7 +29765,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16374
+      "UsersEstimate": 16375
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -29792,7 +29797,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12280
+      "UsersEstimate": 12281
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -29927,21 +29932,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 409345,
+      "Progressed": 409374,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 409345,
+      "Progressed": 409374,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-20T20:58:39.393831+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:04:18.202704+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:04:05.4945338+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:58:39.3938318+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:04:18.2039435+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:58:20.3380462+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:04:05.4956364+00:00"
 }

@@ -1707,9 +1707,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 448
     },
     {
       "ID": "AC10",
@@ -1747,9 +1747,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 179
     },
     {
       "ID": "AC15",
@@ -2012,8 +2012,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:03:56.7279072+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:03:45.9229585+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:57:58.9336021+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:03:56.7279567+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:57:44.5392666+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:03:45.9229944+00:00"
 }

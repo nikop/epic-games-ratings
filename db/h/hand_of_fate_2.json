@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662355,
+  "EOS_Progressed": 662357,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15393,6 +15393,11 @@
       "Time": "2023-09-20T21:03:34.1554837+00:00",
       "NumProgressed": 662355,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-20T22:03:25.2080039+00:00",
+      "NumProgressed": 662357,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15404,7 +15409,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476896
+      "UsersEstimate": 476897
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -15412,7 +15417,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384166
+      "UsersEstimate": 384167
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -15444,7 +15449,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52988
+      "UsersEstimate": 52989
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -15556,7 +15561,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112600
+      "UsersEstimate": 112601
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -15572,7 +15577,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52988
+      "UsersEstimate": 52989
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -15628,7 +15633,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52988
+      "UsersEstimate": 52989
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -15700,7 +15705,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52988
+      "UsersEstimate": 52989
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -15787,15 +15792,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662355,
+      "Progressed": 662357,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:03:34.1554831+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:03:25.2080035+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.7485129+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:59:13.4611651+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:03:34.1556177+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:58:50.8496588+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:03:25.2081012+00:00"
 }

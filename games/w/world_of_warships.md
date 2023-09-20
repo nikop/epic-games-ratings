@@ -6,52 +6,52 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 85.00% | ~21,984 |
-| Initial Capital | 75.00% | ~19,397 |
-| Moneybags | 55.00% | ~14,225 |
-| Junior Supply Officer | 55.00% | ~14,225 |
-| Naval Warfare. Arson | 42.00% | ~10,862 |
-| Naval Warfare. Ramming | 40.00% | ~10,345 |
-| Naval Constructor | 40.00% | ~10,345 |
-| Amateur | 39.00% | ~10,087 |
-| Naval Warfare. Tactics | 39.00% | ~10,087 |
-| Naval Warfare. Weaponry Basics | 30.00% | ~7,759 |
-| Naval Warfare. Lucky Shot | 26.00% | ~6,724 |
-| Naval Warfare. Flooding | 25.00% | ~6,466 |
-| Business Magnate | 24.00% | ~6,207 |
-| Battle Hero | 21.00% | ~5,431 |
-| Smooth Supply | 20.00% | ~5,173 |
-| Supply Officer | 19.00% | ~4,914 |
-| Warrior | 18.00% | ~4,655 |
-| Veteran | 12.00% | ~3,104 |
-| Legend of the Seas | 6.00% | ~1,552 |
-| Chief Naval Architect | 6.00% | ~1,552 |
-| Shield | 6.00% | ~1,552 |
-| Important Missions | 5.00% | ~1,293 |
+| Junior Naval Designer | 85.00% | ~21,997 |
+| Initial Capital | 75.00% | ~19,409 |
+| Moneybags | 55.00% | ~14,233 |
+| Junior Supply Officer | 55.00% | ~14,233 |
+| Naval Warfare. Arson | 42.00% | ~10,869 |
+| Naval Warfare. Ramming | 40.00% | ~10,352 |
+| Naval Constructor | 40.00% | ~10,352 |
+| Amateur | 39.00% | ~10,093 |
+| Naval Warfare. Tactics | 39.00% | ~10,093 |
+| Naval Warfare. Weaponry Basics | 30.00% | ~7,764 |
+| Naval Warfare. Lucky Shot | 26.00% | ~6,729 |
+| Naval Warfare. Flooding | 25.00% | ~6,470 |
+| Business Magnate | 24.00% | ~6,211 |
+| Battle Hero | 21.00% | ~5,435 |
+| Smooth Supply | 20.00% | ~5,176 |
+| Supply Officer | 19.00% | ~4,917 |
+| Warrior | 18.00% | ~4,658 |
+| Veteran | 12.00% | ~3,105 |
+| Legend of the Seas | 6.00% | ~1,553 |
+| Chief Naval Architect | 6.00% | ~1,553 |
+| Shield | 6.00% | ~1,553 |
+| Important Missions | 5.00% | ~1,294 |
 | Weather Beaten | 4.00% | ~1,035 |
 | Bane of the Oceans | 3.00% | ~776 |
 | Senior Supply Officer | 3.00% | ~776 |
 | "Science of Victory" | 3.00% | ~776 |
 | Guardian | 3.00% | ~776 |
 | Exterminator | 3.00% | ~776 |
-| Old-Timer | 2.00% | ~517 |
-| Special Orders | 2.00% | ~517 |
-| Protector | 2.00% | ~517 |
-| American Cruisers | 2.00% | ~517 |
+| Old-Timer | 2.00% | ~518 |
+| Special Orders | 2.00% | ~518 |
+| Protector | 2.00% | ~518 |
+| American Cruisers | 2.00% | ~518 |
 | Secret Instructions | 1.00% | ~259 |
 | Raider | 1.00% | ~259 |
 | Experienced One | 0.90% | ~233 |
 | Ravager | 0.60% | ~155 |
 | "Yamamoto Isoroku" | 0.60% | ~155 |
 | "Yamamoto Isoroku" | 0.60% | ~155 |
-| "Honorable Service" | 0.40% | ~103 |
-| Hit Hard! Hit Fast! Hit Often! | 0.40% | ~103 |
+| "Honorable Service" | 0.40% | ~104 |
+| Hit Hard! Hit Fast! Hit Often! | 0.40% | ~104 |
 | "Science of Victory" with Honors | 0.20% | ~52 |
 | "Honorable Service" with Honors | 0.10% | ~26 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~26 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,863 (Ranked 109)  
+Progressed: 25,879 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,10 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-17 | 24,538 | 0 |
 | 2023-09-18 | 24,985 | 0 |
 | 2023-09-19 | 25,448 | 0 |
-| 2023-09-20 | 25,863 | 0 |
+| 2023-09-20 | 25,879 | 0 |
 ## Awards
 Max (Relaxing): 1,340  (Ranked 131)  
-Sum: 11,174 (Ranked 82)  
+Sum: 11,178 (Ranked 82)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): 49
 | This game has Challenging Combat | 1,316 |
 | This game has Competitive Players | 1,307 |
 | This game is Highly Recommended | 1,296 |
-| This game is Extremely Fun | 1,283 |
+| This game is Extremely Fun | 1,287 |
 | This game has Realistic Visuals | 1,169 |
 | This game has Amazing Storytelling | 1,086 |
 | This game has a Competitive Community | 1,038 |
@@ -360,4 +360,4 @@ Diff (max vs sum): 49
 | 2023-09-17 | 4.41 | - | 1,332 | 11,081 |
 | 2023-09-18 | 4.41 | - | 1,334 | 11,110 |
 | 2023-09-19 | 4.41 | - | 1,336 | 11,140 |
-| 2023-09-20 | 4.41 | - | 1,340 | 11,174 |
+| 2023-09-20 | 4.41 | - | 1,340 | 11,178 |

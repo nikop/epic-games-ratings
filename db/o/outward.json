@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3422,
+  "EOS_Progressed": 3423,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4559,6 +4559,11 @@
       "Time": "2023-09-20T20:06:13.4188318+00:00",
       "NumProgressed": 3422,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-20T22:04:36.6520073+00:00",
+      "NumProgressed": 3423,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4608,9 +4613,9 @@
       "ID": "CordonBleu_28",
       "SetID": "c4hee28",
       "Name": "Cordon Bleu",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1472
     },
     {
       "ID": "CrowdPleaser",
@@ -4626,7 +4631,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "Eureka_23",
@@ -4754,7 +4759,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4762,7 +4767,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4770,7 +4775,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -4794,7 +4799,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4890,7 +4895,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4905,15 +4910,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3422,
+      "Progressed": 3423,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:04:53.0292845+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:04:36.6520069+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:59:27.3936804+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:04:53.0293484+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:59:05.4128475+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:04:36.6520548+00:00"
 }

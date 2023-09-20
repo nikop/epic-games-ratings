@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11049,
+  "EOS_Progressed": 11063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5983,6 +5983,11 @@
       "Time": "2023-09-20T21:08:13.2593867+00:00",
       "NumProgressed": 11049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T22:08:23.511557+00:00",
+      "NumProgressed": 11063,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6003,7 +6008,7 @@
       "Name": "Data Miner",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "11",
@@ -6011,7 +6016,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2323
     },
     {
       "ID": "12",
@@ -6019,7 +6024,7 @@
       "Name": "Data Archivist",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "13",
@@ -6035,7 +6040,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1991
     },
     {
       "ID": "15",
@@ -6043,7 +6048,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2876
     },
     {
       "ID": "16",
@@ -6059,7 +6064,7 @@
       "Name": "Spore Taste",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2544
     },
     {
       "ID": "18",
@@ -6067,7 +6072,7 @@
       "Name": "Bottoms up!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1217
     },
     {
       "ID": "19",
@@ -6075,7 +6080,7 @@
       "Name": "Martian Music",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2655
     },
     {
       "ID": "2",
@@ -6083,7 +6088,7 @@
       "Name": "Data Logger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "20",
@@ -6091,7 +6096,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1549
     },
     {
       "ID": "21",
@@ -6099,7 +6104,7 @@
       "Name": "Drone Dodger",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2213
     },
     {
       "ID": "22",
@@ -6121,9 +6126,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 55
     },
     {
       "ID": "25",
@@ -6139,7 +6144,7 @@
       "Name": "Call it Even",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "27",
@@ -6147,7 +6152,7 @@
       "Name": "Bosmang",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "28",
@@ -6171,15 +6176,15 @@
       "Name": "Captain Drummer",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2655
     },
     {
       "ID": "30",
       "SetID": "458bbdk",
       "Name": "No Belter Left Behind",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     },
     {
       "ID": "4",
@@ -6187,7 +6192,7 @@
       "Name": "Debris Spree",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "5",
@@ -6195,7 +6200,7 @@
       "Name": "Data Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "6",
@@ -6203,7 +6208,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2544
     },
     {
       "ID": "7",
@@ -6219,7 +6224,7 @@
       "Name": "Data Recoverer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "9",
@@ -6227,14 +6232,14 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3651
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 11049,
+      "Progressed": 11063,
       "Completed": 0
     }
   ],
@@ -6242,8 +6247,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-20T17:00:05.303439+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:08:13.2593862+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:08:23.5115562+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:00:14.2041844+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:08:13.2594468+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:59:45.56869+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:08:23.5116+00:00"
 }

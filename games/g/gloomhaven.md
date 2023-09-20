@@ -6,51 +6,51 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 35.00% | ~1,038 |
-| A normal day in Gloomhaven | 29.00% | ~860 |
-| Overkill | 27.00% | ~801 |
-| Vaccine Incoming | 25.00% | ~742 |
-| Spread the plague | 22.00% | ~653 |
-| Get over here! | 20.00% | ~593 |
-| Mine... All Mine... | 16.00% | ~475 |
-| Just when I thought I was out... | 16.00% | ~475 |
-| Anatomy Lesson | 13.00% | ~386 |
-| Light of my life | 12.00% | ~356 |
-| You activated my trap card! | 11.00% | ~326 |
-| Augmented rat | 11.00% | ~326 |
-| Obstacle race | 11.00% | ~326 |
-| Doom and gloom | 10.00% | ~297 |
-| Precious! | 7.00% | ~208 |
-| Pack leader | 7.00% | ~208 |
-| Pain is your friend | 7.00% | ~208 |
-| Grizzled veteran | 6.00% | ~178 |
-| Black death | 6.00% | ~178 |
-| Play it again, Sam | 6.00% | ~178 |
-| The Pro from Dover | 4.00% | ~119 |
-| Pretty lights! | 4.00% | ~119 |
-| Quad damage | 4.00% | ~119 |
-| Now you see me... | 4.00% | ~119 |
-| Dungeon Veteran | 3.00% | ~89 |
-| Who's the Boss? | 3.00% | ~89 |
-| Power Up! | 2.00% | ~59 |
-| Caught off guard | 2.00% | ~59 |
-| Master Assassin | 2.00% | ~59 |
-| Grin and bear it | 2.00% | ~59 |
+| I'm not dead yet | 35.00% | ~1,049 |
+| A normal day in Gloomhaven | 29.00% | ~869 |
+| Overkill | 27.00% | ~809 |
+| Vaccine Incoming | 25.00% | ~750 |
+| Spread the plague | 22.00% | ~660 |
+| Get over here! | 20.00% | ~600 |
+| Mine... All Mine... | 16.00% | ~480 |
+| Just when I thought I was out... | 16.00% | ~480 |
+| Anatomy Lesson | 13.00% | ~390 |
+| Light of my life | 12.00% | ~360 |
+| You activated my trap card! | 11.00% | ~330 |
+| Augmented rat | 11.00% | ~330 |
+| Obstacle race | 11.00% | ~330 |
+| Doom and gloom | 10.00% | ~300 |
+| Precious! | 7.00% | ~210 |
+| Pack leader | 7.00% | ~210 |
+| Pain is your friend | 7.00% | ~210 |
+| Grizzled veteran | 6.00% | ~180 |
+| Black death | 6.00% | ~180 |
+| Play it again, Sam | 6.00% | ~180 |
+| The Pro from Dover | 4.00% | ~120 |
+| Pretty lights! | 4.00% | ~120 |
+| Quad damage | 4.00% | ~120 |
+| Now you see me... | 4.00% | ~120 |
+| Dungeon Veteran | 3.00% | ~90 |
+| Who's the Boss? | 3.00% | ~90 |
+| Power Up! | 2.00% | ~60 |
+| Caught off guard | 2.00% | ~60 |
+| Master Assassin | 2.00% | ~60 |
+| Grin and bear it | 2.00% | ~60 |
 | I hate portals | 1.00% | ~30 |
 | Merchant of doom | 1.00% | ~30 |
 | The Sniper | 1.00% | ~30 |
 | An axe to grind | 1.00% | ~30 |
+| An eye for an eye | 0.90% | ~27 |
 | Down the hatch | 0.80% | ~24 |
-| An eye for an eye | 0.80% | ~24 |
 | The Rat King | 0.70% | ~21 |
+| The Pacifist | 0.70% | ~21 |
+| Add a bit of colour | 0.60% | ~18 |
+| How to train your Drake | 0.60% | ~18 |
 | The Cephalophore | 0.60% | ~18 |
-| The Pacifist | 0.60% | ~18 |
 | New Blood | 0.60% | ~18 |
-| Add a bit of colour | 0.50% | ~15 |
-| How to train your Drake | 0.50% | ~15 |
+| From Gloom, only greed and death emerges | 0.40% | ~12 |
 | Betray this | 0.40% | ~12 |
 | A tough job | 0.40% | ~12 |
-| From Gloom, only greed and death emerges | 0.30% | ~9 |
 | Captain hooked | 0.30% | ~9 |
 | Crimson Tornado | 0.30% | ~9 |
 | Born Support | 0.30% | ~9 |
@@ -68,21 +68,21 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.00% | ~0 |
 | Hard-travelling Heroes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,966 (Ranked 176)  
+Progressed: 2,998 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-18 | 925 | 0 |
 | 2023-09-19 | 2,099 | 0 |
-| 2023-09-20 | 2,966 | 0 |
+| 2023-09-20 | 2,998 | 0 |
 ## Awards
-Max (Character Customization): 3,525  (Ranked 89)  
-Sum: 8,209 (Ranked 99)  
+Max (Character Customization): 3,527  (Ranked 89)  
+Sum: 8,211 (Ranked 99)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,525 |
+| This game has Inclusive Character Customization | 3,527 |
 | This game has Diverse Characters | 579 |
 | This game has Challenging Combat | 541 |
 | This game is Highly Recommended | 537 |
@@ -264,4 +264,4 @@ Diff (max vs sum): -10
 | 2023-09-16 | 4.47 | - | 3,524 | 8,196 |
 | 2023-09-18 | 4.47 | - | 3,524 | 8,201 |
 | 2023-09-19 | 4.47 | - | 3,525 | 8,204 |
-| 2023-09-20 | 4.47 | - | 3,525 | 8,209 |
+| 2023-09-20 | 4.47 | - | 3,527 | 8,211 |

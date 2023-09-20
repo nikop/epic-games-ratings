@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65864,
+  "EOS_Progressed": 65867,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15332,6 +15332,11 @@
       "Time": "2023-09-20T21:04:22.5504084+00:00",
       "NumProgressed": 65864,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T22:04:09.1479624+00:00",
+      "NumProgressed": 65867,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15343,7 +15348,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27004
+      "UsersEstimate": 27005
     },
     {
       "ID": "02",
@@ -15359,7 +15364,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16466
+      "UsersEstimate": 16467
     },
     {
       "ID": "04",
@@ -15375,7 +15380,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14490
+      "UsersEstimate": 14491
     },
     {
       "ID": "06",
@@ -15391,7 +15396,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "08",
@@ -15399,7 +15404,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "09",
@@ -15431,7 +15436,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "13",
@@ -15551,7 +15556,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "28",
@@ -15559,7 +15564,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "29",
@@ -15591,7 +15596,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21076
+      "UsersEstimate": 21077
     },
     {
       "ID": "33",
@@ -15615,7 +15620,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22394
+      "UsersEstimate": 22395
     },
     {
       "ID": "36",
@@ -15655,7 +15660,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "41",
@@ -15703,7 +15708,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10538
+      "UsersEstimate": 10539
     },
     {
       "ID": "47",
@@ -15878,21 +15883,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65864,
+      "Progressed": 65867,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29332,
+      "Progressed": 29335,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:04:22.5504079+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:04:09.1479621+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:58:48.3133313+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:04:22.5505778+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:58:28.5836688+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:04:09.1480857+00:00"
 }

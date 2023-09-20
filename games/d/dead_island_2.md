@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,666 |
-| Git Gutte! | 2.00% | ~13,666 |
-| Bookworm | 2.00% | ~13,666 |
-| Break A Leg | 2.00% | ~13,666 |
-| But Doctor, I am Butcho | 2.00% | ~13,666 |
-| Can't Handle the Truth | 2.00% | ~13,666 |
-| Coup de Grâce | 2.00% | ~13,666 |
-| Like Riding a Bike | 2.00% | ~13,666 |
-| Hazardous Materials | 2.00% | ~13,666 |
-| Friends Like These | 2.00% | ~13,666 |
-| Hotel California | 2.00% | ~13,666 |
-| Apex Predator | 2.00% | ~13,666 |
-| Stacking the Deck | 2.00% | ~13,666 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,666 |
-| This is My Weapon | 2.00% | ~13,666 |
-| Welcome To Hell-A | 2.00% | ~13,666 |
+| Dr. Reed, I Presume? | 2.00% | ~13,667 |
+| Git Gutte! | 2.00% | ~13,667 |
+| Bookworm | 2.00% | ~13,667 |
+| Break A Leg | 2.00% | ~13,667 |
+| But Doctor, I am Butcho | 2.00% | ~13,667 |
+| Can't Handle the Truth | 2.00% | ~13,667 |
+| Coup de Grâce | 2.00% | ~13,667 |
+| Like Riding a Bike | 2.00% | ~13,667 |
+| Hazardous Materials | 2.00% | ~13,667 |
+| Friends Like These | 2.00% | ~13,667 |
+| Hotel California | 2.00% | ~13,667 |
+| Apex Predator | 2.00% | ~13,667 |
+| Stacking the Deck | 2.00% | ~13,667 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,667 |
+| This is My Weapon | 2.00% | ~13,667 |
+| Welcome To Hell-A | 2.00% | ~13,667 |
 | Making Your Mark | 1.00% | ~6,833 |
 | Anger Management | 1.00% | ~6,833 |
 | Perks of the Job | 1.00% | ~6,833 |
@@ -33,13 +33,13 @@ Rating: 4.54 (Ranked 502)
 | I Am the Resurrection | 1.00% | ~6,833 |
 | Our True Nature | 1.00% | ~6,833 |
 | Down with the Sickness | 0.90% | ~6,150 |
-| Max Headroom | 0.80% | ~5,466 |
+| Max Headroom | 0.80% | ~5,467 |
 | Go, Bobcats! | 0.70% | ~4,783 |
 | Rising Star | 0.70% | ~4,783 |
 | Smorgasbord | 0.60% | ~4,100 |
 | Jumbo Keyring | 0.60% | ~4,100 |
-| Not Even My Final Form | 0.50% | ~3,416 |
-| Internet Famous | 0.50% | ~3,416 |
+| Not Even My Final Form | 0.50% | ~3,417 |
+| Internet Famous | 0.50% | ~3,417 |
 | Make it So | 0.40% | ~2,733 |
 | On Safari | 0.40% | ~2,733 |
 | Variety is the Spice of Death | 0.40% | ~2,733 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,300 (Ranked 22)  
+Progressed: 683,326 (Ranked 22)  
 Completed: 2,156 (0.32%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2,156 (0.32%) (Ranked 179)
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
-| 2023-09-20 | 683,300 | 2,156 |
+| 2023-09-20 | 683,326 | 2,156 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,094 (Ranked 93)  

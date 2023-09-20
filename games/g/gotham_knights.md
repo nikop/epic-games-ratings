@@ -1,15 +1,15 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 886)  
+Rating: 4.18 (Ranked 887)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~37,801 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,443 |
 | Loose Ends | 34.00% | ~24,716 |
-| To the Victor Go the Spoils | 29.00% | ~21,081 |
-| Knighthood | 28.00% | ~20,354 |
+| To the Victor Go the Spoils | 29.00% | ~21,082 |
+| Knighthood | 28.00% | ~20,355 |
 | Get ReQ'd | 25.00% | ~18,174 |
 | Whispered Words | 25.00% | ~18,174 |
 | The Batman Family | 23.00% | ~16,720 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 886)
 | Bulldozed | 12.00% | ~8,723 |
 | Gotham Knight | 12.00% | ~8,723 |
 | Gotham City Confidential | 11.00% | ~7,996 |
-| Drone You Out | 10.00% | ~7,269 |
-| Out of Their League | 9.00% | ~6,542 |
-| Solid Alibi | 9.00% | ~6,542 |
+| Drone You Out | 10.00% | ~7,270 |
+| Out of Their League | 9.00% | ~6,543 |
+| Solid Alibi | 9.00% | ~6,543 |
 | Fusion Expert | 7.00% | ~5,089 |
 | Family Meeting | 6.00% | ~4,362 |
 | A Worthy Successor | 6.00% | ~4,362 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 886)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,694 (Ranked 83)  
+Progressed: 72,695 (Ranked 83)  
 Completed: 116 (0.16%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 116 (0.16%) (Ranked 207)
 | 2023-09-17 | 72,625 | 113 |
 | 2023-09-18 | 72,652 | 114 |
 | 2023-09-19 | 72,676 | 114 |
-| 2023-09-20 | 72,694 | 116 |
+| 2023-09-20 | 72,695 | 116 |
 ## Awards
 Max (Great Boss Battles): 2,715  (Ranked 96)  
 Sum: 4,507 (Ranked 139)  

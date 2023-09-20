@@ -4,7 +4,7 @@
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 760,
   "Ranking_Popularity": 273,
-  "Ranking_PopularitySum": 217,
+  "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 57,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4117,
+  "EOS_Progressed": 4121,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1221,
+  "EOS_NewPlayers": 1218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3555,6 +3555,11 @@
       "Time": "2023-09-20T21:07:09.5780244+00:00",
       "NumProgressed": 4117,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-20T22:06:36.2091562+00:00",
+      "NumProgressed": 4121,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3615,7 +3620,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1525
     },
     {
       "ID": "a_19",
@@ -3637,9 +3642,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 247
     },
     {
       "ID": "a_21",
@@ -3814,7 +3819,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4117,
+      "Progressed": 4121,
       "Completed": 5
     }
   ],
@@ -3822,8 +3827,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:07:09.5780239+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:06:36.2091558+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:58:56.3985765+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:07:09.578065+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:58:35.6373031+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:06:36.2091884+00:00"
 }

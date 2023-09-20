@@ -1597,9 +1597,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 203341,
+  "EOS_Progressed": 203349,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 1396,
+  "EOS_NewPlayers": 1403,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18872,6 +18872,11 @@
       "Time": "2023-09-20T21:08:18.5318605+00:00",
       "NumProgressed": 203341,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-09-20T22:08:28.063486+00:00",
+      "NumProgressed": 203349,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 44,
@@ -18883,7 +18888,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20334
+      "UsersEstimate": 20335
     },
     {
       "ID": "AtheistOx",
@@ -18907,7 +18912,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12200
+      "UsersEstimate": 12201
     },
     {
       "ID": "CompleteMastery",
@@ -18923,7 +18928,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16267
+      "UsersEstimate": 16268
     },
     {
       "ID": "FiveShadows",
@@ -18939,7 +18944,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12200
+      "UsersEstimate": 12201
     },
     {
       "ID": "GearUp",
@@ -18971,7 +18976,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12200
+      "UsersEstimate": 12201
     },
     {
       "ID": "HighFiveTheMoon",
@@ -19035,7 +19040,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12200
+      "UsersEstimate": 12201
     },
     {
       "ID": "NoGimmicks",
@@ -19099,7 +19104,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16267
+      "UsersEstimate": 16268
     },
     {
       "ID": "Rollin",
@@ -19107,7 +19112,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16267
+      "UsersEstimate": 16268
     },
     {
       "ID": "StillRollin",
@@ -19139,7 +19144,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16267
+      "UsersEstimate": 16268
     },
     {
       "ID": "TheCave",
@@ -19171,7 +19176,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20334
+      "UsersEstimate": 20335
     },
     {
       "ID": "TimeParadox",
@@ -19203,7 +19208,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12200
+      "UsersEstimate": 12201
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -19234,15 +19239,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 203341,
+      "Progressed": 203349,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-20T19:00:10.1004832+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:08:18.53186+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:08:28.0634854+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.289608+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:00:15.8143946+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:08:18.5320095+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:59:46.7144707+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:08:28.0635929+00:00"
 }

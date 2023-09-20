@@ -1,23 +1,23 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.86 (Ranked 32)  
+Rating: 4.86 (Ranked 31)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,835 |
+| light attack | 96.00% | ~9,836 |
 | keep it tidy | 77.00% | ~7,889 |
-| podium | 72.00% | ~7,376 |
-| medium attack | 60.00% | ~6,147 |
+| podium | 72.00% | ~7,377 |
+| medium attack | 60.00% | ~6,148 |
 | brail | 57.00% | ~5,840 |
 | good drivers have dead flies on the side windows | 42.00% | ~4,303 |
 | grocery-getter | 40.00% | ~4,098 |
 | rwd only | 26.00% | ~2,664 |
 | food tour: pasta | 26.00% | ~2,664 |
-| to finish first, first you must finish | 21.00% | ~2,151 |
-| autopilot | 21.00% | ~2,151 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,151 |
+| to finish first, first you must finish | 21.00% | ~2,152 |
+| autopilot | 21.00% | ~2,152 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,152 |
 | turbo | 20.00% | ~2,049 |
 | food tour: pretzel | 19.00% | ~1,947 |
 | bicycle race | 15.00% | ~1,537 |
@@ -27,10 +27,10 @@ Number of Ratings: 56  (23.09.2022)
 | perkele | 13.00% | ~1,332 |
 | night ride | 13.00% | ~1,332 |
 | snorkel | 13.00% | ~1,332 |
-| where is the stage? | 12.00% | ~1,229 |
+| where is the stage? | 12.00% | ~1,230 |
 | maximum attack | 11.00% | ~1,127 |
-| espresso | 10.00% | ~1,024 |
-| parallel universe | 10.00% | ~1,024 |
+| espresso | 10.00% | ~1,025 |
+| parallel universe | 10.00% | ~1,025 |
 | mittens | 8.00% | ~820 |
 | samir | 8.00% | ~820 |
 | eurobeat | 7.00% | ~717 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,245 (Ranked 132)  
+Progressed: 10,246 (Ranked 132)  
 Completed: 9 (0.09%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 9 (0.09%) (Ranked 229)
 | 2023-09-17 | 10,239 | 9 |
 | 2023-09-18 | 10,241 | 9 |
 | 2023-09-19 | 10,243 | 9 |
-| 2023-09-20 | 10,245 | 9 |
+| 2023-09-20 | 10,246 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

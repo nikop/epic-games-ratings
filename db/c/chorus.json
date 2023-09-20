@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1194,
+  "EOS_Progressed": 1195,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -2022,6 +2022,11 @@
       "Time": "2023-09-20T19:04:43.4212512+00:00",
       "NumProgressed": 1194,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-20T22:04:16.8364286+00:00",
+      "NumProgressed": 1195,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 43,
@@ -2049,7 +2054,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "Finish5SideMissions",
@@ -2057,7 +2062,7 @@
       "Name": "Helping Hand",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2065,7 +2070,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "GatlingVsArmor",
@@ -2217,7 +2222,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2233,7 +2238,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -2241,7 +2246,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "MissionSalvage",
@@ -2257,7 +2262,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "MissionShipyard",
@@ -2273,7 +2278,7 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "MissionTemple",
@@ -2281,7 +2286,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -2305,7 +2310,7 @@
       "Name": "Overcharged",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "RadiationCloud",
@@ -2313,7 +2318,7 @@
       "Name": "Radiation Area",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "RiteOfControl",
@@ -2337,7 +2342,7 @@
       "Name": "Two Birds",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "RiteOfTheStorm",
@@ -2353,7 +2358,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "VisitAllLocations",
@@ -2361,7 +2366,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "WinARace",
@@ -2369,22 +2374,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1194,
+      "Progressed": 1195,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-20T15:02:51.9408959+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:04:31.225356+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:04:16.8364282+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.8827006+00:00",
-  "LastUpdate_Ratings": "2023-09-20T21:01:05.0770174+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:04:31.2254023+00:00"
+  "LastUpdate_Ratings": "2023-09-20T22:00:31.8944535+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:04:16.8364648+00:00"
 }

@@ -24,7 +24,7 @@
   "EOS_Progressed": 257,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 21,
-  "EOS_NewCompleters": 16,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 41.25,
   "EosHistory": [
     {
@@ -1407,9 +1407,9 @@
       "ID": "PORTRAIT_11",
       "SetID": "2fge00i",
       "Name": "Portrait 11",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "PORTRAIT_12",
@@ -1558,8 +1558,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:03:26.3181738+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:03:18.1506446+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.9907185+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:57:36.6988952+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:03:26.318198+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:57:27.4337194+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:03:18.1506616+00:00"
 }

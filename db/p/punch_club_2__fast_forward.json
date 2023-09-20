@@ -1584,9 +1584,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 254
     },
     {
       "ID": "nero_extrime",
@@ -1791,8 +1791,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:08:05.2059471+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:08:16.5592197+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:27.7978975+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:58:06.4231503+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:08:05.2060197+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:57:51.8019903+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:08:16.5592843+00:00"
 }

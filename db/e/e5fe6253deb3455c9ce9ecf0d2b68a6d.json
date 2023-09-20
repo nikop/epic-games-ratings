@@ -2,9 +2,9 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -626,6 +626,11 @@
       "Time": "2023-09-20T14:06:39.8565207+00:00",
       "NumProgressed": 181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T22:05:39.6652068+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -662,7 +667,7 @@
       "Name": "Full load",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Island",
@@ -678,7 +683,7 @@
       "Name": "In the last second",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Master",
@@ -692,15 +697,15 @@
       "ID": "Route",
       "SetID": "cjfnji1",
       "Name": "Own route",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Serpentine_conquero",
       "SetID": "cjfnji1",
       "Name": "Serpentine conqueror",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -749,14 +754,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-20T21:06:04.1199798+00:00",
+  "LastChanged_Achievements": "2023-09-20T22:05:39.6652064+00:00",
   "LastUpdate_AppInfo": "2023-09-18T20:57:14.6607347+00:00",
-  "LastUpdate_Ratings": "2023-09-20T20:57:11.8949883+00:00",
-  "LastUpdate_Achievements": "2023-09-20T21:06:04.1199941+00:00"
+  "LastUpdate_Ratings": "2023-09-20T21:57:05.7573658+00:00",
+  "LastUpdate_Achievements": "2023-09-20T22:05:39.6652186+00:00"
 }
