@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 97.63% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 97.56% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.86% |
@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.52% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.97% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.95% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -31,7 +31,7 @@
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
-| 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.47% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
@@ -41,7 +41,7 @@
 | 39 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.14% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.09% |
 | 41 | [Scorn](games/s/scorn.md) | 7.07% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.96% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.94% |
 | 43 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.33% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -63,7 +63,7 @@
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 63 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 3.85% |
+| 64 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 3.75% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 66 | [The Bunker](games/t/the_bunker.md) | 3.45% |
 | 67 | [The Complex](games/t/the_complex.md) | 3.43% |
@@ -96,8 +96,8 @@
 | 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 95 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 96 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
+| 97 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 97 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.00% |
-| 98 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 99 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.87% |
 | 100 | [Night Book](games/n/night_book.md) | 1.86% |
 | 101 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -106,8 +106,8 @@
 | 103 | [Sifu](games/s/sifu.md) | 1.80% |
 | 105 | [Somerville](games/s/somerville.md) | 1.71% |
 | 106 | [Five Dates](games/f/five_dates.md) | 1.66% |
-| 107 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.54% |
-| 108 | [Iron Danger](games/i/iron_danger.md) | 1.53% |
+| 107 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
+| 107 | [Iron Danger](games/i/iron_danger.md) | 1.53% |
 | 109 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.49% |
 | 110 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 111 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
@@ -124,15 +124,15 @@
 | 122 | [Eternights](games/e/eternights.md) | 1.06% |
 | 123 | [Adios](games/a/adios.md) | 1.04% |
 | 124 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
-| 124 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.02% |
-| 126 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
-| 127 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
-| 127 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
-| 127 | [Sable](games/s/sable.md) | 1.00% |
-| 130 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
-| 132 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
-| 133 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
+| 125 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 126 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
+| 126 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
+| 126 | [Sable](games/s/sable.md) | 1.00% |
+| 129 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
+| 131 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
+| 132 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
+| 133 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.91% |
 | 134 | [Hades](games/h/hades.md) | 0.90% |
 | 135 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 136 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
