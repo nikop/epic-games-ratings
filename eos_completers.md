@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.10% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.06% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.86% |
@@ -32,7 +32,7 @@
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.48% |
+| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.47% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
@@ -69,7 +69,7 @@
 | 67 | [The Complex](games/t/the_complex.md) | 3.43% |
 | 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.41% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
-| 69 | [Doodle God](games/d/doodle_god.md) | 3.36% |
+| 70 | [Doodle God](games/d/doodle_god.md) | 3.35% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.33% |
 | 72 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 73 | [Without Escape](games/w/without_escape.md) | 3.23% |
@@ -129,9 +129,9 @@
 | 126 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 126 | [Sable](games/s/sable.md) | 1.00% |
 | 129 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.95% |
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
-| 131 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
-| 132 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.92% |
+| 132 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 133 | [Hades](games/h/hades.md) | 0.90% |
 | 134 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 135 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
