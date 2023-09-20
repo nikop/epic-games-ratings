@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24064,
+  "EOS_Progressed": 24065,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4902,6 +4902,11 @@
       "Time": "2023-09-19T22:06:30.0675399+00:00",
       "NumProgressed": 24064,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-20T05:07:27.7662264+00:00",
+      "NumProgressed": 24065,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4929,7 +4934,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18529
+      "UsersEstimate": 18530
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4953,7 +4958,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 7219
+      "UsersEstimate": 7220
     },
     {
       "ID": "ACH_GET_GUS",
@@ -5017,7 +5022,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19973
+      "UsersEstimate": 19974
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -5033,7 +5038,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13716
+      "UsersEstimate": 13717
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5113,7 +5118,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -5168,22 +5173,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24064,
+      "Progressed": 24065,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1357,
-      "Completed": 1357
+      "Progressed": 1358,
+      "Completed": 1358
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-20T04:07:33.2622602+00:00",
+  "LastChanged_Achievements": "2023-09-20T05:07:27.7662259+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:21.7258178+00:00",
-  "LastUpdate_Ratings": "2023-09-20T03:59:24.4102847+00:00",
-  "LastUpdate_Achievements": "2023-09-20T04:07:33.2623548+00:00"
+  "LastUpdate_Ratings": "2023-09-20T04:59:17.4765676+00:00",
+  "LastUpdate_Achievements": "2023-09-20T05:07:27.7662897+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.64 (Ranked 315)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,973 |
-| Mods Please Ban | 77.00% | ~18,529 |
+| Eye Scream, You Scream | 83.00% | ~19,974 |
+| Mods Please Ban | 77.00% | ~18,530 |
 | Bring A Knife to a Gun Fight | 76.00% | ~18,289 |
 | Fallout Doesn't Let You Do This | 73.00% | ~17,567 |
 | First Bounty Down | 59.00% | ~14,198 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,716 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,717 |
 | Luglox Genocide | 43.00% | ~10,348 |
 | Don't Knife The Hand That Feeds | 34.00% | ~8,182 |
 | Playing Card To Get | 33.00% | ~7,941 |
-| Creature Feature | 30.00% | ~7,219 |
+| Creature Feature | 30.00% | ~7,220 |
 | Satisfied Gus-tomer | 28.00% | ~6,738 |
 | Cold-Blooded Driller | 28.00% | ~6,738 |
 | Are You Packin'? | 25.00% | ~6,016 |
@@ -33,12 +33,12 @@ Rating: 4.64 (Ranked 315)
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,888 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,166 |
 | Sequel-Bait | 8.00% | ~1,925 |
-| Gunning For Your Job | 7.00% | ~1,684 |
+| Gunning For Your Job | 7.00% | ~1,685 |
 | Playing Favorites | 6.00% | ~1,444 |
 | Epic Legendary Prize | 1.00% | ~241 |
 | A Starfish Is Born | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,064 (Ranked 110)  
+Progressed: 24,065 (Ranked 110)  
 Completed: 12 (0.05%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 12 (0.05%) (Ranked 242)
 | 2023-09-17 | 24,060 | 12 |
 | 2023-09-18 | 24,061 | 12 |
 | 2023-09-19 | 24,064 | 12 |
+| 2023-09-20 | 24,065 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6409,9 +6409,9 @@
     }
   ],
   "EOS_Progressed": 715155,
-  "EOS_Completed": 12896,
-  "EOS_NewPlayers": 282,
-  "EOS_NewCompleters": 5,
+  "EOS_Completed": 12897,
+  "EOS_NewPlayers": 275,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -20493,6 +20493,11 @@
       "Time": "2023-09-20T04:07:19.945843+00:00",
       "NumProgressed": 715155,
       "NumCompleted": 12896
+    },
+    {
+      "Time": "2023-09-20T05:07:14.1689444+00:00",
+      "NumProgressed": 715155,
+      "NumCompleted": 12897
     }
   ],
   "TotalAchievements": 60,
@@ -20678,9 +20683,9 @@
       "ID": "23_AnySkill_Trophy",
       "SetID": "adcm20g",
       "Name": "Life is your teacher",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1430
+      "UsersEstimate": 2145
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -20782,9 +20787,9 @@
       "ID": "36_Calbot_Trophy",
       "SetID": "adcm20g",
       "Name": "Path of the Prospect",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 1430
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -20990,14 +20995,14 @@
       "ID": "adcm20g",
       "IsBase": true,
       "Progressed": 715155,
-      "Completed": 12896
+      "Completed": 12897
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-19T11:00:10.6249796+00:00",
-  "LastChanged_Achievements": "2023-09-20T04:07:19.9458424+00:00",
+  "LastChanged_Achievements": "2023-09-20T05:07:14.1689436+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.6713568+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:00:39.5599913+00:00",
-  "LastUpdate_Achievements": "2023-09-20T04:07:19.9459779+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:00:34.28536+00:00",
+  "LastUpdate_Achievements": "2023-09-20T05:07:14.1691284+00:00"
 }

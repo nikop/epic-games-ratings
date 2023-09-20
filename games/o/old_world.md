@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 4.00% | ~560 |
 | Mason | 4.00% | ~560 |
 | Noble | 4.00% | ~560 |
+| Pioneer | 4.00% | ~560 |
 | Strong | 4.00% | ~560 |
 | Hanging Gardens | 4.00% | ~560 |
 | Oracle | 4.00% | ~560 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 3.00% | ~420 |
 | Keystone | 3.00% | ~420 |
 | Magnificent | 3.00% | ~420 |
-| Pioneer | 3.00% | ~420 |
 | Warrior | 3.00% | ~420 |
 | Developing Cities | 3.00% | ~420 |
 | Strong Cities | 3.00% | ~420 |

@@ -5,16 +5,16 @@ Rating: 4.56 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,185 |
-| Pay 'n' Spray | 51.00% | ~6,413 |
-| All Dressed Up for San Fierro | 26.00% | ~3,269 |
+| Getting Started | 81.00% | ~10,186 |
+| Pay 'n' Spray | 50.00% | ~6,288 |
+| All Dressed Up for San Fierro | 26.00% | ~3,270 |
 | The American Dream | 19.00% | ~2,389 |
-| School's Out | 18.00% | ~2,263 |
+| School's Out | 18.00% | ~2,264 |
 | Smooth Moves | 17.00% | ~2,138 |
 | What happens in Las Venturas... | 15.00% | ~1,886 |
 | Today Was a Good Day | 15.00% | ~1,886 |
 | Horror of the Santa Maria | 11.00% | ~1,383 |
-| Liberty City State of Mind | 10.00% | ~1,257 |
+| Liberty City State of Mind | 10.00% | ~1,258 |
 | The End of the Line | 8.00% | ~1,006 |
 | Original Gangster | 8.00% | ~1,006 |
 | With Extra Dip | 7.00% | ~880 |
@@ -24,15 +24,15 @@ Rating: 4.56 (Ranked 467)
 | What are the Odds | 4.00% | ~503 |
 | Bike or Biker | 3.00% | ~377 |
 | What the City Needs | 3.00% | ~377 |
-| A Legitimate Business | 2.00% | ~251 |
-| I’ll Have Two Number 9s | 2.00% | ~251 |
-| Who Needs Directions? | 2.00% | ~251 |
-| Swiss Army Strife | 2.00% | ~251 |
-| Yes I Speak English | 2.00% | ~251 |
-| Double or Nothin' | 2.00% | ~251 |
-| Assassin | 2.00% | ~251 |
-| Public Enemy No. 1 | 2.00% | ~251 |
-| Ain’t Nothing But a G Thing | 2.00% | ~251 |
+| A Legitimate Business | 2.00% | ~252 |
+| I’ll Have Two Number 9s | 2.00% | ~252 |
+| Who Needs Directions? | 2.00% | ~252 |
+| Swiss Army Strife | 2.00% | ~252 |
+| Yes I Speak English | 2.00% | ~252 |
+| Double or Nothin' | 2.00% | ~252 |
+| Assassin | 2.00% | ~252 |
+| Public Enemy No. 1 | 2.00% | ~252 |
+| Ain’t Nothing But a G Thing | 2.00% | ~252 |
 | Hoopin' it Up | 1.00% | ~126 |
 | Lucky Spinner | 1.00% | ~126 |
 | Not a Player | 1.00% | ~126 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 467)
 | ...Here we go again | 0.50% | ~63 |
 | I Ain't No Buster | 0.30% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,574 (Ranked 126)  
+Progressed: 12,575 (Ranked 126)  
 Completed: 45 (0.36%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 45 (0.36%) (Ranked 170)
 | 2023-09-17 | 12,454 | 45 |
 | 2023-09-18 | 12,512 | 45 |
 | 2023-09-19 | 12,569 | 45 |
-| 2023-09-20 | 12,574 | 45 |
+| 2023-09-20 | 12,575 | 45 |
 ## Awards
 Max (Great Boss Battles): 295  (Ranked 241)  
 Sum: 391 (Ranked 322)  

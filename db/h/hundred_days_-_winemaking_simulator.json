@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4009,
+  "EOS_Progressed": 4011,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1241,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3470,6 +3470,11 @@
       "Time": "2023-09-20T03:07:08.9836724+00:00",
       "NumProgressed": 4009,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-20T05:07:37.2913858+00:00",
+      "NumProgressed": 4011,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3530,7 +3535,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "a_19",
@@ -3546,7 +3551,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "a_20",
@@ -3554,7 +3559,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "a_21",
@@ -3562,7 +3567,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "a_22",
@@ -3704,9 +3709,9 @@
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "a_8",
@@ -3729,7 +3734,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4009,
+      "Progressed": 4011,
       "Completed": 5
     }
   ],
@@ -3737,8 +3742,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-20T04:07:42.5117835+00:00",
+  "LastChanged_Achievements": "2023-09-20T05:07:37.291385+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-20T03:58:58.0156647+00:00",
-  "LastUpdate_Achievements": "2023-09-20T04:07:42.5118363+00:00"
+  "LastUpdate_Ratings": "2023-09-20T04:58:52.8993633+00:00",
+  "LastUpdate_Achievements": "2023-09-20T05:07:37.2914275+00:00"
 }

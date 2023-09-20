@@ -5,7 +5,7 @@
   "Ranking_Rating": 502,
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 437,
-  "Ranking_EOS_Progress": 132,
+  "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 75,
@@ -658,9 +658,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 10140,
+  "EOS_Progressed": 10142,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -9913,6 +9913,11 @@
       "Time": "2023-09-20T04:03:45.1834042+00:00",
       "NumProgressed": 10140,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-20T05:03:34.2175247+00:00",
+      "NumProgressed": 10142,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -10004,7 +10009,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "ACH12",
@@ -10012,7 +10017,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH13",
@@ -10028,7 +10033,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "ACH15",
@@ -10084,7 +10089,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "ACH22",
@@ -10100,7 +10105,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "ACH24",
@@ -10140,7 +10145,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH29",
@@ -10195,7 +10200,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10140,
+      "Progressed": 10142,
       "Completed": 56
     }
   ],
@@ -10203,8 +10208,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-19T05:58:35.1786441+00:00",
-  "LastChanged_Achievements": "2023-09-20T04:03:45.1834035+00:00",
+  "LastChanged_Achievements": "2023-09-20T05:03:34.217524+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-20T03:59:49.0652102+00:00",
-  "LastUpdate_Achievements": "2023-09-20T04:03:45.1835477+00:00"
+  "LastUpdate_Ratings": "2023-09-20T04:59:42.5507432+00:00",
+  "LastUpdate_Achievements": "2023-09-20T05:03:34.2176587+00:00"
 }

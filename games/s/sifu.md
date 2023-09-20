@@ -7,18 +7,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 0.30% | ~2,145 |
+| Life is your teacher | 0.30% | ~2,145 |
 | Diligence as a goal | 0.30% | ~73 |
 | The Assault | 0.20% | ~1,430 |
 | The Hateful Pole Fighter | 0.20% | ~1,430 |
 | A Lady's Blood in the Snow | 0.20% | ~1,430 |
 | Stuntmaster | 0.20% | ~1,430 |
 | Street Fighting | 0.20% | ~1,430 |
-| Life is your teacher | 0.20% | ~1,430 |
 | State of constant learning | 0.20% | ~1,430 |
 | Qi Gong: Breath | 0.20% | ~1,430 |
 | Qi Gong: Essence | 0.20% | ~1,430 |
 | Old Child | 0.20% | ~1,430 |
 | Lightning Hands | 0.20% | ~1,430 |
+| Path of the Prospect | 0.20% | ~1,430 |
 | Rumble in the Hangar | 0.20% | ~1,430 |
 | Project Arena | 0.20% | ~49 |
 | Martial Hub | 0.20% | ~49 |
@@ -46,7 +47,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~715 |
 | Sword Stained With Blood | 0.10% | ~715 |
 | Kung-Fu Tussle | 0.10% | ~715 |
-| Path of the Prospect | 0.10% | ~715 |
 | The Pit Protector | 0.10% | ~715 |
 | Be like water my friend | 0.10% | ~715 |
 | Take damage to save time | 0.10% | ~715 |
@@ -68,7 +68,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 715,155 (Ranked 20)  
-Completed: 12,896 (1.80%) (Ranked 103)  
+Completed: 12,897 (1.80%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -220,7 +220,7 @@ Completed: 12,896 (1.80%) (Ranked 103)
 | 2023-09-17 | 715,099 | 12,895 |
 | 2023-09-18 | 715,124 | 12,895 |
 | 2023-09-19 | 715,150 | 12,896 |
-| 2023-09-20 | 715,155 | 12,896 |
+| 2023-09-20 | 715,155 | 12,897 |
 ## Awards
 Max (Great Boss Battles): 6,540  (Ranked 53)  
 Sum: 11,302 (Ranked 81)  

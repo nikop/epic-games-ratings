@@ -10,8 +10,8 @@ Number of Ratings: 285  (23.09.2022)
 | Faceroll the Bones | 16.00% | ~445 |
 | Hit 'Em Where It Hurts | 16.00% | ~445 |
 | That'll Leave a Mark | 16.00% | ~445 |
+| Mushroom Madness! | 15.00% | ~417 |
 | Perk Shard Punch Card | 15.00% | ~417 |
-| Mushroom Madness! | 14.00% | ~389 |
 | Horder Better Faster Stronger | 12.00% | ~333 |
 | Spending Spree | 12.00% | ~333 |
 | First Strike | 11.00% | ~306 |

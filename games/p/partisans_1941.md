@@ -9,7 +9,7 @@ Number of Ratings: 98  (23.09.2022)
 | E1M1 | 40.00% | ~558 |
 | Grenadier | 39.00% | ~544 |
 | War Never Changes | 39.00% | ~544 |
-| Heroes Never Die | 35.00% | ~488 |
+| Heroes Never Die | 36.00% | ~502 |
 | Mosquito bite | 34.00% | ~474 |
 | Spice It Up | 30.00% | ~418 |
 | Agent 47 | 25.00% | ~348 |

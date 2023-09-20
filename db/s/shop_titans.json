@@ -6142,7 +6142,7 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136431,
+  "EOS_Progressed": 136432,
   "EOS_Completed": 153,
   "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 4,
@@ -21837,6 +21837,11 @@
       "Time": "2023-09-20T04:04:14.9506601+00:00",
       "NumProgressed": 136431,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-20T05:04:04.4539804+00:00",
+      "NumProgressed": 136432,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22734,24 +22739,24 @@
       "ID": "yami_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Blade",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 546
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136431,
+      "Progressed": 136432,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-19T17:58:38.5337428+00:00",
-  "LastChanged_Achievements": "2023-09-20T04:04:14.9506594+00:00",
+  "LastChanged_Achievements": "2023-09-20T05:04:04.4539799+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-20T03:59:28.8338941+00:00",
-  "LastUpdate_Achievements": "2023-09-20T04:04:14.9511144+00:00"
+  "LastUpdate_Ratings": "2023-09-20T04:59:21.6662669+00:00",
+  "LastUpdate_Achievements": "2023-09-20T05:04:04.4542577+00:00"
 }

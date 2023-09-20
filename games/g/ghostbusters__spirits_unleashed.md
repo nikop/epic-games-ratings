@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 567)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,917 (Ranked 107)  
+Progressed: 25,918 (Ranked 107)  
 Completed: 56 (0.22%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 56 (0.22%) (Ranked 196)
 | 2023-09-17 | 25,875 | 56 |
 | 2023-09-18 | 25,888 | 56 |
 | 2023-09-19 | 25,909 | 56 |
-| 2023-09-20 | 25,917 | 56 |
+| 2023-09-20 | 25,918 | 56 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 255)  
 Sum: 2,320 (Ranked 188)  

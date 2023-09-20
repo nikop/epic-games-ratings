@@ -637,7 +637,7 @@
   ],
   "EOS_Progressed": 2779,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5107,9 +5107,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 417
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5187,8 +5187,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T01:40:59.1284694+00:00",
-  "LastChanged_Achievements": "2023-09-20T04:04:08.445244+00:00",
+  "LastChanged_Achievements": "2023-09-20T05:03:57.7599294+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:00:04.9181441+00:00",
-  "LastUpdate_Achievements": "2023-09-20T04:04:08.4452936+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:00:00.1715017+00:00",
+  "LastUpdate_Achievements": "2023-09-20T05:03:57.7599825+00:00"
 }
