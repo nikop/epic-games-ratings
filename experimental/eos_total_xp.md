@@ -321,6 +321,7 @@
 | [Island Cities](../games/i/island_cities.md) | 22 | 1,000 |
 | [Island Farmer](../games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 30 | 1,000 |
 | [Isonzo](../games/i/isonzo.md) | 45 | 1,000 |
+| [It Takes Two](../games/i/it_takes_two.md) | 20 | 1,000 |
 | [It's a Wrap!](../games/i/it's_a_wrap!.md) | 14 | 1,000 |
 | [JARS](../games/j/jars.md) | 20 | 1,000 |
 | [Jennifer Wilde Unlikely Revolutionaries](../games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10 | 1,000 |

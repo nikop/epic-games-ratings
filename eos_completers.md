@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 97.13% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 97.04% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.25% |
@@ -30,9 +30,9 @@
 | 28 | [Smelter](games/s/smelter.md) | 10.00% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
-| 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
+| 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.89% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.47% |
+| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.45% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
@@ -71,11 +71,11 @@
 | 69 | [Doodle God](games/d/doodle_god.md) | 3.35% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.33% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
-| 72 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 3.26% |
-| 73 | [Without Escape](games/w/without_escape.md) | 3.23% |
-| 74 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
+| 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
+| 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
+| 74 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 3.19% |
 | 75 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.01% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.03% |
 | 77 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 78 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 79 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -136,9 +136,9 @@
 | 134 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 135 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 135 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 137 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.76% |
-| 138 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 139 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
+| 137 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
+| 138 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
+| 138 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.73% |
 | 140 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.71% |
 | 141 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.68% |
 | 142 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.64% |
@@ -418,6 +418,7 @@
 | 280 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 0.00% |
 | 280 | [Insomnis](games/i/insomnis.md) | 0.00% |
 | 280 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
+| 280 | [It Takes Two](games/i/it_takes_two.md) | 0.00% |
 | 280 | [IXION](games/i/ixion.md) | 0.00% |
 | 280 | [JYDGE](games/j/jydge.md) | 0.00% |
 | 280 | [Kabaret](games/k/kabaret.md) | 0.00% |

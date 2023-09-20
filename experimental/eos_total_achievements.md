@@ -493,6 +493,7 @@
 | [Dark Fantasy Jigsaw Puzzle](../games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 20 | 1,000 |
 | [Fort Solis](../games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 20 | 1,000 |
 | [I Am Future - Cozy Apocalypse Survival](../games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 20 | 1,000 |
+| [It Takes Two](../games/i/it_takes_two.md) | 20 | 1,000 |
 | [JARS](../games/j/jars.md) | 20 | 1,000 |
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
 | [Late Shift](../games/l/late_shift.md) | 20 | 1,000 |
