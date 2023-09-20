@@ -34,10 +34,10 @@
 | 31 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 22 | 500 |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 430 |
 | 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 229 |
-| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,509 | 30 |
+| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,509 | 31 |
 | 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 345 |
 | 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 157 | 299 |
-| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,436 | 128 |
+| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,437 | 128 |
 | 31 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 520 |
 | 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 506 | 200 |
 | 41 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 154 | 301 |
@@ -113,7 +113,7 @@
 | 101 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 469 |
 | 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 5,149 | 68 |
 | 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,142 | 50 |
-| 112 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,851 | 17 |
+| 112 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,886 | 17 |
 | 112 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 520 |
 | 112 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 304 |
 | 112 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 520 |
@@ -148,7 +148,7 @@
 | 146 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 520 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 815 | 157 |
 | 146 | [Haven](games/h/haven.md) | 4.74 | 0 | 520 |
-| 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 12,350 | 31 |
+| 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 12,515 | 30 |
 | 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 695 | 171 |
 | 146 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 520 |
 | 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,110 | 51 |
@@ -501,7 +501,7 @@
 | 487 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 366 |
 | 487 | [Wall World](games/w/wall_world.md) | 4.55 | 0 | 520 |
 | 487 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,271 | 134 |
-| 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,436 | 128 |
+| 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,436 | 129 |
 | 502 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,126 | 57 |
 | 502 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 446 |
 | 502 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.54 | 0 | 520 |
@@ -847,16 +847,16 @@
 | 844 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 463 |
 | 844 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 500 |
 | 844 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 520 |
+| 844 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 624 | 183 |
 | 844 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 414 |
 | 844 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 520 |
 | 844 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 520 |
 | 844 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 490 |
-| 852 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 520 |
-| 852 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
-| 852 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 520 |
-| 852 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 624 | 183 |
-| 852 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 520 |
-| 852 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 212 | 271 |
+| 853 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 520 |
+| 853 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
+| 853 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 520 |
+| 853 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 520 |
+| 853 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 212 | 271 |
 | 858 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 284 |
 | 858 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 520 |
 | 860 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 123 | 319 |
