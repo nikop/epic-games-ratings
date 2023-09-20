@@ -159,21 +159,21 @@
 | 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 519 |
 | 146 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 809 | 158 |
 | 146 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 519 |
-| 146 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 83 | 361 |
 | 146 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 519 |
-| 162 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 419 | 214 |
-| 162 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 519 |
-| 162 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 45 | 419 |
-| 162 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 608 | 186 |
-| 162 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.73 | 0 | 519 |
-| 162 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 145 | 305 |
-| 162 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 235 | 261 |
-| 162 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 519 |
-| 162 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 519 |
-| 162 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 519 |
-| 162 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 519 |
-| 162 | [Townscaper](games/t/townscaper.md) | 4.73 | 0 | 519 |
-| 162 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 660 | 177 |
+| 161 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 419 | 214 |
+| 161 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 519 |
+| 161 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 45 | 419 |
+| 161 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 608 | 186 |
+| 161 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.73 | 0 | 519 |
+| 161 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 145 | 305 |
+| 161 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 235 | 261 |
+| 161 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 519 |
+| 161 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 519 |
+| 161 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 519 |
+| 161 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 519 |
+| 161 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 83 | 361 |
+| 161 | [Townscaper](games/t/townscaper.md) | 4.73 | 0 | 519 |
+| 161 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 660 | 177 |
 | 175 | [Cave Story+](games/c/cave_story+.md) | 4.72 | 105 | 335 |
 | 175 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 94 | 350 |
 | 175 | [Fez](games/f/fez.md) | 4.72 | 23 | 495 |
@@ -233,7 +233,7 @@
 | 219 | [Revita](games/r/revita.md) | 4.69 | 0 | 519 |
 | 219 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,440 | 35 |
 | 219 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 53 | 399 |
-| 219 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 298 | 239 |
+| 219 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 298 | 240 |
 | 219 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.69 | 0 | 519 |
 | 219 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 474 |
 | 219 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 519 |
@@ -474,7 +474,7 @@
 | 467 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 519 |
 | 467 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 853 | 154 |
 | 467 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 474 |
-| 467 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 295 | 241 |
+| 467 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 302 | 239 |
 | 467 | [Hue](games/h/hue.md) | 4.56 | 0 | 519 |
 | 467 | [Isonzo](games/i/isonzo.md) | 4.56 | 36 | 443 |
 | 467 | [IXION](games/i/ixion.md) | 4.56 | 0 | 519 |
@@ -834,7 +834,7 @@
 | 831 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 519 |
 | 831 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 519 |
 | 831 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 519 |
-| 831 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 240 |
+| 831 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 241 |
 | 836 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 519 |
 | 836 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,081 | 138 |
 | 836 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 0 | 519 |

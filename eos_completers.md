@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.12% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 98.10% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.86% |
@@ -20,7 +20,7 @@
 | 18 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.89% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
-| 21 | [Anna's Quest](games/a/anna's_quest.md) | 11.90% |
+| 21 | [Anna's Quest](games/a/anna's_quest.md) | 11.63% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.95% |
@@ -60,8 +60,8 @@
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.23% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.00% |
-| 60 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 4.00% |
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
+| 62 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 3.95% |
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -75,7 +75,7 @@
 | 73 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 75 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.02% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.01% |
 | 77 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 78 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 79 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -93,7 +93,7 @@
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.43% |
 | 92 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 93 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
-| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 95 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 96 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
 | 97 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
@@ -180,9 +180,9 @@
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 179 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 179 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
-| 182 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 182 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
+| 181 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 181 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
+| 181 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 184 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 184 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 184 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
@@ -213,7 +213,7 @@
 | 210 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 212 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 212 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
-| 212 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.14% |
+| 214 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.13% |
 | 215 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 215 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 215 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.12% |
