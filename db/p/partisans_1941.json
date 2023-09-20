@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -2786,9 +2786,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 544
     },
     {
       "ID": "Hard_Serpent",
@@ -2922,8 +2922,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:04:23.7482672+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:04:01.7969815+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:02:05.2582294+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:04:23.7483098+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:01:03.8391122+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:04:01.7970204+00:00"
 }

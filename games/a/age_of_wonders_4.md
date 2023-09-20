@@ -20,6 +20,7 @@ Rating: 4.60 (Ranked 396)
 | Full Ascension | 5.00% | ~259 |
 | My Final Form | 5.00% | ~259 |
 | In a Liege of Your Own | 5.00% | ~259 |
+| Impenetrable Fortress | 5.00% | ~259 |
 | Here be Dragons | 5.00% | ~259 |
 | Blood of the Dragon | 5.00% | ~259 |
 | Mighty Hoard | 5.00% | ~259 |
@@ -29,7 +30,6 @@ Rating: 4.60 (Ranked 396)
 | Preparation Is Everything | 4.00% | ~207 |
 | Fiery Friend | 4.00% | ~207 |
 | Against the Odds | 4.00% | ~207 |
-| Impenetrable Fortress | 4.00% | ~207 |
 | God Emperor | 3.00% | ~156 |
 | Lord of Chaos | 3.00% | ~156 |
 | Arch Mage | 3.00% | ~156 |

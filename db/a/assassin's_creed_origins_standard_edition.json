@@ -2,13 +2,13 @@
   "ID": "camellia",
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
   "ProductSlug": "assassins-creed-origins",
-  "Ranking_Rating": 244,
+  "Ranking_Rating": 243,
   "Ranking_Popularity": 88,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2017-10-26T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4767,10 +4767,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 6017,
       "NumberOfAwardsMax": 3548
+    },
+    {
+      "Time": "2023-09-20T15:58:08.3046978+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 6018,
+      "NumberOfAwardsMax": 3548
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6017,
+  "NumberOfAwards": 6018,
   "NumberOfAwardsMax": 3548,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4844,7 +4850,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 119
+      "Count": 120
     }
   ],
   "EOS_Progressed": 0,
@@ -4858,8 +4864,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2023-09-20T14:58:25.5706176+00:00",
+  "LastChanged": "2023-09-20T15:58:08.3046977+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:01.4470074+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:58:25.5706182+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:09:22.9693138+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:58:08.3046984+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:08:08.6336639+00:00"
 }

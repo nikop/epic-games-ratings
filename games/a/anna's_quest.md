@@ -9,12 +9,13 @@
 | Ooh, it's shiny! | 65.00% | ~28 |
 | My lost nightingale | 58.00% | ~25 |
 | Through the woods | 56.00% | ~24 |
-| Back to the anvil | 47.00% | ~20 |
+| Back to the anvil | 49.00% | ~21 |
 | Fussy eater | 44.00% | ~19 |
 | So soothing... | 44.00% | ~19 |
 | Roostwig has entered the building | 44.00% | ~19 |
 | Mystery solved | 42.00% | ~18 |
 | Honey, honey, honey… | 42.00% | ~18 |
+| Far away from home | 42.00% | ~18 |
 | Little genius | 42.00% | ~18 |
 | Kekekeke... | 42.00% | ~18 |
 | NOW GO AWAY! | 42.00% | ~18 |
@@ -22,7 +23,6 @@
 | Game Over! | 40.00% | ~17 |
 | Show me your true self | 40.00% | ~17 |
 | A very special drink | 40.00% | ~17 |
-| Far away from home | 40.00% | ~17 |
 | GG | 37.00% | ~16 |
 | No posters allowed | 37.00% | ~16 |
 | You've got mail! | 35.00% | ~15 |

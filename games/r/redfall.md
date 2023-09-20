@@ -8,23 +8,23 @@ Rating: 3.52 (Ranked 990)
 | I Like My Stakes Rare! | 1.00% | ~17 |
 | Blood Will Have Blood | 0.90% | ~16 |
 | Ne Plus Ultra | 0.90% | ~16 |
+| Fly Fisher | 0.80% | ~14 |
 | Grounded | 0.70% | ~12 |
-| Fly Fisher | 0.70% | ~12 |
 | Peek-a-boo | 0.70% | ~12 |
 | ICU | 0.70% | ~12 |
 | Sucks To Be You | 0.70% | ~12 |
+| Catch and Release | 0.70% | ~12 |
 | Enter of Your Own Free Will | 0.60% | ~10 |
 | Welcome to the Neighborhood | 0.60% | ~10 |
 | Throw The First Stone | 0.60% | ~10 |
 | Wounded Whispers | 0.60% | ~10 |
-| Catch and Release | 0.60% | ~10 |
 | Heart Attack | 0.60% | ~10 |
+| Skin of Their Teeth | 0.60% | ~10 |
 | Neighborhood Revitalization | 0.50% | ~9 |
 | Home Is Where the Heart Is | 0.50% | ~9 |
 | Radio Silence | 0.50% | ~9 |
-| Skin of Their Teeth | 0.50% | ~9 |
+| Bad Wiring | 0.40% | ~7 |
 | Right This Way | 0.40% | ~7 |
-| Bad Wiring | 0.30% | ~5 |
 | Sic Transit Umbra | 0.30% | ~5 |
 | Good Morning | 0.30% | ~5 |
 | You Clean It Up | 0.30% | ~5 |

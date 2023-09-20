@@ -4,8 +4,8 @@
   "ProductSlug": "avoid-it-df26e8",
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-23T11:00:00+00:00",
     "PcReleaseDate": "2023-03-24T01:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-29T09:57:08.909754+00:00",
   "LastUpdate_AppInfo": "2023-09-19T02:13:54.2346535+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:58:36.7429047+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:04:05.1364187+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:58:17.0612888+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:03:45.4851372+00:00"
 }

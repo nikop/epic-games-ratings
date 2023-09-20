@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18069,
+  "EOS_Progressed": 18070,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10456,6 +10456,11 @@
       "Time": "2023-09-20T15:05:12.8388986+00:00",
       "NumProgressed": 18069,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T16:04:34.313988+00:00",
+      "NumProgressed": 18070,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10475,7 +10480,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "0003",
@@ -10523,7 +10528,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3252
+      "UsersEstimate": 3253
     },
     {
       "ID": "0009",
@@ -10699,7 +10704,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3252
+      "UsersEstimate": 3253
     },
     {
       "ID": "0031",
@@ -10754,7 +10759,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18069,
+      "Progressed": 18070,
       "Completed": 3
     }
   ],
@@ -10762,8 +10767,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:05:12.8388815+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:04:34.3139876+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:02:42.4525406+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:05:12.8389965+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:01:35.2967466+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:04:34.3140695+00:00"
 }

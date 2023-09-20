@@ -10,8 +10,8 @@ Rating: 4.56 (Ranked 468)
 | Mainframe Hacker | 22.00% | ~3,975 |
 | Tomorrow Never Dyes | 22.00% | ~3,975 |
 | Never Say Loser Again | 19.00% | ~3,433 |
-| From the Vault with Love | 18.00% | ~3,252 |
-| For your Eyes only | 18.00% | ~3,252 |
+| From the Vault with Love | 18.00% | ~3,253 |
+| For your Eyes only | 18.00% | ~3,253 |
 | Assistant Accountant | 17.00% | ~3,072 |
 | Tailor-Made | 17.00% | ~3,072 |
 | You Only Live Twice | 16.00% | ~2,891 |
@@ -27,7 +27,7 @@ Rating: 4.56 (Ranked 468)
 | Dr. No Kill | 10.00% | ~1,807 |
 | In It to Win It | 9.00% | ~1,626 |
 | Security Supervisor | 6.00% | ~1,084 |
-| License to Thrill | 5.00% | ~903 |
+| License to Thrill | 5.00% | ~904 |
 | Social of Solace | 3.00% | ~542 |
 | Live and let lie | 3.00% | ~542 |
 | Safe Withdrawal | 3.00% | ~542 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 468)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,069 (Ranked 119)  
+Progressed: 18,070 (Ranked 119)  
 Completed: 3 (0.02%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 3 (0.02%) (Ranked 256)
 | 2023-09-17 | 18,043 | 3 |
 | 2023-09-18 | 18,056 | 3 |
 | 2023-09-19 | 18,065 | 3 |
-| 2023-09-20 | 18,069 | 3 |
+| 2023-09-20 | 18,070 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,662 |
-| Git Gutte! | 2.00% | ~13,662 |
-| Bookworm | 2.00% | ~13,662 |
-| Break A Leg | 2.00% | ~13,662 |
-| But Doctor, I am Butcho | 2.00% | ~13,662 |
-| Can't Handle the Truth | 2.00% | ~13,662 |
-| Coup de Grâce | 2.00% | ~13,662 |
-| Like Riding a Bike | 2.00% | ~13,662 |
-| Hazardous Materials | 2.00% | ~13,662 |
-| Friends Like These | 2.00% | ~13,662 |
-| Hotel California | 2.00% | ~13,662 |
-| Apex Predator | 2.00% | ~13,662 |
-| Stacking the Deck | 2.00% | ~13,662 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,662 |
-| This is My Weapon | 2.00% | ~13,662 |
-| Welcome To Hell-A | 2.00% | ~13,662 |
+| Dr. Reed, I Presume? | 2.00% | ~13,663 |
+| Git Gutte! | 2.00% | ~13,663 |
+| Bookworm | 2.00% | ~13,663 |
+| Break A Leg | 2.00% | ~13,663 |
+| But Doctor, I am Butcho | 2.00% | ~13,663 |
+| Can't Handle the Truth | 2.00% | ~13,663 |
+| Coup de Grâce | 2.00% | ~13,663 |
+| Like Riding a Bike | 2.00% | ~13,663 |
+| Hazardous Materials | 2.00% | ~13,663 |
+| Friends Like These | 2.00% | ~13,663 |
+| Hotel California | 2.00% | ~13,663 |
+| Apex Predator | 2.00% | ~13,663 |
+| Stacking the Deck | 2.00% | ~13,663 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,663 |
+| This is My Weapon | 2.00% | ~13,663 |
+| Welcome To Hell-A | 2.00% | ~13,663 |
 | Making Your Mark | 1.00% | ~6,831 |
 | Anger Management | 1.00% | ~6,831 |
 | Perks of the Job | 1.00% | ~6,831 |
@@ -40,9 +40,9 @@ Rating: 4.54 (Ranked 502)
 | Jumbo Keyring | 0.60% | ~4,099 |
 | Not Even My Final Form | 0.50% | ~3,416 |
 | Internet Famous | 0.50% | ~3,416 |
-| Make it So | 0.40% | ~2,732 |
-| On Safari | 0.40% | ~2,732 |
-| Variety is the Spice of Death | 0.40% | ~2,732 |
+| Make it So | 0.40% | ~2,733 |
+| On Safari | 0.40% | ~2,733 |
+| Variety is the Spice of Death | 0.40% | ~2,733 |
 | LA Influential | 0.30% | ~2,049 |
 | Gore Horse | 0.30% | ~2,049 |
 | Sharpest Tool in the Box | 0.30% | ~2,049 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,100 (Ranked 22)  
+Progressed: 683,139 (Ranked 22)  
 Completed: 2,155 (0.32%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2,155 (0.32%) (Ranked 179)
 | 2023-09-17 | 681,855 | 2,150 |
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
-| 2023-09-20 | 683,100 | 2,155 |
+| 2023-09-20 | 683,139 | 2,155 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,090 (Ranked 93)  

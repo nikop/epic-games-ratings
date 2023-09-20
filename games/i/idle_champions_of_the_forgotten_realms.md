@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~688 |
 | The Contagious Curse | 0.30% | ~688 |
 | Escort to Waterdeep | 0.30% | ~688 |
+| Waterdeep Detours | 0.30% | ~688 |
 | Pure Energy | 0.30% | ~688 |
 | Legends and Lore | 0.30% | ~587 |
 | Pros and CONs | 0.20% | ~459 |
@@ -90,6 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~459 |
 | The Death Curse | 0.20% | ~459 |
 | Treasure Hunters | 0.20% | ~459 |
+| The Guardian of Orolunga | 0.20% | ~459 |
 | Flies on the Wall | 0.20% | ~459 |
 | Backtracking Through Barovia | 0.20% | ~459 |
 | Nimble Escape | 0.20% | ~459 |
@@ -123,7 +125,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~459 |
 | Constant Banditry | 0.20% | ~459 |
 | The Long Haul | 0.20% | ~459 |
-| Waterdeep Detours | 0.20% | ~459 |
 | Lost in the Deep | 0.20% | ~459 |
 | Easily Distracted | 0.20% | ~459 |
 | Rude Welcome | 0.20% | ~459 |
@@ -286,7 +287,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~229 |
 | Our Time To Shine | 0.10% | ~229 |
 | Review by the Blackstaff | 0.10% | ~196 |
-| The Guardian of Orolunga | 0.10% | ~229 |
 | Think Your Way Out Of It | 0.10% | ~229 |
 | Air's Getting Pretty Thin | 0.10% | ~229 |
 | Red Wizard 'Escort' | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,463 (Ranked 57)  
+Progressed: 229,468 (Ranked 57)  
 Completed: 2,296 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -680,7 +680,7 @@ Completed: 2,296 (1.00%) (Ranked 126)
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
-| 2023-09-20 | 229,463 | 2,296 |
+| 2023-09-20 | 229,468 | 2,296 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,659 (Ranked 39)  

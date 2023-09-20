@@ -21,9 +21,9 @@ Rating: 4.38 (Ranked 731)
 | No need to call anyone | 39.00% | ~397 |
 | Big fortune | 32.00% | ~325 |
 | Still more work ahead | 29.00% | ~295 |
+| Aesop's fable | 27.00% | ~275 |
 | Hotel sleuthing | 27.00% | ~275 |
 | Kaboom | 26.00% | ~264 |
-| Aesop's fable | 26.00% | ~264 |
 | Nearly there | 25.00% | ~254 |
 | Broken heart | 23.00% | ~234 |
 | Island boy | 21.00% | ~214 |

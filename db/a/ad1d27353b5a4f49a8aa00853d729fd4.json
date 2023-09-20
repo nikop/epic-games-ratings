@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -276,9 +276,9 @@
       "ID": "destroy_heavy_cruiser",
       "SetID": "94981fl",
       "Name": "heavy cruiser",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "destroy_heavy_destroyer",
@@ -356,9 +356,9 @@
       "ID": "missile",
       "SetID": "94981fl",
       "Name": "missile",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "no_scratches",
@@ -380,9 +380,9 @@
       "ID": "resistance",
       "SetID": "94981fl",
       "Name": "resistance",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "shield",
@@ -460,9 +460,9 @@
       "ID": "ultra_combo_20x",
       "SetID": "94981fl",
       "Name": "ultra_combo",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ultra_killing_machine",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:05:19.5004633+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:04:40.1138983+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.9397468+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:58:40.5891564+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:05:19.5004894+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:58:19.1363481+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:04:40.1139203+00:00"
 }

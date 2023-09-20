@@ -35,8 +35,8 @@
 | My Work Here Is Done | 2.00% | ~20 |
 | I'll Be the Best! | 1.00% | ~10 |
 | Back in Blighty | 1.00% | ~10 |
+| Exhausted but Happy | 1.00% | ~10 |
 | Overtaking the Master | 1.00% | ~10 |
-| Exhausted but Happy | 0.90% | ~9 |
 | I Don't Stop | 0.70% | ~7 |
 | Next Level | 0.60% | ~6 |
 | In Search of Perfection | 0.40% | ~4 |

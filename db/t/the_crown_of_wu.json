@@ -4,8 +4,8 @@
   "ProductSlug": "the-crown-of-wu-d997a6",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-10T22:00:00+00:00",
     "PcReleaseDate": "2023-10-10T22:00:00+00:00",
@@ -345,8 +345,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:36.9444229+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:07:59.288259+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:06:57.4170229+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:15.2633639+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:00:13.5722167+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:07:59.2882896+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:59:35.8683256+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:06:57.4170512+00:00"
 }

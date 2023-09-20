@@ -5,22 +5,22 @@ Rating: 4.41 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,336 |
+| First Blood | 92.00% | ~1,337 |
 | Ranidaphobia | 78.00% | ~1,133 |
-| Aspiring Editor | 75.00% | ~1,089 |
-| Gun for Hire | 70.00% | ~1,016 |
-| I am the law! | 64.00% | ~929 |
+| Aspiring Editor | 75.00% | ~1,090 |
+| Gun for Hire | 70.00% | ~1,017 |
+| I am the law! | 64.00% | ~930 |
 | Lumberjack | 53.00% | ~770 |
 | Croaked | 48.00% | ~697 |
 | Limp Richard | 48.00% | ~697 |
-| Exorcist | 47.00% | ~682 |
-| From Darkness to Light | 47.00% | ~682 |
+| Exorcist | 47.00% | ~683 |
+| From Darkness to Light | 47.00% | ~683 |
 | Editor Adept | 46.00% | ~668 |
-| Giant Killer | 45.00% | ~653 |
-| Sensei | 43.00% | ~624 |
+| Giant Killer | 45.00% | ~654 |
+| Sensei | 43.00% | ~625 |
 | Firestarter | 42.00% | ~610 |
-| The meaning of Kain | 41.00% | ~595 |
-| Technophobe | 39.00% | ~566 |
+| The meaning of Kain | 41.00% | ~596 |
+| Technophobe | 39.00% | ~567 |
 | Recycler | 38.00% | ~552 |
 | Are you not entertained? | 34.00% | ~494 |
 | Ganglord | 34.00% | ~494 |
@@ -32,8 +32,8 @@ Rating: 4.41 (Ranked 691)
 | Endgame | 26.00% | ~378 |
 | Savior | 26.00% | ~378 |
 | There Can Be Only One! | 25.00% | ~363 |
-| Chain Killer | 22.00% | ~319 |
-| Silent but Violent | 22.00% | ~319 |
+| Chain Killer | 22.00% | ~320 |
+| Silent but Violent | 22.00% | ~320 |
 | The Watchers | 21.00% | ~305 |
 | Commando | 16.00% | ~232 |
 | Dr Jones | 16.00% | ~232 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 691)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,452 (Ranked 201)  
+Progressed: 1,453 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 279)
 | 2023-09-17 | 1,441 | 0 |
 | 2023-09-18 | 1,445 | 0 |
 | 2023-09-19 | 1,451 | 0 |
-| 2023-09-20 | 1,452 | 0 |
+| 2023-09-20 | 1,453 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

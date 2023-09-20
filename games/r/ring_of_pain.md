@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,847 |
-| Uncharted Territory | 89.00% | ~210,306 |
-| Getting A Glimpse | 73.00% | ~172,498 |
-| A Quick Escape | 65.00% | ~153,594 |
-| Explorer | 62.00% | ~146,505 |
-| Defeat The Dark | 61.00% | ~144,142 |
-| An Offering | 61.00% | ~144,142 |
-| Colorful Corpse | 58.00% | ~137,053 |
-| That Was Quick | 57.00% | ~134,690 |
-| A Donation | 57.00% | ~134,690 |
-| Goodbye, Frog Friend | 54.00% | ~127,601 |
-| Heavy Hitter | 53.00% | ~125,238 |
+| First Steps | 96.00% | ~226,848 |
+| Uncharted Territory | 89.00% | ~210,307 |
+| Getting A Glimpse | 73.00% | ~172,499 |
+| A Quick Escape | 65.00% | ~153,595 |
+| Explorer | 62.00% | ~146,506 |
+| Defeat The Dark | 61.00% | ~144,143 |
+| An Offering | 61.00% | ~144,143 |
+| Colorful Corpse | 58.00% | ~137,054 |
+| That Was Quick | 57.00% | ~134,691 |
+| A Donation | 57.00% | ~134,691 |
+| Goodbye, Frog Friend | 54.00% | ~127,602 |
+| Heavy Hitter | 53.00% | ~125,239 |
 | Heartless | 46.00% | ~108,698 |
 | Spine Breaker | 46.00% | ~108,698 |
 | Deflection | 45.00% | ~106,335 |
@@ -125,11 +125,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Ignoring Midgame | 0.70% | ~1,654 |
 | Only The Best | 0.60% | ~1,418 |
 | Nudie Run | 0.60% | ~1,418 |
-| Never Too Many Hats | 0.50% | ~1,181 |
-| Down Under | 0.50% | ~1,181 |
+| Never Too Many Hats | 0.50% | ~1,182 |
+| Down Under | 0.50% | ~1,182 |
 | Near Death Experience | 0.30% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,299 (Ranked 53)  
+Progressed: 236,300 (Ranked 53)  
 Completed: 273 (0.12%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 273 (0.12%) (Ranked 216)
 | 2023-09-17 | 236,162 | 271 |
 | 2023-09-18 | 236,221 | 273 |
 | 2023-09-19 | 236,272 | 273 |
-| 2023-09-20 | 236,299 | 273 |
+| 2023-09-20 | 236,300 | 273 |
 ## Awards
 Max (Quickly Understood Controls): 1,493  (Ranked 125)  
 Sum: 11,562 (Ranked 80)  

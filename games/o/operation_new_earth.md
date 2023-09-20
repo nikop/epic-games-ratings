@@ -18,9 +18,9 @@
 | Stocking Up | 8.00% | ~109 |
 | Infantry Reporting | 8.00% | ~109 |
 | Silver Competitor | 7.00% | ~95 |
+| Captain | 7.00% | ~95 |
 | Factory Expansion | 7.00% | ~95 |
 | Exterminator | 6.00% | ~82 |
-| Captain | 6.00% | ~82 |
 | Brothers in Arms | 5.00% | ~68 |
 | Know The Enemy | 4.00% | ~55 |
 | Player Betrayer | 4.00% | ~55 |

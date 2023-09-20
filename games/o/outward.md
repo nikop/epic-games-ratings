@@ -7,7 +7,7 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,564 |
-| Ready for Winter | 64.00% | ~2,188 |
+| Ready for Winter | 65.00% | ~2,222 |
 | Ready for Summer | 52.00% | ~1,778 |
 | Cordon Bleu | 44.00% | ~1,504 |
 | Tapped! | 37.00% | ~1,265 |

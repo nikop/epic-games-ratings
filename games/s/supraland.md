@@ -6,19 +6,19 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~719,055 |
-| The Blues | 85.00% | ~617,370 |
-| Fast | 66.00% | ~479,370 |
+| Out of bed | 99.00% | ~719,056 |
+| The Blues | 85.00% | ~617,371 |
+| Fast | 66.00% | ~479,371 |
 | Healthbar | 55.00% | ~399,475 |
 | Force Cube | 53.00% | ~384,949 |
 | Double Jump | 48.00% | ~348,633 |
-| Regeneration | 47.00% | ~341,369 |
+| Regeneration | 47.00% | ~341,370 |
 | Triple Jump | 43.00% | ~312,317 |
 | Climb the hill | 42.00% | ~305,054 |
 | Through the fire pipe | 39.00% | ~283,264 |
 | MacGuffin | 38.00% | ~276,001 |
 | Just once | 37.00% | ~268,738 |
-| Armor | 30.00% | ~217,895 |
+| Armor | 30.00% | ~217,896 |
 | True holy spirit | 28.00% | ~203,369 |
 | That's how electronics work obviously | 27.00% | ~196,106 |
 | Force Cube Catapult | 25.00% | ~181,580 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~726 |
 | DLC: Top of the world | 0.10% | ~726 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,318 (Ranked 19)  
+Progressed: 726,319 (Ranked 19)  
 Completed: 736 (0.10%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 736 (0.10%) (Ranked 225)
 | 2023-09-17 | 726,075 | 735 |
 | 2023-09-18 | 726,173 | 735 |
 | 2023-09-19 | 726,267 | 735 |
-| 2023-09-20 | 726,318 | 736 |
+| 2023-09-20 | 726,319 | 736 |
 ## Awards
 Max (Challenging Puzzles): 7,688  (Ranked 46)  
 Sum: 10,021 (Ranked 87)  

@@ -5,21 +5,21 @@ Rating: 4.60 (Ranked 396)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 28.00% | ~247 |
+| Time Heals All Wounds | 29.00% | ~256 |
 | The Mysterious Stranger | 23.00% | ~203 |
 | Rail Rat | 23.00% | ~203 |
 | Make Up For Lost Time | 20.00% | ~176 |
 | The Prince in Heels | 20.00% | ~176 |
 | Immaculate Aim | 20.00% | ~176 |
 | The Brass Boss | 20.00% | ~176 |
-| The Steel Shadow | 19.00% | ~167 |
-| Time Flies | 19.00% | ~167 |
-| The Harder They Fall | 19.00% | ~167 |
-| No, Thanks! | 19.00% | ~167 |
-| Breaking Down Barriers | 19.00% | ~167 |
-| Honest Mistake | 19.00% | ~167 |
-| Fast Learner | 19.00% | ~167 |
-| Immaculate Aim | 19.00% | ~167 |
+| The Steel Shadow | 19.00% | ~168 |
+| Time Flies | 19.00% | ~168 |
+| The Harder They Fall | 19.00% | ~168 |
+| No, Thanks! | 19.00% | ~168 |
+| Breaking Down Barriers | 19.00% | ~168 |
+| Honest Mistake | 19.00% | ~168 |
+| Fast Learner | 19.00% | ~168 |
+| Immaculate Aim | 19.00% | ~168 |
 | The Wicked Twins | 18.00% | ~159 |
 | Like Clockwork | 17.00% | ~150 |
 | The Betrayer | 17.00% | ~150 |
@@ -42,8 +42,8 @@ Rating: 4.60 (Ranked 396)
 | Ask Questions Later | 10.00% | ~88 |
 | Factorywood Explorer | 9.00% | ~79 |
 | Fairgrounds Explorer | 9.00% | ~79 |
-| Cultivair Explorer | 8.00% | ~70 |
-| Entresol Explorer | 8.00% | ~70 |
+| Cultivair Explorer | 8.00% | ~71 |
+| Entresol Explorer | 8.00% | ~71 |
 | Corin Goes Home | 7.00% | ~62 |
 | Sartorialist | 7.00% | ~62 |
 | Golem Hunter | 6.00% | ~53 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 396)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881 (Ranked 222)  
+Progressed: 882 (Ranked 222)  
 Completed: 5 (0.57%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 5 (0.57%) (Ranked 151)
 | 2023-09-17 | 874 | 5 |
 | 2023-09-18 | 876 | 5 |
 | 2023-09-19 | 879 | 5 |
-| 2023-09-20 | 881 | 5 |
+| 2023-09-20 | 882 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

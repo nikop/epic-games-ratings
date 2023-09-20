@@ -7,40 +7,40 @@ Rating: 4.54 (Ranked 502)
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~4,669 |
 | Greasy Palms | 42.00% | ~4,263 |
-| South American Connection | 25.00% | ~2,537 |
+| South American Connection | 25.00% | ~2,538 |
 | Life of the Party | 20.00% | ~2,030 |
-| Big Heat from Little Havana | 15.00% | ~1,522 |
-| Chauffeur | 15.00% | ~1,522 |
-| Tommy Two-Wheels | 15.00% | ~1,522 |
-| Salutations My Little Friend | 11.00% | ~1,116 |
+| Big Heat from Little Havana | 15.00% | ~1,523 |
+| Chauffeur | 15.00% | ~1,523 |
+| Tommy Two-Wheels | 15.00% | ~1,523 |
+| Salutations My Little Friend | 11.00% | ~1,117 |
 | Iron-y | 10.00% | ~1,015 |
-| Gun for Hire | 9.00% | ~913 |
-| Mischief Managed | 9.00% | ~913 |
-| Vice City Mogul | 7.00% | ~710 |
+| Gun for Hire | 9.00% | ~914 |
+| Mischief Managed | 9.00% | ~914 |
+| Vice City Mogul | 7.00% | ~711 |
 | Catch Me if You Can | 6.00% | ~609 |
 | Bloodstained Hands | 6.00% | ~609 |
-| Not my First Time | 5.00% | ~507 |
-| Grand Theft Auto | 5.00% | ~507 |
+| Not my First Time | 5.00% | ~508 |
+| Grand Theft Auto | 5.00% | ~508 |
 | Pie Guy | 4.00% | ~406 |
-| Running Rampant | 3.00% | ~304 |
-| Point A to Point B | 3.00% | ~304 |
-| High Quality H2O | 3.00% | ~304 |
-| Bull in a China Shop | 3.00% | ~304 |
-| Somebody Call the Wambulance? | 3.00% | ~304 |
-| Just Like the Real Thing | 3.00% | ~304 |
-| Don't Need Roads | 3.00% | ~304 |
+| Running Rampant | 3.00% | ~305 |
+| Point A to Point B | 3.00% | ~305 |
+| High Quality H2O | 3.00% | ~305 |
+| Bull in a China Shop | 3.00% | ~305 |
+| Somebody Call the Wambulance? | 3.00% | ~305 |
+| Just Like the Real Thing | 3.00% | ~305 |
+| Don't Need Roads | 3.00% | ~305 |
 | One is Better Than Two | 2.00% | ~203 |
 | Take the Cannoli | 2.00% | ~203 |
 | Chopper’d Up | 2.00% | ~203 |
 | City Sleuth | 2.00% | ~203 |
-| Born in the 80’s | 1.00% | ~101 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~101 |
-| I'm Famous! | 1.00% | ~101 |
-| Daredevil | 1.00% | ~101 |
+| Born in the 80’s | 1.00% | ~102 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~102 |
+| I'm Famous! | 1.00% | ~102 |
+| Daredevil | 1.00% | ~102 |
 | Done it All | 0.90% | ~91 |
 | Kingpin | 0.60% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,149 (Ranked 133)  
+Progressed: 10,151 (Ranked 133)  
 Completed: 56 (0.55%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 56 (0.55%) (Ranked 153)
 | 2023-09-17 | 10,065 | 56 |
 | 2023-09-18 | 10,102 | 56 |
 | 2023-09-19 | 10,134 | 56 |
-| 2023-09-20 | 10,149 | 56 |
+| 2023-09-20 | 10,151 | 56 |
 ## Awards
 Max (Great Boss Battles): 75  (Ranked 374)  
 Sum: 75 (Ranked 437)  

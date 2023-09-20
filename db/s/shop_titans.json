@@ -6142,9 +6142,9 @@
       "Count": 3745
     }
   ],
-  "EOS_Progressed": 136439,
+  "EOS_Progressed": 136443,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21867,6 +21867,11 @@
       "Time": "2023-09-20T15:04:48.3575671+00:00",
       "NumProgressed": 136439,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-20T16:04:23.1591108+00:00",
+      "NumProgressed": 136443,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22180,9 +22185,9 @@
       "ID": "damage01",
       "SetID": "anfd17p",
       "Name": "Where it Hurts",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1228
     },
     {
       "ID": "damage02",
@@ -22773,15 +22778,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136439,
+      "Progressed": 136443,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-19T17:58:38.5337428+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:04:48.3575662+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:04:23.1591104+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:00:29.8177116+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:04:48.357802+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:59:49.3462415+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:04:23.1593372+00:00"
 }

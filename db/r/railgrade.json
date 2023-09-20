@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 3265,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -528,9 +528,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19356,
+  "EOS_Progressed": 19355,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": -106,
+  "EOS_NewPlayers": -107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6383,6 +6383,11 @@
       "Time": "2023-09-20T12:07:48.9709259+00:00",
       "NumProgressed": 19356,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-09-20T16:07:38.0749976+00:00",
+      "NumProgressed": 19355,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -6426,7 +6431,7 @@
       "Name": "Builder",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 16259
+      "UsersEstimate": 16258
     },
     {
       "ID": "ach.060.goingdistance",
@@ -6434,7 +6439,7 @@
       "Name": "Going the Distance",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 10646
+      "UsersEstimate": 10645
     },
     {
       "ID": "ach.070.8kenough",
@@ -6450,7 +6455,7 @@
       "Name": "Eraser",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 13743
+      "UsersEstimate": 13742
     },
     {
       "ID": "ach.090.perfectionist",
@@ -6466,7 +6471,7 @@
       "Name": "Indecisive",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5807
+      "UsersEstimate": 5806
     },
     {
       "ID": "ach.110.multiverse",
@@ -6490,7 +6495,7 @@
       "Name": "Minimalist",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17614
+      "UsersEstimate": 17613
     },
     {
       "ID": "ach.140.legacy",
@@ -6498,7 +6503,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 99,
       "XP": 60,
-      "UsersEstimate": 19162
+      "UsersEstimate": 19161
     },
     {
       "ID": "ach.150.pocket",
@@ -6506,7 +6511,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 12775
+      "UsersEstimate": 12774
     },
     {
       "ID": "ach.160.box",
@@ -6530,7 +6535,7 @@
       "Name": "Inspector",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 11614
+      "UsersEstimate": 11613
     },
     {
       "ID": "ach.190.scenic",
@@ -6538,7 +6543,7 @@
       "Name": "The scenic route",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5419
     },
     {
       "ID": "ach.200.light",
@@ -6586,7 +6591,7 @@
       "Name": "Before the Downfall",
       "Percentage": 94,
       "XP": 60,
-      "UsersEstimate": 18195
+      "UsersEstimate": 18194
     },
     {
       "ID": "ach.260.investor",
@@ -6650,7 +6655,7 @@
       "Name": "Money like Water",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 17808
+      "UsersEstimate": 17807
     },
     {
       "ID": "ach.340.steel",
@@ -6658,7 +6663,7 @@
       "Name": "Man of Steel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3290
     },
     {
       "ID": "ach.350.pipes",
@@ -6689,7 +6694,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19356,
+      "Progressed": 19355,
       "Completed": 37
     }
   ],
@@ -6697,8 +6702,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-18T05:59:29.7018066+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:08:47.4257301+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:07:38.0749972+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:40.7623275+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:02:37.7491974+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:08:47.4258194+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:01:31.313093+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:07:38.0750699+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1122,9 +1122,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5228,
+  "EOS_Progressed": 5230,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9982,6 +9982,11 @@
       "Time": "2023-09-20T15:06:56.9210623+00:00",
       "NumProgressed": 5228,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-20T16:06:04.4358941+00:00",
+      "NumProgressed": 5230,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10041,7 +10046,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -10049,7 +10054,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -10065,7 +10070,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -10089,7 +10094,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -10153,7 +10158,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10177,7 +10182,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -10249,7 +10254,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10265,7 +10270,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -10281,7 +10286,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -10289,7 +10294,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -10312,15 +10317,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5228,
+      "Progressed": 5230,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-18T15:00:11.2211125+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:06:56.9210615+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:06:04.4358936+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.3896086+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:58:05.4423766+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:06:56.9211934+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:57:52.9556577+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:06:04.4359815+00:00"
 }

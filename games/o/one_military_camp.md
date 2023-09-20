@@ -19,8 +19,8 @@
 | Fuel Tycoon | 8.00% | ~13 |
 | Ammo Tycoon | 8.00% | ~13 |
 | Jantine: the Misfortunes of Evil | 7.00% | ~12 |
+| Healing | 7.00% | ~12 |
 | Good payer | 7.00% | ~12 |
-| Healing | 6.00% | ~10 |
 | Overpopulation | 6.00% | ~10 |
 | Self-sufficient | 6.00% | ~10 |
 | Medicine Tycoon | 6.00% | ~10 |

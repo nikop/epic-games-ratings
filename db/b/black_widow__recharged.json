@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18186,
+  "EOS_Progressed": 18187,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
@@ -12617,6 +12617,11 @@
       "Time": "2023-09-20T15:06:31.4781476+00:00",
       "NumProgressed": 18186,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-20T16:05:42.5327673+00:00",
+      "NumProgressed": 18187,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12628,7 +12633,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14367
+      "UsersEstimate": 14368
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -12660,7 +12665,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3456
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -12716,7 +12721,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -12739,15 +12744,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18186,
+      "Progressed": 18187,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:06:31.4781466+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:05:42.5327668+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9412789+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:58:02.1729902+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:06:31.4783096+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:57:50.1514388+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:05:42.5328587+00:00"
 }

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 188,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -620,9 +620,9 @@
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -763,8 +763,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:06:54.6786297+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:06:02.5152526+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:01:41.6466925+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:06:54.6786528+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:00:43.6540535+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:06:02.5152736+00:00"
 }

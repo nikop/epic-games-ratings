@@ -3,9 +3,9 @@
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.53,
+  "EOS_Completed_Percentage": 1.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -531,6 +531,11 @@
       "Time": "2023-09-18T22:06:59.0101382+00:00",
       "NumProgressed": 262,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-20T16:03:35.9783215+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -582,7 +587,7 @@
       "Name": "Green Thumb",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_GROUSE_HEALED",
@@ -606,7 +611,7 @@
       "Name": "Found the Healer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -662,7 +667,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_SHARD_2",
@@ -718,14 +723,14 @@
       "Name": "Finished Iron Danger",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 4
     }
   ],
@@ -733,8 +738,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:03:44.3401857+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:03:35.9783207+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:47.2979676+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:02:48.9418327+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:03:44.3402119+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:01:40.9173599+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:03:35.9783422+00:00"
 }

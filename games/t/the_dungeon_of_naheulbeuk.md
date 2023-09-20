@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~69,890 |
+| Sowwy! | 31.00% | ~69,895 |
 | Alt+F4 | 5.00% | ~11,273 |
-| Déjà vu | 4.00% | ~9,018 |
-| Where's that freaking Dwarf? | 4.00% | ~9,018 |
+| Déjà vu | 4.00% | ~9,019 |
+| Where's that freaking Dwarf? | 4.00% | ~9,019 |
 | A beer, two curses, three companions | 3.00% | ~6,764 |
 | Sock! SOCK! | 3.00% | ~6,764 |
 | Speedrun | 3.00% | ~6,764 |
@@ -26,6 +26,7 @@ Number of Ratings: 118  (23.09.2022)
 | Urik's Depths | 1.00% | ~2,255 |
 | The Dungeon Master | 1.00% | ~2,255 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,255 |
+| Res Judicata | 1.00% | ~2,255 |
 | The Woman in the High Castle | 1.00% | ~2,255 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,255 |
 | A tale of adventurers not quite like the others... | 1.00% | ~2,255 |
@@ -37,7 +38,6 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,255 |
 | Team Building Exercise | 1.00% | ~2,255 |
 | Oh, when I'll be level 10... | 1.00% | ~2,255 |
-| Res Judicata | 0.90% | ~2,029 |
 | Dwarf Fortress | 0.90% | ~2,029 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,804 |
 | Dead for good | 0.70% | ~1,578 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~225 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,452 (Ranked 58)  
+Progressed: 225,467 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 3 (0.00%) (Ranked 279)
 | 2023-09-17 | 224,910 | 3 |
 | 2023-09-18 | 225,135 | 3 |
 | 2023-09-19 | 225,343 | 3 |
-| 2023-09-20 | 225,452 | 3 |
+| 2023-09-20 | 225,467 | 3 |
 ## Awards
 Max (Character Customization): 197  (Ranked 275)  
 Sum: 341 (Ranked 334)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -472,7 +472,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7926,
+  "EOS_Progressed": 7927,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
@@ -8712,6 +8712,11 @@
       "Time": "2023-09-20T15:04:16.0236095+00:00",
       "NumProgressed": 7926,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-20T16:03:55.1634093+00:00",
+      "NumProgressed": 7927,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8795,7 +8800,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "ACH11",
@@ -8827,7 +8832,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ACH15",
@@ -8954,7 +8959,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7926,
+      "Progressed": 7927,
       "Completed": 50
     }
   ],
@@ -8962,8 +8967,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-17T18:58:19.8654024+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:04:16.0236088+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:03:55.1634088+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-20T14:59:56.7921115+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:04:16.0236844+00:00"
+  "LastUpdate_Ratings": "2023-09-20T15:59:23.1745479+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:03:55.163477+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
@@ -2926,9 +2926,9 @@
       "Count": 193
     }
   ],
-  "EOS_Progressed": 726318,
+  "EOS_Progressed": 726319,
   "EOS_Completed": 736,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19951,6 +19951,11 @@
       "Time": "2023-09-20T15:06:52.4080612+00:00",
       "NumProgressed": 726318,
       "NumCompleted": 736
+    },
+    {
+      "Time": "2023-09-20T16:06:00.6621253+00:00",
+      "NumProgressed": 726319,
+      "NumCompleted": 736
     }
   ],
   "TotalAchievements": 98,
@@ -19994,7 +19999,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 217895
+      "UsersEstimate": 217896
     },
     {
       "ID": "BallShooter",
@@ -20330,7 +20335,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 341369
+      "UsersEstimate": 341370
     },
     {
       "ID": "HelpedAStar",
@@ -20474,7 +20479,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 719055
+      "UsersEstimate": 719056
     },
     {
       "ID": "PanicLights",
@@ -20594,7 +20599,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 479370
+      "UsersEstimate": 479371
     },
     {
       "ID": "Strong",
@@ -20634,7 +20639,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 617370
+      "UsersEstimate": 617371
     },
     {
       "ID": "ThroughPipe",
@@ -20745,15 +20750,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 726318,
+      "Progressed": 726319,
       "Completed": 736
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-09-20T12:00:13.2219589+00:00",
-  "LastChanged_Achievements": "2023-09-20T15:06:52.4080606+00:00",
+  "LastChanged_Achievements": "2023-09-20T16:06:00.6621249+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:38.1988323+00:00",
-  "LastUpdate_Ratings": "2023-09-20T15:00:52.9902079+00:00",
-  "LastUpdate_Achievements": "2023-09-20T15:06:52.4082913+00:00"
+  "LastUpdate_Ratings": "2023-09-20T16:00:08.511949+00:00",
+  "LastUpdate_Achievements": "2023-09-20T16:06:00.6624043+00:00"
 }
