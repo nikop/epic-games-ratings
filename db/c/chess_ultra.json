@@ -398,7 +398,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208109,
+  "EOS_Progressed": 208111,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1407,
   "EOS_NewCompleters": 0,
@@ -17493,6 +17493,11 @@
       "Time": "2023-09-20T05:06:02.6112406+00:00",
       "NumProgressed": 208109,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-20T06:06:47.1460126+00:00",
+      "NumProgressed": 208111,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -17504,7 +17509,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 97811
+      "UsersEstimate": 97812
     },
     {
       "ID": "AlekhinesGun",
@@ -17552,7 +17557,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 114460
+      "UsersEstimate": 114461
     },
     {
       "ID": "Checkmate",
@@ -17576,7 +17581,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 145676
+      "UsersEstimate": 145678
     },
     {
       "ID": "DoubleCheck",
@@ -17592,7 +17597,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 116541
+      "UsersEstimate": 116542
     },
     {
       "ID": "Elo",
@@ -17600,7 +17605,7 @@
       "Name": "ELO",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "EloElo",
@@ -17640,7 +17645,7 @@
       "Name": "Family Fork",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "FoolsMate",
@@ -17656,7 +17661,7 @@
       "Name": "Friendly Fire",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "Learner",
@@ -17672,7 +17677,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 49946
+      "UsersEstimate": 49947
     },
     {
       "ID": "O-O-O",
@@ -17807,7 +17812,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 208109,
+      "Progressed": 208111,
       "Completed": 2
     }
   ],
@@ -17815,8 +17820,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:06:02.6112398+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:06:47.146012+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:09.4209703+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:59:14.6818281+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:06:02.6113647+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:59:49.0935682+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:06:47.1461521+00:00"
 }

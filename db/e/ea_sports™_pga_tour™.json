@@ -180,9 +180,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_11",
@@ -236,9 +236,9 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_18",
@@ -308,9 +308,9 @@
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
@@ -322,8 +322,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:08:35.8130156+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:09:39.4719873+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.8902845+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:02:14.7947184+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:08:35.8130693+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:02:37.7095737+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:09:39.4720037+00:00"
 }

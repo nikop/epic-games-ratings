@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1566,6 +1566,11 @@
       "Time": "2023-09-20T00:03:08.7144964+00:00",
       "NumProgressed": 371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T06:03:19.1601673+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1584,9 +1589,9 @@
       "ID": "bitcoin_collector",
       "SetID": "5fi1i42",
       "Name": "Bitcoin Collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "build_your_world",
@@ -1640,9 +1645,9 @@
       "ID": "platformer_player",
       "SetID": "5fi1i42",
       "Name": "Platformer Master",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "play_worlds",
@@ -1704,9 +1709,9 @@
       "ID": "virtual_self",
       "SetID": "5fi1i42",
       "Name": "Your virtual self",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "visit_cleric",
@@ -1729,14 +1734,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:03:16.1575201+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:03:19.1601667+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:14.4117398+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:58:16.687678+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:03:16.1575504+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:58:41.209022+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:03:19.1601988+00:00"
 }

@@ -104,6 +104,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~459 |
 | The Darkness Runs Deeper | 0.20% | ~459 |
 | Difficult Terrain | 0.20% | ~459 |
+| Vault of Dragons | 0.20% | ~459 |
 | Running of the Saurs | 0.20% | ~459 |
 | Dinosaur Racing | 0.20% | ~459 |
 | Elturel Has Fallen | 0.20% | ~459 |
@@ -349,7 +350,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold & Wet | 0.10% | ~229 |
 | Madcap Adventures | 0.10% | ~229 |
 | Faerûn's Most Neglected | 0.10% | ~196 |
-| Vault of Dragons | 0.10% | ~229 |
 | Vault of Pixies | 0.10% | ~229 |
 | Vault of Poison | 0.10% | ~229 |
 | Vault of Cuteness | 0.10% | ~196 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,438 (Ranked 57)  
+Progressed: 229,440 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -680,7 +680,7 @@ Completed: 2,295 (1.00%) (Ranked 126)
 | 2023-09-17 | 229,225 | 2,291 |
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
-| 2023-09-20 | 229,438 | 2,295 |
+| 2023-09-20 | 229,440 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,292  (Ranked 67)  
 Sum: 31,652 (Ranked 39)  

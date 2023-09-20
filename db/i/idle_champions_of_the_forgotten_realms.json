@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6754,10 +6754,10 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229438,
+  "EOS_Progressed": 229440,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 851,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 850,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23679,6 +23679,11 @@
       "Time": "2023-09-20T05:03:40.089501+00:00",
       "NumProgressed": 229438,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-20T06:04:06.5018856+00:00",
+      "NumProgressed": 229440,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 520,
@@ -26112,9 +26117,9 @@
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_completed_581",
@@ -27849,21 +27854,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195712,
+      "Progressed": 195714,
       "Completed": 3438
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229438,
+      "Progressed": 229440,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-19T05:58:03.6984632+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:03:40.0895004+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:04:06.5018849+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:59:01.77463+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:03:40.0929728+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:59:34.8120858+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:04:06.5051227+00:00"
 }

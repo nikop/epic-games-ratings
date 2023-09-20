@@ -4,7 +4,7 @@
 Rating: 4.24 (Ranked 843)  
 ## Awards
 Max (Diverse Characters): 624  (Ranked 183)  
-Sum: 4,585 (Ranked 138)  
+Sum: 4,586 (Ranked 138)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 45
 | This game has Quickly Understood Controls | 540 |
 | This game is Extremely Fun | 524 |
 | This game has Amazing Characters | 522 |
-| This game has Challenging Combat | 472 |
+| This game has Challenging Combat | 473 |
 | This game has Amazing Storytelling | 414 |
 | This game has a Competitive Community | 368 |
 | This game has Great Boss Battles | 109 |
@@ -233,4 +233,4 @@ Diff (max vs sum): 45
 | 2023-09-17 | 4.24 | 618 | 4,551 |
 | 2023-09-18 | 4.23 | 623 | 4,573 |
 | 2023-09-19 | 4.24 | 624 | 4,584 |
-| 2023-09-20 | 4.24 | 624 | 4,585 |
+| 2023-09-20 | 4.24 | 624 | 4,586 |

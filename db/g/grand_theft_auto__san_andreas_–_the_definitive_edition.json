@@ -952,9 +952,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12575,
+  "EOS_Progressed": 12577,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10887,6 +10887,11 @@
       "Time": "2023-09-20T05:06:40.974637+00:00",
       "NumProgressed": 12575,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-20T06:07:30.3555329+00:00",
+      "NumProgressed": 12577,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10898,7 +10903,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10186
+      "UsersEstimate": 10187
     },
     {
       "ID": "ACH02",
@@ -10946,7 +10951,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "ACH08",
@@ -11034,7 +11039,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ACH19",
@@ -11066,7 +11071,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ACH23",
@@ -11122,7 +11127,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ACH30",
@@ -11177,7 +11182,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12575,
+      "Progressed": 12577,
       "Completed": 45
     }
   ],
@@ -11185,8 +11190,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-19T16:00:35.923303+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:06:40.9746364+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:07:30.3555323+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:00:48.8550478+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:06:40.9747611+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:01:35.3116957+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:07:30.3556732+00:00"
 }

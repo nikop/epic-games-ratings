@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 111,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
@@ -7860,7 +7860,7 @@
       "Count": 660
     }
   ],
-  "EOS_Progressed": 296981,
+  "EOS_Progressed": 296983,
   "EOS_Completed": 476,
   "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 6,
@@ -24395,6 +24395,11 @@
       "Time": "2023-09-20T05:05:39.140797+00:00",
       "NumProgressed": 296981,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-20T06:06:20.4198314+00:00",
+      "NumProgressed": 296983,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24406,7 +24411,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41577
+      "UsersEstimate": 41578
     },
     {
       "ID": "PFA_10",
@@ -24478,7 +24483,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23758
+      "UsersEstimate": 23759
     },
     {
       "ID": "PFA_19",
@@ -24710,7 +24715,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23758
+      "UsersEstimate": 23759
     },
     {
       "ID": "PFA_45",
@@ -24765,7 +24770,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296981,
+      "Progressed": 296983,
       "Completed": 476
     }
   ],
@@ -24773,8 +24778,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-20T02:58:09.5613608+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:05:39.1407963+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:06:20.4198289+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:58:24.2460751+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:05:39.1410196+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:58:49.9840838+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:06:20.4199795+00:00"
 }

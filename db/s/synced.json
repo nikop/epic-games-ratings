@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53660,
+  "EOS_Progressed": 53677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18197,
+  "EOS_NewPlayers": 18066,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1754,6 +1754,11 @@
       "Time": "2023-09-20T05:06:27.9425018+00:00",
       "NumProgressed": 53660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T06:07:15.6042132+00:00",
+      "NumProgressed": 53677,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1766,7 +1771,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "10",
@@ -1780,9 +1785,9 @@
       "ID": "11",
       "SetID": "2cfdi92",
       "Name": "Pulling Your Weight",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 161
     },
     {
       "ID": "12",
@@ -1804,9 +1809,9 @@
       "ID": "14",
       "SetID": "2cfdi92",
       "Name": "Nano Connoisseur",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 376
+      "UsersEstimate": 429
     },
     {
       "ID": "15",
@@ -1838,7 +1843,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "4",
@@ -1846,7 +1851,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "5",
@@ -1860,9 +1865,9 @@
       "ID": "6",
       "SetID": "2cfdi92",
       "Name": "In Two Places At Once",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 429
     },
     {
       "ID": "7",
@@ -1893,7 +1898,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 53660,
+      "Progressed": 53677,
       "Completed": 0
     }
   ],
@@ -1901,8 +1906,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-19T01:41:08.548779+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:06:27.9425012+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:07:15.6042127+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.1772616+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:59:09.3662847+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:06:27.9425235+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:59:43.07351+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:07:15.6042563+00:00"
 }

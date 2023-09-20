@@ -2110,10 +2110,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 3315,
       "NumberOfAwardsMax": 1651
+    },
+    {
+      "Time": "2023-09-20T05:57:23.685808+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 3316,
+      "NumberOfAwardsMax": 1651
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3315,
+  "NumberOfAwards": 3316,
   "NumberOfAwardsMax": 1651,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2127,7 +2133,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 173
+      "Count": 174
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2184,10 +2190,10 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 183713,
+  "EOS_Progressed": 183720,
   "EOS_Completed": 313,
-  "EOS_NewPlayers": 3895,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 3886,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -9374,6 +9380,11 @@
       "Time": "2023-09-20T05:05:43.4427221+00:00",
       "NumProgressed": 183713,
       "NumCompleted": 313
+    },
+    {
+      "Time": "2023-09-20T06:06:25.3484184+00:00",
+      "NumProgressed": 183720,
+      "NumCompleted": 313
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -9402,7 +9413,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -9450,7 +9461,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Defeat_Guardian",
@@ -9466,7 +9477,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14697
+      "UsersEstimate": 14698
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -9522,7 +9533,7 @@
       "Name": "The Agenda",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Meet_Custodian",
@@ -9554,7 +9565,7 @@
       "Name": "Tall Tales",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Meet_Nimue",
@@ -9570,7 +9581,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16534
+      "UsersEstimate": 16535
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -9602,7 +9613,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -9626,7 +9637,7 @@
       "Name": "Strapped",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Obtain_Guns_B",
@@ -9642,7 +9653,7 @@
       "Name": "Edgelord",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -9690,7 +9701,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14697
+      "UsersEstimate": 14698
     },
     {
       "ID": "Obtain_Traits_B",
@@ -9722,7 +9733,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -9754,7 +9765,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -9785,16 +9796,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 183713,
+      "Progressed": 183720,
       "Completed": 313
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-09-20T03:57:14.2098391+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:05:43.4427216+00:00",
+  "LastChanged": "2023-09-20T05:57:23.6858078+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:06:25.3484178+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.9152732+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:57:07.4335082+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:05:43.4428179+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:57:23.6858084+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:06:25.3485478+00:00"
 }

@@ -7326,9 +7326,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 801974,
+  "EOS_Progressed": 801977,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24286,6 +24286,11 @@
       "Time": "2023-09-20T05:03:52.8236349+00:00",
       "NumProgressed": 801974,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-20T06:04:20.2699354+00:00",
+      "NumProgressed": 801977,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 82,
@@ -24377,7 +24382,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256632
+      "UsersEstimate": 256633
     },
     {
       "ID": "Bookworm",
@@ -24385,7 +24390,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120296
+      "UsersEstimate": 120297
     },
     {
       "ID": "Buddy",
@@ -24401,7 +24406,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48118
+      "UsersEstimate": 48119
     },
     {
       "ID": "Cavalier",
@@ -24441,7 +24446,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "Conqueror",
@@ -24457,7 +24462,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80197
+      "UsersEstimate": 80198
     },
     {
       "ID": "DavidHorak",
@@ -24473,7 +24478,7 @@
       "Name": "Death by splinter",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "EdwardKelly",
@@ -24497,7 +24502,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184454
+      "UsersEstimate": 184455
     },
     {
       "ID": "Fighter",
@@ -24513,7 +24518,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120296
+      "UsersEstimate": 120297
     },
     {
       "ID": "Freud",
@@ -24633,7 +24638,7 @@
       "Name": "King Charming",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "KingdomDidNotCome",
@@ -24649,7 +24654,7 @@
       "Name": "Knightrider",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "LevelCap",
@@ -24657,7 +24662,7 @@
       "Name": "Level Cap",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "LikeGhost",
@@ -24689,7 +24694,7 @@
       "Name": "Arena Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "McLovin",
@@ -24793,7 +24798,7 @@
       "Name": "Robber Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "Runt",
@@ -24857,7 +24862,7 @@
       "Name": "Talmberger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "TheEnd",
@@ -24865,7 +24870,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "Thief",
@@ -24952,15 +24957,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 801974,
+      "Progressed": 801977,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-19T21:00:16.8651887+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:03:52.8236343+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:04:20.2699347+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:41.6954076+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:59:45.3858922+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:03:52.823859+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:00:24.3891866+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:04:20.2701901+00:00"
 }

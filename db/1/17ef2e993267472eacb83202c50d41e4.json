@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 6207,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2241,9 +2241,9 @@
       "ID": "HAUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Healing Amplifier to Level 3",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 124
     },
     {
       "ID": "HGPurchased1",
@@ -2640,8 +2640,8 @@
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:07:00.611378+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:07:52.8815585+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:57:31.7408743+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:07:00.6114604+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:57:52.0333321+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:07:52.8816509+00:00"
 }

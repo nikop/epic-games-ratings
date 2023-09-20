@@ -310,9 +310,9 @@
       "ID": "22",
       "SetID": "6ljhbe4",
       "Name": "Just One More Go",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "23",
@@ -407,8 +407,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:03:33.0209021+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:03:38.2534458+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.3029411+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:59:44.1433017+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:03:33.020924+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:00:22.8374913+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:03:38.2535013+00:00"
 }

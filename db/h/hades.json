@@ -4459,9 +4459,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 703800,
+  "EOS_Progressed": 703801,
   "EOS_Completed": 6360,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -20769,6 +20769,11 @@
       "Time": "2023-09-20T05:03:18.2012961+00:00",
       "NumProgressed": 703800,
       "NumCompleted": 6360
+    },
+    {
+      "Time": "2023-09-20T06:03:21.2420108+00:00",
+      "NumProgressed": 703801,
+      "NumCompleted": 6360
     }
   ],
   "TotalAchievements": 49,
@@ -20836,7 +20841,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 365976
+      "UsersEstimate": 365977
     },
     {
       "ID": "AchClearAsphodel",
@@ -20844,7 +20849,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 563040
+      "UsersEstimate": 563041
     },
     {
       "ID": "AchClearElysium",
@@ -20852,7 +20857,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 464508
+      "UsersEstimate": 464509
     },
     {
       "ID": "AchClearElysiumEM",
@@ -20884,7 +20889,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 626382
+      "UsersEstimate": 626383
     },
     {
       "ID": "AchCrushedThanatos",
@@ -20948,7 +20953,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 478584
+      "UsersEstimate": 478585
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -21004,7 +21009,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 443394
+      "UsersEstimate": 443395
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -21140,7 +21145,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 499698
+      "UsersEstimate": 499699
     },
     {
       "ID": "AchWeaponClears",
@@ -21171,15 +21176,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 703800,
+      "Progressed": 703801,
       "Completed": 6360
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-19T20:03:13.2412308+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:03:18.2012952+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:03:21.2420101+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:04.172662+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:03:08.1602022+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:03:18.2015008+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:03:10.1959508+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:03:21.2422676+00:00"
 }

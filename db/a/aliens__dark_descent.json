@@ -324,9 +324,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3321,
+  "EOS_Progressed": 3322,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4494,6 +4494,11 @@
       "Time": "2023-09-20T00:07:13.2238578+00:00",
       "NumProgressed": 3321,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T06:09:12.5138763+00:00",
+      "NumProgressed": 3322,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4535,9 +4540,9 @@
       "ID": "ACH_APC_RUN_OVER",
       "SetID": "816efe",
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1727
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -4617,7 +4622,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4625,7 +4630,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4649,7 +4654,7 @@
       "Name": "Hardened In The Heat Of Battle",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -4713,7 +4718,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4721,7 +4726,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4729,7 +4734,7 @@
       "Name": "Where It All Begun",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4745,7 +4750,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ACH_MISSION_08",
@@ -4785,7 +4790,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -4809,7 +4814,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4817,7 +4822,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4841,7 +4846,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -4864,7 +4869,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3321,
+      "Progressed": 3322,
       "Completed": 3
     }
   ],
@@ -4872,8 +4877,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:08:11.5444301+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:09:12.5138753+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:01:24.4780983+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:08:11.5452329+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:02:15.1008594+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:09:12.513951+00:00"
 }

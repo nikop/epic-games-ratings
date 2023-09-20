@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65830,
+  "EOS_Progressed": 65831,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15267,6 +15267,11 @@
       "Time": "2023-09-20T05:04:34.9885579+00:00",
       "NumProgressed": 65830,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T06:05:07.5004955+00:00",
+      "NumProgressed": 65831,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15278,7 +15283,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26990
+      "UsersEstimate": 26991
     },
     {
       "ID": "02",
@@ -15318,7 +15323,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11849
+      "UsersEstimate": 11850
     },
     {
       "ID": "07",
@@ -15342,7 +15347,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9874
+      "UsersEstimate": 9875
     },
     {
       "ID": "10",
@@ -15438,7 +15443,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9874
+      "UsersEstimate": 9875
     },
     {
       "ID": "22",
@@ -15502,7 +15507,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9874
+      "UsersEstimate": 9875
     },
     {
       "ID": "30",
@@ -15534,7 +15539,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9874
+      "UsersEstimate": 9875
     },
     {
       "ID": "34",
@@ -15550,7 +15555,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22382
+      "UsersEstimate": 22383
     },
     {
       "ID": "36",
@@ -15614,7 +15619,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11849
+      "UsersEstimate": 11850
     },
     {
       "ID": "44",
@@ -15813,21 +15818,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65830,
+      "Progressed": 65831,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29298,
+      "Progressed": 29299,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:04:34.9885574+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:05:07.5004946+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:58:44.4233453+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:04:34.9888061+00:00"
+  "LastUpdate_Ratings": "2023-09-20T05:59:12.3903844+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:05:07.5007096+00:00"
 }

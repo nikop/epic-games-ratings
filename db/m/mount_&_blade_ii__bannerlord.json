@@ -7195,10 +7195,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14506,
       "NumberOfAwardsMax": 7110
+    },
+    {
+      "Time": "2023-09-20T06:02:02.7755029+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14508,
+      "NumberOfAwardsMax": 7110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14506,
+  "NumberOfAwards": 14508,
   "NumberOfAwardsMax": 7110,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7266,7 +7272,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 586
+      "Count": 588
     },
     {
       "Text": "This game has Competitive Players",
@@ -7275,7 +7281,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61521,
+  "EOS_Progressed": 61523,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
@@ -23455,6 +23461,11 @@
       "Time": "2023-09-20T05:08:10.3525224+00:00",
       "NumProgressed": 61521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-20T06:09:11.1698472+00:00",
+      "NumProgressed": 61523,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23634,7 +23645,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9843
+      "UsersEstimate": 9844
     },
     {
       "ID": "I spit on your grave",
@@ -23674,7 +23685,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "Lance-a-lot",
@@ -23690,7 +23701,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20302
+      "UsersEstimate": 20303
     },
     {
       "ID": "Lawbringer",
@@ -23698,7 +23709,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23993
+      "UsersEstimate": 23994
     },
     {
       "ID": "Lawmaker",
@@ -23722,7 +23733,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "Minor Clan",
@@ -23873,15 +23884,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61521,
+      "Progressed": 61523,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-19T21:01:55.4614157+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:08:10.3525218+00:00",
+  "LastChanged": "2023-09-20T06:02:02.7755027+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:09:11.1698465+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:01:13.5578786+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:08:10.3526823+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:02:02.7755034+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:09:11.1700138+00:00"
 }

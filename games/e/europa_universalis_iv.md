@@ -10,10 +10,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 3.00% | ~12,260 |
 | That is mine! | 3.00% | ~12,260 |
 | Victorious! | 3.00% | ~12,260 |
-| Brothers in Arms | 2.00% | ~8,173 |
-| For the Glory | 2.00% | ~8,173 |
-| That's a Grand Navy | 2.00% | ~8,173 |
-| Seriously?! | 2.00% | ~8,173 |
+| Brothers in Arms | 2.00% | ~8,174 |
+| For the Glory | 2.00% | ~8,174 |
+| That's a Grand Navy | 2.00% | ~8,174 |
+| Seriously?! | 2.00% | ~8,174 |
 | Cold War | 1.00% | ~4,087 |
 | Defender of the Faith | 1.00% | ~4,087 |
 | It's all about the money | 1.00% | ~4,087 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408,667 (Ranked 40)  
+Progressed: 408,676 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 0 (0.00%) (Ranked 278)
 | 2023-09-17 | 406,888 | 0 |
 | 2023-09-18 | 407,728 | 0 |
 | 2023-09-19 | 408,554 | 0 |
-| 2023-09-20 | 408,667 | 0 |
+| 2023-09-20 | 408,676 | 0 |
 ## Awards
 Max (Educational): 6,170  (Ranked 56)  
 Sum: 50,667 (Ranked 26)  

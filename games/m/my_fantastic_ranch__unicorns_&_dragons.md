@@ -17,10 +17,10 @@
 | Gotta Adopt Them All! | 6.00% | ~2 |
 | Diamonds in the Rough | 6.00% | ~2 |
 | Dream Big | 6.00% | ~2 |
+| Just One More Go | 6.00% | ~2 |
 | Kindred Spirits | 6.00% | ~2 |
 | Protected Nature Reserve | 3.00% | ~1 |
 | Paving the Way | 3.00% | ~1 |
-| Just One More Go | 3.00% | ~1 |
 | Fully Booked! | 3.00% | ~1 |
 | Neverending Story | 3.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |

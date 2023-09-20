@@ -37,8 +37,8 @@
 | Back in Blighty | 1.00% | ~10 |
 | Exhausted but Happy | 0.90% | ~9 |
 | Overtaking the Master | 0.90% | ~9 |
+| I Don't Stop | 0.70% | ~7 |
 | Next Level | 0.60% | ~6 |
-| I Don't Stop | 0.60% | ~6 |
 | In Search of Perfection | 0.40% | ~4 |
 | Globe-trotter | 0.30% | ~3 |
 | Maximum Endurance | 0.20% | ~2 |

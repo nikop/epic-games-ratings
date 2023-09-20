@@ -1591,9 +1591,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 203216,
+  "EOS_Progressed": 203218,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1398,
+  "EOS_NewPlayers": 1397,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18786,6 +18786,11 @@
       "Time": "2023-09-20T05:08:39.2740994+00:00",
       "NumProgressed": 203216,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-09-20T06:09:43.3211343+00:00",
+      "NumProgressed": 203218,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 44,
@@ -18965,7 +18970,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "Okkoto",
@@ -19037,7 +19042,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "StonedOx",
@@ -19077,7 +19082,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "Thorough",
@@ -19148,15 +19153,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 203216,
+      "Progressed": 203218,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-19T17:59:24.6016304+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:08:39.2740987+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:09:43.3211335+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.289608+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:00:21.82489+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:08:39.2743614+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:01:06.2228305+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:09:43.321308+00:00"
 }

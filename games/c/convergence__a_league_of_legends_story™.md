@@ -5,9 +5,9 @@ Rating: 4.60 (Ranked 395)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 28.00% | ~246 |
-| The Mysterious Stranger | 23.00% | ~202 |
-| Rail Rat | 23.00% | ~202 |
+| Time Heals All Wounds | 28.00% | ~247 |
+| The Mysterious Stranger | 23.00% | ~203 |
+| Rail Rat | 23.00% | ~203 |
 | Make Up For Lost Time | 20.00% | ~176 |
 | The Prince in Heels | 20.00% | ~176 |
 | Immaculate Aim | 20.00% | ~176 |
@@ -20,11 +20,11 @@ Rating: 4.60 (Ranked 395)
 | Honest Mistake | 19.00% | ~167 |
 | Fast Learner | 19.00% | ~167 |
 | Immaculate Aim | 19.00% | ~167 |
-| The Wicked Twins | 18.00% | ~158 |
-| Golem Chaser | 18.00% | ~158 |
+| The Wicked Twins | 18.00% | ~159 |
 | Like Clockwork | 17.00% | ~150 |
 | The Betrayer | 17.00% | ~150 |
 | The Loose Cannon | 17.00% | ~150 |
+| Golem Chaser | 17.00% | ~150 |
 | Right On Time | 16.00% | ~141 |
 | The Man Who Shattered Time | 16.00% | ~141 |
 | Check Your Pulse | 16.00% | ~141 |
@@ -32,7 +32,7 @@ Rating: 4.60 (Ranked 395)
 | Street Style | 15.00% | ~132 |
 | Treasure Trove | 14.00% | ~123 |
 | Cartographer | 14.00% | ~123 |
-| Whiz Kid | 13.00% | ~114 |
+| Whiz Kid | 13.00% | ~115 |
 | Good Neighbor | 12.00% | ~106 |
 | Chaincrawler Explorer | 11.00% | ~97 |
 | Family Memories | 11.00% | ~97 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 880 (Ranked 222)  
+Progressed: 881 (Ranked 222)  
 Completed: 5 (0.57%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 5 (0.57%) (Ranked 150)
 | 2023-09-17 | 874 | 5 |
 | 2023-09-18 | 876 | 5 |
 | 2023-09-19 | 879 | 5 |
-| 2023-09-20 | 880 | 5 |
+| 2023-09-20 | 881 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

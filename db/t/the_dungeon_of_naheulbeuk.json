@@ -948,9 +948,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 225383,
+  "EOS_Progressed": 225386,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1778,
+  "EOS_NewPlayers": 1776,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11563,6 +11563,11 @@
       "Time": "2023-09-20T05:08:39.6160473+00:00",
       "NumProgressed": 225383,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-20T06:09:43.672644+00:00",
+      "NumProgressed": 225386,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11630,7 +11635,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6761
+      "UsersEstimate": 6762
     },
     {
       "ID": "Chapter3",
@@ -12006,7 +12011,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6761
+      "UsersEstimate": 6762
     },
     {
       "ID": "ElfEpic",
@@ -12022,7 +12027,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67615
+      "UsersEstimate": 67616
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12222,7 +12227,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6761
+      "UsersEstimate": 6762
     },
     {
       "ID": "SupportCount4",
@@ -12277,21 +12282,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225383,
+      "Progressed": 225386,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225383,
+      "Progressed": 225386,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-19T14:58:54.893282+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:08:39.6160468+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:09:43.6726434+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-20T04:59:38.6524841+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:08:39.6162387+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:00:17.0672441+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:09:43.6728899+00:00"
 }

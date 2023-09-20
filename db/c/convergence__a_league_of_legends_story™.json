@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 880,
+  "EOS_Progressed": 881,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2220,6 +2220,11 @@
       "Time": "2023-09-20T02:19:11.719366+00:00",
       "NumProgressed": 880,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-20T06:04:08.256428+00:00",
+      "NumProgressed": 881,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2351,7 +2356,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2383,7 +2388,7 @@
       "Name": "Whiz Kid",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "GrindingTime1",
@@ -2391,7 +2396,7 @@
       "Name": "Rail Rat",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "HexlockGift",
@@ -2503,7 +2508,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PidgeDefeated",
@@ -2519,7 +2524,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "RewindParry",
@@ -2541,9 +2546,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 150
     },
     {
       "ID": "SkillCompletion1",
@@ -2654,7 +2659,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 880,
+      "Progressed": 881,
       "Completed": 5
     }
   ],
@@ -2662,8 +2667,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-20T05:03:42.0769157+00:00",
+  "LastChanged_Achievements": "2023-09-20T06:04:08.2564273+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-20T05:01:02.1133508+00:00",
-  "LastUpdate_Achievements": "2023-09-20T05:03:42.0769784+00:00"
+  "LastUpdate_Ratings": "2023-09-20T06:01:50.262173+00:00",
+  "LastUpdate_Achievements": "2023-09-20T06:04:08.2564846+00:00"
 }
