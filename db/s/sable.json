@@ -6,9 +6,9 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -464,10 +464,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 90361,
-  "EOS_Completed": 906,
-  "EOS_NewPlayers": 1236,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 90363,
+  "EOS_Completed": 907,
+  "EOS_NewPlayers": 1230,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -17704,6 +17704,11 @@
       "Time": "2023-09-20T18:04:04.9624933+00:00",
       "NumProgressed": 90361,
       "NumCompleted": 906
+    },
+    {
+      "Time": "2023-09-20T19:03:46.1620755+00:00",
+      "NumProgressed": 90363,
+      "NumCompleted": 907
     }
   ],
   "TotalAchievements": 56,
@@ -17739,7 +17744,7 @@
       "Name": "The Quick and the Curious",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3614
+      "UsersEstimate": 3615
     },
     {
       "ID": "ach_004_complete_historical_reconnection",
@@ -17819,7 +17824,7 @@
       "Name": "Many Different Faces",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 8132
+      "UsersEstimate": 8133
     },
     {
       "ID": "ach_014_first_chum_egg",
@@ -17843,7 +17848,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15362
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -17851,7 +17856,7 @@
       "Name": "Trellick\u0027s Pillar",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8132
+      "UsersEstimate": 8133
     },
     {
       "ID": "ach_018_door_shadow_of_neave",
@@ -17875,7 +17880,7 @@
       "Name": "Centre Of Brunswick",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8132
+      "UsersEstimate": 8133
     },
     {
       "ID": "ach_021_door_balfron_connection",
@@ -17923,7 +17928,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 22590
+      "UsersEstimate": 22591
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -17995,7 +18000,7 @@
       "Name": "Bike Collector",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8132
+      "UsersEstimate": 8133
     },
     {
       "ID": "ach_036_collect_bike_parts_2",
@@ -18003,7 +18008,7 @@
       "Name": "Bike Aficionado",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3614
+      "UsersEstimate": 3615
     },
     {
       "ID": "ach_037_collect_badges_1",
@@ -18011,7 +18016,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15362
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -18019,7 +18024,7 @@
       "Name": "Badge Collector",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 10843
+      "UsersEstimate": 10844
     },
     {
       "ID": "ach_039_build_hoverbike",
@@ -18035,7 +18040,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 22590
+      "UsersEstimate": 22591
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -18091,7 +18096,7 @@
       "Name": "Dune Rider",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8132
+      "UsersEstimate": 8133
     },
     {
       "ID": "ach_048_glide_long_distance",
@@ -18107,7 +18112,7 @@
       "Name": "Not That Kind Of Gliding",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8132
+      "UsersEstimate": 8133
     },
     {
       "ID": "ach_050_collect_clothing_items_1",
@@ -18115,7 +18120,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 19879
+      "UsersEstimate": 19880
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -18147,7 +18152,7 @@
       "Name": "Quite The Catch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10843
+      "UsersEstimate": 10844
     },
     {
       "ID": "ach_055_complete_vivarium",
@@ -18162,15 +18167,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 90361,
-      "Completed": 906
+      "Progressed": 90363,
+      "Completed": 907
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-13T04:57:42.2260529+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:04:04.9624926+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:03:46.162075+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:11.3185924+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:01:16.3221557+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:04:04.9626834+00:00"
+  "LastUpdate_Ratings": "2023-09-20T19:00:10.5557369+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:03:46.1622302+00:00"
 }

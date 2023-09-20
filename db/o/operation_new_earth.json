@@ -5158,9 +5158,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5261,8 +5261,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:06:33.2986324+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:05:33.3909865+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:57:56.1052559+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:06:33.298704+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:57:51.19697+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:05:33.3910389+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 659,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
@@ -1779,6 +1779,11 @@
       "Time": "2023-09-20T03:03:26.1807068+00:00",
       "NumProgressed": 658,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-20T19:03:54.6745707+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1791,7 +1796,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1799,7 +1804,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "_03_FinishAct1",
@@ -1807,7 +1812,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1837,9 +1842,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 125
     },
     {
       "ID": "_08_Completion_10",
@@ -1863,7 +1868,7 @@
       "Name": "Buccaneer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "_11_Completion_40",
@@ -1871,7 +1876,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "_12_Completion_50",
@@ -1887,7 +1892,7 @@
       "Name": "Corsair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "_14_Completion_70",
@@ -1919,7 +1924,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1935,7 +1940,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1998,7 +2003,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 16
     }
   ],
@@ -2006,8 +2011,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:04:16.8555851+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:03:54.6745701+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:00:20.3276995+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:04:16.8556202+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:59:32.8231334+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:03:54.6745982+00:00"
 }

@@ -29,7 +29,7 @@
 | True Beldam Told | 100.00% | ~1 |
 | What They Deserve | 100.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 567)  
+Progressed: 1 (Ranked 568)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

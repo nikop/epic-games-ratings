@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65852,
+  "EOS_Progressed": 65855,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 745,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15317,6 +15317,11 @@
       "Time": "2023-09-20T18:05:11.6475598+00:00",
       "NumProgressed": 65852,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-20T19:04:35.1908619+00:00",
+      "NumProgressed": 65855,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15328,7 +15333,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26999
+      "UsersEstimate": 27001
     },
     {
       "ID": "02",
@@ -15344,7 +15349,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16463
+      "UsersEstimate": 16464
     },
     {
       "ID": "04",
@@ -15360,7 +15365,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14487
+      "UsersEstimate": 14488
     },
     {
       "ID": "06",
@@ -15368,7 +15373,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11853
+      "UsersEstimate": 11854
     },
     {
       "ID": "07",
@@ -15496,7 +15501,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9219
+      "UsersEstimate": 9220
     },
     {
       "ID": "23",
@@ -15512,7 +15517,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7902
+      "UsersEstimate": 7903
     },
     {
       "ID": "25",
@@ -15528,7 +15533,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7902
+      "UsersEstimate": 7903
     },
     {
       "ID": "27",
@@ -15576,7 +15581,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21073
+      "UsersEstimate": 21074
     },
     {
       "ID": "33",
@@ -15600,7 +15605,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22390
+      "UsersEstimate": 22391
     },
     {
       "ID": "36",
@@ -15640,7 +15645,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6585
+      "UsersEstimate": 6586
     },
     {
       "ID": "41",
@@ -15664,7 +15669,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11853
+      "UsersEstimate": 11854
     },
     {
       "ID": "44",
@@ -15688,7 +15693,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10536
+      "UsersEstimate": 10537
     },
     {
       "ID": "47",
@@ -15863,21 +15868,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65852,
+      "Progressed": 65855,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29320,
+      "Progressed": 29323,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:05:11.6475591+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:04:35.1908614+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:59:22.0538386+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:05:11.6477435+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:58:51.2950712+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:04:35.1910198+00:00"
 }

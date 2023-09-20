@@ -18,8 +18,8 @@ Rating: 4.02 (Ranked 943)
 | Full Party | 17.00% | ~332 |
 | Inspection | 17.00% | ~332 |
 | Miner Clicker | 17.00% | ~332 |
+| Dragon Master | 16.00% | ~313 |
 | Enlightenment | 16.00% | ~313 |
-| Dragon Master | 15.00% | ~293 |
 | Hero inspection | 15.00% | ~293 |
 | Lieutenant | 15.00% | ~293 |
 | Mysterious Rock | 14.00% | ~274 |
@@ -63,9 +63,9 @@ Rating: 4.02 (Ranked 943)
 | Ebony Jungle Liberator | 5.00% | ~98 |
 | Mythic Power | 3.00% | ~59 |
 | What lies behind the bush | 3.00% | ~59 |
+| Cauldron Liberator | 2.00% | ~39 |
 | Gear Enchanting | 2.00% | ~39 |
 | Guardian Master | 2.00% | ~39 |
-| Cauldron Liberator | 1.00% | ~20 |
 | Enchanting skill x5 | 1.00% | ~20 |
 | Enhanced War Machines | 1.00% | ~20 |
 | Titan Power | 1.00% | ~20 |

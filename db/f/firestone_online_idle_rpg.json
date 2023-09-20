@@ -5722,9 +5722,9 @@
       "ID": "cauldronliberator",
       "SetID": "3nl4bcg",
       "Name": "Cauldron Liberator",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 39
     },
     {
       "ID": "challenger",
@@ -5778,9 +5778,9 @@
       "ID": "dragonmaster",
       "SetID": "3nl4bcg",
       "Name": "Dragon Master",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 313
     },
     {
       "ID": "dragonslayer",
@@ -6275,8 +6275,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:05:16.7908635+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:04:38.8495571+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:00:06.5919316+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:05:16.7910541+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:59:23.0554101+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:04:38.8496694+00:00"
 }

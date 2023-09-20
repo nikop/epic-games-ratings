@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12083,
+  "EOS_Progressed": 12098,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 1688,
-  "EOS_NewCompleters": 1364,
-  "EOS_Completed_Percentage": 97.32,
+  "EOS_NewPlayers": 1694,
+  "EOS_NewCompleters": 1355,
+  "EOS_Completed_Percentage": 97.2,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -2599,6 +2599,11 @@
       "Time": "2023-09-20T18:09:24.0772914+00:00",
       "NumProgressed": 12083,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-20T19:08:26.4479754+00:00",
+      "NumProgressed": 12098,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -2617,9 +2622,9 @@
       "ID": "firstMatch",
       "SetID": "b3jeemd",
       "Name": "First blood",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 725
+      "UsersEstimate": 847
     },
     {
       "ID": "grenadeKills",
@@ -2635,15 +2640,15 @@
       "Name": "Head popping I",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "headshots1000",
       "SetID": "b3jeemd",
       "Name": "Head popping III",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "headshots500",
@@ -2673,17 +2678,17 @@
       "ID": "matchesWon",
       "SetID": "b3jeemd",
       "Name": "It\u0027s a piece of cake",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 36
     },
     {
       "ID": "revengeMedal",
       "SetID": "b3jeemd",
       "Name": "He who laughs last laughs best",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "rifleKills",
@@ -2722,13 +2727,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 12083,
+      "Progressed": 12098,
       "Completed": 11759
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:09:24.077291+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:08:26.4479736+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:17.0170255+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:57:34.4297218+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:09:24.0773231+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:57:37.4077669+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:08:26.4480018+00:00"
 }

@@ -28,8 +28,8 @@ Number of Ratings: 209  (23.09.2022)
 | Banking District | 86.00% | ~1,927 |
 | Arrested | 86.00% | ~1,927 |
 | Zappy Gun | 86.00% | ~1,927 |
+| Got your own one now | 86.00% | ~1,927 |
 | Mission Unlikely | 86.00% | ~1,927 |
-| Got your own one now | 85.00% | ~1,905 |
 | Don't draw dicks pls | 85.00% | ~1,905 |
 | Ripped | 85.00% | ~1,905 |
 | Beat the big arena | 83.00% | ~1,860 |

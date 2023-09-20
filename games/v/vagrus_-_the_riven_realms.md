@@ -38,6 +38,7 @@
 | Merchant | 3.00% | ~5 |
 | Trouble at Fort Larius | 3.00% | ~5 |
 | Unseen Patterns | 3.00% | ~5 |
+| Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
 | Business As Usual | 2.00% | ~3 |
@@ -48,7 +49,6 @@
 | The Darkness Within | 2.00% | ~3 |
 | Merchant Lord | 2.00% | ~3 |
 | Insectoid Propagator | 2.00% | ~3 |
-| Making Contact | 1.00% | ~2 |
 | Watcher | 1.00% | ~2 |
 | Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |

@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1710,9 +1710,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 358
     },
     {
       "ID": "AC11",
@@ -1918,9 +1918,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 269
     },
     {
       "ID": "AC37",
@@ -2007,8 +2007,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:04:39.6968374+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:04:11.8583298+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:58:15.410494+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:04:39.6968947+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:58:05.7620827+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:04:11.8583814+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -1663,6 +1663,11 @@
       "Time": "2023-09-20T18:04:18.5103207+00:00",
       "NumProgressed": 387,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-20T19:03:56.1874557+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1867,7 +1872,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_S4",
@@ -1891,7 +1896,7 @@
       "Name": "Lost in Space",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_STATUE",
@@ -1906,15 +1911,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:04:18.5103201+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:03:56.1874549+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:58:59.0404698+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:04:18.5103555+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:58:35.8048289+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:03:56.1874844+00:00"
 }

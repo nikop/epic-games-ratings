@@ -6,8 +6,8 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 61.00% | ~236 |
-| Quick Understanding of Block Extrusion | 59.00% | ~228 |
+| Lost in Space | 61.00% | ~237 |
+| Quick Understanding of Block Extrusion | 59.00% | ~229 |
 | Nature or Nurture | 50.00% | ~194 |
 | Power Glove | 49.00% | ~190 |
 | Forgotten Memories | 48.00% | ~186 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.30% | ~1 |
 | Laser Sharp | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387 (Ranked 270)  
+Progressed: 388 (Ranked 270)  
 Completed: 1 (0.26%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 1 (0.26%) (Ranked 189)
 | 2023-09-17 | 360 | 1 |
 | 2023-09-18 | 370 | 1 |
 | 2023-09-19 | 379 | 1 |
-| 2023-09-20 | 387 | 1 |
+| 2023-09-20 | 388 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

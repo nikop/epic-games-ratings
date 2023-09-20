@@ -558,9 +558,9 @@
       "ID": "Vanilla_AbolitionistsMet",
       "SetID": "27kik8p",
       "Name": "Making Contact",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_AbolitionistsSpread",
@@ -1343,8 +1343,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:03:50.2540842+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:03:42.540031+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.3873754+00:00",
-  "LastUpdate_Ratings": "2023-09-20T18:01:04.8232506+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:03:50.2542449+00:00"
+  "LastUpdate_Ratings": "2023-09-20T19:00:02.5683763+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:03:42.540164+00:00"
 }

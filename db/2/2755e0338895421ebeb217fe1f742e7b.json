@@ -179,9 +179,9 @@
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
@@ -250,8 +250,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-09-20T18:07:41.5019331+00:00",
+  "LastChanged_Achievements": "2023-09-20T19:06:21.8733714+00:00",
   "LastUpdate_AppInfo": "2023-09-18T22:57:20.0398016+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:57:34.2312723+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:07:41.5019462+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:57:37.2606486+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:06:21.8733873+00:00"
 }

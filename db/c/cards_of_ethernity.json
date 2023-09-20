@@ -2,9 +2,9 @@
   "ID": "0d4ad7c5cc184e1c8b9d5165798c5bbc",
   "Name": "Cards of Ethernity",
   "ProductSlug": "cards-of-ethernity-420f51",
-  "Ranking_EOS_Progress": 613,
+  "Ranking_EOS_Progress": 614,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-26T23:56:57.849328+00:00",
   "LastChanged": "2023-04-26T23:56:57.8493281+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:33.7010611+00:00",
-  "LastUpdate_Ratings": "2023-09-20T17:58:42.9409327+00:00",
-  "LastUpdate_Achievements": "2023-09-20T18:06:56.3518628+00:00"
+  "LastUpdate_Ratings": "2023-09-20T18:58:23.8549371+00:00",
+  "LastUpdate_Achievements": "2023-09-20T19:05:50.072164+00:00"
 }
