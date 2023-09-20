@@ -120,7 +120,7 @@
 | 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,360 | 23 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 519 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,335 | 92 |
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 955 | 149 |
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 958 | 149 |
 | 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 729 | 166 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,553 | 74 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 519 |
@@ -182,7 +182,7 @@
 | 175 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 430 |
 | 175 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 519 |
 | 175 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 77 | 370 |
-| 175 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 124 | 317 |
+| 175 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 124 | 318 |
 | 175 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 519 |
 | 175 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 327 | 233 |
 | 175 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 519 |
@@ -267,7 +267,7 @@
 | 260 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 519 |
 | 260 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 519 |
 | 260 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 452 | 207 |
-| 260 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,250 | 104 |
+| 260 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,250 | 105 |
 | 260 | [Overcooked](games/o/overcooked.md) | 4.67 | 117 | 325 |
 | 260 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.67 | 0 | 519 |
 | 260 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 32 | 458 |
@@ -372,7 +372,7 @@
 | 350 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 519 |
 | 371 | [20XX](games/2/20xx.md) | 4.61 | 37 | 439 |
 | 371 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 519 |
-| 371 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 130 | 311 |
+| 371 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 130 | 312 |
 | 371 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 748 | 164 |
 | 371 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 519 |
 | 371 | [Darkwood](games/d/darkwood.md) | 4.61 | 323 | 234 |
@@ -501,7 +501,7 @@
 | 487 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 366 |
 | 487 | [Wall World](games/w/wall_world.md) | 4.55 | 0 | 519 |
 | 487 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,271 | 134 |
-| 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,434 | 129 |
+| 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,436 | 128 |
 | 502 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,115 | 57 |
 | 502 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 446 |
 | 502 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.54 | 0 | 519 |
@@ -589,7 +589,7 @@
 | 583 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,545 | 14 |
 | 583 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 519 |
 | 583 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 248 |
-| 583 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 130 | 311 |
+| 583 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 132 | 311 |
 | 583 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 519 |
 | 583 | [Maneater](games/m/maneater.md) | 4.49 | 13,688 | 27 |
 | 583 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 341 |
@@ -779,7 +779,7 @@
 | 774 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 519 |
 | 774 | [Paladins](games/p/paladins.md) | 4.33 | 3,651 | 85 |
 | 774 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 519 |
-| 774 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 2,237 | 105 |
+| 774 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 2,256 | 104 |
 | 774 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 519 |
 | 774 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 500 |
 | 774 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 519 |
@@ -867,7 +867,7 @@
 | 859 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 3,809 | 83 |
 | 859 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 519 |
 | 859 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 368 |
-| 868 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 124 | 317 |
+| 868 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 125 | 316 |
 | 868 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 519 |
 | 868 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 519 |
 | 868 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 500 |
