@@ -96,7 +96,7 @@
 | 89 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 519 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 940 | 151 |
 | 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 763 | 162 |
-| 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,007 | 58 |
+| 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,008 | 58 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 389 | 220 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 123 | 319 |
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 519 |
@@ -387,7 +387,7 @@
 | 371 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 690 | 172 |
 | 371 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 333 |
 | 371 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 506 | 200 |
-| 371 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,066 | 38 |
+| 371 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,075 | 38 |
 | 371 | [RiME](games/r/rime.md) | 4.61 | 0 | 519 |
 | 371 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,081 | 138 |
 | 371 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 283 | 244 |
@@ -399,7 +399,7 @@
 | 395 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 519 |
 | 395 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 314 | 235 |
 | 395 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,650 | 72 |
-| 395 | [Control](games/c/control.md) | 4.60 | 8,514 | 40 |
+| 395 | [Control](games/c/control.md) | 4.60 | 8,518 | 40 |
 | 395 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 519 |
 | 395 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 266 |
 | 395 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 75 | 374 |
@@ -581,7 +581,7 @@
 | 567 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 519 |
 | 567 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 636 | 181 |
 | 567 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 519 |
-| 567 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 799 | 159 |
+| 567 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 804 | 159 |
 | 583 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 28 | 469 |
 | 583 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 390 |
 | 583 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 519 |
