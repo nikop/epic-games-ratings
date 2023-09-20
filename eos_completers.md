@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 97.81% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 97.73% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.14% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.86% |
@@ -48,7 +48,7 @@
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.67% |
 | 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.60% |
-| 49 | [JARS](games/j/jars.md) | 5.41% |
+| 49 | [JARS](games/j/jars.md) | 5.33% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.17% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
@@ -58,11 +58,11 @@
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [ZZT!](games/z/zzt!.md) | 4.29% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.23% |
-| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.00% |
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
-| 62 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 3.95% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
+| 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
+| 63 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 3.90% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 66 | [The Bunker](games/t/the_bunker.md) | 3.45% |
@@ -75,7 +75,7 @@
 | 73 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 75 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.01% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.00% |
 | 77 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 78 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 79 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -86,8 +86,8 @@
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 84 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 84 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 87 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.47% |
-| 88 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.46% |
+| 87 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.46% |
+| 88 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.44% |
 | 89 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.43% |
 | 89 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.43% |
@@ -133,10 +133,10 @@
 | 131 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 132 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 133 | [Hades](games/h/hades.md) | 0.90% |
-| 134 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 135 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
-| 135 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 137 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.77% |
+| 134 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.89% |
+| 135 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 136 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
+| 136 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 138 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 139 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 140 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.71% |
