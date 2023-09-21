@@ -15,13 +15,13 @@ Rating: 4.68 (Ranked 243)
 | Spirit animal | 8.00% | ~54 |
 | Gold rush | 7.00% | ~48 |
 | A friend in need... | 6.00% | ~41 |
+| Extensive retelling | 5.00% | ~34 |
 | Sneak peek | 5.00% | ~34 |
 | Fishing fanatic | 5.00% | ~34 |
 | The word around is... | 5.00% | ~34 |
 | Liar Liar | 5.00% | ~34 |
 | The cycle acknowledged | 5.00% | ~34 |
 | Baba Yaga | 5.00% | ~34 |
-| Extensive retelling | 4.00% | ~27 |
 | Favorite | 4.00% | ~27 |
 | Queen | 4.00% | ~27 |
 | Specialist | 4.00% | ~27 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 243)
 | Mushrooming enthusiast | 0.60% | ~4 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679 (Ranked 237)  
+Progressed: 679 (Ranked 238)  
 Completed: 1 (0.15%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

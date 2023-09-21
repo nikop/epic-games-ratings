@@ -18,7 +18,7 @@ Rating: 4.69 (Ranked 219)
 | The Full Glow-Up | 50.00% | ~3,020 |
 | Gorgara Falls | 49.00% | ~2,960 |
 | For A More Civilized Age | 47.00% | ~2,839 |
-| I Knew He Was No Good | 44.00% | ~2,658 |
+| I Knew He Was No Good | 45.00% | ~2,718 |
 | The Holocron Awaits | 43.00% | ~2,598 |
 | Look Out Below | 43.00% | ~2,598 |
 | Scum and Villainy | 42.00% | ~2,537 |

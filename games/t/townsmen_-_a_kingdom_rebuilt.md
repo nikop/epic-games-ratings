@@ -98,11 +98,11 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere X | 0.40% | ~17 |
 | You shall not pass | 0.40% | ~17 |
 | Malediction | 0.30% | ~13 |
+| Tired by festival | 0.30% | ~13 |
 | Chief Inspector | 0.30% | ~13 |
 | LEGEN… wait for it… DARY | 0.30% | ~13 |
 | War-zone | 0.30% | ~13 |
 | Waterways | 0.30% | ~13 |
-| Tired by festival | 0.20% | ~9 |
 | Good luck miner! | 0.10% | ~4 |
 | Just let it burn! | 0.10% | ~4 |
 | Now everyone is satisfied | 0.10% | ~4 |

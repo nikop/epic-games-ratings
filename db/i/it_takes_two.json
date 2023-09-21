@@ -2,9 +2,9 @@
   "ID": "8ae7b3c0f490471b967ce26cc2f6e0e6",
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
-  "Ranking_EOS_Progress": 245,
-  "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 603,
+  "EOS_Progressed": 734,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 732,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-09-20T21:06:26.7864731+00:00",
@@ -105,6 +105,11 @@
       "Time": "2023-09-21T13:13:05.080498+00:00",
       "NumProgressed": 603,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-21T14:08:06.743572+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -115,9 +120,9 @@
       "ID": "achievement_1",
       "SetID": "2bk7oji",
       "Name": "It Took Two",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_10",
@@ -125,31 +130,31 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_11",
       "SetID": "2bk7oji",
       "Name": "Realize Your Art",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_12",
       "SetID": "2bk7oji",
       "Name": "On Rails Experience",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_13",
       "SetID": "2bk7oji",
       "Name": "Platforming Prodigy",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_14",
@@ -157,7 +162,7 @@
       "Name": "Force Triangulated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_15",
@@ -165,15 +170,15 @@
       "Name": "Lost And Found",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_16",
       "SetID": "2bk7oji",
       "Name": "Mood Swing",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_17",
@@ -181,7 +186,7 @@
       "Name": "Something Fishy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_18",
@@ -189,7 +194,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_19",
@@ -197,31 +202,31 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_2",
       "SetID": "2bk7oji",
       "Name": "Minigame Megalomania",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_20",
       "SetID": "2bk7oji",
       "Name": "Meditation Maestro",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_3",
       "SetID": "2bk7oji",
       "Name": "Fried Friendship",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 661
     },
     {
       "ID": "achievement_4",
@@ -229,31 +234,31 @@
       "Name": "Struck A Pose",
       "Percentage": 86,
       "XP": 50,
-      "UsersEstimate": 519
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_5",
       "SetID": "2bk7oji",
       "Name": "Plastic Prison Breakers",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_6",
       "SetID": "2bk7oji",
       "Name": "Faraway Frequencies",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_7",
       "SetID": "2bk7oji",
       "Name": "Look At Him Go",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 482
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_8",
@@ -261,28 +266,28 @@
       "Name": "Break the Bank",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 308
     },
     {
       "ID": "achievement_9",
       "SetID": "2bk7oji",
       "Name": "A Daring Devil",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 382
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 603,
+      "Progressed": 734,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-09-21T13:13:05.0804969+00:00",
+  "LastChanged_Achievements": "2023-09-21T14:08:06.7435715+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:00.8325724+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:03:28.1024659+00:00",
-  "LastUpdate_Achievements": "2023-09-21T13:13:05.0805137+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:57:38.9666612+00:00",
+  "LastUpdate_Achievements": "2023-09-21T14:08:06.7435831+00:00"
 }

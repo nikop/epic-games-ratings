@@ -4,7 +4,7 @@
   "ProductSlug": "elemental-war-2-d7db6e",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -122,17 +122,17 @@
       "ID": "10",
       "SetID": "7095412",
       "Name": "Combiner",
-      "Percentage": 86,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "11",
       "SetID": "7095412",
       "Name": "3 in 1",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "12",
@@ -202,9 +202,9 @@
       "ID": "2",
       "SetID": "7095412",
       "Name": "Equipper",
-      "Percentage": 86,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "20",
@@ -258,9 +258,9 @@
       "ID": "26",
       "SetID": "7095412",
       "Name": "Last Second",
-      "Percentage": 79,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "27",
@@ -449,8 +449,8 @@
   ],
   "FirstSeen": "2023-08-25T14:00:23.6094208+00:00",
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-09-21T13:09:54.9503301+00:00",
+  "LastChanged_Achievements": "2023-09-21T14:04:31.815286+00:00",
   "LastUpdate_AppInfo": "2023-09-15T16:57:28.4493028+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:04:05.1894196+00:00",
-  "LastUpdate_Achievements": "2023-09-21T13:09:54.9503668+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:58:19.6783522+00:00",
+  "LastUpdate_Achievements": "2023-09-21T14:04:31.8153139+00:00"
 }

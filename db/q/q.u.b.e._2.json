@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 393,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1701,9 +1701,9 @@
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1933,8 +1933,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-21T13:10:04.6367359+00:00",
+  "LastChanged_Achievements": "2023-09-21T14:04:42.9152203+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:05:06.974931+00:00",
-  "LastUpdate_Achievements": "2023-09-21T13:10:04.6367735+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:59:33.2769211+00:00",
+  "LastUpdate_Achievements": "2023-09-21T14:04:42.9152448+00:00"
 }

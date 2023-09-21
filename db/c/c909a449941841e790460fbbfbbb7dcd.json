@@ -2,12 +2,12 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
-    "ReleaseDate": "2023-09-27T00:00:00+00:00",
+    "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2023-09-20T23:05:27.7825562+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T14:07:20.7314591+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -86,7 +91,7 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -94,7 +99,7 @@
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 120,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -110,7 +115,7 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -182,7 +187,7 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 4
     }
@@ -191,13 +196,13 @@
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-21T13:12:24.0136301+00:00",
+  "LastChanged_Achievements": "2023-09-21T14:07:20.7314584+00:00",
   "LastUpdate_AppInfo": "2023-09-19T15:57:15.1386888+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:03:06.0150726+00:00",
-  "LastUpdate_Achievements": "2023-09-21T13:12:24.013653+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:57:08.6886463+00:00",
+  "LastUpdate_Achievements": "2023-09-21T14:07:20.7314693+00:00"
 }

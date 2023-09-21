@@ -12,14 +12,14 @@ Number of Ratings: 177  (23.09.2022)
 | Caught in the Act | 2.00% | ~125 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~125 |
 | Katherine | 2.00% | ~125 |
-| Life Found a Way | 2.00% | ~65 |
+| Life Found a Way | 2.00% | ~66 |
 | Relentless | 2.00% | ~125 |
 | If at First You Don't Succeed... | 2.00% | ~125 |
 | Drunk and Disorderly: Ashley | 1.00% | ~62 |
 | IRL Let's Player | 1.00% | ~62 |
-| Inspector | 0.90% | ~56 |
 | Newcomer: Vickie | 0.90% | ~56 |
 | Amy | 0.80% | ~50 |
+| Inspector | 0.80% | ~50 |
 | Social Butterfly | 0.80% | ~50 |
 | The Muse: Madison | 0.80% | ~50 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,235 (Ranked 146)  
+Progressed: 6,236 (Ranked 146)  
 Completed: 3 (0.05%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 3 (0.05%) (Ranked 244)
 | 2023-09-18 | 6,206 | 3 |
 | 2023-09-19 | 6,219 | 3 |
 | 2023-09-20 | 6,230 | 3 |
-| 2023-09-21 | 6,235 | 3 |
+| 2023-09-21 | 6,236 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,671 |
-| Git Gutte! | 2.00% | ~13,671 |
-| Bookworm | 2.00% | ~13,671 |
-| Break A Leg | 2.00% | ~13,671 |
-| But Doctor, I am Butcho | 2.00% | ~13,671 |
-| Can't Handle the Truth | 2.00% | ~13,671 |
-| Coup de Grâce | 2.00% | ~13,671 |
-| Like Riding a Bike | 2.00% | ~13,671 |
-| Hazardous Materials | 2.00% | ~13,671 |
-| Friends Like These | 2.00% | ~13,671 |
-| Hotel California | 2.00% | ~13,671 |
-| Apex Predator | 2.00% | ~13,671 |
-| A Patton Emerges | 2.00% | ~13,671 |
-| Stacking the Deck | 2.00% | ~13,671 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,671 |
-| This is My Weapon | 2.00% | ~13,671 |
-| Welcome To Hell-A | 2.00% | ~13,671 |
+| Dr. Reed, I Presume? | 2.00% | ~13,672 |
+| Git Gutte! | 2.00% | ~13,672 |
+| Bookworm | 2.00% | ~13,672 |
+| Break A Leg | 2.00% | ~13,672 |
+| But Doctor, I am Butcho | 2.00% | ~13,672 |
+| Can't Handle the Truth | 2.00% | ~13,672 |
+| Coup de Grâce | 2.00% | ~13,672 |
+| Like Riding a Bike | 2.00% | ~13,672 |
+| Hazardous Materials | 2.00% | ~13,672 |
+| Friends Like These | 2.00% | ~13,672 |
+| Hotel California | 2.00% | ~13,672 |
+| Apex Predator | 2.00% | ~13,672 |
+| A Patton Emerges | 2.00% | ~13,672 |
+| Stacking the Deck | 2.00% | ~13,672 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,672 |
+| This is My Weapon | 2.00% | ~13,672 |
+| Welcome To Hell-A | 2.00% | ~13,672 |
 | Making Your Mark | 1.00% | ~6,836 |
 | Anger Management | 1.00% | ~6,836 |
 | Perks of the Job | 1.00% | ~6,836 |
@@ -31,13 +31,13 @@ Rating: 4.54 (Ranked 505)
 | Ooh, Shiny! | 1.00% | ~6,836 |
 | Humanity Distilled | 1.00% | ~6,836 |
 | I Am the Resurrection | 1.00% | ~6,836 |
+| Down with the Sickness | 1.00% | ~6,836 |
 | Our True Nature | 1.00% | ~6,836 |
-| Down with the Sickness | 0.90% | ~6,152 |
 | Max Headroom | 0.80% | ~5,469 |
 | Go, Bobcats! | 0.70% | ~4,785 |
 | Rising Star | 0.70% | ~4,785 |
-| Smorgasbord | 0.60% | ~4,101 |
-| Jumbo Keyring | 0.60% | ~4,101 |
+| Smorgasbord | 0.60% | ~4,102 |
+| Jumbo Keyring | 0.60% | ~4,102 |
 | Not Even My Final Form | 0.50% | ~3,418 |
 | Internet Famous | 0.50% | ~3,418 |
 | Make it So | 0.40% | ~2,734 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~684 |
 | Bucket List | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,564 (Ranked 22)  
+Progressed: 683,590 (Ranked 22)  
 Completed: 2,159 (0.32%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 2,159 (0.32%) (Ranked 180)
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
-| 2023-09-21 | 683,564 | 2,159 |
+| 2023-09-21 | 683,590 | 2,159 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,099 (Ranked 93)  

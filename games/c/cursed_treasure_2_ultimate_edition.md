@@ -28,8 +28,8 @@
 | Stasis Alcatraz | 67.00% | ~113 |
 | Brilliant: Holy Mountain | 63.00% | ~106 |
 | Tastes Like Chicken | 63.00% | ~106 |
+| Thunderstorm | 63.00% | ~106 |
 | Combo Breaker | 62.00% | ~105 |
-| Thunderstorm | 62.00% | ~105 |
 | Clean Forests | 60.00% | ~101 |
 | Starry: Meadowshire | 57.00% | ~96 |
 | Lieutenant of the Evil | 56.00% | ~95 |

@@ -21,7 +21,7 @@ Rating: 4.08 (Ranked 924)
 | The Shardmenstration | 19.00% | ~693 |
 | Those Were the Days... | 19.00% | ~693 |
 | ...To Heroes | 18.00% | ~657 |
-| Mas, Por Favor | 17.00% | ~620 |
+| Mas, Por Favor | 18.00% | ~657 |
 | And Still Champion... | 14.00% | ~511 |
 | Super Trusting Friend! | 9.00% | ~328 |
 | Bring back the butt! | 4.00% | ~146 |

@@ -35,10 +35,10 @@ Rating: 4.41 (Ranked 691)
 | Chain Killer | 22.00% | ~321 |
 | Silent but Violent | 22.00% | ~321 |
 | The Watchers | 21.00% | ~306 |
+| Chaos Theory | 16.00% | ~233 |
 | Commando | 16.00% | ~233 |
 | Dr Jones | 16.00% | ~233 |
 | Newtonian Knockout | 16.00% | ~233 |
-| Chaos Theory | 15.00% | ~219 |
 | Ruthless | 14.00% | ~204 |
 | Side Order | 11.00% | ~160 |
 | Chain Reaction | 9.00% | ~131 |

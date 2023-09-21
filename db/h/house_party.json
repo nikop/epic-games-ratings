@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6235,
+  "EOS_Progressed": 6236,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5208,6 +5208,11 @@
       "Time": "2023-09-21T07:07:09.8064509+00:00",
       "NumProgressed": 6235,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-21T14:07:55.19613+00:00",
+      "NumProgressed": 6236,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5465,9 +5470,9 @@
       "ID": "Inspector",
       "SetID": "bmkn7o4",
       "Name": "Inspector",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 50
     },
     {
       "ID": "ItSmellsLikeRoses",
@@ -5499,7 +5504,7 @@
       "Name": "Life Found a Way",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "MoneyShot",
@@ -5770,21 +5775,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3274,
+      "Progressed": 3275,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6235,
+      "Progressed": 6236,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-21T13:12:54.656124+00:00",
+  "LastChanged_Achievements": "2023-09-21T14:07:55.1961294+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.7446056+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:04:17.0638265+00:00",
-  "LastUpdate_Achievements": "2023-09-21T13:12:54.6562529+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:58:34.3645963+00:00",
+  "LastUpdate_Achievements": "2023-09-21T14:07:55.1962429+00:00"
 }

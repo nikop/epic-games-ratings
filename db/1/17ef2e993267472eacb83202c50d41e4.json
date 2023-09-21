@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6271,
+  "EOS_Progressed": 6273,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 1,
@@ -2156,6 +2156,11 @@
       "Time": "2023-09-21T13:13:15.8811472+00:00",
       "NumProgressed": 6271,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T14:08:19.1968956+00:00",
+      "NumProgressed": 6273,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2224,7 +2229,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "DHUpgraded1",
@@ -2288,7 +2293,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "GamesPlayed10",
@@ -2312,7 +2317,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "GamesWon10",
@@ -2376,7 +2381,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "HSPurchased1",
@@ -2759,14 +2764,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6271,
+      "Progressed": 6273,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-21T13:13:15.8811466+00:00",
+  "LastChanged_Achievements": "2023-09-21T14:08:19.1968951+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:04:12.1544004+00:00",
-  "LastUpdate_Achievements": "2023-09-21T13:13:15.8812444+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:58:27.2029641+00:00",
+  "LastUpdate_Achievements": "2023-09-21T14:08:19.1969684+00:00"
 }
