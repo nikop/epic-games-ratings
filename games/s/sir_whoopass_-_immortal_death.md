@@ -14,14 +14,14 @@
 | Nerd | 84.00% | ~85 |
 | Blurry depth perception | 82.00% | ~83 |
 | Up and down | 80.00% | ~81 |
-| Rolling, Rolling, Rolling | 72.00% | ~73 |
-| Fire-fighter! | 66.00% | ~67 |
-| Oh, you're up to no gouda! | 62.00% | ~63 |
+| Rolling, Rolling, Rolling | 73.00% | ~74 |
+| Fire-fighter! | 67.00% | ~68 |
+| Oh, you're up to no gouda! | 63.00% | ~64 |
+| Meat grinder | 60.00% | ~61 |
 | Make Love not War-Craft a Mistlefoe | 59.00% | ~60 |
-| Meat grinder | 59.00% | ~60 |
-| You're not going to blow me up! | 53.00% | ~54 |
+| You're not going to blow me up! | 54.00% | ~55 |
+| Mushroom soup of the day | 52.00% | ~53 |
 | Butcher | 51.00% | ~52 |
-| Mushroom soup of the day | 51.00% | ~52 |
 | Spare Ribs | 51.00% | ~52 |
 | Honk honk! | 50.00% | ~50 |
 | Cockadoodledoo! | 50.00% | ~50 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -731,17 +731,17 @@
       "ID": "ACH_DULLER",
       "SetID": "c2kf3nm",
       "Name": "STAY AWAY",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ENTERLEVELRUN",
       "SetID": "c2kf3nm",
       "Name": "THERE IS NO EXIT",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_FIND_ENTITY",
@@ -803,17 +803,17 @@
       "ID": "ACH_KEY",
       "SetID": "c2kf3nm",
       "Name": "Key to your Death",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_PIPEDREAMS",
       "SetID": "c2kf3nm",
       "Name": "DO NOT ENTER",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_PITFALLS",
@@ -835,9 +835,9 @@
       "ID": "ACH_RUN",
       "SetID": "c2kf3nm",
       "Name": "RUN FOR YOUR LIFE",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_STAIRS",
@@ -866,8 +866,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:07:45.8576093+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:08:38.7165983+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:57:17.6657778+00:00",
-  "LastUpdate_Ratings": "2023-09-21T21:58:43.8025615+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:07:45.857625+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:59:28.8901985+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:08:38.7166215+00:00"
 }

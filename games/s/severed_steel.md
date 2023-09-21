@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 219)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~192,562 |
-| 50 HEADSHOTS | 27.00% | ~179,282 |
-| SCIENCE AND INDUSTRY | 26.00% | ~172,642 |
-| FINISHED CHAPTER 1 | 25.00% | ~166,002 |
-| FINISHED CHAPTER 2 | 19.00% | ~126,161 |
-| 200 HEADSHOTS | 16.00% | ~106,241 |
-| FINISHED CHAPTER 3 | 16.00% | ~106,241 |
-| FINISHED CHAPTER 4 | 13.00% | ~86,321 |
-| FINISH CHAPTER 5 | 11.00% | ~73,041 |
-| FINISH CHAPTER 6 | 10.00% | ~66,401 |
-| CATHARTIC ESCAPISM | 10.00% | ~66,401 |
-| 1000 KILLS | 8.00% | ~53,121 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,560 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,280 |
-| FIRST BLOOD | 2.00% | ~13,280 |
+| 100 KILLS | 29.00% | ~192,568 |
+| 50 HEADSHOTS | 27.00% | ~179,288 |
+| SCIENCE AND INDUSTRY | 26.00% | ~172,648 |
+| FINISHED CHAPTER 1 | 25.00% | ~166,007 |
+| FINISHED CHAPTER 2 | 19.00% | ~126,166 |
+| 200 HEADSHOTS | 16.00% | ~106,245 |
+| FINISHED CHAPTER 3 | 16.00% | ~106,245 |
+| FINISHED CHAPTER 4 | 13.00% | ~86,324 |
+| FINISH CHAPTER 5 | 11.00% | ~73,043 |
+| FINISH CHAPTER 6 | 10.00% | ~66,403 |
+| CATHARTIC ESCAPISM | 10.00% | ~66,403 |
+| 1000 KILLS | 8.00% | ~53,122 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,561 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,281 |
+| FIRST BLOOD | 2.00% | ~13,281 |
 | PACEMAKER | 1.00% | ~6,640 |
 | OUT OF ORDER | 0.90% | ~5,976 |
 | TIME PARADOX | 0.90% | ~5,976 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 219)
 | THE GAMBLER | 0.10% | ~664 |
 | WARRIOR IN A GARDEN | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,007 (Ranked 24)  
+Progressed: 664,029 (Ranked 24)  
 Completed: 64 (0.01%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 64 (0.01%) (Ranked 268)
 | 2023-09-18 | 662,777 | 63 |
 | 2023-09-19 | 663,209 | 63 |
 | 2023-09-20 | 663,614 | 63 |
-| 2023-09-21 | 664,007 | 64 |
+| 2023-09-21 | 664,029 | 64 |
 ## Awards
 Max (Great Boss Battles): 300  (Ranked 240)  
 Sum: 300 (Ranked 341)  

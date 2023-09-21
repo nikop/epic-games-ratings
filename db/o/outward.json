@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -4648,9 +4648,9 @@
       "ID": "CordonBleu_28",
       "SetID": "c4hee28",
       "Name": "Cordon Bleu",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1512
     },
     {
       "ID": "CrowdPleaser",
@@ -4952,8 +4952,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:05:53.8812276+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:06:26.0762866+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:00:10.3341547+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:05:53.8812742+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:01:07.6998904+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:06:26.0763702+00:00"
 }

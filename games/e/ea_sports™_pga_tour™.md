@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Star Power | 87.00% | ~118 |
+| Star Power | 88.00% | ~120 |
 | Makin' the Cut | 75.00% | ~102 |
 | From Way Downtown | 71.00% | ~97 |
 | Clean Sheet | 71.00% | ~97 |
@@ -12,7 +12,7 @@
 | Holey Moley | 58.00% | ~79 |
 | Bomb's Away | 53.00% | ~72 |
 | Perfect Round | 53.00% | ~72 |
-| Competitor's Spirit | 48.00% | ~65 |
+| Competitor's Spirit | 49.00% | ~67 |
 | The Strongest Field in Golf | 40.00% | ~54 |
 | From Many, One | 35.00% | ~48 |
 | Ace in the Hole | 35.00% | ~48 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 395,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2289,9 +2289,9 @@
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 71
     },
     {
       "ID": "ClockworkProgress1",
@@ -2641,9 +2641,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 97
     },
     {
       "ID": "WatcherSpared",
@@ -2682,8 +2682,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:04:32.4044584+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:04:51.2225418+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:03:10.2313682+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:04:32.404507+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:02:53.1582916+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:04:51.2226151+00:00"
 }

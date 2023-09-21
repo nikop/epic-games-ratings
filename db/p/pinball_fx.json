@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1816,9 +1816,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 264821,
+  "EOS_Progressed": 264854,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1989,
+  "EOS_NewPlayers": 1995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19211,6 +19211,11 @@
       "Time": "2023-09-21T22:09:17.8564994+00:00",
       "NumProgressed": 264821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T23:09:39.1105268+00:00",
+      "NumProgressed": 264854,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -19270,7 +19275,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26482
+      "UsersEstimate": 26485
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -19286,7 +19291,7 @@
       "Name": "My Table, my Rules",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19302,7 +19307,7 @@
       "Name": "Shiny Memento",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -19310,7 +19315,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10594
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -19342,7 +19347,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -19350,7 +19355,7 @@
       "Name": "Pinball Hoarder",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -19366,7 +19371,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -19382,7 +19387,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26482
+      "UsersEstimate": 26485
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -19390,7 +19395,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5297
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -19406,7 +19411,7 @@
       "Name": "Interior Designer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19430,7 +19435,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -19446,7 +19451,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 217153
+      "UsersEstimate": 217180
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19454,22 +19459,22 @@
       "Name": "I know the Rules",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 95336
+      "UsersEstimate": 95347
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 264821,
+      "Progressed": 264854,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-09-20T11:01:29.158061+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:09:17.856499+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:09:39.1105262+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.6207097+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:01:14.8743999+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:09:17.8566072+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:02:27.1098034+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:09:39.1107133+00:00"
 }

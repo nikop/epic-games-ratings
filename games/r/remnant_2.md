@@ -6,18 +6,18 @@ Rating: 4.76 (Ranked 118)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~16,600 |
-| The Killing Jar | 8.00% | ~14,755 |
-| Not Your Average Trait | 8.00% | ~14,755 |
+| The Killing Jar | 8.00% | ~14,756 |
+| Not Your Average Trait | 8.00% | ~14,756 |
 | Expanding Horizons | 7.00% | ~12,911 |
 | Quest for Survival | 7.00% | ~12,911 |
-| Gleaming the Cube | 6.00% | ~11,066 |
-| Not a Janitor | 6.00% | ~11,066 |
-| Familiar Face | 6.00% | ~11,066 |
-| Duality | 6.00% | ~11,066 |
-| Top Performer | 6.00% | ~11,066 |
-| Boss'n Up | 6.00% | ~11,066 |
-| Good, But Could Be Better! | 6.00% | ~11,066 |
-| Trait Chaser | 6.00% | ~11,066 |
+| Gleaming the Cube | 6.00% | ~11,067 |
+| Not a Janitor | 6.00% | ~11,067 |
+| Familiar Face | 6.00% | ~11,067 |
+| Duality | 6.00% | ~11,067 |
+| Top Performer | 6.00% | ~11,067 |
+| Boss'n Up | 6.00% | ~11,067 |
+| Good, But Could Be Better! | 6.00% | ~11,067 |
+| Trait Chaser | 6.00% | ~11,067 |
 | Not So Special Now | 5.00% | ~9,222 |
 | Equal Measures | 5.00% | ~9,222 |
 | Blue Goddess | 5.00% | ~9,222 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,844 |
 | Ghost in the Machine | 0.90% | ~1,660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184,441 (Ranked 65)  
+Progressed: 184,448 (Ranked 65)  
 Completed: 319 (0.17%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,10 +123,10 @@ Completed: 319 (0.17%) (Ranked 207)
 | 2023-09-18 | 183,173 | 309 |
 | 2023-09-19 | 183,629 | 312 |
 | 2023-09-20 | 184,044 | 315 |
-| 2023-09-21 | 184,441 | 319 |
+| 2023-09-21 | 184,448 | 319 |
 ## Awards
 Max (Great Boss Battles): 1,667  (Ranked 119)  
-Sum: 3,378 (Ranked 157)  
+Sum: 3,383 (Ranked 157)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -136,7 +136,7 @@ Diff (max vs sum): -38
 | This game has Diverse Characters | 184 |
 | This game is Relaxing | 180 |
 | This game is Highly Recommended | 179 |
-| This game has Amazing Characters | 174 |
+| This game has Amazing Characters | 179 |
 | This game has Amazing Storytelling | 170 |
 | This game has Quickly Understood Controls | 165 |
 | This game has Unique Visuals | 152 |
@@ -201,4 +201,4 @@ Diff (max vs sum): -38
 | 2023-09-18 | 4.76 | 1,637 | 3,276 |
 | 2023-09-19 | 4.76 | 1,651 | 3,305 |
 | 2023-09-20 | 4.76 | 1,660 | 3,346 |
-| 2023-09-21 | 4.76 | 1,667 | 3,378 |
+| 2023-09-21 | 4.76 | 1,667 | 3,383 |

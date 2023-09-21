@@ -23,16 +23,16 @@ Rating: 4.54 (Ranked 504)
 | Personal Assistant Personally Assisted | 2.00% | ~13,677 |
 | This is My Weapon | 2.00% | ~13,677 |
 | Welcome To Hell-A | 2.00% | ~13,677 |
-| Making Your Mark | 1.00% | ~6,838 |
-| Anger Management | 1.00% | ~6,838 |
-| Perks of the Job | 1.00% | ~6,838 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,838 |
-| Slayer Squad | 1.00% | ~6,838 |
-| Ooh, Shiny! | 1.00% | ~6,838 |
-| Humanity Distilled | 1.00% | ~6,838 |
-| I Am the Resurrection | 1.00% | ~6,838 |
-| Down with the Sickness | 1.00% | ~6,838 |
-| Our True Nature | 1.00% | ~6,838 |
+| Making Your Mark | 1.00% | ~6,839 |
+| Anger Management | 1.00% | ~6,839 |
+| Perks of the Job | 1.00% | ~6,839 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,839 |
+| Slayer Squad | 1.00% | ~6,839 |
+| Ooh, Shiny! | 1.00% | ~6,839 |
+| Humanity Distilled | 1.00% | ~6,839 |
+| I Am the Resurrection | 1.00% | ~6,839 |
+| Down with the Sickness | 1.00% | ~6,839 |
+| Our True Nature | 1.00% | ~6,839 |
 | Max Headroom | 0.80% | ~5,471 |
 | Go, Bobcats! | 0.70% | ~4,787 |
 | Rising Star | 0.70% | ~4,787 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~684 |
 | Bucket List | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,850 (Ranked 22)  
+Progressed: 683,869 (Ranked 22)  
 Completed: 2,163 (0.32%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 2,163 (0.32%) (Ranked 181)
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
-| 2023-09-21 | 683,850 | 2,163 |
+| 2023-09-21 | 683,869 | 2,163 |
 ## Awards
 Max (Great Boss Battles): 6,140  (Ranked 57)  
-Sum: 9,122 (Ranked 93)  
+Sum: 9,124 (Ranked 93)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -219,8 +219,8 @@ Diff (max vs sum): -36
 | This game is Relaxing | 381 |
 | This game has Amazing Storytelling | 357 |
 | This game is Extremely Fun | 343 |
+| This game has Amazing Characters | 334 |
 | This game is Highly Recommended | 332 |
-| This game has Amazing Characters | 332 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -377,4 +377,4 @@ Diff (max vs sum): -36
 | 2023-09-18 | 4.54 | 6,105 | 9,051 |
 | 2023-09-19 | 4.54 | 6,115 | 9,071 |
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
-| 2023-09-21 | 4.54 | 6,140 | 9,122 |
+| 2023-09-21 | 4.54 | 6,140 | 9,124 |

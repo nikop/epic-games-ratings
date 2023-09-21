@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-12T09:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -153,9 +153,9 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "lessons_never_learnt",
@@ -296,8 +296,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:05:53.5106054+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:06:25.8009709+00:00",
   "LastUpdate_AppInfo": "2023-09-15T20:57:10.1648682+00:00",
-  "LastUpdate_Ratings": "2023-09-21T21:57:38.0483835+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:05:53.5106213+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:58:11.1857725+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:06:25.8009916+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 547,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 604475,
+  "EOS_Progressed": 604476,
   "EOS_Completed": 526,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -17590,6 +17590,11 @@
       "Time": "2023-09-21T22:04:41.0229602+00:00",
       "NumProgressed": 604475,
       "NumCompleted": 526
+    },
+    {
+      "Time": "2023-09-21T23:05:01.00272+00:00",
+      "NumProgressed": 604476,
+      "NumCompleted": 526
     }
   ],
   "TotalAchievements": 28,
@@ -17729,7 +17734,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 562162
+      "UsersEstimate": 562163
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -17824,15 +17829,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 604475,
+      "Progressed": 604476,
       "Completed": 526
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:04:41.0229595+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:05:01.0027195+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:44.9838686+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:00:30.6710167+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:04:41.0230583+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:01:31.9883776+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:05:01.0028894+00:00"
 }

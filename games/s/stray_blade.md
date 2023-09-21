@@ -16,7 +16,7 @@
 | Searing Heat | 15.00% | ~12 |
 | Nothing but the Truth | 15.00% | ~12 |
 | The Golden Flash | 15.00% | ~12 |
-| The Power of the Mountains | 13.00% | ~11 |
+| The Power of the Mountains | 15.00% | ~12 |
 | Changing the World | 12.00% | ~10 |
 | Locked and Loaded | 10.00% | ~8 |
 | Witch | 10.00% | ~8 |

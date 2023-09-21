@@ -27,9 +27,9 @@ Number of Ratings: 398  (23.09.2022)
 | Make Tropico Great Again! | 7.00% | ~368 |
 | French Connection | 7.00% | ~368 |
 | Don't Panic! | 6.00% | ~315 |
+| Computer Says "No" | 6.00% | ~315 |
 | Beware The Betman | 6.00% | ~315 |
 | Viva Tropico! | 5.00% | ~263 |
-| Computer Says "No" | 5.00% | ~263 |
 | Watch The World Burn | 5.00% | ~263 |
 | Fairy Tale Come True | 5.00% | ~263 |
 | Apocalypso | 4.00% | ~210 |

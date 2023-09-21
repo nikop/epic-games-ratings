@@ -11,11 +11,12 @@
 | Shook Up | 58.00% | ~15 |
 | Vaccinated | 54.00% | ~14 |
 | The Birds and the Bees | 50.00% | ~13 |
+| Busybody | 46.00% | ~12 |
 | Task Master | 46.00% | ~12 |
-| Busybody | 42.00% | ~11 |
 | An Acquired Taste | 38.00% | ~10 |
 | A Light in the Dark | 38.00% | ~10 |
 | Warning: Fragile | 38.00% | ~10 |
+| A Real Headache | 35.00% | ~9 |
 | A Total Riot | 35.00% | ~9 |
 | The Guardian | 35.00% | ~9 |
 | Endgame | 35.00% | ~9 |
@@ -25,15 +26,14 @@
 | The Companion | 35.00% | ~9 |
 | They Flock to Him | 35.00% | ~9 |
 | The Counsellor | 35.00% | ~9 |
-| A Real Headache | 31.00% | ~8 |
 | Everyone Needs a Break | 31.00% | ~8 |
 | Knock Knock | 31.00% | ~8 |
 | That One Doesn't Count | 31.00% | ~8 |
 | Blood Begets Blood | 27.00% | ~7 |
 | Full Coverage | 23.00% | ~6 |
+| Job Creator | 23.00% | ~6 |
+| Obligatory Fraudulent Baking | 23.00% | ~6 |
 | Social Butterfly | 23.00% | ~6 |
-| Job Creator | 19.00% | ~5 |
-| Obligatory Fraudulent Baking | 19.00% | ~5 |
 | Quidnunc | 19.00% | ~5 |
 | Zonk! | 19.00% | ~5 |
 | A Little Eccentric | 15.00% | ~4 |
@@ -42,9 +42,9 @@
 | Ring of Fire | 15.00% | ~4 |
 | The Provocateur | 15.00% | ~4 |
 | Tastes Like Regret | 15.00% | ~4 |
+| The Spice of Life | 15.00% | ~4 |
 | Couldn't Have Planned It Better Myself | 12.00% | ~3 |
 | The Mentor | 12.00% | ~3 |
-| The Spice of Life | 12.00% | ~3 |
 | What They Don't Know Can't Hurt Them | 8.00% | ~2 |
 | Wilful Ignorance | 8.00% | ~2 |
 | Double Agent | 4.00% | ~1 |

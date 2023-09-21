@@ -36,16 +36,16 @@ Rating: 4.60 (Ranked 395)
 | Good Neighbor | 12.00% | ~106 |
 | Chaincrawler Explorer | 11.00% | ~97 |
 | Family Memories | 11.00% | ~97 |
+| Ask Questions Later | 11.00% | ~97 |
 | Syron for Hope | 10.00% | ~88 |
 | Theater Explorer | 10.00% | ~88 |
-| Ask Questions Later | 10.00% | ~88 |
 | Factorywood Explorer | 9.00% | ~80 |
 | Fairgrounds Explorer | 9.00% | ~80 |
 | Sump Explorer | 9.00% | ~80 |
+| Corin Goes Home | 8.00% | ~71 |
 | Sartorialist | 8.00% | ~71 |
 | Cultivair Explorer | 8.00% | ~71 |
 | Entresol Explorer | 8.00% | ~71 |
-| Corin Goes Home | 7.00% | ~62 |
 | Golem Hunter | 6.00% | ~53 |
 | Clovemary for Remembering | 5.00% | ~44 |
 | Rungs Was Right | 5.00% | ~44 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885 (Ranked 228)  
+Progressed: 885 (Ranked 229)  
 Completed: 5 (0.56%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |

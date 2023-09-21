@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1307,9 +1307,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128450,
+  "EOS_Progressed": 128453,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16727,6 +16727,11 @@
       "Time": "2023-09-21T22:09:13.5273906+00:00",
       "NumProgressed": 128450,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-21T23:09:34.0433764+00:00",
+      "NumProgressed": 128453,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16770,7 +16775,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23121
+      "UsersEstimate": 23122
     },
     {
       "ID": "ACH_COP_BAD",
@@ -16786,7 +16791,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11560
+      "UsersEstimate": 11561
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -16794,7 +16799,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30828
+      "UsersEstimate": 30829
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -16810,7 +16815,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -16818,7 +16823,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35966
+      "UsersEstimate": 35967
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16850,7 +16855,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25690
+      "UsersEstimate": 25691
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -16866,7 +16871,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16698
+      "UsersEstimate": 16699
     },
     {
       "ID": "ACH_COP_STAR",
@@ -16898,7 +16903,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11560
+      "UsersEstimate": 11561
     },
     {
       "ID": "ACH_GLUTEN",
@@ -16946,7 +16951,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_KIM",
@@ -17057,15 +17062,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128450,
+      "Progressed": 128453,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-21T11:02:56.7419493+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:09:13.5273903+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:09:34.0433758+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:01:19.2786889+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:09:13.527489+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:02:31.7934154+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:09:34.043508+00:00"
 }

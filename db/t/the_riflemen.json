@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12325,
+  "EOS_Progressed": 12333,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 1733,
-  "EOS_NewCompleters": 1167,
-  "EOS_Completed_Percentage": 95.41,
+  "EOS_NewPlayers": 1735,
+  "EOS_NewCompleters": 1161,
+  "EOS_Completed_Percentage": 95.35,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -2734,6 +2734,11 @@
       "Time": "2023-09-21T22:03:37.5163813+00:00",
       "NumProgressed": 12325,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-21T23:03:27.1335033+00:00",
+      "NumProgressed": 12333,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -2752,9 +2757,9 @@
       "ID": "firstMatch",
       "SetID": "b3jeemd",
       "Name": "First blood",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1480
     },
     {
       "ID": "grenadeKills",
@@ -2824,9 +2829,9 @@
       "ID": "rifleKills",
       "SetID": "b3jeemd",
       "Name": "Rifle Master",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 25
     },
     {
       "ID": "shotgunKills",
@@ -2857,13 +2862,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 12325,
+      "Progressed": 12333,
       "Completed": 11759
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:03:37.5163809+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:03:27.1335024+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:17.0170255+00:00",
-  "LastUpdate_Ratings": "2023-09-21T21:57:55.4067742+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:03:37.5164029+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:58:32.1314804+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:03:27.1335515+00:00"
 }

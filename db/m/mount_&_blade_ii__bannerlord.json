@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7249,10 +7249,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14535,
       "NumberOfAwardsMax": 7118
+    },
+    {
+      "Time": "2023-09-21T23:03:00.1547233+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14536,
+      "NumberOfAwardsMax": 7118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14535,
+  "NumberOfAwards": 14536,
   "NumberOfAwardsMax": 7118,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7290,7 +7296,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 819
+      "Count": 820
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7329,9 +7335,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61668,
+  "EOS_Progressed": 61671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23684,6 +23690,11 @@
       "Time": "2023-09-21T21:02:16.6741107+00:00",
       "NumProgressed": 61668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T23:03:28.1102328+00:00",
+      "NumProgressed": 61671,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23695,7 +23706,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "Apple of my eye",
@@ -23703,7 +23714,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9250
+      "UsersEstimate": 9251
     },
     {
       "ID": "Bannerlord",
@@ -23735,7 +23746,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "Catch",
@@ -23767,7 +23778,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "Duelist",
@@ -23919,7 +23930,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20350
+      "UsersEstimate": 20351
     },
     {
       "ID": "Lawbringer",
@@ -23927,7 +23938,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24051
+      "UsersEstimate": 24052
     },
     {
       "ID": "Lawmaker",
@@ -23975,7 +23986,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "Real Estate",
@@ -24047,7 +24058,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11100
+      "UsersEstimate": 11101
     },
     {
       "ID": "This Is Our Land",
@@ -24055,7 +24066,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "This is Sparta",
@@ -24102,15 +24113,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61668,
+      "Progressed": 61671,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-21T15:02:04.748833+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:03:38.3267383+00:00",
+  "LastChanged": "2023-09-21T23:03:00.154723+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:03:28.1102324+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:03:16.2689899+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:03:38.3268517+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:03:00.154724+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:03:28.1103846+00:00"
 }

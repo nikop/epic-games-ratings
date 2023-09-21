@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3211,
-  "EOS_Completed": 186,
-  "EOS_NewPlayers": 38,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 5.79,
+  "EOS_Progressed": 3212,
+  "EOS_Completed": 187,
+  "EOS_NewPlayers": 39,
+  "EOS_NewCompleters": 14,
+  "EOS_Completed_Percentage": 5.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4840,6 +4840,11 @@
       "Time": "2023-09-21T22:05:39.2674967+00:00",
       "NumProgressed": 3211,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2023-09-21T23:06:09.0907789+00:00",
+      "NumProgressed": 3212,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 24,
@@ -4851,7 +4856,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "10",
@@ -4867,7 +4872,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "12",
@@ -4963,7 +4968,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "23",
@@ -5027,7 +5032,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "9",
@@ -5042,13 +5047,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3211,
-      "Completed": 186
+      "Progressed": 3212,
+      "Completed": 187
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-21T22:05:39.2674962+00:00",
+  "LastChanged_Achievements": "2023-09-21T23:06:09.0907782+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:00:58.0979807+00:00",
-  "LastUpdate_Achievements": "2023-09-21T22:05:39.2675335+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:02:05.2145089+00:00",
+  "LastUpdate_Achievements": "2023-09-21T23:06:09.0908628+00:00"
 }
