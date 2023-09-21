@@ -6,12 +6,12 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~30,743 |
-| Just The Two of Us | 32.00% | ~28,935 |
+| Simoon | 34.00% | ~30,744 |
+| Just The Two of Us | 32.00% | ~28,936 |
 | Up On High | 25.00% | ~22,606 |
 | Under The Hood | 25.00% | ~22,606 |
-| Got Your Nose | 24.00% | ~21,701 |
-| The Gift of Gab | 24.00% | ~21,701 |
+| Got Your Nose | 24.00% | ~21,702 |
+| The Gift of Gab | 24.00% | ~21,702 |
 | Wrapping Up | 22.00% | ~19,893 |
 | More Than A Box Of Sand | 18.00% | ~16,276 |
 | The Dunboyne | 17.00% | ~15,372 |
@@ -20,7 +20,7 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~14,468 |
 | Sticky Paws | 16.00% | ~14,468 |
 | Bubble Up | 16.00% | ~14,468 |
-| Thread The Needle | 15.00% | ~13,563 |
+| Thread The Needle | 15.00% | ~13,564 |
 | Power to the People | 14.00% | ~12,659 |
 | Take That! | 13.00% | ~11,755 |
 | Nesting Giant | 13.00% | ~11,755 |
@@ -28,7 +28,7 @@ Number of Ratings: 43  (23.09.2022)
 | Big Spender | 13.00% | ~11,755 |
 | Badge Collector | 12.00% | ~10,851 |
 | Quite The Catch | 12.00% | ~10,851 |
-| Rowleys Way | 11.00% | ~9,946 |
+| Rowleys Way | 11.00% | ~9,947 |
 | The Machinist Mask | 10.00% | ~9,042 |
 | The Cartographer Mask | 10.00% | ~9,042 |
 | Balfron Connection | 10.00% | ~9,042 |
@@ -63,8 +63,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,713 |
 | Vivacious Vivarium | 2.00% | ~1,808 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,422 (Ranked 76)  
-Completed: 908 (1.00%) (Ranked 127)  
+Progressed: 90,424 (Ranked 76)  
+Completed: 910 (1.01%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -217,10 +217,10 @@ Completed: 908 (1.00%) (Ranked 127)
 | 2023-09-18 | 90,110 | 901 |
 | 2023-09-19 | 90,251 | 903 |
 | 2023-09-20 | 90,382 | 907 |
-| 2023-09-21 | 90,422 | 908 |
+| 2023-09-21 | 90,424 | 910 |
 ## Awards
-Max (Quickly Understood Controls): 24  (Ranked 491)  
-Sum: 86 (Ranked 426)  
+Max (Quickly Understood Controls): 24  (Ranked 492)  
+Sum: 86 (Ranked 427)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |

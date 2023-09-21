@@ -14,7 +14,7 @@
 | A good beginning | 34.00% | ~61 |
 | True G4M3R | 34.00% | ~61 |
 | One last step | 32.00% | ~58 |
-| Cable guy | 29.00% | ~52 |
+| Cable guy | 30.00% | ~54 |
 | Half the way | 29.00% | ~52 |
 | Champollion | 29.00% | ~52 |
 | In this together | 27.00% | ~49 |
@@ -30,7 +30,7 @@
 | I did it | 13.00% | ~23 |
 | Fashion victim | 13.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 329)  
+Progressed: 180 (Ranked 330)  
 Completed: 9 (5.00%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |

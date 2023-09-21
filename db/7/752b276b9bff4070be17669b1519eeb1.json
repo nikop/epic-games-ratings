@@ -2,12 +2,12 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 743,
-  "Ranking_Popularity": 498,
+  "Ranking_Rating": 730,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-07-29T23:57:57.562026+00:00",
@@ -344,6 +344,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-09-21T11:59:50.3598799+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -382,8 +388,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-09-21T11:00:18.3514113+00:00",
+  "LastChanged": "2023-09-21T11:59:50.3598797+00:00",
   "LastUpdate_AppInfo": "2023-09-14T13:02:18.7208546+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:00:18.3514119+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:06:36.8893869+00:00"
+  "LastUpdate_Ratings": "2023-09-21T11:59:50.3598802+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:06:18.5956942+00:00"
 }

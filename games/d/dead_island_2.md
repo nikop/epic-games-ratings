@@ -32,27 +32,27 @@ Rating: 4.54 (Ranked 505)
 | Humanity Distilled | 1.00% | ~6,835 |
 | I Am the Resurrection | 1.00% | ~6,835 |
 | Our True Nature | 1.00% | ~6,835 |
-| Down with the Sickness | 0.90% | ~6,151 |
+| Down with the Sickness | 0.90% | ~6,152 |
 | Max Headroom | 0.80% | ~5,468 |
-| Go, Bobcats! | 0.70% | ~4,784 |
-| Rising Star | 0.70% | ~4,784 |
+| Go, Bobcats! | 0.70% | ~4,785 |
+| Rising Star | 0.70% | ~4,785 |
 | Smorgasbord | 0.60% | ~4,101 |
 | Jumbo Keyring | 0.60% | ~4,101 |
-| Not Even My Final Form | 0.50% | ~3,417 |
-| Internet Famous | 0.50% | ~3,417 |
+| Not Even My Final Form | 0.50% | ~3,418 |
+| Internet Famous | 0.50% | ~3,418 |
 | Make it So | 0.40% | ~2,734 |
 | On Safari | 0.40% | ~2,734 |
 | Variety is the Spice of Death | 0.40% | ~2,734 |
-| LA Influential | 0.30% | ~2,050 |
-| Sole Survivor | 0.30% | ~2,050 |
-| Gore Horse | 0.30% | ~2,050 |
-| Sharpest Tool in the Box | 0.30% | ~2,050 |
+| LA Influential | 0.30% | ~2,051 |
+| Sole Survivor | 0.30% | ~2,051 |
+| Gore Horse | 0.30% | ~2,051 |
+| Sharpest Tool in the Box | 0.30% | ~2,051 |
 | Survival Skills | 0.20% | ~1,367 |
-| Donk! | 0.10% | ~683 |
-| Bucket List | 0.10% | ~683 |
+| Donk! | 0.10% | ~684 |
+| Bucket List | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,499 (Ranked 22)  
-Completed: 2,158 (0.32%) (Ranked 180)  
+Progressed: 683,524 (Ranked 22)  
+Completed: 2,159 (0.32%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,7 +205,7 @@ Completed: 2,158 (0.32%) (Ranked 180)
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
-| 2023-09-21 | 683,499 | 2,158 |
+| 2023-09-21 | 683,524 | 2,159 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,096 (Ranked 93)  

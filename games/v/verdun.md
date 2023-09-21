@@ -6,9 +6,9 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~45,864 |
-| Worth it | 63.00% | ~37,044 |
-| Eagle Eye | 55.00% | ~32,340 |
+| Setting an example | 78.00% | ~45,865 |
+| Worth it | 63.00% | ~37,045 |
+| Eagle Eye | 55.00% | ~32,341 |
 | Corpseman I | 40.00% | ~23,520 |
 | Blast fishing | 37.00% | ~21,756 |
 | Not alone | 32.00% | ~18,816 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~59 |
 | Blood Brother | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,800 (Ranked 90)  
+Progressed: 58,801 (Ranked 90)  
 Completed: 4 (0.01%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 4 (0.01%) (Ranked 266)
 | 2023-09-18 | 58,618 | 4 |
 | 2023-09-19 | 58,713 | 4 |
 | 2023-09-20 | 58,779 | 4 |
-| 2023-09-21 | 58,800 | 4 |
+| 2023-09-21 | 58,801 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 345)  
 Sum: 777 (Ranked 269)  

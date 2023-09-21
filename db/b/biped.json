@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6006,
+  "EOS_Progressed": 6010,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10081,6 +10081,11 @@
       "Time": "2023-09-21T11:07:16.0484241+00:00",
       "NumProgressed": 6006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T12:06:57.1390997+00:00",
+      "NumProgressed": 6010,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10092,7 +10097,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2104
     },
     {
       "ID": "10",
@@ -10148,7 +10153,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "3",
@@ -10156,7 +10161,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "4",
@@ -10172,7 +10177,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "6",
@@ -10180,7 +10185,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "7",
@@ -10188,7 +10193,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "8",
@@ -10204,14 +10209,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6006,
+      "Progressed": 6010,
       "Completed": 0
     }
   ],
@@ -10219,8 +10224,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-21T11:07:16.0484237+00:00",
+  "LastChanged_Achievements": "2023-09-21T12:06:57.139099+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:01:01.7468701+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:07:16.04852+00:00"
+  "LastUpdate_Ratings": "2023-09-21T12:00:35.185046+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:06:57.1392005+00:00"
 }

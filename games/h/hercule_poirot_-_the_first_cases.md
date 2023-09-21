@@ -15,7 +15,7 @@ Rating: 4.35 (Ranked 760)
 | Major Felix Hagen | 55.00% | ~235 |
 | Fine-toothed Comb | 54.00% | ~231 |
 | Florette Duval | 54.00% | ~231 |
-| Order and Method | 52.00% | ~222 |
+| Order and Method | 53.00% | ~226 |
 | The Altercation | 50.00% | ~214 |
 | Truth from Within | 49.00% | ~209 |
 | The Major | 47.00% | ~201 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 760)
 | Room with a View | 7.00% | ~30 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 264)  
+Progressed: 427 (Ranked 265)  
 Completed: 6 (1.41%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |

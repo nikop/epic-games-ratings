@@ -7,22 +7,22 @@ Number of Ratings: 1,396  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goofy's Investor | 70.00% | ~6,996 |
-| Photographer | 69.00% | ~6,896 |
-| Valley's Helper | 63.00% | ~6,296 |
+| Photographer | 69.00% | ~6,897 |
+| Valley's Helper | 63.00% | ~6,297 |
 | Constructor | 52.00% | ~5,197 |
 | Renovator | 51.00% | ~5,097 |
-| Bestest Friend | 47.00% | ~4,697 |
+| Bestest Friend | 47.00% | ~4,698 |
 | Banker | 39.00% | ~3,898 |
 | Gardener | 31.00% | ~3,098 |
 | Generous | 24.00% | ~2,399 |
 | Chef Cook | 17.00% | ~1,699 |
-| Miner | 9.00% | ~899 |
+| Miner | 9.00% | ~900 |
 | Duty Bound | 6.00% | ~600 |
 | Angler | 5.00% | ~500 |
 | Thorn Cleaner | 5.00% | ~500 |
 | Chit Chatter | 3.00% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,994 (Ranked 134)  
+Progressed: 9,995 (Ranked 134)  
 Completed: 228 (2.28%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,22 +127,22 @@ Completed: 228 (2.28%) (Ranked 94)
 | 2023-09-18 | 9,897 | 225 |
 | 2023-09-19 | 9,942 | 227 |
 | 2023-09-20 | 9,980 | 228 |
-| 2023-09-21 | 9,994 | 228 |
+| 2023-09-21 | 9,995 | 228 |
 ## Awards
 Max (Great for Beginners): 958  (Ranked 149)  
-Sum: 7,560 (Ranked 106)  
+Sum: 7,567 (Ranked 106)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 958 |
 | This game has Diverse Characters | 830 |
-| This game is Relaxing | 798 |
-| This game is Highly Recommended | 797 |
-| This game has Amazing Characters | 795 |
+| This game is Highly Recommended | 799 |
+| This game is Relaxing | 799 |
+| This game has Amazing Characters | 797 |
 | This game has Amazing Storytelling | 764 |
 | This game is Extremely Fun | 744 |
-| This game has Quickly Understood Controls | 740 |
-| This game has a Creative Community | 631 |
+| This game has Quickly Understood Controls | 741 |
+| This game has a Creative Community | 632 |
 | This game has Easy Combat | 503 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -340,3 +340,4 @@ Diff (max vs sum): 43
 | 2023-09-18 | 4.76 | - | 954 | 7,546 |
 | 2023-09-19 | 4.76 | - | 955 | 7,551 |
 | 2023-09-20 | 4.76 | - | 958 | 7,560 |
+| 2023-09-21 | 4.76 | - | 958 | 7,567 |

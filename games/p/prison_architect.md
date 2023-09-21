@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~44,155 |
-| Get Busy Living | 16.00% | ~28,259 |
-| Samuel Norton | 9.00% | ~15,896 |
-| Spare The Rod | 5.00% | ~8,831 |
+| Stone Walls | 25.00% | ~44,158 |
+| Get Busy Living | 16.00% | ~28,261 |
+| Samuel Norton | 9.00% | ~15,897 |
+| Spare The Rod | 5.00% | ~8,832 |
 | Don't Put Me In The Dark | 3.00% | ~5,299 |
 | Wait and Hope | 3.00% | ~5,299 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,299 |
-| Throw The Book At Them | 2.00% | ~3,532 |
-| Iron Bars | 2.00% | ~3,532 |
+| Throw The Book At Them | 2.00% | ~3,533 |
+| Iron Bars | 2.00% | ~3,533 |
 | D.B. Cooper | 1.00% | ~1,766 |
 | Reformation | 0.60% | ~1,060 |
 | Crowd Control | 0.50% | ~883 |
-| Freedom | 0.40% | ~706 |
+| Freedom | 0.40% | ~707 |
 | Confined | 0.30% | ~530 |
 | It's Not What You Know... | 0.10% | ~177 |
 | ... It's What You Can Prove | 0.10% | ~177 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176,621 (Ranked 66)  
+Progressed: 176,630 (Ranked 66)  
 Completed: 8 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,10 +177,10 @@ Completed: 8 (0.00%) (Ranked 281)
 | 2023-09-18 | 176,018 | 8 |
 | 2023-09-19 | 176,274 | 8 |
 | 2023-09-20 | 176,524 | 8 |
-| 2023-09-21 | 176,621 | 8 |
+| 2023-09-21 | 176,630 | 8 |
 ## Awards
 Max (Extremely Fun): 509  (Ranked 200)  
-Sum: 4,351 (Ranked 140)  
+Sum: 4,353 (Ranked 140)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -190,10 +190,10 @@ Diff (max vs sum): 60
 | This game has Quickly Understood Controls | 472 |
 | This game is Relaxing | 453 |
 | This game has Diverse Characters | 428 |
-| This game has Amazing Storytelling | 423 |
+| This game has Amazing Storytelling | 424 |
 | This game is Educational | 412 |
 | This game has Amazing Characters | 387 |
-| This game has a Creative Community | 301 |
+| This game has a Creative Community | 302 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -439,4 +439,4 @@ Diff (max vs sum): 60
 | 2023-09-18 | 4.61 | - | 506 | 3,917 |
 | 2023-09-19 | 4.61 | - | 506 | 3,929 |
 | 2023-09-20 | 4.61 | - | 506 | 3,936 |
-| 2023-09-21 | 4.61 | - | 509 | 4,351 |
+| 2023-09-21 | 4.61 | - | 509 | 4,353 |

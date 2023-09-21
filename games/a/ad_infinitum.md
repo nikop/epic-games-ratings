@@ -11,14 +11,14 @@
 | Hunger | 39.00% | ~11 |
 | Path of Corruption | 21.00% | ~6 |
 | Hope | 18.00% | ~5 |
+| An act of courage | 11.00% | ~3 |
 | Health | 11.00% | ~3 |
 | Lost | 11.00% | ~3 |
+| Path of Pain | 11.00% | ~3 |
 | Rage | 11.00% | ~3 |
 | Reflections | 11.00% | ~3 |
 | The shining | 11.00% | ~3 |
-| An act of courage | 7.00% | ~2 |
 | Mayhem | 7.00% | ~2 |
-| Path of Pain | 7.00% | ~2 |
 | An act of mercy | 4.00% | ~1 |
 | Ad Infinitum | 4.00% | ~1 |
 | Art critic | 4.00% | ~1 |

@@ -531,8 +531,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dive Bomb | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,539 (Ranked 57)  
-Completed: 2,297 (1.00%) (Ranked 127)  
+Progressed: 229,547 (Ranked 57)  
+Completed: 2,297 (1.00%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -685,7 +685,7 @@ Completed: 2,297 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,539 | 2,297 |
+| 2023-09-21 | 229,547 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,663 (Ranked 39)  

@@ -35,8 +35,8 @@
 | Turn the last page | 30.00% | ~13 |
 | Ring-a-ding-ding | 30.00% | ~13 |
 | Singstar | 28.00% | ~12 |
+| Bahahahaha... | 28.00% | ~12 |
 | Makeover | 26.00% | ~11 |
-| Bahahahaha... | 26.00% | ~11 |
 | Kill it! KILL IT! | 26.00% | ~11 |
 | Guilty conscience | 23.00% | ~10 |
 | Cameodalic | 21.00% | ~9 |
@@ -44,7 +44,7 @@
 | What a mess | 16.00% | ~7 |
 | Posterboy! | 14.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 421)  
+Progressed: 43 (Ranked 422)  
 Completed: 5 (11.63%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |

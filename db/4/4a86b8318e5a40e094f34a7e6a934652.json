@@ -631,9 +631,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -655,9 +655,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "HOUSEWARMING",
@@ -703,9 +703,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-21T11:09:55.0348054+00:00",
+  "LastChanged_Achievements": "2023-09-21T12:09:38.3572337+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-21T10:59:45.4730754+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:09:55.0348247+00:00"
+  "LastUpdate_Ratings": "2023-09-21T11:59:18.9353541+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:09:38.3572549+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4692,10 +4692,10 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 683499,
-  "EOS_Completed": 2158,
-  "EOS_NewPlayers": 3998,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 683524,
+  "EOS_Completed": 2159,
+  "EOS_NewPlayers": 3997,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -22002,6 +22002,11 @@
       "Time": "2023-09-21T11:07:57.8087572+00:00",
       "NumProgressed": 683499,
       "NumCompleted": 2158
+    },
+    {
+      "Time": "2023-09-21T12:07:39.8910929+00:00",
+      "NumProgressed": 683524,
+      "NumCompleted": 2159
     }
   ],
   "TotalAchievements": 45,
@@ -22053,7 +22058,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ach_blueprinted",
@@ -22149,7 +22154,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "ach_hazardous_materials",
@@ -22181,7 +22186,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ach_internet_famous",
@@ -22189,7 +22194,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "ach_investigator",
@@ -22197,7 +22202,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -22237,7 +22242,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ach_metropolitan",
@@ -22269,7 +22274,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6151
+      "UsersEstimate": 6152
     },
     {
       "ID": "ach_secrets_of_la",
@@ -22277,7 +22282,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ach_skilled_up",
@@ -22317,7 +22322,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4784
+      "UsersEstimate": 4785
     },
     {
       "ID": "ach_thesacrifice",
@@ -22357,7 +22362,7 @@
       "Name": "Rising Star",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 4784
+      "UsersEstimate": 4785
     },
     {
       "ID": "ach_well_trained",
@@ -22365,29 +22370,29 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 683499,
-      "Completed": 2158
+      "Progressed": 683524,
+      "Completed": 2159
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 9040,
-      "Completed": 9040
+      "Progressed": 9065,
+      "Completed": 9065
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-21T01:40:37.1420589+00:00",
-  "LastChanged_Achievements": "2023-09-21T11:07:57.8087568+00:00",
+  "LastChanged_Achievements": "2023-09-21T12:07:39.891092+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:01:54.7428817+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:07:57.8089229+00:00"
+  "LastUpdate_Ratings": "2023-09-21T12:01:32.3068593+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:07:39.8912342+00:00"
 }

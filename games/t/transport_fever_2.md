@@ -64,7 +64,7 @@ Number of Ratings: 180  (23.09.2022)
 | Trans-Siberian Railway | 1.00% | ~17 |
 | Train Fever | 0.90% | ~15 |
 | Louis Favre | 0.80% | ~13 |
-| Big spender | 0.40% | ~7 |
+| Big spender | 0.50% | ~8 |
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

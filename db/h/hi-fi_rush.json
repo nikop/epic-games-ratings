@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4079,
+  "EOS_Progressed": 4080,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6670,6 +6670,11 @@
       "Time": "2023-09-21T09:03:38.7454674+00:00",
       "NumProgressed": 4079,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-21T12:04:21.4984954+00:00",
+      "NumProgressed": 4080,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7049,7 +7054,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "Ach048",
@@ -7248,13 +7253,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4079,
+      "Progressed": 4080,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2600,
+      "Progressed": 2601,
       "Completed": 1930
     }
   ],
@@ -7262,8 +7267,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-21T11:04:39.1742224+00:00",
+  "LastChanged_Achievements": "2023-09-21T12:04:21.4984942+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:01:06.2146709+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:04:39.1743305+00:00"
+  "LastUpdate_Ratings": "2023-09-21T12:00:41.2857101+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:04:21.4986124+00:00"
 }

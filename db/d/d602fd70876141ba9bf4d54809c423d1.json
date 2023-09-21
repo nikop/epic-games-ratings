@@ -542,9 +542,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "ap8553i",
       "Name": "Slither into Oblivion",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -814,9 +814,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "ap8553i",
       "Name": "Entry Level Electrician",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-21T11:04:40.4547564+00:00",
+  "LastChanged_Achievements": "2023-09-21T12:04:22.7568591+00:00",
   "LastUpdate_AppInfo": "2023-09-20T20:57:03.8652569+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:03:23.3252353+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:04:40.4548262+00:00"
+  "LastUpdate_Ratings": "2023-09-21T12:03:14.3202755+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:04:22.7569493+00:00"
 }

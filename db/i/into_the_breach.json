@@ -3,11 +3,11 @@
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 50,
-  "Ranking_Popularity": 213,
+  "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
@@ -3391,11 +3391,17 @@
       "Rating": 4.84,
       "NumberOfAwards": 4000,
       "NumberOfAwardsMax": 423
+    },
+    {
+      "Time": "2023-09-21T12:02:32.0620571+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4002,
+      "NumberOfAwardsMax": 424
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4000,
-  "NumberOfAwardsMax": 423,
+  "NumberOfAwards": 4002,
+  "NumberOfAwardsMax": 424,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3432,7 +3438,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 423
+      "Count": 424
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3444,7 +3450,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 390
+      "Count": 391
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3488,8 +3494,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-09-21T08:01:59.1591422+00:00",
+  "LastChanged": "2023-09-21T12:02:32.0620569+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.3408942+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:02:54.002188+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:09:42.4269171+00:00"
+  "LastUpdate_Ratings": "2023-09-21T12:02:32.0620576+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:09:25.66833+00:00"
 }

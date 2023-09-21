@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11654,
+  "EOS_Progressed": 11657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10106,6 +10106,11 @@
       "Time": "2023-09-21T03:04:57.8370875+00:00",
       "NumProgressed": 11654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T12:05:56.9755016+00:00",
+      "NumProgressed": 11657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -10117,7 +10122,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -10189,7 +10194,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5128
+      "UsersEstimate": 5129
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -10316,14 +10321,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11654,
+      "Progressed": 11657,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-21T11:06:14.712441+00:00",
+  "LastChanged_Achievements": "2023-09-21T12:05:56.9755009+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5872219+00:00",
-  "LastUpdate_Ratings": "2023-09-21T10:59:23.9409581+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:06:14.7125203+00:00"
+  "LastUpdate_Ratings": "2023-09-21T11:58:58.2604839+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:05:56.9756024+00:00"
 }

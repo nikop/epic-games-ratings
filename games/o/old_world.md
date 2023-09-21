@@ -192,6 +192,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Word of God | 0.20% | ~28 |
 | Randomized Families | 0.20% | ~28 |
 | Randomized Leaders | 0.20% | ~28 |
+| Time Victory | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Musaeum in Alexandria | 0.10% | ~14 |
@@ -273,7 +274,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Characters | 0.10% | ~14 |
 | One City Challenge | 0.10% | ~14 |
 | Role-Playing | 0.10% | ~14 |
-| Time Victory | 0.10% | ~14 |
 | Win a 1-v-1 Game | 0.10% | ~14 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~14 |
 | Win a MP Teams Game | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,020 (Ranked 125)  
+Progressed: 14,021 (Ranked 125)  
 Completed: 5 (0.04%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -457,7 +457,7 @@ Completed: 5 (0.04%) (Ranked 248)
 | 2023-09-18 | 13,997 | 5 |
 | 2023-09-19 | 14,005 | 5 |
 | 2023-09-20 | 14,017 | 5 |
-| 2023-09-21 | 14,020 | 5 |
+| 2023-09-21 | 14,021 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,812 (Ranked 207)  

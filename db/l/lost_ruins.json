@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1124,8 +1124,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-09-21T11:07:32.0378433+00:00",
+  "LastChanged_Achievements": "2023-09-21T12:07:14.2602386+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.131083+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:04:06.7184581+00:00",
-  "LastUpdate_Achievements": "2023-09-21T11:07:32.0378948+00:00"
+  "LastUpdate_Ratings": "2023-09-21T12:03:28.1010616+00:00",
+  "LastUpdate_Achievements": "2023-09-21T12:07:14.260278+00:00"
 }
