@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.08% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.56% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.02% |
@@ -106,8 +106,8 @@
 | 103 | [Sifu](games/s/sifu.md) | 1.80% |
 | 105 | [Somerville](games/s/somerville.md) | 1.71% |
 | 106 | [Five Dates](games/f/five_dates.md) | 1.66% |
-| 107 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.52% |
 | 107 | [Iron Danger](games/i/iron_danger.md) | 1.52% |
+| 108 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.50% |
 | 109 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.48% |
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 111 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
@@ -133,7 +133,7 @@
 | 131 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 132 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 133 | [Hades](games/h/hades.md) | 0.90% |
-| 133 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.90% |
+| 134 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.88% |
 | 135 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 136 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 136 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -141,21 +141,21 @@
 | 139 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 140 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.70% |
 | 141 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.68% |
-| 142 | [It Takes Two](games/i/it_takes_two.md) | 0.66% |
-| 143 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.64% |
-| 143 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
-| 145 | [Haven](games/h/haven.md) | 0.62% |
-| 145 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.62% |
-| 147 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 147 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 149 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
-| 150 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
-| 151 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 152 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.57% |
-| 152 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
-| 154 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 154 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
-| 156 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
+| 142 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.64% |
+| 142 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
+| 144 | [Haven](games/h/haven.md) | 0.62% |
+| 144 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.62% |
+| 146 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 146 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
+| 148 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
+| 149 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
+| 150 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 151 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.57% |
+| 151 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
+| 153 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 153 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
+| 155 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
+| 155 | [It Takes Two](games/i/it_takes_two.md) | 0.54% |
 | 157 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
 | 157 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 159 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.50% |
@@ -616,4 +616,4 @@
 | 281 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 281 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 281 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,273 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,274 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
