@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.45% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.40% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.56% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.63% |
@@ -74,7 +74,7 @@
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 74 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.07% |
+| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.08% |
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -124,8 +124,8 @@
 | 122 | [Eternights](games/e/eternights.md) | 1.05% |
 | 123 | [Adios](games/a/adios.md) | 1.04% |
 | 124 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
-| 124 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
-| 126 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 125 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 125 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 127 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 127 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 127 | [Sable](games/s/sable.md) | 1.00% |
@@ -139,8 +139,8 @@
 | 137 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 138 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.71% |
-| 140 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.69% |
-| 141 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.68% |
+| 140 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.68% |
+| 140 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.68% |
 | 142 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.64% |
 | 142 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 144 | [Haven](games/h/haven.md) | 0.62% |
