@@ -36,6 +36,7 @@
 | [Urbek City Builder](../games/u/urbek_city_builder.md) | 79 | 1,000 |
 | [Dying Light Enhanced Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
+| [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 |
 | [Good Company](../games/g/good_company.md) | 76 | 1,000 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |

@@ -335,6 +335,7 @@
 | [Ken Follett's The Pillars of the Earth](../games/k/ken_follett's_the_pillars_of_the_earth.md) | 41 | 1,000 |
 | [Kena: Bridge of Spirits](../games/k/kena__bridge_of_spirits.md) | 41 | 1,000 |
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |
+| [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 |
 | [Knight vs Giant: The Broken Excalibur](../games/9/973549a03a1441058badf7a1bc8b565d.md) | 25 | 1,000 |
 | [Lamentum](../games/l/lamentum.md) | 19 | 1,000 |
 | [laserlemon Production](../games/l/laserlemon_production.md) | 22 | 1,000 |

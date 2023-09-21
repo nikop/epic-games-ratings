@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.00% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 95.91% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.56% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.02% |
@@ -65,7 +65,7 @@
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
-| 66 | [The Complex](games/t/the_complex.md) | 3.43% |
+| 66 | [The Complex](games/t/the_complex.md) | 3.42% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.41% |
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 69 | [Doodle God](games/d/doodle_god.md) | 3.35% |
@@ -74,7 +74,7 @@
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 74 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.08% |
+| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.09% |
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
@@ -83,7 +83,7 @@
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 82 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.63% |
 | 83 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.58% |
-| 84 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.54% |
+| 84 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.52% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -121,8 +121,8 @@
 | 119 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 120 | [Infindustry](games/i/infindustry.md) | 1.18% |
 | 121 | [Trifox](games/t/trifox.md) | 1.09% |
-| 122 | [Eternights](games/e/eternights.md) | 1.05% |
-| 123 | [Adios](games/a/adios.md) | 1.04% |
+| 122 | [Adios](games/a/adios.md) | 1.04% |
+| 122 | [Eternights](games/e/eternights.md) | 1.04% |
 | 124 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
 | 125 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
 | 125 | [Sable](games/s/sable.md) | 1.01% |
@@ -131,9 +131,9 @@
 | 128 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 130 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 131 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
-| 132 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
-| 133 | [Hades](games/h/hades.md) | 0.90% |
-| 134 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.88% |
+| 132 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.94% |
+| 133 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
+| 134 | [Hades](games/h/hades.md) | 0.90% |
 | 135 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 136 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 136 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -155,10 +155,10 @@
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 153 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
 | 155 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
-| 155 | [It Takes Two](games/i/it_takes_two.md) | 0.54% |
-| 157 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 157 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 159 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.50% |
+| 156 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
+| 156 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 158 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.50% |
+| 159 | [It Takes Two](games/i/it_takes_two.md) | 0.48% |
 | 160 | [Godlike Burger](games/g/godlike_burger.md) | 0.47% |
 | 160 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 162 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
@@ -426,6 +426,7 @@
 | 281 | [Kabaret](games/k/kabaret.md) | 0.00% |
 | 281 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 0.00% |
 | 281 | [KeyWe](games/k/keywe.md) | 0.00% |
+| 281 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.00% |
 | 281 | [Knight vs Giant: The Broken Excalibur](games/9/973549a03a1441058badf7a1bc8b565d.md) | 0.00% |
 | 281 | [laserlemon Production](games/l/laserlemon_production.md) | 0.00% |
 | 281 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 0.00% |
@@ -534,6 +535,7 @@
 | 281 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
 | 281 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
 | 281 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 0.00% |
+| 281 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.00% |
 | 281 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
 | 281 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 0.00% |
 | 281 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.00% |
