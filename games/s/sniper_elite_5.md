@@ -5,15 +5,15 @@ Rating: 4.46 (Ranked 628)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,678 |
-| Confirming Suspicions | 40.00% | ~1,459 |
-| The Kraken Wakes | 36.00% | ~1,313 |
+| Meeting Resistance | 46.00% | ~1,679 |
+| Confirming Suspicions | 40.00% | ~1,460 |
+| The Kraken Wakes | 36.00% | ~1,314 |
 | It's Starting to Crack | 33.00% | ~1,204 |
-| Change the Channel | 30.00% | ~1,094 |
+| Change the Channel | 30.00% | ~1,095 |
 | Lord of War | 29.00% | ~1,058 |
-| Taking it back | 28.00% | ~1,021 |
-| Resourceful | 26.00% | ~948 |
-| Target America | 26.00% | ~948 |
+| Taking it back | 28.00% | ~1,022 |
+| Resourceful | 26.00% | ~949 |
+| Target America | 26.00% | ~949 |
 | The Kraken Sleeps | 24.00% | ~876 |
 | Liberté | 22.00% | ~803 |
 | Organ Grinder | 22.00% | ~803 |
@@ -77,8 +77,8 @@ Rating: 4.46 (Ranked 628)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,648 (Ranked 166)  
-Completed: 11 (0.30%) (Ranked 184)  
+Progressed: 3,649 (Ranked 166)  
+Completed: 11 (0.30%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 11 (0.30%) (Ranked 184)
 | 2023-09-18 | 3,637 | 11 |
 | 2023-09-19 | 3,639 | 11 |
 | 2023-09-20 | 3,645 | 11 |
-| 2023-09-21 | 3,648 | 11 |
+| 2023-09-21 | 3,649 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -32,7 +32,7 @@
 | Tutorial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 480)  
-Completed: 0 (0.00%) (Ranked 281)  
+Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

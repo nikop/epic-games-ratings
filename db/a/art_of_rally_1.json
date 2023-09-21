@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10246,
+  "EOS_Progressed": 10247,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1516,6 +1516,11 @@
       "Time": "2023-09-20T22:08:05.8979538+00:00",
       "NumProgressed": 10246,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-21T21:08:10.0182969+00:00",
+      "NumProgressed": 10247,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1631,7 +1636,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1663,7 +1668,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -1687,7 +1692,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1735,7 +1740,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5840
+      "UsersEstimate": 5841
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1751,7 +1756,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9836
+      "UsersEstimate": 9837
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1783,7 +1788,7 @@
       "Name": "the artist",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACH_RAIN",
@@ -1815,7 +1820,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "ACH_SNOW",
@@ -1863,22 +1868,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7377
+      "UsersEstimate": 7378
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10246,
+      "Progressed": 10247,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:08:10.5281564+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:08:10.0182963+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.9885415+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:59:32.7290455+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:08:10.5282031+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:58:59.5345646+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:08:10.0183416+00:00"
 }

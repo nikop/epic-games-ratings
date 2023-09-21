@@ -3,9 +3,9 @@
   "Name": "Line\u0027s Guarder",
   "ProductSlug": "lines-guarder-174742",
   "Ranking_EOS_Progress": 627,
-  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-05T17:00:00+00:00",
     "PcReleaseDate": "2023-06-21T17:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-07-06T23:57:15.1878003+00:00",
   "FirstSeenAchievements": "2023-06-12T13:06:56.9739679+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:07:52.2820093+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:06:45.48578+00:00",
   "LastUpdate_AppInfo": "2023-09-18T01:38:54.8480392+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:58:20.8958951+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:07:52.2820137+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:58:00.1640786+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:06:45.4857852+00:00"
 }

@@ -10,7 +10,7 @@
 | I didn't do it! | 42.00% | ~50 |
 | Demolition expert | 38.00% | ~46 |
 | Keep away from children | 37.00% | ~44 |
-| Wooooooow! | 36.00% | ~43 |
+| Wooooooow! | 37.00% | ~44 |
 | Artistic fool | 34.00% | ~41 |
 | Open up wide | 33.00% | ~40 |
 | Let the boot talk | 32.00% | ~38 |
@@ -33,7 +33,7 @@
 | To err is human... | 12.00% | ~14 |
 | Nothing can stop me | 10.00% | ~12 |
 | Mumbo Jumbo | 10.00% | ~12 |
-| Useless but beautiful | 8.00% | ~10 |
+| Useless but beautiful | 9.00% | ~11 |
 | Lollipop | 8.00% | ~10 |
 | Where there is life, there is hope | 8.00% | ~10 |
 | It's nothing personal | 8.00% | ~10 |
@@ -51,8 +51,8 @@
 | Done. First! | 0.80% | ~1 |
 | Do not feed the fish! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 355)  
-Completed: 0 (0.00%) (Ranked 281)  
+Progressed: 120 (Ranked 356)  
+Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

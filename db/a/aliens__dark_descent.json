@@ -6,9 +6,9 @@
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3342,
+  "EOS_Progressed": 3343,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4569,6 +4569,11 @@
       "Time": "2023-09-21T19:09:03.5848048+00:00",
       "NumProgressed": 3342,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-21T21:08:14.2525811+00:00",
+      "NumProgressed": 3343,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4588,7 +4593,7 @@
       "Name": "Flawless Victory",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -4596,7 +4601,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -4620,7 +4625,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -4660,7 +4665,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -4692,7 +4697,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4700,7 +4705,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4748,7 +4753,7 @@
       "Name": "Frontliner",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -4764,7 +4769,7 @@
       "Name": "The Cable Guy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH_MISSION_01",
@@ -4876,7 +4881,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4884,7 +4889,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2740
+      "UsersEstimate": 2741
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4906,9 +4911,9 @@
       "ID": "ACH_SECURE_MARINE",
       "SetID": "816efe",
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1371
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4939,7 +4944,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3342,
+      "Progressed": 3343,
       "Completed": 3
     }
   ],
@@ -4947,8 +4952,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:08:16.0846293+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:08:14.2525804+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:57:10.0571083+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:08:16.0847091+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:57:00.7195125+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:08:14.2526381+00:00"
 }

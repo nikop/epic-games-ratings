@@ -6,7 +6,7 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,199 |
+| Colonize a Planet | 79.00% | ~5,265 |
 | Worker Specialization | 78.00% | ~5,199 |
 | First Contact | 73.00% | ~4,865 |
 | Win a Battle | 66.00% | ~4,399 |
@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,665 (Ranked 144)  
-Completed: 0 (0.00%) (Ranked 281)  
+Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

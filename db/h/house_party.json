@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -370,7 +370,7 @@
   "Tags": [],
   "EOS_Progressed": 6240,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5533,9 +5533,9 @@
       "ID": "NC_Vickie",
       "SetID": "bmkn7o4",
       "Name": "Newcomer: Vickie",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 62
     },
     {
       "ID": "NoticeMe",
@@ -5621,9 +5621,9 @@
       "ID": "SocialButterfly",
       "SetID": "bmkn7o4",
       "Name": "Social Butterfly",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "Stephanie",
@@ -5803,8 +5803,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:07:05.022659+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:06:07.1714568+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.7446056+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:58:13.7571348+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:07:05.0227839+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:57:54.4751907+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:06:07.1715622+00:00"
 }

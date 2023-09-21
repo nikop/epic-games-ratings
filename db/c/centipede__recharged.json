@@ -6,8 +6,8 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17264,
+  "EOS_Progressed": 17265,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -12102,6 +12102,11 @@
       "Time": "2023-09-21T20:04:11.7133321+00:00",
       "NumProgressed": 17264,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-09-21T21:03:46.6701212+00:00",
+      "NumProgressed": 17265,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 16,
@@ -12113,7 +12118,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     },
     {
       "ID": "Burning_For_You",
@@ -12169,7 +12174,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "I_Am_The_Storm",
@@ -12233,22 +12238,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17264,
+      "Progressed": 17265,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:04:11.7133315+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:03:46.6701205+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.7549106+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:01:02.4109778+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:04:11.7134125+00:00"
+  "LastUpdate_Ratings": "2023-09-21T21:00:11.137426+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:03:46.6702051+00:00"
 }

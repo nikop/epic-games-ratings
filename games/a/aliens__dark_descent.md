@@ -5,21 +5,21 @@ Rating: 4.49 (Ranked 585)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,740 |
-| Snatched Out | 74.00% | ~2,473 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,741 |
+| Snatched Out | 74.00% | ~2,474 |
 | Keep 'Em Coming | 73.00% | ~2,440 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,239 |
-| Call Me Snake | 63.00% | ~2,105 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,240 |
+| Call Me Snake | 63.00% | ~2,106 |
 | Something Lurks Under The Hills | 61.00% | ~2,039 |
 | This Was No Papercut | 59.00% | ~1,972 |
 | People Person | 56.00% | ~1,872 |
 | The Shrink Hates Me | 56.00% | ~1,872 |
 | Use The Bumper, That's What It's For | 52.00% | ~1,738 |
 | First Steps Into Madness | 52.00% | ~1,738 |
-| Colonial Barrels | 50.00% | ~1,671 |
+| Colonial Barrels | 50.00% | ~1,672 |
 | Harper's Hell | 45.00% | ~1,504 |
 | Making a Stand | 43.00% | ~1,437 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,404 |
+| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,371 |
 | Where It All Begun | 40.00% | ~1,337 |
 | Recouped Investment | 38.00% | ~1,270 |
 | Omelette Du Fromage | 33.00% | ~1,103 |
@@ -34,13 +34,13 @@ Rating: 4.49 (Ranked 585)
 | Stuff Of Nightmares | 23.00% | ~769 |
 | Excavating The Truth | 21.00% | ~702 |
 | Abysmal Horrors | 21.00% | ~702 |
-| One For Every Occasion | 20.00% | ~668 |
-| Frontliner | 20.00% | ~668 |
-| The Cable Guy | 20.00% | ~668 |
+| One For Every Occasion | 20.00% | ~669 |
+| Frontliner | 20.00% | ~669 |
+| The Cable Guy | 20.00% | ~669 |
 | Bandage Lover | 18.00% | ~602 |
 | Regicide | 15.00% | ~501 |
-| Flawless Victory | 13.00% | ~434 |
-| This Went Smoothly | 13.00% | ~434 |
+| Flawless Victory | 13.00% | ~435 |
+| This Went Smoothly | 13.00% | ~435 |
 | Heavy Steps | 12.00% | ~401 |
 | Perfect Enhancements | 9.00% | ~301 |
 | Hardened In The Heat Of Battle | 7.00% | ~234 |
@@ -51,8 +51,8 @@ Rating: 4.49 (Ranked 585)
 | Chalk It Up To Experience | 0.80% | ~27 |
 | This Ain't No Picnic | 0.70% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,342 (Ranked 172)  
-Completed: 3 (0.09%) (Ranked 230)  
+Progressed: 3,343 (Ranked 172)  
+Completed: 3 (0.09%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 3 (0.09%) (Ranked 230)
 | 2023-09-18 | 3,306 | 3 |
 | 2023-09-19 | 3,320 | 3 |
 | 2023-09-20 | 3,329 | 3 |
-| 2023-09-21 | 3,342 | 3 |
+| 2023-09-21 | 3,343 | 3 |
 ## Awards
 Max (Great Boss Battles): 28  (Ranked 470)  
 Sum: 28 (Ranked 487)  

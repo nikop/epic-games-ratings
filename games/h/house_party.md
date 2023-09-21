@@ -17,10 +17,10 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 2.00% | ~125 |
 | Drunk and Disorderly: Ashley | 1.00% | ~62 |
 | IRL Let's Player | 1.00% | ~62 |
-| Newcomer: Vickie | 0.90% | ~56 |
+| Newcomer: Vickie | 1.00% | ~62 |
+| Social Butterfly | 0.90% | ~56 |
 | Amy | 0.80% | ~50 |
 | Inspector | 0.80% | ~50 |
-| Social Butterfly | 0.80% | ~50 |
 | The Muse: Madison | 0.80% | ~50 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
 | The Crush | 0.70% | ~44 |
@@ -77,7 +77,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,240 (Ranked 146)  
-Completed: 3 (0.05%) (Ranked 244)  
+Completed: 3 (0.05%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

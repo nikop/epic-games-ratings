@@ -6,8 +6,8 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3648,
+  "EOS_Progressed": 3649,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6814,6 +6814,11 @@
       "Time": "2023-09-21T18:08:05.219601+00:00",
       "NumProgressed": 3648,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-21T21:06:15.3362528+00:00",
+      "NumProgressed": 3649,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6905,7 +6910,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6993,7 +6998,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7049,7 +7054,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7073,7 +7078,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7161,7 +7166,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7193,7 +7198,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7217,7 +7222,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7392,13 +7397,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3599,
+      "Progressed": 3600,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3648,
+      "Progressed": 3649,
       "Completed": 11
     }
   ],
@@ -7406,8 +7411,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:07:15.1707563+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:06:15.3362518+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:58:29.8519356+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:07:15.1709518+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:58:07.1504551+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:06:15.3363653+00:00"
 }

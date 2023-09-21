@@ -6,8 +6,8 @@
   "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 77,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3618,9 +3618,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88009,
+  "EOS_Progressed": 88011,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19603,6 +19603,11 @@
       "Time": "2023-09-21T20:03:10.8065658+00:00",
       "NumProgressed": 88009,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-21T21:02:16.7176868+00:00",
+      "NumProgressed": 88011,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19884,9 +19889,9 @@
       "ID": "ACH_0452",
       "SetID": "3kam13l",
       "Name": "Dragonslayer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_0460",
@@ -19941,13 +19946,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88009,
+      "Progressed": 88011,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16356,
+      "Progressed": 16358,
       "Completed": 15525
     }
   ],
@@ -19955,8 +19960,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-21T13:57:06.9753642+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:03:10.8065653+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:02:16.7176863+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:57:06.5547516+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:03:10.8067089+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:56:57.8068825+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:02:16.7178227+00:00"
 }

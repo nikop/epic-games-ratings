@@ -2,10 +2,10 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 355,
-  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -289,9 +289,9 @@
       "ID": "0000_achv_spotinteract",
       "SetID": "dhn82m5",
       "Name": "Useless but beautiful",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "0000_achv_spotlick",
@@ -409,9 +409,9 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -578,8 +578,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:05:49.8113966+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:05:06.0295894+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:41.2824222+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:57:11.1031565+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:05:49.8114453+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:57:03.5655564+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:05:06.0296353+00:00"
 }

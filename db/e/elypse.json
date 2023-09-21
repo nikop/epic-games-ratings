@@ -2,10 +2,10 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach_BossSlug",
@@ -667,9 +667,9 @@
       "ID": "Ach_HutLay",
       "SetID": "4o5gjp0",
       "Name": "Homeless",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach_IslandExplo",
@@ -731,9 +731,9 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach_TalkToLostSoul",
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:03:36.1874106+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:03:16.154896+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:04.0607599+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:59:17.3476407+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:03:36.1874402+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:58:46.6811657+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:03:16.1549267+00:00"
 }

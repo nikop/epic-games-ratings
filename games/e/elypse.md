@@ -15,12 +15,12 @@
 | Soft skin | 49.00% | ~46 |
 | Squid game | 43.00% | ~40 |
 | Sensitive soul | 34.00% | ~32 |
-| Rock Solid | 32.00% | ~30 |
-| Hard Rock | 32.00% | ~30 |
+| Rock Solid | 33.00% | ~31 |
+| Hard Rock | 33.00% | ~31 |
 | The beast within | 31.00% | ~29 |
 | It's getting dark | 31.00% | ~29 |
 | Rooftop | 28.00% | ~26 |
-| Homeless | 27.00% | ~25 |
+| Homeless | 28.00% | ~26 |
 | Big badaboom! | 26.00% | ~24 |
 | Bookworm | 23.00% | ~22 |
 | Magnitude 5 | 22.00% | ~21 |
@@ -39,8 +39,8 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 376)  
-Completed: 0 (0.00%) (Ranked 281)  
+Progressed: 94 (Ranked 377)  
+Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

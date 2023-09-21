@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 52.00% | ~97 |
 | Welcome to the Tower | 48.00% | ~90 |
-| The great escape | 43.00% | ~80 |
-| The Preacher's fate | 42.00% | ~79 |
-| A new dawn | 38.00% | ~71 |
+| The great escape | 44.00% | ~82 |
+| The Preacher's fate | 43.00% | ~80 |
+| A new dawn | 39.00% | ~73 |
 | Scholar | 37.00% | ~69 |
 | The darkness | 35.00% | ~65 |
 | A good beginning | 34.00% | ~64 |
@@ -17,8 +17,8 @@
 | Cable guy | 29.00% | ~54 |
 | Champollion | 29.00% | ~54 |
 | Half the way | 28.00% | ~52 |
+| In this together | 27.00% | ~50 |
 | Peace walker | 27.00% | ~50 |
-| In this together | 26.00% | ~49 |
 | Open door | 24.00% | ~45 |
 | Free at last | 22.00% | ~41 |
 | Feels like springtime | 22.00% | ~41 |

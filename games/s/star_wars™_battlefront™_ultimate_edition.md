@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| New Recruit | 50.00% | ~1 |
+| Do... or do not. There is no try | 50.00% | ~1 |
 | A New Hope | 0.00% | ~0 |
 | That got him! | 0.00% | ~0 |
 | Hold the line! | 0.00% | ~0 |
@@ -32,13 +34,11 @@
 | All right, I'll give it a try | 0.00% | ~0 |
 | Safety ain't the point of a joyride | 0.00% | ~0 |
 | Best star-pilot in the galaxy | 0.00% | ~0 |
-| New Recruit | 0.00% | ~0 |
 | Impressive. Most impressive. | 0.00% | ~0 |
 | Off to a good start | 0.00% | ~0 |
 | Survivor | 0.00% | ~0 |
 | Ackbar's Elite | 0.00% | ~0 |
 | I suggest a new strategy | 0.00% | ~0 |
-| Do... or do not. There is no try | 0.00% | ~0 |
 | Judge me by my size, do you? | 0.00% | ~0 |
 | Not bad for a little furball | 0.00% | ~0 |
 | Walker defender | 0.00% | ~0 |
@@ -68,12 +68,12 @@
 | Don't underestimate the Force | 0.00% | ~0 |
 | Crush them with one swift stroke… | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 578)  
-Completed: 0 (0.00%) (Ranked 281)  
+Progressed: 2 (Ranked 550)  
+Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-21 | 1 | 0 |
+| 2023-09-21 | 2 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,7 +11,7 @@
 | Unlucky | 21.00% | ~76 |
 | Exam Practice | 12.00% | ~43 |
 | In The Honor Roll | 11.00% | ~40 |
-| Byoing | 8.00% | ~29 |
+| Byoing | 9.00% | ~32 |
 | 2nd Grade | 3.00% | ~11 |
 | 3rd Grade | 1.00% | ~4 |
 | Full House | 0.80% | ~3 |
@@ -25,7 +25,7 @@
 | Librarian | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 361 (Ranked 284)  
-Completed: 0 (0.00%) (Ranked 281)  
+Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

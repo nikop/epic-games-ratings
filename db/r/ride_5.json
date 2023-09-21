@@ -2,10 +2,10 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_Progress": 221,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1024,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1459,9 +1459,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 430
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1667,9 +1667,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 399
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1858,8 +1858,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:04:09.7626081+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:03:45.019357+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:00:27.3996328+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:04:09.7626665+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:59:43.3151779+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:03:45.01941+00:00"
 }

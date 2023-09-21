@@ -3,9 +3,9 @@
   "Name": "Airline Tycoon Deluxe",
   "ProductSlug": "airline-tycoon-deluxe-afc992",
   "Ranking_EOS_Progress": 627,
-  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:54.6464352+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:00:36.5428034+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:05:45.7180193+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:59:50.7609515+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:05:03.1408248+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -328,6 +328,11 @@
       "Time": "2023-09-21T16:03:47.9434099+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T21:03:14.1185963+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -337,9 +342,9 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 55,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "RUNE_BAT",
@@ -353,9 +358,9 @@
       "ID": "RUNE_BOOSTDAMAGERANGE",
       "SetID": "9433p49",
       "Name": "This is just the beginning...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "RUNE_BOOSTHEALTHCOMBO",
@@ -377,9 +382,9 @@
       "ID": "RUNE_CURSEDCOINS",
       "SetID": "9433p49",
       "Name": "Unstoppable Curiosity",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
@@ -403,7 +408,7 @@
       "Name": "First time, yes?",
       "Percentage": 56,
       "XP": 55,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -419,7 +424,7 @@
       "Name": "Devil\u0027s dozen",
       "Percentage": 28,
       "XP": 55,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -433,7 +438,7 @@
       "ID": "RUNE_OVERSTAMINA",
       "SetID": "9433p49",
       "Name": "A small victory",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 75,
       "UsersEstimate": 19
     },
@@ -458,7 +463,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
@@ -466,8 +471,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-09-21T20:03:33.7663454+00:00",
+  "LastChanged_Achievements": "2023-09-21T21:03:14.1185956+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.2907669+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:59:20.5470199+00:00",
-  "LastUpdate_Achievements": "2023-09-21T20:03:33.7663602+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:58:49.2260302+00:00",
+  "LastUpdate_Achievements": "2023-09-21T21:03:14.1186105+00:00"
 }

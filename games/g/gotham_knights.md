@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,811 |
+| First Step Into the Knight | 52.00% | ~37,812 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,450 |
 | Loose Ends | 34.00% | ~24,723 |
 | To the Victor Go the Spoils | 29.00% | ~21,087 |
 | Knighthood | 28.00% | ~20,360 |
-| Get ReQ'd | 25.00% | ~18,178 |
-| Whispered Words | 25.00% | ~18,178 |
+| Get ReQ'd | 25.00% | ~18,179 |
+| Whispered Words | 25.00% | ~18,179 |
 | The Batman Family | 23.00% | ~16,724 |
 | Lock and Key | 23.00% | ~16,724 |
 | Something in the Clay | 21.00% | ~15,270 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 888)
 | Snow Problem | 19.00% | ~13,816 |
 | The Show Mud Go On | 18.00% | ~13,089 |
 | From Inside Gotham's Walls | 18.00% | ~13,089 |
-| Protector of Gotham | 17.00% | ~12,361 |
+| Protector of Gotham | 17.00% | ~12,362 |
 | Universal Health Scare | 16.00% | ~11,634 |
 | In Your Element | 15.00% | ~10,907 |
 | Voiceless | 15.00% | ~10,907 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 888)
 | Bulldozed | 12.00% | ~8,726 |
 | Gotham Knight | 12.00% | ~8,726 |
 | Gotham City Confidential | 11.00% | ~7,999 |
-| Drone You Out | 10.00% | ~7,271 |
+| Drone You Out | 10.00% | ~7,272 |
 | Out of Their League | 9.00% | ~6,544 |
 | Solid Alibi | 9.00% | ~6,544 |
 | Fusion Expert | 7.00% | ~5,090 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 888)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,714 (Ranked 83)  
-Completed: 116 (0.16%) (Ranked 208)  
+Progressed: 72,715 (Ranked 83)  
+Completed: 116 (0.16%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,7 +221,7 @@ Completed: 116 (0.16%) (Ranked 208)
 | 2023-09-18 | 72,652 | 114 |
 | 2023-09-19 | 72,676 | 114 |
 | 2023-09-20 | 72,696 | 116 |
-| 2023-09-21 | 72,714 | 116 |
+| 2023-09-21 | 72,715 | 116 |
 ## Awards
 Max (Great Boss Battles): 2,725  (Ranked 96)  
 Sum: 4,532 (Ranked 139)  
