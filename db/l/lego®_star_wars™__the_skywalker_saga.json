@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3224,9 +3224,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51708,
+  "EOS_Progressed": 51709,
   "EOS_Completed": 232,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -12129,6 +12129,11 @@
       "Time": "2023-09-20T21:07:03.6591863+00:00",
       "NumProgressed": 51708,
       "NumCompleted": 232
+    },
+    {
+      "Time": "2023-09-21T02:21:38.2826587+00:00",
+      "NumProgressed": 51709,
+      "NumCompleted": 232
     }
   ],
   "TotalAchievements": 45,
@@ -12164,7 +12169,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40849
+      "UsersEstimate": 40850
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12268,7 +12273,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20683
+      "UsersEstimate": 20684
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -12388,7 +12393,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 9307
+      "UsersEstimate": 9308
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -12404,7 +12409,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50157
+      "UsersEstimate": 50158
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12476,7 +12481,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27405
+      "UsersEstimate": 27406
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -12499,15 +12504,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51708,
+      "Progressed": 51709,
       "Completed": 232
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-21T01:38:57.5143599+00:00",
-  "LastChanged_Achievements": "2023-09-21T01:48:06.5993677+00:00",
+  "LastChanged_Achievements": "2023-09-21T02:21:38.2826581+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:58.9505589+00:00",
-  "LastUpdate_Ratings": "2023-09-21T01:38:57.5143604+00:00",
-  "LastUpdate_Achievements": "2023-09-21T01:48:06.5994355+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:12:54.2583571+00:00",
+  "LastUpdate_Achievements": "2023-09-21T02:21:38.28275+00:00"
 }

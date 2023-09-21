@@ -2,7 +2,7 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 109,
@@ -369,9 +369,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -441,25 +441,25 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "b36c5kb",
       "Name": "Overcome the Past",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "b36c5kb",
       "Name": "Everything Comes Crumbling Down",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_16",
       "SetID": "b36c5kb",
       "Name": "Unfortunate Consequence",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -537,9 +537,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -593,9 +593,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -657,9 +657,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "b36c5kb",
       "Name": "Shock Therapy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:07:04.8025191+00:00",
+  "LastChanged_Achievements": "2023-09-21T02:17:14.6240225+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-21T01:38:50.4064768+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:07:04.8025706+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:12:46.6266266+00:00",
+  "LastUpdate_Achievements": "2023-09-21T02:17:14.624197+00:00"
 }

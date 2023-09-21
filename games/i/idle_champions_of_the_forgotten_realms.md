@@ -70,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lutes of Loomlurch | 0.10% | ~196 |
 | Supply Run | 0.10% | ~230 |
 | Best Laid Plans | 0.10% | ~196 |
+| Pincushion Party | 0.10% | ~196 |
 | The Howling Peaks of Yon | 0.10% | ~196 |
 | Strength of Character | 0.10% | ~196 |
 | The Invisible Wizards of Thay | 0.10% | ~196 |
@@ -136,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~230 |
 | No Good at All | 0.10% | ~230 |
 | Fall From Grace | 0.10% | ~230 |
+| Captured! | 0.10% | ~230 |
 | Home Field Advantage | 0.10% | ~230 |
 | Double Vision | 0.10% | ~230 |
 | Underground Railroad | 0.10% | ~230 |
@@ -165,6 +167,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.10% | ~230 |
 | Family Entanglements | 0.10% | ~230 |
 | Haunted Fortunes | 0.10% | ~230 |
+| Poor Fortune | 0.10% | ~230 |
 | Relentless Misfortune | 0.10% | ~230 |
 | The Dinner Party | 0.10% | ~230 |
 | Chatty Nobles | 0.10% | ~230 |
@@ -205,6 +208,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Guardian of Orolunga | 0.10% | ~230 |
 | Think Your Way Out Of It | 0.10% | ~230 |
 | Air's Getting Pretty Thin | 0.10% | ~230 |
+| Red Wizard 'Escort' | 0.10% | ~196 |
 | The Lost Love | 0.10% | ~230 |
 | A Saurial's Lament | 0.10% | ~230 |
 | A Saurial's Resolve | 0.10% | ~230 |
@@ -383,6 +387,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.10% | ~230 |
 | Lone Wolf Party | 0.10% | ~196 |
 | The Sibriex | 0.10% | ~196 |
+| The Archduke's Blessing | 0.10% | ~196 |
 | A Neutral Party | 0.10% | ~196 |
 | Wrecked Flying Fortress | 0.10% | ~196 |
 | Relentless Peril | 0.10% | ~196 |
@@ -422,6 +427,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 1 | 0.10% | ~196 |
 | Ambitious Speakers - Part 1 | 0.10% | ~196 |
 | Ending the Rime - Part 2 | 0.10% | ~196 |
+| Ambitious Speakers - Part 2 | 0.10% | ~196 |
 | Shady Sidekicks - Part 2 | 0.10% | ~196 |
 | Reghed Glacier Mysteries | 0.10% | ~196 |
 | Mysteries Unlocked | 0.10% | ~196 |
@@ -459,6 +465,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 0.10% | ~196 |
 | Luigi After Hours | 0.10% | ~196 |
 | Rock and Roll | 0.10% | ~196 |
+| Electric Mayhem | 0.10% | ~196 |
 | Flight of the Kindori Pod | 0.10% | ~196 |
 | 3,720 to 1 | 0.10% | ~196 |
 | Topolah's Tower | 0.10% | ~196 |
@@ -484,17 +491,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thoughts on the Menu | 0.00% | ~0 |
 | Brains on Ice | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
-| Pincushion Party | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Wagon Train | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Captured! | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
-| Poor Fortune | 0.00% | ~0 |
 | They Who Smelt It | 0.00% | ~0 |
-| Red Wizard 'Escort' | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
 | A Nod from Strahd | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
@@ -513,7 +516,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Friend Search Squad! | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Just The Worst | 0.00% | ~0 |
-| The Archduke's Blessing | 0.00% | ~0 |
 | Frozen in Fear | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
 | Fortress Assault | 0.00% | ~0 |
@@ -523,15 +525,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
-| Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Not That Type of Helm! | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
-| Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,504 (Ranked 57)  
+Progressed: 229,505 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,7 +685,7 @@ Completed: 2,295 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,504 | 2,295 |
+| 2023-09-21 | 229,505 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,662 (Ranked 39)  

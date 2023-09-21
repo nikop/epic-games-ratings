@@ -24,7 +24,7 @@
 | Xtremely Cool Pictures | 2.00% | ~1 |
 | Exclusive Photoshoot | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 399)  
+Progressed: 59 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -32,7 +32,7 @@ Rating: 4.54 (Ranked 504)
 | Humanity Distilled | 1.00% | ~6,834 |
 | I Am the Resurrection | 1.00% | ~6,834 |
 | Our True Nature | 1.00% | ~6,834 |
-| Down with the Sickness | 0.90% | ~6,150 |
+| Down with the Sickness | 0.90% | ~6,151 |
 | Max Headroom | 0.80% | ~5,467 |
 | Go, Bobcats! | 0.70% | ~4,784 |
 | Rising Star | 0.70% | ~4,784 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,380 (Ranked 22)  
+Progressed: 683,395 (Ranked 22)  
 Completed: 2,157 (0.32%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 2,157 (0.32%) (Ranked 179)
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
-| 2023-09-21 | 683,380 | 2,157 |
+| 2023-09-21 | 683,395 | 2,157 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,096 (Ranked 93)  

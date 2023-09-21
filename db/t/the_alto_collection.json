@@ -763,9 +763,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 39926,
+  "EOS_Progressed": 39927,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17873,6 +17873,11 @@
       "Time": "2023-09-21T01:45:32.4773426+00:00",
       "NumProgressed": 39926,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-21T02:19:04.6133064+00:00",
+      "NumProgressed": 39927,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18004,7 +18009,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6787
+      "UsersEstimate": 6788
     },
     {
       "ID": "novice",
@@ -18066,9 +18071,9 @@
       "ID": "playerWingsuit",
       "SetID": "2lgngib",
       "Name": "Human Flight",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 799
+      "UsersEstimate": 1198
     },
     {
       "ID": "pro",
@@ -18195,15 +18200,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 39926,
+      "Progressed": 39927,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-15T18:59:46.0517452+00:00",
-  "LastChanged_Achievements": "2023-09-21T01:45:32.4773422+00:00",
+  "LastChanged_Achievements": "2023-09-21T02:19:04.6133057+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:21.9725238+00:00",
-  "LastUpdate_Ratings": "2023-09-21T01:41:14.1057548+00:00",
-  "LastUpdate_Achievements": "2023-09-21T01:45:32.4774438+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:15:09.5132083+00:00",
+  "LastUpdate_Achievements": "2023-09-21T02:19:04.6135534+00:00"
 }

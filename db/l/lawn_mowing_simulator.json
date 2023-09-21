@@ -2131,9 +2131,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 666372,
+  "EOS_Progressed": 666376,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1999,
+  "EOS_NewPlayers": 2001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19361,6 +19361,11 @@
       "Time": "2023-09-21T01:49:31.1395237+00:00",
       "NumProgressed": 666372,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-21T02:23:31.1517253+00:00",
+      "NumProgressed": 666376,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -19372,7 +19377,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 533098
+      "UsersEstimate": 533101
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -19380,7 +19385,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13327
+      "UsersEstimate": 13328
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -19436,7 +19441,7 @@
       "Name": "Phoenix rises",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "COMPLETE_100_CONTRACTS",
@@ -19460,7 +19465,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 239894
+      "UsersEstimate": 239895
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -19468,7 +19473,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13327
+      "UsersEstimate": 13328
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -19612,7 +19617,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 206575
+      "UsersEstimate": 206577
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -19620,7 +19625,7 @@
       "Name": "Cut Loose",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "HAND_IN_100_VALUABLES",
@@ -19636,7 +19641,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13327
+      "UsersEstimate": 13328
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -19644,7 +19649,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 39982
+      "UsersEstimate": 39983
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -19684,7 +19689,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13327
+      "UsersEstimate": 13328
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -19708,7 +19713,7 @@
       "Name": "The top of the mountain",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13327
+      "UsersEstimate": 13328
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -19716,7 +19721,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13327
+      "UsersEstimate": 13328
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -19756,7 +19761,7 @@
       "Name": "Esteemed",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "RP_PROFESSIONAL",
@@ -19772,7 +19777,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 119947
+      "UsersEstimate": 119948
     },
     {
       "ID": "RP_TRUSTED",
@@ -19780,7 +19785,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13327
+      "UsersEstimate": 13328
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -19788,7 +19793,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 59973
+      "UsersEstimate": 59974
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -19803,15 +19808,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 666372,
+      "Progressed": 666376,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-19T19:58:47.0939593+00:00",
-  "LastChanged_Achievements": "2023-09-21T01:49:31.1395231+00:00",
+  "LastChanged_Achievements": "2023-09-21T02:23:31.1517246+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.4311229+00:00",
-  "LastUpdate_Ratings": "2023-09-21T01:40:20.5254775+00:00",
-  "LastUpdate_Achievements": "2023-09-21T01:49:31.1396375+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:14:13.5782696+00:00",
+  "LastUpdate_Achievements": "2023-09-21T02:23:31.1519931+00:00"
 }

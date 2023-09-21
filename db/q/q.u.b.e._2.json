@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -1837,9 +1837,9 @@
       "ID": "ACH_HUB1",
       "SetID": "232494e",
       "Name": "Mission Success",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_HUB2",
@@ -1933,8 +1933,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-21T01:45:05.1994278+00:00",
+  "LastChanged_Achievements": "2023-09-21T02:18:37.7471369+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-21T01:39:31.2372963+00:00",
-  "LastUpdate_Achievements": "2023-09-21T01:45:05.1994509+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:13:26.7681883+00:00",
+  "LastUpdate_Achievements": "2023-09-21T02:18:37.7471862+00:00"
 }

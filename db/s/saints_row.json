@@ -3654,9 +3654,9 @@
       "Count": 1067
     }
   ],
-  "EOS_Progressed": 71811,
+  "EOS_Progressed": 71812,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 2615,
+  "EOS_NewPlayers": 2606,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -20804,6 +20804,11 @@
       "Time": "2023-09-21T01:48:07.4853124+00:00",
       "NumProgressed": 71811,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-21T02:21:39.0936033+00:00",
+      "NumProgressed": 71812,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 53,
@@ -20911,7 +20916,7 @@
       "Name": "The Side Job",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 21543
+      "UsersEstimate": 21544
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -20919,7 +20924,7 @@
       "Name": "Wet Work",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22261
+      "UsersEstimate": 22262
     },
     {
       "ID": "complete_mission_1",
@@ -20927,7 +20932,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 33033
+      "UsersEstimate": 33034
     },
     {
       "ID": "customize_a_vehicle",
@@ -21238,13 +21243,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 71811,
+      "Progressed": 71812,
       "Completed": 48
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 43448,
+      "Progressed": 43449,
       "Completed": 3857
     }
   ],
@@ -21252,8 +21257,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-20T21:02:04.7763923+00:00",
-  "LastChanged_Achievements": "2023-09-21T01:48:07.485312+00:00",
+  "LastChanged_Achievements": "2023-09-21T02:21:39.0936025+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:53.1559897+00:00",
-  "LastUpdate_Ratings": "2023-09-21T01:38:14.229696+00:00",
-  "LastUpdate_Achievements": "2023-09-21T01:48:07.4854264+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:12:08.6579166+00:00",
+  "LastUpdate_Achievements": "2023-09-21T02:21:39.0938692+00:00"
 }

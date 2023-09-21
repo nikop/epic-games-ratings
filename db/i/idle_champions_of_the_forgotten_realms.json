@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6778,9 +6778,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229504,
+  "EOS_Progressed": 229505,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23803,6 +23803,11 @@
       "Time": "2023-09-21T01:45:07.2426614+00:00",
       "NumProgressed": 229504,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-21T02:18:39.6406109+00:00",
+      "NumProgressed": 229505,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 524,
@@ -24388,9 +24393,9 @@
       "ID": "objective_completed_1143",
       "SetID": "415jc5c",
       "Name": "Pincushion Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1144",
@@ -24964,9 +24969,9 @@
       "ID": "objective_completed_154",
       "SetID": "cc37lbc",
       "Name": "Captured!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_155",
@@ -25212,9 +25217,9 @@
       "ID": "objective_completed_215",
       "SetID": "cc37lbc",
       "Name": "Poor Fortune",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_216",
@@ -25548,9 +25553,9 @@
       "ID": "objective_completed_381",
       "SetID": "415jc5c",
       "Name": "Red Wizard \u0027Escort\u0027",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_383",
@@ -27124,9 +27129,9 @@
       "ID": "objective_completed_813",
       "SetID": "415jc5c",
       "Name": "The Archduke\u0027s Blessing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_814",
@@ -27516,9 +27521,9 @@
       "ID": "objective_completed_893",
       "SetID": "415jc5c",
       "Name": "Ambitious Speakers - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_894",
@@ -27860,9 +27865,9 @@
       "ID": "objective_completed_1381",
       "SetID": "415jc5c",
       "Name": "Electric Mayhem",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1385",
@@ -28005,21 +28010,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195778,
+      "Progressed": 195779,
       "Completed": 3446
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229504,
+      "Progressed": 229505,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-21T01:39:59.5520146+00:00",
-  "LastChanged_Achievements": "2023-09-21T01:45:07.242661+00:00",
+  "LastChanged_Achievements": "2023-09-21T02:18:39.6406102+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T01:39:59.5520152+00:00",
-  "LastUpdate_Achievements": "2023-09-21T01:45:07.245138+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:13:56.0596568+00:00",
+  "LastUpdate_Achievements": "2023-09-21T02:18:39.6439264+00:00"
 }
