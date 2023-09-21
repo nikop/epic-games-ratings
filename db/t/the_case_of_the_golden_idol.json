@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.19,
+  "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -763,6 +763,11 @@
       "Time": "2023-09-21T19:07:53.901227+00:00",
       "NumProgressed": 191,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-21T20:07:14.4538194+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -772,9 +777,9 @@
       "ID": "0",
       "SetID": "acl54ke",
       "Name": "Solved first case",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "1",
@@ -860,9 +865,9 @@
       "ID": "11",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 1st Case",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "12",
@@ -909,13 +914,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 109
     }
   ],
@@ -923,8 +928,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:07:53.9012265+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:07:14.4538186+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.430436+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:01:04.0710935+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:07:53.9012428+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:00:32.913477+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:07:14.4538412+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 4.62 (Ranked 350)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,819 |
-| All thumbs | 92.00% | ~4,767 |
-| I will survive! | 92.00% | ~4,767 |
-| Home, sweet home | 91.00% | ~4,716 |
-| Survivalist | 89.00% | ~4,612 |
-| One way ticket | 84.00% | ~4,353 |
+| Prepper | 93.00% | ~4,820 |
+| All thumbs | 92.00% | ~4,768 |
+| I will survive! | 92.00% | ~4,768 |
+| Home, sweet home | 91.00% | ~4,717 |
+| Survivalist | 89.00% | ~4,613 |
+| One way ticket | 84.00% | ~4,354 |
 | Last man standing | 80.00% | ~4,146 |
-| Family guy | 77.00% | ~3,990 |
-| Out of the Bag | 75.00% | ~3,886 |
-| The Dark Side | 70.00% | ~3,627 |
-| Duck and cover! | 65.00% | ~3,368 |
-| Souper! | 64.00% | ~3,316 |
-| Pacifist | 59.00% | ~3,057 |
+| Family guy | 77.00% | ~3,991 |
+| Out of the Bag | 75.00% | ~3,887 |
+| The Dark Side | 70.00% | ~3,628 |
+| Duck and cover! | 65.00% | ~3,369 |
+| Souper! | 64.00% | ~3,317 |
+| Pacifist | 59.00% | ~3,058 |
 | 2-1-6 | 58.00% | ~3,006 |
-| A gift | 53.00% | ~2,746 |
-| Girl Power | 48.00% | ~2,487 |
-| What goes around... | 44.00% | ~2,280 |
-| Be Prepared | 38.00% | ~1,969 |
+| A gift | 54.00% | ~2,799 |
+| Girl Power | 48.00% | ~2,488 |
+| What goes around... | 44.00% | ~2,281 |
+| Be Prepared | 38.00% | ~1,970 |
 | Unbreakable | 36.00% | ~1,866 |
 | This is the end | 34.00% | ~1,762 |
 | Gotta get 'em all | 33.00% | ~1,710 |
-| Atomic drill | 32.00% | ~1,658 |
-| Disco Roach | 27.00% | ~1,399 |
+| Atomic drill | 32.00% | ~1,659 |
+| Disco Roach | 28.00% | ~1,451 |
 | Dawkins Residence | 21.00% | ~1,088 |
 | Rescue time! | 18.00% | ~933 |
 | New order | 17.00% | ~881 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 350)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,182 (Ranked 154)  
+Progressed: 5,183 (Ranked 154)  
 Completed: 1 (0.02%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 1 (0.02%) (Ranked 257)
 | 2023-09-18 | 5,167 | 1 |
 | 2023-09-19 | 5,174 | 1 |
 | 2023-09-20 | 5,178 | 1 |
-| 2023-09-21 | 5,182 | 1 |
+| 2023-09-21 | 5,183 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

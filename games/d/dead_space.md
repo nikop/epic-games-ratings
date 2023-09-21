@@ -6,15 +6,15 @@ Rating: 4.61 (Ranked 371)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 89.00% | ~132 |
-| Welcome Aboard | 82.00% | ~121 |
-| Lab Rat | 65.00% | ~96 |
+| Welcome Aboard | 83.00% | ~123 |
+| Lab Rat | 66.00% | ~98 |
+| Brute Force | 60.00% | ~89 |
 | All Systems Go | 59.00% | ~87 |
-| Brute Force | 58.00% | ~86 |
-| Cannon Fodder | 55.00% | ~81 |
+| Cannon Fodder | 56.00% | ~83 |
+| Autofire | 51.00% | ~75 |
 | Raise the Stakes | 51.00% | ~75 |
-| Autofire | 49.00% | ~73 |
-| Story Teller | 48.00% | ~71 |
-| True Believer | 48.00% | ~71 |
+| Story Teller | 49.00% | ~73 |
+| True Believer | 49.00% | ~73 |
 | Freeze | 47.00% | ~70 |
 | Surgeon | 45.00% | ~67 |
 | Greenhouse Effect | 42.00% | ~62 |
@@ -27,14 +27,14 @@ Rating: 4.61 (Ranked 371)
 | Wreckage | 32.00% | ~47 |
 | Live with the Hot Ones | 30.00% | ~44 |
 | Front Toward Enemy | 29.00% | ~43 |
-| Keeper of the Faith | 26.00% | ~38 |
-| There's Always Peng! | 26.00% | ~38 |
+| Keeper of the Faith | 27.00% | ~40 |
+| There's Always Peng! | 27.00% | ~40 |
+| Legend Teller | 24.00% | ~36 |
 | Betrayed | 23.00% | ~34 |
-| Legend Teller | 23.00% | ~34 |
-| Exodus | 21.00% | ~31 |
+| Exodus | 22.00% | ~33 |
+| Mindless Prey | 22.00% | ~33 |
 | Whole Again | 20.00% | ~30 |
-| Mindless Prey | 20.00% | ~30 |
-| Set A Benchmark | 18.00% | ~27 |
+| Set A Benchmark | 19.00% | ~28 |
 | Pack Rat | 18.00% | ~27 |
 | Z-Baller | 18.00% | ~27 |
 | Full Contact | 17.00% | ~25 |
@@ -43,7 +43,7 @@ Rating: 4.61 (Ranked 371)
 | Marked | 15.00% | ~22 |
 | Full Clearance | 14.00% | ~21 |
 | Eviscerator | 13.00% | ~19 |
-| Backbreaker | 11.00% | ~16 |
+| Backbreaker | 12.00% | ~18 |
 | Wishbone | 7.00% | ~10 |
 | Trusted Contractor | 6.00% | ~9 |
 | Built To Order | 3.00% | ~4 |

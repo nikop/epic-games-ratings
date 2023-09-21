@@ -1,14 +1,14 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.66 (Ranked 283)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,384 |
-| A thief's beginning | 10.00% | ~20,349 |
-| Thorough | 10.00% | ~20,349 |
+| Genin | 11.00% | ~22,385 |
+| A thief's beginning | 10.00% | ~20,350 |
+| Thorough | 10.00% | ~20,350 |
 | Disguised | 8.00% | ~16,280 |
 | Rescue Takuma | 8.00% | ~16,280 |
 | Rollin' | 8.00% | ~16,280 |
@@ -39,19 +39,19 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,035 |
 | The End | 1.00% | ~2,035 |
 | Undeserved Honor | 1.00% | ~2,035 |
-| When Cut Across the Neck | 0.90% | ~1,831 |
+| When Cut Across the Neck | 0.90% | ~1,832 |
 | High Five the Moon | 0.80% | ~1,628 |
 | The Cave | 0.80% | ~1,628 |
-| Merciful | 0.50% | ~1,017 |
-| Time Paradox | 0.50% | ~1,017 |
-| Five Shadows | 0.30% | ~610 |
-| Chicken Dinner | 0.10% | ~203 |
-| Complete Mastery | 0.10% | ~203 |
-| Mimimi | 0.10% | ~203 |
-| Praise the Shogun | 0.10% | ~203 |
-| Release the Kraken | 0.10% | ~203 |
+| Merciful | 0.50% | ~1,018 |
+| Time Paradox | 0.50% | ~1,018 |
+| Five Shadows | 0.30% | ~611 |
+| Chicken Dinner | 0.10% | ~204 |
+| Complete Mastery | 0.10% | ~204 |
+| Mimimi | 0.10% | ~204 |
+| Praise the Shogun | 0.10% | ~204 |
+| Release the Kraken | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,494 (Ranked 62)  
+Progressed: 203,502 (Ranked 62)  
 Completed: 84 (0.04%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 84 (0.04%) (Ranked 248)
 | 2023-09-18 | 203,005 | 81 |
 | 2023-09-19 | 203,185 | 82 |
 | 2023-09-20 | 203,354 | 83 |
-| 2023-09-21 | 203,494 | 84 |
+| 2023-09-21 | 203,502 | 84 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,764 (Ranked 136)  

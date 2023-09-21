@@ -2,12 +2,12 @@
   "ID": "25e53de2e4ab4da8aa589d881273a11c",
   "Name": "Pillars of Eternity - Definitive Edition",
   "ProductSlug": "pillars-of-eternity",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 283,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2926,18 +2926,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 4708,
       "NumberOfAwardsMax": 1919
+    },
+    {
+      "Time": "2023-09-21T19:58:58.0742115+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4710,
+      "NumberOfAwardsMax": 1921
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4708,
-  "NumberOfAwardsMax": 1919,
+  "NumberOfAwards": 4710,
+  "NumberOfAwardsMax": 1921,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1919
+      "Count": 1921
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3530,9 +3536,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
-  "LastChanged": "2023-09-20T11:58:41.5302309+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:04:12.8598789+00:00",
+  "LastChanged": "2023-09-21T19:58:58.0742114+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:03:55.448865+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:27.5834484+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:59:15.489344+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:04:12.859914+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:58:58.0742121+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:03:55.4489111+00:00"
 }

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Chapter I | 53.00% | ~64 |
 | Fire in the... nevermind | 53.00% | ~64 |
-| Chapter I | 52.00% | ~62 |
-| Haute cuisine | 47.00% | ~56 |
-| I didn't do it! | 41.00% | ~49 |
+| Haute cuisine | 48.00% | ~58 |
+| I didn't do it! | 42.00% | ~50 |
 | Demolition expert | 38.00% | ~46 |
 | Keep away from children | 37.00% | ~44 |
 | Wooooooow! | 36.00% | ~43 |
 | Artistic fool | 34.00% | ~41 |
-| Open up wide | 32.00% | ~38 |
-| Let the boot talk | 31.00% | ~37 |
+| Open up wide | 33.00% | ~40 |
+| Let the boot talk | 32.00% | ~38 |
 | Chapter II | 28.00% | ~34 |
+| Handyman | 26.00% | ~31 |
 | Achoo!! | 26.00% | ~31 |
-| Handyman | 25.00% | ~30 |
 | Chapter III | 24.00% | ~29 |
 | Like a moth in the Wind | 24.00% | ~29 |
 | Shadow on the wall | 23.00% | ~28 |

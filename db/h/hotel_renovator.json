@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1740,9 +1740,9 @@
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1756,9 +1756,9 @@
       "ID": "ACH_GOLDEN_EGGS_ALL",
       "SetID": "7k95e4n",
       "Name": "Aesop\u0027s fable",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -1901,8 +1901,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-19T13:03:28.3019162+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:03:55.0702485+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:03:39.7934266+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:59:06.1605603+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:03:55.0702712+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:58:48.778005+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:03:39.7934607+00:00"
 }

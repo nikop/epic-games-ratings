@@ -35,8 +35,8 @@ Rating: 4.30 (Ranked 802)
 | The Ooze | 16.00% | ~26 |
 | Ember | 16.00% | ~26 |
 | The Assistant | 15.00% | ~24 |
+| The Steampunk | 14.00% | ~23 |
 | Turquoise | 14.00% | ~23 |
-| The Steampunk | 13.00% | ~21 |
 | The Droid | 11.00% | ~18 |
 | Verse | 11.00% | ~18 |
 | Iron | 10.00% | ~16 |

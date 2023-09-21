@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~69,974 |
-| Alt+F4 | 5.00% | ~11,286 |
+| Sowwy! | 31.00% | ~69,978 |
+| Alt+F4 | 5.00% | ~11,287 |
 | Déjà vu | 4.00% | ~9,029 |
 | Where's that freaking Dwarf? | 4.00% | ~9,029 |
 | A beer, two curses, three companions | 3.00% | ~6,772 |
 | Sock! SOCK! | 3.00% | ~6,772 |
 | GG EZ | 3.00% | ~6,772 |
 | Speedrun | 3.00% | ~6,772 |
-| Livin' in a dwarven paradise | 2.00% | ~4,514 |
-| Way of the Wimp | 2.00% | ~4,514 |
-| The plot thickens... At the tavern | 2.00% | ~4,514 |
-| DM intervention | 2.00% | ~4,514 |
-| Fireproof Wizardess | 2.00% | ~4,514 |
+| Livin' in a dwarven paradise | 2.00% | ~4,515 |
+| Way of the Wimp | 2.00% | ~4,515 |
+| The plot thickens... At the tavern | 2.00% | ~4,515 |
+| DM intervention | 2.00% | ~4,515 |
+| Fireproof Wizardess | 2.00% | ~4,515 |
 | Shiny and Crôm | 1.00% | ~2,257 |
 | The demons' feast | 1.00% | ~2,257 |
 | The Great Library | 1.00% | ~2,257 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~226 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,722 (Ranked 58)  
+Progressed: 225,735 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,11 +208,11 @@ Completed: 3 (0.00%) (Ranked 281)
 | 2023-09-18 | 225,135 | 3 |
 | 2023-09-19 | 225,343 | 3 |
 | 2023-09-20 | 225,552 | 3 |
-| 2023-09-21 | 225,722 | 3 |
+| 2023-09-21 | 225,735 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 275)  
-Sum: 342 (Ranked 334)  
-Diff (max vs sum): -59  
+Sum: 362 (Ranked 329)  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 198 |
@@ -222,6 +222,7 @@ Diff (max vs sum): -59
 | This game is Highly Recommended | 22 |
 | This game has Quickly Understood Controls | 22 |
 | This game has Amazing Storytelling | 20 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -362,4 +363,4 @@ Diff (max vs sum): -59
 | 2023-09-18 | 4.59 | - | 196 | 338 |
 | 2023-09-19 | 4.59 | - | 196 | 340 |
 | 2023-09-20 | 4.59 | - | 197 | 341 |
-| 2023-09-21 | 4.59 | - | 198 | 342 |
+| 2023-09-21 | 4.59 | - | 198 | 362 |

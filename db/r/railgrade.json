@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 3275,
+  "Ranking_EOS_NewPlayers": 3276,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19341,
+  "EOS_Progressed": 19340,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": -105,
+  "EOS_NewPlayers": -107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6454,6 +6454,11 @@
       "Time": "2023-09-21T19:08:29.443472+00:00",
       "NumProgressed": 19341,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-09-21T20:07:46.420318+00:00",
+      "NumProgressed": 19340,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -6505,7 +6510,7 @@
       "Name": "Going the Distance",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 10638
+      "UsersEstimate": 10637
     },
     {
       "ID": "ach.070.8kenough",
@@ -6521,7 +6526,7 @@
       "Name": "Eraser",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 13732
+      "UsersEstimate": 13731
     },
     {
       "ID": "ach.090.perfectionist",
@@ -6561,7 +6566,7 @@
       "Name": "Minimalist",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17600
+      "UsersEstimate": 17599
     },
     {
       "ID": "ach.140.legacy",
@@ -6569,7 +6574,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 99,
       "XP": 60,
-      "UsersEstimate": 19148
+      "UsersEstimate": 19147
     },
     {
       "ID": "ach.150.pocket",
@@ -6577,7 +6582,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 12765
+      "UsersEstimate": 12764
     },
     {
       "ID": "ach.160.box",
@@ -6601,7 +6606,7 @@
       "Name": "Inspector",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 11605
+      "UsersEstimate": 11604
     },
     {
       "ID": "ach.190.scenic",
@@ -6617,7 +6622,7 @@
       "Name": "Let There be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6382
     },
     {
       "ID": "ach.210.baron",
@@ -6625,7 +6630,7 @@
       "Name": "Oil Baron",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 8317
+      "UsersEstimate": 8316
     },
     {
       "ID": "ach.220.hot",
@@ -6633,7 +6638,7 @@
       "Name": "Hot Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5996
+      "UsersEstimate": 5995
     },
     {
       "ID": "ach.230.infinity",
@@ -6649,7 +6654,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 8317
+      "UsersEstimate": 8316
     },
     {
       "ID": "ach.250.downfall",
@@ -6657,7 +6662,7 @@
       "Name": "Before the Downfall",
       "Percentage": 94,
       "XP": 60,
-      "UsersEstimate": 18181
+      "UsersEstimate": 18180
     },
     {
       "ID": "ach.260.investor",
@@ -6721,7 +6726,7 @@
       "Name": "Money like Water",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 17794
+      "UsersEstimate": 17793
     },
     {
       "ID": "ach.340.steel",
@@ -6760,7 +6765,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19341,
+      "Progressed": 19340,
       "Completed": 37
     }
   ],
@@ -6768,8 +6773,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-21T06:00:22.6251496+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:08:29.4434715+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:07:46.4203173+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:40.7623275+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:02:16.8594743+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:08:29.4435231+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:02:07.4889933+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:07:46.4204069+00:00"
 }

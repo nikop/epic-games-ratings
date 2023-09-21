@@ -653,9 +653,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2893,
+  "EOS_Progressed": 2896,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1052,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5158,6 +5158,11 @@
       "Time": "2023-09-21T19:04:41.3500377+00:00",
       "NumProgressed": 2893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T20:04:20.3530909+00:00",
+      "NumProgressed": 2896,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5210,15 +5215,15 @@
       "Name": "Everything Must Go!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 521
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5226,7 +5231,7 @@
       "Name": "First Strike",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5266,7 +5271,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5280,9 +5285,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 463
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5290,7 +5295,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -5330,7 +5335,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5353,15 +5358,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2893,
+      "Progressed": 2896,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-21T19:01:04.8018723+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:04:41.3500373+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:04:20.3530903+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:01:04.8018728+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:04:41.3500713+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:00:33.5788538+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:04:20.3531363+00:00"
 }

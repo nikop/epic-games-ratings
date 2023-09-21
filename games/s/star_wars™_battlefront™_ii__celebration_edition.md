@@ -4,56 +4,56 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Strike | 80.00% | ~1,202 |
-| Battle Beyond the Stars | 71.00% | ~1,067 |
-| A Job Well Done | 69.00% | ~1,037 |
-| The Cleaner | 66.00% | ~992 |
-| There Has Been An Awakening | 65.00% | ~977 |
-| Heavy is the Hand | 62.00% | ~932 |
-| The Battle of Endor | 59.00% | ~887 |
-| The Dauntless | 55.00% | ~827 |
-| The Observatory | 53.00% | ~797 |
-| We are the Spark | 53.00% | ~797 |
-| There is No Such Thing As Luck | 51.00% | ~767 |
-| The Storm | 51.00% | ~767 |
-| Outcasts | 49.00% | ~736 |
-| Royalty | 49.00% | ~736 |
-| General Distress | 47.00% | ~706 |
-| Outbound Flight | 45.00% | ~676 |
-| Choose Your Path | 45.00% | ~676 |
-| Scoped | 44.00% | ~661 |
-| Under Covered Skies | 43.00% | ~646 |
-| Cache Grab | 42.00% | ~631 |
-| The Battle of Jakku | 42.00% | ~631 |
-| Until Ashes | 41.00% | ~616 |
-| What a Blast | 41.00% | ~616 |
-| Discoveries | 40.00% | ~601 |
-| Do. Or Do Not. There is no Try. | 38.00% | ~571 |
-| Sentry Mode Engaged | 37.00% | ~556 |
-| A Dominating Presence | 36.00% | ~541 |
-| The Force is Strong With This One | 35.00% | ~526 |
-| Project: Resurrection | 32.00% | ~481 |
-| X-wing vs. TIE Fighter | 30.00% | ~451 |
-| Ashes of the Empire | 30.00% | ~451 |
-| Inferno | 29.00% | ~436 |
-| Strike Back | 26.00% | ~391 |
-| Not All Miss | 24.00% | ~361 |
-| Dark Forces | 21.00% | ~316 |
-| Complete Your Training | 16.00% | ~240 |
-| Master of Deception | 14.00% | ~210 |
-| The Interceptor | 12.00% | ~180 |
-| A Galaxy at War | 12.00% | ~180 |
-| Ignore Your Instincts At Your Peril | 11.00% | ~165 |
-| Balance Point | 4.00% | ~60 |
-| Multi-tasking | 2.00% | ~30 |
-| The Bomber | 1.00% | ~15 |
+| Quick Strike | 79.00% | ~1,870 |
+| Battle Beyond the Stars | 71.00% | ~1,681 |
+| A Job Well Done | 70.00% | ~1,657 |
+| The Cleaner | 67.00% | ~1,586 |
+| There Has Been An Awakening | 66.00% | ~1,562 |
+| Heavy is the Hand | 62.00% | ~1,468 |
+| The Battle of Endor | 60.00% | ~1,420 |
+| The Dauntless | 56.00% | ~1,326 |
+| The Observatory | 55.00% | ~1,302 |
+| We are the Spark | 53.00% | ~1,255 |
+| The Storm | 52.00% | ~1,231 |
+| Outcasts | 51.00% | ~1,207 |
+| There is No Such Thing As Luck | 50.00% | ~1,184 |
+| Royalty | 50.00% | ~1,184 |
+| General Distress | 48.00% | ~1,136 |
+| Outbound Flight | 45.00% | ~1,065 |
+| Under Covered Skies | 45.00% | ~1,065 |
+| Cache Grab | 44.00% | ~1,041 |
+| Scoped | 44.00% | ~1,041 |
+| Choose Your Path | 44.00% | ~1,041 |
+| The Battle of Jakku | 42.00% | ~994 |
+| Until Ashes | 42.00% | ~994 |
+| Discoveries | 41.00% | ~970 |
+| What a Blast | 40.00% | ~947 |
+| Sentry Mode Engaged | 38.00% | ~899 |
+| Do. Or Do Not. There is no Try. | 37.00% | ~876 |
+| The Force is Strong With This One | 35.00% | ~828 |
+| A Dominating Presence | 35.00% | ~828 |
+| Project: Resurrection | 33.00% | ~781 |
+| Ashes of the Empire | 31.00% | ~734 |
+| X-wing vs. TIE Fighter | 30.00% | ~710 |
+| Inferno | 29.00% | ~686 |
+| Strike Back | 26.00% | ~615 |
+| Not All Miss | 23.00% | ~544 |
+| Dark Forces | 22.00% | ~521 |
+| Master of Deception | 15.00% | ~355 |
+| Complete Your Training | 15.00% | ~355 |
+| A Galaxy at War | 12.00% | ~284 |
+| The Interceptor | 11.00% | ~260 |
+| Ignore Your Instincts At Your Peril | 11.00% | ~260 |
+| Balance Point | 4.00% | ~95 |
+| Multi-tasking | 2.00% | ~47 |
+| The Bomber | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,503 (Ranked 201)  
+Progressed: 2,367 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-21 | 1,503 | 0 |
+| 2023-09-21 | 2,367 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

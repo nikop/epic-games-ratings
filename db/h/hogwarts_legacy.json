@@ -7852,10 +7852,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43891,
       "NumberOfAwardsMax": 22886
+    },
+    {
+      "Time": "2023-09-21T19:59:01.2707064+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43897,
+      "NumberOfAwardsMax": 22886
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43891,
+  "NumberOfAwards": 43897,
   "NumberOfAwardsMax": 22886,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7923,7 +7929,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 937
+      "Count": 943
     },
     {
       "Text": "This game has a Creative Community",
@@ -7932,9 +7938,9 @@
       "Count": 663
     }
   ],
-  "EOS_Progressed": 297060,
+  "EOS_Progressed": 297061,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24617,6 +24623,11 @@
       "Time": "2023-09-21T19:06:34.4596989+00:00",
       "NumProgressed": 297060,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-21T20:06:02.4293494+00:00",
+      "NumProgressed": 297061,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24628,7 +24639,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41588
+      "UsersEstimate": 41589
     },
     {
       "ID": "PFA_10",
@@ -24658,9 +24669,9 @@
       "ID": "PFA_13",
       "SetID": "1hf4dep",
       "Name": "The Hero of Hogwarts",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 26735
+      "UsersEstimate": 29706
     },
     {
       "ID": "PFA_14",
@@ -24987,16 +24998,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297060,
+      "Progressed": 297061,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-21T15:59:22.370341+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:06:34.4596981+00:00",
+  "LastChanged": "2023-09-21T19:59:01.2707063+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:06:02.4293489+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:59:18.6788044+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:06:34.459811+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:59:01.2707073+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:06:02.4294945+00:00"
 }

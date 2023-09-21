@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2489,9 +2489,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 379
+      "UsersEstimate": 386
     },
     {
       "ID": "MQ03_1",
@@ -2682,8 +2682,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-14T06:02:12.3857175+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:08:32.391303+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:07:49.002471+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:16.8591084+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:59:29.7538635+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:08:32.3913316+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:59:10.8002647+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:07:49.0025133+00:00"
 }

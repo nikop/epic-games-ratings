@@ -6,38 +6,38 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~36,653 |
-| I read Shakespeare and stuff | 64.00% | ~31,277 |
-| Just a sprinkle | 63.00% | ~30,789 |
-| I'm stumped | 61.00% | ~29,811 |
-| Plant get enough | 60.00% | ~29,323 |
-| It's just the beginning | 59.00% | ~28,834 |
-| This is just my weekend vehicle | 58.00% | ~28,345 |
-| Hard work pays off | 53.00% | ~25,902 |
-| It's never too late to farm | 50.00% | ~24,436 |
-| All out of Land | 44.00% | ~21,503 |
-| Field Trip | 43.00% | ~21,015 |
-| I like to switch it up | 40.00% | ~19,548 |
-| Help me to help you | 38.00% | ~18,571 |
-| Ultimutt Pawesomeness | 28.00% | ~13,684 |
-| Van Gogh | 26.00% | ~12,706 |
-| You wood not believe it | 22.00% | ~10,752 |
-| Vehicle fleet | 22.00% | ~10,752 |
-| The plot thickens | 16.00% | ~7,819 |
-| Large-scale supplier | 16.00% | ~7,819 |
-| Well-Oiled Machine | 16.00% | ~7,819 |
-| Long haul | 16.00% | ~7,819 |
-| Clucky Streak | 15.00% | ~7,331 |
-| That's a wrap | 15.00% | ~7,331 |
-| Fix me up | 13.00% | ~6,353 |
+| Own use | 75.00% | ~36,658 |
+| I read Shakespeare and stuff | 64.00% | ~31,282 |
+| Just a sprinkle | 63.00% | ~30,793 |
+| I'm stumped | 61.00% | ~29,816 |
+| Plant get enough | 60.00% | ~29,327 |
+| It's just the beginning | 59.00% | ~28,838 |
+| This is just my weekend vehicle | 58.00% | ~28,349 |
+| Hard work pays off | 53.00% | ~25,905 |
+| It's never too late to farm | 50.00% | ~24,439 |
+| All out of Land | 44.00% | ~21,506 |
+| Field Trip | 43.00% | ~21,018 |
+| I like to switch it up | 40.00% | ~19,551 |
+| Help me to help you | 38.00% | ~18,574 |
+| Ultimutt Pawesomeness | 28.00% | ~13,686 |
+| Van Gogh | 26.00% | ~12,708 |
+| You wood not believe it | 22.00% | ~10,753 |
+| Vehicle fleet | 22.00% | ~10,753 |
+| The plot thickens | 16.00% | ~7,820 |
+| Large-scale supplier | 16.00% | ~7,820 |
+| Well-Oiled Machine | 16.00% | ~7,820 |
+| Long haul | 16.00% | ~7,820 |
+| Clucky Streak | 15.00% | ~7,332 |
+| That's a wrap | 15.00% | ~7,332 |
+| Fix me up | 13.00% | ~6,354 |
 | Rock on | 12.00% | ~5,865 |
-| Highly cultivated | 11.00% | ~5,376 |
-| It's sow easy | 11.00% | ~5,376 |
-| Giddy-up! | 10.00% | ~4,887 |
+| Highly cultivated | 11.00% | ~5,377 |
+| It's sow easy | 11.00% | ~5,377 |
+| Giddy-up! | 10.00% | ~4,888 |
 | Cowherd | 7.00% | ~3,421 |
-| Fluffyness | 6.00% | ~2,932 |
-| Helper A does not stop … ever | 6.00% | ~2,932 |
-| Bringing in the Honey | 6.00% | ~2,932 |
+| Fluffyness | 6.00% | ~2,933 |
+| Helper A does not stop … ever | 6.00% | ~2,933 |
+| Bringing in the Honey | 6.00% | ~2,933 |
 | Road Trip | 5.00% | ~2,444 |
 | Three little piggies… | 4.00% | ~1,955 |
 | Game on | 4.00% | ~1,955 |
@@ -45,12 +45,12 @@ Number of Ratings: 7,683  (23.09.2022)
 | Original grain | 0.80% | ~391 |
 | Thoroughbred! | 0.60% | ~293 |
 | Gone but not for cotton | 0.50% | ~244 |
-| Cheese it | 0.40% | ~195 |
-| Olea europaea | 0.40% | ~195 |
-| You are not a kangaroo | 0.40% | ~195 |
+| Cheese it | 0.40% | ~196 |
+| Olea europaea | 0.40% | ~196 |
+| You are not a kangaroo | 0.40% | ~196 |
 | Raisin the stakes | 0.30% | ~147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,871 (Ranked 95)  
+Progressed: 48,878 (Ranked 95)  
 Completed: 6 (0.01%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,17 +204,17 @@ Completed: 6 (0.01%) (Ranked 266)
 | 2023-09-18 | 48,791 | 6 |
 | 2023-09-19 | 48,820 | 6 |
 | 2023-09-20 | 48,853 | 6 |
-| 2023-09-21 | 48,871 | 6 |
+| 2023-09-21 | 48,878 | 6 |
 ## Awards
 Max (Great for Beginners): 4,999  (Ranked 69)  
-Sum: 40,407 (Ranked 32)  
+Sum: 40,409 (Ranked 32)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,999 |
 | This game is Educational | 4,183 |
 | This game has Diverse Characters | 4,175 |
-| This game is Relaxing | 4,144 |
+| This game is Relaxing | 4,146 |
 | This game has Quickly Understood Controls | 4,101 |
 | This game is Highly Recommended | 4,006 |
 | This game is Extremely Fun | 3,987 |
@@ -473,4 +473,4 @@ Diff (max vs sum): 37
 | 2023-09-18 | 4.69 | - | 4,983 | 40,300 |
 | 2023-09-19 | 4.69 | - | 4,983 | 40,329 |
 | 2023-09-20 | 4.69 | - | 4,993 | 40,368 |
-| 2023-09-21 | 4.69 | - | 4,999 | 40,407 |
+| 2023-09-21 | 4.69 | - | 4,999 | 40,409 |

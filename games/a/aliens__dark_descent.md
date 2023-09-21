@@ -5,7 +5,7 @@ Rating: 4.49 (Ranked 585)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,707 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,740 |
 | Snatched Out | 74.00% | ~2,473 |
 | Keep 'Em Coming | 73.00% | ~2,440 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,239 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 585)
 | Chalk It Up To Experience | 0.80% | ~27 |
 | This Ain't No Picnic | 0.70% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,342 (Ranked 171)  
+Progressed: 3,342 (Ranked 172)  
 Completed: 3 (0.09%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7205,
+  "EOS_Progressed": 7206,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4399,6 +4399,11 @@
       "Time": "2023-09-21T19:07:43.6646659+00:00",
       "NumProgressed": 7205,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-21T20:07:05.3250758+00:00",
+      "NumProgressed": 7206,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4418,7 +4423,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -4466,7 +4471,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -4474,7 +4479,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -4506,7 +4511,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4625,15 +4630,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7205,
+      "Progressed": 7206,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:07:43.6646655+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:07:05.3250752+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:34.0245387+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:58:56.6838152+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:07:43.6647017+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:58:39.3719882+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:07:05.3251303+00:00"
 }

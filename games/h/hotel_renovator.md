@@ -18,12 +18,12 @@ Rating: 4.38 (Ranked 731)
 | Love is in the air | 44.00% | ~450 |
 | Fine, I'll do it myself | 42.00% | ~429 |
 | Moving up | 41.00% | ~419 |
-| No need to call anyone | 39.00% | ~399 |
+| No need to call anyone | 40.00% | ~409 |
 | Big fortune | 32.00% | ~327 |
 | Still more work ahead | 29.00% | ~296 |
+| Aesop's fable | 27.00% | ~276 |
 | Hotel sleuthing | 27.00% | ~276 |
 | Kaboom | 26.00% | ~266 |
-| Aesop's fable | 26.00% | ~266 |
 | Nearly there | 25.00% | ~256 |
 | Broken heart | 23.00% | ~235 |
 | Island boy | 21.00% | ~215 |

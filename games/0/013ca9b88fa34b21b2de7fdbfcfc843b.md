@@ -5,27 +5,27 @@ Rating: 4.79 (Ranked 89)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,219 |
-| A Thorny Situation | 70.00% | ~3,086 |
-| ... And Spit Back Out | 58.00% | ~2,557 |
-| Break-Net Speed | 47.00% | ~2,072 |
-| Bramble Breaker | 43.00% | ~1,896 |
-| Miner 49er | 40.00% | ~1,764 |
-| Humble Collector | 39.00% | ~1,720 |
-| Calm Sailing | 32.00% | ~1,411 |
-| Open the Gate! | 28.00% | ~1,235 |
-| Mist Walker | 26.00% | ~1,146 |
-| Lumberjack | 22.00% | ~970 |
-| Oui, Chef! | 21.00% | ~926 |
-| Clear the Air | 12.00% | ~529 |
-| Botanical Breakthrough | 12.00% | ~529 |
-| Beach Comber | 11.00% | ~485 |
+| Azoria Beckons | 73.00% | ~3,222 |
+| A Thorny Situation | 70.00% | ~3,090 |
+| ... And Spit Back Out | 59.00% | ~2,604 |
+| Break-Net Speed | 47.00% | ~2,075 |
+| Bramble Breaker | 43.00% | ~1,898 |
+| Miner 49er | 40.00% | ~1,766 |
+| Humble Collector | 39.00% | ~1,721 |
+| Calm Sailing | 32.00% | ~1,412 |
+| Open the Gate! | 28.00% | ~1,236 |
+| Mist Walker | 26.00% | ~1,148 |
+| Lumberjack | 22.00% | ~971 |
+| Oui, Chef! | 21.00% | ~927 |
+| Clear the Air | 12.00% | ~530 |
+| Botanical Breakthrough | 12.00% | ~530 |
+| Beach Comber | 11.00% | ~486 |
 | Search for the Hairy Grell | 7.00% | ~309 |
 | Higher Tax Bracket | 7.00% | ~309 |
-| Got to Catch Them All | 4.00% | ~176 |
-| Rumble in the Jumble | 4.00% | ~176 |
-| Fanatical Farmer | 4.00% | ~176 |
-| Skilled | 4.00% | ~176 |
+| Got to Catch Them All | 4.00% | ~177 |
+| Rumble in the Jumble | 4.00% | ~177 |
+| Fanatical Farmer | 4.00% | ~177 |
+| Skilled | 4.00% | ~177 |
 | Flaming Hot Completos | 3.00% | ~132 |
 | Fae Farmer | 3.00% | ~132 |
 | I Now Pronounce You... | 3.00% | ~132 |
@@ -41,7 +41,7 @@ Rating: 4.79 (Ranked 89)
 | Giving the People What They Want | 0.10% | ~4 |
 | Very Skilled | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,409 (Ranked 157)  
+Progressed: 4,414 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-18 | 4,045 | 0 |
 | 2023-09-19 | 4,198 | 0 |
 | 2023-09-20 | 4,323 | 0 |
-| 2023-09-21 | 4,409 | 0 |
+| 2023-09-21 | 4,414 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

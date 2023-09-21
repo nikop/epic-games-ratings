@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 52.00% | ~97 |
-| Welcome to the Tower | 47.00% | ~88 |
+| Welcome to the Tower | 48.00% | ~90 |
 | The great escape | 43.00% | ~80 |
 | The Preacher's fate | 42.00% | ~79 |
 | A new dawn | 38.00% | ~71 |
@@ -17,8 +17,8 @@
 | Cable guy | 29.00% | ~54 |
 | Champollion | 29.00% | ~54 |
 | Half the way | 28.00% | ~52 |
+| Peace walker | 27.00% | ~50 |
 | In this together | 26.00% | ~49 |
-| Peace walker | 26.00% | ~49 |
 | Open door | 24.00% | ~45 |
 | Free at last | 22.00% | ~41 |
 | Feels like springtime | 22.00% | ~41 |
@@ -27,8 +27,8 @@
 | A Link to the Past | 18.00% | ~34 |
 | A great audience | 14.00% | ~26 |
 | For its own good | 14.00% | ~26 |
+| I did it | 13.00% | ~24 |
 | Fashion victim | 13.00% | ~24 |
-| I did it | 12.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 187 (Ranked 330)  
 Completed: 9 (4.81%) (Ranked 53)  

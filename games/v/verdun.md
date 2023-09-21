@@ -1,28 +1,28 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 521)  
+Rating: 4.53 (Ranked 520)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~45,299 |
-| Worth it | 63.00% | ~37,063 |
-| Eagle Eye | 55.00% | ~32,357 |
-| Corpseman I | 40.00% | ~23,532 |
-| Blast fishing | 37.00% | ~21,767 |
-| Not alone | 32.00% | ~18,826 |
-| Headhunter I | 26.00% | ~15,296 |
+| Setting an example | 77.00% | ~45,301 |
+| Worth it | 63.00% | ~37,065 |
+| Eagle Eye | 55.00% | ~32,358 |
+| Corpseman I | 40.00% | ~23,533 |
+| Blast fishing | 37.00% | ~21,768 |
+| Not alone | 32.00% | ~18,827 |
+| Headhunter I | 26.00% | ~15,297 |
 | Manual Labour I | 25.00% | ~14,708 |
-| Developers, Developers, Developers | 24.00% | ~14,119 |
-| Basic Training | 24.00% | ~14,119 |
+| Developers, Developers, Developers | 24.00% | ~14,120 |
+| Basic Training | 24.00% | ~14,120 |
 | Furchtlos und Treu | 13.00% | ~7,648 |
 | Gott Mit Uns | 12.00% | ~7,060 |
 | This We'll Defend! | 9.00% | ~5,295 |
 | Anker wirf! | 9.00% | ~5,295 |
 | Providentiea Memor | 9.00% | ~5,295 |
 | For King and Country | 9.00% | ~5,295 |
-| Battle hardened | 8.00% | ~4,706 |
+| Battle hardened | 8.00% | ~4,707 |
 | Semper Fidelis! | 7.00% | ~4,118 |
 | Honneur et Patrie | 7.00% | ~4,118 |
 | In Treue Fest | 5.00% | ~2,942 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~59 |
 | Blood Brother | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,830 (Ranked 91)  
+Progressed: 58,833 (Ranked 91)  
 Completed: 4 (0.01%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 4 (0.01%) (Ranked 266)
 | 2023-09-18 | 58,618 | 4 |
 | 2023-09-19 | 58,713 | 4 |
 | 2023-09-20 | 58,779 | 4 |
-| 2023-09-21 | 58,830 | 4 |
+| 2023-09-21 | 58,833 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 345)  
 Sum: 777 (Ranked 269)  

@@ -5,10 +5,10 @@
   "Ranking_Rating": 486,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 360,
-  "Ranking_EOS_Progress": 170,
+  "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3433,
+  "EOS_Progressed": 3436,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4594,6 +4594,11 @@
       "Time": "2023-09-21T12:06:43.3611597+00:00",
       "NumProgressed": 3433,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-21T20:05:31.8193942+00:00",
+      "NumProgressed": 3436,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4605,7 +4610,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "AceDetective_9",
@@ -4629,7 +4634,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "BloodAndJustice_50",
@@ -4645,7 +4650,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "CrowdPleaser",
@@ -4669,7 +4674,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4709,7 +4714,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "HouseofCards_19",
@@ -4717,7 +4722,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -4733,7 +4738,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "LightofLevant_18",
@@ -4789,7 +4794,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1787
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4797,7 +4802,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2199
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4829,7 +4834,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4853,7 +4858,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -4925,7 +4930,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2577
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4940,15 +4945,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3433,
+      "Progressed": 3436,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-21T19:05:58.7877411+00:00",
+  "LastChanged_Achievements": "2023-09-21T20:05:31.8193935+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-21T19:00:28.0688158+00:00",
-  "LastUpdate_Achievements": "2023-09-21T19:05:58.7877881+00:00"
+  "LastUpdate_Ratings": "2023-09-21T20:00:01.8778727+00:00",
+  "LastUpdate_Achievements": "2023-09-21T20:05:31.8194549+00:00"
 }
