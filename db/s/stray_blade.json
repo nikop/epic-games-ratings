@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -798,8 +798,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:09:21.9893803+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:09:13.0871691+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.4303858+00:00",
-  "LastUpdate_Ratings": "2023-09-21T15:59:31.9881559+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:09:21.989428+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:59:18.3328603+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:09:13.0872168+00:00"
 }

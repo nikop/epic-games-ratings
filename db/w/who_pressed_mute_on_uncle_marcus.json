@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.95,
+  "EOS_Completed_Percentage": 10.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -397,6 +397,11 @@
       "Time": "2023-09-16T07:06:41.8502962+00:00",
       "NumProgressed": 210,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-21T17:09:03.8180586+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 17,
@@ -406,9 +411,9 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 188
     },
     {
       "ID": "bless_the_rain",
@@ -416,31 +421,31 @@
       "Name": "I bless the rain down in London",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "blow",
       "SetID": "202dmm8",
       "Name": "Blow",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "brown_nosing",
       "SetID": "202dmm8",
       "Name": "Brown nosing",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "cheat",
       "SetID": "202dmm8",
       "Name": "Cheat",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "delusions",
@@ -456,7 +461,7 @@
       "Name": "Don\u0027t fear the baldness",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "instinct",
@@ -472,7 +477,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "just_like_me",
@@ -480,15 +485,15 @@
       "Name": "Just like me",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "making_a_murderer",
       "SetID": "202dmm8",
       "Name": "Making a murderer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "prove_it",
@@ -504,7 +509,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "the_truth",
@@ -528,7 +533,7 @@
       "Name": "Toby foolery",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -536,14 +541,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 23
     }
   ],
@@ -551,8 +556,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:09:10.9712395+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:09:03.8180579+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:47.0479632+00:00",
-  "LastUpdate_Ratings": "2023-09-21T15:57:23.2670664+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:09:10.9712598+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:57:30.5498705+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:09:03.8180768+00:00"
 }

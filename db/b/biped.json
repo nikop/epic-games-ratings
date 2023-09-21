@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6029,
+  "EOS_Progressed": 6030,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
@@ -10106,6 +10106,11 @@
       "Time": "2023-09-21T16:06:14.9085892+00:00",
       "NumProgressed": 6029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T17:05:53.2777105+00:00",
+      "NumProgressed": 6030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10173,7 +10178,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "3",
@@ -10189,7 +10194,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "5",
@@ -10236,7 +10241,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6029,
+      "Progressed": 6030,
       "Completed": 0
     }
   ],
@@ -10244,8 +10249,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:06:14.9085886+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:05:53.2777098+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:00:03.8278839+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:06:14.9086605+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:59:47.7591938+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:05:53.2778787+00:00"
 }

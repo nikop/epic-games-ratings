@@ -57,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Undergeared | 0.10% | ~196 |
 | Underdark Chill | 0.10% | ~196 |
 | The Alien Underdark | 0.10% | ~196 |
+| Brains on Ice | 0.10% | ~196 |
 | Hatchlings Underfoot | 0.10% | ~230 |
 | The Oozing Hunger | 0.10% | ~196 |
 | Levelheaded | 0.10% | ~196 |
@@ -527,12 +528,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~196 |
 | Third Third Out | 0.00% | ~0 |
 | Thoughts on the Menu | 0.00% | ~0 |
-| Brains on Ice | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,567 (Ranked 57)  
-Completed: 2,297 (1.00%) (Ranked 128)  
+Progressed: 229,571 (Ranked 57)  
+Completed: 2,297 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -685,7 +685,7 @@ Completed: 2,297 (1.00%) (Ranked 128)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,567 | 2,297 |
+| 2023-09-21 | 229,571 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,301  (Ranked 67)  
 Sum: 31,672 (Ranked 39)  

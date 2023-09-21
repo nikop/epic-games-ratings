@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | First Step | 53.00% | ~89 |
 | The 4 Pillars | 51.00% | ~86 |
-| Capitalism | 20.00% | ~34 |
+| Capitalism | 21.00% | ~35 |
 | Great Producer | 12.00% | ~20 |
 | There's something in those trees | 11.00% | ~18 |
 | Indebted | 11.00% | ~18 |
@@ -29,7 +29,7 @@
 | Supersoldier | 4.00% | ~7 |
 | Outdoor Decorator | 4.00% | ~7 |
 | Training Camp | 4.00% | ~7 |
-| Tear Down the Wall! | 2.00% | ~3 |
+| Tear Down the Wall! | 3.00% | ~5 |
 | Economist | 2.00% | ~3 |
 | Crisis Committee | 2.00% | ~3 |
 | Vive le Résistance | 2.00% | ~3 |

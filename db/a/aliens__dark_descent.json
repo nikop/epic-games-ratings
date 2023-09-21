@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -4605,9 +4605,9 @@
       "ID": "ACH_APC_RUN_OVER",
       "SetID": "816efe",
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1770
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -4621,9 +4621,9 @@
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
       "SetID": "816efe",
       "Name": "Omelette Du Fromage",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -4669,9 +4669,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2471
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4885,9 +4885,9 @@
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1970
+      "UsersEstimate": 2003
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4901,9 +4901,9 @@
       "ID": "ACH_SECURE_MARINE",
       "SetID": "816efe",
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1402
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4942,8 +4942,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:09:08.6502831+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:08:22.0296449+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-21T15:57:13.5674318+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:09:08.6503628+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:57:23.0251306+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:08:22.0297077+00:00"
 }

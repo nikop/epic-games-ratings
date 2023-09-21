@@ -4,11 +4,11 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 301,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 426,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -162,10 +162,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 88,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-09-21T17:00:02.9219404+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88,
+  "NumberOfAwards": 108,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -192,6 +198,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 25
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -206,8 +218,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-09-21T12:00:56.3248599+00:00",
+  "LastChanged": "2023-09-21T17:00:02.9219401+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:20.722491+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:00:23.3130816+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:06:48.569838+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:00:02.921941+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:06:22.6335133+00:00"
 }

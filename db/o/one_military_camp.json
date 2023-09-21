@@ -4,8 +4,8 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -739,9 +739,9 @@
       "ID": "ACHIEVEMENT_ID_1",
       "SetID": "c504de6",
       "Name": "Tear Down the Wall!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_10",
@@ -939,9 +939,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1090,8 +1090,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:09:13.1633488+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:09:05.6338035+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.5687828+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:00:51.2708095+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:09:13.1634042+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:00:28.5740158+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:09:05.6338784+00:00"
 }

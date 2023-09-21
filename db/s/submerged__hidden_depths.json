@@ -4,11 +4,11 @@
   "ProductSlug": "submerged-hidden-depths-6065a1",
   "Ranking_Rating": 845,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-03-10T00:00:00+00:00",
     "PcReleaseDate": "2022-03-10T00:00:00+00:00",
@@ -818,6 +818,6 @@
   "FirstSeenRating": "2022-09-02T17:02:43.442034+00:00",
   "LastChanged": "2023-09-21T03:02:09.9069737+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.3317404+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:02:12.5032343+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:08:07.5586587+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:01:34.0205533+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:07:30.1073606+00:00"
 }

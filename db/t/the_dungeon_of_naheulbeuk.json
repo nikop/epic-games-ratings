@@ -4,10 +4,10 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 417,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -960,9 +960,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 225680,
+  "EOS_Progressed": 225694,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1737,
+  "EOS_NewPlayers": 1732,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11745,6 +11745,11 @@
       "Time": "2023-09-21T16:03:17.5962026+00:00",
       "NumProgressed": 225680,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-21T17:03:20.4994807+00:00",
+      "NumProgressed": 225694,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11804,7 +11809,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9027
+      "UsersEstimate": 9028
     },
     {
       "ID": "Chapter2",
@@ -11812,7 +11817,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6770
+      "UsersEstimate": 6771
     },
     {
       "ID": "Chapter3",
@@ -12156,7 +12161,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9027
+      "UsersEstimate": 9028
     },
     {
       "ID": "DwarfElf15Support",
@@ -12188,7 +12193,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6770
+      "UsersEstimate": 6771
     },
     {
       "ID": "ElfEpic",
@@ -12204,7 +12209,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 69961
+      "UsersEstimate": 69965
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12220,7 +12225,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6770
+      "UsersEstimate": 6771
     },
     {
       "ID": "EndCombatOneHp",
@@ -12252,7 +12257,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11284
+      "UsersEstimate": 11285
     },
     {
       "ID": "FollowBraztok",
@@ -12276,7 +12281,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "KillDungeonLich",
@@ -12372,7 +12377,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "RangerEpic",
@@ -12404,7 +12409,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6770
+      "UsersEstimate": 6771
     },
     {
       "ID": "SupportCount4",
@@ -12459,21 +12464,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225680,
+      "Progressed": 225694,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225680,
+      "Progressed": 225694,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-21T11:01:46.089919+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:03:17.5962021+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:03:20.4994801+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:00:46.0667982+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:03:17.5964098+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:00:23.9942337+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:03:20.4996633+00:00"
 }

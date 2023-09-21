@@ -6,8 +6,8 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6796,9 +6796,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229567,
+  "EOS_Progressed": 229571,
   "EOS_Completed": 2297,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23896,6 +23896,11 @@
       "Time": "2023-09-21T16:04:42.2038864+00:00",
       "NumProgressed": 229567,
       "NumCompleted": 2297
+    },
+    {
+      "Time": "2023-09-21T17:04:34.5199248+00:00",
+      "NumProgressed": 229571,
+      "NumCompleted": 2297
     }
   ],
   "TotalAchievements": 524,
@@ -24329,9 +24334,9 @@
       "ID": "objective_completed_1107",
       "SetID": "415jc5c",
       "Name": "Brains on Ice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_111",
@@ -28098,21 +28103,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195841,
+      "Progressed": 195845,
       "Completed": 3463
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229567,
+      "Progressed": 229571,
       "Completed": 2297
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-21T14:59:22.1645732+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:04:42.2038858+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:04:34.5199242+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:00:03.4610019+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:04:42.2072442+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:59:47.4100705+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:04:34.5230383+00:00"
 }

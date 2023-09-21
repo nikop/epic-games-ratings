@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20523,
+  "EOS_Progressed": 20526,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
@@ -16888,6 +16888,11 @@
       "Time": "2023-09-21T16:04:11.457184+00:00",
       "NumProgressed": 20523,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-09-21T17:04:06.5519445+00:00",
+      "NumProgressed": 20526,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 20,
@@ -16907,7 +16912,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "EAST_FINISHED",
@@ -16915,7 +16920,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -16939,7 +16944,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -16963,7 +16968,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "FOUND_ERIN",
@@ -16979,7 +16984,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "FOUND_MAMBA",
@@ -16987,7 +16992,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -17003,7 +17008,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "GAME_FINISHED",
@@ -17019,7 +17024,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15803
+      "UsersEstimate": 15805
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17027,7 +17032,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17035,7 +17040,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -17051,22 +17056,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20523,
+      "Progressed": 20526,
       "Completed": 413
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:04:11.4571833+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:04:06.5519438+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:02:14.6461489+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:04:11.4573306+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:01:35.8693589+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:04:06.5521591+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.41 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,340 |
-| Ranidaphobia | 78.00% | ~1,136 |
-| Aspiring Editor | 75.00% | ~1,093 |
-| Gun for Hire | 70.00% | ~1,020 |
-| I am the law! | 64.00% | ~932 |
-| Lumberjack | 53.00% | ~772 |
-| Croaked | 48.00% | ~699 |
-| Limp Richard | 48.00% | ~699 |
+| First Blood | 92.00% | ~1,341 |
+| Ranidaphobia | 78.00% | ~1,137 |
+| Aspiring Editor | 75.00% | ~1,094 |
+| Gun for Hire | 70.00% | ~1,021 |
+| I am the law! | 64.00% | ~933 |
+| Lumberjack | 53.00% | ~773 |
+| Croaked | 48.00% | ~700 |
+| Limp Richard | 48.00% | ~700 |
 | Exorcist | 47.00% | ~685 |
 | From Darkness to Light | 47.00% | ~685 |
-| Editor Adept | 46.00% | ~670 |
+| Editor Adept | 46.00% | ~671 |
 | Giant Killer | 45.00% | ~656 |
 | Sensei | 43.00% | ~627 |
 | Firestarter | 42.00% | ~612 |
-| The meaning of Kain | 41.00% | ~597 |
-| Technophobe | 39.00% | ~568 |
+| The meaning of Kain | 41.00% | ~598 |
+| Technophobe | 39.00% | ~569 |
 | Recycler | 38.00% | ~554 |
-| Are you not entertained? | 34.00% | ~495 |
-| Ganglord | 34.00% | ~495 |
-| Jarhead | 34.00% | ~495 |
+| Are you not entertained? | 34.00% | ~496 |
+| Ganglord | 34.00% | ~496 |
+| Jarhead | 34.00% | ~496 |
 | Infiltrator | 33.00% | ~481 |
-| Pushing Daisy | 32.00% | ~466 |
+| Pushing Daisy | 32.00% | ~467 |
 | Experienced | 31.00% | ~452 |
 | Hold The Line | 30.00% | ~437 |
 | Endgame | 26.00% | ~379 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 692)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,457 (Ranked 201)  
+Progressed: 1,458 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-18 | 1,445 | 0 |
 | 2023-09-19 | 1,451 | 0 |
 | 2023-09-20 | 1,455 | 0 |
-| 2023-09-21 | 1,457 | 0 |
+| 2023-09-21 | 1,458 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

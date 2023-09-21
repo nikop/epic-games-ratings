@@ -15,6 +15,7 @@
 | Vintage Collector | 3.00% | ~1 |
 | Losing your Head | 3.00% | ~1 |
 | Captain | 3.00% | ~1 |
+| Chief | 3.00% | ~1 |
 | Feel the Spark | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
 | For Science | 3.00% | ~1 |
@@ -26,7 +27,6 @@
 | Speedrunner | 3.00% | ~1 |
 | Overthrow The Crown | 3.00% | ~0 |
 | Lieutenant | 0.00% | ~0 |
-| Chief | 0.00% | ~0 |
 | Dust to Dust | 0.00% | ~0 |
 | Millionaire | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |

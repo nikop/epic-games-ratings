@@ -6,23 +6,23 @@ Rating: 4.49 (Ranked 585)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,705 |
+| Keep 'Em Coming | 74.00% | ~2,471 |
 | Snatched Out | 74.00% | ~2,471 |
-| Keep 'Em Coming | 73.00% | ~2,437 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,237 |
 | Call Me Snake | 63.00% | ~2,104 |
 | Something Lurks Under The Hills | 61.00% | ~2,037 |
-| This Was No Papercut | 59.00% | ~1,970 |
+| This Was No Papercut | 60.00% | ~2,003 |
 | People Person | 56.00% | ~1,870 |
 | The Shrink Hates Me | 56.00% | ~1,870 |
-| Use The Bumper, That's What It's For | 52.00% | ~1,736 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,770 |
 | First Steps Into Madness | 52.00% | ~1,736 |
 | Colonial Barrels | 50.00% | ~1,670 |
 | Harper's Hell | 45.00% | ~1,503 |
 | Making a Stand | 43.00% | ~1,436 |
-| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,369 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,402 |
 | Where It All Begun | 40.00% | ~1,336 |
 | Recouped Investment | 38.00% | ~1,269 |
-| Omelette Du Fromage | 33.00% | ~1,102 |
+| Omelette Du Fromage | 34.00% | ~1,135 |
 | Living Nightmare | 33.00% | ~1,102 |
 | The More The Merrier | 33.00% | ~1,102 |
 | The Darwin Era Was Here | 29.00% | ~968 |

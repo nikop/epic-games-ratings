@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1955,
+  "EOS_Progressed": 1956,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5662,6 +5662,11 @@
       "Time": "2023-09-21T13:10:56.2574917+00:00",
       "NumProgressed": 1955,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-21T17:05:15.315151+00:00",
+      "NumProgressed": 1956,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5849,7 +5854,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "fellowshippower",
@@ -5857,7 +5862,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "fourleafclover",
@@ -5881,7 +5886,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "gearenchanting",
@@ -5905,7 +5910,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "herewegoagain",
@@ -5945,7 +5950,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "jewelenchanting",
@@ -6009,7 +6014,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "missionsdedication",
@@ -6129,7 +6134,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "thealchemist",
@@ -6233,7 +6238,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "warmachinesarmy",
@@ -6265,14 +6270,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1955,
+      "Progressed": 1956,
       "Completed": 2
     }
   ],
@@ -6280,8 +6285,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-21T16:05:30.1456802+00:00",
+  "LastChanged_Achievements": "2023-09-21T17:05:15.3151502+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:00:26.4522579+00:00",
-  "LastUpdate_Achievements": "2023-09-21T16:05:30.1458006+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:00:05.8459274+00:00",
+  "LastUpdate_Achievements": "2023-09-21T17:05:15.315288+00:00"
 }
