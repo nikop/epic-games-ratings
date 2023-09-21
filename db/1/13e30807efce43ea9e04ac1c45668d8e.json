@@ -4,7 +4,7 @@
   "ProductSlug": "outliver-tribulations-679884",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -121,6 +121,11 @@
       "Time": "2023-09-17T05:09:35.3356657+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T04:03:40.7357792+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-02T06:02:07.3967379+00:00",
@@ -155,7 +160,7 @@
       "ID": "ACH_DEFEAT_OMOTOKE",
       "SetID": "7m06add",
       "Name": "Omotoke",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -251,7 +256,7 @@
       "ID": "ACH_MAX_HEALTH_CHARM",
       "SetID": "7m06add",
       "Name": "Health Charm",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -291,23 +296,23 @@
       "ID": "ACH_WELCOME_TO_ROT",
       "SetID": "7m06add",
       "Name": "The Realm Of Tribulations",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m06add",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T09:57:14.6972253+00:00",
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:04:33.5247178+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:03:40.7357782+00:00",
   "LastUpdate_AppInfo": "2023-09-15T20:57:10.3044385+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:58:11.156853+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:04:33.5247355+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:57:33.0782402+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:03:40.7357916+00:00"
 }

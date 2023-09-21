@@ -6,24 +6,24 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~59,669 |
-| The Pyromancer | 86.00% | ~57,017 |
-| The Wastes | 83.00% | ~55,028 |
-| Waste Not | 80.00% | ~53,039 |
-| The Cryomancer | 76.00% | ~50,387 |
-| Stock Up | 75.00% | ~49,724 |
-| The Hydromancer | 73.00% | ~48,398 |
-| The Matriarch | 70.00% | ~46,409 |
-| The Aeromancer | 66.00% | ~43,757 |
-| The Venomancer | 66.00% | ~43,757 |
-| The Huntsman | 65.00% | ~43,094 |
-| Dawnlight Order | 64.00% | ~42,431 |
-| The Electromancer | 61.00% | ~40,442 |
-| The Terramancer | 59.00% | ~39,116 |
-| The Exalted | 57.00% | ~37,790 |
-| Blueheart Runners | 55.00% | ~36,464 |
-| Sheriff Inquisitors | 55.00% | ~36,464 |
-| The Necromancer | 52.00% | ~34,475 |
+| The Champion | 90.00% | ~59,670 |
+| The Pyromancer | 86.00% | ~57,018 |
+| The Wastes | 83.00% | ~55,029 |
+| Waste Not | 80.00% | ~53,040 |
+| The Cryomancer | 76.00% | ~50,388 |
+| Stock Up | 75.00% | ~49,725 |
+| The Hydromancer | 73.00% | ~48,399 |
+| The Matriarch | 70.00% | ~46,410 |
+| The Aeromancer | 66.00% | ~43,758 |
+| The Venomancer | 66.00% | ~43,758 |
+| The Huntsman | 65.00% | ~43,095 |
+| Dawnlight Order | 64.00% | ~42,432 |
+| The Electromancer | 61.00% | ~40,443 |
+| The Terramancer | 59.00% | ~39,117 |
+| The Exalted | 57.00% | ~37,791 |
+| Blueheart Runners | 55.00% | ~36,465 |
+| Sheriff Inquisitors | 55.00% | ~36,465 |
+| The Necromancer | 52.00% | ~34,476 |
 | The Swamp | 50.00% | ~33,150 |
 | The Fungalmancer | 47.00% | ~31,161 |
 | The Thaumamancer | 47.00% | ~31,161 |
@@ -60,7 +60,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Scholar | 10.00% | ~6,630 |
 | Top Shelf | 5.00% | ~3,315 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,299 (Ranked 87)  
+Progressed: 66,300 (Ranked 87)  
 Completed: 1,222 (1.84%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,14 +214,14 @@ Completed: 1,222 (1.84%) (Ranked 102)
 | 2023-09-18 | 66,280 | 1,222 |
 | 2023-09-19 | 66,291 | 1,222 |
 | 2023-09-20 | 66,296 | 1,222 |
-| 2023-09-21 | 66,299 | 1,222 |
+| 2023-09-21 | 66,300 | 1,222 |
 ## Awards
-Max (Character Customization): 966  (Ranked 148)  
-Sum: 1,932 (Ranked 205)  
+Max (Character Customization): 968  (Ranked 148)  
+Sum: 1,934 (Ranked 205)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 966 |
+| This game has Inclusive Character Customization | 968 |
 | This game has Great Boss Battles | 556 |
 | This game is Extremely Fun | 66 |
 | This game has Challenging Combat | 65 |
@@ -371,3 +371,4 @@ Diff (max vs sum): -57
 | 2023-09-06 | 4.31 | - | 964 | 1,930 |
 | 2023-09-14 | 4.31 | - | 965 | 1,931 |
 | 2023-09-15 | 4.31 | - | 966 | 1,932 |
+| 2023-09-21 | 4.31 | - | 968 | 1,934 |

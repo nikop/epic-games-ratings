@@ -6,20 +6,20 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~28,268 |
-| Final touch | 37.00% | ~28,268 |
-| Prop-M Rover | 32.00% | ~24,448 |
-| Changing the Planet | 28.00% | ~21,392 |
-| Sojourner | 26.00% | ~19,864 |
-| Beagle 2 | 24.00% | ~18,336 |
-| New Home | 23.00% | ~17,572 |
-| Winner Winner Terraformer | 22.00% | ~16,808 |
-| Project Manager | 19.00% | ~14,516 |
-| Curiosity | 19.00% | ~14,516 |
-| Collector | 19.00% | ~14,516 |
-| Master | 19.00% | ~14,516 |
-| No Longer Red | 18.00% | ~13,752 |
-| Self-sufficient | 18.00% | ~13,752 |
+| It's a steal! | 37.00% | ~28,269 |
+| Final touch | 37.00% | ~28,269 |
+| Prop-M Rover | 32.00% | ~24,449 |
+| Changing the Planet | 28.00% | ~21,393 |
+| Sojourner | 26.00% | ~19,865 |
+| Beagle 2 | 24.00% | ~18,337 |
+| New Home | 23.00% | ~17,573 |
+| Winner Winner Terraformer | 22.00% | ~16,809 |
+| Project Manager | 19.00% | ~14,517 |
+| Curiosity | 19.00% | ~14,517 |
+| Collector | 19.00% | ~14,517 |
+| Master | 19.00% | ~14,517 |
+| No Longer Red | 18.00% | ~13,753 |
+| Self-sufficient | 18.00% | ~13,753 |
 | Money money | 15.00% | ~11,460 |
 | Biggest Reward | 14.00% | ~10,696 |
 | Acquired knowledge | 13.00% | ~9,932 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,292 |
 | Opportunity | 3.00% | ~2,292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,400 (Ranked 81)  
+Progressed: 76,403 (Ranked 81)  
 Completed: 132 (0.17%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,10 +191,10 @@ Completed: 132 (0.17%) (Ranked 204)
 | 2023-09-18 | 76,212 | 129 |
 | 2023-09-19 | 76,305 | 131 |
 | 2023-09-20 | 76,395 | 132 |
-| 2023-09-21 | 76,400 | 132 |
+| 2023-09-21 | 76,403 | 132 |
 ## Awards
 Max (Relaxing): 514  (Ranked 199)  
-Sum: 3,166 (Ranked 165)  
+Sum: 3,167 (Ranked 165)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -202,7 +202,7 @@ Diff (max vs sum): 34
 | This game is Highly Recommended | 496 |
 | This game has Quickly Understood Controls | 461 |
 | This game has Competitive Players | 450 |
-| This game is Extremely Fun | 446 |
+| This game is Extremely Fun | 447 |
 | This game has Amazing Storytelling | 361 |
 | This game has Obsessive Gameplay | 334 |
 | This game has a Competitive Community | 240 |
@@ -383,3 +383,4 @@ Diff (max vs sum): 34
 | 2023-09-16 | 4.53 | - | 513 | 3,163 |
 | 2023-09-18 | 4.53 | - | 514 | 3,164 |
 | 2023-09-19 | 4.54 | - | 514 | 3,166 |
+| 2023-09-21 | 4.54 | - | 514 | 3,167 |

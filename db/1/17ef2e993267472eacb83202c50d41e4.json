@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6257,
+  "EOS_Progressed": 6260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2121,6 +2121,11 @@
       "Time": "2023-09-21T03:07:51.0204978+00:00",
       "NumProgressed": 6257,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T04:06:03.4987464+00:00",
+      "NumProgressed": 6260,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2173,7 +2178,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "CreditsEarned50000",
@@ -2181,7 +2186,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "CreditsSpent50000",
@@ -2253,7 +2258,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "GamesPlayed10",
@@ -2277,7 +2282,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "GamesWon10",
@@ -2349,7 +2354,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "HSUPurchased1",
@@ -2565,7 +2570,7 @@
       "Name": "10 Eliminations",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "PlayerKills100",
@@ -2677,7 +2682,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "TGPurchased1",
@@ -2717,21 +2722,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6257,
+      "Progressed": 6260,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:07:51.020497+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:06:03.4987457+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:58:15.3271411+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:07:51.0206637+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:57:35.9201836+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:06:03.4988244+00:00"
 }

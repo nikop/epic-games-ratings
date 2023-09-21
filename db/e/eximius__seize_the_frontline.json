@@ -3,8 +3,8 @@
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
   "Ranking_Rating": 887,
-  "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 523,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 106,
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197069,
+  "EOS_Progressed": 197070,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16861,6 +16861,11 @@
       "Time": "2023-09-21T03:08:17.2575091+00:00",
       "NumProgressed": 197069,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-21T04:06:21.9702999+00:00",
+      "NumProgressed": 197070,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -16880,7 +16885,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 139919
+      "UsersEstimate": 139920
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -16888,7 +16893,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9853
+      "UsersEstimate": 9854
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -16904,7 +16909,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35472
+      "UsersEstimate": 35473
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -16952,7 +16957,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9853
+      "UsersEstimate": 9854
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -16992,14 +16997,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9853
+      "UsersEstimate": 9854
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 197069,
+      "Progressed": 197070,
       "Completed": 4
     }
   ],
@@ -17007,8 +17012,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:08:17.2575085+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:06:21.970299+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.6203771+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:02:27.2149086+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:08:17.2576442+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:00:25.5556725+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:06:21.9703888+00:00"
 }

@@ -118,6 +118,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.10% | ~230 |
 | Anti-Dexterous Explorers | 0.10% | ~230 |
 | Struggling Toward Omu | 0.10% | ~230 |
+| Wagon Train | 0.10% | ~230 |
 | The Lost Heir of Omu | 0.10% | ~230 |
 | A Persistent Buzzing | 0.10% | ~230 |
 | Not Very Charming | 0.10% | ~230 |
@@ -323,6 +324,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Smooth Talkers | 0.10% | ~196 |
 | Relay Race | 0.10% | ~230 |
 | An Illithid Undertaking | 0.10% | ~196 |
+| An Illithid Ambush | 0.10% | ~196 |
 | Misty Undermountain | 0.10% | ~196 |
 | An Owlbear of an Undertaking | 0.10% | ~196 |
 | Déjà Vu | 0.10% | ~196 |
@@ -341,6 +343,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.10% | ~196 |
 | The Lost Hollyphant | 0.10% | ~196 |
 | Zapper Overload | 0.10% | ~196 |
+| Best Friend Search Squad! | 0.10% | ~196 |
 | An Even Worse Time in Avernus | 0.10% | ~196 |
 | Alterdeep | 0.10% | ~196 |
 | Elder Rune Attack | 0.10% | ~196 |
@@ -411,12 +414,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.10% | ~196 |
 | Quick Thinking | 0.10% | ~196 |
 | Tough Acting | 0.10% | ~196 |
+| Witty Riposting | 0.10% | ~196 |
 | Waiting on Sunrise | 0.10% | ~196 |
 | Frontline Fighters | 0.10% | ~196 |
 | A Chilling Encounter | 0.10% | ~196 |
 | How Far Away is Thay | 0.10% | ~196 |
 | Deekin's Mission | 0.10% | ~196 |
 | Fire and Ice | 0.10% | ~196 |
+| Frozen Vengeance | 0.10% | ~196 |
 | Mimic Vengeance | 0.10% | ~196 |
 | REALLY Frozen Vengeance | 0.10% | ~196 |
 | The Battle of High Hall Tower | 0.10% | ~196 |
@@ -496,7 +501,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Brains on Ice | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
-| Wagon Train | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
@@ -510,19 +514,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Social Grace | 0.00% | ~0 |
 | Batiri in the Goblin Halls | 0.00% | ~0 |
 | Twice More Into The Breach | 0.00% | ~0 |
-| An Illithid Ambush | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Look Out! | 0.00% | ~0 |
-| Best Friend Search Squad! | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Just The Worst | 0.00% | ~0 |
 | Frozen in Fear | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
 | Fortress Assault | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
-| Witty Riposting | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
-| Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,506 (Ranked 57)  
+Progressed: 229,509 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,17 +685,17 @@ Completed: 2,295 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,506 | 2,295 |
+| 2023-09-21 | 229,509 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
-Sum: 31,662 (Ranked 39)  
+Sum: 31,663 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,296 |
 | This game is Great for Beginners | 5,276 |
 | This game has Quickly Understood Controls | 4,769 |
-| This game is Relaxing | 4,654 |
+| This game is Relaxing | 4,655 |
 | This game has Amazing Characters | 4,127 |
 | This game is Highly Recommended | 4,116 |
 | This game has Playful Visuals | 3,424 |
@@ -940,4 +940,4 @@ Diff (max vs sum): 28
 | 2023-09-18 | 4.06 | - | 5,285 | 31,633 |
 | 2023-09-19 | 4.06 | - | 5,292 | 31,652 |
 | 2023-09-20 | 4.06 | - | 5,296 | 31,661 |
-| 2023-09-21 | 4.06 | - | 5,296 | 31,662 |
+| 2023-09-21 | 4.06 | - | 5,296 | 31,663 |

@@ -2,10 +2,10 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1225,8 +1225,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:06:47.4024583+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:05:18.624351+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:58:00.4150841+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:06:47.4024849+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:57:24.9017834+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:05:18.6243672+00:00"
 }

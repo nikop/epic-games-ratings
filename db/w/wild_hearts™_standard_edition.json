@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "achievement_38",
       "SetID": "2cpn27e",
       "Name": "Superlative View",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_39",
@@ -470,8 +470,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:09:12.788497+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:08:21.6572054+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:21.8560394+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:59:43.7757296+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:09:12.7885437+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:58:35.3200585+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:08:21.6572402+00:00"
 }

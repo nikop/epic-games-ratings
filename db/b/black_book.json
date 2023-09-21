@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -468,9 +468,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 29283,
+  "EOS_Progressed": 29297,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 5762,
+  "EOS_NewPlayers": 5758,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2943,6 +2943,11 @@
       "Time": "2023-09-21T03:05:21.6271818+00:00",
       "NumProgressed": 29283,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-09-21T04:04:16.5132098+00:00",
+      "NumProgressed": 29297,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -2955,7 +2960,7 @@
       "Name": "Black Sorceress",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ALL_CARDS",
@@ -2971,7 +2976,7 @@
       "Name": "Worthy",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "ASPEN_TREE",
@@ -2979,7 +2984,7 @@
       "Name": "Aspen Tree",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3516
     },
     {
       "ID": "BAD_END",
@@ -2995,7 +3000,7 @@
       "Name": "Black Book",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "BLACK_SORCERER",
@@ -3003,7 +3008,7 @@
       "Name": "Black Sorcerer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "CARD_PLAYER",
@@ -3011,7 +3016,7 @@
       "Name": "Card Player",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "CHEATER",
@@ -3019,7 +3024,7 @@
       "Name": "Cheater",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "COW_LEVEL",
@@ -3027,7 +3032,7 @@
       "Name": "Cow Level",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2930
     },
     {
       "ID": "DEAD_MAN",
@@ -3035,7 +3040,7 @@
       "Name": "Dead Man",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "DETECTIVE",
@@ -3051,7 +3056,7 @@
       "Name": "Diplomat",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "EGOR_LOYAL",
@@ -3059,7 +3064,7 @@
       "Name": "Old Friend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2637
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -3067,7 +3072,7 @@
       "Name": "Student",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 5271
+      "UsersEstimate": 5273
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -3075,7 +3080,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2930
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -3083,7 +3088,7 @@
       "Name": "Encyclopedist",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "FERN",
@@ -3091,7 +3096,7 @@
       "Name": "Fern",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "FRIENDS",
@@ -3099,7 +3104,7 @@
       "Name": "100 Friends",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "GOOD_END",
@@ -3107,7 +3112,7 @@
       "Name": "Righteous",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "GREAT_SORCERER",
@@ -3123,7 +3128,7 @@
       "Name": "White Head",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "HERBS_1",
@@ -3131,7 +3136,7 @@
       "Name": "Healer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3516
     },
     {
       "ID": "HERBS_2",
@@ -3139,7 +3144,7 @@
       "Name": "Herbalist",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2637
     },
     {
       "ID": "HERBS_3",
@@ -3147,7 +3152,7 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "INITIATION",
@@ -3155,7 +3160,7 @@
       "Name": "Initiation",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6738
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -3163,7 +3168,7 @@
       "Name": "Vorsa",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "MERMAID_FREE",
@@ -3171,7 +3176,7 @@
       "Name": "Dead Friend",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -3187,7 +3192,7 @@
       "Name": "Musician",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "NEW_SPIRITS",
@@ -3195,7 +3200,7 @@
       "Name": "New Spirits",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -3203,7 +3208,7 @@
       "Name": "Soldier",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2930
     },
     {
       "ID": "NORMAL_END",
@@ -3211,7 +3216,7 @@
       "Name": "Koldun",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "OLD_SPIRITS",
@@ -3219,7 +3224,7 @@
       "Name": "Old Spirits",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -3227,7 +3232,7 @@
       "Name": "Researcher",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "PINE_TREE",
@@ -3235,7 +3240,7 @@
       "Name": "Pine Tree",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -3243,7 +3248,7 @@
       "Name": "Voipel",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "SAVVY",
@@ -3251,7 +3256,7 @@
       "Name": "Savvy",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "SINNER",
@@ -3259,7 +3264,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "SUSANIN",
@@ -3267,7 +3272,7 @@
       "Name": "Susanin",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "TALES_1",
@@ -3275,7 +3280,7 @@
       "Name": "Listener",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3809
     },
     {
       "ID": "TALES_2",
@@ -3283,7 +3288,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "TALES_3",
@@ -3291,7 +3296,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "TRAVELLER",
@@ -3299,7 +3304,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "WATER",
@@ -3307,7 +3312,7 @@
       "Name": "Water",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2637
     },
     {
       "ID": "WOLF",
@@ -3315,7 +3320,7 @@
       "Name": "Wolf",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "WORD_MASTER",
@@ -3331,7 +3336,7 @@
       "Name": "Knower",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4102
     },
     {
       "ID": "ZNATKOST_2",
@@ -3339,7 +3344,7 @@
       "Name": "Black Mage",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "ZNATKOST_3",
@@ -3347,22 +3352,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 29283,
+      "Progressed": 29297,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-09-20T15:59:38.8532147+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:05:21.6271813+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:04:16.5132092+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:16.6084804+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:00:11.7938746+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:05:21.6272402+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:58:54.1028608+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:04:16.5132601+00:00"
 }

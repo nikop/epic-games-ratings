@@ -1,24 +1,24 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.46 (Ranked 626)  
+Rating: 4.50 (Ranked 568)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,665 |
-| Stogie for Fogey | 26.00% | ~2,887 |
-| Martian Music | 24.00% | ~2,665 |
-| Captain Drummer | 24.00% | ~2,665 |
-| Spore Taste | 23.00% | ~2,554 |
-| Celebrations are in Order | 23.00% | ~2,554 |
-| The Pit and the Pirates | 21.00% | ~2,332 |
-| Drone Dodger | 20.00% | ~2,221 |
-| Doctor Approved | 18.00% | ~1,999 |
-| Thorston Mayer | 14.00% | ~1,555 |
+| Impossible Objects | 33.00% | ~3,667 |
+| Stogie for Fogey | 26.00% | ~2,889 |
+| Martian Music | 24.00% | ~2,667 |
+| Captain Drummer | 24.00% | ~2,667 |
+| Spore Taste | 23.00% | ~2,556 |
+| Celebrations are in Order | 23.00% | ~2,556 |
+| The Pit and the Pirates | 21.00% | ~2,334 |
+| Drone Dodger | 20.00% | ~2,223 |
+| Doctor Approved | 19.00% | ~2,111 |
+| Thorston Mayer | 14.00% | ~1,556 |
 | Bottoms up! | 11.00% | ~1,222 |
-| Data Logger | 6.00% | ~666 |
-| Data Master | 5.00% | ~555 |
-| Data Recoverer | 5.00% | ~555 |
+| Data Logger | 6.00% | ~667 |
+| Data Master | 5.00% | ~556 |
+| Data Recoverer | 5.00% | ~556 |
 | Debris Spree | 3.00% | ~333 |
 | Urshanabi Hoarder | 2.00% | ~222 |
 | Grave Robber | 2.00% | ~222 |
@@ -28,7 +28,7 @@ Rating: 4.46 (Ranked 626)
 | Bosmang | 1.00% | ~111 |
 | Heal Thy Medic | 0.90% | ~100 |
 | Khan's Revenge | 0.80% | ~89 |
-| Miraculous Maya | 0.60% | ~67 |
+| Miraculous Maya | 0.70% | ~78 |
 | No Belter Left Behind | 0.40% | ~44 |
 | Brother's Reaper | 0.30% | ~33 |
 | Scavenger Star | 0.10% | ~11 |
@@ -36,7 +36,7 @@ Rating: 4.46 (Ranked 626)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,105 (Ranked 131)  
+Progressed: 11,113 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-18 | 10,769 | 0 |
 | 2023-09-19 | 10,886 | 0 |
 | 2023-09-20 | 11,076 | 0 |
-| 2023-09-21 | 11,105 | 0 |
+| 2023-09-21 | 11,113 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -112,3 +112,4 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-15 | 4.59 | 0 | 0 |
 | 2023-09-17 | 4.53 | 0 | 0 |
 | 2023-09-20 | 4.46 | 0 | 0 |
+| 2023-09-21 | 4.50 | 0 | 0 |

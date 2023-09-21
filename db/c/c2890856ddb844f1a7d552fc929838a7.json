@@ -3,11 +3,11 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 523,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 816,
+  "EOS_Progressed": 817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1630,6 +1630,11 @@
       "Time": "2023-09-21T03:04:36.3499259+00:00",
       "NumProgressed": 816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T04:03:42.815249+00:00",
+      "NumProgressed": 817,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1666,7 +1671,7 @@
       "Name": "Blood and Gold",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "AC04",
@@ -1674,7 +1679,7 @@
       "Name": "Blood and Iron",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "AC05",
@@ -1706,15 +1711,15 @@
       "Name": "Forged in Fire",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 449
+      "UsersEstimate": 441
     },
     {
       "ID": "AC10",
@@ -1738,7 +1743,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "AC13",
@@ -1762,7 +1767,7 @@
       "Name": "Full Devotion",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "AC16",
@@ -1810,7 +1815,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "AC22",
@@ -1818,7 +1823,7 @@
       "Name": "Empty Handed",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "AC23",
@@ -1858,7 +1863,7 @@
       "Name": "Twisted is the Path of the Miracle",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "AC28",
@@ -1882,7 +1887,7 @@
       "Name": "The Anointed One",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "AC31",
@@ -1906,7 +1911,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "AC34",
@@ -1922,7 +1927,7 @@
       "Name": "Flawless Penance",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC36",
@@ -1930,7 +1935,7 @@
       "Name": "Blessed Incense",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "AC37",
@@ -1962,7 +1967,7 @@
       "Name": "Welcome Back!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "AC41",
@@ -1978,7 +1983,7 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "AC43",
@@ -1994,7 +1999,7 @@
       "Name": "This is Blasphemy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AC45",
@@ -2009,7 +2014,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 816,
+      "Progressed": 817,
       "Completed": 0
     }
   ],
@@ -2017,8 +2022,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:04:36.3499252+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:03:42.8152484+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:58:32.5225917+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:04:36.3499861+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:57:47.3521611+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:03:42.8152878+00:00"
 }

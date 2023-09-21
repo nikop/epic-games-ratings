@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24383,
+  "EOS_Progressed": 24387,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -17730,6 +17730,11 @@
       "Time": "2023-09-21T02:20:19.3787922+00:00",
       "NumProgressed": 24383,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-21T04:05:09.8913664+00:00",
+      "NumProgressed": 24387,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 22,
@@ -17805,7 +17810,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "1024",
@@ -17837,7 +17842,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "1028",
@@ -17845,7 +17850,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4389
+      "UsersEstimate": 4390
     },
     {
       "ID": "1029",
@@ -17877,7 +17882,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9753
+      "UsersEstimate": 9755
     },
     {
       "ID": "1033",
@@ -17885,7 +17890,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "1034",
@@ -17916,15 +17921,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24383,
+      "Progressed": 24387,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:06:35.2770592+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:05:09.8913657+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.9877962+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:57:57.5280187+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:06:35.2771736+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:57:22.8930653+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:05:09.8914589+00:00"
 }

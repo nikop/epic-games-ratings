@@ -3,8 +3,8 @@
   "Name": "Not Tonight 2",
   "ProductSlug": "not-tonight-2",
   "Ranking_Rating": 875,
-  "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 523,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 392,
@@ -52,6 +52,6 @@
   "FirstSeenRating": "2022-11-27T19:58:46.0210401+00:00",
   "LastChanged": "2023-03-31T05:58:23.7001129+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:17.3118979+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:59:32.8424478+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:08:22.1154137+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:58:27.3062066+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:06:25.4085945+00:00"
 }

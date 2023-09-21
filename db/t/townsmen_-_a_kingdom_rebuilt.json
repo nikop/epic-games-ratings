@@ -3,11 +3,11 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
   "Ranking_Rating": 860,
-  "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 523,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -2053,9 +2053,9 @@
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
       "SetID": "9eacipp",
       "Name": "Conflicting parties",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION06",
@@ -2085,8 +2085,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:09:20.8263948+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:08:27.7325395+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:00:31.7725184+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:09:20.8266359+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:59:07.3795398+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:08:27.7326418+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 137,
@@ -813,7 +813,7 @@
   ],
   "EOS_Progressed": 9058,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9848,8 +9848,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:07:48.2820473+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:06:01.4311829+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.7463066+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:00:48.8905707+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:07:48.2821468+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:59:17.9703158+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:06:01.4312631+00:00"
 }

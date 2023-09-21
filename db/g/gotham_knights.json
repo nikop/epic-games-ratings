@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3050,9 +3050,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72700,
+  "EOS_Progressed": 72702,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16140,6 +16140,11 @@
       "Time": "2023-09-21T03:05:27.7142892+00:00",
       "NumProgressed": 72700,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-09-21T04:04:20.9826301+00:00",
+      "NumProgressed": 72702,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 61,
@@ -16375,7 +16380,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21083
+      "UsersEstimate": 21084
     },
     {
       "ID": "FREEZE_1_5",
@@ -16455,7 +16460,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25445
+      "UsersEstimate": 25446
     },
     {
       "ID": "HARLEY_2",
@@ -16463,7 +16468,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18175
+      "UsersEstimate": 18176
     },
     {
       "ID": "HARLEY_3",
@@ -16495,7 +16500,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37804
+      "UsersEstimate": 37805
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16527,7 +16532,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20356
+      "UsersEstimate": 20357
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16543,7 +16548,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24718
+      "UsersEstimate": 24719
     },
     {
       "ID": "MYSTERY_02",
@@ -16551,7 +16556,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18175
+      "UsersEstimate": 18176
     },
     {
       "ID": "MYSTERY_03",
@@ -16638,13 +16643,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72700,
+      "Progressed": 72702,
       "Completed": 116
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42980,
+      "Progressed": 42982,
       "Completed": 2665
     }
   ],
@@ -16652,8 +16657,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-21T02:15:26.0542435+00:00",
-  "LastChanged_Achievements": "2023-09-21T03:05:27.7142887+00:00",
+  "LastChanged_Achievements": "2023-09-21T04:04:20.9826296+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:02:11.6429726+00:00",
-  "LastUpdate_Achievements": "2023-09-21T03:05:27.7144379+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:00:15.1529583+00:00",
+  "LastUpdate_Achievements": "2023-09-21T04:04:20.982747+00:00"
 }

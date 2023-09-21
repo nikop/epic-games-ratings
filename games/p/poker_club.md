@@ -5,23 +5,23 @@ Rating: 3.81 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~399,136 |
-| Handy | 41.00% | ~215,323 |
-| Cold Caller | 39.00% | ~204,820 |
+| Pro Creation | 76.00% | ~399,138 |
+| Handy | 41.00% | ~215,325 |
+| Cold Caller | 39.00% | ~204,821 |
 | A Bit On The Side | 26.00% | ~136,547 |
-| Backdoor | 25.00% | ~131,295 |
+| Backdoor | 25.00% | ~131,296 |
 | Rank Amateur | 21.00% | ~110,288 |
-| Three Way | 18.00% | ~94,532 |
+| Three Way | 18.00% | ~94,533 |
 | Deadly Assassin | 15.00% | ~78,777 |
-| Gutshot | 13.00% | ~68,273 |
-| Risk It For A Biscuit | 13.00% | ~68,273 |
-| Showoff | 13.00% | ~68,273 |
+| Gutshot | 13.00% | ~68,274 |
+| Risk It For A Biscuit | 13.00% | ~68,274 |
+| Showoff | 13.00% | ~68,274 |
 | W.H.I.P. | 11.00% | ~57,770 |
 | Bet Bet Bet | 9.00% | ~47,266 |
 | Blindman's Bluff | 9.00% | ~47,266 |
 | Poker Joker | 9.00% | ~47,266 |
-| Never Give Up | 8.00% | ~42,014 |
-| Total Knock Out | 8.00% | ~42,014 |
+| Never Give Up | 8.00% | ~42,015 |
+| Total Knock Out | 8.00% | ~42,015 |
 | Dog Eat Dog | 7.00% | ~36,763 |
 | Quack Quack | 7.00% | ~36,763 |
 | The Bigger They Are | 7.00% | ~36,763 |
@@ -51,7 +51,7 @@ Rating: 3.81 (Ranked 977)
 | Rounder | 0.10% | ~525 |
 | Top Dog | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,179 (Ranked 34)  
+Progressed: 525,182 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2 (0.00%) (Ranked 280)
 | 2023-09-18 | 524,731 | 2 |
 | 2023-09-19 | 524,946 | 2 |
 | 2023-09-20 | 525,148 | 2 |
-| 2023-09-21 | 525,179 | 2 |
+| 2023-09-21 | 525,182 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 426)  
 Sum: 112 (Ranked 414)  

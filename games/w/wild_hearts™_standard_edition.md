@@ -30,6 +30,7 @@
 | Counter Specialist | 60.00% | ~6 |
 | Left Arm Leverager | 60.00% | ~6 |
 | Relentless Kemono Hunter | 60.00% | ~6 |
+| Superlative View | 60.00% | ~6 |
 | Subsistence Skills | 50.00% | ~5 |
 | Volatile Vocation | 50.00% | ~5 |
 | Vanquisher of the Volatile | 50.00% | ~5 |
@@ -40,7 +41,6 @@
 | Style Seeker | 50.00% | ~5 |
 | Human Believer | 50.00% | ~5 |
 | Unrivaled in Arms | 50.00% | ~5 |
-| Superlative View | 50.00% | ~5 |
 | Artful Assister | 50.00% | ~5 |
 | Haven Hunter | 50.00% | ~5 |
 | Karakuri Minato | 50.00% | ~5 |

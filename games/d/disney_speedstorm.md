@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 54.00% | ~1,729 |
-| EXTRA BOOST | 43.00% | ~1,377 |
-| IT MAKES BOOM! | 43.00% | ~1,377 |
+| ROOKIE | 54.00% | ~1,730 |
+| EXTRA BOOST | 43.00% | ~1,378 |
+| IT MAKES BOOM! | 43.00% | ~1,378 |
 | PRO | 35.00% | ~1,121 |
 | PROTECTED | 33.00% | ~1,057 |
 | A TIGER'S FEAR | 33.00% | ~1,057 |
 | AGGRESSIVE RACER | 33.00% | ~1,057 |
 | HERE ARE SOME BARE NECESSITIES | 32.00% | ~1,025 |
-| ACE SPEEDSTER | 25.00% | ~800 |
-| IT'S A LONG WAY TO THE TOP | 21.00% | ~672 |
-| MASTER | 18.00% | ~576 |
-| ACE BRAWLER | 17.00% | ~544 |
-| TRAINING HARD | 16.00% | ~512 |
-| ACE DEFENDER | 16.00% | ~512 |
-| FRIENDLY | 16.00% | ~512 |
-| BE OUR GUEST | 15.00% | ~480 |
-| DEFEAT OUR CHAMPION | 15.00% | ~480 |
-| LEGENDARY HERO | 15.00% | ~480 |
-| RELEASE THE KRAKEN | 14.00% | ~448 |
-| PERFECTLY POISED | 13.00% | ~416 |
-| THE EYE OF THE HUNTER | 13.00% | ~416 |
-| ACE TRICKSTER | 13.00% | ~416 |
+| ACE SPEEDSTER | 25.00% | ~801 |
+| IT'S A LONG WAY TO THE TOP | 21.00% | ~673 |
+| MASTER | 18.00% | ~577 |
+| ACE BRAWLER | 17.00% | ~545 |
+| TRAINING HARD | 16.00% | ~513 |
+| ACE DEFENDER | 16.00% | ~513 |
+| FRIENDLY | 16.00% | ~513 |
+| BE OUR GUEST | 15.00% | ~481 |
+| DEFEAT OUR CHAMPION | 15.00% | ~481 |
+| LEGENDARY HERO | 15.00% | ~481 |
+| RELEASE THE KRAKEN | 14.00% | ~449 |
+| PERFECTLY POISED | 13.00% | ~417 |
+| THE EYE OF THE HUNTER | 13.00% | ~417 |
+| ACE TRICKSTER | 13.00% | ~417 |
 | EXPERIENCED CREW | 7.00% | ~224 |
 | FRAMED! | 7.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,202 (Ranked 174)  
-Completed: 182 (5.68%) (Ranked 47)  
+Progressed: 3,204 (Ranked 174)  
+Completed: 184 (5.74%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,4 +179,4 @@ Completed: 182 (5.68%) (Ranked 47)
 | 2023-09-18 | 3,189 | 177 |
 | 2023-09-19 | 3,189 | 178 |
 | 2023-09-20 | 3,198 | 181 |
-| 2023-09-21 | 3,202 | 182 |
+| 2023-09-21 | 3,204 | 184 |

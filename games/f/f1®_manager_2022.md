@@ -1,11 +1,11 @@
 # F1® Manager 2022
 [Store](https://store.epicgames.com/en-US/p/f1-manager-2022)  
 [View Rawdata](../../db/f/f1®_manager_2022.json)  
-Rating: 4.58 (Ranked 434)  
+Rating: 4.58 (Ranked 433)  
 Number of Ratings: 810  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 261  (Ranked 252)  
-Sum: 2,066 (Ranked 200)  
+Sum: 2,067 (Ranked 200)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 52
 | This game is Extremely Fun | 209 |
 | This game has Amazing Storytelling | 194 |
 | This game has Amazing Characters | 169 |
-| This game has a Competitive Community | 134 |
+| This game has a Competitive Community | 135 |
 | This game has Obsessive Gameplay | 124 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -184,3 +184,4 @@ Diff (max vs sum): 52
 | 2023-09-14 | 4.58 | - | 261 | 2,063 |
 | 2023-09-17 | 4.58 | - | 261 | 2,064 |
 | 2023-09-18 | 4.58 | - | 261 | 2,066 |
+| 2023-09-21 | 4.58 | - | 261 | 2,067 |
