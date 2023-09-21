@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hat Unlocked | 83.00% | ~75 |
-| Accessory Unlocked | 81.00% | ~73 |
+| Accessory Unlocked | 82.00% | ~74 |
 | Character Unlocked | 78.00% | ~70 |
 | Homer | 76.00% | ~68 |
 | Butter Fingers | 73.00% | ~66 |

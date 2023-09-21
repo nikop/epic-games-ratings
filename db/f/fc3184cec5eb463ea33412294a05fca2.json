@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1178,9 +1178,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1225,8 +1225,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-21T04:05:18.624351+00:00",
+  "LastChanged_Achievements": "2023-09-21T05:05:13.1101046+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:57:24.9017834+00:00",
-  "LastUpdate_Achievements": "2023-09-21T04:05:18.6243672+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:57:27.3777158+00:00",
+  "LastUpdate_Achievements": "2023-09-21T05:05:13.1101226+00:00"
 }

@@ -12,13 +12,13 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 16.00% | ~458 |
 | Perk Shard Punch Card | 16.00% | ~458 |
 | Mushroom Madness! | 15.00% | ~430 |
+| Spending Spree | 13.00% | ~372 |
 | First Strike | 12.00% | ~344 |
 | Horder Better Faster Stronger | 12.00% | ~344 |
-| Spending Spree | 12.00% | ~344 |
 | Everything Must Go! | 11.00% | ~315 |
 | Ten Steps from the Grave | 10.00% | ~286 |
 | Next Time on MythForce... | 8.00% | ~229 |
-| Cold-Blooded Critters | 6.00% | ~172 |
+| Cold-Blooded Critters | 7.00% | ~201 |
 | Death Becomes You | 6.00% | ~172 |
 | Flawless Victory | 5.00% | ~143 |
 | The Harder They Fall | 4.00% | ~115 |

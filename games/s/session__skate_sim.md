@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,732 |
-| Keeping it classy | 27.00% | ~779 |
+| You're free now! | 60.00% | ~1,733 |
+| Keeping it classy | 27.00% | ~780 |
 | Welcome to the family | 21.00% | ~606 |
 | The finer things in life | 19.00% | ~549 |
 | Backpacker | 14.00% | ~404 |
@@ -37,11 +37,11 @@ Number of Ratings: 111  (23.09.2022)
 | Manny Destroys All | 5.00% | ~144 |
 | Renaissance man | 5.00% | ~144 |
 | Trick shot marksman | 5.00% | ~144 |
-| Cops called! | 4.00% | ~115 |
-| G.O.A.T. status | 4.00% | ~115 |
-| Prince of Philly | 4.00% | ~115 |
-| Tank commander | 4.00% | ~115 |
-| We get it, you're good | 4.00% | ~115 |
+| Cops called! | 4.00% | ~116 |
+| G.O.A.T. status | 4.00% | ~116 |
+| Prince of Philly | 4.00% | ~116 |
+| Tank commander | 4.00% | ~116 |
+| We get it, you're good | 4.00% | ~116 |
 | Hoarder | 3.00% | ~87 |
 | Pew-Pew | 3.00% | ~87 |
 | Cross lock country | 2.00% | ~58 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,887 (Ranked 177)  
+Progressed: 2,888 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-18 | 2,864 | 0 |
 | 2023-09-19 | 2,874 | 0 |
 | 2023-09-20 | 2,883 | 0 |
-| 2023-09-21 | 2,887 | 0 |
+| 2023-09-21 | 2,888 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 400)  
 Sum: 465 (Ranked 312)  

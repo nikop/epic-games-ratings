@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7451,7 +7451,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473476,
+  "EOS_Progressed": 473477,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
@@ -23646,6 +23646,11 @@
       "Time": "2023-09-21T04:05:30.582329+00:00",
       "NumProgressed": 473476,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-21T05:05:24.8947529+00:00",
+      "NumProgressed": 473477,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -23801,7 +23806,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71021
+      "UsersEstimate": 71022
     },
     {
       "ID": "achievement_big_win",
@@ -23857,7 +23862,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89960
+      "UsersEstimate": 89961
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -23945,7 +23950,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 132573
+      "UsersEstimate": 132574
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -23977,7 +23982,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194125
+      "UsersEstimate": 194126
     },
     {
       "ID": "achievement_head_to_head",
@@ -24033,7 +24038,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 108899
+      "UsersEstimate": 108900
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -24089,7 +24094,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151512
+      "UsersEstimate": 151513
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -24161,7 +24166,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 151512
+      "UsersEstimate": 151513
     },
     {
       "ID": "achievement_rushed_signing",
@@ -24169,7 +24174,7 @@
       "Name": "Rushed signing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71021
+      "UsersEstimate": 71022
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -24201,7 +24206,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227268
+      "UsersEstimate": 227269
     },
     {
       "ID": "achievement_signed_a_player",
@@ -24217,7 +24222,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 108899
+      "UsersEstimate": 108900
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -24273,7 +24278,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71021
+      "UsersEstimate": 71022
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -24440,15 +24445,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473476,
+      "Progressed": 473477,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-20T23:57:53.2718109+00:00",
-  "LastChanged_Achievements": "2023-09-21T04:05:30.5823285+00:00",
+  "LastChanged_Achievements": "2023-09-21T05:05:24.8947524+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:57:50.6601225+00:00",
-  "LastUpdate_Achievements": "2023-09-21T04:05:30.5825042+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:57:54.8904592+00:00",
+  "LastUpdate_Achievements": "2023-09-21T05:05:24.8949865+00:00"
 }

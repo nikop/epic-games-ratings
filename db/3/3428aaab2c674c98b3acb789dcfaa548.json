@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -5066,9 +5066,9 @@
       "Count": 779
     }
   ],
-  "EOS_Progressed": 796990,
+  "EOS_Progressed": 797010,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 6963,
+  "EOS_NewPlayers": 6951,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18881,6 +18881,11 @@
       "Time": "2023-09-21T04:03:54.0028343+00:00",
       "NumProgressed": 796990,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-09-21T05:03:51.9659204+00:00",
+      "NumProgressed": 797010,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 75,
@@ -18892,7 +18897,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 175338
+      "UsersEstimate": 175342
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -19364,7 +19369,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 47819
+      "UsersEstimate": 47821
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -19491,13 +19496,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 796990,
+      "Progressed": 797010,
       "Completed": 198
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 796990,
+      "Progressed": 797010,
       "Completed": 167
     }
   ],
@@ -19505,8 +19510,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-09-21T03:58:06.6613232+00:00",
-  "LastChanged_Achievements": "2023-09-21T04:03:54.0028335+00:00",
+  "LastChanged_Achievements": "2023-09-21T05:03:51.9659198+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:13:53.6337317+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:58:06.6613238+00:00",
-  "LastUpdate_Achievements": "2023-09-21T04:03:54.0029763+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:58:11.2072202+00:00",
+  "LastUpdate_Achievements": "2023-09-21T05:03:51.9660821+00:00"
 }

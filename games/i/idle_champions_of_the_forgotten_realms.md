@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dark Heart | 0.10% | ~196 |
 | Undergeared | 0.10% | ~196 |
 | Underdark Chill | 0.10% | ~196 |
+| The Alien Underdark | 0.10% | ~196 |
 | Hatchlings Underfoot | 0.10% | ~230 |
 | The Oozing Hunger | 0.10% | ~196 |
 | Levelheaded | 0.10% | ~196 |
@@ -220,7 +221,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.10% | ~230 |
 | Seeking Allies | 0.10% | ~230 |
 | Class Vacation | 0.10% | ~230 |
+| A Nod from Strahd | 0.10% | ~196 |
 | Backtracking Through Barovia | 0.10% | ~230 |
+| Diversity Day-Trip | 0.10% | ~230 |
 | Late Game | 0.10% | ~230 |
 | Nimble Escape | 0.10% | ~230 |
 | Nimblest Escape | 0.10% | ~230 |
@@ -233,6 +236,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spined Nuisances | 0.10% | ~230 |
 | Twilight Twist | 0.10% | ~196 |
 | Excavating History | 0.10% | ~230 |
+| Screams of the Dead | 0.10% | ~230 |
 | Premature Betrayal | 0.10% | ~230 |
 | Frantic Excavation | 0.10% | ~230 |
 | Birds of a Feather | 0.10% | ~196 |
@@ -403,11 +407,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.10% | ~230 |
 | Dwarven Rumors | 0.10% | ~196 |
 | Mimic Perception | 0.10% | ~196 |
+| It's Cold Out There Today | 0.10% | ~196 |
 | Sunblight | 0.10% | ~196 |
 | Hats off to you! | 0.10% | ~196 |
 | It's Cold Out There Every Day | 0.10% | ~196 |
 | The Bleeding Citadel | 0.10% | ~196 |
 | Don't Pick at the Scab | 0.10% | ~196 |
+| Going To Eleven | 0.10% | ~196 |
 | Idyllglen | 0.10% | ~196 |
 | The Madness of Yeenoghu | 0.10% | ~196 |
 | Reya Reborn | 0.10% | ~196 |
@@ -425,6 +431,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.10% | ~196 |
 | REALLY Frozen Vengeance | 0.10% | ~196 |
 | The Battle of High Hall Tower | 0.10% | ~196 |
+| Might Makes Right | 0.10% | ~196 |
 | The Stunning Tower Battle | 0.10% | ~196 |
 | Elturel's Last Stand | 0.10% | ~196 |
 | Gargauth's Betrayal | 0.10% | ~196 |
@@ -464,6 +471,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~230 |
 | Rescue in the Jungle | 0.10% | ~230 |
 | The Court of Storms | 0.10% | ~196 |
+| Coasting to the Finish | 0.10% | ~196 |
 | Beware the Jabberwock | 0.10% | ~196 |
 | Quick or Quack | 0.10% | ~196 |
 | Willing to Sacrifice | 0.10% | ~196 |
@@ -496,7 +504,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.00% | ~0 |
 | Second Third Out | 0.00% | ~0 |
 | Third Third Out | 0.00% | ~0 |
-| The Alien Underdark | 0.00% | ~0 |
 | Thoughts on the Menu | 0.00% | ~0 |
 | Brains on Ice | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
@@ -505,10 +512,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| A Nod from Strahd | 0.00% | ~0 |
-| Diversity Day-Trip | 0.00% | ~0 |
 | Shadowfell Stalwarts | 0.00% | ~0 |
-| Screams of the Dead | 0.00% | ~0 |
 | Towering Expectations | 0.00% | ~0 |
 | An Abyssal Situation | 0.00% | ~0 |
 | Social Grace | 0.00% | ~0 |
@@ -519,19 +523,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Just The Worst | 0.00% | ~0 |
 | Frozen in Fear | 0.00% | ~0 |
-| It's Cold Out There Today | 0.00% | ~0 |
 | Fortress Assault | 0.00% | ~0 |
-| Going To Eleven | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
-| Might Makes Right | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
-| Coasting to the Finish | 0.00% | ~0 |
 | Not That Type of Helm! | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,509 (Ranked 57)  
+Progressed: 229,515 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,7 +685,7 @@ Completed: 2,295 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,509 | 2,295 |
+| 2023-09-21 | 229,515 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,663 (Ranked 39)  

@@ -5,9 +5,9 @@ Rating: 4.24 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,620 |
-| Don't I Know You...? | 76.00% | ~1,539 |
-| Jailbreak | 65.00% | ~1,316 |
+| Rigged And Ready | 80.00% | ~1,621 |
+| Don't I Know You...? | 76.00% | ~1,540 |
+| Jailbreak | 65.00% | ~1,317 |
 | HEADSHOT! | 38.00% | ~770 |
 | Suited and Booted | 38.00% | ~770 |
 | Sleeping With The Fishes | 35.00% | ~709 |
@@ -24,7 +24,7 @@ Rating: 4.24 (Ranked 844)
 | Court Martial | 19.00% | ~385 |
 | Clean Cut | 19.00% | ~385 |
 | Unforeseeable Consequences | 19.00% | ~385 |
-| Dead Again | 18.00% | ~364 |
+| Dead Again | 18.00% | ~365 |
 | Full Arsenal | 17.00% | ~344 |
 | Can't Trust Banks | 15.00% | ~304 |
 | Mommy Dearest | 14.00% | ~284 |
@@ -35,8 +35,8 @@ Rating: 4.24 (Ranked 844)
 | Corrupted Beauty | 12.00% | ~243 |
 | Marked For Success | 12.00% | ~243 |
 | Sorry, Didn't See You There | 12.00% | ~243 |
-| Stimulating The Local Economy | 10.00% | ~202 |
-| Triplets | 10.00% | ~202 |
+| Stimulating The Local Economy | 10.00% | ~203 |
+| Triplets | 10.00% | ~203 |
 | Denying Prophecy | 9.00% | ~182 |
 | Defense in Depth | 9.00% | ~182 |
 | A Little Banged Up | 8.00% | ~162 |
@@ -55,15 +55,15 @@ Rating: 4.24 (Ranked 844)
 | Plank of Wood | 4.00% | ~81 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~61 |
 | Gotta Craft 'em All | 3.00% | ~61 |
-| Own Medicine | 2.00% | ~40 |
-| Three Birds With One Stone | 2.00% | ~40 |
-| Box Office Smash | 2.00% | ~40 |
-| Going Postal | 2.00% | ~40 |
-| The Easy Way Out | 2.00% | ~40 |
-| Loot, Pillage & Craft | 2.00% | ~40 |
+| Own Medicine | 2.00% | ~41 |
+| Three Birds With One Stone | 2.00% | ~41 |
+| Box Office Smash | 2.00% | ~41 |
+| Going Postal | 2.00% | ~41 |
+| The Easy Way Out | 2.00% | ~41 |
+| Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,025 (Ranked 187)  
+Progressed: 2,026 (Ranked 187)  
 Completed: 12 (0.59%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 12 (0.59%) (Ranked 149)
 | 2023-09-18 | 2,018 | 12 |
 | 2023-09-19 | 2,020 | 12 |
 | 2023-09-20 | 2,024 | 12 |
-| 2023-09-21 | 2,025 | 12 |
+| 2023-09-21 | 2,026 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

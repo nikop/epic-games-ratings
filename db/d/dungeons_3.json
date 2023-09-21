@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2662,7 +2662,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30926,
+  "EOS_Progressed": 30927,
   "EOS_Completed": 253,
   "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 4,
@@ -19412,6 +19412,11 @@
       "Time": "2023-09-21T04:06:19.8082417+00:00",
       "NumProgressed": 30926,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-09-21T05:06:13.3602472+00:00",
+      "NumProgressed": 30927,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 60,
@@ -19423,7 +19428,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17937
+      "UsersEstimate": 17938
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -19631,7 +19636,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13298
+      "UsersEstimate": 13299
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -19639,7 +19644,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12370
+      "UsersEstimate": 12371
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -19647,7 +19652,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11133
+      "UsersEstimate": 11134
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -19679,7 +19684,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8659
+      "UsersEstimate": 8660
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -19735,7 +19740,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5258
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -19775,7 +19780,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -19823,7 +19828,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 21339
+      "UsersEstimate": 21340
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -19879,7 +19884,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5258
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -19902,15 +19907,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30926,
+      "Progressed": 30927,
       "Completed": 253
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-20T21:00:27.5455441+00:00",
-  "LastChanged_Achievements": "2023-09-21T04:06:19.8082412+00:00",
+  "LastChanged_Achievements": "2023-09-21T05:06:13.3602467+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.8919956+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:59:57.5154798+00:00",
-  "LastUpdate_Achievements": "2023-09-21T04:06:19.8083723+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:59:56.3929623+00:00",
+  "LastUpdate_Achievements": "2023-09-21T05:06:13.3604041+00:00"
 }

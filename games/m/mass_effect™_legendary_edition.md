@@ -38,6 +38,7 @@
 | The Krogan | 28.00% | ~7 |
 | Battlemaster | 28.00% | ~7 |
 | Cat's in the Cradle | 28.00% | ~7 |
+| Catharsis | 28.00% | ~7 |
 | Fade Away | 28.00% | ~7 |
 | Ghost of the Father | 28.00% | ~7 |
 | The Cure | 28.00% | ~7 |
@@ -60,7 +61,6 @@
 | The Justicar | 24.00% | ~6 |
 | The Professor | 24.00% | ~6 |
 | A House Divided | 24.00% | ~6 |
-| Catharsis | 24.00% | ~6 |
 | Doppelganger | 24.00% | ~6 |
 | The Prodigal | 24.00% | ~6 |
 | Agent | 24.00% | ~6 |

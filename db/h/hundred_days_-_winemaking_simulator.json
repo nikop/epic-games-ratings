@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4149,
+  "EOS_Progressed": 4152,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1224,
+  "EOS_NewPlayers": 1223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3590,6 +3590,11 @@
       "Time": "2023-09-21T04:06:30.5747471+00:00",
       "NumProgressed": 4149,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-21T05:06:23.4888095+00:00",
+      "NumProgressed": 4152,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3602,7 +3607,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "a_10",
@@ -3634,7 +3639,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "a_16",
@@ -3650,7 +3655,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "a_19",
@@ -3658,7 +3663,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "a_2",
@@ -3666,7 +3671,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "a_20",
@@ -3674,7 +3679,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "a_21",
@@ -3682,7 +3687,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "a_22",
@@ -3730,7 +3735,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "a_3",
@@ -3738,7 +3743,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "a_30",
@@ -3786,7 +3791,7 @@
       "Name": "Welcome to the club",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "a_36",
@@ -3802,7 +3807,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "a_5",
@@ -3818,7 +3823,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "a_7",
@@ -3834,7 +3839,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "a_9",
@@ -3849,7 +3854,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4149,
+      "Progressed": 4152,
       "Completed": 5
     }
   ],
@@ -3857,8 +3862,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-21T04:06:30.5747466+00:00",
+  "LastChanged_Achievements": "2023-09-21T05:06:23.488809+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:58:39.6388957+00:00",
-  "LastUpdate_Achievements": "2023-09-21T04:06:30.5747872+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:58:42.3558822+00:00",
+  "LastUpdate_Achievements": "2023-09-21T05:06:23.4888481+00:00"
 }

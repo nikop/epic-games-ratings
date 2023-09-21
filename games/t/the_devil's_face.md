@@ -19,7 +19,7 @@
 | Flagellation | 2.00% | ~7 |
 | Humility | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331 (Ranked 283)  
+Progressed: 331 (Ranked 284)  
 Completed: 1 (0.30%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |

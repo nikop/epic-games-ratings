@@ -6784,9 +6784,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229509,
+  "EOS_Progressed": 229515,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23824,6 +23824,11 @@
       "Time": "2023-09-21T04:03:30.4634429+00:00",
       "NumProgressed": 229509,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-21T05:03:29.3825375+00:00",
+      "NumProgressed": 229515,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 524,
@@ -24241,9 +24246,9 @@
       "ID": "objective_completed_1105",
       "SetID": "415jc5c",
       "Name": "The Alien Underdark",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1106",
@@ -25641,9 +25646,9 @@
       "ID": "objective_completed_391",
       "SetID": "415jc5c",
       "Name": "A Nod from Strahd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_393",
@@ -25657,9 +25662,9 @@
       "ID": "objective_completed_394",
       "SetID": "cc37lbc",
       "Name": "Diversity Day-Trip",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_395",
@@ -25769,9 +25774,9 @@
       "ID": "objective_completed_409",
       "SetID": "cc37lbc",
       "Name": "Screams of the Dead",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_41",
@@ -27217,9 +27222,9 @@
       "ID": "objective_completed_830",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Today",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_832",
@@ -27273,9 +27278,9 @@
       "ID": "objective_completed_839",
       "SetID": "415jc5c",
       "Name": "Going To Eleven",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_842",
@@ -27425,9 +27430,9 @@
       "ID": "objective_completed_868",
       "SetID": "415jc5c",
       "Name": "Might Makes Right",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_869",
@@ -27753,9 +27758,9 @@
       "ID": "objective_completed_1356",
       "SetID": "415jc5c",
       "Name": "Coasting to the Finish",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1360",
@@ -28026,21 +28031,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195783,
+      "Progressed": 195789,
       "Completed": 3450
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229509,
+      "Progressed": 229515,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-21T03:58:46.2005907+00:00",
-  "LastChanged_Achievements": "2023-09-21T04:03:30.4634419+00:00",
+  "LastChanged_Achievements": "2023-09-21T05:03:29.382537+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:58:46.2005912+00:00",
-  "LastUpdate_Achievements": "2023-09-21T04:03:30.4660332+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:58:48.4119623+00:00",
+  "LastUpdate_Achievements": "2023-09-21T05:03:29.3855694+00:00"
 }

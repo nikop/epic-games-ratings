@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232189,
+  "EOS_Progressed": 232190,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16493,6 +16493,11 @@
       "Time": "2023-09-21T03:06:56.3686188+00:00",
       "NumProgressed": 232189,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-21T05:05:18.8368978+00:00",
+      "NumProgressed": 232190,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16640,7 +16645,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76622
+      "UsersEstimate": 76623
     },
     {
       "ID": "NOBUNAGA",
@@ -16696,7 +16701,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11609
+      "UsersEstimate": 11610
     },
     {
       "ID": "RESPWND",
@@ -16768,22 +16773,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95197
+      "UsersEstimate": 95198
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232189,
+      "Progressed": 232190,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-21T04:05:24.5034951+00:00",
+  "LastChanged_Achievements": "2023-09-21T05:05:18.8368973+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.1224951+00:00",
-  "LastUpdate_Ratings": "2023-09-21T03:59:12.4422054+00:00",
-  "LastUpdate_Achievements": "2023-09-21T04:05:24.5035904+00:00"
+  "LastUpdate_Ratings": "2023-09-21T04:59:12.9531181+00:00",
+  "LastUpdate_Achievements": "2023-09-21T05:05:18.8370187+00:00"
 }

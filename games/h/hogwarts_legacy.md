@@ -5,10 +5,10 @@ Rating: 4.77 (Ranked 112)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,585 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,586 |
 | First Class Student | 13.00% | ~38,615 |
 | Troll with the Punches | 13.00% | ~38,615 |
-| A Keen Sense of Spell | 12.00% | ~35,644 |
+| A Keen Sense of Spell | 12.00% | ~35,645 |
 | A Talent for Spending | 11.00% | ~32,674 |
 | That's a Keeper | 11.00% | ~32,674 |
 | Grappling with a Graphorn | 10.00% | ~29,704 |
@@ -18,25 +18,25 @@ Rating: 4.77 (Ranked 112)
 | Challenge Accepted | 10.00% | ~29,704 |
 | Loom for Improvement | 10.00% | ~29,704 |
 | Coasting Along | 10.00% | ~29,704 |
-| The Hero of Hogwarts | 9.00% | ~26,733 |
-| Followed the Butterflies | 9.00% | ~26,733 |
-| Rising From the Ashes | 9.00% | ~26,733 |
+| The Hero of Hogwarts | 9.00% | ~26,734 |
+| Followed the Butterflies | 9.00% | ~26,734 |
+| Rising From the Ashes | 9.00% | ~26,734 |
 | A Sallow Grave | 8.00% | ~23,763 |
 | The Spell Master | 8.00% | ~23,763 |
-| The Avenging Gazelle | 7.00% | ~20,792 |
-| Beast Friends | 7.00% | ~20,792 |
-| Flight the Good Flight | 7.00% | ~20,792 |
+| The Avenging Gazelle | 7.00% | ~20,793 |
+| Beast Friends | 7.00% | ~20,793 |
+| Flight the Good Flight | 7.00% | ~20,793 |
 | The Seeker of Knowledge | 6.00% | ~17,822 |
 | The Root of the Problem | 6.00% | ~17,822 |
 | Raising Expectations | 6.00% | ~17,822 |
 | Third Time's a Charm | 5.00% | ~14,852 |
 | The Ends Petrify the Means | 5.00% | ~14,852 |
-| The Toast of the Town | 4.00% | ~11,881 |
-| Going Through the Potions | 4.00% | ~11,881 |
-| Room with a View | 4.00% | ~11,881 |
-| The Intrepid Explorer | 4.00% | ~11,881 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,881 |
-| The Wise Owl | 4.00% | ~11,881 |
+| The Toast of the Town | 4.00% | ~11,882 |
+| Going Through the Potions | 4.00% | ~11,882 |
+| Room with a View | 4.00% | ~11,882 |
+| The Intrepid Explorer | 4.00% | ~11,882 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,882 |
+| The Wise Owl | 4.00% | ~11,882 |
 | Put Down Roots | 3.00% | ~8,911 |
 | Floo Around the World | 3.00% | ~8,911 |
 | The Good Samaritan | 2.00% | ~5,941 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 112)
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,035 (Ranked 44)  
+Progressed: 297,040 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 476 (0.16%) (Ranked 207)
 | 2023-09-18 | 296,907 | 474 |
 | 2023-09-19 | 296,968 | 475 |
 | 2023-09-20 | 297,027 | 476 |
-| 2023-09-21 | 297,035 | 476 |
+| 2023-09-21 | 297,040 | 476 |
 ## Awards
 Max (Character Customization): 22,886  (Ranked 17)  
 Sum: 43,871 (Ranked 30)  
