@@ -12,11 +12,11 @@ Rating: 4.56 (Ranked 469)
 | Never Say Loser Again | 19.00% | ~3,434 |
 | From the Vault with Love | 18.00% | ~3,253 |
 | For your Eyes only | 18.00% | ~3,253 |
-| Assistant Accountant | 17.00% | ~3,072 |
-| Tailor-Made | 17.00% | ~3,072 |
+| Assistant Accountant | 17.00% | ~3,073 |
+| Tailor-Made | 17.00% | ~3,073 |
 | You Only Live Twice | 16.00% | ~2,892 |
 | Fully Decked Out | 16.00% | ~2,892 |
-| A view to Win | 13.00% | ~2,349 |
+| A view to Win | 13.00% | ~2,350 |
 | Private Collection | 12.00% | ~2,169 |
 | Smells Like Trouble | 12.00% | ~2,169 |
 | The Living Portrait | 11.00% | ~1,988 |
@@ -25,7 +25,7 @@ Rating: 4.56 (Ranked 469)
 | Hostile Takeover | 11.00% | ~1,988 |
 | Keycards Royale | 10.00% | ~1,807 |
 | Dr. No Kill | 10.00% | ~1,807 |
-| In It to Win It | 9.00% | ~1,626 |
+| In It to Win It | 9.00% | ~1,627 |
 | Security Supervisor | 6.00% | ~1,084 |
 | License to Thrill | 5.00% | ~904 |
 | Social of Solace | 3.00% | ~542 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 469)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,072 (Ranked 119)  
+Progressed: 18,074 (Ranked 119)  
 Completed: 3 (0.02%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,6 +196,7 @@ Completed: 3 (0.02%) (Ranked 256)
 | 2023-09-18 | 18,056 | 3 |
 | 2023-09-19 | 18,065 | 3 |
 | 2023-09-20 | 18,072 | 3 |
+| 2023-09-21 | 18,074 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

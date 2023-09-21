@@ -10,11 +10,11 @@
 | Friendzoned | 41.00% | ~15 |
 | Love is in Bloom | 41.00% | ~15 |
 | Royal Romance | 38.00% | ~14 |
+| A Heated Affair | 24.00% | ~9 |
 | Love is in the Air | 24.00% | ~9 |
+| Speed Dating | 24.00% | ~9 |
 | Spread the Love | 24.00% | ~9 |
-| A Heated Affair | 22.00% | ~8 |
 | Short Distance Relationship | 22.00% | ~8 |
-| Speed Dating | 22.00% | ~8 |
 | Long Distance Relationship | 16.00% | ~6 |
 | Out of Your Shell | 16.00% | ~6 |
 | Polyamorousasaurus | 14.00% | ~5 |

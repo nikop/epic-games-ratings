@@ -7368,9 +7368,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802073,
+  "EOS_Progressed": 802075,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 866,
+  "EOS_NewPlayers": 865,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24443,6 +24443,11 @@
       "Time": "2023-09-21T05:03:30.371813+00:00",
       "NumProgressed": 802073,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-21T06:03:31.399935+00:00",
+      "NumProgressed": 802075,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -24486,7 +24491,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168435
+      "UsersEstimate": 168436
     },
     {
       "ID": "BadGirl",
@@ -24534,7 +24539,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256663
+      "UsersEstimate": 256664
     },
     {
       "ID": "Bookworm",
@@ -24566,7 +24571,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200518
+      "UsersEstimate": 200519
     },
     {
       "ID": "Chivalrous",
@@ -24598,7 +24603,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "Conqueror",
@@ -24614,7 +24619,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80207
+      "UsersEstimate": 80208
     },
     {
       "ID": "DavidHorak",
@@ -24630,7 +24635,7 @@
       "Name": "Death by splinter",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "EdwardKelly",
@@ -24774,7 +24779,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104269
+      "UsersEstimate": 104270
     },
     {
       "ID": "Judas",
@@ -24790,7 +24795,7 @@
       "Name": "King Charming",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "KingdomDidNotCome",
@@ -24806,7 +24811,7 @@
       "Name": "Knightrider",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "LevelCap",
@@ -24814,7 +24819,7 @@
       "Name": "Level Cap",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "LikeGhost",
@@ -24846,7 +24851,7 @@
       "Name": "Arena Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "McLovin",
@@ -24950,7 +24955,7 @@
       "Name": "Robber Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "Runt",
@@ -25014,7 +25019,7 @@
       "Name": "Talmberger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "TheEnd",
@@ -25022,7 +25027,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16041
+      "UsersEstimate": 16042
     },
     {
       "ID": "Thief",
@@ -25109,15 +25114,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802073,
+      "Progressed": 802075,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-21T02:14:30.5977568+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:03:30.3718121+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:03:31.3999342+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:41.6954076+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:59:20.5007281+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:03:30.3720015+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:59:19.6606417+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:03:31.4001292+00:00"
 }

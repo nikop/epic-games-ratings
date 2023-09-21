@@ -225,6 +225,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Backtracking Through Barovia | 0.10% | ~230 |
 | Diversity Day-Trip | 0.10% | ~230 |
 | Late Game | 0.10% | ~230 |
+| Shadowfell Stalwarts | 0.10% | ~196 |
 | Nimble Escape | 0.10% | ~230 |
 | Nimblest Escape | 0.10% | ~230 |
 | Are Ya Chicken? | 0.10% | ~230 |
@@ -240,6 +241,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.10% | ~230 |
 | Frantic Excavation | 0.10% | ~230 |
 | Birds of a Feather | 0.10% | ~196 |
+| Towering Expectations | 0.10% | ~230 |
 | Guests of the Groom | 0.10% | ~230 |
 | Careful Consideration | 0.10% | ~230 |
 | Tanking Expectations | 0.10% | ~196 |
@@ -304,6 +306,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Take Five | 0.10% | ~196 |
 | Running of the Saurs | 0.10% | ~230 |
 | Lost in the Goblin Halls | 0.10% | ~230 |
+| Batiri in the Goblin Halls | 0.10% | ~230 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~196 |
 | The Twilight Grove | 0.10% | ~230 |
 | The Nimble Grove | 0.10% | ~230 |
@@ -409,6 +412,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Perception | 0.10% | ~196 |
 | It's Cold Out There Today | 0.10% | ~196 |
 | Sunblight | 0.10% | ~196 |
+| Fortress Assault | 0.10% | ~196 |
 | Hats off to you! | 0.10% | ~196 |
 | It's Cold Out There Every Day | 0.10% | ~196 |
 | The Bleeding Citadel | 0.10% | ~196 |
@@ -512,18 +516,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| Shadowfell Stalwarts | 0.00% | ~0 |
-| Towering Expectations | 0.00% | ~0 |
 | An Abyssal Situation | 0.00% | ~0 |
 | Social Grace | 0.00% | ~0 |
-| Batiri in the Goblin Halls | 0.00% | ~0 |
 | Twice More Into The Breach | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Look Out! | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Just The Worst | 0.00% | ~0 |
 | Frozen in Fear | 0.00% | ~0 |
-| Fortress Assault | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Not That Type of Helm! | 0.00% | ~0 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,515 (Ranked 57)  
+Progressed: 229,522 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,7 +685,7 @@ Completed: 2,295 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,515 | 2,295 |
+| 2023-09-21 | 229,522 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,663 (Ranked 39)  

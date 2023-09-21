@@ -8,7 +8,7 @@
 | Welcome to the Tower | 48.00% | ~86 |
 | The great escape | 44.00% | ~79 |
 | The Preacher's fate | 43.00% | ~77 |
-| A new dawn | 38.00% | ~68 |
+| A new dawn | 39.00% | ~70 |
 | Scholar | 37.00% | ~66 |
 | A good beginning | 35.00% | ~63 |
 | The darkness | 35.00% | ~63 |
@@ -30,7 +30,7 @@
 | I did it | 13.00% | ~23 |
 | Fashion victim | 13.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 328)  
+Progressed: 179 (Ranked 329)  
 Completed: 9 (5.03%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |

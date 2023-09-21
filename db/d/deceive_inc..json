@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18072,
+  "EOS_Progressed": 18074,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10471,6 +10471,11 @@
       "Time": "2023-09-20T21:04:05.7221695+00:00",
       "NumProgressed": 18072,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-21T06:03:49.5932897+00:00",
+      "NumProgressed": 18074,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10498,7 +10503,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "0004",
@@ -10618,7 +10623,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "0019",
@@ -10674,7 +10679,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "0026",
@@ -10706,7 +10711,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "0030",
@@ -10769,7 +10774,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18072,
+      "Progressed": 18074,
       "Completed": 3
     }
   ],
@@ -10777,8 +10782,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:03:48.8720803+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:03:49.5932891+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:00:23.1512248+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:03:48.8721704+00:00"
+  "LastUpdate_Ratings": "2023-09-21T06:00:25.2133199+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:03:49.5933797+00:00"
 }

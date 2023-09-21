@@ -1,7 +1,7 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 504)  
+Rating: 4.55 (Ranked 487)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -272,3 +272,4 @@ Diff (max vs sum): 71
 | 2023-09-03 | 4.54 | 88 | 663 |
 | 2023-09-06 | 4.54 | 88 | 665 |
 | 2023-09-18 | 4.54 | 88 | 666 |
+| 2023-09-21 | 4.55 | 88 | 666 |

@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 505,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 22,
@@ -4692,9 +4692,9 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 683431,
+  "EOS_Progressed": 683446,
   "EOS_Completed": 2157,
-  "EOS_NewPlayers": 4018,
+  "EOS_NewPlayers": 4019,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -21972,6 +21972,11 @@
       "Time": "2023-09-21T05:05:07.1716616+00:00",
       "NumProgressed": 683431,
       "NumCompleted": 2157
+    },
+    {
+      "Time": "2023-09-21T06:05:07.744426+00:00",
+      "NumProgressed": 683446,
+      "NumCompleted": 2157
     }
   ],
   "TotalAchievements": 45,
@@ -22279,7 +22284,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5467
+      "UsersEstimate": 5468
     },
     {
       "ID": "ach_the_vcla",
@@ -22342,22 +22347,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 683431,
+      "Progressed": 683446,
       "Completed": 2157
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 8972,
-      "Completed": 8972
+      "Progressed": 8987,
+      "Completed": 8987
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-21T01:40:37.1420589+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:05:07.1716611+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:05:07.7444255+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:59:21.747569+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:05:07.1717999+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:59:20.8051794+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:05:07.7445891+00:00"
 }

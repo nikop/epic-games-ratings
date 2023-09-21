@@ -5,11 +5,11 @@ Rating: 4.73 (Ranked 161)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,081 |
-| Newcomers | 79.00% | ~10,374 |
+| Under a New Sun | 92.00% | ~12,082 |
+| Newcomers | 79.00% | ~10,375 |
 | A Burden of Blood | 74.00% | ~9,718 |
-| Protector's Duty | 70.00% | ~9,192 |
-| Alchemist | 69.00% | ~9,061 |
+| Protector's Duty | 70.00% | ~9,193 |
+| Alchemist | 69.00% | ~9,062 |
 | In our Wake | 68.00% | ~8,930 |
 | Leaving all Behind | 65.00% | ~8,536 |
 | Felons | 62.00% | ~8,142 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 161)
 | Old protector | 2.00% | ~263 |
 | Malignant | 1.00% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,132 (Ranked 126)  
+Progressed: 13,133 (Ranked 126)  
 Completed: 47 (0.36%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 47 (0.36%) (Ranked 171)
 | 2023-09-18 | 13,087 | 47 |
 | 2023-09-19 | 13,106 | 47 |
 | 2023-09-20 | 13,128 | 47 |
-| 2023-09-21 | 13,132 | 47 |
+| 2023-09-21 | 13,133 | 47 |
 ## Awards
 Max (Great Boss Battles): 419  (Ranked 214)  
 Sum: 643 (Ranked 292)  

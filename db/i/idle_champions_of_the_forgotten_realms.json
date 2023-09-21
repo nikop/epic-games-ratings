@@ -6784,9 +6784,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229515,
+  "EOS_Progressed": 229522,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23829,6 +23829,11 @@
       "Time": "2023-09-21T05:03:29.3825375+00:00",
       "NumProgressed": 229515,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-21T06:03:30.7817696+00:00",
+      "NumProgressed": 229522,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 524,
@@ -25678,9 +25683,9 @@
       "ID": "objective_completed_396",
       "SetID": "415jc5c",
       "Name": "Shadowfell Stalwarts",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_398",
@@ -25806,9 +25811,9 @@
       "ID": "objective_completed_413",
       "SetID": "cc37lbc",
       "Name": "Towering Expectations",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_414",
@@ -26342,9 +26347,9 @@
       "ID": "objective_completed_591",
       "SetID": "cc37lbc",
       "Name": "Batiri in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_592",
@@ -27238,9 +27243,9 @@
       "ID": "objective_completed_833",
       "SetID": "415jc5c",
       "Name": "Fortress Assault",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_834",
@@ -28031,21 +28036,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195789,
-      "Completed": 3450
+      "Progressed": 195796,
+      "Completed": 3451
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229515,
+      "Progressed": 229522,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-21T03:58:46.2005907+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:03:29.382537+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:03:30.781769+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:58:48.4119623+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:03:29.3855694+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:58:45.2587597+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:03:30.7851243+00:00"
 }

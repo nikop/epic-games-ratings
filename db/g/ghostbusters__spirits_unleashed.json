@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -13554,9 +13554,9 @@
       "ID": "Seasoned",
       "SetID": "819popo",
       "Name": "Seasoned",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Side_Hustle",
@@ -13578,9 +13578,9 @@
       "ID": "Solo_Capture",
       "SetID": "819popo",
       "Name": "Solo Capture",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     },
     {
       "ID": "Stunner",
@@ -13707,8 +13707,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-20T20:01:35.2934221+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:04:58.1356817+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:04:58.590124+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:59:42.6797849+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:04:58.1357963+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:59:41.981077+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:04:58.5902369+00:00"
 }

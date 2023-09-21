@@ -2737,9 +2737,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 252
     },
     {
       "ID": "Defense_Common",
@@ -2937,8 +2937,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:03:23.1070474+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:03:24.106403+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:59:58.8817145+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:03:23.1070836+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:59:58.3008334+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:03:24.1064394+00:00"
 }

@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735950,
+  "EOS_Progressed": 735951,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2222,
+  "EOS_NewPlayers": 2220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17566,6 +17566,11 @@
       "Time": "2023-09-21T05:05:28.8691365+00:00",
       "NumProgressed": 735950,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-21T06:05:29.3417288+00:00",
+      "NumProgressed": 735951,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 27,
@@ -17737,7 +17742,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22078
+      "UsersEstimate": 22079
     },
     {
       "ID": "ach_sell_to_state",
@@ -17785,14 +17790,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 139830
+      "UsersEstimate": 139831
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 735950,
+      "Progressed": 735951,
       "Completed": 3
     }
   ],
@@ -17800,8 +17805,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-09-10T12:00:55.773679+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:05:28.8691357+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:05:29.3417283+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:01.4209619+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:59:38.6984642+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:05:28.8692564+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:59:37.7088317+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:05:29.3418524+00:00"
 }

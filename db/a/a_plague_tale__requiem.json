@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -440,9 +440,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13132,
+  "EOS_Progressed": 13133,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -8640,6 +8640,11 @@
       "Time": "2023-09-21T03:03:52.7801038+00:00",
       "NumProgressed": 13132,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-21T06:03:18.0384451+00:00",
+      "NumProgressed": 13133,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -8651,7 +8656,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12081
+      "UsersEstimate": 12082
     },
     {
       "ID": "ACH_02",
@@ -8659,7 +8664,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10374
+      "UsersEstimate": 10375
     },
     {
       "ID": "ACH_03",
@@ -8675,7 +8680,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9192
+      "UsersEstimate": 9193
     },
     {
       "ID": "ACH_05",
@@ -8867,7 +8872,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9062
     },
     {
       "ID": "ACH_29",
@@ -8930,7 +8935,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13132,
+      "Progressed": 13133,
       "Completed": 47
     }
   ],
@@ -8938,8 +8943,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-20T09:01:13.7735856+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:03:17.0813612+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:03:18.0384446+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:18.7719014+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:59:54.962237+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:03:17.0814354+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:59:54.745196+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:03:18.0385216+00:00"
 }

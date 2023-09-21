@@ -42,10 +42,10 @@ Rating: 4.60 (Ranked 395)
 | Ask Questions Later | 10.00% | ~88 |
 | Factorywood Explorer | 9.00% | ~79 |
 | Fairgrounds Explorer | 9.00% | ~79 |
+| Sartorialist | 8.00% | ~71 |
 | Cultivair Explorer | 8.00% | ~71 |
 | Entresol Explorer | 8.00% | ~71 |
 | Corin Goes Home | 7.00% | ~62 |
-| Sartorialist | 7.00% | ~62 |
 | Golem Hunter | 6.00% | ~53 |
 | Clovemary for Remembering | 5.00% | ~44 |
 | Rungs Was Right | 5.00% | ~44 |

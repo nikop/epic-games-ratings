@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7908,7 +7908,7 @@
       "Count": 663
     }
   ],
-  "EOS_Progressed": 297040,
+  "EOS_Progressed": 297041,
   "EOS_Completed": 476,
   "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 6,
@@ -24553,6 +24553,11 @@
       "Time": "2023-09-21T05:04:52.4358535+00:00",
       "NumProgressed": 297040,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-21T06:04:53.3786941+00:00",
+      "NumProgressed": 297041,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24748,7 +24753,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32674
+      "UsersEstimate": 32675
     },
     {
       "ID": "PFA_31",
@@ -24908,7 +24913,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32674
+      "UsersEstimate": 32675
     },
     {
       "ID": "PFA_9",
@@ -24923,7 +24928,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297040,
+      "Progressed": 297041,
       "Completed": 476
     }
   ],
@@ -24931,8 +24936,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-21T01:39:31.0287796+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:04:52.4358527+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:04:53.3786936+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:58:20.1470594+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:04:52.4359915+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:58:18.0409639+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:04:53.3788321+00:00"
 }

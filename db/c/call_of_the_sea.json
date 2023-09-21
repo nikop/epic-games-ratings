@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120485,
+  "EOS_Progressed": 120487,
   "EOS_Completed": 991,
-  "EOS_NewPlayers": 1390,
+  "EOS_NewPlayers": 1392,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17488,6 +17488,11 @@
       "Time": "2023-09-21T05:06:06.7857408+00:00",
       "NumProgressed": 120485,
       "NumCompleted": 991
+    },
+    {
+      "Time": "2023-09-21T06:06:07.3065583+00:00",
+      "NumProgressed": 120487,
+      "NumCompleted": 991
     }
   ],
   "TotalAchievements": 34,
@@ -17515,7 +17520,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 50604
+      "UsersEstimate": 50605
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -17555,7 +17560,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 95183
+      "UsersEstimate": 95185
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -17571,7 +17576,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 66267
+      "UsersEstimate": 66268
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -17587,7 +17592,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 46989
+      "UsersEstimate": 46990
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -17683,7 +17688,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 20482
+      "UsersEstimate": 20483
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -17707,7 +17712,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 28916
+      "UsersEstimate": 28917
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -17715,7 +17720,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 28916
+      "UsersEstimate": 28917
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -17747,7 +17752,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 28916
+      "UsersEstimate": 28917
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -17770,7 +17775,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 120485,
+      "Progressed": 120487,
       "Completed": 991
     }
   ],
@@ -17778,8 +17783,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-21T05:06:06.7857403+00:00",
+  "LastChanged_Achievements": "2023-09-21T06:06:07.3065576+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.7242706+00:00",
-  "LastUpdate_Ratings": "2023-09-21T04:59:46.0486538+00:00",
-  "LastUpdate_Achievements": "2023-09-21T05:06:06.7858709+00:00"
+  "LastUpdate_Ratings": "2023-09-21T05:59:45.6891845+00:00",
+  "LastUpdate_Achievements": "2023-09-21T06:06:07.3066888+00:00"
 }

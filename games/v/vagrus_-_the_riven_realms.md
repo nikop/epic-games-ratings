@@ -18,6 +18,7 @@
 | Tail-wind | 7.00% | ~11 |
 | Conciliator | 6.00% | ~9 |
 | Taskmaster | 6.00% | ~9 |
+| Quartermaster | 5.00% | ~8 |
 | Strategist | 5.00% | ~8 |
 | The More the Merrier | 5.00% | ~8 |
 | Deputized | 5.00% | ~8 |
@@ -26,7 +27,6 @@
 | Been There | 5.00% | ~8 |
 | Spiritual Journey | 5.00% | ~8 |
 | Pilgrimage's End | 5.00% | ~8 |
-| Quartermaster | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |

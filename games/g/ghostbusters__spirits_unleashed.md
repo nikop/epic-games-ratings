@@ -10,6 +10,7 @@ Rating: 4.50 (Ranked 568)
 | Meticulously Efficient | 0.50% | ~130 |
 | Discovery | 0.40% | ~104 |
 | Fully Upgraded | 0.40% | ~104 |
+| Solo Capture | 0.40% | ~104 |
 | Teamwork | 0.40% | ~104 |
 | Animated | 0.30% | ~78 |
 | Back Off | 0.30% | ~78 |
@@ -17,7 +18,6 @@ Rating: 4.50 (Ranked 568)
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Cultured | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |
-| Solo Capture | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
 | There you are! | 0.30% | ~78 |
 | Vaporous Expansion | 0.30% | ~78 |
@@ -26,6 +26,7 @@ Rating: 4.50 (Ranked 568)
 | Ghostbuster In Training | 0.20% | ~52 |
 | Pesky Jerks | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
+| Seasoned | 0.20% | ~52 |
 | Side Hustle | 0.20% | ~52 |
 | Skilled | 0.20% | ~52 |
 | Stunner | 0.20% | ~52 |
@@ -51,7 +52,6 @@ Rating: 4.50 (Ranked 568)
 | Rift Destroyer | 0.10% | ~26 |
 | Rift Seeker | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
-| Seasoned | 0.10% | ~26 |
 | Surprise! | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
 | Tobin's Prodigy | 0.10% | ~26 |

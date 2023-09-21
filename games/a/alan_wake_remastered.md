@@ -27,8 +27,8 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 13.00% | ~8,565 |
 | Collateral Carnage | 13.00% | ~8,565 |
 | Come One, Come All | 13.00% | ~8,565 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,906 |
-| Thunder and Lightning | 12.00% | ~7,906 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,907 |
+| Thunder and Lightning | 12.00% | ~7,907 |
 | Gatekeeper | 11.00% | ~7,248 |
 | The Lady of the Light | 11.00% | ~7,248 |
 | Two For the Price of One | 11.00% | ~7,248 |
@@ -45,7 +45,7 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 5.00% | ~3,294 |
 | KBF-FM | 5.00% | ~3,294 |
 | Ding! | 5.00% | ~1,468 |
-| Boob Tube | 4.00% | ~2,635 |
+| Boob Tube | 4.00% | ~2,636 |
 | Heartbreaker | 4.00% | ~1,174 |
 | Carny | 3.00% | ~1,977 |
 | Kill Your Darlings | 3.00% | ~881 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,887 (Ranked 88)  
+Progressed: 65,888 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 65 (0.10%) (Ranked 225)
 | 2023-09-18 | 65,733 | 65 |
 | 2023-09-19 | 65,814 | 65 |
 | 2023-09-20 | 65,872 | 65 |
-| 2023-09-21 | 65,887 | 65 |
+| 2023-09-21 | 65,888 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
