@@ -1215,10 +1215,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1088,
       "NumberOfAwardsMax": 723
+    },
+    {
+      "Time": "2023-09-21T11:02:56.7419495+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1089,
+      "NumberOfAwardsMax": 723
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1088,
+  "NumberOfAwards": 1089,
   "NumberOfAwardsMax": 723,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1262,7 +1268,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",
@@ -1301,7 +1307,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128398,
+  "EOS_Progressed": 128402,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 0,
@@ -16661,6 +16667,11 @@
       "Time": "2023-09-21T10:08:25.3685064+00:00",
       "NumProgressed": 128398,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-21T11:10:10.5890686+00:00",
+      "NumProgressed": 128402,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16752,7 +16763,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35951
+      "UsersEstimate": 35953
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16991,15 +17002,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128398,
+      "Progressed": 128402,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-21T10:08:25.3685053+00:00",
+  "LastChanged": "2023-09-21T11:02:56.7419493+00:00",
+  "LastChanged_Achievements": "2023-09-21T11:10:10.5890681+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-21T10:00:38.6433402+00:00",
-  "LastUpdate_Achievements": "2023-09-21T10:08:25.3686285+00:00"
+  "LastUpdate_Ratings": "2023-09-21T11:02:56.74195+00:00",
+  "LastUpdate_Achievements": "2023-09-21T11:10:10.5892223+00:00"
 }

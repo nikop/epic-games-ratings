@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3623,
+  "EOS_Progressed": 3624,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3814,6 +3814,11 @@
       "Time": "2023-09-21T10:08:10.9838781+00:00",
       "NumProgressed": 3623,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-21T11:09:50.1655615+00:00",
+      "NumProgressed": 3624,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3873,7 +3878,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3188
+      "UsersEstimate": 3189
     },
     {
       "ID": "campaign10",
@@ -3977,7 +3982,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "campaign4",
@@ -4088,7 +4093,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3623,
+      "Progressed": 3624,
       "Completed": 11
     }
   ],
@@ -4096,8 +4101,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-21T10:08:10.9838774+00:00",
+  "LastChanged_Achievements": "2023-09-21T11:09:50.165561+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-21T09:57:55.6205977+00:00",
-  "LastUpdate_Achievements": "2023-09-21T10:08:10.9839305+00:00"
+  "LastUpdate_Ratings": "2023-09-21T10:58:55.3781835+00:00",
+  "LastUpdate_Achievements": "2023-09-21T11:09:50.1656112+00:00"
 }

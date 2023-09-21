@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -398,9 +398,9 @@
       "ID": "ADS_CLOSE",
       "SetID": "50pdlpn",
       "Name": "Close Ads",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BEYOND_TIME",
@@ -918,9 +918,9 @@
       "ID": "ENEMY_ARCADE_5",
       "SetID": "50pdlpn",
       "Name": "Arcade - Scorpon-pink.png the PNG File",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ENEMY_ARCADE_6",
@@ -981,8 +981,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-09-21T10:05:12.7611694+00:00",
+  "LastChanged_Achievements": "2023-09-21T11:07:06.4624742+00:00",
   "LastUpdate_AppInfo": "2023-09-18T17:57:12.2384894+00:00",
-  "LastUpdate_Ratings": "2023-09-21T09:58:43.4619086+00:00",
-  "LastUpdate_Achievements": "2023-09-21T10:05:12.7612493+00:00"
+  "LastUpdate_Ratings": "2023-09-21T11:00:03.0974057+00:00",
+  "LastUpdate_Achievements": "2023-09-21T11:07:06.4625374+00:00"
 }

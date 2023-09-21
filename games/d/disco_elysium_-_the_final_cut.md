@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,951 |
+| Goodest Of The Good Cops | 28.00% | ~35,953 |
 | Biggest Communism Builder | 24.00% | ~30,816 |
 | The World's Most Laughable Centrist | 20.00% | ~25,680 |
 | Il Coppo Del'Arte! | 18.00% | ~23,112 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,398 (Ranked 71)  
+Progressed: 128,402 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,17 +201,17 @@ Completed: 28 (0.02%) (Ranked 257)
 | 2023-09-18 | 128,220 | 28 |
 | 2023-09-19 | 128,300 | 28 |
 | 2023-09-20 | 128,375 | 28 |
-| 2023-09-21 | 128,398 | 28 |
+| 2023-09-21 | 128,402 | 28 |
 ## Awards
 Max (Character Customization): 723  (Ranked 167)  
-Sum: 1,088 (Ranked 238)  
+Sum: 1,089 (Ranked 238)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 723 |
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
-| This game is Highly Recommended | 42 |
+| This game is Highly Recommended | 43 |
 | This game has Quickly Understood Controls | 41 |
 | This game has Unique Visuals | 36 |
 | This game has Amazing Characters | 36 |
@@ -351,3 +351,4 @@ Diff (max vs sum): -71
 | 2023-09-04 | 4.87 | - | 722 | 1,086 |
 | 2023-09-13 | 4.87 | - | 723 | 1,087 |
 | 2023-09-15 | 4.87 | - | 723 | 1,088 |
+| 2023-09-21 | 4.87 | - | 723 | 1,089 |

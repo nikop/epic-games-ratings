@@ -414,9 +414,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246611,
+  "EOS_Progressed": 246614,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17549,6 +17549,11 @@
       "Time": "2023-09-21T10:03:23.9611308+00:00",
       "NumProgressed": 246611,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-21T11:04:33.653516+00:00",
+      "NumProgressed": 246614,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17560,7 +17565,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66585
+      "UsersEstimate": 66586
     },
     {
       "ID": "ACH_AON",
@@ -17584,7 +17589,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -17600,7 +17605,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 27127
+      "UsersEstimate": 27128
     },
     {
       "ID": "ACH_ENJOY",
@@ -17624,7 +17629,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32059
+      "UsersEstimate": 32060
     },
     {
       "ID": "ACH_HATTRICK",
@@ -17704,7 +17709,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69051
+      "UsersEstimate": 69052
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -17728,7 +17733,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -17880,7 +17885,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61653
+      "UsersEstimate": 61654
     },
     {
       "ID": "ACH_SOREAD",
@@ -17888,7 +17893,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -17975,7 +17980,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246611,
+      "Progressed": 246614,
       "Completed": 7
     }
   ],
@@ -17983,8 +17988,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-21T10:03:23.9611299+00:00",
+  "LastChanged_Achievements": "2023-09-21T11:04:33.6535155+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.3686602+00:00",
-  "LastUpdate_Ratings": "2023-09-21T09:59:08.902841+00:00",
-  "LastUpdate_Achievements": "2023-09-21T10:03:23.9613596+00:00"
+  "LastUpdate_Ratings": "2023-09-21T11:00:41.527077+00:00",
+  "LastUpdate_Achievements": "2023-09-21T11:04:33.6536791+00:00"
 }

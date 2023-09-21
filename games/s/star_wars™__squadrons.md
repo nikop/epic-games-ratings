@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 97.00% | ~144 |
-| Safety in the Storm | 26.00% | ~38 |
-| Mission Accomplished | 24.00% | ~36 |
-| A Better Idea | 22.00% | ~33 |
-| Begin the Ceremony | 19.00% | ~28 |
-| The Galaxy's Finest (Story Mode) | 16.00% | ~24 |
-| Asset Secured | 16.00% | ~24 |
-| A Starfighter of Your Own | 14.00% | ~21 |
-| Unkillable | 11.00% | ~16 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~10 |
-| Stomped | 7.00% | ~10 |
-| Great Shot, Kid | 6.00% | ~9 |
-| Sound Strategy | 6.00% | ~9 |
-| Fearless | 6.00% | ~9 |
-| Back From the Brink | 6.00% | ~9 |
-| Together, Vanguard | 5.00% | ~7 |
-| Temporary Guardian | 5.00% | ~7 |
-| Baited | 5.00% | ~7 |
-| Punch It | 5.00% | ~7 |
-| A Promising Career | 5.00% | ~7 |
-| I Have You Now | 3.00% | ~4 |
-| Stronger Together | 3.00% | ~4 |
-| Stun 'Em | 3.00% | ~4 |
-| Squadron Hunter | 3.00% | ~4 |
-| Flames Over Mon Cala | 3.00% | ~4 |
-| Combat Pilot | 3.00% | ~4 |
-| The Trap is Set | 2.00% | ~3 |
-| Got 'Em | 2.00% | ~3 |
-| Unstoppable Ace | 2.00% | ~3 |
-| Dressed for the Job You Want | 2.00% | ~3 |
-| Seasoned Star Pilot | 1.00% | ~1 |
-| Ultimate Weapon | 1.00% | ~1 |
-| I Know a Few Maneuvers | 0.70% | ~1 |
-| The Galaxy's Finest (Veteran) | 0.70% | ~1 |
-| Against the Current | 0.70% | ~1 |
-| Special Modifications | 0.70% | ~1 |
+| Fracture at Fostar Haven | 97.00% | ~171 |
+| Safety in the Storm | 23.00% | ~40 |
+| Mission Accomplished | 22.00% | ~39 |
+| A Better Idea | 22.00% | ~39 |
+| Begin the Ceremony | 18.00% | ~32 |
+| Asset Secured | 15.00% | ~26 |
+| The Galaxy's Finest (Story Mode) | 14.00% | ~25 |
+| A Starfighter of Your Own | 13.00% | ~23 |
+| Unkillable | 11.00% | ~19 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~12 |
+| Stomped | 7.00% | ~12 |
+| Sound Strategy | 6.00% | ~11 |
+| Back From the Brink | 6.00% | ~11 |
+| Great Shot, Kid | 5.00% | ~9 |
+| Fearless | 5.00% | ~9 |
+| Together, Vanguard | 5.00% | ~9 |
+| Baited | 5.00% | ~9 |
+| A Promising Career | 5.00% | ~9 |
+| Temporary Guardian | 4.00% | ~7 |
+| Punch It | 4.00% | ~7 |
+| Stronger Together | 3.00% | ~5 |
+| Stun 'Em | 3.00% | ~5 |
+| Squadron Hunter | 3.00% | ~5 |
+| Flames Over Mon Cala | 3.00% | ~5 |
+| I Have You Now | 2.00% | ~4 |
+| The Trap is Set | 2.00% | ~4 |
+| Got 'Em | 2.00% | ~4 |
+| Combat Pilot | 2.00% | ~4 |
+| Unstoppable Ace | 2.00% | ~4 |
+| Dressed for the Job You Want | 2.00% | ~4 |
+| Seasoned Star Pilot | 1.00% | ~2 |
+| Ultimate Weapon | 1.00% | ~2 |
+| I Know a Few Maneuvers | 0.60% | ~1 |
+| The Galaxy's Finest (Veteran) | 0.60% | ~1 |
+| Against the Current | 0.60% | ~1 |
+| Special Modifications | 0.60% | ~1 |
 | Victory for the New Republic | 0.00% | ~0 |
 | Victory for the Empire | 0.00% | ~0 |
 | Heavy Hitter | 0.00% | ~0 |
@@ -52,12 +52,12 @@
 | Fully Decorated | 0.00% | ~0 |
 | The Galaxy's Finest (Ace) | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148 (Ranked 339)  
+Progressed: 176 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-21 | 148 | 0 |
+| 2023-09-21 | 176 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

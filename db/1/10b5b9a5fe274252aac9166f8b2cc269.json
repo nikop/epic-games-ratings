@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 4,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 257,
-  "EOS_Completed": 107,
+  "EOS_Completed": 108,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 41.63,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 42.02,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1386,6 +1386,11 @@
       "Time": "2023-09-21T00:03:19.4779093+00:00",
       "NumProgressed": 257,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-09-21T11:05:15.0774146+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 108
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -1436,9 +1441,9 @@
       "ID": "PORTRAIT_14",
       "SetID": "2fge00i",
       "Name": "Portrait 14",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "PORTRAIT_15",
@@ -1452,17 +1457,17 @@
       "ID": "PORTRAIT_16",
       "SetID": "2fge00i",
       "Name": "Portrait 16",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "PORTRAIT_17",
       "SetID": "2fge00i",
       "Name": "Portrait 17",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "PORTRAIT_18",
@@ -1558,13 +1563,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 257,
-      "Completed": 107
+      "Completed": 108
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-21T10:03:53.6611536+00:00",
-  "LastUpdate_AppInfo": "2023-09-14T10:57:13.9907185+00:00",
-  "LastUpdate_Ratings": "2023-09-21T09:58:01.8959127+00:00",
-  "LastUpdate_Achievements": "2023-09-21T10:03:53.6611841+00:00"
+  "LastChanged_Achievements": "2023-09-21T11:05:15.077414+00:00",
+  "LastUpdate_AppInfo": "2023-09-21T10:57:55.2424775+00:00",
+  "LastUpdate_Ratings": "2023-09-21T10:59:04.7559259+00:00",
+  "LastUpdate_Achievements": "2023-09-21T11:05:15.0774385+00:00"
 }

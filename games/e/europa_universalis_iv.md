@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,384 |
-| That's a Grand Army | 3.00% | ~12,288 |
-| That is mine! | 3.00% | ~12,288 |
-| Victorious! | 3.00% | ~12,288 |
-| Brothers in Arms | 2.00% | ~8,192 |
-| For the Glory | 2.00% | ~8,192 |
-| That's a Grand Navy | 2.00% | ~8,192 |
-| Seriously?! | 2.00% | ~8,192 |
+| Until death do us apart | 4.00% | ~16,385 |
+| That's a Grand Army | 3.00% | ~12,289 |
+| That is mine! | 3.00% | ~12,289 |
+| Victorious! | 3.00% | ~12,289 |
+| Brothers in Arms | 2.00% | ~8,193 |
+| For the Glory | 2.00% | ~8,193 |
+| That's a Grand Navy | 2.00% | ~8,193 |
+| Seriously?! | 2.00% | ~8,193 |
 | Cold War | 1.00% | ~4,096 |
 | Defender of the Faith | 1.00% | ~4,096 |
 | It's all about the money | 1.00% | ~4,096 |
 | The Princess is in this Castle | 1.00% | ~4,096 |
 | True Catholic | 1.00% | ~4,096 |
-| It's all about luck | 0.90% | ~3,686 |
-| Respected | 0.90% | ~3,686 |
-| Truly Divine Ruler | 0.90% | ~3,686 |
+| It's all about luck | 0.90% | ~3,687 |
+| Respected | 0.90% | ~3,687 |
+| Truly Divine Ruler | 0.90% | ~3,687 |
 | Blockader | 0.80% | ~3,277 |
 | Double the Love | 0.70% | ~2,867 |
 | Royal Authority | 0.70% | ~2,867 |
@@ -30,12 +30,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Agressive Expander | 0.50% | ~2,048 |
 | City of Cities | 0.50% | ~2,048 |
 | Combined Arms | 0.50% | ~2,048 |
-| Azur semé de lis or | 0.40% | ~1,638 |
-| Factionalism | 0.40% | ~1,638 |
-| Gentle Persuasion | 0.40% | ~1,638 |
-| Isn't this the way to India? | 0.40% | ~1,638 |
-| Queen of Conquest | 0.40% | ~1,638 |
-| This navy can take it all | 0.40% | ~1,638 |
+| Azur semé de lis or | 0.40% | ~1,639 |
+| Factionalism | 0.40% | ~1,639 |
+| Gentle Persuasion | 0.40% | ~1,639 |
+| Isn't this the way to India? | 0.40% | ~1,639 |
+| Queen of Conquest | 0.40% | ~1,639 |
+| This navy can take it all | 0.40% | ~1,639 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,229 |
 | Bright Spark | 0.30% | ~1,229 |
 | Down Under | 0.30% | ~1,229 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,599 (Ranked 40)  
+Progressed: 409,628 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,18 +515,18 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-18 | 407,728 | 0 |
 | 2023-09-19 | 408,554 | 0 |
 | 2023-09-20 | 409,400 | 0 |
-| 2023-09-21 | 409,599 | 0 |
+| 2023-09-21 | 409,628 | 0 |
 ## Awards
 Max (Educational): 6,187  (Ranked 56)  
-Sum: 50,773 (Ranked 25)  
+Sum: 50,786 (Ranked 25)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,187 |
 | This game is Highly Recommended | 5,890 |
+| This game is Extremely Fun | 5,846 |
 | This game has Challenging Combat | 5,845 |
 | This game has Diverse Characters | 5,843 |
-| This game is Extremely Fun | 5,833 |
 | This game is Relaxing | 5,695 |
 | This game has Competitive Players | 5,513 |
 | This game has Amazing Storytelling | 5,169 |
@@ -782,3 +782,4 @@ Diff (max vs sum): 31
 | 2023-09-18 | 4.69 | - | 6,158 | 50,551 |
 | 2023-09-19 | 4.69 | - | 6,170 | 50,667 |
 | 2023-09-20 | 4.69 | - | 6,187 | 50,773 |
+| 2023-09-21 | 4.69 | - | 6,187 | 50,786 |

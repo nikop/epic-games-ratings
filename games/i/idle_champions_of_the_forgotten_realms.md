@@ -68,12 +68,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speed Demons | 0.10% | ~196 |
 | Will of the Feywild | 0.10% | ~196 |
 | All Damage, All The Time | 0.10% | ~196 |
+| Will of the Frozen Feywild | 0.10% | ~196 |
 | The Roots of Loomlurch | 0.10% | ~196 |
 | The Loots of Loomlurch | 0.10% | ~196 |
 | The Lutes of Loomlurch | 0.10% | ~196 |
 | Supply Run | 0.10% | ~230 |
 | Best Laid Plans | 0.10% | ~196 |
 | Pincushion Party | 0.10% | ~196 |
+| G. O. A. T. | 0.10% | ~196 |
 | The Howling Peaks of Yon | 0.10% | ~196 |
 | Strength of Character | 0.10% | ~196 |
 | The Invisible Wizards of Thay | 0.10% | ~196 |
@@ -130,7 +132,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Love Unsoiled | 0.10% | ~196 |
 | The Play's the Thing! | 0.10% | ~196 |
 | The Bitter End | 0.10% | ~196 |
+| A Nimble Approach | 0.10% | ~196 |
 | The Palace of Heart's Desire | 0.10% | ~196 |
+| The Egg of Nat's Desire | 0.10% | ~196 |
 | No One Can Hear You Scream | 0.10% | ~196 |
 | Anchors Aweigh | 0.10% | ~196 |
 | Welcome to the Rock | 0.10% | ~196 |
@@ -492,6 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.10% | ~196 |
 | The Champion's Guide to Wildspace | 0.10% | ~196 |
 | Not That Type of Helm! | 0.10% | ~196 |
+| Tiny Treaty | 0.10% | ~196 |
+| All The World's A Stage | 0.10% | ~196 |
 | Calcryx Tricks | 0.10% | ~196 |
 | Goblin Halls: the Next Generation | 0.10% | ~196 |
 | Bazaar Companions | 0.10% | ~196 |
@@ -520,19 +526,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Third Third Out | 0.00% | ~0 |
 | Thoughts on the Menu | 0.00% | ~0 |
 | Brains on Ice | 0.00% | ~0 |
-| Will of the Frozen Feywild | 0.00% | ~0 |
-| G. O. A. T. | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
-| A Nimble Approach | 0.00% | ~0 |
-| The Egg of Nat's Desire | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
-| Tiny Treaty | 0.00% | ~0 |
-| All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,533 (Ranked 57)  
-Completed: 2,296 (1.00%) (Ranked 128)  
+Progressed: 229,539 (Ranked 57)  
+Completed: 2,297 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -685,7 +685,7 @@ Completed: 2,296 (1.00%) (Ranked 128)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,533 | 2,296 |
+| 2023-09-21 | 229,539 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,663 (Ranked 39)  
