@@ -2,9 +2,9 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_14",
@@ -384,9 +384,9 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_7",
@@ -422,8 +422,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:09:18.8962488+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:09:38.0496334+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.8902845+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:57:29.9721962+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:09:18.8962643+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:57:37.1387031+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:09:38.0496486+00:00"
 }

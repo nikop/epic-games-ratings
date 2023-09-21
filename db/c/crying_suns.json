@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -604,7 +604,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467689,
+  "EOS_Progressed": 467690,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
@@ -16709,6 +16709,11 @@
       "Time": "2023-09-21T07:04:36.6072248+00:00",
       "NumProgressed": 467689,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-21T08:04:56.1139822+00:00",
+      "NumProgressed": 467690,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16720,7 +16725,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70153
+      "UsersEstimate": 70154
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -16728,7 +16733,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70153
+      "UsersEstimate": 70154
     },
     {
       "ID": "achievement_first_death",
@@ -16736,7 +16741,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112245
+      "UsersEstimate": 112246
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -16752,7 +16757,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70153
+      "UsersEstimate": 70154
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -16888,7 +16893,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70153
+      "UsersEstimate": 70154
     },
     {
       "ID": "achievement_story_neon_child",
@@ -16904,7 +16909,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154337
+      "UsersEstimate": 154338
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17144,7 +17149,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205783
+      "UsersEstimate": 205784
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -17351,21 +17356,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11623,
+      "Progressed": 11624,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467689,
+      "Progressed": 467690,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:04:36.6072245+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:04:56.1139813+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:49.9396656+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:00:26.6465526+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:04:36.607408+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:01:06.6978915+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:04:56.1141912+00:00"
 }

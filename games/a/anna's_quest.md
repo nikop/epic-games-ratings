@@ -12,9 +12,9 @@
 | Back to the anvil | 49.00% | ~21 |
 | So soothing... | 47.00% | ~20 |
 | Roostwig has entered the building | 47.00% | ~20 |
+| Mystery solved | 44.00% | ~19 |
 | Fussy eater | 44.00% | ~19 |
 | Kekekeke... | 44.00% | ~19 |
-| Mystery solved | 42.00% | ~18 |
 | Honey, honey, honey… | 42.00% | ~18 |
 | Far away from home | 42.00% | ~18 |
 | Little genius | 42.00% | ~18 |

@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2026,
+  "EOS_Progressed": 2027,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2451,6 +2451,11 @@
       "Time": "2023-09-21T05:08:21.1019561+00:00",
       "NumProgressed": 2026,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-21T08:09:33.6688215+00:00",
+      "NumProgressed": 2027,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2470,7 +2475,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ACHV_03",
@@ -2494,7 +2499,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHV_06",
@@ -2526,7 +2531,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHV_10",
@@ -2598,7 +2603,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHV_19",
@@ -2654,7 +2659,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHV_26",
@@ -2662,7 +2667,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "ACHV_27",
@@ -2694,7 +2699,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHV_31",
@@ -2702,7 +2707,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHV_32",
@@ -2758,7 +2763,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHV_39",
@@ -2766,7 +2771,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "ACHV_40",
@@ -2798,7 +2803,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHV_44",
@@ -2917,7 +2922,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2026,
+      "Progressed": 2027,
       "Completed": 12
     }
   ],
@@ -2925,8 +2930,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:09:15.0917521+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:09:33.6688208+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:12.216001+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:57:58.853873+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:09:15.0918507+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:58:09.73158+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:09:33.6688874+00:00"
 }

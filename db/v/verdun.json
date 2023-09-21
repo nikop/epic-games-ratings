@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 58796,
+  "EOS_Progressed": 58797,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18598,6 +18598,11 @@
       "Time": "2023-09-21T07:07:41.5505593+00:00",
       "NumProgressed": 58796,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-21T08:08:34.4447896+00:00",
+      "NumProgressed": 58797,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -18873,7 +18878,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23518
+      "UsersEstimate": 23519
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -18897,7 +18902,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37041
+      "UsersEstimate": 37042
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -18977,7 +18982,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 45273
+      "UsersEstimate": 45274
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -19025,7 +19030,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7643
+      "UsersEstimate": 7644
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -19080,15 +19085,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 58796,
+      "Progressed": 58797,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:07:41.5505587+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:08:34.4447889+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:45.4198616+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:00:22.512406+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:07:41.5507545+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:01:01.5366725+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:08:34.4449423+00:00"
 }

@@ -12,8 +12,8 @@
 | Holey Moley | 60.00% | ~68 |
 | Bomb's Away | 55.00% | ~63 |
 | Perfect Round | 54.00% | ~62 |
-| Competitor's Spirit | 48.00% | ~55 |
-| The Strongest Field in Golf | 39.00% | ~44 |
+| Competitor's Spirit | 49.00% | ~56 |
+| The Strongest Field in Golf | 40.00% | ~46 |
 | Ace in the Hole | 39.00% | ~44 |
 | From Many, One | 35.00% | ~40 |
 | A Passion for Excellence | 32.00% | ~36 |
@@ -23,7 +23,7 @@
 | Golfer Versus Golfer | 19.00% | ~22 |
 | Victory Lap | 11.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 351)  
+Progressed: 114 (Ranked 352)  
 Completed: 3 (2.63%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |

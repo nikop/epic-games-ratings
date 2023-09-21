@@ -5,33 +5,33 @@ Rating: 4.24 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,621 |
-| Don't I Know You...? | 76.00% | ~1,540 |
-| Jailbreak | 65.00% | ~1,317 |
+| Rigged And Ready | 80.00% | ~1,622 |
+| Don't I Know You...? | 76.00% | ~1,541 |
+| Jailbreak | 65.00% | ~1,318 |
 | HEADSHOT! | 38.00% | ~770 |
 | Suited and Booted | 38.00% | ~770 |
 | Sleeping With The Fishes | 35.00% | ~709 |
 | Overheated | 30.00% | ~608 |
 | High Performance | 30.00% | ~608 |
-| Powered Up | 28.00% | ~567 |
-| Studied The Blade | 25.00% | ~506 |
+| Powered Up | 28.00% | ~568 |
+| Studied The Blade | 25.00% | ~507 |
 | Home Invasion | 23.00% | ~466 |
 | Luminary | 22.00% | ~446 |
 | It's a Trap | 22.00% | ~446 |
-| True Survivor | 21.00% | ~425 |
+| True Survivor | 21.00% | ~426 |
 | Offensive Defense | 20.00% | ~405 |
 | Shocking | 20.00% | ~405 |
 | Court Martial | 19.00% | ~385 |
 | Clean Cut | 19.00% | ~385 |
 | Unforeseeable Consequences | 19.00% | ~385 |
 | Dead Again | 18.00% | ~365 |
-| Full Arsenal | 17.00% | ~344 |
+| Full Arsenal | 17.00% | ~345 |
 | Can't Trust Banks | 15.00% | ~304 |
 | Mommy Dearest | 14.00% | ~284 |
-| Bad Dog | 13.00% | ~263 |
-| Where It All Began | 13.00% | ~263 |
-| Risk Tolerant | 13.00% | ~263 |
-| What A Catchy Song | 13.00% | ~263 |
+| Bad Dog | 13.00% | ~264 |
+| Where It All Began | 13.00% | ~264 |
+| Risk Tolerant | 13.00% | ~264 |
+| What A Catchy Song | 13.00% | ~264 |
 | Corrupted Beauty | 12.00% | ~243 |
 | Marked For Success | 12.00% | ~243 |
 | Sorry, Didn't See You There | 12.00% | ~243 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 844)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,026 (Ranked 187)  
+Progressed: 2,027 (Ranked 187)  
 Completed: 12 (0.59%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 12 (0.59%) (Ranked 149)
 | 2023-09-18 | 2,018 | 12 |
 | 2023-09-19 | 2,020 | 12 |
 | 2023-09-20 | 2,024 | 12 |
-| 2023-09-21 | 2,026 | 12 |
+| 2023-09-21 | 2,027 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

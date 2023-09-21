@@ -3898,7 +3898,7 @@
       "Count": 287
     }
   ],
-  "EOS_Progressed": 244366,
+  "EOS_Progressed": 244367,
   "EOS_Completed": 832,
   "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 4,
@@ -20588,6 +20588,11 @@
       "Time": "2023-09-21T07:09:10.2508624+00:00",
       "NumProgressed": 244366,
       "NumCompleted": 832
+    },
+    {
+      "Time": "2023-09-21T08:09:27.9252116+00:00",
+      "NumProgressed": 244367,
+      "NumCompleted": 832
     }
   ],
   "TotalAchievements": 39,
@@ -20663,7 +20668,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222373
+      "UsersEstimate": 222374
     },
     {
       "ID": "AchievementClownID",
@@ -20687,7 +20692,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 68422
+      "UsersEstimate": 68423
     },
     {
       "ID": "AchievementEggID",
@@ -20727,7 +20732,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129514
+      "UsersEstimate": 129515
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -20831,7 +20836,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180831
+      "UsersEstimate": 180832
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -20847,7 +20852,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 122183
+      "UsersEstimate": 122184
     },
     {
       "ID": "AchievementStreakingID",
@@ -20871,7 +20876,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134401
+      "UsersEstimate": 134402
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -20895,7 +20900,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158838
+      "UsersEstimate": 158839
     },
     {
       "ID": "AchievementWhaleID",
@@ -20910,7 +20915,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 244366,
+      "Progressed": 244367,
       "Completed": 832
     }
   ],
@@ -20918,8 +20923,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-21T06:58:05.69896+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:09:10.2508613+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:09:27.9252111+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.6695951+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:58:05.6989606+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:09:10.2511174+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:58:17.5324581+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:09:27.9253606+00:00"
 }

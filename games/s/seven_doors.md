@@ -7,13 +7,13 @@
 | Welcome to Seven Doors | 73.00% | ~8 |
 | Kill the Dead Man | 64.00% | ~7 |
 | Diogenes Syndrome | 64.00% | ~7 |
+| The Witch’s Haunt | 45.00% | ~5 |
 | Thanksgiving Day | 36.00% | ~4 |
 | No Fear of the Dark | 36.00% | ~4 |
-| The Witch’s Haunt | 36.00% | ~4 |
+| Trapped in Time | 36.00% | ~4 |
 | They’re Watching | 36.00% | ~4 |
 | Survivor | 36.00% | ~4 |
 | Master of Riddles | 36.00% | ~4 |
-| Trapped in Time | 27.00% | ~3 |
 | A Cautious Man Is Worth Two of His Kind | 27.00% | ~3 |
 | Art Connoisseur | 27.00% | ~3 |
 | A Cabin Boy with Potential | 18.00% | ~2 |

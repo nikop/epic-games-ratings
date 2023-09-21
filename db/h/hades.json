@@ -4379,10 +4379,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 7915,
       "NumberOfAwardsMax": 3271
+    },
+    {
+      "Time": "2023-09-21T07:57:47.4174786+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7916,
+      "NumberOfAwardsMax": 3271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7915,
+  "NumberOfAwards": 7916,
   "NumberOfAwardsMax": 3271,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4426,7 +4432,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4477,9 +4483,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 703859,
+  "EOS_Progressed": 703860,
   "EOS_Completed": 6364,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -20912,6 +20918,11 @@
       "Time": "2023-09-21T07:03:59.3965171+00:00",
       "NumProgressed": 703859,
       "NumCompleted": 6364
+    },
+    {
+      "Time": "2023-09-21T08:04:12.6233687+00:00",
+      "NumProgressed": 703860,
+      "NumCompleted": 6364
     }
   ],
   "TotalAchievements": 49,
@@ -20923,7 +20934,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 267466
+      "UsersEstimate": 267467
     },
     {
       "ID": "AchAresKills",
@@ -20963,7 +20974,7 @@
       "Name": "Haste of Hermes",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 77424
+      "UsersEstimate": 77425
     },
     {
       "ID": "AchCerberusPets",
@@ -20987,7 +20998,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 563087
+      "UsersEstimate": 563088
     },
     {
       "ID": "AchClearElysium",
@@ -20995,7 +21006,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 464547
+      "UsersEstimate": 464548
     },
     {
       "ID": "AchClearElysiumEM",
@@ -21019,7 +21030,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 147810
+      "UsersEstimate": 147811
     },
     {
       "ID": "AchClearTartarus",
@@ -21091,7 +21102,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 478624
+      "UsersEstimate": 478625
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -21147,7 +21158,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 443431
+      "UsersEstimate": 443432
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -21195,7 +21206,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253389
+      "UsersEstimate": 253390
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -21235,7 +21246,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 183003
+      "UsersEstimate": 183004
     },
     {
       "ID": "AchReachedEpilogue",
@@ -21283,7 +21294,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 499740
+      "UsersEstimate": 499741
     },
     {
       "ID": "AchWeaponClears",
@@ -21314,15 +21325,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 703859,
+      "Progressed": 703860,
       "Completed": 6364
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-09-20T18:57:22.5901189+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:03:59.3965165+00:00",
+  "LastChanged": "2023-09-21T07:57:47.4174783+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:04:12.6233681+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:04.172662+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:57:38.21964+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:03:59.3967518+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:57:47.4174791+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:04:12.6235876+00:00"
 }

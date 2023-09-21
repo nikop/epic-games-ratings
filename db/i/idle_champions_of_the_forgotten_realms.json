@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6784,9 +6784,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229526,
+  "EOS_Progressed": 229528,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 820,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23839,6 +23839,11 @@
       "Time": "2023-09-21T07:04:30.5702492+00:00",
       "NumProgressed": 229526,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-21T08:04:49.6748943+00:00",
+      "NumProgressed": 229528,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 524,
@@ -25960,9 +25965,9 @@
       "ID": "objective_completed_434",
       "SetID": "cc37lbc",
       "Name": "An Abyssal Situation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_435",
@@ -26488,9 +26493,9 @@
       "ID": "objective_completed_611",
       "SetID": "cc37lbc",
       "Name": "Twice More Into The Breach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_612",
@@ -27224,9 +27229,9 @@
       "ID": "objective_completed_829",
       "SetID": "415jc5c",
       "Name": "Frozen in Fear",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_830",
@@ -28041,21 +28046,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195800,
-      "Completed": 3452
+      "Progressed": 195802,
+      "Completed": 3453
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229526,
+      "Progressed": 229528,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-21T03:58:46.2005907+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:04:30.5702484+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:04:49.674893+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:59:37.8761821+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:04:30.5743603+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:00:08.4686493+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:04:49.6789727+00:00"
 }

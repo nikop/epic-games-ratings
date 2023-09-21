@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2474,9 +2474,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_030",
@@ -2795,8 +2795,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-30T23:01:05.938528+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:07:23.9934824+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:08:12.9970831+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.3443799+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:59:58.3553332+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:07:23.9935695+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:00:32.8868508+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:08:12.9972162+00:00"
 }

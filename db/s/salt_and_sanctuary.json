@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533660,
+  "EOS_Progressed": 533661,
   "EOS_Completed": 1553,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19374,6 +19374,11 @@
       "Time": "2023-09-21T07:03:29.6607971+00:00",
       "NumProgressed": 533660,
       "NumCompleted": 1553
+    },
+    {
+      "Time": "2023-09-21T08:03:18.2903768+00:00",
+      "NumProgressed": 533661,
+      "NumCompleted": 1553
     }
   ],
   "TotalAchievements": 37,
@@ -19441,7 +19446,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 442938
+      "UsersEstimate": 442939
     },
     {
       "ID": "HONED",
@@ -19569,7 +19574,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74712
+      "UsersEstimate": 74713
     },
     {
       "ID": "THE_LAKE",
@@ -19641,7 +19646,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341542
+      "UsersEstimate": 341543
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -19680,15 +19685,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533660,
+      "Progressed": 533661,
       "Completed": 1553
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-19T16:00:07.3346175+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:03:29.6607965+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:03:18.2903763+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.1616875+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:00:50.257092+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:03:29.6609717+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:01:35.7977884+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:03:18.2905151+00:00"
 }

@@ -260,6 +260,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Modrons in the Mud | 0.10% | ~230 |
 | And a Pixie in a Pear Treant | 0.10% | ~196 |
 | Orcs Are Wild | 0.10% | ~230 |
+| An Abyssal Situation | 0.10% | ~230 |
 | Dino Nightmare | 0.10% | ~230 |
 | A Familiar Friend | 0.10% | ~196 |
 | Mad Cow Disease | 0.10% | ~230 |
@@ -325,6 +326,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Avernus Frozen Over | 0.10% | ~196 |
 | Market Fluctuations | 0.10% | ~230 |
 | Once More Into The Breach | 0.10% | ~230 |
+| Twice More Into The Breach | 0.10% | ~230 |
 | Thrice More Into The Breach | 0.10% | ~196 |
 | Nightmare Mode | 0.10% | ~196 |
 | Wyllowwood | 0.10% | ~230 |
@@ -413,6 +415,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.10% | ~230 |
 | Dwarven Rumors | 0.10% | ~196 |
 | Mimic Perception | 0.10% | ~196 |
+| Frozen in Fear | 0.10% | ~196 |
 | It's Cold Out There Today | 0.10% | ~196 |
 | Sunblight | 0.10% | ~196 |
 | Fortress Assault | 0.10% | ~196 |
@@ -519,19 +522,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| An Abyssal Situation | 0.00% | ~0 |
-| Twice More Into The Breach | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Look Out! | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Frozen in Fear | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,526 (Ranked 57)  
+Progressed: 229,528 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,7 +685,7 @@ Completed: 2,295 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,526 | 2,295 |
+| 2023-09-21 | 229,528 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,663 (Ranked 39)  

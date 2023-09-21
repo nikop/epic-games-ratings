@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -170,9 +170,9 @@
       "ID": "aq_achievement_10",
       "SetID": "7jh86ne",
       "Name": "Mystery solved",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "aq_achievement_11",
@@ -483,8 +483,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:07:27.8765367+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:08:17.4298259+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0346445+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:00:38.0082449+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:07:27.876572+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:01:21.9657529+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:08:17.429859+00:00"
 }

@@ -3475,9 +3475,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 453821,
+  "EOS_Progressed": 453829,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5406,
+  "EOS_NewPlayers": 5394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20715,6 +20715,11 @@
       "Time": "2023-09-21T07:04:54.2210463+00:00",
       "NumProgressed": 453821,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-21T08:05:16.5473595+00:00",
+      "NumProgressed": 453829,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -20726,7 +20731,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -20750,7 +20755,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -20798,7 +20803,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -20806,7 +20811,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "ACH_GROUNDED",
@@ -20902,7 +20907,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "ACH_REFLEXES",
@@ -20934,7 +20939,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -21005,15 +21010,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 453821,
+      "Progressed": 453829,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-21T05:58:53.8788481+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:04:54.2210457+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:05:16.547359+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:15.9680136+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:59:46.9102744+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:04:54.2212165+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:00:19.3272189+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:05:16.5475335+00:00"
 }

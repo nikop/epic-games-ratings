@@ -26,9 +26,9 @@ Rating: 4.77 (Ranked 112)
 | The Avenging Gazelle | 7.00% | ~20,793 |
 | Beast Friends | 7.00% | ~20,793 |
 | Flight the Good Flight | 7.00% | ~20,793 |
-| The Seeker of Knowledge | 6.00% | ~17,822 |
-| The Root of the Problem | 6.00% | ~17,822 |
-| Raising Expectations | 6.00% | ~17,822 |
+| The Seeker of Knowledge | 6.00% | ~17,823 |
+| The Root of the Problem | 6.00% | ~17,823 |
+| Raising Expectations | 6.00% | ~17,823 |
 | Third Time's a Charm | 5.00% | ~14,852 |
 | The Ends Petrify the Means | 5.00% | ~14,852 |
 | The Toast of the Town | 4.00% | ~11,882 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 112)
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,041 (Ranked 44)  
+Progressed: 297,042 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 476 (0.16%) (Ranked 207)
 | 2023-09-18 | 296,907 | 474 |
 | 2023-09-19 | 296,968 | 475 |
 | 2023-09-20 | 297,027 | 476 |
-| 2023-09-21 | 297,041 | 476 |
+| 2023-09-21 | 297,042 | 476 |
 ## Awards
 Max (Character Customization): 22,886  (Ranked 17)  
-Sum: 43,871 (Ranked 30)  
+Sum: 43,876 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,086 |
 | This game has Amazing Storytelling | 1,049 |
 | This game has Diverse Characters | 1,043 |
-| This game is Relaxing | 1,038 |
+| This game is Relaxing | 1,043 |
 | This game is Extremely Fun | 1,036 |
 | This game has Amazing Characters | 1,017 |
 | This game is Highly Recommended | 993 |
@@ -408,4 +408,4 @@ Diff (max vs sum): -13
 | 2023-09-18 | 4.77 | 22,827 | 43,717 |
 | 2023-09-19 | 4.77 | 22,851 | 43,775 |
 | 2023-09-20 | 4.77 | 22,886 | 43,852 |
-| 2023-09-21 | 4.77 | 22,886 | 43,871 |
+| 2023-09-21 | 4.77 | 22,886 | 43,876 |

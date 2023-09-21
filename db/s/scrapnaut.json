@@ -1277,9 +1277,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_COOK",
@@ -1446,8 +1446,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:08:20.1450471+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:09:04.5893329+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:58.717197+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:00:36.1452454+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:08:20.1450803+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:01:19.6859792+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:09:04.5893625+00:00"
 }

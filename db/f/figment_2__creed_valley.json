@@ -86,9 +86,9 @@
       "ID": "combat_thought_block_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Heavy Thoughts",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fluff_arguing_opinions_conviction_lane",
@@ -102,9 +102,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -198,9 +198,9 @@
       "ID": "story_jester_land",
       "SetID": "7e96e7l",
       "Name": "Flee like an idiot",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story_outer_cerebrum",
@@ -214,9 +214,9 @@
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -231,8 +231,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:06:51.3208618+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:07:34.3681055+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.351036+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:57:46.8110295+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:06:51.3208781+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:57:57.1340598+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:07:34.3681171+00:00"
 }

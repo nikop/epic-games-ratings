@@ -13,7 +13,7 @@ Number of Ratings: 94  (23.09.2022)
 | Forgotten Memories | 48.00% | ~189 |
 | Cogs in the Machine | 42.00% | ~165 |
 | Mission Success | 26.00% | ~102 |
-| There's No Place Like Home | 22.00% | ~86 |
+| There's No Place Like Home | 23.00% | ~90 |
 | Green Cube Killer | 21.00% | ~83 |
 | Path to Salvation | 18.00% | ~71 |
 | Descendants | 17.00% | ~67 |

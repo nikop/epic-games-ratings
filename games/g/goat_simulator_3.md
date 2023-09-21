@@ -5,19 +5,19 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~222,373 |
-| Private Club | 74.00% | ~180,831 |
-| Rogue Guild | 65.00% | ~158,838 |
+| Forgotten Sorority | 91.00% | ~222,374 |
+| Private Club | 74.00% | ~180,832 |
+| Rogue Guild | 65.00% | ~158,839 |
 | I Watched the Intro | 57.00% | ~139,289 |
-| Covert Consortium | 55.00% | ~134,401 |
-| Goat Queen | 53.00% | ~129,514 |
-| Reach the Stratosphere | 50.00% | ~122,183 |
+| Covert Consortium | 55.00% | ~134,402 |
+| Goat Queen | 53.00% | ~129,515 |
+| Reach the Stratosphere | 50.00% | ~122,184 |
 | Synchronization Complete | 47.00% | ~114,852 |
 | Secret Society | 45.00% | ~109,965 |
 | Shadow Syndicate | 38.00% | ~92,859 |
 | What a Waste of Money | 33.00% | ~80,641 |
 | New Goat Order | 30.00% | ~73,310 |
-| Don't touch the servers | 28.00% | ~68,422 |
+| Don't touch the servers | 28.00% | ~68,423 |
 | San Angora: Become Human | 27.00% | ~65,979 |
 | Real Buoy | 27.00% | ~65,979 |
 | Raider of the Lost Parking Garage | 26.00% | ~63,535 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,466 |
 | G.O.A.T | 0.30% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,366 (Ranked 52)  
+Progressed: 244,367 (Ranked 52)  
 Completed: 832 (0.34%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 832 (0.34%) (Ranked 176)
 | 2023-09-18 | 244,179 | 831 |
 | 2023-09-19 | 244,277 | 831 |
 | 2023-09-20 | 244,353 | 831 |
-| 2023-09-21 | 244,366 | 832 |
+| 2023-09-21 | 244,367 | 832 |
 ## Awards
 Max (Great for Beginners): 396  (Ranked 218)  
 Sum: 3,413 (Ranked 154)  

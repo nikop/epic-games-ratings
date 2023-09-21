@@ -1,27 +1,27 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.78 (Ranked 101)  
+Rating: 4.79 (Ranked 89)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,170 |
-| A Thorny Situation | 70.00% | ~3,039 |
-| ... And Spit Back Out | 58.00% | ~2,518 |
-| Break-Net Speed | 46.00% | ~1,997 |
-| Bramble Breaker | 43.00% | ~1,867 |
-| Miner 49er | 40.00% | ~1,737 |
-| Humble Collector | 39.00% | ~1,693 |
-| Calm Sailing | 31.00% | ~1,346 |
-| Open the Gate! | 27.00% | ~1,172 |
+| Azoria Beckons | 73.00% | ~3,171 |
+| A Thorny Situation | 70.00% | ~3,041 |
+| ... And Spit Back Out | 58.00% | ~2,520 |
+| Break-Net Speed | 46.00% | ~1,998 |
+| Bramble Breaker | 43.00% | ~1,868 |
+| Miner 49er | 40.00% | ~1,738 |
+| Humble Collector | 39.00% | ~1,694 |
+| Calm Sailing | 31.00% | ~1,347 |
+| Open the Gate! | 27.00% | ~1,173 |
 | Mist Walker | 25.00% | ~1,086 |
-| Lumberjack | 22.00% | ~955 |
+| Lumberjack | 22.00% | ~956 |
 | Oui, Chef! | 21.00% | ~912 |
 | Botanical Breakthrough | 12.00% | ~521 |
 | Clear the Air | 11.00% | ~478 |
-| Beach Comber | 11.00% | ~478 |
+| Beach Comber | 10.00% | ~434 |
+| Search for the Hairy Grell | 7.00% | ~304 |
 | Higher Tax Bracket | 7.00% | ~304 |
-| Search for the Hairy Grell | 6.00% | ~261 |
 | Got to Catch Them All | 4.00% | ~174 |
 | Rumble in the Jumble | 4.00% | ~174 |
 | Fanatical Farmer | 4.00% | ~174 |
@@ -41,7 +41,7 @@ Rating: 4.78 (Ranked 101)
 | Giving the People What They Want | 0.10% | ~4 |
 | Very Skilled | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,342 (Ranked 157)  
+Progressed: 4,344 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,10 +69,11 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-18 | 4,045 | 0 |
 | 2023-09-19 | 4,198 | 0 |
 | 2023-09-20 | 4,323 | 0 |
-| 2023-09-21 | 4,342 | 0 |
+| 2023-09-21 | 4,344 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-09-18 | 4.82 | 0 | 0 |
 | 2023-09-19 | 4.83 | 0 | 0 |
 | 2023-09-20 | 4.78 | 0 | 0 |
+| 2023-09-21 | 4.79 | 0 | 0 |

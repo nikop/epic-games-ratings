@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65891,
+  "EOS_Progressed": 65893,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 0,
@@ -15372,6 +15372,11 @@
       "Time": "2023-09-21T07:05:10.8354574+00:00",
       "NumProgressed": 65891,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-21T08:05:36.2635925+00:00",
+      "NumProgressed": 65893,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15383,7 +15388,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27015
+      "UsersEstimate": 27016
     },
     {
       "ID": "02",
@@ -15423,7 +15428,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "07",
@@ -15479,7 +15484,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "14",
@@ -15519,7 +15524,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "19",
@@ -15623,7 +15628,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11201
+      "UsersEstimate": 11202
     },
     {
       "ID": "32",
@@ -15631,7 +15636,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21085
+      "UsersEstimate": 21086
     },
     {
       "ID": "33",
@@ -15655,7 +15660,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22403
+      "UsersEstimate": 22404
     },
     {
       "ID": "36",
@@ -15703,7 +15708,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11201
+      "UsersEstimate": 11202
     },
     {
       "ID": "42",
@@ -15719,7 +15724,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "44",
@@ -15918,21 +15923,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65891,
+      "Progressed": 65893,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29359,
+      "Progressed": 29361,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-21T07:05:10.8354569+00:00",
+  "LastChanged_Achievements": "2023-09-21T08:05:36.2635912+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:59:20.7619034+00:00",
-  "LastUpdate_Achievements": "2023-09-21T07:05:10.8356755+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:59:47.2940867+00:00",
+  "LastUpdate_Achievements": "2023-09-21T08:05:36.2638085+00:00"
 }

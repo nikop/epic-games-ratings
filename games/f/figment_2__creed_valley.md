@@ -8,10 +8,12 @@
 | Ouch, that hurt! | 25.00% | ~2 |
 | Black Hog Down | 25.00% | ~2 |
 | Slam-KABAM | 13.00% | ~1 |
+| Heavy Thoughts | 13.00% | ~1 |
+| A heavy thinker | 13.00% | ~1 |
 | Fight like an idiot | 13.00% | ~1 |
-| Heavy Thoughts | 0.00% | ~0 |
+| Flee like an idiot | 13.00% | ~1 |
+| Elementary, My Dear Dusty | 13.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |
-| A heavy thinker | 0.00% | ~0 |
 | Whac-a-worker | 0.00% | ~0 |
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | GOAAAAAAAAAL! | 0.00% | ~0 |
@@ -20,8 +22,6 @@
 | Dance like an idiot | 0.00% | ~0 |
 | I'm Back at the Surface now | 0.00% | ~0 |
 | Repair the Mind Validation Machine | 0.00% | ~0 |
-| Flee like an idiot | 0.00% | ~0 |
-| Elementary, My Dear Dusty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 280)  
