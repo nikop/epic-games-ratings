@@ -3,9 +3,9 @@
   "Name": "Super Adventure Hand",
   "ProductSlug": "super-adventure-hand-62ec9a",
   "Ranking_EOS_Progress": 532,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
     "PcReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -175,8 +175,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:08:41.4488523+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:07:46.0050735+00:00",
   "LastUpdate_AppInfo": "2023-09-20T02:12:43.59716+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:03:08.1081998+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:08:41.4488661+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:03:18.3848355+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:07:46.0050929+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~45,274 |
+| Setting an example | 78.00% | ~45,862 |
 | Worth it | 63.00% | ~37,042 |
 | Eagle Eye | 55.00% | ~32,338 |
 | Corpseman I | 40.00% | ~23,519 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Blood Brother | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 58,797 (Ranked 90)  
-Completed: 4 (0.01%) (Ranked 265)  
+Completed: 4 (0.01%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

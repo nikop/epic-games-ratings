@@ -3,9 +3,9 @@
   "Name": "Water 2050",
   "ProductSlug": "water-2050-e58e54",
   "Ranking_EOS_Progress": 618,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-27T10:00:00+00:00",
     "PcReleaseDate": "2023-03-16T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-24T14:58:23.8244274+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.7051297+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:00:15.8299322+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:05:47.0812952+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:59:46.1252153+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:05:17.4713658+00:00"
 }

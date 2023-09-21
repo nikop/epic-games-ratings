@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 18,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735966,
+  "EOS_Progressed": 735967,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2219,
+  "EOS_NewPlayers": 2212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17581,6 +17581,11 @@
       "Time": "2023-09-21T08:07:38.5488625+00:00",
       "NumProgressed": 735966,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-21T09:06:52.9215347+00:00",
+      "NumProgressed": 735967,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 27,
@@ -17656,7 +17661,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 272307
+      "UsersEstimate": 272308
     },
     {
       "ID": "ach_demolish_trees",
@@ -17807,7 +17812,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 735966,
+      "Progressed": 735967,
       "Completed": 3
     }
   ],
@@ -17815,8 +17820,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-09-10T12:00:55.773679+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:07:38.5488617+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:06:52.9215337+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:01.4209619+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:01:25.7711195+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:07:38.5489848+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:00:48.0458567+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:06:52.9218407+00:00"
 }

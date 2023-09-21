@@ -48,13 +48,13 @@ Number of Ratings: 46  (23.09.2022)
 | Kin | 0.10% | ~149 |
 | Listen | 0.10% | ~149 |
 | Proportions | 0.10% | ~150 |
+| Touch of Otherwhere | 0.10% | ~149 |
 | The Nightmare | 0.00% | ~0 |
-| Touch of Otherwhere | 0.00% | ~0 |
 | Enrich | 0.00% | ~0 |
 | Intensify | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149,633 (Ranked 67)  
-Completed: 1 (0.00%) (Ranked 280)  
+Completed: 1 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

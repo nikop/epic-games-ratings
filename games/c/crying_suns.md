@@ -87,7 +87,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 467,690 (Ranked 37)  
-Completed: 18 (0.00%) (Ranked 280)  
+Completed: 18 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

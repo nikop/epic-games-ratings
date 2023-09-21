@@ -348,6 +348,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.10% | ~196 |
 | Dream Gauntlet | 0.10% | ~196 |
 | Zombie Dreams | 0.10% | ~196 |
+| Look Out! | 0.10% | ~196 |
 | The Path of Dreams | 0.10% | ~196 |
 | The Path of Redcaps | 0.10% | ~196 |
 | The Path of Trials | 0.10% | ~196 |
@@ -453,6 +454,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Volo's Guide to Kuo-toa | 0.10% | ~196 |
 | Ending the Rime - Part 1 | 0.10% | ~196 |
 | Ambitious Speakers - Part 1 | 0.10% | ~196 |
+| Shady Sidekicks - Part 1 | 0.10% | ~196 |
 | Ending the Rime - Part 2 | 0.10% | ~196 |
 | Ambitious Speakers - Part 2 | 0.10% | ~196 |
 | Shady Sidekicks - Part 2 | 0.10% | ~196 |
@@ -523,16 +525,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
-| Look Out! | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
-| Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,528 (Ranked 57)  
-Completed: 2,295 (1.00%) (Ranked 127)  
+Progressed: 229,530 (Ranked 57)  
+Completed: 2,296 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -685,7 +685,7 @@ Completed: 2,295 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,528 | 2,295 |
+| 2023-09-21 | 229,530 | 2,296 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,663 (Ranked 39)  

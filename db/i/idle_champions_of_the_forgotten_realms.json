@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6784,10 +6784,10 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229528,
-  "EOS_Completed": 2295,
-  "EOS_NewPlayers": 818,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 229530,
+  "EOS_Completed": 2296,
+  "EOS_NewPlayers": 816,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23844,6 +23844,11 @@
       "Time": "2023-09-21T08:04:49.6748943+00:00",
       "NumProgressed": 229528,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-21T09:04:28.8254789+00:00",
+      "NumProgressed": 229530,
+      "NumCompleted": 2296
     }
   ],
   "TotalAchievements": 524,
@@ -26677,9 +26682,9 @@
       "ID": "objective_completed_638",
       "SetID": "415jc5c",
       "Name": "Look Out!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_640",
@@ -27541,9 +27546,9 @@
       "ID": "objective_completed_889",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_892",
@@ -28046,21 +28051,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195802,
-      "Completed": 3453
+      "Progressed": 195804,
+      "Completed": 3454
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229528,
-      "Completed": 2295
+      "Progressed": 229530,
+      "Completed": 2296
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-21T03:58:46.2005907+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:04:49.674893+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:04:28.8254785+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:00:08.4686493+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:04:49.6789727+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:59:39.6003428+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:04:28.8292945+00:00"
 }

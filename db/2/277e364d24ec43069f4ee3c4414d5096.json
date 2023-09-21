@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108450,
+  "EOS_Progressed": 108451,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 844,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11626,6 +11626,11 @@
       "Time": "2023-09-21T08:05:52.0109762+00:00",
       "NumProgressed": 108450,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-21T09:05:21.5940948+00:00",
+      "NumProgressed": 108451,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -11645,7 +11650,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 82422
+      "UsersEstimate": 82423
     },
     {
       "ID": "EAwards_10",
@@ -11685,7 +11690,7 @@
       "Name": "6-Piece Combo",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "EAwards_15",
@@ -11717,7 +11722,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9760
+      "UsersEstimate": 9761
     },
     {
       "ID": "EAwards_19",
@@ -11797,7 +11802,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9760
+      "UsersEstimate": 9761
     },
     {
       "ID": "EAwards_28",
@@ -11989,7 +11994,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9760
+      "UsersEstimate": 9761
     },
     {
       "ID": "EAwards_6",
@@ -12028,7 +12033,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 108450,
+      "Progressed": 108451,
       "Completed": 42
     }
   ],
@@ -12036,8 +12041,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:05:52.0109752+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:05:21.5940943+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:10.7751349+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:57:49.9522136+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:05:52.0111289+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:57:38.983459+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:05:21.5943038+00:00"
 }

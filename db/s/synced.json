@@ -6,9 +6,9 @@
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 11,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -234,9 +234,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 54341,
+  "EOS_Progressed": 54350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13939,
+  "EOS_NewPlayers": 13858,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1909,6 +1909,11 @@
       "Time": "2023-09-21T08:07:40.4054828+00:00",
       "NumProgressed": 54341,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T09:06:54.5843538+00:00",
+      "NumProgressed": 54350,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1921,7 +1926,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 6521
+      "UsersEstimate": 6522
     },
     {
       "ID": "10",
@@ -1937,7 +1942,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "12",
@@ -1945,7 +1950,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "13",
@@ -1985,7 +1990,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "3",
@@ -1993,7 +1998,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "4",
@@ -2001,7 +2006,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "5",
@@ -2048,7 +2053,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 54341,
+      "Progressed": 54350,
       "Completed": 0
     }
   ],
@@ -2056,8 +2061,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-21T03:58:52.5407526+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:07:40.4054822+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:06:54.5843533+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.1772616+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:00:16.8077681+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:07:40.4055273+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:59:46.9349359+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:06:54.5843892+00:00"
 }

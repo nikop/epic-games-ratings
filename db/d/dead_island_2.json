@@ -6,7 +6,7 @@
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -4692,9 +4692,9 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 683465,
+  "EOS_Progressed": 683472,
   "EOS_Completed": 2158,
-  "EOS_NewPlayers": 4010,
+  "EOS_NewPlayers": 4002,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -21987,6 +21987,11 @@
       "Time": "2023-09-21T08:07:07.4880934+00:00",
       "NumProgressed": 683465,
       "NumCompleted": 2158
+    },
+    {
+      "Time": "2023-09-21T09:06:26.1838533+00:00",
+      "NumProgressed": 683472,
+      "NumCompleted": 2158
     }
   ],
   "TotalAchievements": 45,
@@ -22228,9 +22233,9 @@
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6835
+      "UsersEstimate": 13669
     },
     {
       "ID": "ach_mind_over_monster",
@@ -22357,22 +22362,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 683465,
+      "Progressed": 683472,
       "Completed": 2158
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 9006,
-      "Completed": 9006
+      "Progressed": 9013,
+      "Completed": 9013
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-21T01:40:37.1420589+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:07:07.4880927+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:06:26.1838528+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:00:58.4709347+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:07:07.4882637+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:00:26.2663426+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:06:26.1840499+00:00"
 }

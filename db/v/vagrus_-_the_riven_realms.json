@@ -3,9 +3,9 @@
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "ID": "Vanilla_YrgPropagation",
       "SetID": "27kik8p",
       "Name": "Insectoid Propagator",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -1343,8 +1343,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:04:26.7768775+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:04:09.1888071+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.3873754+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:01:28.1096941+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:04:26.7770208+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:00:50.4043272+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:04:09.1890394+00:00"
 }

@@ -17,6 +17,7 @@ Rating: 4.54 (Ranked 505)
 | Friends Like These | 2.00% | ~13,669 |
 | Hotel California | 2.00% | ~13,669 |
 | Apex Predator | 2.00% | ~13,669 |
+| A Patton Emerges | 2.00% | ~13,669 |
 | Stacking the Deck | 2.00% | ~13,669 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,669 |
 | This is My Weapon | 2.00% | ~13,669 |
@@ -28,7 +29,6 @@ Rating: 4.54 (Ranked 505)
 | Slayer Squad | 1.00% | ~6,835 |
 | Zombologist | 1.00% | ~6,835 |
 | Ooh, Shiny! | 1.00% | ~6,835 |
-| A Patton Emerges | 1.00% | ~6,835 |
 | Humanity Distilled | 1.00% | ~6,835 |
 | I Am the Resurrection | 1.00% | ~6,835 |
 | Our True Nature | 1.00% | ~6,835 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,465 (Ranked 22)  
-Completed: 2,158 (0.32%) (Ranked 179)  
+Progressed: 683,472 (Ranked 22)  
+Completed: 2,158 (0.32%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,7 +205,7 @@ Completed: 2,158 (0.32%) (Ranked 179)
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
-| 2023-09-21 | 683,465 | 2,158 |
+| 2023-09-21 | 683,472 | 2,158 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,096 (Ranked 93)  

@@ -3,9 +3,9 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -2761,9 +2761,9 @@
       "ID": "First",
       "SetID": "1e89b4i",
       "Name": "Game Started",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 109
     },
     {
       "ID": "FullCompletion",
@@ -3008,8 +3008,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:05:03.6775936+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:04:40.3655976+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:48.9786266+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:58:37.3213584+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:05:03.6776418+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:58:20.8643707+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:04:40.3656806+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11136,
+  "EOS_Progressed": 11139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6044,6 +6044,11 @@
       "Time": "2023-09-21T08:09:35.2640999+00:00",
       "NumProgressed": 11136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T09:09:11.5677279+00:00",
+      "NumProgressed": 11139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6096,7 +6101,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "15",
@@ -6104,7 +6109,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2895
+      "UsersEstimate": 2896
     },
     {
       "ID": "16",
@@ -6120,7 +6125,7 @@
       "Name": "Spore Taste",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "18",
@@ -6160,7 +6165,7 @@
       "Name": "Drone Dodger",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "22",
@@ -6182,9 +6187,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 89
     },
     {
       "ID": "25",
@@ -6238,9 +6243,9 @@
       "ID": "30",
       "SetID": "458bbdk",
       "Name": "No Belter Left Behind",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 56
     },
     {
       "ID": "4",
@@ -6264,7 +6269,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "7",
@@ -6288,14 +6293,14 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 11136,
+      "Progressed": 11139,
       "Completed": 0
     }
   ],
@@ -6303,8 +6308,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-21T03:59:46.2286867+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:09:35.2640991+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:09:11.5677274+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:01:37.389114+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:09:35.2641783+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:00:58.2989903+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:09:11.5678321+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1301,9 +1301,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128392,
+  "EOS_Progressed": 128395,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16651,6 +16651,11 @@
       "Time": "2023-09-21T08:09:21.1462426+00:00",
       "NumProgressed": 128392,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-21T09:08:29.734542+00:00",
+      "NumProgressed": 128395,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16710,7 +16715,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11555
+      "UsersEstimate": 11556
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -16718,7 +16723,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30814
+      "UsersEstimate": 30815
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -16726,7 +16731,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10271
+      "UsersEstimate": 10272
     },
     {
       "ID": "ACH_COP_DORK",
@@ -16742,7 +16747,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35950
+      "UsersEstimate": 35951
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16774,7 +16779,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25678
+      "UsersEstimate": 25679
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -16822,7 +16827,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11555
+      "UsersEstimate": 11556
     },
     {
       "ID": "ACH_GLUTEN",
@@ -16981,15 +16986,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128392,
+      "Progressed": 128395,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-15T22:59:32.9375914+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:09:21.1462415+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:08:29.7345415+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:02:01.4856725+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:09:21.1464794+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:01:16.9804356+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:08:29.7347646+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.25 (Ranked 837)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 48.00% | ~353,264 |
-| Well educated | 37.00% | ~272,307 |
+| Well educated | 37.00% | ~272,308 |
 | City Planner | 19.00% | ~139,834 |
 | Deforester | 17.00% | ~125,114 |
 | Big Hauling | 16.00% | ~117,755 |
@@ -33,8 +33,8 @@ Rating: 4.25 (Ranked 837)
 | Master Builder | 0.10% | ~736 |
 | Hard working | 0.10% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,966 (Ranked 18)  
-Completed: 3 (0.00%) (Ranked 280)  
+Progressed: 735,967 (Ranked 18)  
+Completed: 3 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 3 (0.00%) (Ranked 280)
 | 2023-09-18 | 735,398 | 3 |
 | 2023-09-19 | 735,652 | 3 |
 | 2023-09-20 | 735,905 | 3 |
-| 2023-09-21 | 735,966 | 3 |
+| 2023-09-21 | 735,967 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

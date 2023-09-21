@@ -39,6 +39,7 @@
 | Life... Finds a Way | 3.00% | ~5 |
 | Merchant | 3.00% | ~5 |
 | Unseen Patterns | 3.00% | ~5 |
+| Insectoid Propagator | 3.00% | ~5 |
 | Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
@@ -48,7 +49,6 @@
 | A Real Battle | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
 | Merchant Lord | 2.00% | ~3 |
-| Insectoid Propagator | 2.00% | ~3 |
 | Watcher | 1.00% | ~2 |
 | Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 337)  
-Completed: 0 (0.00%) (Ranked 280)  
+Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

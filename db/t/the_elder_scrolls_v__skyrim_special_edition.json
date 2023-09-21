@@ -4,11 +4,11 @@
   "ProductSlug": "skyrim",
   "Ranking_Rating": 31,
   "Ranking_Popularity": 128,
-  "Ranking_PopularitySum": 162,
+  "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 618,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-06T14:00:00+00:00",
     "PcReleaseDate": "2016-10-28T17:56:00+00:00",
@@ -2386,10 +2386,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 3198,
       "NumberOfAwardsMax": 1437
+    },
+    {
+      "Time": "2023-09-21T08:59:18.6703115+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 3200,
+      "NumberOfAwardsMax": 1437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3198,
+  "NumberOfAwards": 3200,
   "NumberOfAwardsMax": 1437,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2445,7 +2451,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 174
+      "Count": 176
     },
     {
       "Text": "This game has a Creative Community",
@@ -2466,8 +2472,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-09-20T23:58:29.6736082+00:00",
+  "LastChanged": "2023-09-21T08:59:18.6703113+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:17.9213831+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:59:44.3458173+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:03:14.9295485+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:59:18.670312+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:03:24.5205358+00:00"
 }

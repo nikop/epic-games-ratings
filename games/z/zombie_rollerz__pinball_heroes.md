@@ -30,11 +30,11 @@ Rating: 4.30 (Ranked 801)
 | Untouchable | 21.00% | ~34 |
 | The Blacksmith | 17.00% | ~27 |
 | The Flower | 17.00% | ~27 |
+| The Giant | 17.00% | ~27 |
 | Out of the Frying Pan... | 17.00% | ~27 |
-| The Giant | 16.00% | ~26 |
 | The Ooze | 16.00% | ~26 |
 | Ember | 16.00% | ~26 |
-| The Assistant | 14.00% | ~22 |
+| The Assistant | 15.00% | ~24 |
 | Turquoise | 14.00% | ~22 |
 | The Steampunk | 13.00% | ~21 |
 | The Droid | 11.00% | ~18 |
@@ -80,7 +80,7 @@ Rating: 4.30 (Ranked 801)
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 160 (Ranked 336)  
-Completed: 1 (0.62%) (Ranked 144)  
+Completed: 1 (0.62%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

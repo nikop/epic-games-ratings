@@ -5,10 +5,10 @@
   "Ranking_Rating": 395,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Progress": 224,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2230,6 +2230,11 @@
       "Time": "2023-09-20T16:04:00.5537003+00:00",
       "NumProgressed": 882,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-21T09:04:18.5626348+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2265,7 +2270,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2433,7 +2438,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "MapCompletion1",
@@ -2521,7 +2526,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "RewindDamage1",
@@ -2617,7 +2622,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "WarwickDefeated",
@@ -2649,7 +2654,7 @@
       "Name": "The Brass Boss",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2664,7 +2669,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 5
     }
   ],
@@ -2672,8 +2677,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:04:37.8681731+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:04:18.5626343+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:02:25.1503726+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:04:37.8682328+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:01:38.8030977+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:04:18.5627403+00:00"
 }

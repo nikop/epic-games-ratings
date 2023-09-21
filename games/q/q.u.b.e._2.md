@@ -11,7 +11,7 @@ Number of Ratings: 94  (23.09.2022)
 | Nature or Nurture | 50.00% | ~196 |
 | Power Glove | 49.00% | ~193 |
 | Forgotten Memories | 48.00% | ~189 |
-| Cogs in the Machine | 42.00% | ~165 |
+| Cogs in the Machine | 43.00% | ~169 |
 | Mission Success | 26.00% | ~102 |
 | There's No Place Like Home | 23.00% | ~90 |
 | Green Cube Killer | 21.00% | ~83 |
@@ -37,7 +37,7 @@ Number of Ratings: 94  (23.09.2022)
 | Laser Sharp | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 393 (Ranked 272)  
-Completed: 1 (0.25%) (Ranked 190)  
+Completed: 1 (0.25%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

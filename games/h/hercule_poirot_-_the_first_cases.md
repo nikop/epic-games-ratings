@@ -31,7 +31,7 @@ Rating: 4.35 (Ranked 760)
 | Gedeon Demir | 35.00% | ~149 |
 | Rehana Piette | 34.00% | ~145 |
 | Instinct is Marvellous | 33.00% | ~141 |
-| Ernesto da Silva | 32.00% | ~137 |
+| Ernesto da Silva | 33.00% | ~141 |
 | Inge Frank | 31.00% | ~132 |
 | Hugo Beckers | 30.00% | ~128 |
 | The Search | 30.00% | ~128 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -110,9 +110,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76533,
+  "EOS_Progressed": 76544,
   "EOS_Completed": 189,
-  "EOS_NewPlayers": 2155,
+  "EOS_NewPlayers": 2161,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -4410,6 +4410,11 @@
       "Time": "2023-09-21T08:07:34.5999752+00:00",
       "NumProgressed": 76533,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2023-09-21T09:06:49.6735862+00:00",
+      "NumProgressed": 76544,
+      "NumCompleted": 189
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -4422,7 +4427,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 61226
+      "UsersEstimate": 61235
     },
     {
       "ID": "grp_beet",
@@ -4430,7 +4435,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 15307
+      "UsersEstimate": 15309
     },
     {
       "ID": "grp_collect_ruby",
@@ -4438,7 +4443,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 58930
+      "UsersEstimate": 58939
     },
     {
       "ID": "grp_endless",
@@ -4446,7 +4451,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 26787
+      "UsersEstimate": 26790
     },
     {
       "ID": "grp_finallevel",
@@ -4462,7 +4467,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 19133
+      "UsersEstimate": 19136
     },
     {
       "ID": "grp_level10",
@@ -4510,7 +4515,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 40562
+      "UsersEstimate": 40568
     },
     {
       "ID": "grp_money_tree",
@@ -4518,7 +4523,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 55869
+      "UsersEstimate": 55877
     },
     {
       "ID": "grp_speed",
@@ -4526,7 +4531,7 @@
       "Name": "As the dodo flies",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 35205
+      "UsersEstimate": 35210
     },
     {
       "ID": "grp_stone",
@@ -4534,7 +4539,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7653
+      "UsersEstimate": 7654
     },
     {
       "ID": "grp_store_ftux",
@@ -4542,7 +4547,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 32909
+      "UsersEstimate": 32914
     },
     {
       "ID": "grp_weekly_beaten",
@@ -4550,14 +4555,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 6888
+      "UsersEstimate": 6889
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 76533,
+      "Progressed": 76544,
       "Completed": 189
     }
   ],
@@ -4565,8 +4570,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-09-19T14:57:18.1638398+00:00",
-  "LastChanged_Achievements": "2023-09-21T08:07:34.5999745+00:00",
+  "LastChanged_Achievements": "2023-09-21T09:06:49.6735858+00:00",
   "LastUpdate_AppInfo": "2023-09-14T10:57:13.7014819+00:00",
-  "LastUpdate_Ratings": "2023-09-21T07:58:28.1607131+00:00",
-  "LastUpdate_Achievements": "2023-09-21T08:07:34.6000211+00:00"
+  "LastUpdate_Ratings": "2023-09-21T08:58:13.1342141+00:00",
+  "LastUpdate_Achievements": "2023-09-21T09:06:49.6736514+00:00"
 }
