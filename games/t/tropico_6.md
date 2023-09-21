@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,940 |
-| Un-Lonely Island | 47.00% | ~2,469 |
-| The Beginning of a Servantship | 45.00% | ~2,364 |
+| Just One...More...Term... | 75.00% | ~3,941 |
+| Un-Lonely Island | 47.00% | ~2,470 |
+| The Beginning of a Servantship | 45.00% | ~2,365 |
 | Trade Is My Trait | 37.00% | ~1,944 |
 | Number 18 | 24.00% | ~1,261 |
 | We Don't Have Time For That | 19.00% | ~998 |
@@ -18,18 +18,18 @@ Number of Ratings: 398  (23.09.2022)
 | The Dreamer of Dreams | 16.00% | ~841 |
 | Go Sovereigns! | 11.00% | ~578 |
 | For Science! | 11.00% | ~578 |
-| Happy Ending? | 10.00% | ~525 |
-| Of Seals And Men | 10.00% | ~525 |
-| Shackadelic | 10.00% | ~525 |
+| Happy Ending? | 10.00% | ~526 |
+| Of Seals And Men | 10.00% | ~526 |
+| Shackadelic | 10.00% | ~526 |
 | Double Trouble | 8.00% | ~420 |
 | Firestarter | 8.00% | ~420 |
 | I Owe You Nothing | 7.00% | ~368 |
 | Make Tropico Great Again! | 7.00% | ~368 |
 | French Connection | 7.00% | ~368 |
 | Don't Panic! | 6.00% | ~315 |
-| Computer Says "No" | 6.00% | ~315 |
 | Beware The Betman | 6.00% | ~315 |
 | Viva Tropico! | 5.00% | ~263 |
+| Computer Says "No" | 5.00% | ~263 |
 | Watch The World Burn | 5.00% | ~263 |
 | Fairy Tale Come True | 5.00% | ~263 |
 | Apocalypso | 4.00% | ~210 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~47 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,254 (Ranked 152)  
+Progressed: 5,255 (Ranked 153)  
 Completed: 2 (0.04%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2 (0.04%) (Ranked 249)
 | 2023-09-18 | 5,199 | 2 |
 | 2023-09-19 | 5,215 | 2 |
 | 2023-09-20 | 5,235 | 2 |
-| 2023-09-21 | 5,254 | 2 |
+| 2023-09-21 | 5,255 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 342)  
 Sum: 687 (Ranked 281)  

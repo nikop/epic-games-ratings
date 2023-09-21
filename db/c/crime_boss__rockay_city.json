@@ -3618,9 +3618,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88011,
+  "EOS_Progressed": 88015,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19608,6 +19608,11 @@
       "Time": "2023-09-21T21:02:16.7176868+00:00",
       "NumProgressed": 88011,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-21T22:03:38.490017+00:00",
+      "NumProgressed": 88015,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19625,9 +19630,9 @@
       "ID": "ACH_0011",
       "SetID": "3kam13l",
       "Name": "Underworld Initiate",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_0012",
@@ -19769,9 +19774,9 @@
       "ID": "ACH_0210",
       "SetID": "3kam13l",
       "Name": "Downed but Not Outed",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_0211",
@@ -19946,13 +19951,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88011,
+      "Progressed": 88015,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16358,
+      "Progressed": 16362,
       "Completed": 15525
     }
   ],
@@ -19960,8 +19965,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-21T13:57:06.9753642+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:02:16.7176863+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:03:38.4900164+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:56:57.8068825+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:02:16.7178227+00:00"
+  "LastUpdate_Ratings": "2023-09-21T21:57:10.0549437+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:03:38.4901198+00:00"
 }

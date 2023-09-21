@@ -2,9 +2,9 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 387,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -371,6 +371,11 @@
       "Time": "2023-09-21T05:03:24.1922683+00:00",
       "NumProgressed": 84,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-21T22:04:33.9911943+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -383,7 +388,7 @@
       "Name": "Under the Bridge",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "1_50_SECRET",
@@ -494,14 +499,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:03:44.4202558+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:04:33.9911938+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:10.7476581+00:00",
-  "LastUpdate_Ratings": "2023-09-21T21:00:07.305712+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:03:44.4202723+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:01:04.3465742+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:04:33.9912043+00:00"
 }

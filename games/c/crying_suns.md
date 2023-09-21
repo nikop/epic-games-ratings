@@ -1,16 +1,16 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 568)  
+Rating: 4.50 (Ranked 567)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,696 |
-| Jeef Skeejj | 44.00% | ~205,797 |
-| Careful planning | 39.00% | ~182,411 |
+| The Shutdown | 66.00% | ~308,697 |
+| Jeef Skeejj | 44.00% | ~205,798 |
+| Careful planning | 39.00% | ~182,412 |
 | Second Coming | 33.00% | ~154,348 |
-| Jeef Skagg | 30.00% | ~140,316 |
+| Jeef Skagg | 30.00% | ~140,317 |
 | Mother | 25.00% | ~116,930 |
 | In space, no one can hear you scream | 24.00% | ~112,253 |
 | Chapter I: Echoes | 22.00% | ~102,899 |
@@ -28,9 +28,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,418 |
 | Back to Ganyma | 8.00% | ~37,418 |
 | Kaos Rule | 8.00% | ~37,418 |
-| Admiral Okonkwo | 7.00% | ~32,740 |
-| The Survivalists | 7.00% | ~32,740 |
-| The Tech Specialist | 7.00% | ~32,740 |
+| Admiral Okonkwo | 7.00% | ~32,741 |
+| The Survivalists | 7.00% | ~32,741 |
+| The Tech Specialist | 7.00% | ~32,741 |
 | Chapter V: Memories of None | 6.00% | ~28,063 |
 | Meet your maker | 6.00% | ~28,063 |
 | The Impersonator | 6.00% | ~28,063 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,721 (Ranked 37)  
+Progressed: 467,722 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 18 (0.00%) (Ranked 283)
 | 2023-09-18 | 467,574 | 18 |
 | 2023-09-19 | 467,629 | 18 |
 | 2023-09-20 | 467,678 | 18 |
-| 2023-09-21 | 467,721 | 18 |
+| 2023-09-21 | 467,722 | 18 |
 ## Awards
 Max (Character Customization): 219  (Ranked 268)  
 Sum: 239 (Ranked 361)  

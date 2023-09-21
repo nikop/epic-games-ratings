@@ -5,9 +5,9 @@
   "Ranking_Rating": 350,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 124,
-  "Ranking_EOS_Progress": 627,
+  "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -6836,10 +6836,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 5860,
       "NumberOfAwardsMax": 997
+    },
+    {
+      "Time": "2023-09-21T22:03:23.8249819+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 5869,
+      "NumberOfAwardsMax": 997
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5860,
+  "NumberOfAwards": 5869,
   "NumberOfAwardsMax": 997,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6859,7 +6865,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 816
+      "Count": 823
     },
     {
       "Text": "This game has a Creative Community",
@@ -6883,7 +6889,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 461
+      "Count": 463
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6930,9 +6936,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-09-21T21:02:06.873267+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:05:49.283402+00:00",
+  "LastChanged": "2023-09-21T22:03:23.8249818+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:07:03.8455135+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:36.9022097+00:00",
-  "LastUpdate_Ratings": "2023-09-21T21:02:06.8732682+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:05:49.2834075+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:03:23.8249823+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:07:03.8455162+00:00"
 }

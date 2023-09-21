@@ -6,30 +6,30 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~34,283 |
-| Blood Moon | 73.00% | ~29,443 |
+| Improvement | 85.00% | ~34,284 |
+| Blood Moon | 73.00% | ~29,444 |
 | Path of the Necromancer | 66.00% | ~26,620 |
 | Chainbreaker - I | 60.00% | ~24,200 |
 | Cursed Creature | 57.00% | ~22,990 |
 | Extraction | 57.00% | ~22,990 |
-| Chainbreaker - II | 55.00% | ~22,183 |
+| Chainbreaker - II | 55.00% | ~22,184 |
 | Necromancer's Apprentice | 51.00% | ~20,570 |
 | Keeper of Keys | 47.00% | ~18,957 |
-| Distillation | 43.00% | ~17,343 |
+| Distillation | 43.00% | ~17,344 |
 | Mountain King - I | 42.00% | ~16,940 |
 | Transmutation | 42.00% | ~16,940 |
-| Prepared Necromancer | 40.00% | ~16,133 |
+| Prepared Necromancer | 40.00% | ~16,134 |
 | Mountain King - II | 39.00% | ~15,730 |
 | Blind Rage | 38.00% | ~15,327 |
 | Mad Genius | 35.00% | ~14,117 |
-| Cannon Fodder - I | 34.00% | ~13,713 |
-| Soul of Lies | 34.00% | ~13,713 |
+| Cannon Fodder - I | 34.00% | ~13,714 |
+| Soul of Lies | 34.00% | ~13,714 |
 | Bane of Mercenaries - I | 33.00% | ~13,310 |
-| Bane of Mercenaries - II | 31.00% | ~12,503 |
+| Bane of Mercenaries - II | 31.00% | ~12,504 |
 | Shadow Between Worlds | 30.00% | ~12,100 |
 | Cannon Fodder - II | 29.00% | ~11,697 |
-| Bane of Monsters | 28.00% | ~11,293 |
-| Chainbreaker - III | 28.00% | ~11,293 |
+| Bane of Monsters | 28.00% | ~11,294 |
+| Chainbreaker - III | 28.00% | ~11,294 |
 | Revealed Secrets - I | 27.00% | ~10,890 |
 | Revealed Secrets - II | 26.00% | ~10,487 |
 | Unholy Bones | 24.00% | ~9,680 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~202 |
 | Renowned Researcher | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,333 (Ranked 98)  
+Progressed: 40,334 (Ranked 98)  
 Completed: 23 (0.06%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 23 (0.06%) (Ranked 241)
 | 2023-09-18 | 40,135 | 23 |
 | 2023-09-19 | 40,197 | 23 |
 | 2023-09-20 | 40,276 | 23 |
-| 2023-09-21 | 40,333 | 23 |
+| 2023-09-21 | 40,334 | 23 |
 ## Awards
 Max (Character Customization): 2,149  (Ranked 108)  
 Sum: 4,169 (Ranked 144)  

@@ -4654,10 +4654,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9118,
       "NumberOfAwardsMax": 6140
+    },
+    {
+      "Time": "2023-09-21T22:00:28.5992474+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9122,
+      "NumberOfAwardsMax": 6140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9118,
+  "NumberOfAwards": 9122,
   "NumberOfAwardsMax": 6140,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4677,7 +4683,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 396
+      "Count": 400
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4716,9 +4722,9 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 683829,
+  "EOS_Progressed": 683850,
   "EOS_Completed": 2163,
-  "EOS_NewPlayers": 4024,
+  "EOS_NewPlayers": 4034,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22076,6 +22082,11 @@
       "Time": "2023-09-21T21:05:31.9433077+00:00",
       "NumProgressed": 683829,
       "NumCompleted": 2163
+    },
+    {
+      "Time": "2023-09-21T22:06:42.3828636+00:00",
+      "NumProgressed": 683850,
+      "NumCompleted": 2163
     }
   ],
   "TotalAchievements": 45,
@@ -22127,7 +22138,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ach_blueprinted",
@@ -22271,7 +22282,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -22311,7 +22322,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ach_metropolitan",
@@ -22351,7 +22362,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ach_skilled_up",
@@ -22446,22 +22457,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 683829,
+      "Progressed": 683850,
       "Completed": 2163
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 9370,
-      "Completed": 9370
+      "Progressed": 9391,
+      "Completed": 9391
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-21T19:00:50.916719+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:05:31.9433069+00:00",
+  "LastChanged": "2023-09-21T22:00:28.5992473+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:06:42.3828629+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:59:39.0039212+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:05:31.9434584+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:00:28.5992479+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:06:42.3829801+00:00"
 }

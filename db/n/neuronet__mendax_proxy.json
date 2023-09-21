@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -248,9 +248,9 @@
       "ID": "COULDNT_HAVE_PLANNED_IT_BETTER_MYSELF",
       "SetID": "2d85n75",
       "Name": "Couldn\u0027t Have Planned It Better Myself",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DOUBLE_AGENT",
@@ -512,9 +512,9 @@
       "ID": "VACCINATED",
       "SetID": "2d85n75",
       "Name": "Vaccinated",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WARNING_FRAGILE",
@@ -561,8 +561,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:03:58.828625+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:04:51.1411844+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:29.9468853+00:00",
-  "LastUpdate_Ratings": "2023-09-21T21:00:27.0994354+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:03:58.8286727+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:01:28.6607614+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:04:51.1412173+00:00"
 }

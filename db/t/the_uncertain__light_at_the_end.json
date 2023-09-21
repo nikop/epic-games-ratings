@@ -5,8 +5,8 @@
   "Ranking_Rating": 976,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -840,9 +840,9 @@
       "ID": "MISSING_DATA",
       "SetID": "ek310c",
       "Name": "Does Not Compute",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "Misanthrope",
@@ -945,8 +945,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:02:22.6318785+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:03:45.5996424+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:16.5027878+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:57:35.065881+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:02:22.6319045+00:00"
+  "LastUpdate_Ratings": "2023-09-21T21:57:54.9290582+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:03:45.5996622+00:00"
 }

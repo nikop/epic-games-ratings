@@ -2,9 +2,9 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -441,6 +441,11 @@
       "Time": "2023-09-20T23:04:54.2084274+00:00",
       "NumProgressed": 100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T22:06:14.1926851+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 82,
@@ -484,13 +489,13 @@
       "Name": "That\u0027s what cheese said!",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "CHEESE_2",
       "SetID": "9gfkh7c",
       "Name": "Oh, you\u0027re up to no gouda!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 63
     },
@@ -658,7 +663,7 @@
       "ID": "DODGE_1",
       "SetID": "9gfkh7c",
       "Name": "Rolling, Rolling, Rolling",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 73
     },
@@ -706,7 +711,7 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -740,13 +745,13 @@
       "Name": "AHHHHHH.....I\u0027M ON FIRE!!!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 67
     },
@@ -762,7 +767,7 @@
       "ID": "FUNGOID_1",
       "SetID": "9gfkh7c",
       "Name": "Mushroom soup of the day",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -788,7 +793,7 @@
       "Name": "Tastes just like chicken!",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "GNOME_2",
@@ -818,7 +823,7 @@
       "ID": "GRENADIER_2",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not going to blow me up!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -892,7 +897,7 @@
       "Name": "Up and down",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "JUMP_2",
@@ -980,7 +985,7 @@
       "Name": "Not so hip anymore!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ORC_LOOT",
@@ -996,7 +1001,7 @@
       "Name": "MLG 360 no scope kill!",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ORC_WARMAIDEN_1",
@@ -1004,7 +1009,7 @@
       "Name": "I like you...but I have to kill you...",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "OTHER_1",
@@ -1012,7 +1017,7 @@
       "Name": "Nerd",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "OTHER_2",
@@ -1026,7 +1031,7 @@
       "ID": "OTHER_3",
       "SetID": "9gfkh7c",
       "Name": "Make Love not War-Craft a Mistlefoe",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 60
     },
@@ -1050,7 +1055,7 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 60
     },
@@ -1058,7 +1063,7 @@
       "ID": "SKELETON_1",
       "SetID": "9gfkh7c",
       "Name": "Spare Ribs",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -1068,15 +1073,15 @@
       "Name": "Blurry depth perception",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WEAPON_1",
       "SetID": "9gfkh7c",
       "Name": "Cockadoodledoo!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "WEAPON_2",
@@ -1084,7 +1089,7 @@
       "Name": "Are you ready to rumble?",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "WHOOPASS_1",
@@ -1107,14 +1112,14 @@
     {
       "ID": "9gfkh7c",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:05:08.3643606+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:06:14.1926846+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:16.5517431+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:58:44.1302719+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:05:08.3644695+00:00"
+  "LastUpdate_Ratings": "2023-09-21T21:59:19.4041571+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:06:14.1927612+00:00"
 }

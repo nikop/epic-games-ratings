@@ -21,19 +21,19 @@
 | Coda Cave Glyph | 0.60% | ~5 |
 | Silent City Glyph | 0.50% | ~4 |
 | Symphony | 0.20% | ~2 |
-| Musica Universalis | 0.10% | ~1 |
+| Musica Universalis | 0.20% | ~2 |
+| Fugue Forest Glyph | 0.20% | ~2 |
 | Consonance | 0.10% | ~1 |
 | Dissonance | 0.10% | ~1 |
 | Resonance | 0.10% | ~1 |
 | Tritone | 0.10% | ~1 |
 | Duet Desert Glyph | 0.10% | ~1 |
-| Fugue Forest Glyph | 0.10% | ~1 |
 | Solo Sea Glyph | 0.10% | ~1 |
 | Silent City: Reprise Glyph | 0.10% | ~1 |
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802 (Ranked 232)  
+Progressed: 802 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,28 +6,28 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~28,296 |
-| Final touch | 37.00% | ~28,296 |
-| Prop-M Rover | 32.00% | ~24,472 |
-| Changing the Planet | 28.00% | ~21,413 |
-| Sojourner | 26.00% | ~19,884 |
-| Beagle 2 | 24.00% | ~18,354 |
-| New Home | 23.00% | ~17,589 |
-| Winner Winner Terraformer | 22.00% | ~16,824 |
-| Project Manager | 19.00% | ~14,530 |
-| Curiosity | 19.00% | ~14,530 |
-| Collector | 19.00% | ~14,530 |
-| Master | 19.00% | ~14,530 |
+| It's a steal! | 37.00% | ~28,298 |
+| Final touch | 37.00% | ~28,298 |
+| Prop-M Rover | 32.00% | ~24,474 |
+| Changing the Planet | 28.00% | ~21,414 |
+| Sojourner | 26.00% | ~19,885 |
+| Beagle 2 | 24.00% | ~18,355 |
+| New Home | 23.00% | ~17,590 |
+| Winner Winner Terraformer | 22.00% | ~16,826 |
+| Project Manager | 19.00% | ~14,531 |
+| Curiosity | 19.00% | ~14,531 |
+| Collector | 19.00% | ~14,531 |
+| Master | 19.00% | ~14,531 |
 | No Longer Red | 18.00% | ~13,766 |
 | Self-sufficient | 18.00% | ~13,766 |
-| Money money | 15.00% | ~11,471 |
+| Money money | 15.00% | ~11,472 |
 | Biggest Reward | 14.00% | ~10,707 |
 | Acquired knowledge | 13.00% | ~9,942 |
-| First Journey | 12.00% | ~9,177 |
-| Hellenic Elysium | 12.00% | ~9,177 |
-| Grand champion | 12.00% | ~9,177 |
-| Landlord | 11.00% | ~8,412 |
-| Most Achievements | 11.00% | ~8,412 |
+| First Journey | 12.00% | ~9,178 |
+| Hellenic Elysium | 12.00% | ~9,178 |
+| Grand champion | 12.00% | ~9,178 |
+| Landlord | 11.00% | ~8,413 |
+| Most Achievements | 11.00% | ~8,413 |
 | Spirit | 10.00% | ~7,648 |
 | Ultimate success | 10.00% | ~7,648 |
 | Variety Expert | 9.00% | ~6,883 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,294 |
 | Opportunity | 3.00% | ~2,294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,475 (Ranked 81)  
+Progressed: 76,480 (Ranked 81)  
 Completed: 132 (0.17%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,14 +191,14 @@ Completed: 132 (0.17%) (Ranked 207)
 | 2023-09-18 | 76,212 | 129 |
 | 2023-09-19 | 76,305 | 131 |
 | 2023-09-20 | 76,395 | 132 |
-| 2023-09-21 | 76,475 | 132 |
+| 2023-09-21 | 76,480 | 132 |
 ## Awards
-Max (Relaxing): 514  (Ranked 199)  
-Sum: 3,167 (Ranked 165)  
+Max (Relaxing): 516  (Ranked 199)  
+Sum: 3,169 (Ranked 165)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 514 |
+| This game is Relaxing | 516 |
 | This game is Highly Recommended | 496 |
 | This game has Quickly Understood Controls | 461 |
 | This game has Competitive Players | 450 |
@@ -383,4 +383,4 @@ Diff (max vs sum): 34
 | 2023-09-16 | 4.53 | - | 513 | 3,163 |
 | 2023-09-18 | 4.53 | - | 514 | 3,164 |
 | 2023-09-19 | 4.54 | - | 514 | 3,166 |
-| 2023-09-21 | 4.54 | - | 514 | 3,167 |
+| 2023-09-21 | 4.54 | - | 516 | 3,169 |

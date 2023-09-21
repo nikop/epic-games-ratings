@@ -1,15 +1,15 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 433)  
+Rating: 4.58 (Ranked 434)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,551 |
+| Sink Beneath the Waves | 36.00% | ~13,552 |
 | Sweet Sorrow | 18.00% | ~6,776 |
-| Rules the Waves | 17.00% | ~6,399 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,646 |
+| Rules the Waves | 17.00% | ~6,400 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,647 |
 | Rival | 14.00% | ~5,270 |
 | Correspondent | 12.00% | ~4,517 |
 | Lose Your Mind | 12.00% | ~4,517 |
@@ -18,7 +18,7 @@ Number of Ratings: 401  (23.09.2022)
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,141 |
 | The Fall of the House | 11.00% | ~4,141 |
 | Shipmate | 11.00% | ~4,141 |
-| One Year at Zee | 8.00% | ~3,011 |
+| One Year at Zee | 8.00% | ~3,012 |
 | Pupil | 7.00% | ~2,635 |
 | Salvager | 7.00% | ~2,635 |
 | Open Your Ears | 7.00% | ~2,635 |
@@ -48,8 +48,8 @@ Number of Ratings: 401  (23.09.2022)
 | No regrets | 0.90% | ~339 |
 | Depth charge | 0.90% | ~339 |
 | A zee-change | 0.80% | ~301 |
-| What lies beneath | 0.70% | ~263 |
-| Stone's Curse | 0.70% | ~263 |
+| What lies beneath | 0.70% | ~264 |
+| Stone's Curse | 0.70% | ~264 |
 | Five Years at Zee | 0.50% | ~188 |
 | The Lady's Parlour | 0.20% | ~75 |
 | A Past Wreathed in Shadows | 0.20% | ~75 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,642 (Ranked 101)  
+Progressed: 37,645 (Ranked 101)  
 Completed: 3 (0.01%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 3 (0.01%) (Ranked 268)
 | 2023-09-18 | 37,493 | 3 |
 | 2023-09-19 | 37,541 | 3 |
 | 2023-09-20 | 37,600 | 3 |
-| 2023-09-21 | 37,642 | 3 |
+| 2023-09-21 | 37,645 | 3 |
 ## Awards
 Max (Character Customization): 214  (Ranked 270)  
 Sum: 285 (Ranked 347)  

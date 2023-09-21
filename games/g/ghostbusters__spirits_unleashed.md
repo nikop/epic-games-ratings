@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 568)  
+Rating: 4.50 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,22 +18,23 @@ Rating: 4.50 (Ranked 568)
 | Clutch Capture | 0.30% | ~78 |
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Cultured | 0.30% | ~78 |
+| Ghostbuster In Training | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |
 | Summoner | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
+| Terrifying | 0.30% | ~78 |
 | There you are! | 0.30% | ~78 |
+| Welcome to the Crew | 0.30% | ~78 |
 | Whoopsie | 0.30% | ~78 |
 | Daily Dose | 0.20% | ~52 |
 | Ectoplasmic Entity | 0.20% | ~52 |
-| Ghostbuster In Training | 0.20% | ~52 |
 | Pesky Jerks | 0.20% | ~52 |
+| Reckless | 0.20% | ~52 |
 | Right back at ya | 0.20% | ~52 |
 | Seasoned | 0.20% | ~52 |
 | Side Hustle | 0.20% | ~52 |
 | Skilled | 0.20% | ~52 |
 | Stunner | 0.20% | ~52 |
-| Terrifying | 0.20% | ~52 |
-| Welcome to the Crew | 0.20% | ~52 |
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | Collector | 0.10% | ~26 |
@@ -48,7 +49,6 @@ Rating: 4.50 (Ranked 568)
 | Little Help Here | 0.10% | ~26 |
 | Master Collector | 0.10% | ~26 |
 | Mycophile | 0.10% | ~26 |
-| Reckless | 0.10% | ~26 |
 | Rift Destroyer | 0.10% | ~26 |
 | Rift Seeker | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 568)
 | Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,937 (Ranked 109)  
+Progressed: 25,939 (Ranked 109)  
 Completed: 58 (0.22%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 58 (0.22%) (Ranked 200)
 | 2023-09-18 | 25,888 | 56 |
 | 2023-09-19 | 25,909 | 56 |
 | 2023-09-20 | 25,927 | 57 |
-| 2023-09-21 | 25,937 | 58 |
+| 2023-09-21 | 25,939 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 255  (Ranked 255)  
 Sum: 2,326 (Ranked 188)  

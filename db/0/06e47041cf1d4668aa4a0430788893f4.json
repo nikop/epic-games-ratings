@@ -2,9 +2,9 @@
   "ID": "06e47041cf1d4668aa4a0430788893f4",
   "Name": "Wildfire",
   "ProductSlug": "wildfire-f4546e",
-  "Ranking_EOS_Progress": 627,
+  "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-10T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T01:36:09.1880772+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:59:56.1372122+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:08:21.492363+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:00:50.4598125+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:09:21.2506426+00:00"
 }

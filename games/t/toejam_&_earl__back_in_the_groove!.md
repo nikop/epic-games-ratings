@@ -9,8 +9,8 @@ Rating: 4.33 (Ranked 776)
 | Fall Fest | 7.00% | ~3,989 |
 | HFZ Goober | 6.00% | ~3,419 |
 | Thrill Seeker | 6.00% | ~3,419 |
-| Flying Present Catcher | 5.00% | ~2,849 |
-| Sunflower Master | 5.00% | ~2,849 |
+| Flying Present Catcher | 5.00% | ~2,850 |
+| Sunflower Master | 5.00% | ~2,850 |
 | Hi Fiver | 3.00% | ~1,710 |
 | Backer Visitor | 2.00% | ~1,140 |
 | Hate That Randomizer | 2.00% | ~1,140 |
@@ -26,9 +26,9 @@ Rating: 4.33 (Ranked 776)
 | Teamwork Rules | 0.70% | ~399 |
 | Beaten By A Little Girl | 0.60% | ~342 |
 | Totally Bummed Again | 0.60% | ~342 |
+| I Can't Believe I've Done This | 0.50% | ~285 |
 | Piece O' Cake | 0.50% | ~285 |
 | Boom Box Baby | 0.40% | ~228 |
-| I Can't Believe I've Done This | 0.40% | ~228 |
 | Flying Present Ultimate Master | 0.40% | ~228 |
 | Ridiculously Generous | 0.40% | ~228 |
 | Harsh Love | 0.40% | ~228 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 776)
 | Why Do I Keep Doing That? | 0.10% | ~57 |
 | Hey, You Did It! | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,989 (Ranked 92)  
+Progressed: 56,990 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 6 (0.01%) (Ranked 268)
 | 2023-09-18 | 56,958 | 6 |
 | 2023-09-19 | 56,969 | 6 |
 | 2023-09-20 | 56,981 | 6 |
-| 2023-09-21 | 56,989 | 6 |
+| 2023-09-21 | 56,990 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

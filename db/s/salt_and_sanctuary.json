@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533701,
+  "EOS_Progressed": 533702,
   "EOS_Completed": 1553,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19444,6 +19444,11 @@
       "Time": "2023-09-21T21:02:19.1428754+00:00",
       "NumProgressed": 533701,
       "NumCompleted": 1553
+    },
+    {
+      "Time": "2023-09-21T22:03:41.2599898+00:00",
+      "NumProgressed": 533702,
+      "NumCompleted": 1553
     }
   ],
   "TotalAchievements": 37,
@@ -19471,7 +19476,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165447
+      "UsersEstimate": 165448
     },
     {
       "ID": "DEVOTED",
@@ -19511,7 +19516,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 442972
+      "UsersEstimate": 442973
     },
     {
       "ID": "HONED",
@@ -19567,7 +19572,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213480
+      "UsersEstimate": 213481
     },
     {
       "ID": "THE_CASTLE",
@@ -19750,15 +19755,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533701,
+      "Progressed": 533702,
       "Completed": 1553
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-19T16:00:07.3346175+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:02:19.142875+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:03:41.2599894+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.1616875+00:00",
-  "LastUpdate_Ratings": "2023-09-21T21:00:03.5217752+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:02:19.1430057+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:00:59.4799392+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:03:41.2600917+00:00"
 }

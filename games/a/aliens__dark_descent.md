@@ -32,7 +32,7 @@ Rating: 4.49 (Ranked 585)
 | The Spire | 25.00% | ~836 |
 | El Riesgo Siempre Vive | 24.00% | ~802 |
 | Stuff Of Nightmares | 23.00% | ~769 |
-| Excavating The Truth | 21.00% | ~702 |
+| Excavating The Truth | 22.00% | ~735 |
 | Abysmal Horrors | 21.00% | ~702 |
 | One For Every Occasion | 20.00% | ~669 |
 | Frontliner | 20.00% | ~669 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 585)
 | Chalk It Up To Experience | 0.80% | ~27 |
 | This Ain't No Picnic | 0.70% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,343 (Ranked 172)  
+Progressed: 3,343 (Ranked 173)  
 Completed: 3 (0.09%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |

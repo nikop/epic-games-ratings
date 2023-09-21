@@ -7,6 +7,7 @@
 | Shipwrecked! | 60.00% | ~3 |
 | Frogs Legs | 20.00% | ~1 |
 | Who Even Needs Keys | 20.00% | ~1 |
+| Sea Legs | 20.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | Socialite | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
@@ -27,7 +28,6 @@
 | Honey, I'm Home | 0.00% | ~0 |
 | What?! | 0.00% | ~0 |
 | Return to sender | 0.00% | ~0 |
-| Sea Legs | 0.00% | ~0 |
 | Fantastic Fungi | 0.00% | ~0 |
 | Vandal | 0.00% | ~0 |
 | Just Here for the Food | 0.00% | ~0 |

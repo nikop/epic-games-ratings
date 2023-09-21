@@ -5,9 +5,9 @@
   "Ranking_Rating": 416,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 307,
-  "Ranking_EOS_Progress": 173,
+  "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3894,9 +3894,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -4028,8 +4028,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-18T16:58:55.1300205+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:02:14.5100948+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:03:36.1872622+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:59:46.4629307+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:02:14.5101924+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:00:37.0548565+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:03:36.1873756+00:00"
 }

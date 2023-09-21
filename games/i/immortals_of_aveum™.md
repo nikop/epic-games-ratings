@@ -52,6 +52,13 @@ Rating: 3.97 (Ranked 959)
 | Gravity-Challenged Rocks | 0.00% | ~0 |
 | All the Major Food Groups | 0.00% | ~0 |
 | Beggars Would Ride | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 579)  
+Completed: 0 (0.00%) (Ranked 283)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-09-21 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

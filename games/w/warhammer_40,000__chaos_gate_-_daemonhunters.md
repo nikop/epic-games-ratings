@@ -27,9 +27,9 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
 | Efficient Killer | 0.90% | ~29 |
+| A Gift Spurned | 0.90% | ~29 |
 | Daemonkeeper | 0.80% | ~26 |
 | Only in Death | 0.80% | ~26 |
-| A Gift Spurned | 0.80% | ~26 |
 | Long Distance Call | 0.80% | ~26 |
 | Tactical Sabotage | 0.80% | ~26 |
 | Fleetmaster | 0.70% | ~23 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,225 (Ranked 173)  
+Progressed: 3,225 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1404,
+  "EOS_Progressed": 1405,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2700,6 +2700,11 @@
       "Time": "2023-09-21T21:03:43.8582377+00:00",
       "NumProgressed": 1404,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T22:04:33.1715539+00:00",
+      "NumProgressed": 1405,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2735,7 +2740,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Boy",
@@ -2821,9 +2826,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 548
     },
     {
       "ID": "Hard_Serpent",
@@ -2839,7 +2844,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "High_noon",
@@ -2863,7 +2868,7 @@
       "Name": "Spice It Up",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "KillAllM2",
@@ -2903,7 +2908,7 @@
       "Name": "Mosquito bite",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "Scout",
@@ -2950,15 +2955,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1404,
+      "Progressed": 1405,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:03:43.8582369+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:04:33.1715535+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-21T21:00:18.6809251+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:03:43.8582771+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:01:17.3189373+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:04:33.1715836+00:00"
 }

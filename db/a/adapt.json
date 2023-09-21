@@ -2,9 +2,9 @@
   "ID": "acc730c3d872428cb5a59af2862b5f43",
   "Name": "Adapt",
   "ProductSlug": "adapt-c2c350",
-  "Ranking_EOS_Progress": 627,
+  "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-12-31T00:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T09:57:20.4077356+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:58:49.0855699+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:04:42.2823744+00:00"
+  "LastUpdate_Ratings": "2023-09-21T21:59:26.9992842+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:05:43.1699354+00:00"
 }

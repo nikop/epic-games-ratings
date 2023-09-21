@@ -249,9 +249,9 @@
       "ID": "10",
       "SetID": "5e3maia",
       "Name": "Astronomer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "11",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:06:06.4869365+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:07:24.3635858+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:57:45.493215+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:06:06.487003+00:00"
+  "LastUpdate_Ratings": "2023-09-21T21:58:07.4924935+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:07:24.3636475+00:00"
 }

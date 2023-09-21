@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7938,9 +7938,9 @@
       "Count": 663
     }
   ],
-  "EOS_Progressed": 297061,
+  "EOS_Progressed": 297065,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24628,6 +24628,11 @@
       "Time": "2023-09-21T20:06:02.4293494+00:00",
       "NumProgressed": 297061,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-21T22:06:24.9077202+00:00",
+      "NumProgressed": 297065,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24687,7 +24692,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20794
+      "UsersEstimate": 20795
     },
     {
       "ID": "PFA_16",
@@ -24703,7 +24708,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20794
+      "UsersEstimate": 20795
     },
     {
       "ID": "PFA_18",
@@ -24719,7 +24724,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20794
+      "UsersEstimate": 20795
     },
     {
       "ID": "PFA_2",
@@ -24727,7 +24732,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "PFA_20",
@@ -24759,7 +24764,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35647
+      "UsersEstimate": 35648
     },
     {
       "ID": "PFA_24",
@@ -24791,7 +24796,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "PFA_28",
@@ -24839,7 +24844,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "PFA_33",
@@ -24847,7 +24852,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "PFA_34",
@@ -24863,7 +24868,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26735
+      "UsersEstimate": 26736
     },
     {
       "ID": "PFA_36",
@@ -24887,7 +24892,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "PFA_39",
@@ -24903,7 +24908,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "PFA_40",
@@ -24959,7 +24964,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "PFA_6",
@@ -24991,14 +24996,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26735
+      "UsersEstimate": 26736
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297061,
+      "Progressed": 297065,
       "Completed": 476
     }
   ],
@@ -25006,8 +25011,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-21T19:59:01.2707063+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:05:17.6102034+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:06:24.9077198+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:58:34.2057459+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:05:17.6103433+00:00"
+  "LastUpdate_Ratings": "2023-09-21T21:59:07.2546229+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:06:24.9078298+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1024,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1449,6 +1449,11 @@
       "Time": "2023-09-21T20:04:09.7626089+00:00",
       "NumProgressed": 1024,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T22:04:34.6457364+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1459,9 +1464,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 420
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1469,7 +1474,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1525,7 +1530,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -1661,7 +1666,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -1669,7 +1674,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1813,7 +1818,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -1852,14 +1857,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1024,
+      "Progressed": 1025,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-21T21:03:45.019357+00:00",
+  "LastChanged_Achievements": "2023-09-21T22:04:34.645736+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-21T20:59:43.3151779+00:00",
-  "LastUpdate_Achievements": "2023-09-21T21:03:45.01941+00:00"
+  "LastUpdate_Ratings": "2023-09-21T22:00:33.553202+00:00",
+  "LastUpdate_Achievements": "2023-09-21T22:04:34.6457784+00:00"
 }

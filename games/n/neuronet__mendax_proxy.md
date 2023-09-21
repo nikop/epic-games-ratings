@@ -9,8 +9,8 @@
 | I Think, Therefore I Am | 65.00% | ~17 |
 | The Real Beginning | 65.00% | ~17 |
 | Shook Up | 58.00% | ~15 |
+| Vaccinated | 54.00% | ~14 |
 | The Birds and the Bees | 50.00% | ~13 |
-| Vaccinated | 50.00% | ~13 |
 | Task Master | 46.00% | ~12 |
 | Busybody | 42.00% | ~11 |
 | An Acquired Taste | 38.00% | ~10 |
@@ -42,9 +42,9 @@
 | Ring of Fire | 15.00% | ~4 |
 | The Provocateur | 15.00% | ~4 |
 | Tastes Like Regret | 15.00% | ~4 |
+| Couldn't Have Planned It Better Myself | 12.00% | ~3 |
 | The Mentor | 12.00% | ~3 |
 | The Spice of Life | 12.00% | ~3 |
-| Couldn't Have Planned It Better Myself | 8.00% | ~2 |
 | What They Don't Know Can't Hurt Them | 8.00% | ~2 |
 | Wilful Ignorance | 8.00% | ~2 |
 | Double Agent | 4.00% | ~1 |

@@ -8,7 +8,7 @@ Rating: 4.77 (Ranked 112)
 | The Sort Who Makes an Entrance | 14.00% | ~41,589 |
 | First Class Student | 13.00% | ~38,618 |
 | Troll with the Punches | 13.00% | ~38,618 |
-| A Keen Sense of Spell | 12.00% | ~35,647 |
+| A Keen Sense of Spell | 12.00% | ~35,648 |
 | A Talent for Spending | 11.00% | ~32,677 |
 | That's a Keeper | 11.00% | ~32,677 |
 | Grappling with a Graphorn | 10.00% | ~29,706 |
@@ -19,24 +19,24 @@ Rating: 4.77 (Ranked 112)
 | Challenge Accepted | 10.00% | ~29,706 |
 | Loom for Improvement | 10.00% | ~29,706 |
 | Coasting Along | 10.00% | ~29,706 |
-| Followed the Butterflies | 9.00% | ~26,735 |
-| Rising From the Ashes | 9.00% | ~26,735 |
+| Followed the Butterflies | 9.00% | ~26,736 |
+| Rising From the Ashes | 9.00% | ~26,736 |
 | A Sallow Grave | 8.00% | ~23,765 |
 | The Spell Master | 8.00% | ~23,765 |
-| The Avenging Gazelle | 7.00% | ~20,794 |
-| Beast Friends | 7.00% | ~20,794 |
-| Flight the Good Flight | 7.00% | ~20,794 |
+| The Avenging Gazelle | 7.00% | ~20,795 |
+| Beast Friends | 7.00% | ~20,795 |
+| Flight the Good Flight | 7.00% | ~20,795 |
 | The Seeker of Knowledge | 6.00% | ~17,824 |
 | The Root of the Problem | 6.00% | ~17,824 |
 | Raising Expectations | 6.00% | ~17,824 |
 | Third Time's a Charm | 5.00% | ~14,853 |
 | The Ends Petrify the Means | 5.00% | ~14,853 |
-| The Toast of the Town | 4.00% | ~11,882 |
-| Going Through the Potions | 4.00% | ~11,882 |
-| Room with a View | 4.00% | ~11,882 |
-| The Intrepid Explorer | 4.00% | ~11,882 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,882 |
-| The Wise Owl | 4.00% | ~11,882 |
+| The Toast of the Town | 4.00% | ~11,883 |
+| Going Through the Potions | 4.00% | ~11,883 |
+| Room with a View | 4.00% | ~11,883 |
+| The Intrepid Explorer | 4.00% | ~11,883 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,883 |
+| The Wise Owl | 4.00% | ~11,883 |
 | Put Down Roots | 3.00% | ~8,912 |
 | Floo Around the World | 3.00% | ~8,912 |
 | The Good Samaritan | 2.00% | ~5,941 |
@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 112)
 | Demiguise Dread | 1.00% | ~2,971 |
 | A Forte for Achievement | 1.00% | ~2,971 |
 | Merlin's Beard! | 0.90% | ~2,674 |
-| Spilled Milk | 0.80% | ~2,376 |
+| Spilled Milk | 0.80% | ~2,377 |
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,061 (Ranked 44)  
+Progressed: 297,065 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 476 (0.16%) (Ranked 209)
 | 2023-09-18 | 296,907 | 474 |
 | 2023-09-19 | 296,968 | 475 |
 | 2023-09-20 | 297,027 | 476 |
-| 2023-09-21 | 297,061 | 476 |
+| 2023-09-21 | 297,065 | 476 |
 ## Awards
 Max (Character Customization): 22,886  (Ranked 17)  
 Sum: 43,897 (Ranked 30)  
