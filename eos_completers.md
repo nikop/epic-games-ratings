@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.24% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.17% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.56% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.02% |
@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.27% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.71% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.95% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -56,7 +56,7 @@
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.77% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 57 | [ZZT!](games/z/zzt!.md) | 4.31% |
+| 57 | [ZZT!](games/z/zzt!.md) | 4.34% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.21% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.04% |
@@ -125,19 +125,19 @@
 | 123 | [Adios](games/a/adios.md) | 1.04% |
 | 124 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
 | 125 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 125 | [Sable](games/s/sable.md) | 1.01% |
 | 125 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
-| 127 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
-| 127 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
-| 127 | [Sable](games/s/sable.md) | 1.00% |
+| 128 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
+| 128 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 130 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 131 | [It Takes Two](games/i/it_takes_two.md) | 0.98% |
-| 132 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
-| 133 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
+| 131 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
+| 132 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
+| 133 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.92% |
 | 134 | [Hades](games/h/hades.md) | 0.90% |
 | 135 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 136 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.84% |
-| 137 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
-| 137 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 136 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
+| 136 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 138 | [It Takes Two](games/i/it_takes_two.md) | 0.81% |
 | 139 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 140 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 141 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.71% |
@@ -194,10 +194,10 @@
 | 191 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.25% |
 | 191 | [Filament](games/f/filament.md) | 0.25% |
 | 191 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.25% |
+| 195 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.24% |
 | 195 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |
 | 195 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 195 | [Going Medieval](games/g/going_medieval.md) | 0.24% |
-| 198 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
 | 199 | [Blanc](games/b/blanc.md) | 0.22% |
 | 199 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 201 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
@@ -616,4 +616,4 @@
 | 281 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 281 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 281 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,271 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,273 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

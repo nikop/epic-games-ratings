@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 2023-09-21 | 15 (1,000 XP) | 3 | - | - |
 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 2023-09-21 | 21 (1,000 XP) | 1 | - | - |
 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2023-09-21 | 64 (1,000 XP) | 3 | - | - |
 | [PAYDAY 3 Pre Purchase](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 2023-09-21 | - |  | - | - |
@@ -100,6 +99,7 @@
 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 2023-10-31 | 47 (1,000 XP) | 0 | - | - |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-10-31 | - |  | - | - |
 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | - |  | - | - |
+| [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 2023-11-02 | - |  | - | - |
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | - |  | - | - |
 | [WRC Standard Edition](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | - |  | - | - |
 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | - |  | - | - |
@@ -220,7 +220,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 4,326 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 4,329 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -349,6 +349,7 @@
 | [iCode STEM Universe](games/9/9e13650094b74cb68ed5ccac5439ee26.md) | 2099-01-01 | - |  | - | - |
 | [Idle Calibur(选王之剑)](games/i/idle_calibur(选王之剑).md) | 2099-01-01 | - |  | - | - |
 | [IncrediMarble](games/i/incredimarble.md) | 2099-01-01 | - |  | - | - |
+| [Infection Free Zone](games/5/582f0eafbde4494bbf31ef210830dd62.md) | 2099-01-01 | - |  | - | - |
 | [Infinitesimals](games/i/infinitesimals.md) | 2099-01-01 | - |  | - | - |
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | - |  | - | - |
 | [KAREN SEES](games/e/e53f61969af043f8a9cf3892b2371963.md) | 2099-01-01 | - |  | - | - |
