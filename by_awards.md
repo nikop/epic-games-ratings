@@ -26,7 +26,7 @@
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,494 | 4.58 | 433 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,868 | 4.60 | 395 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,735 | 4.60 | 395 |
-| 27 | [Maneater](games/m/maneater.md) | 13,688 | 4.49 | 584 |
+| 27 | [Maneater](games/m/maneater.md) | 13,690 | 4.49 | 584 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,971 | 4.43 | 668 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,686 | 4.36 | 751 |
 | 30 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 12,515 | 4.74 | 146 |
@@ -146,7 +146,7 @@
 | 144 | [Ooblets](games/o/ooblets.md) | 1,025 | 4.88 | 19 |
 | 145 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 853 |
 | 146 | [The Sims™ 4](games/t/the_sims™_4.md) | 989 | 4.62 | 350 |
-| 147 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 983 | 4.69 | 219 |
+| 147 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 984 | 4.69 | 219 |
 | 148 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 968 | 4.31 | 796 |
 | 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 958 | 4.76 | 118 |
 | 150 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 941 | 4.79 | 89 |
@@ -220,7 +220,7 @@
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 396 | 4.84 | 50 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 395 | 4.70 | 202 |
 | 220 | [For The King](games/f/for_the_king.md) | 391 | 4.70 | 202 |
-| 221 | [Nuclear Throne](games/n/nuclear_throne.md) | 389 | 4.79 | 89 |
+| 221 | [Nuclear Throne](games/n/nuclear_throne.md) | 390 | 4.79 | 89 |
 | 222 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 386 | 4.62 | 350 |
 | 223 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 382 | 4.62 | 350 |
 | 224 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 950 |

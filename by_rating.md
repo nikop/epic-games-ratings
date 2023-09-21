@@ -98,7 +98,7 @@
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 941 | 150 |
 | 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 763 | 162 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,008 | 58 |
-| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 389 | 221 |
+| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 390 | 221 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 123 | 319 |
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 523 |
 | 102 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 523 |
@@ -240,7 +240,7 @@
 | 219 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 523 |
 | 219 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.69 | 0 | 523 |
 | 219 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 41 | 427 |
-| 219 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 983 | 147 |
+| 219 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 984 | 147 |
 | 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 826 | 156 |
 | 243 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,350 | 91 |
 | 243 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,552 | 88 |
@@ -592,7 +592,7 @@
 | 584 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 248 |
 | 584 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 132 | 311 |
 | 584 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 523 |
-| 584 | [Maneater](games/m/maneater.md) | 4.49 | 13,688 | 27 |
+| 584 | [Maneater](games/m/maneater.md) | 4.49 | 13,690 | 27 |
 | 584 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 341 |
 | 584 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 459 |
 | 584 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 23 | 497 |
