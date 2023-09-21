@@ -310,7 +310,7 @@
 | [Bionic Bay](games/b/bionic_bay.md) | - | - | - | - |
 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 549 | 4,127 | 80 |
 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 202 | 4,576 | 73 |
-| [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 315 | 5,971 | 60 |
+| [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 315 | 5,972 | 60 |
 | [BioShock: The Collection](games/b/bioshock__the_collection.md) | - | - | - | - |
 | [Biped](games/b/biped.md) | - | - | 0 | - |
 | [Bird of Paradise](games/a/aec7c489305f4286bd879cc5bd073fe4.md) | - | - | - | - |
@@ -956,7 +956,7 @@
 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 260 | 0 | 523 |
 | [Figment](games/f/figment.md) | 4.46 | 627 | 20 | 518 |
 | [Figment 2: Creed Valley](games/f/figment_2__creed_valley.md) | - | - | 0 | - |
-| [Filament](games/f/filament.md) | 4.32 | 785 | 561 | 194 |
+| [Filament](games/f/filament.md) | 4.32 | 785 | 562 | 194 |
 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | - | - | 0 | - |
 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 41 | 5,568 | 64 |
 | [Find the Oil Racing Edition](games/3/3b665944a4764f9882d99296d2010265.md) | - | - | - | - |
@@ -1186,6 +1186,7 @@
 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 315 | 0 | 523 |
 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 680 | 38 | 436 |
 | [Hell Pie](games/h/hell_pie.md) | - | - | 0 | - |
+| [Hellen's Gallery: Making Story with AI](games/c/c9d44460494d4829a88c2b196d246181.md) | - | - | - | - |
 | [Hello Goodboy](games/h/hello_goodboy.md) | - | - | - | - |
 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 487 | 268 | 250 |
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 668 | 0 | 523 |
@@ -2271,8 +2272,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 190 | 0 | 523 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 680 | 273 | 249 |

@@ -29,6 +29,7 @@
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [GRIME](../games/g/grime.md) | 46 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
@@ -36,7 +37,6 @@
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
-| [GRIME](../games/g/grime.md) | 42 | 1,100 |
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |

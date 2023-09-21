@@ -338,6 +338,7 @@
 | [Guardians of Elderon](games/g/guardians_of_elderon.md) | 2099-01-01 | - |  | - | - |
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2099-01-01 | - |  | - | - |
 | [HELIX](games/b/bfaeb968e658400db8cc48fd4bae1081.md) | 2099-01-01 | - |  | - | - |
+| [Hellen's Gallery: Making Story with AI](games/c/c9d44460494d4829a88c2b196d246181.md) | 2099-01-01 | - |  | - | - |
 | [Highwater](games/h/highwater.md) | 2099-01-01 | - |  | - | - |
 | [Hit and Boom](games/h/hit_and_boom.md) | 2099-01-01 | - |  | - | - |
 | [Hold On](games/h/hold_on.md) | 2099-01-01 | - |  | - | - |

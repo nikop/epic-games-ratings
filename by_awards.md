@@ -59,7 +59,7 @@
 | 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,126 | 4.54 | 505 |
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,008 | 4.79 | 89 |
 | 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,998 | 4.75 | 137 |
-| 60 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,971 | 4.64 | 315 |
+| 60 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,972 | 4.64 | 315 |
 | 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,881 | 4.66 | 282 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,832 | 4.82 | 66 |
 | 63 | [Prey](games/p/prey.md) | 5,696 | 4.62 | 350 |
@@ -193,7 +193,7 @@
 | 191 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 566 | 4.68 | 243 |
 | 191 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 566 | 4.66 | 282 |
 | 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 564 | 4.40 | 711 |
-| 194 | [Filament](games/f/filament.md) | 561 | 4.32 | 785 |
+| 194 | [Filament](games/f/filament.md) | 562 | 4.32 | 785 |
 | 195 | [Vampyr](games/v/vampyr.md) | 558 | 4.32 | 785 |
 | 196 | [Godfall Ultimate Edition](games/g/godfall.md) | 544 | 4.08 | 924 |
 | 197 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 533 | 4.52 | 534 |

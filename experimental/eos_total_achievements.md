@@ -172,6 +172,7 @@
 | [The Fabulous Fear Machine](../games/t/the_fabulous_fear_machine.md) | 47 | 1,000 |
 | [Agatha Christie - Hercule Poirot: The London Case](../games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 46 | 1,000 |
 | [Blasphemous 2](../games/c/c2890856ddb844f1a7d552fc929838a7.md) | 46 | 1,000 |
+| [GRIME](../games/g/grime.md) | 46 | 1,200 |
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
 | [Runbow](../games/r/runbow.md) | 46 | 1,000 |
 | [Shin-chan Me and the Professor on Summer Vacation](../games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 46 | 1,000 |
@@ -212,7 +213,6 @@
 | [CyberTD](../games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 42 | 1,000 |
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
-| [GRIME](../games/g/grime.md) | 42 | 1,100 |
 | [HORSE CLUB Adventures 2 - Hazelwood Stories](../games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 42 | 1,000 |
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 42 | 1,000 |
 | [Midnight Ghost Hunt](../games/9/964f58c4c2074404bf9c359483ab1a48.md) | 42 | 1,000 |

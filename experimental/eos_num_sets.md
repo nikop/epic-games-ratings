@@ -19,7 +19,7 @@
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 | 2 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 | 2 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 | 2 |
-| [GRIME](../games/g/grime.md) | 42 | 1,100 | 2 |
+| [GRIME](../games/g/grime.md) | 46 | 1,200 | 2 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 | 2 |
 | [High On Life](../games/h/high_on_life.md) | 32 | 1,000 | 2 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |

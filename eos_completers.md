@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.50% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.45% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.56% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.63% |
@@ -35,7 +35,7 @@
 | 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.43% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
-| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
+| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 37 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.50% |
 | 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.42% |
 | 39 | [Time Loader](games/t/time_loader.md) | 7.26% |
@@ -81,8 +81,8 @@
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 82 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.65% |
-| 83 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.63% |
+| 82 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.63% |
+| 82 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.63% |
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.58% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.50% |
@@ -106,8 +106,8 @@
 | 103 | [Sifu](games/s/sifu.md) | 1.80% |
 | 105 | [Somerville](games/s/somerville.md) | 1.71% |
 | 106 | [Five Dates](games/f/five_dates.md) | 1.66% |
-| 107 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
-| 108 | [Iron Danger](games/i/iron_danger.md) | 1.52% |
+| 107 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.52% |
+| 107 | [Iron Danger](games/i/iron_danger.md) | 1.52% |
 | 109 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.49% |
 | 110 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 111 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
@@ -117,7 +117,7 @@
 | 115 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 116 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.35% |
 | 117 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
-| 118 | [Chorus](games/c/chorus.md) | 1.26% |
+| 118 | [Chorus](games/c/chorus.md) | 1.25% |
 | 119 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 120 | [Infindustry](games/i/infindustry.md) | 1.18% |
 | 121 | [Trifox](games/t/trifox.md) | 1.09% |
@@ -139,7 +139,7 @@
 | 137 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 138 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.71% |
-| 140 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.70% |
+| 140 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.69% |
 | 141 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.68% |
 | 142 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.64% |
 | 142 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
@@ -616,4 +616,4 @@
 | 280 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 280 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 280 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,268 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,269 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

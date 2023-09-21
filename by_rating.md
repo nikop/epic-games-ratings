@@ -317,7 +317,7 @@
 | 315 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.64 | 0 | 523 |
 | 315 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.64 | 0 | 523 |
 | 315 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 523 |
-| 315 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,971 | 60 |
+| 315 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,972 | 60 |
 | 315 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 117 | 325 |
 | 315 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 523 |
 | 315 | [High On Life](games/h/high_on_life.md) | 4.64 | 0 | 523 |
@@ -787,7 +787,7 @@
 | 785 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 362 | 226 |
 | 785 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.32 | 0 | 523 |
 | 785 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 394 |
-| 785 | [Filament](games/f/filament.md) | 4.32 | 561 | 194 |
+| 785 | [Filament](games/f/filament.md) | 4.32 | 562 | 194 |
 | 785 | [House Party](games/h/house_party.md) | 4.32 | 0 | 523 |
 | 785 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 523 |
 | 785 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,422 | 66 |
