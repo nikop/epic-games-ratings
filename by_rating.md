@@ -39,7 +39,7 @@
 | 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 157 | 299 |
 | 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,437 | 128 |
 | 31 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 522 |
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 506 | 200 |
+| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 506 | 201 |
 | 41 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 154 | 301 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,853 | 45 |
 | 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,568 | 64 |
@@ -151,7 +151,7 @@
 | 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 12,515 | 30 |
 | 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 695 | 171 |
 | 146 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 522 |
-| 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,110 | 51 |
+| 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,118 | 51 |
 | 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 522 |
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 38,097 | 13 |
 | 146 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 522 |
@@ -386,7 +386,7 @@
 | 371 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,625 | 98 |
 | 371 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 693 | 172 |
 | 371 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 333 |
-| 371 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 506 | 200 |
+| 371 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 509 | 200 |
 | 371 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,075 | 38 |
 | 371 | [RiME](games/r/rime.md) | 4.61 | 0 | 522 |
 | 371 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,081 | 139 |
@@ -421,6 +421,7 @@
 | 417 | [GRIME](games/g/grime.md) | 4.59 | 36 | 444 |
 | 417 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 61 | 393 |
 | 417 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 224 | 263 |
+| 417 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.59 | 68 | 383 |
 | 417 | [NORCO](games/n/norco.md) | 4.59 | 0 | 522 |
 | 417 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 522 |
 | 417 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 76 | 372 |
@@ -432,23 +433,22 @@
 | 417 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 714 | 168 |
 | 417 | [Void Bastards](games/v/void_bastards.md) | 4.59 | 22 | 502 |
 | 417 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 220 | 266 |
-| 433 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,265 | 11 |
-| 433 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 166 | 294 |
-| 433 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 522 |
-| 433 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 261 | 252 |
-| 433 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 522 |
-| 433 | [GRIT](games/g/grit.md) | 4.58 | 0 | 522 |
-| 433 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.58 | 68 | 383 |
-| 433 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 513 |
-| 433 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,968 | 43 |
-| 433 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,493 | 125 |
-| 433 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 522 |
-| 433 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 314 |
-| 433 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 270 |
-| 433 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 400 |
-| 433 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,374 | 55 |
-| 433 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 522 |
-| 433 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,494 | 24 |
+| 434 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,300 | 11 |
+| 434 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 166 | 294 |
+| 434 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 522 |
+| 434 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 261 | 252 |
+| 434 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 522 |
+| 434 | [GRIT](games/g/grit.md) | 4.58 | 0 | 522 |
+| 434 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 513 |
+| 434 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,968 | 43 |
+| 434 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,493 | 125 |
+| 434 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 522 |
+| 434 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 314 |
+| 434 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 270 |
+| 434 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 400 |
+| 434 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,374 | 55 |
+| 434 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 522 |
+| 434 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,494 | 24 |
 | 450 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 522 |
 | 450 | [Among Us](games/a/among_us.md) | 4.57 | 2,675 | 97 |
 | 450 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 9,184 | 39 |
