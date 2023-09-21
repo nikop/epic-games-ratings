@@ -1,7 +1,7 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 568)  
+Rating: 4.50 (Ranked 569)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 568)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 267)  
+Progressed: 425 (Ranked 268)  
 Completed: 1 (0.24%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |

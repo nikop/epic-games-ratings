@@ -15,7 +15,7 @@ Number of Ratings: 34  (23.09.2022)
 | Here Comes the Boom | 44.00% | ~224 |
 | Treasure Hunter | 41.00% | ~209 |
 | Sniper Wolf | 41.00% | ~209 |
-| The Motivation | 39.00% | ~199 |
+| The Motivation | 40.00% | ~204 |
 | Heroism | 38.00% | ~194 |
 | Missing in Action | 37.00% | ~189 |
 | Collectibles of Chapter I | 34.00% | ~173 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 510 (Ranked 254)  
+Progressed: 510 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

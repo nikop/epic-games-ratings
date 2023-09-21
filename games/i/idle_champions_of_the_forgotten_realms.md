@@ -444,6 +444,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Chilling Encounter | 0.10% | ~196 |
 | How Far Away is Thay | 0.10% | ~196 |
 | Deekin's Mission | 0.10% | ~196 |
+| Dive Bomb | 0.10% | ~196 |
 | Fire and Ice | 0.10% | ~196 |
 | Frozen Vengeance | 0.10% | ~196 |
 | Mimic Vengeance | 0.10% | ~196 |
@@ -529,9 +530,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Brains on Ice | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Dive Bomb | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,562 (Ranked 57)  
+Progressed: 229,567 (Ranked 57)  
 Completed: 2,297 (1.00%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,7 +685,7 @@ Completed: 2,297 (1.00%) (Ranked 128)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,562 | 2,297 |
+| 2023-09-21 | 229,567 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,301  (Ranked 67)  
 Sum: 31,672 (Ranked 39)  

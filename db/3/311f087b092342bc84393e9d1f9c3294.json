@@ -2,10 +2,10 @@
   "ID": "311f087b092342bc84393e9d1f9c3294",
   "Name": "Insectipede",
   "ProductSlug": "insectipede-a2174d",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-03T22:00:00+00:00",
     "PcReleaseDate": "2019-06-21T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-15T02:13:52.8594729+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:58:40.8006496+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:03:03.9278888+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:59:11.7134937+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:03:30.1149873+00:00"
 }

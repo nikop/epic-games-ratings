@@ -2,7 +2,7 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 79,
@@ -592,9 +592,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -608,9 +608,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -744,9 +744,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -783,8 +783,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-21T15:05:36.3709701+00:00",
+  "LastChanged_Achievements": "2023-09-21T16:06:44.5306493+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-21T15:00:38.9488393+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:05:36.3709943+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:01:28.1522835+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:06:44.5306758+00:00"
 }

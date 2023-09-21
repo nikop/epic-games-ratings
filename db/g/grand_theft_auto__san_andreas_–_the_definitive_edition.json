@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 487,
+  "Ranking_Rating": 486,
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -964,9 +964,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12623,
+  "EOS_Progressed": 12624,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -11029,6 +11029,11 @@
       "Time": "2023-09-21T15:06:22.3250418+00:00",
       "NumProgressed": 12623,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-21T16:07:46.6651252+00:00",
+      "NumProgressed": 12624,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -11088,7 +11093,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "ACH08",
@@ -11208,7 +11213,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ACH23",
@@ -11264,7 +11269,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ACH30",
@@ -11319,7 +11324,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12623,
+      "Progressed": 12624,
       "Completed": 45
     }
   ],
@@ -11327,8 +11332,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-20T21:00:39.015209+00:00",
-  "LastChanged_Achievements": "2023-09-21T15:06:22.325041+00:00",
+  "LastChanged_Achievements": "2023-09-21T16:07:46.6651246+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-21T15:01:08.7705001+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:06:22.3251249+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:02:02.0889629+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:07:46.6652141+00:00"
 }

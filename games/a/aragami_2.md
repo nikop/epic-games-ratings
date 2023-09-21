@@ -1,25 +1,25 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 486)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,251 |
-| First Steps | 80.00% | ~34,625 |
-| Control the Shadows | 67.00% | ~28,998 |
-| Tools of the Trade | 63.00% | ~27,267 |
+| Awakening | 93.00% | ~40,252 |
+| First Steps | 80.00% | ~34,626 |
+| Control the Shadows | 67.00% | ~28,999 |
+| Tools of the Trade | 63.00% | ~27,268 |
 | Apprentice | 60.00% | ~25,969 |
-| Secret Seeker | 57.00% | ~24,670 |
+| Secret Seeker | 57.00% | ~24,671 |
 | Forge of Assassins | 55.00% | ~23,805 |
-| Revenant | 52.00% | ~22,506 |
-| I don’t Care! | 45.00% | ~19,476 |
+| Revenant | 52.00% | ~22,507 |
+| I don’t Care! | 45.00% | ~19,477 |
 | Bird of Prey | 37.00% | ~16,014 |
 | Engraved with Power | 32.00% | ~13,850 |
 | Lady | 31.00% | ~13,417 |
 | Fashionable Assassin | 27.00% | ~11,686 |
-| Apex Predator | 24.00% | ~10,387 |
+| Apex Predator | 24.00% | ~10,388 |
 | Soul Reaver | 22.00% | ~9,522 |
 | Embers | 21.00% | ~9,089 |
 | Wall Lizard | 20.00% | ~8,656 |
@@ -36,8 +36,8 @@ Number of Ratings: 88  (23.09.2022)
 | Bonds | 9.00% | ~3,895 |
 | Get Over Here | 9.00% | ~3,895 |
 | The Hidden Village | 9.00% | ~3,895 |
-| Denouement | 8.00% | ~3,462 |
-| A Pleasant Stay | 8.00% | ~3,462 |
+| Denouement | 8.00% | ~3,463 |
+| A Pleasant Stay | 8.00% | ~3,463 |
 | Pilgrimage | 7.00% | ~3,030 |
 | The Lookout | 5.00% | ~2,164 |
 | The Spirit of Vengeance | 5.00% | ~2,164 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~866 |
 | Anger Management | 1.00% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,281 (Ranked 97)  
+Progressed: 43,282 (Ranked 97)  
 Completed: 238 (0.55%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 238 (0.55%) (Ranked 153)
 | 2023-09-18 | 43,250 | 238 |
 | 2023-09-19 | 43,260 | 238 |
 | 2023-09-20 | 43,276 | 238 |
-| 2023-09-21 | 43,281 | 238 |
+| 2023-09-21 | 43,282 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

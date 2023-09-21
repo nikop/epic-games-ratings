@@ -2,10 +2,10 @@
   "ID": "d3278d24cdbe499cb01bbd49fc00035d",
   "Name": "Sk\u00E1bma - Snowfall",
   "ProductSlug": "skabma-snowfall",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-22T08:00:00+00:00",
     "PcReleaseDate": "2022-04-22T08:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:14.1155101+00:00",
   "LastChanged": "2023-03-31T05:58:14.1155102+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:59.8028683+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:57:11.2023494+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:08:17.8477647+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:57:18.8677224+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:09:15.5990229+00:00"
 }

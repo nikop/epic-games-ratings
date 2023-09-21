@@ -2,10 +2,10 @@
   "ID": "6246bf144dd3486fa681b773ddbe441a",
   "Name": "Backrooms Break",
   "ProductSlug": "backrooms-break-6557d2",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-17T00:00:00+00:00",
     "PcReleaseDate": "2023-10-17T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-18T13:57:13.1331985+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:58:35.1051285+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:07:14.8870421+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:59:04.8054121+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:08:45.362698+00:00"
 }

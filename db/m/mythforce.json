@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -647,9 +647,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2877,
+  "EOS_Progressed": 2879,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1057,
+  "EOS_NewPlayers": 1054,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5132,6 +5132,11 @@
       "Time": "2023-09-21T14:04:53.317236+00:00",
       "NumProgressed": 2877,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T16:04:41.4211212+00:00",
+      "NumProgressed": 2879,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5144,7 +5149,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -5176,7 +5181,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5184,7 +5189,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5280,7 +5285,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5327,15 +5332,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2877,
+      "Progressed": 2879,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T16:59:50.1144164+00:00",
-  "LastChanged_Achievements": "2023-09-21T15:03:56.332662+00:00",
+  "LastChanged_Achievements": "2023-09-21T16:04:41.4211205+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-21T15:00:16.710288+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:03:56.3327073+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:01:08.8172706+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:04:41.4211696+00:00"
 }

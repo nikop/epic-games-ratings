@@ -1,28 +1,28 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.17 (Ranked 892)  
+Rating: 4.18 (Ranked 888)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 12.00% | ~6,538 |
-| As Far Away As Possible | 8.00% | ~4,359 |
-| A Most Unstable Organism | 7.00% | ~3,814 |
-| No Time to Follow Protocol | 5.00% | ~2,724 |
-| Float Like a Butterfly... | 4.00% | ~2,179 |
+| Your Lucky Day | 12.00% | ~6,542 |
+| As Far Away As Possible | 8.00% | ~4,361 |
+| A Most Unstable Organism | 7.00% | ~3,816 |
+| No Time to Follow Protocol | 5.00% | ~2,726 |
+| Float Like a Butterfly... | 4.00% | ~2,181 |
 | Nano Connoisseur | 3.00% | ~1,635 |
 | In Two Places At Once | 3.00% | ~1,635 |
 | Pulling Your Weight | 1.00% | ~545 |
 | Reaping Rivals | 1.00% | ~545 |
-| fifteenth Time's the Charm | 0.30% | ~163 |
-| Memory Keeper | 0.10% | ~54 |
-| Gone Rogue | 0.10% | ~54 |
-| Completely Customizable | 0.10% | ~54 |
-| More Power to You | 0.10% | ~54 |
-| Runs for Your Money | 0.10% | ~54 |
-| Past Master | 0.10% | ~54 |
+| fifteenth Time's the Charm | 0.30% | ~164 |
+| Memory Keeper | 0.10% | ~55 |
+| Gone Rogue | 0.10% | ~55 |
+| Completely Customizable | 0.10% | ~55 |
+| More Power to You | 0.10% | ~55 |
+| Runs for Your Money | 0.10% | ~55 |
+| Past Master | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,484 (Ranked 93)  
+Progressed: 54,516 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-18 | 52,555 | 0 |
 | 2023-09-19 | 53,492 | 0 |
 | 2023-09-20 | 54,118 | 0 |
-| 2023-09-21 | 54,484 | 0 |
+| 2023-09-21 | 54,516 | 0 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 513)  
 Sum: 21 (Ranked 514)  
@@ -70,4 +70,4 @@ Diff (max vs sum): -1
 | 2023-09-18 | 4.17 | 0 | 0 |
 | 2023-09-19 | 4.18 | 0 | 0 |
 | 2023-09-20 | 4.17 | 0 | 0 |
-| 2023-09-21 | 4.17 | 21 | 21 |
+| 2023-09-21 | 4.18 | 21 | 21 |

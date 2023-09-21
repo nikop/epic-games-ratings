@@ -27,9 +27,9 @@
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
 | Defeat Tezuth | 6.00% | ~5 |
 | Defeat Uskol | 6.00% | ~5 |
+| Bringing guns to a sword fight | 6.00% | ~5 |
 | A Deceiving Gift | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
-| Bringing guns to a sword fight | 5.00% | ~4 |
 | Ancient Powers | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
 | Wayseeker | 4.00% | ~3 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 382)  
+Progressed: 82 (Ranked 383)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

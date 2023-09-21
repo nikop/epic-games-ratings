@@ -45,13 +45,13 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 0.40% | ~13 |
 | Harvest No More | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
+| Reign of Confusion | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~6 |
 | Blood and Iron | 0.20% | ~6 |
 | Clean Slate | 0.20% | ~6 |
 | Warp Flickers | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
-| Reign of Confusion | 0.20% | ~6 |
 | Abomination | 0.20% | ~6 |
 | Killing Rampage | 0.20% | ~6 |
 | Suffer Not the Mutant | 0.20% | ~6 |

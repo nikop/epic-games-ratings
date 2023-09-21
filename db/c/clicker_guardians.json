@@ -2,10 +2,10 @@
   "ID": "d3c6cae1315c4c15924532e7a711e10c",
   "Name": "Clicker Guardians",
   "ProductSlug": "clicker-guardians-55044e",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.9718646+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:58:53.8670149+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:07:04.7908521+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:59:28.7507026+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:08:31.0279302+00:00"
 }

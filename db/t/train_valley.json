@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 489,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1133,6 +1133,11 @@
       "Time": "2023-09-20T15:08:53.5167176+00:00",
       "NumProgressed": 488,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-21T16:03:19.2560171+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1176,7 +1181,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "06_living",
@@ -1192,7 +1197,7 @@
       "Name": "Europe",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "08_america",
@@ -1238,9 +1243,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 142
     },
     {
       "ID": "14_woodcutter",
@@ -1280,7 +1285,7 @@
       "Name": "Foreman",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "19_justintime",
@@ -1320,7 +1325,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "24_mega",
@@ -1376,7 +1381,7 @@
       "Name": "Completely nuts!",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "31_chancellor",
@@ -1390,9 +1395,9 @@
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "33_peacemaker",
@@ -1438,9 +1443,9 @@
       "ID": "38_chuck",
       "SetID": "chb1m60",
       "Name": "Chuck Norris",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "39_salesman",
@@ -1455,15 +1460,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-21T15:02:15.8972974+00:00",
+  "LastChanged_Achievements": "2023-09-21T16:03:19.2560164+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:28.7863119+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:58:54.0070561+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:02:15.8973333+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:59:29.0851951+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:03:19.256059+00:00"
 }

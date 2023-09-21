@@ -21,8 +21,8 @@
 | Cybernetic | 6.00% | ~45 |
 | Fully Modded | 6.00% | ~45 |
 | Rookie | 6.00% | ~45 |
+| Eden Heights | 5.00% | ~38 |
 | Up Close And Personal | 5.00% | ~38 |
-| Eden Heights | 4.00% | ~30 |
 | Outer Core | 4.00% | ~30 |
 | Inner Core | 3.00% | ~23 |
 | Integration | 3.00% | ~23 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755 (Ranked 231)  
+Progressed: 755 (Ranked 232)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

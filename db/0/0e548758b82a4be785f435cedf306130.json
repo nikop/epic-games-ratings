@@ -2,10 +2,10 @@
   "ID": "0e548758b82a4be785f435cedf306130",
   "Name": "Black Myth: Wukong",
   "ProductSlug": "black-myth-wukong-87a72b",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-17T02:57:10.0107844+00:00",
-  "LastUpdate_Ratings": "2023-09-21T15:01:19.0852333+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:04:36.1875307+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:02:19.403352+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:05:37.0298311+00:00"
 }

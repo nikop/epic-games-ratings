@@ -2,10 +2,10 @@
   "ID": "f850c52f4f3d4c14b5bbb78b65ea9162",
   "Name": "One Lonely Outpost",
   "ProductSlug": "one-lonely-outpost-12afa6",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-26T17:00:00+00:00",
     "PcReleaseDate": "2023-06-26T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-26T22:58:47.5524028+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:02.0957447+00:00",
-  "LastUpdate_Ratings": "2023-09-21T15:00:30.4434237+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:05:49.2067568+00:00"
+  "LastUpdate_Ratings": "2023-09-21T16:01:20.9121837+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:07:02.5419306+00:00"
 }

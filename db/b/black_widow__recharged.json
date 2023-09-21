@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18211,
+  "EOS_Progressed": 18212,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12687,6 +12687,11 @@
       "Time": "2023-09-21T15:05:19.5743889+00:00",
       "NumProgressed": 18211,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-21T16:06:20.3355952+00:00",
+      "NumProgressed": 18212,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12696,9 +12701,9 @@
       "ID": "ACH_ACROSS_THE_BORDER",
       "SetID": "1blkama",
       "Name": "Across The Border",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14387
+      "UsersEstimate": 14205
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -12770,7 +12775,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -12809,15 +12814,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18211,
+      "Progressed": 18212,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-21T15:05:19.5743881+00:00",
+  "LastChanged_Achievements": "2023-09-21T16:06:20.3355946+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9412789+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:57:50.6685162+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:05:19.5744778+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:58:15.2158748+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:06:20.3357108+00:00"
 }

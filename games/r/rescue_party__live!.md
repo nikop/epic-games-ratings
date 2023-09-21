@@ -23,7 +23,7 @@
 | The song of water and fire | 0.00% | ~0 |
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 319)  
+Progressed: 213 (Ranked 320)  
 Completed: 7 (3.29%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |

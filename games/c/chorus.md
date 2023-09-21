@@ -7,13 +7,13 @@ Number of Ratings: 58  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 85.00% | ~1,017 |
-| Voices from the Past | 78.00% | ~933 |
-| Space Traveler | 78.00% | ~933 |
-| Demigod | 75.00% | ~897 |
-| The Great Destroyer | 74.00% | ~885 |
-| Shields Down | 71.00% | ~849 |
-| Helping Hand | 67.00% | ~801 |
-| Safe Home | 66.00% | ~789 |
+| Voices from the Past | 78.00% | ~934 |
+| Space Traveler | 78.00% | ~934 |
+| Demigod | 75.00% | ~898 |
+| The Great Destroyer | 74.00% | ~886 |
+| Shields Down | 71.00% | ~850 |
+| Helping Hand | 67.00% | ~802 |
+| Safe Home | 66.00% | ~790 |
 | Paragon | 62.00% | ~742 |
 | Old Days Born Anew | 61.00% | ~730 |
 | Full Arsenal | 56.00% | ~670 |
@@ -21,14 +21,14 @@ Number of Ratings: 58  (23.09.2022)
 | Payback | 53.00% | ~634 |
 | Huntress | 52.00% | ~622 |
 | Born to Drift | 51.00% | ~610 |
-| Relentless | 48.00% | ~574 |
-| The Path Forward | 45.00% | ~538 |
-| Disruption | 43.00% | ~514 |
-| Phoenix | 43.00% | ~514 |
-| Cult Slayer | 40.00% | ~478 |
-| Origin | 39.00% | ~466 |
-| It Was An Accident | 39.00% | ~466 |
-| Set in Motion | 38.00% | ~454 |
+| Relentless | 48.00% | ~575 |
+| The Path Forward | 45.00% | ~539 |
+| Disruption | 43.00% | ~515 |
+| Phoenix | 43.00% | ~515 |
+| Cult Slayer | 40.00% | ~479 |
+| Origin | 39.00% | ~467 |
+| It Was An Accident | 39.00% | ~467 |
+| Set in Motion | 38.00% | ~455 |
 | In the Eye of the Storm | 37.00% | ~443 |
 | The Crimson Void | 35.00% | ~419 |
 | The Nameless Dread | 34.00% | ~407 |
@@ -45,12 +45,12 @@ Number of Ratings: 58  (23.09.2022)
 | Ascension | 20.00% | ~239 |
 | Crash Test | 20.00% | ~239 |
 | Rise as One | 19.00% | ~227 |
-| Showoff | 15.00% | ~179 |
+| Showoff | 15.00% | ~180 |
 | Overcharged | 10.00% | ~120 |
 | Radiation Area | 10.00% | ~120 |
 | At Least You Tried | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,196 (Ranked 210)  
+Progressed: 1,197 (Ranked 211)  
 Completed: 15 (1.25%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 15 (1.25%) (Ranked 118)
 | 2023-09-18 | 1,190 | 15 |
 | 2023-09-19 | 1,193 | 15 |
 | 2023-09-20 | 1,195 | 15 |
-| 2023-09-21 | 1,196 | 15 |
+| 2023-09-21 | 1,197 | 15 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 459)  
 Sum: 32 (Ranked 481)  

@@ -1,42 +1,42 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.50 (Ranked 568)  
+Rating: 4.50 (Ranked 569)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,691 |
-| Stogie for Fogey | 26.00% | ~2,908 |
-| Martian Music | 24.00% | ~2,685 |
-| Captain Drummer | 24.00% | ~2,685 |
-| Celebrations are in Order | 24.00% | ~2,685 |
-| Spore Taste | 23.00% | ~2,573 |
-| The Pit and the Pirates | 21.00% | ~2,349 |
-| Drone Dodger | 20.00% | ~2,237 |
-| Doctor Approved | 19.00% | ~2,125 |
-| Thorston Mayer | 14.00% | ~1,566 |
-| Bottoms up! | 11.00% | ~1,230 |
-| Data Logger | 6.00% | ~671 |
-| Data Master | 5.00% | ~559 |
-| Data Recoverer | 5.00% | ~559 |
+| Impossible Objects | 33.00% | ~3,696 |
+| Stogie for Fogey | 26.00% | ~2,912 |
+| Martian Music | 24.00% | ~2,688 |
+| Captain Drummer | 24.00% | ~2,688 |
+| Celebrations are in Order | 24.00% | ~2,688 |
+| Spore Taste | 23.00% | ~2,576 |
+| The Pit and the Pirates | 21.00% | ~2,352 |
+| Drone Dodger | 20.00% | ~2,240 |
+| Doctor Approved | 19.00% | ~2,128 |
+| Thorston Mayer | 14.00% | ~1,568 |
+| Bottoms up! | 11.00% | ~1,232 |
+| Data Logger | 6.00% | ~672 |
+| Data Master | 5.00% | ~560 |
+| Data Recoverer | 5.00% | ~560 |
+| Call it Even | 3.00% | ~336 |
 | Bosmang | 3.00% | ~336 |
 | Debris Spree | 3.00% | ~336 |
 | Urshanabi Hoarder | 2.00% | ~224 |
 | Data Archivist | 2.00% | ~224 |
 | Heal Thy Medic | 2.00% | ~224 |
+| Miraculous Maya | 2.00% | ~224 |
 | Khan's Revenge | 2.00% | ~224 |
-| Call it Even | 2.00% | ~224 |
 | Grave Robber | 2.00% | ~224 |
 | Data Miner | 1.00% | ~112 |
-| Miraculous Maya | 1.00% | ~112 |
-| No Belter Left Behind | 0.80% | ~89 |
-| Brother's Reaper | 0.70% | ~78 |
+| No Belter Left Behind | 0.90% | ~101 |
+| Brother's Reaper | 0.80% | ~90 |
 | Scavenger Star | 0.10% | ~11 |
 | Data Collector | 0.10% | ~11 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,186 (Ranked 131)  
+Progressed: 11,200 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-18 | 10,769 | 0 |
 | 2023-09-19 | 10,886 | 0 |
 | 2023-09-20 | 11,076 | 0 |
-| 2023-09-21 | 11,186 | 0 |
+| 2023-09-21 | 11,200 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

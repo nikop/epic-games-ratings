@@ -1,22 +1,22 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 549)  
+Rating: 4.51 (Ranked 550)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~6,276 |
-| Man of politics | 35.00% | ~5,357 |
-| Friends of sorts | 33.00% | ~5,051 |
-| Yet another secret | 33.00% | ~5,051 |
-| Let there be darkness | 32.00% | ~4,898 |
+| Man of politics | 35.00% | ~5,358 |
+| Friends of sorts | 33.00% | ~5,052 |
+| Yet another secret | 33.00% | ~5,052 |
+| Let there be darkness | 32.00% | ~4,899 |
 | End of Book One | 30.00% | ~4,592 |
 | Wannabe knight | 24.00% | ~3,674 |
 | Garden of Eden | 24.00% | ~3,674 |
 | Full house | 24.00% | ~3,674 |
 | Help an old friend | 22.00% | ~3,368 |
-| Two of us | 20.00% | ~3,061 |
+| Two of us | 20.00% | ~3,062 |
 | Negotiation skills | 18.00% | ~2,755 |
 | Workers' union | 18.00% | ~2,755 |
 | End of Book Two | 18.00% | ~2,755 |
@@ -35,8 +35,8 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,378 |
 | The truth revealed | 9.00% | ~1,378 |
 | The End. | 9.00% | ~1,378 |
-| A cry for help | 7.00% | ~1,071 |
-| Silentium est aureum | 7.00% | ~1,071 |
+| A cry for help | 7.00% | ~1,072 |
+| Silentium est aureum | 7.00% | ~1,072 |
 | Rebel without a cause | 6.00% | ~918 |
 | Staring contest champion | 5.00% | ~765 |
 | Lone wolf | 5.00% | ~765 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~459 |
 | Boy of mystery | 2.00% | ~306 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,307 (Ranked 124)  
+Progressed: 15,308 (Ranked 124)  
 Completed: 111 (0.73%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 111 (0.73%) (Ranked 139)
 | 2023-09-18 | 15,269 | 111 |
 | 2023-09-19 | 15,287 | 111 |
 | 2023-09-20 | 15,297 | 111 |
-| 2023-09-21 | 15,307 | 111 |
+| 2023-09-21 | 15,308 | 111 |
 ## Awards
 Max (Easy Puzzles): 149  (Ranked 302)  
 Sum: 190 (Ranked 382)  

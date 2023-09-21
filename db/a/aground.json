@@ -2,10 +2,10 @@
   "ID": "2ccd3d825eff465393503a7a8ef7b5a0",
   "Name": "Aground",
   "ProductSlug": "aground",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-02-11T17:00:00+00:00",
     "PcReleaseDate": "2021-02-11T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:16.51526+00:00",
   "LastChanged": "2023-03-31T05:57:16.5152601+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:52.9116008+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:57:18.2596363+00:00",
-  "LastUpdate_Achievements": "2023-09-21T15:06:47.2317829+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:57:30.0063323+00:00",
+  "LastUpdate_Achievements": "2023-09-21T16:08:20.5223539+00:00"
 }
