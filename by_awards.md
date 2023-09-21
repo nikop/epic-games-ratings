@@ -34,7 +34,7 @@
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,759 | 4.39 | 721 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 11,584 | 4.88 | 19 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,573 | 4.45 | 640 |
-| 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,440 | 4.69 | 219 |
+| 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,442 | 4.69 | 219 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,710 | 4.76 | 118 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,097 | 4.78 | 101 |
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,075 | 4.61 | 371 |
@@ -43,7 +43,7 @@
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,222 | 4.89 | 12 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,051 | 4.48 | 603 |
 | 43 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 7,968 | 4.58 | 433 |
-| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,865 | 4.57 | 450 |
+| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,869 | 4.57 | 450 |
 | 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,853 | 4.85 | 41 |
 | 46 | [Supraland](games/s/supraland.md) | 7,688 | 4.61 | 371 |
 | 47 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,460 | 4.71 | 190 |
@@ -94,11 +94,11 @@
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,337 | 4.76 | 118 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,272 | 4.57 | 450 |
 | 94 | [Hades](games/h/hades.md) | 3,271 | 4.92 | 4 |
-| 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,783 | 4.50 | 568 |
+| 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,787 | 4.50 | 568 |
 | 96 | [Gotham Knights](games/g/gotham_knights.md) | 2,715 | 4.18 | 887 |
 | 97 | [Among Us](games/a/among_us.md) | 2,675 | 4.57 | 450 |
-| 98 | [Path of Exile](games/p/path_of_exile.md) | 2,625 | 4.61 | 371 |
-| 98 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,625 | 4.49 | 584 |
+| 98 | [Path of Exile](games/p/path_of_exile.md) | 2,627 | 4.61 | 371 |
+| 99 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,625 | 4.49 | 584 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,568 | 4.27 | 824 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,515 | 4.10 | 916 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,470 | 4.80 | 84 |
@@ -326,8 +326,8 @@
 | 323 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 119 | 4.36 | 751 |
 | 325 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 117 | 4.64 | 315 |
 | 325 | [Overcooked](games/o/overcooked.md) | 117 | 4.67 | 260 |
+| 327 | [The Outlast Trials](games/t/the_outlast_trials.md) | 113 | 4.66 | 282 |
 | 327 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 113 | 4.40 | 711 |
-| 328 | [The Outlast Trials](games/t/the_outlast_trials.md) | 112 | 4.66 | 282 |
 | 329 | [Faeria](games/f/faeria.md) | 111 | 4.46 | 627 |
 | 330 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 110 | 4.50 | 568 |
 | 331 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 109 | 4.50 | 568 |
@@ -351,7 +351,7 @@
 | 348 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 691 |
 | 348 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 95 | 4.54 | 504 |
 | 351 | [Dead Space](games/d/dead_space.md) | 94 | 4.61 | 371 |
-| 352 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 93 | 4.17 | 892 |
+| 352 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 93 | 4.17 | 891 |
 | 353 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 92 | 4.55 | 487 |
 | 354 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 568 |
 | 354 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 91 | 4.83 | 58 |
@@ -516,7 +516,7 @@
 | 513 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 21 | 4.15 | 904 |
 | 513 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 433 |
 | 513 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 21 | 4.52 | 534 |
-| 513 | [SYNCED](games/s/synced.md) | 21 | 4.17 | 892 |
+| 513 | [SYNCED](games/s/synced.md) | 21 | 4.17 | 891 |
 | 518 | [Aimlabs](games/a/aimlabs.md) | 20 | 4.62 | 350 |
 | 518 | [Figment](games/f/figment.md) | 20 | 4.46 | 627 |
 | 518 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 20 | 4.54 | 504 |

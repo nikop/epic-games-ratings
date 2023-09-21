@@ -230,7 +230,7 @@
 | 219 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 523 |
 | 219 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 523 |
 | 219 | [Revita](games/r/revita.md) | 4.69 | 0 | 523 |
-| 219 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,440 | 35 |
+| 219 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,442 | 35 |
 | 219 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 53 | 400 |
 | 219 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 300 | 240 |
 | 219 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.69 | 0 | 523 |
@@ -296,7 +296,7 @@
 | 282 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,919 | 110 |
 | 282 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 566 | 191 |
 | 282 | [SOMA](games/s/soma.md) | 4.66 | 0 | 523 |
-| 282 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 112 | 328 |
+| 282 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 113 | 327 |
 | 282 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,881 | 61 |
 | 282 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 205 |
 | 282 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 523 |
@@ -383,7 +383,7 @@
 | 371 | [MudRunner](games/m/mudrunner.md) | 4.61 | 260 | 253 |
 | 371 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 523 |
 | 371 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 523 |
-| 371 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,625 | 98 |
+| 371 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,627 | 98 |
 | 371 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 693 | 172 |
 | 371 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 333 |
 | 371 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 509 | 200 |
@@ -457,7 +457,7 @@
 | 450 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 39 | 431 |
 | 450 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 523 |
 | 450 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 523 |
-| 450 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,865 | 44 |
+| 450 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,869 | 44 |
 | 450 | [Observation](games/o/observation.md) | 4.57 | 0 | 523 |
 | 450 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,272 | 93 |
 | 450 | [Risen](games/r/risen.md) | 4.57 | 0 | 523 |
@@ -575,7 +575,7 @@
 | 568 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 354 |
 | 568 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 523 |
 | 568 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 254 | 255 |
-| 568 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,783 | 95 |
+| 568 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,787 | 95 |
 | 568 | [Horace](games/h/horace.md) | 4.50 | 0 | 523 |
 | 568 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 110 | 330 |
 | 568 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 523 |
@@ -599,7 +599,7 @@
 | 584 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 548,446 | 2 |
 | 584 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
 | 584 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 523 |
-| 584 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,625 | 98 |
+| 584 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,625 | 99 |
 | 584 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 523 |
 | 584 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 37 | 440 |
 | 603 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 0 | 523 |
@@ -890,12 +890,12 @@
 | 887 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 523 |
 | 887 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,715 | 96 |
 | 887 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 347 |
-| 887 | [Wreckfest](games/w/wreckfest.md) | 4.18 | 0 | 523 |
-| 892 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 0 | 523 |
-| 892 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 93 | 352 |
-| 892 | [SYNCED](games/s/synced.md) | 4.17 | 21 | 513 |
-| 892 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 523 |
-| 892 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 523 |
+| 891 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 0 | 523 |
+| 891 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 93 | 352 |
+| 891 | [SYNCED](games/s/synced.md) | 4.17 | 21 | 513 |
+| 891 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 523 |
+| 891 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 523 |
+| 891 | [Wreckfest](games/w/wreckfest.md) | 4.17 | 0 | 523 |
 | 897 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.16 | 35 | 447 |
 | 897 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 523 |
 | 897 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 617 | 184 |
