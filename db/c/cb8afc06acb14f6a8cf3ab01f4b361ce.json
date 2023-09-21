@@ -1,15 +1,17 @@
 {
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
-  "Name": null,
-  "Ranking_EOS_Progress": 618,
+  "Name": "Soulstice",
+  "Ranking_EOS_Progress": 620,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
-    "ReleaseDate": null,
-    "PcReleaseDate": null,
+    "ReleaseDate": "2099-09-28T15:00:00+00:00",
+    "PcReleaseDate": "2099-09-28T15:00:00+00:00",
     "isBlockchainUsed": false,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -32,7 +34,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged_Achievements": "2023-09-21T14:08:03.2376256+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:57:53.013249+00:00",
-  "LastUpdate_Achievements": "2023-09-21T14:08:03.2376288+00:00"
+  "LastChanged_Achievements": "2023-09-21T15:06:28.8136635+00:00",
+  "LastUpdate_Ratings": "2023-09-21T14:57:33.1095425+00:00",
+  "LastUpdate_Achievements": "2023-09-21T15:06:28.8136678+00:00"
 }

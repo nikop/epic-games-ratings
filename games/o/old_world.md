@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 6.00% | ~841 |
-| Play a Single Player Game | 6.00% | ~841 |
+| Settler | 6.00% | ~842 |
+| Play a Single Player Game | 6.00% | ~842 |
 | Explorer | 5.00% | ~701 |
 | Intrepid | 5.00% | ~701 |
 | Friendly Family | 5.00% | ~701 |
@@ -48,33 +48,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 3.00% | ~421 |
 | Naming Landmarks | 3.00% | ~421 |
 | The Great Mage | 3.00% | ~421 |
-| Regicide | 2.00% | ~280 |
-| Hanging Gardens in Babylon | 2.00% | ~280 |
-| Drillmaster | 2.00% | ~280 |
-| Great | 2.00% | ~280 |
-| Intercessor | 2.00% | ~280 |
-| Mighty | 2.00% | ~280 |
-| Valiant | 2.00% | ~280 |
-| Legendary Cities | 2.00% | ~280 |
-| Able Difficulty | 2.00% | ~280 |
-| Just Difficulty | 2.00% | ~280 |
-| Artisans | 2.00% | ~280 |
-| Sages | 2.00% | ~280 |
-| Furious Family | 2.00% | ~280 |
-| Acropolis | 2.00% | ~280 |
-| Apadana | 2.00% | ~280 |
-| Colossus | 2.00% | ~280 |
-| Mausoleum | 2.00% | ~280 |
-| Musaeum | 2.00% | ~280 |
-| Necropolis | 2.00% | ~280 |
-| Learn to Play 1 | 2.00% | ~280 |
-| Learn to Play 2 | 2.00% | ~280 |
-| Greece | 2.00% | ~280 |
-| Manichaeism | 2.00% | ~280 |
-| Egyptian Paganism | 2.00% | ~280 |
-| Mythology | 2.00% | ~280 |
-| Points Victory | 2.00% | ~280 |
-| Poetic Leader | 2.00% | ~280 |
+| Regicide | 2.00% | ~281 |
+| Hanging Gardens in Babylon | 2.00% | ~281 |
+| Drillmaster | 2.00% | ~281 |
+| Great | 2.00% | ~281 |
+| Intercessor | 2.00% | ~281 |
+| Mighty | 2.00% | ~281 |
+| Valiant | 2.00% | ~281 |
+| Legendary Cities | 2.00% | ~281 |
+| Able Difficulty | 2.00% | ~281 |
+| Just Difficulty | 2.00% | ~281 |
+| Artisans | 2.00% | ~281 |
+| Sages | 2.00% | ~281 |
+| Furious Family | 2.00% | ~281 |
+| Acropolis | 2.00% | ~281 |
+| Apadana | 2.00% | ~281 |
+| Colossus | 2.00% | ~281 |
+| Mausoleum | 2.00% | ~281 |
+| Musaeum | 2.00% | ~281 |
+| Necropolis | 2.00% | ~281 |
+| Learn to Play 1 | 2.00% | ~281 |
+| Learn to Play 2 | 2.00% | ~281 |
+| Greece | 2.00% | ~281 |
+| Manichaeism | 2.00% | ~281 |
+| Egyptian Paganism | 2.00% | ~281 |
+| Mythology | 2.00% | ~281 |
+| Points Victory | 2.00% | ~281 |
+| Poetic Leader | 2.00% | ~281 |
 | Beloved | 1.00% | ~140 |
 | Capable | 1.00% | ~140 |
 | Conqueror | 1.00% | ~140 |
@@ -103,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~140 |
 | Building Wonders | 1.00% | ~140 |
 | Economic Reform | 1.00% | ~140 |
+| Industrial Progress | 1.00% | ~140 |
 | Military Prestige | 1.00% | ~140 |
 | Dualism | 1.00% | ~140 |
 | Gnosticism | 1.00% | ~140 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.90% | ~126 |
 | Adur Burzen-Mihr | 0.90% | ~126 |
 | Carthage | 0.90% | ~126 |
-| Industrial Progress | 0.90% | ~126 |
 | Enlightenment | 0.90% | ~126 |
 | Revelation | 0.90% | ~126 |
 | Kushite Cavalry | 0.90% | ~126 |
@@ -142,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.60% | ~84 |
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
+| The Eternal Treaty | 0.50% | ~70 |
 | Persia | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
 | Play a Network Game | 0.50% | ~70 |
@@ -149,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.50% | ~70 |
 | Ancient | 0.40% | ~56 |
 | Glorious Difficulty | 0.40% | ~56 |
-| The Eternal Treaty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
 | Hatti | 0.40% | ~56 |
 | Pantheon of Gods | 0.40% | ~56 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,024 (Ranked 125)  
+Progressed: 14,026 (Ranked 125)  
 Completed: 5 (0.04%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -457,17 +457,17 @@ Completed: 5 (0.04%) (Ranked 248)
 | 2023-09-18 | 13,997 | 5 |
 | 2023-09-19 | 14,005 | 5 |
 | 2023-09-20 | 14,017 | 5 |
-| 2023-09-21 | 14,024 | 5 |
+| 2023-09-21 | 14,026 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
-Sum: 1,812 (Ranked 207)  
+Sum: 1,813 (Ranked 207)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 221 |
+| This game is Extremely Fun | 209 |
 | This game is Highly Recommended | 209 |
 | This game has Diverse Characters | 208 |
-| This game is Extremely Fun | 208 |
 | This game is Educational | 206 |
 | This game has Challenging Combat | 196 |
 | This game has Quickly Understood Controls | 189 |
@@ -607,3 +607,4 @@ Diff (max vs sum): 58
 | 2023-09-13 | 4.65 | - | 221 | 1,808 |
 | 2023-09-16 | 4.65 | - | 221 | 1,811 |
 | 2023-09-20 | 4.65 | - | 221 | 1,812 |
+| 2023-09-21 | 4.65 | - | 221 | 1,813 |

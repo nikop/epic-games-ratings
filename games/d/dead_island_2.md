@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,672 |
-| Git Gutte! | 2.00% | ~13,672 |
-| Bookworm | 2.00% | ~13,672 |
-| Break A Leg | 2.00% | ~13,672 |
-| But Doctor, I am Butcho | 2.00% | ~13,672 |
-| Can't Handle the Truth | 2.00% | ~13,672 |
-| Coup de Grâce | 2.00% | ~13,672 |
-| Like Riding a Bike | 2.00% | ~13,672 |
-| Hazardous Materials | 2.00% | ~13,672 |
-| Friends Like These | 2.00% | ~13,672 |
-| Hotel California | 2.00% | ~13,672 |
-| Apex Predator | 2.00% | ~13,672 |
-| A Patton Emerges | 2.00% | ~13,672 |
-| Stacking the Deck | 2.00% | ~13,672 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,672 |
-| This is My Weapon | 2.00% | ~13,672 |
-| Welcome To Hell-A | 2.00% | ~13,672 |
+| Dr. Reed, I Presume? | 2.00% | ~13,673 |
+| Git Gutte! | 2.00% | ~13,673 |
+| Bookworm | 2.00% | ~13,673 |
+| Break A Leg | 2.00% | ~13,673 |
+| But Doctor, I am Butcho | 2.00% | ~13,673 |
+| Can't Handle the Truth | 2.00% | ~13,673 |
+| Coup de Grâce | 2.00% | ~13,673 |
+| Like Riding a Bike | 2.00% | ~13,673 |
+| Hazardous Materials | 2.00% | ~13,673 |
+| Friends Like These | 2.00% | ~13,673 |
+| Hotel California | 2.00% | ~13,673 |
+| Apex Predator | 2.00% | ~13,673 |
+| A Patton Emerges | 2.00% | ~13,673 |
+| Stacking the Deck | 2.00% | ~13,673 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,673 |
+| This is My Weapon | 2.00% | ~13,673 |
+| Welcome To Hell-A | 2.00% | ~13,673 |
 | Making Your Mark | 1.00% | ~6,836 |
 | Anger Management | 1.00% | ~6,836 |
 | Perks of the Job | 1.00% | ~6,836 |
@@ -40,9 +40,9 @@ Rating: 4.54 (Ranked 505)
 | Jumbo Keyring | 0.60% | ~4,102 |
 | Not Even My Final Form | 0.50% | ~3,418 |
 | Internet Famous | 0.50% | ~3,418 |
-| Make it So | 0.40% | ~2,734 |
-| On Safari | 0.40% | ~2,734 |
-| Variety is the Spice of Death | 0.40% | ~2,734 |
+| Make it So | 0.40% | ~2,735 |
+| On Safari | 0.40% | ~2,735 |
+| Variety is the Spice of Death | 0.40% | ~2,735 |
 | LA Influential | 0.30% | ~2,051 |
 | Sole Survivor | 0.30% | ~2,051 |
 | Gore Horse | 0.30% | ~2,051 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 505)
 | Donk! | 0.10% | ~684 |
 | Bucket List | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,590 (Ranked 22)  
-Completed: 2,159 (0.32%) (Ranked 180)  
+Progressed: 683,626 (Ranked 22)  
+Completed: 2,160 (0.32%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,10 +205,10 @@ Completed: 2,159 (0.32%) (Ranked 180)
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
-| 2023-09-21 | 683,590 | 2,159 |
+| 2023-09-21 | 683,626 | 2,160 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
-Sum: 9,099 (Ranked 93)  
+Sum: 9,102 (Ranked 93)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -219,8 +219,8 @@ Diff (max vs sum): -36
 | This game is Relaxing | 381 |
 | This game has Amazing Storytelling | 357 |
 | This game is Extremely Fun | 341 |
+| This game is Highly Recommended | 332 |
 | This game has Amazing Characters | 332 |
-| This game is Highly Recommended | 329 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -377,4 +377,4 @@ Diff (max vs sum): -36
 | 2023-09-18 | 4.54 | 6,105 | 9,051 |
 | 2023-09-19 | 4.54 | 6,115 | 9,071 |
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
-| 2023-09-21 | 4.54 | 6,126 | 9,099 |
+| 2023-09-21 | 4.54 | 6,126 | 9,102 |

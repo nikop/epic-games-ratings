@@ -1,21 +1,21 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 751)  
+Rating: 4.36 (Ranked 752)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~47,208 |
-| INFUSED WITH LIGHT | 53.00% | ~36,795 |
-| FOXIN' AROUND | 29.00% | ~20,133 |
-| FETCH | 27.00% | ~18,744 |
-| BLOOMS OF LIGHT | 26.00% | ~18,050 |
-| AWAKEN | 22.00% | ~15,273 |
-| BEST FRIENDS | 22.00% | ~15,273 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~47,210 |
+| INFUSED WITH LIGHT | 53.00% | ~36,796 |
+| FOXIN' AROUND | 29.00% | ~20,134 |
+| FETCH | 27.00% | ~18,745 |
+| BLOOMS OF LIGHT | 26.00% | ~18,051 |
+| AWAKEN | 22.00% | ~15,274 |
+| BEST FRIENDS | 22.00% | ~15,274 |
 | ERADICATE | 21.00% | ~14,579 |
 | SPIRIT BARK | 21.00% | ~14,579 |
-| GARDEN OF LIGHT | 18.00% | ~12,496 |
+| GARDEN OF LIGHT | 18.00% | ~12,497 |
 | SPIRIT FORM | 16.00% | ~11,108 |
 | WRITTEN IN STONE | 16.00% | ~11,108 |
 | UPROOTING DARKNESS | 15.00% | ~10,414 |
@@ -28,11 +28,11 @@ Number of Ratings: 1,175  (23.09.2022)
 | NORTHERN LIGHTS | 7.00% | ~4,860 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,777 |
 | ANCIENT HISTORY | 3.00% | ~2,083 |
-| NONE FORGOTTEN | 2.00% | ~1,388 |
+| NONE FORGOTTEN | 2.00% | ~1,389 |
 | KINDRED SPIRITS | 0.60% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,424 (Ranked 85)  
-Completed: 361 (0.52%) (Ranked 157)  
+Progressed: 69,426 (Ranked 85)  
+Completed: 361 (0.52%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,7 +185,7 @@ Completed: 361 (0.52%) (Ranked 157)
 | 2023-09-18 | 69,227 | 360 |
 | 2023-09-19 | 69,306 | 360 |
 | 2023-09-20 | 69,388 | 360 |
-| 2023-09-21 | 69,424 | 361 |
+| 2023-09-21 | 69,426 | 361 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 483)  
 Sum: 114 (Ranked 413)  

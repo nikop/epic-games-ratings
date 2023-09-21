@@ -1,48 +1,48 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.49 (Ranked 584)  
+Rating: 4.49 (Ranked 585)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,703 |
-| Snatched Out | 74.00% | ~2,469 |
-| Keep 'Em Coming | 73.00% | ~2,436 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,236 |
-| Call Me Snake | 63.00% | ~2,102 |
-| Something Lurks Under The Hills | 61.00% | ~2,036 |
-| This Was No Papercut | 59.00% | ~1,969 |
-| People Person | 56.00% | ~1,869 |
-| The Shrink Hates Me | 56.00% | ~1,869 |
-| Use The Bumper, That's What It's For | 52.00% | ~1,735 |
-| First Steps Into Madness | 52.00% | ~1,735 |
-| Colonial Barrels | 50.00% | ~1,668 |
-| Harper's Hell | 45.00% | ~1,502 |
-| Making a Stand | 43.00% | ~1,435 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,402 |
-| Where It All Begun | 40.00% | ~1,335 |
-| Recouped Investment | 38.00% | ~1,268 |
-| Omelette Du Fromage | 34.00% | ~1,135 |
-| Living Nightmare | 33.00% | ~1,101 |
-| The More The Merrier | 33.00% | ~1,101 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,705 |
+| Snatched Out | 74.00% | ~2,471 |
+| Keep 'Em Coming | 73.00% | ~2,437 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,237 |
+| Call Me Snake | 63.00% | ~2,104 |
+| Something Lurks Under The Hills | 61.00% | ~2,037 |
+| This Was No Papercut | 59.00% | ~1,970 |
+| People Person | 56.00% | ~1,870 |
+| The Shrink Hates Me | 56.00% | ~1,870 |
+| Use The Bumper, That's What It's For | 52.00% | ~1,736 |
+| First Steps Into Madness | 52.00% | ~1,736 |
+| Colonial Barrels | 50.00% | ~1,670 |
+| Harper's Hell | 45.00% | ~1,503 |
+| Making a Stand | 43.00% | ~1,436 |
+| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,369 |
+| Where It All Begun | 40.00% | ~1,336 |
+| Recouped Investment | 38.00% | ~1,269 |
+| Omelette Du Fromage | 33.00% | ~1,102 |
+| Living Nightmare | 33.00% | ~1,102 |
+| The More The Merrier | 33.00% | ~1,102 |
 | The Darwin Era Was Here | 29.00% | ~968 |
-| Deep Into Insanity | 28.00% | ~934 |
-| The Passenger | 28.00% | ~934 |
+| Deep Into Insanity | 28.00% | ~935 |
+| The Passenger | 28.00% | ~935 |
 | Come on, You Wanna Live Forever? | 26.00% | ~868 |
-| The Spire | 25.00% | ~834 |
+| The Spire | 25.00% | ~835 |
 | El Riesgo Siempre Vive | 24.00% | ~801 |
 | Stuff Of Nightmares | 23.00% | ~768 |
-| Excavating The Truth | 22.00% | ~734 |
+| Excavating The Truth | 22.00% | ~735 |
 | Abysmal Horrors | 21.00% | ~701 |
-| One For Every Occasion | 20.00% | ~667 |
-| Frontliner | 20.00% | ~667 |
-| The Cable Guy | 20.00% | ~667 |
+| One For Every Occasion | 20.00% | ~668 |
+| Frontliner | 20.00% | ~668 |
+| The Cable Guy | 20.00% | ~668 |
 | Bandage Lover | 18.00% | ~601 |
 | Regicide | 15.00% | ~501 |
 | Flawless Victory | 13.00% | ~434 |
 | This Went Smoothly | 13.00% | ~434 |
-| Heavy Steps | 12.00% | ~400 |
-| Perfect Enhancements | 9.00% | ~300 |
+| Heavy Steps | 12.00% | ~401 |
+| Perfect Enhancements | 9.00% | ~301 |
 | Hardened In The Heat Of Battle | 7.00% | ~234 |
 | The True Experience | 6.00% | ~200 |
 | Archivist | 2.00% | ~67 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 584)
 | Chalk It Up To Experience | 0.80% | ~27 |
 | This Ain't No Picnic | 0.70% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,337 (Ranked 171)  
+Progressed: 3,339 (Ranked 171)  
 Completed: 3 (0.09%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 3 (0.09%) (Ranked 230)
 | 2023-09-18 | 3,306 | 3 |
 | 2023-09-19 | 3,320 | 3 |
 | 2023-09-20 | 3,329 | 3 |
-| 2023-09-21 | 3,337 | 3 |
+| 2023-09-21 | 3,339 | 3 |
 ## Awards
 Max (Great Boss Battles): 28  (Ranked 470)  
 Sum: 28 (Ranked 487)  

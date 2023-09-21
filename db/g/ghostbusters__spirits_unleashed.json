@@ -3,7 +3,7 @@
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 568,
-  "Ranking_Popularity": 255,
+  "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 199,
@@ -2116,12 +2116,18 @@
       "Rating": 4.5,
       "NumberOfAwards": 2325,
       "NumberOfAwardsMax": 254
+    },
+    {
+      "Time": "2023-09-21T15:00:36.2339358+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2326,
+      "NumberOfAwardsMax": 255
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2325,
-  "NumberOfAwardsMax": 254,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 2326,
+  "NumberOfAwardsMax": 255,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -2145,7 +2151,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 254
+      "Count": 255
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13377,9 +13383,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Diabolical",
@@ -13689,9 +13695,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     },
     {
       "ID": "Welcome_Crew",
@@ -13721,9 +13727,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-20T20:01:35.2934221+00:00",
-  "LastChanged_Achievements": "2023-09-21T14:06:53.5177943+00:00",
+  "LastChanged": "2023-09-21T15:00:36.2339355+00:00",
+  "LastChanged_Achievements": "2023-09-21T15:05:35.9747588+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:01:49.7528607+00:00",
-  "LastUpdate_Achievements": "2023-09-21T14:06:53.5178798+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:00:36.2339362+00:00",
+  "LastUpdate_Achievements": "2023-09-21T15:05:35.9748806+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "c9340fb1d3984f4f8f5bbafaa0ea066d",
   "Name": "Night Run",
   "ProductSlug": "night-run-51c60e",
-  "Ranking_EOS_Progress": 618,
+  "Ranking_EOS_Progress": 620,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-08-31T18:58:29.5183191+00:00",
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
-  "LastChanged_Achievements": "2023-09-21T14:05:51.561085+00:00",
+  "LastChanged_Achievements": "2023-09-21T15:04:39.4118383+00:00",
   "LastUpdate_AppInfo": "2023-09-19T18:57:24.9309272+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:02:20.3262316+00:00",
-  "LastUpdate_Achievements": "2023-09-21T14:05:51.561088+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:01:04.6412561+00:00",
+  "LastUpdate_Achievements": "2023-09-21T15:04:39.4118421+00:00"
 }

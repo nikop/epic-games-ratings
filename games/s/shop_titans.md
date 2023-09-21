@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 950)  
+Rating: 3.99 (Ranked 951)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,6 +12,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 2.00% | ~2,730 |
 | Capitalism Ho! | 2.00% | ~2,730 |
 | Titan's First Steps | 2.00% | ~2,730 |
+| The Daily Grind | 1.00% | ~1,365 |
 | One Easy Payment | 1.00% | ~1,365 |
 | Some Assembly Required | 1.00% | ~1,365 |
 | Another Satisfied Customer | 1.00% | ~1,365 |
@@ -21,7 +22,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,365 |
 | Through Repetition, Perfection | 1.00% | ~1,365 |
 | Own the Means of Production | 1.00% | ~1,365 |
-| The Daily Grind | 0.90% | ~1,228 |
 | Bounty Hunters | 0.90% | ~1,228 |
 | Demand for Supplies | 0.90% | ~1,228 |
 | Flooding the Market | 0.90% | ~1,228 |
@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.50% | ~682 |
 | Trash to Treasure | 0.50% | ~682 |
 | Mammonite | 0.50% | ~682 |
+| Fat Cat Tag Team | 0.50% | ~682 |
 | Miracle Alchemist | 0.50% | ~682 |
 | Laden with Loot | 0.50% | ~682 |
 | Seasoned Journeyman | 0.50% | ~682 |
@@ -84,7 +85,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 0.40% | ~546 |
 | By Your Powers Combined... | 0.40% | ~546 |
 | Wealth Beyond Measure | 0.40% | ~546 |
-| Fat Cat Tag Team | 0.40% | ~546 |
 | Necromancer Queen | 0.40% | ~546 |
 | Item of Renown | 0.40% | ~546 |
 | Master Merchant | 0.40% | ~546 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,477 (Ranked 69)  
+Progressed: 136,480 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 153 (0.11%) (Ranked 224)
 | 2023-09-18 | 136,378 | 152 |
 | 2023-09-19 | 136,421 | 153 |
 | 2023-09-20 | 136,453 | 153 |
-| 2023-09-21 | 136,477 | 153 |
+| 2023-09-21 | 136,480 | 153 |
 ## Awards
 Max (Great for Beginners): 4,748  (Ranked 70)  
 Sum: 27,261 (Ranked 48)  

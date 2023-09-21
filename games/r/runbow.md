@@ -1,13 +1,13 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 627)  
+Rating: 4.46 (Ranked 628)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~132,234 |
-| My First Runbow | 50.00% | ~124,749 |
-| It's The Fall | 26.00% | ~64,869 |
+| In The Zone | 53.00% | ~132,235 |
+| My First Runbow | 50.00% | ~124,750 |
+| It's The Fall | 26.00% | ~64,870 |
 | The Stunner | 22.00% | ~54,890 |
 | Be Aggressive | 21.00% | ~52,395 |
 | Curator | 20.00% | ~49,900 |
@@ -30,9 +30,9 @@ Rating: 4.46 (Ranked 627)
 | Just A Bit | 1.00% | ~2,495 |
 | Tubular, Dude | 1.00% | ~2,495 |
 | What A Trip | 1.00% | ~2,495 |
-| Please The King | 0.90% | ~2,245 |
+| Please The King | 0.90% | ~2,246 |
 | Here We Go! | 0.80% | ~1,996 |
-| Clear-Cut | 0.50% | ~1,247 |
+| Clear-Cut | 0.50% | ~1,248 |
 | Breaking Out | 0.40% | ~998 |
 | Disposable | 0.40% | ~998 |
 | A Winner Is You | 0.20% | ~499 |
@@ -40,19 +40,19 @@ Rating: 4.46 (Ranked 627)
 | I'm Here All Night | 0.20% | ~499 |
 | Ride The Wave | 0.20% | ~499 |
 | Tree Medalist | 0.20% | ~499 |
-| Can't Be Kept Down | 0.10% | ~249 |
-| Completionist | 0.10% | ~249 |
-| Did Your Time | 0.10% | ~249 |
-| Hanging 10 | 0.10% | ~249 |
-| Hard To Stomach | 0.10% | ~249 |
-| Indegestible | 0.10% | ~249 |
-| Lockup Lockdown | 0.10% | ~249 |
-| Not Scared | 0.10% | ~249 |
-| Perfect Darkness | 0.10% | ~249 |
-| Talent Scout | 0.10% | ~249 |
-| True Completionist | 0.10% | ~249 |
+| Can't Be Kept Down | 0.10% | ~250 |
+| Completionist | 0.10% | ~250 |
+| Did Your Time | 0.10% | ~250 |
+| Hanging 10 | 0.10% | ~250 |
+| Hard To Stomach | 0.10% | ~250 |
+| Indegestible | 0.10% | ~250 |
+| Lockup Lockdown | 0.10% | ~250 |
+| Not Scared | 0.10% | ~250 |
+| Perfect Darkness | 0.10% | ~250 |
+| Talent Scout | 0.10% | ~250 |
+| True Completionist | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,498 (Ranked 50)  
+Progressed: 249,500 (Ranked 50)  
 Completed: 5 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 5 (0.00%) (Ranked 281)
 | 2023-09-18 | 249,441 | 5 |
 | 2023-09-19 | 249,458 | 5 |
 | 2023-09-20 | 249,484 | 5 |
-| 2023-09-21 | 249,498 | 5 |
+| 2023-09-21 | 249,500 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

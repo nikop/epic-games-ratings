@@ -2404,9 +2404,9 @@
       "ID": "ID_33_SONIC2_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog 2",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "ID_34_SONIC3K_CLEAR_ALL_STAGE",
@@ -2436,8 +2436,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-21T14:04:57.4620341+00:00",
+  "LastChanged_Achievements": "2023-09-21T15:03:59.3789051+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:29.6550361+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:59:49.668168+00:00",
-  "LastUpdate_Achievements": "2023-09-21T14:04:57.462063+00:00"
+  "LastUpdate_Ratings": "2023-09-21T14:59:00.9238426+00:00",
+  "LastUpdate_Achievements": "2023-09-21T15:03:59.3789397+00:00"
 }

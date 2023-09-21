@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 933)  
+Rating: 4.06 (Ranked 934)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.10% | ~230 |
 | Starving in the Jungle | 0.10% | ~230 |
 | Cold as Ice | 0.10% | ~196 |
+| Keep Your Friends Close | 0.10% | ~196 |
 | Friends and Foes | 0.10% | ~196 |
 | And Your Enemies Closer | 0.10% | ~196 |
 | Tall Tales | 0.10% | ~196 |
@@ -501,6 +502,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Calcryx Tricks | 0.10% | ~196 |
 | Goblin Halls: the Next Generation | 0.10% | ~196 |
 | Bazaar Companions | 0.10% | ~196 |
+| Bahamut's Army | 0.10% | ~196 |
 | Rocky Reception | 0.10% | ~196 |
 | Luigi After Hours | 0.10% | ~196 |
 | Rock and Roll | 0.10% | ~196 |
@@ -522,16 +524,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~196 |
 | The Arena of Blood | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
-| Keep Your Friends Close | 0.00% | ~0 |
 | Third Third Out | 0.00% | ~0 |
 | Thoughts on the Menu | 0.00% | ~0 |
 | Brains on Ice | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
-| Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,554 (Ranked 57)  
+Progressed: 229,562 (Ranked 57)  
 Completed: 2,297 (1.00%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,14 +685,14 @@ Completed: 2,297 (1.00%) (Ranked 128)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,554 | 2,297 |
+| 2023-09-21 | 229,562 | 2,297 |
 ## Awards
-Max (Diverse Characters): 5,296  (Ranked 67)  
-Sum: 31,667 (Ranked 39)  
+Max (Diverse Characters): 5,301  (Ranked 67)  
+Sum: 31,672 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,296 |
+| This game has Diverse Characters | 5,301 |
 | This game is Great for Beginners | 5,280 |
 | This game has Quickly Understood Controls | 4,769 |
 | This game is Relaxing | 4,655 |
@@ -940,4 +940,4 @@ Diff (max vs sum): 28
 | 2023-09-18 | 4.06 | - | 5,285 | 31,633 |
 | 2023-09-19 | 4.06 | - | 5,292 | 31,652 |
 | 2023-09-20 | 4.06 | - | 5,296 | 31,661 |
-| 2023-09-21 | 4.06 | - | 5,296 | 31,667 |
+| 2023-09-21 | 4.06 | - | 5,301 | 31,672 |

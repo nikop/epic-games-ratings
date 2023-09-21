@@ -8545,9 +8545,9 @@
       "ID": "CarMechanic",
       "SetID": "d0jo315",
       "Name": "Car Mechanic",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 166
     },
     {
       "ID": "ChangChoi",
@@ -8729,8 +8729,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-12T18:58:36.6310426+00:00",
-  "LastChanged_Achievements": "2023-09-21T14:09:33.7402143+00:00",
+  "LastChanged_Achievements": "2023-09-21T15:08:26.7878208+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.2506303+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:02:23.2759661+00:00",
-  "LastUpdate_Achievements": "2023-09-21T14:09:33.7402621+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:01:06.7253692+00:00",
+  "LastUpdate_Achievements": "2023-09-21T15:08:26.78788+00:00"
 }

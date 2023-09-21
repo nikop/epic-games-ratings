@@ -5,22 +5,22 @@ Rating: 4.69 (Ranked 219)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~192,515 |
-| 50 HEADSHOTS | 27.00% | ~179,238 |
-| SCIENCE AND INDUSTRY | 26.00% | ~172,600 |
-| FINISHED CHAPTER 1 | 25.00% | ~165,962 |
-| FINISHED CHAPTER 2 | 19.00% | ~126,131 |
-| 200 HEADSHOTS | 16.00% | ~106,215 |
-| FINISHED CHAPTER 3 | 16.00% | ~106,215 |
-| FINISHED CHAPTER 4 | 13.00% | ~86,300 |
-| FINISH CHAPTER 5 | 11.00% | ~73,023 |
-| FINISH CHAPTER 6 | 10.00% | ~66,385 |
-| CATHARTIC ESCAPISM | 10.00% | ~66,385 |
-| 1000 KILLS | 8.00% | ~53,108 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,554 |
+| 100 KILLS | 29.00% | ~192,522 |
+| 50 HEADSHOTS | 27.00% | ~179,245 |
+| SCIENCE AND INDUSTRY | 26.00% | ~172,606 |
+| FINISHED CHAPTER 1 | 25.00% | ~165,968 |
+| FINISHED CHAPTER 2 | 19.00% | ~126,135 |
+| 200 HEADSHOTS | 16.00% | ~106,219 |
+| FINISHED CHAPTER 3 | 16.00% | ~106,219 |
+| FINISHED CHAPTER 4 | 13.00% | ~86,303 |
+| FINISH CHAPTER 5 | 11.00% | ~73,026 |
+| FINISH CHAPTER 6 | 10.00% | ~66,387 |
+| CATHARTIC ESCAPISM | 10.00% | ~66,387 |
+| 1000 KILLS | 8.00% | ~53,110 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,555 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,277 |
 | FIRST BLOOD | 2.00% | ~13,277 |
-| PACEMAKER | 1.00% | ~6,638 |
+| PACEMAKER | 1.00% | ~6,639 |
 | OUT OF ORDER | 0.90% | ~5,975 |
 | TIME PARADOX | 0.90% | ~5,975 |
 | FIREFIGHT LEVEL 30 | 0.80% | ~5,311 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 219)
 | THE GAMBLER | 0.10% | ~664 |
 | WARRIOR IN A GARDEN | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,846 (Ranked 24)  
+Progressed: 663,870 (Ranked 24)  
 Completed: 64 (0.01%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 64 (0.01%) (Ranked 266)
 | 2023-09-18 | 662,777 | 63 |
 | 2023-09-19 | 663,209 | 63 |
 | 2023-09-20 | 663,614 | 63 |
-| 2023-09-21 | 663,846 | 64 |
+| 2023-09-21 | 663,870 | 64 |
 ## Awards
 Max (Great Boss Battles): 300  (Ranked 240)  
 Sum: 300 (Ranked 341)  

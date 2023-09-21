@@ -1,20 +1,20 @@
 # Saturnalia
 [Store](https://store.epicgames.com/en-US/p/saturnalia)  
 [View Rawdata](../../db/s/saturnalia.json)  
-Rating: 4.26 (Ranked 832)  
+Rating: 4.26 (Ranked 833)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Out of Shape | 4.00% | ~2,662 |
-| Bonfire Lit | 3.00% | ~1,996 |
-| Survival Expert | 3.00% | ~1,996 |
+| Bonfire Lit | 3.00% | ~1,997 |
+| Survival Expert | 3.00% | ~1,997 |
 | Denial | 2.00% | ~1,331 |
 | Acceptance | 2.00% | ~1,331 |
 | Bargaining | 2.00% | ~1,331 |
-| Anger | 1.00% | ~665 |
-| Fear Of The Dark | 1.00% | ~665 |
-| Detective of the occult | 1.00% | ~665 |
-| Depression | 1.00% | ~665 |
+| Anger | 1.00% | ~666 |
+| Fear Of The Dark | 1.00% | ~666 |
+| Detective of the occult | 1.00% | ~666 |
+| Depression | 1.00% | ~666 |
 | Bless me Father... | 0.90% | ~599 |
 | Power of Friendship | 0.70% | ~466 |
 | Phone Bill | 0.70% | ~466 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 832)
 | Are you still there? | 0.40% | ~266 |
 | Ear Ringing | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,549 (Ranked 86)  
+Progressed: 66,551 (Ranked 86)  
 Completed: 14 (0.02%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 14 (0.02%) (Ranked 257)
 | 2023-09-18 | 66,505 | 14 |
 | 2023-09-19 | 66,522 | 14 |
 | 2023-09-20 | 66,538 | 14 |
-| 2023-09-21 | 66,549 | 14 |
+| 2023-09-21 | 66,551 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

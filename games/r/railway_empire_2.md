@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.44 (Ranked 651)  
+Rating: 4.44 (Ranked 652)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,8 +17,8 @@ Rating: 4.44 (Ranked 651)
 | Mind the Gap | 64.00% | ~1,234 |
 | All around the World | 62.00% | ~1,195 |
 | Right through the middle | 57.00% | ~1,099 |
+| Poor Devil | 54.00% | ~1,041 |
 | Facility Manager | 53.00% | ~1,022 |
-| Poor Devil | 53.00% | ~1,022 |
 | Producer | 50.00% | ~964 |
 | Apprentice | 41.00% | ~790 |
 | Bridge Builder | 41.00% | ~790 |

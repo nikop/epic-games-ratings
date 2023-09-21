@@ -1,11 +1,11 @@
 # Realm Royale Reforged
 [Store](https://store.epicgames.com/en-US/p/realm-royale-reforged)  
 [View Rawdata](../../db/r/realm_royale_reforged.json)  
-Rating: 4.29 (Ranked 809)  
+Rating: 4.29 (Ranked 810)  
 Number of Ratings: 841  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 143  (Ranked 307)  
-Sum: 1,384 (Ranked 226)  
+Sum: 1,385 (Ranked 226)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 81
 | This game has Competitive Players | 131 |
 | This game is Highly Recommended | 125 |
 | This game has Quickly Understood Controls | 123 |
-| This game has Amazing Characters | 121 |
+| This game has Amazing Characters | 122 |
 | This game is Extremely Fun | 118 |
 | This game has Playful Visuals | 118 |
 | This game has Amazing Storytelling | 113 |
@@ -184,3 +184,4 @@ Diff (max vs sum): 81
 | 2023-09-16 | 4.29 | - | 143 | 1,381 |
 | 2023-09-18 | 4.29 | - | 143 | 1,382 |
 | 2023-09-20 | 4.29 | - | 143 | 1,384 |
+| 2023-09-21 | 4.29 | - | 143 | 1,385 |

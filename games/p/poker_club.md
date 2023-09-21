@@ -1,30 +1,30 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.81 (Ranked 977)  
+Rating: 3.81 (Ranked 978)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~399,201 |
-| Handy | 41.00% | ~215,358 |
-| Cold Caller | 39.00% | ~204,853 |
-| A Bit On The Side | 26.00% | ~136,569 |
-| Backdoor | 25.00% | ~131,316 |
-| Rank Amateur | 21.00% | ~110,305 |
-| Three Way | 18.00% | ~94,548 |
-| Deadly Assassin | 15.00% | ~78,790 |
-| Gutshot | 13.00% | ~68,284 |
-| Risk It For A Biscuit | 13.00% | ~68,284 |
-| Showoff | 13.00% | ~68,284 |
-| W.H.I.P. | 11.00% | ~57,779 |
-| Bet Bet Bet | 9.00% | ~47,274 |
-| Blindman's Bluff | 9.00% | ~47,274 |
-| Poker Joker | 9.00% | ~47,274 |
-| Never Give Up | 8.00% | ~42,021 |
-| Total Knock Out | 8.00% | ~42,021 |
-| Dog Eat Dog | 7.00% | ~36,768 |
-| Quack Quack | 7.00% | ~36,768 |
-| The Bigger They Are | 7.00% | ~36,768 |
+| Pro Creation | 76.00% | ~399,208 |
+| Handy | 41.00% | ~215,362 |
+| Cold Caller | 39.00% | ~204,857 |
+| A Bit On The Side | 26.00% | ~136,571 |
+| Backdoor | 25.00% | ~131,318 |
+| Rank Amateur | 21.00% | ~110,308 |
+| Three Way | 18.00% | ~94,549 |
+| Deadly Assassin | 15.00% | ~78,791 |
+| Gutshot | 13.00% | ~68,286 |
+| Risk It For A Biscuit | 13.00% | ~68,286 |
+| Showoff | 13.00% | ~68,286 |
+| W.H.I.P. | 11.00% | ~57,780 |
+| Bet Bet Bet | 9.00% | ~47,275 |
+| Blindman's Bluff | 9.00% | ~47,275 |
+| Poker Joker | 9.00% | ~47,275 |
+| Never Give Up | 8.00% | ~42,022 |
+| Total Knock Out | 8.00% | ~42,022 |
+| Dog Eat Dog | 7.00% | ~36,769 |
+| Quack Quack | 7.00% | ~36,769 |
+| The Bigger They Are | 7.00% | ~36,769 |
 | Give Your Regards To Broadway | 6.00% | ~31,516 |
 | Check Yourself | 4.00% | ~21,011 |
 | Moneymaker | 4.00% | ~21,011 |
@@ -51,7 +51,7 @@ Rating: 3.81 (Ranked 977)
 | Rounder | 0.10% | ~525 |
 | Top Dog | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,264 (Ranked 34)  
+Progressed: 525,274 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2 (0.00%) (Ranked 281)
 | 2023-09-18 | 524,731 | 2 |
 | 2023-09-19 | 524,946 | 2 |
 | 2023-09-20 | 525,148 | 2 |
-| 2023-09-21 | 525,264 | 2 |
+| 2023-09-21 | 525,274 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 426)  
 Sum: 112 (Ranked 414)  

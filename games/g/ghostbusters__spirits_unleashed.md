@@ -12,6 +12,7 @@ Rating: 4.50 (Ranked 568)
 | Fully Upgraded | 0.40% | ~104 |
 | Solo Capture | 0.40% | ~104 |
 | Teamwork | 0.40% | ~104 |
+| Vaporous Expansion | 0.40% | ~104 |
 | Animated | 0.30% | ~78 |
 | Back Off | 0.30% | ~78 |
 | Clutch Capture | 0.30% | ~78 |
@@ -21,8 +22,8 @@ Rating: 4.50 (Ranked 568)
 | Summoner | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
 | There you are! | 0.30% | ~78 |
-| Vaporous Expansion | 0.30% | ~78 |
 | Whoopsie | 0.30% | ~78 |
+| Daily Dose | 0.20% | ~52 |
 | Ectoplasmic Entity | 0.20% | ~52 |
 | Ghostbuster In Training | 0.20% | ~52 |
 | Pesky Jerks | 0.20% | ~52 |
@@ -36,7 +37,6 @@ Rating: 4.50 (Ranked 568)
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | Collector | 0.10% | ~26 |
-| Daily Dose | 0.10% | ~26 |
 | Diabolical | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Escape Artist | 0.10% | ~26 |
@@ -213,13 +213,13 @@ Completed: 58 (0.22%) (Ranked 199)
 | 2023-09-20 | 25,927 | 57 |
 | 2023-09-21 | 25,932 | 58 |
 ## Awards
-Max (Great for Beginners): 254  (Ranked 255)  
-Sum: 2,325 (Ranked 188)  
-Diff (max vs sum): 67  
+Max (Great for Quick Sessions): 255  (Ranked 254)  
+Sum: 2,326 (Ranked 188)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 255 |
 | This game is Great for Beginners | 254 |
-| This game is Great for Quick Sessions | 254 |
 | This game has Competitive Players | 236 |
 | This game has Amazing Storytelling | 235 |
 | This game is Extremely Fun | 231 |
@@ -396,3 +396,4 @@ Diff (max vs sum): 67
 | 2023-09-17 | 4.50 | 254 | 2,316 |
 | 2023-09-19 | 4.50 | 254 | 2,317 |
 | 2023-09-20 | 4.50 | 254 | 2,325 |
+| 2023-09-21 | 4.50 | 255 | 2,326 |

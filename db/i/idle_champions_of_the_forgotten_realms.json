@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6740,11 +6740,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 31667,
       "NumberOfAwardsMax": 5296
+    },
+    {
+      "Time": "2023-09-21T14:59:22.1645733+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31672,
+      "NumberOfAwardsMax": 5301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31667,
-  "NumberOfAwardsMax": 5296,
+  "NumberOfAwards": 31672,
+  "NumberOfAwardsMax": 5301,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6757,7 +6763,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5296
+      "Count": 5301
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6790,9 +6796,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229554,
+  "EOS_Progressed": 229562,
   "EOS_Completed": 2297,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23880,6 +23886,11 @@
       "Time": "2023-09-21T14:04:52.4975893+00:00",
       "NumProgressed": 229554,
       "NumCompleted": 2297
+    },
+    {
+      "Time": "2023-09-21T15:03:56.1516519+00:00",
+      "NumProgressed": 229562,
+      "NumCompleted": 2297
     }
   ],
   "TotalAchievements": 524,
@@ -23937,9 +23948,9 @@
       "ID": "objective_completed_1041",
       "SetID": "415jc5c",
       "Name": "Keep Your Friends Close",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1045",
@@ -27905,9 +27916,9 @@
       "ID": "objective_completed_668",
       "SetID": "415jc5c",
       "Name": "Bahamut\u0027s Army",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1375",
@@ -28082,21 +28093,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195828,
-      "Completed": 3459
+      "Progressed": 195836,
+      "Completed": 3461
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229554,
+      "Progressed": 229562,
       "Completed": 2297
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-21T13:05:45.6994112+00:00",
-  "LastChanged_Achievements": "2023-09-21T14:04:52.4975888+00:00",
+  "LastChanged": "2023-09-21T14:59:22.1645732+00:00",
+  "LastChanged_Achievements": "2023-09-21T15:03:56.151651+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:00:15.6051499+00:00",
-  "LastUpdate_Achievements": "2023-09-21T14:04:52.5002248+00:00"
+  "LastUpdate_Ratings": "2023-09-21T14:59:22.1645739+00:00",
+  "LastUpdate_Achievements": "2023-09-21T15:03:56.1546544+00:00"
 }

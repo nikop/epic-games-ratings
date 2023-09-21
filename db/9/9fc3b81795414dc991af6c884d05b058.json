@@ -2,9 +2,9 @@
   "ID": "9fc3b81795414dc991af6c884d05b058",
   "Name": "WorldShards",
   "ProductSlug": "worldshards-6bf02f",
-  "Ranking_EOS_Progress": 618,
+  "Ranking_EOS_Progress": 620,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-19T19:57:07.3577476+00:00",
-  "LastUpdate_Ratings": "2023-09-21T13:57:27.6202036+00:00",
-  "LastUpdate_Achievements": "2023-09-21T14:04:28.4215916+00:00"
+  "LastUpdate_Ratings": "2023-09-21T14:57:17.2808298+00:00",
+  "LastUpdate_Achievements": "2023-09-21T15:03:38.0091705+00:00"
 }

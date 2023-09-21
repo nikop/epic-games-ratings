@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.02 (Ranked 943)  
+Rating: 4.02 (Ranked 944)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -73,8 +73,8 @@ Rating: 4.02 (Ranked 943)
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.80% | ~16 |
+| Pokerface | 0.80% | ~16 |
 | Angel Power | 0.70% | ~14 |
-| Pokerface | 0.70% | ~14 |
 | Conqueror | 0.60% | ~12 |
 | Ultimate War Machines | 0.50% | ~10 |
 | Silverwood liberator | 0.40% | ~8 |

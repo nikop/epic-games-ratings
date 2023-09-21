@@ -1047,9 +1047,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "PROGRESS_N5",
@@ -1070,8 +1070,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-21T14:09:25.1027573+00:00",
+  "LastChanged_Achievements": "2023-09-21T15:08:20.0764553+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-21T14:01:53.1632606+00:00",
-  "LastUpdate_Achievements": "2023-09-21T14:09:25.1027976+00:00"
+  "LastUpdate_Ratings": "2023-09-21T15:00:40.1784171+00:00",
+  "LastUpdate_Achievements": "2023-09-21T15:08:20.0764883+00:00"
 }

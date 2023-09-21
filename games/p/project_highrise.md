@@ -7,9 +7,9 @@
 | In the Black | 61.00% | ~206 |
 | Starting Skyward | 55.00% | ~186 |
 | Grime is Not Good | 49.00% | ~166 |
-| Floor Galore | 41.00% | ~139 |
+| Floor Galore | 42.00% | ~142 |
+| Dinner Dash | 42.00% | ~142 |
 | Campaign Launch | 41.00% | ~139 |
-| Dinner Dash | 41.00% | ~139 |
 | Need a Consult | 38.00% | ~128 |
 | It's Technical | 38.00% | ~128 |
 | Upgrade Unlock | 37.00% | ~125 |
