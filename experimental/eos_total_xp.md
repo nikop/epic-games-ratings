@@ -7,6 +7,7 @@
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 524 | 2,620 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
+| [STAR WARS™ Battlefront™ Ultimate Edition](../games/s/star_wars™_battlefront™_ultimate_edition.md) | 63 | 2,000 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 |
 | [Sifu](../games/s/sifu.md) | 60 | 1,720 |
@@ -41,6 +42,7 @@
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [Mega City Police](../games/m/mega_city_police.md) | 27 | 1,050 |
+| [STAR WARS™ Battlefront™ II: Celebration Edition](../games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 43 | 1,045 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
 | [](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
 | ['n Verlore Verstand](../games/'/'n_verlore_verstand.md) | 48 | 1,000 |
@@ -203,6 +205,7 @@
 | [Dungeons 3](../games/d/dungeons_3.md) | 60 | 1,000 |
 | [Dust to the End](../games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 47 | 1,000 |
 | [Dying Light Enhanced Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
+| [EA SPORTS FC™ 24 Standard Edition](../games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 40 | 1,000 |
 | [EA SPORTS™ FIFA 23 Standard Edition](../games/e/ea_sports™_fifa_23_standard_edition.md) | 39 | 1,000 |
 | [EA SPORTS™ PGA TOUR™](../games/e/ea_sports™_pga_tour™.md) | 18 | 1,000 |
 | [EBOLA 2](../games/e/ebola_2.md) | 18 | 1,000 |
@@ -312,6 +315,7 @@
 | [I Am Future - Cozy Apocalypse Survival](../games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 20 | 1,000 |
 | [I Saw Black Clouds](../games/i/i_saw_black_clouds.md) | 15 | 1,000 |
 | [Imagine Earth](../games/i/imagine_earth.md) | 24 | 1,000 |
+| [Immortals of Aveum™](../games/i/immortals_of_aveum™.md) | 47 | 1,000 |
 | [Indoor Kickball](../games/i/indoor_kickball.md) | 40 | 1,000 |
 | [Infindustry](../games/i/infindustry.md) | 12 | 1,000 |
 | [Influent](../games/3/3d27fbb922a04299b8401e1b50c55619.md) | 12 | 1,000 |
@@ -360,6 +364,7 @@
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 42 | 1,000 |
 | [Luna's Fishing Garden](../games/l/luna's_fishing_garden.md) | 14 | 1,000 |
 | [Madden NFL 23](../games/m/madden_nfl_23.md) | 21 | 1,000 |
+| [Madden NFL 24](../games/0/0460f46401ae4bdcadbc931d30028015.md) | 21 | 1,000 |
 | [Maid of Sker](../games/m/maid_of_sker.md) | 30 | 1,000 |
 | [Marble It Up! Ultra](../games/2/267b56359a8c45ee9154861187de210b.md) | 86 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
@@ -527,6 +532,7 @@
 | [Spirit of the North](../games/s/spirit_of_the_north.md) | 24 | 1,000 |
 | [Star Trek Prodigy: Supernova](../games/s/star_trek_prodigy__supernova.md) | 41 | 1,000 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](../games/s/star_wars_jedi__fallen_order_standard_edition.md) | 39 | 1,000 |
+| [STAR WARS Jedi: Survivor™](../games/s/star_wars_jedi__survivor™.md) | 53 | 1,000 |
 | [STAR WARS™: Squadrons](../games/s/star_wars™__squadrons.md) | 47 | 1,000 |
 | [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
 | [STASIS : BONE TOTEM](../games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 20 | 1,000 |
