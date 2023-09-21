@@ -5,10 +5,10 @@ Rating: 4.30 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~142 |
-| Bullseye! | 84.00% | ~135 |
+| Level Up! | 89.00% | ~143 |
+| Bullseye! | 85.00% | ~137 |
 | Graduation! | 80.00% | ~129 |
-| Villfir Forest | 76.00% | ~122 |
+| Villfir Forest | 77.00% | ~124 |
 | Right in the kisser! | 60.00% | ~97 |
 | The Thrower | 48.00% | ~77 |
 | Duscot Steamcity | 48.00% | ~77 |

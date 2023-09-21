@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527739,
+  "EOS_Progressed": 527740,
   "EOS_Completed": 476,
   "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 3,
@@ -16929,6 +16929,11 @@
       "Time": "2023-09-21T12:04:38.6916277+00:00",
       "NumProgressed": 527739,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-21T13:09:34.0363346+00:00",
+      "NumProgressed": 527740,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 57,
@@ -16956,7 +16961,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369417
+      "UsersEstimate": 369418
     },
     {
       "ID": "12",
@@ -17020,7 +17025,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327198
+      "UsersEstimate": 327199
     },
     {
       "ID": "2",
@@ -17036,7 +17041,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126657
+      "UsersEstimate": 126658
     },
     {
       "ID": "21",
@@ -17196,7 +17201,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179431
+      "UsersEstimate": 179432
     },
     {
       "ID": "4",
@@ -17268,7 +17273,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327198
+      "UsersEstimate": 327199
     },
     {
       "ID": "48",
@@ -17284,7 +17289,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179431
+      "UsersEstimate": 179432
     },
     {
       "ID": "5",
@@ -17300,7 +17305,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73883
+      "UsersEstimate": 73884
     },
     {
       "ID": "51",
@@ -17395,15 +17400,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527739,
+      "Progressed": 527740,
       "Completed": 476
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:04:38.6916267+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:09:34.0363336+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:22.714106+00:00",
-  "LastUpdate_Ratings": "2023-09-21T12:00:21.3524975+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:04:38.6918018+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:05:35.0504925+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:09:34.0365035+00:00"
 }

@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20510,
+  "EOS_Progressed": 20511,
   "EOS_Completed": 410,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -16868,6 +16868,11 @@
       "Time": "2023-09-21T12:04:54.017595+00:00",
       "NumProgressed": 20510,
       "NumCompleted": 410
+    },
+    {
+      "Time": "2023-09-21T13:09:47.3718184+00:00",
+      "NumProgressed": 20511,
+      "NumCompleted": 410
     }
   ],
   "TotalAchievements": 20,
@@ -16895,7 +16900,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -16943,7 +16948,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "FOUND_ERIN",
@@ -17015,7 +17020,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -17038,15 +17043,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20510,
+      "Progressed": 20511,
       "Completed": 410
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:04:54.0175942+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:09:47.3718179+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-21T12:03:05.8138393+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:04:54.017823+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:07:45.9110965+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:09:47.3719552+00:00"
 }

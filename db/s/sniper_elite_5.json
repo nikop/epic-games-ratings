@@ -524,7 +524,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3645,
+  "EOS_Progressed": 3646,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
@@ -6799,6 +6799,11 @@
       "Time": "2023-09-20T18:07:47.6907543+00:00",
       "NumProgressed": 3645,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-21T13:13:04.598028+00:00",
+      "NumProgressed": 3646,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6946,7 +6951,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7058,7 +7063,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7377,13 +7382,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3596,
+      "Progressed": 3597,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3645,
+      "Progressed": 3646,
       "Completed": 11
     }
   ],
@@ -7391,8 +7396,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:08:41.6567456+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:13:04.5980271+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:59:12.3591028+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:08:41.6568851+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:04:34.603129+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:13:04.598148+00:00"
 }

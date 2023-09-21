@@ -24,10 +24,10 @@ Rating: 4.68 (Ranked 243)
 | Extensive retelling | 4.00% | ~27 |
 | Favorite | 4.00% | ~27 |
 | Queen | 4.00% | ~27 |
+| Specialist | 4.00% | ~27 |
 | Goal! | 3.00% | ~20 |
 | Gnowlledgeable | 3.00% | ~20 |
 | Both sides | 3.00% | ~20 |
-| Specialist | 3.00% | ~20 |
 | Toxic | 3.00% | ~20 |
 | Witch's cookbook | 3.00% | ~20 |
 | Always worth a try | 2.00% | ~14 |

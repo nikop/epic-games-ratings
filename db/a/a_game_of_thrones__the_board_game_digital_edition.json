@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24404,
+  "EOS_Progressed": 24406,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -17775,6 +17775,11 @@
       "Time": "2023-09-21T12:07:35.9693443+00:00",
       "NumProgressed": 24404,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-21T13:12:08.3071805+00:00",
+      "NumProgressed": 24406,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 22,
@@ -17882,7 +17887,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "1028",
@@ -17961,15 +17966,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24404,
+      "Progressed": 24406,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:07:35.9693433+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:12:08.3071797+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.9877962+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:58:27.5883206+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:07:35.9695019+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:03:55.2768021+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:12:08.307315+00:00"
 }

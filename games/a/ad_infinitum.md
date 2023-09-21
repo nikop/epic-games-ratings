@@ -18,10 +18,10 @@
 | Rage | 11.00% | ~3 |
 | Reflections | 11.00% | ~3 |
 | The shining | 11.00% | ~3 |
+| Art critic | 7.00% | ~2 |
 | Mayhem | 7.00% | ~2 |
 | An act of mercy | 4.00% | ~1 |
 | Ad Infinitum | 4.00% | ~1 |
-| Art critic | 4.00% | ~1 |
 | Clarity | 4.00% | ~1 |
 | Despair | 4.00% | ~1 |
 | Jigsaw | 4.00% | ~1 |

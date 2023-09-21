@@ -294,9 +294,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Holy Mountain",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:05:12.1807959+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:10:03.2733603+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:32.3793412+00:00",
-  "LastUpdate_Ratings": "2023-09-21T12:01:13.4605126+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:05:12.1808711+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:06:18.4170761+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:10:03.273409+00:00"
 }

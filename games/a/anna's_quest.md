@@ -25,10 +25,10 @@
 | Sorry Grandpa | 42.00% | ~18 |
 | GG | 37.00% | ~16 |
 | No posters allowed | 37.00% | ~16 |
+| Close the deal | 35.00% | ~15 |
 | You've got mail! | 35.00% | ~15 |
 | Beekeeper | 35.00% | ~15 |
 | Mischief maker | 35.00% | ~15 |
-| Close the deal | 33.00% | ~14 |
 | Shattered | 33.00% | ~14 |
 | Pain in the hands | 33.00% | ~14 |
 | Memories | 30.00% | ~13 |

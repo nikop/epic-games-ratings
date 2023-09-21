@@ -484,9 +484,9 @@
       "ID": "4",
       "SetID": "5e3maia",
       "Name": "Epic Alliance",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "40",
@@ -787,8 +787,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:08:29.638365+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:12:54.3734828+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:58:39.6451022+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:08:29.638438+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:04:06.0264924+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:12:54.3735681+00:00"
 }

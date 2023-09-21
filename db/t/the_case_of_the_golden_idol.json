@@ -2,7 +2,7 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 109,
@@ -863,9 +863,9 @@
       "ID": "12",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 2nd Case",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "13",
@@ -918,8 +918,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:08:41.3080589+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:13:04.2773232+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.430436+00:00",
-  "LastUpdate_Ratings": "2023-09-21T12:01:45.2348497+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:08:41.3080882+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:06:46.6754513+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:13:04.2773428+00:00"
 }

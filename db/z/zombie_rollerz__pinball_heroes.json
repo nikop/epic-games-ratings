@@ -629,9 +629,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -653,9 +653,9 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -877,9 +877,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -1198,8 +1198,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:09:13.2049919+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:13:31.5348748+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:26.6139779+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:58:05.2298968+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:09:13.205123+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:03:34.3789701+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:13:31.5349572+00:00"
 }

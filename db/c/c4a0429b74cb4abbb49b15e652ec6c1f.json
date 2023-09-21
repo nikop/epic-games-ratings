@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 376,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-09-20T16:03:35.9920736+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T13:09:35.4304852+00:00",
+      "NumProgressed": 376,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1641,7 +1646,7 @@
       "Name": "Moon Conquerer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "pianist",
@@ -1649,7 +1654,7 @@
       "Name": "Pianist",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "platformer_player",
@@ -1665,7 +1670,7 @@
       "Name": "Play worlds from foes",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "publish_your_first_world",
@@ -1689,7 +1694,7 @@
       "Name": "NFT Gallery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "super_creator",
@@ -1697,7 +1702,7 @@
       "Name": "Super Creator",
       "Percentage": 2,
       "XP": 160,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "tireless_explorer",
@@ -1705,7 +1710,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "treant_destroyer",
@@ -1737,21 +1742,21 @@
       "Name": "Waifu Kata",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 376,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:04:40.4494581+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:09:35.4304846+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:56.1922629+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:59:37.2850496+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:04:40.4494827+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:04:58.5687706+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:09:35.4305124+00:00"
 }

@@ -30,14 +30,14 @@ Number of Ratings: 98  (23.09.2022)
 | Do a Barrel Roll! | 1.00% | ~14 |
 | How?! | 1.00% | ~14 |
 | Tough as Nails | 0.50% | ~7 |
-| Commandos | 0.30% | ~4 |
+| Commandos | 0.40% | ~6 |
 | We Weren't There | 0.20% | ~3 |
 | Inspector General | 0.10% | ~1 |
 | Defense of Steel | 0.10% | ~1 |
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,400 (Ranked 204)  
+Progressed: 1,401 (Ranked 205)  
 Completed: 1 (0.07%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 1 (0.07%) (Ranked 235)
 | 2023-09-18 | 1,388 | 1 |
 | 2023-09-19 | 1,393 | 1 |
 | 2023-09-20 | 1,400 | 1 |
+| 2023-09-21 | 1,401 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

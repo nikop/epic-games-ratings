@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~109,736 |
-| Incurious | 16.00% | ~103,281 |
-| Climate Change | 15.00% | ~96,826 |
-| Stroller | 14.00% | ~90,371 |
-| Toy Train | 13.00% | ~83,916 |
-| Advanced Hiker | 12.00% | ~77,461 |
-| Hiker | 11.00% | ~71,006 |
-| Mojave Courier | 5.00% | ~32,275 |
-| Saved by Nausicaä | 5.00% | ~32,275 |
+| Advanced Stroller | 17.00% | ~109,738 |
+| Incurious | 16.00% | ~103,282 |
+| Climate Change | 15.00% | ~96,827 |
+| Stroller | 14.00% | ~90,372 |
+| Toy Train | 13.00% | ~83,917 |
+| Advanced Hiker | 12.00% | ~77,462 |
+| Hiker | 11.00% | ~71,007 |
+| Mojave Courier | 5.00% | ~32,276 |
+| Saved by Nausicaä | 5.00% | ~32,276 |
 | Voyager | 3.00% | ~19,365 |
 | Advanced Voyager | 3.00% | ~19,365 |
 | Expert Stroller | 3.00% | ~19,365 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~646 |
 | 20 Miles under the Sea | 0.10% | ~646 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645,505 (Ranked 26)  
+Progressed: 645,515 (Ranked 26)  
 Completed: 10 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,10 +213,10 @@ Completed: 10 (0.00%) (Ranked 281)
 | 2023-09-18 | 644,991 | 10 |
 | 2023-09-19 | 645,210 | 10 |
 | 2023-09-20 | 645,424 | 10 |
-| 2023-09-21 | 645,505 | 10 |
+| 2023-09-21 | 645,515 | 10 |
 ## Awards
 Max (Great for Beginners): 196  (Ranked 276)  
-Sum: 1,571 (Ranked 220)  
+Sum: 1,572 (Ranked 220)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): 56
 | This game is Relaxing | 179 |
 | This game has Amazing Characters | 169 |
 | This game has Playful Visuals | 158 |
-| This game is Highly Recommended | 157 |
+| This game is Highly Recommended | 158 |
 | This game has Amazing Storytelling | 145 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
@@ -354,3 +354,4 @@ Diff (max vs sum): 56
 | 2023-09-15 | 4.64 | - | 196 | 1,569 |
 | 2023-09-16 | 4.64 | - | 196 | 1,570 |
 | 2023-09-20 | 4.64 | - | 196 | 1,571 |
+| 2023-09-21 | 4.64 | - | 196 | 1,572 |

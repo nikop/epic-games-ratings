@@ -5,7 +5,7 @@
   "Ranking_Rating": 371,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 204,
+  "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 109,
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1400,
+  "EOS_Progressed": 1401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2680,6 +2680,11 @@
       "Time": "2023-09-20T22:03:26.7070892+00:00",
       "NumProgressed": 1400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T13:10:01.222967+00:00",
+      "NumProgressed": 1401,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2729,9 +2734,9 @@
       "ID": "Commandos",
       "SetID": "85nb4h3",
       "Name": "Commandos",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Death_to_the_dictator",
@@ -2930,15 +2935,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1400,
+      "Progressed": 1401,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:05:09.7182116+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:10:01.2229656+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-21T12:02:32.4530388+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:05:09.7182562+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:07:25.694038+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:10:01.2230081+00:00"
 }

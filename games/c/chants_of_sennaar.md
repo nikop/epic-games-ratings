@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 52.00% | ~94 |
-| Welcome to the Tower | 48.00% | ~86 |
-| The great escape | 44.00% | ~79 |
-| The Preacher's fate | 43.00% | ~77 |
-| Scholar | 38.00% | ~68 |
-| A new dawn | 38.00% | ~68 |
-| The darkness | 36.00% | ~65 |
-| A good beginning | 34.00% | ~61 |
-| True G4M3R | 34.00% | ~61 |
+| That's the spirit | 52.00% | ~95 |
+| Welcome to the Tower | 47.00% | ~86 |
+| The great escape | 43.00% | ~78 |
+| The Preacher's fate | 42.00% | ~76 |
+| A new dawn | 38.00% | ~69 |
+| Scholar | 37.00% | ~67 |
+| The darkness | 35.00% | ~64 |
+| A good beginning | 34.00% | ~62 |
+| True G4M3R | 34.00% | ~62 |
 | One last step | 32.00% | ~58 |
-| Cable guy | 30.00% | ~54 |
-| Half the way | 29.00% | ~52 |
-| Champollion | 29.00% | ~52 |
+| Cable guy | 30.00% | ~55 |
+| Half the way | 29.00% | ~53 |
+| Champollion | 29.00% | ~53 |
 | In this together | 27.00% | ~49 |
 | Peace walker | 27.00% | ~49 |
-| Open door | 24.00% | ~43 |
-| Free at last | 23.00% | ~41 |
-| Feels like springtime | 23.00% | ~41 |
-| Alchemists Express | 22.00% | ~40 |
+| Open door | 24.00% | ~44 |
+| Free at last | 23.00% | ~42 |
+| Feels like springtime | 23.00% | ~42 |
 | Rascal | 22.00% | ~40 |
-| A Link to the Past | 18.00% | ~32 |
+| Alchemists Express | 21.00% | ~38 |
+| A Link to the Past | 18.00% | ~33 |
 | A great audience | 15.00% | ~27 |
 | For its own good | 14.00% | ~25 |
-| I did it | 13.00% | ~23 |
-| Fashion victim | 13.00% | ~23 |
+| I did it | 13.00% | ~24 |
+| Fashion victim | 13.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 330)  
-Completed: 9 (5.00%) (Ranked 52)  
+Progressed: 182 (Ranked 329)  
+Completed: 9 (4.95%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,4 +94,4 @@ Completed: 9 (5.00%) (Ranked 52)
 | 2023-09-18 | 170 | 9 |
 | 2023-09-19 | 172 | 9 |
 | 2023-09-20 | 177 | 9 |
-| 2023-09-21 | 180 | 9 |
+| 2023-09-21 | 182 | 9 |

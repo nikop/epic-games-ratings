@@ -8150,10 +8150,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1782466,
       "NumberOfAwardsMax": 229999
+    },
+    {
+      "Time": "2023-09-21T13:04:09.8406387+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1784514,
+      "NumberOfAwardsMax": 229999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1782466,
+  "NumberOfAwards": 1784514,
   "NumberOfAwardsMax": 229999,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8161,7 +8167,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 202504
+      "Count": 202907
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8179,13 +8185,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 188511
+      "Count": 188896
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 190620
+      "Count": 191037
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8197,13 +8203,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 195376
+      "Count": 195798
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 183563
+      "Count": 183984
     },
     {
       "Text": "This game has Competitive Players",
@@ -8229,8 +8235,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-09-21T11:58:43.4226898+00:00",
+  "LastChanged": "2023-09-21T13:04:09.8406385+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.1500308+00:00",
-  "LastUpdate_Ratings": "2023-09-21T11:58:43.4226904+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:08:23.1769263+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:04:09.8406397+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:12:48.8478634+00:00"
 }

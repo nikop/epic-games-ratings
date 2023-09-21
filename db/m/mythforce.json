@@ -647,9 +647,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2874,
+  "EOS_Progressed": 2875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1075,
+  "EOS_NewPlayers": 1061,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5122,6 +5122,11 @@
       "Time": "2023-09-21T11:05:42.313501+00:00",
       "NumProgressed": 2874,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T13:10:13.9501065+00:00",
+      "NumProgressed": 2875,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5150,7 +5155,7 @@
       "Name": "Deadication",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -5294,7 +5299,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5317,15 +5322,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2874,
+      "Progressed": 2875,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T16:59:50.1144164+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:05:24.2474314+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:10:13.9501054+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-21T12:01:46.0049468+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:05:24.2474873+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:06:47.2215466+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:10:13.950161+00:00"
 }

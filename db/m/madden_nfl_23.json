@@ -5,7 +5,7 @@
   "Ranking_Rating": 817,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 447,
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 109,
@@ -646,9 +646,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -836,6 +836,11 @@
       "Time": "2023-09-21T12:07:36.588238+00:00",
       "NumProgressed": 561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T13:12:08.7981875+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -848,7 +853,7 @@
       "Name": "Primetime",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_10",
@@ -856,7 +861,7 @@
       "Name": "Bragging Rights",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 342
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_11",
@@ -864,7 +869,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_12",
@@ -872,7 +877,7 @@
       "Name": "Stud Finder",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_13",
@@ -880,7 +885,7 @@
       "Name": "Big Spender",
       "Percentage": 58,
       "XP": 60,
-      "UsersEstimate": 325
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_14",
@@ -888,7 +893,7 @@
       "Name": "Dealmaker",
       "Percentage": 49,
       "XP": 60,
-      "UsersEstimate": 275
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_15",
@@ -896,7 +901,7 @@
       "Name": "MVP",
       "Percentage": 62,
       "XP": 90,
-      "UsersEstimate": 348
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_16",
@@ -904,7 +909,7 @@
       "Name": "ROTY",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 224
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_17",
@@ -936,7 +941,7 @@
       "Name": "Unblockable",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_20",
@@ -960,7 +965,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_4",
@@ -976,7 +981,7 @@
       "Name": "Already in Progress",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_6",
@@ -984,7 +989,7 @@
       "Name": "Change of Scenery",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_7",
@@ -992,7 +997,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_8",
@@ -1000,7 +1005,7 @@
       "Name": "Pro Bowler",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_9",
@@ -1015,7 +1020,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 566,
       "Completed": 0
     }
   ],
@@ -1023,8 +1028,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-20T07:59:18.5632174+00:00",
-  "LastChanged_Achievements": "2023-09-21T12:07:36.5882372+00:00",
+  "LastChanged_Achievements": "2023-09-21T13:12:08.7981869+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:38.9064688+00:00",
-  "LastUpdate_Ratings": "2023-09-21T12:01:25.963329+00:00",
-  "LastUpdate_Achievements": "2023-09-21T12:07:36.5882562+00:00"
+  "LastUpdate_Ratings": "2023-09-21T13:06:29.7137924+00:00",
+  "LastUpdate_Achievements": "2023-09-21T13:12:08.7982068+00:00"
 }
