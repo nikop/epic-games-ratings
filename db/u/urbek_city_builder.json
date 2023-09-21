@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1240,17 +1240,17 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "CULTURE_2",
       "SetID": "44dlcg0",
       "Name": "I love books!",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CULTURE_3",
@@ -1737,8 +1737,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:06:20.5045803+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:05:45.6265551+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.0271956+00:00",
-  "LastUpdate_Ratings": "2023-09-21T09:00:35.8393406+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:06:20.5047518+00:00"
+  "LastUpdate_Ratings": "2023-09-21T10:00:04.845822+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:05:45.6266573+00:00"
 }

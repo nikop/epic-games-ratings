@@ -954,9 +954,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1002,9 +1002,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1065,8 +1065,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:09:07.9775504+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:08:31.8888958+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-21T09:00:57.1219962+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:09:07.9775762+00:00"
+  "LastUpdate_Ratings": "2023-09-21T10:00:21.8313918+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:08:31.8889185+00:00"
 }

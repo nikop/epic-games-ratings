@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -108,10 +108,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73782,
+  "EOS_Progressed": 73783,
   "EOS_Completed": 766,
-  "EOS_NewPlayers": 620,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 619,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -17223,6 +17223,11 @@
       "Time": "2023-09-21T09:07:34.4820924+00:00",
       "NumProgressed": 73782,
       "NumCompleted": 766
+    },
+    {
+      "Time": "2023-09-21T10:06:47.2870899+00:00",
+      "NumProgressed": 73783,
+      "NumCompleted": 766
     }
   ],
   "TotalAchievements": 25,
@@ -17306,7 +17311,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14756
+      "UsersEstimate": 14757
     },
     {
       "ID": "Hearty",
@@ -17338,7 +17343,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14756
+      "UsersEstimate": 14757
     },
     {
       "ID": "Meaty",
@@ -17433,7 +17438,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73782,
+      "Progressed": 73783,
       "Completed": 766
     }
   ],
@@ -17441,8 +17446,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:07:34.4820919+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:06:47.2870894+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:58:11.4881517+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:07:34.4822187+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:58:06.7406675+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:06:47.2872178+00:00"
 }

@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Where the Magic Happens | 0.10% | ~196 |
 | Downfall | 0.10% | ~196 |
 | First Third Out | 0.10% | ~196 |
+| Second Third Out | 0.10% | ~196 |
 | The Silken Swamp | 0.10% | ~230 |
 | Slack-jawed Lorna | 0.10% | ~196 |
 | I'm Sure I Saw It Move! | 0.10% | ~196 |
@@ -341,6 +342,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu | 0.10% | ~196 |
 | Wait, What? | 0.10% | ~196 |
 | Ireena von Zarovich | 0.10% | ~196 |
+| Déjà Vu All Over Again | 0.10% | ~196 |
 | Into The Fire | 0.10% | ~196 |
 | A Difficult Descent | 0.10% | ~196 |
 | The Devil Arrives | 0.10% | ~196 |
@@ -515,7 +517,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
 | Keep Your Friends Close | 0.00% | ~0 |
-| Second Third Out | 0.00% | ~0 |
 | Third Third Out | 0.00% | ~0 |
 | Thoughts on the Menu | 0.00% | ~0 |
 | Brains on Ice | 0.00% | ~0 |
@@ -524,15 +525,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Déjà Vu All Over Again | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,530 (Ranked 57)  
-Completed: 2,296 (1.00%) (Ranked 127)  
+Progressed: 229,533 (Ranked 57)  
+Completed: 2,296 (1.00%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -685,7 +685,7 @@ Completed: 2,296 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,530 | 2,296 |
+| 2023-09-21 | 229,533 | 2,296 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,663 (Ranked 39)  

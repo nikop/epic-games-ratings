@@ -28,8 +28,8 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves. Again. | 4.00% | ~1,504 |
 | Storm's Curse | 3.00% | ~1,128 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,128 |
+| Roaring Rise | 3.00% | ~1,128 |
 | Come Closer | 3.00% | ~1,128 |
-| Roaring Rise | 2.00% | ~752 |
 | I am the Captain of my Soul | 2.00% | ~752 |
 | A buoyant escape | 1.00% | ~376 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~376 |

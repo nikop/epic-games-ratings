@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~53,524 |
-| Zealous | 5.00% | ~44,604 |
-| Skillful | 5.00% | ~44,604 |
-| Make Some Noise | 5.00% | ~44,604 |
-| Handyman | 4.00% | ~35,683 |
-| Not half bad | 4.00% | ~35,683 |
-| Apt Survivor | 4.00% | ~35,683 |
-| Survival Treasures | 4.00% | ~35,683 |
-| The Grand Sacrifice | 3.00% | ~26,762 |
-| Agonizing Escape | 3.00% | ~26,762 |
-| Backdoor Escape | 3.00% | ~26,762 |
-| No one left behind | 3.00% | ~26,762 |
-| Medic | 3.00% | ~26,762 |
-| Nerves of steel | 3.00% | ~26,762 |
-| Perfect Escape | 3.00% | ~26,762 |
-| Bloody Millionaire | 3.00% | ~26,762 |
-| I | 3.00% | ~26,762 |
-| Engineer | 3.00% | ~26,762 |
-| Sorted | 3.00% | ~26,762 |
-| Healthy Obsession | 3.00% | ~26,762 |
-| Resurgence | 3.00% | ~26,762 |
-| Preemptive Strike | 3.00% | ~26,762 |
-| Humanitarian | 3.00% | ~26,762 |
-| MU/TH/UR Dearest | 3.00% | ~26,762 |
-| I've got your back | 2.00% | ~17,841 |
-| Perfect Killing | 2.00% | ~17,841 |
-| Apt Killer | 2.00% | ~17,841 |
-| Risk it all | 2.00% | ~17,841 |
-| Vulture | 2.00% | ~17,841 |
-| II | 2.00% | ~17,841 |
-| III | 2.00% | ~17,841 |
-| Wounded Healer | 2.00% | ~17,841 |
-| Close Shave | 2.00% | ~17,841 |
-| With Scars to Show | 2.00% | ~17,841 |
-| Second Act | 2.00% | ~17,841 |
+| It wakes | 6.00% | ~53,527 |
+| Zealous | 5.00% | ~44,606 |
+| Skillful | 5.00% | ~44,606 |
+| Make Some Noise | 5.00% | ~44,606 |
+| Handyman | 4.00% | ~35,685 |
+| Not half bad | 4.00% | ~35,685 |
+| Apt Survivor | 4.00% | ~35,685 |
+| Survival Treasures | 4.00% | ~35,685 |
+| The Grand Sacrifice | 3.00% | ~26,763 |
+| Agonizing Escape | 3.00% | ~26,763 |
+| Backdoor Escape | 3.00% | ~26,763 |
+| No one left behind | 3.00% | ~26,763 |
+| Medic | 3.00% | ~26,763 |
+| Nerves of steel | 3.00% | ~26,763 |
+| Perfect Escape | 3.00% | ~26,763 |
+| Bloody Millionaire | 3.00% | ~26,763 |
+| I | 3.00% | ~26,763 |
+| Engineer | 3.00% | ~26,763 |
+| Sorted | 3.00% | ~26,763 |
+| Healthy Obsession | 3.00% | ~26,763 |
+| Resurgence | 3.00% | ~26,763 |
+| Preemptive Strike | 3.00% | ~26,763 |
+| Humanitarian | 3.00% | ~26,763 |
+| MU/TH/UR Dearest | 3.00% | ~26,763 |
+| I've got your back | 2.00% | ~17,842 |
+| Perfect Killing | 2.00% | ~17,842 |
+| Apt Killer | 2.00% | ~17,842 |
+| Risk it all | 2.00% | ~17,842 |
+| Vulture | 2.00% | ~17,842 |
+| II | 2.00% | ~17,842 |
+| III | 2.00% | ~17,842 |
+| Wounded Healer | 2.00% | ~17,842 |
+| Close Shave | 2.00% | ~17,842 |
+| With Scars to Show | 2.00% | ~17,842 |
+| Second Act | 2.00% | ~17,842 |
 | Blood on your hands | 1.00% | ~8,921 |
 | Escape Artist | 1.00% | ~8,921 |
 | Made it out alive! | 1.00% | ~8,921 |
@@ -93,18 +93,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.70% | ~6,245 |
 | Rebuilding The Borgo | 0.70% | ~6,245 |
 | Kitted Out | 0.70% | ~6,245 |
-| Party Crasher | 0.60% | ~5,352 |
-| Whiffing to Success | 0.60% | ~5,352 |
-| Outrage | 0.60% | ~5,352 |
-| Prowler | 0.60% | ~5,352 |
-| Hack the Mainframe | 0.60% | ~5,352 |
-| Blood in your mouth | 0.50% | ~4,460 |
-| Heavy Burden | 0.50% | ~4,460 |
-| I See You | 0.50% | ~4,460 |
-| Power Moves | 0.50% | ~4,460 |
-| Punch Drunk | 0.50% | ~4,460 |
-| Triage | 0.50% | ~4,460 |
-| High Speed Pursuit | 0.50% | ~4,460 |
+| Party Crasher | 0.60% | ~5,353 |
+| Whiffing to Success | 0.60% | ~5,353 |
+| Outrage | 0.60% | ~5,353 |
+| Prowler | 0.60% | ~5,353 |
+| Hack the Mainframe | 0.60% | ~5,353 |
+| Blood in your mouth | 0.50% | ~4,461 |
+| Heavy Burden | 0.50% | ~4,461 |
+| I See You | 0.50% | ~4,461 |
+| Power Moves | 0.50% | ~4,461 |
+| Punch Drunk | 0.50% | ~4,461 |
+| Triage | 0.50% | ~4,461 |
+| High Speed Pursuit | 0.50% | ~4,461 |
 | Looter | 0.40% | ~3,568 |
 | Death of Ignorance | 0.40% | ~3,568 |
 | In the void she walks | 0.30% | ~2,676 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~892 |
 | Adept Ripley | 0.10% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,074 (Ranked 14)  
+Progressed: 892,114 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 49 (0.01%) (Ranked 266)
 | 2023-09-18 | 887,865 | 48 |
 | 2023-09-19 | 889,597 | 49 |
 | 2023-09-20 | 891,547 | 49 |
-| 2023-09-21 | 892,074 | 49 |
+| 2023-09-21 | 892,114 | 49 |
 ## Awards
 Max (Diverse Characters): 32,769  (Ranked 15)  
 Sum: 255,462 (Ranked 11)  

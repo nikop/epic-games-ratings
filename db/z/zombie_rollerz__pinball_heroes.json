@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -36,9 +36,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -591,6 +591,11 @@
       "Time": "2023-09-20T17:06:48.3960862+00:00",
       "NumProgressed": 160,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T10:06:55.7950772+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -608,9 +613,9 @@
       "ID": "CLG_CHAPTER_NODROPBALL",
       "SetID": "89cjc9l",
       "Name": "1 is all I need",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
@@ -618,7 +623,7 @@
       "Name": "Right in the kisser!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -626,15 +631,15 @@
       "Name": "Bullseye!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CLG_LEVEL_COMBO",
       "SetID": "89cjc9l",
       "Name": "Combo Master",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "CLG_LEVEL_KILLSTREAK",
@@ -650,7 +655,7 @@
       "Name": "Level Up!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -778,7 +783,7 @@
       "Name": "I\u0027m Rich",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PRG_BOSS_BIRD",
@@ -810,7 +815,7 @@
       "Name": "The Shaman",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -818,7 +823,7 @@
       "Name": "The Magician",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -840,17 +845,17 @@
       "ID": "PRG_BOSS_SHIELD",
       "SetID": "89cjc9l",
       "Name": "The Shield",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "PRG_BOSS_SLIME",
       "SetID": "89cjc9l",
       "Name": "The Slime",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "PRG_BOSS_THROWER",
@@ -866,7 +871,7 @@
       "Name": "The Tunneler",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "PRG_CHAPTER_1",
@@ -880,9 +885,9 @@
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -904,9 +909,9 @@
       "ID": "PRG_HARD_10002",
       "SetID": "89cjc9l",
       "Name": "Topaz",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_10003",
@@ -928,9 +933,9 @@
       "ID": "PRG_HARD_10005",
       "SetID": "89cjc9l",
       "Name": "TNT",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_10006",
@@ -952,9 +957,9 @@
       "ID": "PRG_HARD_10008",
       "SetID": "89cjc9l",
       "Name": "Titanium",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_10009",
@@ -968,9 +973,9 @@
       "ID": "PRG_HARD_10010",
       "SetID": "89cjc9l",
       "Name": "Rocket",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_ALL",
@@ -1024,9 +1029,9 @@
       "ID": "PRG_HELL_10006",
       "SetID": "89cjc9l",
       "Name": "Concluded",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10007",
@@ -1098,7 +1103,7 @@
       "Name": "Turquoise",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "PRG_NORMAL_10003",
@@ -1120,9 +1125,9 @@
       "ID": "PRG_NORMAL_10005",
       "SetID": "89cjc9l",
       "Name": "Gunpowder",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_NORMAL_10006",
@@ -1178,14 +1183,14 @@
       "Name": "Graduation!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 1
     }
   ],
@@ -1193,8 +1198,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:07:44.2947632+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:06:55.795076+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:26.6139779+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:57:38.3373949+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:07:44.2949096+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:57:40.1251761+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:06:55.7951573+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 51.00% | ~92 |
+| That's the spirit | 52.00% | ~94 |
 | Welcome to the Tower | 48.00% | ~86 |
 | The great escape | 44.00% | ~79 |
 | The Preacher's fate | 43.00% | ~77 |
@@ -22,8 +22,8 @@
 | Open door | 24.00% | ~43 |
 | Free at last | 23.00% | ~41 |
 | Feels like springtime | 23.00% | ~41 |
+| Alchemists Express | 22.00% | ~40 |
 | Rascal | 22.00% | ~40 |
-| Alchemists Express | 21.00% | ~38 |
 | A Link to the Past | 18.00% | ~32 |
 | A great audience | 15.00% | ~27 |
 | For its own good | 14.00% | ~25 |

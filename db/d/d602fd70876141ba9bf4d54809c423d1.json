@@ -534,9 +534,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "ap8553i",
       "Name": "Arachnophobia",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -678,9 +678,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "ap8553i",
       "Name": "Krimson PD Fury",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:03:39.8805966+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:03:29.019059+00:00",
   "LastUpdate_AppInfo": "2023-09-20T20:57:03.8652569+00:00",
-  "LastUpdate_Ratings": "2023-09-21T09:01:39.0283177+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:03:39.8806911+00:00"
+  "LastUpdate_Ratings": "2023-09-21T10:00:55.5737412+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:03:29.0191439+00:00"
 }

@@ -3824,10 +3824,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3413,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-09-21T09:58:01.0127561+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3414,
+      "NumberOfAwardsMax": 396
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3413,
+  "NumberOfAwards": 3414,
   "NumberOfAwardsMax": 396,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3853,7 +3859,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 318
+      "Count": 319
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3898,9 +3904,9 @@
       "Count": 287
     }
   ],
-  "EOS_Progressed": 244368,
+  "EOS_Progressed": 244369,
   "EOS_Completed": 832,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -20598,6 +20604,11 @@
       "Time": "2023-09-21T09:09:05.4467426+00:00",
       "NumProgressed": 244368,
       "NumCompleted": 832
+    },
+    {
+      "Time": "2023-09-21T10:08:29.8582285+00:00",
+      "NumProgressed": 244369,
+      "NumCompleted": 832
     }
   ],
   "TotalAchievements": 39,
@@ -20641,7 +20652,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 65979
+      "UsersEstimate": 65980
     },
     {
       "ID": "AchievementBigFootID",
@@ -20657,7 +20668,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73310
+      "UsersEstimate": 73311
     },
     {
       "ID": "AchievementBoulderID",
@@ -20673,7 +20684,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222375
+      "UsersEstimate": 222376
     },
     {
       "ID": "AchievementClownID",
@@ -20689,7 +20700,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 19549
+      "UsersEstimate": 19550
     },
     {
       "ID": "AchievementCrashGameID",
@@ -20721,7 +20732,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80641
+      "UsersEstimate": 80642
     },
     {
       "ID": "AchievementGoatID",
@@ -20737,7 +20748,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129515
+      "UsersEstimate": 129516
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -20841,7 +20852,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180832
+      "UsersEstimate": 180833
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -20849,7 +20860,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19549
+      "UsersEstimate": 19550
     },
     {
       "ID": "AchievementStratosphereID",
@@ -20881,7 +20892,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134402
+      "UsersEstimate": 134403
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -20905,7 +20916,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158839
+      "UsersEstimate": 158840
     },
     {
       "ID": "AchievementWhaleID",
@@ -20913,23 +20924,23 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 65979
+      "UsersEstimate": 65980
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 244368,
+      "Progressed": 244369,
       "Completed": 832
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-09-21T06:58:05.69896+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:09:05.446742+00:00",
+  "LastChanged": "2023-09-21T09:58:01.0127559+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:08:29.8582274+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.6695951+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:58:04.6976115+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:09:05.4469814+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:58:01.012757+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:08:29.85835+00:00"
 }

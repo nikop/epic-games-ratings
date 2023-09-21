@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | I like parks | 4.00% | ~14 |
 | Small town | 4.00% | ~14 |
+| I like books | 2.00% | ~7 |
 | The spiritual world... | 2.00% | ~7 |
 | It is nice to share with friends in the city | 2.00% | ~7 |
 | Sport is good for you | 2.00% | ~7 |
-| I like books | 1.00% | ~3 |
 | I like my life | 1.00% | ~3 |
 | The woodcutter | 1.00% | ~3 |
 | Clean energy | 1.00% | ~3 |
 | Bucolic city | 1.00% | ~3 |
 | Soviet town | 1.00% | ~3 |
 | I love parks | 0.90% | ~3 |
+| I love books! | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food producer | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
-| I love books! | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | King of fish | 0.30% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348 (Ranked 281)  
+Progressed: 348 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

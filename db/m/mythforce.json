@@ -647,7 +647,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2867,
+  "EOS_Progressed": 2871,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 0,
@@ -5112,6 +5112,11 @@
       "Time": "2023-09-21T07:04:34.3397155+00:00",
       "NumProgressed": 2867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T10:04:12.8835596+00:00",
+      "NumProgressed": 2871,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5164,7 +5169,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5172,7 +5177,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5180,7 +5185,7 @@
       "Name": "First Strike",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5188,7 +5193,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -5220,7 +5225,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5236,15 +5241,15 @@
       "Name": "Mushroom Madness!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 230
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -5292,7 +5297,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5307,15 +5312,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2867,
+      "Progressed": 2871,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T16:59:50.1144164+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:04:31.6595797+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:04:12.8835588+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-21T09:00:37.4710673+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:04:31.6596555+00:00"
+  "LastUpdate_Ratings": "2023-09-21T10:00:06.1958784+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:04:12.8836038+00:00"
 }

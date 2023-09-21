@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2776,9 +2776,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 76411,
+  "EOS_Progressed": 76412,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19716,6 +19716,11 @@
       "Time": "2023-09-21T09:04:51.0252963+00:00",
       "NumProgressed": 76411,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-09-21T10:04:29.1516054+00:00",
+      "NumProgressed": 76412,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 30,
@@ -19879,7 +19884,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 16810
+      "UsersEstimate": 16811
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -19887,7 +19892,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9933
+      "UsersEstimate": 9934
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -19966,15 +19971,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 76411,
+      "Progressed": 76412,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-21T03:58:11.7455823+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:04:51.0252956+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:04:29.151604+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.6851624+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:58:59.2413899+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:04:51.025522+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:58:47.6530132+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:04:29.1517373+00:00"
 }

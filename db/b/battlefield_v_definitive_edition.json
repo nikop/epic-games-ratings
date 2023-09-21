@@ -2,9 +2,9 @@
   "ID": "bf5708c386744107b8a8a24ac707dd0e",
   "Name": "Battlefield V Definitive Edition",
   "ProductSlug": "battlefield-v-definitive-edition",
-  "Ranking_EOS_Progress": 221,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 903,
+  "EOS_Progressed": 1033,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 897,
+  "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -70,6 +70,11 @@
       "Time": "2023-09-21T09:04:44.3976462+00:00",
       "NumProgressed": 903,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T10:04:23.6008779+00:00",
+      "NumProgressed": 1033,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -80,9 +85,9 @@
       "ID": "achievement_1",
       "SetID": "akc8324",
       "Name": "Storyteller",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 85,
-      "UsersEstimate": 45
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_10",
@@ -90,7 +95,7 @@
       "Name": "Globetrotter",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 99
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_11",
@@ -98,23 +103,23 @@
       "Name": "Death from Above",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 54
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_12",
       "SetID": "akc8324",
       "Name": "Fender Bender",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_13",
       "SetID": "akc8324",
       "Name": "Grim Reaper",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 650
+      "UsersEstimate": 754
     },
     {
       "ID": "achievement_14",
@@ -122,7 +127,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 475
     },
     {
       "ID": "achievement_15",
@@ -130,7 +135,7 @@
       "Name": "Combat Engineer",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 527
     },
     {
       "ID": "achievement_16",
@@ -138,15 +143,15 @@
       "Name": "Heads Down",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 632
+      "UsersEstimate": 723
     },
     {
       "ID": "achievement_17",
       "SetID": "akc8324",
       "Name": "Jack of All Trades",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 154
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_18",
@@ -154,15 +159,15 @@
       "Name": "Eager Beaver",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_19",
       "SetID": "akc8324",
       "Name": "Elite",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 280
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_2",
@@ -170,7 +175,7 @@
       "Name": "Veteran",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_20",
@@ -178,23 +183,23 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 840
+      "UsersEstimate": 961
     },
     {
       "ID": "achievement_21",
       "SetID": "akc8324",
       "Name": "Not On My Watch",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 713
     },
     {
       "ID": "achievement_3",
       "SetID": "akc8324",
       "Name": "Sins of the Fathers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_4",
@@ -202,15 +207,15 @@
       "Name": "Lovely",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_5",
       "SetID": "akc8324",
       "Name": "Store fuglar fanga ingi flugor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_6",
@@ -218,15 +223,15 @@
       "Name": "Ou La Mort",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_7",
       "SetID": "akc8324",
       "Name": "Off-hand",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_8",
@@ -234,28 +239,28 @@
       "Name": "Enemy Attrition",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 764
     },
     {
       "ID": "achievement_9",
       "SetID": "akc8324",
       "Name": "Hoist the Flag",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 903,
+      "Progressed": 1033,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-09-21T09:04:44.3976458+00:00",
+  "LastChanged_Achievements": "2023-09-21T10:04:23.6008773+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.4262458+00:00",
-  "LastUpdate_Ratings": "2023-09-21T08:58:22.7446684+00:00",
-  "LastUpdate_Achievements": "2023-09-21T09:04:44.3976709+00:00"
+  "LastUpdate_Ratings": "2023-09-21T09:58:16.2162434+00:00",
+  "LastUpdate_Achievements": "2023-09-21T10:04:23.6008959+00:00"
 }

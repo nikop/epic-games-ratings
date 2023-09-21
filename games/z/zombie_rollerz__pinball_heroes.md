@@ -5,28 +5,28 @@ Rating: 4.30 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~141 |
-| Bullseye! | 84.00% | ~134 |
-| Graduation! | 80.00% | ~128 |
+| Level Up! | 88.00% | ~142 |
+| Bullseye! | 84.00% | ~135 |
+| Graduation! | 80.00% | ~129 |
 | Villfir Forest | 76.00% | ~122 |
-| Right in the kisser! | 60.00% | ~96 |
-| Duscot Steamcity | 49.00% | ~78 |
+| Right in the kisser! | 60.00% | ~97 |
 | The Thrower | 48.00% | ~77 |
-| The Shaman | 47.00% | ~75 |
+| Duscot Steamcity | 48.00% | ~77 |
+| The Shaman | 47.00% | ~76 |
 | The Penguin | 45.00% | ~72 |
-| The Magician | 42.00% | ~67 |
-| The Tunneler | 39.00% | ~62 |
+| The Magician | 42.00% | ~68 |
+| The Tunneler | 39.00% | ~63 |
 | Level Up!! | 38.00% | ~61 |
-| The Shield | 38.00% | ~61 |
+| The Shield | 37.00% | ~60 |
 | Kill-streak | 30.00% | ~48 |
 | Topped up | 28.00% | ~45 |
 | The Bird | 28.00% | ~45 |
 | The Idol | 27.00% | ~43 |
 | The Ninja | 27.00% | ~43 |
 | Inferno Ruins | 25.00% | ~40 |
-| I'm Rich | 24.00% | ~38 |
-| 1 is all I need | 23.00% | ~37 |
-| The Slime | 23.00% | ~37 |
+| I'm Rich | 24.00% | ~39 |
+| 1 is all I need | 22.00% | ~35 |
+| The Slime | 22.00% | ~35 |
 | Untouchable | 21.00% | ~34 |
 | The Blacksmith | 17.00% | ~27 |
 | The Flower | 17.00% | ~27 |
@@ -35,7 +35,7 @@ Rating: 4.30 (Ranked 801)
 | The Ooze | 16.00% | ~26 |
 | Ember | 16.00% | ~26 |
 | The Assistant | 15.00% | ~24 |
-| Turquoise | 14.00% | ~22 |
+| Turquoise | 14.00% | ~23 |
 | The Steampunk | 13.00% | ~21 |
 | The Droid | 11.00% | ~18 |
 | Verse | 11.00% | ~18 |
@@ -51,24 +51,24 @@ Rating: 4.30 (Ranked 801)
 | Anvil | 5.00% | ~8 |
 | Analyzed | 4.00% | ~6 |
 | Tongs | 4.00% | ~6 |
-| Combo Master | 3.00% | ~5 |
 | It's a Trap! | 3.00% | ~5 |
 | Blaze | 3.00% | ~5 |
-| Topaz | 3.00% | ~5 |
 | Chorus | 3.00% | ~5 |
-| TNT | 3.00% | ~5 |
-| Titanium | 3.00% | ~5 |
-| Rocket | 3.00% | ~5 |
-| Concluded | 3.00% | ~5 |
 | Platinum | 3.00% | ~5 |
 | Hammer | 3.00% | ~5 |
-| Gunpowder | 3.00% | ~5 |
+| Combo Master | 2.00% | ~3 |
 | Really Bad Luck | 2.00% | ~3 |
+| Topaz | 2.00% | ~3 |
+| TNT | 2.00% | ~3 |
 | Immortality | 2.00% | ~3 |
+| Titanium | 2.00% | ~3 |
+| Rocket | 2.00% | ~3 |
 | Adamantite | 2.00% | ~3 |
 | Nuclear Bomb | 2.00% | ~3 |
+| Concluded | 2.00% | ~3 |
 | Divinity | 2.00% | ~3 |
 | Warp Drive Spacecraft | 2.00% | ~3 |
+| Gunpowder | 2.00% | ~3 |
 | Wu-wei | 2.00% | ~3 |
 | Satellite | 2.00% | ~3 |
 | Zombie Slayer | 2.00% | ~3 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 801)
 | Divinity | 0.60% | ~1 |
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 336)  
+Progressed: 161 (Ranked 336)  
 Completed: 1 (0.62%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 1 (0.62%) (Ranked 145)
 | 2023-09-18 | 157 | 1 |
 | 2023-09-19 | 158 | 1 |
 | 2023-09-20 | 160 | 1 |
+| 2023-09-21 | 161 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
