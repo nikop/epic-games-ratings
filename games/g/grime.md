@@ -6,48 +6,52 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~131,677 |
-| Taste | 84.00% | ~125,692 |
-| The Hunt | 66.00% | ~98,758 |
-| Ravenous | 63.00% | ~94,269 |
-| Weeper | 44.00% | ~65,839 |
-| Devourer | 23.00% | ~34,416 |
-| Harmless | 19.00% | ~28,430 |
-| Silenced Whispers | 19.00% | ~28,430 |
-| Sharpened Vessel | 16.00% | ~23,941 |
-| Yank | 15.00% | ~22,445 |
-| Scion | 12.00% | ~17,906 |
-| Jawcrab | 12.00% | ~17,956 |
-| Jawstag | 12.00% | ~17,956 |
-| Feast | 12.00% | ~17,956 |
-| Watcher | 10.00% | ~14,963 |
-| Shapely | 9.00% | ~13,467 |
-| Glare | 9.00% | ~13,429 |
-| Predator | 8.00% | ~11,971 |
-| Assimilation | 7.00% | ~10,474 |
-| Host | 7.00% | ~10,445 |
-| Celebration | 6.00% | ~8,978 |
-| Hunt Down | 5.00% | ~7,482 |
-| Artisan | 5.00% | ~7,482 |
-| Hush | 5.00% | ~7,482 |
-| Inevitable | 5.00% | ~7,482 |
-| Breathsmith | 5.00% | ~7,482 |
-| Dream | 5.00% | ~7,461 |
-| Breath | 4.00% | ~5,985 |
-| All-Seeing | 4.00% | ~5,985 |
-| Unwrap the Gift | 4.00% | ~5,985 |
-| Proportions | 4.00% | ~5,985 |
-| Bloodhunter | 3.00% | ~4,489 |
-| Passage | 3.00% | ~4,489 |
-| Zygote | 2.00% | ~2,984 |
-| Kinship | 2.00% | ~2,993 |
-| Kin | 2.00% | ~2,984 |
-| Listen | 2.00% | ~2,984 |
-| Weakness | 1.00% | ~1,496 |
-| Generous | 1.00% | ~1,496 |
-| Skinmaker | 0.90% | ~1,347 |
-| Instruments | 0.80% | ~1,197 |
 | Spiral Heart | 0.10% | ~150 |
+| Bloodhunter | 0.10% | ~150 |
+| Skinmaker | 0.10% | ~150 |
+| Assimilation | 0.10% | ~150 |
+| Instruments | 0.10% | ~150 |
+| Zygote | 0.10% | ~149 |
+| The Hunt | 0.10% | ~150 |
+| Breath | 0.10% | ~150 |
+| Taste | 0.10% | ~150 |
+| Weeper | 0.10% | ~150 |
+| Hunt Down | 0.10% | ~150 |
+| Artisan | 0.10% | ~150 |
+| Shapely | 0.10% | ~150 |
+| Scion | 0.10% | ~149 |
+| Glare | 0.10% | ~149 |
+| Host | 0.10% | ~149 |
+| Hush | 0.10% | ~150 |
+| Harmless | 0.10% | ~150 |
+| Jawcrab | 0.10% | ~150 |
+| Jawstag | 0.10% | ~150 |
+| Celebration | 0.10% | ~150 |
+| Inevitable | 0.10% | ~150 |
+| Feast | 0.10% | ~150 |
+| Watcher | 0.10% | ~150 |
+| Silenced Whispers | 0.10% | ~150 |
+| Devourer | 0.10% | ~150 |
+| All-Seeing | 0.10% | ~150 |
+| Imprint | 0.10% | ~150 |
+| Predator | 0.10% | ~150 |
+| Kinship | 0.10% | ~150 |
+| Weakness | 0.10% | ~150 |
+| Breathsmith | 0.10% | ~150 |
+| Yank | 0.10% | ~150 |
+| Sharpened Vessel | 0.10% | ~150 |
+| Ravenous | 0.10% | ~150 |
+| Unwrap the Gift | 0.10% | ~150 |
+| Passage | 0.10% | ~150 |
+| Dream | 0.10% | ~149 |
+| Generous | 0.10% | ~150 |
+| Kin | 0.10% | ~149 |
+| Listen | 0.10% | ~149 |
+| Proportions | 0.10% | ~150 |
+| The Nightmare | 0.00% | ~0 |
+| Touch of Otherwhere | 0.00% | ~0 |
+| Enrich | 0.00% | ~0 |
+| Intensify | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149,633 (Ranked 67)  
 Completed: 1 (0.00%) (Ranked 280)  

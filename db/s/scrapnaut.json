@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1221,9 +1221,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1341,9 +1341,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_KILL_50",
@@ -1429,9 +1429,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
@@ -1446,8 +1446,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:06:28.3398733+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:08:20.1450471+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:58.717197+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:59:33.9569487+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:06:28.3399022+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:00:36.1452454+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:08:20.1450803+00:00"
 }

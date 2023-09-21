@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -374,9 +374,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:02:16.9909561+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:03:36.8415074+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:57:40.3512771+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:02:16.9910129+00:00"
+  "LastUpdate_Ratings": "2023-09-21T06:58:14.5205293+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:03:36.8415691+00:00"
 }

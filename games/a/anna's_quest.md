@@ -10,14 +10,14 @@
 | My lost nightingale | 58.00% | ~25 |
 | Through the woods | 56.00% | ~24 |
 | Back to the anvil | 49.00% | ~21 |
+| So soothing... | 47.00% | ~20 |
+| Roostwig has entered the building | 47.00% | ~20 |
 | Fussy eater | 44.00% | ~19 |
-| So soothing... | 44.00% | ~19 |
-| Roostwig has entered the building | 44.00% | ~19 |
+| Kekekeke... | 44.00% | ~19 |
 | Mystery solved | 42.00% | ~18 |
 | Honey, honey, honey… | 42.00% | ~18 |
 | Far away from home | 42.00% | ~18 |
 | Little genius | 42.00% | ~18 |
-| Kekekeke... | 42.00% | ~18 |
 | NOW GO AWAY! | 42.00% | ~18 |
 | Sorry Grandpa | 42.00% | ~18 |
 | Game Over! | 40.00% | ~17 |
@@ -39,7 +39,7 @@
 | Bahahahaha... | 26.00% | ~11 |
 | Kill it! KILL IT! | 26.00% | ~11 |
 | Guilty conscience | 23.00% | ~10 |
-| Cameodalic | 19.00% | ~8 |
+| Cameodalic | 21.00% | ~9 |
 | Clever reference #451 | 19.00% | ~8 |
 | What a mess | 16.00% | ~7 |
 | Posterboy! | 14.00% | ~6 |

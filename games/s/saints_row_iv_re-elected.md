@@ -5,22 +5,22 @@ Rating: 4.40 (Ranked 711)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~173,052 |
-| Destroyer-In-Chief | 57.00% | ~154,124 |
-| There Is No Pancakes | 54.00% | ~146,012 |
-| First of Many | 42.00% | ~113,565 |
-| Woah. | 37.00% | ~100,045 |
-| Don't Look Down | 29.00% | ~78,414 |
-| Don't Panic | 28.00% | ~75,710 |
-| Ooo A Piece of Candy! | 23.00% | ~62,190 |
-| Ghost in the Machine | 18.00% | ~48,671 |
-| All Too Easy | 15.00% | ~40,559 |
-| Didn't Need to See Him Naked | 14.00% | ~37,855 |
-| Indomitable | 10.00% | ~27,039 |
-| Blast from the Past | 9.00% | ~24,335 |
-| Bow to the Boss! | 9.00% | ~24,335 |
-| Friend of the Raptors | 9.00% | ~24,335 |
-| About Time! | 8.00% | ~21,631 |
+| Zero Saints Thirty | 64.00% | ~173,059 |
+| Destroyer-In-Chief | 57.00% | ~154,130 |
+| There Is No Pancakes | 54.00% | ~146,018 |
+| First of Many | 42.00% | ~113,570 |
+| Woah. | 37.00% | ~100,049 |
+| Don't Look Down | 29.00% | ~78,417 |
+| Don't Panic | 28.00% | ~75,713 |
+| Ooo A Piece of Candy! | 23.00% | ~62,193 |
+| Ghost in the Machine | 18.00% | ~48,673 |
+| All Too Easy | 15.00% | ~40,561 |
+| Didn't Need to See Him Naked | 14.00% | ~37,857 |
+| Indomitable | 10.00% | ~27,040 |
+| Blast from the Past | 9.00% | ~24,336 |
+| Bow to the Boss! | 9.00% | ~24,336 |
+| Friend of the Raptors | 9.00% | ~24,336 |
+| About Time! | 8.00% | ~21,632 |
 | Actor-Turned-Politician | 7.00% | ~18,928 |
 | Betrayed | 7.00% | ~18,928 |
 | Maximum Stopping Power | 7.00% | ~18,928 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 711)
 | Super Power Team Up! | 0.10% | ~270 |
 | Ultimate Hot Potato | 0.10% | ~270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270,393 (Ranked 47)  
+Progressed: 270,404 (Ranked 47)  
 Completed: 15 (0.01%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 15 (0.01%) (Ranked 265)
 | 2023-09-18 | 269,188 | 15 |
 | 2023-09-19 | 269,730 | 15 |
 | 2023-09-20 | 270,256 | 15 |
-| 2023-09-21 | 270,393 | 15 |
+| 2023-09-21 | 270,404 | 15 |
 ## Awards
 Max (Great Boss Battles): 459  (Ranked 206)  
 Sum: 459 (Ranked 314)  

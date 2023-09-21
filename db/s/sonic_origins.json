@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2220,9 +2220,9 @@
       "ID": "ID_10_SONIC2_WIN_THE_JACKPOT",
       "SetID": "7o8nc5m",
       "Name": "Lucky Hedgehog",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 159
     },
     {
       "ID": "ID_11_SONIC3K_DEFEAT_RHINOBOT",
@@ -2436,8 +2436,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:03:37.0730852+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:04:37.9146059+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:29.6550361+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:58:28.6504678+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:03:37.0731239+00:00"
+  "LastUpdate_Ratings": "2023-09-21T06:59:17.390329+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:04:37.9146876+00:00"
 }

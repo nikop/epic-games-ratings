@@ -5,9 +5,9 @@
   "Ranking_Rating": 219,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 240,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 659,
+  "EOS_Progressed": 660,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
@@ -1789,6 +1789,11 @@
       "Time": "2023-09-21T05:03:25.0651961+00:00",
       "NumProgressed": 659,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-09-21T07:04:24.2425127+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1825,7 +1830,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "_05_FinishAct2",
@@ -1847,9 +1852,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 119
     },
     {
       "ID": "_08_Completion_10",
@@ -1857,7 +1862,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "_09_Completion_20",
@@ -1865,7 +1870,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_10_Completion_30",
@@ -1921,7 +1926,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1961,7 +1966,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2008,7 +2013,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 17
     }
   ],
@@ -2016,8 +2021,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:03:26.0421826+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:04:24.2425117+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:59:11.5375074+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:03:26.0422133+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:00:08.51647+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:04:24.2425431+00:00"
 }

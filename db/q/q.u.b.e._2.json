@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1845,9 +1845,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_OASIS",
@@ -1933,8 +1933,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:03:27.0063737+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:04:25.4017689+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:58:18.1576981+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:03:27.0064025+00:00"
+  "LastUpdate_Ratings": "2023-09-21T06:59:04.122819+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:04:25.4018037+00:00"
 }

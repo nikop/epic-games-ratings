@@ -248,7 +248,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1468,
+  "EOS_Progressed": 1469,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
@@ -2563,6 +2563,11 @@
       "Time": "2023-09-20T11:07:11.5723184+00:00",
       "NumProgressed": 1468,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-21T07:06:56.934179+00:00",
+      "NumProgressed": 1469,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2606,7 +2611,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ACH_FineEV9",
@@ -2614,7 +2619,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_FineGioco",
@@ -2630,7 +2635,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2661,15 +2666,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1468,
+      "Progressed": 1469,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:05:31.1063442+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:06:56.9341784+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:00:27.0861585+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:05:31.1063688+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:03:10.9072702+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:06:56.9342073+00:00"
 }

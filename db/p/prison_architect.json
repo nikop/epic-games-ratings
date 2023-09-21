@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -5406,9 +5406,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 176576,
+  "EOS_Progressed": 176581,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2139,
+  "EOS_NewPlayers": 2136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22606,6 +22606,11 @@
       "Time": "2023-09-21T06:04:52.04421+00:00",
       "NumProgressed": 176576,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-21T07:06:08.6729918+00:00",
+      "NumProgressed": 176581,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -22649,7 +22654,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28252
+      "UsersEstimate": 28253
     },
     {
       "ID": "Achievement_13",
@@ -22697,7 +22702,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44144
+      "UsersEstimate": 44145
     },
     {
       "ID": "Achievement_5",
@@ -22744,15 +22749,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 176576,
+      "Progressed": 176581,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-21T03:00:13.7204438+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:04:52.0442095+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:06:08.672991+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:16.8578557+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:58:54.9925656+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:04:52.0443259+00:00"
+  "LastUpdate_Ratings": "2023-09-21T06:59:48.4262895+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:06:08.6731071+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.41 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,339 |
-| Ranidaphobia | 78.00% | ~1,135 |
-| Aspiring Editor | 75.00% | ~1,091 |
-| Gun for Hire | 70.00% | ~1,018 |
-| I am the law! | 64.00% | ~931 |
-| Lumberjack | 53.00% | ~771 |
-| Croaked | 48.00% | ~698 |
-| Limp Richard | 48.00% | ~698 |
+| First Blood | 92.00% | ~1,340 |
+| Ranidaphobia | 78.00% | ~1,136 |
+| Aspiring Editor | 75.00% | ~1,092 |
+| Gun for Hire | 70.00% | ~1,019 |
+| I am the law! | 64.00% | ~932 |
+| Lumberjack | 53.00% | ~772 |
+| Croaked | 48.00% | ~699 |
+| Limp Richard | 48.00% | ~699 |
 | Exorcist | 47.00% | ~684 |
 | From Darkness to Light | 47.00% | ~684 |
-| Editor Adept | 46.00% | ~669 |
+| Editor Adept | 46.00% | ~670 |
 | Giant Killer | 45.00% | ~655 |
 | Sensei | 43.00% | ~626 |
-| Firestarter | 42.00% | ~611 |
+| Firestarter | 42.00% | ~612 |
 | The meaning of Kain | 41.00% | ~597 |
-| Technophobe | 40.00% | ~582 |
+| Technophobe | 39.00% | ~568 |
 | Recycler | 38.00% | ~553 |
 | Are you not entertained? | 34.00% | ~495 |
 | Ganglord | 34.00% | ~495 |
@@ -28,13 +28,13 @@ Rating: 4.41 (Ranked 691)
 | Infiltrator | 33.00% | ~480 |
 | Pushing Daisy | 32.00% | ~466 |
 | Experienced | 31.00% | ~451 |
-| Hold The Line | 30.00% | ~436 |
-| Endgame | 26.00% | ~378 |
-| Savior | 26.00% | ~378 |
+| Hold The Line | 30.00% | ~437 |
+| Endgame | 26.00% | ~379 |
+| Savior | 26.00% | ~379 |
 | There Can Be Only One! | 25.00% | ~364 |
 | Chain Killer | 22.00% | ~320 |
 | Silent but Violent | 22.00% | ~320 |
-| The Watchers | 22.00% | ~320 |
+| The Watchers | 21.00% | ~306 |
 | Commando | 16.00% | ~233 |
 | Dr Jones | 16.00% | ~233 |
 | Newtonian Knockout | 16.00% | ~233 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 691)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,455 (Ranked 201)  
+Progressed: 1,456 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-18 | 1,445 | 0 |
 | 2023-09-19 | 1,451 | 0 |
 | 2023-09-20 | 1,455 | 0 |
+| 2023-09-21 | 1,456 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

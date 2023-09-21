@@ -217,6 +217,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Love | 0.10% | ~230 |
 | A Saurial's Lament | 0.10% | ~230 |
 | A Saurial's Resolve | 0.10% | ~230 |
+| Spirit of the Trickster Gods | 0.10% | ~196 |
 | Flies on the Wall | 0.10% | ~230 |
 | The Killer Mists | 0.10% | ~230 |
 | Seeking Allies | 0.10% | ~230 |
@@ -283,6 +284,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.10% | ~230 |
 | The Sunless Citadel | 0.10% | ~230 |
 | Veteran Brigade | 0.10% | ~230 |
+| Social Grace | 0.10% | ~196 |
 | Evergreens with an Evergreen | 0.10% | ~196 |
 | Meepo's Quest | 0.10% | ~230 |
 | She's Harmless! | 0.10% | ~230 |
@@ -363,6 +365,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fight Dragons with Dragons | 0.10% | ~196 |
 | Questlines | 0.10% | ~196 |
 | Raggadragga's Crew | 0.10% | ~196 |
+| Just The Worst | 0.10% | ~196 |
 | Bel's Forge | 0.10% | ~196 |
 | Extreme Heat | 0.10% | ~196 |
 | Fire and Brimstone | 0.10% | ~196 |
@@ -481,6 +484,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Willing to Sacrifice | 0.10% | ~196 |
 | Devilishly Cold | 0.10% | ~196 |
 | The Champion's Guide to Wildspace | 0.10% | ~196 |
+| Not That Type of Helm! | 0.10% | ~196 |
 | Calcryx Tricks | 0.10% | ~196 |
 | Goblin Halls: the Next Generation | 0.10% | ~196 |
 | Bazaar Companions | 0.10% | ~196 |
@@ -515,23 +519,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Spirit of the Trickster Gods | 0.00% | ~0 |
 | An Abyssal Situation | 0.00% | ~0 |
-| Social Grace | 0.00% | ~0 |
 | Twice More Into The Breach | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Look Out! | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Just The Worst | 0.00% | ~0 |
 | Frozen in Fear | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
-| Not That Type of Helm! | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,522 (Ranked 57)  
+Progressed: 229,526 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,7 +685,7 @@ Completed: 2,295 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,522 | 2,295 |
+| 2023-09-21 | 229,526 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,663 (Ranked 39)  

@@ -18,6 +18,7 @@ Rating: 4.50 (Ranked 568)
 | I collect Spores, Molds, and Fungi | 0.30% | ~78 |
 | Cultured | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |
+| Summoner | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
 | There you are! | 0.30% | ~78 |
 | Vaporous Expansion | 0.30% | ~78 |
@@ -30,7 +31,6 @@ Rating: 4.50 (Ranked 568)
 | Side Hustle | 0.20% | ~52 |
 | Skilled | 0.20% | ~52 |
 | Stunner | 0.20% | ~52 |
-| Summoner | 0.20% | ~52 |
 | Terrifying | 0.20% | ~52 |
 | Welcome to the Crew | 0.20% | ~52 |
 | We have the best insurance | 0.10% | ~26 |

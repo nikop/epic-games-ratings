@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9810,9 +9810,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 409517,
+  "EOS_Progressed": 409537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7297,
+  "EOS_NewPlayers": 7294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27130,6 +27130,11 @@
       "Time": "2023-09-21T06:04:02.2595416+00:00",
       "NumProgressed": 409517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T07:05:08.7718149+00:00",
+      "NumProgressed": 409537,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27581,7 +27586,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -27973,7 +27978,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "achievement_forever_golden",
@@ -28165,7 +28170,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -29141,7 +29146,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -29972,21 +29977,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 409517,
+      "Progressed": 409537,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 409517,
+      "Progressed": 409537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-20T20:58:39.393831+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:04:02.2595408+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:05:08.7718143+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:58:23.6688345+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:04:02.2608376+00:00"
+  "LastUpdate_Ratings": "2023-09-21T06:59:11.0781882+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:05:08.7737325+00:00"
 }

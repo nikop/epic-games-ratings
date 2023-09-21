@@ -7,8 +7,8 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 12.00% | ~515 |
-| Tax-man I | 11.00% | ~472 |
-| A new beginning | 11.00% | ~472 |
+| Tax-man I | 12.00% | ~515 |
+| A new beginning | 12.00% | ~515 |
 | Friends from the past | 10.00% | ~429 |
 | I like to build stuff... I | 9.00% | ~386 |
 | A time consuming game I | 8.00% | ~343 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3940,9 +3940,9 @@
       "ID": "achFirstIndustryUpgrade",
       "SetID": "dgl390n",
       "Name": "First industry upgraded",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 954
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -4124,9 +4124,9 @@
       "ID": "achSmellOfSuccessCargo",
       "SetID": "dgl390n",
       "Name": "Cargo hub",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 887
+      "UsersEstimate": 903
     },
     {
       "ID": "achTopSpeed120",
@@ -4196,8 +4196,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-16T13:02:14.1846871+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:05:41.9661626+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:07:10.3138686+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.7514199+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:00:29.0543899+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:05:41.9662406+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:03:12.5385604+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:07:10.313959+00:00"
 }

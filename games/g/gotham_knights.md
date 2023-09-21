@@ -5,24 +5,24 @@ Rating: 4.18 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,805 |
+| First Step Into the Knight | 52.00% | ~37,806 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,446 |
 | Loose Ends | 34.00% | ~24,719 |
 | To the Victor Go the Spoils | 29.00% | ~21,084 |
 | Knighthood | 28.00% | ~20,357 |
 | Get ReQ'd | 25.00% | ~18,176 |
 | Whispered Words | 25.00% | ~18,176 |
-| The Batman Family | 23.00% | ~16,721 |
-| Lock and Key | 23.00% | ~16,721 |
-| Something in the Clay | 21.00% | ~15,267 |
-| Quartzer Life Crisis | 21.00% | ~15,267 |
-| Working Hard or Harley Working? | 20.00% | ~14,540 |
-| Unstoppable Force | 20.00% | ~14,540 |
-| Bad Apples in Every Orchard | 20.00% | ~14,540 |
-| Snow Problem | 19.00% | ~13,813 |
-| The Show Mud Go On | 18.00% | ~13,086 |
-| From Inside Gotham's Walls | 18.00% | ~13,086 |
-| Protector of Gotham | 17.00% | ~12,359 |
+| The Batman Family | 23.00% | ~16,722 |
+| Lock and Key | 23.00% | ~16,722 |
+| Something in the Clay | 21.00% | ~15,268 |
+| Quartzer Life Crisis | 21.00% | ~15,268 |
+| Working Hard or Harley Working? | 20.00% | ~14,541 |
+| Unstoppable Force | 20.00% | ~14,541 |
+| Bad Apples in Every Orchard | 20.00% | ~14,541 |
+| Snow Problem | 19.00% | ~13,814 |
+| The Show Mud Go On | 18.00% | ~13,087 |
+| From Inside Gotham's Walls | 18.00% | ~13,087 |
+| Protector of Gotham | 17.00% | ~12,360 |
 | Universal Health Scare | 16.00% | ~11,632 |
 | In Your Element | 15.00% | ~10,905 |
 | Voiceless | 15.00% | ~10,905 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 887)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,702 (Ranked 83)  
+Progressed: 72,703 (Ranked 83)  
 Completed: 116 (0.16%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,10 @@ Completed: 116 (0.16%) (Ranked 207)
 | 2023-09-18 | 72,652 | 114 |
 | 2023-09-19 | 72,676 | 114 |
 | 2023-09-20 | 72,696 | 116 |
-| 2023-09-21 | 72,702 | 116 |
+| 2023-09-21 | 72,703 | 116 |
 ## Awards
 Max (Great Boss Battles): 2,715  (Ranked 96)  
-Sum: 4,514 (Ranked 139)  
+Sum: 4,517 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -233,10 +233,10 @@ Diff (max vs sum): -43
 | This game has Quickly Understood Controls | 229 |
 | This game is Extremely Fun | 229 |
 | This game has Diverse Characters | 227 |
+| This game is Highly Recommended | 223 |
 | This game is Great for Beginners | 222 |
 | This game has Amazing Storytelling | 222 |
 | This game has Amazing Characters | 220 |
-| This game is Highly Recommended | 220 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -449,4 +449,4 @@ Diff (max vs sum): -43
 | 2023-09-18 | 4.18 | 2,708 | 4,497 |
 | 2023-09-19 | 4.18 | 2,713 | 4,502 |
 | 2023-09-20 | 4.18 | 2,715 | 4,507 |
-| 2023-09-21 | 4.18 | 2,715 | 4,514 |
+| 2023-09-21 | 4.18 | 2,715 | 4,517 |

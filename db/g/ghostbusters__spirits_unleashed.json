@@ -2198,7 +2198,7 @@
   ],
   "EOS_Progressed": 25930,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13602,9 +13602,9 @@
       "ID": "Summoner",
       "SetID": "819popo",
       "Name": "Summoner",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Surprise",
@@ -13707,8 +13707,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-20T20:01:35.2934221+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:04:58.590124+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:06:16.7305587+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:59:41.981077+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:04:58.5902369+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:00:47.0733513+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:06:16.7308059+00:00"
 }

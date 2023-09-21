@@ -38,7 +38,7 @@
 | Titan Tanks | 1.00% | ~14 |
 | Advanced Interceptors | 0.70% | ~10 |
 | Shock Troops | 0.70% | ~10 |
-| Jet Troops | 0.60% | ~8 |
+| Jet Troops | 0.70% | ~10 |
 | Gold Competitor | 0.10% | ~1 |
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |

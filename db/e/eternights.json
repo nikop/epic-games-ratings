@@ -678,9 +678,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -773,8 +773,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:04:58.8987739+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:06:17.1022043+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:59:43.1171427+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:04:58.8987953+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:00:48.1743332+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:06:17.1022279+00:00"
 }

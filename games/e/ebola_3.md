@@ -41,13 +41,13 @@
 | Crocodile Attack ✔ | 3.00% | ~8 |
 | Boss 2 ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
+| The escape ✔ | 3.00% | ~8 |
 | Rank B+ ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |
 | Seeker One ✔ | 2.00% | ~5 |
 | Seeker Three ✔ | 2.00% | ~5 |
 | Crocodile Escape ✔ | 2.00% | ~5 |
-| The escape ✔ | 2.00% | ~5 |
 | VIP ✔ | 2.00% | ~5 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Hardcore ✔ | 0.80% | ~2 |

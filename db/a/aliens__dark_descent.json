@@ -5,10 +5,10 @@
   "Ranking_Rating": 584,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 487,
-  "Ranking_EOS_Progress": 170,
+  "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -4580,9 +4580,9 @@
       "ID": "ACH_APC_RUN_OVER",
       "SetID": "816efe",
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1766
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -4917,8 +4917,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:08:11.2473946+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:09:04.3198454+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-21T06:00:32.6207682+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:08:11.247459+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:03:17.9051833+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:09:04.3199173+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -193,18 +193,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 675,
       "NumberOfAwardsMax": 561
+    },
+    {
+      "Time": "2023-09-21T07:00:54.1408565+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 676,
+      "NumberOfAwardsMax": 562
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 675,
-  "NumberOfAwardsMax": 561,
+  "NumberOfAwards": 676,
+  "NumberOfAwardsMax": 562,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 561
+      "Count": 562
     },
     {
       "Text": "This game is Highly Recommended",
@@ -243,9 +249,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 201879,
+  "EOS_Progressed": 201881,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -16838,6 +16844,11 @@
       "Time": "2023-09-21T06:05:21.2016063+00:00",
       "NumProgressed": 201879,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-09-21T07:06:44.9002989+00:00",
+      "NumProgressed": 201881,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 29,
@@ -16873,7 +16884,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 189766
+      "UsersEstimate": 189768
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17080,16 +17091,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 201879,
+      "Progressed": 201881,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:05:21.2016057+00:00",
+  "LastChanged": "2023-09-21T07:00:54.1408564+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:06:44.9002982+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:10.0973549+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:59:48.1106349+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:05:21.2017266+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:00:54.1408569+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:06:44.9004523+00:00"
 }

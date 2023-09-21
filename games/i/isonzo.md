@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 20.00% | ~1,390 |
 | Ragazzi del '99 | 18.00% | ~1,251 |
 | The Lion of the Isonzo | 18.00% | ~1,251 |
-| Luigi Cadorna | 15.00% | ~1,042 |
+| Luigi Cadorna | 15.00% | ~1,043 |
 | Dirty Dozen | 14.00% | ~973 |
 | Uomo Universale | 14.00% | ~973 |
 | Die Bosniaken Kommen! | 13.00% | ~904 |
@@ -30,7 +30,7 @@ Number of Ratings: 98  (23.09.2022)
 | Shaken, Not Stirred | 13.00% | ~904 |
 | Thus With A Kiss | 13.00% | ~904 |
 | The Devil's Paintbrush | 12.00% | ~834 |
-| Dante's Inferno | 11.00% | ~764 |
+| Dante's Inferno | 11.00% | ~765 |
 | I Have the High Ground | 10.00% | ~695 |
 | Millenial | 10.00% | ~695 |
 | The Show Must Go On | 9.00% | ~626 |
@@ -40,10 +40,10 @@ Number of Ratings: 98  (23.09.2022)
 | The Enlightment | 6.00% | ~417 |
 | Generalissimo | 5.00% | ~348 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~278 |
-| Farewell to Arms | 3.00% | ~208 |
-| Ponte of No Return | 3.00% | ~208 |
-| Seeing Red | 3.00% | ~208 |
-| Soča Drag | 3.00% | ~208 |
+| Farewell to Arms | 3.00% | ~209 |
+| Ponte of No Return | 3.00% | ~209 |
+| Seeing Red | 3.00% | ~209 |
+| Soča Drag | 3.00% | ~209 |
 | Saboteur | 2.00% | ~139 |
 | Compagnia della Morte | 1.00% | ~70 |
 | Drop and Give Me 20 | 1.00% | ~70 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.30% | ~21 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,950 (Ranked 143)  
+Progressed: 6,951 (Ranked 143)  
 Completed: 8 (0.12%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 8 (0.12%) (Ranked 215)
 | 2023-09-18 | 6,942 | 8 |
 | 2023-09-19 | 6,947 | 8 |
 | 2023-09-20 | 6,950 | 8 |
+| 2023-09-21 | 6,951 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 444)  
 Sum: 273 (Ranked 352)  

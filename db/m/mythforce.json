@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -647,7 +647,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2866,
+  "EOS_Progressed": 2867,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1084,
   "EOS_NewCompleters": 0,
@@ -5107,6 +5107,11 @@
       "Time": "2023-09-21T06:03:34.2320488+00:00",
       "NumProgressed": 2866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T07:04:34.3397155+00:00",
+      "NumProgressed": 2867,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5261,9 +5266,9 @@
       "ID": "MF_Ach_SeasonFinale",
       "SetID": "9b9n573",
       "Name": "Season Finale",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 29
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -5302,15 +5307,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2866,
+      "Progressed": 2867,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-20T16:59:50.1144164+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:03:34.2320483+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:04:34.3397149+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:59:29.8272123+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:03:34.2320938+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:00:31.1703005+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:04:34.3397895+00:00"
 }

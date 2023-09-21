@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533659,
+  "EOS_Progressed": 533660,
   "EOS_Completed": 1553,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19369,6 +19369,11 @@
       "Time": "2023-09-21T06:02:11.284367+00:00",
       "NumProgressed": 533659,
       "NumCompleted": 1553
+    },
+    {
+      "Time": "2023-09-21T07:03:29.6607971+00:00",
+      "NumProgressed": 533660,
+      "NumCompleted": 1553
     }
   ],
   "TotalAchievements": 37,
@@ -19396,7 +19401,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165434
+      "UsersEstimate": 165435
     },
     {
       "ID": "DEVOTED",
@@ -19436,7 +19441,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 442937
+      "UsersEstimate": 442938
     },
     {
       "ID": "HONED",
@@ -19500,7 +19505,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58702
+      "UsersEstimate": 58703
     },
     {
       "ID": "THE_CAVE",
@@ -19652,7 +19657,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85385
+      "UsersEstimate": 85386
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -19675,15 +19680,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533659,
+      "Progressed": 533660,
       "Completed": 1553
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-19T16:00:07.3346175+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:02:11.2843664+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:03:29.6607965+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.1616875+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:59:44.9407129+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:02:11.2845297+00:00"
+  "LastUpdate_Ratings": "2023-09-21T07:00:50.257092+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:03:29.6609717+00:00"
 }

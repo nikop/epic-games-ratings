@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6950,
+  "EOS_Progressed": 6951,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5667,6 +5667,11 @@
       "Time": "2023-09-20T19:05:01.3630003+00:00",
       "NumProgressed": 6950,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-21T07:05:39.1170892+00:00",
+      "NumProgressed": 6951,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5734,7 +5739,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -5782,7 +5787,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -5822,7 +5827,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -5878,7 +5883,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -5910,7 +5915,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -5934,7 +5939,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -6037,7 +6042,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6950,
+      "Progressed": 6951,
       "Completed": 8
     }
   ],
@@ -6045,8 +6050,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-21T06:04:27.2826688+00:00",
+  "LastChanged_Achievements": "2023-09-21T07:05:39.1170884+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-21T05:58:43.2634265+00:00",
-  "LastUpdate_Achievements": "2023-09-21T06:04:27.2827344+00:00"
+  "LastUpdate_Ratings": "2023-09-21T06:59:35.6722527+00:00",
+  "LastUpdate_Achievements": "2023-09-21T07:05:39.1171896+00:00"
 }
