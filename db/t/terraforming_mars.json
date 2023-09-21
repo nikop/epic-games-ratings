@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 81,
@@ -2770,9 +2770,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 76395,
+  "EOS_Progressed": 76396,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19665,6 +19665,11 @@
       "Time": "2023-09-20T23:03:56.5212536+00:00",
       "NumProgressed": 76395,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-09-21T00:03:55.6003743+00:00",
+      "NumProgressed": 76396,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 30,
@@ -19676,7 +19681,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9167
+      "UsersEstimate": 9168
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -19716,7 +19721,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8403
+      "UsersEstimate": 8404
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -19732,7 +19737,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8403
+      "UsersEstimate": 8404
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -19756,7 +19761,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 28266
+      "UsersEstimate": 28267
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -19772,7 +19777,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 24446
+      "UsersEstimate": 24447
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -19852,7 +19857,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 28266
+      "UsersEstimate": 28267
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -19876,7 +19881,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9167
+      "UsersEstimate": 9168
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -19892,7 +19897,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9167
+      "UsersEstimate": 9168
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -19915,15 +19920,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 76395,
+      "Progressed": 76396,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-19T19:57:57.7673969+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:03:56.5212532+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:03:55.6003739+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.6851624+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:58:07.8632079+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:03:56.5213512+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:58:14.8645178+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:03:55.6005178+00:00"
 }

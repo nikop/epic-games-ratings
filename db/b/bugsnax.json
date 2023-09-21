@@ -3,12 +3,12 @@
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 31,
-  "Ranking_Popularity": 430,
+  "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -5516,9 +5516,9 @@
       "ID": "ACH_MAIN_STORY",
       "SetID": "2m0copd",
       "Name": "Vacation\u0027s End",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 14725
+      "UsersEstimate": 15008
     },
     {
       "ID": "ACH_PUZZLE",
@@ -5612,8 +5612,8 @@
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-09-19T19:59:54.9502269+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:06:50.0340493+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:07:12.7944792+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.8200902+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:00:06.6753963+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:06:50.0340875+00:00"
+  "LastUpdate_Ratings": "2023-09-21T00:00:14.0796051+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:07:12.7945361+00:00"
 }

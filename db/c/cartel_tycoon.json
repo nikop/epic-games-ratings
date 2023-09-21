@@ -3,11 +3,11 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 760,
-  "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 522,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -1924,8 +1924,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:06:47.6285195+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:07:10.3285166+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.7860769+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:02:05.4053868+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:06:47.6285381+00:00"
+  "LastUpdate_Ratings": "2023-09-21T00:02:12.4832863+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:07:10.3285414+00:00"
 }

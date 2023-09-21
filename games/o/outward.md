@@ -6,16 +6,16 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,567 |
-| Ready for Winter | 64.00% | ~2,191 |
-| Ready for Summer | 52.00% | ~1,780 |
-| Cordon Bleu | 44.00% | ~1,506 |
+| Venture Outward | 75.00% | ~2,569 |
+| Ready for Winter | 64.00% | ~2,192 |
+| Ready for Summer | 52.00% | ~1,781 |
+| Cordon Bleu | 44.00% | ~1,507 |
 | Tapped! | 37.00% | ~1,267 |
-| Eureka | 32.00% | ~1,095 |
+| Eureka | 32.00% | ~1,096 |
 | Scourge Slayer | 26.00% | ~890 |
 | Science, Troglodyte! | 24.00% | ~822 |
-| Exceptional Skill | 23.00% | ~787 |
-| Home Sweet Home | 22.00% | ~753 |
+| Exceptional Skill | 23.00% | ~788 |
+| Home Sweet Home | 22.00% | ~754 |
 | Encyclopedic! | 20.00% | ~685 |
 | The Power of Family | 17.00% | ~582 |
 | A Fortress Toppled! | 16.00% | ~548 |
@@ -29,9 +29,9 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 7.00% | ~240 |
 | Let ‘em eat magma! | 7.00% | ~240 |
 | The power of ambition | 7.00% | ~240 |
-| Blood and justice | 6.00% | ~205 |
-| Hold my Mead and Watch This | 6.00% | ~205 |
-| The stuff of legends. | 6.00% | ~205 |
+| Blood and justice | 6.00% | ~206 |
+| Hold my Mead and Watch This | 6.00% | ~206 |
+| The stuff of legends. | 6.00% | ~206 |
 | Ancestor's Pride | 4.00% | ~137 |
 | For All Aurai | 4.00% | ~137 |
 | Memory of a legend | 4.00% | ~137 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,423 (Ranked 169)  
+Progressed: 3,425 (Ranked 169)  
 Completed: 4 (0.12%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,10 +193,11 @@ Completed: 4 (0.12%) (Ranked 216)
 | 2023-09-18 | 3,406 | 4 |
 | 2023-09-19 | 3,413 | 4 |
 | 2023-09-20 | 3,423 | 4 |
+| 2023-09-21 | 3,425 | 4 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 446)  
+Max (Highly Recommended): 35  (Ranked 447)  
 Sum: 244 (Ranked 360)  
-Diff (max vs sum): 86  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

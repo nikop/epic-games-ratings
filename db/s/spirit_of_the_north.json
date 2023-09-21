@@ -3,12 +3,12 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 751,
-  "Ranking_Popularity": 482,
+  "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,10 +324,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 69388,
-  "EOS_Completed": 360,
-  "EOS_NewPlayers": 632,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 69390,
+  "EOS_Completed": 361,
+  "EOS_NewPlayers": 633,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
     {
@@ -17069,6 +17069,11 @@
       "Time": "2023-09-20T23:06:30.6147989+00:00",
       "NumProgressed": 69388,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2023-09-21T00:06:33.1866259+00:00",
+      "NumProgressed": 69390,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 24,
@@ -17088,7 +17093,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15265
+      "UsersEstimate": 15266
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -17096,7 +17101,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 47184
+      "UsersEstimate": 47185
     },
     {
       "ID": "BEST_FRIENDS",
@@ -17104,7 +17109,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15265
+      "UsersEstimate": 15266
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -17120,7 +17125,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "FETCH",
@@ -17160,7 +17165,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36776
+      "UsersEstimate": 36777
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -17224,7 +17229,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "SPIRIT_DASH",
@@ -17271,16 +17276,16 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 69388,
-      "Completed": 360
+      "Progressed": 69390,
+      "Completed": 361
     }
   ],
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:06:30.6147985+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:06:33.1866251+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0653551+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:59:31.3240491+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:06:30.6148912+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:59:37.0654224+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:06:33.1867564+00:00"
 }

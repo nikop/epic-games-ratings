@@ -5,24 +5,24 @@ Rating: 4.27 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,321 |
-| Copacetic Coordination | 16.00% | ~55,068 |
-| Fronting the Money | 15.00% | ~51,626 |
+| Corner Clout | 46.00% | ~158,323 |
+| Copacetic Coordination | 16.00% | ~55,069 |
+| Fronting the Money | 15.00% | ~51,627 |
 | The Dawn of Automation | 14.00% | ~48,185 |
 | Extraordinary Logistics | 14.00% | ~48,185 |
 | Dirty Money | 13.00% | ~44,743 |
 | Family First | 13.00% | ~44,743 |
-| Cleaning House | 12.00% | ~41,301 |
-| Room in the Back | 12.00% | ~41,301 |
-| Beating the Heat | 11.00% | ~37,859 |
-| Booze Baron | 11.00% | ~37,859 |
+| Cleaning House | 12.00% | ~41,302 |
+| Room in the Back | 12.00% | ~41,302 |
+| Beating the Heat | 11.00% | ~37,860 |
+| Booze Baron | 11.00% | ~37,860 |
 | Friends on the Force | 10.00% | ~34,418 |
 | Neighborhood Watch | 10.00% | ~34,418 |
 | Core Corps | 8.00% | ~27,534 |
 | Sizeable Stash | 8.00% | ~27,534 |
-| Street Fighter | 7.00% | ~24,092 |
-| Friendly Gestures | 7.00% | ~24,092 |
-| People Person | 7.00% | ~24,092 |
+| Street Fighter | 7.00% | ~24,093 |
+| Friendly Gestures | 7.00% | ~24,093 |
+| People Person | 7.00% | ~24,093 |
 | Liquor Lord | 6.00% | ~20,651 |
 | Safety in Numbers | 6.00% | ~20,651 |
 | Moving Experiences | 6.00% | ~20,651 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 824)
 | High Pillow | 0.10% | ~344 |
 | Station Master | 0.10% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,176 (Ranked 43)  
+Progressed: 344,180 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,10 +240,11 @@ Completed: 7 (0.00%) (Ranked 280)
 | 2023-09-18 | 343,909 | 7 |
 | 2023-09-19 | 344,027 | 7 |
 | 2023-09-20 | 344,176 | 7 |
+| 2023-09-21 | 344,180 | 7 |
 ## Awards
-Max (Great for Beginners): 37  (Ranked 439)  
+Max (Great for Beginners): 37  (Ranked 440)  
 Sum: 195 (Ranked 377)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |

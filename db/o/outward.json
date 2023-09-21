@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 487,
-  "Ranking_Popularity": 446,
+  "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 216,
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3423,
+  "EOS_Progressed": 3425,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4564,6 +4564,11 @@
       "Time": "2023-09-20T22:04:36.6520073+00:00",
       "NumProgressed": 3423,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-21T00:04:36.659497+00:00",
+      "NumProgressed": 3425,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4607,7 +4612,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "CordonBleu_28",
@@ -4615,7 +4620,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "CrowdPleaser",
@@ -4639,7 +4644,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4647,7 +4652,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ForAllAurai_8",
@@ -4671,7 +4676,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "HomeSweetHome_25",
@@ -4679,7 +4684,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "HouseofCards_19",
@@ -4759,7 +4764,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4767,7 +4772,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4855,7 +4860,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -4895,7 +4900,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2569
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4910,15 +4915,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3423,
+      "Progressed": 3425,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:04:37.6454032+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:04:36.6594965+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:58:59.8388082+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:04:37.6454501+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:59:05.6840846+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:04:36.6595598+00:00"
 }

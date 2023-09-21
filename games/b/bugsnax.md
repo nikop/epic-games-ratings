@@ -18,7 +18,7 @@ Number of Ratings: 425  (23.09.2022)
 | Know Thy Neighbor | 59.00% | ~16,707 |
 | Launch Party | 56.00% | ~15,858 |
 | Perf Dirt | 56.00% | ~15,858 |
-| Vacation's End | 52.00% | ~14,725 |
+| Vacation's End | 53.00% | ~15,008 |
 | Bossy Bugs | 46.00% | ~13,026 |
 | Survivor | 45.00% | ~12,743 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,176 |
@@ -192,9 +192,9 @@ Completed: 1,350 (4.77%) (Ranked 54)
 | 2023-09-19 | 28,312 | 1,350 |
 | 2023-09-20 | 28,317 | 1,350 |
 ## Awards
-Max (Amazing Storytelling): 39  (Ranked 430)  
+Max (Amazing Storytelling): 39  (Ranked 431)  
 Sum: 341 (Ranked 334)  
-Diff (max vs sum): 96  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 39 |

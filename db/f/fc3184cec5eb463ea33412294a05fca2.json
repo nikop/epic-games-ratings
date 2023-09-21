@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1109,9 +1109,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1220,8 +1220,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:05:22.9041926+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:05:26.8207945+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:57:20.2515402+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:05:22.9042073+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:57:26.6861823+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:05:26.8208177+00:00"
 }

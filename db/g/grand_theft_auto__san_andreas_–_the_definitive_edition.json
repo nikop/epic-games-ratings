@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -964,9 +964,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12599,
+  "EOS_Progressed": 12601,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -10959,6 +10959,11 @@
       "Time": "2023-09-20T23:05:52.1177463+00:00",
       "NumProgressed": 12599,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-21T00:05:55.1688253+00:00",
+      "NumProgressed": 12601,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10970,7 +10975,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10205
+      "UsersEstimate": 10207
     },
     {
       "ID": "ACH02",
@@ -11026,7 +11031,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6425
+      "UsersEstimate": 6427
     },
     {
       "ID": "ACH09",
@@ -11249,7 +11254,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12599,
+      "Progressed": 12601,
       "Completed": 45
     }
   ],
@@ -11257,8 +11262,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-20T21:00:39.015209+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:05:52.1177459+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:05:55.1688248+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:00:01.0876087+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:05:52.1178132+00:00"
+  "LastUpdate_Ratings": "2023-09-21T00:00:08.2973082+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:05:55.1689298+00:00"
 }

@@ -7,35 +7,35 @@
 | Tastes just like chicken! | 92.00% | ~92 |
 | MLG 360 no scope kill! | 92.00% | ~92 |
 | Are you ready to rumble? | 92.00% | ~92 |
-| That's what cheese said! | 85.00% | ~85 |
-| I like you...but I have to kill you... | 84.00% | ~84 |
+| That's what cheese said! | 86.00% | ~86 |
+| I like you...but I have to kill you... | 85.00% | ~85 |
+| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~84 |
+| Not so hip anymore! | 84.00% | ~84 |
 | Nerd | 84.00% | ~84 |
-| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~83 |
-| Not so hip anymore! | 83.00% | ~83 |
-| Blurry depth perception | 81.00% | ~81 |
-| Up and down | 79.00% | ~79 |
+| Blurry depth perception | 82.00% | ~82 |
+| Up and down | 80.00% | ~80 |
 | Rolling, Rolling, Rolling | 73.00% | ~73 |
 | Fire-fighter! | 67.00% | ~67 |
-| Oh, you're up to no gouda! | 62.00% | ~62 |
+| Oh, you're up to no gouda! | 63.00% | ~63 |
 | Make Love not War-Craft a Mistlefoe | 60.00% | ~60 |
-| Meat grinder | 59.00% | ~59 |
+| Meat grinder | 60.00% | ~60 |
 | You're not going to blow me up! | 54.00% | ~54 |
 | Butcher | 52.00% | ~52 |
 | Mushroom soup of the day | 52.00% | ~52 |
 | Spare Ribs | 52.00% | ~52 |
+| Cockadoodledoo! | 51.00% | ~51 |
 | Honk honk! | 50.00% | ~50 |
-| Cockadoodledoo! | 50.00% | ~50 |
 | Thats disgusting! | 47.00% | ~47 |
 | My pants squeak when I walk | 45.00% | ~45 |
+| Surprise!! | 43.00% | ~43 |
 | Self assessed tax return | 42.00% | ~42 |
-| Surprise!! | 42.00% | ~42 |
 | Haemochromatosis | 42.00% | ~42 |
 | Pasta Bolognese | 37.00% | ~37 |
 | Make America Grate Again | 36.00% | ~36 |
 | You can't stop me, bro! | 35.00% | ~35 |
 | You are no match for me, Billy! | 34.00% | ~34 |
 | Catch the bus with me! | 33.00% | ~33 |
-| Karaoke king | 32.00% | ~32 |
+| Karaoke king | 33.00% | ~33 |
 | I'm going to get a concussion | 31.00% | ~31 |
 | Another one bites the iron | 30.00% | ~30 |
 | Meatballs, coming up! | 29.00% | ~29 |

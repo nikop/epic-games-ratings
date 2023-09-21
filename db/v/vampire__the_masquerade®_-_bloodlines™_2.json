@@ -2,9 +2,9 @@
   "ID": "nemesia",
   "Name": "Vampire: The Masquerade\u00AE - Bloodlines\u2122 2",
   "ProductSlug": "vampire-the-masquerade-bloodlines-2",
-  "Ranking_EOS_Progress": 615,
+  "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T09:57:27.1023005+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:57:12.7530498+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:06:30.8829098+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:57:18.578084+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:06:33.3206048+00:00"
 }

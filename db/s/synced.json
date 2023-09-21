@@ -3,11 +3,11 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 892,
-  "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 522,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 10,
+  "Ranking_EOS_NewPlayers": 11,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54118,
+  "EOS_Progressed": 54144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15003,
+  "EOS_NewPlayers": 14831,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1850,6 +1850,11 @@
       "Time": "2023-09-20T23:05:41.5899937+00:00",
       "NumProgressed": 54118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T00:05:44.7789153+00:00",
+      "NumProgressed": 54144,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1862,15 +1867,15 @@
       "Name": "Your Lucky Day",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5412
+      "UsersEstimate": 5414
     },
     {
       "ID": "10",
       "SetID": "2cfdi92",
       "Name": "fifteenth Time\u0027s the Charm",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 162
     },
     {
       "ID": "11",
@@ -1926,23 +1931,23 @@
       "Name": "As Far Away As Possible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3790
     },
     {
       "ID": "3",
       "SetID": "2cfdi92",
       "Name": "A Most Unstable Organism",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2706
+      "UsersEstimate": 3249
     },
     {
       "ID": "4",
       "SetID": "2cfdi92",
       "Name": "No Time to Follow Protocol",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2707
     },
     {
       "ID": "5",
@@ -1950,7 +1955,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "6",
@@ -1989,7 +1994,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 54118,
+      "Progressed": 54144,
       "Completed": 0
     }
   ],
@@ -1997,8 +2002,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-20T16:59:12.6306186+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:05:41.5899933+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:05:44.778915+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:37.1772616+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:58:46.756374+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:05:41.5900106+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:58:51.3211923+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:05:44.7789354+00:00"
 }

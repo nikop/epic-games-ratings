@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 502)  
+Rating: 4.54 (Ranked 503)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,21 +21,21 @@ Rating: 4.54 (Ranked 502)
 | Personal Assistant Personally Assisted | 2.00% | ~13,667 |
 | This is My Weapon | 2.00% | ~13,667 |
 | Welcome To Hell-A | 2.00% | ~13,667 |
-| Making Your Mark | 1.00% | ~6,833 |
-| Anger Management | 1.00% | ~6,833 |
-| Perks of the Job | 1.00% | ~6,833 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,833 |
-| Slayer Squad | 1.00% | ~6,833 |
-| Zombologist | 1.00% | ~6,833 |
-| Ooh, Shiny! | 1.00% | ~6,833 |
-| A Patton Emerges | 1.00% | ~6,833 |
-| Humanity Distilled | 1.00% | ~6,833 |
-| I Am the Resurrection | 1.00% | ~6,833 |
-| Our True Nature | 1.00% | ~6,833 |
+| Making Your Mark | 1.00% | ~6,834 |
+| Anger Management | 1.00% | ~6,834 |
+| Perks of the Job | 1.00% | ~6,834 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,834 |
+| Slayer Squad | 1.00% | ~6,834 |
+| Zombologist | 1.00% | ~6,834 |
+| Ooh, Shiny! | 1.00% | ~6,834 |
+| A Patton Emerges | 1.00% | ~6,834 |
+| Humanity Distilled | 1.00% | ~6,834 |
+| I Am the Resurrection | 1.00% | ~6,834 |
+| Our True Nature | 1.00% | ~6,834 |
 | Down with the Sickness | 0.90% | ~6,150 |
 | Max Headroom | 0.80% | ~5,467 |
-| Go, Bobcats! | 0.70% | ~4,783 |
-| Rising Star | 0.70% | ~4,783 |
+| Go, Bobcats! | 0.70% | ~4,784 |
+| Rising Star | 0.70% | ~4,784 |
 | Smorgasbord | 0.60% | ~4,100 |
 | Jumbo Keyring | 0.60% | ~4,100 |
 | Not Even My Final Form | 0.50% | ~3,417 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,347 (Ranked 22)  
+Progressed: 683,360 (Ranked 22)  
 Completed: 2,156 (0.32%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 2,156 (0.32%) (Ranked 179)
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
+| 2023-09-21 | 683,360 | 2,156 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
 Sum: 9,094 (Ranked 93)  

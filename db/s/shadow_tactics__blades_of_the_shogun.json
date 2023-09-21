@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1597,9 +1597,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 203354,
+  "EOS_Progressed": 203357,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 1402,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18882,6 +18882,11 @@
       "Time": "2023-09-20T23:08:18.020383+00:00",
       "NumProgressed": 203354,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-09-21T00:08:19.7938563+00:00",
+      "NumProgressed": 203357,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 44,
@@ -18893,7 +18898,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20335
+      "UsersEstimate": 20336
     },
     {
       "ID": "AtheistOx",
@@ -18933,7 +18938,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16268
+      "UsersEstimate": 16269
     },
     {
       "ID": "FiveShadows",
@@ -19109,7 +19114,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16268
+      "UsersEstimate": 16269
     },
     {
       "ID": "Rollin",
@@ -19117,7 +19122,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16268
+      "UsersEstimate": 16269
     },
     {
       "ID": "StillRollin",
@@ -19149,7 +19154,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16268
+      "UsersEstimate": 16269
     },
     {
       "ID": "TheCave",
@@ -19181,7 +19186,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20335
+      "UsersEstimate": 20336
     },
     {
       "ID": "TimeParadox",
@@ -19244,15 +19249,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 203354,
+      "Progressed": 203357,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-20T19:00:10.1004832+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:08:18.0203828+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:08:19.7938551+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.289608+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:59:41.7874184+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:08:18.020492+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:59:46.8351772+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:08:19.7940202+00:00"
 }

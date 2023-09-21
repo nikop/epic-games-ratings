@@ -440,9 +440,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13128,
+  "EOS_Progressed": 13129,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -8625,6 +8625,11 @@
       "Time": "2023-09-20T22:03:20.6343692+00:00",
       "NumProgressed": 13128,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-21T00:03:22.0351016+00:00",
+      "NumProgressed": 13129,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -8636,7 +8641,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12078
+      "UsersEstimate": 12079
     },
     {
       "ID": "ACH_02",
@@ -8644,7 +8649,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10371
+      "UsersEstimate": 10372
     },
     {
       "ID": "ACH_03",
@@ -8668,7 +8673,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8927
+      "UsersEstimate": 8928
     },
     {
       "ID": "ACH_06",
@@ -8676,7 +8681,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8533
+      "UsersEstimate": 8534
     },
     {
       "ID": "ACH_07",
@@ -8684,7 +8689,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8139
+      "UsersEstimate": 8140
     },
     {
       "ID": "ACH_08",
@@ -8692,7 +8697,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "ACH_09",
@@ -8700,7 +8705,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7614
+      "UsersEstimate": 7615
     },
     {
       "ID": "ACH_10",
@@ -8730,9 +8735,9 @@
       "ID": "ACH_13",
       "SetID": "9d4cf4c",
       "Name": "Nothing Left",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5120
+      "UsersEstimate": 5252
     },
     {
       "ID": "ACH_14",
@@ -8740,7 +8745,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "ACH_15",
@@ -8748,7 +8753,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4332
+      "UsersEstimate": 4333
     },
     {
       "ID": "ACH_16",
@@ -8852,7 +8857,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9058
+      "UsersEstimate": 9059
     },
     {
       "ID": "ACH_29",
@@ -8915,7 +8920,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13128,
+      "Progressed": 13129,
       "Completed": 47
     }
   ],
@@ -8923,8 +8928,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-20T09:01:13.7735856+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:03:23.0671697+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:03:22.0350964+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:18.7719014+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:59:50.3133859+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:03:23.0672349+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:59:55.7175461+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:03:22.0351954+00:00"
 }

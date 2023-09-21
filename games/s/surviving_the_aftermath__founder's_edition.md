@@ -1,29 +1,29 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 603)  
+Rating: 4.48 (Ranked 602)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,561 |
+| First Step | 72.00% | ~6,562 |
 | Leader | 60.00% | ~5,468 |
 | Explorer | 53.00% | ~4,830 |
 | Healer | 52.00% | ~4,739 |
 | Aspiring Inventor | 44.00% | ~4,010 |
-| Adventurer | 41.00% | ~3,736 |
+| Adventurer | 41.00% | ~3,737 |
 | Famous Healer | 38.00% | ~3,463 |
 | Local Leader | 35.00% | ~3,190 |
-| Famous Explorer | 34.00% | ~3,098 |
-| New Opportunities | 34.00% | ~3,098 |
-| Energized | 33.00% | ~3,007 |
-| The Long Haul | 33.00% | ~3,007 |
+| Famous Explorer | 34.00% | ~3,099 |
+| New Opportunities | 34.00% | ~3,099 |
+| Energized | 33.00% | ~3,008 |
+| The Long Haul | 33.00% | ~3,008 |
 | The Great Healer | 31.00% | ~2,825 |
 | Survivor | 31.00% | ~2,825 |
 | Legendary Explorer | 28.00% | ~2,552 |
 | Cleaner | 28.00% | ~2,552 |
 | Catastrofan | 28.00% | ~2,552 |
-| Finders, Keepers | 26.00% | ~2,369 |
+| Finders, Keepers | 26.00% | ~2,370 |
 | Top Notch | 25.00% | ~2,278 |
 | Great Leader | 23.00% | ~2,096 |
 | Mentor | 23.00% | ~2,096 |
@@ -31,7 +31,7 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 22.00% | ~2,005 |
 | Real Survivor | 22.00% | ~2,005 |
 | Rocket Surgeon | 20.00% | ~1,823 |
-| War Never Changes | 19.00% | ~1,731 |
+| War Never Changes | 19.00% | ~1,732 |
 | Friendly | 17.00% | ~1,549 |
 | Big Game Hunter | 17.00% | ~1,549 |
 | Spreading Influence | 17.00% | ~1,549 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,113 (Ranked 136)  
+Progressed: 9,114 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,6 +220,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-18 | 9,079 | 0 |
 | 2023-09-19 | 9,097 | 0 |
 | 2023-09-20 | 9,113 | 0 |
+| 2023-09-21 | 9,114 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 336)  
 Sum: 701 (Ranked 279)  

@@ -3,12 +3,12 @@
   "Name": "Sable",
   "ProductSlug": "sable",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 490,
+  "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -466,7 +466,7 @@
   ],
   "EOS_Progressed": 90382,
   "EOS_Completed": 907,
-  "EOS_NewPlayers": 1221,
+  "EOS_NewPlayers": 1220,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -18194,8 +18194,8 @@
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-13T04:57:42.2260529+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:03:23.3537822+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:03:22.2894128+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:11.3185924+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:59:42.1694614+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:03:23.3539003+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:59:47.2000865+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:03:22.2895911+00:00"
 }

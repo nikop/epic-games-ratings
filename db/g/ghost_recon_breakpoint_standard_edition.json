@@ -2,12 +2,12 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 84,
-  "Ranking_EOS_Progress": 615,
+  "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 4870,
   "RatingHistory": [
     {
@@ -8131,10 +8131,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10644,
       "NumberOfAwardsMax": 1379
+    },
+    {
+      "Time": "2023-09-20T23:58:40.3632328+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 10650,
+      "NumberOfAwardsMax": 1379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10644,
+  "NumberOfAwards": 10650,
   "NumberOfAwardsMax": 1379,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8172,7 +8178,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1191
+      "Count": 1195
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8190,7 +8196,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1236
+      "Count": 1238
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -8210,8 +8216,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-09-20T18:59:00.2798437+00:00",
+  "LastChanged": "2023-09-20T23:58:40.3632326+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.0847641+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:58:35.0872924+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:06:05.1252995+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:58:40.3632334+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:06:08.1337+00:00"
 }

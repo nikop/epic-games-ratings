@@ -2,7 +2,7 @@
   "ID": "8aab3f6bf69648abbbc1604451741fde",
   "Name": "The Crown of Wu",
   "ProductSlug": "the-crown-of-wu-d997a6",
-  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 109,
@@ -345,8 +345,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:36.9444229+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:05:54.138451+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:05:57.1647444+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:15.2633639+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:58:46.3484333+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:05:54.138473+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:58:50.8611074+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:05:57.1647731+00:00"
 }

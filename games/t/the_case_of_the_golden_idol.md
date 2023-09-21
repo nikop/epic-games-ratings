@@ -12,15 +12,15 @@
 | Solved the Lemurian Vampire 1st Case | 4.00% | ~5 |
 | Solved third case | 3.00% | ~6 |
 | Solved fourth case | 3.00% | ~6 |
-| Solved fifth case | 2.00% | ~4 |
-| Solved sixth case | 2.00% | ~4 |
-| Solved seventh case | 2.00% | ~4 |
+| Solved fifth case | 3.00% | ~6 |
+| Solved sixth case | 3.00% | ~6 |
+| Solved seventh case | 3.00% | ~6 |
+| Solved eighth case | 2.00% | ~4 |
 | Solved the Lemurian Vampire 2nd Case | 2.00% | ~3 |
-| Solved eighth case | 1.00% | ~2 |
+| Solved ninth case | 1.00% | ~2 |
+| Solved tenth case | 1.00% | ~2 |
 | Solved the Lemurian Vampire 3rd Case | 1.00% | ~1 |
 | Solved eleventh case | 0.50% | ~1 |
-| Solved ninth case | 0.50% | ~1 |
-| Solved tenth case | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 190 (Ranked 321)  
 Completed: 8 (4.21%) (Ranked 58)  

@@ -2,9 +2,9 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 159,
+  "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4281,
+  "EOS_Progressed": 4298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2009,6 +2009,11 @@
       "Time": "2023-09-20T23:04:35.7115135+00:00",
       "NumProgressed": 4281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T00:04:34.7977484+00:00",
+      "NumProgressed": 4298,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2117,7 +2122,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1547
     },
     {
       "ID": "kills_100",
@@ -2173,7 +2178,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "revives_25",
@@ -2268,13 +2273,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 4281,
+      "Progressed": 4298,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:04:35.7115131+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:04:34.7977479+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:59:55.7218378+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:04:35.7115395+00:00"
+  "LastUpdate_Ratings": "2023-09-21T00:00:02.5708635+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:04:34.7977857+00:00"
 }

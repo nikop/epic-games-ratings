@@ -433,9 +433,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "b36c5kb",
       "Name": "Fire Walk With Me",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -681,9 +681,9 @@
       "ID": "ACHIEVEMENT_44",
       "SetID": "b36c5kb",
       "Name": "Bootable Offense",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:06:42.0569405+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:07:04.8025191+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:57:31.8807543+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:06:42.0569802+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:57:38.9175844+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:07:04.8025706+00:00"
 }

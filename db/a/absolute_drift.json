@@ -3,12 +3,12 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 680,
-  "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 522,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541260,
+  "EOS_Progressed": 1541263,
   "EOS_Completed": 690,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17673,6 +17673,11 @@
       "Time": "2023-09-20T23:05:21.1178137+00:00",
       "NumProgressed": 1541260,
       "NumCompleted": 690
+    },
+    {
+      "Time": "2023-09-21T00:05:24.7774704+00:00",
+      "NumProgressed": 1541263,
+      "NumCompleted": 690
     }
   ],
   "TotalAchievements": 20,
@@ -17732,7 +17737,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 138713
+      "UsersEstimate": 138714
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -17796,7 +17801,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138713
+      "UsersEstimate": 138714
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -17843,15 +17848,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1541260,
+      "Progressed": 1541263,
       "Completed": 690
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-06T23:02:05.1723132+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:05:21.1178133+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:05:24.7774699+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.5170065+00:00",
   "LastUpdate_Ratings": "2023-09-20T23:00:24.9951014+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:05:21.1179076+00:00"
+  "LastUpdate_Achievements": "2023-09-21T00:05:24.7776093+00:00"
 }

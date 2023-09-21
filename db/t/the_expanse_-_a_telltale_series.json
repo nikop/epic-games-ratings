@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 626,
-  "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 522,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 84,
@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11076,
+  "EOS_Progressed": 11083,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5993,6 +5993,11 @@
       "Time": "2023-09-20T23:08:13.4687282+00:00",
       "NumProgressed": 11076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T00:08:15.1944269+00:00",
+      "NumProgressed": 11083,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6021,7 +6026,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "12",
@@ -6045,7 +6050,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "15",
@@ -6053,7 +6058,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2882
     },
     {
       "ID": "16",
@@ -6069,7 +6074,7 @@
       "Name": "Spore Taste",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2549
     },
     {
       "ID": "18",
@@ -6077,7 +6082,7 @@
       "Name": "Bottoms up!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "19",
@@ -6085,7 +6090,7 @@
       "Name": "Martian Music",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2660
     },
     {
       "ID": "2",
@@ -6101,7 +6106,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "21",
@@ -6109,7 +6114,7 @@
       "Name": "Drone Dodger",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2217
     },
     {
       "ID": "22",
@@ -6131,9 +6136,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "25",
@@ -6181,7 +6186,7 @@
       "Name": "Captain Drummer",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2660
     },
     {
       "ID": "30",
@@ -6213,7 +6218,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2549
     },
     {
       "ID": "7",
@@ -6237,14 +6242,14 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3657
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 11076,
+      "Progressed": 11083,
       "Completed": 0
     }
   ],
@@ -6252,8 +6257,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-20T17:00:05.303439+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:08:13.4687279+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:08:15.1944264+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:59:40.5014241+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:08:13.4687721+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:59:45.6564157+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:08:15.1944893+00:00"
 }

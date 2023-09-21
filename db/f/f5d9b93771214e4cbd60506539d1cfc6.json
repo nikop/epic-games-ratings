@@ -3,8 +3,8 @@
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_Rating": 520,
-  "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 522,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 54,
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144199,
+  "EOS_Progressed": 144201,
   "EOS_Completed": 274,
-  "EOS_NewPlayers": 1249,
+  "EOS_NewPlayers": 1246,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11595,6 +11595,11 @@
       "Time": "2023-09-20T23:08:16.7036369+00:00",
       "NumProgressed": 144199,
       "NumCompleted": 274
+    },
+    {
+      "Time": "2023-09-21T00:08:18.5553573+00:00",
+      "NumProgressed": 144201,
+      "NumCompleted": 274
     }
   ],
   "TotalAchievements": 31,
@@ -11612,9 +11617,9 @@
       "ID": "EAwards_1",
       "SetID": "7gko43",
       "Name": "Viva La Resurrecci\u00F3n",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 99497
+      "UsersEstimate": 100941
     },
     {
       "ID": "EAwards_10",
@@ -11853,7 +11858,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 144199,
+      "Progressed": 144201,
       "Completed": 274
     }
   ],
@@ -11861,8 +11866,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-14T21:00:44.2735309+00:00",
-  "LastChanged_Achievements": "2023-09-20T23:08:16.7036365+00:00",
+  "LastChanged_Achievements": "2023-09-21T00:08:18.5553565+00:00",
   "LastUpdate_AppInfo": "2023-09-14T23:57:11.0407447+00:00",
-  "LastUpdate_Ratings": "2023-09-20T22:57:57.6932862+00:00",
-  "LastUpdate_Achievements": "2023-09-20T23:08:16.703709+00:00"
+  "LastUpdate_Ratings": "2023-09-20T23:58:04.0778767+00:00",
+  "LastUpdate_Achievements": "2023-09-21T00:08:18.555471+00:00"
 }
