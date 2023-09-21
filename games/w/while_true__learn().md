@@ -6,17 +6,17 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~562,081 |
-| Error: Stack Overflow | 66.00% | ~398,896 |
-| We need more gold | 61.00% | ~368,677 |
-| The dawn of civilization | 53.00% | ~320,326 |
-| More FPS for the FPS god! | 49.00% | ~296,150 |
-| Beauty and harmony | 48.00% | ~290,106 |
-| One more! | 44.00% | ~265,931 |
-| Overmind | 24.00% | ~145,053 |
+| First.. Bit? | 93.00% | ~562,084 |
+| Error: Stack Overflow | 66.00% | ~398,898 |
+| We need more gold | 61.00% | ~368,679 |
+| The dawn of civilization | 53.00% | ~320,327 |
+| More FPS for the FPS god! | 49.00% | ~296,152 |
+| Beauty and harmony | 48.00% | ~290,108 |
+| One more! | 44.00% | ~265,932 |
+| Overmind | 24.00% | ~145,054 |
 | RNG is my best friend now | 18.00% | ~108,790 |
-| Cosplay | 13.00% | ~78,570 |
-| Evolution in progress... | 13.00% | ~78,570 |
+| Cosplay | 13.00% | ~78,571 |
+| Evolution in progress... | 13.00% | ~78,571 |
 | Step by step | 8.00% | ~48,351 |
 | README reader | 3.00% | ~18,132 |
 | Data scientist | 3.00% | ~18,132 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Cybergeek 2047 | 2.00% | ~12,088 |
 | Ping | 1.00% | ~6,044 |
 | Magna cum laude | 1.00% | ~6,044 |
-| The hoarder | 0.90% | ~5,439 |
+| The hoarder | 0.90% | ~5,440 |
 | Deal with it! | 0.50% | ~3,022 |
 | Gold rush | 0.40% | ~2,418 |
 | Cat-o-holic | 0.40% | ~2,418 |
 | Elements will destroy you! | 0.30% | ~1,813 |
 | The Scrooge | 0.10% | ~604 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604,388 (Ranked 29)  
+Progressed: 604,391 (Ranked 29)  
 Completed: 526 (0.09%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 526 (0.09%) (Ranked 229)
 | 2023-09-18 | 604,202 | 526 |
 | 2023-09-19 | 604,297 | 526 |
 | 2023-09-20 | 604,383 | 526 |
-| 2023-09-21 | 604,388 | 526 |
+| 2023-09-21 | 604,391 | 526 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 310)  
 Sum: 134 (Ranked 405)  

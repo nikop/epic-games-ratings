@@ -2,7 +2,7 @@
   "ID": "bcd479d96de045fa8805f2bf4962475e",
   "Name": "Sea Horizon",
   "ProductSlug": "sea-horizon-729355",
-  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
@@ -175,8 +175,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-27T17:02:13.4628733+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:23:32.1833266+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:09:11.2769968+00:00",
   "LastUpdate_AppInfo": "2023-09-17T18:57:02.6675089+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:14:36.3160676+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:23:32.183339+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:00:59.8954463+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:09:11.2770116+00:00"
 }

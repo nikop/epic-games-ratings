@@ -2,7 +2,7 @@
   "ID": "b6a1a2bc8ab94b7fab473216aee35a3e",
   "Name": "Hotel: A Resort Simulator",
   "ProductSlug": "hotel-a-resort-simulator",
-  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
@@ -15,12 +15,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-09-21T03:07:39.0622123+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-09-21T02:21:05.3859477+00:00",
   "TotalAchievements": 27,
   "TotalAchievementsXP": 1000,
@@ -246,13 +252,13 @@
     {
       "ID": "27567lg",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-07T20:06:29.6581139+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:21:05.385945+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:07:39.0622114+00:00",
   "LastUpdate_AppInfo": "2023-09-14T20:57:16.8517152+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:12:20.123576+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:21:05.434948+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:57:41.1303086+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:07:39.0622427+00:00"
 }

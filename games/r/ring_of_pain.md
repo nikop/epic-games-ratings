@@ -1,36 +1,36 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 433)  
+Rating: 4.58 (Ranked 434)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,871 |
-| Uncharted Territory | 89.00% | ~210,328 |
+| First Steps | 96.00% | ~226,872 |
+| Uncharted Territory | 89.00% | ~210,329 |
 | Getting A Glimpse | 73.00% | ~172,517 |
 | A Quick Escape | 65.00% | ~153,611 |
-| Explorer | 62.00% | ~146,521 |
+| Explorer | 62.00% | ~146,522 |
 | Defeat The Dark | 61.00% | ~144,158 |
 | An Offering | 61.00% | ~144,158 |
 | Colorful Corpse | 58.00% | ~137,068 |
 | That Was Quick | 57.00% | ~134,705 |
 | A Donation | 57.00% | ~134,705 |
-| Goodbye, Frog Friend | 54.00% | ~127,615 |
+| Goodbye, Frog Friend | 54.00% | ~127,616 |
 | Heavy Hitter | 53.00% | ~125,252 |
-| Heartless | 46.00% | ~108,709 |
-| Spine Breaker | 46.00% | ~108,709 |
+| Heartless | 46.00% | ~108,710 |
+| Spine Breaker | 46.00% | ~108,710 |
 | Deflection | 45.00% | ~106,346 |
-| Sneaky | 43.00% | ~101,619 |
+| Sneaky | 43.00% | ~101,620 |
 | Delving Deeper | 42.00% | ~99,256 |
 | C-C-Combo | 42.00% | ~99,256 |
 | Ambitious Intent | 41.00% | ~96,893 |
 | Nothing To Lose | 40.00% | ~94,530 |
 | The Bestiary | 40.00% | ~94,530 |
-| What's Yours Is Mine | 38.00% | ~89,803 |
+| What's Yours Is Mine | 38.00% | ~89,804 |
 | R.I.P | 37.00% | ~87,440 |
 | Shootout | 36.00% | ~85,077 |
-| I Am Overburdened | 35.00% | ~82,713 |
+| I Am Overburdened | 35.00% | ~82,714 |
 | Cold Hearted | 34.00% | ~80,350 |
 | Dig Your Own Grave | 33.00% | ~77,987 |
 | Toxic | 33.00% | ~77,987 |
@@ -39,10 +39,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 28.00% | ~66,171 |
 | Stone Touch | 28.00% | ~66,171 |
 | Shadow Walker | 28.00% | ~66,171 |
-| Consecutive Curses | 27.00% | ~63,807 |
-| Acid Bath | 27.00% | ~63,807 |
-| New Perspectives | 27.00% | ~63,807 |
-| Shapeshifting | 27.00% | ~63,807 |
+| Consecutive Curses | 27.00% | ~63,808 |
+| Acid Bath | 27.00% | ~63,808 |
+| New Perspectives | 27.00% | ~63,808 |
+| Shapeshifting | 27.00% | ~63,808 |
 | Destroy Your Fears | 26.00% | ~61,444 |
 | Save Our Souls | 25.00% | ~59,081 |
 | To The Death! | 20.00% | ~47,265 |
@@ -56,7 +56,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 16.00% | ~37,812 |
 | Doing Time | 16.00% | ~37,812 |
 | Spreading Plague | 15.00% | ~35,449 |
-| The Long Run | 14.00% | ~33,085 |
+| The Long Run | 14.00% | ~33,086 |
 | A Rough Road | 13.00% | ~30,722 |
 | Chain Reaction | 13.00% | ~30,722 |
 | Berzerker | 12.00% | ~28,359 |
@@ -78,12 +78,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Fire Away! | 7.00% | ~16,543 |
 | Obsessed | 7.00% | ~16,543 |
 | Sentimental Value | 7.00% | ~16,543 |
-| A Long Climb | 6.00% | ~14,179 |
-| Grave Digger | 6.00% | ~14,179 |
-| Soul Stash | 6.00% | ~14,179 |
-| Power Score | 6.00% | ~14,179 |
-| Just Looking Around | 6.00% | ~14,179 |
-| Champion of the Day | 6.00% | ~14,179 |
+| A Long Climb | 6.00% | ~14,180 |
+| Grave Digger | 6.00% | ~14,180 |
+| Soul Stash | 6.00% | ~14,180 |
+| Power Score | 6.00% | ~14,180 |
+| Just Looking Around | 6.00% | ~14,180 |
+| Champion of the Day | 6.00% | ~14,180 |
 | Achievement Hunter | 5.00% | ~11,816 |
 | No Mercy | 5.00% | ~11,816 |
 | Hydrophobe | 4.00% | ~9,453 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,182 |
 | Near Death Experience | 0.30% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,324 (Ranked 53)  
+Progressed: 236,325 (Ranked 53)  
 Completed: 273 (0.12%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 273 (0.12%) (Ranked 216)
 | 2023-09-18 | 236,221 | 273 |
 | 2023-09-19 | 236,272 | 273 |
 | 2023-09-20 | 236,319 | 273 |
-| 2023-09-21 | 236,324 | 273 |
+| 2023-09-21 | 236,325 | 273 |
 ## Awards
 Max (Quickly Understood Controls): 1,493  (Ranked 125)  
 Sum: 11,564 (Ranked 80)  

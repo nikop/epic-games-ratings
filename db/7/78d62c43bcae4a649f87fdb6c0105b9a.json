@@ -2,7 +2,7 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
@@ -215,8 +215,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:20:49.1923068+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:07:16.9545039+00:00",
   "LastUpdate_AppInfo": "2023-09-17T18:57:03.3812979+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:13:19.1131876+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:20:49.1923324+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:59:04.4423026+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:07:16.9545242+00:00"
 }

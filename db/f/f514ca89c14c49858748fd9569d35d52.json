@@ -2,7 +2,7 @@
   "ID": "f514ca89c14c49858748fd9569d35d52",
   "Name": "ALAN-13 Reformation",
   "ProductSlug": "alan13-reformation-d4ec20",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
@@ -122,8 +122,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T19:06:16.4121929+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:20:29.0075642+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:06:48.502426+00:00",
   "LastUpdate_AppInfo": "2023-09-14T19:57:18.2107781+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:17:06.8667146+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:20:29.0075834+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:02:42.1003694+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:06:48.5024364+00:00"
 }

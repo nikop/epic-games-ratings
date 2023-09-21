@@ -9697,9 +9697,9 @@
       "Count": 701
     }
   ],
-  "EOS_Progressed": 626553,
+  "EOS_Progressed": 626554,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 3004,
+  "EOS_NewPlayers": 2994,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26972,6 +26972,11 @@
       "Time": "2023-09-21T02:19:59.2510407+00:00",
       "NumProgressed": 626553,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-09-21T03:06:06.8108455+00:00",
+      "NumProgressed": 626554,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 65,
@@ -26999,7 +27004,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 206762
+      "UsersEstimate": 206763
     },
     {
       "ID": "achievement_04",
@@ -27063,7 +27068,7 @@
       "Name": "Brush with Death",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 100248
+      "UsersEstimate": 100249
     },
     {
       "ID": "achievement_12",
@@ -27119,7 +27124,7 @@
       "Name": "Sancho Panza",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 194231
+      "UsersEstimate": 194232
     },
     {
       "ID": "achievement_19",
@@ -27175,7 +27180,7 @@
       "Name": "Flag Burning",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 169169
+      "UsersEstimate": 169170
     },
     {
       "ID": "achievement_26",
@@ -27191,7 +27196,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 238090
+      "UsersEstimate": 238091
     },
     {
       "ID": "achievement_28",
@@ -27199,7 +27204,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 181700
+      "UsersEstimate": 181701
     },
     {
       "ID": "achievement_29",
@@ -27271,7 +27276,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 206762
+      "UsersEstimate": 206763
     },
     {
       "ID": "achievement_38",
@@ -27295,7 +27300,7 @@
       "Name": "Death From Afar",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 87717
+      "UsersEstimate": 87718
     },
     {
       "ID": "achievement_41",
@@ -27311,7 +27316,7 @@
       "Name": "Terminal Headache",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 87717
+      "UsersEstimate": 87718
     },
     {
       "ID": "achievement_43",
@@ -27502,21 +27507,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 626553,
+      "Progressed": 626554,
       "Completed": 63
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 271997,
+      "Progressed": 271998,
       "Completed": 1430
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-09-20T18:02:20.3140864+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:19:59.2510401+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:06:06.8108449+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1287106+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:12:06.8892976+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:19:59.251291+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:57:19.0053427+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:06:06.8111599+00:00"
 }

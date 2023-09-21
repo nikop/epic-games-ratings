@@ -2,7 +2,7 @@
   "ID": "04f58664c247401782ff01d9e245d778",
   "Name": "Raji: An Ancient Epic",
   "ProductSlug": "raji-an-ancient-epic",
-  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:30.0229736+00:00",
   "LastChanged": "2023-03-31T05:57:30.0229737+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:01.5666689+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:14:48.6616533+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:19:54.315362+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:01:17.8662636+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:05:59.9153397+00:00"
 }

@@ -53,8 +53,8 @@ Rating: 4.82 (Ranked 66)
 | Back to sleep, then... | 11.00% | ~282 |
 | Do you trust me? | 10.00% | ~257 |
 | Chains master | 10.00% | ~257 |
+| The great mage rebellion starts now | 10.00% | ~257 |
 | You can pet the... horse | 10.00% | ~257 |
-| The great mage rebellion starts now | 9.00% | ~231 |
 | Spellcrafting | 9.00% | ~231 |
 | Silverwing nest | 2.00% | ~51 |
 | The Unshackled | 0.90% | ~23 |

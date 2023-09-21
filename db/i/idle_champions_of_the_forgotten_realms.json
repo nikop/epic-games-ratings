@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6778,9 +6778,9 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229505,
+  "EOS_Progressed": 229506,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23808,6 +23808,11 @@
       "Time": "2023-09-21T02:18:39.6406109+00:00",
       "NumProgressed": 229505,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-21T03:04:18.6560488+00:00",
+      "NumProgressed": 229506,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 524,
@@ -24177,9 +24182,9 @@
       "ID": "objective_completed_1097",
       "SetID": "415jc5c",
       "Name": "Bully for You!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_11",
@@ -25137,9 +25142,9 @@
       "ID": "objective_completed_187",
       "SetID": "415jc5c",
       "Name": "Acererak\u0027s Puzzle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_19",
@@ -25337,9 +25342,9 @@
       "ID": "objective_completed_252",
       "SetID": "cc37lbc",
       "Name": "They Who Smelt It",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_253",
@@ -26273,9 +26278,9 @@
       "ID": "objective_completed_585",
       "SetID": "cc37lbc",
       "Name": "Champions of Waterdeep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_586",
@@ -26297,9 +26302,9 @@
       "ID": "objective_completed_588",
       "SetID": "415jc5c",
       "Name": "Take Five",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_59",
@@ -28010,21 +28015,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195779,
-      "Completed": 3446
+      "Progressed": 195780,
+      "Completed": 3448
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229505,
+      "Progressed": 229506,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-21T01:39:59.5520146+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:18:39.6406102+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:04:18.6560482+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:13:56.0596568+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:18:39.6439264+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:59:59.666073+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:04:18.6594189+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3842,9 +3842,9 @@
       "ID": "STB_MISSION12_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The great mage rebellion starts now",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 257
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -4067,8 +4067,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:23:14.8397312+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:08:47.158329+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:32.2915355+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:13:44.1337072+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:23:14.8398494+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:59:43.1926386+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:08:47.1584471+00:00"
 }

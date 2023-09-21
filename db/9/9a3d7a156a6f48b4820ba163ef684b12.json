@@ -2,7 +2,7 @@
   "ID": "9a3d7a156a6f48b4820ba163ef684b12",
   "Name": "GarbageGame",
   "ProductSlug": "garbagegame-b92325",
-  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-19T17:57:00.5711244+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:14:27.2240138+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:18:04.5075778+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:00:46.1416581+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:03:19.5955818+00:00"
 }

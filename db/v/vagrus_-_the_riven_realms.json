@@ -2,7 +2,7 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 109,
@@ -1094,9 +1094,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1343,8 +1343,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:18:25.8160875+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:03:49.2448613+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.3873754+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:14:50.8256223+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:18:25.816228+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:01:20.8960584+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:03:49.245075+00:00"
 }

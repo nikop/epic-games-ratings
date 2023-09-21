@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Steadfast Love | 0.10% | ~196 |
 | The Fairy Rings of Thither | 0.10% | ~196 |
 | Zarak's Revenge | 0.10% | ~196 |
+| Bully for You! | 0.10% | ~196 |
 | Beast Intentions | 0.10% | ~230 |
 | Wet Feet | 0.10% | ~230 |
 | The Dark Heart | 0.10% | ~196 |
@@ -158,6 +159,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.10% | ~230 |
 | The Soulmonger Calls | 0.10% | ~230 |
 | Azaka's Procession - Part 2 | 0.10% | ~230 |
+| Acererak's Puzzle | 0.10% | ~196 |
 | Unearthed Evil | 0.10% | ~230 |
 | No Time To Rest | 0.10% | ~230 |
 | The Mists of Ravenloft | 0.10% | ~230 |
@@ -182,6 +184,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Form Ranks | 0.10% | ~230 |
 | Drop of Time | 0.10% | ~196 |
 | The Wyrmheart Mine | 0.10% | ~230 |
+| They Who Smelt It | 0.10% | ~230 |
 | Distribute Your Weight | 0.10% | ~230 |
 | Mongrelfolk Incursion | 0.10% | ~196 |
 | Tower on the Lake | 0.10% | ~230 |
@@ -290,8 +293,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Pixies | 0.10% | ~230 |
 | Vault of Poison | 0.10% | ~230 |
 | Vault of Cuteness | 0.10% | ~196 |
+| Champions of Waterdeep | 0.10% | ~230 |
 | On The Job Learning | 0.10% | ~230 |
 | Strike! | 0.10% | ~196 |
+| Take Five | 0.10% | ~196 |
 | Running of the Saurs | 0.10% | ~230 |
 | Lost in the Goblin Halls | 0.10% | ~230 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~196 |
@@ -486,7 +491,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.00% | ~0 |
 | Second Third Out | 0.00% | ~0 |
 | Third Third Out | 0.00% | ~0 |
-| Bully for You! | 0.00% | ~0 |
 | The Alien Underdark | 0.00% | ~0 |
 | Thoughts on the Menu | 0.00% | ~0 |
 | Brains on Ice | 0.00% | ~0 |
@@ -496,8 +500,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Acererak's Puzzle | 0.00% | ~0 |
-| They Who Smelt It | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
 | A Nod from Strahd | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
@@ -506,8 +508,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Towering Expectations | 0.00% | ~0 |
 | An Abyssal Situation | 0.00% | ~0 |
 | Social Grace | 0.00% | ~0 |
-| Champions of Waterdeep | 0.00% | ~0 |
-| Take Five | 0.00% | ~0 |
 | Batiri in the Goblin Halls | 0.00% | ~0 |
 | Twice More Into The Breach | 0.00% | ~0 |
 | An Illithid Ambush | 0.00% | ~0 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All The World's A Stage | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,505 (Ranked 57)  
+Progressed: 229,506 (Ranked 57)  
 Completed: 2,295 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,7 +685,7 @@ Completed: 2,295 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,505 | 2,295 |
+| 2023-09-21 | 229,506 | 2,295 |
 ## Awards
 Max (Diverse Characters): 5,296  (Ranked 67)  
 Sum: 31,662 (Ranked 39)  

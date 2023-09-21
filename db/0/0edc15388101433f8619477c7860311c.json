@@ -2,9 +2,9 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -166,9 +166,9 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 200,
+      "Percentage": 250,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RoadToSalvation",
@@ -229,8 +229,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:18:32.7495711+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:04:08.6308979+00:00",
   "LastUpdate_AppInfo": "2023-09-18T04:57:02.6952136+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:14:42.7680972+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:18:32.7495972+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:01:08.9994674+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:04:08.6309152+00:00"
 }

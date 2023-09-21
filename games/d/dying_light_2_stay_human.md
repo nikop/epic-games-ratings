@@ -6,14 +6,14 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~238,090 |
+| You Never Forget Your First... | 38.00% | ~238,091 |
 | Into the Unknown | 35.00% | ~219,294 |
 | First Shot | 35.00% | ~219,294 |
-| Herzlich Wilkommen! | 33.00% | ~206,762 |
-| Good Night & Good Luck | 33.00% | ~206,762 |
-| Sancho Panza | 31.00% | ~194,231 |
-| Oh, So This Is How It Works! | 29.00% | ~181,700 |
-| Flag Burning | 27.00% | ~169,169 |
+| Herzlich Wilkommen! | 33.00% | ~206,763 |
+| Good Night & Good Luck | 33.00% | ~206,763 |
+| Sancho Panza | 31.00% | ~194,232 |
+| Oh, So This Is How It Works! | 29.00% | ~181,701 |
+| Flag Burning | 27.00% | ~169,170 |
 | Can't Touch This! | 25.00% | ~156,638 |
 | Under Pressure | 24.00% | ~150,373 |
 | On the Trail of the Enemy | 24.00% | ~150,373 |
@@ -26,13 +26,13 @@ Number of Ratings: 7,305  (23.09.2022)
 | We Will Be Heard! | 18.00% | ~112,780 |
 | Tunnel Entrance | 18.00% | ~112,780 |
 | Known Associate | 17.00% | ~106,514 |
-| Brush with Death | 16.00% | ~100,248 |
+| Brush with Death | 16.00% | ~100,249 |
 | Debris and Ashes | 15.00% | ~93,983 |
 | Going Down | 15.00% | ~93,983 |
 | Family First | 15.00% | ~93,983 |
 | Your World, Your Rules | 15.00% | ~93,983 |
-| Death From Afar | 14.00% | ~87,717 |
-| Terminal Headache | 14.00% | ~87,717 |
+| Death From Afar | 14.00% | ~87,718 |
+| Terminal Headache | 14.00% | ~87,718 |
 | Slowpoke! | 12.00% | ~75,186 |
 | Tickets, Please! | 7.00% | ~43,859 |
 | Parkour Master | 6.00% | ~37,593 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~272 |
 | Connoisseur | 0.10% | ~272 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 626,553 (Ranked 27)  
+Progressed: 626,554 (Ranked 27)  
 Completed: 63 (0.01%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 63 (0.01%) (Ranked 265)
 | 2023-09-18 | 625,778 | 63 |
 | 2023-09-19 | 626,161 | 63 |
 | 2023-09-20 | 626,525 | 63 |
-| 2023-09-21 | 626,553 | 63 |
+| 2023-09-21 | 626,554 | 63 |
 ## Awards
 Max (Character Customization): 9,184  (Ranked 39)  
 Sum: 22,341 (Ranked 53)  

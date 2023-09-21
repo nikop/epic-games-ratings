@@ -2,7 +2,7 @@
   "ID": "a3100205e194489088c7625c8c5c1596",
   "Name": "The Forest Quartet",
   "ProductSlug": "forest-quartet-5d03e3",
-  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
@@ -111,8 +111,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:19:36.9896112+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:05:35.5183874+00:00",
   "LastUpdate_AppInfo": "2023-09-14T14:57:07.6828416+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:13:49.1991052+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:19:36.9896212+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:59:49.4012416+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:05:35.5183961+00:00"
 }

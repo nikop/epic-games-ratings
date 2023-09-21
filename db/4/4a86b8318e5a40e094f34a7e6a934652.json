@@ -2,9 +2,9 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 344,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -730,9 +730,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -753,8 +753,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:23:07.9197027+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:08:37.4426844+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:13:07.3529693+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:23:07.9197224+00:00"
+  "LastUpdate_Ratings": "2023-09-21T02:58:47.4393275+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:08:37.4427049+00:00"
 }

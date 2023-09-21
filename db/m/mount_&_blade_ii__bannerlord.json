@@ -7231,18 +7231,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14516,
       "NumberOfAwardsMax": 7110
+    },
+    {
+      "Time": "2023-09-21T03:02:29.6877494+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14524,
+      "NumberOfAwardsMax": 7118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14516,
-  "NumberOfAwardsMax": 7110,
+  "NumberOfAwards": 14524,
+  "NumberOfAwardsMax": 7118,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7110
+      "Count": 7118
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7311,9 +7317,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61598,
+  "EOS_Progressed": 61599,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23586,6 +23592,11 @@
       "Time": "2023-09-21T02:23:22.4462388+00:00",
       "NumProgressed": 61598,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T03:08:57.8660134+00:00",
+      "NumProgressed": 61599,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23821,7 +23832,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20327
+      "UsersEstimate": 20328
     },
     {
       "ID": "Lawbringer",
@@ -23829,7 +23840,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24023
+      "UsersEstimate": 24024
     },
     {
       "ID": "Lawmaker",
@@ -24004,15 +24015,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61598,
+      "Progressed": 61599,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-20T20:02:41.8021819+00:00",
-  "LastChanged_Achievements": "2023-09-21T02:23:22.4462381+00:00",
+  "LastChanged": "2023-09-21T03:02:29.6877492+00:00",
+  "LastChanged_Achievements": "2023-09-21T03:08:57.8660127+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-21T02:15:37.4994706+00:00",
-  "LastUpdate_Achievements": "2023-09-21T02:23:22.4464624+00:00"
+  "LastUpdate_Ratings": "2023-09-21T03:02:29.6877499+00:00",
+  "LastUpdate_Achievements": "2023-09-21T03:08:57.8661553+00:00"
 }
