@@ -11,7 +11,7 @@
 | We will need a bigger wardrobe | 39.00% | ~23 |
 | Born to Win | 37.00% | ~22 |
 | Welcome to Seoul | 37.00% | ~22 |
-| Stilesville Hidden Style | 31.00% | ~18 |
+| Stilesville Hidden Style | 32.00% | ~19 |
 | Barcelona Hidden Style | 27.00% | ~16 |
 | Creating New Trends | 24.00% | ~14 |
 | Best Gala Ever | 24.00% | ~14 |
@@ -24,7 +24,7 @@
 | Xtremely Cool Pictures | 2.00% | ~1 |
 | Exclusive Photoshoot | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 403)  
+Progressed: 59 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

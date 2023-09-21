@@ -4748,9 +4748,9 @@
       "ID": "ACH_BING-BONG",
       "SetID": "72olkc5",
       "Name": "Bing Bong!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_BOTTOM-PLY-KILLER",
@@ -5132,8 +5132,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-21T16:01:25.2247737+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:07:59.3127753+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:08:48.900749+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:00:56.2798852+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:07:59.3128378+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:01:36.9227644+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:08:48.9008384+00:00"
 }

@@ -5,57 +5,57 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~881 |
-| On the Top Step | 85.00% | ~805 |
-| Setting up for Success | 75.00% | ~710 |
-| Team Orders | 74.00% | ~701 |
-| Engineer | 56.00% | ~530 |
-| Familiar Faces | 47.00% | ~445 |
-| Going the Extra Mile | 42.00% | ~398 |
-| Sharing the Love | 39.00% | ~369 |
-| Hitting a Season | 38.00% | ~360 |
-| Challenge Yourself | 34.00% | ~322 |
-| A Dozen Pieces | 33.00% | ~313 |
-| Making History | 33.00% | ~313 |
-| Writing a new Chapter | 26.00% | ~246 |
-| Spring Cleaning | 25.00% | ~237 |
-| Network Success | 22.00% | ~208 |
-| Reduce | 21.00% | ~199 |
-| Crucial Combo | 20.00% | ~189 |
-| Ups and Downs | 20.00% | ~189 |
-| Gathering Dust | 18.00% | ~170 |
-| Oil and Water | 18.00% | ~170 |
-| Hitting a Bullseye | 18.00% | ~170 |
-| One for the Book | 18.00% | ~170 |
-| Proving Them Wrong | 18.00% | ~170 |
-| Lightning Round the World | 17.00% | ~161 |
-| Reuse | 17.00% | ~161 |
-| Recycle | 14.00% | ~133 |
-| Tinkerer | 14.00% | ~133 |
-| All in a Weekend's Work | 13.00% | ~123 |
-| Eagle Eye | 12.00% | ~114 |
-| Undisputed Winner | 12.00% | ~114 |
-| Spinning Around | 12.00% | ~114 |
-| Switcheroo | 10.00% | ~95 |
-| For all Those Back at the Factory | 8.00% | ~76 |
-| Friendly Competition | 8.00% | ~76 |
-| Loyal Bond | 7.00% | ~66 |
-| Living up to Expectations | 7.00% | ~66 |
-| Smooth Operator | 7.00% | ~66 |
-| Hitting a Century | 5.00% | ~47 |
-| Peak Performance | 5.00% | ~47 |
-| Seasoned Rookie | 4.00% | ~38 |
-| Wait, I know you? | 4.00% | ~38 |
-| Filling in the Gaps | 4.00% | ~38 |
-| Under the Microscope | 2.00% | ~19 |
-| Media Darling | 2.00% | ~19 |
-| Saturday Night Drama | 1.00% | ~9 |
-| Ultimate Collector | 1.00% | ~9 |
+| Getting on the Step | 92.00% | ~898 |
+| On the Top Step | 85.00% | ~830 |
+| Setting up for Success | 75.00% | ~732 |
+| Team Orders | 74.00% | ~722 |
+| Engineer | 56.00% | ~547 |
+| Familiar Faces | 47.00% | ~459 |
+| Going the Extra Mile | 42.00% | ~410 |
+| Sharing the Love | 39.00% | ~381 |
+| Hitting a Season | 38.00% | ~371 |
+| Challenge Yourself | 34.00% | ~332 |
+| A Dozen Pieces | 33.00% | ~322 |
+| Making History | 33.00% | ~322 |
+| Writing a new Chapter | 25.00% | ~244 |
+| Spring Cleaning | 24.00% | ~234 |
+| Network Success | 22.00% | ~215 |
+| Reduce | 21.00% | ~205 |
+| Crucial Combo | 20.00% | ~195 |
+| Ups and Downs | 20.00% | ~195 |
+| Hitting a Bullseye | 19.00% | ~185 |
+| Gathering Dust | 18.00% | ~176 |
+| Oil and Water | 18.00% | ~176 |
+| One for the Book | 18.00% | ~176 |
+| Proving Them Wrong | 18.00% | ~176 |
+| Lightning Round the World | 17.00% | ~166 |
+| Reuse | 17.00% | ~166 |
+| Recycle | 14.00% | ~137 |
+| Tinkerer | 14.00% | ~137 |
+| All in a Weekend's Work | 13.00% | ~127 |
+| Eagle Eye | 12.00% | ~117 |
+| Spinning Around | 12.00% | ~117 |
+| Undisputed Winner | 11.00% | ~107 |
+| Switcheroo | 10.00% | ~98 |
+| For all Those Back at the Factory | 8.00% | ~78 |
+| Friendly Competition | 8.00% | ~78 |
+| Loyal Bond | 7.00% | ~68 |
+| Living up to Expectations | 7.00% | ~68 |
+| Smooth Operator | 7.00% | ~68 |
+| Hitting a Century | 5.00% | ~49 |
+| Peak Performance | 5.00% | ~49 |
+| Wait, I know you? | 4.00% | ~39 |
+| Filling in the Gaps | 4.00% | ~39 |
+| Seasoned Rookie | 3.00% | ~29 |
+| Under the Microscope | 2.00% | ~20 |
+| Media Darling | 2.00% | ~20 |
+| Saturday Night Drama | 1.00% | ~10 |
+| Ultimate Collector | 1.00% | ~10 |
 | Golden Touch | 0.60% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 947 (Ranked 222)  
+Progressed: 976 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-18 | 13 | 0 |
 | 2023-09-19 | 528 | 0 |
 | 2023-09-20 | 812 | 0 |
-| 2023-09-21 | 947 | 0 |
+| 2023-09-21 | 976 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

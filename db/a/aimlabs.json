@@ -3,9 +3,9 @@
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 350,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 518,
-  "Ranking_EOS_Progress": 622,
+  "Ranking_Popularity": 502,
+  "Ranking_PopularitySum": 506,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 111,
@@ -484,18 +484,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-09-21T17:57:43.784945+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 20
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -510,8 +516,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-09-17T14:04:56.0590977+00:00",
+  "LastChanged": "2023-09-21T17:57:43.7849448+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:57.647732+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:57:43.5200087+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:04:49.73084+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:57:43.7849455+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:05:01.5904466+00:00"
 }

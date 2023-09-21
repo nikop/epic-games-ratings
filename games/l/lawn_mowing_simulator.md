@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~533,210 |
-| Every story has a beginning | 36.00% | ~239,945 |
-| The first of many | 31.00% | ~206,619 |
-| Positive word of mouth | 18.00% | ~119,972 |
-| Lawn in the U.S.A. | 15.00% | ~99,977 |
-| Blade Runner | 9.00% | ~59,986 |
-| Credible | 7.00% | ~46,656 |
-| Teamwork makes the dream work | 6.00% | ~39,991 |
+| The dream begins | 80.00% | ~533,221 |
+| Every story has a beginning | 36.00% | ~239,949 |
+| The first of many | 31.00% | ~206,623 |
+| Positive word of mouth | 18.00% | ~119,975 |
+| Lawn in the U.S.A. | 15.00% | ~99,979 |
+| Blade Runner | 9.00% | ~59,987 |
+| Credible | 7.00% | ~46,657 |
+| Teamwork makes the dream work | 6.00% | ~39,992 |
 | Where there's muck there's brass | 4.00% | ~26,661 |
 | Bigger and better | 4.00% | ~26,661 |
 | Aggressive expansion | 4.00% | ~26,661 |
-| Size isn't everything | 3.00% | ~19,995 |
-| Close shave | 3.00% | ~19,995 |
-| Established | 3.00% | ~19,995 |
-| Fighting on all fronts | 2.00% | ~13,330 |
-| Mighty Mowing Park Ranger | 2.00% | ~13,330 |
-| Every good deed… | 2.00% | ~13,330 |
-| Leaner and meaner | 2.00% | ~13,330 |
-| The top of the mountain | 2.00% | ~13,330 |
-| First step on the ladder | 2.00% | ~13,330 |
-| Trusted | 2.00% | ~13,330 |
+| Size isn't everything | 3.00% | ~19,996 |
+| Close shave | 3.00% | ~19,996 |
+| Established | 3.00% | ~19,996 |
+| Fighting on all fronts | 2.00% | ~13,331 |
+| Mighty Mowing Park Ranger | 2.00% | ~13,331 |
+| Every good deed… | 2.00% | ~13,331 |
+| Leaner and meaner | 2.00% | ~13,331 |
+| The top of the mountain | 2.00% | ~13,331 |
+| First step on the ladder | 2.00% | ~13,331 |
+| Trusted | 2.00% | ~13,331 |
 | Earn your stripes | 0.90% | ~5,999 |
 | Lawn & Order | 0.90% | ~5,999 |
 | Jack of all trades | 0.90% | ~5,999 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~667 |
 | Mo mowers, mo problems | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,513 (Ranked 23)  
+Progressed: 666,526 (Ranked 23)  
 Completed: 16 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 16 (0.00%) (Ranked 281)
 | 2023-09-18 | 665,886 | 16 |
 | 2023-09-19 | 666,127 | 16 |
 | 2023-09-20 | 666,352 | 16 |
-| 2023-09-21 | 666,513 | 16 |
+| 2023-09-21 | 666,526 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 283)  
 Sum: 980 (Ranked 244)  

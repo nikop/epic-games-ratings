@@ -5,9 +5,9 @@ Rating: 4.60 (Ranked 395)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 29.00% | ~256 |
-| The Mysterious Stranger | 23.00% | ~203 |
-| Rail Rat | 23.00% | ~203 |
+| Time Heals All Wounds | 29.00% | ~257 |
+| The Mysterious Stranger | 23.00% | ~204 |
+| Rail Rat | 23.00% | ~204 |
 | Make Up For Lost Time | 20.00% | ~177 |
 | The Prince in Heels | 20.00% | ~177 |
 | Immaculate Aim | 20.00% | ~177 |
@@ -25,23 +25,23 @@ Rating: 4.60 (Ranked 395)
 | The Betrayer | 17.00% | ~150 |
 | The Loose Cannon | 17.00% | ~150 |
 | Golem Chaser | 17.00% | ~150 |
-| Check Your Pulse | 17.00% | ~150 |
 | The Family Fortune | 17.00% | ~150 |
-| Right On Time | 16.00% | ~141 |
-| The Man Who Shattered Time | 16.00% | ~141 |
-| Street Style | 15.00% | ~132 |
-| Cartographer | 15.00% | ~132 |
+| Right On Time | 16.00% | ~142 |
+| The Man Who Shattered Time | 16.00% | ~142 |
+| Check Your Pulse | 16.00% | ~142 |
+| Street Style | 15.00% | ~133 |
+| Cartographer | 15.00% | ~133 |
 | Treasure Trove | 14.00% | ~124 |
 | Whiz Kid | 13.00% | ~115 |
 | Good Neighbor | 12.00% | ~106 |
 | Chaincrawler Explorer | 11.00% | ~97 |
 | Family Memories | 11.00% | ~97 |
-| Sump Explorer | 10.00% | ~88 |
 | Syron for Hope | 10.00% | ~88 |
 | Theater Explorer | 10.00% | ~88 |
 | Ask Questions Later | 10.00% | ~88 |
-| Factorywood Explorer | 9.00% | ~79 |
-| Fairgrounds Explorer | 9.00% | ~79 |
+| Factorywood Explorer | 9.00% | ~80 |
+| Fairgrounds Explorer | 9.00% | ~80 |
+| Sump Explorer | 9.00% | ~80 |
 | Sartorialist | 8.00% | ~71 |
 | Cultivair Explorer | 8.00% | ~71 |
 | Entresol Explorer | 8.00% | ~71 |
@@ -59,8 +59,8 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883 (Ranked 227)  
-Completed: 5 (0.57%) (Ranked 151)  
+Progressed: 885 (Ranked 227)  
+Completed: 5 (0.56%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,7 +166,7 @@ Completed: 5 (0.57%) (Ranked 151)
 | 2023-09-18 | 876 | 5 |
 | 2023-09-19 | 879 | 5 |
 | 2023-09-20 | 882 | 5 |
-| 2023-09-21 | 883 | 5 |
+| 2023-09-21 | 885 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

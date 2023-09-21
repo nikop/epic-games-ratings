@@ -2,7 +2,7 @@
   "ID": "1a7cbda7efe7435dabda1af662aeb1ba",
   "Name": "Zoeti",
   "ProductSlug": "zoeti-3ccef9",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 111,
@@ -387,8 +387,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:04:16.3740291+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:04:22.8611411+00:00",
   "LastUpdate_AppInfo": "2023-09-20T04:57:03.64687+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:58:49.1052737+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:04:16.3740491+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:59:04.8931582+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:04:22.8611833+00:00"
 }

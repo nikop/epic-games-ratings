@@ -2,12 +2,12 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 269,
-  "Ranking_EOS_Progress": 90,
+  "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 58822,
+  "EOS_Progressed": 58826,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18638,6 +18638,11 @@
       "Time": "2023-09-21T17:07:45.5658759+00:00",
       "NumProgressed": 58822,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-21T18:08:32.4343473+00:00",
+      "NumProgressed": 58826,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -18649,7 +18654,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 32352
+      "UsersEstimate": 32354
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -18713,7 +18718,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -18769,7 +18774,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14117
+      "UsersEstimate": 14118
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -18841,7 +18846,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -18881,7 +18886,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15294
+      "UsersEstimate": 15295
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -18905,7 +18910,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 18823
+      "UsersEstimate": 18824
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -18913,7 +18918,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23529
+      "UsersEstimate": 23530
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -18937,7 +18942,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37058
+      "UsersEstimate": 37060
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -18961,7 +18966,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14117
+      "UsersEstimate": 14118
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -19017,7 +19022,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 45293
+      "UsersEstimate": 45296
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -19113,22 +19118,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 21764
+      "UsersEstimate": 21766
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 58822,
+      "Progressed": 58826,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:07:45.5658753+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:08:32.4343466+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:45.4198616+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:00:34.7190903+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:07:45.5660914+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:01:08.9278766+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:08:32.4345353+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Completed_Percentage": 2.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -247,6 +247,11 @@
       "Time": "2023-09-19T00:05:16.0382452+00:00",
       "NumProgressed": 76,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-21T18:07:10.0264549+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -258,7 +263,7 @@
       "Name": "Terror Rising",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_100_CARS_DESTROYED",
@@ -296,7 +301,7 @@
       "ID": "ACH_10_SHEPHERDS_KILLED",
       "SetID": "aio76gp",
       "Name": "Test of Faith",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 27
     },
@@ -368,7 +373,7 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 25
     },
@@ -456,7 +461,7 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -464,7 +469,7 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
       "UsersEstimate": 28
     },
@@ -488,7 +493,7 @@
       "ID": "ACH_UFO_STAGE",
       "SetID": "aio76gp",
       "Name": "Kill All Humans!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 5
     }
@@ -497,7 +502,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 2
     }
   ],
@@ -505,8 +510,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:06:37.1375679+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:07:10.0264542+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.2087294+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:00:21.388434+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:06:37.1375951+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:00:52.8873306+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:07:10.0264805+00:00"
 }

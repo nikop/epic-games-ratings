@@ -2,7 +2,7 @@
   "ID": "306a3dc5437a43d29e58661fc6f391f2",
   "Name": "IHAS",
   "ProductSlug": "ihas-cd3d96",
-  "Ranking_EOS_Progress": 622,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 111,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-19T19:57:06.4487605+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:58:47.4353649+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:04:22.2945371+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:59:02.8839929+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:04:29.5918865+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 63  (23.09.2022)
 | Timber! | 60.00% | ~3,093 |
 | Survive the Bombsequences | 59.00% | ~3,041 |
 | Killed 20 Jerks | 54.00% | ~2,784 |
-| Death Defied | 53.00% | ~2,732 |
+| Death Defied | 54.00% | ~2,784 |
 | Fortunate Soul | 50.00% | ~2,578 |
 | Jerk-Slayer | 43.00% | ~2,217 |
 | Employee of the Month | 37.00% | ~1,907 |

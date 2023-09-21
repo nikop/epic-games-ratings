@@ -15,6 +15,7 @@ Rating: 4.19 (Ranked 878)
 | The Outer Way | 4.00% | ~638 |
 | In the Pipe, Five by Five | 4.00% | ~638 |
 | Full Circle | 4.00% | ~638 |
+| Power Up | 4.00% | ~638 |
 | Keep Fighting | 4.00% | ~155 |
 | Giving Back | 3.00% | ~479 |
 | You Need a Gun | 3.00% | ~479 |
@@ -26,7 +27,6 @@ Rating: 4.19 (Ranked 878)
 | What Lies Beneath | 3.00% | ~479 |
 | Desperate Times | 3.00% | ~479 |
 | Crash Site | 3.00% | ~479 |
-| Power Up | 3.00% | ~479 |
 | It's Time | 3.00% | ~116 |
 | In Striking Distance | 2.00% | ~319 |
 | The Commonality | 2.00% | ~319 |

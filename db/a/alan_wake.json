@@ -2,10 +2,10 @@
   "ID": "00b9ec358e1f46daa4f8e1194d5081d8",
   "Name": "Alan Wake",
   "ProductSlug": "alan-wake",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 505,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 622,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 111,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 419,
   "RatingHistory": [
     {
@@ -418,6 +418,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-21T18:00:22.0495499+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -435,8 +441,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:21.5062168+00:00",
-  "LastChanged": "2023-09-19T17:58:29.1299187+00:00",
+  "LastChanged": "2023-09-21T18:00:22.0495497+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.0703857+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:59:54.8654292+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:03:22.7584813+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:00:22.0495504+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:03:09.1737444+00:00"
 }

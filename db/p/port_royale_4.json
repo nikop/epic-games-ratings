@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 907,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2115,6 +2115,11 @@
       "Time": "2023-09-21T15:04:29.7855756+00:00",
       "NumProgressed": 906,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T18:05:30.3563779+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2126,7 +2131,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH001",
@@ -2134,7 +2139,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH002",
@@ -2222,7 +2227,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH013",
@@ -2230,7 +2235,7 @@
       "Name": "In a mint condition",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH014",
@@ -2292,9 +2297,9 @@
       "ID": "ACH021",
       "SetID": "69nfp41",
       "Name": "Collectionitis",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH022",
@@ -2310,7 +2315,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH024",
@@ -2358,7 +2363,7 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH030",
@@ -2406,7 +2411,7 @@
       "Name": "All mine!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH036",
@@ -2422,7 +2427,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH038",
@@ -2430,7 +2435,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH039",
@@ -2438,7 +2443,7 @@
       "Name": "Panel of experts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH040",
@@ -2518,22 +2523,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 907,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:05:14.0581896+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:05:30.3563772+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.7770724+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:00:29.5183284+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:05:14.0582484+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:01:02.6846812+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:05:30.3564474+00:00"
 }

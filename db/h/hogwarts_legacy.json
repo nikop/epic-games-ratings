@@ -7932,9 +7932,9 @@
       "Count": 663
     }
   ],
-  "EOS_Progressed": 297055,
+  "EOS_Progressed": 297058,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24607,6 +24607,11 @@
       "Time": "2023-09-21T17:06:12.6094867+00:00",
       "NumProgressed": 297055,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-21T18:06:41.0058367+00:00",
+      "NumProgressed": 297058,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24690,7 +24695,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23764
+      "UsersEstimate": 23765
     },
     {
       "ID": "PFA_19",
@@ -24858,7 +24863,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "PFA_38",
@@ -24922,7 +24927,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23764
+      "UsersEstimate": 23765
     },
     {
       "ID": "PFA_45",
@@ -24946,7 +24951,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38617
+      "UsersEstimate": 38618
     },
     {
       "ID": "PFA_7",
@@ -24954,7 +24959,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38617
+      "UsersEstimate": 38618
     },
     {
       "ID": "PFA_8",
@@ -24977,7 +24982,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297055,
+      "Progressed": 297058,
       "Completed": 476
     }
   ],
@@ -24985,8 +24990,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-21T15:59:22.370341+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:06:12.6094861+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:06:41.0058359+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:59:10.5814687+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:06:12.6096439+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:59:30.0385544+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:06:41.0059913+00:00"
 }

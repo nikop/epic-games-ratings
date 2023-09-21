@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467708,
+  "EOS_Progressed": 467710,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16744,6 +16744,11 @@
       "Time": "2023-09-21T17:04:35.6335076+00:00",
       "NumProgressed": 467708,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-21T18:04:45.1561346+00:00",
+      "NumProgressed": 467710,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16811,7 +16816,7 @@
       "Name": "Chapter V: Memories of None",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_story_ending_earth",
@@ -16843,7 +16848,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308687
+      "UsersEstimate": 308689
     },
     {
       "ID": "achievement_story_landa",
@@ -16851,7 +16856,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23385
+      "UsersEstimate": 23386
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -16859,7 +16864,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23385
+      "UsersEstimate": 23386
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -16875,7 +16880,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116927
+      "UsersEstimate": 116928
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -16883,7 +16888,7 @@
       "Name": "Meet your maker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -16955,7 +16960,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23385
+      "UsersEstimate": 23386
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -16963,7 +16968,7 @@
       "Name": "The Impersonator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_as_2",
@@ -16971,7 +16976,7 @@
       "Name": "The Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_church_1",
@@ -16979,7 +16984,7 @@
       "Name": "The Evangelist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_church_2",
@@ -16987,7 +16992,7 @@
       "Name": "The Inquisitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_empire_1",
@@ -17003,7 +17008,7 @@
       "Name": "The Ace Pilot",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_kb_1",
@@ -17011,7 +17016,7 @@
       "Name": "The Tech Med",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_kb_2",
@@ -17019,7 +17024,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -17027,7 +17032,7 @@
       "Name": "The lucky charm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_pirate_1",
@@ -17035,7 +17040,7 @@
       "Name": "The Anonymous",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_pirate_2",
@@ -17043,7 +17048,7 @@
       "Name": "The Smuggler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_scrapper_1",
@@ -17051,7 +17056,7 @@
       "Name": "The Crazy Repairman",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_unlock_officer_scrapper_2",
@@ -17059,7 +17064,7 @@
       "Name": "The Weasel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28062
+      "UsersEstimate": 28063
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
@@ -17187,7 +17192,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140312
+      "UsersEstimate": 140313
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -17211,7 +17216,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182406
+      "UsersEstimate": 182407
     },
     {
       "ID": "achievement_win_run_hard",
@@ -17235,7 +17240,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23385
+      "UsersEstimate": 23386
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -17386,21 +17391,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11642,
+      "Progressed": 11644,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467708,
+      "Progressed": 467710,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:04:35.633507+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:04:45.156134+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:49.9396656+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:00:38.3950642+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:04:35.6337143+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:01:13.6646286+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:04:45.1563354+00:00"
 }

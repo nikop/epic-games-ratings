@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1069,
+  "EOS_Progressed": 1070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1714,6 +1714,11 @@
       "Time": "2023-09-21T15:05:08.0765595+00:00",
       "NumProgressed": 1069,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T18:06:09.473237+00:00",
+      "NumProgressed": 1070,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1763,9 +1768,9 @@
       "ID": "CHALLENGE_ITALY",
       "SetID": "6ohhfoc",
       "Name": "Red Tape",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CHALLENGE_MEGARANDOM",
@@ -1893,7 +1898,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -1933,7 +1938,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "SUMMON_BOSS",
@@ -1949,7 +1954,7 @@
       "Name": "We made it",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2069,7 +2074,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -2084,7 +2089,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1069,
+      "Progressed": 1070,
       "Completed": 0
     }
   ],
@@ -2092,8 +2097,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:05:46.6471061+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:06:09.4732363+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.3964182+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:59:24.6074742+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:05:46.6471481+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:59:45.7450328+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:06:09.4733017+00:00"
 }

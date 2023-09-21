@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1583,
+  "EOS_Progressed": 1584,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2048,6 +2048,11 @@
       "Time": "2023-09-20T19:04:36.1251744+00:00",
       "NumProgressed": 1583,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-21T18:05:27.4679274+00:00",
+      "NumProgressed": 1584,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -2059,7 +2064,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2067,7 +2072,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2099,7 +2104,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -2115,7 +2120,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2123,7 +2128,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2131,7 +2136,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2227,7 +2232,7 @@
       "Name": "The Capitalist",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2323,7 +2328,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2362,7 +2367,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1583,
+      "Progressed": 1584,
       "Completed": 9
     }
   ],
@@ -2370,8 +2375,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:05:11.5604752+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:05:27.4679267+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:15.4686624+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:58:34.7160722+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:05:11.5605195+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:58:45.8013897+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:05:27.4679725+00:00"
 }

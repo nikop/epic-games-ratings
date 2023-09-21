@@ -1,7 +1,7 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.53 (Ranked 520)  
+Rating: 4.53 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -154,9 +154,9 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-18 | 1,212 | 0 |
 | 2023-09-21 | 1,213 | 0 |
 ## Awards
-Max (Character Customization): 25  (Ranked 487)  
+Max (Character Customization): 25  (Ranked 488)  
 Sum: 25 (Ranked 496)  
-Diff (max vs sum): -9  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 25 |

@@ -14,12 +14,12 @@ Rating: 4.46 (Ranked 628)
 | Taking it back | 28.00% | ~1,021 |
 | Resourceful | 26.00% | ~948 |
 | Target America | 26.00% | ~948 |
-| The Kraken Sleeps | 24.00% | ~875 |
-| Liberté | 22.00% | ~802 |
-| Organ Grinder | 22.00% | ~802 |
-| As Quiet as a Mouse | 22.00% | ~802 |
+| The Kraken Sleeps | 24.00% | ~876 |
+| Liberté | 22.00% | ~803 |
+| Organ Grinder | 22.00% | ~803 |
+| As Quiet as a Mouse | 22.00% | ~803 |
 | Sharpshooter | 21.00% | ~766 |
-| Explosive Efficiency | 18.00% | ~656 |
+| Explosive Efficiency | 18.00% | ~657 |
 | Just a Flesh Wound | 17.00% | ~620 |
 | Gunslinger | 17.00% | ~620 |
 | Climbing the Ladder | 16.00% | ~584 |
@@ -69,7 +69,7 @@ Rating: 4.46 (Ranked 628)
 | From Führer Away | 1.00% | ~36 |
 | Alpha | 1.00% | ~36 |
 | Das Familienjuwel | 1.00% | ~36 |
-| Master of Secondaries | 0.90% | ~33 |
+| Master of Secondaries | 0.80% | ~29 |
 | Master of Rifles | 0.80% | ~29 |
 | Master of Pistols | 0.70% | ~26 |
 | Master-at-arms | 0.70% | ~26 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 628)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,647 (Ranked 165)  
+Progressed: 3,648 (Ranked 164)  
 Completed: 11 (0.30%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 11 (0.30%) (Ranked 184)
 | 2023-09-18 | 3,637 | 11 |
 | 2023-09-19 | 3,639 | 11 |
 | 2023-09-20 | 3,645 | 11 |
-| 2023-09-21 | 3,647 | 11 |
+| 2023-09-21 | 3,648 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

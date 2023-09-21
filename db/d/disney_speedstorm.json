@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3207,
+  "EOS_Progressed": 3208,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
@@ -4815,6 +4815,11 @@
       "Time": "2023-09-21T16:05:44.0904642+00:00",
       "NumProgressed": 3207,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2023-09-21T18:05:46.1075528+00:00",
+      "NumProgressed": 3208,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 24,
@@ -4826,7 +4831,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "10",
@@ -4858,7 +4863,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 7,
       "XP": 70,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "14",
@@ -4874,7 +4879,7 @@
       "Name": "FRAMED!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "16",
@@ -4922,7 +4927,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "21",
@@ -4946,7 +4951,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "24",
@@ -4954,7 +4959,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "3",
@@ -4970,7 +4975,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "5",
@@ -4986,7 +4991,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "7",
@@ -5017,13 +5022,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3207,
+      "Progressed": 3208,
       "Completed": 184
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:05:27.5472779+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:05:46.1075521+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:00:58.955266+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:05:27.5473219+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:01:40.1822113+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:05:46.1076094+00:00"
 }

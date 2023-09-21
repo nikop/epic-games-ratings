@@ -2,7 +2,7 @@
   "ID": "d7b044ca99c248179adbfc8369528279",
   "Name": "REMEDIUM",
   "ProductSlug": "remedium-811743",
-  "Ranking_EOS_Progress": 622,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 111,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:02:00.1000086+00:00",
   "LastUpdate_AppInfo": "2023-09-15T16:57:28.0492465+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:57:40.235837+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:07:02.6251522+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:57:39.6765583+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:07:40.3580923+00:00"
 }

@@ -3068,9 +3068,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72711,
+  "EOS_Progressed": 72712,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16198,6 +16198,11 @@
       "Time": "2023-09-21T16:05:46.6329198+00:00",
       "NumProgressed": 72711,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-09-21T18:05:48.8277998+00:00",
+      "NumProgressed": 72712,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 61,
@@ -16313,7 +16318,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15269
+      "UsersEstimate": 15270
     },
     {
       "ID": "CLAYFACE_2",
@@ -16369,7 +16374,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9452
+      "UsersEstimate": 9453
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -16417,7 +16422,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9452
+      "UsersEstimate": 9453
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -16441,7 +16446,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15269
+      "UsersEstimate": 15270
     },
     {
       "ID": "FREEZE_2",
@@ -16696,13 +16701,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72711,
+      "Progressed": 72712,
       "Completed": 116
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42991,
+      "Progressed": 42992,
       "Completed": 2665
     }
   ],
@@ -16710,8 +16715,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-21T16:02:13.9974234+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:05:29.8235386+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:05:48.8277991+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:01:35.3917766+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:05:29.8237616+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:02:26.2167052+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:05:48.8279712+00:00"
 }

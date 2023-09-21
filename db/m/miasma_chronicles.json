@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1458,
+  "EOS_Progressed": 1459,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3257,6 +3257,11 @@
       "Time": "2023-09-21T17:04:50.7569658+00:00",
       "NumProgressed": 1458,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T18:05:02.92532+00:00",
+      "NumProgressed": 1459,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3330,9 +3335,9 @@
       "ID": "CHAOS_THEORY",
       "SetID": "9a4jnji",
       "Name": "Chaos Theory",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 219
     },
     {
       "ID": "COMMANDO",
@@ -3428,7 +3433,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "EXPERIENCED",
@@ -3444,7 +3449,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "FIRST_BLOOD",
@@ -3452,7 +3457,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3476,7 +3481,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "GIANT_KILLER",
@@ -3484,7 +3489,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "GOAL",
@@ -3508,7 +3513,7 @@
       "Name": "Hold The Line",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "IM_THE_LAW",
@@ -3516,7 +3521,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "INFILTRATOR",
@@ -3572,7 +3577,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "RECYCLER",
@@ -3644,7 +3649,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -3675,7 +3680,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1458,
+      "Progressed": 1459,
       "Completed": 0
     }
   ],
@@ -3683,8 +3688,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-11T15:02:07.7710532+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:04:50.7569652+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:05:02.9253193+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.650961+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:00:21.8694162+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:04:50.7570259+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:00:53.6190824+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:05:02.9253921+00:00"
 }

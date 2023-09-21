@@ -6,8 +6,8 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 883,
+  "EOS_Progressed": 885,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -2235,6 +2235,11 @@
       "Time": "2023-09-21T09:04:18.5626348+00:00",
       "NumProgressed": 883,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-21T18:04:27.2034012+00:00",
+      "NumProgressed": 885,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2278,7 +2283,7 @@
       "Name": "Right On Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2318,7 +2323,7 @@
       "Name": "Street Style",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "CultivairChests1",
@@ -2350,7 +2355,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FairgroundsChests1",
@@ -2358,7 +2363,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2366,7 +2371,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2382,7 +2387,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "GadgetCompletion1",
@@ -2406,7 +2411,7 @@
       "Name": "Rail Rat",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "HexlockGift",
@@ -2446,7 +2451,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "NoCritterSump",
@@ -2534,7 +2539,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "RewindParry",
@@ -2588,9 +2593,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 80
     },
     {
       "ID": "SyronGift",
@@ -2604,9 +2609,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 142
     },
     {
       "ID": "TheaterChests1",
@@ -2669,7 +2674,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 883,
+      "Progressed": 885,
       "Completed": 5
     }
   ],
@@ -2677,8 +2682,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:04:20.1506854+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:04:27.2034006+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:01:38.8954531+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:04:20.1507871+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:02:31.2477352+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:04:27.2034991+00:00"
 }

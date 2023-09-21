@@ -2,7 +2,7 @@
   "ID": "03f7951c81af45e48a1caf6f8e24dba9",
   "Name": "Production Line",
   "ProductSlug": "production-line",
-  "Ranking_EOS_Progress": 622,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 111,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.1070267+00:00",
   "LastChanged": "2023-03-31T05:57:52.1070269+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:47.8013253+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:57:19.7606817+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:04:21.0062995+00:00"
+  "LastUpdate_Ratings": "2023-09-21T17:57:14.0753673+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:04:28.2766663+00:00"
 }

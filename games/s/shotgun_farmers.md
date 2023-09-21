@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 79.00% | ~230 |
+| Aspairagus | 61.00% | ~147 |
 | First Blood | 60.00% | ~175 |
 | Triple Kill | 60.00% | ~175 |
-| Aspairagus | 60.00% | ~145 |
 | No Asperascope | 57.00% | ~166 |
 | Survivor | 56.00% | ~135 |
 | Cornivore | 53.00% | ~154 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 297)  
+Progressed: 291 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

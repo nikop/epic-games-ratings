@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6952,
+  "EOS_Progressed": 6953,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5677,6 +5677,11 @@
       "Time": "2023-09-21T09:05:36.4593629+00:00",
       "NumProgressed": 6952,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-21T18:06:01.8321432+00:00",
+      "NumProgressed": 6953,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5696,7 +5701,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5752,7 +5757,7 @@
       "Name": "Decimation",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -5776,7 +5781,7 @@
       "Name": "Donatello",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -5816,7 +5821,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -5896,7 +5901,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -5984,7 +5989,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -6032,7 +6037,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -6047,7 +6052,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6952,
+      "Progressed": 6953,
       "Completed": 8
     }
   ],
@@ -6055,8 +6060,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-21T17:05:40.3496458+00:00",
+  "LastChanged_Achievements": "2023-09-21T18:06:01.8321425+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-21T16:59:45.3286029+00:00",
-  "LastUpdate_Achievements": "2023-09-21T17:05:40.3498303+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:00:10.1950779+00:00",
+  "LastUpdate_Achievements": "2023-09-21T18:06:01.8322203+00:00"
 }

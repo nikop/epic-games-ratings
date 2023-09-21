@@ -26,7 +26,7 @@
 | The Prison | 0.00% | ~0 |
 | We'll Meet Again | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 498)  
+Progressed: 8 (Ranked 500)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

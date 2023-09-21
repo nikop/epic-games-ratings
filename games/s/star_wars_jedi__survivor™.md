@@ -2,6 +2,69 @@
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
 Rating: 4.49 (Ranked 585)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Rooftop Duel | 100.00% | ~1 |
+| Tragedy | 100.00% | ~1 |
+| At the Precipice | 100.00% | ~1 |
+| Into the Abyss | 100.00% | ~1 |
+| A Place You Could Call Home | 100.00% | ~1 |
+| You've Got A Friend | 100.00% | ~1 |
+| Catch! | 100.00% | ~1 |
+| They Never Saw It Coming | 100.00% | ~1 |
+| This Is Canon | 100.00% | ~1 |
+| For Saw Gerrera | 100.00% | ~1 |
+| Mirror Match | 100.00% | ~1 |
+| Riposte | 100.00% | ~1 |
+| Grab Some Seat | 100.00% | ~1 |
+| Now, This Isn't Podracing | 100.00% | ~1 |
+| Cleaning Up | 100.00% | ~1 |
+| They're Probably Fine | 100.00% | ~1 |
+| Skywalker | 100.00% | ~1 |
+| Can You Pet the Bogling? | 100.00% | ~1 |
+| Who Gives a Puck | 100.00% | ~1 |
+| The Past Made Present | 100.00% | ~1 |
+| Hey, Luke At Us | 100.00% | ~1 |
+| Kitted Out | 100.00% | ~1 |
+| Survivors, We Adapt | 100.00% | ~1 |
+| Among the Masters | 100.00% | ~1 |
+| For the Path | 100.00% | ~1 |
+| Out of Bedlam | 100.00% | ~1 |
+| Tanalorr Bound | 100.00% | ~1 |
+| Han Slowlo | 0.00% | ~0 |
+| So Uncivilized | 0.00% | ~0 |
+| I'm a Living Legend | 0.00% | ~0 |
+| Get Down From There | 0.00% | ~0 |
+| One With the Force | 0.00% | ~0 |
+| Pinpoint | 0.00% | ~0 |
+| Slam Dunk | 0.00% | ~0 |
+| Star Tours | 0.00% | ~0 |
+| King of the World | 0.00% | ~0 |
+| There Is No Try | 0.00% | ~0 |
+| It's a Trap | 0.00% | ~0 |
+| Max Capacity | 0.00% | ~0 |
+| Caij Match | 0.00% | ~0 |
+| Perk of the Job | 0.00% | ~0 |
+| Greezy Money | 0.00% | ~0 |
+| Cobra Cal | 0.00% | ~0 |
+| A Presence I've Not Felt Since... | 0.00% | ~0 |
+| Road House | 0.00% | ~0 |
+| Skoova Diving | 0.00% | ~0 |
+| Growth Spurt | 0.00% | ~0 |
+| Gambler | 0.00% | ~0 |
+| Intergalactic Geographic | 0.00% | ~0 |
+| Reconnaissance | 0.00% | ~0 |
+| Splurgle | 0.00% | ~0 |
+| The Jedi Path | 0.00% | ~0 |
+| Blood, Sweat, and Tears | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 575)  
+Completed: 0 (0.00%) (Ranked 281)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-09-21 | 1 | 0 |
 ## Awards
 Max (Great Boss Battles): 2,625  (Ranked 99)  
 Sum: 3,793 (Ranked 152)  

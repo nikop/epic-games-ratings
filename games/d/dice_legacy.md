@@ -5,16 +5,16 @@ Rating: 4.27 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 38.00% | ~406 |
+| We made it | 38.00% | ~407 |
 | Manipulating Fate | 9.00% | ~96 |
 | The City | 9.00% | ~96 |
 | Full house | 6.00% | ~64 |
 | Burn and Pillage | 6.00% | ~64 |
 | Hear me out | 6.00% | ~64 |
 | Listening to the crowd | 6.00% | ~64 |
-| The Penitent Ones | 5.00% | ~53 |
-| Hidden Secrets | 5.00% | ~53 |
-| Accepting the Prophecy | 5.00% | ~53 |
+| The Penitent Ones | 5.00% | ~54 |
+| Hidden Secrets | 5.00% | ~54 |
+| Accepting the Prophecy | 5.00% | ~54 |
 | Just Chilling | 4.00% | ~43 |
 | Ascended | 4.00% | ~43 |
 | Greedy | 4.00% | ~43 |
@@ -32,8 +32,8 @@ Rating: 4.27 (Ranked 825)
 | Like the dream | 0.70% | ~7 |
 | Six Faces | 0.60% | ~6 |
 | The Great Winter | 0.50% | ~5 |
+| Red Tape | 0.50% | ~5 |
 | Knowledge is Power | 0.50% | ~5 |
-| Red Tape | 0.40% | ~4 |
 | The Incarnate | 0.30% | ~3 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 825)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069 (Ranked 217)  
+Progressed: 1,070 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-18 | 1,057 | 0 |
 | 2023-09-19 | 1,062 | 0 |
 | 2023-09-20 | 1,068 | 0 |
-| 2023-09-21 | 1,069 | 0 |
+| 2023-09-21 | 1,070 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

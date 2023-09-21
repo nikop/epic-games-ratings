@@ -131,6 +131,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.10% | ~230 |
 | Taking Responsibility | 0.10% | ~230 |
 | The Minions of Endelyn Moongrave | 0.10% | ~196 |
+| Between a Brigganock and a Hard Place | 0.10% | ~196 |
 | Love Unsoiled | 0.10% | ~196 |
 | The Play's the Thing! | 0.10% | ~196 |
 | The Bitter End | 0.10% | ~196 |
@@ -368,6 +369,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.10% | ~196 |
 | Elder Rune Attack | 0.10% | ~196 |
 | The Gargoyle | 0.10% | ~196 |
+| Ulkoria's Escape from Alterdeep | 0.10% | ~196 |
 | The Wandering Emporium | 0.10% | ~196 |
 | Madcap Adventures Redux | 0.10% | ~196 |
 | When the Going Gets Tough | 0.10% | ~196 |
@@ -528,11 +530,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~196 |
 | Third Third Out | 0.00% | ~0 |
 | Thoughts on the Menu | 0.00% | ~0 |
-| Between a Brigganock and a Hard Place | 0.00% | ~0 |
-| Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,571 (Ranked 57)  
-Completed: 2,297 (1.00%) (Ranked 127)  
+Progressed: 229,580 (Ranked 57)  
+Completed: 2,297 (1.00%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -685,7 +685,7 @@ Completed: 2,297 (1.00%) (Ranked 127)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,571 | 2,297 |
+| 2023-09-21 | 229,580 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,301  (Ranked 67)  
 Sum: 31,672 (Ranked 39)  

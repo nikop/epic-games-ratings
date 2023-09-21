@@ -8,11 +8,11 @@ Number of Ratings: 9,133  (23.09.2022)
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~256,681 |
 | Cavalier | 25.00% | ~200,532 |
-| Fatso | 23.00% | ~184,489 |
+| Fatso | 23.00% | ~184,490 |
 | Awakening | 21.00% | ~168,447 |
-| Ranger | 20.00% | ~160,425 |
-| Scrooge | 20.00% | ~160,425 |
-| Anorectic | 16.00% | ~128,340 |
+| Ranger | 20.00% | ~160,426 |
+| Scrooge | 20.00% | ~160,426 |
+| Anorectic | 16.00% | ~128,341 |
 | Bookworm | 15.00% | ~120,319 |
 | Firestarter | 15.00% | ~120,319 |
 | Insomniac | 13.00% | ~104,277 |
@@ -21,7 +21,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Sinner | 11.00% | ~88,234 |
 | Traveller | 11.00% | ~88,234 |
 | Convict | 10.00% | ~80,213 |
-| Haggler | 9.00% | ~72,191 |
+| Haggler | 9.00% | ~72,192 |
 | McLovin | 7.00% | ~56,149 |
 | Runt | 7.00% | ~56,149 |
 | Casanova | 6.00% | ~48,128 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~802 |
 | Wingman | 0.10% | ~802 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,127 (Ranked 16)  
+Progressed: 802,129 (Ranked 16)  
 Completed: 49 (0.01%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,10 +243,10 @@ Completed: 49 (0.01%) (Ranked 266)
 | 2023-09-18 | 801,851 | 47 |
 | 2023-09-19 | 801,957 | 47 |
 | 2023-09-20 | 802,063 | 48 |
-| 2023-09-21 | 802,127 | 49 |
+| 2023-09-21 | 802,129 | 49 |
 ## Awards
 Max (Character Customization): 7,460  (Ranked 47)  
-Sum: 27,798 (Ranked 47)  
+Sum: 27,801 (Ranked 47)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -257,10 +257,10 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 1,691 |
 | This game is Extremely Fun | 1,668 |
 | This game is Highly Recommended | 1,663 |
-| This game has Amazing Characters | 1,642 |
+| This game has Amazing Characters | 1,643 |
 | This game has Realistic Visuals | 1,639 |
 | This game is Educational | 1,585 |
-| This game is Relaxing | 1,515 |
+| This game is Relaxing | 1,517 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -503,4 +503,4 @@ Diff (max vs sum): 0
 | 2023-09-18 | 4.71 | - | 7,455 | 27,775 |
 | 2023-09-19 | 4.71 | - | 7,458 | 27,785 |
 | 2023-09-20 | 4.71 | - | 7,458 | 27,790 |
-| 2023-09-21 | 4.71 | - | 7,460 | 27,798 |
+| 2023-09-21 | 4.71 | - | 7,460 | 27,801 |
