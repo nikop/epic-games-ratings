@@ -135,7 +135,7 @@
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 282 |
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,271 | 4.55 | 487 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,204 | 4.42 | 680 |
-| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,197 | 4.61 | 371 |
+| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,200 | 4.61 | 371 |
 | 137 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,192 | 4.69 | 219 |
 | 138 | [EVE Online](games/e/eve_online.md) | 1,083 | 4.25 | 837 |
 | 139 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,081 | 4.61 | 371 |

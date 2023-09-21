@@ -379,7 +379,7 @@
 | 371 | [Dead Space](games/d/dead_space.md) | 4.61 | 94 | 351 |
 | 371 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 45,044 | 12 |
 | 371 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 28 | 470 |
-| 371 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,197 | 136 |
+| 371 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,200 | 136 |
 | 371 | [MudRunner](games/m/mudrunner.md) | 4.61 | 260 | 253 |
 | 371 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 522 |
 | 371 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 522 |

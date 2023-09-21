@@ -391,6 +391,7 @@
 | [Hardspace: Shipbreaker](../games/h/hardspace__shipbreaker.md) | 27 | 1,000 |
 | [HORSE CLUB Adventures](../games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 27 | 1,000 |
 | [Hotel Renovator](../games/h/hotel_renovator.md) | 27 | 1,000 |
+| [Hotel: A Resort Simulator](../games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 27 | 1,000 |
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
 | [Mega City Police](../games/m/mega_city_police.md) | 27 | 1,050 |
 | [Riftbound](../games/r/riftbound.md) | 27 | 1,000 |
