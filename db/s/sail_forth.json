@@ -2,10 +2,10 @@
   "ID": "d93cf08971eb4920862a95870a051f81",
   "Name": "Sail Forth",
   "ProductSlug": "sail-forth-51847e",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-21T19:00:00+00:00",
     "PcReleaseDate": "2022-12-21T19:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
   "LastChanged": "2023-03-31T05:58:32.4374954+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:51.0091888+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:47.003243+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.2723137+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:00:17.9440124+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:51.0091932+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:00:03.4606317+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:47.0032458+00:00"
 }

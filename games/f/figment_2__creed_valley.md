@@ -23,7 +23,7 @@
 | I'm Back at the Surface now | 0.00% | ~0 |
 | Repair the Mind Validation Machine | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 496)  
+Progressed: 9 (Ranked 499)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

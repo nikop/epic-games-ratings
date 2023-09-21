@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1878,7 +1878,7 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20812,
+  "EOS_Progressed": 20813,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -8528,6 +8528,11 @@
       "Time": "2023-09-21T01:50:08.018378+00:00",
       "NumProgressed": 20812,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-21T19:09:20.9927887+00:00",
+      "NumProgressed": 20813,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8547,7 +8552,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ChangChoi",
@@ -8587,7 +8592,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19771
+      "UsersEstimate": 19772
     },
     {
       "ID": "GameOver",
@@ -8659,7 +8664,7 @@
       "Name": "Negotiator",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Perfectionist",
@@ -8675,7 +8680,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "SeniorEstateAgent",
@@ -8722,15 +8727,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20812,
+      "Progressed": 20813,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-12T18:58:36.6310426+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:09:34.2068446+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:09:20.9927879+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.2506303+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:02:13.1522094+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:09:34.2069244+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:55.3453244+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:09:20.992836+00:00"
 }

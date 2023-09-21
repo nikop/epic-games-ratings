@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65918,
+  "EOS_Progressed": 65920,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15417,6 +15417,11 @@
       "Time": "2023-09-21T18:05:26.654578+00:00",
       "NumProgressed": 65918,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-21T19:05:24.5518998+00:00",
+      "NumProgressed": 65920,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -15428,7 +15433,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27026
+      "UsersEstimate": 27027
     },
     {
       "ID": "02",
@@ -15468,7 +15473,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11865
+      "UsersEstimate": 11866
     },
     {
       "ID": "07",
@@ -15476,7 +15481,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8569
+      "UsersEstimate": 8570
     },
     {
       "ID": "08",
@@ -15484,7 +15489,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8569
+      "UsersEstimate": 8570
     },
     {
       "ID": "09",
@@ -15516,7 +15521,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8569
+      "UsersEstimate": 8570
     },
     {
       "ID": "13",
@@ -15548,7 +15553,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5274
     },
     {
       "ID": "17",
@@ -15556,7 +15561,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5274
     },
     {
       "ID": "18",
@@ -15636,7 +15641,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8569
+      "UsersEstimate": 8570
     },
     {
       "ID": "28",
@@ -15644,7 +15649,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8569
+      "UsersEstimate": 8570
     },
     {
       "ID": "29",
@@ -15700,7 +15705,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22412
+      "UsersEstimate": 22413
     },
     {
       "ID": "36",
@@ -15764,7 +15769,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11865
+      "UsersEstimate": 11866
     },
     {
       "ID": "44",
@@ -15956,28 +15961,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65918,
+      "Progressed": 65920,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29386,
+      "Progressed": 29388,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:26.6545773+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:24.5518995+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:59:51.0780878+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:26.6547762+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:39.0165713+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:24.5520248+00:00"
 }

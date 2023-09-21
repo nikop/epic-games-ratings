@@ -38,6 +38,7 @@ Rating: 3.52 (Ranked 991)
 | Sisterhood | 0.20% | ~3 |
 | What Lies Below | 0.20% | ~3 |
 | Check, Please! | 0.20% | ~3 |
+| So Anyway I Started Blasting | 0.20% | ~3 |
 | Blacklight Down | 0.20% | ~3 |
 | Dexterity Save | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
@@ -52,7 +53,6 @@ Rating: 3.52 (Ranked 991)
 | Someplace to Be | 0.10% | ~2 |
 | Bloody Initiate | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
-| So Anyway I Started Blasting | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |
 | Under a Bushel | 0.10% | ~2 |
 | Enemy of My Enemy | 0.10% | ~2 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1713,9 +1713,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14029,
+  "EOS_Progressed": 14032,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11903,6 +11903,11 @@
       "Time": "2023-09-21T18:09:35.9597638+00:00",
       "NumProgressed": 14029,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-21T19:09:22.7297484+00:00",
+      "NumProgressed": 14032,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12344,9 +12349,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 842
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -12402,7 +12407,7 @@
       "Name": "Intrepid",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -12826,7 +12831,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -14194,7 +14199,7 @@
       "Name": "The Clergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -14281,21 +14286,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14029,
+      "Progressed": 14032,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14029,
+      "Progressed": 14032,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-21T14:59:37.1896217+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:09:35.9597632+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:09:22.7297479+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:00:32.9593522+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:09:35.9613006+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:00:17.8895769+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:09:22.7305036+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "098b24c8da10404abc327b0e1604ee96",
   "Name": "Tokyo Waning Moon",
   "ProductSlug": "tokyo-waning-moon-3d5c44",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-15T01:39:37.3708909+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:57:52.2626842+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:07:56.4258061+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:45.7845469+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:07:45.9871559+00:00"
 }

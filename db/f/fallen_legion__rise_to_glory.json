@@ -2,10 +2,10 @@
   "ID": "ed091f38267842ae8ccffa3fa244bee0",
   "Name": "Fallen Legion: Rise to Glory",
   "ProductSlug": "fallen-legion-rise-to-glory-0ea64a",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-23T17:00:00+00:00",
     "PcReleaseDate": "2022-08-23T17:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.5059238+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:01:38.4535475+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:08:00.7308571+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:23.2474974+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:07:50.2818732+00:00"
 }

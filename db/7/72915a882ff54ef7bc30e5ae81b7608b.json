@@ -2,10 +2,10 @@
   "ID": "72915a882ff54ef7bc30e5ae81b7608b",
   "Name": "Magic Chess Online",
   "ProductSlug": "magic-chess-online-64b0f5",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-20T20:57:03.2522854+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:42.3887306+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:07:04.7504511+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:58:33.6255741+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:06:57.2357465+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -187,6 +187,11 @@
       "Time": "2023-09-21T16:06:22.0277116+00:00",
       "NumProgressed": 119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T19:06:18.7465811+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -206,7 +211,7 @@
       "Name": "Artistic fool",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "0000_achv_fallspot",
@@ -308,9 +313,9 @@
       "ID": "1001_achv_shadowplay",
       "SetID": "dhn82m5",
       "Name": "Shadow on the wall",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "1004_achv_farts",
@@ -342,7 +347,7 @@
       "Name": "Demolition expert",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "1006_achv_dropball",
@@ -350,7 +355,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -422,7 +427,7 @@
       "Name": "Chapter II",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "2008_achv_bubble",
@@ -430,7 +435,7 @@
       "Name": "Bubblekillerfamily",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "2008_achv_spotfly",
@@ -502,7 +507,7 @@
       "Name": "Unfullfilled dreams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "3011_achv_magicbox",
@@ -518,7 +523,7 @@
       "Name": "It\u0027s not easy being green!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "3014_achv_shootgate",
@@ -550,7 +555,7 @@
       "Name": "Home is where the heart is",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "4004_achv_mirror",
@@ -565,7 +570,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 0
     }
   ],
@@ -573,8 +578,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:06:24.8213676+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:06:18.74658+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:41.2824222+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:57:19.1746314+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:06:24.8214032+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:15.7886978+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:06:18.7466193+00:00"
 }

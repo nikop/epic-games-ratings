@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1122,9 +1122,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5248,
+  "EOS_Progressed": 5250,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10052,6 +10052,11 @@
       "Time": "2023-09-21T17:06:21.9163255+00:00",
       "NumProgressed": 5248,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-21T19:06:44.7679885+00:00",
+      "NumProgressed": 5250,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10095,7 +10100,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -10103,7 +10108,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -10167,7 +10172,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -10207,7 +10212,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -10223,7 +10228,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3938
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10247,7 +10252,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -10255,7 +10260,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_MYWAYS",
@@ -10271,7 +10276,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -10279,7 +10284,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -10319,7 +10324,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10327,7 +10332,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -10343,7 +10348,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -10367,7 +10372,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -10382,15 +10387,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5248,
+      "Progressed": 5250,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-18T15:00:11.2211125+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:06:51.4787693+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:06:44.7679881+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.3896086+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:24.8098059+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:06:51.4788621+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:58:16.5673949+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:06:44.76806+00:00"
 }

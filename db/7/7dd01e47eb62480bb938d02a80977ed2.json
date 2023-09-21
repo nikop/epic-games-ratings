@@ -2,10 +2,10 @@
   "ID": "7dd01e47eb62480bb938d02a80977ed2",
   "Name": "Need for Spirit: Off-Road Edition",
   "ProductSlug": "need-for-spirit-offroad-edition-7eee16",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-26T07:00:00+00:00",
     "PcReleaseDate": "2019-03-07T08:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-14T20:57:16.6939821+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:57:38.4153441+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:07:35.6253288+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:32.1163574+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:07:26.1822515+00:00"
 }

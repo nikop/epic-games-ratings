@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -587,9 +587,9 @@
       "ID": "Vanilla_AllBounties",
       "SetID": "27kik8p",
       "Name": "Bounty Hunter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_AndtheSkyFullofStars",
@@ -1348,8 +1348,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:04:15.5940304+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:04:15.4406662+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.3873754+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:01:34.1446102+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:04:15.5941464+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:19.4566706+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:04:15.44077+00:00"
 }

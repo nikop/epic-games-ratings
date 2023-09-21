@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -307,9 +307,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -355,9 +355,9 @@
       "ID": "SG_CUNNING",
       "SetID": "bj5g0n4",
       "Name": "Cunning",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_ENDOFTHEROAD",
@@ -475,9 +475,9 @@
       "ID": "SG_SHARETHISDANCE",
       "SetID": "bj5g0n4",
       "Name": "Share This Dance",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SG_SNAKECHARMER",
@@ -523,9 +523,9 @@
       "ID": "SG_THEHIGHROAD",
       "SetID": "bj5g0n4",
       "Name": "The High Road",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_THEKINGOFHELL",
@@ -539,9 +539,9 @@
       "ID": "SG_THEMUSESENCORE",
       "SetID": "bj5g0n4",
       "Name": "The Muse\u2019s Encore",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -594,8 +594,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:53.3375841+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:49.3399895+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:54.861209+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:57:47.7130483+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:53.3376159+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:41.6360749+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:49.3400146+00:00"
 }

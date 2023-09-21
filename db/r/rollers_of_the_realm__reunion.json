@@ -2,10 +2,10 @@
   "ID": "7857266fccca4880bf682b8206071ed1",
   "Name": "Rollers of The Realm: Reunion",
   "ProductSlug": "rollers-of-the-realm-reunion",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.2375968+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:00:10.9889416+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:02:52.0032761+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:57.4698061+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:03:14.2722221+00:00"
 }

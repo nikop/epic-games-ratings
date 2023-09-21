@@ -2,10 +2,10 @@
   "ID": "d1332913f13a4ec1a74ae177a67be056",
   "Name": "Moto",
   "ProductSlug": "moto-cbde33",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-05T05:00:00+00:00",
     "PcReleaseDate": "2023-06-05T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-27T05:57:17.8266495+00:00",
   "LastUpdate_AppInfo": "2023-09-15T10:57:10.0081508+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:03.7937294+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:04:18.8725785+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:57.1875892+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:04:18.5672248+00:00"
 }

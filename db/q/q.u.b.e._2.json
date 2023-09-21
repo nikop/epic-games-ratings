@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1688,6 +1688,11 @@
       "Time": "2023-09-21T16:04:31.2846908+00:00",
       "NumProgressed": 395,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T19:04:30.7142701+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1890,9 +1895,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_S4",
@@ -1916,7 +1921,7 @@
       "Name": "Lost in Space",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_STATUE",
@@ -1931,15 +1936,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:04:31.8757474+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:04:30.7142696+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:59:30.9209404+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:04:31.8757935+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:19.5609708+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:04:30.7142938+00:00"
 }

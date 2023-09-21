@@ -9,22 +9,22 @@ Number of Ratings: 495  (23.09.2022)
 | Genin | 11.00% | ~22,384 |
 | A thief's beginning | 10.00% | ~20,349 |
 | Thorough | 10.00% | ~20,349 |
-| Disguised | 8.00% | ~16,279 |
-| Rescue Takuma | 8.00% | ~16,279 |
-| Rollin' | 8.00% | ~16,279 |
-| Tanuki Time | 8.00% | ~16,279 |
-| Ice Ice Yuki | 7.00% | ~14,244 |
-| Jonin | 7.00% | ~14,244 |
-| Stoned Ox | 7.00% | ~14,244 |
-| Yabu | 7.00% | ~14,244 |
-| Chunin | 6.00% | ~12,209 |
-| Flying Rocks | 6.00% | ~12,209 |
-| Happy Planning | 6.00% | ~12,209 |
-| Mugen Unchained | 6.00% | ~12,209 |
-| Warzone | 6.00% | ~12,209 |
-| Okkoto | 5.00% | ~10,174 |
-| Prisoners | 5.00% | ~10,174 |
-| Too Early | 5.00% | ~10,174 |
+| Disguised | 8.00% | ~16,280 |
+| Rescue Takuma | 8.00% | ~16,280 |
+| Rollin' | 8.00% | ~16,280 |
+| Tanuki Time | 8.00% | ~16,280 |
+| Ice Ice Yuki | 7.00% | ~14,245 |
+| Jonin | 7.00% | ~14,245 |
+| Stoned Ox | 7.00% | ~14,245 |
+| Yabu | 7.00% | ~14,245 |
+| Chunin | 6.00% | ~12,210 |
+| Flying Rocks | 6.00% | ~12,210 |
+| Happy Planning | 6.00% | ~12,210 |
+| Mugen Unchained | 6.00% | ~12,210 |
+| Warzone | 6.00% | ~12,210 |
+| Okkoto | 5.00% | ~10,175 |
+| Prisoners | 5.00% | ~10,175 |
+| Too Early | 5.00% | ~10,175 |
 | Gear up | 4.00% | ~8,140 |
 | Happy little accidents | 4.00% | ~8,140 |
 | Still Rollin' | 4.00% | ~8,140 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~203 |
 | Release the Kraken | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,489 (Ranked 62)  
+Progressed: 203,494 (Ranked 62)  
 Completed: 84 (0.04%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 84 (0.04%) (Ranked 248)
 | 2023-09-18 | 203,005 | 81 |
 | 2023-09-19 | 203,185 | 82 |
 | 2023-09-20 | 203,354 | 83 |
-| 2023-09-21 | 203,489 | 84 |
+| 2023-09-21 | 203,494 | 84 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
-Sum: 4,763 (Ranked 136)  
+Sum: 4,764 (Ranked 136)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): 55
 | This game has Amazing Characters | 489 |
 | This game is Highly Recommended | 486 |
 | This game is Relaxing | 485 |
-| This game has Challenging Combat | 479 |
+| This game has Challenging Combat | 480 |
 | This game has Quickly Understood Controls | 448 |
 | This game has a Creative Community | 249 |
 | This game has Unique Visuals | 20 |
@@ -399,4 +399,4 @@ Diff (max vs sum): 55
 | 2023-09-18 | 4.66 | - | 565 | 4,757 |
 | 2023-09-19 | 4.66 | - | 566 | 4,761 |
 | 2023-09-20 | 4.66 | - | 566 | 4,762 |
-| 2023-09-21 | 4.66 | - | 566 | 4,763 |
+| 2023-09-21 | 4.66 | - | 566 | 4,764 |

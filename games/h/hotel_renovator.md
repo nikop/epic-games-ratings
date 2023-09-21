@@ -14,13 +14,13 @@ Rating: 4.38 (Ranked 731)
 | Soulmate? | 54.00% | ~552 |
 | Excellent service | 49.00% | ~501 |
 | Roll with it | 46.00% | ~470 |
+| Humble beginnings | 44.00% | ~450 |
 | Love is in the air | 44.00% | ~450 |
-| Humble beginnings | 43.00% | ~439 |
 | Fine, I'll do it myself | 42.00% | ~429 |
 | Moving up | 41.00% | ~419 |
 | No need to call anyone | 39.00% | ~399 |
 | Big fortune | 32.00% | ~327 |
-| Still more work ahead | 28.00% | ~286 |
+| Still more work ahead | 29.00% | ~296 |
 | Hotel sleuthing | 27.00% | ~276 |
 | Kaboom | 26.00% | ~266 |
 | Aesop's fable | 26.00% | ~266 |
@@ -33,7 +33,7 @@ Rating: 4.38 (Ranked 731)
 | King of hospitality | 11.00% | ~112 |
 | Top spot in town | 2.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,022 (Ranked 219)  
+Progressed: 1,022 (Ranked 221)  
 Completed: 15 (1.47%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |

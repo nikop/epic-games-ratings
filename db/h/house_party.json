@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6237,
+  "EOS_Progressed": 6239,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5218,6 +5218,11 @@
       "Time": "2023-09-21T17:07:13.2213879+00:00",
       "NumProgressed": 6237,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-21T19:07:43.4431309+00:00",
+      "NumProgressed": 6239,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5597,7 +5602,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "SmellBlood",
@@ -5780,21 +5785,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3276,
+      "Progressed": 3278,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6237,
+      "Progressed": 6239,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:07:53.3675032+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:07:43.4431304+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:25.7446056+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:35.4237669+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:07:53.3676195+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:58:26.3125764+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:07:43.4432122+00:00"
 }

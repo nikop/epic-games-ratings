@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 53.00% | ~63 |
+| Fire in the... nevermind | 53.00% | ~64 |
 | Chapter I | 52.00% | ~62 |
 | Haute cuisine | 47.00% | ~56 |
 | I didn't do it! | 41.00% | ~49 |
-| Demolition expert | 38.00% | ~45 |
+| Demolition expert | 38.00% | ~46 |
 | Keep away from children | 37.00% | ~44 |
 | Wooooooow! | 36.00% | ~43 |
-| Artistic fool | 34.00% | ~40 |
+| Artistic fool | 34.00% | ~41 |
 | Open up wide | 32.00% | ~38 |
 | Let the boot talk | 31.00% | ~37 |
-| Chapter II | 28.00% | ~33 |
+| Chapter II | 28.00% | ~34 |
 | Achoo!! | 26.00% | ~31 |
 | Handyman | 25.00% | ~30 |
 | Chapter III | 24.00% | ~29 |
 | Like a moth in the Wind | 24.00% | ~29 |
-| Bubblekillerfamily | 23.00% | ~27 |
+| Shadow on the wall | 23.00% | ~28 |
+| Bubblekillerfamily | 23.00% | ~28 |
 | Quite a buggy game | 22.00% | ~26 |
-| Shadow on the wall | 22.00% | ~26 |
 | Mirror mirror on the wall... | 21.00% | ~25 |
 | Pacifist | 20.00% | ~24 |
 | Fastidious Clown | 20.00% | ~24 |
-| It's not easy being green! | 18.00% | ~21 |
-| Home is where the heart is | 18.00% | ~21 |
+| It's not easy being green! | 18.00% | ~22 |
+| Home is where the heart is | 18.00% | ~22 |
 | Master of Thermodynamics | 15.00% | ~18 |
 | Death is a part of life | 15.00% | ~18 |
-| Unfullfilled dreams | 13.00% | ~15 |
+| Unfullfilled dreams | 13.00% | ~16 |
 | To err is human... | 12.00% | ~14 |
 | Nothing can stop me | 10.00% | ~12 |
 | Mumbo Jumbo | 10.00% | ~12 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.80% | ~1 |
 | Do not feed the fish! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 354)  
+Progressed: 120 (Ranked 355)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 281)
 | 2023-09-16 | 115 | 0 |
 | 2023-09-17 | 116 | 0 |
 | 2023-09-19 | 118 | 0 |
-| 2023-09-21 | 119 | 0 |
+| 2023-09-21 | 120 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

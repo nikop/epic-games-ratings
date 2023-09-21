@@ -9,8 +9,8 @@ Rating: 4.77 (Ranked 112)
 | First Class Student | 13.00% | ~38,618 |
 | Troll with the Punches | 13.00% | ~38,618 |
 | A Keen Sense of Spell | 12.00% | ~35,647 |
-| A Talent for Spending | 11.00% | ~32,676 |
-| That's a Keeper | 11.00% | ~32,676 |
+| A Talent for Spending | 11.00% | ~32,677 |
+| That's a Keeper | 11.00% | ~32,677 |
 | Grappling with a Graphorn | 10.00% | ~29,706 |
 | The One Who Mastered Memories | 10.00% | ~29,706 |
 | The Hallowed Hero | 10.00% | ~29,706 |
@@ -26,9 +26,9 @@ Rating: 4.77 (Ranked 112)
 | The Avenging Gazelle | 7.00% | ~20,794 |
 | Beast Friends | 7.00% | ~20,794 |
 | Flight the Good Flight | 7.00% | ~20,794 |
-| The Seeker of Knowledge | 6.00% | ~17,823 |
-| The Root of the Problem | 6.00% | ~17,823 |
-| Raising Expectations | 6.00% | ~17,823 |
+| The Seeker of Knowledge | 6.00% | ~17,824 |
+| The Root of the Problem | 6.00% | ~17,824 |
+| Raising Expectations | 6.00% | ~17,824 |
 | Third Time's a Charm | 5.00% | ~14,853 |
 | The Ends Petrify the Means | 5.00% | ~14,853 |
 | The Toast of the Town | 4.00% | ~11,882 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 112)
 | The Nature of the Beast | 0.60% | ~1,782 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,058 (Ranked 44)  
+Progressed: 297,060 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 476 (0.16%) (Ranked 208)
 | 2023-09-18 | 296,907 | 474 |
 | 2023-09-19 | 296,968 | 475 |
 | 2023-09-20 | 297,027 | 476 |
-| 2023-09-21 | 297,058 | 476 |
+| 2023-09-21 | 297,060 | 476 |
 ## Awards
 Max (Character Customization): 22,886  (Ranked 17)  
 Sum: 43,891 (Ranked 30)  

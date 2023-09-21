@@ -6,39 +6,39 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,411 |
-| Having A Field Day | 75.00% | ~4,411 |
+| Get A Room | 75.00% | ~4,412 |
+| Having A Field Day | 75.00% | ~4,412 |
 | Reap What You Sow | 71.00% | ~4,176 |
-| The First Day | 68.00% | ~3,999 |
-| Green Thumb | 66.00% | ~3,881 |
-| Novice Researcher | 66.00% | ~3,881 |
-| Home Cooked Meal | 58.00% | ~3,411 |
-| Onward | 56.00% | ~3,293 |
+| The First Day | 68.00% | ~4,000 |
+| Green Thumb | 66.00% | ~3,882 |
+| Novice Researcher | 66.00% | ~3,882 |
+| Home Cooked Meal | 58.00% | ~3,412 |
+| Onward | 56.00% | ~3,294 |
 | Putting Food on the Table | 54.00% | ~3,176 |
 | The First Week | 54.00% | ~3,176 |
-| Beam Me Up | 51.00% | ~2,999 |
-| Studious Researcher | 51.00% | ~2,999 |
-| Feast or Famine | 45.00% | ~2,646 |
+| Beam Me Up | 51.00% | ~3,000 |
+| Studious Researcher | 51.00% | ~3,000 |
+| Feast or Famine | 45.00% | ~2,647 |
 | Adept Researcher | 44.00% | ~2,588 |
-| Retribution | 41.00% | ~2,411 |
-| ...And Don’t Come Back! | 41.00% | ~2,411 |
+| Retribution | 41.00% | ~2,412 |
+| ...And Don’t Come Back! | 41.00% | ~2,412 |
 | Fit For A King | 34.00% | ~2,000 |
 | Luminary Researcher | 32.00% | ~1,882 |
-| Heating Up | 30.00% | ~1,764 |
+| Heating Up | 30.00% | ~1,765 |
 | Winter Is Coming | 27.00% | ~1,588 |
-| Winter Is Here | 24.00% | ~1,411 |
+| Winter Is Here | 24.00% | ~1,412 |
 | Disassembled | 21.00% | ~1,235 |
 | A Party Now | 21.00% | ~1,235 |
 | Oh Deer! | 21.00% | ~1,235 |
 | All Year Round | 20.00% | ~1,176 |
 | Nothing Wasted | 13.00% | ~765 |
 | Don't Cry Wolf | 12.00% | ~706 |
-| Deerly Departed | 8.00% | ~470 |
+| Deerly Departed | 8.00% | ~471 |
 | Where Wolf? | 5.00% | ~294 |
 | Food Chain | 2.00% | ~118 |
 | Wabbit Season | 0.60% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,881 (Ranked 149)  
+Progressed: 5,882 (Ranked 149)  
 Completed: 14 (0.24%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 14 (0.24%) (Ranked 196)
 | 2023-09-18 | 5,841 | 13 |
 | 2023-09-19 | 5,854 | 13 |
 | 2023-09-20 | 5,871 | 14 |
-| 2023-09-21 | 5,881 | 14 |
+| 2023-09-21 | 5,882 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 321)  
 Sum: 985 (Ranked 243)  

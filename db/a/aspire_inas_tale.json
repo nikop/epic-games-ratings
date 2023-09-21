@@ -2,10 +2,10 @@
   "ID": "83aa4b4bfd114c3a8b84ab262460af90",
   "Name": "Aspire Inas Tale",
   "ProductSlug": "aspire-inas-tale-f77a17",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-12-17T18:00:00+00:00",
     "PcReleaseDate": "2021-12-17T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.8231791+00:00",
   "LastChanged": "2023-03-31T05:57:35.8231792+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:18.3857789+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:59:47.282912+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:04:37.7813476+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:35.4964229+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:04:36.7743232+00:00"
 }

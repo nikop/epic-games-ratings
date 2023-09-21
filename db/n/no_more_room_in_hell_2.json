@@ -2,10 +2,10 @@
   "ID": "f8bf474b836f4303ae3ac469ebe5f447",
   "Name": "No More Room in Hell 2",
   "ProductSlug": "no-more-room-in-hell-2-ea1b5c",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:48:48.9622135+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:44.2136571+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:40.6503144+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:55.4584665+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:01:23.7987697+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:44.213661+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:09.3071283+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:40.6503173+00:00"
 }

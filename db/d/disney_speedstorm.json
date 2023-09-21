@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3208,
+  "EOS_Progressed": 3209,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 5.74,
+  "EOS_Completed_Percentage": 5.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4820,6 +4820,11 @@
       "Time": "2023-09-21T18:05:46.1075528+00:00",
       "NumProgressed": 3208,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2023-09-21T19:05:42.4836322+00:00",
+      "NumProgressed": 3209,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 24,
@@ -4839,7 +4844,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "11",
@@ -4871,7 +4876,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "15",
@@ -4903,7 +4908,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "19",
@@ -4983,7 +4988,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "6",
@@ -4999,7 +5004,7 @@
       "Name": "MASTER",
       "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "8",
@@ -5022,13 +5027,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3208,
+      "Progressed": 3209,
       "Completed": 184
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:46.1075521+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:42.4836317+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:01:40.1822113+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:46.1076094+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:24.8731596+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:42.4836695+00:00"
 }

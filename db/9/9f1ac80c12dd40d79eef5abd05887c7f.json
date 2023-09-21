@@ -2,10 +2,10 @@
   "ID": "9f1ac80c12dd40d79eef5abd05887c7f",
   "Name": "Tank Hunter 2",
   "ProductSlug": "tank-hunter-2-0783ff",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-17T15:57:14.7548386+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:59:21.311115+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:04:53.6598354+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:10.4886872+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:04:52.6135828+00:00"
 }

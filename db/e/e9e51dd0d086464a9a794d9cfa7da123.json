@@ -2,10 +2,10 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:06:02.1877677+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:57.485913+00:00",
   "LastUpdate_AppInfo": "2023-09-21T08:57:13.4693187+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:00:12.474457+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:06:02.1877718+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:58.7433266+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:57.485916+00:00"
 }

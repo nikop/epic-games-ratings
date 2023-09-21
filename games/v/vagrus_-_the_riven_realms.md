@@ -31,6 +31,7 @@
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
 | Trouble at Fort Larius | 4.00% | ~6 |
+| Bounty Hunter | 3.00% | ~5 |
 | Supercargo | 3.00% | ~5 |
 | Xevarian Gambit | 3.00% | ~5 |
 | The Voice of Hereafter | 3.00% | ~5 |
@@ -41,7 +42,6 @@
 | Unseen Patterns | 3.00% | ~5 |
 | Insectoid Propagator | 3.00% | ~5 |
 | Making Contact | 2.00% | ~3 |
-| Bounty Hunter | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
 | Legacy of a Mercenary | 2.00% | ~3 |
 | Moving At Odd Angles | 2.00% | ~3 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 340)  
+Progressed: 153 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |

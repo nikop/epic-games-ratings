@@ -2,10 +2,10 @@
   "ID": "4be3585e81cd49b6856c5280c179730f",
   "Name": "Rad Rodgers - Radical Edition",
   "ProductSlug": "rad-rodgers-radical-edition-8f66a7",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-15T13:00:00+00:00",
     "PcReleaseDate": "2018-02-21T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.0805638+00:00",
   "LastChanged": "2023-03-31T05:58:20.0805639+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:35.1461879+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:00:14.6573505+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:03:30.2334327+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:00:00.7089069+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:03:41.0049261+00:00"
 }

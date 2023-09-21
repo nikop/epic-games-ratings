@@ -6,31 +6,31 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,750 |
-| He's Signed! | 50.00% | ~236,750 |
-| First Victory | 50.00% | ~236,750 |
-| He's Sold! | 48.00% | ~227,280 |
-| I'm The Boss! | 42.00% | ~198,870 |
-| Hat-trick | 41.00% | ~194,135 |
-| Scoring Streak | 38.00% | ~179,930 |
-| Unbeatable! | 37.00% | ~175,195 |
-| Thumping | 37.00% | ~175,195 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,725 |
-| Total Support | 32.00% | ~151,520 |
-| Record Signing | 32.00% | ~151,520 |
-| He's a Natural | 31.00% | ~146,785 |
-| Millionaire's Club | 31.00% | ~146,785 |
-| Team Performance | 30.00% | ~142,050 |
-| Parked The Bus | 29.00% | ~137,315 |
-| Shrewd Spender | 29.00% | ~137,315 |
-| Star Man | 29.00% | ~137,315 |
-| Attack! | 28.00% | ~132,580 |
-| Tremendous Trio | 27.00% | ~127,845 |
-| Record Sale | 27.00% | ~127,845 |
-| You're On Fire | 26.00% | ~123,110 |
-| On A Roll | 26.00% | ~123,110 |
-| Unstoppable Force | 26.00% | ~123,110 |
-| Armchair Expert | 25.00% | ~118,375 |
+| Clean Sheet | 50.00% | ~236,751 |
+| He's Signed! | 50.00% | ~236,751 |
+| First Victory | 50.00% | ~236,751 |
+| He's Sold! | 48.00% | ~227,281 |
+| I'm The Boss! | 42.00% | ~198,871 |
+| Hat-trick | 41.00% | ~194,136 |
+| Scoring Streak | 38.00% | ~179,931 |
+| Unbeatable! | 37.00% | ~175,196 |
+| Thumping | 37.00% | ~175,196 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,726 |
+| Total Support | 32.00% | ~151,521 |
+| Record Signing | 32.00% | ~151,521 |
+| He's a Natural | 31.00% | ~146,786 |
+| Millionaire's Club | 31.00% | ~146,786 |
+| Team Performance | 30.00% | ~142,051 |
+| Parked The Bus | 29.00% | ~137,316 |
+| Shrewd Spender | 29.00% | ~137,316 |
+| Star Man | 29.00% | ~137,316 |
+| Attack! | 28.00% | ~132,581 |
+| Tremendous Trio | 27.00% | ~127,846 |
+| Record Sale | 27.00% | ~127,846 |
+| You're On Fire | 26.00% | ~123,111 |
+| On A Roll | 26.00% | ~123,111 |
+| Unstoppable Force | 26.00% | ~123,111 |
+| Armchair Expert | 25.00% | ~118,376 |
 | Fantastic Five | 24.00% | ~113,640 |
 | Full Faith | 24.00% | ~113,640 |
 | Iron Curtain | 24.00% | ~113,640 |
@@ -85,27 +85,27 @@ Number of Ratings: 19,160  (23.09.2022)
 | Living the Dream | 1.00% | ~4,735 |
 | The Greatest | 1.00% | ~4,735 |
 | Beat your Mates | 1.00% | ~4,735 |
-| Perfect Host | 0.70% | ~3,314 |
-| The Rich Get Richer | 0.70% | ~3,314 |
-| One more draft | 0.70% | ~3,314 |
+| Perfect Host | 0.70% | ~3,315 |
+| The Rich Get Richer | 0.70% | ~3,315 |
+| One more draft | 0.70% | ~3,315 |
 | Online Streak | 0.60% | ~2,841 |
 | Set Piece Specialist | 0.60% | ~2,841 |
-| Draft Rivalry | 0.50% | ~2,367 |
+| Draft Rivalry | 0.50% | ~2,368 |
 | Outstanding Defence | 0.40% | ~1,894 |
 | Beat all the AI Managers | 0.40% | ~1,894 |
-| Club Legend | 0.30% | ~1,420 |
+| Club Legend | 0.30% | ~1,421 |
 | Immortality | 0.20% | ~947 |
 | Impervious | 0.20% | ~947 |
 | Draft Dominator | 0.20% | ~947 |
-| Immovable Object | 0.10% | ~473 |
-| Value For Money | 0.10% | ~473 |
-| 100 Club | 0.10% | ~473 |
-| 200 Club | 0.10% | ~473 |
-| Knockout King | 0.10% | ~473 |
-| Draft Value | 0.10% | ~473 |
-| Shoestring Budget | 0.10% | ~473 |
+| Immovable Object | 0.10% | ~474 |
+| Value For Money | 0.10% | ~474 |
+| 100 Club | 0.10% | ~474 |
+| 200 Club | 0.10% | ~474 |
+| Knockout King | 0.10% | ~474 |
+| Draft Value | 0.10% | ~474 |
+| Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,499 (Ranked 36)  
+Progressed: 473,502 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 21 (0.00%) (Ranked 281)
 | 2023-09-18 | 473,367 | 21 |
 | 2023-09-19 | 473,419 | 21 |
 | 2023-09-20 | 473,471 | 21 |
-| 2023-09-21 | 473,499 | 21 |
+| 2023-09-21 | 473,502 | 21 |
 ## Awards
 Max (Relaxing): 6,452  (Ranked 54)  
-Sum: 50,762 (Ranked 26)  
+Sum: 50,765 (Ranked 26)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +272,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 5,868 |
 | This game is Highly Recommended | 5,856 |
 | This game is Educational | 5,850 |
-| This game has Diverse Characters | 5,526 |
+| This game has Diverse Characters | 5,529 |
 | This game has Amazing Storytelling | 4,907 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,373 |
@@ -518,4 +518,4 @@ Diff (max vs sum): 28
 | 2023-09-18 | 4.80 | - | 6,449 | 50,738 |
 | 2023-09-19 | 4.80 | - | 6,449 | 50,749 |
 | 2023-09-20 | 4.80 | - | 6,450 | 50,757 |
-| 2023-09-21 | 4.80 | - | 6,452 | 50,762 |
+| 2023-09-21 | 4.80 | - | 6,452 | 50,765 |

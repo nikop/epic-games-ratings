@@ -4,11 +4,11 @@
   "ProductSlug": "shadow-of-the-tomb-raider",
   "Ranking_Rating": 315,
   "Ranking_Popularity": 16,
-  "Ranking_PopularitySum": 34,
-  "Ranking_EOS_Progress": 624,
+  "Ranking_PopularitySum": 35,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
     "PcReleaseDate": "2018-09-14T16:00:00+00:00",
@@ -5170,10 +5170,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 37995,
       "NumberOfAwardsMax": 28911
+    },
+    {
+      "Time": "2023-09-21T18:59:24.4125453+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 37996,
+      "NumberOfAwardsMax": 28911
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37995,
+  "NumberOfAwards": 37996,
   "NumberOfAwardsMax": 28911,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5217,7 +5223,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 994
+      "Count": 995
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5261,8 +5267,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2023-09-21T08:59:08.3566457+00:00",
+  "LastChanged": "2023-09-21T18:59:24.4125452+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:01.2386571+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:59:36.1213743+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:29.1809882+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:24.4125457+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:26.7996278+00:00"
 }

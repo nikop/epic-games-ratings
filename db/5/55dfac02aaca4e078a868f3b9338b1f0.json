@@ -2,10 +2,10 @@
   "ID": "55dfac02aaca4e078a868f3b9338b1f0",
   "Name": "Project Vesperi",
   "ProductSlug": "project-vesperi-c8d013",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-15T02:57:17.4384146+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:26.0173485+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:06:34.137361+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:58:17.859729+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:06:27.7224084+00:00"
 }

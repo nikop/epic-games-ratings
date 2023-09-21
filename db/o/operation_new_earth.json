@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1372,
+  "EOS_Progressed": 1373,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4976,6 +4976,11 @@
       "Time": "2023-09-21T17:06:18.6936414+00:00",
       "NumProgressed": 1372,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T19:06:41.1885616+00:00",
+      "NumProgressed": 1373,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5091,7 +5096,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5179,7 +5184,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5195,7 +5200,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5211,7 +5216,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5290,14 +5295,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1372,
+      "Progressed": 1373,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:06:47.9601151+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:06:41.1885612+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:26.217774+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:06:47.9601682+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:58:18.0817215+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:06:41.1886089+00:00"
 }

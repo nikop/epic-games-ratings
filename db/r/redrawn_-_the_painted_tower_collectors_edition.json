@@ -2,10 +2,10 @@
   "ID": "ead2161033144670b1bbc2520700f101",
   "Name": "ReDrawn - The Painted Tower Collectors Edition",
   "ProductSlug": "redrawn-the-painted-tower-collectors-edition-dfbc54",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-11-12T08:00:00+00:00",
     "PcReleaseDate": "2021-11-12T08:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:41.1847733+00:00",
   "LastChanged": "2023-03-31T05:57:41.1847734+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:26.1207834+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:02:09.1392516+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:07:23.75268+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:51.6783955+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:07:14.6326362+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -579,12 +579,18 @@
       "Rating": 4.49,
       "NumberOfAwards": 265,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-09-21T19:01:04.8018724+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 266,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 265,
+  "NumberOfAwards": 266,
   "NumberOfAwardsMax": 32,
-  "MaxAwardTitle": "Highly Recommended",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -620,7 +626,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Unique Visuals",
@@ -647,7 +653,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2889,
+  "EOS_Progressed": 2893,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1054,
   "EOS_NewCompleters": 0,
@@ -5147,6 +5153,11 @@
       "Time": "2023-09-21T18:04:42.0649602+00:00",
       "NumProgressed": 2889,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T19:04:41.3500377+00:00",
+      "NumProgressed": 2893,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5159,7 +5170,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -5183,7 +5194,7 @@
       "Name": "Death Becomes You",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -5191,7 +5202,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5207,7 +5218,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5223,7 +5234,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -5247,7 +5258,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -5271,7 +5282,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5295,7 +5306,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5327,7 +5338,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5342,15 +5353,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2889,
+      "Progressed": 2893,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-09-20T16:59:50.1144164+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:04:42.0649593+00:00",
+  "LastChanged": "2023-09-21T19:01:04.8018723+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:04:41.3500373+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:01:19.552986+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:04:42.0650118+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:04.8018728+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:04:41.3500713+00:00"
 }

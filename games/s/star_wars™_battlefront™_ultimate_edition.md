@@ -67,6 +67,13 @@
 | A cunning warrior | 0.00% | ~0 |
 | Don't underestimate the Force | 0.00% | ~0 |
 | Crush them with one swift stroke… | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 578)  
+Completed: 0 (0.00%) (Ranked 281)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-09-21 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

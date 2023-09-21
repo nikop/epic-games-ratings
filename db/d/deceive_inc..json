@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18078,
+  "EOS_Progressed": 18079,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -10491,6 +10491,11 @@
       "Time": "2023-09-21T18:05:05.2916446+00:00",
       "NumProgressed": 18078,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-21T19:05:04.0693017+00:00",
+      "NumProgressed": 18079,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10590,7 +10595,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "0013",
@@ -10606,7 +10611,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "0015",
@@ -10789,7 +10794,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18078,
+      "Progressed": 18079,
       "Completed": 3
     }
   ],
@@ -10797,8 +10802,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:05.2916442+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:04.0693011+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:57:08.8020835+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:05.2917467+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:05.9612336+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:04.0693728+00:00"
 }

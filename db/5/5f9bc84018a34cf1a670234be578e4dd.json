@@ -2,9 +2,9 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1159,9 +1159,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "Compiling",
@@ -1239,9 +1239,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "SecretRoom",
@@ -1270,8 +1270,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:03:23.9890395+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:03:35.2767828+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:24.0225669+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:03:23.9890606+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:58:16.0180307+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:03:35.276798+00:00"
 }

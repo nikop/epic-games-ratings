@@ -57,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Undergeared | 0.10% | ~196 |
 | Underdark Chill | 0.10% | ~196 |
 | The Alien Underdark | 0.10% | ~196 |
+| Thoughts on the Menu | 0.10% | ~196 |
 | Brains on Ice | 0.10% | ~196 |
 | Hatchlings Underfoot | 0.10% | ~230 |
 | The Oozing Hunger | 0.10% | ~196 |
@@ -529,9 +530,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
 | Third Third Out | 0.00% | ~0 |
-| Thoughts on the Menu | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,580 (Ranked 57)  
+Progressed: 229,588 (Ranked 57)  
 Completed: 2,297 (1.00%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -685,10 +685,10 @@ Completed: 2,297 (1.00%) (Ranked 129)
 | 2023-09-18 | 229,318 | 2,294 |
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
-| 2023-09-21 | 229,580 | 2,297 |
+| 2023-09-21 | 229,588 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,301  (Ranked 67)  
-Sum: 31,672 (Ranked 39)  
+Sum: 31,676 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -698,7 +698,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,655 |
 | This game has Amazing Characters | 4,127 |
 | This game is Highly Recommended | 4,116 |
-| This game has Playful Visuals | 3,424 |
+| This game has Playful Visuals | 3,428 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -940,4 +940,4 @@ Diff (max vs sum): 28
 | 2023-09-18 | 4.06 | - | 5,285 | 31,633 |
 | 2023-09-19 | 4.06 | - | 5,292 | 31,652 |
 | 2023-09-20 | 4.06 | - | 5,296 | 31,661 |
-| 2023-09-21 | 4.06 | - | 5,301 | 31,672 |
+| 2023-09-21 | 4.06 | - | 5,301 | 31,676 |

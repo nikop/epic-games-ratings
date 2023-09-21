@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11671,
+  "EOS_Progressed": 11677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10136,6 +10136,11 @@
       "Time": "2023-09-21T18:05:16.177377+00:00",
       "NumProgressed": 11671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T19:05:14.5556476+00:00",
+      "NumProgressed": 11677,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -10219,7 +10224,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5135
+      "UsersEstimate": 5138
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -10235,7 +10240,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -10315,7 +10320,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -10331,7 +10336,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -10339,21 +10344,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11671,
+      "Progressed": 11677,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:16.1773764+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:14.555647+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5872219+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:39.8400919+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:16.1774744+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:58:30.7634839+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:14.5557093+00:00"
 }

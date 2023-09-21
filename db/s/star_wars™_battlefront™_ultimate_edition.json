@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,12 +26,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-09-21T19:05:03.9870233+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
   "TotalAchievements": 63,
   "TotalAchievementsXP": 2000,
@@ -545,13 +551,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
@@ -559,8 +565,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:05.2869769+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:03.9870225+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:16.705997+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:00:23.3785341+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:05.28868+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:00:08.3290115+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:03.9870777+00:00"
 }

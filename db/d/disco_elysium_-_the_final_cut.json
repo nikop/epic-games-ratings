@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1307,9 +1307,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128437,
+  "EOS_Progressed": 128439,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16707,6 +16707,11 @@
       "Time": "2023-09-21T18:09:16.717651+00:00",
       "NumProgressed": 128437,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-21T19:09:04.3780882+00:00",
+      "NumProgressed": 128439,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16718,7 +16723,7 @@
       "Name": "Baddest Brow in Town",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_CAUSE_SHITSTORM",
@@ -16766,7 +16771,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11559
+      "UsersEstimate": 11560
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -16798,7 +16803,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35962
+      "UsersEstimate": 35963
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16814,7 +16819,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -16830,7 +16835,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25687
+      "UsersEstimate": 25688
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -16878,7 +16883,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11559
+      "UsersEstimate": 11560
     },
     {
       "ID": "ACH_GLUTEN",
@@ -16902,7 +16907,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_HARDIE",
@@ -17014,7 +17019,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -17037,15 +17042,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128437,
+      "Progressed": 128439,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-21T11:02:56.7419493+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:09:16.7176506+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:09:04.3780878+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:02:06.9386265+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:09:16.7178092+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:49.8924622+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:09:04.3781855+00:00"
 }

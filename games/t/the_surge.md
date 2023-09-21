@@ -6,15 +6,15 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,377 |
+| On My Own Two Feet | 94.00% | ~4,378 |
 | I'll Be Back | 85.00% | ~3,958 |
-| Sorry, I Dropped This | 77.00% | ~3,585 |
+| Sorry, I Dropped This | 77.00% | ~3,586 |
 | First Day on the Job | 76.00% | ~3,539 |
 | Butcher's Bill | 55.00% | ~2,561 |
 | P.A.X | 37.00% | ~1,723 |
 | Hey Listen | 37.00% | ~1,723 |
-| OPERATOR | 36.00% | ~1,676 |
-| It's Blue Light | 33.00% | ~1,536 |
+| OPERATOR | 36.00% | ~1,677 |
+| It's Blue Light | 33.00% | ~1,537 |
 | Most Wanted | 26.00% | ~1,211 |
 | Infidel | 23.00% | ~1,071 |
 | GOLIATH | 21.00% | ~978 |
@@ -23,7 +23,7 @@ Number of Ratings: 62  (23.09.2022)
 | Nothing to Lose | 18.00% | ~838 |
 | Big Sister | 16.00% | ~745 |
 | SENTINEL | 16.00% | ~745 |
-| Gear Up | 15.00% | ~698 |
+| Gear Up | 15.00% | ~699 |
 | Core Power | 13.00% | ~605 |
 | The Black Cerberus | 12.00% | ~559 |
 | Watchman | 12.00% | ~559 |
@@ -35,9 +35,9 @@ Number of Ratings: 62  (23.09.2022)
 | Raging Drones | 9.00% | ~419 |
 | Overconfident | 9.00% | ~419 |
 | Is This Real Life? | 9.00% | ~419 |
-| Pusher Man | 8.00% | ~372 |
-| Squad Chief Helvig | 8.00% | ~372 |
-| No More Marching | 8.00% | ~372 |
+| Pusher Man | 8.00% | ~373 |
+| Squad Chief Helvig | 8.00% | ~373 |
+| No More Marching | 8.00% | ~373 |
 | Duty-Bound | 7.00% | ~326 |
 | Follow the White Rabbit | 7.00% | ~326 |
 | Liberation | 7.00% | ~326 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,656 (Ranked 156)  
+Progressed: 4,657 (Ranked 156)  
 Completed: 16 (0.34%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 16 (0.34%) (Ranked 177)
 | 2023-09-18 | 4,644 | 16 |
 | 2023-09-19 | 4,646 | 16 |
 | 2023-09-20 | 4,650 | 16 |
-| 2023-09-21 | 4,656 | 16 |
+| 2023-09-21 | 4,657 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 467)  
 Sum: 29 (Ranked 484)  

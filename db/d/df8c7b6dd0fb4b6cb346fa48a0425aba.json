@@ -2,10 +2,10 @@
   "ID": "df8c7b6dd0fb4b6cb346fa48a0425aba",
   "Name": "Garten of Banban 6",
   "ProductSlug": "garten-of-banban-6-84174e",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-17T19:57:12.3843901+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:59:21.5130692+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:04:19.5452017+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:10.7501964+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:04:19.1938307+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "bcc847858202451986296fbe9b3309b6",
   "Name": "The Cecil The Journey Begins",
   "ProductSlug": "the-cecil-the-journey-begins-f9a1f3",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T12:59:12.2815392+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:58:18.1314968+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:03.7626151+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:58:10.3572749+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:02.3688268+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7932,9 +7932,9 @@
       "Count": 663
     }
   ],
-  "EOS_Progressed": 297058,
+  "EOS_Progressed": 297060,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24612,6 +24612,11 @@
       "Time": "2023-09-21T18:06:41.0058367+00:00",
       "NumProgressed": 297058,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-21T19:06:34.4596989+00:00",
+      "NumProgressed": 297060,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24663,7 +24668,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17823
+      "UsersEstimate": 17824
     },
     {
       "ID": "PFA_15",
@@ -24759,7 +24764,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17823
+      "UsersEstimate": 17824
     },
     {
       "ID": "PFA_26",
@@ -24807,7 +24812,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32676
+      "UsersEstimate": 32677
     },
     {
       "ID": "PFA_31",
@@ -24911,7 +24916,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17823
+      "UsersEstimate": 17824
     },
     {
       "ID": "PFA_43",
@@ -24967,7 +24972,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32676
+      "UsersEstimate": 32677
     },
     {
       "ID": "PFA_9",
@@ -24982,7 +24987,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297058,
+      "Progressed": 297060,
       "Completed": 476
     }
   ],
@@ -24990,8 +24995,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-21T15:59:22.370341+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:06:41.0058359+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:06:34.4596981+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:59:30.0385544+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:06:41.0059913+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:59:18.6788044+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:06:34.459811+00:00"
 }

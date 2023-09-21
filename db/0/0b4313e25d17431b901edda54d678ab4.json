@@ -2,10 +2,10 @@
   "ID": "0b4313e25d17431b901edda54d678ab4",
   "Name": "Echo Storm",
   "ProductSlug": "echo-storm-4e5fbe",
-  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -291,6 +291,11 @@
       "Time": "2023-09-17T19:06:38.2031496+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T19:05:05.3466448+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -308,7 +313,7 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 60,
       "UsersEstimate": 46
     },
@@ -316,7 +321,7 @@
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -332,7 +337,7 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -340,7 +345,7 @@
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 100,
       "UsersEstimate": 45
     },
@@ -348,7 +353,7 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 150,
       "UsersEstimate": 43
     },
@@ -364,7 +369,7 @@
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 55,
       "UsersEstimate": 38
     },
@@ -372,7 +377,7 @@
       "ID": "leviathan02",
       "SetID": "bma0pih",
       "Name": "Metal hell",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 75,
       "UsersEstimate": 15
     },
@@ -380,7 +385,7 @@
       "ID": "leviathan03",
       "SetID": "bma0pih",
       "Name": "Flesh fear",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -420,7 +425,7 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
       "UsersEstimate": 29
     }
@@ -429,14 +434,14 @@
     {
       "ID": "bma0pih",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:05:06.621988+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:05:05.3466444+00:00",
   "LastUpdate_AppInfo": "2023-09-17T18:57:02.9424717+00:00",
-  "LastUpdate_Ratings": "2023-09-21T18:01:47.7382592+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:06.6220072+00:00"
+  "LastUpdate_Ratings": "2023-09-21T19:01:31.6383129+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:05.3466551+00:00"
 }

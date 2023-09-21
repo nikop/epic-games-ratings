@@ -2,13 +2,13 @@
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
-  "Ranking_Rating": 417,
+  "Ranking_Rating": 416,
   "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 203,
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-07-16T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2056,6 +2056,6 @@
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
   "LastChanged": "2023-09-20T19:57:49.2508711+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9904987+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:57:48.5138735+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:05:54.2727899+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:42.3411259+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:05:50.1870376+00:00"
 }

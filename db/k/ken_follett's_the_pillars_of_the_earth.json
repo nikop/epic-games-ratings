@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15312,
+  "EOS_Progressed": 15313,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10552,6 +10552,11 @@
       "Time": "2023-09-21T18:04:09.6852352+00:00",
       "NumProgressed": 15312,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-21T19:04:09.2889786+00:00",
+      "NumProgressed": 15313,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10675,7 +10680,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "tpote_achievement_23",
@@ -10699,7 +10704,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "tpote_achievement_26",
@@ -10723,7 +10728,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "tpote_achievement_29",
@@ -10787,7 +10792,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "tpote_achievement_36",
@@ -10811,7 +10816,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "tpote_achievement_39",
@@ -10883,22 +10888,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5359
+      "UsersEstimate": 5360
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15312,
+      "Progressed": 15313,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-21T18:04:09.6852343+00:00",
+  "LastChanged_Achievements": "2023-09-21T19:04:09.2889783+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:57:44.1759457+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:04:09.6853625+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:37.6497447+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:04:09.2890523+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b3ca40cc3a844442b26e48e12e9f402d",
   "Name": "The Last Case of Benedict Fox",
   "ProductSlug": "the-last-case-of-benedict-fox-4abc3a",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-04-27T07:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:58:52.1470879+00:00",
-  "LastUpdate_Ratings": "2023-09-21T17:57:20.5408809+00:00",
-  "LastUpdate_Achievements": "2023-09-21T18:06:48.9513065+00:00"
+  "LastUpdate_Ratings": "2023-09-21T18:57:17.1486316+00:00",
+  "LastUpdate_Achievements": "2023-09-21T19:06:42.2691183+00:00"
 }
