@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.54% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 96.50% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.56% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.63% |
@@ -81,7 +81,7 @@
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 82 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.68% |
+| 82 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.65% |
 | 83 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.63% |
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.58% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
@@ -214,14 +214,14 @@
 | 211 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 213 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 213 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
-| 215 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.13% |
-| 216 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 216 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 216 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.12% |
-| 216 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 216 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 216 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
-| 216 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 215 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
+| 215 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 215 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.12% |
+| 215 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.12% |
+| 215 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 215 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 215 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
+| 215 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 223 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
 | 223 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
 | 225 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
