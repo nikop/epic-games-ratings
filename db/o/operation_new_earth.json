@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1365,
+  "EOS_Progressed": 1366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4946,6 +4946,11 @@
       "Time": "2023-09-20T21:05:27.0751341+00:00",
       "NumProgressed": 1365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-21T01:46:40.9198041+00:00",
+      "NumProgressed": 1366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5059,9 +5064,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 273
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5085,7 +5090,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -5213,7 +5218,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5260,14 +5265,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1365,
+      "Progressed": 1366,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:05:11.3814565+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:46:40.9198037+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:57:35.6421477+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:05:11.3815226+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:38:48.4245601+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:46:40.9198556+00:00"
 }

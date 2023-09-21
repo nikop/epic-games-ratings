@@ -7822,10 +7822,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43852,
       "NumberOfAwardsMax": 22886
+    },
+    {
+      "Time": "2023-09-21T01:39:31.0287797+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43871,
+      "NumberOfAwardsMax": 22886
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43852,
+  "NumberOfAwards": 43871,
   "NumberOfAwardsMax": 22886,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7839,7 +7845,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11238
+      "Count": 11254
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -7851,7 +7857,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1014
+      "Count": 1017
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7902,9 +7908,9 @@
       "Count": 663
     }
   ],
-  "EOS_Progressed": 297028,
+  "EOS_Progressed": 297033,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24527,6 +24533,11 @@
       "Time": "2023-09-21T00:05:05.4779391+00:00",
       "NumProgressed": 297028,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-21T01:46:34.9325631+00:00",
+      "NumProgressed": 297033,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24538,7 +24549,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41584
+      "UsersEstimate": 41585
     },
     {
       "ID": "PFA_10",
@@ -24610,7 +24621,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23762
+      "UsersEstimate": 23763
     },
     {
       "ID": "PFA_19",
@@ -24658,7 +24669,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35643
+      "UsersEstimate": 35644
     },
     {
       "ID": "PFA_24",
@@ -24706,7 +24717,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14851
+      "UsersEstimate": 14852
     },
     {
       "ID": "PFA_3",
@@ -24722,7 +24733,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32673
+      "UsersEstimate": 32674
     },
     {
       "ID": "PFA_31",
@@ -24818,7 +24829,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14851
+      "UsersEstimate": 14852
     },
     {
       "ID": "PFA_42",
@@ -24842,7 +24853,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23762
+      "UsersEstimate": 23763
     },
     {
       "ID": "PFA_45",
@@ -24882,7 +24893,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32673
+      "UsersEstimate": 32674
     },
     {
       "ID": "PFA_9",
@@ -24897,16 +24908,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297028,
+      "Progressed": 297033,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-20T23:58:18.3148518+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:05:05.4779386+00:00",
+  "LastChanged": "2023-09-21T01:39:31.0287796+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:46:34.9325628+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:58:18.3148528+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:05:05.4780813+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:39:31.0287801+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:46:34.9326668+00:00"
 }

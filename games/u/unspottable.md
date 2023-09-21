@@ -4,17 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Catch me if you can | 83.00% | ~5 |
-| Robot cleaner | 50.00% | ~3 |
-| Under the spotlights | 50.00% | ~3 |
-| Out of my area | 33.00% | ~2 |
-| Teacher's pet | 33.00% | ~2 |
-| Big Win | 17.00% | ~1 |
-| Ha-Ha! | 17.00% | ~1 |
-| Mission Impossible | 17.00% | ~1 |
-| Night vision | 17.00% | ~1 |
-| Short and Sweet | 17.00% | ~1 |
-| Skynet Wins | 17.00% | ~1 |
+| Catch me if you can | 86.00% | ~6 |
+| Under the spotlights | 57.00% | ~4 |
+| Out of my area | 43.00% | ~3 |
+| Robot cleaner | 43.00% | ~3 |
+| Teacher's pet | 43.00% | ~3 |
+| Big Win | 29.00% | ~2 |
+| Ha-Ha! | 14.00% | ~1 |
+| Mission Impossible | 14.00% | ~1 |
+| Night vision | 14.00% | ~1 |
+| Short and Sweet | 14.00% | ~1 |
+| Skynet Wins | 14.00% | ~1 |
+| Sneaky Exit | 14.00% | ~1 |
 | Airstrike | 0.00% | ~0 |
 | Big Bang | 0.00% | ~0 |
 | Clutch | 0.00% | ~0 |
@@ -27,10 +28,9 @@
 | Don't give me orders | 0.00% | ~0 |
 | No real winner | 0.00% | ~0 |
 | Short Circuit | 0.00% | ~0 |
-| Sneaky Exit | 0.00% | ~0 |
 | Triple Punch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 502)  
+Progressed: 7 (Ranked 500)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,6 +40,7 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-16 | 4 | 0 |
 | 2023-09-17 | 5 | 0 |
 | 2023-09-20 | 6 | 0 |
+| 2023-09-21 | 7 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

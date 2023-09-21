@@ -2,9 +2,9 @@
   "ID": "bc00696af836471cbacfd496e9e5f877",
   "Name": "Unspottable",
   "ProductSlug": "unspottable",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-12-14T19:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -61,6 +61,11 @@
       "Time": "2023-09-20T17:05:12.9211855+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T01:46:19.6281175+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T16:07:15.5883282+00:00",
@@ -87,17 +92,17 @@
       "ID": "UNS_BIG_WIN",
       "SetID": "322abb1",
       "Name": "Big Win",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNS_CATCH_ME",
       "SetID": "322abb1",
       "Name": "Catch me if you can",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UNS_CLUTCH",
@@ -135,7 +140,7 @@
       "ID": "UNS_HA_HA",
       "SetID": "322abb1",
       "Name": "Ha-Ha!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -167,7 +172,7 @@
       "ID": "UNS_MISSION_IMPOSSIBLE",
       "SetID": "322abb1",
       "Name": "Mission Impossible",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "UNS_NIGHT_VISION",
       "SetID": "322abb1",
       "Name": "Night vision",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -199,15 +204,15 @@
       "ID": "UNS_OUT_AREA",
       "SetID": "322abb1",
       "Name": "Out of my area",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UNS_ROBOT_CLEANER",
       "SetID": "322abb1",
       "Name": "Robot cleaner",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -215,7 +220,7 @@
       "ID": "UNS_SHORT_AND_SWEET",
       "SetID": "322abb1",
       "Name": "Short and Sweet",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -231,7 +236,7 @@
       "ID": "UNS_SKYNET_WINS",
       "SetID": "322abb1",
       "Name": "Skynet Wins",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -239,17 +244,17 @@
       "ID": "UNS_SNEAKY_WINS",
       "SetID": "322abb1",
       "Name": "Sneaky Exit",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UNS_TEACHER_PET",
       "SetID": "322abb1",
       "Name": "Teacher\u0027s pet",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UNS_TRIPLE_PUNCH",
@@ -263,16 +268,16 @@
       "ID": "UNS_UNDER_THE_SPOT",
       "SetID": "322abb1",
       "Name": "Under the spotlights",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "322abb1",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
@@ -280,8 +285,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.2382786+00:00",
   "FirstSeenAchievements": "2023-07-03T15:05:05.5856649+00:00",
   "LastChanged": "2023-03-31T05:58:41.2382787+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:04:45.5975827+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:46:19.628117+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:18.8578995+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:58:29.4249319+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:04:45.5976023+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:39:42.9909178+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:46:19.6281308+00:00"
 }

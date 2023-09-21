@@ -6,23 +6,23 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,569 |
-| Ready for Winter | 64.00% | ~2,192 |
-| Ready for Summer | 52.00% | ~1,781 |
-| Cordon Bleu | 44.00% | ~1,507 |
-| Tapped! | 37.00% | ~1,267 |
-| Eureka | 32.00% | ~1,096 |
-| Scourge Slayer | 26.00% | ~890 |
-| Science, Troglodyte! | 24.00% | ~822 |
+| Venture Outward | 75.00% | ~2,571 |
+| Ready for Winter | 64.00% | ~2,194 |
+| Ready for Summer | 52.00% | ~1,783 |
+| Cordon Bleu | 43.00% | ~1,474 |
+| Tapped! | 37.00% | ~1,268 |
+| Eureka | 32.00% | ~1,097 |
+| Scourge Slayer | 26.00% | ~891 |
+| Science, Troglodyte! | 24.00% | ~823 |
 | Exceptional Skill | 23.00% | ~788 |
 | Home Sweet Home | 22.00% | ~754 |
-| Encyclopedic! | 20.00% | ~685 |
-| The Power of Family | 17.00% | ~582 |
+| Encyclopedic! | 20.00% | ~686 |
+| The Power of Family | 17.00% | ~583 |
 | A Fortress Toppled! | 16.00% | ~548 |
 | Apex Predator | 16.00% | ~548 |
 | Strange amalgams | 12.00% | ~411 |
 | The Power of Faith | 12.00% | ~411 |
-| The Power of Freedom | 10.00% | ~342 |
+| The Power of Freedom | 10.00% | ~343 |
 | Ace Detective | 8.00% | ~274 |
 | Gift from the Ancestors | 8.00% | ~274 |
 | Magic is a science | 8.00% | ~274 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~137 |
 | Light of Levant | 3.00% | ~103 |
 | This was a mistake... | 3.00% | ~103 |
-| Crowd Pleaser. | 2.00% | ~68 |
-| Perfect Defense | 2.00% | ~68 |
-| Power! To! The People! | 2.00% | ~68 |
-| Your actions define you | 2.00% | ~68 |
+| Crowd Pleaser. | 2.00% | ~69 |
+| Perfect Defense | 2.00% | ~69 |
+| Power! To! The People! | 2.00% | ~69 |
+| Your actions define you | 2.00% | ~69 |
 | The blood is life | 1.00% | ~34 |
 | They'll Tell Stories About This | 1.00% | ~34 |
 | Vanquisher of nightmares | 1.00% | ~34 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,425 (Ranked 169)  
+Progressed: 3,428 (Ranked 169)  
 Completed: 4 (0.12%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 4 (0.12%) (Ranked 216)
 | 2023-09-18 | 3,406 | 4 |
 | 2023-09-19 | 3,413 | 4 |
 | 2023-09-20 | 3,423 | 4 |
-| 2023-09-21 | 3,425 | 4 |
+| 2023-09-21 | 3,428 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 447)  
 Sum: 244 (Ranked 360)  

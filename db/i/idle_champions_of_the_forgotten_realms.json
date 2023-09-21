@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6722,10 +6722,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31661,
       "NumberOfAwardsMax": 5296
+    },
+    {
+      "Time": "2023-09-21T01:39:59.5520148+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31662,
+      "NumberOfAwardsMax": 5296
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31661,
+  "NumberOfAwards": 31662,
   "NumberOfAwardsMax": 5296,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6763,7 +6769,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4126
+      "Count": 4127
     },
     {
       "Text": "This game has Playful Visuals",
@@ -6772,10 +6778,10 @@
       "Count": 3424
     }
   ],
-  "EOS_Progressed": 229500,
+  "EOS_Progressed": 229504,
   "EOS_Completed": 2295,
-  "EOS_NewPlayers": 824,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 817,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23792,6 +23798,11 @@
       "Time": "2023-09-21T00:03:33.0373026+00:00",
       "NumProgressed": 229500,
       "NumCompleted": 2295
+    },
+    {
+      "Time": "2023-09-21T01:45:07.2426614+00:00",
+      "NumProgressed": 229504,
+      "NumCompleted": 2295
     }
   ],
   "TotalAchievements": 524,
@@ -23817,9 +23828,9 @@
       "ID": "objective_completed_100",
       "SetID": "cc37lbc",
       "Name": "Pros and CONs",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_101",
@@ -23865,9 +23876,9 @@
       "ID": "objective_completed_1046",
       "SetID": "415jc5c",
       "Name": "And Your Enemies Closer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1050",
@@ -23929,9 +23940,9 @@
       "ID": "objective_completed_1058",
       "SetID": "415jc5c",
       "Name": "A Familiar Behind Us",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1060",
@@ -24009,9 +24020,9 @@
       "ID": "objective_completed_1071",
       "SetID": "415jc5c",
       "Name": "Always Watching",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1075",
@@ -24065,9 +24076,9 @@
       "ID": "objective_completed_1083",
       "SetID": "415jc5c",
       "Name": "Where the Magic Happens",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1085",
@@ -24177,9 +24188,9 @@
       "ID": "objective_completed_110",
       "SetID": "cc37lbc",
       "Name": "Wet Feet",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_1100",
@@ -24201,9 +24212,9 @@
       "ID": "objective_completed_1102",
       "SetID": "415jc5c",
       "Name": "Underdark Chill",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1105",
@@ -24321,9 +24332,9 @@
       "ID": "objective_completed_1133",
       "SetID": "415jc5c",
       "Name": "All Damage, All The Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1134",
@@ -24529,9 +24540,9 @@
       "ID": "objective_completed_1170",
       "SetID": "415jc5c",
       "Name": "More Than Well Equipped",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1173",
@@ -24553,17 +24564,17 @@
       "ID": "objective_completed_1175",
       "SetID": "415jc5c",
       "Name": "Keep Your Distance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1178",
       "SetID": "415jc5c",
       "Name": "Heatwave",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1179",
@@ -24649,9 +24660,9 @@
       "ID": "objective_completed_1198",
       "SetID": "415jc5c",
       "Name": "Get Back In The Castle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1199",
@@ -24833,9 +24844,9 @@
       "ID": "objective_completed_1331",
       "SetID": "415jc5c",
       "Name": "The Play\u0027s the Thing!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_1335",
@@ -25385,9 +25396,9 @@
       "ID": "objective_completed_268",
       "SetID": "cc37lbc",
       "Name": "Visions of Strahd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_269",
@@ -25745,9 +25756,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_410",
@@ -25889,9 +25900,9 @@
       "ID": "objective_completed_430",
       "SetID": "cc37lbc",
       "Name": "Modrons in the Mud",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_431",
@@ -25929,9 +25940,9 @@
       "ID": "objective_completed_436",
       "SetID": "415jc5c",
       "Name": "A Familiar Friend",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_5",
@@ -26041,9 +26052,9 @@
       "ID": "objective_completed_552",
       "SetID": "cc37lbc",
       "Name": "Feigned Weakness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_553",
@@ -26121,9 +26132,9 @@
       "ID": "objective_completed_563",
       "SetID": "415jc5c",
       "Name": "Evergreens with an Evergreen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_565",
@@ -26313,9 +26324,9 @@
       "ID": "objective_completed_592",
       "SetID": "415jc5c",
       "Name": "Temporal Rift in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_595",
@@ -26457,9 +26468,9 @@
       "ID": "objective_completed_613",
       "SetID": "415jc5c",
       "Name": "Nightmare Mode",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_615",
@@ -26521,9 +26532,9 @@
       "ID": "objective_completed_622",
       "SetID": "415jc5c",
       "Name": "Misty Undermountain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_623",
@@ -26593,9 +26604,9 @@
       "ID": "objective_completed_633",
       "SetID": "415jc5c",
       "Name": "Hearts Aflame",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_635",
@@ -26689,9 +26700,9 @@
       "ID": "objective_completed_648",
       "SetID": "415jc5c",
       "Name": "An Even Worse Time in Avernus",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_655",
@@ -26857,9 +26868,9 @@
       "ID": "objective_completed_686",
       "SetID": "415jc5c",
       "Name": "Prisoners of Lolth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_687",
@@ -27057,9 +27068,9 @@
       "ID": "objective_completed_805",
       "SetID": "415jc5c",
       "Name": "Ten in Ten-Towns",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_807",
@@ -27145,9 +27156,9 @@
       "ID": "objective_completed_819",
       "SetID": "415jc5c",
       "Name": "Rickety Rubble",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_82",
@@ -27401,9 +27412,9 @@
       "ID": "objective_completed_869",
       "SetID": "415jc5c",
       "Name": "The Stunning Tower Battle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_872",
@@ -27433,9 +27444,9 @@
       "ID": "objective_completed_878",
       "SetID": "415jc5c",
       "Name": "Demons Here, Demons There",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_879",
@@ -27697,9 +27708,9 @@
       "ID": "objective_completed_97",
       "SetID": "cc37lbc",
       "Name": "Overwhelming Force",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_completed_99",
@@ -27994,21 +28005,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195774,
-      "Completed": 3445
+      "Progressed": 195778,
+      "Completed": 3446
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229500,
+      "Progressed": 229504,
       "Completed": 2295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-20T20:00:11.1991766+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:03:33.0373021+00:00",
+  "LastChanged": "2023-09-21T01:39:59.5520146+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:45:07.242661+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:58:45.4390339+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:03:33.0401304+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:39:59.5520152+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:45:07.245138+00:00"
 }

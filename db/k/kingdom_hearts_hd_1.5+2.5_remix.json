@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -6786,11 +6786,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 5232,
       "NumberOfAwardsMax": 687
+    },
+    {
+      "Time": "2023-09-21T01:41:16.2808865+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 5245,
+      "NumberOfAwardsMax": 691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5232,
-  "NumberOfAwardsMax": 687,
+  "NumberOfAwards": 5245,
+  "NumberOfAwardsMax": 691,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6815,7 +6821,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 687
+      "Count": 691
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6839,7 +6845,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 620
+      "Count": 626
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6851,7 +6857,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 628
+      "Count": 631
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6877,8 +6883,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-09-20T12:01:20.8917404+00:00",
+  "LastChanged": "2023-09-21T01:41:16.2808864+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0999472+00:00",
-  "LastUpdate_Ratings": "2023-09-21T00:00:00.383871+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:03:35.4144975+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:41:16.2808869+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:45:09.3553387+00:00"
 }

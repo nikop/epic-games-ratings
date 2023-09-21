@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -3061,9 +3061,9 @@
       "ID": "LEVEL_019",
       "SetID": "3khpmem",
       "Name": "Aiming for a living and human city",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_020",
@@ -3102,8 +3102,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:07:18.4749794+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:49:17.3464152+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:02.2718006+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:57:11.3601399+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:07:18.4750192+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:38:24.732197+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:49:17.3464893+00:00"
 }

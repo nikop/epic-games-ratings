@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3620,
+  "EOS_Progressed": 3621,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3804,6 +3804,11 @@
       "Time": "2023-09-20T23:06:42.4378508+00:00",
       "NumProgressed": 3620,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-21T01:49:03.9167432+00:00",
+      "NumProgressed": 3621,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3951,7 +3956,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "campaign20",
@@ -3967,7 +3972,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "campaign4",
@@ -4007,7 +4012,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "campaign9",
@@ -4078,7 +4083,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3620,
+      "Progressed": 3621,
       "Completed": 11
     }
   ],
@@ -4086,8 +4091,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:07:05.0759307+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:49:03.9167427+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:57:25.4150667+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:07:05.0759862+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:38:37.9528922+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:49:03.9167795+00:00"
 }

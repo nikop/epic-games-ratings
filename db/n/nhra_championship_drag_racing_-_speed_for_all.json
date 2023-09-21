@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 815,
+  "EOS_Progressed": 816,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -728,6 +728,11 @@
       "Time": "2023-09-20T20:07:53.8022185+00:00",
       "NumProgressed": 815,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T01:47:21.4680201+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -739,7 +744,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "11",
@@ -771,7 +776,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "15",
@@ -835,7 +840,7 @@
       "Name": "Participation trophy",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "22",
@@ -987,7 +992,7 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "9",
@@ -995,14 +1000,14 @@
       "Name": "Oops, My bad",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 815,
+      "Progressed": 816,
       "Completed": 0
     }
   ],
@@ -1010,8 +1015,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:05:52.0191992+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:47:21.4680196+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:43.2955592+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:59:21.1419715+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:05:52.0192313+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:40:38.1022559+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:47:21.4680433+00:00"
 }

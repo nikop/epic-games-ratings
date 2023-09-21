@@ -2,7 +2,7 @@
   "ID": "4470ce6748c74c708af72cf4535efca6",
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
-  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 109,
@@ -396,9 +396,9 @@
       "ID": "28",
       "SetID": "5e3maia",
       "Name": "Leader",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "29",
@@ -500,9 +500,9 @@
       "ID": "41",
       "SetID": "5e3maia",
       "Name": "Drugmaker",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "42",
@@ -787,8 +787,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:05:55.7237677+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:47:25.1302166+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:57:32.5333729+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:05:55.7238418+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:38:45.4636187+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:47:25.1302727+00:00"
 }

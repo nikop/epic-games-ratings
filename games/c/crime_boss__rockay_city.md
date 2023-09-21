@@ -10,10 +10,10 @@ Rating: 3.93 (Ranked 963)
 | Neophyte Ninja | 0.40% | ~352 |
 | Too Old for This | 0.40% | ~352 |
 | Underworld Initiate | 0.30% | ~264 |
+| Roid Ranger | 0.30% | ~264 |
 | Fancy Pants | 0.30% | ~264 |
 | Off the Rocks | 0.30% | ~264 |
 | Rockay Rex | 0.30% | ~264 |
-| Roid Ranger | 0.20% | ~176 |
 | Hidden Sonata | 0.20% | ~176 |
 | Track Star | 0.20% | ~176 |
 | Headhunter | 0.20% | ~176 |
@@ -47,7 +47,7 @@ Rating: 3.93 (Ranked 963)
 | One for All | 0.10% | ~16 |
 | Now You See Me | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,944 (Ranked 77)  
+Progressed: 87,946 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 46 (0.05%) (Ranked 243)
 | 2023-09-18 | 87,735 | 46 |
 | 2023-09-19 | 87,822 | 46 |
 | 2023-09-20 | 87,943 | 46 |
-| 2023-09-21 | 87,944 | 46 |
+| 2023-09-21 | 87,946 | 46 |
 ## Awards
 Max (Diverse Characters): 446  (Ranked 208)  
 Sum: 2,140 (Ranked 198)  

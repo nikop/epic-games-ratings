@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 179,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.06,
+  "EOS_Completed_Percentage": 5.03,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -839,6 +839,11 @@
       "Time": "2023-09-21T00:08:11.6475499+00:00",
       "NumProgressed": 178,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-21T01:49:30.3516461+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 25,
@@ -864,9 +869,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -874,7 +879,7 @@
       "Name": "Cable guy",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "META_FIRST_LINK",
@@ -882,15 +887,15 @@
       "Name": "A good beginning",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "META_RESULT_1-2",
@@ -936,9 +941,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -946,7 +951,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -986,7 +991,7 @@
       "Name": "Champollion",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1034,7 +1039,7 @@
       "Name": "The darkness",
       "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "PROGRESS_N5",
@@ -1049,14 +1054,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 179,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:08:11.6475491+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:49:30.3516456+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:59:44.8654868+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:08:11.6475739+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:41:01.5000964+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:49:30.3516639+00:00"
 }

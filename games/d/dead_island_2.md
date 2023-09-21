@@ -1,26 +1,26 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 503)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,667 |
-| Git Gutte! | 2.00% | ~13,667 |
-| Bookworm | 2.00% | ~13,667 |
-| Break A Leg | 2.00% | ~13,667 |
-| But Doctor, I am Butcho | 2.00% | ~13,667 |
-| Can't Handle the Truth | 2.00% | ~13,667 |
-| Coup de Grâce | 2.00% | ~13,667 |
-| Like Riding a Bike | 2.00% | ~13,667 |
-| Hazardous Materials | 2.00% | ~13,667 |
-| Friends Like These | 2.00% | ~13,667 |
-| Hotel California | 2.00% | ~13,667 |
-| Apex Predator | 2.00% | ~13,667 |
-| Stacking the Deck | 2.00% | ~13,667 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,667 |
-| This is My Weapon | 2.00% | ~13,667 |
-| Welcome To Hell-A | 2.00% | ~13,667 |
+| Dr. Reed, I Presume? | 2.00% | ~13,668 |
+| Git Gutte! | 2.00% | ~13,668 |
+| Bookworm | 2.00% | ~13,668 |
+| Break A Leg | 2.00% | ~13,668 |
+| But Doctor, I am Butcho | 2.00% | ~13,668 |
+| Can't Handle the Truth | 2.00% | ~13,668 |
+| Coup de Grâce | 2.00% | ~13,668 |
+| Like Riding a Bike | 2.00% | ~13,668 |
+| Hazardous Materials | 2.00% | ~13,668 |
+| Friends Like These | 2.00% | ~13,668 |
+| Hotel California | 2.00% | ~13,668 |
+| Apex Predator | 2.00% | ~13,668 |
+| Stacking the Deck | 2.00% | ~13,668 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,668 |
+| This is My Weapon | 2.00% | ~13,668 |
+| Welcome To Hell-A | 2.00% | ~13,668 |
 | Making Your Mark | 1.00% | ~6,834 |
 | Anger Management | 1.00% | ~6,834 |
 | Perks of the Job | 1.00% | ~6,834 |
@@ -40,9 +40,9 @@ Rating: 4.54 (Ranked 503)
 | Jumbo Keyring | 0.60% | ~4,100 |
 | Not Even My Final Form | 0.50% | ~3,417 |
 | Internet Famous | 0.50% | ~3,417 |
-| Make it So | 0.40% | ~2,733 |
-| On Safari | 0.40% | ~2,733 |
-| Variety is the Spice of Death | 0.40% | ~2,733 |
+| Make it So | 0.40% | ~2,734 |
+| On Safari | 0.40% | ~2,734 |
+| Variety is the Spice of Death | 0.40% | ~2,734 |
 | LA Influential | 0.30% | ~2,050 |
 | Sole Survivor | 0.30% | ~2,050 |
 | Gore Horse | 0.30% | ~2,050 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~683 |
 | Bucket List | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,360 (Ranked 22)  
-Completed: 2,156 (0.32%) (Ranked 179)  
+Progressed: 683,380 (Ranked 22)  
+Completed: 2,157 (0.32%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,15 +205,15 @@ Completed: 2,156 (0.32%) (Ranked 179)
 | 2023-09-18 | 682,392 | 2,153 |
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
-| 2023-09-21 | 683,360 | 2,156 |
+| 2023-09-21 | 683,380 | 2,157 |
 ## Awards
 Max (Great Boss Battles): 6,126  (Ranked 57)  
-Sum: 9,094 (Ranked 93)  
+Sum: 9,096 (Ranked 93)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,126 |
-| This game is Great for Beginners | 420 |
+| This game is Great for Beginners | 422 |
 | This game has Diverse Characters | 412 |
 | This game has Quickly Understood Controls | 396 |
 | This game is Relaxing | 381 |
@@ -377,3 +377,4 @@ Diff (max vs sum): -36
 | 2023-09-18 | 4.54 | 6,105 | 9,051 |
 | 2023-09-19 | 4.54 | 6,115 | 9,071 |
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
+| 2023-09-21 | 4.54 | 6,126 | 9,096 |

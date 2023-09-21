@@ -1,7 +1,7 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 503)  
+Rating: 4.54 (Ranked 504)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,18 +11,18 @@ Number of Ratings: 2,731  (23.09.2022)
 | Prop-M Rover | 32.00% | ~24,447 |
 | Changing the Planet | 28.00% | ~21,391 |
 | Sojourner | 26.00% | ~19,863 |
-| Beagle 2 | 24.00% | ~18,335 |
-| New Home | 23.00% | ~17,571 |
-| Winner Winner Terraformer | 22.00% | ~16,807 |
-| Project Manager | 19.00% | ~14,515 |
-| Curiosity | 19.00% | ~14,515 |
-| Collector | 19.00% | ~14,515 |
-| Master | 19.00% | ~14,515 |
-| No Longer Red | 18.00% | ~13,751 |
-| Self-sufficient | 18.00% | ~13,751 |
-| Money money | 15.00% | ~11,459 |
-| Biggest Reward | 14.00% | ~10,695 |
-| Acquired knowledge | 13.00% | ~9,931 |
+| Beagle 2 | 24.00% | ~18,336 |
+| New Home | 23.00% | ~17,572 |
+| Winner Winner Terraformer | 22.00% | ~16,808 |
+| Project Manager | 19.00% | ~14,516 |
+| Curiosity | 19.00% | ~14,516 |
+| Collector | 19.00% | ~14,516 |
+| Master | 19.00% | ~14,516 |
+| No Longer Red | 18.00% | ~13,752 |
+| Self-sufficient | 18.00% | ~13,752 |
+| Money money | 15.00% | ~11,460 |
+| Biggest Reward | 14.00% | ~10,696 |
+| Acquired knowledge | 13.00% | ~9,932 |
 | First Journey | 12.00% | ~9,168 |
 | Hellenic Elysium | 12.00% | ~9,168 |
 | Grand champion | 12.00% | ~9,168 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,292 |
 | Opportunity | 3.00% | ~2,292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,396 (Ranked 81)  
+Progressed: 76,398 (Ranked 81)  
 Completed: 132 (0.17%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 132 (0.17%) (Ranked 204)
 | 2023-09-18 | 76,212 | 129 |
 | 2023-09-19 | 76,305 | 131 |
 | 2023-09-20 | 76,395 | 132 |
-| 2023-09-21 | 76,396 | 132 |
+| 2023-09-21 | 76,398 | 132 |
 ## Awards
 Max (Relaxing): 514  (Ranked 199)  
 Sum: 3,166 (Ranked 165)  

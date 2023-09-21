@@ -19,6 +19,8 @@
 | Master of the Skies | 78.00% | ~7 |
 | Man-Machine Master | 78.00% | ~7 |
 | Hidden History | 78.00% | ~7 |
+| Jack of All Trades | 78.00% | ~7 |
+| Team Hunter | 78.00% | ~7 |
 | Helpful Heart | 78.00% | ~7 |
 | Charmed by the Hunt | 78.00% | ~7 |
 | Threaded Harmony | 78.00% | ~7 |
@@ -28,8 +30,6 @@
 | Counter Specialist | 67.00% | ~6 |
 | Left Arm Leverager | 67.00% | ~6 |
 | Relentless Kemono Hunter | 67.00% | ~6 |
-| Jack of All Trades | 67.00% | ~6 |
-| Team Hunter | 67.00% | ~6 |
 | Subsistence Skills | 56.00% | ~5 |
 | Volatile Vocation | 56.00% | ~5 |
 | Vanquisher of the Volatile | 56.00% | ~5 |
@@ -47,13 +47,13 @@
 | Canyon of Karakuri | 44.00% | ~4 |
 | Karakuri Fortress | 44.00% | ~4 |
 | Kemono at Heart | 44.00% | ~4 |
-| Big Spender | 33.00% | ~3 |
+| Big Spender | 44.00% | ~4 |
 | Quintessence of Form | 33.00% | ~3 |
 | Tender Touch | 22.00% | ~2 |
 | Tsukumo Whisperer | 22.00% | ~2 |
 | Bewitched by Bathing | 11.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 491)  
+Progressed: 9 (Ranked 493)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

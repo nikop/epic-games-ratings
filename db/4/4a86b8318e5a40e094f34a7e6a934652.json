@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -698,17 +698,17 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -753,8 +753,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:07:08.5634379+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:49:07.4803338+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:57:58.9979166+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:07:08.5634583+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:39:11.3402261+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:49:07.4803477+00:00"
 }

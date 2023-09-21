@@ -6,9 +6,9 @@
   "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -472,11 +472,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7937,
-  "EOS_Completed": 50,
-  "EOS_NewPlayers": 242,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Progressed": 7938,
+  "EOS_Completed": 51,
+  "EOS_NewPlayers": 243,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -8752,6 +8752,11 @@
       "Time": "2023-09-20T23:03:23.7185939+00:00",
       "NumProgressed": 7937,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-21T01:44:56.6018151+00:00",
+      "NumProgressed": 7938,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 29,
@@ -8763,7 +8768,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "ACH02",
@@ -8835,7 +8840,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH11",
@@ -8875,7 +8880,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH16",
@@ -8947,7 +8952,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH25",
@@ -8977,9 +8982,9 @@
       "ID": "ACH28",
       "SetID": "552d41m",
       "Name": "Is That All You\u0027ve Got?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH29",
@@ -8994,16 +8999,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7937,
-      "Completed": 50
+      "Progressed": 7938,
+      "Completed": 51
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-17T18:58:19.8654024+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:03:22.7064084+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:44:56.6018145+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:58:40.9296666+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:03:22.7064925+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:39:54.6563152+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:44:56.6018678+00:00"
 }

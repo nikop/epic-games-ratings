@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3752,9 +3752,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11370,
+  "EOS_Progressed": 11371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12657,6 +12657,11 @@
       "Time": "2023-09-20T22:03:23.4755075+00:00",
       "NumProgressed": 11370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-21T01:44:59.0700635+00:00",
+      "NumProgressed": 11371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12796,7 +12801,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "18_MythicChoices",
@@ -12876,7 +12881,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "29_StrategicVictory",
@@ -13012,7 +13017,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "46_AllPathsOpen",
@@ -13020,7 +13025,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13595,21 +13600,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10152,
+      "Progressed": 10153,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11370,
+      "Progressed": 11371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-19T19:58:32.748951+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:03:25.0775631+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:44:59.0700631+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.4694151+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:58:48.709497+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:03:25.0777709+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:40:03.1906631+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:44:59.070245+00:00"
 }

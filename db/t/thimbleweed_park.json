@@ -4,10 +4,10 @@
   "ProductSlug": "thimbleweed-park",
   "Ranking_Rating": 450,
   "Ranking_Popularity": 464,
-  "Ranking_PopularitySum": 482,
+  "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2017-03-30T15:00:00+00:00",
@@ -354,6 +354,6 @@
   "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
   "LastChanged": "2023-09-09T14:02:23.4887451+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:33.9357961+00:00",
-  "LastUpdate_Ratings": "2023-09-21T00:00:13.7005934+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:05:56.4031863+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:41:28.8236841+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:47:25.7826235+00:00"
 }

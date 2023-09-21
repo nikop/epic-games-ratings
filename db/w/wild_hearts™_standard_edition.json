@@ -2,9 +2,9 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "ID": "achievement_39",
       "SetID": "2cpn27e",
       "Name": "Big Spender",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_4",
@@ -347,9 +347,9 @@
       "ID": "achievement_40",
       "SetID": "2cpn27e",
       "Name": "Jack of All Trades",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_41",
@@ -371,9 +371,9 @@
       "ID": "achievement_43",
       "SetID": "2cpn27e",
       "Name": "Team Hunter",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_44",
@@ -465,8 +465,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-21T00:08:15.0165591+00:00",
+  "LastChanged_Achievements": "2023-09-21T01:50:03.6032841+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:21.8560394+00:00",
-  "LastUpdate_Ratings": "2023-09-20T23:58:34.9924553+00:00",
-  "LastUpdate_Achievements": "2023-09-21T00:08:15.0166051+00:00"
+  "LastUpdate_Ratings": "2023-09-21T01:39:48.5733204+00:00",
+  "LastUpdate_Achievements": "2023-09-21T01:50:03.6033224+00:00"
 }

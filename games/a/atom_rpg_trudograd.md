@@ -5,15 +5,15 @@ Rating: 4.53 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,054 |
+| Fresh Prince of Trudograd | 87.00% | ~1,055 |
 | Household | 7.00% | ~85 |
 | An Old Friend | 6.00% | ~73 |
 | Lot 49 | 5.00% | ~61 |
 | Viva La Revolution | 5.00% | ~61 |
-| Atomic Soda | 4.00% | ~48 |
-| Mysterious Knife | 4.00% | ~48 |
-| Shadow over Trudograd | 4.00% | ~48 |
-| Walking Fortress | 4.00% | ~48 |
+| Atomic Soda | 4.00% | ~49 |
+| Mysterious Knife | 4.00% | ~49 |
+| Shadow over Trudograd | 4.00% | ~49 |
+| Walking Fortress | 4.00% | ~49 |
 | Freelance Police | 3.00% | ~36 |
 | The Great and Powerful | 3.00% | ~36 |
 | Fight Club | 2.00% | ~24 |
@@ -38,7 +38,7 @@ Rating: 4.53 (Ranked 520)
 | Power of Simplicity | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,212 (Ranked 207)  
+Progressed: 1,213 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,10 +152,11 @@ Completed: 0 (0.00%) (Ranked 280)
 | 2023-09-16 | 1,207 | 0 |
 | 2023-09-17 | 1,209 | 0 |
 | 2023-09-18 | 1,212 | 0 |
+| 2023-09-21 | 1,213 | 0 |
 ## Awards
 Max (Character Customization): 25  (Ranked 487)  
-Sum: 25 (Ranked 495)  
-Diff (max vs sum): -8  
+Sum: 25 (Ranked 496)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 25 |
