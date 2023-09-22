@@ -972,9 +972,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225898,
+  "EOS_Progressed": 225909,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1725,
+  "EOS_NewPlayers": 1719,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11872,6 +11872,11 @@
       "Time": "2023-09-22T16:03:18.5835308+00:00",
       "NumProgressed": 225898,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-22T17:03:35.4739047+00:00",
+      "NumProgressed": 225909,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -12331,7 +12336,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70028
+      "UsersEstimate": 70032
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12491,7 +12496,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "QuestPriestess",
@@ -12586,21 +12591,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225898,
+      "Progressed": 225909,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225898,
+      "Progressed": 225909,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-21T20:00:13.8870562+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:03:18.5835301+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:03:35.4739032+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:01:34.2279217+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:03:18.5838457+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:00:57.8588532+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:03:35.474041+00:00"
 }

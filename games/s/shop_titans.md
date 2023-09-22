@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.60% | ~819 |
 | Magical Harmony | 0.60% | ~819 |
 | A Notch Above the Rest | 0.50% | ~683 |
+| Cream of the Crop | 0.50% | ~683 |
 | Tax not Included | 0.50% | ~683 |
 | The King's Caprice | 0.50% | ~683 |
 | Big Game Hunting | 0.50% | ~683 |
@@ -66,11 +67,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.50% | ~683 |
 | Seasoned Journeyman | 0.50% | ~683 |
 | Scourge of the Seas | 0.50% | ~683 |
+| Attrition Mission | 0.50% | ~683 |
 | Moment of Respite | 0.50% | ~683 |
 | Black Friday Special | 0.50% | ~683 |
 | Special Ingredient | 0.50% | ~683 |
 | Complete Monopoly | 0.50% | ~683 |
-| Cream of the Crop | 0.40% | ~546 |
 | Top of the World | 0.40% | ~546 |
 | Proud Paladin | 0.40% | ~546 |
 | Above the Norm | 0.40% | ~546 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.40% | ~546 |
 | Bountiful Harvest | 0.40% | ~546 |
 | Precision Engineering | 0.40% | ~546 |
-| Attrition Mission | 0.40% | ~546 |
 | Glittering Collection | 0.40% | ~546 |
 | Treasure Trove | 0.40% | ~546 |
 | King's Shadow | 0.40% | ~546 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,526 (Ranked 69)  
+Progressed: 136,530 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 153 (0.11%) (Ranked 227)
 | 2023-09-19 | 136,421 | 153 |
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
-| 2023-09-22 | 136,526 | 153 |
+| 2023-09-22 | 136,530 | 153 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 70)  
 Sum: 27,269 (Ranked 48)  

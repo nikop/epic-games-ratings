@@ -4,7 +4,7 @@
   "ProductSlug": "lichenvale-091943",
   "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -142,8 +142,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-19T10:02:19.9249451+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:09:33.3501555+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:09:26.6563952+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.5171243+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:01:32.8962765+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:09:33.3501715+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:00:57.0991262+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:09:26.6564028+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 661,
+  "EOS_Progressed": 662,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
@@ -1799,6 +1799,11 @@
       "Time": "2023-09-22T09:05:01.3442476+00:00",
       "NumProgressed": 661,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-09-22T17:04:54.2016357+00:00",
+      "NumProgressed": 662,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1819,7 +1824,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "_03_FinishAct1",
@@ -1835,7 +1840,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "_05_FinishAct2",
@@ -1851,7 +1856,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "_07_FinishAct3",
@@ -1867,7 +1872,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "_09_Completion_20",
@@ -1945,9 +1950,9 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 46
+      "UsersEstimate": 40
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -1963,7 +1968,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2018,7 +2023,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 661,
+      "Progressed": 662,
       "Completed": 17
     }
   ],
@@ -2026,8 +2031,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:05:00.6052399+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:04:54.2016352+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:01:28.2766669+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:05:00.60527+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:00:52.0285836+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:04:54.2016602+00:00"
 }

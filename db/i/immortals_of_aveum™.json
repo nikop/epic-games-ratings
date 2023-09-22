@@ -103,9 +103,9 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_11",
@@ -480,8 +480,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-12T10:00:20.9972583+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:04:43.4493218+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:04:39.3730677+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.6375227+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:00:43.9650519+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:04:43.4493771+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:00:13.2709721+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:04:39.373114+00:00"
 }

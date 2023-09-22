@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
+| Silver Victory (Carthage 1) | 0.30% | ~42 |
 | Carthage - Riches and Influence | 0.30% | ~42 |
 | Great Difficulty | 0.30% | ~42 |
 | Magnificent Difficulty | 0.30% | ~42 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patriarch St Paul | 0.30% | ~42 |
 | Hypatia the Teacher | 0.30% | ~42 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
-| Silver Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |

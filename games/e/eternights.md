@@ -20,7 +20,7 @@
 | Truebro | 18.00% | ~36 |
 | Min's Promise | 16.00% | ~32 |
 | Sia's Promise | 14.00% | ~28 |
-| Romantic | 13.00% | ~26 |
+| Romantic | 14.00% | ~28 |
 | TentacleMAN | 10.00% | ~20 |
 | Plushyboy | 5.00% | ~10 |
 | Yohan's Promise | 4.00% | ~8 |
@@ -30,7 +30,7 @@
 | Bond Lord | 0.50% | ~1 |
 | True Player | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201 (Ranked 328)  
+Progressed: 201 (Ranked 329)  
 Completed: 2 (1.00%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |

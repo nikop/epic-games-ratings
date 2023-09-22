@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~22,719 |
+| Wallbanger | 5.00% | ~22,720 |
 | Exploitative | 4.00% | ~18,176 |
 | Point Shooting | 4.00% | ~18,176 |
 | Wet Feet | 4.00% | ~18,176 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~454 |
 | Road Hazard | 0.10% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,389 (Ranked 38)  
+Progressed: 454,408 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,10 +197,10 @@ Completed: 2 (0.00%) (Ranked 287)
 | 2023-09-19 | 453,275 | 2 |
 | 2023-09-20 | 453,689 | 2 |
 | 2023-09-21 | 454,121 | 2 |
-| 2023-09-22 | 454,389 | 2 |
+| 2023-09-22 | 454,408 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 383  (Ranked 223)  
-Sum: 3,001 (Ranked 169)  
+Sum: 3,002 (Ranked 169)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -211,7 +211,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 328 |
 | This game has Realistic Visuals | 319 |
 | This game has Amazing Storytelling | 316 |
-| This game has Amazing Characters | 313 |
+| This game has Amazing Characters | 314 |
 | This game has a Competitive Community | 281 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -458,4 +458,4 @@ Diff (max vs sum): 54
 | 2023-09-19 | 4.62 | - | 380 | 2,992 |
 | 2023-09-20 | 4.62 | - | 382 | 2,996 |
 | 2023-09-21 | 4.62 | - | 382 | 2,999 |
-| 2023-09-22 | 4.62 | - | 383 | 3,001 |
+| 2023-09-22 | 4.62 | - | 383 | 3,002 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6333,
+  "EOS_Progressed": 6337,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2281,6 +2281,11 @@
       "Time": "2023-09-22T16:08:48.6052295+00:00",
       "NumProgressed": 6333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T17:08:08.4463036+00:00",
+      "NumProgressed": 6337,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2413,7 +2418,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "GamesPlayed10",
@@ -2557,7 +2562,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "InhibitorKills3",
@@ -2581,7 +2586,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "LaserUpgraded1",
@@ -2653,7 +2658,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "MaxTowersKilled3",
@@ -2677,7 +2682,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "MinionKills2000",
@@ -2701,7 +2706,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "NeutralKills200",
@@ -2717,15 +2722,15 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "PlayerKills10",
       "SetID": "12d07c7",
       "Name": "10 Eliminations",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 634
     },
     {
       "ID": "PlayerKills100",
@@ -2789,7 +2794,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "SEUpgraded1",
@@ -2821,7 +2826,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -2877,21 +2882,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6333,
+      "Progressed": 6337,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:08:48.6052289+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:08:08.4463028+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:58:57.6944713+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:08:48.6053465+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:58:49.1431751+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:08:08.4463761+00:00"
 }

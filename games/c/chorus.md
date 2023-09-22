@@ -1,12 +1,12 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.47 (Ranked 614)  
+Rating: 4.47 (Ranked 615)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,007 |
+| Another Life | 85.00% | ~1,019 |
 | Voices from the Past | 78.00% | ~935 |
 | Space Traveler | 78.00% | ~935 |
 | Demigod | 75.00% | ~899 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 10.00% | ~120 |
 | At Least You Tried | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,199 (Ranked 216)  
+Progressed: 1,199 (Ranked 217)  
 Completed: 15 (1.25%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |

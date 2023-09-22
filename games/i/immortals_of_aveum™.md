@@ -11,12 +11,12 @@ Rating: 3.97 (Ranked 959)
 | No More Names | 67.00% | ~2 |
 | Enlisted | 67.00% | ~2 |
 | Initiate | 67.00% | ~2 |
+| Control is an Illusion | 33.00% | ~1 |
 | Soldier | 33.00% | ~1 |
 | Thrada-Kul | 33.00% | ~1 |
 | Gravity-Challenged Rocks | 33.00% | ~1 |
 | All the Major Food Groups | 33.00% | ~1 |
 | Beggars Would Ride | 33.00% | ~1 |
-| Control is an Illusion | 0.00% | ~0 |
 | The Means to Save It | 0.00% | ~0 |
 | Resilience to Sin | 0.00% | ~0 |
 | A Familiar Nest | 0.00% | ~0 |

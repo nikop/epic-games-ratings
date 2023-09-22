@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -664,10 +664,10 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 10215,
+  "EOS_Progressed": 10218,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 286,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 285,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
@@ -10129,6 +10129,11 @@
       "Time": "2023-09-22T16:04:49.4341274+00:00",
       "NumProgressed": 10215,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-09-22T17:04:44.7494028+00:00",
+      "NumProgressed": 10218,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 34,
@@ -10148,7 +10153,7 @@
       "Name": "Running Rampant",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH03",
@@ -10180,7 +10185,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH07",
@@ -10188,7 +10193,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH08",
@@ -10204,7 +10209,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH10",
@@ -10236,7 +10241,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH14",
@@ -10244,7 +10249,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4292
     },
     {
       "ID": "ACH15",
@@ -10252,7 +10257,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH16",
@@ -10268,7 +10273,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH18",
@@ -10284,7 +10289,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH20",
@@ -10300,7 +10305,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4699
+      "UsersEstimate": 4700
     },
     {
       "ID": "ACH22",
@@ -10308,7 +10313,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "ACH23",
@@ -10324,7 +10329,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH25",
@@ -10332,7 +10337,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH26",
@@ -10340,7 +10345,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH27",
@@ -10372,7 +10377,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH31",
@@ -10411,7 +10416,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10215,
+      "Progressed": 10218,
       "Completed": 57
     }
   ],
@@ -10419,8 +10424,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-22T04:00:26.0954843+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:04:49.4341269+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:04:44.7494023+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:01:39.6558002+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:04:49.434219+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:01:01.7835304+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:04:44.7494698+00:00"
 }

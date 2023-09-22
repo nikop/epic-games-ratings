@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6184,9 +6184,9 @@
       "Count": 3747
     }
   ],
-  "EOS_Progressed": 136526,
+  "EOS_Progressed": 136530,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22109,6 +22109,11 @@
       "Time": "2023-09-22T16:05:26.5684661+00:00",
       "NumProgressed": 136526,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-22T17:05:16.6767883+00:00",
+      "NumProgressed": 136530,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22142,9 +22147,9 @@
       "ID": "advlevel04",
       "SetID": "anfd17p",
       "Name": "Cream of the Crop",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 683
     },
     {
       "ID": "advlevel05",
@@ -22838,9 +22843,9 @@
       "ID": "quest02",
       "SetID": "anfd17p",
       "Name": "Attrition Mission",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 683
     },
     {
       "ID": "quest03",
@@ -23015,15 +23020,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136526,
+      "Progressed": 136530,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-22T11:01:00.5048023+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:05:26.5684655+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:05:16.6767877+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:01:16.5689517+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:05:26.5687311+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:00:40.8276305+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:05:16.6769748+00:00"
 }

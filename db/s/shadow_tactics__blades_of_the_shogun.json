@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1621,9 +1621,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 203658,
+  "EOS_Progressed": 203663,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 1404,
+  "EOS_NewPlayers": 1399,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19111,6 +19111,11 @@
       "Time": "2023-09-22T16:09:45.7968163+00:00",
       "NumProgressed": 203658,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-09-22T17:09:37.7555582+00:00",
+      "NumProgressed": 203663,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 44,
@@ -19146,7 +19151,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "CompleteMastery",
@@ -19178,7 +19183,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "GearUp",
@@ -19186,7 +19191,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8146
+      "UsersEstimate": 8147
     },
     {
       "ID": "Genin",
@@ -19194,7 +19199,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22402
+      "UsersEstimate": 22403
     },
     {
       "ID": "HappyLittleAccidents",
@@ -19202,7 +19207,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8146
+      "UsersEstimate": 8147
     },
     {
       "ID": "HappyPlanning",
@@ -19210,7 +19215,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "HighFiveTheMoon",
@@ -19274,7 +19279,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "NoGimmicks",
@@ -19354,7 +19359,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8146
+      "UsersEstimate": 8147
     },
     {
       "ID": "Stoned",
@@ -19442,7 +19447,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -19473,15 +19478,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 203658,
+      "Progressed": 203663,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-22T09:01:40.7789844+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:09:45.7968156+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:09:37.7555577+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.289608+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:02:26.9908408+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:09:45.7970717+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:01:42.9041967+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:09:37.7556804+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 547,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 54,
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232259,
+  "EOS_Progressed": 232261,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16638,6 +16638,11 @@
       "Time": "2023-09-22T16:07:50.1654862+00:00",
       "NumProgressed": 232259,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-22T17:07:18.3433163+00:00",
+      "NumProgressed": 232261,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16681,7 +16686,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25548
+      "UsersEstimate": 25549
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -16785,7 +16790,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76645
+      "UsersEstimate": 76646
     },
     {
       "ID": "NOBUNAGA",
@@ -16913,22 +16918,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95226
+      "UsersEstimate": 95227
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232259,
+      "Progressed": 232261,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:07:50.1654854+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:07:18.3433158+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.1224951+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:01:30.6166077+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:07:50.1657112+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:00:54.7630768+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:07:18.3434093+00:00"
 }

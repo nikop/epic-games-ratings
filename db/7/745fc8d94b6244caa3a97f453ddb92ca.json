@@ -4,7 +4,7 @@
   "ProductSlug": "project-nightmares-dcc54b",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -116,6 +116,11 @@
       "Time": "2023-09-14T19:06:29.2797823+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T17:04:15.1504858+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T08:05:18.6201734+00:00",
@@ -190,7 +195,7 @@
       "ID": "ACH_PIECEOFCAKE",
       "SetID": "9675gi1",
       "Name": "A piece of cake",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -198,7 +203,7 @@
       "ID": "ACH_PUZZLEMASTER",
       "SetID": "9675gi1",
       "Name": "Puzzle Master",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -270,7 +275,7 @@
       "ID": "ST_PLAGUE",
       "SetID": "9675gi1",
       "Name": "Plague Control",
-      "Percentage": 67,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -287,14 +292,14 @@
     {
       "ID": "9675gi1",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:04:14.6767577+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:04:15.1504855+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:52.0133927+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:58:16.3422089+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:04:14.6767734+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:58:13.0984849+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:04:15.1504972+00:00"
 }

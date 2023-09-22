@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
@@ -1296,6 +1296,11 @@
       "Time": "2023-09-22T10:03:51.7620772+00:00",
       "NumProgressed": 425,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-22T17:04:18.4284166+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 11,
@@ -1323,7 +1328,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "LEVEL_006",
@@ -1345,9 +1350,9 @@
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_019",
@@ -1371,7 +1376,7 @@
       "Name": "Townhouse",
       "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_026",
@@ -1394,14 +1399,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:04:18.3792956+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:04:18.428416+00:00",
   "LastUpdate_AppInfo": "2023-09-18T22:57:19.1798454+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:59:43.3265071+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:04:18.379314+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:59:23.1409788+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:04:18.4284301+00:00"
 }

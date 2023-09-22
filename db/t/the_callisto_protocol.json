@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1198,7 +1198,7 @@
   ],
   "EOS_Progressed": 15958,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7325,9 +7325,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 638
     },
     {
       "ID": "STORY_TOWER",
@@ -7476,8 +7476,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-22T12:00:29.265171+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:08:57.1249155+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:08:16.1474622+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.1512746+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:01:20.8989204+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:08:57.1250476+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:00:44.8320976+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:08:16.1475207+00:00"
 }

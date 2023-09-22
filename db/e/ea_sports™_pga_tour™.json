@@ -386,9 +386,9 @@
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_13",
@@ -512,8 +512,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-22T16:09:44.3307008+00:00",
+  "LastChanged_Achievements": "2023-09-22T17:09:36.5231579+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.8902845+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:58:03.8328904+00:00",
-  "LastUpdate_Achievements": "2023-09-22T16:09:44.3307256+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:58:02.3000487+00:00",
+  "LastUpdate_Achievements": "2023-09-22T17:09:36.52317+00:00"
 }
