@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Bud Spencer and Terence Hill - Slaps and Beans 2](games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 2023-09-22 | 33 (1,000 XP) | 0 | - | - |
-| [Shuyan Saga](games/b/b42e2970da034c8183ab6e24a87f6d86.md) | 2023-09-22 | - |  | - | - |
 | [Battle of Guardians](games/8/8acd1f98795f45b5bb8c16556e1fc7ae.md) | 2023-09-22 | - |  | - | - |
 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2023-09-22 | 17 (1,000 XP) | 6 | - | - |
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-09-23 | 21 (1,000 XP) | 1 | - | - |
@@ -16,7 +14,7 @@
 | [Afterdream](games/3/35a8b1e4591b4348a302b12ba5d9ff9b.md) | 2023-09-28 | - |  | - | - |
 | [Diluvian Ultra](games/d/diluvian_ultra.md) | 2023-09-28 | - |  | - | - |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 3 | - | - |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 5,931 | - | - |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 6,563 | - | - |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-09-30 | - |  | - | - |
 | [Beacon's Bluff](games/1/1ca6e9728fe7438baed142359fbb70ed.md) | 2023-09-30 | - |  | - | - |
@@ -215,7 +213,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 6,456 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 6,677 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -315,6 +313,7 @@
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2099-01-01 | - |  | - | - |
 | [Dwarf Delve](games/c/cabbe55543164097b412696d626120af.md) | 2099-01-01 | - |  | - | - |
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | 2099-01-01 | - |  | - | - |
+| [Edward's Journey](games/5/5714d34c31374f07ae1f8dce31168650.md) | 2099-01-01 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2099-01-01 | - |  | - | - |
 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 2099-01-01 | 22 (1,000 XP) | 0 | - | - |
 | [Eternal Damnation](games/f/f804fcc3063f467699936dbd544d9e9a.md) | 2099-01-01 | - |  | - | - |
@@ -490,7 +489,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,228 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,231 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
