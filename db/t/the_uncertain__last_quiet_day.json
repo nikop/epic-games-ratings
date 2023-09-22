@@ -2,10 +2,10 @@
   "ID": "2295b951b8f84e86b950bfaf7cadef60",
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -713,9 +713,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 281
+      "UsersEstimate": 287
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -825,9 +825,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 281
+      "UsersEstimate": 287
     },
     {
       "ID": "SILENT",
@@ -890,8 +890,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:08:11.6566483+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:06:26.8743069+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.4921608+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:01:54.9265599+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:08:11.6566796+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:00:21.9552298+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:06:26.8743367+00:00"
 }

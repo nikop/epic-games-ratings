@@ -3,9 +3,9 @@
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -332,8 +332,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:05:18.546081+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:04:26.7119365+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:29.5048719+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:02:34.4065973+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:05:18.5461008+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:00:45.6042822+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:04:26.7119517+00:00"
 }

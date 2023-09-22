@@ -29,8 +29,8 @@ Rating: 4.33 (Ranked 776)
 | Someone to Protect | 0.90% | ~10 |
 | Lean on Me | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,111 (Ranked 216)  
-Completed: 1 (0.09%) (Ranked 231)  
+Progressed: 1,111 (Ranked 218)  
+Completed: 1 (0.09%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

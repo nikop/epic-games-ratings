@@ -6,17 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~33,119 |
-| To The Nines | 41.00% | ~29,519 |
-| Optimized | 36.00% | ~25,919 |
-| Performance Review | 36.00% | ~25,919 |
-| Making a Name | 34.00% | ~24,479 |
-| Tune Up | 33.00% | ~23,759 |
-| Landlord | 32.00% | ~23,039 |
-| The Side Job | 31.00% | ~22,319 |
-| Wet Work | 31.00% | ~22,319 |
-| Wrecking Ball | 27.00% | ~19,439 |
-| Food for Thought | 27.00% | ~19,439 |
+| First F#@!ing Day | 46.00% | ~33,120 |
+| To The Nines | 41.00% | ~29,520 |
+| Optimized | 36.00% | ~25,920 |
+| Performance Review | 36.00% | ~25,920 |
+| Making a Name | 34.00% | ~24,480 |
+| Tune Up | 33.00% | ~23,760 |
+| Landlord | 32.00% | ~23,040 |
+| The Side Job | 31.00% | ~22,320 |
+| Wet Work | 31.00% | ~22,320 |
+| Wrecking Ball | 27.00% | ~19,440 |
+| Food for Thought | 27.00% | ~19,440 |
 | Finders Keepers | 25.00% | ~18,000 |
 | A Young Empire | 25.00% | ~18,000 |
 | Work Ethic | 23.00% | ~16,560 |
@@ -35,7 +35,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Challenge Accepted | 7.00% | ~5,040 |
 | A Golden Age | 7.00% | ~5,040 |
 | Closet Space | 7.00% | ~5,040 |
-| Producer Credit | 7.00% | ~3,054 |
+| Producer Credit | 7.00% | ~3,055 |
 | Face Off | 6.00% | ~2,618 |
 | The Professional | 5.00% | ~3,600 |
 | Chaos Tamer | 5.00% | ~3,600 |
@@ -60,8 +60,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~144 |
 | Fiesta Time | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,998 (Ranked 84)  
-Completed: 48 (0.07%) (Ranked 237)  
+Progressed: 72,001 (Ranked 84)  
+Completed: 48 (0.07%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 48 (0.07%) (Ranked 237)
 | 2023-09-19 | 71,631 | 48 |
 | 2023-09-20 | 71,791 | 48 |
 | 2023-09-21 | 71,970 | 48 |
-| 2023-09-22 | 71,998 | 48 |
+| 2023-09-22 | 72,001 | 48 |
 ## Awards
 Max (Extremely Fun): 1,067  (Ranked 141)  
 Sum: 8,645 (Ranked 97)  

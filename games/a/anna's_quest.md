@@ -23,8 +23,8 @@
 | Little genius | 41.00% | ~18 |
 | NOW GO AWAY! | 41.00% | ~18 |
 | Sorry Grandpa | 41.00% | ~18 |
+| No posters allowed | 39.00% | ~17 |
 | GG | 36.00% | ~16 |
-| No posters allowed | 36.00% | ~16 |
 | Close the deal | 34.00% | ~15 |
 | You've got mail! | 34.00% | ~15 |
 | Beekeeper | 34.00% | ~15 |

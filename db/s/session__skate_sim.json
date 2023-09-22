@@ -6,9 +6,9 @@
   "Ranking_Popularity": 400,
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -946,9 +946,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2896,
+  "EOS_Progressed": 2897,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4756,6 +4756,11 @@
       "Time": "2023-09-22T04:08:17.1781682+00:00",
       "NumProgressed": 2896,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T06:06:59.6683845+00:00",
+      "NumProgressed": 2897,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4767,7 +4772,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_BING-BONG",
@@ -4871,7 +4876,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -5150,15 +5155,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2896,
+      "Progressed": 2897,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-21T16:01:25.2247737+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:08:58.9167322+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:06:59.6683835+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:01:55.5030761+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:08:58.9168193+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:00:22.3407996+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:06:59.6684516+00:00"
 }

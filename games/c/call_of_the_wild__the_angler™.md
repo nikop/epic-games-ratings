@@ -6,19 +6,19 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,619 |
-| Hey Good Hookin | 69.00% | ~4,034 |
+| Fish Just Got Reel | 79.00% | ~4,620 |
+| Hey Good Hookin | 69.00% | ~4,035 |
 | I'm on a Boat! | 59.00% | ~3,450 |
 | Can you smell what the Rod is Hooking | 55.00% | ~3,216 |
 | Scaling up | 55.00% | ~3,216 |
-| More Fish in the Sea | 49.00% | ~2,865 |
+| More Fish in the Sea | 49.00% | ~2,866 |
 | Ready to Rod and Roll | 46.00% | ~2,690 |
-| Fish Out of Water | 35.00% | ~2,046 |
+| Fish Out of Water | 35.00% | ~2,047 |
 | License to Gill | 33.00% | ~1,930 |
 | Things that go Splash in the Night | 31.00% | ~1,813 |
 | Goldfish? | 29.00% | ~1,696 |
 | Going for Gold | 26.00% | ~1,520 |
-| I'm Hooked! | 20.00% | ~1,169 |
+| I'm Hooked! | 20.00% | ~1,170 |
 | Diamond in the Rough | 13.00% | ~760 |
 | More than a Tourist | 11.00% | ~643 |
 | School's Out for Summer | 10.00% | ~585 |
@@ -42,8 +42,8 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,847 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 284)  
+Progressed: 5,848 (Ranked 151)  
+Completed: 0 (0.00%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,13 +197,14 @@ Completed: 0 (0.00%) (Ranked 284)
 | 2023-09-19 | 5,830 | 0 |
 | 2023-09-20 | 5,841 | 0 |
 | 2023-09-21 | 5,847 | 0 |
+| 2023-09-22 | 5,848 | 0 |
 ## Awards
-Max (Relaxing): 35  (Ranked 447)  
-Sum: 175 (Ranked 388)  
-Diff (max vs sum): 59  
+Max (Relaxing): 36  (Ranked 444)  
+Sum: 176 (Ranked 389)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 35 |
+| This game is Relaxing | 36 |
 | This game has Amazing Storytelling | 32 |
 | This game is Highly Recommended | 31 |
 | This game is Great for Beginners | 29 |
@@ -282,3 +283,4 @@ Diff (max vs sum): 59
 | 2023-09-19 | 4.16 | - | 34 | 173 |
 | 2023-09-20 | 4.16 | - | 35 | 174 |
 | 2023-09-21 | 4.16 | - | 35 | 175 |
+| 2023-09-22 | 4.16 | - | 36 | 176 |

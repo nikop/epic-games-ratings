@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.50% | ~683 |
 | Trash to Treasure | 0.50% | ~683 |
 | Mammonite | 0.50% | ~683 |
+| Wealth Beyond Measure | 0.50% | ~683 |
 | Fat Cat Tag Team | 0.50% | ~683 |
 | Miracle Alchemist | 0.50% | ~683 |
 | Laden with Loot | 0.50% | ~683 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.40% | ~546 |
 | Fit for a King | 0.40% | ~546 |
 | By Your Powers Combined... | 0.40% | ~546 |
-| Wealth Beyond Measure | 0.40% | ~546 |
 | Necromancer Queen | 0.40% | ~546 |
 | Item of Renown | 0.40% | ~546 |
 | Master Merchant | 0.40% | ~546 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,501 (Ranked 69)  
-Completed: 153 (0.11%) (Ranked 225)  
+Progressed: 136,502 (Ranked 69)  
+Completed: 153 (0.11%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 153 (0.11%) (Ranked 225)
 | 2023-09-19 | 136,421 | 153 |
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
-| 2023-09-22 | 136,501 | 153 |
+| 2023-09-22 | 136,502 | 153 |
 ## Awards
 Max (Great for Beginners): 4,748  (Ranked 70)  
 Sum: 27,266 (Ranked 48)  

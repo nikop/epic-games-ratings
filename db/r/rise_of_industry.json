@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 18,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 736214,
+  "EOS_Progressed": 736218,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2232,
+  "EOS_NewPlayers": 2228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17686,6 +17686,11 @@
       "Time": "2023-09-22T05:07:45.893157+00:00",
       "NumProgressed": 736214,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-22T06:06:08.9569781+00:00",
+      "NumProgressed": 736218,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 27,
@@ -17761,7 +17766,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 272399
+      "UsersEstimate": 272401
     },
     {
       "ID": "ach_demolish_trees",
@@ -17769,7 +17774,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 125156
+      "UsersEstimate": 125157
     },
     {
       "ID": "ach_free_cam_mode",
@@ -17825,7 +17830,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 353383
+      "UsersEstimate": 353385
     },
     {
       "ID": "ach_produced",
@@ -17841,7 +17846,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 117794
+      "UsersEstimate": 117795
     },
     {
       "ID": "ach_raise_money",
@@ -17849,7 +17854,7 @@
       "Name": "Billionaire",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "ach_sell_tier3_product",
@@ -17857,7 +17862,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ach_sell_to_state",
@@ -17912,7 +17917,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 736214,
+      "Progressed": 736218,
       "Completed": 3
     }
   ],
@@ -17920,8 +17925,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-09-10T12:00:55.773679+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:07:45.8931565+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:06:08.9569774+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:01.4209619+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:01:50.1221409+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:07:45.8933995+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:00:19.0310003+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:06:08.9570894+00:00"
 }

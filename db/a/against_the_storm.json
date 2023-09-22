@@ -6,9 +6,9 @@
   "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2936,9 +2936,9 @@
       "Count": 320
     }
   ],
-  "EOS_Progressed": 16674,
+  "EOS_Progressed": 16675,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10891,6 +10891,11 @@
       "Time": "2023-09-22T02:20:34.8444308+00:00",
       "NumProgressed": 16674,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-22T06:04:27.3038586+00:00",
+      "NumProgressed": 16675,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 50,
@@ -10902,7 +10907,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "AllFood",
@@ -10974,7 +10979,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Win5Years",
@@ -11054,7 +11059,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "WinNearFertile",
@@ -11070,7 +11075,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "WinNearForbidden",
@@ -11078,7 +11083,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "WinNearHaunted",
@@ -11142,7 +11147,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "WinNearTorrent",
@@ -11262,7 +11267,7 @@
       "Name": "Like a Machine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -11286,7 +11291,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Year1Dangerous",
@@ -11294,22 +11299,22 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16674,
+      "Progressed": 16675,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-21T21:58:08.2469356+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:05:19.6273772+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:04:27.3038579+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:07.8255237+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:58:40.2806934+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:05:19.6274844+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:58:10.184415+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:04:27.3039681+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 77,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
@@ -3624,9 +3624,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88031,
+  "EOS_Progressed": 88032,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19649,6 +19649,11 @@
       "Time": "2023-09-22T05:03:21.1147777+00:00",
       "NumProgressed": 88031,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-22T06:03:19.1188152+00:00",
+      "NumProgressed": 88032,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19922,9 +19927,9 @@
       "ID": "ACH_0451",
       "SetID": "3kam13l",
       "Name": "Raider\u2019s Ruin",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_0452",
@@ -19987,13 +19992,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88031,
+      "Progressed": 88032,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16378,
+      "Progressed": 16379,
       "Completed": 15525
     }
   ],
@@ -20001,8 +20006,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-22T02:13:03.2680714+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:03:21.1147772+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:03:19.1188143+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:57:31.5182893+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:03:21.11495+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:57:22.0492623+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:03:19.1190747+00:00"
 }

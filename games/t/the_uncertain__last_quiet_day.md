@@ -7,9 +7,9 @@
 | I can do a thing or two | 61.00% | ~330 |
 | Quick charge | 60.00% | ~325 |
 | Buckle up | 59.00% | ~319 |
+| Hands up! | 53.00% | ~287 |
 | Now you know | 53.00% | ~287 |
-| Hands up! | 52.00% | ~281 |
-| Short circuit | 52.00% | ~281 |
+| Short circuit | 53.00% | ~287 |
 | Curious | 42.00% | ~227 |
 | Everybody lies | 36.00% | ~195 |
 | Trick or Treat? | 23.00% | ~124 |
@@ -37,7 +37,7 @@
 | Accurate | 4.00% | ~22 |
 | Silent | 4.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541 (Ranked 256)  
+Progressed: 541 (Ranked 257)  
 Completed: 16 (2.96%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |

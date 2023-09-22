@@ -5,10 +5,10 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1838,9 +1838,9 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 231
     },
     {
       "ID": "AC22",
@@ -2047,8 +2047,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:05:09.5157054+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:04:20.4017649+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:59:04.1091395+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:05:09.5157593+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:58:30.7297394+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:04:20.4018365+00:00"
 }

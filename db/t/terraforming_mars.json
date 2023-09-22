@@ -2,11 +2,11 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -2782,9 +2782,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 76494,
+  "EOS_Progressed": 76495,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19807,6 +19807,11 @@
       "Time": "2023-09-22T05:05:20.5594175+00:00",
       "NumProgressed": 76494,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-09-22T06:04:27.9525321+00:00",
+      "NumProgressed": 76495,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 30,
@@ -19882,7 +19887,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6884
+      "UsersEstimate": 6885
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -19906,7 +19911,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 21418
+      "UsersEstimate": 21419
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -19922,7 +19927,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7649
+      "UsersEstimate": 7650
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -19954,7 +19959,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 19888
+      "UsersEstimate": 19889
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -20026,7 +20031,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7649
+      "UsersEstimate": 7650
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -20057,15 +20062,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 76494,
+      "Progressed": 76495,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-21T21:59:02.9674478+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:05:20.5594168+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:04:27.9525316+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.6851624+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:59:43.4597641+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:05:20.5595983+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:58:54.9678609+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:04:27.9527276+00:00"
 }

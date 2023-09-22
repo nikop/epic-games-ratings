@@ -8,7 +8,7 @@ Rating: 3.52 (Ranked 991)
 | Ne Plus Ultra | 1.00% | ~17 |
 | I Like My Stakes Rare! | 1.00% | ~17 |
 | Blood Will Have Blood | 0.90% | ~16 |
-| Grounded | 0.80% | ~14 |
+| Grounded | 0.90% | ~16 |
 | Fly Fisher | 0.80% | ~14 |
 | Peek-a-boo | 0.70% | ~12 |
 | Throw The First Stone | 0.70% | ~12 |
@@ -73,7 +73,7 @@ Rating: 3.52 (Ranked 991)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,747 (Ranked 197)  
-Completed: 0 (0.00%) (Ranked 284)  
+Completed: 0 (0.00%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

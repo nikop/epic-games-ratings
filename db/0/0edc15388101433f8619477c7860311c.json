@@ -3,9 +3,9 @@
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 540,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -203,9 +203,9 @@
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WaitingForSalvation",
@@ -234,8 +234,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-09-22T05:04:29.8364347+00:00",
+  "LastChanged_Achievements": "2023-09-22T06:03:59.4892242+00:00",
   "LastUpdate_AppInfo": "2023-09-18T04:57:02.6952136+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:01:40.3137939+00:00",
-  "LastUpdate_Achievements": "2023-09-22T05:04:29.8364533+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:00:12.5489544+00:00",
+  "LastUpdate_Achievements": "2023-09-22T06:03:59.4892399+00:00"
 }
