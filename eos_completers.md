@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 95.21% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 95.18% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.41% |
@@ -35,8 +35,8 @@
 | 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.40% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
-| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.51% |
-| 37 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.50% |
+| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
+| 36 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.50% |
 | 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.39% |
 | 39 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 40 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.14% |
@@ -47,7 +47,7 @@
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.81% |
-| 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
+| 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 49 | [JARS](games/j/jars.md) | 5.33% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
@@ -129,8 +129,8 @@
 | 125 | [Sable](games/s/sable.md) | 1.01% |
 | 128 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 128 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
-| 128 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.00% |
-| 131 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 130 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.99% |
+| 130 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 132 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 133 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 134 | [Hades](games/h/hades.md) | 0.90% |
@@ -155,9 +155,9 @@
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 153 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
 | 155 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
-| 156 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.53% |
-| 157 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 157 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 156 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
+| 156 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 158 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.51% |
 | 159 | [It Takes Two](games/i/it_takes_two.md) | 0.49% |
 | 159 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.49% |
 | 161 | [Godlike Burger](games/g/godlike_burger.md) | 0.47% |
@@ -299,6 +299,7 @@
 | 283 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 0.00% |
 | 283 | [Arto](games/a/arto.md) | 0.00% |
 | 283 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | 0.00% |
+| 283 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 0.00% |
 | 283 | [Atari Mania](games/a/atari_mania.md) | 0.00% |
 | 283 | [ATOM RPG](games/a/atom_rpg.md) | 0.00% |
 | 283 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
