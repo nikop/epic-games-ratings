@@ -3,10 +3,10 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,724,047 | 4.29 | 810 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 549,565 | 4.49 | 584 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 306,247 | 4.68 | 244 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 229,999 | 4.68 | 244 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 230,517 | 4.68 | 244 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 202,272 | 4.19 | 877 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 178,734 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 148,700 | 4.51 | 547 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 148,769 | 4.51 | 547 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 117,051 | 4.69 | 219 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 79,531 | 4.62 | 350 |
 | 10 | [VALORANT](games/v/valorant.md) | 71,325 | 4.53 | 520 |
@@ -114,7 +114,7 @@
 | 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,896 | 4.90 | 7 |
 | 113 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,891 | 4.70 | 203 |
 | 114 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,801 | 4.56 | 468 |
-| 115 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,780 | 4.63 | 332 |
+| 115 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,784 | 4.63 | 332 |
 | 116 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,778 | 4.57 | 449 |
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,738 | 4.50 | 568 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,714 | 4.76 | 118 |

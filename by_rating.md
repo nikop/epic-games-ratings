@@ -253,7 +253,7 @@
 | 244 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,952 | 81 |
 | 244 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,279 | 78 |
 | 244 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 306,247 | 3 |
-| 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 229,999 | 4 |
+| 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 230,517 | 4 |
 | 244 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 523 |
 | 244 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 566 | 191 |
 | 244 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 686 | 174 |
@@ -346,7 +346,7 @@
 | 332 | [Returnal™](games/r/returnal™.md) | 4.63 | 77 | 371 |
 | 332 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 281 |
 | 332 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 237 |
-| 332 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,780 | 115 |
+| 332 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,784 | 115 |
 | 332 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 22 | 502 |
 | 332 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 68 | 384 |
 | 350 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.62 | 0 | 523 |
@@ -550,7 +550,7 @@
 | 547 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 796 | 160 |
 | 547 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,127 | 80 |
 | 547 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 523 |
-| 547 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 148,700 | 7 |
+| 547 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 148,769 | 7 |
 | 547 | [Far Cry](games/f/far_cry.md) | 4.51 | 0 | 523 |
 | 547 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 0 | 523 |
 | 547 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 149 | 302 |
