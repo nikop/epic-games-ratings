@@ -468,6 +468,7 @@
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
 | [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |
 | [Return to Grace](../games/c/c4061518e37f40119b54ce93456a8ecb.md) | 35 | 1,000 |
+| [Revans](../games/d/dc5c7673e02543d6b57e9579d970702f.md) | 64 | 1,000 |
 | [Reverie - Sweet As Edition](../games/r/reverie_-_sweet_as_edition.md) | 35 | 1,000 |
 | [Reyna Darkness](../games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 13 | 1,000 |
 | [RIDE 5](../games/r/ride_5.md) | 49 | 1,000 |
