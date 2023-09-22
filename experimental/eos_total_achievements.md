@@ -31,6 +31,7 @@
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |
 | [Sir Whoopass - Immortal Death](../games/s/sir_whoopass_-_immortal_death.md) | 82 | 1,000 |
 | [Delivery from the Pain](../games/d/delivery_from_the_pain.md) | 81 | 1,000 |
+| [Astrea Six Sided Oracles](../games/a/astrea_six_sided_oracles.md) | 80 | 1,000 |
 | [City of Gangsters](../games/c/city_of_gangsters.md) | 80 | 1,000 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
 | [Urbek City Builder](../games/u/urbek_city_builder.md) | 79 | 1,000 |
