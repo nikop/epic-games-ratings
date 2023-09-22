@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 94.64% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 94.51% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.41% |
@@ -53,9 +53,9 @@
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.94% |
-| 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
-| 55 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.75% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.74% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.77% |
+| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.74% |
+| 55 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.74% |
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 58 | [ZZT!](games/z/zzt!.md) | 4.34% |
 | 59 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
@@ -109,20 +109,20 @@
 | 107 | [Five Dates](games/f/five_dates.md) | 1.66% |
 | 108 | [Iron Danger](games/i/iron_danger.md) | 1.52% |
 | 109 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.50% |
-| 110 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.48% |
 | 110 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 112 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
+| 111 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.47% |
+| 111 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 113 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 114 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.41% |
-| 114 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.41% |
+| 115 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.40% |
 | 116 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 117 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.35% |
 | 118 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
 | 119 | [Chorus](games/c/chorus.md) | 1.25% |
 | 120 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 121 | [Infindustry](games/i/infindustry.md) | 1.15% |
-| 122 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.10% |
-| 123 | [Trifox](games/t/trifox.md) | 1.09% |
+| 122 | [Trifox](games/t/trifox.md) | 1.09% |
+| 123 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.08% |
 | 124 | [Adios](games/a/adios.md) | 1.04% |
 | 125 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
 | 125 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
@@ -149,17 +149,17 @@
 | 147 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 147 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 149 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
-| 150 | [It Takes Two](games/i/it_takes_two.md) | 0.59% |
 | 150 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
-| 152 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 153 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
-| 154 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
-| 154 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
-| 156 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 151 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 152 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
+| 153 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
+| 153 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
+| 155 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 155 | [It Takes Two](games/i/it_takes_two.md) | 0.55% |
 | 157 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
 | 158 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 158 | [Dead Space](games/d/dead_space.md) | 0.52% |
 | 158 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 160 | [Dead Space](games/d/dead_space.md) | 0.51% |
 | 161 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.49% |
 | 162 | [Godlike Burger](games/g/godlike_burger.md) | 0.47% |
 | 162 | [Them and Us](games/t/them_and_us.md) | 0.47% |
@@ -183,15 +183,15 @@
 | 179 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 182 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 183 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 183 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.31% |
 | 183 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.31% |
-| 187 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 187 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
-| 187 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 190 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 190 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 190 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 186 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 186 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
+| 186 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 189 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
+| 189 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 189 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.29% |
 | 193 | [Scrapnaut](games/s/scrapnaut.md) | 0.26% |
 | 194 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 194 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.25% |
@@ -630,4 +630,4 @@
 | 287 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 287 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 287 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,279 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,280 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
