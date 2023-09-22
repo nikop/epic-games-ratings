@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 54.00% | ~1,735 |
-| EXTRA BOOST | 43.00% | ~1,382 |
-| IT MAKES BOOM! | 43.00% | ~1,382 |
-| PRO | 35.00% | ~1,125 |
-| PROTECTED | 33.00% | ~1,060 |
-| A TIGER'S FEAR | 33.00% | ~1,060 |
-| AGGRESSIVE RACER | 33.00% | ~1,060 |
-| HERE ARE SOME BARE NECESSITIES | 32.00% | ~1,028 |
-| ACE SPEEDSTER | 25.00% | ~803 |
-| IT'S A LONG WAY TO THE TOP | 21.00% | ~675 |
-| MASTER | 18.00% | ~578 |
-| ACE BRAWLER | 17.00% | ~546 |
-| TRAINING HARD | 16.00% | ~514 |
-| ACE DEFENDER | 16.00% | ~514 |
-| FRIENDLY | 16.00% | ~514 |
-| BE OUR GUEST | 15.00% | ~482 |
-| DEFEAT OUR CHAMPION | 15.00% | ~482 |
-| LEGENDARY HERO | 15.00% | ~482 |
+| ROOKIE | 54.00% | ~1,737 |
+| EXTRA BOOST | 43.00% | ~1,383 |
+| IT MAKES BOOM! | 43.00% | ~1,383 |
+| PRO | 35.00% | ~1,126 |
+| PROTECTED | 33.00% | ~1,062 |
+| A TIGER'S FEAR | 33.00% | ~1,062 |
+| AGGRESSIVE RACER | 33.00% | ~1,062 |
+| HERE ARE SOME BARE NECESSITIES | 32.00% | ~1,029 |
+| ACE SPEEDSTER | 25.00% | ~804 |
+| IT'S A LONG WAY TO THE TOP | 21.00% | ~676 |
+| MASTER | 18.00% | ~579 |
+| ACE BRAWLER | 17.00% | ~547 |
+| TRAINING HARD | 16.00% | ~515 |
+| ACE DEFENDER | 16.00% | ~515 |
+| FRIENDLY | 16.00% | ~515 |
+| BE OUR GUEST | 15.00% | ~483 |
+| DEFEAT OUR CHAMPION | 15.00% | ~483 |
+| LEGENDARY HERO | 15.00% | ~483 |
 | RELEASE THE KRAKEN | 14.00% | ~450 |
 | PERFECTLY POISED | 13.00% | ~418 |
 | THE EYE OF THE HUNTER | 13.00% | ~418 |
@@ -29,8 +29,8 @@
 | EXPERIENCED CREW | 7.00% | ~225 |
 | FRAMED! | 7.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,213 (Ranked 176)  
-Completed: 187 (5.82%) (Ranked 47)  
+Progressed: 3,217 (Ranked 176)  
+Completed: 187 (5.81%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,4 +180,4 @@ Completed: 187 (5.82%) (Ranked 47)
 | 2023-09-19 | 3,189 | 178 |
 | 2023-09-20 | 3,198 | 181 |
 | 2023-09-21 | 3,212 | 187 |
-| 2023-09-22 | 3,213 | 187 |
+| 2023-09-22 | 3,217 | 187 |

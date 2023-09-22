@@ -33,7 +33,7 @@
 | Lord of the Wastes | 3.00% | ~11 |
 | Through Hell and Back | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353 (Ranked 285)  
+Progressed: 353 (Ranked 287)  
 Completed: 11 (3.12%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |

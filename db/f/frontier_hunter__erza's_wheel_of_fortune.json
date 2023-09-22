@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -862,8 +862,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:06:41.8059382+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:47:53.8398345+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:48.3232791+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:57:10.5112387+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:06:41.8059844+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:38:50.0037996+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:47:53.8398775+00:00"
 }

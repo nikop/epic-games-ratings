@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.10% | ~196 |
 | First Third Out | 0.10% | ~196 |
 | Second Third Out | 0.10% | ~196 |
+| Third Third Out | 0.10% | ~196 |
 | The Silken Swamp | 0.10% | ~230 |
 | Slack-jawed Lorna | 0.10% | ~196 |
 | I'm Sure I Saw It Move! | 0.10% | ~196 |
@@ -529,10 +530,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~196 |
 | The Arena of Blood | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
-| Third Third Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,612 (Ranked 57)  
-Completed: 2,297 (1.00%) (Ranked 129)  
+Progressed: 229,615 (Ranked 57)  
+Completed: 2,297 (1.00%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -686,15 +686,16 @@ Completed: 2,297 (1.00%) (Ranked 129)
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
 | 2023-09-21 | 229,612 | 2,297 |
+| 2023-09-22 | 229,615 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,301  (Ranked 67)  
-Sum: 31,676 (Ranked 39)  
+Sum: 31,678 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,301 |
 | This game is Great for Beginners | 5,280 |
-| This game has Quickly Understood Controls | 4,769 |
+| This game has Quickly Understood Controls | 4,771 |
 | This game is Relaxing | 4,655 |
 | This game has Amazing Characters | 4,127 |
 | This game is Highly Recommended | 4,116 |
@@ -941,3 +942,4 @@ Diff (max vs sum): 28
 | 2023-09-19 | 4.06 | - | 5,292 | 31,652 |
 | 2023-09-20 | 4.06 | - | 5,296 | 31,661 |
 | 2023-09-21 | 4.06 | - | 5,301 | 31,676 |
+| 2023-09-22 | 4.06 | - | 5,301 | 31,678 |

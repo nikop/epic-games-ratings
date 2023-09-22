@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,389 |
+| Genin | 11.00% | ~22,390 |
 | A thief's beginning | 10.00% | ~20,354 |
 | Thorough | 10.00% | ~20,354 |
-| Disguised | 8.00% | ~16,283 |
-| Rescue Takuma | 8.00% | ~16,283 |
-| Rollin' | 8.00% | ~16,283 |
-| Tanuki Time | 8.00% | ~16,283 |
+| Disguised | 8.00% | ~16,284 |
+| Rescue Takuma | 8.00% | ~16,284 |
+| Rollin' | 8.00% | ~16,284 |
+| Tanuki Time | 8.00% | ~16,284 |
 | Ice Ice Yuki | 7.00% | ~14,248 |
 | Jonin | 7.00% | ~14,248 |
 | Stoned Ox | 7.00% | ~14,248 |
 | Yabu | 7.00% | ~14,248 |
-| Chunin | 6.00% | ~12,212 |
-| Flying Rocks | 6.00% | ~12,212 |
-| Happy Planning | 6.00% | ~12,212 |
-| Mugen Unchained | 6.00% | ~12,212 |
-| Warzone | 6.00% | ~12,212 |
+| Chunin | 6.00% | ~12,213 |
+| Flying Rocks | 6.00% | ~12,213 |
+| Happy Planning | 6.00% | ~12,213 |
+| Mugen Unchained | 6.00% | ~12,213 |
+| Warzone | 6.00% | ~12,213 |
 | Okkoto | 5.00% | ~10,177 |
 | Prisoners | 5.00% | ~10,177 |
 | Too Early | 5.00% | ~10,177 |
-| Gear up | 4.00% | ~8,141 |
-| Happy little accidents | 4.00% | ~8,141 |
-| Still Rollin' | 4.00% | ~8,141 |
+| Gear up | 4.00% | ~8,142 |
+| Happy little accidents | 4.00% | ~8,142 |
+| Still Rollin' | 4.00% | ~8,142 |
 | Noboru | 3.00% | ~6,106 |
 | Stoned | 3.00% | ~6,106 |
 | The Old Way | 3.00% | ~6,106 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~204 |
 | Release the Kraken | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,536 (Ranked 62)  
+Progressed: 203,545 (Ranked 62)  
 Completed: 84 (0.04%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 84 (0.04%) (Ranked 249)
 | 2023-09-19 | 203,185 | 82 |
 | 2023-09-20 | 203,354 | 83 |
 | 2023-09-21 | 203,528 | 84 |
-| 2023-09-22 | 203,536 | 84 |
+| 2023-09-22 | 203,545 | 84 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,765 (Ranked 136)  

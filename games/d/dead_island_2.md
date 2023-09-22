@@ -38,8 +38,8 @@ Rating: 4.54 (Ranked 504)
 | Rising Star | 0.70% | ~4,787 |
 | Smorgasbord | 0.60% | ~4,103 |
 | Jumbo Keyring | 0.60% | ~4,103 |
-| Not Even My Final Form | 0.50% | ~3,419 |
-| Internet Famous | 0.50% | ~3,419 |
+| Not Even My Final Form | 0.50% | ~3,420 |
+| Internet Famous | 0.50% | ~3,420 |
 | Make it So | 0.40% | ~2,736 |
 | On Safari | 0.40% | ~2,736 |
 | Variety is the Spice of Death | 0.40% | ~2,736 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~684 |
 | Bucket List | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,886 (Ranked 22)  
+Progressed: 683,900 (Ranked 22)  
 Completed: 2,163 (0.32%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,10 +206,10 @@ Completed: 2,163 (0.32%) (Ranked 181)
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
 | 2023-09-21 | 683,869 | 2,163 |
-| 2023-09-22 | 683,886 | 2,163 |
+| 2023-09-22 | 683,900 | 2,163 |
 ## Awards
 Max (Great Boss Battles): 6,140  (Ranked 57)  
-Sum: 9,124 (Ranked 93)  
+Sum: 9,127 (Ranked 93)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): -36
 | This game is Great for Beginners | 422 |
 | This game has Diverse Characters | 415 |
 | This game has Quickly Understood Controls | 400 |
-| This game is Relaxing | 381 |
+| This game is Relaxing | 384 |
 | This game has Amazing Storytelling | 357 |
 | This game is Extremely Fun | 343 |
 | This game has Amazing Characters | 334 |
@@ -379,3 +379,4 @@ Diff (max vs sum): -36
 | 2023-09-19 | 4.54 | 6,115 | 9,071 |
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
+| 2023-09-22 | 4.54 | 6,140 | 9,127 |

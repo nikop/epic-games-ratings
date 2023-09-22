@@ -2208,9 +2208,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25945,
+  "EOS_Progressed": 25948,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13333,6 +13333,11 @@
       "Time": "2023-09-22T00:05:51.6144168+00:00",
       "NumProgressed": 25945,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-22T01:47:03.7537715+00:00",
+      "NumProgressed": 25948,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13646,9 +13651,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 182
     },
     {
       "ID": "Summoner",
@@ -13710,9 +13715,9 @@
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Ultimate_Defense",
@@ -13742,16 +13747,16 @@
       "ID": "Whoopsie",
       "SetID": "819popo",
       "Name": "Whoopsie",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25945,
+      "Progressed": 25948,
       "Completed": 58
     }
   ],
@@ -13759,8 +13764,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-21T23:02:02.7089678+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:05:51.6144163+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:47:03.7537711+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-22T00:00:17.6151446+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:05:51.6145821+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:44.2836777+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:47:03.7538796+00:00"
 }

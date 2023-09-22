@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1837,
+  "EOS_Progressed": 1838,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2013,6 +2013,11 @@
       "Time": "2023-09-20T15:08:49.3187837+00:00",
       "NumProgressed": 1837,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-22T01:48:24.85127+00:00",
+      "NumProgressed": 1838,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2048,7 +2053,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2176,7 +2181,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2272,7 +2277,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2288,7 +2293,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2296,7 +2301,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_REVENANT",
@@ -2312,7 +2317,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2328,7 +2333,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -2344,7 +2349,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -2408,7 +2413,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2447,15 +2452,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1837,
+      "Progressed": 1838,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-09-01T07:57:58.5447992+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:07:14.2215648+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:48:24.8512695+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:23.1180798+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:59:34.6291982+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:07:14.221631+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:02.1067459+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:48:24.8513269+00:00"
 }

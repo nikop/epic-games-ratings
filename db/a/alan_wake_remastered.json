@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65933,
+  "EOS_Progressed": 65934,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15447,6 +15447,11 @@
       "Time": "2023-09-22T00:04:54.9587506+00:00",
       "NumProgressed": 65933,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-22T01:46:07.5118971+00:00",
+      "NumProgressed": 65934,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15474,7 +15479,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16483
+      "UsersEstimate": 16484
     },
     {
       "ID": "04",
@@ -15730,7 +15735,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22417
+      "UsersEstimate": 22418
     },
     {
       "ID": "36",
@@ -15792,9 +15797,9 @@
       "ID": "43",
       "SetID": "212770e",
       "Name": "Paging Mr. Wake",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11868
+      "UsersEstimate": 12527
     },
     {
       "ID": "44",
@@ -15993,21 +15998,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65933,
+      "Progressed": 65934,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29401,
+      "Progressed": 29402,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:04:54.9587493+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:46:07.5118964+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:59:04.6113248+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:04:54.9589194+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:40:34.0204989+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:46:07.5120519+00:00"
 }

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1064,
+  "EOS_Progressed": 1065,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -3531,6 +3531,11 @@
       "Time": "2023-09-21T23:05:23.1726782+00:00",
       "NumProgressed": 1064,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T01:45:47.9320246+00:00",
+      "NumProgressed": 1065,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3542,7 +3547,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "adventurous_2",
@@ -3566,7 +3571,7 @@
       "Name": "Archmage 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "archmage_2",
@@ -4069,14 +4074,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1064,
+      "Progressed": 1065,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:04:35.5777463+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:45:47.9320241+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:16.2179467+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:57:48.6728019+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:04:35.5778329+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:39:23.7319503+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:45:47.9321104+00:00"
 }

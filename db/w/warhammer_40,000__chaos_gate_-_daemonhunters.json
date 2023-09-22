@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -726,9 +726,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3225,
+  "EOS_Progressed": 3226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3461,6 +3461,11 @@
       "Time": "2023-09-21T21:02:14.5100959+00:00",
       "NumProgressed": 3225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T01:44:18.8543678+00:00",
+      "NumProgressed": 3226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3560,7 +3565,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ExtractorSkullUses",
@@ -3568,7 +3573,7 @@
       "Name": "Surgical Excision",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -3736,7 +3741,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -3744,7 +3749,7 @@
       "Name": "Nemesis Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -3752,7 +3757,7 @@
       "Name": "Gunmaster",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MasterOfTheForge",
@@ -3840,7 +3845,7 @@
       "Name": "A Foul Creche",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -4015,21 +4020,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3225,
+      "Progressed": 3226,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3225,
+      "Progressed": 3226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-18T16:58:55.1300205+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:03:24.7375246+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:44:18.8543673+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.1620182+00:00",
-  "LastUpdate_Ratings": "2023-09-22T00:00:02.2724738+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:03:24.7376134+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:29.0201704+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:44:18.8544557+00:00"
 }

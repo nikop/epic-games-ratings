@@ -6,8 +6,8 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 57,
-  "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6752,10 +6752,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31676,
       "NumberOfAwardsMax": 5301
+    },
+    {
+      "Time": "2023-09-22T01:40:47.1269621+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31678,
+      "NumberOfAwardsMax": 5301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31676,
+  "NumberOfAwards": 31678,
   "NumberOfAwardsMax": 5301,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6775,7 +6781,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4769
+      "Count": 4771
     },
     {
       "Text": "This game is Relaxing",
@@ -6802,9 +6808,9 @@
       "Count": 3428
     }
   ],
-  "EOS_Progressed": 229612,
+  "EOS_Progressed": 229615,
   "EOS_Completed": 2297,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23937,6 +23943,11 @@
       "Time": "2023-09-21T23:05:10.2967995+00:00",
       "NumProgressed": 229612,
       "NumCompleted": 2297
+    },
+    {
+      "Time": "2023-09-22T01:45:38.9870697+00:00",
+      "NumProgressed": 229615,
+      "NumCompleted": 2297
     }
   ],
   "TotalAchievements": 524,
@@ -24242,9 +24253,9 @@
       "ID": "objective_completed_1088",
       "SetID": "415jc5c",
       "Name": "Third Third Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_completed_109",
@@ -28139,21 +28150,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195886,
-      "Completed": 3466
+      "Progressed": 195889,
+      "Completed": 3468
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229612,
+      "Progressed": 229615,
       "Completed": 2297
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-21T18:59:59.129782+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:04:26.1578258+00:00",
+  "LastChanged": "2023-09-22T01:40:47.1269618+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:45:38.9870692+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:11.8675709+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:59:19.7254946+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:04:26.1607506+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:40:47.126963+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:45:38.9897699+00:00"
 }

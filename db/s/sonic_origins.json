@@ -301,7 +301,7 @@
   ],
   "EOS_Progressed": 500,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 8.4,
   "EosHistory": [
@@ -2422,9 +2422,9 @@
       "ID": "ID_34_SONIC3K_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog 3 \u0026 Knuckles",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 185
     },
     {
       "ID": "ID_35_CLEAR_ALL_TITLE",
@@ -2446,8 +2446,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:04:26.749334+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:45:39.2600762+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:29.6550361+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:59:02.0223871+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:04:26.7493743+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:40:31.2451074+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:45:39.2601126+00:00"
 }

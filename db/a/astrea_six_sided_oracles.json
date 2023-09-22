@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -25,9 +25,651 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
+  "TotalAchievements": 80,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AnomalyControl",
+      "SetID": "1jeo1g7",
+      "Name": "Anomaly Control",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AnomalyDestroyer",
+      "SetID": "1jeo1g7",
+      "Name": "Anomaly Destroyer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AnomalyMaster",
+      "SetID": "1jeo1g7",
+      "Name": "Anomaly Master",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ApianChampionAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Apian Champion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ApianHeroAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Apian Hero",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ApianMasteryAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Apian Mastery",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AquarianChampionAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Aquarian Champion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AquarianHeroAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Aquarian Hero",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AquarianMasteryAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Aquarian Mastery",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ArchOracle",
+      "SetID": "1jeo1g7",
+      "Name": "Arch-Oracle",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Artificer",
+      "SetID": "1jeo1g7",
+      "Name": "Artificer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AstralAdventurer",
+      "SetID": "1jeo1g7",
+      "Name": "Astral Adventurer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AstralSeeker",
+      "SetID": "1jeo1g7",
+      "Name": "Astral Seeker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AstralTinkerer",
+      "SetID": "1jeo1g7",
+      "Name": "Astral Tinkerer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AstrariumofHolding",
+      "SetID": "1jeo1g7",
+      "Name": "Astrarium of Holding",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AstreasSaviors",
+      "SetID": "1jeo1g7",
+      "Name": "Astrea\u0027s Saviors",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AstriumSpecialist",
+      "SetID": "1jeo1g7",
+      "Name": "Astrium Specialist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Astromancer",
+      "SetID": "1jeo1g7",
+      "Name": "Astromancer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BehenianChampionAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Behenian Champion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BehenianHeroAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Behenian Hero",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BehenianMasteryAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Behenian Mastery",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BettingHigh",
+      "SetID": "1jeo1g7",
+      "Name": "Betting High",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BlazingPrince",
+      "SetID": "1jeo1g7",
+      "Name": "Blazing Prince",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BoundlessasOcean",
+      "SetID": "1jeo1g7",
+      "Name": "Boundless as Ocean",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Canttouchthis",
+      "SetID": "1jeo1g7",
+      "Name": "Can\u0027t touch this",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CriticalTwist",
+      "SetID": "1jeo1g7",
+      "Name": "Critical Twist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DenyingDestiny",
+      "SetID": "1jeo1g7",
+      "Name": "Denying Destiny",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DiceSpecialist",
+      "SetID": "1jeo1g7",
+      "Name": "Dice Specialist",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DicesmithingTime",
+      "SetID": "1jeo1g7",
+      "Name": "Dicesmithing Time!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EndlessTricks",
+      "SetID": "1jeo1g7",
+      "Name": "Endless Tricks",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EridanianChampionAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Eridanian Champion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EridanianHeroAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Eridanian Hero",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EridanianMasteryAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Eridanian Mastery",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FavoredbytheCosmos",
+      "SetID": "1jeo1g7",
+      "Name": "Favored by the Cosmos",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Gottatinkeremall",
+      "SetID": "1jeo1g7",
+      "Name": "Gotta tinker\u0027em all!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HeartGate",
+      "SetID": "1jeo1g7",
+      "Name": "Heart Gate",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HeavyPurger",
+      "SetID": "1jeo1g7",
+      "Name": "Heavy Purger",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IfIHadFailed",
+      "SetID": "1jeo1g7",
+      "Name": "If I Had Failed...",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LacertianChampionAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Lacertian Champion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LacertianHeroAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Lacertian Hero",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LacertianMasteryAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Lacertian Mastery",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LoyalPartner",
+      "SetID": "1jeo1g7",
+      "Name": "Loyal Partner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MechanicIntegration",
+      "SetID": "1jeo1g7",
+      "Name": "Mechanic Integration",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MechanicalBuddy",
+      "SetID": "1jeo1g7",
+      "Name": "Mechanical Buddy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MeissasSavior",
+      "SetID": "1jeo1g7",
+      "Name": "Meissa\u0027s Savior",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MindIlluminator",
+      "SetID": "1jeo1g7",
+      "Name": "Mind Illuminator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoctuanChampionAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Noctuan Champion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoctuanHeroAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Noctuan Hero",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoctuanMasteryAchievement",
+      "SetID": "1jeo1g7",
+      "Name": "Noctuan Mastery",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PlagueDoctor",
+      "SetID": "1jeo1g7",
+      "Name": "Plague Doctor",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PocketAstrarium",
+      "SetID": "1jeo1g7",
+      "Name": "Pocket Astrarium",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Prestidigitation",
+      "SetID": "1jeo1g7",
+      "Name": "Prestidigitation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PurificationAvatar",
+      "SetID": "1jeo1g7",
+      "Name": "Purification Avatar",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PurificationPioneer",
+      "SetID": "1jeo1g7",
+      "Name": "Purification Pioneer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ReflexiveMind",
+      "SetID": "1jeo1g7",
+      "Name": "Reflexive Mind",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RoyalChoir",
+      "SetID": "1jeo1g7",
+      "Name": "Royal Choir",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SadisticPlan",
+      "SetID": "1jeo1g7",
+      "Name": "Sadistic Plan",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SanctuaryGuardian",
+      "SetID": "1jeo1g7",
+      "Name": "Sanctuary Guardian",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sentinelphobic",
+      "SetID": "1jeo1g7",
+      "Name": "Sentinelphobic",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShardSpender",
+      "SetID": "1jeo1g7",
+      "Name": "Shard Spender",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SixSidedMastery",
+      "SetID": "1jeo1g7",
+      "Name": "Six-Sided Mastery",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Skeptical",
+      "SetID": "1jeo1g7",
+      "Name": "Skeptical",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StarKiller",
+      "SetID": "1jeo1g7",
+      "Name": "Star Killer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StellarDismantler",
+      "SetID": "1jeo1g7",
+      "Name": "Stellar Dismantler",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StellarHaste",
+      "SetID": "1jeo1g7",
+      "Name": "Stellar Haste",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheAbyssalTerror",
+      "SetID": "1jeo1g7",
+      "Name": "The Abyssal Terror",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheArdentPrince",
+      "SetID": "1jeo1g7",
+      "Name": "The Ardent Prince",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheChaosArtisan",
+      "SetID": "1jeo1g7",
+      "Name": "The Chaos Artisan",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheCorruptionGoddess",
+      "SetID": "1jeo1g7",
+      "Name": "The Corruption Goddess",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheDarkMoon",
+      "SetID": "1jeo1g7",
+      "Name": "The Dark Moon",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheDistortedSage",
+      "SetID": "1jeo1g7",
+      "Name": "The Distorted Sage",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheGoddesAvatar",
+      "SetID": "1jeo1g7",
+      "Name": "The Goddes Avatar",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheRagingSkies",
+      "SetID": "1jeo1g7",
+      "Name": "The Raging Skies",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Theworldgoesround",
+      "SetID": "1jeo1g7",
+      "Name": "The world goes round...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThisisFine",
+      "SetID": "1jeo1g7",
+      "Name": "This is Fine",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unbeatable",
+      "SetID": "1jeo1g7",
+      "Name": "Unbeatable",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UnepicHero",
+      "SetID": "1jeo1g7",
+      "Name": "Unepic Hero",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VirtuousWarrior",
+      "SetID": "1jeo1g7",
+      "Name": "Virtuous Warrior",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WaveBender",
+      "SetID": "1jeo1g7",
+      "Name": "Wave Bender",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WildsKeeper",
+      "SetID": "1jeo1g7",
+      "Name": "Wild\u0027s Keeper",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1jeo1g7",
@@ -37,8 +679,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:04:07.6606893+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:45:20.3577997+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:23.0883464+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:59:35.5077747+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:04:07.6606926+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:03.0571465+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:45:20.3613784+00:00"
 }

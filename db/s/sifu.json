@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6370,10 +6370,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11328,
       "NumberOfAwardsMax": 6556
+    },
+    {
+      "Time": "2023-09-22T01:41:58.532576+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11329,
+      "NumberOfAwardsMax": 6556
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11328,
+  "NumberOfAwards": 11329,
   "NumberOfAwardsMax": 6556,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6405,7 +6411,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 543
+      "Count": 544
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6450,10 +6456,10 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 715192,
-  "EOS_Completed": 12897,
+  "EOS_Progressed": 715193,
+  "EOS_Completed": 12898,
   "EOS_NewPlayers": 220,
-  "EOS_NewCompleters": 5,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -20660,6 +20666,11 @@
       "Time": "2023-09-21T22:07:57.0077272+00:00",
       "NumProgressed": 715192,
       "NumCompleted": 12897
+    },
+    {
+      "Time": "2023-09-22T01:48:16.5008373+00:00",
+      "NumProgressed": 715193,
+      "NumCompleted": 12898
     }
   ],
   "TotalAchievements": 60,
@@ -20773,9 +20784,9 @@
       "ID": "14_DeathlessBoss_Trophy",
       "SetID": "adcm20g",
       "Name": "Kill Nil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 715
+      "UsersEstimate": 1430
     },
     {
       "ID": "15_Detective_H1",
@@ -21150,21 +21161,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24493,
+      "Progressed": 24494,
       "Completed": 10646
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715192,
-      "Completed": 12897
+      "Progressed": 715193,
+      "Completed": 12898
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-21T13:07:22.52762+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:07:05.2609206+00:00",
+  "LastChanged": "2023-09-22T01:41:58.5325758+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:48:16.5008367+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.6713568+00:00",
-  "LastUpdate_Ratings": "2023-09-22T00:00:33.0337672+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:07:05.2610644+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:58.5325767+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:48:16.5009803+00:00"
 }

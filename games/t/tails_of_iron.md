@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 504)
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,921 (Ranked 193)  
-Completed: 8 (0.42%) (Ranked 166)  
+Completed: 8 (0.42%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

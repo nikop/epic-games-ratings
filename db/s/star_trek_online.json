@@ -4,10 +4,10 @@
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 652,
   "Ranking_Popularity": 188,
-  "Ranking_PopularitySum": 183,
+  "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-10-06T16:00:00+00:00",
@@ -2380,10 +2380,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 2407,
       "NumberOfAwardsMax": 585
+    },
+    {
+      "Time": "2023-09-22T01:42:02.6509047+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 2410,
+      "NumberOfAwardsMax": 585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2407,
+  "NumberOfAwards": 2410,
   "NumberOfAwardsMax": 585,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2397,7 +2403,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 215
+      "Count": 216
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2427,13 +2433,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 245
+      "Count": 246
     },
     {
       "Text": "This game has a Creative Community",
@@ -2465,8 +2471,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2023-09-20T20:02:02.1682484+00:00",
+  "LastChanged": "2023-09-22T01:42:02.6509045+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:24.3626153+00:00",
-  "LastUpdate_Ratings": "2023-09-22T00:00:36.6131199+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:07:21.9853618+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:42:02.6509055+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:48:32.7003055+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7864,18 +7864,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 43899,
       "NumberOfAwardsMax": 22886
+    },
+    {
+      "Time": "2023-09-22T01:40:20.0544255+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43929,
+      "NumberOfAwardsMax": 22916
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43899,
-  "NumberOfAwardsMax": 22886,
+  "NumberOfAwards": 43929,
+  "NumberOfAwardsMax": 22916,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 22886
+      "Count": 22916
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7944,9 +7950,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 297069,
+  "EOS_Progressed": 297071,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24649,6 +24655,11 @@
       "Time": "2023-09-22T00:05:46.9864883+00:00",
       "NumProgressed": 297069,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T01:46:59.0203425+00:00",
+      "NumProgressed": 297071,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24780,7 +24791,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35648
+      "UsersEstimate": 35649
     },
     {
       "ID": "PFA_24",
@@ -24828,7 +24839,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14853
+      "UsersEstimate": 14854
     },
     {
       "ID": "PFA_3",
@@ -24940,7 +24951,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14853
+      "UsersEstimate": 14854
     },
     {
       "ID": "PFA_42",
@@ -25019,16 +25030,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297069,
+      "Progressed": 297071,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-21T22:59:55.0910357+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:05:46.9864879+00:00",
+  "LastChanged": "2023-09-22T01:40:20.0544253+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:46:59.0203421+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:58:50.454254+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:05:46.9866287+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:40:20.0544259+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:46:59.0204822+00:00"
 }

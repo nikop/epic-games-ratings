@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -653,9 +653,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2904,
+  "EOS_Progressed": 2905,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1018,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5178,6 +5178,11 @@
       "Time": "2023-09-22T00:04:23.1609217+00:00",
       "NumProgressed": 2904,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T01:45:35.4683769+00:00",
+      "NumProgressed": 2905,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5212,9 +5217,9 @@
       "ID": "MF_Ach_DeathBecomesYou",
       "SetID": "9b9n573",
       "Name": "Death Becomes You",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 203
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -5230,7 +5235,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5260,9 +5265,9 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -5284,9 +5289,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 378
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5324,9 +5329,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 494
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5348,9 +5353,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 320
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5373,15 +5378,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2904,
+      "Progressed": 2905,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-21T19:01:04.8018723+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:04:23.1609212+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:45:35.4683765+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-22T00:00:04.2064439+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:04:23.1609662+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:30.9497425+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:45:35.4684179+00:00"
 }

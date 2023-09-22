@@ -14,8 +14,8 @@
 | Passion for sports | 32.00% | ~226 |
 | Who loves trains? | 29.00% | ~205 |
 | Easy and steady climb | 28.00% | ~198 |
-| At the heart of the city | 24.00% | ~169 |
-| Calm neighborhood | 22.00% | ~155 |
+| At the heart of the city | 25.00% | ~176 |
+| Calm neighborhood | 23.00% | ~162 |
 | Elevated ring | 20.00% | ~141 |
 | Not lonely anymore | 19.00% | ~134 |
 | Monumental tribute | 19.00% | ~134 |
@@ -27,7 +27,7 @@
 | Happy Christmas night! | 16.00% | ~113 |
 | Night walk along the beach | 16.00% | ~113 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706 (Ranked 238)  
+Progressed: 706 (Ranked 239)  
 Completed: 111 (15.72%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |

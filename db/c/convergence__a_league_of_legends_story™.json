@@ -6,8 +6,8 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2240,6 +2240,11 @@
       "Time": "2023-09-21T18:04:27.2034012+00:00",
       "NumProgressed": 885,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-22T01:45:24.8093982+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2299,7 +2304,7 @@
       "Name": "Like Clockwork",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ClovemaryGift",
@@ -2379,7 +2384,7 @@
       "Name": "The Betrayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2435,7 +2440,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "LacunaCompleted",
@@ -2563,7 +2568,7 @@
       "Name": "Golem Chaser",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "SkillCompletion1",
@@ -2595,7 +2600,7 @@
       "Name": "Sump Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "SyronGift",
@@ -2603,7 +2608,7 @@
       "Name": "Syron for Hope",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2619,7 +2624,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2641,9 +2646,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 89
     },
     {
       "ID": "WatcherSpared",
@@ -2667,14 +2672,14 @@
       "Name": "The Family Fortune",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 5
     }
   ],
@@ -2682,8 +2687,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:04:12.1502881+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:45:24.8093974+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-22T00:00:50.5715858+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:04:12.1503489+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:42:17.2327472+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:45:24.809458+00:00"
 }

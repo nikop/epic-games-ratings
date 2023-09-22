@@ -1425,9 +1425,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23170,
+  "EOS_Progressed": 23171,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8050,6 +8050,11 @@
       "Time": "2023-09-21T21:03:26.1436968+00:00",
       "NumProgressed": 23170,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-09-22T01:45:07.9321762+00:00",
+      "NumProgressed": 23171,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -8131,9 +8136,9 @@
       "ID": "BossCastleAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Glory",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 162
     },
     {
       "ID": "BossCastleDefeated",
@@ -8307,9 +8312,9 @@
       "ID": "PetDragon",
       "SetID": "3ojhj46",
       "Name": "Good Boy!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 116
     },
     {
       "ID": "PrequelReveal",
@@ -8372,21 +8377,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23170,
+      "Progressed": 23171,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2100,
+      "Progressed": 2101,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-15T20:58:44.7315324+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:03:54.8674795+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:45:07.9321758+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.3211832+00:00",
-  "LastUpdate_Ratings": "2023-09-22T00:00:17.2393046+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:03:54.8675518+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:43.7272333+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:45:07.9322461+00:00"
 }

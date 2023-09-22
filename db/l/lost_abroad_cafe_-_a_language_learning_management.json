@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 433,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1941,6 +1941,11 @@
       "Time": "2023-09-21T19:06:10.5303855+00:00",
       "NumProgressed": 431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T01:46:41.3964895+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -1952,7 +1957,7 @@
       "Name": "Barista",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "coffee_100",
@@ -1960,7 +1965,7 @@
       "Name": "Brew Master",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "coffee_50",
@@ -1984,7 +1989,7 @@
       "Name": "Get Lost!",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 379
+      "UsersEstimate": 381
     },
     {
       "ID": "tea_10",
@@ -1992,7 +1997,7 @@
       "Name": "Tea-ser",
       "Percentage": 42,
       "XP": 75,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "tea_100",
@@ -2006,23 +2011,23 @@
       "ID": "tea_50",
       "SetID": "56hff7o",
       "Name": "Tea Master",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 433,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:05:29.3587759+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:46:41.3964889+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.8137305+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:59:45.4565883+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:05:29.3587964+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:13.2614566+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:46:41.3965185+00:00"
 }

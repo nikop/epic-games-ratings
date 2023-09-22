@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 220,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 9.17,
+  "EOS_Completed_Percentage": 9.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6043,6 +6043,11 @@
       "Time": "2023-09-21T16:07:21.9256592+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2023-09-22T01:47:31.0461356+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 12,
@@ -6060,9 +6065,9 @@
       "ID": "Bernard",
       "SetID": "b40dflc",
       "Name": "Bernard",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 288
     },
     {
       "ID": "Building the Fox",
@@ -6149,7 +6154,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 220
     }
   ],
@@ -6157,8 +6162,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:06:19.0952006+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:47:31.0461349+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.6209571+00:00",
-  "LastUpdate_Ratings": "2023-09-22T00:00:29.3058075+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:06:19.0952496+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:41:54.9707305+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:47:31.0461838+00:00"
 }

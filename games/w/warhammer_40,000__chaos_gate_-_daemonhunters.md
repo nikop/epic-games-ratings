@@ -15,12 +15,12 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 4.00% | ~129 |
 | Friendly Fire | 3.00% | ~97 |
 | Bloodless | 3.00% | ~97 |
-| Honoured Battle-Brother | 2.00% | ~64 |
-| Surgical Excision | 2.00% | ~64 |
-| The Emperor Protects | 2.00% | ~64 |
-| Nemesis Master | 2.00% | ~64 |
-| Gunmaster | 2.00% | ~64 |
-| A Foul Creche | 2.00% | ~64 |
+| Honoured Battle-Brother | 2.00% | ~65 |
+| Surgical Excision | 2.00% | ~65 |
+| The Emperor Protects | 2.00% | ~65 |
+| Nemesis Master | 2.00% | ~65 |
+| Gunmaster | 2.00% | ~65 |
+| A Foul Creche | 2.00% | ~65 |
 | Hold Your Ground | 1.00% | ~32 |
 | Corruption Cleanser | 1.00% | ~32 |
 | Just a Scratch | 1.00% | ~32 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,225 (Ranked 174)  
+Progressed: 3,226 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 0 (0.00%) (Ranked 283)
 | 2023-09-19 | 3,217 | 0 |
 | 2023-09-20 | 3,219 | 0 |
 | 2023-09-21 | 3,225 | 0 |
+| 2023-09-22 | 3,226 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
 Sum: 474 (Ranked 307)  

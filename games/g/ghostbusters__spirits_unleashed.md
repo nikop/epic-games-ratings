@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 0.60% | ~156 |
+| Stylish | 0.70% | ~182 |
 | Advancement | 0.50% | ~130 |
 | Meticulously Efficient | 0.50% | ~130 |
 | I collect Spores, Molds, and Fungi | 0.40% | ~104 |
@@ -14,6 +14,7 @@ Rating: 4.50 (Ranked 567)
 | Solo Capture | 0.40% | ~104 |
 | Teamwork | 0.40% | ~104 |
 | Vaporous Expansion | 0.40% | ~104 |
+| Whoopsie | 0.40% | ~104 |
 | Animated | 0.30% | ~78 |
 | Back Off | 0.30% | ~78 |
 | Clutch Capture | 0.30% | ~78 |
@@ -25,7 +26,6 @@ Rating: 4.50 (Ranked 567)
 | Terrifying | 0.30% | ~78 |
 | There you are! | 0.30% | ~78 |
 | Welcome to the Crew | 0.30% | ~78 |
-| Whoopsie | 0.30% | ~78 |
 | Daily Dose | 0.20% | ~52 |
 | Ectoplasmic Entity | 0.20% | ~52 |
 | Pesky Jerks | 0.20% | ~52 |
@@ -35,6 +35,7 @@ Rating: 4.50 (Ranked 567)
 | Side Hustle | 0.20% | ~52 |
 | Skilled | 0.20% | ~52 |
 | Stunner | 0.20% | ~52 |
+| Tobin's Prodigy | 0.20% | ~52 |
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | Collector | 0.10% | ~26 |
@@ -54,10 +55,9 @@ Rating: 4.50 (Ranked 567)
 | Rivalry | 0.10% | ~26 |
 | Surprise! | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
-| Tobin's Prodigy | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,945 (Ranked 109)  
+Progressed: 25,948 (Ranked 109)  
 Completed: 58 (0.22%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 58 (0.22%) (Ranked 200)
 | 2023-09-19 | 25,909 | 56 |
 | 2023-09-20 | 25,927 | 57 |
 | 2023-09-21 | 25,942 | 58 |
-| 2023-09-22 | 25,945 | 58 |
+| 2023-09-22 | 25,948 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 255  (Ranked 255)  
 Sum: 2,327 (Ranked 188)  

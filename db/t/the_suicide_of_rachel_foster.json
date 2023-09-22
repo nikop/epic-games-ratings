@@ -5,9 +5,9 @@
   "Ranking_Rating": 894,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 202,
+  "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1473,
+  "EOS_Progressed": 1474,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.75,
   "EosHistory": [
@@ -2583,6 +2583,11 @@
       "Time": "2023-09-21T21:05:55.7749758+00:00",
       "NumProgressed": 1473,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-22T01:47:38.6301911+00:00",
+      "NumProgressed": 1474,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2610,7 +2615,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -2634,7 +2639,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_FineGioco",
@@ -2650,7 +2655,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2658,7 +2663,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2681,15 +2686,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1473,
+      "Progressed": 1474,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-22T00:06:26.4013933+00:00",
+  "LastChanged_Achievements": "2023-09-22T01:47:38.6301905+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:02:58.9972785+00:00",
-  "LastUpdate_Achievements": "2023-09-22T00:06:26.4014174+00:00"
+  "LastUpdate_Ratings": "2023-09-22T01:38:43.920282+00:00",
+  "LastUpdate_Achievements": "2023-09-22T01:47:38.6302137+00:00"
 }
