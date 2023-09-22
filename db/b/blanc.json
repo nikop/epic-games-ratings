@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2723,
+  "EOS_Progressed": 2724,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3393,6 +3393,11 @@
       "Time": "2023-09-22T19:09:17.1906586+00:00",
       "NumProgressed": 2723,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-22T22:08:25.3025303+00:00",
+      "NumProgressed": 2724,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3476,7 +3481,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "THE_END",
@@ -3500,14 +3505,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2723,
+      "Progressed": 2724,
       "Completed": 6
     }
   ],
@@ -3515,8 +3520,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:09:03.6834702+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:08:25.3025296+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:24.7392815+00:00",
-  "LastUpdate_Ratings": "2023-09-22T21:02:10.3371514+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:09:03.6835129+00:00"
+  "LastUpdate_Ratings": "2023-09-22T22:02:09.4685244+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:08:25.3026001+00:00"
 }

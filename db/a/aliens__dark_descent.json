@@ -6,9 +6,9 @@
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -326,7 +326,7 @@
   ],
   "EOS_Progressed": 3355,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4745,9 +4745,9 @@
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2114
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4985,9 +4985,9 @@
       "ID": "ACH_USE_REDEMPTION",
       "SetID": "816efe",
       "Name": "The Shrink Hates Me",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1912
     }
   ],
   "AchievementSets": [
@@ -5002,8 +5002,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:03:31.1503402+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:03:20.6782296+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:57:41.4323711+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:03:31.1504208+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:57:32.7994693+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:03:20.6782921+00:00"
 }

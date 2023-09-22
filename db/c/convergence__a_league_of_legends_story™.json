@@ -6,9 +6,9 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 887,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2245,6 +2245,11 @@
       "Time": "2023-09-22T01:45:24.8093982+00:00",
       "NumProgressed": 886,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-22T22:04:25.9089284+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2264,7 +2269,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2272,7 +2277,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ChestCompletion1",
@@ -2352,7 +2357,7 @@
       "Name": "Family Memories",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FactorywoodChests1",
@@ -2504,7 +2509,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ParryRepeated1",
@@ -2512,7 +2517,7 @@
       "Name": "No, Thanks!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2520,7 +2525,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2528,7 +2533,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "PidgeDefeated",
@@ -2552,7 +2557,7 @@
       "Name": "Honest Mistake",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2584,7 +2589,7 @@
       "Name": "Fast Learner",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "SpeedRun",
@@ -2630,9 +2635,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 186
     },
     {
       "ID": "WarwickDefeated",
@@ -2640,7 +2645,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "WatcherFought",
@@ -2679,7 +2684,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 887,
       "Completed": 5
     }
   ],
@@ -2687,8 +2692,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:04:39.9375974+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:04:25.9089277+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:57:18.6900755+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:04:39.9376686+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:57:13.6254241+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:04:25.9090711+00:00"
 }

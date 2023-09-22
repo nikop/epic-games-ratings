@@ -6,9 +6,9 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1412,
+  "EOS_Progressed": 1413,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2735,6 +2735,11 @@
       "Time": "2023-09-22T16:04:58.4561878+00:00",
       "NumProgressed": 1412,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T22:04:25.5832129+00:00",
+      "NumProgressed": 1413,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2874,7 +2879,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "High_noon",
@@ -2954,7 +2959,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "War_never_changes",
@@ -2985,15 +2990,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1412,
+      "Progressed": 1413,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:04:39.6467126+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:04:25.5832123+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:57:11.6476262+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:04:39.6467614+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:57:08.9209878+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:04:25.5832491+00:00"
 }

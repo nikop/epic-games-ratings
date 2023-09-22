@@ -40,6 +40,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.70% | ~956 |
 | Helping Hand | 0.70% | ~956 |
 | Natural 20 | 0.70% | ~956 |
+| Tax not Included | 0.60% | ~819 |
 | Fated Encounters | 0.60% | ~819 |
 | Power of Love | 0.60% | ~819 |
 | Flawless Fusion | 0.60% | ~819 |
@@ -47,7 +48,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.60% | ~819 |
 | A Notch Above the Rest | 0.50% | ~683 |
 | Cream of the Crop | 0.50% | ~683 |
-| Tax not Included | 0.50% | ~683 |
 | The King's Caprice | 0.50% | ~683 |
 | Big Game Hunting | 0.50% | ~683 |
 | For the Hoard! | 0.50% | ~683 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,540 (Ranked 69)  
-Completed: 153 (0.11%) (Ranked 227)  
+Progressed: 136,541 (Ranked 69)  
+Completed: 153 (0.11%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,15 +274,15 @@ Completed: 153 (0.11%) (Ranked 227)
 | 2023-09-19 | 136,421 | 153 |
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
-| 2023-09-22 | 136,540 | 153 |
+| 2023-09-22 | 136,541 | 153 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 70)  
-Sum: 27,273 (Ranked 48)  
+Sum: 27,274 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,751 |
-| This game is Relaxing | 4,013 |
+| This game is Relaxing | 4,014 |
 | This game has Quickly Understood Controls | 4,000 |
 | This game has Diverse Characters | 3,889 |
 | This game is Highly Recommended | 3,751 |
@@ -530,4 +530,4 @@ Diff (max vs sum): 22
 | 2023-09-19 | 3.99 | - | 4,748 | 27,259 |
 | 2023-09-20 | 3.99 | - | 4,748 | 27,260 |
 | 2023-09-21 | 3.99 | - | 4,748 | 27,265 |
-| 2023-09-22 | 3.99 | - | 4,751 | 27,273 |
+| 2023-09-22 | 3.99 | - | 4,751 | 27,274 |

@@ -10,7 +10,7 @@
 | Novice Scavenger | 62.00% | ~126 |
 | Master Craftsman | 50.00% | ~102 |
 | First wall | 49.00% | ~100 |
-| Piggyback Expert | 47.00% | ~96 |
+| Piggyback Expert | 48.00% | ~98 |
 | Second wall | 34.00% | ~69 |
 | Expert Scavenger | 31.00% | ~63 |
 | Their Rock | 26.00% | ~53 |
@@ -30,8 +30,8 @@
 | Bond Lord | 0.50% | ~1 |
 | True Player | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204 (Ranked 328)  
-Completed: 2 (0.98%) (Ranked 133)  
+Progressed: 204 (Ranked 329)  
+Completed: 2 (0.98%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

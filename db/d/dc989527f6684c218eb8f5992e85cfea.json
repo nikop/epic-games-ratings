@@ -3,9 +3,9 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11724,
+  "EOS_Progressed": 11728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10251,6 +10251,11 @@
       "Time": "2023-09-22T21:05:21.6427521+00:00",
       "NumProgressed": 11724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T22:05:00.2568482+00:00",
+      "NumProgressed": 11728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -10334,7 +10339,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5159
+      "UsersEstimate": 5160
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -10350,7 +10355,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -10430,7 +10435,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -10446,7 +10451,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -10454,21 +10459,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11724,
+      "Progressed": 11728,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:05:21.6427516+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:05:00.2568479+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5872219+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:58:50.4217187+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:05:21.6428361+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:58:31.6716277+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:05:00.2569254+00:00"
 }

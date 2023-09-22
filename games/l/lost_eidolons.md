@@ -30,7 +30,7 @@ Rating: 4.33 (Ranked 777)
 | Lean on Me | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,113 (Ranked 219)  
-Completed: 1 (0.09%) (Ranked 234)  
+Completed: 1 (0.09%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,687 |
-| Git Gutte! | 2.00% | ~13,687 |
-| Bookworm | 2.00% | ~13,687 |
-| Break A Leg | 2.00% | ~13,687 |
-| But Doctor, I am Butcho | 2.00% | ~13,687 |
-| Slayer Squad | 2.00% | ~13,687 |
-| Can't Handle the Truth | 2.00% | ~13,687 |
-| Coup de Grâce | 2.00% | ~13,687 |
-| Like Riding a Bike | 2.00% | ~13,687 |
-| Hazardous Materials | 2.00% | ~13,687 |
-| Friends Like These | 2.00% | ~13,687 |
-| Hotel California | 2.00% | ~13,687 |
-| Apex Predator | 2.00% | ~13,687 |
-| Zombologist | 2.00% | ~13,687 |
-| A Patton Emerges | 2.00% | ~13,687 |
-| Stacking the Deck | 2.00% | ~13,687 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,687 |
-| This is My Weapon | 2.00% | ~13,687 |
-| Welcome To Hell-A | 2.00% | ~13,687 |
+| Dr. Reed, I Presume? | 2.00% | ~13,688 |
+| Git Gutte! | 2.00% | ~13,688 |
+| Bookworm | 2.00% | ~13,688 |
+| Break A Leg | 2.00% | ~13,688 |
+| But Doctor, I am Butcho | 2.00% | ~13,688 |
+| Slayer Squad | 2.00% | ~13,688 |
+| Can't Handle the Truth | 2.00% | ~13,688 |
+| Coup de Grâce | 2.00% | ~13,688 |
+| Like Riding a Bike | 2.00% | ~13,688 |
+| Hazardous Materials | 2.00% | ~13,688 |
+| Friends Like These | 2.00% | ~13,688 |
+| Hotel California | 2.00% | ~13,688 |
+| Apex Predator | 2.00% | ~13,688 |
+| Zombologist | 2.00% | ~13,688 |
+| A Patton Emerges | 2.00% | ~13,688 |
+| Stacking the Deck | 2.00% | ~13,688 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,688 |
+| This is My Weapon | 2.00% | ~13,688 |
+| Welcome To Hell-A | 2.00% | ~13,688 |
 | Making Your Mark | 1.00% | ~6,844 |
 | Anger Management | 1.00% | ~6,844 |
 | Perks of the Job | 1.00% | ~6,844 |
@@ -40,9 +40,9 @@ Rating: 4.54 (Ranked 504)
 | Smorgasbord | 0.60% | ~4,106 |
 | Not Even My Final Form | 0.50% | ~3,422 |
 | Internet Famous | 0.50% | ~3,422 |
-| Make it So | 0.40% | ~2,737 |
-| On Safari | 0.40% | ~2,737 |
-| Variety is the Spice of Death | 0.40% | ~2,737 |
+| Make it So | 0.40% | ~2,738 |
+| On Safari | 0.40% | ~2,738 |
+| Variety is the Spice of Death | 0.40% | ~2,738 |
 | LA Influential | 0.30% | ~2,053 |
 | Sole Survivor | 0.30% | ~2,053 |
 | Gore Horse | 0.30% | ~2,053 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~684 |
 | Bucket List | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,366 (Ranked 22)  
-Completed: 2,164 (0.32%) (Ranked 184)  
+Progressed: 684,391 (Ranked 22)  
+Completed: 2,165 (0.32%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,10 +206,10 @@ Completed: 2,164 (0.32%) (Ranked 184)
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
 | 2023-09-21 | 683,869 | 2,163 |
-| 2023-09-22 | 684,366 | 2,164 |
+| 2023-09-22 | 684,391 | 2,165 |
 ## Awards
 Max (Great Boss Battles): 6,156  (Ranked 57)  
-Sum: 9,149 (Ranked 93)  
+Sum: 9,150 (Ranked 93)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -218,7 +218,7 @@ Diff (max vs sum): -36
 | This game has Diverse Characters | 416 |
 | This game has Quickly Understood Controls | 400 |
 | This game is Relaxing | 384 |
-| This game has Amazing Storytelling | 357 |
+| This game has Amazing Storytelling | 358 |
 | This game is Extremely Fun | 343 |
 | This game has Amazing Characters | 334 |
 | This game is Highly Recommended | 332 |
@@ -379,4 +379,4 @@ Diff (max vs sum): -36
 | 2023-09-19 | 4.54 | 6,115 | 9,071 |
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
-| 2023-09-22 | 4.54 | 6,156 | 9,149 |
+| 2023-09-22 | 4.54 | 6,156 | 9,150 |

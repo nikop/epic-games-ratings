@@ -4,11 +4,11 @@
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 568,
   "Ranking_Popularity": 159,
-  "Ranking_PopularitySum": 110,
+  "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 633,
-  "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -6097,10 +6097,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 7195,
       "NumberOfAwardsMax": 805
+    },
+    {
+      "Time": "2023-09-22T21:57:12.9932302+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7198,
+      "NumberOfAwardsMax": 805
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7195,
+  "NumberOfAwards": 7198,
   "NumberOfAwardsMax": 805,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6144,13 +6150,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 671
+      "Count": 673
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 633
+      "Count": 634
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6188,8 +6194,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-09-22T18:57:11.4741516+00:00",
+  "LastChanged": "2023-09-22T21:57:12.9932299+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:36.0915448+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:57:17.7398369+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:05:45.92527+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:57:12.9932308+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:05:20.1619307+00:00"
 }

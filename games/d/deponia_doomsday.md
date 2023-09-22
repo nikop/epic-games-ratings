@@ -5,25 +5,25 @@ Rating: 4.56 (Ranked 469)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~358 |
-| And again, and again, and... | 63.00% | ~256 |
-| Burn, Elysium, burn! | 62.00% | ~252 |
-| Kuvaq Minigame-Master | 60.00% | ~244 |
+| Huzza, he's back. | 88.00% | ~359 |
+| And again, and again, and... | 63.00% | ~257 |
+| Burn, Elysium, burn! | 62.00% | ~253 |
+| Kuvaq Minigame-Master | 60.00% | ~245 |
 | FunScore | 55.00% | ~224 |
-| Funtime's over | 53.00% | ~216 |
+| Funtime's over | 52.00% | ~212 |
 | Chunky | 50.00% | ~204 |
-| Shall we play a game? | 48.00% | ~195 |
-| Boat of love, boat of love | 48.00% | ~195 |
+| Shall we play a game? | 48.00% | ~196 |
+| Boat of love, boat of love | 48.00% | ~196 |
 | School's out | 43.00% | ~175 |
 | Scaffolding Expert | 37.00% | ~151 |
 | Elysian Minigame-Master | 37.00% | ~151 |
 | Sole Music | 36.00% | ~147 |
 | No man left behind! | 29.00% | ~118 |
 | Portals come in packs | 29.00% | ~118 |
-| Photo Friend | 26.00% | ~106 |
-| Brainfreeze | 21.00% | ~85 |
-| And everything comes full circle. | 20.00% | ~81 |
-| Masseltov | 19.00% | ~77 |
+| Photo Friend | 25.00% | ~102 |
+| Brainfreeze | 21.00% | ~86 |
+| And everything comes full circle. | 20.00% | ~82 |
+| Masseltov | 19.00% | ~78 |
 | Quickdraw | 15.00% | ~61 |
 | Thuna...? | 14.00% | ~57 |
 | Monstrous Harassment | 14.00% | ~57 |
@@ -34,7 +34,7 @@ Rating: 4.56 (Ranked 469)
 | Paradox! | 10.00% | ~41 |
 | Weapons 101 | 8.00% | ~33 |
 | Sadist | 8.00% | ~33 |
-| The customer is always right | 7.00% | ~28 |
+| The customer is always right | 7.00% | ~29 |
 | Distraction | 6.00% | ~24 |
 | Pacifist | 6.00% | ~24 |
 | Apoca...huh? | 6.00% | ~24 |
@@ -42,8 +42,8 @@ Rating: 4.56 (Ranked 469)
 | Every man for himself! | 5.00% | ~20 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407 (Ranked 277)  
-Completed: 6 (1.47%) (Ranked 112)  
+Progressed: 408 (Ranked 277)  
+Completed: 6 (1.47%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 6 (1.47%) (Ranked 112)
 | 2023-09-19 | 402 | 6 |
 | 2023-09-20 | 404 | 6 |
 | 2023-09-21 | 406 | 6 |
-| 2023-09-22 | 407 | 6 |
+| 2023-09-22 | 408 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -26,8 +26,8 @@
 | A Blast for You and a Blasphemy | 0.00% | ~0 |
 | Revisionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 492)  
-Completed: 0 (0.00%) (Ranked 289)  
+Progressed: 12 (Ranked 493)  
+Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
-  "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7974,9 +7974,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 297106,
+  "EOS_Progressed": 297111,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24774,6 +24774,11 @@
       "Time": "2023-09-22T21:06:33.3769254+00:00",
       "NumProgressed": 297106,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T22:05:58.7690792+00:00",
+      "NumProgressed": 297111,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24785,7 +24790,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41595
+      "UsersEstimate": 41596
     },
     {
       "ID": "PFA_10",
@@ -24825,7 +24830,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17826
+      "UsersEstimate": 17827
     },
     {
       "ID": "PFA_15",
@@ -24833,7 +24838,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "PFA_16",
@@ -24849,7 +24854,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "PFA_18",
@@ -24857,7 +24862,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23768
+      "UsersEstimate": 23769
     },
     {
       "ID": "PFA_19",
@@ -24865,7 +24870,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "PFA_2",
@@ -24921,7 +24926,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17826
+      "UsersEstimate": 17827
     },
     {
       "ID": "PFA_26",
@@ -24953,15 +24958,15 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17826
+      "UsersEstimate": 17827
     },
     {
       "ID": "PFA_3",
       "SetID": "1hf4dep",
       "Name": "The Auror\u0027s Apprentice",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5942
+      "UsersEstimate": 8913
     },
     {
       "ID": "PFA_30",
@@ -25065,7 +25070,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14855
+      "UsersEstimate": 14856
     },
     {
       "ID": "PFA_42",
@@ -25073,7 +25078,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17826
+      "UsersEstimate": 17827
     },
     {
       "ID": "PFA_43",
@@ -25089,7 +25094,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23768
+      "UsersEstimate": 23769
     },
     {
       "ID": "PFA_45",
@@ -25144,7 +25149,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297106,
+      "Progressed": 297111,
       "Completed": 476
     }
   ],
@@ -25152,8 +25157,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-22T13:04:17.7903196+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:06:33.3769248+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:05:58.7690788+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:59:34.4106896+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:06:33.3770719+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:59:07.3491922+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:05:58.7692129+00:00"
 }

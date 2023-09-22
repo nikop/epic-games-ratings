@@ -6,9 +6,9 @@
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3104,9 +3104,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72733,
+  "EOS_Progressed": 72735,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16309,6 +16309,11 @@
       "Time": "2023-09-22T21:05:50.5664321+00:00",
       "NumProgressed": 72733,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-09-22T22:05:23.9568223+00:00",
+      "NumProgressed": 72735,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 61,
@@ -16480,7 +16485,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9455
+      "UsersEstimate": 9456
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -16528,7 +16533,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9455
+      "UsersEstimate": 9456
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -16536,7 +16541,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7273
+      "UsersEstimate": 7274
     },
     {
       "ID": "FREEZE_1",
@@ -16560,7 +16565,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13819
+      "UsersEstimate": 13820
     },
     {
       "ID": "FREEZE_3",
@@ -16632,7 +16637,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18183
+      "UsersEstimate": 18184
     },
     {
       "ID": "HARLEY_3",
@@ -16648,7 +16653,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11637
+      "UsersEstimate": 11638
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16664,7 +16669,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37821
+      "UsersEstimate": 37822
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16696,7 +16701,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20365
+      "UsersEstimate": 20366
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16712,7 +16717,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24729
+      "UsersEstimate": 24730
     },
     {
       "ID": "MYSTERY_02",
@@ -16720,7 +16725,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18183
+      "UsersEstimate": 18184
     },
     {
       "ID": "MYSTERY_03",
@@ -16807,13 +16812,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72733,
+      "Progressed": 72735,
       "Completed": 116
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43013,
+      "Progressed": 43015,
       "Completed": 2665
     }
   ],
@@ -16821,8 +16826,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-22T21:02:20.1008726+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:05:50.5664317+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:05:23.9568218+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-22T21:02:20.1008733+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:05:50.5666024+00:00"
+  "LastUpdate_Ratings": "2023-09-22T22:02:14.6119439+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:05:23.9569403+00:00"
 }

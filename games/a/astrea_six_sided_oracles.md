@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dicesmithing Time! | 100.00% | ~4 |
-| Endless Tricks | 100.00% | ~4 |
-| Mechanical Buddy | 100.00% | ~4 |
-| Meissa's Savior | 100.00% | ~4 |
-| Purification Pioneer | 100.00% | ~4 |
-| Sanctuary Guardian | 75.00% | ~3 |
-| Stellar Dismantler | 75.00% | ~3 |
-| Mind Illuminator | 50.00% | ~2 |
-| Wild's Keeper | 50.00% | ~2 |
-| Anomaly Destroyer | 25.00% | ~1 |
-| Arch-Oracle | 25.00% | ~1 |
-| Denying Destiny | 25.00% | ~1 |
-| Favored by the Cosmos | 25.00% | ~1 |
-| Heart Gate | 25.00% | ~1 |
-| Loyal Partner | 25.00% | ~1 |
-| Plague Doctor | 25.00% | ~1 |
-| Sadistic Plan | 25.00% | ~1 |
-| Sentinelphobic | 25.00% | ~1 |
-| Skeptical | 25.00% | ~1 |
-| Stellar Haste | 25.00% | ~1 |
-| The Corruption Goddess | 25.00% | ~1 |
-| Unbeatable | 25.00% | ~1 |
-| Unepic Hero | 25.00% | ~1 |
+| Mechanical Buddy | 100.00% | ~5 |
+| Meissa's Savior | 100.00% | ~5 |
+| Purification Pioneer | 100.00% | ~5 |
+| Dicesmithing Time! | 80.00% | ~4 |
+| Endless Tricks | 80.00% | ~4 |
+| Sanctuary Guardian | 60.00% | ~3 |
+| Stellar Dismantler | 60.00% | ~3 |
+| Mind Illuminator | 40.00% | ~2 |
+| Wild's Keeper | 40.00% | ~2 |
+| Anomaly Destroyer | 20.00% | ~1 |
+| Arch-Oracle | 20.00% | ~1 |
+| Denying Destiny | 20.00% | ~1 |
+| Favored by the Cosmos | 20.00% | ~1 |
+| Heart Gate | 20.00% | ~1 |
+| Loyal Partner | 20.00% | ~1 |
+| Plague Doctor | 20.00% | ~1 |
+| Sadistic Plan | 20.00% | ~1 |
+| Sentinelphobic | 20.00% | ~1 |
+| Skeptical | 20.00% | ~1 |
+| Stellar Haste | 20.00% | ~1 |
+| The Corruption Goddess | 20.00% | ~1 |
+| Unbeatable | 20.00% | ~1 |
+| Unepic Hero | 20.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -85,9 +85,9 @@
 | Virtuous Warrior | 0.00% | ~0 |
 | Wave Bender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 532)  
-Completed: 0 (0.00%) (Ranked 289)  
+Progressed: 5 (Ranked 527)  
+Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-22 | 4 | 0 |
+| 2023-09-22 | 5 | 0 |

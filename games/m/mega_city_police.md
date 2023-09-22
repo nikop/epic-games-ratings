@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 15.00% | ~5 |
 | Licence To Kill | 9.00% | ~3 |
+| Vintage Collector | 6.00% | ~2 |
 | Overkill | 6.00% | ~2 |
 | The Hunt | 6.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
 | Head of the Snake | 3.00% | ~1 |
 | Barbecue Time | 3.00% | ~1 |
 | Vehicular Mayhem | 3.00% | ~1 |
-| Vintage Collector | 3.00% | ~1 |
 | Losing your Head | 3.00% | ~1 |
 | Captain | 3.00% | ~1 |
 | Chief | 3.00% | ~1 |
@@ -33,7 +33,7 @@
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 445)  
-Completed: 0 (0.00%) (Ranked 289)  
+Completed: 1 (3.03%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,3 +50,4 @@ Completed: 0 (0.00%) (Ranked 289)
 | 2023-08-18 | 31 | 0 |
 | 2023-08-30 | 32 | 0 |
 | 2023-09-06 | 33 | 0 |
+| 2023-09-22 | 33 | 1 |

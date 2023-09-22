@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,749 |
-| Jeef Skeejj | 44.00% | ~205,833 |
-| Careful planning | 39.00% | ~182,443 |
+| The Shutdown | 66.00% | ~308,751 |
+| Jeef Skeejj | 44.00% | ~205,834 |
+| Careful planning | 39.00% | ~182,444 |
 | Second Coming | 33.00% | ~154,375 |
 | Jeef Skagg | 30.00% | ~140,341 |
-| Mother | 25.00% | ~116,950 |
-| In space, no one can hear you scream | 24.00% | ~112,272 |
-| Chapter I: Echoes | 22.00% | ~102,916 |
-| Excelsior Rule | 22.00% | ~102,916 |
-| Things persisted in not being what they seemed | 20.00% | ~93,560 |
-| Knightmare Frames | 15.00% | ~70,170 |
-| May His passing cleanse the world | 15.00% | ~70,170 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,170 |
-| Pope Zenon | 15.00% | ~70,170 |
+| Mother | 25.00% | ~116,951 |
+| In space, no one can hear you scream | 24.00% | ~112,273 |
+| Chapter I: Echoes | 22.00% | ~102,917 |
+| Excelsior Rule | 22.00% | ~102,917 |
+| Things persisted in not being what they seemed | 20.00% | ~93,561 |
+| Knightmare Frames | 15.00% | ~70,171 |
+| May His passing cleanse the world | 15.00% | ~70,171 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,171 |
+| Pope Zenon | 15.00% | ~70,171 |
 | Tetsuo | 11.00% | ~51,458 |
 | Plan for the worst | 11.00% | ~51,458 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,780 |
@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,802 (Ranked 37)  
-Completed: 18 (0.00%) (Ranked 289)  
+Progressed: 467,804 (Ranked 37)  
+Completed: 18 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,7 +241,7 @@ Completed: 18 (0.00%) (Ranked 289)
 | 2023-09-19 | 467,629 | 18 |
 | 2023-09-20 | 467,678 | 18 |
 | 2023-09-21 | 467,723 | 18 |
-| 2023-09-22 | 467,802 | 18 |
+| 2023-09-22 | 467,804 | 18 |
 ## Awards
 Max (Character Customization): 219  (Ranked 268)  
 Sum: 239 (Ranked 362)  

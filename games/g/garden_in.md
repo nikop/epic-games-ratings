@@ -37,7 +37,7 @@
 | Who's a Good Plant? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 200 (Ranked 331)  
-Completed: 0 (0.00%) (Ranked 289)  
+Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1621,7 +1621,7 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 203699,
+  "EOS_Progressed": 203705,
   "EOS_Completed": 86,
   "EOS_NewPlayers": 1393,
   "EOS_NewCompleters": 7,
@@ -19136,6 +19136,11 @@
       "Time": "2023-09-22T21:09:17.444285+00:00",
       "NumProgressed": 203699,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-09-22T22:08:36.5476558+00:00",
+      "NumProgressed": 203705,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 44,
@@ -19219,7 +19224,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22407
+      "UsersEstimate": 22408
     },
     {
       "ID": "HappyLittleAccidents",
@@ -19275,7 +19280,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "Meticulous",
@@ -19443,7 +19448,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "UndeservedHonor",
@@ -19498,15 +19503,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 203699,
+      "Progressed": 203705,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-22T09:01:40.7789844+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:09:17.4442845+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:08:36.5476554+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.289608+00:00",
-  "LastUpdate_Ratings": "2023-09-22T21:01:34.654264+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:09:17.444432+00:00"
+  "LastUpdate_Ratings": "2023-09-22T22:00:46.5784614+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:08:36.5477908+00:00"
 }

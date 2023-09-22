@@ -6,9 +6,9 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3651,
+  "EOS_Progressed": 3652,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6829,6 +6829,11 @@
       "Time": "2023-09-22T19:08:26.3180428+00:00",
       "NumProgressed": 3651,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-22T22:06:59.5382544+00:00",
+      "NumProgressed": 3652,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6862,9 +6867,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 475
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6920,7 +6925,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6958,9 +6963,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 621
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7064,7 +7069,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7088,7 +7093,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7176,7 +7181,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7208,7 +7213,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7232,7 +7237,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7407,13 +7412,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3602,
+      "Progressed": 3603,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3651,
+      "Progressed": 3652,
       "Completed": 11
     }
   ],
@@ -7421,8 +7426,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:07:48.6759018+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:06:59.538254+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:59:03.3932328+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:07:48.6760188+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:58:41.1705581+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:06:59.5383634+00:00"
 }

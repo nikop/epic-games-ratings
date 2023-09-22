@@ -3,9 +3,9 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 446,
+  "EOS_Progressed": 447,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1979,6 +1979,11 @@
       "Time": "2023-09-22T21:07:19.8925353+00:00",
       "NumProgressed": 446,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T22:06:36.2075594+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2062,7 +2067,7 @@
       "Name": "La Der des Ders",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2076,16 +2081,16 @@
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
       "SetID": "6kcl14p",
       "Name": "Nothing Can Stop Us!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 0
     }
   ],
@@ -2093,8 +2098,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:07:19.8925345+00:00",
+  "LastChanged_Achievements": "2023-09-22T22:06:36.207559+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:31.3171968+00:00",
-  "LastUpdate_Ratings": "2023-09-22T21:00:41.2426412+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:07:19.8925568+00:00"
+  "LastUpdate_Ratings": "2023-09-22T22:00:01.5822383+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:06:36.207581+00:00"
 }

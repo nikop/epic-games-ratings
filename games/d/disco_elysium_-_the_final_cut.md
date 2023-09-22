@@ -6,28 +6,28 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,987 |
-| Biggest Communism Builder | 24.00% | ~30,846 |
-| The World's Most Laughable Centrist | 20.00% | ~25,705 |
-| Il Coppo Del'Arte! | 18.00% | ~23,134 |
+| Goodest Of The Good Cops | 28.00% | ~35,988 |
+| Biggest Communism Builder | 24.00% | ~30,847 |
+| The World's Most Laughable Centrist | 20.00% | ~25,706 |
+| Il Coppo Del'Arte! | 18.00% | ~23,135 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,564 |
 | Hyperstellar Law Official | 16.00% | ~20,564 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,994 |
 | Gurdi-Ball Is Lit | 14.00% | ~17,994 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,708 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,709 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,138 |
-| Unbelievably Boring **** | 9.00% | ~11,567 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,567 |
+| Unbelievably Boring **** | 9.00% | ~11,568 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,568 |
 | Enemy Of The Physical Realm | 8.00% | ~10,282 |
 | Hardie's Heroes | 6.00% | ~7,712 |
 | The Lawbringer | 4.00% | ~5,141 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,141 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,856 |
 | Bother Kim After Hours | 3.00% | ~3,856 |
-| Baddest Of the Bad Cops | 2.00% | ~2,570 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,570 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,570 |
-| Wheel of Pleasure and Light | 2.00% | ~2,570 |
+| Baddest Of the Bad Cops | 2.00% | ~2,571 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,571 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,571 |
+| Wheel of Pleasure and Light | 2.00% | ~2,571 |
 | Massive Torque Dork | 1.00% | ~1,285 |
 | Avowed Inframaterialist | 1.00% | ~1,285 |
 | Committee of la Responsabilité | 0.90% | ~1,157 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,525 (Ranked 71)  
-Completed: 28 (0.02%) (Ranked 262)  
+Progressed: 128,528 (Ranked 71)  
+Completed: 28 (0.02%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -202,7 +202,7 @@ Completed: 28 (0.02%) (Ranked 262)
 | 2023-09-19 | 128,300 | 28 |
 | 2023-09-20 | 128,375 | 28 |
 | 2023-09-21 | 128,453 | 28 |
-| 2023-09-22 | 128,525 | 28 |
+| 2023-09-22 | 128,528 | 28 |
 ## Awards
 Max (Character Customization): 724  (Ranked 167)  
 Sum: 1,090 (Ranked 238)  

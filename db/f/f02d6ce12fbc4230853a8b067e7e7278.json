@@ -3,9 +3,9 @@
   "Name": "MechDefender",
   "ProductSlug": "mechdefender-fb9793",
   "Ranking_EOS_Progress": 633,
-  "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-08T07:00:00+00:00",
     "PcReleaseDate": "2020-03-03T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-11T15:02:27.6461604+00:00",
   "LastUpdate_AppInfo": "2023-09-18T20:57:14.3442261+00:00",
-  "LastUpdate_Ratings": "2023-09-22T21:00:38.528384+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:04:59.3166578+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:59:59.6733139+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:04:41.7498737+00:00"
 }

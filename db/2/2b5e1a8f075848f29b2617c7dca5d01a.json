@@ -3,9 +3,9 @@
   "Name": "Vaudeville",
   "ProductSlug": "vaudeville-86cff0",
   "Ranking_EOS_Progress": 633,
-  "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-30T17:00:00+00:00",
     "PcReleaseDate": "2023-06-30T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-06T14:56:56.9005529+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.3497203+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:58:27.5620145+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:08:07.9712728+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:58:12.620013+00:00",
+  "LastUpdate_Achievements": "2023-09-22T22:08:04.7315082+00:00"
 }
