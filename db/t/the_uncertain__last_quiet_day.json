@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.96,
+  "EOS_Completed_Percentage": 2.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -616,6 +616,11 @@
       "Time": "2023-09-22T05:08:11.656649+00:00",
       "NumProgressed": 541,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-22T07:06:25.1089532+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 32,
@@ -651,7 +656,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -667,7 +672,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -689,9 +694,9 @@
       "ID": "FOUND_IT",
       "SetID": "2iigf77",
       "Name": "Found it!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 81
     },
     {
       "ID": "GOODY",
@@ -723,7 +728,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -737,9 +742,9 @@
       "ID": "HIPSTER",
       "SetID": "2iigf77",
       "Name": "Hipster",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 81
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -747,7 +752,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "LUCKY_DOG",
@@ -857,9 +862,9 @@
       "ID": "THERE_IS_ANOTHER_WAY",
       "SetID": "2iigf77",
       "Name": "There is another way",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 125
     },
     {
       "ID": "UNCERTAIN",
@@ -867,7 +872,7 @@
       "Name": "Uncertain",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "WALKING_ROBOT",
@@ -882,7 +887,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 16
     }
   ],
@@ -890,8 +895,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:06:26.8743069+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:06:25.1089527+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.4921608+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:00:21.9552298+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:06:26.8743367+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:00:11.7634355+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:06:25.1089797+00:00"
 }

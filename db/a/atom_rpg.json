@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1212,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2505,6 +2505,11 @@
       "Time": "2023-09-22T00:04:32.3215063+00:00",
       "NumProgressed": 1212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T07:04:20.0495368+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2572,7 +2577,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "EXPERT_1",
@@ -2620,7 +2625,7 @@
       "Name": "Indy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "KORALOV",
@@ -2668,7 +2673,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2676,7 +2681,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "PACIFIST",
@@ -2732,7 +2737,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SAVANT_1",
@@ -2788,7 +2793,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "WISHMASTER_1",
@@ -2803,15 +2808,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1212,
+      "Progressed": 1213,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:04:20.7545434+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:04:20.049536+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:03.8587226+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:57:35.8894215+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:04:20.7546105+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:57:30.2910691+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:04:20.049573+00:00"
 }

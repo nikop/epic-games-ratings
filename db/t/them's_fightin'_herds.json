@@ -244,9 +244,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 230008,
+  "EOS_Progressed": 230010,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16364,6 +16364,11 @@
       "Time": "2023-09-22T06:03:50.2158391+00:00",
       "NumProgressed": 230008,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-22T07:03:49.3291654+00:00",
+      "NumProgressed": 230010,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -16439,7 +16444,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82803
+      "UsersEstimate": 82804
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -16583,7 +16588,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39101
+      "UsersEstimate": 39102
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -16598,7 +16603,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230008,
+      "Progressed": 230010,
       "Completed": 5
     }
   ],
@@ -16606,8 +16611,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-14T16:00:52.1630549+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:03:50.2158385+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:03:49.3291645+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.0573997+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:57:51.9290358+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:03:50.2159977+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:57:43.6550436+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:03:49.3292793+00:00"
 }

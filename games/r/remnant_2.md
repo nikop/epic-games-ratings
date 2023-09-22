@@ -5,19 +5,19 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,607 |
-| The Killing Jar | 8.00% | ~14,761 |
-| Not Your Average Trait | 8.00% | ~14,761 |
-| Expanding Horizons | 7.00% | ~12,916 |
-| Quest for Survival | 7.00% | ~12,916 |
-| Gleaming the Cube | 6.00% | ~11,071 |
-| Not a Janitor | 6.00% | ~11,071 |
-| Familiar Face | 6.00% | ~11,071 |
-| Duality | 6.00% | ~11,071 |
-| Top Performer | 6.00% | ~11,071 |
-| Boss'n Up | 6.00% | ~11,071 |
-| Good, But Could Be Better! | 6.00% | ~11,071 |
-| Trait Chaser | 6.00% | ~11,071 |
+| First of Many | 9.00% | ~16,608 |
+| The Killing Jar | 8.00% | ~14,762 |
+| Not Your Average Trait | 8.00% | ~14,762 |
+| Expanding Horizons | 7.00% | ~12,917 |
+| Quest for Survival | 7.00% | ~12,917 |
+| Gleaming the Cube | 6.00% | ~11,072 |
+| Not a Janitor | 6.00% | ~11,072 |
+| Familiar Face | 6.00% | ~11,072 |
+| Duality | 6.00% | ~11,072 |
+| Top Performer | 6.00% | ~11,072 |
+| Boss'n Up | 6.00% | ~11,072 |
+| Good, But Could Be Better! | 6.00% | ~11,072 |
+| Trait Chaser | 6.00% | ~11,072 |
 | Not So Special Now | 5.00% | ~9,226 |
 | Equal Measures | 5.00% | ~9,226 |
 | Blue Goddess | 5.00% | ~9,226 |
@@ -43,20 +43,20 @@ Rating: 4.76 (Ranked 118)
 | Edgelord | 3.00% | ~5,536 |
 | The Ultimate Weapon | 3.00% | ~5,536 |
 | No One Should Have All That Power | 3.00% | ~5,536 |
-| Crafty | 2.00% | ~3,690 |
-| Only Human | 2.00% | ~3,690 |
-| Red Room | 2.00% | ~3,690 |
-| The Collector | 2.00% | ~3,690 |
-| Scrap Hoarder | 2.00% | ~3,690 |
-| Carnage in C-Minor | 2.00% | ~3,690 |
-| Maxed Out! | 2.00% | ~3,690 |
-| Transmutate | 2.00% | ~3,690 |
+| Crafty | 2.00% | ~3,691 |
+| Only Human | 2.00% | ~3,691 |
+| Red Room | 2.00% | ~3,691 |
+| The Collector | 2.00% | ~3,691 |
+| Scrap Hoarder | 2.00% | ~3,691 |
+| Carnage in C-Minor | 2.00% | ~3,691 |
+| Maxed Out! | 2.00% | ~3,691 |
+| Transmutate | 2.00% | ~3,691 |
 | The Trigger | 1.00% | ~1,845 |
 | Cutting Edge | 1.00% | ~1,845 |
 | Proving Grounds | 1.00% | ~1,845 |
 | Ghost in the Machine | 0.90% | ~1,661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184,517 (Ranked 65)  
+Progressed: 184,528 (Ranked 65)  
 Completed: 320 (0.17%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 320 (0.17%) (Ranked 208)
 | 2023-09-19 | 183,629 | 312 |
 | 2023-09-20 | 184,044 | 315 |
 | 2023-09-21 | 184,448 | 319 |
-| 2023-09-22 | 184,517 | 320 |
+| 2023-09-22 | 184,528 | 320 |
 ## Awards
 Max (Great Boss Battles): 1,667  (Ranked 119)  
 Sum: 3,383 (Ranked 157)  

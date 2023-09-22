@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5460,
+  "EOS_Progressed": 5538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1313,
+  "EOS_NewPlayers": 1390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2124,6 +2124,11 @@
       "Time": "2023-09-22T06:05:05.7558526+00:00",
       "NumProgressed": 5460,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T07:05:03.7770171+00:00",
+      "NumProgressed": 5538,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2224,15 +2229,15 @@
       "Name": "Kar98 Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "kills_1",
       "SetID": "413a09o",
       "Name": "Rookie Rumble",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1551
     },
     {
       "ID": "kills_100",
@@ -2248,7 +2253,7 @@
       "Name": "Master Soldier",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "lastBulletKills_1",
@@ -2272,7 +2277,7 @@
       "Name": "Baton Soldier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "mru2_wins_1",
@@ -2288,7 +2293,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 277
     },
     {
       "ID": "revives_25",
@@ -2296,7 +2301,7 @@
       "Name": "Royale Surgeon",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "silencedKills_25",
@@ -2328,7 +2333,7 @@
       "Name": "Top Toy",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "top10_10",
@@ -2336,7 +2341,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -2383,13 +2388,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 5460,
+      "Progressed": 5538,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:05:05.7558521+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:05:03.7770164+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:00:41.9372385+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:05:05.7558891+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:00:32.5760085+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:05:03.7770521+00:00"
 }

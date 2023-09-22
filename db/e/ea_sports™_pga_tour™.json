@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 2.76,
+  "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -327,6 +327,11 @@
       "Time": "2023-09-22T04:09:06.2509766+00:00",
       "NumProgressed": 145,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-22T07:08:30.5731704+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -339,23 +344,23 @@
       "Name": "The Ultimate Prize",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_12",
@@ -369,17 +374,17 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_14",
       "SetID": "7ldgi7j",
       "Name": "Golfer Versus Golfer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_15",
@@ -401,25 +406,25 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_3",
@@ -435,7 +440,7 @@
       "Name": "From Many, One",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_5",
@@ -459,7 +464,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_8",
@@ -467,7 +472,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 62,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_9",
@@ -475,20 +480,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:08:13.1393774+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:08:30.5731697+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.8902845+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:57:37.5420259+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:08:13.1393946+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:57:30.8783568+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:08:30.573187+00:00"
 }

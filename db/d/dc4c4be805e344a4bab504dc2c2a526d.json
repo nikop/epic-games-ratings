@@ -2,7 +2,7 @@
   "ID": "dc4c4be805e344a4bab504dc2c2a526d",
   "Name": "CryptoClash",
   "ProductSlug": "cryptoclash-a1acaf",
-  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 115,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-17T09:05:08.4749391+00:00",
   "LastUpdate_AppInfo": "2023-09-18T15:56:57.4276621+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:57:53.9424343+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:03:15.5974398+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:57:45.4089253+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:03:14.6560169+00:00"
 }

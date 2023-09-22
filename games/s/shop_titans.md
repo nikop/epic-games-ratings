@@ -106,6 +106,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.30% | ~410 |
 | All Accounted For | 0.30% | ~410 |
 | JACKPOT!!! | 0.20% | ~273 |
+| Anything not Nailed Down | 0.20% | ~273 |
 | The Greatest Grind | 0.20% | ~273 |
 | All or Nothing! | 0.20% | ~273 |
 | Marvels from the World Over | 0.20% | ~273 |
@@ -115,7 +116,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.10% | ~137 |
 | Capitalist Camaraderie | 0.10% | ~137 |
 | Merchant Extraordinaire | 0.10% | ~137 |
-| Anything not Nailed Down | 0.10% | ~137 |
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)

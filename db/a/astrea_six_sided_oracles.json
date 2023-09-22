@@ -276,9 +276,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -690,8 +690,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:03:57.5257539+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:03:56.7965693+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:23.0883464+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:59:41.2370483+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:03:57.5258432+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:59:28.041954+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:03:56.796658+00:00"
 }

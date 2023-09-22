@@ -111,49 +111,49 @@
       "ID": "ACH_12",
       "SetID": "15cie2",
       "Name": "The Witch\u2019s Haunt",
-      "Percentage": 45,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_13",
       "SetID": "15cie2",
       "Name": "Trapped in Time",
-      "Percentage": 36,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_14",
       "SetID": "15cie2",
       "Name": "A Cabin Boy with Potential",
-      "Percentage": 27,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_15",
       "SetID": "15cie2",
       "Name": "Don\u2019t Touch the Rum!",
-      "Percentage": 27,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_16",
       "SetID": "15cie2",
       "Name": "Oh... You didn\u0027t think to bring it?",
-      "Percentage": 27,
+      "Percentage": 18,
       "XP": 160,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_17",
       "SetID": "15cie2",
       "Name": "A Cautious Man Is Worth Two of His Kind",
-      "Percentage": 36,
+      "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_2",
@@ -191,9 +191,9 @@
       "ID": "ACH_6",
       "SetID": "15cie2",
       "Name": "Survivor",
-      "Percentage": 36,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_7",
@@ -207,17 +207,17 @@
       "ID": "ACH_8",
       "SetID": "15cie2",
       "Name": "The Last Skull",
-      "Percentage": 18,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_9",
       "SetID": "15cie2",
       "Name": "Master of Riddles",
-      "Percentage": 36,
+      "Percentage": 27,
       "XP": 160,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -232,8 +232,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:03:27.5447923+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:03:26.3096027+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:52.9691725+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:57:28.8439798+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:03:27.5448142+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:57:23.0809145+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:03:26.3096133+00:00"
 }

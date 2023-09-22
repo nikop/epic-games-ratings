@@ -6,43 +6,43 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~289,580 |
-| Full garage | 60.00% | ~238,011 |
-| To the eyeballs! | 51.00% | ~202,309 |
-| Individual delivery | 46.00% | ~182,475 |
-| Non-Stop | 44.00% | ~174,541 |
-| Juggler | 36.00% | ~142,807 |
-| Forgot something | 35.00% | ~138,840 |
-| Close call! | 30.00% | ~119,006 |
-| Get out my way | 28.00% | ~111,072 |
-| Critical care | 26.00% | ~103,138 |
-| Common cause | 25.00% | ~99,171 |
-| Mega-railroad | 23.00% | ~91,238 |
-| Upgrade complete | 23.00% | ~91,238 |
-| Just in time! | 18.00% | ~71,403 |
-| Builder | 17.00% | ~67,436 |
+| Dealmaker | 73.00% | ~289,584 |
+| Full garage | 60.00% | ~238,014 |
+| To the eyeballs! | 51.00% | ~202,312 |
+| Individual delivery | 46.00% | ~182,477 |
+| Non-Stop | 44.00% | ~174,544 |
+| Juggler | 36.00% | ~142,808 |
+| Forgot something | 35.00% | ~138,842 |
+| Close call! | 30.00% | ~119,007 |
+| Get out my way | 28.00% | ~111,073 |
+| Critical care | 26.00% | ~103,139 |
+| Common cause | 25.00% | ~99,172 |
+| Mega-railroad | 23.00% | ~91,239 |
+| Upgrade complete | 23.00% | ~91,239 |
+| Just in time! | 18.00% | ~71,404 |
+| Builder | 17.00% | ~67,437 |
 | Steam Age | 16.00% | ~63,470 |
-| Long Haul | 16.00% | ~63,364 |
-| Bridgemania | 14.00% | ~55,536 |
-| Multilevel road | 14.00% | ~55,536 |
-| Need to think | 14.00% | ~55,536 |
-| The Tortoise | 12.00% | ~47,602 |
-| Without a lunch break | 11.00% | ~43,635 |
-| Beginner | 10.00% | ~39,668 |
-| Relocation | 10.00% | ~39,668 |
+| Long Haul | 16.00% | ~63,365 |
+| Bridgemania | 14.00% | ~55,537 |
+| Multilevel road | 14.00% | ~55,537 |
+| Need to think | 14.00% | ~55,537 |
+| The Tortoise | 12.00% | ~47,603 |
+| Without a lunch break | 11.00% | ~43,636 |
+| Beginner | 10.00% | ~39,669 |
+| Relocation | 10.00% | ~39,669 |
 | One way | 9.00% | ~35,702 |
-| Just One More Valley | 9.00% | ~35,642 |
+| Just One More Valley | 9.00% | ~35,643 |
 | Industrial Age | 8.00% | ~31,735 |
 | Prick of conscience | 8.00% | ~31,735 |
 | Missed it! | 7.00% | ~27,768 |
 | At the last moment! | 6.00% | ~23,801 |
 | Overseer | 6.00% | ~23,801 |
 | Jewelry accuracy | 5.00% | ~19,834 |
-| Bridge builder | 4.00% | ~15,867 |
-| Electrical Age | 4.00% | ~15,867 |
-| Highlander | 4.00% | ~15,867 |
-| Large construction | 4.00% | ~15,867 |
-| Stargazer | 4.00% | ~15,867 |
+| Bridge builder | 4.00% | ~15,868 |
+| Electrical Age | 4.00% | ~15,868 |
+| Highlander | 4.00% | ~15,868 |
+| Large construction | 4.00% | ~15,868 |
+| Stargazer | 4.00% | ~15,868 |
 | Engineer | 3.00% | ~11,901 |
 | Living it large | 3.00% | ~11,901 |
 | Sabotage | 3.00% | ~11,901 |
@@ -61,7 +61,7 @@ Number of Ratings: 87  (23.09.2022)
 | Metro builder | 1.00% | ~3,967 |
 | Ouroboros | 1.00% | ~3,967 |
 | Space Age | 1.00% | ~3,967 |
-| Environmental activist | 0.80% | ~3,173 |
+| Environmental activist | 0.80% | ~3,174 |
 | BBQ | 0.60% | ~2,380 |
 | Miscalculation | 0.60% | ~2,380 |
 | Railroad tycoon | 0.40% | ~1,587 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~396 |
 | World Zapper | 0.10% | ~396 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,685 (Ranked 41)  
+Progressed: 396,690 (Ranked 41)  
 Completed: 14 (0.00%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,10 +213,10 @@ Completed: 14 (0.00%) (Ranked 285)
 | 2023-09-19 | 395,872 | 13 |
 | 2023-09-20 | 396,224 | 13 |
 | 2023-09-21 | 396,597 | 14 |
-| 2023-09-22 | 396,685 | 14 |
+| 2023-09-22 | 396,690 | 14 |
 ## Awards
 Max (Challenging Puzzles): 652  (Ranked 180)  
-Sum: 1,259 (Ranked 231)  
+Sum: 1,260 (Ranked 231)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
@@ -228,8 +228,8 @@ Diff (max vs sum): -51
 | This game is Extremely Fun | 67 |
 | This game is Highly Recommended | 62 |
 | This game has Challenging Combat | 50 |
+| This game has a Creative Community | 46 |
 | This game has Amazing Storytelling | 45 |
-| This game has a Creative Community | 45 |
 | This game has Amazing Characters | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -356,3 +356,4 @@ Diff (max vs sum): -51
 | 2023-09-19 | 4.43 | - | 640 | 1,229 |
 | 2023-09-20 | 4.43 | - | 646 | 1,240 |
 | 2023-09-21 | 4.43 | - | 652 | 1,259 |
+| 2023-09-22 | 4.43 | - | 652 | 1,260 |

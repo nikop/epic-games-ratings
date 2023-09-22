@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 486)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,246 |
-| Pay 'n' Spray | 50.00% | ~6,325 |
-| All Dressed Up for San Fierro | 26.00% | ~3,289 |
+| Getting Started | 81.00% | ~10,250 |
+| Pay 'n' Spray | 50.00% | ~6,327 |
+| All Dressed Up for San Fierro | 26.00% | ~3,290 |
 | The American Dream | 19.00% | ~2,404 |
-| School's Out | 18.00% | ~2,277 |
-| Smooth Moves | 17.00% | ~2,150 |
+| School's Out | 18.00% | ~2,278 |
+| Smooth Moves | 17.00% | ~2,151 |
 | What happens in Las Venturas... | 15.00% | ~1,898 |
 | Today Was a Good Day | 15.00% | ~1,898 |
 | Horror of the Santa Maria | 11.00% | ~1,392 |
@@ -19,8 +19,8 @@ Rating: 4.55 (Ranked 486)
 | Original Gangster | 8.00% | ~1,012 |
 | With Extra Dip | 7.00% | ~886 |
 | Saviour | 6.00% | ~759 |
-| They Can’t Stop All of Us | 5.00% | ~632 |
-| Rescue a Kitten Too? | 5.00% | ~632 |
+| They Can’t Stop All of Us | 5.00% | ~633 |
+| Rescue a Kitten Too? | 5.00% | ~633 |
 | What are the Odds | 4.00% | ~506 |
 | Bike or Biker | 3.00% | ~380 |
 | What the City Needs | 3.00% | ~380 |
@@ -33,15 +33,15 @@ Rating: 4.55 (Ranked 486)
 | Assassin | 2.00% | ~253 |
 | Public Enemy No. 1 | 2.00% | ~253 |
 | Ain’t Nothing But a G Thing | 2.00% | ~253 |
-| Hoopin' it Up | 1.00% | ~126 |
-| Lucky Spinner | 1.00% | ~126 |
-| Not a Player | 1.00% | ~126 |
-| Chick Magnet | 1.00% | ~126 |
+| Hoopin' it Up | 1.00% | ~127 |
+| Lucky Spinner | 1.00% | ~127 |
+| Not a Player | 1.00% | ~127 |
+| Chick Magnet | 1.00% | ~127 |
 | Remastered | 0.70% | ~89 |
 | ...Here we go again | 0.50% | ~63 |
 | I Ain't No Buster | 0.30% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,650 (Ranked 127)  
+Progressed: 12,654 (Ranked 127)  
 Completed: 45 (0.36%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 45 (0.36%) (Ranked 174)
 | 2023-09-19 | 12,569 | 45 |
 | 2023-09-20 | 12,599 | 45 |
 | 2023-09-21 | 12,641 | 45 |
-| 2023-09-22 | 12,650 | 45 |
+| 2023-09-22 | 12,654 | 45 |
 ## Awards
 Max (Great Boss Battles): 303  (Ranked 238)  
 Sum: 400 (Ranked 321)  

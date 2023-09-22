@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 344357,
+  "EOS_Progressed": 344358,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17945,6 +17945,11 @@
       "Time": "2023-09-22T06:06:35.697809+00:00",
       "NumProgressed": 344357,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-22T07:06:33.6733614+00:00",
+      "NumProgressed": 344358,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18084,7 +18089,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44766
+      "UsersEstimate": 44767
     },
     {
       "ID": "ach018",
@@ -18164,7 +18169,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158404
+      "UsersEstimate": 158405
     },
     {
       "ID": "ach028",
@@ -18308,7 +18313,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44766
+      "UsersEstimate": 44767
     },
     {
       "ID": "ach046",
@@ -18595,7 +18600,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 344357,
+      "Progressed": 344358,
       "Completed": 7
     }
   ],
@@ -18603,8 +18608,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-18T14:58:00.4320017+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:06:35.6978084+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:06:33.6733608+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.6830274+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:59:35.9103791+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:06:35.6980835+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:59:22.0291019+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:06:33.6735562+00:00"
 }

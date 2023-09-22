@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65944,
+  "EOS_Progressed": 65946,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15472,6 +15472,11 @@
       "Time": "2023-09-22T06:04:43.0815616+00:00",
       "NumProgressed": 65944,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-22T07:04:41.7297585+00:00",
+      "NumProgressed": 65946,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15483,7 +15488,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27037
+      "UsersEstimate": 27038
     },
     {
       "ID": "02",
@@ -15491,7 +15496,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17145
+      "UsersEstimate": 17146
     },
     {
       "ID": "03",
@@ -15667,7 +15672,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "25",
@@ -15683,7 +15688,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "27",
@@ -15715,7 +15720,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "31",
@@ -15723,7 +15728,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "32",
@@ -15731,7 +15736,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21102
+      "UsersEstimate": 21103
     },
     {
       "ID": "33",
@@ -15755,7 +15760,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22421
+      "UsersEstimate": 22422
     },
     {
       "ID": "36",
@@ -15795,7 +15800,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6594
+      "UsersEstimate": 6595
     },
     {
       "ID": "41",
@@ -15803,7 +15808,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "42",
@@ -15819,7 +15824,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12529
+      "UsersEstimate": 12530
     },
     {
       "ID": "44",
@@ -16011,28 +16016,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65944,
+      "Progressed": 65946,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29412,
+      "Progressed": 29414,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:04:43.0815609+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:04:41.7297578+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:59:12.0888056+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:04:43.0817873+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:58:58.8488991+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:04:41.7299113+00:00"
 }

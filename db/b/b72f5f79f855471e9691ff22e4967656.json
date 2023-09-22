@@ -839,9 +839,9 @@
       "ID": "questBountyHunter",
       "SetID": "ci65fo0",
       "Name": "Bounty hunter",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "questBuildShip",
@@ -959,9 +959,9 @@
       "ID": "questKillSwampMonster",
       "SetID": "ci65fo0",
       "Name": "Threat of the swamps",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "questNorthGraveyard",
@@ -1100,8 +1100,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:05:37.6467191+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:05:34.8402108+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:10.772081+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:58:14.0481534+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:05:37.6468335+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:58:03.3827595+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:05:34.8402947+00:00"
 }

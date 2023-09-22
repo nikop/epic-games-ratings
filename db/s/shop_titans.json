@@ -6180,7 +6180,7 @@
   ],
   "EOS_Progressed": 136502,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22715,9 +22715,9 @@
       "ID": "loot04",
       "SetID": "anfd17p",
       "Name": "Anything not Nailed Down",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 273
     },
     {
       "ID": "master01",
@@ -22971,8 +22971,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-22T05:00:56.7987973+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:04:20.4210765+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:04:19.6740064+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:59:42.6740872+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:04:20.4213114+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:59:29.380008+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:04:19.6742283+00:00"
 }

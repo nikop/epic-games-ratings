@@ -21,8 +21,8 @@
 | Soft Hands | 10.00% | ~9 |
 | Can't bear the weight | 9.00% | ~8 |
 | Egg On His Face | 9.00% | ~8 |
+| Mr. Magic | 9.00% | ~8 |
 | Who dat? | 9.00% | ~8 |
-| Mr. Magic | 8.00% | ~7 |
 | Batteries not Included | 8.00% | ~7 |
 | What a Winner! | 5.00% | ~5 |
 | Master Cave Plunderer | 4.00% | ~4 |

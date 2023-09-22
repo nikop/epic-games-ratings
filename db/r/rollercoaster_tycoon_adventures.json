@@ -2,7 +2,7 @@
   "ID": "canna",
   "Name": "RollerCoaster Tycoon Adventures",
   "ProductSlug": "rollercoaster-tycoon-adventures",
-  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 115,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:01.1859613+00:00",
   "LastChanged": "2023-03-31T05:57:01.1859615+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.3270942+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:00:17.4751713+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:05:09.4305801+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:00:07.3003214+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:05:07.2167353+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1527b950d46a468e988d83cbc834bb3e",
   "Name": "Togges",
   "ProductSlug": "togges-17f696",
-  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 115,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.2919031+00:00",
   "LastChanged": "2023-03-31T05:58:43.2919032+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:00.7262517+00:00",
-  "LastUpdate_Ratings": "2023-09-22T05:57:48.4128092+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:08:06.0207482+00:00"
+  "LastUpdate_Ratings": "2023-09-22T06:57:40.2087485+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:08:23.0496385+00:00"
 }

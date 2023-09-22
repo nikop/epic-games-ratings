@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7335,9 +7335,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61682,
+  "EOS_Progressed": 61684,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23720,6 +23720,11 @@
       "Time": "2023-09-22T06:03:18.8947944+00:00",
       "NumProgressed": 61682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T07:03:17.7641563+00:00",
+      "NumProgressed": 61684,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23739,7 +23744,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9252
+      "UsersEstimate": 9253
     },
     {
       "ID": "Bannerlord",
@@ -23851,7 +23856,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "God of the Arena",
@@ -23907,7 +23912,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5552
     },
     {
       "ID": "Jack of All Trades",
@@ -23955,7 +23960,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20355
+      "UsersEstimate": 20356
     },
     {
       "ID": "Lawbringer",
@@ -23963,7 +23968,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24056
+      "UsersEstimate": 24057
     },
     {
       "ID": "Lawmaker",
@@ -23979,7 +23984,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "Mastery",
@@ -24019,7 +24024,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "Ride it like you stole it",
@@ -24138,15 +24143,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61682,
+      "Progressed": 61684,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-21T23:03:00.154723+00:00",
-  "LastChanged_Achievements": "2023-09-22T06:03:18.8947937+00:00",
+  "LastChanged_Achievements": "2023-09-22T07:03:17.7641557+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.4683534+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:00:57.79213+00:00",
-  "LastUpdate_Achievements": "2023-09-22T06:03:18.894977+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:02:16.2501665+00:00",
+  "LastUpdate_Achievements": "2023-09-22T07:03:17.7642922+00:00"
 }

@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dicesmithing Time! | 100.00% | ~2 |
+| Endless Tricks | 100.00% | ~2 |
 | Mechanical Buddy | 100.00% | ~2 |
 | Meissa's Savior | 100.00% | ~2 |
 | Purification Pioneer | 100.00% | ~2 |
@@ -12,7 +13,6 @@
 | Anomaly Destroyer | 50.00% | ~1 |
 | Arch-Oracle | 50.00% | ~1 |
 | Denying Destiny | 50.00% | ~1 |
-| Endless Tricks | 50.00% | ~1 |
 | Favored by the Cosmos | 50.00% | ~1 |
 | Heart Gate | 50.00% | ~1 |
 | Loyal Partner | 50.00% | ~1 |

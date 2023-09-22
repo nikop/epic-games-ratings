@@ -14,6 +14,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 5.00% | ~834 |
 | The Scarlet Orchard | 5.00% | ~834 |
 | Taking Action | 5.00% | ~834 |
+| Homesick | 4.00% | ~667 |
 | Ancient Battleground | 4.00% | ~667 |
 | Sparkdew Crystals | 4.00% | ~667 |
 | Royal Outpost | 4.00% | ~667 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 4.00% | ~667 |
 | A Real Challenge | 4.00% | ~667 |
 | Trade Baron | 4.00% | ~667 |
-| Homesick | 3.00% | ~500 |
 | Against All Odds | 3.00% | ~500 |
 | Ruined Armory | 3.00% | ~500 |
 | Bandit Camp | 3.00% | ~500 |
