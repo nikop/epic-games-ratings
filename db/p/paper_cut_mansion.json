@@ -2,9 +2,9 @@
   "ID": "6b2aded5842a4fcbb70e6c54ebb55fd1",
   "Name": "Paper Cut Mansion",
   "ProductSlug": "paper-cut-mansion-2c67e2",
-  "Ranking_EOS_Progress": 631,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:26.6652859+00:00",
   "LastChanged": "2023-03-31T05:58:26.665286+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:53.6645864+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:57:05.3163715+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:06:24.391737+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:57:27.1604625+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:07:41.0305811+00:00"
 }

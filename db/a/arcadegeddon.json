@@ -6,8 +6,8 @@
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -811,9 +811,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9066,
+  "EOS_Progressed": 9067,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9461,6 +9461,11 @@
       "Time": "2023-09-22T04:07:29.2899682+00:00",
       "NumProgressed": 9066,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T11:08:27.2603229+00:00",
+      "NumProgressed": 9067,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -9470,9 +9475,9 @@
       "ID": "ACH_ADVENTURE_TIME",
       "SetID": "97mcd7i",
       "Name": "Adventure Time",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 7162
+      "UsersEstimate": 7072
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -9504,7 +9509,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -9536,7 +9541,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -9568,7 +9573,7 @@
       "Name": "Guardian Angel",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -9584,7 +9589,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -9592,7 +9597,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -9616,7 +9621,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8159
+      "UsersEstimate": 8160
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -9672,7 +9677,7 @@
       "Name": "Photogenic",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 7797
+      "UsersEstimate": 7798
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -9680,7 +9685,7 @@
       "Name": "Playing With Power",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6891
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -9688,7 +9693,7 @@
       "Name": "Plug It In",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7525
+      "UsersEstimate": 7526
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -9776,7 +9781,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7525
+      "UsersEstimate": 7526
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -9871,15 +9876,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9066,
+      "Progressed": 9067,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:06:57.5070756+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:08:27.2603223+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.7463066+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:59:50.0680221+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:06:57.5071482+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:01:24.2320613+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:08:27.2605281+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "2b5294e26e714e0f8647b6b4b135f34e",
   "Name": "Robocraft 2",
   "ProductSlug": "robocraft-2-230ec9",
-  "Ranking_EOS_Progress": 631,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-28T12:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-20T15:57:19.4584729+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:59:31.1082074+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:04:43.9298606+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:00:57.8845584+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:05:20.8946789+00:00"
 }

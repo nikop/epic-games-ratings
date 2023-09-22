@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -972,9 +972,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225831,
+  "EOS_Progressed": 225835,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1714,
+  "EOS_NewPlayers": 1711,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11842,6 +11842,11 @@
       "Time": "2023-09-22T10:03:15.4109144+00:00",
       "NumProgressed": 225831,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-22T11:03:09.1208173+00:00",
+      "NumProgressed": 225835,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11893,7 +11898,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "Chapter1",
@@ -12301,7 +12306,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70008
+      "UsersEstimate": 70009
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12371,9 +12376,9 @@
       "ID": "InsultLoose",
       "SetID": "50chcgj",
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1807
+      "UsersEstimate": 2033
     },
     {
       "ID": "KillDungeonLich",
@@ -12445,7 +12450,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "QuestMinstrel",
@@ -12556,21 +12561,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225831,
+      "Progressed": 225835,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225831,
+      "Progressed": 225835,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-21T20:00:13.8870562+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:03:15.4109134+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:03:09.1208167+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:59:46.3031513+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:03:15.4130063+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:01:19.2868736+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:03:09.1209998+00:00"
 }

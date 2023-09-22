@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6049,
+  "EOS_Progressed": 6051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10161,6 +10161,11 @@
       "Time": "2023-09-22T09:06:29.6865832+00:00",
       "NumProgressed": 6049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T11:06:33.9729987+00:00",
+      "NumProgressed": 6051,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10172,7 +10177,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "10",
@@ -10188,7 +10193,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "12",
@@ -10228,7 +10233,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "3",
@@ -10236,7 +10241,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "4",
@@ -10260,7 +10265,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "7",
@@ -10276,7 +10281,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "9",
@@ -10291,7 +10296,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6049,
+      "Progressed": 6051,
       "Completed": 0
     }
   ],
@@ -10299,8 +10304,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:05:36.0243228+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:06:33.9729982+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:59:14.957067+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:05:36.0243774+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:00:35.0326251+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:06:33.9730777+00:00"
 }

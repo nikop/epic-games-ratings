@@ -2,9 +2,9 @@
   "ID": "b97f9ff100744f9e85c70ac172576e18",
   "Name": "TERRACOTTA",
   "ProductSlug": "terracotta-72cc62",
-  "Ranking_EOS_Progress": 631,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-11-14T17:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.542272+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:58:38.760022+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:05:14.9394249+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:59:40.767566+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:06:04.0996873+00:00"
 }

@@ -10,9 +10,9 @@
 | Act 1 | 35.00% | ~43 |
 | Wrench | 33.00% | ~41 |
 | Purr-fect | 33.00% | ~41 |
-| Capacitors | 32.00% | ~40 |
-| Mug | 29.00% | ~36 |
-| Soldering iron | 28.00% | ~35 |
+| Capacitors | 33.00% | ~41 |
+| Mug | 30.00% | ~37 |
+| Soldering iron | 29.00% | ~36 |
 | Robot Bros | 25.00% | ~31 |
 | Act 2 | 24.00% | ~30 |
 | Harpoon | 21.00% | ~26 |
@@ -26,8 +26,8 @@
 | Photo | 14.00% | ~17 |
 | Time Capsule | 13.00% | ~16 |
 | Ticket | 13.00% | ~16 |
+| Contract | 10.00% | ~12 |
 | Baseball | 10.00% | ~12 |
-| Contract | 9.00% | ~11 |
 | VHS blogger | 9.00% | ~11 |
 | New Dawn | 9.00% | ~11 |
 | Out of the loop | 8.00% | ~10 |

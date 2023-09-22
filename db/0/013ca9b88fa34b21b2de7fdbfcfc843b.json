@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4492,
+  "EOS_Progressed": 4494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1699,
+  "EOS_NewPlayers": 1681,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1822,6 +1822,11 @@
       "Time": "2023-09-22T10:03:57.1468569+00:00",
       "NumProgressed": 4492,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T11:04:16.4450833+00:00",
+      "NumProgressed": 4494,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -1834,7 +1839,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3281
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -1842,7 +1847,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3146
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -1874,7 +1879,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -1922,7 +1927,7 @@
       "Name": "Lumberjack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -1930,7 +1935,7 @@
       "Name": "Miner 49er",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -1938,7 +1943,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -1970,7 +1975,7 @@
       "Name": "Humble Collector",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -1986,7 +1991,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2607
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -2018,7 +2023,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -2050,7 +2055,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -2113,7 +2118,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 4492,
+      "Progressed": 4494,
       "Completed": 0
     }
   ],
@@ -2121,8 +2126,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-22T07:58:59.3406859+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:03:57.1468566+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:04:16.4450812+00:00",
   "LastUpdate_AppInfo": "2023-09-22T03:57:07.0968101+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:58:39.6725759+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:03:57.1468874+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:59:43.6691059+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:04:16.445124+00:00"
 }

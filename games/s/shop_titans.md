@@ -33,12 +33,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.80% | ~1,092 |
 | On the Path to Greatness | 0.70% | ~956 |
 | Ascended | 0.70% | ~956 |
+| Research & Development | 0.70% | ~956 |
 | Vanity, Verily | 0.70% | ~956 |
 | Blank Page Syndrome | 0.70% | ~956 |
 | Efficient Floor Space | 0.70% | ~956 |
 | Gem Expert | 0.70% | ~956 |
 | Helping Hand | 0.70% | ~956 |
-| Research & Development | 0.60% | ~819 |
 | Fated Encounters | 0.60% | ~819 |
 | Power of Love | 0.60% | ~819 |
 | Flawless Fusion | 0.60% | ~819 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,508 (Ranked 69)  
+Progressed: 136,512 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,14 +274,14 @@ Completed: 153 (0.11%) (Ranked 226)
 | 2023-09-19 | 136,421 | 153 |
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
-| 2023-09-22 | 136,508 | 153 |
+| 2023-09-22 | 136,512 | 153 |
 ## Awards
-Max (Great for Beginners): 4,748  (Ranked 70)  
-Sum: 27,266 (Ranked 48)  
+Max (Great for Beginners): 4,751  (Ranked 70)  
+Sum: 27,269 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,748 |
+| This game is Great for Beginners | 4,751 |
 | This game is Relaxing | 4,013 |
 | This game has Quickly Understood Controls | 4,000 |
 | This game has Diverse Characters | 3,889 |
@@ -530,4 +530,4 @@ Diff (max vs sum): 22
 | 2023-09-19 | 3.99 | - | 4,748 | 27,259 |
 | 2023-09-20 | 3.99 | - | 4,748 | 27,260 |
 | 2023-09-21 | 3.99 | - | 4,748 | 27,265 |
-| 2023-09-22 | 3.99 | - | 4,748 | 27,266 |
+| 2023-09-22 | 3.99 | - | 4,751 | 27,269 |

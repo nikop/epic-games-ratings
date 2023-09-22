@@ -343,9 +343,9 @@
       "ID": "achievement_113",
       "SetID": "d252ncf",
       "Name": "Under Pressure",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_114",
@@ -639,9 +639,9 @@
       "ID": "achievement_32",
       "SetID": "b9pe172",
       "Name": "Charismatic",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_33",
@@ -727,9 +727,9 @@
       "ID": "achievement_42",
       "SetID": "b9pe172",
       "Name": "No One Left Behind",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_43",
@@ -975,9 +975,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_71",
@@ -1243,8 +1243,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:03:44.5019195+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:03:49.172679+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:15.2042383+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:57:54.4536709+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:03:44.5020944+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:58:38.5792133+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:03:49.1728517+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
@@ -108,9 +108,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73852,
+  "EOS_Progressed": 73854,
   "EOS_Completed": 768,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -17333,6 +17333,11 @@
       "Time": "2023-09-22T09:08:14.8472603+00:00",
       "NumProgressed": 73852,
       "NumCompleted": 768
+    },
+    {
+      "Time": "2023-09-22T11:08:36.9539747+00:00",
+      "NumProgressed": 73854,
+      "NumCompleted": 768
     }
   ],
   "TotalAchievements": 25,
@@ -17360,7 +17365,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13293
+      "UsersEstimate": 13294
     },
     {
       "ID": "Audiophile",
@@ -17376,7 +17381,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16247
+      "UsersEstimate": 16248
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -17384,7 +17389,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13293
+      "UsersEstimate": 13294
     },
     {
       "ID": "Butcher",
@@ -17416,7 +17421,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14770
+      "UsersEstimate": 14771
     },
     {
       "ID": "Hearty",
@@ -17448,7 +17453,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14770
+      "UsersEstimate": 14771
     },
     {
       "ID": "Meaty",
@@ -17472,7 +17477,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11816
+      "UsersEstimate": 11817
     },
     {
       "ID": "Nothing Left to Say",
@@ -17543,7 +17548,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73852,
+      "Progressed": 73854,
       "Completed": 768
     }
   ],
@@ -17551,8 +17556,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:07:04.4045746+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:08:36.9539742+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:57:59.2922878+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:07:04.4046674+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:58:46.2020566+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:08:36.9541399+00:00"
 }

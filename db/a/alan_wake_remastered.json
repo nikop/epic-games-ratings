@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65949,
+  "EOS_Progressed": 65950,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15487,6 +15487,11 @@
       "Time": "2023-09-22T10:05:01.4928792+00:00",
       "NumProgressed": 65949,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-22T11:05:45.3851004+00:00",
+      "NumProgressed": 65950,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15498,7 +15503,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27039
+      "UsersEstimate": 27040
     },
     {
       "ID": "02",
@@ -15514,7 +15519,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16487
+      "UsersEstimate": 16488
     },
     {
       "ID": "04",
@@ -15546,7 +15551,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "08",
@@ -15554,7 +15559,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "09",
@@ -15578,7 +15583,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "12",
@@ -15586,7 +15591,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "13",
@@ -15650,7 +15655,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "21",
@@ -15690,7 +15695,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5935
+      "UsersEstimate": 5936
     },
     {
       "ID": "26",
@@ -15706,7 +15711,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "28",
@@ -15714,7 +15719,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "29",
@@ -15738,7 +15743,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     },
     {
       "ID": "32",
@@ -15818,7 +15823,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     },
     {
       "ID": "42",
@@ -15874,7 +15879,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "49",
@@ -16033,21 +16038,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65949,
+      "Progressed": 65950,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29417,
+      "Progressed": 29418,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:05:01.492879+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:05:45.3850999+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:58:58.7653933+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:05:01.4930006+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:00:10.3650012+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:05:45.3853333+00:00"
 }

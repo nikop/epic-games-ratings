@@ -2,9 +2,9 @@
   "ID": "7d1513e400224d02bec9a57387c101b7",
   "Name": "Dollhouse",
   "ProductSlug": "dollhouse-de0de7",
-  "Ranking_EOS_Progress": 631,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-29T08:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.5358317+00:00",
   "LastChanged": "2023-03-31T05:58:21.5358318+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:54.9147929+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:00:03.9823433+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:06:59.000451+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:01:46.4978316+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:08:29.3387072+00:00"
 }

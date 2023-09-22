@@ -585,10 +585,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 266,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-09-22T11:01:43.6816519+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 267,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 266,
+  "NumberOfAwards": 267,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -620,7 +626,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -653,9 +659,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2912,
+  "EOS_Progressed": 2920,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5208,6 +5214,11 @@
       "Time": "2023-09-22T10:04:29.486355+00:00",
       "NumProgressed": 2912,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T11:05:01.3050863+00:00",
+      "NumProgressed": 2920,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5252,7 +5263,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5260,7 +5271,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5268,7 +5279,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 526
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5276,7 +5287,7 @@
       "Name": "First Strike",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5300,7 +5311,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -5308,7 +5319,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -5316,7 +5327,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5332,7 +5343,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5340,7 +5351,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -5348,7 +5359,7 @@
       "Name": "On this Episode!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -5356,7 +5367,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5372,7 +5383,7 @@
       "Name": "Spending Spree",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5380,7 +5391,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5388,7 +5399,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5403,15 +5414,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2912,
+      "Progressed": 2920,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-09-21T19:01:04.8018723+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:04:29.4863545+00:00",
+  "LastChanged": "2023-09-22T11:01:43.6816518+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:05:01.3050857+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:00:02.2998875+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:04:29.4863887+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:01:43.6816524+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:05:01.3051396+00:00"
 }

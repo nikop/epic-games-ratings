@@ -52,7 +52,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 1.00% | ~433 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43,288 (Ranked 97)  
-Completed: 238 (0.55%) (Ranked 154)  
+Completed: 238 (0.55%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

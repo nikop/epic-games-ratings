@@ -5,7 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 75.00% | ~6 |
-| Off to a good start | 50.00% | ~4 |
+| Off to a good start | 63.00% | ~5 |
+| Safety ain't the point of a joyride | 25.00% | ~2 |
 | Best star-pilot in the galaxy | 25.00% | ~2 |
 | What's the cargo? | 13.00% | ~1 |
 | Playing the objective | 13.00% | ~1 |
@@ -21,7 +22,6 @@
 | Precision shot | 13.00% | ~1 |
 | Scrap collector | 13.00% | ~1 |
 | All right, I'll give it a try | 13.00% | ~1 |
-| Safety ain't the point of a joyride | 13.00% | ~1 |
 | I suggest a new strategy | 13.00% | ~1 |
 | Do... or do not. There is no try | 13.00% | ~1 |
 | Judge me by my size, do you? | 13.00% | ~1 |

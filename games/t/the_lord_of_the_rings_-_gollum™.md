@@ -14,13 +14,13 @@
 | The Breeder | 23.00% | ~120 |
 | The Veteran | 19.00% | ~99 |
 | The Traitor | 16.00% | ~84 |
-| The Spider | 14.00% | ~73 |
+| The Spider | 15.00% | ~78 |
 | Good as Fish | 12.00% | ~63 |
 | Her Eyes | 11.00% | ~57 |
 | Gollum/Sméagol | 10.00% | ~52 |
 | Trigger-Happy | 10.00% | ~52 |
+| He's so Annoying | 9.00% | ~47 |
 | Murderer | 9.00% | ~47 |
-| He's so Annoying | 8.00% | ~42 |
 | The Friend | 8.00% | ~42 |
 | Master of the Old Game | 6.00% | ~31 |
 | Made a Song | 5.00% | ~26 |

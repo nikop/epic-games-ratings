@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.79,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -874,6 +874,11 @@
       "Time": "2023-09-22T10:09:18.4964456+00:00",
       "NumProgressed": 188,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-22T11:09:22.3936458+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 25,
@@ -885,7 +890,7 @@
       "Name": "I did it",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "END_GOOD",
@@ -971,9 +976,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -981,7 +986,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -989,7 +994,7 @@
       "Name": "Rascal",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1013,7 +1018,7 @@
       "Name": "Fashion victim",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1037,7 +1042,7 @@
       "Name": "Scholar",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "PROGRESS_N1",
@@ -1045,7 +1050,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "PROGRESS_N2",
@@ -1061,15 +1066,15 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "PROGRESS_N5",
@@ -1077,21 +1082,21 @@
       "Name": "One last step",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:09:18.4964451+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:09:22.3936455+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:00:18.5826488+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:09:18.4964634+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:02:08.0204444+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:09:22.3936672+00:00"
 }

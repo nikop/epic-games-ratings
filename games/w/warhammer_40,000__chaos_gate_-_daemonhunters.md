@@ -26,9 +26,9 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
+| Daemonkeeper | 0.90% | ~29 |
 | Efficient Killer | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
-| Daemonkeeper | 0.80% | ~26 |
 | Only in Death | 0.80% | ~26 |
 | Long Distance Call | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,227 (Ranked 175)  
+Progressed: 3,228 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 0 (0.00%) (Ranked 286)
 | 2023-09-19 | 3,217 | 0 |
 | 2023-09-20 | 3,219 | 0 |
 | 2023-09-21 | 3,225 | 0 |
-| 2023-09-22 | 3,227 | 0 |
+| 2023-09-22 | 3,228 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
 Sum: 474 (Ranked 307)  

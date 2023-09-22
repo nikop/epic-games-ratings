@@ -2,7 +2,7 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 116,
@@ -147,9 +147,9 @@
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 65,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NoOneLeft",
@@ -211,9 +211,9 @@
       "ID": "WaitingForSalvation",
       "SetID": "7m88n8p",
       "Name": "Waiting for Salvation",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 65,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WhoseChild",
@@ -234,8 +234,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:04:17.3118674+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:04:44.3828957+00:00",
   "LastUpdate_AppInfo": "2023-09-18T04:57:02.6952136+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:00:03.8558384+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:04:17.3118816+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:01:46.3037248+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:04:44.3829126+00:00"
 }

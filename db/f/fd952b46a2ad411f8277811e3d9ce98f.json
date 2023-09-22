@@ -2,9 +2,9 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5787,
+  "EOS_Progressed": 5894,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1639,
+  "EOS_NewPlayers": 1745,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2144,6 +2144,11 @@
       "Time": "2023-09-22T10:05:24.5199205+00:00",
       "NumProgressed": 5787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T11:06:17.5725466+00:00",
+      "NumProgressed": 5894,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2250,9 +2255,9 @@
       "ID": "kills_1",
       "SetID": "413a09o",
       "Name": "Rookie Rumble",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1532
     },
     {
       "ID": "kills_100",
@@ -2308,7 +2313,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 295
     },
     {
       "ID": "revives_25",
@@ -2348,7 +2353,7 @@
       "Name": "Top Toy",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "top10_10",
@@ -2356,7 +2361,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -2388,7 +2393,7 @@
       "Name": "Toy Commander",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -2403,13 +2408,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 5787,
+      "Progressed": 5894,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:05:24.5199202+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:06:17.5725461+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:00:36.9701041+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:05:24.5199509+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:02:34.1369636+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:06:17.5725958+00:00"
 }

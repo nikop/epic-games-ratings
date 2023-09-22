@@ -5,18 +5,18 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~1,006 |
-| On the Top Step | 85.00% | ~930 |
-| Setting up for Success | 75.00% | ~820 |
-| Team Orders | 74.00% | ~810 |
-| Engineer | 55.00% | ~602 |
-| Familiar Faces | 46.00% | ~503 |
-| Going the Extra Mile | 42.00% | ~459 |
-| Sharing the Love | 38.00% | ~416 |
-| Hitting a Season | 37.00% | ~405 |
-| Challenge Yourself | 33.00% | ~361 |
-| A Dozen Pieces | 32.00% | ~350 |
-| Making History | 32.00% | ~350 |
+| Getting on the Step | 92.00% | ~1,008 |
+| On the Top Step | 85.00% | ~932 |
+| Setting up for Success | 75.00% | ~822 |
+| Team Orders | 75.00% | ~822 |
+| Engineer | 55.00% | ~603 |
+| Familiar Faces | 46.00% | ~504 |
+| Going the Extra Mile | 42.00% | ~460 |
+| Sharing the Love | 39.00% | ~427 |
+| Hitting a Season | 37.00% | ~406 |
+| Challenge Yourself | 33.00% | ~362 |
+| A Dozen Pieces | 32.00% | ~351 |
+| Making History | 32.00% | ~351 |
 | Writing a new Chapter | 25.00% | ~274 |
 | Spring Cleaning | 23.00% | ~252 |
 | Network Success | 22.00% | ~241 |
@@ -32,11 +32,11 @@ Rating: 4.67 (Ranked 259)
 | Reuse | 16.00% | ~175 |
 | Recycle | 13.00% | ~142 |
 | Tinkerer | 13.00% | ~142 |
-| All in a Weekend's Work | 12.00% | ~131 |
-| Spinning Around | 12.00% | ~131 |
-| Eagle Eye | 11.00% | ~120 |
-| Undisputed Winner | 11.00% | ~120 |
-| Switcheroo | 10.00% | ~109 |
+| All in a Weekend's Work | 12.00% | ~132 |
+| Spinning Around | 12.00% | ~132 |
+| Eagle Eye | 11.00% | ~121 |
+| Undisputed Winner | 11.00% | ~121 |
+| Switcheroo | 10.00% | ~110 |
 | For all Those Back at the Factory | 8.00% | ~88 |
 | Friendly Competition | 8.00% | ~88 |
 | Loyal Bond | 7.00% | ~77 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 259)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,094 (Ranked 221)  
+Progressed: 1,096 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 286)
 | 2023-09-19 | 528 | 0 |
 | 2023-09-20 | 812 | 0 |
 | 2023-09-21 | 1,052 | 0 |
-| 2023-09-22 | 1,094 | 0 |
+| 2023-09-22 | 1,096 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

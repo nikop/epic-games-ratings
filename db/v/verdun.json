@@ -6,7 +6,7 @@
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 58871,
+  "EOS_Progressed": 58873,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18708,6 +18708,11 @@
       "Time": "2023-09-22T10:03:19.7683524+00:00",
       "NumProgressed": 58871,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-22T11:03:15.0426328+00:00",
+      "NumProgressed": 58873,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -18719,7 +18724,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 32379
+      "UsersEstimate": 32380
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -18839,7 +18844,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14129
+      "UsersEstimate": 14130
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -18847,7 +18852,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -18951,7 +18956,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15306
+      "UsersEstimate": 15307
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -18983,7 +18988,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23548
+      "UsersEstimate": 23549
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -19007,7 +19012,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37089
+      "UsersEstimate": 37090
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -19031,7 +19036,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14129
+      "UsersEstimate": 14130
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -19087,7 +19092,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 45331
+      "UsersEstimate": 45332
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -19095,7 +19100,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -19159,7 +19164,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -19175,7 +19180,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -19183,22 +19188,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 21782
+      "UsersEstimate": 21783
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 58871,
+      "Progressed": 58873,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:03:19.768352+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:03:15.0426323+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:45.4198616+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:59:55.8629441+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:03:19.7684778+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:01:32.6090659+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:03:15.0428143+00:00"
 }

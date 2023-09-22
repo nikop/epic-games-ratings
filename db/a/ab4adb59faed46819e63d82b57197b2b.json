@@ -2,9 +2,9 @@
   "ID": "ab4adb59faed46819e63d82b57197b2b",
   "Name": "The Crackpet Show: Happy Tree Friends Edition",
   "ProductSlug": "the-crackpet-show-0bf5c4",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-27T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-09-22T09:08:59.0431254+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T11:09:25.8493458+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -153,7 +158,7 @@
       "ID": "DO_N_RUNS_0",
       "SetID": "dcng643",
       "Name": "Newbie",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -209,9 +214,9 @@
       "ID": "FINISH_TUTORIAL",
       "SetID": "dcng643",
       "Name": "Good Student",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FLAWLESS_BOSS_KILL",
@@ -706,13 +711,13 @@
     {
       "ID": "dcng643",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:09:20.9623827+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:09:25.8493453+00:00",
   "LastUpdate_AppInfo": "2023-09-21T17:57:07.2566661+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:57:25.7988294+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:09:20.9624529+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:57:54.9881246+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:09:25.849419+00:00"
 }

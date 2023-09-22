@@ -245,17 +245,17 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 70,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "EpicACHV_14",
@@ -317,17 +317,17 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 70,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 55,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "EpicACHV_7",
@@ -364,8 +364,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:05:53.2871908+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:06:57.5699853+00:00",
   "LastUpdate_AppInfo": "2023-09-20T05:57:18.1386225+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:00:19.3688382+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:05:53.2871995+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:02:09.1531555+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:06:57.57+00:00"
 }

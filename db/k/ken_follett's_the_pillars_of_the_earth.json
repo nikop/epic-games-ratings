@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15321,
+  "EOS_Progressed": 15323,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10587,6 +10587,11 @@
       "Time": "2023-09-22T09:04:44.1091326+00:00",
       "NumProgressed": 15321,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-22T11:04:29.5099811+00:00",
+      "NumProgressed": 15323,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10614,7 +10619,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3677
+      "UsersEstimate": 3678
     },
     {
       "ID": "tpote_achievement_12",
@@ -10638,7 +10643,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "tpote_achievement_15",
@@ -10670,7 +10675,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "tpote_achievement_19",
@@ -10686,7 +10691,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "tpote_achievement_20",
@@ -10702,7 +10707,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4597
     },
     {
       "ID": "tpote_achievement_22",
@@ -10710,7 +10715,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "tpote_achievement_23",
@@ -10726,7 +10731,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "tpote_achievement_25",
@@ -10814,7 +10819,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "tpote_achievement_35",
@@ -10886,7 +10891,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3677
+      "UsersEstimate": 3678
     },
     {
       "ID": "tpote_achievement_6",
@@ -10894,7 +10899,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3677
+      "UsersEstimate": 3678
     },
     {
       "ID": "tpote_achievement_7",
@@ -10902,7 +10907,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "tpote_achievement_8",
@@ -10918,22 +10923,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5362
+      "UsersEstimate": 5363
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15321,
+      "Progressed": 15323,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:04:06.4657206+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:04:29.5099805+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:57:29.534395+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:04:06.4657962+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:58:01.3386488+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:04:29.5101688+00:00"
 }

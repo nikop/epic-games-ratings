@@ -5,30 +5,30 @@ Rating: 4.51 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,801 |
-| Stogie for Fogey | 26.00% | ~2,995 |
-| Martian Music | 25.00% | ~2,880 |
-| Captain Drummer | 25.00% | ~2,880 |
-| Celebrations are in Order | 24.00% | ~2,764 |
-| Spore Taste | 23.00% | ~2,649 |
-| The Pit and the Pirates | 21.00% | ~2,419 |
-| Drone Dodger | 20.00% | ~2,304 |
-| Doctor Approved | 18.00% | ~2,073 |
-| Thorston Mayer | 14.00% | ~1,613 |
-| Bottoms up! | 11.00% | ~1,267 |
-| Bosmang | 7.00% | ~806 |
-| Data Logger | 6.00% | ~691 |
-| Data Archivist | 5.00% | ~576 |
-| Heal Thy Medic | 5.00% | ~576 |
-| Call it Even | 5.00% | ~576 |
-| Data Master | 5.00% | ~576 |
-| Data Recoverer | 5.00% | ~576 |
+| Impossible Objects | 33.00% | ~3,805 |
+| Stogie for Fogey | 26.00% | ~2,998 |
+| Martian Music | 25.00% | ~2,883 |
+| Captain Drummer | 25.00% | ~2,883 |
+| Celebrations are in Order | 24.00% | ~2,767 |
+| Spore Taste | 23.00% | ~2,652 |
+| The Pit and the Pirates | 21.00% | ~2,422 |
+| Drone Dodger | 20.00% | ~2,306 |
+| Doctor Approved | 18.00% | ~2,076 |
+| Thorston Mayer | 14.00% | ~1,614 |
+| Bottoms up! | 11.00% | ~1,268 |
+| Bosmang | 7.00% | ~807 |
+| Data Logger | 6.00% | ~692 |
+| Data Archivist | 5.00% | ~577 |
+| Heal Thy Medic | 5.00% | ~577 |
+| Call it Even | 5.00% | ~577 |
+| Data Master | 5.00% | ~577 |
+| Data Recoverer | 5.00% | ~577 |
 | Khan's Revenge | 4.00% | ~461 |
 | Miraculous Maya | 3.00% | ~346 |
 | Debris Spree | 3.00% | ~346 |
-| Urshanabi Hoarder | 2.00% | ~230 |
-| No Belter Left Behind | 2.00% | ~230 |
-| Grave Robber | 2.00% | ~230 |
+| Urshanabi Hoarder | 2.00% | ~231 |
+| No Belter Left Behind | 2.00% | ~231 |
+| Grave Robber | 2.00% | ~231 |
 | Data Miner | 1.00% | ~115 |
 | Brother's Reaper | 1.00% | ~115 |
 | Scavenger Star | 0.20% | ~23 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 547)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,518 (Ranked 130)  
+Progressed: 11,531 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 286)
 | 2023-09-19 | 10,886 | 0 |
 | 2023-09-20 | 11,076 | 0 |
 | 2023-09-21 | 11,365 | 0 |
-| 2023-09-22 | 11,518 | 0 |
+| 2023-09-22 | 11,531 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

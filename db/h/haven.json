@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1448,
+  "EOS_Progressed": 1449,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1759,6 +1759,11 @@
       "Time": "2023-09-21T23:08:06.5321987+00:00",
       "NumProgressed": 1448,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-22T11:07:58.097863+00:00",
+      "NumProgressed": 1449,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1834,7 +1839,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "18",
@@ -1930,7 +1935,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "30",
@@ -1976,9 +1981,9 @@
       "ID": "6",
       "SetID": "n50no0",
       "Name": "Life\u2019s short, ride long",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 652
     },
     {
       "ID": "7",
@@ -1994,7 +1999,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "9",
@@ -2009,15 +2014,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1448,
+      "Progressed": 1449,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:06:36.7230893+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:07:58.0978625+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.4812312+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:00:30.6048498+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:06:36.7231142+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:02:25.1984613+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:07:58.0979314+00:00"
 }

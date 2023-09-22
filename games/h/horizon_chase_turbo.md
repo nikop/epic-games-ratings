@@ -6,16 +6,16 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~943,461 |
-| I Need a Bigger Garage | 63.00% | ~660,423 |
-| Pump my Ride | 47.00% | ~492,696 |
-| Ghostbuster | 33.00% | ~345,936 |
-| Call Roadside Assistance | 18.00% | ~188,692 |
-| That Was Close | 18.00% | ~188,692 |
-| Quickie | 11.00% | ~115,312 |
-| California Dreamer | 7.00% | ~73,380 |
-| Can't Touch This | 5.00% | ~52,414 |
-| Comeback | 4.00% | ~41,932 |
+| The First of Many | 90.00% | ~943,483 |
+| I Need a Bigger Garage | 63.00% | ~660,438 |
+| Pump my Ride | 47.00% | ~492,708 |
+| Ghostbuster | 33.00% | ~345,944 |
+| Call Roadside Assistance | 18.00% | ~188,697 |
+| That Was Close | 18.00% | ~188,697 |
+| Quickie | 11.00% | ~115,315 |
+| California Dreamer | 7.00% | ~73,382 |
+| Can't Touch This | 5.00% | ~52,416 |
+| Comeback | 4.00% | ~41,933 |
 | Driver from Ipanema | 3.00% | ~31,449 |
 | Carménère Taster | 3.00% | ~31,449 |
 | Supersonic | 3.00% | ~31,449 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,483 |
 | Crocodile Hunter | 0.90% | ~9,435 |
 | Old Master | 0.90% | ~9,435 |
-| Volcano Surfer | 0.80% | ~8,386 |
-| Otaku | 0.80% | ~8,386 |
+| Volcano Surfer | 0.80% | ~8,387 |
+| Otaku | 0.80% | ~8,387 |
 | Survivor | 0.60% | ~6,290 |
 | King of the World | 0.60% | ~6,290 |
-| Getting Famous | 0.50% | ~5,241 |
+| Getting Famous | 0.50% | ~5,242 |
 | Now Go Play Outside | 0.30% | ~3,145 |
 | Master of the Racetrack | 0.20% | ~2,097 |
 | Transporter | 0.10% | ~1,048 |
 | Look Mom, No Hands! | 0.10% | ~1,048 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,048,290 (Ranked 13)  
+Progressed: 1,048,314 (Ranked 13)  
 Completed: 430 (0.04%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 430 (0.04%) (Ranked 251)
 | 2023-09-19 | 1,046,909 | 428 |
 | 2023-09-20 | 1,047,518 | 429 |
 | 2023-09-21 | 1,048,077 | 430 |
-| 2023-09-22 | 1,048,290 | 430 |
+| 2023-09-22 | 1,048,314 | 430 |
 ## Awards
 Max (Great for Beginners): 155  (Ranked 300)  
 Sum: 1,290 (Ranked 229)  

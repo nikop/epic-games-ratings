@@ -484,9 +484,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7965,
+  "EOS_Progressed": 7966,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -8854,6 +8854,11 @@
       "Time": "2023-09-22T10:04:14.0353443+00:00",
       "NumProgressed": 7965,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-22T11:04:39.8511627+00:00",
+      "NumProgressed": 7966,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 29,
@@ -8865,7 +8870,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "ACH02",
@@ -8929,7 +8934,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH10",
@@ -8985,7 +8990,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "ACH17",
@@ -9001,7 +9006,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH19",
@@ -9057,7 +9062,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH26",
@@ -9096,7 +9101,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7965,
+      "Progressed": 7966,
       "Completed": 51
     }
   ],
@@ -9104,8 +9109,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:04:14.0353439+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:04:39.8511621+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:59:10.482344+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:04:14.0353969+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:00:27.475455+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:04:39.8512475+00:00"
 }

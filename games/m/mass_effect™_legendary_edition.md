@@ -18,9 +18,9 @@
 | Turian Ally | 53.00% | ~79 |
 | Medal of Honor | 52.00% | ~77 |
 | Meritorious Service Medal | 52.00% | ~77 |
+| Charismatic | 51.00% | ~76 |
 | Soldier | 50.00% | ~74 |
 | Soldier Ally | 50.00% | ~74 |
-| Charismatic | 50.00% | ~74 |
 | Principled | 48.00% | ~72 |
 | Asari Ally | 47.00% | ~70 |
 | Merciless | 45.00% | ~67 |
@@ -29,8 +29,8 @@
 | Paramour I | 43.00% | ~64 |
 | Scientist | 43.00% | ~64 |
 | Head Hunter | 42.00% | ~63 |
+| Operative | 41.00% | ~61 |
 | Krogan Ally | 40.00% | ~60 |
-| Operative | 40.00% | ~60 |
 | Scholar | 40.00% | ~60 |
 | Veteran | 38.00% | ~57 |
 | Completionist | 38.00% | ~57 |
@@ -80,7 +80,7 @@
 | Untouchable | 19.00% | ~28 |
 | Eye of the Hurricane | 19.00% | ~28 |
 | Liberator | 19.00% | ~28 |
-| No One Left Behind | 17.00% | ~25 |
+| No One Left Behind | 18.00% | ~27 |
 | Giant Killer | 16.00% | ~24 |
 | Savior | 16.00% | ~24 |
 | World Shaker | 16.00% | ~24 |
@@ -92,8 +92,8 @@
 | Throw Mastery | 12.00% | ~18 |
 | Pathfinder | 12.00% | ~18 |
 | Arbiter | 11.00% | ~16 |
+| Under Pressure | 10.00% | ~15 |
 | Mail Slot | 9.00% | ~13 |
-| Under Pressure | 9.00% | ~13 |
 | Last Resort | 9.00% | ~13 |
 | Lift Mastery | 9.00% | ~13 |
 | Overload Specialist | 9.00% | ~13 |

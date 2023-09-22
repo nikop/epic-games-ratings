@@ -7481,9 +7481,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473528,
+  "EOS_Progressed": 473529,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23796,6 +23796,11 @@
       "Time": "2023-09-22T09:07:30.6882342+00:00",
       "NumProgressed": 473528,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-22T11:07:45.0438271+00:00",
+      "NumProgressed": 473529,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -23823,7 +23828,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123117
+      "UsersEstimate": 123118
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -23831,7 +23836,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175205
+      "UsersEstimate": 175206
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -23863,7 +23868,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123117
+      "UsersEstimate": 123118
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -23919,7 +23924,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142058
+      "UsersEstimate": 142059
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -23959,7 +23964,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175205
+      "UsersEstimate": 175206
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -24007,7 +24012,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89970
+      "UsersEstimate": 89971
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -24127,7 +24132,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194146
+      "UsersEstimate": 194147
     },
     {
       "ID": "achievement_head_to_head",
@@ -24183,7 +24188,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 108911
+      "UsersEstimate": 108912
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -24199,7 +24204,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123117
+      "UsersEstimate": 123118
     },
     {
       "ID": "achievement_mr_delegator",
@@ -24223,7 +24228,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 75764
+      "UsersEstimate": 75765
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -24351,7 +24356,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227293
+      "UsersEstimate": 227294
     },
     {
       "ID": "achievement_signed_a_player",
@@ -24367,7 +24372,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 108911
+      "UsersEstimate": 108912
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -24590,15 +24595,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473528,
+      "Progressed": 473529,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-22T08:59:11.7401172+00:00",
-  "LastChanged_Achievements": "2023-09-22T10:06:27.1894204+00:00",
+  "LastChanged_Achievements": "2023-09-22T11:07:45.0438267+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.5629958+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:58:16.7468898+00:00",
-  "LastUpdate_Achievements": "2023-09-22T10:06:27.1895864+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:59:08.8406532+00:00",
+  "LastUpdate_Achievements": "2023-09-22T11:07:45.04407+00:00"
 }

@@ -52,22 +52,22 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.10% | ~715 |
 | Warriors from the Mountain | 0.10% | ~715 |
 | Come Snap With Me | 0.10% | ~715 |
-| Bloody Sport | 0.10% | ~24 |
-| Deadly Venom | 0.10% | ~24 |
-| Secure, Protect, Leave | 0.10% | ~24 |
-| The best strikes are the ones we avoid | 0.10% | ~24 |
-| A Touch of Acumen | 0.10% | ~24 |
-| Crouching Tiger | 0.10% | ~24 |
-| Hidden Dragon | 0.10% | ~24 |
-| Skill and an even stronger will | 0.10% | ~24 |
-| Master of the Flying Assassins | 0.10% | ~24 |
-| Here Cometh the Iceman | 0.10% | ~24 |
-| Fighter in the Pond | 0.10% | ~24 |
-| Bonus Stage | 0.10% | ~24 |
-| Beatmaker | 0.10% | ~24 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~24 |
+| Bloody Sport | 0.10% | ~25 |
+| Deadly Venom | 0.10% | ~25 |
+| Secure, Protect, Leave | 0.10% | ~25 |
+| The best strikes are the ones we avoid | 0.10% | ~25 |
+| A Touch of Acumen | 0.10% | ~25 |
+| Crouching Tiger | 0.10% | ~25 |
+| Hidden Dragon | 0.10% | ~25 |
+| Skill and an even stronger will | 0.10% | ~25 |
+| Master of the Flying Assassins | 0.10% | ~25 |
+| Here Cometh the Iceman | 0.10% | ~25 |
+| Fighter in the Pond | 0.10% | ~25 |
+| Bonus Stage | 0.10% | ~25 |
+| Beatmaker | 0.10% | ~25 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,199 (Ranked 20)  
+Progressed: 715,200 (Ranked 20)  
 Completed: 12,898 (1.80%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 12,898 (1.80%) (Ranked 103)
 | 2023-09-19 | 715,150 | 12,896 |
 | 2023-09-20 | 715,171 | 12,897 |
 | 2023-09-21 | 715,192 | 12,897 |
-| 2023-09-22 | 715,199 | 12,898 |
+| 2023-09-22 | 715,200 | 12,898 |
 ## Awards
 Max (Great Boss Battles): 6,556  (Ranked 53)  
 Sum: 11,332 (Ranked 81)  

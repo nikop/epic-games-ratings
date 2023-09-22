@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,008 |
+| Sowwy! | 31.00% | ~70,009 |
 | Alt+F4 | 5.00% | ~11,292 |
 | Déjà vu | 4.00% | ~9,033 |
 | Where's that freaking Dwarf? | 4.00% | ~9,033 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,258 |
 | Team Building Exercise | 1.00% | ~2,258 |
 | Oh, when I'll be level 10... | 1.00% | ~2,258 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,807 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,033 |
 | Lust and Debauchery | 0.80% | ~1,807 |
 | Dead for good | 0.70% | ~1,581 |
 | Material Girl | 0.70% | ~1,581 |
@@ -50,8 +50,8 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.40% | ~903 |
 | We come in peace | 0.40% | ~903 |
 | Law and Order | 0.40% | ~903 |
-| Scholar of the Lands of Fangh | 0.30% | ~677 |
-| It's been a hard day's night | 0.30% | ~677 |
+| Scholar of the Lands of Fangh | 0.30% | ~678 |
+| It's been a hard day's night | 0.30% | ~678 |
 | Friendly fire | 0.20% | ~452 |
 | I'd rather... Just... Sing! | 0.20% | ~452 |
 | The number of the counting shalt be 7 | 0.20% | ~452 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~226 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,831 (Ranked 58)  
+Progressed: 225,835 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 3 (0.00%) (Ranked 286)
 | 2023-09-19 | 225,343 | 3 |
 | 2023-09-20 | 225,552 | 3 |
 | 2023-09-21 | 225,765 | 3 |
-| 2023-09-22 | 225,831 | 3 |
+| 2023-09-22 | 225,835 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 275)  
 Sum: 362 (Ranked 330)  

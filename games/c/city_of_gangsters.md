@@ -5,30 +5,30 @@ Rating: 4.27 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,412 |
-| Copacetic Coordination | 16.00% | ~55,100 |
-| Fronting the Money | 15.00% | ~51,656 |
-| The Dawn of Automation | 14.00% | ~48,212 |
-| Extraordinary Logistics | 14.00% | ~48,212 |
-| Dirty Money | 13.00% | ~44,768 |
-| Family First | 13.00% | ~44,768 |
-| Cleaning House | 12.00% | ~41,325 |
-| Room in the Back | 12.00% | ~41,325 |
-| Beating the Heat | 11.00% | ~37,881 |
-| Booze Baron | 11.00% | ~37,881 |
-| Friends on the Force | 10.00% | ~34,437 |
-| Neighborhood Watch | 10.00% | ~34,437 |
-| Core Corps | 8.00% | ~27,550 |
-| Sizeable Stash | 8.00% | ~27,550 |
-| Street Fighter | 7.00% | ~24,106 |
-| Friendly Gestures | 7.00% | ~24,106 |
-| People Person | 7.00% | ~24,106 |
-| Liquor Lord | 6.00% | ~20,662 |
-| Safety in Numbers | 6.00% | ~20,662 |
-| Moving Experiences | 6.00% | ~20,662 |
-| Wise Head | 6.00% | ~20,662 |
-| Show ‘em the Sugar | 6.00% | ~20,662 |
-| Killing Them Softly | 6.00% | ~20,662 |
+| Corner Clout | 46.00% | ~158,416 |
+| Copacetic Coordination | 16.00% | ~55,101 |
+| Fronting the Money | 15.00% | ~51,657 |
+| The Dawn of Automation | 14.00% | ~48,213 |
+| Extraordinary Logistics | 14.00% | ~48,213 |
+| Dirty Money | 13.00% | ~44,770 |
+| Family First | 13.00% | ~44,770 |
+| Cleaning House | 12.00% | ~41,326 |
+| Room in the Back | 12.00% | ~41,326 |
+| Beating the Heat | 11.00% | ~37,882 |
+| Booze Baron | 11.00% | ~37,882 |
+| Friends on the Force | 10.00% | ~34,438 |
+| Neighborhood Watch | 10.00% | ~34,438 |
+| Core Corps | 8.00% | ~27,551 |
+| Sizeable Stash | 8.00% | ~27,551 |
+| Street Fighter | 7.00% | ~24,107 |
+| Friendly Gestures | 7.00% | ~24,107 |
+| People Person | 7.00% | ~24,107 |
+| Liquor Lord | 6.00% | ~20,663 |
+| Safety in Numbers | 6.00% | ~20,663 |
+| Moving Experiences | 6.00% | ~20,663 |
+| Wise Head | 6.00% | ~20,663 |
+| Show ‘em the Sugar | 6.00% | ~20,663 |
+| Killing Them Softly | 6.00% | ~20,663 |
 | Street Knowledge | 5.00% | ~17,219 |
 | Oh Captain | 5.00% | ~17,219 |
 | Branching Out | 5.00% | ~17,219 |
@@ -48,11 +48,11 @@ Rating: 4.27 (Ranked 824)
 | Still Stalwart | 3.00% | ~10,331 |
 | Bees Knees Bootlegger | 3.00% | ~10,331 |
 | Tighten the Screws | 3.00% | ~10,331 |
-| One of Us | 2.00% | ~6,887 |
-| Baker’s Dozen | 2.00% | ~6,887 |
-| Dropping the Dime | 2.00% | ~6,887 |
-| Spiffy Speakeasies | 2.00% | ~6,887 |
-| Keeping Your Word | 2.00% | ~6,887 |
+| One of Us | 2.00% | ~6,888 |
+| Baker’s Dozen | 2.00% | ~6,888 |
+| Dropping the Dime | 2.00% | ~6,888 |
+| Spiffy Speakeasies | 2.00% | ~6,888 |
+| Keeping Your Word | 2.00% | ~6,888 |
 | Boxing Them In | 1.00% | ~3,444 |
 | Backroom Empire | 1.00% | ~3,444 |
 | Corner Control | 1.00% | ~3,444 |
@@ -65,11 +65,11 @@ Rating: 4.27 (Ranked 824)
 | Getting Fancy | 0.80% | ~2,755 |
 | Crossing Over | 0.80% | ~2,755 |
 | Social Butterfly | 0.50% | ~1,722 |
-| Homemade Hooch | 0.40% | ~1,377 |
-| Still Dreaming | 0.40% | ~1,377 |
-| High End Booze | 0.40% | ~1,377 |
-| Working on the Railroad | 0.40% | ~1,377 |
-| In-House Maintenance | 0.40% | ~1,377 |
+| Homemade Hooch | 0.40% | ~1,378 |
+| Still Dreaming | 0.40% | ~1,378 |
+| High End Booze | 0.40% | ~1,378 |
+| Working on the Railroad | 0.40% | ~1,378 |
+| In-House Maintenance | 0.40% | ~1,378 |
 | Bottled Up | 0.30% | ~1,033 |
 | Streetwise | 0.30% | ~1,033 |
 | Dirty Work | 0.20% | ~689 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 824)
 | High Pillow | 0.10% | ~344 |
 | Station Master | 0.10% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,373 (Ranked 43)  
+Progressed: 344,382 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,11 +241,11 @@ Completed: 7 (0.00%) (Ranked 286)
 | 2023-09-19 | 344,027 | 7 |
 | 2023-09-20 | 344,176 | 7 |
 | 2023-09-21 | 344,329 | 7 |
-| 2023-09-22 | 344,373 | 7 |
+| 2023-09-22 | 344,382 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 441)  
-Sum: 195 (Ranked 377)  
-Diff (max vs sum): 64  
+Sum: 195 (Ranked 378)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |
