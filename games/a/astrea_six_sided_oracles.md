@@ -9,8 +9,8 @@
 | Mechanical Buddy | 100.00% | ~3 |
 | Meissa's Savior | 100.00% | ~3 |
 | Purification Pioneer | 100.00% | ~3 |
+| Stellar Dismantler | 100.00% | ~3 |
 | Sanctuary Guardian | 67.00% | ~2 |
-| Stellar Dismantler | 67.00% | ~2 |
 | Wild's Keeper | 67.00% | ~2 |
 | Anomaly Destroyer | 33.00% | ~1 |
 | Arch-Oracle | 33.00% | ~1 |

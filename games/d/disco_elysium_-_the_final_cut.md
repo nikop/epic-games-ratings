@@ -31,9 +31,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Massive Torque Dork | 1.00% | ~1,285 |
 | Avowed Inframaterialist | 1.00% | ~1,285 |
 | Committee of la Responsabilité | 0.90% | ~1,156 |
-| Venture into the HARDCORE | 0.90% | ~1,156 |
 | Real Musor | 0.90% | ~1,156 |
 | Baddest Brow in Town | 0.80% | ~1,028 |
+| Venture into the HARDCORE | 0.80% | ~1,028 |
 | Networthy Individual | 0.70% | ~899 |
 | Leopard Mindset | 0.60% | ~771 |
 | Modus: Mullen | 0.30% | ~385 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,470 (Ranked 71)  
+Progressed: 128,471 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 28 (0.02%) (Ranked 260)
 | 2023-09-19 | 128,300 | 28 |
 | 2023-09-20 | 128,375 | 28 |
 | 2023-09-21 | 128,453 | 28 |
-| 2023-09-22 | 128,470 | 28 |
+| 2023-09-22 | 128,471 | 28 |
 ## Awards
 Max (Character Customization): 724  (Ranked 167)  
 Sum: 1,090 (Ranked 238)  

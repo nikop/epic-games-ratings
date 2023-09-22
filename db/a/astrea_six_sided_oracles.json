@@ -555,9 +555,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "StellarHaste",
@@ -698,8 +698,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-22T09:04:54.4622954+00:00",
+  "LastChanged_Achievements": "2023-09-22T10:04:15.3472771+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:23.0883464+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:00:40.7244774+00:00",
-  "LastUpdate_Achievements": "2023-09-22T09:04:54.4623787+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:59:31.2573656+00:00",
+  "LastUpdate_Achievements": "2023-09-22T10:04:15.3473471+00:00"
 }

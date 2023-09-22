@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3179,
+  "EOS_Progressed": 3180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5054,6 +5054,11 @@
       "Time": "2023-09-21T19:05:21.5126286+00:00",
       "NumProgressed": 3179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T10:04:59.1259525+00:00",
+      "NumProgressed": 3180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5065,7 +5070,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_BASE_10",
@@ -5145,7 +5150,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_BASE_21",
@@ -5153,7 +5158,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "ACH_BASE_22",
@@ -5369,7 +5374,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_BASE_5",
@@ -5520,13 +5525,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1361,
+      "Progressed": 1362,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3179,
+      "Progressed": 3180,
       "Completed": 0
     }
   ],
@@ -5534,8 +5539,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-09-22T09:05:45.9500708+00:00",
+  "LastChanged_Achievements": "2023-09-22T10:04:59.1259522+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.2986447+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:00:50.5223168+00:00",
-  "LastUpdate_Achievements": "2023-09-22T09:05:45.9501541+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:59:39.459885+00:00",
+  "LastUpdate_Achievements": "2023-09-22T10:04:59.1260228+00:00"
 }

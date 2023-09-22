@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -484,9 +484,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7963,
+  "EOS_Progressed": 7965,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -8849,6 +8849,11 @@
       "Time": "2023-09-22T08:04:10.5629611+00:00",
       "NumProgressed": 7963,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-22T10:04:14.0353443+00:00",
+      "NumProgressed": 7965,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 29,
@@ -8860,7 +8865,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6609
+      "UsersEstimate": 6611
     },
     {
       "ID": "ACH02",
@@ -8868,7 +8873,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "ACH03",
@@ -8884,7 +8889,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "ACH05",
@@ -8900,7 +8905,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACH07",
@@ -9004,7 +9009,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH20",
@@ -9091,7 +9096,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7963,
+      "Progressed": 7965,
       "Completed": 51
     }
   ],
@@ -9099,8 +9104,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-22T09:04:52.8705558+00:00",
+  "LastChanged_Achievements": "2023-09-22T10:04:14.0353439+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:00:16.0321321+00:00",
-  "LastUpdate_Achievements": "2023-09-22T09:04:52.8706243+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:59:10.482344+00:00",
+  "LastUpdate_Achievements": "2023-09-22T10:04:14.0353969+00:00"
 }

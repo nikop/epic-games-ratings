@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65947,
+  "EOS_Progressed": 65949,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15482,6 +15482,11 @@
       "Time": "2023-09-22T08:04:58.4023935+00:00",
       "NumProgressed": 65947,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-22T10:05:01.4928792+00:00",
+      "NumProgressed": 65949,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15493,7 +15498,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27038
+      "UsersEstimate": 27039
     },
     {
       "ID": "02",
@@ -15501,7 +15506,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17146
+      "UsersEstimate": 17147
     },
     {
       "ID": "03",
@@ -15525,7 +15530,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14508
+      "UsersEstimate": 14509
     },
     {
       "ID": "06",
@@ -15533,7 +15538,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11870
+      "UsersEstimate": 11871
     },
     {
       "ID": "07",
@@ -15741,7 +15746,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21103
+      "UsersEstimate": 21104
     },
     {
       "ID": "33",
@@ -15765,7 +15770,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22422
+      "UsersEstimate": 22423
     },
     {
       "ID": "36",
@@ -15949,7 +15954,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "59",
@@ -15965,7 +15970,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "61",
@@ -16028,21 +16033,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65947,
+      "Progressed": 65949,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29415,
+      "Progressed": 29417,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-22T09:05:48.7415342+00:00",
+  "LastChanged_Achievements": "2023-09-22T10:05:01.492879+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:00:02.717223+00:00",
-  "LastUpdate_Achievements": "2023-09-22T09:05:48.7416834+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:58:58.7653933+00:00",
+  "LastUpdate_Achievements": "2023-09-22T10:05:01.4930006+00:00"
 }

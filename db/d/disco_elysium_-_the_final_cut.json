@@ -1313,9 +1313,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128470,
+  "EOS_Progressed": 128471,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16773,6 +16773,11 @@
       "Time": "2023-09-22T09:02:33.5036664+00:00",
       "NumProgressed": 128470,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-22T10:03:24.6491006+00:00",
+      "NumProgressed": 128471,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16966,9 +16971,9 @@
       "ID": "ACH_HARDCORE_TASK",
       "SetID": "5l3ge6h",
       "Name": "Venture into the HARDCORE",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_HARDIE",
@@ -17103,15 +17108,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128470,
+      "Progressed": 128471,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-22T00:00:36.6014482+00:00",
-  "LastChanged_Achievements": "2023-09-22T09:02:33.503666+00:00",
+  "LastChanged_Achievements": "2023-09-22T10:03:24.6491003+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-22T09:01:58.8590847+00:00",
-  "LastUpdate_Achievements": "2023-09-22T09:02:33.5038082+00:00"
+  "LastUpdate_Ratings": "2023-09-22T10:00:35.4552641+00:00",
+  "LastUpdate_Achievements": "2023-09-22T10:03:24.6491954+00:00"
 }

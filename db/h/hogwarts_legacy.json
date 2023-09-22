@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7882,10 +7882,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43952,
       "NumberOfAwardsMax": 22916
+    },
+    {
+      "Time": "2023-09-22T09:58:42.7875856+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43961,
+      "NumberOfAwardsMax": 22916
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43952,
+  "NumberOfAwards": 43961,
   "NumberOfAwardsMax": 22916,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7917,7 +7923,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1086
+      "Count": 1088
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7935,13 +7941,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1043
+      "Count": 1045
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 999
+      "Count": 1004
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7962,9 +7968,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 297084,
+  "EOS_Progressed": 297085,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24702,6 +24708,11 @@
       "Time": "2023-09-22T09:06:47.6236643+00:00",
       "NumProgressed": 297084,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T10:05:51.6118233+00:00",
+      "NumProgressed": 297085,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -25072,16 +25083,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297084,
+      "Progressed": 297085,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-22T05:58:58.264886+00:00",
-  "LastChanged_Achievements": "2023-09-22T09:06:47.6236638+00:00",
+  "LastChanged": "2023-09-22T09:58:42.7875855+00:00",
+  "LastChanged_Achievements": "2023-09-22T10:05:51.6118229+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-22T08:59:44.3048211+00:00",
-  "LastUpdate_Achievements": "2023-09-22T09:06:47.6238074+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:58:42.787586+00:00",
+  "LastUpdate_Achievements": "2023-09-22T10:05:51.611927+00:00"
 }

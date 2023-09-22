@@ -127,33 +127,33 @@
       "ID": "ACH_14",
       "SetID": "15cie2",
       "Name": "A Cabin Boy with Potential",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_15",
       "SetID": "15cie2",
       "Name": "Don\u2019t Touch the Rum!",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_16",
       "SetID": "15cie2",
       "Name": "Oh... You didn\u0027t think to bring it?",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 160,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_17",
       "SetID": "15cie2",
       "Name": "A Cautious Man Is Worth Two of His Kind",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_2",
@@ -232,8 +232,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-09-22T09:04:17.8206019+00:00",
+  "LastChanged_Achievements": "2023-09-22T10:03:44.1115096+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:52.9691725+00:00",
-  "LastUpdate_Ratings": "2023-09-22T08:57:52.5270159+00:00",
-  "LastUpdate_Achievements": "2023-09-22T09:04:17.8206146+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:57:15.336476+00:00",
+  "LastUpdate_Achievements": "2023-09-22T10:03:44.1115187+00:00"
 }

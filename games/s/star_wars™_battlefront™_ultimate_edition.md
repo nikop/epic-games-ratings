@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~6 |
-| Off to a good start | 43.00% | ~3 |
-| Best star-pilot in the galaxy | 29.00% | ~2 |
-| What's the cargo? | 14.00% | ~1 |
-| Playing the objective | 14.00% | ~1 |
-| I've been waiting for you | 14.00% | ~1 |
-| "Gonk? Gonk!" | 14.00% | ~1 |
-| The power of the Force | 14.00% | ~1 |
-| When 900 years old you reach... | 14.00% | ~1 |
-| Collector | 14.00% | ~1 |
-| Tell Jabba that I've got his money | 14.00% | ~1 |
-| Distinguished | 14.00% | ~1 |
-| Determined | 14.00% | ~1 |
-| Never tell me the odds! | 14.00% | ~1 |
-| Precision shot | 14.00% | ~1 |
-| Scrap collector | 14.00% | ~1 |
-| All right, I'll give it a try | 14.00% | ~1 |
-| Safety ain't the point of a joyride | 14.00% | ~1 |
-| I suggest a new strategy | 14.00% | ~1 |
-| Do... or do not. There is no try | 14.00% | ~1 |
-| Judge me by my size, do you? | 14.00% | ~1 |
-| Not bad for a little furball | 14.00% | ~1 |
-| A good blaster at your side | 14.00% | ~1 |
-| This is a new day, a new beginning | 14.00% | ~1 |
-| Patience you must have | 14.00% | ~1 |
-| Greed can be a very powerful ally | 14.00% | ~1 |
-| Do we take prisoners? | 14.00% | ~1 |
-| Shoot first | 14.00% | ~1 |
-| City in the Clouds | 14.00% | ~1 |
-| You have your moments | 14.00% | ~1 |
-| When surrounded by war... | 14.00% | ~1 |
-| I’ll take that bet | 14.00% | ~1 |
-| That's no moon | 14.00% | ~1 |
-| Support the troops | 14.00% | ~1 |
-| Alternative solution | 14.00% | ~1 |
-| Great shot, kid! | 14.00% | ~1 |
-| What will you become? | 14.00% | ~1 |
-| The circle is now complete | 14.00% | ~1 |
-| Disturbed tranquility | 14.00% | ~1 |
-| A cunning warrior | 14.00% | ~1 |
-| Don't underestimate the Force | 14.00% | ~1 |
+| New Recruit | 75.00% | ~6 |
+| Off to a good start | 50.00% | ~4 |
+| Best star-pilot in the galaxy | 25.00% | ~2 |
+| What's the cargo? | 13.00% | ~1 |
+| Playing the objective | 13.00% | ~1 |
+| I've been waiting for you | 13.00% | ~1 |
+| "Gonk? Gonk!" | 13.00% | ~1 |
+| The power of the Force | 13.00% | ~1 |
+| When 900 years old you reach... | 13.00% | ~1 |
+| Collector | 13.00% | ~1 |
+| Tell Jabba that I've got his money | 13.00% | ~1 |
+| Distinguished | 13.00% | ~1 |
+| Determined | 13.00% | ~1 |
+| Never tell me the odds! | 13.00% | ~1 |
+| Precision shot | 13.00% | ~1 |
+| Scrap collector | 13.00% | ~1 |
+| All right, I'll give it a try | 13.00% | ~1 |
+| Safety ain't the point of a joyride | 13.00% | ~1 |
+| I suggest a new strategy | 13.00% | ~1 |
+| Do... or do not. There is no try | 13.00% | ~1 |
+| Judge me by my size, do you? | 13.00% | ~1 |
+| Not bad for a little furball | 13.00% | ~1 |
+| A good blaster at your side | 13.00% | ~1 |
+| This is a new day, a new beginning | 13.00% | ~1 |
+| Patience you must have | 13.00% | ~1 |
+| Greed can be a very powerful ally | 13.00% | ~1 |
+| Do we take prisoners? | 13.00% | ~1 |
+| Shoot first | 13.00% | ~1 |
+| City in the Clouds | 13.00% | ~1 |
+| You have your moments | 13.00% | ~1 |
+| When surrounded by war... | 13.00% | ~1 |
+| I’ll take that bet | 13.00% | ~1 |
+| That's no moon | 13.00% | ~1 |
+| Support the troops | 13.00% | ~1 |
+| Alternative solution | 13.00% | ~1 |
+| Great shot, kid! | 13.00% | ~1 |
+| What will you become? | 13.00% | ~1 |
+| The circle is now complete | 13.00% | ~1 |
+| Disturbed tranquility | 13.00% | ~1 |
+| A cunning warrior | 13.00% | ~1 |
+| Don't underestimate the Force | 13.00% | ~1 |
 | A New Hope | 0.00% | ~0 |
 | That got him! | 0.00% | ~0 |
 | Hold the line! | 0.00% | ~0 |
@@ -68,13 +68,13 @@
 | I never doubted you! | 0.00% | ~0 |
 | Crush them with one swift stroke… | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 507)  
+Progressed: 8 (Ranked 504)  
 Completed: 0 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 2 | 0 |
-| 2023-09-22 | 7 | 0 |
+| 2023-09-22 | 8 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,8 +9,8 @@
 | The First Bond | 71.00% | ~142 |
 | Novice Scavenger | 63.00% | ~126 |
 | Master Craftsman | 51.00% | ~102 |
-| First wall | 49.00% | ~98 |
-| Piggyback Expert | 47.00% | ~94 |
+| First wall | 50.00% | ~100 |
+| Piggyback Expert | 48.00% | ~96 |
 | Second wall | 35.00% | ~70 |
 | Expert Scavenger | 31.00% | ~62 |
 | Their Rock | 27.00% | ~54 |
@@ -31,7 +31,7 @@
 | True Player | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 200 (Ranked 328)  
-Completed: 2 (1.00%) (Ranked 128)  
+Completed: 2 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
