@@ -6,10 +6,10 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,839 |
+| light attack | 96.00% | ~9,840 |
 | keep it tidy | 77.00% | ~7,892 |
-| podium | 72.00% | ~7,379 |
-| medium attack | 60.00% | ~6,149 |
+| podium | 72.00% | ~7,380 |
+| medium attack | 60.00% | ~6,150 |
 | brail | 57.00% | ~5,842 |
 | good drivers have dead flies on the side windows | 42.00% | ~4,305 |
 | grocery-getter | 40.00% | ~4,100 |
@@ -19,38 +19,38 @@ Number of Ratings: 56  (23.09.2022)
 | autopilot | 21.00% | ~2,152 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,152 |
 | turbo | 20.00% | ~2,050 |
-| food tour: pretzel | 19.00% | ~1,947 |
-| bicycle race | 15.00% | ~1,537 |
-| car wash | 15.00% | ~1,537 |
+| food tour: pretzel | 19.00% | ~1,948 |
+| bicycle race | 15.00% | ~1,538 |
+| car wash | 15.00% | ~1,538 |
 | monster | 14.00% | ~1,435 |
 | the artist | 14.00% | ~1,435 |
 | perkele | 13.00% | ~1,332 |
 | night ride | 13.00% | ~1,332 |
 | snorkel | 13.00% | ~1,332 |
 | where is the stage? | 12.00% | ~1,230 |
-| maximum attack | 11.00% | ~1,127 |
+| maximum attack | 11.00% | ~1,128 |
 | espresso | 10.00% | ~1,025 |
 | parallel universe | 10.00% | ~1,025 |
 | mittens | 8.00% | ~820 |
 | samir | 8.00% | ~820 |
-| eurobeat | 7.00% | ~717 |
-| viking | 7.00% | ~717 |
-| master of rally | 7.00% | ~717 |
-| antilag | 7.00% | ~717 |
+| eurobeat | 7.00% | ~718 |
+| viking | 7.00% | ~718 |
+| master of rally | 7.00% | ~718 |
+| antilag | 7.00% | ~718 |
 | parking lot | 6.00% | ~615 |
 | oktoberfest | 6.00% | ~615 |
 | in like a lamb, out like a lion | 6.00% | ~615 |
 | group b | 5.00% | ~512 |
 | if in doubt, flat out! | 5.00% | ~512 |
 | comfy seats | 4.00% | ~410 |
-| simulator | 3.00% | ~307 |
-| real roads, real fast | 3.00% | ~307 |
+| simulator | 3.00% | ~308 |
+| real roads, real fast | 3.00% | ~308 |
 | absolute drift | 0.90% | ~92 |
 | you're here for a good time, not a long time | 0.80% | ~82 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,249 (Ranked 134)  
+Progressed: 10,250 (Ranked 134)  
 Completed: 9 (0.09%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 9 (0.09%) (Ranked 235)
 | 2023-09-19 | 10,243 | 9 |
 | 2023-09-20 | 10,246 | 9 |
 | 2023-09-21 | 10,247 | 9 |
-| 2023-09-22 | 10,249 | 9 |
+| 2023-09-22 | 10,250 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

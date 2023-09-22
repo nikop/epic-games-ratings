@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10249,
+  "EOS_Progressed": 10250,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1531,6 +1531,11 @@
       "Time": "2023-09-22T20:08:19.9752177+00:00",
       "NumProgressed": 10249,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-22T23:08:36.6227599+00:00",
+      "NumProgressed": 10250,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1582,7 +1587,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1590,7 +1595,7 @@
       "Name": "car wash",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1614,7 +1619,7 @@
       "Name": "eurobeat",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH_COLLECTIBLES_NORWAY",
@@ -1622,7 +1627,7 @@
       "Name": "viking",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH_COLLECTIBLES_SARDINIA",
@@ -1638,7 +1643,7 @@
       "Name": "master of rally",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH_COMPLETE_GROUP2",
@@ -1670,7 +1675,7 @@
       "Name": "antilag",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH_COMPLETE_GROUPB",
@@ -1766,7 +1771,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9839
+      "UsersEstimate": 9840
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1774,7 +1779,7 @@
       "Name": "maximum attack",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_MAX_SPEED_MEDIUM",
@@ -1782,7 +1787,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6149
+      "UsersEstimate": 6150
     },
     {
       "ID": "ACH_NIGHT",
@@ -1822,7 +1827,7 @@
       "Name": "simulator",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_SLIDING",
@@ -1854,7 +1859,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1870,7 +1875,7 @@
       "Name": "real roads, real fast",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_WIN_SEASON",
@@ -1878,22 +1883,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7379
+      "UsersEstimate": 7380
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10249,
+      "Progressed": 10250,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-22T22:08:23.4449941+00:00",
+  "LastChanged_Achievements": "2023-09-22T23:08:36.6227592+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.9885415+00:00",
-  "LastUpdate_Ratings": "2023-09-22T21:59:35.5066949+00:00",
-  "LastUpdate_Achievements": "2023-09-22T22:08:23.4450347+00:00"
+  "LastUpdate_Ratings": "2023-09-22T23:00:07.8020344+00:00",
+  "LastUpdate_Achievements": "2023-09-22T23:08:36.6228185+00:00"
 }

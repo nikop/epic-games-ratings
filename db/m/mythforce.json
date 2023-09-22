@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -665,9 +665,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2954,
+  "EOS_Progressed": 2956,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5275,6 +5275,11 @@
       "Time": "2023-09-22T22:04:35.5286083+00:00",
       "NumProgressed": 2954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T23:04:49.9975097+00:00",
+      "NumProgressed": 2956,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5423,7 +5428,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5470,15 +5475,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2954,
+      "Progressed": 2956,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-22T20:00:17.7288553+00:00",
-  "LastChanged_Achievements": "2023-09-22T22:04:35.5286079+00:00",
+  "LastChanged_Achievements": "2023-09-22T23:04:49.9975092+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-22T22:00:25.8043347+00:00",
-  "LastUpdate_Achievements": "2023-09-22T22:04:35.52865+00:00"
+  "LastUpdate_Ratings": "2023-09-22T23:01:09.415373+00:00",
+  "LastUpdate_Achievements": "2023-09-22T23:04:49.9979429+00:00"
 }

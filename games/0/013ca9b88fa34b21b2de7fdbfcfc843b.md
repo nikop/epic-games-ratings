@@ -5,27 +5,27 @@ Rating: 4.80 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,334 |
-| A Thorny Situation | 70.00% | ~3,197 |
-| ... And Spit Back Out | 58.00% | ~2,649 |
-| Break-Net Speed | 47.00% | ~2,146 |
-| Bramble Breaker | 43.00% | ~1,964 |
-| Miner 49er | 40.00% | ~1,827 |
-| Humble Collector | 39.00% | ~1,781 |
-| Calm Sailing | 32.00% | ~1,461 |
-| Open the Gate! | 28.00% | ~1,279 |
-| Mist Walker | 26.00% | ~1,187 |
-| Lumberjack | 22.00% | ~1,005 |
-| Oui, Chef! | 21.00% | ~959 |
+| Azoria Beckons | 73.00% | ~3,338 |
+| A Thorny Situation | 70.00% | ~3,201 |
+| ... And Spit Back Out | 58.00% | ~2,652 |
+| Break-Net Speed | 47.00% | ~2,149 |
+| Bramble Breaker | 43.00% | ~1,966 |
+| Miner 49er | 40.00% | ~1,829 |
+| Humble Collector | 39.00% | ~1,783 |
+| Calm Sailing | 32.00% | ~1,463 |
+| Open the Gate! | 28.00% | ~1,280 |
+| Mist Walker | 26.00% | ~1,189 |
+| Lumberjack | 22.00% | ~1,006 |
+| Oui, Chef! | 21.00% | ~960 |
 | Botanical Breakthrough | 13.00% | ~594 |
-| Clear the Air | 12.00% | ~548 |
-| Beach Comber | 11.00% | ~502 |
-| Higher Tax Bracket | 8.00% | ~365 |
+| Clear the Air | 12.00% | ~549 |
+| Beach Comber | 11.00% | ~503 |
+| Higher Tax Bracket | 8.00% | ~366 |
 | Search for the Hairy Grell | 7.00% | ~320 |
-| Got to Catch Them All | 5.00% | ~228 |
-| Rumble in the Jumble | 5.00% | ~228 |
-| Fanatical Farmer | 5.00% | ~228 |
-| Skilled | 5.00% | ~228 |
+| Got to Catch Them All | 5.00% | ~229 |
+| Rumble in the Jumble | 5.00% | ~229 |
+| Fanatical Farmer | 5.00% | ~229 |
+| Skilled | 5.00% | ~229 |
 | Flaming Hot Completos | 3.00% | ~137 |
 | Fae Farmer | 3.00% | ~137 |
 | I Now Pronounce You... | 3.00% | ~137 |
@@ -34,14 +34,14 @@ Rating: 4.80 (Ranked 84)
 | Chatty Neighbor | 2.00% | ~91 |
 | House Proud | 2.00% | ~91 |
 | Right Tool For the Job | 1.00% | ~46 |
-| Angling Authority | 0.60% | ~27 |
+| Angling Authority | 0.70% | ~32 |
 | Captain of Cozy | 0.60% | ~27 |
 | Cloverfield Island | 0.10% | ~5 |
 | Workaholic | 0.10% | ~5 |
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,567 (Ranked 163)  
+Progressed: 4,573 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-19 | 4,198 | 0 |
 | 2023-09-20 | 4,323 | 0 |
 | 2023-09-21 | 4,439 | 0 |
-| 2023-09-22 | 4,567 | 0 |
+| 2023-09-22 | 4,573 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

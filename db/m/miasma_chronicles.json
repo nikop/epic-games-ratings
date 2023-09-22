@@ -2,12 +2,12 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 694,
+  "Ranking_Rating": 693,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3558,9 +3558,9 @@
       "ID": "MIASMA_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Master Editor",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "NEWTONIAN_KNOCKOUT",
@@ -3678,9 +3678,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 322
     },
     {
       "ID": "WIPE_OUT",
@@ -3703,8 +3703,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-11T15:02:07.7710532+00:00",
-  "LastChanged_Achievements": "2023-09-22T22:04:51.2503842+00:00",
+  "LastChanged_Achievements": "2023-09-22T23:05:08.7404211+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.650961+00:00",
-  "LastUpdate_Ratings": "2023-09-22T22:00:07.3854957+00:00",
-  "LastUpdate_Achievements": "2023-09-22T22:04:51.2504457+00:00"
+  "LastUpdate_Ratings": "2023-09-22T23:00:46.5696989+00:00",
+  "LastUpdate_Achievements": "2023-09-22T23:05:08.7404887+00:00"
 }

@@ -73,6 +73,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.50% | ~683 |
 | Black Friday Special | 0.50% | ~683 |
 | Special Ingredient | 0.50% | ~683 |
+| Exotic Commodities | 0.50% | ~683 |
 | Complete Monopoly | 0.50% | ~683 |
 | Top of the World | 0.40% | ~546 |
 | Proud Paladin | 0.40% | ~546 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 0.40% | ~546 |
 | King's Shadow | 0.40% | ~546 |
 | Master Recycler | 0.40% | ~546 |
-| Exotic Commodities | 0.40% | ~546 |
 | Economy of Scarce | 0.40% | ~546 |
 | King's Blade | 0.40% | ~546 |
 | The Free Encyclopedia | 0.30% | ~410 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,541 (Ranked 69)  
+Progressed: 136,546 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 153 (0.11%) (Ranked 228)
 | 2023-09-19 | 136,421 | 153 |
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
-| 2023-09-22 | 136,541 | 153 |
+| 2023-09-22 | 136,546 | 153 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 70)  
 Sum: 27,274 (Ranked 48)  

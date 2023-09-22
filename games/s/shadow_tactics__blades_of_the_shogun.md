@@ -1,30 +1,30 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 283)  
+Rating: 4.66 (Ranked 282)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~22,408 |
-| A thief's beginning | 10.00% | ~20,370 |
-| Thorough | 10.00% | ~20,370 |
-| Disguised | 8.00% | ~16,296 |
-| Rescue Takuma | 8.00% | ~16,296 |
-| Rollin' | 8.00% | ~16,296 |
-| Tanuki Time | 8.00% | ~16,296 |
-| Ice Ice Yuki | 7.00% | ~14,259 |
-| Jonin | 7.00% | ~14,259 |
-| Stoned Ox | 7.00% | ~14,259 |
-| Yabu | 7.00% | ~14,259 |
-| Chunin | 6.00% | ~12,222 |
-| Flying Rocks | 6.00% | ~12,222 |
-| Happy Planning | 6.00% | ~12,222 |
-| Mugen Unchained | 6.00% | ~12,222 |
-| Warzone | 6.00% | ~12,222 |
-| Okkoto | 5.00% | ~10,185 |
-| Prisoners | 5.00% | ~10,185 |
-| Too Early | 5.00% | ~10,185 |
+| A thief's beginning | 10.00% | ~20,371 |
+| Thorough | 10.00% | ~20,371 |
+| Disguised | 8.00% | ~16,297 |
+| Rescue Takuma | 8.00% | ~16,297 |
+| Rollin' | 8.00% | ~16,297 |
+| Tanuki Time | 8.00% | ~16,297 |
+| Ice Ice Yuki | 7.00% | ~14,260 |
+| Jonin | 7.00% | ~14,260 |
+| Stoned Ox | 7.00% | ~14,260 |
+| Yabu | 7.00% | ~14,260 |
+| Chunin | 6.00% | ~12,223 |
+| Flying Rocks | 6.00% | ~12,223 |
+| Happy Planning | 6.00% | ~12,223 |
+| Mugen Unchained | 6.00% | ~12,223 |
+| Warzone | 6.00% | ~12,223 |
+| Okkoto | 5.00% | ~10,186 |
+| Prisoners | 5.00% | ~10,186 |
+| Too Early | 5.00% | ~10,186 |
 | Gear up | 4.00% | ~8,148 |
 | Happy little accidents | 4.00% | ~8,148 |
 | Still Rollin' | 4.00% | ~8,148 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~204 |
 | Release the Kraken | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,705 (Ranked 62)  
+Progressed: 203,710 (Ranked 62)  
 Completed: 86 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 86 (0.04%) (Ranked 254)
 | 2023-09-19 | 203,185 | 82 |
 | 2023-09-20 | 203,354 | 83 |
 | 2023-09-21 | 203,528 | 84 |
-| 2023-09-22 | 203,705 | 86 |
+| 2023-09-22 | 203,710 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,766 (Ranked 136)  

@@ -4,17 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Endless Tricks | 100.00% | ~5 |
 | Mechanical Buddy | 100.00% | ~5 |
 | Meissa's Savior | 100.00% | ~5 |
 | Purification Pioneer | 100.00% | ~5 |
 | Dicesmithing Time! | 80.00% | ~4 |
-| Endless Tricks | 80.00% | ~4 |
-| Sanctuary Guardian | 60.00% | ~3 |
+| Sanctuary Guardian | 80.00% | ~4 |
+| Mind Illuminator | 60.00% | ~3 |
 | Stellar Dismantler | 60.00% | ~3 |
-| Mind Illuminator | 40.00% | ~2 |
 | Wild's Keeper | 40.00% | ~2 |
 | Anomaly Destroyer | 20.00% | ~1 |
 | Arch-Oracle | 20.00% | ~1 |
+| Astral Adventurer | 20.00% | ~1 |
 | Denying Destiny | 20.00% | ~1 |
 | Favored by the Cosmos | 20.00% | ~1 |
 | Heart Gate | 20.00% | ~1 |
@@ -23,6 +24,7 @@
 | Sadistic Plan | 20.00% | ~1 |
 | Sentinelphobic | 20.00% | ~1 |
 | Skeptical | 20.00% | ~1 |
+| Star Killer | 20.00% | ~1 |
 | Stellar Haste | 20.00% | ~1 |
 | The Corruption Goddess | 20.00% | ~1 |
 | Unbeatable | 20.00% | ~1 |
@@ -36,7 +38,6 @@
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |
 | Artificer | 0.00% | ~0 |
-| Astral Adventurer | 0.00% | ~0 |
 | Astral Seeker | 0.00% | ~0 |
 | Astral Tinkerer | 0.00% | ~0 |
 | Astrarium of Holding | 0.00% | ~0 |
@@ -72,7 +73,6 @@
 | Royal Choir | 0.00% | ~0 |
 | Shard Spender | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
-| Star Killer | 0.00% | ~0 |
 | The Abyssal Terror | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
 | The Chaos Artisan | 0.00% | ~0 |

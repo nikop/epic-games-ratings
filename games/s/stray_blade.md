@@ -22,13 +22,13 @@
 | Witch | 9.00% | ~8 |
 | The A-Team | 9.00% | ~8 |
 | Through Dangers Untold | 8.00% | ~7 |
+| Finally! | 8.00% | ~7 |
 | Craftsmen | 7.00% | ~6 |
-| Finally! | 7.00% | ~6 |
+| A Deceiving Gift | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
 | Defeat Tezuth | 6.00% | ~5 |
 | Defeat Uskol | 6.00% | ~5 |
 | Bringing guns to a sword fight | 6.00% | ~5 |
-| A Deceiving Gift | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | Ancient Powers | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
@@ -45,10 +45,10 @@
 | Forest Expert | 1.00% | ~1 |
 | Knowledge is King | 1.00% | ~1 |
 | Bookworm | 1.00% | ~1 |
+| Trailblazer | 1.00% | ~1 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
-| Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 85 (Ranked 389)  

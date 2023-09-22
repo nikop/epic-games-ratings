@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 83.00% | ~24 |
-| Off to a good start | 62.00% | ~18 |
-| Do... or do not. There is no try | 41.00% | ~12 |
-| Great shot, kid! | 38.00% | ~11 |
-| Collector | 34.00% | ~10 |
-| Tell Jabba that I've got his money | 34.00% | ~10 |
-| Shoot first | 34.00% | ~10 |
-| The power of the Force | 31.00% | ~9 |
-| A good blaster at your side | 31.00% | ~9 |
-| What's the cargo? | 28.00% | ~8 |
-| "Gonk? Gonk!" | 28.00% | ~8 |
-| Survivor | 24.00% | ~7 |
-| I suggest a new strategy | 24.00% | ~7 |
-| Judge me by my size, do you? | 24.00% | ~7 |
-| A cunning warrior | 24.00% | ~7 |
-| Distinguished | 21.00% | ~6 |
-| Together we can rule the galaxy | 21.00% | ~6 |
-| Never tell me the odds! | 21.00% | ~6 |
-| Scrap collector | 21.00% | ~6 |
-| Patience you must have | 21.00% | ~6 |
-| Support the troops | 21.00% | ~6 |
-| Alternative solution | 21.00% | ~6 |
+| New Recruit | 83.00% | ~25 |
+| Off to a good start | 63.00% | ~19 |
+| Do... or do not. There is no try | 43.00% | ~13 |
+| Great shot, kid! | 37.00% | ~11 |
+| Collector | 33.00% | ~10 |
+| Tell Jabba that I've got his money | 33.00% | ~10 |
+| Shoot first | 33.00% | ~10 |
+| The power of the Force | 30.00% | ~9 |
+| A good blaster at your side | 30.00% | ~9 |
+| What's the cargo? | 27.00% | ~8 |
+| "Gonk? Gonk!" | 27.00% | ~8 |
+| Survivor | 23.00% | ~7 |
+| I suggest a new strategy | 23.00% | ~7 |
+| Judge me by my size, do you? | 23.00% | ~7 |
+| A cunning warrior | 23.00% | ~7 |
+| Distinguished | 20.00% | ~6 |
+| Together we can rule the galaxy | 20.00% | ~6 |
+| Never tell me the odds! | 20.00% | ~6 |
+| Scrap collector | 20.00% | ~6 |
+| Patience you must have | 20.00% | ~6 |
+| Support the troops | 20.00% | ~6 |
+| Alternative solution | 20.00% | ~6 |
 | The Force is strong with this one | 17.00% | ~5 |
 | I've been waiting for you | 17.00% | ~5 |
 | When 900 years old you reach... | 17.00% | ~5 |
@@ -36,9 +36,9 @@
 | City in the Clouds | 17.00% | ~5 |
 | That's no moon | 17.00% | ~5 |
 | What will you become? | 17.00% | ~5 |
-| Safety ain't the point of a joyride | 14.00% | ~4 |
-| Impressive. Most impressive. | 14.00% | ~4 |
-| Don't underestimate the Force | 14.00% | ~4 |
+| Safety ain't the point of a joyride | 13.00% | ~4 |
+| Impressive. Most impressive. | 13.00% | ~4 |
+| Don't underestimate the Force | 13.00% | ~4 |
 | Playing the objective | 10.00% | ~3 |
 | On the ball | 10.00% | ~3 |
 | Best star-pilot in the galaxy | 10.00% | ~3 |
@@ -68,13 +68,13 @@
 | I never doubted you! | 3.00% | ~1 |
 | Crush them with one swift stroke… | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 452)  
-Completed: 1 (3.45%) (Ranked 67)  
+Progressed: 30 (Ranked 450)  
+Completed: 1 (3.33%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 2 | 0 |
-| 2023-09-22 | 29 | 1 |
+| 2023-09-22 | 30 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

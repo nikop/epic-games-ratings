@@ -41,10 +41,10 @@
 | Style Seeker | 36.00% | ~8 |
 | Superlative View | 36.00% | ~8 |
 | Artful Assister | 36.00% | ~8 |
+| Haven Hunter | 36.00% | ~8 |
 | Canyon of Karakuri | 32.00% | ~7 |
 | Karakuri Fortress | 32.00% | ~7 |
 | Volatile Vocation | 32.00% | ~7 |
-| Haven Hunter | 32.00% | ~7 |
 | Vanquisher of the Volatile | 27.00% | ~6 |
 | Human Believer | 27.00% | ~6 |
 | Quintessence of Form | 27.00% | ~6 |

@@ -666,9 +666,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 80,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Intro",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-09-22T21:08:06.6574688+00:00",
+  "LastChanged_Achievements": "2023-09-22T23:03:12.1571944+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.5559895+00:00",
-  "LastUpdate_Ratings": "2023-09-22T21:58:27.8670071+00:00",
-  "LastUpdate_Achievements": "2023-09-22T21:08:06.6574924+00:00"
+  "LastUpdate_Ratings": "2023-09-22T22:58:42.1699851+00:00",
+  "LastUpdate_Achievements": "2023-09-22T23:03:12.1572349+00:00"
 }

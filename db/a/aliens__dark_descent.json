@@ -324,9 +324,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 3355,
+  "EOS_Progressed": 3356,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4624,6 +4624,11 @@
       "Time": "2023-09-22T21:03:31.1503407+00:00",
       "NumProgressed": 3355,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-22T23:03:32.1555116+00:00",
+      "NumProgressed": 3356,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4731,7 +4736,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4755,7 +4760,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4811,7 +4816,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4883,7 +4888,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_MISSION_09",
@@ -4891,7 +4896,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_MISSION_10",
@@ -4947,7 +4952,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4987,14 +4992,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3355,
+      "Progressed": 3356,
       "Completed": 3
     }
   ],
@@ -5002,8 +5007,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-22T22:03:20.6782296+00:00",
+  "LastChanged_Achievements": "2023-09-22T23:03:32.1555108+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-22T21:57:32.7994693+00:00",
-  "LastUpdate_Achievements": "2023-09-22T22:03:20.6782921+00:00"
+  "LastUpdate_Ratings": "2023-09-22T22:57:37.9504447+00:00",
+  "LastUpdate_Achievements": "2023-09-22T23:03:32.1556056+00:00"
 }
