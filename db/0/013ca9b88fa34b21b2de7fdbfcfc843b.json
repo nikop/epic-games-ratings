@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4439,
+  "EOS_Progressed": 4444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1752,
+  "EOS_NewPlayers": 1747,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1761,6 +1761,11 @@
       "Time": "2023-09-21T23:04:19.4352779+00:00",
       "NumProgressed": 4439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T00:03:48.4321285+00:00",
+      "NumProgressed": 4444,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -1773,7 +1778,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3244
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -1781,7 +1786,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3111
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -1789,7 +1794,7 @@
       "Name": "Calm Sailing",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1378
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -1797,7 +1802,7 @@
       "Name": "Open the Gate!",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -1861,7 +1866,7 @@
       "Name": "Lumberjack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -1869,7 +1874,7 @@
       "Name": "Miner 49er",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1778
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -1877,7 +1882,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2089
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -1885,7 +1890,7 @@
       "Name": "Beach Comber",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -1909,7 +1914,7 @@
       "Name": "Humble Collector",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1733
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -1925,7 +1930,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2622
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -1933,7 +1938,7 @@
       "Name": "Mist Walker",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -1949,7 +1954,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1911
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -1989,7 +1994,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -2052,7 +2057,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 4439,
+      "Progressed": 4444,
       "Completed": 0
     }
   ],
@@ -2060,8 +2065,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-21T07:59:20.7849471+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:04:19.4352773+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:03:48.4321281+00:00",
   "LastUpdate_AppInfo": "2023-09-15T02:57:17.8773822+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:59:50.4827435+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:04:19.4353416+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:58:47.2770313+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:03:48.4321925+00:00"
 }

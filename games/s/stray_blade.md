@@ -12,7 +12,7 @@
 | Can't touch this | 28.00% | ~23 |
 | Don't Cry Wolf | 26.00% | ~21 |
 | Freezing Cold | 20.00% | ~16 |
-| Expert | 17.00% | ~14 |
+| Expert | 18.00% | ~15 |
 | Searing Heat | 15.00% | ~12 |
 | Nothing but the Truth | 15.00% | ~12 |
 | The Golden Flash | 15.00% | ~12 |

@@ -199,8 +199,8 @@ Completed: 276 (12.31%) (Ranked 21)
 | 2023-09-19 | 2,241 | 276 |
 | 2023-09-20 | 2,242 | 276 |
 ## Awards
-Max (Challenging Puzzles): 101  (Ranked 339)  
-Sum: 101 (Ranked 419)  
+Max (Challenging Puzzles): 101  (Ranked 340)  
+Sum: 101 (Ranked 420)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |

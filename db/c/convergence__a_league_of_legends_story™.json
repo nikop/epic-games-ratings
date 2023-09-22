@@ -2593,9 +2593,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 88
     },
     {
       "ID": "SyronGift",
@@ -2682,8 +2682,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:04:51.2225418+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:04:12.1502881+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:02:53.1582916+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:04:51.2226151+00:00"
+  "LastUpdate_Ratings": "2023-09-22T00:00:50.5715858+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:04:12.1503489+00:00"
 }

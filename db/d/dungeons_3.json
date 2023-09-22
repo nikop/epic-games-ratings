@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2662,9 +2662,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30969,
+  "EOS_Progressed": 30970,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -19487,6 +19487,11 @@
       "Time": "2023-09-21T22:08:05.1137197+00:00",
       "NumProgressed": 30969,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-09-22T00:07:12.2567877+00:00",
+      "NumProgressed": 30970,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 60,
@@ -19498,7 +19503,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17962
+      "UsersEstimate": 17963
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -19514,7 +19519,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17652
+      "UsersEstimate": 17653
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -19586,7 +19591,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10529
+      "UsersEstimate": 10530
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -19594,7 +19599,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5574
+      "UsersEstimate": 5575
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -19634,7 +19639,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9600
+      "UsersEstimate": 9601
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -19730,7 +19735,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12697
+      "UsersEstimate": 12698
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -19754,7 +19759,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8671
+      "UsersEstimate": 8672
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -19834,7 +19839,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4645
+      "UsersEstimate": 4646
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -19850,7 +19855,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6503
+      "UsersEstimate": 6504
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -19858,7 +19863,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9600
+      "UsersEstimate": 9601
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -19977,15 +19982,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30969,
+      "Progressed": 30970,
       "Completed": 253
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-20T21:00:27.5455441+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:09:01.37517+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:07:12.2567873+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.8919956+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:02:26.294418+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:09:01.3753334+00:00"
+  "LastUpdate_Ratings": "2023-09-22T00:00:32.9539485+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:07:12.2569454+00:00"
 }

@@ -26,7 +26,7 @@ Number of Ratings: 154  (23.09.2022)
 | Beware Stingers! | 43.00% | ~215 |
 | Museum Time | 43.00% | ~215 |
 | Very First Mission Clear! | 43.00% | ~215 |
-| Cleared Sonic the Hedgehog 2 | 41.00% | ~205 |
+| Cleared Sonic the Hedgehog 2 | 42.00% | ~210 |
 | Beware Moto Bugs! | 40.00% | ~200 |
 | Cleared Sonic CD | 40.00% | ~200 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 36.00% | ~180 |
@@ -134,8 +134,8 @@ Completed: 42 (8.40%) (Ranked 33)
 | 2023-09-20 | 497 | 42 |
 | 2023-09-21 | 500 | 42 |
 ## Awards
-Max (Great Boss Battles): 128  (Ranked 314)  
-Sum: 128 (Ranked 407)  
+Max (Great Boss Battles): 128  (Ranked 315)  
+Sum: 128 (Ranked 408)  
 Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |

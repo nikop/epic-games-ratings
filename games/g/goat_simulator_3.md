@@ -5,26 +5,26 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~222,428 |
-| Private Club | 74.00% | ~180,875 |
-| Rogue Guild | 65.00% | ~158,877 |
-| I Watched the Intro | 57.00% | ~139,323 |
-| Covert Consortium | 55.00% | ~134,434 |
-| Goat Queen | 53.00% | ~129,546 |
-| Reach the Stratosphere | 50.00% | ~122,213 |
-| Synchronization Complete | 47.00% | ~114,880 |
-| Secret Society | 45.00% | ~109,992 |
-| Shadow Syndicate | 38.00% | ~92,882 |
+| Forgotten Sorority | 91.00% | ~222,429 |
+| Private Club | 74.00% | ~180,877 |
+| Rogue Guild | 65.00% | ~158,878 |
+| I Watched the Intro | 57.00% | ~139,324 |
+| Covert Consortium | 55.00% | ~134,435 |
+| Goat Queen | 53.00% | ~129,547 |
+| Reach the Stratosphere | 50.00% | ~122,214 |
+| Synchronization Complete | 47.00% | ~114,881 |
+| Secret Society | 45.00% | ~109,993 |
+| Shadow Syndicate | 38.00% | ~92,883 |
 | What a Waste of Money | 33.00% | ~80,661 |
 | New Goat Order | 30.00% | ~73,328 |
-| Don't touch the servers | 28.00% | ~68,439 |
-| San Angora: Become Human | 27.00% | ~65,995 |
-| Real Buoy | 27.00% | ~65,995 |
+| Don't touch the servers | 28.00% | ~68,440 |
+| San Angora: Become Human | 27.00% | ~65,996 |
+| Real Buoy | 27.00% | ~65,996 |
 | Raider of the Lost Parking Garage | 26.00% | ~63,551 |
-| Welcome to Earth | 25.00% | ~61,106 |
+| Welcome to Earth | 25.00% | ~61,107 |
 | Into the Matrix | 19.00% | ~46,441 |
 | Egg Simulator | 18.00% | ~43,997 |
-| Where is It? | 17.00% | ~41,552 |
+| Where is It? | 17.00% | ~41,553 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~36,664 |
 | Black Market | 14.00% | ~34,220 |
 | 401(K.O.) | 14.00% | ~34,220 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,467 |
 | G.O.A.T | 0.30% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,426 (Ranked 52)  
+Progressed: 244,428 (Ranked 52)  
 Completed: 832 (0.34%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 832 (0.34%) (Ranked 178)
 | 2023-09-19 | 244,277 | 831 |
 | 2023-09-20 | 244,353 | 831 |
 | 2023-09-21 | 244,426 | 832 |
+| 2023-09-22 | 244,428 | 832 |
 ## Awards
 Max (Great for Beginners): 399  (Ranked 218)  
 Sum: 3,421 (Ranked 154)  

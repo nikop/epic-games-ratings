@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -3382,7 +3382,7 @@
   ],
   "EOS_Progressed": 131406,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20662,9 +20662,9 @@
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
       "SetID": "312pgde",
       "Name": "Anyone Else?",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 49934
+      "UsersEstimate": 51248
     },
     {
       "ID": "TANNENBERG_ACH_ATLEAST_THIS_WAY_I_CAN_WIN",
@@ -21198,8 +21198,8 @@
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-09-17T01:45:51.0655581+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:09:40.9811178+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:09:20.2820667+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:04.4566069+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:57:30.4366779+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:09:40.9813923+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:57:06.1000276+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:09:20.2822452+00:00"
 }

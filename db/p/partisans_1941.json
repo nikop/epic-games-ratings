@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1405,
+  "EOS_Progressed": 1406,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2705,6 +2705,11 @@
       "Time": "2023-09-21T22:04:33.1715539+00:00",
       "NumProgressed": 1405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T00:04:12.8124267+00:00",
+      "NumProgressed": 1406,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2716,7 +2721,7 @@
       "Name": "Agent 47",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Auditor",
@@ -2762,9 +2767,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 239
     },
     {
       "ID": "Defense_Common",
@@ -2820,7 +2825,7 @@
       "Name": "Game Over",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Grenadier",
@@ -2900,7 +2905,7 @@
       "Name": "Bomberman",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "MoskitoBite",
@@ -2955,15 +2960,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1405,
+      "Progressed": 1406,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:04:52.1724365+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:04:12.8124249+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:02:29.8512253+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:04:52.1725077+00:00"
+  "LastUpdate_Ratings": "2023-09-22T00:00:35.3101949+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:04:12.8124644+00:00"
 }

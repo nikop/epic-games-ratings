@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2208,9 +2208,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25942,
+  "EOS_Progressed": 25945,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13328,6 +13328,11 @@
       "Time": "2023-09-21T23:07:09.3317244+00:00",
       "NumProgressed": 25942,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-22T00:05:51.6144168+00:00",
+      "NumProgressed": 25945,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13385,9 +13390,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     },
     {
       "ID": "Collector",
@@ -13746,7 +13751,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25942,
+      "Progressed": 25945,
       "Completed": 58
     }
   ],
@@ -13754,8 +13759,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-21T23:02:02.7089678+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:07:09.3317235+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:05:51.6144163+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:02:02.7089685+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:07:09.3318412+00:00"
+  "LastUpdate_Ratings": "2023-09-22T00:00:17.6151446+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:05:51.6145821+00:00"
 }

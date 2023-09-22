@@ -21,9 +21,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | Night Owl | 44.00% | ~57,819 |
 | Strength in Numbers | 44.00% | ~57,819 |
 | Fog of War | 41.00% | ~53,876 |
+| Anyone Else? | 39.00% | ~51,248 |
 | Rasputin | 39.00% | ~51,248 |
 | Stronghold Denied | 39.00% | ~51,248 |
-| Anyone Else? | 38.00% | ~49,934 |
 | Hydra | 36.00% | ~47,306 |
 | This Belongs to Us Now | 36.00% | ~47,306 |
 | Stronghold | 35.00% | ~45,992 |

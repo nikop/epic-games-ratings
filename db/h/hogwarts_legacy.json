@@ -7944,7 +7944,7 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 297066,
+  "EOS_Progressed": 297069,
   "EOS_Completed": 476,
   "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 6,
@@ -24644,6 +24644,11 @@
       "Time": "2023-09-21T23:07:02.5143491+00:00",
       "NumProgressed": 297066,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T00:05:46.9864883+00:00",
+      "NumProgressed": 297069,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24655,7 +24660,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41589
+      "UsersEstimate": 41590
     },
     {
       "ID": "PFA_10",
@@ -24727,7 +24732,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23765
+      "UsersEstimate": 23766
     },
     {
       "ID": "PFA_19",
@@ -24839,7 +24844,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32677
+      "UsersEstimate": 32678
     },
     {
       "ID": "PFA_31",
@@ -24959,7 +24964,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23765
+      "UsersEstimate": 23766
     },
     {
       "ID": "PFA_45",
@@ -24999,7 +25004,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32677
+      "UsersEstimate": 32678
     },
     {
       "ID": "PFA_9",
@@ -25014,7 +25019,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297066,
+      "Progressed": 297069,
       "Completed": 476
     }
   ],
@@ -25022,8 +25027,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-21T22:59:55.0910357+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:07:02.5143485+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:05:46.9864879+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:59:55.0910365+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:07:02.5144954+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:58:50.454254+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:05:46.9866287+00:00"
 }

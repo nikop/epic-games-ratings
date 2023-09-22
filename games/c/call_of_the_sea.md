@@ -5,24 +5,24 @@ Rating: 4.39 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~95,299 |
-| 74 miles East of Otaheité | 56.00% | ~67,554 |
-| Interesting... | 42.00% | ~50,665 |
-| The Everhart Expedition | 39.00% | ~47,046 |
+| A Family Heirloom | 79.00% | ~95,302 |
+| 74 miles East of Otaheité | 56.00% | ~67,556 |
+| Interesting... | 42.00% | ~50,667 |
+| The Everhart Expedition | 39.00% | ~47,048 |
 | The Vanishing of the Lady Shannon | 30.00% | ~36,190 |
 | Seaside Serenade | 30.00% | ~36,190 |
-| Halfway there | 29.00% | ~34,983 |
-| A brigantine, a brig and a barque | 28.00% | ~33,777 |
-| 506 East Hampden Avenue | 28.00% | ~33,777 |
+| Halfway there | 29.00% | ~34,984 |
+| A brigantine, a brig and a barque | 28.00% | ~33,778 |
+| 506 East Hampden Avenue | 28.00% | ~33,778 |
 | Weekend at Walakea's | 27.00% | ~32,571 |
 | Quite a Show | 27.00% | ~32,571 |
 | Dark Water Ride | 24.00% | ~28,952 |
 | Sunken | 24.00% | ~28,952 |
 | Deep Cut | 24.00% | ~28,952 |
-| FHALGOF'N' | 22.00% | ~26,539 |
+| FHALGOF'N' | 22.00% | ~26,540 |
 | Marsh Cannery | 21.00% | ~25,333 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~20,507 |
-| The only thing I have now | 16.00% | ~19,301 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~20,508 |
+| The only thing I have now | 16.00% | ~19,302 |
 | Not Another Boring Slideshow! | 15.00% | ~18,095 |
 | Naacalvision | 15.00% | ~18,095 |
 | I'll make a note of that... | 9.00% | ~10,857 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 723)
 | Gently down the stream... | 1.00% | ~1,206 |
 | Meta-reference | 1.00% | ~1,206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,632 (Ranked 72)  
+Progressed: 120,635 (Ranked 72)  
 Completed: 991 (0.82%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 991 (0.82%) (Ranked 136)
 | 2023-09-19 | 120,303 | 986 |
 | 2023-09-20 | 120,452 | 991 |
 | 2023-09-21 | 120,632 | 991 |
+| 2023-09-22 | 120,635 | 991 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

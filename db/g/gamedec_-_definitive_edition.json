@@ -3,8 +3,8 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 802,
-  "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 431,
+  "Ranking_Popularity": 364,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 80,
@@ -414,9 +414,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246683,
+  "EOS_Progressed": 246684,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17609,6 +17609,11 @@
       "Time": "2023-09-21T22:03:46.895649+00:00",
       "NumProgressed": 246683,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-22T00:03:33.6081205+00:00",
+      "NumProgressed": 246684,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17620,7 +17625,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66604
+      "UsersEstimate": 66605
     },
     {
       "ID": "ACH_AON",
@@ -17692,7 +17697,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -17700,7 +17705,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22201
+      "UsersEstimate": 22202
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -17740,7 +17745,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "ACH_IRONDEC",
@@ -17764,7 +17769,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69071
+      "UsersEstimate": 69072
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -17916,7 +17921,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -18035,7 +18040,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246683,
+      "Progressed": 246684,
       "Completed": 7
     }
   ],
@@ -18043,8 +18048,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:03:38.1992889+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:03:33.60812+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.3686602+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:00:18.6438885+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:03:38.1995594+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:59:06.7952123+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:03:33.6082966+00:00"
 }

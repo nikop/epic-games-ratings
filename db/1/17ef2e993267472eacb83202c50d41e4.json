@@ -2,9 +2,9 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_EOS_Progress": 145,
+  "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6298,
+  "EOS_Progressed": 6302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2206,6 +2206,11 @@
       "Time": "2023-09-21T23:08:39.5352541+00:00",
       "NumProgressed": 6298,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T00:06:56.1483851+00:00",
+      "NumProgressed": 6302,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2338,7 +2343,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2080
     },
     {
       "ID": "GamesPlayed10",
@@ -2498,7 +2503,7 @@
       "Name": "Destroyed 30 Inhibitors",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LMGUpgraded1",
@@ -2809,14 +2814,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6298,
+      "Progressed": 6302,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:08:39.5352535+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:06:56.1483847+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:58:53.0580066+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:08:39.5353507+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:58:05.3807443+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:06:56.148484+00:00"
 }

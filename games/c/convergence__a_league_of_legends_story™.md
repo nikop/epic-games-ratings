@@ -37,11 +37,11 @@ Rating: 4.60 (Ranked 395)
 | Chaincrawler Explorer | 11.00% | ~97 |
 | Family Memories | 11.00% | ~97 |
 | Ask Questions Later | 11.00% | ~97 |
+| Sump Explorer | 10.00% | ~88 |
 | Syron for Hope | 10.00% | ~88 |
 | Theater Explorer | 10.00% | ~88 |
 | Factorywood Explorer | 9.00% | ~80 |
 | Fairgrounds Explorer | 9.00% | ~80 |
-| Sump Explorer | 9.00% | ~80 |
 | Corin Goes Home | 8.00% | ~71 |
 | Sartorialist | 8.00% | ~71 |
 | Cultivair Explorer | 8.00% | ~71 |

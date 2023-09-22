@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12333,
+  "EOS_Progressed": 12343,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 1735,
-  "EOS_NewCompleters": 1161,
-  "EOS_Completed_Percentage": 95.35,
+  "EOS_NewPlayers": 1741,
+  "EOS_NewCompleters": 1157,
+  "EOS_Completed_Percentage": 95.27,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -2739,6 +2739,11 @@
       "Time": "2023-09-21T23:03:27.1335033+00:00",
       "NumProgressed": 12333,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-22T00:03:25.7207957+00:00",
+      "NumProgressed": 12343,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -2759,7 +2764,7 @@
       "Name": "First blood",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "grenadeKills",
@@ -2862,13 +2867,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 12333,
+      "Progressed": 12343,
       "Completed": 11759
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:03:27.1335024+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:03:25.7207941+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:17.0170255+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:58:32.1314804+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:03:27.1335515+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:57:51.1144468+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:03:25.7208244+00:00"
 }

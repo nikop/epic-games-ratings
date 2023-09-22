@@ -11418,10 +11418,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1390229,
       "NumberOfAwardsMax": 306247
+    },
+    {
+      "Time": "2023-09-21T23:59:28.9245441+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1390265,
+      "NumberOfAwardsMax": 306247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1390229,
+  "NumberOfAwards": 1390265,
   "NumberOfAwardsMax": 306247,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11489,7 +11495,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 111296
+      "Count": 111332
     }
   ],
   "EOS_Progressed": 0,
@@ -11503,8 +11509,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-09-21T20:59:11.5827109+00:00",
+  "LastChanged": "2023-09-21T23:59:28.9245439+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.4122505+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:00:50.3832297+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:08:43.2366507+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:59:28.9245444+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:06:58.634507+00:00"
 }

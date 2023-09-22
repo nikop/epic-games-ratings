@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533704,
+  "EOS_Progressed": 533708,
   "EOS_Completed": 1553,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19454,6 +19454,11 @@
       "Time": "2023-09-21T23:03:31.5893292+00:00",
       "NumProgressed": 533704,
       "NumCompleted": 1553
+    },
+    {
+      "Time": "2023-09-22T00:03:28.9657371+00:00",
+      "NumProgressed": 533708,
+      "NumCompleted": 1553
     }
   ],
   "TotalAchievements": 37,
@@ -19481,7 +19486,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165448
+      "UsersEstimate": 165449
     },
     {
       "ID": "DEVOTED",
@@ -19521,7 +19526,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 442974
+      "UsersEstimate": 442978
     },
     {
       "ID": "HONED",
@@ -19577,7 +19582,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213482
+      "UsersEstimate": 213483
     },
     {
       "ID": "THE_CASTLE",
@@ -19585,7 +19590,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58707
+      "UsersEstimate": 58708
     },
     {
       "ID": "THE_CAVE",
@@ -19593,7 +19598,7 @@
       "Name": "The Cave",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37359
+      "UsersEstimate": 37360
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -19617,7 +19622,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48033
+      "UsersEstimate": 48034
     },
     {
       "ID": "THE_FOREST",
@@ -19665,7 +19670,7 @@
       "Name": "The Mire",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37359
+      "UsersEstimate": 37360
     },
     {
       "ID": "THE_PALACE",
@@ -19689,7 +19694,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48033
+      "UsersEstimate": 48034
     },
     {
       "ID": "THE_RUINS",
@@ -19705,7 +19710,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42696
+      "UsersEstimate": 42697
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -19713,7 +19718,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37359
+      "UsersEstimate": 37360
     },
     {
       "ID": "THE_THREE",
@@ -19721,7 +19726,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341571
+      "UsersEstimate": 341573
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -19745,7 +19750,7 @@
       "Name": "The Ziggurat",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37359
+      "UsersEstimate": 37360
     },
     {
       "ID": "WISE_WORDS",
@@ -19760,15 +19765,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533704,
+      "Progressed": 533708,
       "Completed": 1553
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-19T16:00:07.3346175+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:03:31.5893288+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:03:28.9657366+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.1616875+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:02:06.8446714+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:03:31.5894651+00:00"
+  "LastUpdate_Ratings": "2023-09-22T00:00:20.8216173+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:03:28.9658729+00:00"
 }

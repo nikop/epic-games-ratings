@@ -3080,9 +3080,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72719,
+  "EOS_Progressed": 72720,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16240,6 +16240,11 @@
       "Time": "2023-09-21T23:06:12.186265+00:00",
       "NumProgressed": 72719,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-09-22T00:05:10.7669018+00:00",
+      "NumProgressed": 72720,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 61,
@@ -16299,7 +16304,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16725
+      "UsersEstimate": 16726
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16363,7 +16368,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "CLAYFACE_3",
@@ -16411,7 +16416,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9453
+      "UsersEstimate": 9454
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -16459,7 +16464,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9453
+      "UsersEstimate": 9454
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -16627,7 +16632,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20361
+      "UsersEstimate": 20362
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16643,7 +16648,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24724
+      "UsersEstimate": 24725
     },
     {
       "ID": "MYSTERY_02",
@@ -16659,7 +16664,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16725
+      "UsersEstimate": 16726
     },
     {
       "ID": "MYSTERY_04",
@@ -16675,7 +16680,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "MYSTERY_06",
@@ -16738,13 +16743,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72719,
+      "Progressed": 72720,
       "Completed": 116
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42999,
+      "Progressed": 43000,
       "Completed": 2665
     }
   ],
@@ -16752,8 +16757,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-21T20:01:30.0395336+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:06:12.1862644+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:05:10.7669+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:02:49.259747+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:06:12.1864097+00:00"
+  "LastUpdate_Ratings": "2023-09-22T00:00:48.1644925+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:05:10.7670417+00:00"
 }

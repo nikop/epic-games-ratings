@@ -3,7 +3,7 @@
   "Name": "BIOMUTANT",
   "ProductSlug": "biomutant",
   "Ranking_Rating": 776,
-  "Ranking_Popularity": 322,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 283,
@@ -485,6 +485,6 @@
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
   "LastChanged": "2023-08-27T03:58:34.8289118+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:26.9170991+00:00",
-  "LastUpdate_Ratings": "2023-09-21T23:02:34.7620912+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:07:25.0365402+00:00"
+  "LastUpdate_Ratings": "2023-09-22T00:00:38.5714022+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:06:02.7984277+00:00"
 }

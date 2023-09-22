@@ -196,9 +196,9 @@ Completed: 37 (0.19%) (Ranked 204)
 | 2023-09-20 | 19,364 | 37 |
 | 2023-09-21 | 19,347 | 37 |
 ## Awards
-Max (Quickly Understood Controls): 88  (Ranked 358)  
+Max (Quickly Understood Controls): 88  (Ranked 359)  
 Sum: 666 (Ranked 287)  
-Diff (max vs sum): 71  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 88 |

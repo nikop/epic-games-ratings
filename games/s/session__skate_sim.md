@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,735 |
+| You're free now! | 60.00% | ~1,736 |
 | Keeping it classy | 27.00% | ~781 |
-| Welcome to the family | 21.00% | ~607 |
-| The finer things in life | 19.00% | ~549 |
+| Welcome to the family | 21.00% | ~608 |
+| The finer things in life | 19.00% | ~550 |
 | Backpacker | 14.00% | ~405 |
 | Go with the Flow | 13.00% | ~376 |
 | Plastic Surgeon | 10.00% | ~289 |
@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~260 |
 | Keep the dream alive | 9.00% | ~260 |
 | Upfront shredder | 9.00% | ~260 |
-| Bottom ply killer | 7.00% | ~202 |
-| Fashionista | 7.00% | ~202 |
-| Finally he zips it | 7.00% | ~202 |
-| That pinch! | 7.00% | ~202 |
-| Tight lipslides | 7.00% | ~202 |
+| Fashionista | 7.00% | ~203 |
+| Finally he zips it | 7.00% | ~203 |
+| That pinch! | 7.00% | ~203 |
+| Tight lipslides | 7.00% | ~203 |
+| Bottom ply killer | 6.00% | ~174 |
 | Fulfilled the dream | 6.00% | ~174 |
 | G'Day Mate! | 6.00% | ~174 |
 | NAHELL! | 6.00% | ~174 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,892 (Ranked 180)  
+Progressed: 2,893 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 0 (0.00%) (Ranked 283)
 | 2023-09-19 | 2,874 | 0 |
 | 2023-09-20 | 2,883 | 0 |
 | 2023-09-21 | 2,892 | 0 |
+| 2023-09-22 | 2,893 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 400)  
 Sum: 467 (Ranked 311)  

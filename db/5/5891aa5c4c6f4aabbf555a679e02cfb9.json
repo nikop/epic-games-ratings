@@ -638,9 +638,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -670,9 +670,9 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "b36c5kb",
       "Name": "Wait For It...",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-21T23:03:39.1307211+00:00",
+  "LastChanged_Achievements": "2023-09-22T00:03:34.1987208+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-21T22:58:54.0071705+00:00",
-  "LastUpdate_Achievements": "2023-09-21T23:03:39.1308082+00:00"
+  "LastUpdate_Ratings": "2023-09-21T23:58:06.2237094+00:00",
+  "LastUpdate_Achievements": "2023-09-22T00:03:34.1987766+00:00"
 }
