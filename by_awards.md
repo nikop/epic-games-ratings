@@ -167,8 +167,8 @@
 | 165 | [Football Manager 2023](games/f/football_manager_2023.md) | 740 | 4.76 | 118 |
 | 166 | [Neverwinter](games/n/neverwinter.md) | 732 | 4.29 | 810 |
 | 167 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 724 | 4.87 | 25 |
+| 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 714 | 4.75 | 137 |
 | 168 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 714 | 4.59 | 416 |
-| 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 713 | 4.75 | 137 |
 | 170 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 700 | 4.82 | 66 |
 | 170 | [Subnautica](games/s/subnautica.md) | 700 | 4.85 | 41 |
 | 172 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 695 | 4.74 | 146 |
@@ -451,13 +451,13 @@
 | 448 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.52 | 532 |
 | 448 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 189 |
 | 448 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.55 | 486 |
+| 448 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 35 | 4.44 | 652 |
 | 448 | [Outward Definitive Edition](games/o/outward.md) | 35 | 4.55 | 486 |
 | 448 | [TUNIC](games/t/tunic.md) | 35 | 4.83 | 58 |
-| 454 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 350 |
-| 454 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 66 |
-| 454 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 34 | 4.44 | 652 |
-| 454 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.54 | 503 |
-| 454 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 34 | 4.65 | 301 |
+| 455 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 350 |
+| 455 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 66 |
+| 455 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.54 | 503 |
+| 455 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 34 | 4.65 | 301 |
 | 459 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 877 |
 | 460 | [Blankos Block Party](games/b/blankos_block_party.md) | 32 | 4.21 | 861 |
 | 460 | [Chorus](games/c/chorus.md) | 32 | 4.47 | 614 |

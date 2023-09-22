@@ -70,7 +70,7 @@
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,836 | 62 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 523 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 523 |
-| 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 454 |
+| 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 455 |
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 700 | 170 |
 | 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 252 | 256 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,556 | 53 |
@@ -139,7 +139,7 @@
 | 137 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 27 | 476 |
 | 137 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,009 | 59 |
 | 137 | [Diabotical](games/d/diabotical.md) | 4.75 | 279 | 247 |
-| 137 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 713 | 169 |
+| 137 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 714 | 168 |
 | 137 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 523 |
 | 137 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 611 | 186 |
 | 137 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 523 |
@@ -311,7 +311,7 @@
 | 301 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 523 |
 | 301 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 492 |
 | 301 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 523 |
-| 301 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 34 | 454 |
+| 301 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 34 | 455 |
 | 301 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 98 | 343 |
 | 314 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.64 | 0 | 523 |
 | 314 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.64 | 0 | 523 |
@@ -354,7 +354,7 @@
 | 350 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 79,531 | 9 |
 | 350 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 386 | 222 |
 | 350 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 246 |
-| 350 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 454 |
+| 350 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 455 |
 | 350 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 82 | 363 |
 | 350 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,497 | 124 |
 | 350 | [GigaBash](games/g/gigabash.md) | 4.62 | 0 | 523 |
@@ -512,7 +512,7 @@
 | 503 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 381 |
 | 503 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 502 |
 | 503 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 523 |
-| 503 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 454 |
+| 503 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 455 |
 | 503 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 523 |
 | 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 349 |
 | 503 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 523 |
@@ -656,7 +656,7 @@
 | 652 | [ELEX](games/e/elex.md) | 4.44 | 24 | 492 |
 | 652 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 523 |
 | 652 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 523 |
-| 652 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 34 | 454 |
+| 652 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 35 | 448 |
 | 652 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 523 |
 | 652 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.44 | 0 | 523 |
 | 652 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 523 |
