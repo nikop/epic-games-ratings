@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 95.18% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 95.16% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.41% |
@@ -58,7 +58,7 @@
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [ZZT!](games/z/zzt!.md) | 4.34% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
-| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.04% |
 | 61 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.00% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.91% |
@@ -73,7 +73,7 @@
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.27% |
 | 72 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
-| 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.16% |
+| 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.19% |
 | 75 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -142,24 +142,24 @@
 | 140 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 141 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.70% |
 | 142 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.68% |
-| 143 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
-| 144 | [Haven](games/h/haven.md) | 0.62% |
-| 144 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.62% |
-| 146 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 146 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 148 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
-| 149 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
-| 150 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 151 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
-| 152 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
-| 153 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 153 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
-| 155 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
-| 156 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 156 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 158 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.51% |
-| 159 | [It Takes Two](games/i/it_takes_two.md) | 0.49% |
+| 143 | [It Takes Two](games/i/it_takes_two.md) | 0.67% |
+| 144 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
+| 145 | [Haven](games/h/haven.md) | 0.62% |
+| 145 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.62% |
+| 147 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 147 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
+| 149 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
+| 150 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
+| 151 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 152 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
+| 153 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
+| 154 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 154 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
+| 156 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
+| 157 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
+| 157 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 159 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.49% |
+| 160 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.48% |
 | 161 | [Godlike Burger](games/g/godlike_burger.md) | 0.47% |
 | 161 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 163 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
