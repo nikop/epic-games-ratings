@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 15,
+  "Ranking_EOS_NewPlayers": 16,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -9840,9 +9840,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 410288,
+  "EOS_Progressed": 410305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7215,
+  "EOS_NewPlayers": 7222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27260,6 +27260,11 @@
       "Time": "2023-09-22T02:20:56.8621413+00:00",
       "NumProgressed": 410288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T03:04:56.5065803+00:00",
+      "NumProgressed": 410305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27399,7 +27404,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -27783,7 +27788,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "achievement_cold_war",
@@ -27807,7 +27812,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -30102,21 +30107,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 410288,
+      "Progressed": 410305,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 410288,
+      "Progressed": 410305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-22T01:40:25.9092033+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:20:56.8621409+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:04:56.5065796+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:15.6952737+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:15:06.8887288+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:20:56.8633404+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:59:13.6404879+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:04:56.5080514+00:00"
 }

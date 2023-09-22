@@ -11,7 +11,7 @@ Rating: 4.49 (Ranked 585)
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,242 |
 | Call Me Snake | 62.00% | ~2,075 |
 | Something Lurks Under The Hills | 61.00% | ~2,042 |
-| This Was No Papercut | 59.00% | ~1,975 |
+| This Was No Papercut | 60.00% | ~2,008 |
 | People Person | 56.00% | ~1,874 |
 | The Shrink Hates Me | 56.00% | ~1,874 |
 | Use The Bumper, That's What It's For | 52.00% | ~1,740 |
@@ -149,9 +149,9 @@ Completed: 3 (0.09%) (Ranked 231)
 | 2023-09-21 | 3,344 | 3 |
 | 2023-09-22 | 3,347 | 3 |
 ## Awards
-Max (Great Boss Battles): 28  (Ranked 470)  
+Max (Great Boss Battles): 28  (Ranked 471)  
 Sum: 28 (Ranked 487)  
-Diff (max vs sum): -17  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 28 |

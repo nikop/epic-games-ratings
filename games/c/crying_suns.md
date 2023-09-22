@@ -6,31 +6,31 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,703 |
-| Jeef Skeejj | 44.00% | ~205,802 |
-| Careful planning | 39.00% | ~182,415 |
-| Second Coming | 33.00% | ~154,352 |
-| Jeef Skagg | 30.00% | ~140,320 |
-| Mother | 25.00% | ~116,933 |
-| In space, no one can hear you scream | 24.00% | ~112,256 |
-| Chapter I: Echoes | 22.00% | ~102,901 |
-| Excelsior Rule | 22.00% | ~102,901 |
-| Things persisted in not being what they seemed | 20.00% | ~93,546 |
-| Knightmare Frames | 15.00% | ~70,160 |
-| May His passing cleanse the world | 15.00% | ~70,160 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,160 |
-| Pope Zenon | 15.00% | ~70,160 |
+| The Shutdown | 66.00% | ~308,708 |
+| Jeef Skeejj | 44.00% | ~205,805 |
+| Careful planning | 39.00% | ~182,418 |
+| Second Coming | 33.00% | ~154,354 |
+| Jeef Skagg | 30.00% | ~140,322 |
+| Mother | 25.00% | ~116,935 |
+| In space, no one can hear you scream | 24.00% | ~112,257 |
+| Chapter I: Echoes | 22.00% | ~102,903 |
+| Excelsior Rule | 22.00% | ~102,903 |
+| Things persisted in not being what they seemed | 20.00% | ~93,548 |
+| Knightmare Frames | 15.00% | ~70,161 |
+| May His passing cleanse the world | 15.00% | ~70,161 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,161 |
+| Pope Zenon | 15.00% | ~70,161 |
 | Tetsuo | 11.00% | ~51,451 |
 | Plan for the worst | 11.00% | ~51,451 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,773 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,774 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,419 |
 | Through the mirror | 8.00% | ~37,419 |
 | General Vivar | 8.00% | ~37,419 |
 | Back to Ganyma | 8.00% | ~37,419 |
 | Kaos Rule | 8.00% | ~37,419 |
-| Admiral Okonkwo | 7.00% | ~32,741 |
-| The Survivalists | 7.00% | ~32,741 |
-| The Tech Specialist | 7.00% | ~32,741 |
+| Admiral Okonkwo | 7.00% | ~32,742 |
+| The Survivalists | 7.00% | ~32,742 |
+| The Tech Specialist | 7.00% | ~32,742 |
 | Chapter V: Memories of None | 6.00% | ~28,064 |
 | Meet your maker | 6.00% | ~28,064 |
 | The Impersonator | 6.00% | ~28,064 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,732 (Ranked 37)  
+Progressed: 467,739 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 18 (0.00%) (Ranked 283)
 | 2023-09-19 | 467,629 | 18 |
 | 2023-09-20 | 467,678 | 18 |
 | 2023-09-21 | 467,723 | 18 |
-| 2023-09-22 | 467,732 | 18 |
+| 2023-09-22 | 467,739 | 18 |
 ## Awards
 Max (Character Customization): 219  (Ranked 268)  
 Sum: 239 (Ranked 361)  

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6305,
+  "EOS_Progressed": 6306,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2216,6 +2216,11 @@
       "Time": "2023-09-22T01:48:07.6932405+00:00",
       "NumProgressed": 6305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T03:07:17.3556922+00:00",
+      "NumProgressed": 6306,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2284,15 +2289,15 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "DHUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Deflector Helmet to Level 3",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "EARUpgraded1",
@@ -2426,9 +2431,9 @@
       "ID": "HAUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Healing Amplifier to Level 3",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 126
     },
     {
       "ID": "HGPurchased1",
@@ -2436,7 +2441,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "HSPurchased1",
@@ -2786,9 +2791,9 @@
       "ID": "TPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Turret",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 504
     },
     {
       "ID": "TSUPurchased1",
@@ -2819,14 +2824,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6305,
+      "Progressed": 6306,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:23:19.4471677+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:07:17.3556917+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:14:05.7791711+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:23:19.4472586+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:58:14.9534771+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:07:17.3558648+00:00"
 }

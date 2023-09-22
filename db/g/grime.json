@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -852,7 +852,7 @@
   ],
   "EOS_Progressed": 149633,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10454,9 +10454,9 @@
       "ID": "MISC_OVERLOADTRAIT",
       "SetID": "72k7oh",
       "Name": "Intensify",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
@@ -10476,8 +10476,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-09-19T21:57:31.9099814+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:21:21.7349323+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:05:20.7431421+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:11.8839074+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:14:11.4756653+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:21:21.7350249+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:58:20.617241+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:05:20.7432394+00:00"
 }

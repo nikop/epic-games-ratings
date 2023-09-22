@@ -3,11 +3,11 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 669,
-  "Ranking_Popularity": 467,
+  "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -361,9 +361,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4658,
+  "EOS_Progressed": 4659,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2436,6 +2436,11 @@
       "Time": "2023-09-21T23:03:42.2730632+00:00",
       "NumProgressed": 4658,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-22T03:03:23.7250793+00:00",
+      "NumProgressed": 4659,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2447,7 +2452,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -2495,7 +2500,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3960
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2519,7 +2524,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -2575,7 +2580,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -2663,7 +2668,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2719,7 +2724,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -2735,7 +2740,7 @@
       "Name": "I Choose You",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -2767,7 +2772,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -2831,7 +2836,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -2982,15 +2987,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4658,
+      "Progressed": 4659,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:19:22.5770706+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:03:23.7250784+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:19.4999947+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:15:49.3702494+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:19:22.5771565+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:59:55.2753252+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:03:23.7251764+00:00"
 }

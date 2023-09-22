@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6040,
+  "EOS_Progressed": 6041,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
@@ -10136,6 +10136,11 @@
       "Time": "2023-09-22T01:46:42.510395+00:00",
       "NumProgressed": 6040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T03:05:35.6082358+00:00",
+      "NumProgressed": 6041,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10211,7 +10216,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "4",
@@ -10266,7 +10271,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6040,
+      "Progressed": 6041,
       "Completed": 0
     }
   ],
@@ -10274,8 +10279,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:21:37.029345+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:05:35.6082352+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:15:35.2256282+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:21:37.029411+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:59:41.8200394+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:05:35.6083355+00:00"
 }

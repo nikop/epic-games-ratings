@@ -3,11 +3,11 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 585,
-  "Ranking_Popularity": 470,
+  "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -326,7 +326,7 @@
   ],
   "EOS_Progressed": 3347,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4910,9 +4910,9 @@
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1975
+      "UsersEstimate": 2008
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4967,8 +4967,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:18:23.7697927+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:02:15.743925+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:13:08.088538+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:18:23.7698913+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:57:19.4057952+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:02:15.7440767+00:00"
 }

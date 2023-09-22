@@ -3,8 +3,8 @@
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 301,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 397,
+  "Ranking_Popularity": 454,
+  "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 629,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 397,
@@ -180,18 +180,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 160,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-09-22T02:59:56.9201439+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 174,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 160,
-  "NumberOfAwardsMax": 26,
-  "MaxAwardTitle": "Amazing Characters",
+  "NumberOfAwards": 174,
+  "NumberOfAwardsMax": 34,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 34
     },
     {
       "Text": "This game is Relaxing",
@@ -242,8 +248,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-09-21T19:00:17.3388489+00:00",
+  "LastChanged": "2023-09-22T02:59:56.9201436+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:20.722491+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:15:51.7858192+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:22:05.1559431+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:59:56.9201443+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:06:04.2512415+00:00"
 }

@@ -364,9 +364,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_14",
@@ -482,8 +482,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:24:35.8585732+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:08:32.5354719+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.8902845+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:13:23.2388528+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:24:35.8585902+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:57:33.549686+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:08:32.535489+00:00"
 }

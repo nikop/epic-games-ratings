@@ -7,20 +7,20 @@ Number of Ratings: 62  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,379 |
-| I'll Be Back | 85.00% | ~3,959 |
+| I'll Be Back | 85.00% | ~3,960 |
 | Sorry, I Dropped This | 77.00% | ~3,587 |
-| First Day on the Job | 76.00% | ~3,540 |
+| First Day on the Job | 76.00% | ~3,541 |
 | Butcher's Bill | 55.00% | ~2,562 |
-| P.A.X | 37.00% | ~1,723 |
-| Hey Listen | 37.00% | ~1,723 |
+| P.A.X | 37.00% | ~1,724 |
+| Hey Listen | 37.00% | ~1,724 |
 | OPERATOR | 36.00% | ~1,677 |
 | It's Blue Light | 33.00% | ~1,537 |
 | Most Wanted | 26.00% | ~1,211 |
-| Infidel | 23.00% | ~1,071 |
+| Infidel | 23.00% | ~1,072 |
 | GOLIATH | 21.00% | ~978 |
 | Firebug | 20.00% | ~932 |
-| I Choose You | 18.00% | ~838 |
-| Nothing to Lose | 18.00% | ~838 |
+| I Choose You | 18.00% | ~839 |
+| Nothing to Lose | 18.00% | ~839 |
 | Big Sister | 16.00% | ~745 |
 | SENTINEL | 16.00% | ~745 |
 | Gear Up | 15.00% | ~699 |
@@ -42,8 +42,8 @@ Number of Ratings: 62  (23.09.2022)
 | Follow the White Rabbit | 7.00% | ~326 |
 | Liberation | 7.00% | ~326 |
 | Risk Assessment | 7.00% | ~326 |
-| Sunglasses at Night | 6.00% | ~279 |
-| Carbon Cat | 6.00% | ~279 |
+| Sunglasses at Night | 6.00% | ~280 |
+| Carbon Cat | 6.00% | ~280 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~233 |
 | Man of Steel | 5.00% | ~233 |
 | Jack of All Trades | 5.00% | ~233 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,658 (Ranked 159)  
+Progressed: 4,659 (Ranked 159)  
 Completed: 16 (0.34%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,11 @@ Completed: 16 (0.34%) (Ranked 178)
 | 2023-09-19 | 4,646 | 16 |
 | 2023-09-20 | 4,650 | 16 |
 | 2023-09-21 | 4,658 | 16 |
+| 2023-09-22 | 4,659 | 16 |
 ## Awards
-Max (Great Boss Battles): 29  (Ranked 467)  
+Max (Great Boss Battles): 29  (Ranked 468)  
 Sum: 29 (Ranked 484)  
-Diff (max vs sum): -17  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 29 |

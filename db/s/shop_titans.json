@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6172,7 +6172,7 @@
       "Count": 3747
     }
   ],
-  "EOS_Progressed": 136499,
+  "EOS_Progressed": 136500,
   "EOS_Completed": 153,
   "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 2,
@@ -22037,6 +22037,11 @@
       "Time": "2023-09-22T02:20:26.5021428+00:00",
       "NumProgressed": 136499,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-22T03:04:26.9848812+00:00",
+      "NumProgressed": 136500,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22184,7 +22189,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "boss02",
@@ -22264,7 +22269,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "collection05",
@@ -22288,7 +22293,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "commonres03",
@@ -22320,7 +22325,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "craft03",
@@ -22352,7 +22357,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "damage02",
@@ -22440,7 +22445,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "fullmoon",
@@ -22496,7 +22501,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "fuseuncommon",
@@ -22608,7 +22613,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "jackslot03",
@@ -22672,7 +22677,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "loot02",
@@ -22776,7 +22781,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "quest04",
@@ -22880,7 +22885,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "uncommonres01",
@@ -22943,15 +22948,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136499,
+      "Progressed": 136500,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-21T20:59:19.8539735+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:20:26.5021424+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:04:26.9848806+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:15:57.1284381+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:20:26.5023954+00:00"
+  "LastUpdate_Ratings": "2023-09-22T03:00:02.2885293+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:04:26.9851434+00:00"
 }

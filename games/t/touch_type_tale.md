@@ -5,28 +5,28 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You and what Army? | 88.00% | ~3,194 |
-| Flanked! | 77.00% | ~2,794 |
+| Flanked! | 77.00% | ~2,795 |
 | Economics 101 | 61.00% | ~2,214 |
-| Get Rich Quick | 43.00% | ~1,560 |
-| Do the Splits | 39.00% | ~1,415 |
+| Get Rich Quick | 43.00% | ~1,561 |
+| Do the Splits | 39.00% | ~1,416 |
 | Maestro | 26.00% | ~944 |
 | Full Employment | 18.00% | ~653 |
 | Clay Fighter | 16.00% | ~581 |
 | Nowhere left to Hide | 14.00% | ~508 |
 | All Ovens Blazing | 13.00% | ~472 |
 | Boulder Clash | 13.00% | ~472 |
-| Held Back by the Roots | 12.00% | ~435 |
+| Held Back by the Roots | 12.00% | ~436 |
 | Well Supplied | 10.00% | ~363 |
 | Sniped | 7.00% | ~254 |
 | Leave Them no Cake | 7.00% | ~254 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~254 |
 | Damage Control | 7.00% | ~254 |
 | Master of the Brawl | 7.00% | ~254 |
-| Your Biggest Fans | 5.00% | ~181 |
-| An Ally in Need | 5.00% | ~181 |
-| For the Queen | 5.00% | ~181 |
-| Not a Drop Wasted | 5.00% | ~181 |
-| A Secret Recipe | 5.00% | ~181 |
+| Your Biggest Fans | 5.00% | ~182 |
+| An Ally in Need | 5.00% | ~182 |
+| For the Queen | 5.00% | ~182 |
+| Not a Drop Wasted | 5.00% | ~182 |
+| A Secret Recipe | 5.00% | ~182 |
 | Reinforcements | 4.00% | ~145 |
 | Sweet Revenge | 4.00% | ~145 |
 | We Have the Technology | 4.00% | ~145 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~36 |
 | All Geared Up | 0.90% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,629 (Ranked 169)  
+Progressed: 3,630 (Ranked 169)  
 Completed: 11 (0.30%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 11 (0.30%) (Ranked 185)
 | 2023-09-19 | 3,595 | 11 |
 | 2023-09-20 | 3,620 | 11 |
 | 2023-09-21 | 3,627 | 11 |
-| 2023-09-22 | 3,629 | 11 |
+| 2023-09-22 | 3,630 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

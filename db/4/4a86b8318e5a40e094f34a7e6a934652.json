@@ -2,7 +2,7 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 77,
@@ -612,9 +612,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "BRING_PROSPERO",
@@ -763,8 +763,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:19:04.8862381+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:03:06.0151241+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:14:34.8325087+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:19:04.8862553+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:58:42.4938701+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:03:06.0151455+00:00"
 }

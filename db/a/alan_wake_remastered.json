@@ -5,7 +5,7 @@
   "Ranking_Rating": 486,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 88,
+  "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 77,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65934,
+  "EOS_Progressed": 65935,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15452,6 +15452,11 @@
       "Time": "2023-09-22T01:46:07.5118971+00:00",
       "NumProgressed": 65934,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-22T03:04:54.2709306+00:00",
+      "NumProgressed": 65935,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15495,7 +15500,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "06",
@@ -15511,7 +15516,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8571
+      "UsersEstimate": 8572
     },
     {
       "ID": "08",
@@ -15519,7 +15524,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8571
+      "UsersEstimate": 8572
     },
     {
       "ID": "09",
@@ -15551,7 +15556,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8571
+      "UsersEstimate": 8572
     },
     {
       "ID": "13",
@@ -15671,7 +15676,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8571
+      "UsersEstimate": 8572
     },
     {
       "ID": "28",
@@ -15679,7 +15684,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8571
+      "UsersEstimate": 8572
     },
     {
       "ID": "29",
@@ -15687,7 +15692,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10549
+      "UsersEstimate": 10550
     },
     {
       "ID": "30",
@@ -15775,7 +15780,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "41",
@@ -15799,7 +15804,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12527
+      "UsersEstimate": 12528
     },
     {
       "ID": "44",
@@ -15823,7 +15828,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10549
+      "UsersEstimate": 10550
     },
     {
       "ID": "47",
@@ -15998,21 +16003,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65934,
+      "Progressed": 65935,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29402,
+      "Progressed": 29403,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:20:54.7748038+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:04:54.2709301+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:15:17.2584518+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:20:54.7749604+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:59:24.5966446+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:04:54.271142+00:00"
 }

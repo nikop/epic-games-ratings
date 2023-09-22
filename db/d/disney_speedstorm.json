@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3218,
+  "EOS_Progressed": 3219,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 5.81,
   "EosHistory": [
@@ -4860,6 +4860,11 @@
       "Time": "2023-09-22T02:21:10.4376122+00:00",
       "NumProgressed": 3218,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-09-22T03:05:09.5995407+00:00",
+      "NumProgressed": 3219,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 24,
@@ -4959,7 +4964,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "20",
@@ -4989,9 +4994,9 @@
       "ID": "23",
       "SetID": "9p3jgda",
       "Name": "A TIGER\u0027S FEAR",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1030
     },
     {
       "ID": "24",
@@ -5031,7 +5036,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "7",
@@ -5062,13 +5067,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3218,
+      "Progressed": 3219,
       "Completed": 187
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:21:10.4376116+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:05:09.5995402+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:16:48.5088392+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:21:10.4376578+00:00"
+  "LastUpdate_Ratings": "2023-09-22T03:00:52.13328+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:05:09.5996242+00:00"
 }

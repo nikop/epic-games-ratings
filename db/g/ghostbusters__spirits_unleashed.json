@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2208,9 +2208,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25949,
+  "EOS_Progressed": 25952,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13343,6 +13343,11 @@
       "Time": "2023-09-22T02:22:01.2145316+00:00",
       "NumProgressed": 25949,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-22T03:06:00.3326541+00:00",
+      "NumProgressed": 25952,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13376,9 +13381,9 @@
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -13464,9 +13469,9 @@
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 156
     },
     {
       "ID": "Escape_Artist",
@@ -13520,9 +13525,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Liability",
@@ -13761,7 +13766,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25949,
+      "Progressed": 25952,
       "Completed": 58
     }
   ],
@@ -13769,8 +13774,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-21T23:02:02.7089678+00:00",
-  "LastChanged_Achievements": "2023-09-22T02:22:01.2145311+00:00",
+  "LastChanged_Achievements": "2023-09-22T03:06:00.3326534+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:16:46.6771486+00:00",
-  "LastUpdate_Achievements": "2023-09-22T02:22:01.2146392+00:00"
+  "LastUpdate_Ratings": "2023-09-22T03:00:50.2474138+00:00",
+  "LastUpdate_Achievements": "2023-09-22T03:06:00.3327915+00:00"
 }
