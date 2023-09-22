@@ -31,13 +31,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.80% | ~1,092 |
 | Did we pack lunch? | 0.80% | ~1,092 |
 | Arcane Industries | 0.80% | ~1,092 |
-| On the Path to Greatness | 0.70% | ~955 |
-| Ascended | 0.70% | ~955 |
-| Vanity, Verily | 0.70% | ~955 |
-| Blank Page Syndrome | 0.70% | ~955 |
-| Efficient Floor Space | 0.70% | ~955 |
-| Gem Expert | 0.70% | ~955 |
-| Helping Hand | 0.70% | ~955 |
+| On the Path to Greatness | 0.70% | ~956 |
+| Ascended | 0.70% | ~956 |
+| Vanity, Verily | 0.70% | ~956 |
+| Blank Page Syndrome | 0.70% | ~956 |
+| Efficient Floor Space | 0.70% | ~956 |
+| Gem Expert | 0.70% | ~956 |
+| Helping Hand | 0.70% | ~956 |
 | Research & Development | 0.60% | ~819 |
 | Fated Encounters | 0.60% | ~819 |
 | Power of Love | 0.60% | ~819 |
@@ -45,30 +45,30 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.60% | ~819 |
 | Natural 20 | 0.60% | ~819 |
 | Magical Harmony | 0.60% | ~819 |
-| A Notch Above the Rest | 0.50% | ~682 |
-| Tax not Included | 0.50% | ~682 |
-| The King's Caprice | 0.50% | ~682 |
-| Big Game Hunting | 0.50% | ~682 |
-| For the Hoard! | 0.50% | ~682 |
-| Scrapbooker | 0.50% | ~682 |
-| Locally Sourced | 0.50% | ~682 |
-| Flying off the Shelves | 0.50% | ~682 |
-| This Power Level...! | 0.50% | ~682 |
-| Master of Transmutation | 0.50% | ~682 |
-| Hidden Potential | 0.50% | ~682 |
-| Expansion in Session | 0.50% | ~682 |
-| Cranked up to 11 | 0.50% | ~682 |
-| Trash to Treasure | 0.50% | ~682 |
-| Mammonite | 0.50% | ~682 |
-| Fat Cat Tag Team | 0.50% | ~682 |
-| Miracle Alchemist | 0.50% | ~682 |
-| Laden with Loot | 0.50% | ~682 |
-| Seasoned Journeyman | 0.50% | ~682 |
-| Scourge of the Seas | 0.50% | ~682 |
-| Moment of Respite | 0.50% | ~682 |
-| Black Friday Special | 0.50% | ~682 |
-| Special Ingredient | 0.50% | ~682 |
-| Complete Monopoly | 0.50% | ~682 |
+| A Notch Above the Rest | 0.50% | ~683 |
+| Tax not Included | 0.50% | ~683 |
+| The King's Caprice | 0.50% | ~683 |
+| Big Game Hunting | 0.50% | ~683 |
+| For the Hoard! | 0.50% | ~683 |
+| Scrapbooker | 0.50% | ~683 |
+| Locally Sourced | 0.50% | ~683 |
+| Flying off the Shelves | 0.50% | ~683 |
+| This Power Level...! | 0.50% | ~683 |
+| Master of Transmutation | 0.50% | ~683 |
+| Hidden Potential | 0.50% | ~683 |
+| Expansion in Session | 0.50% | ~683 |
+| Cranked up to 11 | 0.50% | ~683 |
+| Trash to Treasure | 0.50% | ~683 |
+| Mammonite | 0.50% | ~683 |
+| Fat Cat Tag Team | 0.50% | ~683 |
+| Miracle Alchemist | 0.50% | ~683 |
+| Laden with Loot | 0.50% | ~683 |
+| Seasoned Journeyman | 0.50% | ~683 |
+| Scourge of the Seas | 0.50% | ~683 |
+| Moment of Respite | 0.50% | ~683 |
+| Black Friday Special | 0.50% | ~683 |
+| Special Ingredient | 0.50% | ~683 |
+| Complete Monopoly | 0.50% | ~683 |
 | Cream of the Crop | 0.40% | ~546 |
 | Top of the World | 0.40% | ~546 |
 | Proud Paladin | 0.40% | ~546 |
@@ -109,17 +109,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 0.20% | ~273 |
 | All or Nothing! | 0.20% | ~273 |
 | Marvels from the World Over | 0.20% | ~273 |
-| Bane of Legends | 0.10% | ~136 |
-| Ultimate Collector | 0.10% | ~136 |
-| Oligarch Monarch | 0.10% | ~136 |
-| Unleashed Potential | 0.10% | ~136 |
-| Capitalist Camaraderie | 0.10% | ~136 |
-| Merchant Extraordinaire | 0.10% | ~136 |
-| Anything not Nailed Down | 0.10% | ~136 |
-| To Hell and Back | 0.10% | ~136 |
-| Cash Only Please | 0.10% | ~136 |
+| Bane of Legends | 0.10% | ~137 |
+| Ultimate Collector | 0.10% | ~137 |
+| Oligarch Monarch | 0.10% | ~137 |
+| Unleashed Potential | 0.10% | ~137 |
+| Capitalist Camaraderie | 0.10% | ~137 |
+| Merchant Extraordinaire | 0.10% | ~137 |
+| Anything not Nailed Down | 0.10% | ~137 |
+| To Hell and Back | 0.10% | ~137 |
+| Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,500 (Ranked 69)  
+Progressed: 136,501 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 153 (0.11%) (Ranked 225)
 | 2023-09-19 | 136,421 | 153 |
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
-| 2023-09-22 | 136,500 | 153 |
+| 2023-09-22 | 136,501 | 153 |
 ## Awards
 Max (Great for Beginners): 4,748  (Ranked 70)  
 Sum: 27,265 (Ranked 48)  

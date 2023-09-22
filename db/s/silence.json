@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -578,8 +578,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-22T03:05:41.3597212+00:00",
+  "LastChanged_Achievements": "2023-09-22T04:06:01.3867357+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:41.2824222+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:57:21.4999199+00:00",
-  "LastUpdate_Achievements": "2023-09-22T03:05:41.3597683+00:00"
+  "LastUpdate_Ratings": "2023-09-22T03:57:27.4538449+00:00",
+  "LastUpdate_Achievements": "2023-09-22T04:06:01.3868078+00:00"
 }

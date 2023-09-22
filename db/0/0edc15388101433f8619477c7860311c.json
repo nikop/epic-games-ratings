@@ -2,7 +2,7 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 113,
@@ -123,9 +123,9 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LoveCrawler",
@@ -234,8 +234,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-09-22T03:04:01.2240952+00:00",
+  "LastChanged_Achievements": "2023-09-22T04:04:24.36959+00:00",
   "LastUpdate_AppInfo": "2023-09-18T04:57:02.6952136+00:00",
-  "LastUpdate_Ratings": "2023-09-22T03:00:37.1117514+00:00",
-  "LastUpdate_Achievements": "2023-09-22T03:04:01.2241117+00:00"
+  "LastUpdate_Ratings": "2023-09-22T04:00:42.0179562+00:00",
+  "LastUpdate_Achievements": "2023-09-22T04:04:24.3696074+00:00"
 }

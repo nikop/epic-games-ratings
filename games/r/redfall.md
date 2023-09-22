@@ -5,9 +5,9 @@ Rating: 3.52 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Ne Plus Ultra | 1.00% | ~17 |
 | I Like My Stakes Rare! | 1.00% | ~17 |
 | Blood Will Have Blood | 0.90% | ~16 |
-| Ne Plus Ultra | 0.90% | ~16 |
 | Grounded | 0.80% | ~14 |
 | Fly Fisher | 0.80% | ~14 |
 | Peek-a-boo | 0.70% | ~12 |

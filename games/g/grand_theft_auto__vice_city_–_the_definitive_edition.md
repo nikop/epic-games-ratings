@@ -38,10 +38,10 @@ Rating: 4.54 (Ranked 504)
 | I'm Famous! | 1.00% | ~102 |
 | Daredevil | 1.00% | ~102 |
 | Done it All | 0.90% | ~92 |
-| Kingpin | 0.50% | ~51 |
+| Kingpin | 0.60% | ~61 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,195 (Ranked 133)  
-Completed: 56 (0.55%) (Ranked 154)  
+Completed: 57 (0.56%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,14 +195,14 @@ Completed: 56 (0.55%) (Ranked 154)
 | 2023-09-19 | 10,134 | 56 |
 | 2023-09-20 | 10,165 | 56 |
 | 2023-09-21 | 10,192 | 56 |
-| 2023-09-22 | 10,195 | 56 |
+| 2023-09-22 | 10,195 | 57 |
 ## Awards
-Max (Great Boss Battles): 75  (Ranked 375)  
-Sum: 75 (Ranked 439)  
+Max (Great Boss Battles): 76  (Ranked 374)  
+Sum: 76 (Ranked 438)  
 Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 75 |
+| This game has Great Boss Battles | 76 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -311,3 +311,4 @@ Diff (max vs sum): -64
 | 2023-09-13 | 4.55 | 74 | 74 |
 | 2023-09-17 | 4.55 | 75 | 75 |
 | 2023-09-19 | 4.54 | 75 | 75 |
+| 2023-09-22 | 4.54 | 76 | 76 |

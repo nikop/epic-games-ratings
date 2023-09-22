@@ -6,13 +6,13 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,256 |
-| First Steps | 80.00% | ~34,629 |
+| Awakening | 93.00% | ~40,257 |
+| First Steps | 80.00% | ~34,630 |
 | Control the Shadows | 67.00% | ~29,002 |
-| Tools of the Trade | 63.00% | ~27,270 |
+| Tools of the Trade | 63.00% | ~27,271 |
 | Apprentice | 60.00% | ~25,972 |
-| Secret Seeker | 57.00% | ~24,673 |
-| Forge of Assassins | 55.00% | ~23,807 |
+| Secret Seeker | 57.00% | ~24,674 |
+| Forge of Assassins | 55.00% | ~23,808 |
 | Revenant | 52.00% | ~22,509 |
 | I don’t Care! | 45.00% | ~19,479 |
 | Bird of Prey | 37.00% | ~16,016 |
@@ -23,15 +23,15 @@ Number of Ratings: 88  (23.09.2022)
 | Soul Reaver | 22.00% | ~9,523 |
 | Embers | 21.00% | ~9,090 |
 | Wall Lizard | 20.00% | ~8,657 |
-| Clinging to Life | 18.00% | ~7,791 |
+| Clinging to Life | 18.00% | ~7,792 |
 | Burning | 17.00% | ~7,359 |
 | Look Behind You | 16.00% | ~6,926 |
 | Sleeping on the Job | 16.00% | ~6,926 |
 | Family | 14.00% | ~6,060 |
 | War Engines | 14.00% | ~6,060 |
 | Signature Move | 14.00% | ~6,060 |
-| Ruse | 11.00% | ~4,761 |
-| Master Ninja | 11.00% | ~4,761 |
+| Ruse | 11.00% | ~4,762 |
+| Master Ninja | 11.00% | ~4,762 |
 | Hatching | 10.00% | ~4,329 |
 | Bonds | 9.00% | ~3,896 |
 | Get Over Here | 9.00% | ~3,896 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~866 |
 | Anger Management | 1.00% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,286 (Ranked 97)  
-Completed: 238 (0.55%) (Ranked 154)  
+Progressed: 43,287 (Ranked 97)  
+Completed: 238 (0.55%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,7 +206,7 @@ Completed: 238 (0.55%) (Ranked 154)
 | 2023-09-19 | 43,260 | 238 |
 | 2023-09-20 | 43,276 | 238 |
 | 2023-09-21 | 43,285 | 238 |
-| 2023-09-22 | 43,286 | 238 |
+| 2023-09-22 | 43,287 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

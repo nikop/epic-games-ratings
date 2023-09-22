@@ -6,7 +6,7 @@
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 94,
-  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
@@ -12449,9 +12449,9 @@
       "ID": "DESTROY_100_TIE_FIGHTERS",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9309
+      "UsersEstimate": 9826
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -12569,8 +12569,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-21T18:58:32.6952767+00:00",
-  "LastChanged_Achievements": "2023-09-22T03:08:03.5401045+00:00",
+  "LastChanged_Achievements": "2023-09-22T04:08:18.1090909+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:58.9505589+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:58:26.0798124+00:00",
-  "LastUpdate_Achievements": "2023-09-22T03:08:03.5402024+00:00"
+  "LastUpdate_Ratings": "2023-09-22T03:58:32.2869477+00:00",
+  "LastUpdate_Achievements": "2023-09-22T04:08:18.1092305+00:00"
 }

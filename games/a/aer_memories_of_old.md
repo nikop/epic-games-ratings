@@ -1,24 +1,24 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 628)  
+Rating: 4.45 (Ranked 640)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~15,831 |
-| Mama? | 28.00% | ~5,757 |
-| People's Haven | 18.00% | ~3,701 |
-| Cartographer | 17.00% | ~3,495 |
-| Antlers of Stone | 15.00% | ~3,084 |
-| Knowledge for Power | 14.00% | ~2,878 |
-| Mausoleum of Ice | 14.00% | ~2,878 |
+| Light at the end of the tunnel | 77.00% | ~15,834 |
+| Mama? | 28.00% | ~5,758 |
+| People's Haven | 18.00% | ~3,702 |
+| Cartographer | 17.00% | ~3,496 |
+| Antlers of Stone | 15.00% | ~3,085 |
+| Knowledge for Power | 14.00% | ~2,879 |
+| Mausoleum of Ice | 14.00% | ~2,879 |
 | Gaze into the abyss | 13.00% | ~2,673 |
-| In the belly of the beast | 12.00% | ~2,467 |
-| Wings of Stone | 12.00% | ~2,467 |
-| Equilibrium | 12.00% | ~2,467 |
+| In the belly of the beast | 12.00% | ~2,468 |
+| Wings of Stone | 12.00% | ~2,468 |
+| Equilibrium | 12.00% | ~2,468 |
 | Condor condo | 10.00% | ~2,056 |
-| Memorial | 9.00% | ~1,850 |
+| Memorial | 9.00% | ~1,851 |
 | An uninvited guest | 8.00% | ~1,645 |
 | Talk to all the spirit animals | 7.00% | ~1,439 |
 | Ripples on the surface | 6.00% | ~1,234 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~1,234 |
 | Hide and Seek | 5.00% | ~1,028 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,560 (Ranked 114)  
+Progressed: 20,564 (Ranked 114)  
 Completed: 413 (2.01%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 413 (2.01%) (Ranked 97)
 | 2023-09-19 | 20,431 | 408 |
 | 2023-09-20 | 20,488 | 410 |
 | 2023-09-21 | 20,547 | 413 |
-| 2023-09-22 | 20,560 | 413 |
+| 2023-09-22 | 20,564 | 413 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -259,3 +259,4 @@ Completed: 413 (2.01%) (Ranked 97)
 | 2023-08-29 | 4.46 | - | 0 | 0 |
 | 2023-09-01 | 4.45 | - | 0 | 0 |
 | 2023-09-08 | 4.46 | - | 0 | 0 |
+| 2023-09-22 | 4.45 | - | 0 | 0 |

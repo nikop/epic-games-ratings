@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2146,7 +2146,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 40341,
+  "EOS_Progressed": 40342,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
@@ -18831,6 +18831,11 @@
       "Time": "2023-09-22T02:21:36.1011928+00:00",
       "NumProgressed": 40341,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-22T04:05:55.0641002+00:00",
+      "NumProgressed": 40342,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -18874,7 +18879,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 22994
+      "UsersEstimate": 22995
     },
     {
       "ID": "achievements_14",
@@ -18890,7 +18895,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 18960
+      "UsersEstimate": 18961
     },
     {
       "ID": "achievements_17",
@@ -18898,7 +18903,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14120
     },
     {
       "ID": "achievements_19",
@@ -18906,7 +18911,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11296
     },
     {
       "ID": "achievements_2",
@@ -18922,7 +18927,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9278
+      "UsersEstimate": 9279
     },
     {
       "ID": "achievements_21",
@@ -18962,7 +18967,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11296
     },
     {
       "ID": "achievements_26",
@@ -18970,7 +18975,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 16943
+      "UsersEstimate": 16944
     },
     {
       "ID": "achievements_27",
@@ -19050,7 +19055,7 @@
       "Name": "Means of Recovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "achievements_36",
@@ -19090,7 +19095,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 26625
+      "UsersEstimate": 26626
     },
     {
       "ID": "achievements_40",
@@ -19122,7 +19127,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9278
+      "UsersEstimate": 9279
     },
     {
       "ID": "achievements_44",
@@ -19146,7 +19151,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 34290
+      "UsersEstimate": 34291
     },
     {
       "ID": "achievements_47",
@@ -19162,7 +19167,7 @@
       "Name": "Master of Magic",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "achievements_49",
@@ -19194,7 +19199,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 16136
+      "UsersEstimate": 16137
     },
     {
       "ID": "achievements_52",
@@ -19202,7 +19207,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 16943
+      "UsersEstimate": 16944
     },
     {
       "ID": "achievements_53",
@@ -19210,7 +19215,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 22994
+      "UsersEstimate": 22995
     },
     {
       "ID": "achievements_54",
@@ -19418,7 +19423,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 29449
+      "UsersEstimate": 29450
     },
     {
       "ID": "achievements_8",
@@ -19426,7 +19431,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 12102
+      "UsersEstimate": 12103
     },
     {
       "ID": "achievements_9",
@@ -19441,15 +19446,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 40341,
+      "Progressed": 40342,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-19T14:59:09.6021841+00:00",
-  "LastChanged_Achievements": "2023-09-22T03:05:34.7129493+00:00",
+  "LastChanged_Achievements": "2023-09-22T04:05:55.0640998+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:54.310699+00:00",
-  "LastUpdate_Ratings": "2023-09-22T03:00:35.6836783+00:00",
-  "LastUpdate_Achievements": "2023-09-22T03:05:34.7132965+00:00"
+  "LastUpdate_Ratings": "2023-09-22T04:00:40.6451551+00:00",
+  "LastUpdate_Achievements": "2023-09-22T04:05:55.064388+00:00"
 }

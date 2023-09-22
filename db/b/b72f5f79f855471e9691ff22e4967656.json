@@ -975,9 +975,9 @@
       "ID": "questPumpkinKing",
       "SetID": "ci65fo0",
       "Name": "Pumpkin King",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "questReachLord",
@@ -1100,8 +1100,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-22T03:06:00.3465174+00:00",
+  "LastChanged_Achievements": "2023-09-22T04:06:19.7304624+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:10.772081+00:00",
-  "LastUpdate_Ratings": "2023-09-22T02:58:14.6317052+00:00",
-  "LastUpdate_Achievements": "2023-09-22T03:06:00.3466218+00:00"
+  "LastUpdate_Ratings": "2023-09-22T03:58:21.6694218+00:00",
+  "LastUpdate_Achievements": "2023-09-22T04:06:19.7305834+00:00"
 }

@@ -653,9 +653,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2907,
+  "EOS_Progressed": 2908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 994,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5188,6 +5188,11 @@
       "Time": "2023-09-22T03:04:16.246817+00:00",
       "NumProgressed": 2907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T04:04:39.0000353+00:00",
+      "NumProgressed": 2908,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5200,7 +5205,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -5224,7 +5229,7 @@
       "Name": "Death Becomes You",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -5383,15 +5388,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2907,
+      "Progressed": 2908,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-21T19:01:04.8018723+00:00",
-  "LastChanged_Achievements": "2023-09-22T03:04:16.2468163+00:00",
+  "LastChanged_Achievements": "2023-09-22T04:04:39.0000349+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-22T03:00:35.2633394+00:00",
-  "LastUpdate_Achievements": "2023-09-22T03:04:16.2468962+00:00"
+  "LastUpdate_Ratings": "2023-09-22T04:00:40.4419761+00:00",
+  "LastUpdate_Achievements": "2023-09-22T04:04:39.0000851+00:00"
 }
