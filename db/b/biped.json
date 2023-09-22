@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6093,
+  "EOS_Progressed": 6095,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10211,6 +10211,11 @@
       "Time": "2023-09-22T20:05:25.8417066+00:00",
       "NumProgressed": 6093,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T21:06:14.0882403+00:00",
+      "NumProgressed": 6095,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10238,7 +10243,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "12",
@@ -10278,7 +10283,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "3",
@@ -10302,7 +10307,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "6",
@@ -10341,7 +10346,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6093,
+      "Progressed": 6095,
       "Completed": 0
     }
   ],
@@ -10349,8 +10354,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:05:25.8417061+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:06:14.0882398+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:59:32.4533234+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:05:25.8417894+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:00:11.7677495+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:06:14.088315+00:00"
 }

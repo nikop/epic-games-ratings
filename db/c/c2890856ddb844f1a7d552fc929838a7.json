@@ -5,7 +5,7 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 118,
@@ -1707,9 +1707,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 569
+      "UsersEstimate": 578
     },
     {
       "ID": "AC05",
@@ -1795,9 +1795,9 @@
       "ID": "AC15",
       "SetID": "l4abp0",
       "Name": "Full Devotion",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 182
     },
     {
       "ID": "AC16",
@@ -2052,8 +2052,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:04:26.2096404+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:05:02.646355+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:58:28.3895171+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:04:26.2096903+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:58:56.2866494+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:05:02.6464088+00:00"
 }

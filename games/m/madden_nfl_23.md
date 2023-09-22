@@ -5,44 +5,44 @@ Rating: 4.28 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 62.00% | ~502 |
-| MVP | 61.00% | ~493 |
-| Big Spender | 57.00% | ~461 |
-| Stud Finder | 50.00% | ~404 |
-| Dealmaker | 48.00% | ~388 |
-| ROTY | 39.00% | ~316 |
-| Roster Reshuffle | 32.00% | ~259 |
-| Future of the Franchise | 27.00% | ~218 |
-| Change of Scenery | 20.00% | ~162 |
-| Pro Bowler | 18.00% | ~146 |
-| Throwin’ Dots | 17.00% | ~138 |
-| Primetime | 14.00% | ~113 |
-| Already in Progress | 14.00% | ~113 |
-| Unblockable | 10.00% | ~81 |
-| Pocket Ace | 7.00% | ~57 |
-| Head-to-Head | 6.00% | ~49 |
-| Lockdown Corner | 3.00% | ~24 |
+| Bragging Rights | 62.00% | ~512 |
+| MVP | 61.00% | ~504 |
+| Big Spender | 57.00% | ~471 |
+| Stud Finder | 49.00% | ~405 |
+| Dealmaker | 47.00% | ~388 |
+| ROTY | 39.00% | ~322 |
+| Roster Reshuffle | 32.00% | ~264 |
+| Future of the Franchise | 27.00% | ~223 |
+| Change of Scenery | 20.00% | ~165 |
+| Pro Bowler | 18.00% | ~149 |
+| Throwin’ Dots | 17.00% | ~140 |
+| Primetime | 14.00% | ~116 |
+| Already in Progress | 13.00% | ~107 |
+| Unblockable | 10.00% | ~83 |
+| Pocket Ace | 6.00% | ~50 |
+| Head-to-Head | 6.00% | ~50 |
+| Lockdown Corner | 4.00% | ~33 |
 | Gain Train | 1.00% | ~8 |
 | Ol' Reliable | 0.60% | ~5 |
 | The Fortress | 0.50% | ~4 |
 | Lockdown Leader | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809 (Ranked 236)  
+Progressed: 826 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-20 | 422 | 0 |
 | 2023-09-21 | 660 | 0 |
-| 2023-09-22 | 809 | 0 |
+| 2023-09-22 | 826 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 485)  
-Sum: 67 (Ranked 447)  
-Diff (max vs sum): 38  
+Sum: 68 (Ranked 445)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 26 |
-| This game has a Competitive Community | 21 |
+| This game has a Competitive Community | 22 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -154,3 +154,4 @@ Diff (max vs sum): 38
 | 2023-09-16 | 4.28 | 24 | 65 |
 | 2023-09-18 | 4.28 | 25 | 66 |
 | 2023-09-20 | 4.28 | 26 | 67 |
+| 2023-09-22 | 4.28 | 26 | 68 |

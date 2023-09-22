@@ -5,40 +5,40 @@ Rating: 4.24 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,630 |
-| Don't I Know You...? | 76.00% | ~1,548 |
-| Jailbreak | 65.00% | ~1,324 |
-| HEADSHOT! | 38.00% | ~774 |
-| Suited and Booted | 38.00% | ~774 |
-| Sleeping With The Fishes | 35.00% | ~713 |
-| Overheated | 30.00% | ~611 |
-| High Performance | 30.00% | ~611 |
-| Powered Up | 28.00% | ~570 |
-| Studied The Blade | 25.00% | ~509 |
+| Rigged And Ready | 80.00% | ~1,631 |
+| Don't I Know You...? | 77.00% | ~1,570 |
+| Jailbreak | 65.00% | ~1,325 |
+| HEADSHOT! | 38.00% | ~775 |
+| Suited and Booted | 38.00% | ~775 |
+| Sleeping With The Fishes | 35.00% | ~714 |
+| Overheated | 30.00% | ~612 |
+| High Performance | 30.00% | ~612 |
+| Powered Up | 28.00% | ~571 |
+| Studied The Blade | 25.00% | ~510 |
 | Home Invasion | 23.00% | ~469 |
-| Luminary | 22.00% | ~448 |
-| It's a Trap | 22.00% | ~448 |
+| Luminary | 22.00% | ~449 |
+| It's a Trap | 22.00% | ~449 |
 | True Survivor | 21.00% | ~428 |
-| Offensive Defense | 20.00% | ~407 |
-| Shocking | 20.00% | ~407 |
+| Offensive Defense | 20.00% | ~408 |
+| Shocking | 20.00% | ~408 |
 | Court Martial | 19.00% | ~387 |
 | Clean Cut | 19.00% | ~387 |
 | Unforeseeable Consequences | 19.00% | ~387 |
 | Dead Again | 18.00% | ~367 |
-| Full Arsenal | 17.00% | ~346 |
+| Full Arsenal | 17.00% | ~347 |
 | Can't Trust Banks | 15.00% | ~306 |
 | Mommy Dearest | 14.00% | ~285 |
 | Bad Dog | 13.00% | ~265 |
 | Where It All Began | 13.00% | ~265 |
 | Risk Tolerant | 13.00% | ~265 |
 | What A Catchy Song | 13.00% | ~265 |
-| Corrupted Beauty | 12.00% | ~244 |
-| Marked For Success | 12.00% | ~244 |
-| Sorry, Didn't See You There | 12.00% | ~244 |
+| Corrupted Beauty | 12.00% | ~245 |
+| Marked For Success | 12.00% | ~245 |
+| Sorry, Didn't See You There | 12.00% | ~245 |
 | Triplets | 10.00% | ~204 |
-| Denying Prophecy | 9.00% | ~183 |
-| Defense in Depth | 9.00% | ~183 |
-| Stimulating The Local Economy | 9.00% | ~183 |
+| Denying Prophecy | 9.00% | ~184 |
+| Defense in Depth | 9.00% | ~184 |
+| Stimulating The Local Economy | 9.00% | ~184 |
 | A Little Banged Up | 8.00% | ~163 |
 | Following In Their Footsteps | 8.00% | ~163 |
 | Reverse Engineering | 7.00% | ~143 |
@@ -49,10 +49,10 @@ Rating: 4.24 (Ranked 846)
 | Squid Pro Quo | 6.00% | ~122 |
 | Counter-Sniper | 5.00% | ~102 |
 | Shrimp Cocktail | 5.00% | ~102 |
-| Hello Darkness My Old Friend | 4.00% | ~81 |
-| Geronimo! | 4.00% | ~81 |
-| Homewrecker | 4.00% | ~81 |
-| Plank of Wood | 4.00% | ~81 |
+| Hello Darkness My Old Friend | 4.00% | ~82 |
+| Geronimo! | 4.00% | ~82 |
+| Homewrecker | 4.00% | ~82 |
+| Plank of Wood | 4.00% | ~82 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~61 |
 | Gotta Craft 'em All | 3.00% | ~61 |
 | Own Medicine | 2.00% | ~41 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 846)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,037 (Ranked 192)  
+Progressed: 2,039 (Ranked 192)  
 Completed: 12 (0.59%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 12 (0.59%) (Ranked 151)
 | 2023-09-19 | 2,020 | 12 |
 | 2023-09-20 | 2,024 | 12 |
 | 2023-09-21 | 2,028 | 12 |
-| 2023-09-22 | 2,037 | 12 |
+| 2023-09-22 | 2,039 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

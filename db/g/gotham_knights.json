@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 889,
+  "Ranking_Rating": 890,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3030,18 +3030,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4537,
       "NumberOfAwardsMax": 2725
+    },
+    {
+      "Time": "2023-09-22T21:02:20.1008728+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4543,
+      "NumberOfAwardsMax": 2731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4537,
-  "NumberOfAwardsMax": 2725,
+  "NumberOfAwards": 4543,
+  "NumberOfAwardsMax": 2731,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2725
+      "Count": 2731
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3098,9 +3104,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72731,
+  "EOS_Progressed": 72733,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16298,6 +16304,11 @@
       "Time": "2023-09-22T17:06:03.5571868+00:00",
       "NumProgressed": 72731,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-09-22T21:05:50.5664321+00:00",
+      "NumProgressed": 72733,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 61,
@@ -16357,7 +16368,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16728
+      "UsersEstimate": 16729
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16405,7 +16416,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12364
+      "UsersEstimate": 12365
     },
     {
       "ID": "CLAYFACE_1",
@@ -16429,7 +16440,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -16533,7 +16544,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21092
+      "UsersEstimate": 21093
     },
     {
       "ID": "FREEZE_1_5",
@@ -16557,7 +16568,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -16613,7 +16624,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25456
+      "UsersEstimate": 25457
     },
     {
       "ID": "HARLEY_2",
@@ -16629,7 +16640,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14546
+      "UsersEstimate": 14547
     },
     {
       "ID": "HARLEY_4",
@@ -16653,7 +16664,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37820
+      "UsersEstimate": 37821
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16677,7 +16688,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14546
+      "UsersEstimate": 14547
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16717,7 +16728,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16728
+      "UsersEstimate": 16729
     },
     {
       "ID": "MYSTERY_04",
@@ -16725,7 +16736,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14546
+      "UsersEstimate": 14547
     },
     {
       "ID": "MYSTERY_05",
@@ -16749,7 +16760,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "MYSTERY_08",
@@ -16765,7 +16776,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8000
+      "UsersEstimate": 8001
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -16796,22 +16807,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72731,
+      "Progressed": 72733,
       "Completed": 116
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43011,
+      "Progressed": 43013,
       "Completed": 2665
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-22T19:02:26.6028121+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:05:05.8724799+00:00",
+  "LastChanged": "2023-09-22T21:02:20.1008726+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:05:50.5664317+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:02:16.6555939+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:05:05.8726258+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:02:20.1008733+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:05:50.5666024+00:00"
 }

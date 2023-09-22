@@ -30,11 +30,11 @@
 | Trouble at Fort Larius | 5.00% | ~8 |
 | Potential Unlocked | 4.00% | ~6 |
 | Xevarian Gambit | 4.00% | ~6 |
+| The Voice of Hereafter | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
 | Bounty Hunter | 3.00% | ~5 |
 | Supercargo | 3.00% | ~5 |
-| The Voice of Hereafter | 3.00% | ~5 |
 | Despised | 3.00% | ~5 |
 | Business As Usual | 3.00% | ~5 |
 | Life... Finds a Way | 3.00% | ~5 |

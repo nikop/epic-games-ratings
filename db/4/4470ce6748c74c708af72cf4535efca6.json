@@ -345,17 +345,17 @@
       "ID": "21",
       "SetID": "5e3maia",
       "Name": "Survivor",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "22",
       "SetID": "5e3maia",
       "Name": "Vegetarian",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "23",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:06:34.8565808+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:07:36.3766131+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:58:11.2132928+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:06:34.8566528+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:58:36.1630845+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:07:36.3767191+00:00"
 }

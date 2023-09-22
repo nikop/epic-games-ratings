@@ -11,6 +11,7 @@ Rating: 4.50 (Ranked 568)
 | Discovery | 0.50% | ~130 |
 | Solo Capture | 0.50% | ~130 |
 | I collect Spores, Molds, and Fungi | 0.40% | ~104 |
+| Cultured | 0.40% | ~104 |
 | Fully Upgraded | 0.40% | ~104 |
 | Teamwork | 0.40% | ~104 |
 | Vaporous Expansion | 0.40% | ~104 |
@@ -18,11 +19,11 @@ Rating: 4.50 (Ranked 568)
 | Animated | 0.30% | ~78 |
 | Back Off | 0.30% | ~78 |
 | Clutch Capture | 0.30% | ~78 |
-| Cultured | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
 | Ghostbuster In Training | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |
 | Right back at ya | 0.30% | ~78 |
+| Skilled | 0.30% | ~78 |
 | Summoner | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
 | Terrifying | 0.30% | ~78 |
@@ -37,7 +38,6 @@ Rating: 4.50 (Ranked 568)
 | Rift Destroyer | 0.20% | ~52 |
 | Seasoned | 0.20% | ~52 |
 | Side Hustle | 0.20% | ~52 |
-| Skilled | 0.20% | ~52 |
 | Stunner | 0.20% | ~52 |
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 568)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,958 (Ranked 109)  
-Completed: 58 (0.22%) (Ranked 202)  
+Progressed: 25,959 (Ranked 109)  
+Completed: 58 (0.22%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,7 +212,7 @@ Completed: 58 (0.22%) (Ranked 202)
 | 2023-09-19 | 25,909 | 56 |
 | 2023-09-20 | 25,927 | 57 |
 | 2023-09-21 | 25,942 | 58 |
-| 2023-09-22 | 25,958 | 58 |
+| 2023-09-22 | 25,959 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 254)  
 Sum: 2,328 (Ranked 188)  

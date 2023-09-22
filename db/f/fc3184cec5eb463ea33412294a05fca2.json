@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.39,
+  "EOS_Completed_Percentage": 7.36,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1086,6 +1086,11 @@
       "Time": "2023-09-21T13:12:19.1928685+00:00",
       "NumProgressed": 257,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-09-22T21:07:00.3724604+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 16,
@@ -1097,7 +1102,7 @@
       "Name": "Three is company",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1105,7 +1110,7 @@
       "Name": "Duck invasion",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1137,7 +1142,7 @@
       "Name": "High-rise",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1145,7 +1150,7 @@
       "Name": "Putting challenge",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -1153,15 +1158,15 @@
       "Name": "Floatpiercer",
       "Percentage": 13,
       "XP": 150,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1193,7 +1198,7 @@
       "Name": "Private pool",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1209,7 +1214,7 @@
       "Name": "On fire",
       "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1224,14 +1229,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:06:04.832426+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:07:00.3724598+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:58:04.0610991+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:06:04.8324485+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:58:27.2653168+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:07:00.3724838+00:00"
 }

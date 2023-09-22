@@ -1,20 +1,20 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.18 (Ranked 889)  
+Rating: 4.19 (Ranked 878)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 15.00% | ~8,300 |
-| As Far Away As Possible | 10.00% | ~5,533 |
-| A Most Unstable Organism | 8.00% | ~4,427 |
-| No Time to Follow Protocol | 6.00% | ~3,320 |
-| Float Like a Butterfly... | 5.00% | ~2,767 |
-| Nano Connoisseur | 4.00% | ~2,213 |
-| In Two Places At Once | 4.00% | ~2,213 |
-| Pulling Your Weight | 1.00% | ~553 |
-| Reaping Rivals | 1.00% | ~553 |
-| fifteenth Time's the Charm | 0.40% | ~221 |
+| Your Lucky Day | 16.00% | ~8,861 |
+| As Far Away As Possible | 10.00% | ~5,538 |
+| A Most Unstable Organism | 8.00% | ~4,430 |
+| No Time to Follow Protocol | 7.00% | ~3,877 |
+| Float Like a Butterfly... | 5.00% | ~2,769 |
+| Nano Connoisseur | 4.00% | ~2,215 |
+| In Two Places At Once | 4.00% | ~2,215 |
+| Pulling Your Weight | 1.00% | ~554 |
+| Reaping Rivals | 1.00% | ~554 |
+| fifteenth Time's the Charm | 0.40% | ~222 |
 | More Power to You | 0.20% | ~111 |
 | Memory Keeper | 0.10% | ~55 |
 | Gone Rogue | 0.10% | ~55 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 889)
 | Runs for Your Money | 0.10% | ~55 |
 | Past Master | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,334 (Ranked 93)  
+Progressed: 55,381 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 0 (0.00%) (Ranked 289)
 | 2023-09-19 | 53,492 | 0 |
 | 2023-09-20 | 54,118 | 0 |
 | 2023-09-21 | 54,789 | 0 |
-| 2023-09-22 | 55,334 | 0 |
+| 2023-09-22 | 55,381 | 0 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 516)  
 Sum: 21 (Ranked 517)  
@@ -72,3 +72,4 @@ Diff (max vs sum): -1
 | 2023-09-19 | 4.18 | 0 | 0 |
 | 2023-09-20 | 4.17 | 0 | 0 |
 | 2023-09-21 | 4.18 | 21 | 21 |
+| 2023-09-22 | 4.19 | 21 | 21 |

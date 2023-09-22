@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 232,
@@ -2414,9 +2414,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 213
     },
     {
       "ID": "HexlockGift",
@@ -2687,8 +2687,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:04:06.976208+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:04:39.9375974+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0098494+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:57:04.4604696+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:04:06.9762684+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:57:18.6900755+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:04:39.9376686+00:00"
 }

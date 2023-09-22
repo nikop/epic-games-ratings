@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Debuff Dogpile | 18.00% | ~531 |
 | Faceroll the Bones | 18.00% | ~531 |
+| Hit 'Em Where It Hurts | 18.00% | ~531 |
 | That'll Leave a Mark | 18.00% | ~531 |
-| Debuff Dogpile | 17.00% | ~501 |
-| Hit 'Em Where It Hurts | 17.00% | ~501 |
-| Perk Shard Punch Card | 17.00% | ~501 |
+| Perk Shard Punch Card | 17.00% | ~502 |
 | Mushroom Madness! | 16.00% | ~472 |
 | Spending Spree | 14.00% | ~413 |
-| First Strike | 13.00% | ~383 |
-| Horder Better Faster Stronger | 13.00% | ~383 |
-| Everything Must Go! | 11.00% | ~324 |
-| Ten Steps from the Grave | 11.00% | ~324 |
-| Next Time on MythForce... | 9.00% | ~265 |
-| Cold-Blooded Critters | 7.00% | ~206 |
-| Death Becomes You | 7.00% | ~206 |
+| First Strike | 13.00% | ~384 |
+| Horder Better Faster Stronger | 13.00% | ~384 |
+| Everything Must Go! | 11.00% | ~325 |
+| Ten Steps from the Grave | 11.00% | ~325 |
+| Next Time on MythForce... | 9.00% | ~266 |
+| Cold-Blooded Critters | 7.00% | ~207 |
+| Death Becomes You | 7.00% | ~207 |
 | Flawless Victory | 6.00% | ~177 |
-| The Harder They Fall | 4.00% | ~118 |
-| On this Episode! | 3.00% | ~88 |
+| The Harder They Fall | 5.00% | ~148 |
+| On this Episode! | 4.00% | ~118 |
 | Deadication | 2.00% | ~59 |
 | We've Got a Kaiju on the Field | 2.00% | ~59 |
 | Season Finale | 2.00% | ~59 |
-| The Fourth Gate | 1.00% | ~29 |
+| The Fourth Gate | 1.00% | ~30 |
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,949 (Ranked 182)  
+Progressed: 2,952 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 289)
 | 2023-09-19 | 2,764 | 0 |
 | 2023-09-20 | 2,843 | 0 |
 | 2023-09-21 | 2,900 | 0 |
-| 2023-09-22 | 2,949 | 0 |
+| 2023-09-22 | 2,952 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 460)  
 Sum: 268 (Ranked 357)  

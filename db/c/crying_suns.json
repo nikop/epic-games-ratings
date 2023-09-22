@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467798,
+  "EOS_Progressed": 467802,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16874,6 +16874,11 @@
       "Time": "2023-09-22T20:04:19.7654838+00:00",
       "NumProgressed": 467798,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-22T21:04:55.0751207+00:00",
+      "NumProgressed": 467802,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16973,7 +16978,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308747
+      "UsersEstimate": 308749
     },
     {
       "ID": "achievement_story_landa",
@@ -17069,7 +17074,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154373
+      "UsersEstimate": 154375
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17309,7 +17314,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205831
+      "UsersEstimate": 205833
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -17317,7 +17322,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140339
+      "UsersEstimate": 140341
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -17341,7 +17346,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182441
+      "UsersEstimate": 182443
     },
     {
       "ID": "achievement_win_run_hard",
@@ -17516,21 +17521,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11732,
+      "Progressed": 11736,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467798,
+      "Progressed": 467802,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:04:19.7654833+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:04:55.07512+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:49.9396656+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:00:14.1251575+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:04:19.7656861+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:01:07.3124123+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:04:55.0754567+00:00"
 }

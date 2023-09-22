@@ -5,12 +5,12 @@ Rating: 4.69 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~451 |
+| A New Journey | 69.00% | ~457 |
 | The Adventure Begins | 54.00% | ~358 |
 | Swabbie | 43.00% | ~285 |
 | With Great Power… | 41.00% | ~272 |
 | This Belongs in a Museum | 38.00% | ~252 |
-| The Gambit Has Begun | 34.00% | ~225 |
+| The Gambit Has Begun | 35.00% | ~232 |
 | Powder Monkey | 31.00% | ~206 |
 | Somewhere Deep in the Lost Caribbean | 30.00% | ~199 |
 | Mirror Mirror on the Wall | 30.00% | ~199 |

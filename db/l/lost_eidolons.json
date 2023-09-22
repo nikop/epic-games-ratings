@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1112,
+  "EOS_Progressed": 1113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1430,6 +1430,11 @@
       "Time": "2023-09-22T14:04:56.1856618+00:00",
       "NumProgressed": 1112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T21:04:28.3229647+00:00",
+      "NumProgressed": 1113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1449,7 +1454,7 @@
       "Name": "Way of the Warlord",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "03",
@@ -1473,7 +1478,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "06",
@@ -1487,9 +1492,9 @@
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 589
+      "UsersEstimate": 579
     },
     {
       "ID": "08",
@@ -1497,7 +1502,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "09",
@@ -1545,7 +1550,7 @@
       "Name": "Til We Meet Again",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "15",
@@ -1567,9 +1572,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 689
+      "UsersEstimate": 679
     },
     {
       "ID": "18",
@@ -1624,7 +1629,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1112,
+      "Progressed": 1113,
       "Completed": 1
     }
   ],
@@ -1632,8 +1637,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:03:57.343436+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:04:28.3229641+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.0630202+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:57:08.9262135+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:03:57.3434624+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:57:23.3404209+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:04:28.3229895+00:00"
 }

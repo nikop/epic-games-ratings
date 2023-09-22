@@ -6,7 +6,7 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 5.00% | ~312 |
+| A Friend in Need... | 5.00% | ~313 |
 | Smooth Operator: Madison | 4.00% | ~250 |
 | The Brahdyssey | 2.00% | ~125 |
 | Caught in the Act | 2.00% | ~125 |
@@ -15,9 +15,9 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 2.00% | ~66 |
 | Relentless | 2.00% | ~125 |
 | If at First You Don't Succeed... | 2.00% | ~125 |
-| Drunk and Disorderly: Ashley | 1.00% | ~62 |
-| IRL Let's Player | 1.00% | ~62 |
-| Newcomer: Vickie | 1.00% | ~62 |
+| Drunk and Disorderly: Ashley | 1.00% | ~63 |
+| IRL Let's Player | 1.00% | ~63 |
+| Newcomer: Vickie | 1.00% | ~63 |
 | Social Butterfly | 0.90% | ~56 |
 | Amy | 0.80% | ~50 |
 | Inspector | 0.80% | ~50 |
@@ -45,16 +45,16 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.30% | ~19 |
 | The Muse: Derek | 0.30% | ~19 |
 | The Elder Brahs | 0.30% | ~19 |
-| Beyond the Call of Dude-y | 0.20% | ~12 |
+| Beyond the Call of Dude-y | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
-| First Impressions | 0.20% | ~12 |
-| The Harder They Fall...Dood | 0.20% | ~12 |
-| Ronin | 0.20% | ~12 |
-| Do You Smell Blood? | 0.20% | ~12 |
-| A Striking Resemblance | 0.20% | ~12 |
-| Howz It Goin Dood | 0.20% | ~12 |
-| Derezzed | 0.20% | ~12 |
-| Snapped | 0.20% | ~12 |
+| First Impressions | 0.20% | ~13 |
+| The Harder They Fall...Dood | 0.20% | ~13 |
+| Ronin | 0.20% | ~13 |
+| Do You Smell Blood? | 0.20% | ~13 |
+| A Striking Resemblance | 0.20% | ~13 |
+| Howz It Goin Dood | 0.20% | ~13 |
+| Derezzed | 0.20% | ~13 |
+| Snapped | 0.20% | ~13 |
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,250 (Ranked 152)  
+Progressed: 6,251 (Ranked 152)  
 Completed: 3 (0.05%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 3 (0.05%) (Ranked 249)
 | 2023-09-19 | 6,219 | 3 |
 | 2023-09-20 | 6,230 | 3 |
 | 2023-09-21 | 6,240 | 3 |
-| 2023-09-22 | 6,250 | 3 |
+| 2023-09-22 | 6,251 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

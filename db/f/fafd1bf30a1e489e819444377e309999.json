@@ -2,9 +2,9 @@
   "ID": "fafd1bf30a1e489e819444377e309999",
   "Name": "Contraption Maker",
   "ProductSlug": "contraption-maker-66e1ec",
-  "Ranking_EOS_Progress": 632,
+  "Ranking_EOS_Progress": 633,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T18:06:17.5632843+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:04:23.1821651+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:04:59.005283+00:00",
   "LastUpdate_AppInfo": "2023-09-17T17:57:04.7263552+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:58:54.2642913+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:04:23.1821698+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:59:25.9748851+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:04:59.0052869+00:00"
 }

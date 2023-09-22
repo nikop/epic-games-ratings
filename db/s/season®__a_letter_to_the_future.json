@@ -3,8 +3,8 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2458,9 +2458,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 811
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2507,8 +2507,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-22T20:05:57.8489517+00:00",
+  "LastChanged_Achievements": "2023-09-22T21:06:52.167278+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:43.1531361+00:00",
-  "LastUpdate_Ratings": "2023-09-22T20:00:08.9908646+00:00",
-  "LastUpdate_Achievements": "2023-09-22T20:05:57.8489813+00:00"
+  "LastUpdate_Ratings": "2023-09-22T21:01:00.9245868+00:00",
+  "LastUpdate_Achievements": "2023-09-22T21:06:52.1673076+00:00"
 }
