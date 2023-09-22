@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,201 (Ranked 20)  
-Completed: 12,898 (1.80%) (Ranked 103)  
+Progressed: 715,204 (Ranked 20)  
+Completed: 12,898 (1.80%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,15 +222,15 @@ Completed: 12,898 (1.80%) (Ranked 103)
 | 2023-09-19 | 715,150 | 12,896 |
 | 2023-09-20 | 715,171 | 12,897 |
 | 2023-09-21 | 715,192 | 12,897 |
-| 2023-09-22 | 715,201 | 12,898 |
+| 2023-09-22 | 715,204 | 12,898 |
 ## Awards
 Max (Great Boss Battles): 6,556  (Ranked 53)  
-Sum: 11,332 (Ranked 81)  
+Sum: 11,337 (Ranked 81)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,556 |
-| This game has Diverse Characters | 603 |
+| This game has Diverse Characters | 606 |
 | This game has Challenging Combat | 567 |
 | This game has Quickly Understood Controls | 550 |
 | This game has Amazing Storytelling | 550 |
@@ -239,7 +239,7 @@ Diff (max vs sum): -28
 | This game is Highly Recommended | 538 |
 | This game has Unique Visuals | 499 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 387 |
+| This game has a Creative Community | 389 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -492,4 +492,4 @@ Diff (max vs sum): -28
 | 2023-09-19 | 4.82 | - | 6,540 | 11,302 |
 | 2023-09-20 | 4.82 | - | 6,547 | 11,316 |
 | 2023-09-21 | 4.82 | - | 6,556 | 11,328 |
-| 2023-09-22 | 4.82 | - | 6,556 | 11,332 |
+| 2023-09-22 | 4.82 | - | 6,556 | 11,337 |

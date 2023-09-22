@@ -6,9 +6,9 @@
   "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -763,9 +763,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 40064,
+  "EOS_Progressed": 40067,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18043,6 +18043,11 @@
       "Time": "2023-09-22T12:05:18.2385905+00:00",
       "NumProgressed": 40064,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-22T13:09:57.4989743+00:00",
+      "NumProgressed": 40067,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18094,7 +18099,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     },
     {
       "ID": "goals180",
@@ -18182,7 +18187,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6410
+      "UsersEstimate": 6411
     },
     {
       "ID": "playerFelipe",
@@ -18365,15 +18370,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40064,
+      "Progressed": 40067,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-15T18:59:46.0517452+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:05:18.2385897+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:09:57.4989738+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:21.9725238+00:00",
-  "LastUpdate_Ratings": "2023-09-22T12:01:35.8457481+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:05:18.2387299+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:06:42.8719569+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:09:57.4990826+00:00"
 }

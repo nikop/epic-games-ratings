@@ -20,7 +20,7 @@ Number of Ratings: 86  (23.09.2022)
 | Stone After Stone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 555)  
-Completed: 0 (0.00%) (Ranked 286)  
+Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

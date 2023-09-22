@@ -5,10 +5,10 @@
   "Ranking_Rating": 761,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 218,
-  "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4327,
+  "EOS_Progressed": 4337,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3745,6 +3745,11 @@
       "Time": "2023-09-22T12:08:23.248229+00:00",
       "NumProgressed": 4327,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-22T13:13:22.3215749+00:00",
+      "NumProgressed": 4337,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3757,7 +3762,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "a_10",
@@ -3805,7 +3810,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1605
     },
     {
       "ID": "a_19",
@@ -3813,7 +3818,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "a_2",
@@ -3821,7 +3826,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "a_20",
@@ -3837,7 +3842,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "a_22",
@@ -4004,7 +4009,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4327,
+      "Progressed": 4337,
       "Completed": 6
     }
   ],
@@ -4012,8 +4017,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:08:23.2482285+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:13:22.3215744+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:59:56.3840968+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:08:23.2482719+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:04:49.8258978+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:13:22.3216068+00:00"
 }

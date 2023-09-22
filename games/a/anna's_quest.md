@@ -26,10 +26,10 @@
 | No posters allowed | 39.00% | ~17 |
 | GG | 36.00% | ~16 |
 | Close the deal | 34.00% | ~15 |
+| Shattered | 34.00% | ~15 |
 | You've got mail! | 34.00% | ~15 |
 | Beekeeper | 34.00% | ~15 |
 | Mischief maker | 34.00% | ~15 |
-| Shattered | 32.00% | ~14 |
 | Pain in the hands | 32.00% | ~14 |
 | Memories | 30.00% | ~13 |
 | Turn the last page | 30.00% | ~13 |
@@ -45,7 +45,7 @@
 | Posterboy! | 14.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 426)  
-Completed: 5 (11.36%) (Ranked 22)  
+Completed: 5 (11.36%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,18 +5,18 @@ Rating: 4.80 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,282 |
-| A Thorny Situation | 70.00% | ~3,147 |
-| ... And Spit Back Out | 58.00% | ~2,608 |
-| Break-Net Speed | 47.00% | ~2,113 |
-| Bramble Breaker | 43.00% | ~1,933 |
-| Miner 49er | 40.00% | ~1,798 |
-| Humble Collector | 39.00% | ~1,753 |
-| Calm Sailing | 31.00% | ~1,394 |
-| Open the Gate! | 28.00% | ~1,259 |
-| Mist Walker | 26.00% | ~1,169 |
-| Lumberjack | 22.00% | ~989 |
-| Oui, Chef! | 21.00% | ~944 |
+| Azoria Beckons | 73.00% | ~3,287 |
+| A Thorny Situation | 70.00% | ~3,152 |
+| ... And Spit Back Out | 58.00% | ~2,612 |
+| Break-Net Speed | 47.00% | ~2,116 |
+| Bramble Breaker | 43.00% | ~1,936 |
+| Miner 49er | 40.00% | ~1,801 |
+| Humble Collector | 39.00% | ~1,756 |
+| Calm Sailing | 31.00% | ~1,396 |
+| Open the Gate! | 28.00% | ~1,261 |
+| Mist Walker | 26.00% | ~1,171 |
+| Lumberjack | 22.00% | ~991 |
+| Oui, Chef! | 21.00% | ~946 |
 | Clear the Air | 12.00% | ~540 |
 | Botanical Breakthrough | 12.00% | ~540 |
 | Beach Comber | 11.00% | ~495 |
@@ -36,13 +36,13 @@ Rating: 4.80 (Ranked 84)
 | Right Tool For the Job | 1.00% | ~45 |
 | Angling Authority | 0.60% | ~27 |
 | Captain of Cozy | 0.60% | ~27 |
-| Cloverfield Island | 0.10% | ~4 |
-| Workaholic | 0.10% | ~4 |
-| Giving the People What They Want | 0.10% | ~4 |
-| Very Skilled | 0.10% | ~4 |
+| Cloverfield Island | 0.10% | ~5 |
+| Workaholic | 0.10% | ~5 |
+| Giving the People What They Want | 0.10% | ~5 |
+| Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,496 (Ranked 160)  
-Completed: 0 (0.00%) (Ranked 286)  
+Progressed: 4,503 (Ranked 162)  
+Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 286)
 | 2023-09-19 | 4,198 | 0 |
 | 2023-09-20 | 4,323 | 0 |
 | 2023-09-21 | 4,439 | 0 |
-| 2023-09-22 | 4,496 | 0 |
+| 2023-09-22 | 4,503 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

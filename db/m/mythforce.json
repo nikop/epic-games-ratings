@@ -6,9 +6,9 @@
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -659,9 +659,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2924,
+  "EOS_Progressed": 2926,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 962,
+  "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5224,6 +5224,11 @@
       "Time": "2023-09-22T12:04:54.4980509+00:00",
       "NumProgressed": 2924,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T13:09:31.3382247+00:00",
+      "NumProgressed": 2926,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5252,7 +5257,7 @@
       "Name": "Deadication",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -5284,7 +5289,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5300,7 +5305,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -5340,7 +5345,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -5380,7 +5385,7 @@
       "Name": "Season Finale",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -5419,15 +5424,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2924,
+      "Progressed": 2926,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-22T11:01:43.6816518+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:04:54.49805+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:09:31.3382241+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-22T12:00:59.2459987+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:04:54.4980947+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:06:03.9448652+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:09:31.3382579+00:00"
 }

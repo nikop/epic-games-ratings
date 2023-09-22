@@ -4,47 +4,48 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 78.00% | ~7 |
-| Off to a good start | 67.00% | ~6 |
-| Safety ain't the point of a joyride | 22.00% | ~2 |
-| Best star-pilot in the galaxy | 22.00% | ~2 |
-| What's the cargo? | 11.00% | ~1 |
-| Playing the objective | 11.00% | ~1 |
-| I've been waiting for you | 11.00% | ~1 |
-| "Gonk? Gonk!" | 11.00% | ~1 |
-| The power of the Force | 11.00% | ~1 |
-| When 900 years old you reach... | 11.00% | ~1 |
-| Collector | 11.00% | ~1 |
-| Tell Jabba that I've got his money | 11.00% | ~1 |
-| Distinguished | 11.00% | ~1 |
-| Determined | 11.00% | ~1 |
-| Never tell me the odds! | 11.00% | ~1 |
-| Precision shot | 11.00% | ~1 |
-| Scrap collector | 11.00% | ~1 |
-| All right, I'll give it a try | 11.00% | ~1 |
-| I suggest a new strategy | 11.00% | ~1 |
-| Do... or do not. There is no try | 11.00% | ~1 |
-| Judge me by my size, do you? | 11.00% | ~1 |
-| Not bad for a little furball | 11.00% | ~1 |
-| A good blaster at your side | 11.00% | ~1 |
-| This is a new day, a new beginning | 11.00% | ~1 |
-| Patience you must have | 11.00% | ~1 |
-| Greed can be a very powerful ally | 11.00% | ~1 |
-| Do we take prisoners? | 11.00% | ~1 |
-| Shoot first | 11.00% | ~1 |
-| City in the Clouds | 11.00% | ~1 |
-| You have your moments | 11.00% | ~1 |
-| When surrounded by war... | 11.00% | ~1 |
-| I’ll take that bet | 11.00% | ~1 |
-| That's no moon | 11.00% | ~1 |
-| Support the troops | 11.00% | ~1 |
-| Alternative solution | 11.00% | ~1 |
-| Great shot, kid! | 11.00% | ~1 |
-| What will you become? | 11.00% | ~1 |
-| The circle is now complete | 11.00% | ~1 |
-| Disturbed tranquility | 11.00% | ~1 |
-| A cunning warrior | 11.00% | ~1 |
-| Don't underestimate the Force | 11.00% | ~1 |
+| New Recruit | 80.00% | ~8 |
+| Off to a good start | 70.00% | ~7 |
+| The power of the Force | 20.00% | ~2 |
+| All right, I'll give it a try | 20.00% | ~2 |
+| Safety ain't the point of a joyride | 20.00% | ~2 |
+| Best star-pilot in the galaxy | 20.00% | ~2 |
+| Do... or do not. There is no try | 20.00% | ~2 |
+| What's the cargo? | 10.00% | ~1 |
+| Playing the objective | 10.00% | ~1 |
+| I've been waiting for you | 10.00% | ~1 |
+| "Gonk? Gonk!" | 10.00% | ~1 |
+| When 900 years old you reach... | 10.00% | ~1 |
+| Collector | 10.00% | ~1 |
+| Tell Jabba that I've got his money | 10.00% | ~1 |
+| Distinguished | 10.00% | ~1 |
+| Determined | 10.00% | ~1 |
+| A tremor in the Force | 10.00% | ~1 |
+| Never tell me the odds! | 10.00% | ~1 |
+| Precision shot | 10.00% | ~1 |
+| Scrap collector | 10.00% | ~1 |
+| I suggest a new strategy | 10.00% | ~1 |
+| Judge me by my size, do you? | 10.00% | ~1 |
+| Not bad for a little furball | 10.00% | ~1 |
+| A good blaster at your side | 10.00% | ~1 |
+| This is a new day, a new beginning | 10.00% | ~1 |
+| Patience you must have | 10.00% | ~1 |
+| Greed can be a very powerful ally | 10.00% | ~1 |
+| Do we take prisoners? | 10.00% | ~1 |
+| Shoot first | 10.00% | ~1 |
+| City in the Clouds | 10.00% | ~1 |
+| You have your moments | 10.00% | ~1 |
+| When surrounded by war... | 10.00% | ~1 |
+| I’ll take that bet | 10.00% | ~1 |
+| That's no moon | 10.00% | ~1 |
+| Support the troops | 10.00% | ~1 |
+| Alternative solution | 10.00% | ~1 |
+| Great shot, kid! | 10.00% | ~1 |
+| What will you become? | 10.00% | ~1 |
+| The circle is now complete | 10.00% | ~1 |
+| Disturbed tranquility | 10.00% | ~1 |
+| A cunning warrior | 10.00% | ~1 |
+| Don't underestimate the Force | 10.00% | ~1 |
 | A New Hope | 0.00% | ~0 |
 | That got him! | 0.00% | ~0 |
 | Hold the line! | 0.00% | ~0 |
@@ -52,7 +53,6 @@
 | The Force is strong with this one | 0.00% | ~0 |
 | in a galaxy far, far away.... | 0.00% | ~0 |
 | Don't get cocky | 0.00% | ~0 |
-| A tremor in the Force | 0.00% | ~0 |
 | Together we can rule the galaxy | 0.00% | ~0 |
 | Your journey has only started | 0.00% | ~0 |
 | Master | 0.00% | ~0 |
@@ -68,13 +68,13 @@
 | I never doubted you! | 0.00% | ~0 |
 | Crush them with one swift stroke… | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 501)  
-Completed: 0 (0.00%) (Ranked 286)  
+Progressed: 10 (Ranked 499)  
+Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 2 | 0 |
-| 2023-09-22 | 9 | 0 |
+| 2023-09-22 | 10 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

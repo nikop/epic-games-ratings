@@ -3,9 +3,9 @@
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 426,
-  "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 23,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "aq_achievement_16",
       "SetID": "7jh86ne",
       "Name": "Shattered",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_17",
@@ -488,8 +488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:07:53.235805+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:12:48.8674226+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0346445+00:00",
-  "LastUpdate_Ratings": "2023-09-22T12:01:06.1847012+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:07:53.2358387+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:06:12.6519066+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:12:48.8674489+00:00"
 }

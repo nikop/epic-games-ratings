@@ -6,8 +6,8 @@
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
-  "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533742,
+  "EOS_Progressed": 533743,
   "EOS_Completed": 1553,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19519,6 +19519,11 @@
       "Time": "2023-09-22T12:03:52.0259822+00:00",
       "NumProgressed": 533742,
       "NumCompleted": 1553
+    },
+    {
+      "Time": "2023-09-22T13:08:22.23736+00:00",
+      "NumProgressed": 533743,
+      "NumCompleted": 1553
     }
   ],
   "TotalAchievements": 37,
@@ -19530,7 +19535,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69386
+      "UsersEstimate": 69387
     },
     {
       "ID": "COASTROCK",
@@ -19586,7 +19591,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443006
+      "UsersEstimate": 443007
     },
     {
       "ID": "HONED",
@@ -19698,7 +19703,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69386
+      "UsersEstimate": 69387
     },
     {
       "ID": "THE_IRON_ONES",
@@ -19786,7 +19791,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341595
+      "UsersEstimate": 341596
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -19825,15 +19830,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533742,
+      "Progressed": 533743,
       "Completed": 1553
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-19T16:00:07.3346175+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:03:52.0259816+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:08:22.2373596+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.1616875+00:00",
-  "LastUpdate_Ratings": "2023-09-22T12:01:18.5474982+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:03:52.0261136+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:06:25.4798294+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:08:22.2374618+00:00"
 }

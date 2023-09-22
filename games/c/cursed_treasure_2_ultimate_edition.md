@@ -30,13 +30,13 @@
 | Combo Breaker | 63.00% | ~106 |
 | Tastes Like Chicken | 63.00% | ~106 |
 | Thunderstorm | 63.00% | ~106 |
-| Clean Forests | 60.00% | ~101 |
+| Clean Forests | 61.00% | ~103 |
 | Starry: Meadowshire | 57.00% | ~96 |
-| Lieutenant of the Evil | 56.00% | ~95 |
+| Lieutenant of the Evil | 57.00% | ~96 |
 | Avada Kedavra | 55.00% | ~93 |
 | Brilliant: Tanglewood | 53.00% | ~90 |
+| Starry: Holy Mountain | 53.00% | ~90 |
 | It's a Trap | 53.00% | ~90 |
-| Starry: Holy Mountain | 52.00% | ~88 |
 | Brilliant: Arcania | 50.00% | ~84 |
 | Deposition | 49.00% | ~83 |
 | Starry: Tanglewood | 46.00% | ~78 |
@@ -59,7 +59,7 @@
 | Loveless | 18.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 169 (Ranked 340)  
-Completed: 25 (14.79%) (Ranked 17)  
+Completed: 25 (14.79%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

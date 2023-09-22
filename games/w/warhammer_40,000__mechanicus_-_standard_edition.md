@@ -6,17 +6,17 @@ Rating: 4.43 (Ranked 669)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No aid from the Omnissiah | 26.00% | ~57,996 |
-| This is only the beginning | 19.00% | ~42,381 |
-| Knowledge is power | 12.00% | ~26,767 |
-| Power Ranger | 9.00% | ~20,075 |
-| Galvanic Rifle | 9.00% | ~20,075 |
-| Taser Goad | 9.00% | ~20,075 |
-| Radium Ready | 9.00% | ~20,075 |
-| Half a cog | 9.00% | ~20,075 |
+| This is only the beginning | 19.00% | ~42,382 |
+| Knowledge is power | 12.00% | ~26,768 |
+| Power Ranger | 9.00% | ~20,076 |
+| Galvanic Rifle | 9.00% | ~20,076 |
+| Taser Goad | 9.00% | ~20,076 |
+| Radium Ready | 9.00% | ~20,076 |
+| Half a cog | 9.00% | ~20,076 |
 | Watch them crumble | 6.00% | ~13,384 |
-| Competent Cohort | 4.00% | ~8,922 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,922 |
-| One with the Machine | 4.00% | ~8,922 |
+| Competent Cohort | 4.00% | ~8,923 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,923 |
+| One with the Machine | 4.00% | ~8,923 |
 | Legio Cybernetica | 3.00% | ~6,692 |
 | Fleshy Disposal | 3.00% | ~6,692 |
 | Battle Servitor | 2.00% | ~4,461 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 669)
 | Impatient destruction | 2.00% | ~4,461 |
 | Vivisected Vizier | 2.00% | ~4,461 |
 | Architect Abortion | 2.00% | ~4,461 |
-| Cohortus Maximus | 0.80% | ~1,784 |
+| Cohortus Maximus | 0.80% | ~1,785 |
 | Mother of Xenarites | 0.40% | ~892 |
 | False God | 0.30% | ~669 |
 | Hard | 0.20% | ~446 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 669)
 | Perma-live | 0.10% | ~223 |
 | Purge the Heretek | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,060 (Ranked 59)  
-Completed: 5 (0.00%) (Ranked 286)  
+Progressed: 223,063 (Ranked 59)  
+Completed: 5 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,7 +195,7 @@ Completed: 5 (0.00%) (Ranked 286)
 | 2023-09-19 | 222,925 | 5 |
 | 2023-09-20 | 222,977 | 5 |
 | 2023-09-21 | 223,034 | 5 |
-| 2023-09-22 | 223,060 | 5 |
+| 2023-09-22 | 223,063 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 244)  
 Sum: 2,146 (Ranked 198)  

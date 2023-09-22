@@ -3,9 +3,9 @@
   "Name": "Vectoroids",
   "ProductSlug": "vectoroids-e30c27",
   "Ranking_EOS_Progress": 632,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-23T23:00:00+00:00",
     "PcReleaseDate": "2023-06-23T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-21T10:57:55.6320325+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:58:43.7408836+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:04:33.3398382+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:03:28.6834454+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:09:07.0949816+00:00"
 }

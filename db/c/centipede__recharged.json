@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17275,
+  "EOS_Progressed": 17276,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -12132,6 +12132,11 @@
       "Time": "2023-09-22T07:04:03.7668602+00:00",
       "NumProgressed": 17275,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-09-22T13:09:21.4944848+00:00",
+      "NumProgressed": 17276,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 16,
@@ -12143,7 +12148,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "Burning_For_You",
@@ -12183,7 +12188,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "Fireworks",
@@ -12270,15 +12275,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17275,
+      "Progressed": 17276,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:04:45.9649127+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:09:21.4944843+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.7549106+00:00",
-  "LastUpdate_Ratings": "2023-09-22T12:01:29.0884441+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:04:45.9650002+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:06:35.0720958+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:09:21.4945502+00:00"
 }

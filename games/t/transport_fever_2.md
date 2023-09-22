@@ -40,7 +40,7 @@ Number of Ratings: 180  (23.09.2022)
 | The ugly smell of success | 23.00% | ~386 |
 | Climate change | 22.00% | ~369 |
 | Old timer | 22.00% | ~369 |
-| Heavily loaded | 21.00% | ~352 |
+| Heavily loaded | 22.00% | ~369 |
 | Bob Ross | 16.00% | ~268 |
 | Campaign expert | 11.00% | ~184 |
 | Truck Fever | 11.00% | ~184 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,677 (Ranked 200)  
-Completed: 0 (0.00%) (Ranked 286)  
+Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

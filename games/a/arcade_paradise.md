@@ -5,21 +5,21 @@ Rating: 4.56 (Ranked 468)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~651 |
-| Fetch Quest Complete | 91.00% | ~617 |
-| I can't wait! | 83.00% | ~563 |
-| Swish | 57.00% | ~386 |
-| Clean up on Aisle 9 | 40.00% | ~271 |
-| Machine Maxed | 30.00% | ~203 |
-| Bug Fixer | 26.00% | ~176 |
-| Existential dread | 26.00% | ~176 |
-| Gerald of Riviera | 26.00% | ~176 |
+| Pushing a pull door | 96.00% | ~652 |
+| Fetch Quest Complete | 91.00% | ~618 |
+| I can't wait! | 84.00% | ~570 |
+| Swish | 57.00% | ~387 |
+| Clean up on Aisle 9 | 40.00% | ~272 |
+| Machine Maxed | 30.00% | ~204 |
+| Bug Fixer | 26.00% | ~177 |
+| Existential dread | 26.00% | ~177 |
+| Gerald of Riviera | 26.00% | ~177 |
 | Goal | 22.00% | ~149 |
 | I ran the numbers | 15.00% | ~102 |
 | Taking the plunge | 14.00% | ~95 |
 | Hidden Packages | 11.00% | ~75 |
 | GOOOAAAL | 10.00% | ~68 |
-| Ahoy Hoy | 7.00% | ~47 |
+| Ahoy Hoy | 7.00% | ~48 |
 | Bombscare | 6.00% | ~41 |
 | Rhythm is a dancer | 6.00% | ~41 |
 | New Kid on the Block | 6.00% | ~41 |
@@ -60,8 +60,8 @@ Rating: 4.56 (Ranked 468)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678 (Ranked 245)  
-Completed: 0 (0.00%) (Ranked 286)  
+Progressed: 679 (Ranked 245)  
+Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,6 +121,7 @@ Completed: 0 (0.00%) (Ranked 286)
 | 2023-08-14 | 676 | 0 |
 | 2023-09-11 | 677 | 0 |
 | 2023-09-17 | 678 | 0 |
+| 2023-09-22 | 679 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -264,9 +264,9 @@
       "ID": "09_Ticket",
       "SetID": "681m9fa",
       "Name": "Ticket",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "10_Flyer",
@@ -368,9 +368,9 @@
       "ID": "22_OutOfTheLoop",
       "SetID": "681m9fa",
       "Name": "Out of the loop",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "23_NewDawn",
@@ -400,9 +400,9 @@
       "ID": "26_SecretEnding",
       "SetID": "681m9fa",
       "Name": "Secret ending",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "27_Act1",
@@ -441,8 +441,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:03:36.1992982+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:08:04.9454068+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.5450266+00:00",
-  "LastUpdate_Ratings": "2023-09-22T12:00:10.1694783+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:03:36.1993223+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:05:04.0735397+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:08:04.9454255+00:00"
 }

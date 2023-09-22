@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 53.00% | ~64 |
-| Chapter I | 52.00% | ~63 |
-| Haute cuisine | 47.00% | ~57 |
+| Fire in the... nevermind | 54.00% | ~65 |
+| Chapter I | 53.00% | ~64 |
+| Haute cuisine | 48.00% | ~58 |
 | I didn't do it! | 41.00% | ~50 |
 | Demolition expert | 38.00% | ~46 |
+| Wooooooow! | 37.00% | ~45 |
 | Keep away from children | 36.00% | ~44 |
-| Wooooooow! | 36.00% | ~44 |
 | Artistic fool | 34.00% | ~41 |
-| Open up wide | 32.00% | ~39 |
-| Let the boot talk | 31.00% | ~38 |
+| Open up wide | 33.00% | ~40 |
+| Let the boot talk | 32.00% | ~39 |
 | Chapter II | 27.00% | ~33 |
 | Handyman | 26.00% | ~31 |
 | Achoo!! | 26.00% | ~31 |
@@ -22,8 +22,8 @@
 | Shadow on the wall | 23.00% | ~28 |
 | Bubblekillerfamily | 22.00% | ~27 |
 | Quite a buggy game | 21.00% | ~25 |
+| Pacifist | 21.00% | ~25 |
 | Mirror mirror on the wall... | 21.00% | ~25 |
-| Pacifist | 20.00% | ~24 |
 | Fastidious Clown | 20.00% | ~24 |
 | It's not easy being green! | 18.00% | ~22 |
 | Home is where the heart is | 18.00% | ~22 |
@@ -31,9 +31,9 @@
 | Death is a part of life | 15.00% | ~18 |
 | Unfullfilled dreams | 13.00% | ~16 |
 | To err is human... | 12.00% | ~15 |
+| Useless but beautiful | 10.00% | ~12 |
 | Nothing can stop me | 10.00% | ~12 |
 | Mumbo Jumbo | 10.00% | ~12 |
-| Useless but beautiful | 9.00% | ~11 |
 | Lollipop | 8.00% | ~10 |
 | Where there is life, there is hope | 7.00% | ~8 |
 | It's nothing personal | 7.00% | ~8 |
@@ -52,7 +52,7 @@
 | Do not feed the fish! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 121 (Ranked 358)  
-Completed: 0 (0.00%) (Ranked 286)  
+Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

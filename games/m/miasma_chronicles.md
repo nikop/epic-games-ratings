@@ -28,7 +28,7 @@ Rating: 4.41 (Ranked 693)
 | Infiltrator | 33.00% | ~482 |
 | Pushing Daisy | 32.00% | ~468 |
 | Experienced | 31.00% | ~453 |
-| Hold The Line | 30.00% | ~438 |
+| Hold The Line | 31.00% | ~453 |
 | Endgame | 26.00% | ~380 |
 | Savior | 26.00% | ~380 |
 | There Can Be Only One! | 25.00% | ~365 |
@@ -57,8 +57,8 @@ Rating: 4.41 (Ranked 693)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,461 (Ranked 206)  
-Completed: 0 (0.00%) (Ranked 286)  
+Progressed: 1,461 (Ranked 207)  
+Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11547,
+  "EOS_Progressed": 11563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6190,6 +6190,11 @@
       "Time": "2023-09-22T12:09:12.7188045+00:00",
       "NumProgressed": 11547,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T13:13:43.7445534+00:00",
+      "NumProgressed": 11563,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6210,7 +6215,7 @@
       "Name": "Data Miner",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "11",
@@ -6218,7 +6223,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2428
     },
     {
       "ID": "12",
@@ -6226,7 +6231,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "13",
@@ -6242,7 +6247,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2081
     },
     {
       "ID": "15",
@@ -6250,7 +6255,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3006
     },
     {
       "ID": "16",
@@ -6266,7 +6271,7 @@
       "Name": "Spore Taste",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2659
     },
     {
       "ID": "18",
@@ -6274,7 +6279,7 @@
       "Name": "Bottoms up!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1272
     },
     {
       "ID": "19",
@@ -6282,7 +6287,7 @@
       "Name": "Martian Music",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2891
     },
     {
       "ID": "2",
@@ -6290,7 +6295,7 @@
       "Name": "Data Logger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "20",
@@ -6298,7 +6303,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1619
     },
     {
       "ID": "21",
@@ -6306,7 +6311,7 @@
       "Name": "Drone Dodger",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2313
     },
     {
       "ID": "22",
@@ -6314,7 +6319,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "23",
@@ -6322,7 +6327,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "24",
@@ -6330,7 +6335,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "25",
@@ -6338,15 +6343,15 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 577
+      "UsersEstimate": 694
     },
     {
       "ID": "27",
@@ -6354,7 +6359,7 @@
       "Name": "Bosmang",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "28",
@@ -6378,7 +6383,7 @@
       "Name": "Captain Drummer",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2891
     },
     {
       "ID": "30",
@@ -6394,7 +6399,7 @@
       "Name": "Debris Spree",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "5",
@@ -6402,7 +6407,7 @@
       "Name": "Data Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "6",
@@ -6410,7 +6415,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2771
+      "UsersEstimate": 2775
     },
     {
       "ID": "7",
@@ -6426,7 +6431,7 @@
       "Name": "Data Recoverer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "9",
@@ -6434,14 +6439,14 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3816
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 11547,
+      "Progressed": 11563,
       "Completed": 0
     }
   ],
@@ -6449,8 +6454,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-22T04:01:02.5026202+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:09:12.7188037+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:13:43.744553+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-22T12:01:19.486539+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:09:12.718866+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:06:26.5430653+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:13:43.7446007+00:00"
 }

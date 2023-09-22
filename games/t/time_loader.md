@@ -24,18 +24,18 @@
 | Dr. Antivirus | 15.00% | ~19 |
 | Access protocol | 15.00% | ~19 |
 | Photo | 14.00% | ~17 |
+| Ticket | 14.00% | ~17 |
 | Time Capsule | 13.00% | ~16 |
-| Ticket | 13.00% | ~16 |
 | Contract | 10.00% | ~12 |
 | Baseball | 10.00% | ~12 |
 | VHS blogger | 9.00% | ~11 |
+| Out of the loop | 9.00% | ~11 |
 | New Dawn | 9.00% | ~11 |
-| Out of the loop | 8.00% | ~10 |
+| Secret ending | 9.00% | ~11 |
 | Leave me alone | 8.00% | ~10 |
-| Secret ending | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 124 (Ranked 357)  
-Completed: 9 (7.26%) (Ranked 39)  
+Completed: 9 (7.26%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

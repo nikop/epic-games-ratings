@@ -3,9 +3,9 @@
   "Name": "Planet of Lana",
   "ProductSlug": "planet-of-lana-a9febe",
   "Ranking_EOS_Progress": 632,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-24T16:58:16.2301109+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.1672293+00:00",
-  "LastUpdate_Ratings": "2023-09-22T12:00:51.9619236+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:08:13.9702244+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:05:54.6059229+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:13:12.1028341+00:00"
 }

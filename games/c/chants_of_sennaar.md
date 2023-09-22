@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 52.00% | ~99 |
 | Welcome to the Tower | 48.00% | ~91 |
-| The great escape | 44.00% | ~84 |
-| The Preacher's fate | 43.00% | ~82 |
+| The great escape | 45.00% | ~86 |
+| The Preacher's fate | 44.00% | ~84 |
 | A new dawn | 39.00% | ~74 |
 | Scholar | 38.00% | ~72 |
+| The darkness | 36.00% | ~68 |
 | A good beginning | 35.00% | ~66 |
-| The darkness | 35.00% | ~66 |
 | True G4M3R | 34.00% | ~65 |
 | One last step | 31.00% | ~59 |
 | Cable guy | 29.00% | ~55 |
@@ -30,8 +30,8 @@
 | I did it | 13.00% | ~25 |
 | Fashion victim | 13.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190 (Ranked 333)  
-Completed: 9 (4.74%) (Ranked 55)  
+Progressed: 190 (Ranked 334)  
+Completed: 9 (4.74%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

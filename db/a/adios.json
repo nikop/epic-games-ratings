@@ -6,8 +6,8 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -108,9 +108,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73861,
+  "EOS_Progressed": 73862,
   "EOS_Completed": 768,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -17343,6 +17343,11 @@
       "Time": "2023-09-22T12:08:00.7561834+00:00",
       "NumProgressed": 73861,
       "NumCompleted": 768
+    },
+    {
+      "Time": "2023-09-22T13:12:57.6370865+00:00",
+      "NumProgressed": 73862,
+      "NumCompleted": 768
     }
   ],
   "TotalAchievements": 25,
@@ -17386,7 +17391,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16249
+      "UsersEstimate": 16250
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -17442,7 +17447,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "Magnetic Miracles",
@@ -17553,7 +17558,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73861,
+      "Progressed": 73862,
       "Completed": 768
     }
   ],
@@ -17561,8 +17566,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:08:00.7561823+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:12:57.6370861+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.0940227+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:58:33.6375853+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:08:00.7563087+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:03:16.6731923+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:12:57.6371897+00:00"
 }

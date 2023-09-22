@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3632,
+  "EOS_Progressed": 3633,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3849,6 +3849,11 @@
       "Time": "2023-09-22T10:03:25.7565913+00:00",
       "NumProgressed": 3632,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-22T13:08:06.5689543+00:00",
+      "NumProgressed": 3633,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3908,7 +3913,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "campaign10",
@@ -4036,7 +4041,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "campaign7",
@@ -4044,7 +4049,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "campaign8",
@@ -4068,7 +4073,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "scenario2",
@@ -4123,7 +4128,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3632,
+      "Progressed": 3633,
       "Completed": 11
     }
   ],
@@ -4131,8 +4136,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-22T12:03:37.7235083+00:00",
+  "LastChanged_Achievements": "2023-09-22T13:08:06.5689537+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:58:18.3122577+00:00",
-  "LastUpdate_Achievements": "2023-09-22T12:03:37.7235623+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:03:01.1441506+00:00",
+  "LastUpdate_Achievements": "2023-09-22T13:08:06.5689932+00:00"
 }
