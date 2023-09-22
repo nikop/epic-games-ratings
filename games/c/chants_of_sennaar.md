@@ -17,21 +17,21 @@
 | Cable guy | 30.00% | ~58 |
 | Champollion | 30.00% | ~58 |
 | Half the way | 29.00% | ~56 |
+| In this together | 28.00% | ~54 |
 | Peace walker | 28.00% | ~54 |
-| In this together | 27.00% | ~52 |
 | Open door | 24.00% | ~46 |
 | Free at last | 23.00% | ~44 |
 | Feels like springtime | 23.00% | ~44 |
 | Rascal | 23.00% | ~44 |
 | Alchemists Express | 22.00% | ~42 |
 | A Link to the Past | 18.00% | ~35 |
+| I did it | 15.00% | ~29 |
 | A great audience | 15.00% | ~29 |
 | For its own good | 15.00% | ~29 |
-| I did it | 14.00% | ~27 |
 | Fashion victim | 13.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 333)  
-Completed: 10 (5.21%) (Ranked 52)  
+Progressed: 192 (Ranked 334)  
+Completed: 10 (5.21%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3650,
+  "EOS_Progressed": 3651,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6824,6 +6824,11 @@
       "Time": "2023-09-22T18:08:34.6720143+00:00",
       "NumProgressed": 3650,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-22T19:08:26.3180428+00:00",
+      "NumProgressed": 3651,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6851,7 +6856,7 @@
       "Name": "Best of the Best",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_13_OPTIONAL_TASK",
@@ -6867,7 +6872,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6891,7 +6896,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6955,7 +6960,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6971,7 +6976,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6979,7 +6984,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -6987,7 +6992,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6995,7 +7000,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7027,7 +7032,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -7043,7 +7048,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7147,7 +7152,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7155,7 +7160,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -7195,7 +7200,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -7219,7 +7224,7 @@
       "Name": "Sight Beyond Sights",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -7402,13 +7407,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3601,
+      "Progressed": 3602,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3650,
+      "Progressed": 3651,
       "Completed": 11
     }
   ],
@@ -7416,8 +7421,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:08:34.6720134+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:08:26.3180423+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:14.3894101+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:59:26.4792989+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:08:34.6721325+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:59:09.8863079+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:08:26.3181289+00:00"
 }

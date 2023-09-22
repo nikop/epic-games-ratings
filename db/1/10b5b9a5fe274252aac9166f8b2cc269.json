@@ -4,8 +4,8 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 257,
-  "EOS_Completed": 109,
+  "EOS_Completed": 110,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 42.41,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 42.8,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1396,6 +1396,11 @@
       "Time": "2023-09-22T00:04:03.122767+00:00",
       "NumProgressed": 257,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-09-22T19:04:42.8151811+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 110
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -1478,17 +1483,17 @@
       "ID": "PORTRAIT_18",
       "SetID": "2fge00i",
       "Name": "Portrait 18",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "PORTRAIT_19",
       "SetID": "2fge00i",
       "Name": "Portrait 19",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "PORTRAIT_2",
@@ -1568,13 +1573,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 257,
-      "Completed": 109
+      "Completed": 110
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:04:41.095367+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:04:42.8151805+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:55.2424775+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:58:50.5610422+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:04:41.0953896+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:58:36.6168522+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:04:42.815198+00:00"
 }

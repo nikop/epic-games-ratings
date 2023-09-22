@@ -3,9 +3,9 @@
   "Name": "No Son Of Mine",
   "ProductSlug": "no-son-of-mine-d40aca",
   "Ranking_EOS_Progress": 542,
-  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-06T15:00:00+00:00",
     "PcReleaseDate": "2023-09-06T15:00:00+00:00",
@@ -49,9 +49,9 @@
       "ID": "ACH_1HIT",
       "SetID": "ac146gn",
       "Name": "Pretty Cool...",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_25HITS",
@@ -113,9 +113,9 @@
       "ID": "ACH_STEALTH",
       "SetID": "ac146gn",
       "Name": "Invisible",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNKILLABLE",
@@ -143,8 +143,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T10:03:17.7378826+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:03:25.0198545+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:03:29.3881106+00:00",
   "LastUpdate_AppInfo": "2023-09-18T13:57:13.8213871+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:58:49.6158469+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:03:25.0198683+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:58:35.8582414+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:03:29.3881183+00:00"
 }

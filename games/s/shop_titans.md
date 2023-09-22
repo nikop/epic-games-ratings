@@ -39,11 +39,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.70% | ~956 |
 | Gem Expert | 0.70% | ~956 |
 | Helping Hand | 0.70% | ~956 |
+| Natural 20 | 0.70% | ~956 |
 | Fated Encounters | 0.60% | ~819 |
 | Power of Love | 0.60% | ~819 |
 | Flawless Fusion | 0.60% | ~819 |
 | Royal Ransom | 0.60% | ~819 |
-| Natural 20 | 0.60% | ~819 |
 | Magical Harmony | 0.60% | ~819 |
 | A Notch Above the Rest | 0.50% | ~683 |
 | Cream of the Crop | 0.50% | ~683 |
@@ -57,8 +57,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.50% | ~683 |
 | Master of Transmutation | 0.50% | ~683 |
 | Hidden Potential | 0.50% | ~683 |
+| Supercharged | 0.50% | ~683 |
 | Expansion in Session | 0.50% | ~683 |
 | Cranked up to 11 | 0.50% | ~683 |
+| Fit for a King | 0.50% | ~683 |
 | Trash to Treasure | 0.50% | ~683 |
 | Mammonite | 0.50% | ~683 |
 | Wealth Beyond Measure | 0.50% | ~683 |
@@ -83,9 +85,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.40% | ~546 |
 | Industrial Evolution | 0.40% | ~546 |
 | Omae wa Mou Shindeiru | 0.40% | ~546 |
-| Supercharged | 0.40% | ~546 |
 | Ritualist | 0.40% | ~546 |
-| Fit for a King | 0.40% | ~546 |
 | By Your Powers Combined... | 0.40% | ~546 |
 | Necromancer Queen | 0.40% | ~546 |
 | Item of Renown | 0.40% | ~546 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,535 (Ranked 69)  
-Completed: 153 (0.11%) (Ranked 226)  
+Progressed: 136,537 (Ranked 69)  
+Completed: 153 (0.11%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 153 (0.11%) (Ranked 226)
 | 2023-09-19 | 136,421 | 153 |
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
-| 2023-09-22 | 136,535 | 153 |
+| 2023-09-22 | 136,537 | 153 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 70)  
 Sum: 27,269 (Ranked 48)  

@@ -4,11 +4,11 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 301,
   "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 632,
-  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -216,10 +216,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 270,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-22T19:00:44.4922828+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 293,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 270,
+  "NumberOfAwards": 293,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -282,6 +288,12 @@
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 24
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -296,8 +308,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-09-22T18:01:07.4987758+00:00",
+  "LastChanged": "2023-09-22T19:00:44.4922827+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:20.722491+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:01:07.4987767+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:07:18.177936+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:00:44.4922831+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:07:13.0967278+00:00"
 }

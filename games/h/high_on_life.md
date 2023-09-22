@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 314)  
+Rating: 4.63 (Ranked 332)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,7 +39,7 @@ Rating: 4.64 (Ranked 314)
 | A Starfish Is Born | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,070 (Ranked 111)  
-Completed: 12 (0.05%) (Ranked 248)  
+Completed: 12 (0.05%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,3 +245,4 @@ Completed: 12 (0.05%) (Ranked 248)
 | 2023-08-28 | 4.64 | 0 | 0 |
 | 2023-08-30 | 4.65 | 0 | 0 |
 | 2023-09-02 | 4.64 | 0 | 0 |
+| 2023-09-22 | 4.63 | 0 | 0 |

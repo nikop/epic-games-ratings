@@ -2,8 +2,8 @@
 [Store](https://store.epicgames.com/en-US/p/monster-outbreak-2e8c08)  
 [View Rawdata](../../db/m/monster_outbreak.json)  
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 512)  
-Completed: 0 (0.00%) (Ranked 288)  
+Progressed: 6 (Ranked 513)  
+Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

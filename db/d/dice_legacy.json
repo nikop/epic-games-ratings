@@ -6,9 +6,9 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1739,6 +1739,11 @@
       "Time": "2023-09-22T15:05:25.7402935+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T19:06:34.5793626+00:00",
+      "NumProgressed": 1078,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1804,17 +1809,17 @@
       "ID": "CHALLENGE_RANDOMPOPULATION",
       "SetID": "6ohhfoc",
       "Name": "Charismatic Leader",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
       "SetID": "6ohhfoc",
       "Name": "Metropolis",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
@@ -1974,7 +1979,7 @@
       "Name": "We made it",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2109,7 +2114,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1078,
       "Completed": 0
     }
   ],
@@ -2117,8 +2122,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:06:38.4445753+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:06:34.5793621+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.3964182+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:00:19.3615963+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:06:38.4446246+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:59:59.4760653+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:06:34.5793991+00:00"
 }

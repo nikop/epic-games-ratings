@@ -6,38 +6,38 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~110,133 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~84,080 |
-| A Clear Conscience | 69.00% | ~81,712 |
-| Unleash Hell | 68.00% | ~80,528 |
-| Unfulfilled Desires | 68.00% | ~80,528 |
-| Funny Guy | 67.00% | ~79,343 |
-| Unshackled | 67.00% | ~79,343 |
-| Long Live the King | 66.00% | ~78,159 |
-| Resurrection | 62.00% | ~73,422 |
-| Wyrdly Reconstructed | 62.00% | ~73,422 |
-| Boxcar Kid | 60.00% | ~71,054 |
-| Rush Hour | 60.00% | ~71,054 |
-| To Grandmother's House | 60.00% | ~71,054 |
-| Serenity Now! | 53.00% | ~62,764 |
+| A Place to Lay Your Head | 93.00% | ~110,135 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~84,082 |
+| A Clear Conscience | 69.00% | ~81,713 |
+| Unleash Hell | 68.00% | ~80,529 |
+| Unfulfilled Desires | 68.00% | ~80,529 |
+| Funny Guy | 67.00% | ~79,345 |
+| Unshackled | 67.00% | ~79,345 |
+| Long Live the King | 66.00% | ~78,160 |
+| Resurrection | 62.00% | ~73,424 |
+| Wyrdly Reconstructed | 62.00% | ~73,424 |
+| Boxcar Kid | 60.00% | ~71,055 |
+| Rush Hour | 60.00% | ~71,055 |
+| To Grandmother's House | 60.00% | ~71,055 |
+| Serenity Now! | 53.00% | ~62,765 |
 | Hope Rekindled | 50.00% | ~59,212 |
-| Ramble On | 49.00% | ~58,027 |
-| Nope | 48.00% | ~56,843 |
-| This Looks Familiar | 38.00% | ~45,001 |
+| Ramble On | 49.00% | ~58,028 |
+| Nope | 48.00% | ~56,844 |
+| This Looks Familiar | 38.00% | ~45,002 |
 | Now Stay Dead | 37.00% | ~43,817 |
-| Harvest Festival | 36.00% | ~42,632 |
-| Hot Air | 36.00% | ~42,632 |
-| Merry Time | 35.00% | ~41,448 |
+| Harvest Festival | 36.00% | ~42,633 |
+| Hot Air | 36.00% | ~42,633 |
+| Merry Time | 35.00% | ~41,449 |
 | Creep and Sleep | 33.00% | ~39,080 |
-| Overdue Notice | 32.00% | ~37,895 |
-| Banishment | 31.00% | ~36,711 |
-| Whale | 31.00% | ~36,711 |
+| Overdue Notice | 32.00% | ~37,896 |
+| Banishment | 31.00% | ~36,712 |
+| Whale | 31.00% | ~36,712 |
 | FNG | 29.00% | ~34,343 |
 | Predator | 25.00% | ~29,606 |
 | Reverse Banditry | 25.00% | ~29,606 |
 | Autodidact | 24.00% | ~28,422 |
-| Meat and Greet | 22.00% | ~26,053 |
-| Road Trip | 22.00% | ~26,053 |
+| Meat and Greet | 22.00% | ~26,054 |
+| Road Trip | 22.00% | ~26,054 |
 | Spelunker | 21.00% | ~24,869 |
 | Eyes Up | 21.00% | ~24,869 |
 | It Rings a Bell | 20.00% | ~23,685 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 17.00% | ~20,132 |
 | This Belongs in a Museum | 16.00% | ~18,948 |
 | Handled | 16.00% | ~18,948 |
-| Catch and Decease | 14.00% | ~16,579 |
+| Catch and Decease | 14.00% | ~16,580 |
 | Not Today! | 13.00% | ~15,395 |
 | Deprogramming | 13.00% | ~15,395 |
 | Shrine of Reflection | 12.00% | ~14,211 |
@@ -54,7 +54,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 10.00% | ~11,842 |
 | Utopia | 8.00% | ~9,474 |
 | Hat Trick | 7.00% | ~8,290 |
-| No More Mouths to Feed | 6.00% | ~7,105 |
+| No More Mouths to Feed | 6.00% | ~7,106 |
 | Ichthyophobic | 5.00% | ~5,921 |
 | The World As It Was | 4.00% | ~4,737 |
 | Triage | 3.00% | ~3,553 |
@@ -72,8 +72,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~118 |
 | No Gravestone Left Unturned | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,423 (Ranked 73)  
-Completed: 1 (0.00%) (Ranked 288)  
+Progressed: 118,425 (Ranked 73)  
+Completed: 1 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -217,10 +217,10 @@ Completed: 1 (0.00%) (Ranked 288)
 | 2023-09-19 | 118,193 | 1 |
 | 2023-09-20 | 118,275 | 1 |
 | 2023-09-21 | 118,352 | 1 |
-| 2023-09-22 | 118,423 | 1 |
+| 2023-09-22 | 118,425 | 1 |
 ## Awards
 Max (Character Customization): 7,409  (Ranked 48)  
-Sum: 19,348 (Ranked 56)  
+Sum: 19,349 (Ranked 56)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): -8
 | This game has Amazing Storytelling | 1,294 |
 | This game has Quickly Understood Controls | 1,278 |
 | This game has Unique Visuals | 1,249 |
-| This game has a Creative Community | 934 |
+| This game has a Creative Community | 935 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -477,4 +477,4 @@ Diff (max vs sum): -8
 | 2023-09-19 | 4.68 | - | 7,402 | 19,322 |
 | 2023-09-20 | 4.68 | - | 7,405 | 19,333 |
 | 2023-09-21 | 4.68 | - | 7,405 | 19,340 |
-| 2023-09-22 | 4.68 | - | 7,409 | 19,348 |
+| 2023-09-22 | 4.68 | - | 7,409 | 19,349 |

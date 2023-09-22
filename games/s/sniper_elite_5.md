@@ -8,9 +8,9 @@ Rating: 4.46 (Ranked 629)
 | Meeting Resistance | 46.00% | ~1,679 |
 | Confirming Suspicions | 40.00% | ~1,460 |
 | The Kraken Wakes | 36.00% | ~1,314 |
-| It's Starting to Crack | 33.00% | ~1,204 |
+| It's Starting to Crack | 33.00% | ~1,205 |
 | Change the Channel | 30.00% | ~1,095 |
-| Lord of War | 29.00% | ~1,058 |
+| Lord of War | 29.00% | ~1,059 |
 | Taking it back | 28.00% | ~1,022 |
 | Resourceful | 26.00% | ~949 |
 | Target America | 26.00% | ~949 |
@@ -18,10 +18,10 @@ Rating: 4.46 (Ranked 629)
 | Liberté | 22.00% | ~803 |
 | Organ Grinder | 22.00% | ~803 |
 | As Quiet as a Mouse | 22.00% | ~803 |
-| Sharpshooter | 21.00% | ~766 |
+| Sharpshooter | 21.00% | ~767 |
 | Explosive Efficiency | 18.00% | ~657 |
-| Just a Flesh Wound | 17.00% | ~620 |
-| Gunslinger | 17.00% | ~620 |
+| Just a Flesh Wound | 17.00% | ~621 |
+| Gunslinger | 17.00% | ~621 |
 | Climbing the Ladder | 16.00% | ~584 |
 | Der Geist | 16.00% | ~584 |
 | Close Quarters | 15.00% | ~548 |
@@ -32,15 +32,15 @@ Rating: 4.46 (Ranked 629)
 | Skirmisher | 14.00% | ~511 |
 | Die Nussknacker Sweet! | 14.00% | ~511 |
 | Snake in the Grass | 14.00% | ~511 |
-| Opposing Force | 13.00% | ~474 |
-| Set Europe Ablaze | 13.00% | ~474 |
-| Precision Is Key | 9.00% | ~328 |
-| My Little Friend | 9.00% | ~328 |
+| Opposing Force | 13.00% | ~475 |
+| Set Europe Ablaze | 13.00% | ~475 |
+| Precision Is Key | 9.00% | ~329 |
+| My Little Friend | 9.00% | ~329 |
 | Rigged to Blow | 8.00% | ~292 |
 | Herr Today, Gone Tomorrow | 6.00% | ~216 |
-| The Long Game | 5.00% | ~182 |
-| It'll Buff Right Out | 5.00% | ~182 |
-| Don't hold your breath | 5.00% | ~182 |
+| The Long Game | 5.00% | ~183 |
+| It'll Buff Right Out | 5.00% | ~183 |
+| Don't hold your breath | 5.00% | ~183 |
 | Operation Foxley | 5.00% | ~180 |
 | Strategist | 4.00% | ~146 |
 | Tinkerer | 4.00% | ~146 |
@@ -64,8 +64,8 @@ Rating: 4.46 (Ranked 629)
 | Covert Elimination | 2.00% | ~72 |
 | Shipbreaker | 2.00% | ~72 |
 | Sink or Swim | 2.00% | ~72 |
-| Best of the Best | 1.00% | ~36 |
-| Sight Beyond Sights | 1.00% | ~36 |
+| Best of the Best | 1.00% | ~37 |
+| Sight Beyond Sights | 1.00% | ~37 |
 | From Führer Away | 1.00% | ~36 |
 | Alpha | 1.00% | ~36 |
 | Das Familienjuwel | 1.00% | ~36 |
@@ -77,8 +77,8 @@ Rating: 4.46 (Ranked 629)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,650 (Ranked 169)  
-Completed: 11 (0.30%) (Ranked 186)  
+Progressed: 3,651 (Ranked 169)  
+Completed: 11 (0.30%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 11 (0.30%) (Ranked 186)
 | 2023-09-19 | 3,639 | 11 |
 | 2023-09-20 | 3,645 | 11 |
 | 2023-09-21 | 3,649 | 11 |
-| 2023-09-22 | 3,650 | 11 |
+| 2023-09-22 | 3,651 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

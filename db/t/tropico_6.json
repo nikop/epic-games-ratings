@@ -6,9 +6,9 @@
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1122,9 +1122,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5276,
+  "EOS_Progressed": 5279,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10122,6 +10122,11 @@
       "Time": "2023-09-22T17:06:54.4992814+00:00",
       "NumProgressed": 5276,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-22T19:07:14.0088059+00:00",
+      "NumProgressed": 5279,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10173,7 +10178,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -10189,7 +10194,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -10205,7 +10210,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -10229,7 +10234,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2376
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -10253,7 +10258,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -10277,7 +10282,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -10293,7 +10298,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3959
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10317,7 +10322,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -10325,7 +10330,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_MYWAYS",
@@ -10365,7 +10370,7 @@
       "Name": "Survivor",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -10389,7 +10394,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10405,7 +10410,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -10413,7 +10418,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -10437,7 +10442,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -10452,15 +10457,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5276,
+      "Progressed": 5279,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-18T15:00:11.2211125+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:07:19.0957402+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:07:14.0088055+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.3896086+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:58:54.9394048+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:07:19.0958946+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:58:41.35151+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:07:14.0088723+00:00"
 }

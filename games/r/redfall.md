@@ -24,7 +24,7 @@ Rating: 3.52 (Ranked 991)
 | Home Is Where the Heart Is | 0.50% | ~9 |
 | Bad Wiring | 0.50% | ~9 |
 | Radio Silence | 0.50% | ~9 |
-| From the Shadows | 0.40% | ~7 |
+| From the Shadows | 0.50% | ~9 |
 | Right This Way | 0.40% | ~7 |
 | Sic Transit Umbra | 0.30% | ~5 |
 | Good Morning | 0.30% | ~5 |
@@ -73,7 +73,7 @@ Rating: 3.52 (Ranked 991)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,747 (Ranked 199)  
-Completed: 0 (0.00%) (Ranked 288)  
+Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

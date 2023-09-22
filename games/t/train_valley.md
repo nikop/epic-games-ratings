@@ -20,7 +20,7 @@ Number of Ratings: 28  (23.09.2022)
 | Madness! | 29.00% | ~143 |
 | Philatelist | 26.00% | ~128 |
 | Let's roll! | 25.00% | ~123 |
-| Ouroboros | 24.00% | ~118 |
+| Ouroboros | 25.00% | ~123 |
 | Non Stop! | 23.00% | ~113 |
 | Foreman | 21.00% | ~104 |
 | Russia | 19.00% | ~94 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 493 (Ranked 265)  
-Completed: 2 (0.41%) (Ranked 169)  
+Completed: 2 (0.41%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

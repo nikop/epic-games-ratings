@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~87 |
-| Press-ganged | 41.00% | ~63 |
+| A Second Chance | 56.00% | ~86 |
+| Press-ganged | 40.00% | ~62 |
 | The Package | 25.00% | ~38 |
 | Conquered | 18.00% | ~28 |
 | Randomized | 17.00% | ~26 |
@@ -13,10 +13,10 @@
 | Tactician | 9.00% | ~14 |
 | Breached | 8.00% | ~12 |
 | Fight Another Day | 8.00% | ~12 |
-| Scholar | 7.00% | ~11 |
-| Acquaintance | 7.00% | ~11 |
 | Tail-wind | 7.00% | ~11 |
 | Conciliator | 6.00% | ~9 |
+| Scholar | 6.00% | ~9 |
+| Acquaintance | 6.00% | ~9 |
 | Taskmaster | 6.00% | ~9 |
 | Quartermaster | 5.00% | ~8 |
 | Strategist | 5.00% | ~8 |
@@ -60,20 +60,20 @@
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
-| General | 0.70% | ~1 |
-| Ever After | 0.70% | ~1 |
-| Conqueror | 0.70% | ~1 |
-| Forager | 0.70% | ~1 |
-| Forged in Battle | 0.70% | ~1 |
-| Manticore | 0.70% | ~1 |
-| Huntsmaster | 0.70% | ~1 |
-| Mercenary | 0.70% | ~1 |
-| Escort | 0.70% | ~1 |
-| Despoiler | 0.70% | ~1 |
-| Celebrity | 0.70% | ~1 |
-| Arcanite | 0.70% | ~1 |
-| The Last Voyage | 0.70% | ~1 |
-| Tax Evasion | 0.70% | ~1 |
+| General | 0.60% | ~1 |
+| Ever After | 0.60% | ~1 |
+| Conqueror | 0.60% | ~1 |
+| Forager | 0.60% | ~1 |
+| Forged in Battle | 0.60% | ~1 |
+| Manticore | 0.60% | ~1 |
+| Huntsmaster | 0.60% | ~1 |
+| Mercenary | 0.60% | ~1 |
+| Escort | 0.60% | ~1 |
+| Despoiler | 0.60% | ~1 |
+| Celebrity | 0.60% | ~1 |
+| Arcanite | 0.60% | ~1 |
+| The Last Voyage | 0.60% | ~1 |
+| Tax Evasion | 0.60% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 346)  
-Completed: 0 (0.00%) (Ranked 288)  
+Progressed: 154 (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,6 +166,7 @@ Completed: 0 (0.00%) (Ranked 288)
 | 2023-09-17 | 150 | 0 |
 | 2023-09-18 | 152 | 0 |
 | 2023-09-21 | 153 | 0 |
+| 2023-09-22 | 154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
@@ -249,9 +249,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 201977,
+  "EOS_Progressed": 201982,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -17004,6 +17004,11 @@
       "Time": "2023-09-22T18:07:49.7964365+00:00",
       "NumProgressed": 201977,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-09-22T19:07:43.7658627+00:00",
+      "NumProgressed": 201982,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 29,
@@ -17039,7 +17044,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 189858
+      "UsersEstimate": 189863
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17215,7 +17220,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14138
+      "UsersEstimate": 14139
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -17246,7 +17251,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 201977,
+      "Progressed": 201982,
       "Completed": 504
     }
   ],
@@ -17254,8 +17259,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-21T07:00:54.1408564+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:07:49.7964355+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:07:43.765862+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:10.0973549+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:02:26.8150374+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:07:49.7966482+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:02:01.2676693+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:07:43.7659619+00:00"
 }

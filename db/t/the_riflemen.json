@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12489,
+  "EOS_Progressed": 12506,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 1751,
-  "EOS_NewCompleters": 1021,
-  "EOS_Completed_Percentage": 94.15,
+  "EOS_NewPlayers": 1755,
+  "EOS_NewCompleters": 1008,
+  "EOS_Completed_Percentage": 94.03,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -2834,6 +2834,11 @@
       "Time": "2023-09-22T18:03:40.5706333+00:00",
       "NumProgressed": 12489,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-22T19:03:44.7667877+00:00",
+      "NumProgressed": 12506,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -2854,7 +2859,7 @@
       "Name": "First blood",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1876
     },
     {
       "ID": "grenadeKills",
@@ -2878,7 +2883,7 @@
       "Name": "Head popping III",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "headshots500",
@@ -2886,7 +2891,7 @@
       "Name": "Head popping II",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "knifeKills",
@@ -2918,7 +2923,7 @@
       "Name": "He who laughs last laughs best",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "rifleKills",
@@ -2957,13 +2962,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 12489,
+      "Progressed": 12506,
       "Completed": 11759
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:03:40.5706327+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:03:44.7667873+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:17.0170255+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:58:38.2651578+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:03:40.570667+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:58:23.8519687+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:03:44.7668103+00:00"
 }

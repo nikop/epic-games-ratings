@@ -47,7 +47,7 @@
 | To Beet, Or Not To Beet | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 40 (Ranked 434)  
-Completed: 1 (2.50%) (Ranked 86)  
+Completed: 1 (2.50%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

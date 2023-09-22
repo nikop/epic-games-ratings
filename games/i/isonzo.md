@@ -6,29 +6,29 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,826 |
-| Tutti Eroi! | 55.00% | ~3,826 |
-| You Shall Not Pass | 53.00% | ~3,687 |
-| Avanti Savoia! | 48.00% | ~3,339 |
+| Peak Performance | 55.00% | ~3,827 |
+| Tutti Eroi! | 55.00% | ~3,827 |
+| You Shall Not Pass | 53.00% | ~3,688 |
+| Avanti Savoia! | 48.00% | ~3,340 |
 | Mamma Mia! | 38.00% | ~2,644 |
 | Conrad von Hotzensocks | 36.00% | ~2,505 |
-| Gabriele D'Annunzio | 34.00% | ~2,365 |
+| Gabriele D'Annunzio | 34.00% | ~2,366 |
 | Silver Lining | 30.00% | ~2,087 |
 | Aurelio Baruzzi | 24.00% | ~1,670 |
 | Decimation | 22.00% | ~1,531 |
 | Donatello | 22.00% | ~1,531 |
 | Veni Vidi Vici | 22.00% | ~1,531 |
 | The Italian Job | 21.00% | ~1,461 |
-| Insubordination | 20.00% | ~1,391 |
+| Insubordination | 20.00% | ~1,392 |
 | Ragazzi del '99 | 18.00% | ~1,252 |
 | The Lion of the Isonzo | 18.00% | ~1,252 |
 | Luigi Cadorna | 15.00% | ~1,044 |
 | Dirty Dozen | 14.00% | ~974 |
 | Uomo Universale | 14.00% | ~974 |
-| Die Bosniaken Kommen! | 13.00% | ~904 |
-| Machiavelli | 13.00% | ~904 |
-| Shaken, Not Stirred | 13.00% | ~904 |
-| Thus With A Kiss | 13.00% | ~904 |
+| Die Bosniaken Kommen! | 13.00% | ~905 |
+| Machiavelli | 13.00% | ~905 |
+| Shaken, Not Stirred | 13.00% | ~905 |
+| Thus With A Kiss | 13.00% | ~905 |
 | The Devil's Paintbrush | 12.00% | ~835 |
 | Dante's Inferno | 11.00% | ~765 |
 | I Have the High Ground | 10.00% | ~696 |
@@ -49,11 +49,11 @@ Number of Ratings: 98  (23.09.2022)
 | Drop and Give Me 20 | 1.00% | ~70 |
 | Malpractice | 1.00% | ~70 |
 | Rome Wasn't Built In A Day | 1.00% | ~70 |
-| "Sacro Egoismo" | 0.30% | ~21 |
+| "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,957 (Ranked 147)  
-Completed: 8 (0.11%) (Ranked 226)  
+Progressed: 6,958 (Ranked 147)  
+Completed: 8 (0.11%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,11 +201,11 @@ Completed: 8 (0.11%) (Ranked 226)
 | 2023-09-19 | 6,947 | 8 |
 | 2023-09-20 | 6,950 | 8 |
 | 2023-09-21 | 6,953 | 8 |
-| 2023-09-22 | 6,957 | 8 |
+| 2023-09-22 | 6,958 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 444)  
-Sum: 273 (Ranked 352)  
-Diff (max vs sum): 92  
+Sum: 273 (Ranked 353)  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 236,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 113,
-  "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1878,9 +1878,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20817,
+  "EOS_Progressed": 20818,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8558,6 +8558,11 @@
       "Time": "2023-09-22T17:09:37.6900981+00:00",
       "NumProgressed": 20817,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-22T19:09:32.2522217+00:00",
+      "NumProgressed": 20818,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -8617,7 +8622,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19568
+      "UsersEstimate": 19569
     },
     {
       "ID": "GameOver",
@@ -8705,7 +8710,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "SeniorEstateAgent",
@@ -8729,7 +8734,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6453
+      "UsersEstimate": 6454
     },
     {
       "ID": "VeronicaLiptson",
@@ -8752,15 +8757,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20817,
+      "Progressed": 20818,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-12T18:58:36.6310426+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:09:45.1603997+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:09:32.2522211+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.2506303+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:57:09.8512138+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:09:45.160498+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:57:06.8445249+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:09:32.2522621+00:00"
 }

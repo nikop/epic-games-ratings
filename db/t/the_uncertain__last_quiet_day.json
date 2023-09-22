@@ -3,9 +3,9 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 258,
-  "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -699,9 +699,9 @@
       "ID": "FOUND_IT",
       "SetID": "2iigf77",
       "Name": "Found it!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 87
     },
     {
       "ID": "GOODY",
@@ -900,8 +900,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:08:29.4582203+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:08:21.3437557+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.4921608+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:02:16.2166081+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:08:29.4582524+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:01:50.4371798+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:08:21.3437778+00:00"
 }

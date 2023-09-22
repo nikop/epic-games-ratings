@@ -24,16 +24,16 @@
 | Escape From M.C. | 3.00% | ~1 |
 | Restore Honor | 3.00% | ~1 |
 | Bring Down the Corp | 3.00% | ~1 |
+| Fashionista | 3.00% | ~1 |
 | Speedrunner | 3.00% | ~1 |
 | Overthrow The Crown | 3.00% | ~0 |
 | Lieutenant | 0.00% | ~0 |
 | Dust to Dust | 0.00% | ~0 |
 | Millionaire | 0.00% | ~0 |
-| Fashionista | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 445)  
-Completed: 0 (0.00%) (Ranked 288)  
+Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

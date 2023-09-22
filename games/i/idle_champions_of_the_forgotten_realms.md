@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,679 (Ranked 57)  
+Progressed: 229,687 (Ranked 57)  
 Completed: 2,297 (1.00%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -686,19 +686,19 @@ Completed: 2,297 (1.00%) (Ranked 129)
 | 2023-09-19 | 229,412 | 2,295 |
 | 2023-09-20 | 229,496 | 2,296 |
 | 2023-09-21 | 229,612 | 2,297 |
-| 2023-09-22 | 229,679 | 2,297 |
+| 2023-09-22 | 229,687 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,301  (Ranked 67)  
-Sum: 31,689 (Ranked 39)  
+Sum: 31,693 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,301 |
 | This game is Great for Beginners | 5,291 |
 | This game has Quickly Understood Controls | 4,771 |
-| This game is Relaxing | 4,655 |
+| This game is Relaxing | 4,656 |
 | This game has Amazing Characters | 4,127 |
-| This game is Highly Recommended | 4,116 |
+| This game is Highly Recommended | 4,119 |
 | This game has Playful Visuals | 3,428 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -942,4 +942,4 @@ Diff (max vs sum): 28
 | 2023-09-19 | 4.06 | - | 5,292 | 31,652 |
 | 2023-09-20 | 4.06 | - | 5,296 | 31,661 |
 | 2023-09-21 | 4.06 | - | 5,301 | 31,676 |
-| 2023-09-22 | 4.06 | - | 5,301 | 31,689 |
+| 2023-09-22 | 4.06 | - | 5,301 | 31,693 |

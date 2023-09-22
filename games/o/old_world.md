@@ -24,31 +24,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~562 |
 | Oracle | 4.00% | ~562 |
 | Trade Caravan | 4.00% | ~562 |
-| Ambitious | 3.00% | ~421 |
-| Brilliant | 3.00% | ~421 |
-| Enlightened | 3.00% | ~421 |
-| Fountainhead | 3.00% | ~421 |
-| Glorious | 3.00% | ~421 |
-| Keystone | 3.00% | ~421 |
-| Magnificent | 3.00% | ~421 |
-| Warrior | 3.00% | ~421 |
-| Wise | 3.00% | ~421 |
-| Developing Cities | 3.00% | ~421 |
-| Strong Cities | 3.00% | ~421 |
-| Able Difficulty | 3.00% | ~421 |
-| Great Ziggurat | 3.00% | ~421 |
-| Ishtar Gate | 3.00% | ~421 |
-| Lighthouse | 3.00% | ~421 |
-| Pyramids | 3.00% | ~421 |
-| Christianity | 3.00% | ~421 |
-| Judaism | 3.00% | ~421 |
-| Babylonian Paganism | 3.00% | ~421 |
-| Carthaginian Paganism | 3.00% | ~421 |
-| Greek Paganism | 3.00% | ~421 |
-| Roman Paganism | 3.00% | ~421 |
-| Zoroastrianism | 3.00% | ~421 |
-| Naming Landmarks | 3.00% | ~421 |
-| The Great Mage | 3.00% | ~421 |
+| Ambitious | 3.00% | ~422 |
+| Brilliant | 3.00% | ~422 |
+| Enlightened | 3.00% | ~422 |
+| Fountainhead | 3.00% | ~422 |
+| Glorious | 3.00% | ~422 |
+| Keystone | 3.00% | ~422 |
+| Magnificent | 3.00% | ~422 |
+| Warrior | 3.00% | ~422 |
+| Wise | 3.00% | ~422 |
+| Developing Cities | 3.00% | ~422 |
+| Strong Cities | 3.00% | ~422 |
+| Able Difficulty | 3.00% | ~422 |
+| Great Ziggurat | 3.00% | ~422 |
+| Ishtar Gate | 3.00% | ~422 |
+| Lighthouse | 3.00% | ~422 |
+| Pyramids | 3.00% | ~422 |
+| Christianity | 3.00% | ~422 |
+| Judaism | 3.00% | ~422 |
+| Babylonian Paganism | 3.00% | ~422 |
+| Carthaginian Paganism | 3.00% | ~422 |
+| Greek Paganism | 3.00% | ~422 |
+| Roman Paganism | 3.00% | ~422 |
+| Zoroastrianism | 3.00% | ~422 |
+| Naming Landmarks | 3.00% | ~422 |
+| The Great Mage | 3.00% | ~422 |
 | Regicide | 2.00% | ~281 |
 | Hanging Gardens in Babylon | 2.00% | ~281 |
 | Drillmaster | 2.00% | ~281 |
@@ -131,13 +131,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.80% | ~112 |
 | Turreted Elephant | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
+| Old | 0.70% | ~98 |
 | Peacemaker | 0.70% | ~98 |
 | Cao'an | 0.70% | ~98 |
 | Egypt | 0.70% | ~98 |
 | Rome | 0.70% | ~98 |
 | One True Faith | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
-| Old | 0.60% | ~84 |
 | Noble Difficulty | 0.60% | ~84 |
 | Play a Network Game | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
@@ -176,6 +176,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hypatia the Teacher | 0.30% | ~42 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
+| Silver Victory (Carthage 2) | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
@@ -207,7 +208,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Epic Victory (Carthage 2) | 0.10% | ~14 |
 | Gold Victory (Carthage 2) | 0.10% | ~14 |
-| Silver Victory (Carthage 2) | 0.10% | ~14 |
 | Carthage - Rise of Rome | 0.10% | ~14 |
 | Bronze Victory (Carthage 3) | 0.10% | ~14 |
 | Epic Victory (Carthage 3) | 0.10% | ~14 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,046 (Ranked 126)  
-Completed: 5 (0.04%) (Ranked 252)  
+Progressed: 14,050 (Ranked 126)  
+Completed: 5 (0.04%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -458,17 +458,17 @@ Completed: 5 (0.04%) (Ranked 252)
 | 2023-09-19 | 14,005 | 5 |
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
-| 2023-09-22 | 14,046 | 5 |
+| 2023-09-22 | 14,050 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
-Sum: 1,813 (Ranked 207)  
+Sum: 1,814 (Ranked 207)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 221 |
+| This game has Diverse Characters | 209 |
 | This game is Extremely Fun | 209 |
 | This game is Highly Recommended | 209 |
-| This game has Diverse Characters | 208 |
 | This game is Educational | 206 |
 | This game has Challenging Combat | 196 |
 | This game has Quickly Understood Controls | 189 |
@@ -609,3 +609,4 @@ Diff (max vs sum): 58
 | 2023-09-16 | 4.65 | - | 221 | 1,811 |
 | 2023-09-20 | 4.65 | - | 221 | 1,812 |
 | 2023-09-21 | 4.65 | - | 221 | 1,813 |
+| 2023-09-22 | 4.65 | - | 221 | 1,814 |

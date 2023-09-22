@@ -6,29 +6,29 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~15,865 |
-| Mama? | 28.00% | ~5,769 |
-| People's Haven | 18.00% | ~3,709 |
-| Cartographer | 17.00% | ~3,503 |
+| Light at the end of the tunnel | 77.00% | ~15,869 |
+| Mama? | 28.00% | ~5,771 |
+| People's Haven | 18.00% | ~3,710 |
+| Cartographer | 17.00% | ~3,504 |
 | Antlers of Stone | 15.00% | ~3,091 |
 | Knowledge for Power | 14.00% | ~2,885 |
 | Mausoleum of Ice | 14.00% | ~2,885 |
 | Gaze into the abyss | 13.00% | ~2,679 |
-| In the belly of the beast | 12.00% | ~2,472 |
-| Wings of Stone | 12.00% | ~2,472 |
-| Equilibrium | 12.00% | ~2,472 |
-| Condor condo | 10.00% | ~2,060 |
-| Memorial | 9.00% | ~1,854 |
-| An uninvited guest | 8.00% | ~1,648 |
-| Talk to all the spirit animals | 7.00% | ~1,442 |
-| Ripples on the surface | 6.00% | ~1,236 |
-| Tails of Stone | 6.00% | ~1,236 |
-| Baa from the past | 6.00% | ~1,236 |
-| Written in stone | 6.00% | ~1,236 |
+| In the belly of the beast | 12.00% | ~2,473 |
+| Wings of Stone | 12.00% | ~2,473 |
+| Equilibrium | 12.00% | ~2,473 |
+| Condor condo | 10.00% | ~2,061 |
+| Memorial | 9.00% | ~1,855 |
+| An uninvited guest | 8.00% | ~1,649 |
+| Talk to all the spirit animals | 7.00% | ~1,443 |
+| Ripples on the surface | 6.00% | ~1,237 |
+| Tails of Stone | 6.00% | ~1,237 |
+| Baa from the past | 6.00% | ~1,237 |
+| Written in stone | 6.00% | ~1,237 |
 | Hide and Seek | 5.00% | ~1,030 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,604 (Ranked 114)  
-Completed: 414 (2.01%) (Ranked 98)  
+Progressed: 20,609 (Ranked 114)  
+Completed: 414 (2.01%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 414 (2.01%) (Ranked 98)
 | 2023-09-19 | 20,431 | 408 |
 | 2023-09-20 | 20,488 | 410 |
 | 2023-09-21 | 20,547 | 413 |
-| 2023-09-22 | 20,604 | 414 |
+| 2023-09-22 | 20,609 | 414 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3024,10 +3024,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4535,
       "NumberOfAwardsMax": 2725
+    },
+    {
+      "Time": "2023-09-22T19:02:26.6028123+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4537,
+      "NumberOfAwardsMax": 2725
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4535,
+  "NumberOfAwards": 4537,
   "NumberOfAwardsMax": 2725,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3047,7 +3053,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 220
+      "Count": 222
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3094,7 +3100,7 @@
   ],
   "EOS_Progressed": 72731,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16803,9 +16809,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-22T10:03:05.2109929+00:00",
-  "LastChanged_Achievements": "2023-09-22T18:06:17.3633787+00:00",
+  "LastChanged": "2023-09-22T19:02:26.6028121+00:00",
+  "LastChanged_Achievements": "2023-09-22T19:06:15.625744+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:02:50.80541+00:00",
-  "LastUpdate_Achievements": "2023-09-22T18:06:17.3635446+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:02:26.6028126+00:00",
+  "LastUpdate_Achievements": "2023-09-22T19:06:15.6258566+00:00"
 }
