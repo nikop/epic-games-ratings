@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 94.98% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 94.96% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.41% |
@@ -119,14 +119,14 @@
 | 117 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
 | 118 | [Chorus](games/c/chorus.md) | 1.25% |
 | 119 | [Late Shift](games/l/late_shift.md) | 1.23% |
-| 120 | [Infindustry](games/i/infindustry.md) | 1.18% |
+| 120 | [Infindustry](games/i/infindustry.md) | 1.15% |
 | 121 | [Trifox](games/t/trifox.md) | 1.09% |
 | 122 | [Adios](games/a/adios.md) | 1.04% |
 | 123 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
-| 123 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.02% |
-| 125 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
-| 125 | [Sable](games/s/sable.md) | 1.01% |
-| 125 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
+| 124 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 124 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.01% |
+| 124 | [Sable](games/s/sable.md) | 1.01% |
+| 124 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 128 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 128 | [Eternights](games/e/eternights.md) | 1.00% |
 | 128 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
@@ -147,8 +147,8 @@
 | 144 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.62% |
 | 146 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 146 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 146 | [It Takes Two](games/i/it_takes_two.md) | 0.61% |
-| 149 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
+| 148 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.60% |
+| 148 | [It Takes Two](games/i/it_takes_two.md) | 0.60% |
 | 150 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 151 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 152 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
@@ -169,10 +169,10 @@
 | 167 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
 | 168 | [Train Valley](games/t/train_valley.md) | 0.41% |
 | 169 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 169 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
-| 171 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 171 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 171 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 170 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 170 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 170 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
+| 170 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 174 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 174 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
 | 174 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
@@ -629,4 +629,4 @@
 | 285 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 285 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 285 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,278 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,279 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
