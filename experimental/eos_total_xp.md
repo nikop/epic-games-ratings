@@ -580,6 +580,7 @@
 | [The Caligula Effect 2](../games/t/the_caligula_effect_2.md) | 49 | 1,000 |
 | [The Captain is Dead](../games/t/the_captain_is_dead.md) | 36 | 1,000 |
 | [The Complex](../games/t/the_complex.md) | 20 | 1,000 |
+| [The Crackpet Show: Happy Tree Friends Edition](../games/a/ab4adb59faed46819e63d82b57197b2b.md) | 82 | 1,000 |
 | [The Creepy Syndrome](../games/f/f2ed44898a204bee866836b9b659bce4.md) | 12 | 1,000 |
 | [The Crown of Wu](../games/t/the_crown_of_wu.md) | 37 | 1,000 |
 | [The Cullfield Ritual](../games/t/the_cullfield_ritual.md) | 12 | 1,000 |
