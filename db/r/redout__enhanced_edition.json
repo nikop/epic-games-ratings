@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 547,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232261,
+  "EOS_Progressed": 232265,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16643,6 +16643,11 @@
       "Time": "2023-09-22T17:07:18.3433163+00:00",
       "NumProgressed": 232261,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-22T18:07:47.4264643+00:00",
+      "NumProgressed": 232265,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -16670,7 +16675,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65033
+      "UsersEstimate": 65034
     },
     {
       "ID": "CENTAUR",
@@ -16694,7 +16699,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16258
+      "UsersEstimate": 16259
     },
     {
       "ID": "DRAGOON",
@@ -16742,7 +16747,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46452
+      "UsersEstimate": 46453
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -16790,7 +16795,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76646
+      "UsersEstimate": 76647
     },
     {
       "ID": "NOBUNAGA",
@@ -16814,7 +16819,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20903
+      "UsersEstimate": 20904
     },
     {
       "ID": "PHOTOFINISH",
@@ -16822,7 +16827,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16258
+      "UsersEstimate": 16259
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -16870,7 +16875,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9290
+      "UsersEstimate": 9291
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -16878,7 +16883,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51097
+      "UsersEstimate": 51098
     },
     {
       "ID": "TACTICIAN",
@@ -16894,7 +16899,7 @@
       "Name": "TAKATORA",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9290
+      "UsersEstimate": 9291
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -16902,7 +16907,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51097
+      "UsersEstimate": 51098
     },
     {
       "ID": "TUNINGMANIAC",
@@ -16918,22 +16923,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95227
+      "UsersEstimate": 95229
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232261,
+      "Progressed": 232265,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:07:18.3433158+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:07:47.4264638+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:34.1224951+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:00:54.7630768+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:07:18.3434093+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:01:28.9398402+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:07:47.42659+00:00"
 }

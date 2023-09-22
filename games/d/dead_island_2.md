@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,684 |
-| Git Gutte! | 2.00% | ~13,684 |
-| Bookworm | 2.00% | ~13,684 |
-| Break A Leg | 2.00% | ~13,684 |
-| But Doctor, I am Butcho | 2.00% | ~13,684 |
-| Can't Handle the Truth | 2.00% | ~13,684 |
-| Coup de Grâce | 2.00% | ~13,684 |
-| Like Riding a Bike | 2.00% | ~13,684 |
-| Hazardous Materials | 2.00% | ~13,684 |
-| Friends Like These | 2.00% | ~13,684 |
-| Hotel California | 2.00% | ~13,684 |
-| Apex Predator | 2.00% | ~13,684 |
-| Zombologist | 2.00% | ~13,684 |
-| A Patton Emerges | 2.00% | ~13,684 |
-| Stacking the Deck | 2.00% | ~13,684 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,684 |
-| This is My Weapon | 2.00% | ~13,684 |
-| Welcome To Hell-A | 2.00% | ~13,684 |
+| Dr. Reed, I Presume? | 2.00% | ~13,685 |
+| Git Gutte! | 2.00% | ~13,685 |
+| Bookworm | 2.00% | ~13,685 |
+| Break A Leg | 2.00% | ~13,685 |
+| But Doctor, I am Butcho | 2.00% | ~13,685 |
+| Can't Handle the Truth | 2.00% | ~13,685 |
+| Coup de Grâce | 2.00% | ~13,685 |
+| Like Riding a Bike | 2.00% | ~13,685 |
+| Hazardous Materials | 2.00% | ~13,685 |
+| Friends Like These | 2.00% | ~13,685 |
+| Hotel California | 2.00% | ~13,685 |
+| Apex Predator | 2.00% | ~13,685 |
+| Zombologist | 2.00% | ~13,685 |
+| A Patton Emerges | 2.00% | ~13,685 |
+| Stacking the Deck | 2.00% | ~13,685 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,685 |
+| This is My Weapon | 2.00% | ~13,685 |
+| Welcome To Hell-A | 2.00% | ~13,685 |
 | Making Your Mark | 1.00% | ~6,842 |
 | Anger Management | 1.00% | ~6,842 |
 | Perks of the Job | 1.00% | ~6,842 |
@@ -34,10 +34,10 @@ Rating: 4.54 (Ranked 503)
 | Down with the Sickness | 1.00% | ~6,842 |
 | Our True Nature | 1.00% | ~6,842 |
 | Max Headroom | 0.80% | ~5,474 |
-| Jumbo Keyring | 0.70% | ~4,789 |
-| Go, Bobcats! | 0.70% | ~4,789 |
-| Rising Star | 0.70% | ~4,789 |
-| Smorgasbord | 0.60% | ~4,105 |
+| Jumbo Keyring | 0.70% | ~4,790 |
+| Go, Bobcats! | 0.70% | ~4,790 |
+| Rising Star | 0.70% | ~4,790 |
+| Smorgasbord | 0.60% | ~4,106 |
 | Not Even My Final Form | 0.50% | ~3,421 |
 | Internet Famous | 0.50% | ~3,421 |
 | Make it So | 0.40% | ~2,737 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~684 |
 | Bucket List | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,206 (Ranked 22)  
+Progressed: 684,250 (Ranked 22)  
 Completed: 2,164 (0.32%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,14 +206,14 @@ Completed: 2,164 (0.32%) (Ranked 182)
 | 2023-09-19 | 682,832 | 2,155 |
 | 2023-09-20 | 683,347 | 2,156 |
 | 2023-09-21 | 683,869 | 2,163 |
-| 2023-09-22 | 684,206 | 2,164 |
+| 2023-09-22 | 684,250 | 2,164 |
 ## Awards
-Max (Great Boss Battles): 6,140  (Ranked 57)  
-Sum: 9,133 (Ranked 93)  
+Max (Great Boss Battles): 6,156  (Ranked 57)  
+Sum: 9,149 (Ranked 93)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,140 |
+| This game has Great Boss Battles | 6,156 |
 | This game is Great for Beginners | 427 |
 | This game has Diverse Characters | 416 |
 | This game has Quickly Understood Controls | 400 |
@@ -379,4 +379,4 @@ Diff (max vs sum): -36
 | 2023-09-19 | 4.54 | 6,115 | 9,071 |
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
-| 2023-09-22 | 4.54 | 6,140 | 9,133 |
+| 2023-09-22 | 4.54 | 6,156 | 9,149 |

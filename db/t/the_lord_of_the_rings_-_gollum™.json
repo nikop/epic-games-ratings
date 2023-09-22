@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 523,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1245,6 +1245,11 @@
       "Time": "2023-09-20T22:06:25.9891286+00:00",
       "NumProgressed": 522,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T18:09:07.5274261+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1318,9 +1323,9 @@
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 78
     },
     {
       "ID": "Chapter6",
@@ -1344,7 +1349,7 @@
       "Name": "Her Eyes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Chapter9",
@@ -1360,7 +1365,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Collectibles2",
@@ -1406,9 +1411,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 173
     },
     {
       "ID": "GollumChoices",
@@ -1543,14 +1548,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 523,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:09:06.070997+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:09:07.5274253+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:59:02.4007324+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:03:28.2243691+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:09:06.0710252+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:03:04.0509674+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:09:07.5274844+00:00"
 }

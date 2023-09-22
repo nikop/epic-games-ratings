@@ -4,11 +4,11 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 681,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 358,
+  "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 49,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -976,9 +976,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256499,
+  "EOS_Progressed": 256502,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16571,6 +16571,11 @@
       "Time": "2023-09-22T17:06:35.2985487+00:00",
       "NumProgressed": 256499,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-22T18:06:56.5231229+00:00",
+      "NumProgressed": 256502,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -16606,7 +16611,7 @@
       "Name": "The Gamble",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "Act5",
@@ -16614,7 +16619,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -16630,7 +16635,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79515
+      "UsersEstimate": 79516
     },
     {
       "ID": "BackHomeNTimes",
@@ -16662,7 +16667,7 @@
       "Name": "A major purchase",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "BuyNWeapons",
@@ -16670,7 +16675,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "CompleteBestiary",
@@ -16702,7 +16707,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "CreedsInBank1",
@@ -16726,7 +16731,7 @@
       "Name": "Saver III",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "DiscoverAllObjects",
@@ -16734,7 +16739,7 @@
       "Name": "Collector",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "EatNFungus",
@@ -16758,7 +16763,7 @@
       "Name": "Mansion",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "FullInventoryExpansion",
@@ -16798,7 +16803,7 @@
       "Name": "Green thumb III",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "GrowPlantsSameTime",
@@ -16806,7 +16811,7 @@
       "Name": "Plantation",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "HomeWithNFurniture",
@@ -16910,7 +16915,7 @@
       "Name": "Reminescence",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "MaxRepOfAllNpcs",
@@ -16918,7 +16923,7 @@
       "Name": "Beloved",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "MaxRepOfOneNpc",
@@ -16942,7 +16947,7 @@
       "Name": "Number 1",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "Patrimony1",
@@ -16958,7 +16963,7 @@
       "Name": "Capitalist II",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Patrimony3",
@@ -16966,7 +16971,7 @@
       "Name": "Capitalist III",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ReachNDays1",
@@ -16998,7 +17003,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "TakeHomeNHearts",
@@ -17006,7 +17011,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "UnlockAllAchievements",
@@ -17014,7 +17019,7 @@
       "Name": "Hell Is You",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "UnlockedAllShops",
@@ -17029,7 +17034,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256499,
+      "Progressed": 256502,
       "Completed": 3
     }
   ],
@@ -17037,8 +17042,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-20T20:57:21.6615832+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:06:35.2985483+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:06:56.5231223+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.3482551+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:58:22.8549939+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:06:35.2986544+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:58:30.2423879+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:06:56.5233317+00:00"
 }

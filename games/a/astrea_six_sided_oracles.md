@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Dicesmithing Time! | 100.00% | ~4 |
+| Endless Tricks | 100.00% | ~4 |
 | Mechanical Buddy | 100.00% | ~4 |
 | Meissa's Savior | 100.00% | ~4 |
 | Purification Pioneer | 100.00% | ~4 |
-| Dicesmithing Time! | 75.00% | ~3 |
-| Endless Tricks | 75.00% | ~3 |
 | Sanctuary Guardian | 75.00% | ~3 |
 | Stellar Dismantler | 75.00% | ~3 |
+| Mind Illuminator | 50.00% | ~2 |
 | Wild's Keeper | 50.00% | ~2 |
 | Anomaly Destroyer | 25.00% | ~1 |
 | Arch-Oracle | 25.00% | ~1 |
@@ -18,7 +19,6 @@
 | Favored by the Cosmos | 25.00% | ~1 |
 | Heart Gate | 25.00% | ~1 |
 | Loyal Partner | 25.00% | ~1 |
-| Mind Illuminator | 25.00% | ~1 |
 | Plague Doctor | 25.00% | ~1 |
 | Sadistic Plan | 25.00% | ~1 |
 | Sentinelphobic | 25.00% | ~1 |
@@ -86,7 +86,7 @@
 | Wave Bender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 531)  
-Completed: 0 (0.00%) (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

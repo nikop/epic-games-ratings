@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -1420,9 +1420,9 @@
       "ID": "ACHIEVEMENT_DECO_CATEGORIES",
       "SetID": "9eacipp",
       "Name": "Experienced decorator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_ELECTION_FACTIONS",
@@ -2100,8 +2100,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:03:42.2793398+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:03:22.3680314+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:00:45.9371209+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:03:42.2794446+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:01:20.2049583+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:03:22.3681812+00:00"
 }

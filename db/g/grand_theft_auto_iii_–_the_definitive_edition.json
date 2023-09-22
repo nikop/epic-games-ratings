@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -485,10 +485,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 7969,
-  "EOS_Completed": 51,
-  "EOS_NewPlayers": 243,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed": 52,
+  "EOS_NewPlayers": 241,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -8874,6 +8874,11 @@
       "Time": "2023-09-22T16:04:50.3451141+00:00",
       "NumProgressed": 7969,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-22T18:04:46.4752911+00:00",
+      "NumProgressed": 7969,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 29,
@@ -9107,9 +9112,9 @@
       "ID": "ACH29",
       "SetID": "552d41m",
       "Name": "King of Liberty City",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
@@ -9117,15 +9122,15 @@
       "ID": "552d41m",
       "IsBase": true,
       "Progressed": 7969,
-      "Completed": 51
+      "Completed": 52
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:04:45.5071063+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:04:46.4752901+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:00:11.4469348+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:04:45.5071648+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:00:41.0749516+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:04:46.4754158+00:00"
 }

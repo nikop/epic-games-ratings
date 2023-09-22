@@ -6,9 +6,9 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2130,6 +2130,11 @@
       "Time": "2023-09-21T22:05:26.5119748+00:00",
       "NumProgressed": 909,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T18:05:56.6664215+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2141,7 +2146,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH001",
@@ -2165,7 +2170,7 @@
       "Name": "Buccaneer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH004",
@@ -2173,7 +2178,7 @@
       "Name": "Flying Dutchman",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH005",
@@ -2237,7 +2242,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH013",
@@ -2245,7 +2250,7 @@
       "Name": "In a mint condition",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH014",
@@ -2261,7 +2266,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH016",
@@ -2285,7 +2290,7 @@
       "Name": "The Grande Bouffe",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH019",
@@ -2325,7 +2330,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH024",
@@ -2373,7 +2378,7 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH030",
@@ -2411,9 +2416,9 @@
       "ID": "ACH034",
       "SetID": "69nfp41",
       "Name": "Panic buying",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH035",
@@ -2483,9 +2488,9 @@
       "ID": "ACH043",
       "SetID": "69nfp41",
       "Name": "Your vessel, my vessel",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH044",
@@ -2540,15 +2545,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:05:45.6138777+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:05:56.6664205+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.7770724+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:01:03.3653177+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:05:45.6139194+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:01:39.2009272+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:05:56.6664838+00:00"
 }

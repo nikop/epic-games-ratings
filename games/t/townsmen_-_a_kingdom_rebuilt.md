@@ -32,6 +32,7 @@ Number of Ratings: 37  (23.09.2022)
 | Conflicting parties | 5.00% | ~215 |
 | Bread for the people II | 4.00% | ~172 |
 | I like to build stuff... III | 4.00% | ~172 |
+| Experienced decorator | 4.00% | ~172 |
 | An honorable Governor II | 4.00% | ~172 |
 | Full-time job III | 4.00% | ~172 |
 | Tax-man IV | 4.00% | ~172 |
@@ -40,7 +41,6 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people III | 3.00% | ~129 |
 | I like to build stuff... IV | 3.00% | ~129 |
 | The King's new clothes II | 3.00% | ~129 |
-| Experienced decorator | 3.00% | ~129 |
 | Saint Florian | 3.00% | ~129 |
 | My precious... I | 3.00% | ~129 |
 | Cosmas and Damian | 3.00% | ~129 |

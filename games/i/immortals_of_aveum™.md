@@ -11,10 +11,10 @@ Rating: 3.97 (Ranked 959)
 | No More Names | 67.00% | ~2 |
 | Enlisted | 67.00% | ~2 |
 | Initiate | 67.00% | ~2 |
+| Gravity-Challenged Rocks | 67.00% | ~2 |
 | Control is an Illusion | 33.00% | ~1 |
 | Soldier | 33.00% | ~1 |
 | Thrada-Kul | 33.00% | ~1 |
-| Gravity-Challenged Rocks | 33.00% | ~1 |
 | All the Major Food Groups | 33.00% | ~1 |
 | Beggars Would Ride | 33.00% | ~1 |
 | The Means to Save It | 0.00% | ~0 |
@@ -54,7 +54,7 @@ Rating: 3.97 (Ranked 959)
 | Good Boy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 542)  
-Completed: 0 (0.00%) (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

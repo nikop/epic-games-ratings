@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 486,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 360,
+  "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,7 +514,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3445,
+  "EOS_Progressed": 3446,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
@@ -4629,6 +4629,11 @@
       "Time": "2023-09-22T16:06:34.9803471+00:00",
       "NumProgressed": 3445,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-22T18:06:32.2357507+00:00",
+      "NumProgressed": 3446,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4680,7 +4685,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "CrowdPleaser",
@@ -4704,7 +4709,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4712,7 +4717,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ForAllAurai_8",
@@ -4824,7 +4829,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4840,7 +4845,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -4848,7 +4853,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4856,7 +4861,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Tapped_22",
@@ -4896,7 +4901,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -4975,15 +4980,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3445,
+      "Progressed": 3446,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:06:15.1761663+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:06:32.23575+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:00:44.6720474+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:06:15.1762097+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:01:19.2101813+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:06:32.2358571+00:00"
 }

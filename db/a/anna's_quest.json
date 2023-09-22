@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -239,17 +239,17 @@
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_19",
       "SetID": "7jh86ne",
       "Name": "Memories",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_2",
@@ -488,8 +488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:08:04.2454902+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:08:42.7938123+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:00.0346445+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:01:25.9421546+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:08:04.2455159+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:02:07.0206454+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:08:42.7938679+00:00"
 }

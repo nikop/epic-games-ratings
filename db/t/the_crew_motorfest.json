@@ -4,11 +4,11 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 301,
   "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 632,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -210,10 +210,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 239,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-22T18:01:07.4987761+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 239,
+  "NumberOfAwards": 270,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -251,7 +257,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 26
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
@@ -270,6 +276,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 26
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -284,8 +296,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-09-22T14:59:48.986886+00:00",
+  "LastChanged": "2023-09-22T18:01:07.4987758+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:20.722491+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:00:34.7852749+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:06:53.8718162+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:01:07.4987767+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:07:18.177936+00:00"
 }

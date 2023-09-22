@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 56,
+  "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 192,
-  "EOS_Completed": 9,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 36,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.69,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 5.21,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -889,6 +889,11 @@
       "Time": "2023-09-22T17:09:31.1183805+00:00",
       "NumProgressed": 192,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-22T18:09:37.2505704+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 25,
@@ -938,9 +943,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "META_RESULT_1-2",
@@ -978,9 +983,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1018,9 +1023,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1066,9 +1071,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "PROGRESS_N3",
@@ -1090,9 +1095,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
@@ -1100,13 +1105,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 192,
-      "Completed": 9
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:09:31.1183802+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:09:37.2505698+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:01:40.5892726+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:09:31.1183961+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:02:21.1219094+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:09:37.2506085+00:00"
 }

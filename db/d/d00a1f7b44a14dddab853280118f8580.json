@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -745,9 +745,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_hint_6",
@@ -761,9 +761,9 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_items_50",
@@ -785,9 +785,9 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_skip_3",
@@ -816,8 +816,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:07:06.2661945+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:07:33.0533875+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:12:48.3415052+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:59:04.2462391+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:07:06.2662063+00:00"
+  "LastUpdate_Ratings": "2023-09-22T17:59:20.3302557+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:07:33.0534024+00:00"
 }

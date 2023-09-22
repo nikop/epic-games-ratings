@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1878,9 +1878,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_PEAK",
@@ -1918,9 +1918,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_S5",
@@ -1958,8 +1958,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:04:56.3290124+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:04:59.742785+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.9314314+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:59:40.5727968+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:04:56.3290351+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:00:04.8115741+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:04:59.7428357+00:00"
 }

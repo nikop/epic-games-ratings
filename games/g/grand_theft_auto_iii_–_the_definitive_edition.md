@@ -33,10 +33,10 @@ Rating: 4.19 (Ranked 877)
 | Going Rogue | 1.00% | ~80 |
 | Furious First Responder | 1.00% | ~80 |
 | Is That All You've Got? | 0.90% | ~72 |
-| King of Liberty City | 0.60% | ~48 |
+| King of Liberty City | 0.70% | ~56 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,969 (Ranked 142)  
-Completed: 51 (0.64%) (Ranked 144)  
+Completed: 52 (0.65%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,7 +190,7 @@ Completed: 51 (0.64%) (Ranked 144)
 | 2023-09-19 | 7,905 | 50 |
 | 2023-09-20 | 7,937 | 50 |
 | 2023-09-21 | 7,951 | 51 |
-| 2023-09-22 | 7,969 | 51 |
+| 2023-09-22 | 7,969 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

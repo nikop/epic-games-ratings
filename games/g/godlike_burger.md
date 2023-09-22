@@ -21,7 +21,7 @@ Rating: 4.27 (Ranked 824)
 | CELEBRITY | 17.00% | ~73 |
 | GRATITUDE | 16.00% | ~68 |
 | LAW-ABIDING CITIZEN | 11.00% | ~47 |
-| PRUDENT | 10.00% | ~43 |
+| PRUDENT | 11.00% | ~47 |
 | PATTY-KILLER | 9.00% | ~38 |
 | GOURMET | 8.00% | ~34 |
 | SCATTERBRAIN | 8.00% | ~34 |
@@ -35,7 +35,7 @@ Rating: 4.27 (Ranked 824)
 | MISTER ALL THUMBS | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 427 (Ranked 272)  
-Completed: 2 (0.47%) (Ranked 162)  
+Completed: 2 (0.47%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

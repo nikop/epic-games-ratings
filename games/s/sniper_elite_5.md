@@ -1,12 +1,12 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 628)  
+Rating: 4.46 (Ranked 629)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,679 |
-| Confirming Suspicions | 41.00% | ~1,496 |
+| Confirming Suspicions | 40.00% | ~1,460 |
 | The Kraken Wakes | 36.00% | ~1,314 |
 | It's Starting to Crack | 33.00% | ~1,204 |
 | Change the Channel | 30.00% | ~1,095 |
@@ -24,8 +24,8 @@ Rating: 4.46 (Ranked 628)
 | Gunslinger | 17.00% | ~620 |
 | Climbing the Ladder | 16.00% | ~584 |
 | Der Geist | 16.00% | ~584 |
-| Close Quarters | 15.00% | ~547 |
-| Brains of the Operation | 15.00% | ~547 |
+| Close Quarters | 15.00% | ~548 |
+| Brains of the Operation | 15.00% | ~548 |
 | No Stone Unturned | 14.00% | ~511 |
 | Enemy at the Gates | 14.00% | ~511 |
 | Fields of Glory | 14.00% | ~511 |
@@ -49,10 +49,10 @@ Rating: 4.46 (Ranked 628)
 | Last Resort | 4.00% | ~144 |
 | Siegebreaker | 4.00% | ~144 |
 | Ghost of Falaise | 4.00% | ~144 |
-| From Paris with Love | 3.00% | ~109 |
-| Burn after reading | 3.00% | ~109 |
-| Souvenir hunter | 3.00% | ~109 |
-| Shoot for the Moon | 3.00% | ~109 |
+| From Paris with Love | 3.00% | ~110 |
+| Burn after reading | 3.00% | ~110 |
+| Souvenir hunter | 3.00% | ~110 |
+| Shoot for the Moon | 3.00% | ~110 |
 | If You Go Down To The Woods Today | 3.00% | ~108 |
 | Fight Another Day | 3.00% | ~108 |
 | Out of Scope | 2.00% | ~73 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 628)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,649 (Ranked 169)  
+Progressed: 3,650 (Ranked 169)  
 Completed: 11 (0.30%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 11 (0.30%) (Ranked 186)
 | 2023-09-19 | 3,639 | 11 |
 | 2023-09-20 | 3,645 | 11 |
 | 2023-09-21 | 3,649 | 11 |
+| 2023-09-22 | 3,650 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

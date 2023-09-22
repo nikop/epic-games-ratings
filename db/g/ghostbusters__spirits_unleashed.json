@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2208,7 +2208,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25957,
+  "EOS_Progressed": 25958,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 2,
@@ -13363,6 +13363,11 @@
       "Time": "2023-09-22T17:06:50.5734912+00:00",
       "NumProgressed": 25957,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-22T18:07:14.4519518+00:00",
+      "NumProgressed": 25958,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13460,9 +13465,9 @@
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 130
     },
     {
       "ID": "Dont_Need_These",
@@ -13781,7 +13786,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25957,
+      "Progressed": 25958,
       "Completed": 58
     }
   ],
@@ -13789,8 +13794,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-21T23:02:02.7089678+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:06:50.5734908+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:07:14.4519513+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:05.0399544+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:01:38.3245855+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:06:50.5735765+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:02:18.6764488+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:07:14.4520677+00:00"
 }

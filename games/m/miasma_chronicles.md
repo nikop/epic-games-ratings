@@ -6,7 +6,7 @@ Rating: 4.41 (Ranked 693)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~1,345 |
-| Ranidaphobia | 77.00% | ~1,126 |
+| Ranidaphobia | 78.00% | ~1,140 |
 | Aspiring Editor | 75.00% | ~1,096 |
 | Gun for Hire | 70.00% | ~1,023 |
 | I am the law! | 64.00% | ~936 |
@@ -58,7 +58,7 @@ Rating: 4.41 (Ranked 693)
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,462 (Ranked 207)  
-Completed: 0 (0.00%) (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

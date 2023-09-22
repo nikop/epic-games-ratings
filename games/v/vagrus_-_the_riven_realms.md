@@ -27,11 +27,11 @@
 | Been There | 5.00% | ~8 |
 | Spiritual Journey | 5.00% | ~8 |
 | Pilgrimage's End | 5.00% | ~8 |
+| Trouble at Fort Larius | 5.00% | ~8 |
 | Potential Unlocked | 4.00% | ~6 |
 | Xevarian Gambit | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |
-| Trouble at Fort Larius | 4.00% | ~6 |
 | Bounty Hunter | 3.00% | ~5 |
 | Supercargo | 3.00% | ~5 |
 | The Voice of Hereafter | 3.00% | ~5 |
@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 153 (Ranked 346)  
-Completed: 0 (0.00%) (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

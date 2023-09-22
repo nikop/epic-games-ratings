@@ -6,32 +6,32 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 18.00% | ~528 |
-| Debuff Dogpile | 17.00% | ~499 |
-| Hit 'Em Where It Hurts | 17.00% | ~499 |
-| Perk Shard Punch Card | 17.00% | ~499 |
-| That'll Leave a Mark | 17.00% | ~499 |
-| Mushroom Madness! | 16.00% | ~469 |
-| First Strike | 13.00% | ~381 |
-| Horder Better Faster Stronger | 13.00% | ~381 |
-| Spending Spree | 13.00% | ~381 |
-| Everything Must Go! | 11.00% | ~323 |
-| Ten Steps from the Grave | 11.00% | ~323 |
-| Next Time on MythForce... | 9.00% | ~264 |
-| Cold-Blooded Critters | 7.00% | ~205 |
-| Death Becomes You | 7.00% | ~205 |
-| Flawless Victory | 6.00% | ~176 |
-| The Harder They Fall | 4.00% | ~117 |
+| Faceroll the Bones | 18.00% | ~530 |
+| That'll Leave a Mark | 18.00% | ~530 |
+| Debuff Dogpile | 17.00% | ~500 |
+| Hit 'Em Where It Hurts | 17.00% | ~500 |
+| Perk Shard Punch Card | 17.00% | ~500 |
+| Mushroom Madness! | 16.00% | ~471 |
+| First Strike | 13.00% | ~382 |
+| Horder Better Faster Stronger | 13.00% | ~382 |
+| Spending Spree | 13.00% | ~382 |
+| Everything Must Go! | 11.00% | ~324 |
+| Ten Steps from the Grave | 11.00% | ~324 |
+| Next Time on MythForce... | 9.00% | ~265 |
+| Cold-Blooded Critters | 7.00% | ~206 |
+| Death Becomes You | 7.00% | ~206 |
+| Flawless Victory | 6.00% | ~177 |
+| The Harder They Fall | 4.00% | ~118 |
 | On this Episode! | 3.00% | ~88 |
 | Deadication | 2.00% | ~59 |
-| We've Got a Kaiju on the Field | 2.00% | ~59 |
 | Season Finale | 2.00% | ~59 |
 | The Fourth Gate | 1.00% | ~29 |
+| We've Got a Kaiju on the Field | 1.00% | ~29 |
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,933 (Ranked 182)  
-Completed: 0 (0.00%) (Ranked 287)  
+Progressed: 2,942 (Ranked 182)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,11 +99,11 @@ Completed: 0 (0.00%) (Ranked 287)
 | 2023-09-19 | 2,764 | 0 |
 | 2023-09-20 | 2,843 | 0 |
 | 2023-09-21 | 2,900 | 0 |
-| 2023-09-22 | 2,933 | 0 |
+| 2023-09-22 | 2,942 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 460)  
-Sum: 267 (Ranked 356)  
-Diff (max vs sum): 104  
+Sum: 267 (Ranked 357)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

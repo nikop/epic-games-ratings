@@ -45,7 +45,7 @@
 | The Spice of Life | 15.00% | ~4 |
 | Couldn't Have Planned It Better Myself | 12.00% | ~3 |
 | The Mentor | 12.00% | ~3 |
-| What They Don't Know Can't Hurt Them | 8.00% | ~2 |
+| What They Don't Know Can't Hurt Them | 12.00% | ~3 |
 | Wilful Ignorance | 8.00% | ~2 |
 | Double Agent | 4.00% | ~1 |
 | Keeper of the People | 4.00% | ~1 |
@@ -54,7 +54,7 @@
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26 (Ranked 456)  
-Completed: 0 (0.00%) (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

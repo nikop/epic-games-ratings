@@ -2,13 +2,13 @@
   "ID": "f9a21c4ce910440d82b83b01d1c48c5e",
   "Name": "Assassin\u0027s Creed\u00AE I: Director\u0027s Cut",
   "ProductSlug": "assassins-creed-1",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 632,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2008-04-09T15:00:00+00:00",
     "PcReleaseDate": "2008-04-09T15:00:00+00:00",
@@ -575,6 +575,6 @@
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
   "LastChanged": "2023-09-22T14:02:47.5684838+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:22.3491796+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:03:07.6109036+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:06:44.8680425+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:02:40.9194105+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:07:07.6048622+00:00"
 }

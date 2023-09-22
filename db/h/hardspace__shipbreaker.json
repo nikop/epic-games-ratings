@@ -6,9 +6,9 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1704,6 +1704,11 @@
       "Time": "2023-09-22T14:05:32.6407644+00:00",
       "NumProgressed": 907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T18:05:19.8234713+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1723,7 +1728,7 @@
       "Name": "Act II Complete",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1755,7 +1760,7 @@
       "Name": "A successful procedure!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -1779,7 +1784,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -1795,7 +1800,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1851,7 +1856,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1867,7 +1872,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1923,14 +1928,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 908,
       "Completed": 0
     }
   ],
@@ -1938,8 +1943,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:05:13.6422423+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:05:19.8234709+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:17.5059946+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:59:54.6701252+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:05:13.642263+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:00:19.7749143+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:05:19.8235011+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ac082b5524e94daf9b431ee4cb8a9dd0",
   "Name": "Crysis 2 Remastered",
   "ProductSlug": "crysis-2-remastered",
-  "Ranking_Rating": 396,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 632,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-10-15T07:00:00+00:00",
     "PcReleaseDate": "2021-10-15T07:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 612,
   "RatingHistory": [
     {
@@ -607,6 +607,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 220,
       "NumberOfAwardsMax": 220
+    },
+    {
+      "Time": "2023-09-22T18:01:29.5480883+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 220,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
@@ -632,8 +638,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.1104791+00:00",
-  "LastChanged": "2023-09-10T15:59:52.4132337+00:00",
+  "LastChanged": "2023-09-22T18:01:29.5480882+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.4419736+00:00",
-  "LastUpdate_Ratings": "2023-09-22T17:00:55.6865972+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:04:43.9690047+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:01:29.548089+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:04:44.6108746+00:00"
 }

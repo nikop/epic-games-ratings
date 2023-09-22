@@ -54,7 +54,7 @@
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 38 (Ranked 439)  
-Completed: 0 (0.00%) (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -73,7 +73,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 118,423 (Ranked 73)  
-Completed: 1 (0.00%) (Ranked 287)  
+Completed: 1 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

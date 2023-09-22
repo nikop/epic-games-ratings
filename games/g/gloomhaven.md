@@ -6,70 +6,70 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 37.00% | ~1,613 |
-| A normal day in Gloomhaven | 30.00% | ~1,308 |
-| Overkill | 28.00% | ~1,221 |
-| Vaccine Incoming | 26.00% | ~1,134 |
-| Spread the plague | 24.00% | ~1,046 |
-| Get over here! | 20.00% | ~872 |
-| Just when I thought I was out... | 17.00% | ~741 |
-| Mine... All Mine... | 16.00% | ~698 |
-| Light of my life | 13.00% | ~567 |
-| Anatomy Lesson | 13.00% | ~567 |
-| Augmented rat | 12.00% | ~523 |
-| Obstacle race | 12.00% | ~523 |
-| You activated my trap card! | 11.00% | ~480 |
-| Doom and gloom | 11.00% | ~480 |
-| Precious! | 8.00% | ~349 |
-| Grizzled veteran | 7.00% | ~305 |
-| Pack leader | 7.00% | ~305 |
-| Pain is your friend | 7.00% | ~305 |
-| Play it again, Sam | 7.00% | ~305 |
-| Black death | 6.00% | ~262 |
-| Quad damage | 5.00% | ~218 |
-| Dungeon Veteran | 4.00% | ~174 |
-| Who's the Boss? | 4.00% | ~174 |
-| The Pro from Dover | 4.00% | ~174 |
-| Pretty lights! | 4.00% | ~174 |
-| Now you see me... | 4.00% | ~174 |
-| Power Up! | 2.00% | ~87 |
-| Caught off guard | 2.00% | ~87 |
-| Master Assassin | 2.00% | ~87 |
-| Grin and bear it | 2.00% | ~87 |
+| I'm not dead yet | 37.00% | ~1,630 |
+| A normal day in Gloomhaven | 30.00% | ~1,322 |
+| Overkill | 28.00% | ~1,234 |
+| Vaccine Incoming | 26.00% | ~1,146 |
+| Spread the plague | 24.00% | ~1,057 |
+| Get over here! | 20.00% | ~881 |
+| Just when I thought I was out... | 17.00% | ~749 |
+| Mine... All Mine... | 15.00% | ~661 |
+| Light of my life | 13.00% | ~573 |
+| Anatomy Lesson | 13.00% | ~573 |
+| Augmented rat | 12.00% | ~529 |
+| Obstacle race | 12.00% | ~529 |
+| You activated my trap card! | 11.00% | ~485 |
+| Doom and gloom | 11.00% | ~485 |
+| Precious! | 8.00% | ~352 |
+| Grizzled veteran | 7.00% | ~308 |
+| Pack leader | 7.00% | ~308 |
+| Pain is your friend | 7.00% | ~308 |
+| Play it again, Sam | 7.00% | ~308 |
+| Black death | 6.00% | ~264 |
+| Quad damage | 5.00% | ~220 |
+| Dungeon Veteran | 4.00% | ~176 |
+| Who's the Boss? | 4.00% | ~176 |
+| The Pro from Dover | 4.00% | ~176 |
+| Pretty lights! | 4.00% | ~176 |
+| Now you see me... | 4.00% | ~176 |
+| Power Up! | 3.00% | ~132 |
+| Caught off guard | 2.00% | ~88 |
+| Master Assassin | 2.00% | ~88 |
+| Grin and bear it | 2.00% | ~88 |
 | I hate portals | 1.00% | ~44 |
 | Merchant of doom | 1.00% | ~44 |
+| Down the hatch | 1.00% | ~44 |
 | The Sniper | 1.00% | ~44 |
 | An axe to grind | 1.00% | ~44 |
-| Down the hatch | 0.90% | ~39 |
-| An eye for an eye | 0.90% | ~39 |
+| An eye for an eye | 0.90% | ~40 |
+| The Rat King | 0.70% | ~31 |
 | How to train your Drake | 0.70% | ~31 |
 | The Cephalophore | 0.70% | ~31 |
 | New Blood | 0.70% | ~31 |
 | Add a bit of colour | 0.60% | ~26 |
-| The Rat King | 0.60% | ~26 |
+| From Gloom, only greed and death emerges | 0.50% | ~22 |
 | Captain hooked | 0.50% | ~22 |
 | The Pacifist | 0.50% | ~22 |
-| From Gloom, only greed and death emerges | 0.40% | ~17 |
-| Betray this | 0.40% | ~17 |
-| A tough job | 0.40% | ~17 |
+| Betray this | 0.40% | ~18 |
+| A tough job | 0.40% | ~18 |
+| Pull out the big guns | 0.40% | ~18 |
 | Spoiler police! | 0.30% | ~13 |
-| Pull out the big guns | 0.30% | ~13 |
 | Crimson Tornado | 0.30% | ~13 |
 | Born Support | 0.30% | ~13 |
 | Beware my power | 0.20% | ~9 |
 | The Jaws of victory! | 0.20% | ~9 |
+| A cult following | 0.10% | ~4 |
+| Over your dead body | 0.10% | ~4 |
+| The Guildmaster | 0.10% | ~4 |
 | The Cartographer | 0.10% | ~4 |
+| Lara Who? | 0.10% | ~4 |
 | The evil that men do | 0.10% | ~4 |
 | MacReady Steady.. Go! | 0.10% | ~4 |
+| Hard-travelling Heroes | 0.10% | ~4 |
 | Murder Death Kill | 0.10% | ~4 |
-| A cult following | 0.00% | ~0 |
-| Over your dead body | 0.00% | ~0 |
-| The Guildmaster | 0.00% | ~0 |
-| Lara Who? | 0.00% | ~0 |
-| Hard-travelling Heroes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,360 (Ranked 165)  
-Completed: 0 (0.00%) (Ranked 287)  
+Progressed: 4,406 (Ranked 163)  
+Completed: 1 (0.02%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 287)
 | 2023-09-19 | 2,099 | 0 |
 | 2023-09-20 | 3,028 | 0 |
 | 2023-09-21 | 3,873 | 0 |
-| 2023-09-22 | 4,360 | 0 |
+| 2023-09-22 | 4,406 | 1 |
 ## Awards
 Max (Character Customization): 3,529  (Ranked 89)  
 Sum: 8,214 (Ranked 99)  

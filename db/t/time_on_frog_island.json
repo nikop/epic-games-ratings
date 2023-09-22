@@ -2,10 +2,10 @@
   "ID": "ab4dbb7ed03c4ee49d810b7c018cd894",
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
-  "Ranking_EOS_Progress": 525,
-  "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -57,6 +57,11 @@
       "Time": "2023-09-21T20:04:38.8883907+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T18:05:30.011916+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -67,7 +72,7 @@
       "ID": "a1",
       "SetID": "cdg65ol",
       "Name": "Frogs Legs",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -83,15 +88,15 @@
       "ID": "a11",
       "SetID": "cdg65ol",
       "Name": "Socialite",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a12",
       "SetID": "cdg65ol",
       "Name": "Who Even Needs Keys",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -187,9 +192,9 @@
       "ID": "a23",
       "SetID": "cdg65ol",
       "Name": "Mad Scientist",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a24",
@@ -243,9 +248,9 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 20,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a30",
@@ -299,17 +304,17 @@
       "ID": "a4",
       "SetID": "cdg65ol",
       "Name": "Shipwrecked!",
-      "Percentage": 60,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a5",
       "SetID": "cdg65ol",
       "Name": "Hoist the Sails",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a6",
@@ -348,7 +353,7 @@
     {
       "ID": "cdg65ol",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
@@ -356,8 +361,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-09-22T17:05:22.2841016+00:00",
+  "LastChanged_Achievements": "2023-09-22T18:05:30.0119149+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.1358289+00:00",
-  "LastUpdate_Ratings": "2023-09-22T16:59:51.0855222+00:00",
-  "LastUpdate_Achievements": "2023-09-22T17:05:22.2841242+00:00"
+  "LastUpdate_Ratings": "2023-09-22T18:00:15.2896372+00:00",
+  "LastUpdate_Achievements": "2023-09-22T18:05:30.0119605+00:00"
 }

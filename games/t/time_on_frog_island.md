@@ -4,12 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 60.00% | ~3 |
-| Frogs Legs | 20.00% | ~1 |
-| Who Even Needs Keys | 20.00% | ~1 |
-| Sea Legs | 20.00% | ~1 |
+| Shipwrecked! | 67.00% | ~4 |
+| Sea Legs | 33.00% | ~2 |
+| Frogs Legs | 17.00% | ~1 |
+| Socialite | 17.00% | ~1 |
+| Who Even Needs Keys | 17.00% | ~1 |
+| Mad Scientist | 17.00% | ~1 |
+| Hoist the Sails | 17.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
-| Socialite | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
 | Shrub-Seeing: Lights in the sky | 0.00% | ~0 |
 | Shrub-Seeing: Townlife | 0.00% | ~0 |
@@ -21,7 +23,6 @@
 | Couch-surfing | 0.00% | ~0 |
 | Sailor Swift | 0.00% | ~0 |
 | No Evil | 0.00% | ~0 |
-| Mad Scientist | 0.00% | ~0 |
 | Caught Ya! | 0.00% | ~0 |
 | Safe Investment | 0.00% | ~0 |
 | Bank of Me | 0.00% | ~0 |
@@ -34,14 +35,13 @@
 | Home Sweet Home | 0.00% | ~0 |
 | Falling with Style | 0.00% | ~0 |
 | Froggy Friendship | 0.00% | ~0 |
-| Hoist the Sails | 0.00% | ~0 |
 | Secure the Sheets | 0.00% | ~0 |
 | Hands on the Helm | 0.00% | ~0 |
 | Replace the Rudder | 0.00% | ~0 |
 | The Journey Continues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 525)  
-Completed: 0 (0.00%) (Ranked 287)  
+Progressed: 6 (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,6 +49,7 @@ Completed: 0 (0.00%) (Ranked 287)
 | 2023-09-15 | 3 | 0 |
 | 2023-09-16 | 4 | 0 |
 | 2023-09-21 | 5 | 0 |
+| 2023-09-22 | 6 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

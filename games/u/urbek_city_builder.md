@@ -10,11 +10,11 @@
 | The spiritual world... | 2.00% | ~7 |
 | It is nice to share with friends in the city | 2.00% | ~7 |
 | Sport is good for you | 2.00% | ~7 |
+| Soviet town | 2.00% | ~7 |
 | I like my life | 1.00% | ~4 |
 | The woodcutter | 1.00% | ~4 |
 | Clean energy | 1.00% | ~4 |
 | Bucolic city | 1.00% | ~4 |
-| Soviet town | 1.00% | ~4 |
 | I love parks | 0.90% | ~3 |
 | I love books! | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
@@ -85,7 +85,7 @@
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 350 (Ranked 289)  
-Completed: 0 (0.00%) (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

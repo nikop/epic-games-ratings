@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,034 |
-| Photographer | 69.00% | ~6,934 |
-| Valley's Helper | 63.00% | ~6,331 |
-| Constructor | 52.00% | ~5,225 |
-| Renovator | 51.00% | ~5,125 |
-| Bestest Friend | 47.00% | ~4,723 |
-| Banker | 39.00% | ~3,919 |
-| Gardener | 31.00% | ~3,115 |
-| Generous | 24.00% | ~2,412 |
-| Chef Cook | 17.00% | ~1,708 |
-| Miner | 9.00% | ~904 |
+| Goofy's Investor | 70.00% | ~7,037 |
+| Photographer | 69.00% | ~6,937 |
+| Valley's Helper | 63.00% | ~6,333 |
+| Constructor | 52.00% | ~5,228 |
+| Renovator | 51.00% | ~5,127 |
+| Bestest Friend | 47.00% | ~4,725 |
+| Banker | 39.00% | ~3,921 |
+| Gardener | 31.00% | ~3,116 |
+| Generous | 24.00% | ~2,413 |
+| Chef Cook | 17.00% | ~1,709 |
+| Miner | 9.00% | ~905 |
 | Duty Bound | 6.00% | ~603 |
-| Angler | 5.00% | ~502 |
-| Thorn Cleaner | 5.00% | ~502 |
-| Chit Chatter | 3.00% | ~301 |
+| Angler | 5.00% | ~503 |
+| Thorn Cleaner | 5.00% | ~503 |
+| Chit Chatter | 3.00% | ~302 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,049 (Ranked 136)  
-Completed: 228 (2.27%) (Ranked 95)  
+Progressed: 10,053 (Ranked 136)  
+Completed: 229 (2.28%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,17 +128,17 @@ Completed: 228 (2.27%) (Ranked 95)
 | 2023-09-19 | 9,942 | 227 |
 | 2023-09-20 | 9,980 | 228 |
 | 2023-09-21 | 10,031 | 228 |
-| 2023-09-22 | 10,049 | 228 |
+| 2023-09-22 | 10,053 | 229 |
 ## Awards
 Max (Great for Beginners): 960  (Ranked 149)  
-Sum: 7,576 (Ranked 106)  
+Sum: 7,577 (Ranked 106)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 960 |
 | This game has Diverse Characters | 834 |
+| This game is Relaxing | 800 |
 | This game is Highly Recommended | 799 |
-| This game is Relaxing | 799 |
 | This game has Amazing Characters | 797 |
 | This game has Amazing Storytelling | 766 |
 | This game is Extremely Fun | 744 |
@@ -342,4 +342,4 @@ Diff (max vs sum): 43
 | 2023-09-19 | 4.76 | - | 955 | 7,551 |
 | 2023-09-20 | 4.76 | - | 958 | 7,560 |
 | 2023-09-21 | 4.76 | - | 960 | 7,569 |
-| 2023-09-22 | 4.76 | - | 960 | 7,576 |
+| 2023-09-22 | 4.76 | - | 960 | 7,577 |

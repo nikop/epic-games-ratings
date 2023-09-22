@@ -9,7 +9,7 @@ Rating: 4.49 (Ranked 584)
 | Snatched Out | 74.00% | ~2,480 |
 | Keep 'Em Coming | 73.00% | ~2,446 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,245 |
-| Call Me Snake | 62.00% | ~2,078 |
+| Call Me Snake | 63.00% | ~2,111 |
 | Something Lurks Under The Hills | 61.00% | ~2,044 |
 | This Was No Papercut | 60.00% | ~2,011 |
 | People Person | 56.00% | ~1,877 |

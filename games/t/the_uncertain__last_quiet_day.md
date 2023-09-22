@@ -21,20 +21,20 @@
 | Hacker | 19.00% | ~103 |
 | He is just a child | 19.00% | ~103 |
 | Uncertain | 18.00% | ~98 |
+| Ace | 17.00% | ~92 |
 | Concrete painting | 17.00% | ~92 |
 | Goody | 17.00% | ~92 |
-| Ace | 16.00% | ~87 |
+| Hipster | 16.00% | ~87 |
 | Not what it seems | 16.00% | ~87 |
 | Please oh pleeease! | 16.00% | ~87 |
 | Found it! | 15.00% | ~81 |
-| Hipster | 15.00% | ~81 |
 | That's much better! | 15.00% | ~81 |
 | Not as clumsy or random | 13.00% | ~71 |
 | Blade Runner | 10.00% | ~54 |
 | Perfect hearing | 9.00% | ~49 |
 | Meticulous | 8.00% | ~43 |
+| Accurate | 5.00% | ~27 |
 | Lucky dog | 4.00% | ~22 |
-| Accurate | 4.00% | ~22 |
 | Silent | 4.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 543 (Ranked 258)  
