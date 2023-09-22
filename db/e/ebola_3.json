@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1404,9 +1404,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "achPriest",
@@ -1541,8 +1541,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:07:37.6056571+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:05:58.6635962+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:56.0185522+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:58:46.5267291+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:07:37.605744+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:58:05.5828528+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:05:58.6636359+00:00"
 }

@@ -6184,9 +6184,9 @@
       "Count": 3747
     }
   ],
-  "EOS_Progressed": 136516,
+  "EOS_Progressed": 136520,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22099,6 +22099,11 @@
       "Time": "2023-09-22T14:05:35.9471121+00:00",
       "NumProgressed": 136516,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-22T15:04:32.2885116+00:00",
+      "NumProgressed": 136520,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22484,9 +22489,9 @@
       "ID": "expansion01",
       "SetID": "anfd17p",
       "Name": "It\u0027s Free Real Estate",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 2730
     },
     {
       "ID": "expansion02",
@@ -23005,15 +23010,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136516,
+      "Progressed": 136520,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-22T11:01:00.5048023+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:05:35.9471113+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:04:32.2885112+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:01:16.6832598+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:05:35.9475317+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:59:53.1948123+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:04:32.2887076+00:00"
 }

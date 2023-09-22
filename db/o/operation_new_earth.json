@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1378,
+  "EOS_Progressed": 1379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5001,6 +5001,11 @@
       "Time": "2023-09-22T05:07:00.5228623+00:00",
       "NumProgressed": 1378,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T15:05:50.8965029+00:00",
+      "NumProgressed": 1379,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5076,7 +5081,7 @@
       "Name": "Silver Competitor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -5148,7 +5153,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -5260,7 +5265,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -5268,7 +5273,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5315,14 +5320,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1378,
+      "Progressed": 1379,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:07:25.8104032+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:05:50.8965025+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:59:00.6432902+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:07:25.8104848+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:58:16.3087578+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:05:50.8965477+00:00"
 }

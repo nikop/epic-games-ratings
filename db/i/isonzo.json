@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -832,7 +832,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6955,
+  "EOS_Progressed": 6956,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -5692,6 +5692,11 @@
       "Time": "2023-09-22T11:06:19.7560582+00:00",
       "NumProgressed": 6955,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-22T15:05:20.6951852+00:00",
+      "NumProgressed": 6956,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5719,7 +5724,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3339
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -5895,7 +5900,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3825
+      "UsersEstimate": 3826
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5951,7 +5956,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -6031,7 +6036,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3825
+      "UsersEstimate": 3826
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6055,14 +6060,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3686
+      "UsersEstimate": 3687
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6955,
+      "Progressed": 6956,
       "Completed": 8
     }
   ],
@@ -6070,8 +6075,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:06:42.8270029+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:05:20.6951848+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:00:48.6784978+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:06:42.8271142+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:59:32.1826992+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:05:20.6952352+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-27T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -25,9 +25,539 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-22T15:05:24.1483817+00:00",
+  "TotalAchievements": 66,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "_000_ChalStory_ChainTutoSuccess",
+      "SetID": "col5i9h",
+      "Name": "Top of the class",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_001_ChalStory_YouCanDoIt",
+      "SetID": "col5i9h",
+      "Name": "You can do it!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_002_ChalStory_WinToBarbak",
+      "SetID": "col5i9h",
+      "Name": "Game breaker",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_003_ChalStory_Cook",
+      "SetID": "col5i9h",
+      "Name": "Chef\u0027s kiss",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_004_ChalStory_Ethereal",
+      "SetID": "col5i9h",
+      "Name": "Ethereal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_005_ChalStory_MomoniPuzzle",
+      "SetID": "col5i9h",
+      "Name": "Momoni\u0027s respect",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_006_ChalStory_LoseDangoal",
+      "SetID": "col5i9h",
+      "Name": "Fun is not allowed",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_007_ChalStory_FestivalPowerCrazy",
+      "SetID": "col5i9h",
+      "Name": "Crazy for power",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_008_ChalStory_AshakInOne",
+      "SetID": "col5i9h",
+      "Name": "The very best",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_009_ChalStory_BtbooNoTurretNoPower",
+      "SetID": "col5i9h",
+      "Name": "Which drones?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_010_ChalStory_KKBossNoHelp",
+      "SetID": "col5i9h",
+      "Name": "He\u0027s mine!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_030_ChalStory_NoDanhgostNoPower_Arc1",
+      "SetID": "col5i9h",
+      "Name": "Duelist Arc I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_031_ChalStory_NoDanhgostNoPower_Arc2",
+      "SetID": "col5i9h",
+      "Name": "Duelist Arc II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_032_ChalStory_NoDanhgostNoPower_Arc3",
+      "SetID": "col5i9h",
+      "Name": "Duelist Arc III",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_033_ChalStory_NoDanhgostNoPower_Arc4",
+      "SetID": "col5i9h",
+      "Name": "Duelist Arc IV",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_034_ChalStory_NoDanhgostNoPower_Arc5",
+      "SetID": "col5i9h",
+      "Name": "Duelist Arc V",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_035_ChalStory_NoDanhgostNoPower_Arc6",
+      "SetID": "col5i9h",
+      "Name": "Duelist Arc VI",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_036_ChalStory_NoDanhgostNoPower_Arc7",
+      "SetID": "col5i9h",
+      "Name": "Duelist Arc VII",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_037_ChalStory_NoDanhgostNoPower_Arc8",
+      "SetID": "col5i9h",
+      "Name": "Duelist Arc VIII",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_038_ChalStory_NoDanhgostNoPower_All",
+      "SetID": "col5i9h",
+      "Name": "Duel master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_050_ChalStory_PuzzleInOne_Arc1",
+      "SetID": "col5i9h",
+      "Name": "Tactitian Arc I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_051_ChalStory_PuzzleInOne_Arc2",
+      "SetID": "col5i9h",
+      "Name": "Tactitian Arc II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_052_ChalStory_PuzzleInOne_Arc3",
+      "SetID": "col5i9h",
+      "Name": "Tactitian Arc III",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_053_ChalStory_PuzzleInOne_Arc4",
+      "SetID": "col5i9h",
+      "Name": "Tactitian Arc IV",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_054_ChalStory_PuzzleInOne_Arc5",
+      "SetID": "col5i9h",
+      "Name": "Tactitian Arc V",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_055_ChalStory_PuzzleInOne_Arc6",
+      "SetID": "col5i9h",
+      "Name": "Tactitian Arc VI",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_056_ChalStory_PuzzleInOne_All",
+      "SetID": "col5i9h",
+      "Name": "Grand tactician",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_070_ChalStory_Survivor_Arc1",
+      "SetID": "col5i9h",
+      "Name": "Survivor Arc I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_071_ChalStory_Survivor_Arc2",
+      "SetID": "col5i9h",
+      "Name": "Survivor Arc II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_072_ChalStory_Survivor_Arc3",
+      "SetID": "col5i9h",
+      "Name": "Survivor Arc III",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_073_ChalStory_Survivor_Arc4",
+      "SetID": "col5i9h",
+      "Name": "Survivor Arc IV",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_074_ChalStory_Survivor_Arc5",
+      "SetID": "col5i9h",
+      "Name": "Survivor Arc V",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_076_ChalStory_Survivor_Arc7",
+      "SetID": "col5i9h",
+      "Name": "Survivor Arc VII",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_077_ChalStory_Survivor_Arc8",
+      "SetID": "col5i9h",
+      "Name": "Survivor Arc VIII",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_078_ChalStory_Survivor_All",
+      "SetID": "col5i9h",
+      "Name": "Master survivor",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_090_Versus_ScoreMultiplier1",
+      "SetID": "col5i9h",
+      "Name": "Cool",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_091_Versus_ScoreMultiplier2",
+      "SetID": "col5i9h",
+      "Name": "Badass",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_092_Versus_ScoreMultiplier3",
+      "SetID": "col5i9h",
+      "Name": "Amazing",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_093_Versus_ScoreMultiplier4",
+      "SetID": "col5i9h",
+      "Name": "Splendid",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_100_Versus_PDDOnBoard",
+      "SetID": "col5i9h",
+      "Name": "Move over!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_101_Versus_LotsOfUrns",
+      "SetID": "col5i9h",
+      "Name": "Never too many Urns",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_102_Versus_BackgroundChange",
+      "SetID": "col5i9h",
+      "Name": "Stop",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_103_Versus_HundredStock",
+      "SetID": "col5i9h",
+      "Name": "Liquidation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_104_Versus_BigAbsorption",
+      "SetID": "col5i9h",
+      "Name": "Absorptiooooon",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_105_Versus_ApocalypseSurvival",
+      "SetID": "col5i9h",
+      "Name": "Chaos agent",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_106_Versus_StoneStock",
+      "SetID": "col5i9h",
+      "Name": "Little thumb",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_107_Versus_BarbakMomoniCombo",
+      "SetID": "col5i9h",
+      "Name": "Hop, in the stove!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_108_Versus_BigDanghostKill",
+      "SetID": "col5i9h",
+      "Name": "Oops",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_109_Versus_ShieldedAshakCreature",
+      "SetID": "col5i9h",
+      "Name": "Angry and armored",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_110_Versus_KushinakBridge",
+      "SetID": "col5i9h",
+      "Name": "Rope bridge",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_111_Versus_KKBRevive",
+      "SetID": "col5i9h",
+      "Name": "Contemplate my immortality!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_120_Story_Arc1",
+      "SetID": "col5i9h",
+      "Name": "The exorcist\u0027s academy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_121_Story_Arc2",
+      "SetID": "col5i9h",
+      "Name": "A nice barbecue",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_122_Story_Arc3",
+      "SetID": "col5i9h",
+      "Name": "The exorcist\u0027s arcanes",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_123_Story_Arc4",
+      "SetID": "col5i9h",
+      "Name": "The danghost festival",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_124_Story_Arc5",
+      "SetID": "col5i9h",
+      "Name": "The underground mysteries",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_125_Story_Arc6",
+      "SetID": "col5i9h",
+      "Name": "Bad frequencies",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_126_Story_Arc7",
+      "SetID": "col5i9h",
+      "Name": "Beware of the dog",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_127_Story_Arc8",
+      "SetID": "col5i9h",
+      "Name": "The corrupted mayor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_128_Story_All",
+      "SetID": "col5i9h",
+      "Name": "Otter Island",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_140_Story_LoseToBarbak",
+      "SetID": "col5i9h",
+      "Name": "Sucker\u0027s game",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_141_Story_PlayFoot",
+      "SetID": "col5i9h",
+      "Name": "Dangoal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_142_Story_PlayCatch",
+      "SetID": "col5i9h",
+      "Name": "Candy snatch",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_143_Story_MeetBtboo",
+      "SetID": "col5i9h",
+      "Name": "I\u0027ve been expecting you...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_144_Story_DidYouKnow",
+      "SetID": "col5i9h",
+      "Name": "Did you know ?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_145_Story_Suspicious",
+      "SetID": "col5i9h",
+      "Name": "Fishy, suspicious and strange",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "col5i9h",
@@ -37,8 +567,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-02T10:01:01.4047594+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:06:47.3203301+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:05:24.1483802+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:10.5825327+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:58:55.0811305+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:06:47.3203339+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:58:12.5142848+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:05:24.189097+00:00"
 }

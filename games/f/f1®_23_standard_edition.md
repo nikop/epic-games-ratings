@@ -5,57 +5,57 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~1,048 |
-| On the Top Step | 85.00% | ~968 |
-| Setting up for Success | 75.00% | ~854 |
-| Team Orders | 74.00% | ~843 |
-| Engineer | 55.00% | ~626 |
-| Familiar Faces | 47.00% | ~535 |
-| Going the Extra Mile | 42.00% | ~478 |
-| Sharing the Love | 39.00% | ~444 |
-| Hitting a Season | 37.00% | ~421 |
-| A Dozen Pieces | 32.00% | ~364 |
-| Challenge Yourself | 32.00% | ~364 |
-| Making History | 32.00% | ~364 |
-| Writing a new Chapter | 25.00% | ~285 |
-| Spring Cleaning | 23.00% | ~262 |
-| Network Success | 22.00% | ~251 |
-| Crucial Combo | 19.00% | ~216 |
-| Reduce | 19.00% | ~216 |
-| Ups and Downs | 19.00% | ~216 |
-| Oil and Water | 17.00% | ~194 |
-| Hitting a Bullseye | 17.00% | ~194 |
-| One for the Book | 17.00% | ~194 |
-| Proving Them Wrong | 17.00% | ~194 |
-| Gathering Dust | 16.00% | ~182 |
-| Lightning Round the World | 16.00% | ~182 |
-| Reuse | 16.00% | ~182 |
-| Tinkerer | 13.00% | ~148 |
-| All in a Weekend's Work | 12.00% | ~137 |
-| Spinning Around | 12.00% | ~137 |
-| Recycle | 12.00% | ~137 |
-| Eagle Eye | 11.00% | ~125 |
-| Undisputed Winner | 11.00% | ~125 |
-| Switcheroo | 10.00% | ~114 |
-| For all Those Back at the Factory | 8.00% | ~91 |
-| Friendly Competition | 8.00% | ~91 |
-| Loyal Bond | 7.00% | ~80 |
-| Living up to Expectations | 7.00% | ~80 |
-| Smooth Operator | 6.00% | ~68 |
-| Peak Performance | 5.00% | ~57 |
-| Hitting a Century | 4.00% | ~46 |
-| Seasoned Rookie | 3.00% | ~34 |
-| Wait, I know you? | 3.00% | ~34 |
-| Filling in the Gaps | 3.00% | ~34 |
+| Getting on the Step | 92.00% | ~1,071 |
+| On the Top Step | 85.00% | ~989 |
+| Setting up for Success | 74.00% | ~861 |
+| Team Orders | 74.00% | ~861 |
+| Engineer | 54.00% | ~629 |
+| Familiar Faces | 47.00% | ~547 |
+| Going the Extra Mile | 42.00% | ~489 |
+| Sharing the Love | 39.00% | ~454 |
+| Hitting a Season | 38.00% | ~442 |
+| A Dozen Pieces | 32.00% | ~372 |
+| Challenge Yourself | 32.00% | ~372 |
+| Making History | 32.00% | ~372 |
+| Writing a new Chapter | 25.00% | ~291 |
+| Spring Cleaning | 23.00% | ~268 |
+| Network Success | 22.00% | ~256 |
+| Crucial Combo | 19.00% | ~221 |
+| Reduce | 19.00% | ~221 |
+| Ups and Downs | 19.00% | ~221 |
+| Oil and Water | 17.00% | ~198 |
+| Hitting a Bullseye | 17.00% | ~198 |
+| One for the Book | 17.00% | ~198 |
+| Proving Them Wrong | 17.00% | ~198 |
+| Gathering Dust | 16.00% | ~186 |
+| Lightning Round the World | 16.00% | ~186 |
+| Reuse | 16.00% | ~186 |
+| Tinkerer | 13.00% | ~151 |
+| All in a Weekend's Work | 12.00% | ~140 |
+| Spinning Around | 12.00% | ~140 |
+| Recycle | 12.00% | ~140 |
+| Eagle Eye | 11.00% | ~128 |
+| Undisputed Winner | 11.00% | ~128 |
+| Switcheroo | 10.00% | ~116 |
+| For all Those Back at the Factory | 8.00% | ~93 |
+| Friendly Competition | 8.00% | ~93 |
+| Loyal Bond | 7.00% | ~81 |
+| Living up to Expectations | 7.00% | ~81 |
+| Smooth Operator | 7.00% | ~81 |
+| Hitting a Century | 5.00% | ~58 |
+| Peak Performance | 5.00% | ~58 |
+| Seasoned Rookie | 3.00% | ~35 |
+| Wait, I know you? | 3.00% | ~35 |
+| Filling in the Gaps | 3.00% | ~35 |
 | Media Darling | 2.00% | ~23 |
-| Under the Microscope | 1.00% | ~11 |
-| Saturday Night Drama | 1.00% | ~11 |
-| Ultimate Collector | 1.00% | ~11 |
-| Golden Touch | 0.50% | ~6 |
+| Under the Microscope | 1.00% | ~12 |
+| Saturday Night Drama | 1.00% | ~12 |
+| Ultimate Collector | 0.90% | ~10 |
+| Golden Touch | 0.60% | ~7 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,139 (Ranked 217)  
+Progressed: 1,164 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 287)
 | 2023-09-19 | 528 | 0 |
 | 2023-09-20 | 812 | 0 |
 | 2023-09-21 | 1,052 | 0 |
-| 2023-09-22 | 1,139 | 0 |
+| 2023-09-22 | 1,164 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

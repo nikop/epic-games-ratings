@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~460 |
 | Boy of mystery | 2.00% | ~307 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,328 (Ranked 124)  
+Progressed: 15,328 (Ranked 125)  
 Completed: 111 (0.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |

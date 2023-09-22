@@ -30,8 +30,8 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark | 41.00% | ~688 |
 | First aircraft arrived | 41.00% | ~688 |
 | Mass production | 35.00% | ~587 |
-| Aircraft entrepreneur | 33.00% | ~553 |
-| Crowd in a train | 31.00% | ~520 |
+| Aircraft entrepreneur | 34.00% | ~570 |
+| Crowd in a train | 32.00% | ~537 |
 | The future is now, old man | 31.00% | ~520 |
 | Not in my backyard | 30.00% | ~503 |
 | The king of the sea | 30.00% | ~503 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,677 (Ranked 200)  
+Progressed: 1,677 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |

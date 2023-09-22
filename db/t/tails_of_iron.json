@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -2794,9 +2794,9 @@
       "ID": "CompleteElderFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Elder Faction",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 788
+      "UsersEstimate": 807
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2977,8 +2977,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:09:36.7699687+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:08:35.2666493+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.8509537+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:01:23.2014199+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:09:36.7700185+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:59:56.9596575+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:08:35.2666781+00:00"
 }

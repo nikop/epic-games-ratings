@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,020 |
+| Sowwy! | 31.00% | ~70,024 |
 | Alt+F4 | 5.00% | ~11,294 |
 | Déjà vu | 4.00% | ~9,035 |
 | Where's that freaking Dwarf? | 4.00% | ~9,035 |
@@ -14,11 +14,11 @@ Number of Ratings: 118  (23.09.2022)
 | Sock! SOCK! | 3.00% | ~6,776 |
 | GG EZ | 3.00% | ~6,776 |
 | Speedrun | 3.00% | ~6,776 |
-| Livin' in a dwarven paradise | 2.00% | ~4,517 |
-| Way of the Wimp | 2.00% | ~4,517 |
-| The plot thickens... At the tavern | 2.00% | ~4,517 |
-| DM intervention | 2.00% | ~4,517 |
-| Fireproof Wizardess | 2.00% | ~4,517 |
+| Livin' in a dwarven paradise | 2.00% | ~4,518 |
+| Way of the Wimp | 2.00% | ~4,518 |
+| The plot thickens... At the tavern | 2.00% | ~4,518 |
+| DM intervention | 2.00% | ~4,518 |
+| Fireproof Wizardess | 2.00% | ~4,518 |
 | Shiny and Crôm | 1.00% | ~2,259 |
 | The demons' feast | 1.00% | ~2,259 |
 | The Great Library | 1.00% | ~2,259 |
@@ -46,10 +46,10 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.60% | ~1,355 |
 | In Navalu's footsteps | 0.60% | ~1,355 |
 | Lëgal Legend | 0.50% | ~1,129 |
-| Holistic Adventuring Party | 0.40% | ~903 |
-| An old poacher makes the best gamekeeper | 0.40% | ~903 |
-| We come in peace | 0.40% | ~903 |
-| Law and Order | 0.40% | ~903 |
+| Holistic Adventuring Party | 0.40% | ~904 |
+| An old poacher makes the best gamekeeper | 0.40% | ~904 |
+| We come in peace | 0.40% | ~904 |
+| Law and Order | 0.40% | ~904 |
 | Scholar of the Lands of Fangh | 0.30% | ~678 |
 | It's been a hard day's night | 0.30% | ~678 |
 | Friendly fire | 0.20% | ~452 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~226 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,870 (Ranked 58)  
+Progressed: 225,883 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 3 (0.00%) (Ranked 287)
 | 2023-09-19 | 225,343 | 3 |
 | 2023-09-20 | 225,552 | 3 |
 | 2023-09-21 | 225,765 | 3 |
-| 2023-09-22 | 225,870 | 3 |
+| 2023-09-22 | 225,883 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 275)  
 Sum: 362 (Ranked 330)  

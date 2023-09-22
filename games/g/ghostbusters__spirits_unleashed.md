@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 568)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 0.70% | ~182 |
+| Advancement | 0.60% | ~156 |
 | Meticulously Efficient | 0.60% | ~156 |
-| Advancement | 0.50% | ~130 |
 | I collect Spores, Molds, and Fungi | 0.40% | ~104 |
 | Discovery | 0.40% | ~104 |
 | Fully Upgraded | 0.40% | ~104 |

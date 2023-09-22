@@ -25,9 +25,9 @@ Rating: 3.83 (Ranked 975)
 | Community Helper | 17.00% | ~270 |
 | Expert Chemist | 14.00% | ~222 |
 | Stone Specialist | 14.00% | ~222 |
+| Sociable | 13.00% | ~206 |
 | Ablutomaniac | 13.00% | ~206 |
 | Line Cook | 12.00% | ~191 |
-| Sociable | 12.00% | ~191 |
 | Production Sorter | 11.00% | ~175 |
 | Good Samaritan | 10.00% | ~159 |
 | Acrobatic Adventurer | 9.00% | ~143 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 975)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,588 (Ranked 204)  
+Progressed: 1,588 (Ranked 205)  
 Completed: 9 (0.57%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |

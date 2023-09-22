@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7974,9 +7974,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 297091,
+  "EOS_Progressed": 297093,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24739,6 +24739,11 @@
       "Time": "2023-09-22T14:07:19.5691129+00:00",
       "NumProgressed": 297091,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T15:05:46.6487021+00:00",
+      "NumProgressed": 297093,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24790,7 +24795,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17825
+      "UsersEstimate": 17826
     },
     {
       "ID": "PFA_15",
@@ -24798,7 +24803,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20796
+      "UsersEstimate": 20797
     },
     {
       "ID": "PFA_16",
@@ -24814,7 +24819,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20796
+      "UsersEstimate": 20797
     },
     {
       "ID": "PFA_18",
@@ -24830,7 +24835,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20796
+      "UsersEstimate": 20797
     },
     {
       "ID": "PFA_2",
@@ -24886,7 +24891,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17825
+      "UsersEstimate": 17826
     },
     {
       "ID": "PFA_26",
@@ -25038,7 +25043,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17825
+      "UsersEstimate": 17826
     },
     {
       "ID": "PFA_43",
@@ -25109,7 +25114,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297091,
+      "Progressed": 297093,
       "Completed": 476
     }
   ],
@@ -25117,8 +25122,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-22T13:04:17.7903196+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:07:19.5691123+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:05:46.6487018+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:00:06.8670147+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:07:19.5693594+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:59:02.7817112+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:05:46.648806+00:00"
 }

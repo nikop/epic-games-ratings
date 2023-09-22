@@ -27,7 +27,7 @@ Rating: 4.19 (Ranked 877)
 | What Lies Beneath | 3.00% | ~479 |
 | Desperate Times | 3.00% | ~479 |
 | Crash Site | 3.00% | ~479 |
-| It's Time | 3.00% | ~116 |
+| It's Time | 3.00% | ~117 |
 | In Striking Distance | 2.00% | ~319 |
 | The Commonality | 2.00% | ~319 |
 | One Last Job | 2.00% | ~78 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 877)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,957 (Ranked 123)  
+Progressed: 15,958 (Ranked 123)  
 Completed: 73 (0.46%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 73 (0.46%) (Ranked 164)
 | 2023-09-19 | 15,951 | 73 |
 | 2023-09-20 | 15,955 | 73 |
 | 2023-09-21 | 15,956 | 73 |
-| 2023-09-22 | 15,957 | 73 |
+| 2023-09-22 | 15,958 | 73 |
 ## Awards
 Max (Amazing Storytelling): 74  (Ranked 377)  
 Sum: 426 (Ranked 316)  

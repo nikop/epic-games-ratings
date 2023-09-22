@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1965,9 +1965,9 @@
       "ID": "4",
       "SetID": "n50no0",
       "Name": "Head in the clouds",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 203
     },
     {
       "ID": "5",
@@ -2021,8 +2021,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:08:23.4035577+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:06:33.2776232+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.4812312+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:02:44.0276975+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:08:23.4036205+00:00"
+  "LastUpdate_Ratings": "2023-09-22T15:00:50.3030562+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:06:33.2776491+00:00"
 }

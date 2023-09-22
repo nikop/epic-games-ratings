@@ -5,10 +5,10 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
-  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1851,9 +1851,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 338
     },
     {
       "ID": "AC23",
@@ -2052,8 +2052,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-22T14:05:35.400667+00:00",
+  "LastChanged_Achievements": "2023-09-22T15:04:31.5936389+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:59:19.6471872+00:00",
-  "LastUpdate_Achievements": "2023-09-22T14:05:35.4007502+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:58:29.7383397+00:00",
+  "LastUpdate_Achievements": "2023-09-22T15:04:31.5936744+00:00"
 }
