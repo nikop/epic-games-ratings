@@ -6,20 +6,20 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,458 |
-| Now You're Talking | 62.00% | ~327,234 |
-| Steel Yourself | 62.00% | ~327,234 |
-| Window Dressing | 50.00% | ~263,898 |
-| Trigger Happy | 46.00% | ~242,787 |
-| Riverborn | 45.00% | ~237,509 |
-| Starry Eyed | 34.00% | ~179,451 |
-| Poking Around | 34.00% | ~179,451 |
-| Talk of the Town | 24.00% | ~126,671 |
-| AAARR! | 23.00% | ~121,393 |
-| Hello Darkness | 23.00% | ~121,393 |
-| Wind At Our Backs | 22.00% | ~116,115 |
-| To the Beat | 20.00% | ~105,559 |
-| Sunny Shores | 17.00% | ~89,725 |
+| First Step | 70.00% | ~369,460 |
+| Now You're Talking | 62.00% | ~327,236 |
+| Steel Yourself | 62.00% | ~327,236 |
+| Window Dressing | 50.00% | ~263,900 |
+| Trigger Happy | 46.00% | ~242,788 |
+| Riverborn | 45.00% | ~237,510 |
+| Starry Eyed | 34.00% | ~179,452 |
+| Poking Around | 34.00% | ~179,452 |
+| Talk of the Town | 24.00% | ~126,672 |
+| AAARR! | 23.00% | ~121,394 |
+| Hello Darkness | 23.00% | ~121,394 |
+| Wind At Our Backs | 22.00% | ~116,116 |
+| To the Beat | 20.00% | ~105,560 |
+| Sunny Shores | 17.00% | ~89,726 |
 | Sunday Best | 16.00% | ~84,448 |
 | To Victory! | 15.00% | ~79,170 |
 | Two of a Kind | 14.00% | ~73,892 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,583 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,797 (Ranked 33)  
+Progressed: 527,800 (Ranked 33)  
 Completed: 476 (0.09%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,10 @@ Completed: 476 (0.09%) (Ranked 233)
 | 2023-09-19 | 527,663 | 475 |
 | 2023-09-20 | 527,718 | 476 |
 | 2023-09-21 | 527,763 | 476 |
-| 2023-09-22 | 527,797 | 476 |
+| 2023-09-22 | 527,800 | 476 |
 ## Awards
-Max (Relaxing): 20  (Ranked 519)  
-Sum: 20 (Ranked 519)  
+Max (Relaxing): 20  (Ranked 520)  
+Sum: 20 (Ranked 520)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

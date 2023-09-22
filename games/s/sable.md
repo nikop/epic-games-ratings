@@ -6,40 +6,40 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~30,798 |
-| Just The Two of Us | 32.00% | ~28,986 |
-| Up On High | 25.00% | ~22,646 |
-| Under The Hood | 25.00% | ~22,646 |
-| Got Your Nose | 24.00% | ~21,740 |
-| The Gift of Gab | 24.00% | ~21,740 |
-| Wrapping Up | 22.00% | ~19,928 |
-| More Than A Box Of Sand | 18.00% | ~16,305 |
-| The Dunboyne | 17.00% | ~15,399 |
-| Badge Hobbyist | 17.00% | ~15,399 |
-| Chum Novice | 16.00% | ~14,493 |
-| Silver-Tongued Sable | 16.00% | ~14,493 |
-| Sticky Paws | 16.00% | ~14,493 |
-| Bubble Up | 16.00% | ~14,493 |
-| Thread The Needle | 15.00% | ~13,587 |
-| Power to the People | 14.00% | ~12,681 |
-| Take That! | 13.00% | ~11,776 |
-| Nesting Giant | 13.00% | ~11,776 |
-| Treasure Tracker | 13.00% | ~11,776 |
-| Big Spender | 13.00% | ~11,776 |
-| Badge Collector | 12.00% | ~10,870 |
-| Quite The Catch | 12.00% | ~10,870 |
-| Rowleys Way | 11.00% | ~9,964 |
-| The Machinist Mask | 10.00% | ~9,058 |
-| The Cartographer Mask | 10.00% | ~9,058 |
-| Balfron Connection | 10.00% | ~9,058 |
-| Ceiling Of Stars | 10.00% | ~9,058 |
-| Playing Dress Up | 10.00% | ~9,058 |
-| Many Different Faces | 9.00% | ~8,152 |
-| Trellick's Pillar | 9.00% | ~8,152 |
-| Centre Of Brunswick | 9.00% | ~8,152 |
-| Bike Collector | 9.00% | ~8,152 |
-| Dune Rider | 9.00% | ~8,152 |
-| Not That Kind Of Gliding | 9.00% | ~8,152 |
+| Simoon | 34.00% | ~30,800 |
+| Just The Two of Us | 32.00% | ~28,988 |
+| Up On High | 25.00% | ~22,647 |
+| Under The Hood | 25.00% | ~22,647 |
+| Got Your Nose | 24.00% | ~21,741 |
+| The Gift of Gab | 24.00% | ~21,741 |
+| Wrapping Up | 22.00% | ~19,930 |
+| More Than A Box Of Sand | 18.00% | ~16,306 |
+| The Dunboyne | 17.00% | ~15,400 |
+| Badge Hobbyist | 17.00% | ~15,400 |
+| Chum Novice | 16.00% | ~14,494 |
+| Silver-Tongued Sable | 16.00% | ~14,494 |
+| Sticky Paws | 16.00% | ~14,494 |
+| Bubble Up | 16.00% | ~14,494 |
+| Thread The Needle | 15.00% | ~13,588 |
+| Power to the People | 14.00% | ~12,682 |
+| Take That! | 13.00% | ~11,777 |
+| Nesting Giant | 13.00% | ~11,777 |
+| Treasure Tracker | 13.00% | ~11,777 |
+| Big Spender | 13.00% | ~11,777 |
+| Badge Collector | 12.00% | ~10,871 |
+| Quite The Catch | 12.00% | ~10,871 |
+| Rowleys Way | 11.00% | ~9,965 |
+| The Machinist Mask | 10.00% | ~9,059 |
+| The Cartographer Mask | 10.00% | ~9,059 |
+| Balfron Connection | 10.00% | ~9,059 |
+| Ceiling Of Stars | 10.00% | ~9,059 |
+| Playing Dress Up | 10.00% | ~9,059 |
+| Many Different Faces | 9.00% | ~8,153 |
+| Trellick's Pillar | 9.00% | ~8,153 |
+| Centre Of Brunswick | 9.00% | ~8,153 |
+| Bike Collector | 9.00% | ~8,153 |
+| Dune Rider | 9.00% | ~8,153 |
+| Not That Kind Of Gliding | 9.00% | ~8,153 |
 | The Scrapper Mask | 8.00% | ~7,247 |
 | Shadow Of Neave | 8.00% | ~7,247 |
 | Fragile Goods | 8.00% | ~7,247 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,435 |
 | The Gliding | 5.00% | ~4,529 |
 | The Entertainer Mask | 5.00% | ~4,529 |
-| The Quick and the Curious | 4.00% | ~3,623 |
-| Bike Aficionado | 4.00% | ~3,623 |
-| Chum Expert | 3.00% | ~2,717 |
-| Gastric Bypass | 3.00% | ~2,717 |
-| The Angler Mask | 3.00% | ~2,717 |
+| The Quick and the Curious | 4.00% | ~3,624 |
+| Bike Aficionado | 4.00% | ~3,624 |
+| Chum Expert | 3.00% | ~2,718 |
+| Gastric Bypass | 3.00% | ~2,718 |
+| The Angler Mask | 3.00% | ~2,718 |
 | Vivacious Vivarium | 2.00% | ~1,812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,582 (Ranked 76)  
+Progressed: 90,589 (Ranked 76)  
 Completed: 914 (1.01%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,11 +218,11 @@ Completed: 914 (1.01%) (Ranked 127)
 | 2023-09-19 | 90,251 | 903 |
 | 2023-09-20 | 90,382 | 907 |
 | 2023-09-21 | 90,499 | 913 |
-| 2023-09-22 | 90,582 | 914 |
+| 2023-09-22 | 90,589 | 914 |
 ## Awards
-Max (Quickly Understood Controls): 24  (Ranked 492)  
+Max (Quickly Understood Controls): 24  (Ranked 493)  
 Sum: 87 (Ranked 428)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 24 |

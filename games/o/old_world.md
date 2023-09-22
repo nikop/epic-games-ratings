@@ -125,13 +125,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.90% | ~126 |
 | Enlightenment | 0.90% | ~126 |
 | Kushite Cavalry | 0.90% | ~126 |
+| Clerics | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
 | Learn to Play 4 | 0.80% | ~112 |
 | Hittite Paganism | 0.80% | ~112 |
 | Turreted Elephant | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
 | Peacemaker | 0.70% | ~98 |
-| Clerics | 0.70% | ~98 |
 | Cao'an | 0.70% | ~98 |
 | Egypt | 0.70% | ~98 |
 | Rome | 0.70% | ~98 |
@@ -139,13 +139,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.70% | ~98 |
 | Old | 0.60% | ~84 |
 | Noble Difficulty | 0.60% | ~84 |
+| Play a Network Game | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
 | All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
 | The Eternal Treaty | 0.50% | ~70 |
 | Persia | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
-| Play a Network Game | 0.50% | ~70 |
 | Capturing Cities | 0.50% | ~70 |
 | Ten Crowns | 0.50% | ~70 |
 | Ancient | 0.40% | ~56 |
@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
+| Carthage - Riches and Influence | 0.30% | ~42 |
 | Great Difficulty | 0.30% | ~42 |
 | Magnificent Difficulty | 0.30% | ~42 |
 | Event Level High | 0.30% | ~42 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hypatia the Teacher | 0.30% | ~42 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Silver Victory (Carthage 1) | 0.20% | ~28 |
-| Carthage - Riches and Influence | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,042 (Ranked 125)  
+Progressed: 14,043 (Ranked 126)  
 Completed: 5 (0.04%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -458,7 +458,7 @@ Completed: 5 (0.04%) (Ranked 252)
 | 2023-09-19 | 14,005 | 5 |
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
-| 2023-09-22 | 14,042 | 5 |
+| 2023-09-22 | 14,043 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,813 (Ranked 207)  

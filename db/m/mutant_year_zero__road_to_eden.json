@@ -4,11 +4,11 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 568,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2018-12-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1302,10 +1302,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 931,
       "NumberOfAwardsMax": 636
+    },
+    {
+      "Time": "2023-09-22T14:02:51.3973423+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 934,
+      "NumberOfAwardsMax": 636
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 931,
+  "NumberOfAwards": 934,
   "NumberOfAwardsMax": 636,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1325,7 +1331,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Relaxing",
@@ -1361,13 +1367,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -1381,8 +1387,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2023-09-19T17:59:38.4481835+00:00",
+  "LastChanged": "2023-09-22T14:02:51.3973422+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.2306726+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:06:47.7873643+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:13:33.4196744+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:02:51.3973428+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:09:41.8899079+00:00"
 }

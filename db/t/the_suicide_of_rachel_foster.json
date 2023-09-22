@@ -3,11 +3,11 @@
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
   "Ranking_Rating": 894,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,11 +248,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1475,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.75,
+  "EOS_Completed_Percentage": 4.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -2593,6 +2593,11 @@
       "Time": "2023-09-22T05:07:48.535008+00:00",
       "NumProgressed": 1475,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-22T14:08:15.5164399+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2636,15 +2641,15 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 590
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_FineGioco",
@@ -2668,7 +2673,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2691,15 +2696,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1475,
+      "Progressed": 1476,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:12:13.257844+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:08:15.5164387+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:45.0201771+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:01:54.6895627+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:12:13.2578629+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:57:34.0038835+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:08:15.5164674+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
   "Ranking_Rating": 282,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 907,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1699,6 +1699,11 @@
       "Time": "2023-09-22T06:04:19.1219382+00:00",
       "NumProgressed": 906,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T14:05:32.6407644+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1790,7 +1795,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1806,7 +1811,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1846,7 +1851,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1854,7 +1859,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1870,7 +1875,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1886,7 +1891,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1925,7 +1930,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 907,
       "Completed": 0
     }
   ],
@@ -1933,8 +1938,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:09:40.592765+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:05:32.6407635+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:17.5059946+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:04:31.6740864+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:09:40.5927921+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:00:23.1207564+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:05:32.6408084+00:00"
 }

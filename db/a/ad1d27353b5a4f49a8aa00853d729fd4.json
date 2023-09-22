@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -281,17 +281,17 @@
       "ID": "destroy_heavy_cruiser",
       "SetID": "94981fl",
       "Name": "heavy cruiser",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "destroy_heavy_destroyer",
       "SetID": "94981fl",
       "Name": "heavy destroyer",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "destroy_heavy_frigate",
@@ -465,9 +465,9 @@
       "ID": "ultra_combo_20x",
       "SetID": "94981fl",
       "Name": "ultra_combo",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ultra_killing_machine",
@@ -488,8 +488,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:09:58.6397233+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:05:51.3911185+00:00",
   "LastUpdate_AppInfo": "2023-09-15T14:57:05.9397468+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:03:42.5499696+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:09:58.6397423+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:59:26.2311224+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:05:51.3911468+00:00"
 }

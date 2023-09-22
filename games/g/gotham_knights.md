@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,816 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,453 |
+| First Step Into the Knight | 52.00% | ~37,817 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,454 |
 | Loose Ends | 34.00% | ~24,726 |
 | To the Victor Go the Spoils | 29.00% | ~21,090 |
 | Knighthood | 28.00% | ~20,363 |
@@ -26,9 +26,9 @@ Rating: 4.18 (Ranked 888)
 | Universal Health Scare | 16.00% | ~11,636 |
 | In Your Element | 15.00% | ~10,909 |
 | Voiceless | 15.00% | ~10,909 |
-| Rock and a Hard Place | 14.00% | ~10,181 |
-| Cooldown | 14.00% | ~10,181 |
-| Seeking Asylum | 14.00% | ~10,181 |
+| Rock and a Hard Place | 14.00% | ~10,182 |
+| Cooldown | 14.00% | ~10,182 |
+| Seeking Asylum | 14.00% | ~10,182 |
 | Not On My Watch | 13.00% | ~9,454 |
 | Shock Til They Drop | 13.00% | ~9,454 |
 | End of an Era | 12.00% | ~8,727 |
@@ -39,8 +39,8 @@ Rating: 4.18 (Ranked 888)
 | Out of Their League | 9.00% | ~6,545 |
 | Solid Alibi | 9.00% | ~6,545 |
 | Fusion Expert | 7.00% | ~5,091 |
-| Family Meeting | 6.00% | ~4,363 |
-| A Worthy Successor | 6.00% | ~4,363 |
+| Family Meeting | 6.00% | ~4,364 |
+| A Worthy Successor | 6.00% | ~4,364 |
 | Expert Crime Fighter | 5.00% | ~3,636 |
 | Dressed to Impress | 4.00% | ~2,909 |
 | A Momentum Occasion | 3.00% | ~2,182 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 888)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,724 (Ranked 83)  
+Progressed: 72,725 (Ranked 83)  
 Completed: 116 (0.16%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 116 (0.16%) (Ranked 211)
 | 2023-09-19 | 72,676 | 114 |
 | 2023-09-20 | 72,696 | 116 |
 | 2023-09-21 | 72,719 | 116 |
-| 2023-09-22 | 72,724 | 116 |
+| 2023-09-22 | 72,725 | 116 |
 ## Awards
 Max (Great Boss Battles): 2,725  (Ranked 96)  
 Sum: 4,535 (Ranked 139)  

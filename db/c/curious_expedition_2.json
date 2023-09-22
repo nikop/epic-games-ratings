@@ -3,12 +3,12 @@
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
   "Ranking_Rating": 161,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -745,8 +745,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:10:39.9962224+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:06:35.9198392+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:10.3104595+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:02:45.6766205+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:10:39.9962659+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:58:30.2424946+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:06:35.9199072+00:00"
 }

@@ -3,6 +3,13 @@
 [View Rawdata](../../db/f/far_cry.json)  
 Rating: 4.51 (Ranked 547)  
 Number of Ratings: 46  (23.09.2022)  
+## Awards
+Max (Great Boss Battles): 28  (Ranked 471)  
+Sum: 28 (Ranked 487)  
+Diff (max vs sum): -16  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -77,3 +84,4 @@ Number of Ratings: 46  (23.09.2022)
 | 2023-08-29 | 4.54 | - | 0 | 0 |
 | 2023-09-17 | 4.53 | - | 0 | 0 |
 | 2023-09-21 | 4.51 | - | 0 | 0 |
+| 2023-09-22 | 4.51 | - | 28 | 28 |

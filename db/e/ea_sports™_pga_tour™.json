@@ -464,9 +464,9 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_7",
@@ -502,8 +502,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:13:47.7173253+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:09:55.8011353+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.8902845+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:02:27.7782193+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:13:47.7173368+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:58:08.6795332+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:09:55.8011508+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
   "Ranking_Rating": 984,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16212,
+  "EOS_Progressed": 16213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4506,6 +4506,11 @@
       "Time": "2023-09-22T12:05:54.2035524+00:00",
       "NumProgressed": 16212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T14:06:32.8292848+00:00",
+      "NumProgressed": 16213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4517,7 +4522,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15401
+      "UsersEstimate": 15402
     },
     {
       "ID": "ACH001",
@@ -4525,7 +4530,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14104
+      "UsersEstimate": 14105
     },
     {
       "ID": "ACH0010",
@@ -4555,9 +4560,9 @@
       "ID": "ACH0013",
       "SetID": "6749a6l",
       "Name": "Make It Rain",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH0014",
@@ -4701,7 +4706,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "ACH008",
@@ -4724,7 +4729,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16212,
+      "Progressed": 16213,
       "Completed": 0
     }
   ],
@@ -4732,8 +4737,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:10:37.262615+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:06:32.8292843+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.1952027+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:02:49.0005933+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:10:37.2626503+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:58:33.5858511+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:06:32.8293377+00:00"
 }

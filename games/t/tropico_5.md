@@ -1,12 +1,12 @@
 # Tropico 5
 [Store](https://store.epicgames.com/en-US/p/tropico-5)  
 [View Rawdata](../../db/t/tropico_5.json)  
-Rating: 4.45 (Ranked 639)  
+Rating: 4.45 (Ranked 640)  
 Number of Ratings: 2,008  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 119  (Ranked 324)  
-Sum: 931 (Ranked 252)  
-Diff (max vs sum): 72  
+Sum: 931 (Ranked 253)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 119 |

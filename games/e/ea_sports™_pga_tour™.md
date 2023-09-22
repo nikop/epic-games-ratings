@@ -13,7 +13,7 @@
 | Bomb's Away | 51.00% | ~76 |
 | Perfect Round | 51.00% | ~76 |
 | Competitor's Spirit | 47.00% | ~70 |
-| The Strongest Field in Golf | 39.00% | ~58 |
+| The Strongest Field in Golf | 40.00% | ~60 |
 | From Many, One | 34.00% | ~51 |
 | Ace in the Hole | 34.00% | ~51 |
 | A Passion for Excellence | 31.00% | ~46 |

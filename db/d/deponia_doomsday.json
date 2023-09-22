@@ -3,12 +3,12 @@
   "Name": "Deponia Doomsday",
   "ProductSlug": "deponia-doomsday-1848dd",
   "Ranking_Rating": 468,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -65,11 +65,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 407,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.48,
+  "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -325,6 +325,11 @@
       "Time": "2023-09-21T21:08:04.8957851+00:00",
       "NumProgressed": 406,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-22T14:03:31.3186151+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -336,7 +341,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "dep4_achievement_10",
@@ -344,7 +349,7 @@
       "Name": "Sole Music",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "dep4_achievement_11",
@@ -384,7 +389,7 @@
       "Name": "Weapons 101",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "dep4_achievement_16",
@@ -408,7 +413,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "dep4_achievement_19",
@@ -416,7 +421,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "dep4_achievement_2",
@@ -432,7 +437,7 @@
       "Name": "Sadist",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "dep4_achievement_21",
@@ -462,9 +467,9 @@
       "ID": "dep4_achievement_24",
       "SetID": "5d32b60",
       "Name": "Thuna...?",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 57
     },
     {
       "ID": "dep4_achievement_25",
@@ -480,7 +485,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "dep4_achievement_27",
@@ -520,7 +525,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "dep4_achievement_31",
@@ -576,7 +581,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "dep4_achievement_5",
@@ -623,7 +628,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 6
     }
   ],
@@ -631,8 +636,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:07:25.8784386+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:03:31.3186145+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.6821745+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:02:58.6124665+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:07:25.8784659+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:58:42.7096704+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:03:31.3186703+00:00"
 }

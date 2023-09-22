@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6394,18 +6394,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11337,
       "NumberOfAwardsMax": 6556
+    },
+    {
+      "Time": "2023-09-22T14:02:45.2228076+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11347,
+      "NumberOfAwardsMax": 6564
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11337,
-  "NumberOfAwardsMax": 6556,
+  "NumberOfAwards": 11347,
+  "NumberOfAwardsMax": 6564,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6556
+      "Count": 6564
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6423,7 +6429,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 550
+      "Count": 551
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6459,7 +6465,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 499
+      "Count": 500
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6476,7 +6482,7 @@
   ],
   "EOS_Progressed": 715204,
   "EOS_Completed": 12898,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -21226,9 +21232,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-22T13:06:41.7193432+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:07:32.5605736+00:00",
+  "LastChanged": "2023-09-22T14:02:45.2228075+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:03:38.6747385+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.6713568+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:06:41.7193437+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:07:32.5607253+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:02:45.2228081+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:03:38.6749575+00:00"
 }

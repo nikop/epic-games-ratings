@@ -3,12 +3,12 @@
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
   "Ranking_Rating": 797,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17276,
+  "EOS_Progressed": 17277,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -12137,6 +12137,11 @@
       "Time": "2023-09-22T13:09:21.4944848+00:00",
       "NumProgressed": 17276,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-09-22T14:05:12.4720207+00:00",
+      "NumProgressed": 17277,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 16,
@@ -12156,7 +12161,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4837
+      "UsersEstimate": 4838
     },
     {
       "ID": "Deadline",
@@ -12275,15 +12280,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17276,
+      "Progressed": 17277,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:09:21.4944843+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:05:12.47202+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:16.7549106+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:06:35.0720958+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:09:21.4945502+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:02:35.8503202+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:05:12.472119+00:00"
 }

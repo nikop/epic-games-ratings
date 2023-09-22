@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7974,9 +7974,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 297090,
+  "EOS_Progressed": 297091,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24734,6 +24734,11 @@
       "Time": "2023-09-22T13:11:20.5617688+00:00",
       "NumProgressed": 297090,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T14:07:19.5691129+00:00",
+      "NumProgressed": 297091,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24913,7 +24918,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14854
+      "UsersEstimate": 14855
     },
     {
       "ID": "PFA_3",
@@ -25025,7 +25030,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14854
+      "UsersEstimate": 14855
     },
     {
       "ID": "PFA_42",
@@ -25104,7 +25109,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297090,
+      "Progressed": 297091,
       "Completed": 476
     }
   ],
@@ -25112,8 +25117,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-22T13:04:17.7903196+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:11:20.561768+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:07:19.5691123+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:04:17.7903203+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:11:20.5618774+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:00:06.8670147+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:07:19.5693594+00:00"
 }

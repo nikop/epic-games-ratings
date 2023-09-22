@@ -3,12 +3,12 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 468,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18089,
+  "EOS_Progressed": 18090,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10536,6 +10536,11 @@
       "Time": "2023-09-22T13:09:53.2059302+00:00",
       "NumProgressed": 18089,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-22T14:05:45.5342725+00:00",
+      "NumProgressed": 18090,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10763,7 +10768,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4161
     },
     {
       "ID": "0029",
@@ -10834,7 +10839,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18089,
+      "Progressed": 18090,
       "Completed": 3
     }
   ],
@@ -10842,8 +10847,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:09:53.2059298+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:05:45.5342719+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:43.7269362+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:02:02.3275698+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:09:53.2061252+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:57:39.9387639+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:05:45.534364+00:00"
 }

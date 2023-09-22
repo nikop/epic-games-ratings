@@ -1,27 +1,27 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.44 (Ranked 652)  
+Rating: 4.45 (Ranked 640)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 75.00% | ~1,448 |
-| A new Journey | 74.00% | ~1,428 |
-| Departure | 73.00% | ~1,409 |
+| A new Journey | 74.00% | ~1,429 |
+| Departure | 73.00% | ~1,410 |
 | From X to Y | 72.00% | ~1,390 |
-| Way of Iron | 70.00% | ~1,351 |
-| Mystery Tour | 68.00% | ~1,312 |
-| We brake for nobody | 67.00% | ~1,293 |
+| Way of Iron | 70.00% | ~1,352 |
+| Mystery Tour | 68.00% | ~1,313 |
+| We brake for nobody | 67.00% | ~1,294 |
 | Brainstorm | 66.00% | ~1,274 |
-| Mind the Gap | 65.00% | ~1,254 |
-| Travel Company | 65.00% | ~1,254 |
+| Mind the Gap | 65.00% | ~1,255 |
+| Travel Company | 65.00% | ~1,255 |
 | All around the World | 62.00% | ~1,197 |
-| Right through the middle | 57.00% | ~1,100 |
-| Poor Devil | 54.00% | ~1,042 |
+| Right through the middle | 57.00% | ~1,101 |
+| Poor Devil | 54.00% | ~1,043 |
 | Facility Manager | 53.00% | ~1,023 |
-| Producer | 50.00% | ~965 |
-| Apprentice | 41.00% | ~791 |
-| Bridge Builder | 41.00% | ~791 |
+| Producer | 50.00% | ~966 |
+| Apprentice | 41.00% | ~792 |
+| Bridge Builder | 41.00% | ~792 |
 | Access granted | 35.00% | ~676 |
 | Going once, going twice, sold | 35.00% | ~676 |
 | Bull and bear | 33.00% | ~637 |
@@ -33,11 +33,11 @@ Rating: 4.44 (Ranked 652)
 | Socializer | 29.00% | ~560 |
 | General Manager | 27.00% | ~521 |
 | Country Life | 27.00% | ~521 |
-| Hostile Takeover | 25.00% | ~482 |
+| Hostile Takeover | 25.00% | ~483 |
 | Seven at one stroke | 24.00% | ~463 |
-| Trailblazer | 21.00% | ~405 |
-| Traffic Junction | 21.00% | ~405 |
-| Breaking Ground | 21.00% | ~405 |
+| Trailblazer | 21.00% | ~406 |
+| Traffic Junction | 21.00% | ~406 |
+| Breaking Ground | 21.00% | ~406 |
 | Traffic Jam | 19.00% | ~367 |
 | Resistance is futile | 17.00% | ~328 |
 | Networker | 17.00% | ~328 |
@@ -61,7 +61,7 @@ Rating: 4.44 (Ranked 652)
 | Together we stand | 0.60% | ~12 |
 | Three Cheers for Progress | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,930 (Ranked 194)  
+Progressed: 1,931 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 287)
 | 2023-09-19 | 1,921 | 0 |
 | 2023-09-20 | 1,925 | 0 |
 | 2023-09-21 | 1,929 | 0 |
-| 2023-09-22 | 1,930 | 0 |
+| 2023-09-22 | 1,931 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -223,3 +223,4 @@ Completed: 0 (0.00%) (Ranked 287)
 | 2023-09-04 | 4.48 | 0 | 0 |
 | 2023-09-05 | 4.47 | 0 | 0 |
 | 2023-09-12 | 4.44 | 0 | 0 |
+| 2023-09-22 | 4.45 | 0 | 0 |

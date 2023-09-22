@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:08:35.0963308+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:04:22.5960588+00:00",
   "LastUpdate_AppInfo": "2023-09-20T20:57:03.8652569+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:01:45.0713768+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:08:35.0963932+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:57:23.3920275+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:04:22.596175+00:00"
 }

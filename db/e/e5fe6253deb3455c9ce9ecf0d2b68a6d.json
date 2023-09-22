@@ -2,10 +2,10 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -676,6 +676,11 @@
       "Time": "2023-09-22T01:47:37.8391485+00:00",
       "NumProgressed": 193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T14:08:14.2284902+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -710,7 +715,7 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 131
     },
@@ -726,7 +731,7 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
       "UsersEstimate": 127
     },
@@ -784,7 +789,7 @@
       "Name": "Back to USSR",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Upgrades",
@@ -799,14 +804,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 195,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:12:12.2053013+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:08:14.2284893+00:00",
   "LastUpdate_AppInfo": "2023-09-18T20:57:14.6607347+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:02:37.8571151+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:12:12.2053134+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:58:21.4522556+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:08:14.2285055+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1779,9 +1779,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 305
     },
     {
       "ID": "AC14",
@@ -1915,9 +1915,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 478
     },
     {
       "ID": "AC31",
@@ -2052,8 +2052,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:09:43.3358594+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:05:35.400667+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:03:36.5540814+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:09:43.3359002+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:59:19.6471872+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:05:35.4007502+00:00"
 }

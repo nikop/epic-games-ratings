@@ -3,12 +3,12 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 547,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11563,
+  "EOS_Progressed": 11580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6195,6 +6195,11 @@
       "Time": "2023-09-22T13:13:43.7445534+00:00",
       "NumProgressed": 11563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T14:09:52.1271288+00:00",
+      "NumProgressed": 11580,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6207,7 +6212,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "10",
@@ -6223,7 +6228,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2432
     },
     {
       "ID": "12",
@@ -6231,7 +6236,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "13",
@@ -6247,7 +6252,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2084
     },
     {
       "ID": "15",
@@ -6255,7 +6260,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3011
     },
     {
       "ID": "16",
@@ -6271,7 +6276,7 @@
       "Name": "Spore Taste",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2663
     },
     {
       "ID": "18",
@@ -6279,7 +6284,7 @@
       "Name": "Bottoms up!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1274
     },
     {
       "ID": "19",
@@ -6287,7 +6292,7 @@
       "Name": "Martian Music",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2895
     },
     {
       "ID": "2",
@@ -6295,7 +6300,7 @@
       "Name": "Data Logger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "20",
@@ -6303,7 +6308,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1621
     },
     {
       "ID": "21",
@@ -6311,15 +6316,15 @@
       "Name": "Drone Dodger",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2316
     },
     {
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 232
     },
     {
       "ID": "23",
@@ -6327,7 +6332,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "24",
@@ -6351,15 +6356,15 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 809
+      "UsersEstimate": 926
     },
     {
       "ID": "28",
@@ -6383,7 +6388,7 @@
       "Name": "Captain Drummer",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2895
     },
     {
       "ID": "30",
@@ -6391,7 +6396,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "4",
@@ -6407,7 +6412,7 @@
       "Name": "Data Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "6",
@@ -6415,7 +6420,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2779
     },
     {
       "ID": "7",
@@ -6423,7 +6428,7 @@
       "Name": "Grave Robber",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "8",
@@ -6431,7 +6436,7 @@
       "Name": "Data Recoverer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "9",
@@ -6439,14 +6444,14 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3821
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 11563,
+      "Progressed": 11580,
       "Completed": 0
     }
   ],
@@ -6454,8 +6459,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-22T04:01:02.5026202+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:13:43.744553+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:09:52.1271282+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3249869+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:06:26.5430653+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:13:43.7446007+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:02:24.7640498+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:09:52.1272301+00:00"
 }

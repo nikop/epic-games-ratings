@@ -5,10 +5,10 @@
   "Ranking_Rating": 301,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
-  "Ranking_EOS_Progress": 125,
+  "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1713,9 +1713,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14042,
+  "EOS_Progressed": 14043,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11948,6 +11948,11 @@
       "Time": "2023-09-22T12:03:46.0763325+00:00",
       "NumProgressed": 14042,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-22T14:03:52.8352149+00:00",
+      "NumProgressed": 14043,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12149,9 +12154,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2",
       "SetID": "9201eeb",
       "Name": "Carthage - Riches and Influence",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
@@ -12805,9 +12810,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
       "SetID": "7l38kb8",
       "Name": "Clerics",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -13693,9 +13698,9 @@
       "ID": "ACHIEVEMENT_PLAY_NETWORK",
       "SetID": "9201eeb",
       "Name": "Play a Network Game",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
@@ -14326,21 +14331,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14042,
+      "Progressed": 14043,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14042,
+      "Progressed": 14043,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-21T14:59:37.1896217+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:08:15.8426689+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:03:52.8352142+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:05:18.0921254+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:08:15.8569512+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:01:10.8868381+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:03:52.8362518+00:00"
 }

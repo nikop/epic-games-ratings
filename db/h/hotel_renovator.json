@@ -3,12 +3,12 @@
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
   "Ranking_Rating": 732,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1022,
+  "EOS_Progressed": 1023,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -1667,6 +1667,11 @@
       "Time": "2023-09-21T17:03:52.3895032+00:00",
       "NumProgressed": 1022,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-22T14:04:36.2571253+00:00",
+      "NumProgressed": 1023,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1686,7 +1691,7 @@
       "Name": "King of hospitality",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -1702,7 +1707,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1718,7 +1723,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1756,9 +1761,9 @@
       "ID": "ACH_GOLDEN_EGGS_ALL",
       "SetID": "7k95e4n",
       "Name": "Aesop\u0027s fable",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -1774,7 +1779,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1782,7 +1787,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1814,7 +1819,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1846,7 +1851,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_STAR_4",
@@ -1886,14 +1891,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1022,
+      "Progressed": 1023,
       "Completed": 15
     }
   ],
@@ -1901,8 +1906,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-19T13:03:28.3019162+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:08:48.0942886+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:04:36.2571249+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:04:04.5319852+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:08:48.0943143+00:00"
+  "LastUpdate_Ratings": "2023-09-22T13:59:51.6456028+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:04:36.2571579+00:00"
 }

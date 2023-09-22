@@ -6,31 +6,31 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,065 |
-| Landlord | 33.00% | ~20,363 |
-| Bannerlord | 23.00% | ~14,192 |
-| Horde breaker | 23.00% | ~14,192 |
-| Lawmaker | 23.00% | ~14,192 |
-| Trained | 23.00% | ~14,192 |
-| The king is pleased | 18.00% | ~11,107 |
-| King Solomon | 17.00% | ~10,490 |
-| I can do it | 16.00% | ~9,873 |
-| Apple of my eye | 15.00% | ~9,256 |
-| God of the Arena | 13.00% | ~8,022 |
-| Against all odds | 12.00% | ~7,405 |
-| This Is Our Land | 12.00% | ~7,405 |
+| Lawbringer | 39.00% | ~24,068 |
+| Landlord | 33.00% | ~20,366 |
+| Bannerlord | 23.00% | ~14,194 |
+| Horde breaker | 23.00% | ~14,194 |
+| Lawmaker | 23.00% | ~14,194 |
+| Trained | 23.00% | ~14,194 |
+| The king is pleased | 18.00% | ~11,109 |
+| King Solomon | 17.00% | ~10,491 |
+| I can do it | 16.00% | ~9,874 |
+| Apple of my eye | 15.00% | ~9,257 |
+| God of the Arena | 13.00% | ~8,023 |
+| Against all odds | 12.00% | ~7,406 |
+| This Is Our Land | 12.00% | ~7,406 |
 | Duelist | 10.00% | ~6,171 |
 | Dynasty | 10.00% | ~6,171 |
 | Swordbearer | 10.00% | ~6,171 |
 | What have the Romans ever done for us? | 10.00% | ~6,171 |
 | I spit on your grave | 9.00% | ~5,554 |
-| Butterlord | 8.00% | ~4,936 |
-| Know your enemy | 7.00% | ~4,319 |
-| Mastery | 7.00% | ~4,319 |
-| Crush your enemies | 5.00% | ~3,085 |
-| My way | 5.00% | ~3,085 |
-| Crowdfunded | 4.00% | ~2,468 |
-| Veni vidi vici | 4.00% | ~2,468 |
+| Butterlord | 8.00% | ~4,937 |
+| Know your enemy | 7.00% | ~4,320 |
+| Mastery | 7.00% | ~4,320 |
+| Crush your enemies | 5.00% | ~3,086 |
+| My way | 5.00% | ~3,086 |
+| Crowdfunded | 4.00% | ~2,469 |
+| Veni vidi vici | 4.00% | ~2,469 |
 | Freedom! | 3.00% | ~1,851 |
 | Long live the Empire! | 3.00% | ~1,851 |
 | Real Estate | 3.00% | ~1,851 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,706 (Ranked 90)  
+Progressed: 61,714 (Ranked 90)  
 Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 287)
 | 2023-09-19 | 61,511 | 0 |
 | 2023-09-20 | 61,595 | 0 |
 | 2023-09-21 | 61,671 | 0 |
-| 2023-09-22 | 61,706 | 0 |
+| 2023-09-22 | 61,714 | 0 |
 ## Awards
 Max (Character Customization): 7,119  (Ranked 51)  
 Sum: 14,544 (Ranked 68)  

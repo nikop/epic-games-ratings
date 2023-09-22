@@ -7312,10 +7312,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27809,
       "NumberOfAwardsMax": 7465
+    },
+    {
+      "Time": "2023-09-22T14:01:42.1911534+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27815,
+      "NumberOfAwardsMax": 7465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27809,
+  "NumberOfAwards": 27815,
   "NumberOfAwardsMax": 7465,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7329,7 +7335,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5494
+      "Count": 5500
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7398,9 +7404,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802199,
+  "EOS_Progressed": 802204,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 842,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24628,6 +24634,11 @@
       "Time": "2023-09-22T13:09:28.4955911+00:00",
       "NumProgressed": 802199,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-22T14:05:19.8060214+00:00",
+      "NumProgressed": 802204,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -24663,7 +24674,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128352
+      "UsersEstimate": 128353
     },
     {
       "ID": "Awakening",
@@ -24671,7 +24682,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168462
+      "UsersEstimate": 168463
     },
     {
       "ID": "BadGirl",
@@ -24719,7 +24730,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256704
+      "UsersEstimate": 256705
     },
     {
       "ID": "Bookworm",
@@ -24727,7 +24738,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120330
+      "UsersEstimate": 120331
     },
     {
       "ID": "Buddy",
@@ -24751,7 +24762,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200550
+      "UsersEstimate": 200551
     },
     {
       "ID": "Chivalrous",
@@ -24839,7 +24850,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184506
+      "UsersEstimate": 184507
     },
     {
       "ID": "Fighter",
@@ -24855,7 +24866,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120330
+      "UsersEstimate": 120331
     },
     {
       "ID": "Freud",
@@ -24959,7 +24970,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104286
+      "UsersEstimate": 104287
     },
     {
       "ID": "Judas",
@@ -25119,7 +25130,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160440
+      "UsersEstimate": 160441
     },
     {
       "ID": "RevenantOfLedechko",
@@ -25159,7 +25170,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160440
+      "UsersEstimate": 160441
     },
     {
       "ID": "SerialKiller",
@@ -25294,15 +25305,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802199,
+      "Progressed": 802204,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-22T02:16:17.3477223+00:00",
-  "LastChanged_Achievements": "2023-09-22T13:09:28.4955905+00:00",
+  "LastChanged": "2023-09-22T14:01:42.1911532+00:00",
+  "LastChanged_Achievements": "2023-09-22T14:05:19.8060207+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:41.6954076+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:05:48.7619261+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:09:28.4957433+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:01:42.1911542+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:05:19.8062223+00:00"
 }

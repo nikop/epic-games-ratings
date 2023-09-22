@@ -29,8 +29,8 @@ Rating: 4.77 (Ranked 112)
 | The Seeker of Knowledge | 6.00% | ~17,825 |
 | The Root of the Problem | 6.00% | ~17,825 |
 | Raising Expectations | 6.00% | ~17,825 |
-| Third Time's a Charm | 5.00% | ~14,854 |
-| The Ends Petrify the Means | 5.00% | ~14,854 |
+| Third Time's a Charm | 5.00% | ~14,855 |
+| The Ends Petrify the Means | 5.00% | ~14,855 |
 | The Toast of the Town | 4.00% | ~11,884 |
 | Going Through the Potions | 4.00% | ~11,884 |
 | Room with a View | 4.00% | ~11,884 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 112)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,090 (Ranked 44)  
+Progressed: 297,091 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 476 (0.16%) (Ranked 211)
 | 2023-09-19 | 296,968 | 475 |
 | 2023-09-20 | 297,027 | 476 |
 | 2023-09-21 | 297,066 | 476 |
-| 2023-09-22 | 297,090 | 476 |
+| 2023-09-22 | 297,091 | 476 |
 ## Awards
 Max (Character Customization): 22,916  (Ranked 17)  
 Sum: 43,964 (Ranked 30)  

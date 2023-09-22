@@ -3,12 +3,12 @@
   "Name": "Asterigos: Curse of the Stars",
   "ProductSlug": "asterigos-424313",
   "Ranking_Rating": 669,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-11T17:00:00+00:00",
     "PcReleaseDate": "2022-10-11T17:00:00+00:00",
@@ -217,6 +217,6 @@
   "FirstSeenRating": "2022-10-21T13:01:24.4527368+00:00",
   "LastChanged": "2023-09-04T18:59:22.3708116+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.5177456+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:04:11.4832168+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:10:48.1415349+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:00:00.7681047+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:06:44.5508585+00:00"
 }

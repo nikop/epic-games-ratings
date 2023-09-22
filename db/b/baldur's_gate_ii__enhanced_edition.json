@@ -3,12 +3,12 @@
   "Name": "Baldur\u0027s Gate II: Enhanced Edition",
   "ProductSlug": "baldurs-gate-2-enhanced-edition",
   "Ranking_Rating": 31,
-  "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-28T15:00:00+00:00",
     "PcReleaseDate": "2013-11-15T21:02:32+00:00",
@@ -175,6 +175,6 @@
   "FirstSeenRating": "2022-08-05T18:01:05.432518+00:00",
   "LastChanged": "2023-09-09T09:00:20.8734146+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:01.1440269+00:00",
-  "LastUpdate_Ratings": "2023-09-22T13:06:13.9200939+00:00",
-  "LastUpdate_Achievements": "2023-09-22T13:12:54.8052294+00:00"
+  "LastUpdate_Ratings": "2023-09-22T14:02:07.8054372+00:00",
+  "LastUpdate_Achievements": "2023-09-22T14:09:00.5465004+00:00"
 }
