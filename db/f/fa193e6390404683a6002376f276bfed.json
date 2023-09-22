@@ -2,10 +2,10 @@
   "ID": "fa193e6390404683a6002376f276bfed",
   "Name": "The Lost Glitches",
   "ProductSlug": "the-lost-glitches-1bebe7",
-  "Ranking_EOS_Progress": 629,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-21T08:00:00+00:00",
     "PcReleaseDate": "2023-08-21T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-21T16:57:49.6336305+00:00",
   "LastUpdate_AppInfo": "2023-09-18T17:57:13.5040303+00:00",
-  "LastUpdate_Ratings": "2023-09-22T03:57:56.5042863+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:05:53.6212155+00:00"
+  "LastUpdate_Ratings": "2023-09-22T04:58:14.0159477+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:06:27.9138207+00:00"
 }

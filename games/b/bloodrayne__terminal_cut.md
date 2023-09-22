@@ -18,8 +18,8 @@
 | Walls of Jericho | 17.00% | ~1 |
 | Head Gun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 510)  
-Completed: 0 (0.00%) (Ranked 283)  
+Progressed: 6 (Ranked 511)  
+Completed: 0 (0.00%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

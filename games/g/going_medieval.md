@@ -1,28 +1,28 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 395)  
+Rating: 4.60 (Ranked 396)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,414 |
-| Having A Field Day | 75.00% | ~4,414 |
-| Reap What You Sow | 71.00% | ~4,179 |
-| The First Day | 68.00% | ~4,002 |
+| Get A Room | 75.00% | ~4,415 |
+| Having A Field Day | 75.00% | ~4,415 |
+| Reap What You Sow | 71.00% | ~4,180 |
+| The First Day | 68.00% | ~4,003 |
 | Green Thumb | 66.00% | ~3,885 |
 | Novice Researcher | 66.00% | ~3,885 |
 | Home Cooked Meal | 58.00% | ~3,414 |
-| Onward | 56.00% | ~3,296 |
-| Putting Food on the Table | 54.00% | ~3,178 |
-| The First Week | 54.00% | ~3,178 |
+| Onward | 56.00% | ~3,297 |
+| Putting Food on the Table | 54.00% | ~3,179 |
+| The First Week | 54.00% | ~3,179 |
 | Beam Me Up | 51.00% | ~3,002 |
 | Studious Researcher | 51.00% | ~3,002 |
 | Feast or Famine | 45.00% | ~2,649 |
 | Adept Researcher | 44.00% | ~2,590 |
-| Retribution | 41.00% | ~2,413 |
-| ...And Don’t Come Back! | 41.00% | ~2,413 |
-| Fit For A King | 34.00% | ~2,001 |
+| Retribution | 41.00% | ~2,414 |
+| ...And Don’t Come Back! | 41.00% | ~2,414 |
+| Fit For A King | 34.00% | ~2,002 |
 | Luminary Researcher | 32.00% | ~1,884 |
 | Heating Up | 30.00% | ~1,766 |
 | Winter Is Coming | 27.00% | ~1,589 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~118 |
 | Wabbit Season | 0.60% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,886 (Ranked 150)  
+Progressed: 5,887 (Ranked 150)  
 Completed: 14 (0.24%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 14 (0.24%) (Ranked 197)
 | 2023-09-19 | 5,854 | 13 |
 | 2023-09-20 | 5,871 | 14 |
 | 2023-09-21 | 5,883 | 14 |
-| 2023-09-22 | 5,886 | 14 |
+| 2023-09-22 | 5,887 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 322)  
 Sum: 985 (Ranked 243)  

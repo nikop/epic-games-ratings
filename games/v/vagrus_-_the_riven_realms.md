@@ -67,6 +67,7 @@
 | Forged in Battle | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |
 | Huntsmaster | 0.70% | ~1 |
+| Mercenary | 0.70% | ~1 |
 | Escort | 0.70% | ~1 |
 | Despoiler | 0.70% | ~1 |
 | Celebrity | 0.70% | ~1 |
@@ -93,7 +94,6 @@
 | Seeker | 0.00% | ~0 |
 | Chromatic Collector | 0.00% | ~0 |
 | Loader | 0.00% | ~0 |
-| Mercenary | 0.00% | ~0 |
 | Mercenary Lord | 0.00% | ~0 |
 | Handymen | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 344)  
-Completed: 0 (0.00%) (Ranked 283)  
+Progressed: 153 (Ranked 345)  
+Completed: 0 (0.00%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

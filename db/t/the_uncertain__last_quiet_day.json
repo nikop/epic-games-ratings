@@ -2,10 +2,10 @@
   "ID": "2295b951b8f84e86b950bfaf7cadef60",
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
@@ -611,6 +611,11 @@
       "Time": "2023-09-16T11:06:44.7446778+00:00",
       "NumProgressed": 540,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-22T05:08:11.656649+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 32,
@@ -622,7 +627,7 @@
       "Name": "Ace",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ANNOYING",
@@ -670,7 +675,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -686,7 +691,7 @@
       "Name": "Found it!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "GOODY",
@@ -708,9 +713,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 281
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -734,7 +739,7 @@
       "Name": "Hipster",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -742,7 +747,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "LUCKY_DOG",
@@ -774,7 +779,7 @@
       "Name": "Not what it seems",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -782,7 +787,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "PERFECT_HEARING",
@@ -798,7 +803,7 @@
       "Name": "Please oh pleeease!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "POOL",
@@ -814,15 +819,15 @@
       "Name": "Quick charge",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 281
     },
     {
       "ID": "SILENT",
@@ -838,7 +843,7 @@
       "Name": "Sysadmin",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -877,7 +882,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 16
     }
   ],
@@ -885,8 +890,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-09-22T04:07:18.2281797+00:00",
+  "LastChanged_Achievements": "2023-09-22T05:08:11.6566483+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.4921608+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:00:57.3728059+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:07:18.2282091+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:01:54.9265599+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:08:11.6566796+00:00"
 }

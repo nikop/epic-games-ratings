@@ -6,11 +6,11 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 37.00% | ~1,588 |
-| It's a good start | 9.00% | ~386 |
-| Bonjour! | 7.00% | ~300 |
-| The Assistant | 6.00% | ~257 |
-| Quack | 6.00% | ~257 |
+| Bye Bye | 37.00% | ~1,590 |
+| It's a good start | 9.00% | ~387 |
+| Bonjour! | 7.00% | ~301 |
+| The Assistant | 6.00% | ~258 |
+| Quack | 6.00% | ~258 |
 | Ostinata | 5.00% | ~215 |
 | The Blue Marl | 5.00% | ~215 |
 | A long journey | 4.00% | ~172 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~9 |
 | Master Winemaker | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,291 (Ranked 161)  
+Progressed: 4,297 (Ranked 161)  
 Completed: 6 (0.14%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 6 (0.14%) (Ranked 215)
 | 2023-09-19 | 3,992 | 5 |
 | 2023-09-20 | 4,127 | 5 |
 | 2023-09-21 | 4,265 | 6 |
-| 2023-09-22 | 4,291 | 6 |
+| 2023-09-22 | 4,297 | 6 |
 ## Awards
 Max (Relaxing): 205  (Ranked 273)  
 Sum: 1,590 (Ranked 218)  

@@ -2,13 +2,13 @@
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
   "ProductSlug": "chivalry-2",
-  "Ranking_Rating": 395,
+  "Ranking_Rating": 396,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 42,
-  "Ranking_EOS_Progress": 629,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-06-08T15:00:00+00:00",
     "PcReleaseDate": "2021-06-08T15:00:00+00:00",
@@ -8049,10 +8049,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 29262,
       "NumberOfAwardsMax": 4654
+    },
+    {
+      "Time": "2023-09-22T05:00:38.2906118+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 29268,
+      "NumberOfAwardsMax": 4654
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29262,
+  "NumberOfAwards": 29268,
   "NumberOfAwardsMax": 4654,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8066,13 +8072,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4420
+      "Count": 4421
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4454
+      "Count": 4456
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8084,7 +8090,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4094
+      "Count": 4097
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8122,8 +8128,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2023-09-22T01:40:51.4676276+00:00",
+  "LastChanged": "2023-09-22T05:00:38.2906116+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:14.544119+00:00",
-  "LastUpdate_Ratings": "2023-09-22T03:59:50.7875306+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:09:03.952488+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:00:38.2906124+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:09:30.7459174+00:00"
 }

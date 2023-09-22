@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Anomaly Destroyer | 100.00% | ~1 |
-| Arch-Oracle | 100.00% | ~1 |
-| Denying Destiny | 100.00% | ~1 |
-| Dicesmithing Time! | 100.00% | ~1 |
-| Endless Tricks | 100.00% | ~1 |
-| Favored by the Cosmos | 100.00% | ~1 |
-| Heart Gate | 100.00% | ~1 |
-| Loyal Partner | 100.00% | ~1 |
-| Mechanical Buddy | 100.00% | ~1 |
-| Meissa's Savior | 100.00% | ~1 |
-| Plague Doctor | 100.00% | ~1 |
-| Purification Pioneer | 100.00% | ~1 |
-| Sadistic Plan | 100.00% | ~1 |
-| Stellar Dismantler | 100.00% | ~1 |
-| Wild's Keeper | 100.00% | ~1 |
+| Dicesmithing Time! | 100.00% | ~2 |
+| Meissa's Savior | 100.00% | ~2 |
+| Purification Pioneer | 100.00% | ~2 |
+| Anomaly Destroyer | 50.00% | ~1 |
+| Arch-Oracle | 50.00% | ~1 |
+| Denying Destiny | 50.00% | ~1 |
+| Endless Tricks | 50.00% | ~1 |
+| Favored by the Cosmos | 50.00% | ~1 |
+| Heart Gate | 50.00% | ~1 |
+| Loyal Partner | 50.00% | ~1 |
+| Mechanical Buddy | 50.00% | ~1 |
+| Plague Doctor | 50.00% | ~1 |
+| Sadistic Plan | 50.00% | ~1 |
+| Stellar Dismantler | 50.00% | ~1 |
+| Wild's Keeper | 50.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -85,9 +85,9 @@
 | Virtuous Warrior | 0.00% | ~0 |
 | Wave Bender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 579)  
-Completed: 0 (0.00%) (Ranked 283)  
+Progressed: 2 (Ranked 553)  
+Completed: 0 (0.00%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-22 | 1 | 0 |
+| 2023-09-22 | 2 | 0 |

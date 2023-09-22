@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -249,9 +249,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 201936,
+  "EOS_Progressed": 201938,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -16939,6 +16939,11 @@
       "Time": "2023-09-22T03:06:29.0510743+00:00",
       "NumProgressed": 201936,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-09-22T05:07:34.1147485+00:00",
+      "NumProgressed": 201938,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 29,
@@ -16974,7 +16979,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 189820
+      "UsersEstimate": 189822
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17006,7 +17011,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -17158,7 +17163,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -17181,7 +17186,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 201936,
+      "Progressed": 201938,
       "Completed": 504
     }
   ],
@@ -17189,8 +17194,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-21T07:00:54.1408564+00:00",
-  "LastChanged_Achievements": "2023-09-22T04:06:47.5336096+00:00",
+  "LastChanged_Achievements": "2023-09-22T05:07:34.1147477+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:10.0973549+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:01:05.6066082+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:06:47.5337479+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:02:05.3613752+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:07:34.1149127+00:00"
 }

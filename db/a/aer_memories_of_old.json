@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -404,9 +404,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20564,
+  "EOS_Progressed": 20565,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
@@ -16954,6 +16954,11 @@
       "Time": "2023-09-22T04:04:13.3208671+00:00",
       "NumProgressed": 20564,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-09-22T05:04:16.5427952+00:00",
+      "NumProgressed": 20565,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 20,
@@ -17085,7 +17090,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15834
+      "UsersEstimate": 15835
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17109,7 +17114,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "WEST_FINISHED",
@@ -17124,15 +17129,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20564,
+      "Progressed": 20565,
       "Completed": 413
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-22T04:02:14.2892048+00:00",
-  "LastChanged_Achievements": "2023-09-22T04:04:13.3208665+00:00",
+  "LastChanged_Achievements": "2023-09-22T05:04:16.5427947+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:02:14.2892055+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:04:13.3210793+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:02:43.0351366+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:04:16.5429498+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3630,
+  "EOS_Progressed": 3631,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3839,6 +3839,11 @@
       "Time": "2023-09-22T03:02:17.2033845+00:00",
       "NumProgressed": 3630,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-22T05:03:05.2159573+00:00",
+      "NumProgressed": 3631,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3898,7 +3903,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "campaign10",
@@ -3986,7 +3991,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "campaign20",
@@ -4002,7 +4007,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "campaign4",
@@ -4066,7 +4071,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "scenario3",
@@ -4113,7 +4118,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3630,
+      "Progressed": 3631,
       "Completed": 11
     }
   ],
@@ -4121,8 +4126,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-22T04:03:12.5099607+00:00",
+  "LastChanged_Achievements": "2023-09-22T05:03:05.2159568+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:55.5186329+00:00",
-  "LastUpdate_Ratings": "2023-09-22T03:58:07.7275044+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:03:12.5100384+00:00"
+  "LastUpdate_Ratings": "2023-09-22T04:58:27.7645216+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:03:05.2160194+00:00"
 }

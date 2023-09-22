@@ -2,10 +2,10 @@
   "ID": "89988029d4f543188897771c8ee54412",
   "Name": "Truck World Australia",
   "ProductSlug": "truck-world-australia-3c2185",
-  "Ranking_EOS_Progress": 629,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:09.1358528+00:00",
-  "LastUpdate_Ratings": "2023-09-22T03:59:38.8110751+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:08:06.7464383+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:00:23.3495986+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:08:46.3289077+00:00"
 }

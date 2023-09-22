@@ -2,10 +2,10 @@
   "ID": "d9d79f35d883467ca7886d443087b602",
   "Name": "G.I. Joe Wrath of Cobra",
   "ProductSlug": "gi-joe-wrath-of-cobra-45e4ed",
-  "Ranking_EOS_Progress": 629,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-21T17:57:07.5223272+00:00",
-  "LastUpdate_Ratings": "2023-09-22T03:59:38.6531785+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:04:44.8256173+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:00:23.145637+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:05:03.4722448+00:00"
 }

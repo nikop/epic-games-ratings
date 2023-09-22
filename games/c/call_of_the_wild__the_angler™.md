@@ -21,7 +21,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm Hooked! | 20.00% | ~1,169 |
 | Diamond in the Rough | 13.00% | ~760 |
 | More than a Tourist | 11.00% | ~643 |
-| School's Out for Summer | 9.00% | ~526 |
+| School's Out for Summer | 10.00% | ~585 |
 | Hook, Line and Sinker | 8.00% | ~468 |
 | Marathon | 8.00% | ~468 |
 | I'm the Captain Now | 6.00% | ~351 |
@@ -43,7 +43,7 @@ Number of Ratings: 281  (23.09.2022)
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,847 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 283)  
+Completed: 0 (0.00%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

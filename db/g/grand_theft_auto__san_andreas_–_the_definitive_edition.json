@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -976,7 +976,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12647,
+  "EOS_Progressed": 12649,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
@@ -11096,6 +11096,11 @@
       "Time": "2023-09-22T03:06:54.6855155+00:00",
       "NumProgressed": 12647,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-22T05:08:03.4509826+00:00",
+      "NumProgressed": 12649,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -11107,7 +11112,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10244
+      "UsersEstimate": 10246
     },
     {
       "ID": "ACH02",
@@ -11203,7 +11208,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "ACH14",
@@ -11283,7 +11288,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "ACH24",
@@ -11386,7 +11391,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12647,
+      "Progressed": 12649,
       "Completed": 45
     }
   ],
@@ -11394,8 +11399,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-22T02:17:19.8031823+00:00",
-  "LastChanged_Achievements": "2023-09-22T04:07:11.4178256+00:00",
+  "LastChanged_Achievements": "2023-09-22T05:08:03.4509821+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:02:08.2619568+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:07:11.4179915+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:02:35.5813812+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:08:03.4510927+00:00"
 }

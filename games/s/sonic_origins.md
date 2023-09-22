@@ -6,20 +6,20 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 93.00% | ~465 |
-| Newbie Hero | 82.00% | ~410 |
-| Welcome to Sonic CD | 73.00% | ~365 |
-| Welcome to Sonic the Hedgehog 2 | 72.00% | ~360 |
-| Welcome to Sonic 3 & Knuckles | 72.00% | ~360 |
-| Ring Collector | 68.00% | ~340 |
-| Time Traveler | 67.00% | ~335 |
-| Everyone's Hero | 64.00% | ~320 |
-| Easy Peasy with Shields | 60.00% | ~300 |
-| Gallant Spin Dash | 60.00% | ~300 |
-| Knuckles the Echidna | 60.00% | ~300 |
-| Miles "Tails" Prower | 60.00% | ~300 |
-| Bubbly Breath | 58.00% | ~290 |
-| Boss Rush Attempt | 53.00% | ~265 |
+| Welcome to Sonic the Hedgehog | 93.00% | ~466 |
+| Newbie Hero | 82.00% | ~411 |
+| Welcome to Sonic CD | 73.00% | ~366 |
+| Welcome to Sonic the Hedgehog 2 | 72.00% | ~361 |
+| Welcome to Sonic 3 & Knuckles | 72.00% | ~361 |
+| Ring Collector | 68.00% | ~341 |
+| Time Traveler | 67.00% | ~336 |
+| Everyone's Hero | 64.00% | ~321 |
+| Easy Peasy with Shields | 60.00% | ~301 |
+| Gallant Spin Dash | 60.00% | ~301 |
+| Miles "Tails" Prower | 60.00% | ~301 |
+| Knuckles the Echidna | 59.00% | ~296 |
+| Bubbly Breath | 58.00% | ~291 |
+| Boss Rush Attempt | 53.00% | ~266 |
 | Cleared Sonic the Hedgehog | 50.00% | ~250 |
 | Super Sonic | 45.00% | ~225 |
 | Shut Down Metal Sonic | 43.00% | ~215 |
@@ -42,8 +42,8 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 14.00% | ~70 |
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 260)  
-Completed: 42 (8.40%) (Ranked 33)  
+Progressed: 501 (Ranked 261)  
+Completed: 42 (8.38%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 42 (8.40%) (Ranked 33)
 | 2023-09-19 | 493 | 42 |
 | 2023-09-20 | 497 | 42 |
 | 2023-09-21 | 500 | 42 |
+| 2023-09-22 | 501 | 42 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 315)  
 Sum: 128 (Ranked 408)  

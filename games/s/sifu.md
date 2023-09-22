@@ -8,6 +8,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 0.30% | ~2,146 |
 | Life is your teacher | 0.30% | ~2,146 |
+| Lightning Hands | 0.30% | ~2,146 |
 | Diligence as a goal | 0.30% | ~73 |
 | The Assault | 0.20% | ~1,430 |
 | The Hateful Pole Fighter | 0.20% | ~1,430 |
@@ -20,7 +21,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 0.20% | ~1,430 |
 | Qi Gong: Essence | 0.20% | ~1,430 |
 | Old Child | 0.20% | ~1,430 |
-| Lightning Hands | 0.20% | ~1,430 |
 | Path of the Prospect | 0.20% | ~1,430 |
 | Rumble in the Hangar | 0.20% | ~1,430 |
 | Project Arena | 0.20% | ~49 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,194 (Ranked 20)  
+Progressed: 715,196 (Ranked 20)  
 Completed: 12,898 (1.80%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 12,898 (1.80%) (Ranked 103)
 | 2023-09-19 | 715,150 | 12,896 |
 | 2023-09-20 | 715,171 | 12,897 |
 | 2023-09-21 | 715,192 | 12,897 |
-| 2023-09-22 | 715,194 | 12,898 |
+| 2023-09-22 | 715,196 | 12,898 |
 ## Awards
 Max (Great Boss Battles): 6,556  (Ranked 53)  
 Sum: 11,329 (Ranked 81)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249520,
+  "EOS_Progressed": 249521,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14619,6 +14619,11 @@
       "Time": "2023-09-22T04:03:43.1205092+00:00",
       "NumProgressed": 249520,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-22T05:03:42.5297337+00:00",
+      "NumProgressed": 249521,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14686,7 +14691,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42418
+      "UsersEstimate": 42419
     },
     {
       "ID": "cantBeKeptDown",
@@ -14934,7 +14939,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54894
+      "UsersEstimate": 54895
     },
     {
       "ID": "thunderstruck",
@@ -14997,7 +15002,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249520,
+      "Progressed": 249521,
       "Completed": 5
     }
   ],
@@ -15005,8 +15010,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-22T04:03:43.1205088+00:00",
+  "LastChanged_Achievements": "2023-09-22T05:03:42.5297333+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.9787856+00:00",
-  "LastUpdate_Ratings": "2023-09-22T04:01:20.9073194+00:00",
-  "LastUpdate_Achievements": "2023-09-22T04:03:43.1206533+00:00"
+  "LastUpdate_Ratings": "2023-09-22T05:02:26.7671583+00:00",
+  "LastUpdate_Achievements": "2023-09-22T05:03:42.5299161+00:00"
 }
