@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4080,
+  "EOS_Progressed": 4081,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6675,6 +6675,11 @@
       "Time": "2023-09-21T12:04:21.4984954+00:00",
       "NumProgressed": 4080,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-22T09:04:20.7250519+00:00",
+      "NumProgressed": 4081,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7086,7 +7091,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Ach052",
@@ -7253,13 +7258,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4080,
+      "Progressed": 4081,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2601,
+      "Progressed": 2602,
       "Completed": 1930
     }
   ],
@@ -7267,8 +7272,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-22T08:03:42.5922292+00:00",
+  "LastChanged_Achievements": "2023-09-22T09:04:20.7250514+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-22T07:59:37.2327057+00:00",
-  "LastUpdate_Achievements": "2023-09-22T08:03:42.5923232+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:00:25.0383163+00:00",
+  "LastUpdate_Achievements": "2023-09-22T09:04:20.7251627+00:00"
 }

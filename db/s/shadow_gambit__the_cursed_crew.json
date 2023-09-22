@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 660,
+  "EOS_Progressed": 661,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.58,
+  "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1794,6 +1794,11 @@
       "Time": "2023-09-21T07:04:24.2425127+00:00",
       "NumProgressed": 660,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-09-22T09:05:01.3442476+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1814,7 +1819,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "_03_FinishAct1",
@@ -1822,7 +1827,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1836,9 +1841,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 225
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1854,7 +1859,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "_08_Completion_10",
@@ -1934,7 +1939,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1996,9 +2001,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 73
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2013,7 +2018,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 660,
+      "Progressed": 661,
       "Completed": 17
     }
   ],
@@ -2021,8 +2026,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-22T08:04:17.9258819+00:00",
+  "LastChanged_Achievements": "2023-09-22T09:05:01.3442471+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-22T07:59:59.7384445+00:00",
-  "LastUpdate_Achievements": "2023-09-22T08:04:17.9259077+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:00:53.7827365+00:00",
+  "LastUpdate_Achievements": "2023-09-22T09:05:01.3442831+00:00"
 }

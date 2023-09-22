@@ -96,7 +96,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 225,816 (Ranked 58)  
-Completed: 3 (0.00%) (Ranked 285)  
+Completed: 3 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,8 +212,8 @@ Completed: 3 (0.00%) (Ranked 285)
 | 2023-09-22 | 225,816 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 275)  
-Sum: 362 (Ranked 329)  
-Diff (max vs sum): -54  
+Sum: 362 (Ranked 330)  
+Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 198 |

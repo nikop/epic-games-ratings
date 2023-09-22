@@ -6,10 +6,10 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~562,184 |
-| Error: Stack Overflow | 66.00% | ~398,969 |
-| We need more gold | 61.00% | ~368,744 |
-| The dawn of civilization | 53.00% | ~320,384 |
+| First.. Bit? | 93.00% | ~562,186 |
+| Error: Stack Overflow | 66.00% | ~398,971 |
+| We need more gold | 61.00% | ~368,746 |
+| The dawn of civilization | 53.00% | ~320,386 |
 | More FPS for the FPS god! | 49.00% | ~296,205 |
 | Beauty and harmony | 48.00% | ~290,160 |
 | One more! | 44.00% | ~265,980 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Cybergeek 2047 | 2.00% | ~12,090 |
 | Ping | 1.00% | ~6,045 |
 | Magna cum laude | 1.00% | ~6,045 |
-| The hoarder | 0.90% | ~5,440 |
-| Deal with it! | 0.50% | ~3,022 |
+| The hoarder | 0.90% | ~5,441 |
+| Deal with it! | 0.50% | ~3,023 |
 | Gold rush | 0.40% | ~2,418 |
 | Cat-o-holic | 0.40% | ~2,418 |
-| Elements will destroy you! | 0.30% | ~1,813 |
-| The Scrooge | 0.10% | ~604 |
+| Elements will destroy you! | 0.30% | ~1,814 |
+| The Scrooge | 0.10% | ~605 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604,499 (Ranked 29)  
+Progressed: 604,501 (Ranked 29)  
 Completed: 526 (0.09%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 526 (0.09%) (Ranked 232)
 | 2023-09-19 | 604,297 | 526 |
 | 2023-09-20 | 604,383 | 526 |
 | 2023-09-21 | 604,476 | 526 |
-| 2023-09-22 | 604,499 | 526 |
+| 2023-09-22 | 604,501 | 526 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 310)  
 Sum: 134 (Ranked 406)  

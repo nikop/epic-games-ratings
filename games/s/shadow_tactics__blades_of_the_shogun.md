@@ -6,17 +6,17 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,393 |
+| Genin | 11.00% | ~22,394 |
 | A thief's beginning | 10.00% | ~20,358 |
 | Thorough | 10.00% | ~20,358 |
 | Disguised | 8.00% | ~16,286 |
 | Rescue Takuma | 8.00% | ~16,286 |
 | Rollin' | 8.00% | ~16,286 |
 | Tanuki Time | 8.00% | ~16,286 |
-| Ice Ice Yuki | 7.00% | ~14,250 |
-| Jonin | 7.00% | ~14,250 |
-| Stoned Ox | 7.00% | ~14,250 |
-| Yabu | 7.00% | ~14,250 |
+| Ice Ice Yuki | 7.00% | ~14,251 |
+| Jonin | 7.00% | ~14,251 |
+| Stoned Ox | 7.00% | ~14,251 |
+| Yabu | 7.00% | ~14,251 |
 | Chunin | 6.00% | ~12,215 |
 | Flying Rocks | 6.00% | ~12,215 |
 | Happy Planning | 6.00% | ~12,215 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~204 |
 | Release the Kraken | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,577 (Ranked 62)  
+Progressed: 203,579 (Ranked 62)  
 Completed: 84 (0.04%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,10 +206,10 @@ Completed: 84 (0.04%) (Ranked 251)
 | 2023-09-19 | 203,185 | 82 |
 | 2023-09-20 | 203,354 | 83 |
 | 2023-09-21 | 203,528 | 84 |
-| 2023-09-22 | 203,577 | 84 |
+| 2023-09-22 | 203,579 | 84 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
-Sum: 4,765 (Ranked 136)  
+Sum: 4,766 (Ranked 136)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): 55
 | This game has Diverse Characters | 530 |
 | This game is Extremely Fun | 525 |
 | This game has Amazing Storytelling | 507 |
-| This game has Amazing Characters | 489 |
+| This game has Amazing Characters | 490 |
 | This game is Highly Recommended | 486 |
 | This game is Relaxing | 485 |
 | This game has Challenging Combat | 480 |
@@ -401,3 +401,4 @@ Diff (max vs sum): 55
 | 2023-09-19 | 4.66 | - | 566 | 4,761 |
 | 2023-09-20 | 4.66 | - | 566 | 4,762 |
 | 2023-09-21 | 4.66 | - | 566 | 4,765 |
+| 2023-09-22 | 4.66 | - | 566 | 4,766 |

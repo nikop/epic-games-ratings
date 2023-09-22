@@ -3,9 +3,9 @@
   "Name": "Stargate: Timekeepers",
   "ProductSlug": "stargate-timekeepers",
   "Ranking_EOS_Progress": 631,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-18T23:57:28.6627749+00:00",
-  "LastUpdate_Ratings": "2023-09-22T08:00:40.6947746+00:00",
-  "LastUpdate_Achievements": "2023-09-22T08:05:22.2798711+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:01:45.7587585+00:00",
+  "LastUpdate_Achievements": "2023-09-22T09:06:16.5663777+00:00"
 }

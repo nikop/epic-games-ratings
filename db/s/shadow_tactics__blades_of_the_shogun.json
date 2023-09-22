@@ -1541,10 +1541,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4765,
       "NumberOfAwardsMax": 566
+    },
+    {
+      "Time": "2023-09-22T09:01:40.7789846+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4766,
+      "NumberOfAwardsMax": 566
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4765,
+  "NumberOfAwards": 4766,
   "NumberOfAwardsMax": 566,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1606,7 +1612,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 489
+      "Count": 490
     },
     {
       "Text": "This game has a Creative Community",
@@ -1615,9 +1621,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 203577,
+  "EOS_Progressed": 203579,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 1410,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19065,6 +19071,11 @@
       "Time": "2023-09-22T08:08:22.1335405+00:00",
       "NumProgressed": 203577,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-09-22T09:09:02.7399712+00:00",
+      "NumProgressed": 203579,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 44,
@@ -19148,7 +19159,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22393
+      "UsersEstimate": 22394
     },
     {
       "ID": "HappyLittleAccidents",
@@ -19180,7 +19191,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14250
+      "UsersEstimate": 14251
     },
     {
       "ID": "ItsRainingMen",
@@ -19196,7 +19207,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14250
+      "UsersEstimate": 14251
     },
     {
       "ID": "Mercyful",
@@ -19324,7 +19335,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14250
+      "UsersEstimate": 14251
     },
     {
       "ID": "TanukiTime",
@@ -19420,22 +19431,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14250
+      "UsersEstimate": 14251
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 203577,
+      "Progressed": 203579,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-09-21T21:00:05.2898858+00:00",
-  "LastChanged_Achievements": "2023-09-22T08:08:22.1335398+00:00",
+  "LastChanged": "2023-09-22T09:01:40.7789844+00:00",
+  "LastChanged_Achievements": "2023-09-22T09:09:02.7399708+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.289608+00:00",
-  "LastUpdate_Ratings": "2023-09-22T08:00:36.7759995+00:00",
-  "LastUpdate_Achievements": "2023-09-22T08:08:22.1336568+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:01:40.778985+00:00",
+  "LastUpdate_Achievements": "2023-09-22T09:09:02.7401037+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Quest Hunter",
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -919,9 +919,9 @@
       "ID": "questDetective",
       "SetID": "ci65fo0",
       "Name": "True Detective",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "questEnemyTask",
@@ -1100,8 +1100,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-22T08:05:53.8348195+00:00",
+  "LastChanged_Achievements": "2023-09-22T09:06:53.1136955+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:10.772081+00:00",
-  "LastUpdate_Ratings": "2023-09-22T07:58:17.9655686+00:00",
-  "LastUpdate_Achievements": "2023-09-22T08:05:53.8348886+00:00"
+  "LastUpdate_Ratings": "2023-09-22T08:58:51.49807+00:00",
+  "LastUpdate_Achievements": "2023-09-22T09:06:53.113775+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 48,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1816,9 +1816,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 265019,
+  "EOS_Progressed": 265034,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2032,
+  "EOS_NewPlayers": 2037,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19261,6 +19261,11 @@
       "Time": "2023-09-22T08:08:13.7931043+00:00",
       "NumProgressed": 265019,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T09:08:52.9944288+00:00",
+      "NumProgressed": 265034,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -19320,7 +19325,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26502
+      "UsersEstimate": 26503
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -19432,7 +19437,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26502
+      "UsersEstimate": 26503
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -19440,7 +19445,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -19496,7 +19501,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 217316
+      "UsersEstimate": 217328
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19504,22 +19509,22 @@
       "Name": "I know the Rules",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 95407
+      "UsersEstimate": 95412
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 265019,
+      "Progressed": 265034,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-09-20T11:01:29.158061+00:00",
-  "LastChanged_Achievements": "2023-09-22T08:08:13.7931037+00:00",
+  "LastChanged_Achievements": "2023-09-22T09:08:52.9944281+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.6207097+00:00",
-  "LastUpdate_Ratings": "2023-09-22T08:00:47.8200148+00:00",
-  "LastUpdate_Achievements": "2023-09-22T08:08:13.7932102+00:00"
+  "LastUpdate_Ratings": "2023-09-22T09:01:54.9649062+00:00",
+  "LastUpdate_Achievements": "2023-09-22T09:08:52.994548+00:00"
 }

@@ -90,7 +90,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Wingman | 0.10% | ~802 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 802,179 (Ranked 16)  
-Completed: 49 (0.01%) (Ranked 269)  
+Completed: 49 (0.01%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

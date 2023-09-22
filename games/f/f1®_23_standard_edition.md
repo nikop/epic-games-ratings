@@ -8,7 +8,7 @@ Rating: 4.67 (Ranked 259)
 | Getting on the Step | 92.00% | ~1,004 |
 | On the Top Step | 85.00% | ~927 |
 | Setting up for Success | 75.00% | ~818 |
-| Team Orders | 74.00% | ~807 |
+| Team Orders | 75.00% | ~818 |
 | Engineer | 55.00% | ~600 |
 | Familiar Faces | 46.00% | ~502 |
 | Going the Extra Mile | 42.00% | ~458 |
@@ -56,7 +56,7 @@ Rating: 4.67 (Ranked 259)
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,091 (Ranked 221)  
-Completed: 0 (0.00%) (Ranked 285)  
+Completed: 0 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

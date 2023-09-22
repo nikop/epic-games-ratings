@@ -6,9 +6,9 @@
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -878,9 +878,9 @@
       "ID": "achievement_0021",
       "SetID": "9123ogc",
       "Name": "Team Orders",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 818
     },
     {
       "ID": "achievement_0022",
@@ -1119,8 +1119,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-09-21T19:58:49.7438625+00:00",
-  "LastChanged_Achievements": "2023-09-22T08:03:18.2919767+00:00",
+  "LastChanged_Achievements": "2023-09-22T09:02:32.6828595+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.5356623+00:00",
-  "LastUpdate_Ratings": "2023-09-22T07:58:53.7871527+00:00",
-  "LastUpdate_Achievements": "2023-09-22T08:03:18.2920162+00:00"
+  "LastUpdate_Ratings": "2023-09-22T08:59:34.3642473+00:00",
+  "LastUpdate_Achievements": "2023-09-22T09:02:32.6829079+00:00"
 }
