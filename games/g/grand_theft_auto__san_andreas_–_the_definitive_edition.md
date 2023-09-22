@@ -5,9 +5,9 @@ Rating: 4.55 (Ranked 486)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,269 |
-| Pay 'n' Spray | 50.00% | ~6,339 |
-| All Dressed Up for San Fierro | 26.00% | ~3,296 |
+| Getting Started | 81.00% | ~10,270 |
+| Pay 'n' Spray | 50.00% | ~6,340 |
+| All Dressed Up for San Fierro | 26.00% | ~3,297 |
 | The American Dream | 19.00% | ~2,409 |
 | School's Out | 18.00% | ~2,282 |
 | Smooth Moves | 17.00% | ~2,155 |
@@ -17,7 +17,7 @@ Rating: 4.55 (Ranked 486)
 | Liberty City State of Mind | 10.00% | ~1,268 |
 | The End of the Line | 8.00% | ~1,014 |
 | Original Gangster | 8.00% | ~1,014 |
-| With Extra Dip | 7.00% | ~887 |
+| With Extra Dip | 7.00% | ~888 |
 | Saviour | 6.00% | ~761 |
 | They Can’t Stop All of Us | 5.00% | ~634 |
 | Rescue a Kitten Too? | 5.00% | ~634 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 486)
 | ...Here we go again | 0.50% | ~63 |
 | I Ain't No Buster | 0.30% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,678 (Ranked 128)  
+Progressed: 12,679 (Ranked 128)  
 Completed: 45 (0.35%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,17 +196,17 @@ Completed: 45 (0.35%) (Ranked 177)
 | 2023-09-19 | 12,569 | 45 |
 | 2023-09-20 | 12,599 | 45 |
 | 2023-09-21 | 12,641 | 45 |
-| 2023-09-22 | 12,678 | 45 |
+| 2023-09-22 | 12,679 | 45 |
 ## Awards
 Max (Great Boss Battles): 303  (Ranked 239)  
-Sum: 400 (Ranked 321)  
-Diff (max vs sum): -82  
+Sum: 401 (Ranked 320)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 303 |
 | This game is Relaxing | 26 |
 | This game has Amazing Storytelling | 25 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -337,4 +337,4 @@ Diff (max vs sum): -82
 | 2023-09-19 | 4.56 | 295 | 391 |
 | 2023-09-20 | 4.56 | 302 | 398 |
 | 2023-09-21 | 4.55 | 303 | 399 |
-| 2023-09-22 | 4.55 | 303 | 400 |
+| 2023-09-22 | 4.55 | 303 | 401 |

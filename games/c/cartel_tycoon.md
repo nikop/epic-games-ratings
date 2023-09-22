@@ -12,8 +12,8 @@ Number of Ratings: 101  (23.09.2022)
 | Camellos | 57.00% | ~335 |
 | Bad Trip | 46.00% | ~270 |
 | Didn't Miss A Single One | 45.00% | ~264 |
+| Spread | 41.00% | ~241 |
 | That was base | 40.00% | ~235 |
-| Spread | 40.00% | ~235 |
 | Safe Pair of Hands | 36.00% | ~211 |
 | Don't Let Mom Know You're A Druglord | 30.00% | ~176 |
 | Architect of Fortunes | 27.00% | ~158 |

@@ -26,7 +26,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadication | 2.00% | ~59 |
 | We've Got a Kaiju on the Field | 2.00% | ~59 |
 | Season Finale | 2.00% | ~59 |
-| The Fourth Gate | 0.90% | ~26 |
+| The Fourth Gate | 1.00% | ~29 |
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)

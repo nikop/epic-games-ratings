@@ -141,9 +141,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_12",
@@ -189,9 +189,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 71,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_18",
@@ -229,9 +229,9 @@
       "ID": "achievement_21",
       "SetID": "2cpn27e",
       "Name": "Left Arm Leverager",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_22",
@@ -413,9 +413,9 @@
       "ID": "achievement_42",
       "SetID": "2cpn27e",
       "Name": "Quintessence of Form",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_43",
@@ -501,9 +501,9 @@
       "ID": "achievement_9",
       "SetID": "2cpn27e",
       "Name": "Karakuri Minato",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -515,8 +515,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:09:07.8158531+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:09:42.8118239+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:21.8560394+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:59:23.016386+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:09:07.815887+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:00:33.3748931+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:09:42.8118707+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 888,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
-  "Ranking_EOS_Progress": 83,
+  "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3092,9 +3092,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72728,
+  "EOS_Progressed": 72730,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16282,6 +16282,11 @@
       "Time": "2023-09-22T15:05:11.3160816+00:00",
       "NumProgressed": 72728,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-09-22T16:06:21.4890373+00:00",
+      "NumProgressed": 72730,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 61,
@@ -16341,7 +16346,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16727
+      "UsersEstimate": 16728
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16373,7 +16378,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8727
+      "UsersEstimate": 8728
     },
     {
       "ID": "APPLY_STATUS",
@@ -16381,7 +16386,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10909
+      "UsersEstimate": 10910
     },
     {
       "ID": "CHALLENGES_1",
@@ -16469,7 +16474,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8727
+      "UsersEstimate": 8728
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -16517,7 +16522,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21091
+      "UsersEstimate": 21092
     },
     {
       "ID": "FREEZE_1_5",
@@ -16533,7 +16538,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13818
+      "UsersEstimate": 13819
     },
     {
       "ID": "FREEZE_3",
@@ -16597,7 +16602,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25455
+      "UsersEstimate": 25456
     },
     {
       "ID": "HARLEY_2",
@@ -16621,7 +16626,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11636
+      "UsersEstimate": 11637
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16637,7 +16642,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37819
+      "UsersEstimate": 37820
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16701,7 +16706,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16727
+      "UsersEstimate": 16728
     },
     {
       "ID": "MYSTERY_04",
@@ -16725,7 +16730,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10909
+      "UsersEstimate": 10910
     },
     {
       "ID": "MYSTERY_07",
@@ -16741,7 +16746,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8727
+      "UsersEstimate": 8728
     },
     {
       "ID": "SECRET_CACHE",
@@ -16780,13 +16785,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72728,
+      "Progressed": 72730,
       "Completed": 116
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43008,
+      "Progressed": 43010,
       "Completed": 2665
     }
   ],
@@ -16794,8 +16799,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-22T10:03:05.2109929+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:05:11.3160812+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:06:21.4890367+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:02:10.9481619+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:05:11.3161856+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:02:57.971473+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:06:21.4892344+00:00"
 }

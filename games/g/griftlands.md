@@ -1,7 +1,7 @@
 # Griftlands
 [Store](https://store.epicgames.com/en-US/p/griftlands)  
 [View Rawdata](../../db/g/griftlands.json)  
-Rating: 4.79 (Ranked 90)  
+Rating: 4.80 (Ranked 84)  
 Number of Ratings: 151  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -53,3 +53,4 @@ Number of Ratings: 151  (23.09.2022)
 | 2023-05-10 | 4.79 | - | 0 | 0 |
 | 2023-07-19 | 4.80 | - | 0 | 0 |
 | 2023-09-14 | 4.79 | - | 0 | 0 |
+| 2023-09-22 | 4.80 | - | 0 | 0 |

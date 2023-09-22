@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2033,
+  "EOS_Progressed": 2034,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2481,6 +2481,11 @@
       "Time": "2023-09-22T15:09:07.044621+00:00",
       "NumProgressed": 2033,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-22T16:09:41.7548491+00:00",
+      "NumProgressed": 2034,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2500,7 +2505,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACHV_03",
@@ -2692,7 +2697,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "ACHV_27",
@@ -2724,7 +2729,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHV_31",
@@ -2796,7 +2801,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACHV_40",
@@ -2947,7 +2952,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2033,
+      "Progressed": 2034,
       "Completed": 12
     }
   ],
@@ -2955,8 +2960,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:09:07.0446206+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:09:41.7548484+00:00",
   "LastUpdate_AppInfo": "2023-09-16T07:57:12.216001+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:58:04.3162948+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:09:07.0446719+00:00"
+  "LastUpdate_Ratings": "2023-09-22T15:58:38.2043246+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:09:41.7549206+00:00"
 }

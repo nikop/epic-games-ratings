@@ -5,15 +5,15 @@ Rating: 4.24 (Ranked 845)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,626 |
-| Don't I Know You...? | 76.00% | ~1,545 |
-| Jailbreak | 65.00% | ~1,321 |
+| Rigged And Ready | 80.00% | ~1,627 |
+| Don't I Know You...? | 76.00% | ~1,546 |
+| Jailbreak | 65.00% | ~1,322 |
 | HEADSHOT! | 38.00% | ~773 |
 | Suited and Booted | 38.00% | ~773 |
 | Sleeping With The Fishes | 35.00% | ~712 |
 | Overheated | 30.00% | ~610 |
 | High Performance | 30.00% | ~610 |
-| Powered Up | 28.00% | ~569 |
+| Powered Up | 28.00% | ~570 |
 | Studied The Blade | 25.00% | ~508 |
 | Home Invasion | 23.00% | ~468 |
 | Luminary | 22.00% | ~447 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 845)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,033 (Ranked 192)  
+Progressed: 2,034 (Ranked 192)  
 Completed: 12 (0.59%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 12 (0.59%) (Ranked 150)
 | 2023-09-19 | 2,020 | 12 |
 | 2023-09-20 | 2,024 | 12 |
 | 2023-09-21 | 2,028 | 12 |
-| 2023-09-22 | 2,033 | 12 |
+| 2023-09-22 | 2,034 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

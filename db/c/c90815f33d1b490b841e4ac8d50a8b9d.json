@@ -4,7 +4,7 @@
   "ProductSlug": "tidal-music",
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:44.8794859+00:00",
   "LastChanged": "2023-03-31T05:58:44.879486+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:31.302883+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:58:46.9205147+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:03:45.8190581+00:00"
+  "LastUpdate_Ratings": "2023-09-22T15:59:44.8358809+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:04:23.8647227+00:00"
 }

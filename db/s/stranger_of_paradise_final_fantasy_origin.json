@@ -2,13 +2,13 @@
   "ID": "d2b282a6b53e409a8f8329d3d3356f21",
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
-  "Ranking_Rating": 547,
+  "Ranking_Rating": 548,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1678,7 +1678,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 79611,
+  "EOS_Progressed": 79612,
   "EOS_Completed": 2176,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
@@ -8128,6 +8128,11 @@
       "Time": "2023-09-22T14:08:36.0427375+00:00",
       "NumProgressed": 79611,
       "NumCompleted": 2176
+    },
+    {
+      "Time": "2023-09-22T16:08:28.0365435+00:00",
+      "NumProgressed": 79612,
+      "NumCompleted": 2176
     }
   ],
   "TotalAchievements": 46,
@@ -8147,7 +8152,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 65281
+      "UsersEstimate": 65282
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -8155,7 +8160,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 58912
+      "UsersEstimate": 58913
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -8163,7 +8168,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 54135
+      "UsersEstimate": 54136
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -8171,7 +8176,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 50155
+      "UsersEstimate": 50156
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -8179,7 +8184,7 @@
       "Name": "A Landscape of Memory",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 46174
+      "UsersEstimate": 46175
     },
     {
       "ID": "006_TROPHY_MISSION_WIND_MEMORIES",
@@ -8195,7 +8200,7 @@
       "Name": "Vague Remembrances",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 39009
+      "UsersEstimate": 39010
     },
     {
       "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
@@ -8203,7 +8208,7 @@
       "Name": "The Fire\u0027s Light",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37417
+      "UsersEstimate": 37418
     },
     {
       "ID": "009_TROPHY_MISSION_PAST_PHANTOM",
@@ -8211,7 +8216,7 @@
       "Name": "Phantom Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37417
+      "UsersEstimate": 37418
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -8235,7 +8240,7 @@
       "Name": "The Water\u0027s Light",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31844
+      "UsersEstimate": 31845
     },
     {
       "ID": "013_TROPHY_MISSION_PAST_SCHEME",
@@ -8291,7 +8296,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52543
+      "UsersEstimate": 52544
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -8307,7 +8312,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 77223
+      "UsersEstimate": 77224
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -8315,7 +8320,7 @@
       "Name": "Imbued Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37417
+      "UsersEstimate": 37418
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -8323,7 +8328,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 68465
+      "UsersEstimate": 68466
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -8339,7 +8344,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 67669
+      "UsersEstimate": 67670
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -8355,7 +8360,7 @@
       "Name": "Artifact Collector",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 17514
+      "UsersEstimate": 17515
     },
     {
       "ID": "028_TROPHY_USE_JOB_CREST",
@@ -8371,7 +8376,7 @@
       "Name": "True Potential",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 17514
+      "UsersEstimate": 17515
     },
     {
       "ID": "030_TROPHY_UNLOCK_ALL_JOB_BONUS",
@@ -8379,7 +8384,7 @@
       "Name": "Polymath",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 17514
+      "UsersEstimate": 17515
     },
     {
       "ID": "031_TROPHY_COMPLETE_JOB_TREE",
@@ -8411,7 +8416,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 56524
+      "UsersEstimate": 56525
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -8491,7 +8496,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31844
+      "UsersEstimate": 31845
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -8506,15 +8511,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 79611,
+      "Progressed": 79612,
       "Completed": 2176
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-09-16T11:00:51.4329786+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:06:42.6429614+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:08:28.036543+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.6691878+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:57:04.5764192+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:06:42.643019+00:00"
+  "LastUpdate_Ratings": "2023-09-22T15:57:13.9767991+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:08:28.0367196+00:00"
 }

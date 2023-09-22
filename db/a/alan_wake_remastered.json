@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65961,
+  "EOS_Progressed": 65963,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15512,6 +15512,11 @@
       "Time": "2023-09-22T15:04:55.4642043+00:00",
       "NumProgressed": 65961,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-22T16:05:59.2335632+00:00",
+      "NumProgressed": 65963,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15523,7 +15528,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27044
+      "UsersEstimate": 27045
     },
     {
       "ID": "02",
@@ -15539,7 +15544,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16490
+      "UsersEstimate": 16491
     },
     {
       "ID": "04",
@@ -15547,7 +15552,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "05",
@@ -15555,7 +15560,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14511
+      "UsersEstimate": 14512
     },
     {
       "ID": "06",
@@ -15707,7 +15712,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "25",
@@ -15715,7 +15720,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5936
+      "UsersEstimate": 5937
     },
     {
       "ID": "26",
@@ -15723,7 +15728,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "27",
@@ -15755,7 +15760,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "31",
@@ -15763,7 +15768,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11213
+      "UsersEstimate": 11214
     },
     {
       "ID": "32",
@@ -15843,7 +15848,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11213
+      "UsersEstimate": 11214
     },
     {
       "ID": "42",
@@ -15987,7 +15992,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "60",
@@ -16058,21 +16063,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65961,
+      "Progressed": 65963,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29429,
+      "Progressed": 29431,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:04:55.4642035+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:05:59.2335625+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:59:18.7167491+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:04:55.4643233+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:00:26.8551572+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:05:59.2338513+00:00"
 }

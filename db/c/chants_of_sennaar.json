@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -893,9 +893,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "END_GOOD",
@@ -917,9 +917,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "META_FIRST_LINK",
@@ -989,9 +989,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1029,9 +1029,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1085,9 +1085,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
@@ -1100,8 +1100,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:09:04.5642078+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:09:38.3103605+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:00:38.0048084+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:09:04.5642235+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:02:22.9176896+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:09:38.3103921+00:00"
 }

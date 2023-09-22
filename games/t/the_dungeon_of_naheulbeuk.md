@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,024 |
-| Alt+F4 | 5.00% | ~11,294 |
-| Déjà vu | 4.00% | ~9,035 |
-| Where's that freaking Dwarf? | 4.00% | ~9,035 |
-| A beer, two curses, three companions | 3.00% | ~6,776 |
-| Sock! SOCK! | 3.00% | ~6,776 |
-| GG EZ | 3.00% | ~6,776 |
-| Speedrun | 3.00% | ~6,776 |
+| Sowwy! | 31.00% | ~70,028 |
+| Alt+F4 | 5.00% | ~11,295 |
+| Déjà vu | 4.00% | ~9,036 |
+| Where's that freaking Dwarf? | 4.00% | ~9,036 |
+| A beer, two curses, three companions | 3.00% | ~6,777 |
+| Sock! SOCK! | 3.00% | ~6,777 |
+| GG EZ | 3.00% | ~6,777 |
+| Speedrun | 3.00% | ~6,777 |
 | Livin' in a dwarven paradise | 2.00% | ~4,518 |
 | Way of the Wimp | 2.00% | ~4,518 |
 | The plot thickens... At the tavern | 2.00% | ~4,518 |
@@ -73,6 +73,7 @@ Number of Ratings: 118  (23.09.2022)
 | Imposture and Trowels | 0.10% | ~226 |
 | Deep changes | 0.10% | ~226 |
 | A broken clock… | 0.10% | ~226 |
+| Sleep schedule mastery | 0.10% | ~226 |
 | Cute Dungeon | 0.10% | ~226 |
 | Mystical Dungeon | 0.10% | ~226 |
 | Gloomy Dungeon | 0.10% | ~226 |
@@ -93,9 +94,8 @@ Number of Ratings: 118  (23.09.2022)
 | Demisemiquaver | 0.10% | ~226 |
 | Dumb and dumber | 0.10% | ~226 |
 | Dwarf Candy | 0.10% | ~226 |
-| Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,883 (Ranked 58)  
+Progressed: 225,898 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 3 (0.00%) (Ranked 287)
 | 2023-09-19 | 225,343 | 3 |
 | 2023-09-20 | 225,552 | 3 |
 | 2023-09-21 | 225,765 | 3 |
-| 2023-09-22 | 225,883 | 3 |
+| 2023-09-22 | 225,898 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 275)  
 Sum: 362 (Ranked 330)  

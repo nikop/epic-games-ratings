@@ -6,9 +6,9 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43289,
+  "EOS_Progressed": 43290,
   "EOS_Completed": 238,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 3,
@@ -15596,6 +15596,11 @@
       "Time": "2023-09-22T13:08:50.7578191+00:00",
       "NumProgressed": 43289,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-22T16:04:28.7573984+00:00",
+      "NumProgressed": 43290,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15639,7 +15644,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6060
+      "UsersEstimate": 6061
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -15679,7 +15684,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6060
+      "UsersEstimate": 6061
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -15727,7 +15732,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34631
+      "UsersEstimate": 34632
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15823,7 +15828,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10389
+      "UsersEstimate": 10390
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -15831,7 +15836,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23809
+      "UsersEstimate": 23810
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -15839,7 +15844,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13852
+      "UsersEstimate": 13853
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -15847,7 +15852,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27272
+      "UsersEstimate": 27273
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -15871,7 +15876,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25973
+      "UsersEstimate": 25974
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -15895,7 +15900,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6060
+      "UsersEstimate": 6061
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -15943,7 +15948,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40259
+      "UsersEstimate": 40260
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -15951,14 +15956,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22510
+      "UsersEstimate": 22511
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43289,
+      "Progressed": 43290,
       "Completed": 238
     }
   ],
@@ -15966,8 +15971,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:03:49.5396079+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:04:28.7573977+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:19.6302549+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:59:46.6073384+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:03:49.5397093+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:01:05.6535531+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:04:28.7575701+00:00"
 }

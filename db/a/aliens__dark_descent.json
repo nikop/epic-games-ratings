@@ -5,9 +5,9 @@
   "Ranking_Rating": 584,
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 487,
-  "Ranking_EOS_Progress": 175,
+  "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -4925,9 +4925,9 @@
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1976
+      "UsersEstimate": 2010
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4982,8 +4982,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:03:13.6027305+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:03:30.3677981+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:57:26.6939701+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:03:13.6027783+00:00"
+  "LastUpdate_Ratings": "2023-09-22T15:57:46.0005394+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:03:30.3678697+00:00"
 }

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dicesmithing Time! | 100.00% | ~3 |
-| Endless Tricks | 100.00% | ~3 |
-| Mechanical Buddy | 100.00% | ~3 |
-| Meissa's Savior | 100.00% | ~3 |
-| Purification Pioneer | 100.00% | ~3 |
-| Stellar Dismantler | 100.00% | ~3 |
-| Sanctuary Guardian | 67.00% | ~2 |
-| Wild's Keeper | 67.00% | ~2 |
-| Anomaly Destroyer | 33.00% | ~1 |
-| Arch-Oracle | 33.00% | ~1 |
-| Denying Destiny | 33.00% | ~1 |
-| Favored by the Cosmos | 33.00% | ~1 |
-| Heart Gate | 33.00% | ~1 |
-| Loyal Partner | 33.00% | ~1 |
-| Mind Illuminator | 33.00% | ~1 |
-| Plague Doctor | 33.00% | ~1 |
-| Sadistic Plan | 33.00% | ~1 |
-| Sentinelphobic | 33.00% | ~1 |
-| Skeptical | 33.00% | ~1 |
-| Stellar Haste | 33.00% | ~1 |
-| The Corruption Goddess | 33.00% | ~1 |
-| Unbeatable | 33.00% | ~1 |
-| Unepic Hero | 33.00% | ~1 |
+| Meissa's Savior | 100.00% | ~4 |
+| Dicesmithing Time! | 75.00% | ~3 |
+| Endless Tricks | 75.00% | ~3 |
+| Mechanical Buddy | 75.00% | ~3 |
+| Purification Pioneer | 75.00% | ~3 |
+| Stellar Dismantler | 75.00% | ~3 |
+| Sanctuary Guardian | 50.00% | ~2 |
+| Wild's Keeper | 50.00% | ~2 |
+| Anomaly Destroyer | 25.00% | ~1 |
+| Arch-Oracle | 25.00% | ~1 |
+| Denying Destiny | 25.00% | ~1 |
+| Favored by the Cosmos | 25.00% | ~1 |
+| Heart Gate | 25.00% | ~1 |
+| Loyal Partner | 25.00% | ~1 |
+| Mind Illuminator | 25.00% | ~1 |
+| Plague Doctor | 25.00% | ~1 |
+| Sadistic Plan | 25.00% | ~1 |
+| Sentinelphobic | 25.00% | ~1 |
+| Skeptical | 25.00% | ~1 |
+| Stellar Haste | 25.00% | ~1 |
+| The Corruption Goddess | 25.00% | ~1 |
+| Unbeatable | 25.00% | ~1 |
+| Unepic Hero | 25.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -85,9 +85,9 @@
 | Virtuous Warrior | 0.00% | ~0 |
 | Wave Bender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 541)  
+Progressed: 4 (Ranked 531)  
 Completed: 0 (0.00%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-22 | 3 | 0 |
+| 2023-09-22 | 4 | 0 |

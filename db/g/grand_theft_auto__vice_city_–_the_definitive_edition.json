@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -664,9 +664,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 10213,
+  "EOS_Progressed": 10215,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10124,6 +10124,11 @@
       "Time": "2023-09-22T15:04:04.8350229+00:00",
       "NumProgressed": 10213,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-09-22T16:04:49.4341274+00:00",
+      "NumProgressed": 10215,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 34,
@@ -10151,7 +10156,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH04",
@@ -10215,7 +10220,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACH12",
@@ -10239,7 +10244,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4289
+      "UsersEstimate": 4290
     },
     {
       "ID": "ACH15",
@@ -10295,7 +10300,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "ACH22",
@@ -10311,7 +10316,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "ACH24",
@@ -10406,7 +10411,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10213,
+      "Progressed": 10215,
       "Completed": 57
     }
   ],
@@ -10414,8 +10419,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-22T04:00:26.0954843+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:04:04.8350226+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:04:49.4341269+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:00:08.8091663+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:04:04.8350848+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:01:39.6558002+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:04:49.434219+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2662,9 +2662,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 31014,
+  "EOS_Progressed": 31015,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -19562,6 +19562,11 @@
       "Time": "2023-09-22T15:08:23.5996284+00:00",
       "NumProgressed": 31014,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-09-22T16:09:09.5898341+00:00",
+      "NumProgressed": 31015,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 60,
@@ -19573,7 +19578,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17988
+      "UsersEstimate": 17989
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -19581,7 +19586,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14266
+      "UsersEstimate": 14267
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -19589,7 +19594,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17678
+      "UsersEstimate": 17679
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -19677,7 +19682,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3101
+      "UsersEstimate": 3102
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -19709,7 +19714,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9614
+      "UsersEstimate": 9615
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -19717,7 +19722,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7443
+      "UsersEstimate": 7444
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -19733,7 +19738,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11475
+      "UsersEstimate": 11476
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -19741,7 +19746,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7443
+      "UsersEstimate": 7444
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -19757,7 +19762,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7443
+      "UsersEstimate": 7444
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -19765,7 +19770,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11475
+      "UsersEstimate": 11476
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -19885,7 +19890,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5272
+      "UsersEstimate": 5273
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -19933,7 +19938,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9614
+      "UsersEstimate": 9615
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -19957,7 +19962,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13956
+      "UsersEstimate": 13957
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -20029,7 +20034,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5272
+      "UsersEstimate": 5273
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -20037,7 +20042,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3101
+      "UsersEstimate": 3102
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -20052,15 +20057,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 31014,
+      "Progressed": 31015,
       "Completed": 253
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-20T21:00:27.5455441+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:08:23.5996281+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:09:09.5898333+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.8919956+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:00:51.0821776+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:08:23.5997493+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:02:43.1983989+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:09:09.5900314+00:00"
 }

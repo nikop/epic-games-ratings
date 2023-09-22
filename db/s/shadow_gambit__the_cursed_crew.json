@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1809,9 +1809,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 205
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2026,8 +2026,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:04:13.0561725+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:05:00.6052399+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:00:01.1416595+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:04:13.0561966+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:01:28.2766669+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:05:00.60527+00:00"
 }

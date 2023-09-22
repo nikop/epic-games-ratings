@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3444,
+  "EOS_Progressed": 3445,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4624,6 +4624,11 @@
       "Time": "2023-09-22T09:06:18.3545895+00:00",
       "NumProgressed": 3444,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-22T16:06:34.9803471+00:00",
+      "NumProgressed": 3445,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4827,7 +4832,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4859,7 +4864,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4899,7 +4904,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -4955,7 +4960,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4970,15 +4975,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3444,
+      "Progressed": 3445,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:05:21.3255896+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:06:34.9803462+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:59:55.943603+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:05:21.3256334+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:01:20.7037097+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:06:34.9804094+00:00"
 }

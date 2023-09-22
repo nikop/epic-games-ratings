@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
@@ -3601,10 +3601,16 @@
       "Rating": 3.91,
       "NumberOfAwards": 3266,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-09-22T15:58:09.8344997+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3267,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3266,
+  "NumberOfAwards": 3267,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3630,7 +3636,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 410
+      "Count": 411
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3686,8 +3692,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-09-21T10:58:26.1776967+00:00",
+  "LastChanged": "2023-09-22T15:58:09.8344996+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:02.5990123+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:57:43.3368441+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:08:39.6025177+00:00"
+  "LastUpdate_Ratings": "2023-09-22T15:58:09.8345006+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:09:31.5953402+00:00"
 }

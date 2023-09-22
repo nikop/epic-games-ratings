@@ -4,10 +4,10 @@
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 653,
   "Ranking_Popularity": 188,
-  "Ranking_PopularitySum": 182,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-10-06T16:00:00+00:00",
@@ -2479,6 +2479,6 @@
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
   "LastChanged": "2023-09-22T03:01:15.0227492+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:24.3626153+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:02:04.9801772+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:02:22.7605808+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:02:48.8848302+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:03:16.6607197+00:00"
 }

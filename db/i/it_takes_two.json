@@ -2,10 +2,10 @@
   "ID": "8ae7b3c0f490471b967ce26cc2f6e0e6",
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
-  "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1727,
-  "EOS_Completed": 9,
-  "EOS_NewPlayers": 1725,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Progressed": 1792,
+  "EOS_Completed": 10,
+  "EOS_NewPlayers": 1790,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-09-20T21:06:26.7864731+00:00",
@@ -235,6 +235,11 @@
       "Time": "2023-09-22T15:06:47.3143352+00:00",
       "NumProgressed": 1727,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-22T16:08:34.2745347+00:00",
+      "NumProgressed": 1792,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -245,9 +250,9 @@
       "ID": "achievement_1",
       "SetID": "2bk7oji",
       "Name": "It Took Two",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 604
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_10",
@@ -255,7 +260,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_11",
@@ -263,7 +268,7 @@
       "Name": "Realize Your Art",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_12",
@@ -271,7 +276,7 @@
       "Name": "On Rails Experience",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 967
+      "UsersEstimate": 1004
     },
     {
       "ID": "achievement_13",
@@ -279,7 +284,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_14",
@@ -287,7 +292,7 @@
       "Name": "Force Triangulated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_15",
@@ -295,7 +300,7 @@
       "Name": "Lost And Found",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_16",
@@ -303,7 +308,7 @@
       "Name": "Mood Swing",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_17",
@@ -311,7 +316,7 @@
       "Name": "Something Fishy",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_18",
@@ -319,7 +324,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_19",
@@ -327,7 +332,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 311
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_2",
@@ -335,15 +340,15 @@
       "Name": "Minigame Megalomania",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_20",
       "SetID": "2bk7oji",
       "Name": "Meditation Maestro",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_3",
@@ -351,7 +356,7 @@
       "Name": "Fried Friendship",
       "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1595
     },
     {
       "ID": "achievement_4",
@@ -359,15 +364,15 @@
       "Name": "Struck A Pose",
       "Percentage": 86,
       "XP": 50,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1541
     },
     {
       "ID": "achievement_5",
       "SetID": "2bk7oji",
       "Name": "Plastic Prison Breakers",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_6",
@@ -375,23 +380,23 @@
       "Name": "Faraway Frequencies",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_7",
       "SetID": "2bk7oji",
       "Name": "Look At Him Go",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1398
     },
     {
       "ID": "achievement_8",
       "SetID": "2bk7oji",
       "Name": "Break the Bank",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 725
+      "UsersEstimate": 771
     },
     {
       "ID": "achievement_9",
@@ -399,20 +404,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 898
+      "UsersEstimate": 932
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 1727,
-      "Completed": 9
+      "Progressed": 1792,
+      "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:06:47.3143347+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:08:34.2745341+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:00.8325724+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:57:43.5144909+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:06:47.3143481+00:00"
+  "LastUpdate_Ratings": "2023-09-22T15:58:10.0451777+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:08:34.2745541+00:00"
 }

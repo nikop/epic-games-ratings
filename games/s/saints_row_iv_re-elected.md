@@ -5,68 +5,68 @@ Rating: 4.40 (Ranked 712)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~173,535 |
-| Destroyer-In-Chief | 57.00% | ~154,555 |
-| There Is No Pancakes | 54.00% | ~146,420 |
-| First of Many | 42.00% | ~113,883 |
-| Woah. | 37.00% | ~100,325 |
-| Don't Look Down | 29.00% | ~78,633 |
-| Don't Panic | 28.00% | ~75,922 |
-| Ooo A Piece of Candy! | 23.00% | ~62,364 |
-| Ghost in the Machine | 18.00% | ~48,807 |
-| All Too Easy | 15.00% | ~40,672 |
-| Didn't Need to See Him Naked | 14.00% | ~37,961 |
-| Indomitable | 10.00% | ~27,115 |
-| Blast from the Past | 9.00% | ~24,403 |
-| Bow to the Boss! | 9.00% | ~24,403 |
-| Friend of the Raptors | 9.00% | ~24,403 |
-| About Time! | 8.00% | ~21,692 |
-| Actor-Turned-Politician | 7.00% | ~18,980 |
-| Betrayed | 7.00% | ~18,980 |
-| Maximum Stopping Power | 7.00% | ~18,980 |
-| Poodle Skirt | 7.00% | ~18,980 |
-| You Chose... Poorly | 7.00% | ~18,980 |
-| Double Team | 6.00% | ~16,269 |
-| Keymaster | 6.00% | ~16,269 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~13,557 |
-| Imperator | 5.00% | ~13,557 |
-| ...A Saint Gets a Gun | 4.00% | ~10,846 |
-| Half Way Home | 4.00% | ~10,846 |
-| How It Should Be | 4.00% | ~10,846 |
-| Machine Man | 4.00% | ~10,846 |
-| The Full Kinzie | 4.00% | ~10,846 |
-| And I Ran... | 3.00% | ~8,134 |
-| Chill Out | 3.00% | ~8,134 |
-| Elementary | 3.00% | ~8,134 |
-| On Her Saint's Secret Service | 3.00% | ~8,134 |
-| Paranormal Bromance | 3.00% | ~8,134 |
-| Saints & Sensibility | 3.00% | ~8,134 |
-| The Two Shaundis | 3.00% | ~8,134 |
-| Benjamin [CENSORED] King | 2.00% | ~5,423 |
-| Better This Way | 2.00% | ~5,423 |
-| Bouncin' with an Old Friend | 2.00% | ~5,423 |
-| Our Gift to You | 2.00% | ~5,423 |
-| The Face of the Saints | 2.00% | ~5,423 |
-| The Twin Saints | 2.00% | ~5,423 |
-| Where's My Cape? | 2.00% | ~5,423 |
-| A Real Cluster.... | 1.00% | ~2,711 |
-| A Very Genki Holiday | 1.00% | ~2,711 |
-| Here! Catch! | 1.00% | ~2,711 |
-| Minty Fresh! | 1.00% | ~2,711 |
-| Switch Hitter | 1.00% | ~2,711 |
-| The Whole Story | 1.00% | ~2,711 |
-| Zoo Keeper | 1.00% | ~2,711 |
-| Make a List, Check it Twice | 0.90% | ~2,440 |
+| Zero Saints Thirty | 64.00% | ~173,561 |
+| Destroyer-In-Chief | 57.00% | ~154,578 |
+| There Is No Pancakes | 54.00% | ~146,442 |
+| First of Many | 42.00% | ~113,899 |
+| Woah. | 37.00% | ~100,340 |
+| Don't Look Down | 29.00% | ~78,645 |
+| Don't Panic | 28.00% | ~75,933 |
+| Ooo A Piece of Candy! | 23.00% | ~62,373 |
+| Ghost in the Machine | 18.00% | ~48,814 |
+| All Too Easy | 15.00% | ~40,678 |
+| Didn't Need to See Him Naked | 14.00% | ~37,966 |
+| Indomitable | 10.00% | ~27,119 |
+| Blast from the Past | 9.00% | ~24,407 |
+| Bow to the Boss! | 9.00% | ~24,407 |
+| Friend of the Raptors | 9.00% | ~24,407 |
+| About Time! | 8.00% | ~21,695 |
+| Actor-Turned-Politician | 7.00% | ~18,983 |
+| Betrayed | 7.00% | ~18,983 |
+| Maximum Stopping Power | 7.00% | ~18,983 |
+| Poodle Skirt | 7.00% | ~18,983 |
+| You Chose... Poorly | 7.00% | ~18,983 |
+| Double Team | 6.00% | ~16,271 |
+| Keymaster | 6.00% | ~16,271 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~13,559 |
+| Imperator | 5.00% | ~13,559 |
+| ...A Saint Gets a Gun | 4.00% | ~10,848 |
+| Half Way Home | 4.00% | ~10,848 |
+| How It Should Be | 4.00% | ~10,848 |
+| Machine Man | 4.00% | ~10,848 |
+| The Full Kinzie | 4.00% | ~10,848 |
+| And I Ran... | 3.00% | ~8,136 |
+| Chill Out | 3.00% | ~8,136 |
+| Elementary | 3.00% | ~8,136 |
+| On Her Saint's Secret Service | 3.00% | ~8,136 |
+| Paranormal Bromance | 3.00% | ~8,136 |
+| Saints & Sensibility | 3.00% | ~8,136 |
+| The Two Shaundis | 3.00% | ~8,136 |
+| Benjamin [CENSORED] King | 2.00% | ~5,424 |
+| Better This Way | 2.00% | ~5,424 |
+| Bouncin' with an Old Friend | 2.00% | ~5,424 |
+| Our Gift to You | 2.00% | ~5,424 |
+| The Face of the Saints | 2.00% | ~5,424 |
+| The Twin Saints | 2.00% | ~5,424 |
+| Where's My Cape? | 2.00% | ~5,424 |
+| A Real Cluster.... | 1.00% | ~2,712 |
+| A Very Genki Holiday | 1.00% | ~2,712 |
+| Here! Catch! | 1.00% | ~2,712 |
+| Minty Fresh! | 1.00% | ~2,712 |
+| Switch Hitter | 1.00% | ~2,712 |
+| The Whole Story | 1.00% | ~2,712 |
+| Zoo Keeper | 1.00% | ~2,712 |
+| Make a List, Check it Twice | 0.90% | ~2,441 |
 | Back in the Day | 0.70% | ~1,898 |
 | Dear Santa | 0.70% | ~1,898 |
 | Rigging the Race | 0.70% | ~1,898 |
 | Health Inspector | 0.50% | ~1,356 |
 | Walking the Dinosaur | 0.40% | ~1,085 |
-| Bringin' the Heat | 0.30% | ~813 |
-| Experimental Tech | 0.30% | ~813 |
-| Fist Meet Ground | 0.30% | ~813 |
-| Fourth and Forty | 0.30% | ~813 |
-| The Challenge King | 0.30% | ~813 |
+| Bringin' the Heat | 0.30% | ~814 |
+| Experimental Tech | 0.30% | ~814 |
+| Fist Meet Ground | 0.30% | ~814 |
+| Fourth and Forty | 0.30% | ~814 |
+| The Challenge King | 0.30% | ~814 |
 | A World Without Christmas | 0.10% | ~271 |
 | Epic Jump Quest | 0.10% | ~271 |
 | Get that Kid to a Psychologist | 0.10% | ~271 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 712)
 | Super Power Team Up! | 0.10% | ~271 |
 | Ultimate Hot Potato | 0.10% | ~271 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271,149 (Ranked 47)  
+Progressed: 271,189 (Ranked 47)  
 Completed: 15 (0.01%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,14 +233,14 @@ Completed: 15 (0.01%) (Ranked 270)
 | 2023-09-19 | 269,730 | 15 |
 | 2023-09-20 | 270,256 | 15 |
 | 2023-09-21 | 270,835 | 15 |
-| 2023-09-22 | 271,149 | 15 |
+| 2023-09-22 | 271,189 | 15 |
 ## Awards
-Max (Great Boss Battles): 459  (Ranked 206)  
-Sum: 459 (Ranked 314)  
-Diff (max vs sum): -108  
+Max (Great Boss Battles): 460  (Ranked 205)  
+Sum: 460 (Ranked 314)  
+Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 459 |
+| This game has Great Boss Battles | 460 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -321,3 +321,4 @@ Diff (max vs sum): -108
 | 2023-09-15 | 4.40 | 457 | 457 |
 | 2023-09-17 | 4.40 | 458 | 458 |
 | 2023-09-20 | 4.40 | 459 | 459 |
+| 2023-09-22 | 4.40 | 460 | 460 |

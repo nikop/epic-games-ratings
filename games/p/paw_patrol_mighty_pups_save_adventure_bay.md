@@ -18,7 +18,7 @@
 | Master of the Rope | 26.00% | ~7 |
 | Training Day | 26.00% | ~7 |
 | The Fastest | 26.00% | ~7 |
-| Clear the Road | 22.00% | ~6 |
+| Clear the Road | 26.00% | ~7 |
 | Never Miss | 22.00% | ~6 |
 | Animal Sighting | 22.00% | ~6 |
 | In the Air | 19.00% | ~5 |

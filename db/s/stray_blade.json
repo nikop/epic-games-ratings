@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-09-22T04:09:03.7959356+00:00",
       "NumProgressed": 83,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T16:09:41.4405608+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -460,7 +465,7 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -500,7 +505,7 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 89,
+      "Percentage": 87,
       "XP": 10,
       "UsersEstimate": 74
     },
@@ -532,7 +537,7 @@
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
       "SetID": "7i20me3",
       "Name": "Locked and Loaded",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -596,7 +601,7 @@
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
       "SetID": "7i20me3",
       "Name": "Witch",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -670,7 +675,7 @@
       "Name": "Welcome to the Club",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -700,7 +705,7 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -708,7 +713,7 @@
       "ID": "ACH_REUNITE_WITH_BOJI",
       "SetID": "7i20me3",
       "Name": "The A-Team",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -740,7 +745,7 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 31
     },
@@ -789,22 +794,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 85,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 81,
-      "Completed": 81
+      "Progressed": 83,
+      "Completed": 83
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:09:06.7806723+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:09:41.4405602+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:02.4303858+00:00",
-  "LastUpdate_Ratings": "2023-09-22T14:59:10.2636073+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:09:06.780704+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:00:14.5011052+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:09:41.4406086+00:00"
 }

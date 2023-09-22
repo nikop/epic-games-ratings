@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1449,
+  "EOS_Progressed": 1450,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-09-22T11:07:58.097863+00:00",
       "NumProgressed": 1449,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-22T16:08:15.4462064+00:00",
+      "NumProgressed": 1450,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1791,7 +1796,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "12",
@@ -1837,9 +1842,9 @@
       "ID": "17",
       "SetID": "n50no0",
       "Name": "Balding bloot!",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1131
     },
     {
       "ID": "18",
@@ -1895,7 +1900,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "24",
@@ -1903,7 +1908,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "25",
@@ -2007,22 +2012,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1449,
+      "Progressed": 1450,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-22T15:06:33.2776232+00:00",
+  "LastChanged_Achievements": "2023-09-22T16:08:15.446206+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.4812312+00:00",
-  "LastUpdate_Ratings": "2023-09-22T15:00:50.3030562+00:00",
-  "LastUpdate_Achievements": "2023-09-22T15:06:33.2776491+00:00"
+  "LastUpdate_Ratings": "2023-09-22T16:02:42.1842654+00:00",
+  "LastUpdate_Achievements": "2023-09-22T16:08:15.4462453+00:00"
 }
