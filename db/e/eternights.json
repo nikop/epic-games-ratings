@@ -620,9 +620,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -732,9 +732,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -803,8 +803,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:47:04.660895+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:22:02.1269464+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:41:45.5508626+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:47:04.660914+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:16:48.1135613+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:22:02.1269696+00:00"
 }

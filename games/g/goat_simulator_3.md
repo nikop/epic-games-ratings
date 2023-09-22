@@ -6,25 +6,25 @@ Rating: 4.84 (Ranked 50)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Forgotten Sorority | 91.00% | ~222,439 |
-| Private Club | 74.00% | ~180,884 |
+| Private Club | 74.00% | ~180,885 |
 | Rogue Guild | 65.00% | ~158,885 |
 | I Watched the Intro | 57.00% | ~139,330 |
 | Covert Consortium | 55.00% | ~134,441 |
-| Goat Queen | 53.00% | ~129,552 |
-| Reach the Stratosphere | 50.00% | ~122,219 |
+| Goat Queen | 53.00% | ~129,553 |
+| Reach the Stratosphere | 50.00% | ~122,220 |
 | Synchronization Complete | 47.00% | ~114,886 |
-| Secret Society | 45.00% | ~109,997 |
-| Shadow Syndicate | 38.00% | ~92,886 |
+| Secret Society | 45.00% | ~109,998 |
+| Shadow Syndicate | 38.00% | ~92,887 |
 | What a Waste of Money | 33.00% | ~80,665 |
-| New Goat Order | 30.00% | ~73,331 |
+| New Goat Order | 30.00% | ~73,332 |
 | Don't touch the servers | 28.00% | ~68,443 |
-| San Angora: Become Human | 27.00% | ~65,998 |
-| Real Buoy | 27.00% | ~65,998 |
+| San Angora: Become Human | 27.00% | ~65,999 |
+| Real Buoy | 27.00% | ~65,999 |
 | Raider of the Lost Parking Garage | 26.00% | ~63,554 |
 | Welcome to Earth | 25.00% | ~61,110 |
 | Into the Matrix | 19.00% | ~46,443 |
 | Egg Simulator | 18.00% | ~43,999 |
-| Where is It? | 17.00% | ~41,554 |
+| Where is It? | 17.00% | ~41,555 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~36,666 |
 | Black Market | 14.00% | ~34,221 |
 | 401(K.O.) | 14.00% | ~34,221 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,467 |
 | G.O.A.T | 0.30% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,438 (Ranked 52)  
+Progressed: 244,439 (Ranked 52)  
 Completed: 832 (0.34%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 832 (0.34%) (Ranked 178)
 | 2023-09-19 | 244,277 | 831 |
 | 2023-09-20 | 244,353 | 831 |
 | 2023-09-21 | 244,426 | 832 |
-| 2023-09-22 | 244,438 | 832 |
+| 2023-09-22 | 244,439 | 832 |
 ## Awards
 Max (Great for Beginners): 399  (Ranked 218)  
 Sum: 3,421 (Ranked 154)  

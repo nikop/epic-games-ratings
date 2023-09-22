@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 41.00% | ~420 |
+| First Love | 41.00% | ~421 |
 | Clean Race | 39.00% | ~400 |
 | Hear That Roar! | 38.00% | ~390 |
 | Eat My Dust | 36.00% | ~369 |
@@ -13,8 +13,8 @@
 | I'm Here Too! | 24.00% | ~246 |
 | Bitter Rivalry | 23.00% | ~236 |
 | Champagne Spray | 19.00% | ~195 |
-| I Want One Too! | 18.00% | ~184 |
-| Quick Pit Stop | 18.00% | ~184 |
+| I Want One Too! | 18.00% | ~185 |
+| Quick Pit Stop | 18.00% | ~185 |
 | Restored and Ready | 17.00% | ~174 |
 | Go-Faster Stripes | 16.00% | ~164 |
 | Legendary!!! | 16.00% | ~164 |
@@ -28,11 +28,11 @@
 | The Road to Liberty | 3.00% | ~31 |
 | Still Here | 3.00% | ~31 |
 | I Make the Rules! | 3.00% | ~31 |
-| Iconic! | 2.00% | ~20 |
-| Spoilt for Choice | 2.00% | ~20 |
-| Romantic Races | 2.00% | ~20 |
-| Rounding Off | 2.00% | ~20 |
-| My Work Here Is Done | 2.00% | ~20 |
+| Iconic! | 2.00% | ~21 |
+| Spoilt for Choice | 2.00% | ~21 |
+| Romantic Races | 2.00% | ~21 |
+| Rounding Off | 2.00% | ~21 |
+| My Work Here Is Done | 2.00% | ~21 |
 | I'll Be the Best! | 1.00% | ~10 |
 | Back in Blighty | 1.00% | ~10 |
 | Exhausted but Happy | 1.00% | ~10 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,025 (Ranked 222)  
+Progressed: 1,026 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,3 +75,4 @@ Completed: 0 (0.00%) (Ranked 283)
 | 2023-09-19 | 985 | 0 |
 | 2023-09-20 | 1,006 | 0 |
 | 2023-09-21 | 1,025 | 0 |
+| 2023-09-22 | 1,026 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527770,
+  "EOS_Progressed": 527771,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -16984,6 +16984,11 @@
       "Time": "2023-09-22T01:44:42.7687731+00:00",
       "NumProgressed": 527770,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T02:19:37.073756+00:00",
+      "NumProgressed": 527771,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 57,
@@ -17003,7 +17008,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237496
+      "UsersEstimate": 237497
     },
     {
       "ID": "11",
@@ -17011,7 +17016,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369439
+      "UsersEstimate": 369440
     },
     {
       "ID": "12",
@@ -17019,7 +17024,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116109
+      "UsersEstimate": 116110
     },
     {
       "ID": "13",
@@ -17075,7 +17080,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327217
+      "UsersEstimate": 327218
     },
     {
       "ID": "2",
@@ -17203,7 +17208,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26388
+      "UsersEstimate": 26389
     },
     {
       "ID": "34",
@@ -17219,7 +17224,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263885
+      "UsersEstimate": 263886
     },
     {
       "ID": "36",
@@ -17267,7 +17272,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26388
+      "UsersEstimate": 26389
     },
     {
       "ID": "41",
@@ -17323,7 +17328,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327217
+      "UsersEstimate": 327218
     },
     {
       "ID": "48",
@@ -17371,7 +17376,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242774
+      "UsersEstimate": 242775
     },
     {
       "ID": "53",
@@ -17395,7 +17400,7 @@
       "Name": "Slime Slayer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26388
+      "UsersEstimate": 26389
     },
     {
       "ID": "56",
@@ -17450,15 +17455,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527770,
+      "Progressed": 527771,
       "Completed": 476
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:44:42.7687724+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:19:37.0737556+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:22.714106+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:40:39.7600534+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:44:42.7690717+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:15:24.9288933+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:19:37.0739201+00:00"
 }

@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144357,
+  "EOS_Progressed": 144360,
   "EOS_Completed": 275,
-  "EOS_NewPlayers": 1231,
+  "EOS_NewPlayers": 1230,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11725,6 +11725,11 @@
       "Time": "2023-09-22T01:50:16.2387117+00:00",
       "NumProgressed": 144357,
       "NumCompleted": 275
+    },
+    {
+      "Time": "2023-09-22T02:24:37.488768+00:00",
+      "NumProgressed": 144360,
+      "NumCompleted": 275
     }
   ],
   "TotalAchievements": 31,
@@ -11744,7 +11749,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 99606
+      "UsersEstimate": 99608
     },
     {
       "ID": "EAwards_10",
@@ -11760,7 +11765,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 28871
+      "UsersEstimate": 28872
     },
     {
       "ID": "EAwards_12",
@@ -11776,7 +11781,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8661
+      "UsersEstimate": 8662
     },
     {
       "ID": "EAwards_14",
@@ -11784,7 +11789,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56299
+      "UsersEstimate": 56300
     },
     {
       "ID": "EAwards_15",
@@ -11832,7 +11837,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 40420
+      "UsersEstimate": 40421
     },
     {
       "ID": "EAwards_20",
@@ -11848,7 +11853,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15879
+      "UsersEstimate": 15880
     },
     {
       "ID": "EAwards_22",
@@ -11944,7 +11949,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15879
+      "UsersEstimate": 15880
     },
     {
       "ID": "EAwards_6",
@@ -11952,7 +11957,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36089
+      "UsersEstimate": 36090
     },
     {
       "ID": "EAwards_7",
@@ -11968,7 +11973,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53412
+      "UsersEstimate": 53413
     },
     {
       "ID": "EAwards_9",
@@ -11983,7 +11988,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 144357,
+      "Progressed": 144360,
       "Completed": 275
     }
   ],
@@ -11991,8 +11996,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-14T21:00:44.2735309+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:50:16.2387113+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:24:37.4887675+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8395829+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:40:06.6428801+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:50:16.238803+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:14:41.9580173+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:24:37.4888588+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "ce637d3eeee844a8b902d93416b1e40e",
   "Name": "Baby Storm",
   "ProductSlug": "baby-storm-426245",
-  "Ranking_EOS_Progress": 628,
+  "Ranking_EOS_Progress": 629,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-07T22:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T23:06:16.8537801+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:47:53.7239495+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:23:02.1622169+00:00",
   "LastUpdate_AppInfo": "2023-09-21T22:57:27.8611164+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:38:57.3392021+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:47:53.7239569+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:13:12.9356069+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:23:02.1622202+00:00"
 }

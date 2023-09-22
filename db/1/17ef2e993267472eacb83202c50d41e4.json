@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 6305,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2314,9 +2314,9 @@
       "ID": "EEUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Energy Expansion to Level 3",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "FGPurchased1",
@@ -2490,9 +2490,9 @@
       "ID": "IRPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Incendiary Rounds",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 694
     },
     {
       "ID": "InhibitorKills3",
@@ -2786,9 +2786,9 @@
       "ID": "TPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Turret",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 567
     },
     {
       "ID": "TSUPurchased1",
@@ -2825,8 +2825,8 @@
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:48:07.6932401+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:23:19.4471677+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:39:39.5515745+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:48:07.6933318+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:14:05.7791711+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:23:19.4472586+00:00"
 }

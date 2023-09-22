@@ -2,9 +2,9 @@
   "ID": "557bfc4b3e1b4d3fb108bc8e913c854c",
   "Name": "Interceptor",
   "ProductSlug": "interceptor-cec769",
-  "Ranking_EOS_Progress": 628,
+  "Ranking_EOS_Progress": 629,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-16T11:57:23.2267232+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:41:04.7853625+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:46:21.9025947+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:15:56.996007+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:21:12.0518473+00:00"
 }

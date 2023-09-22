@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -932,10 +932,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 399,
       "NumberOfAwardsMax": 303
+    },
+    {
+      "Time": "2023-09-22T02:17:19.8031825+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 400,
+      "NumberOfAwardsMax": 303
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 399,
+  "NumberOfAwards": 400,
   "NumberOfAwardsMax": 303,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -955,7 +961,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Characters",
@@ -970,9 +976,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12644,
+  "EOS_Progressed": 12645,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -11080,6 +11086,11 @@
       "Time": "2023-09-22T01:47:49.2295393+00:00",
       "NumProgressed": 12644,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-22T02:22:56.5679108+00:00",
+      "NumProgressed": 12645,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -11139,7 +11150,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "ACH08",
@@ -11211,7 +11222,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "ACH17",
@@ -11267,7 +11278,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3288
     },
     {
       "ID": "ACH24",
@@ -11370,16 +11381,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12644,
+      "Progressed": 12645,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-09-21T19:01:58.7386937+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:47:49.2295389+00:00",
+  "LastChanged": "2023-09-22T02:17:19.8031823+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:22:56.5679102+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:48.8001845+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:42:08.5325814+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:47:49.2296257+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:17:19.8031828+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:22:56.5679947+00:00"
 }

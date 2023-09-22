@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1615,9 +1615,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 203545,
+  "EOS_Progressed": 203548,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 1410,
+  "EOS_NewPlayers": 1411,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19030,6 +19030,11 @@
       "Time": "2023-09-22T01:50:16.811865+00:00",
       "NumProgressed": 203545,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-09-22T02:24:38.1455618+00:00",
+      "NumProgressed": 203548,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 44,
@@ -19041,7 +19046,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20354
+      "UsersEstimate": 20355
     },
     {
       "ID": "AtheistOx",
@@ -19329,7 +19334,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20354
+      "UsersEstimate": 20355
     },
     {
       "ID": "TimeParadox",
@@ -19392,15 +19397,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 203545,
+      "Progressed": 203548,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-21T21:00:05.2898858+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:50:16.8118647+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:24:38.1455614+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:09.289608+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:41:48.9664247+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:50:16.8119834+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:16:52.8877093+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:24:38.1456914+00:00"
 }

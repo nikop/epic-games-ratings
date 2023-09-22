@@ -51,8 +51,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,022 |
 | Master Huntsman | 1.00% | ~8,022 |
 | Stealth Killer | 1.00% | ~8,022 |
-| Bailiff | 0.90% | ~7,219 |
-| Tracker | 0.90% | ~7,219 |
+| Bailiff | 0.90% | ~7,220 |
+| Tracker | 0.90% | ~7,220 |
 | David Horak | 0.70% | ~5,615 |
 | Fighter | 0.70% | ~5,615 |
 | Mercenary's Honour | 0.70% | ~5,615 |
@@ -60,8 +60,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Edward Kelly | 0.60% | ~4,813 |
 | I Can Quit Anytime | 0.50% | ~4,011 |
 | Perfectionist | 0.50% | ~4,011 |
-| Alcoholic | 0.30% | ~2,406 |
-| Sniper | 0.30% | ~2,406 |
+| Alcoholic | 0.30% | ~2,407 |
+| Sniper | 0.30% | ~2,407 |
 | Angel of Mercy | 0.20% | ~1,604 |
 | Christian Burial | 0.20% | ~1,604 |
 | Friends without benefits | 0.20% | ~1,604 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~802 |
 | Wingman | 0.10% | ~802 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,166 (Ranked 16)  
+Progressed: 802,167 (Ranked 16)  
 Completed: 49 (0.01%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,10 +244,10 @@ Completed: 49 (0.01%) (Ranked 267)
 | 2023-09-19 | 801,957 | 47 |
 | 2023-09-20 | 802,063 | 48 |
 | 2023-09-21 | 802,156 | 49 |
-| 2023-09-22 | 802,166 | 49 |
+| 2023-09-22 | 802,167 | 49 |
 ## Awards
 Max (Character Customization): 7,465  (Ranked 47)  
-Sum: 27,806 (Ranked 47)  
+Sum: 27,809 (Ranked 47)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): 0
 | This game is Highly Recommended | 1,663 |
 | This game has Amazing Characters | 1,643 |
 | This game has Realistic Visuals | 1,639 |
-| This game is Educational | 1,585 |
+| This game is Educational | 1,588 |
 | This game is Relaxing | 1,517 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -505,4 +505,4 @@ Diff (max vs sum): 0
 | 2023-09-19 | 4.71 | - | 7,458 | 27,785 |
 | 2023-09-20 | 4.71 | - | 7,458 | 27,790 |
 | 2023-09-21 | 4.71 | - | 7,460 | 27,801 |
-| 2023-09-22 | 4.71 | - | 7,465 | 27,806 |
+| 2023-09-22 | 4.71 | - | 7,465 | 27,809 |

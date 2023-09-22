@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7870,10 +7870,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43929,
       "NumberOfAwardsMax": 22916
+    },
+    {
+      "Time": "2023-09-22T02:14:59.7616514+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43951,
+      "NumberOfAwardsMax": 22916
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43929,
+  "NumberOfAwards": 43951,
   "NumberOfAwardsMax": 22916,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7887,7 +7893,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11254
+      "Count": 11276
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -7950,9 +7956,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 297071,
+  "EOS_Progressed": 297074,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24660,6 +24666,11 @@
       "Time": "2023-09-22T01:46:59.0203425+00:00",
       "NumProgressed": 297071,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T02:21:55.552572+00:00",
+      "NumProgressed": 297074,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24895,7 +24906,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26736
+      "UsersEstimate": 26737
     },
     {
       "ID": "PFA_36",
@@ -24999,7 +25010,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38619
+      "UsersEstimate": 38620
     },
     {
       "ID": "PFA_7",
@@ -25007,7 +25018,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38619
+      "UsersEstimate": 38620
     },
     {
       "ID": "PFA_8",
@@ -25023,23 +25034,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26736
+      "UsersEstimate": 26737
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297071,
+      "Progressed": 297074,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-22T01:40:20.0544253+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:46:59.0203421+00:00",
+  "LastChanged": "2023-09-22T02:14:59.7616513+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:21:55.5525716+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:40:20.0544259+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:46:59.0204822+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:14:59.7616519+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:21:55.5527077+00:00"
 }

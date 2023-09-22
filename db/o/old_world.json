@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1713,9 +1713,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14036,
+  "EOS_Progressed": 14037,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11923,6 +11923,11 @@
       "Time": "2023-09-22T01:44:13.8277998+00:00",
       "NumProgressed": 14036,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-22T02:18:32.8226156+00:00",
+      "NumProgressed": 14037,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12724,9 +12729,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -13540,9 +13545,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -13940,9 +13945,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -14301,21 +14306,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14036,
+      "Progressed": 14037,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14036,
+      "Progressed": 14037,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-21T14:59:37.1896217+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:44:13.8277995+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:18:32.8226151+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:41:01.0104+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:44:13.8286481+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:15:52.6562181+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:18:32.82363+00:00"
 }

@@ -20,7 +20,7 @@ Number of Ratings: 285  (23.09.2022)
 | Next Time on MythForce... | 9.00% | ~261 |
 | Cold-Blooded Critters | 7.00% | ~203 |
 | Death Becomes You | 7.00% | ~203 |
-| Flawless Victory | 5.00% | ~145 |
+| Flawless Victory | 6.00% | ~174 |
 | The Harder They Fall | 4.00% | ~116 |
 | On this Episode! | 3.00% | ~87 |
 | Deadication | 2.00% | ~58 |

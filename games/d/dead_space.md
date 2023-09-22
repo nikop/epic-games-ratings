@@ -6,32 +6,32 @@ Rating: 4.61 (Ranked 371)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 89.00% | ~150 |
-| Welcome Aboard | 82.00% | ~138 |
-| Lab Rat | 65.00% | ~109 |
-| All Systems Go | 61.00% | ~102 |
-| Brute Force | 61.00% | ~102 |
-| Cannon Fodder | 57.00% | ~96 |
-| Autofire | 52.00% | ~87 |
+| Welcome Aboard | 82.00% | ~139 |
+| Lab Rat | 66.00% | ~112 |
+| Brute Force | 62.00% | ~105 |
+| All Systems Go | 61.00% | ~103 |
+| Cannon Fodder | 58.00% | ~98 |
+| Autofire | 53.00% | ~90 |
 | Story Teller | 51.00% | ~86 |
 | Raise the Stakes | 51.00% | ~86 |
 | True Believer | 51.00% | ~86 |
+| Freeze | 50.00% | ~84 |
 | Surgeon | 48.00% | ~81 |
-| Freeze | 48.00% | ~81 |
-| Exterminator | 43.00% | ~72 |
-| Greenhouse Effect | 43.00% | ~72 |
-| Full Arsenal | 40.00% | ~67 |
-| S.O.S. | 37.00% | ~62 |
+| Exterminator | 43.00% | ~73 |
+| Greenhouse Effect | 43.00% | ~73 |
+| Full Arsenal | 41.00% | ~69 |
+| S.O.S. | 37.00% | ~63 |
 | Get Off My Ship! | 34.00% | ~57 |
 | Strange Transmissions | 34.00% | ~57 |
-| Live with the Hot Ones | 33.00% | ~55 |
-| A Cut Above | 32.00% | ~54 |
-| Wreckage | 32.00% | ~54 |
+| Live with the Hot Ones | 33.00% | ~56 |
+| A Cut Above | 33.00% | ~56 |
+| Wreckage | 33.00% | ~56 |
 | Front Toward Enemy | 28.00% | ~47 |
-| Keeper of the Faith | 27.00% | ~45 |
-| There's Always Peng! | 27.00% | ~45 |
-| Legend Teller | 24.00% | ~40 |
+| Keeper of the Faith | 27.00% | ~46 |
+| There's Always Peng! | 27.00% | ~46 |
+| Legend Teller | 24.00% | ~41 |
 | Betrayed | 23.00% | ~39 |
-| Exodus | 23.00% | ~39 |
+| Exodus | 22.00% | ~37 |
 | Mindless Prey | 22.00% | ~37 |
 | Whole Again | 19.00% | ~32 |
 | Set A Benchmark | 19.00% | ~32 |
@@ -40,10 +40,10 @@ Rating: 4.61 (Ranked 371)
 | Pack Rat | 17.00% | ~29 |
 | Z-Baller | 17.00% | ~29 |
 | Pusher | 15.00% | ~25 |
+| Full Clearance | 15.00% | ~25 |
 | Marked | 15.00% | ~25 |
-| Full Clearance | 14.00% | ~24 |
 | Eviscerator | 13.00% | ~22 |
-| Backbreaker | 11.00% | ~18 |
+| Backbreaker | 11.00% | ~19 |
 | Trusted Contractor | 7.00% | ~12 |
 | Wishbone | 6.00% | ~10 |
 | Built To Order | 4.00% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 371)
 | One Gun | 1.00% | ~2 |
 | Reunion | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168 (Ranked 340)  
+Progressed: 169 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 283)
 | 2023-09-19 | 7 | 0 |
 | 2023-09-20 | 92 | 0 |
 | 2023-09-21 | 159 | 0 |
-| 2023-09-22 | 168 | 0 |
+| 2023-09-22 | 169 | 0 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 352)  
 Sum: 94 (Ranked 425)  

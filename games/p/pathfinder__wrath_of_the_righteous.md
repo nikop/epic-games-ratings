@@ -9,8 +9,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 24.00% | ~2,730 |
 | Burning City | 17.00% | ~1,934 |
 | A Spark | 17.00% | ~1,934 |
-| Mythic Choices | 14.00% | ~1,592 |
-| Defender's Heart | 14.00% | ~1,592 |
+| Mythic Choices | 14.00% | ~1,593 |
+| Defender's Heart | 14.00% | ~1,593 |
 | Banner over the Citadel | 13.00% | ~1,479 |
 | Queen's Gratitude | 11.00% | ~1,251 |
 | Fifth Crusade | 8.00% | ~910 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~341 |
 | The Lady of the Forest | 3.00% | ~305 |
 | Beware Still Water | 3.00% | ~305 |
-| Path of the Demon | 2.00% | ~227 |
-| Path of the Aeon | 2.00% | ~227 |
-| Path of the Lich | 2.00% | ~227 |
-| Capitulation Is Now Moot | 2.00% | ~227 |
-| Your First Big Enemy | 2.00% | ~227 |
-| Truly Important Deed | 2.00% | ~227 |
+| Path of the Demon | 2.00% | ~228 |
+| Path of the Aeon | 2.00% | ~228 |
+| Path of the Lich | 2.00% | ~228 |
+| Capitulation Is Now Moot | 2.00% | ~228 |
+| Your First Big Enemy | 2.00% | ~228 |
+| Truly Important Deed | 2.00% | ~228 |
 | Stay Underground | 2.00% | ~203 |
 | Hanged Man's Notes | 2.00% | ~203 |
 | Sarkoris Will Be Green | 2.00% | ~203 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Dreadful Dragon | 0.70% | ~80 |
 | Masterful Charge | 0.60% | ~68 |
 | Prelate's Nemesis | 0.50% | ~57 |
-| Ashes to Ashes | 0.40% | ~45 |
+| Ashes to Ashes | 0.40% | ~46 |
 | Masterful Dispel | 0.30% | ~34 |
 | Just Pathetic | 0.30% | ~34 |
 | Path of the Swarm | 0.20% | ~23 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,374 (Ranked 131)  
+Progressed: 11,375 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,16 +278,17 @@ Completed: 0 (0.00%) (Ranked 283)
 | 2023-09-19 | 11,359 | 0 |
 | 2023-09-20 | 11,370 | 0 |
 | 2023-09-21 | 11,374 | 0 |
+| 2023-09-22 | 11,375 | 0 |
 ## Awards
 Max (Character Customization): 1,714  (Ranked 118)  
-Sum: 6,948 (Ranked 115)  
+Sum: 6,949 (Ranked 115)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,714 |
 | This game is Extremely Fun | 650 |
+| This game is Highly Recommended | 636 |
 | This game has Amazing Characters | 635 |
-| This game is Highly Recommended | 635 |
 | This game has Diverse Characters | 619 |
 | This game has Amazing Storytelling | 612 |
 | This game has Challenging Combat | 579 |
@@ -516,3 +517,4 @@ Diff (max vs sum): 3
 | 2023-09-17 | 4.76 | - | 1,713 | 6,943 |
 | 2023-09-18 | 4.76 | - | 1,713 | 6,946 |
 | 2023-09-19 | 4.76 | - | 1,714 | 6,948 |
+| 2023-09-22 | 4.76 | - | 1,714 | 6,949 |

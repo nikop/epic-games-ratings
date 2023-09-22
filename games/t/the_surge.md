@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,658 (Ranked 158)  
+Progressed: 4,658 (Ranked 159)  
 Completed: 16 (0.34%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |

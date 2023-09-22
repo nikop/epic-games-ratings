@@ -3678,10 +3678,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6948,
       "NumberOfAwardsMax": 1714
+    },
+    {
+      "Time": "2023-09-22T02:15:38.8135073+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6949,
+      "NumberOfAwardsMax": 1714
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6948,
+  "NumberOfAwards": 6949,
   "NumberOfAwardsMax": 1714,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3719,7 +3725,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 635
+      "Count": 636
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3752,9 +3758,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11374,
+  "EOS_Progressed": 11375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12677,6 +12683,11 @@
       "Time": "2023-09-21T17:04:18.0074309+00:00",
       "NumProgressed": 11374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T02:20:01.0239499+00:00",
+      "NumProgressed": 11375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12752,7 +12763,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "10_PathOfAzata",
@@ -12768,7 +12779,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "12_PathOfTrickster",
@@ -12784,7 +12795,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "14_PathOfSwarm",
@@ -12824,7 +12835,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "19_EqualToAroden",
@@ -12936,7 +12947,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -12944,7 +12955,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -12968,7 +12979,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -13024,7 +13035,7 @@
       "Name": "Ashes to Ashes",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "45_VoiceFromDreams",
@@ -13088,7 +13099,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -13615,21 +13626,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10156,
+      "Progressed": 10157,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11374,
+      "Progressed": 11375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-09-19T19:58:32.748951+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:45:23.0744813+00:00",
+  "LastChanged": "2023-09-22T02:15:38.8135072+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:20:01.0239495+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.4694151+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:40:50.4720307+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:45:23.0746967+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:15:38.8135077+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:20:01.024162+00:00"
 }

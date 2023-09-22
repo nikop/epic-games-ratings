@@ -2268,9 +2268,9 @@
       "Count": 180
     }
   ],
-  "EOS_Progressed": 184477,
+  "EOS_Progressed": 184481,
   "EOS_Completed": 319,
-  "EOS_NewPlayers": 3623,
+  "EOS_NewPlayers": 3621,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -9678,6 +9678,11 @@
       "Time": "2023-09-22T01:47:02.6868305+00:00",
       "NumProgressed": 184477,
       "NumCompleted": 319
+    },
+    {
+      "Time": "2023-09-22T02:21:59.9367122+00:00",
+      "NumProgressed": 184481,
+      "NumCompleted": 319
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -9690,7 +9695,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12913
+      "UsersEstimate": 12914
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -9810,7 +9815,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12913
+      "UsersEstimate": 12914
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -10089,7 +10094,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 184477,
+      "Progressed": 184481,
       "Completed": 319
     }
   ],
@@ -10097,8 +10102,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-21T22:58:24.0590491+00:00",
-  "LastChanged_Achievements": "2023-09-22T01:47:02.68683+00:00",
+  "LastChanged_Achievements": "2023-09-22T02:21:59.9367117+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:54.9152732+00:00",
-  "LastUpdate_Ratings": "2023-09-22T01:39:20.6410785+00:00",
-  "LastUpdate_Achievements": "2023-09-22T01:47:02.6869192+00:00"
+  "LastUpdate_Ratings": "2023-09-22T02:13:42.7065225+00:00",
+  "LastUpdate_Achievements": "2023-09-22T02:21:59.936811+00:00"
 }

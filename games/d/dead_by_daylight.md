@@ -6,30 +6,30 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~53,615 |
-| Zealous | 5.00% | ~44,679 |
-| Skillful | 5.00% | ~44,679 |
-| Make Some Noise | 5.00% | ~44,679 |
-| Handyman | 4.00% | ~35,743 |
-| Not half bad | 4.00% | ~35,743 |
-| Apt Survivor | 4.00% | ~35,743 |
-| Survival Treasures | 4.00% | ~35,743 |
-| The Grand Sacrifice | 3.00% | ~26,808 |
-| Agonizing Escape | 3.00% | ~26,808 |
-| Backdoor Escape | 3.00% | ~26,808 |
-| No one left behind | 3.00% | ~26,808 |
-| Medic | 3.00% | ~26,808 |
-| Nerves of steel | 3.00% | ~26,808 |
-| Perfect Escape | 3.00% | ~26,808 |
-| Bloody Millionaire | 3.00% | ~26,808 |
-| I | 3.00% | ~26,808 |
-| Engineer | 3.00% | ~26,808 |
-| Sorted | 3.00% | ~26,808 |
-| Healthy Obsession | 3.00% | ~26,808 |
-| Resurgence | 3.00% | ~26,808 |
-| Preemptive Strike | 3.00% | ~26,808 |
-| Humanitarian | 3.00% | ~26,808 |
-| MU/TH/UR Dearest | 3.00% | ~26,808 |
+| It wakes | 6.00% | ~53,617 |
+| Zealous | 5.00% | ~44,681 |
+| Skillful | 5.00% | ~44,681 |
+| Make Some Noise | 5.00% | ~44,681 |
+| Handyman | 4.00% | ~35,745 |
+| Not half bad | 4.00% | ~35,745 |
+| Apt Survivor | 4.00% | ~35,745 |
+| Survival Treasures | 4.00% | ~35,745 |
+| The Grand Sacrifice | 3.00% | ~26,809 |
+| Agonizing Escape | 3.00% | ~26,809 |
+| Backdoor Escape | 3.00% | ~26,809 |
+| No one left behind | 3.00% | ~26,809 |
+| Medic | 3.00% | ~26,809 |
+| Nerves of steel | 3.00% | ~26,809 |
+| Perfect Escape | 3.00% | ~26,809 |
+| Bloody Millionaire | 3.00% | ~26,809 |
+| I | 3.00% | ~26,809 |
+| Engineer | 3.00% | ~26,809 |
+| Sorted | 3.00% | ~26,809 |
+| Healthy Obsession | 3.00% | ~26,809 |
+| Resurgence | 3.00% | ~26,809 |
+| Preemptive Strike | 3.00% | ~26,809 |
+| Humanitarian | 3.00% | ~26,809 |
+| MU/TH/UR Dearest | 3.00% | ~26,809 |
 | I've got your back | 2.00% | ~17,872 |
 | Perfect Killing | 2.00% | ~17,872 |
 | Apt Killer | 2.00% | ~17,872 |
@@ -74,12 +74,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 1.00% | ~8,936 |
 | One More Step | 1.00% | ~8,936 |
 | Terror of LV-426 | 1.00% | ~8,936 |
-| A bite for the Entity | 0.90% | ~8,042 |
-| Blood on your face | 0.90% | ~8,042 |
-| Hemophobia | 0.90% | ~8,042 |
-| Serial Killer | 0.90% | ~8,042 |
-| Escaping the Nightmare | 0.90% | ~8,042 |
-| Complete the Evolution | 0.90% | ~8,042 |
+| A bite for the Entity | 0.90% | ~8,043 |
+| Blood on your face | 0.90% | ~8,043 |
+| Hemophobia | 0.90% | ~8,043 |
+| Serial Killer | 0.90% | ~8,043 |
+| Escaping the Nightmare | 0.90% | ~8,043 |
+| Complete the Evolution | 0.90% | ~8,043 |
 | Jump Scares | 0.80% | ~7,149 |
 | Game Over | 0.80% | ~7,149 |
 | Devoted Gatekeeping | 0.80% | ~7,149 |
@@ -88,12 +88,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.80% | ~7,149 |
 | Deep Cleansing | 0.70% | ~6,255 |
 | Texas BBQ | 0.70% | ~6,255 |
+| Party Crasher | 0.70% | ~6,255 |
 | Shrine Apparatus | 0.70% | ~6,255 |
 | Broken Bodies | 0.70% | ~6,255 |
 | Insult and Injury | 0.70% | ~6,255 |
 | Rebuilding The Borgo | 0.70% | ~6,255 |
 | Kitted Out | 0.70% | ~6,255 |
-| Party Crasher | 0.60% | ~5,362 |
 | Whiffing to Success | 0.60% | ~5,362 |
 | Outrage | 0.60% | ~5,362 |
 | I See You | 0.60% | ~5,362 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~894 |
 | Adept Ripley | 0.10% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,587 (Ranked 14)  
+Progressed: 893,622 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,7 +391,7 @@ Completed: 49 (0.01%) (Ranked 267)
 | 2023-09-19 | 889,597 | 49 |
 | 2023-09-20 | 891,547 | 49 |
 | 2023-09-21 | 893,416 | 49 |
-| 2023-09-22 | 893,587 | 49 |
+| 2023-09-22 | 893,622 | 49 |
 ## Awards
 Max (Diverse Characters): 32,832  (Ranked 15)  
 Sum: 255,736 (Ranked 11)  
