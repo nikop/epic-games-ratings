@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,898 (Ranked 182)  
+Progressed: 2,898 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 286)
 | 2023-09-22 | 2,898 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 400)  
-Sum: 467 (Ranked 311)  
+Sum: 468 (Ranked 311)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): 89
 | This game is Relaxing | 40 |
 | This game has Diverse Characters | 40 |
 | This game has Quickly Understood Controls | 37 |
-| This game has Challenging Combat | 28 |
+| This game has Challenging Combat | 29 |
 | This game is Educational | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -361,3 +361,4 @@ Diff (max vs sum): 89
 | 2023-09-18 | 4.69 | - | 53 | 464 |
 | 2023-09-19 | 4.69 | - | 53 | 465 |
 | 2023-09-21 | 4.69 | - | 53 | 467 |
+| 2023-09-22 | 4.69 | - | 53 | 468 |

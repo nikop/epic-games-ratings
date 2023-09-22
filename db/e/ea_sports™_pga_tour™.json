@@ -2,10 +2,10 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -337,6 +337,11 @@
       "Time": "2023-09-22T10:09:22.9724852+00:00",
       "NumProgressed": 148,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-22T12:09:15.8709985+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -347,9 +352,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_10",
@@ -365,7 +370,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_12",
@@ -403,7 +408,7 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
       "UsersEstimate": 130
     },
@@ -411,9 +416,9 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_18",
@@ -421,7 +426,7 @@
       "Name": "Perfect Round",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_2",
@@ -429,7 +434,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_3",
@@ -445,7 +450,7 @@
       "Name": "From Many, One",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_5",
@@ -453,7 +458,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_6",
@@ -467,9 +472,9 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_8",
@@ -485,20 +490,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:09:28.4461987+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:09:15.8709979+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:57.8902845+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:57:53.3535617+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:09:28.4462228+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:57:47.8270146+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:09:15.8710139+00:00"
 }

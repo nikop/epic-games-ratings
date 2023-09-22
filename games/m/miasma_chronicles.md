@@ -5,28 +5,28 @@ Rating: 4.41 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,343 |
-| Ranidaphobia | 78.00% | ~1,139 |
-| Aspiring Editor | 75.00% | ~1,095 |
-| Gun for Hire | 70.00% | ~1,022 |
-| I am the law! | 64.00% | ~934 |
+| First Blood | 92.00% | ~1,344 |
+| Ranidaphobia | 78.00% | ~1,140 |
+| Aspiring Editor | 75.00% | ~1,096 |
+| Gun for Hire | 70.00% | ~1,023 |
+| I am the law! | 64.00% | ~935 |
 | Lumberjack | 53.00% | ~774 |
 | Croaked | 48.00% | ~701 |
 | Limp Richard | 48.00% | ~701 |
-| Editor Adept | 47.00% | ~686 |
-| Exorcist | 47.00% | ~686 |
-| From Darkness to Light | 47.00% | ~686 |
+| Editor Adept | 47.00% | ~687 |
+| Exorcist | 47.00% | ~687 |
+| From Darkness to Light | 47.00% | ~687 |
 | Giant Killer | 45.00% | ~657 |
 | Sensei | 43.00% | ~628 |
-| Firestarter | 42.00% | ~613 |
+| Firestarter | 42.00% | ~614 |
 | The meaning of Kain | 41.00% | ~599 |
-| Technophobe | 40.00% | ~584 |
-| Recycler | 39.00% | ~569 |
-| Are you not entertained? | 34.00% | ~496 |
-| Ganglord | 34.00% | ~496 |
-| Jarhead | 34.00% | ~496 |
+| Recycler | 39.00% | ~570 |
+| Technophobe | 39.00% | ~570 |
+| Are you not entertained? | 34.00% | ~497 |
+| Ganglord | 34.00% | ~497 |
+| Jarhead | 34.00% | ~497 |
 | Infiltrator | 33.00% | ~482 |
-| Pushing Daisy | 32.00% | ~467 |
+| Pushing Daisy | 32.00% | ~468 |
 | Experienced | 31.00% | ~453 |
 | Hold The Line | 30.00% | ~438 |
 | Endgame | 26.00% | ~380 |
@@ -39,7 +39,7 @@ Rating: 4.41 (Ranked 693)
 | Dr Jones | 16.00% | ~234 |
 | Newtonian Knockout | 16.00% | ~234 |
 | Chaos Theory | 15.00% | ~219 |
-| Ruthless | 14.00% | ~204 |
+| Ruthless | 14.00% | ~205 |
 | Side Order | 11.00% | ~161 |
 | Chain Reaction | 9.00% | ~131 |
 | Bot Whisperer | 8.00% | ~117 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 693)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,460 (Ranked 207)  
+Progressed: 1,461 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 0 (0.00%) (Ranked 286)
 | 2023-09-19 | 1,451 | 0 |
 | 2023-09-20 | 1,455 | 0 |
 | 2023-09-21 | 1,460 | 0 |
+| 2023-09-22 | 1,461 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
     "PcReleaseDate": "2020-06-25T22:00:00+00:00",
@@ -87,113 +87,113 @@
       "ID": "ACH_1",
       "SetID": "15cie2",
       "Name": "Welcome to Seven Doors",
-      "Percentage": 73,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_10",
       "SetID": "15cie2",
       "Name": "Thanksgiving Day",
-      "Percentage": 45,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_11",
       "SetID": "15cie2",
       "Name": "No Fear of the Dark",
-      "Percentage": 45,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_12",
       "SetID": "15cie2",
       "Name": "The Witch\u2019s Haunt",
-      "Percentage": 45,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_13",
       "SetID": "15cie2",
       "Name": "Trapped in Time",
-      "Percentage": 36,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_14",
       "SetID": "15cie2",
       "Name": "A Cabin Boy with Potential",
-      "Percentage": 27,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_15",
       "SetID": "15cie2",
       "Name": "Don\u2019t Touch the Rum!",
-      "Percentage": 27,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_16",
       "SetID": "15cie2",
       "Name": "Oh... You didn\u0027t think to bring it?",
-      "Percentage": 27,
+      "Percentage": 9,
       "XP": 160,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_17",
       "SetID": "15cie2",
       "Name": "A Cautious Man Is Worth Two of His Kind",
-      "Percentage": 36,
+      "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_2",
       "SetID": "15cie2",
       "Name": "Kill the Dead Man",
-      "Percentage": 64,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_3",
       "SetID": "15cie2",
       "Name": "Diogenes Syndrome",
-      "Percentage": 73,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_4",
       "SetID": "15cie2",
       "Name": "They\u2019re Watching",
-      "Percentage": 45,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_5",
       "SetID": "15cie2",
       "Name": "Art Connoisseur",
-      "Percentage": 36,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_6",
       "SetID": "15cie2",
       "Name": "Survivor",
-      "Percentage": 36,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_7",
@@ -207,17 +207,17 @@
       "ID": "ACH_8",
       "SetID": "15cie2",
       "Name": "The Last Skull",
-      "Percentage": 18,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_9",
       "SetID": "15cie2",
       "Name": "Master of Riddles",
-      "Percentage": 36,
+      "Percentage": 9,
       "XP": 160,
-      "UsersEstimate": 4
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -232,8 +232,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:03:48.5525773+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:03:59.8279316+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:52.9691725+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:57:41.7607738+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:03:48.5525898+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:57:37.3526314+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:03:59.8279457+00:00"
 }

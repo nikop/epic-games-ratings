@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5250,9 +5250,9 @@
       "ID": "A51",
       "SetID": "9b7p7eo",
       "Name": "Call of Duty",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 154
     },
     {
       "ID": "A52",
@@ -5291,8 +5291,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-12T04:00:17.7506037+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:06:55.7425167+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:06:33.5195908+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.7134355+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:01:02.8350679+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:06:55.7425893+00:00"
+  "LastUpdate_Ratings": "2023-09-22T12:00:27.8630957+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:06:33.5196616+00:00"
 }

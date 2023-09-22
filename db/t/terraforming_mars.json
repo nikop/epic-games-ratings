@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2788,9 +2788,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 76511,
+  "EOS_Progressed": 76512,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 768,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19838,6 +19838,11 @@
       "Time": "2023-09-22T11:05:24.1046207+00:00",
       "NumProgressed": 76511,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-09-22T12:05:14.5358353+00:00",
+      "NumProgressed": 76512,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 30,
@@ -20001,7 +20006,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 16832
+      "UsersEstimate": 16833
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -20009,7 +20014,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9946
+      "UsersEstimate": 9947
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -20088,15 +20093,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 76511,
+      "Progressed": 76512,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-22T09:58:39.5414982+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:05:24.1046202+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:05:14.5358347+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.6851624+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:59:43.4771698+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:05:24.1048128+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:59:22.7768991+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:05:14.5359634+00:00"
 }

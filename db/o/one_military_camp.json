@@ -2,10 +2,10 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 342,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -721,6 +721,11 @@
       "Time": "2023-09-17T16:12:21.2265937+00:00",
       "NumProgressed": 168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T12:09:06.3228141+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -781,7 +786,7 @@
       "Name": "Perfect Soldier",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -821,7 +826,7 @@
       "Name": "Health Care",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -845,7 +850,7 @@
       "Name": "There\u0027s something in those trees",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
@@ -891,9 +896,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -925,7 +930,7 @@
       "Name": "Indebted",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -965,7 +970,7 @@
       "Name": "Food Tycoon",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ID_36",
@@ -973,7 +978,7 @@
       "Name": "Fuel Tycoon",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ID_37",
@@ -989,7 +994,7 @@
       "Name": "Ammo Tycoon",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ID_39",
@@ -1005,7 +1010,7 @@
       "Name": "First Step",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1043,9 +1048,9 @@
       "ID": "ACHIEVEMENT_ID_5",
       "SetID": "c504de6",
       "Name": "Desert Rat",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_6",
@@ -1069,7 +1074,7 @@
       "Name": "Green Energy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1084,14 +1089,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:09:17.5956764+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:09:06.3228134+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:39.5687828+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:01:24.2631603+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:09:17.5957326+00:00"
+  "LastUpdate_Ratings": "2023-09-22T12:00:45.6445552+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:09:06.3228512+00:00"
 }

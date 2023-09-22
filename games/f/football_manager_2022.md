@@ -6,24 +6,24 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,764 |
-| He's Signed! | 50.00% | ~236,764 |
-| First Victory | 50.00% | ~236,764 |
+| Clean Sheet | 50.00% | ~236,765 |
+| He's Signed! | 50.00% | ~236,765 |
+| First Victory | 50.00% | ~236,765 |
 | He's Sold! | 48.00% | ~227,294 |
-| I'm The Boss! | 42.00% | ~198,882 |
+| I'm The Boss! | 42.00% | ~198,883 |
 | Hat-trick | 41.00% | ~194,147 |
 | Scoring Streak | 38.00% | ~179,941 |
 | Unbeatable! | 37.00% | ~175,206 |
 | Thumping | 37.00% | ~175,206 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,735 |
-| Total Support | 32.00% | ~151,529 |
-| Record Signing | 32.00% | ~151,529 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,736 |
+| Total Support | 32.00% | ~151,530 |
+| Record Signing | 32.00% | ~151,530 |
 | He's a Natural | 31.00% | ~146,794 |
 | Millionaire's Club | 31.00% | ~146,794 |
 | Team Performance | 30.00% | ~142,059 |
-| Parked The Bus | 29.00% | ~137,323 |
-| Shrewd Spender | 29.00% | ~137,323 |
-| Star Man | 29.00% | ~137,323 |
+| Parked The Bus | 29.00% | ~137,324 |
+| Shrewd Spender | 29.00% | ~137,324 |
+| Star Man | 29.00% | ~137,324 |
 | Attack! | 28.00% | ~132,588 |
 | Tremendous Trio | 27.00% | ~127,853 |
 | Record Sale | 27.00% | ~127,853 |
@@ -37,9 +37,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | The Boss | 24.00% | ~113,647 |
 | Top Of The Class | 23.00% | ~108,912 |
 | Goal Machine | 23.00% | ~108,912 |
-| Clean Bill of Health | 22.00% | ~104,176 |
-| What A Goal! | 22.00% | ~104,176 |
-| Cup Glory! | 22.00% | ~104,176 |
+| Clean Bill of Health | 22.00% | ~104,177 |
+| What A Goal! | 22.00% | ~104,177 |
+| Cup Glory! | 22.00% | ~104,177 |
 | Splashing The Cash | 21.00% | ~99,441 |
 | Irresistible Force | 20.00% | ~94,706 |
 | Excellent Match Cohesion | 20.00% | ~94,706 |
@@ -47,13 +47,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | Top Form | 17.00% | ~80,500 |
 | Cash To Burn | 17.00% | ~80,500 |
 | Overachiever! | 16.00% | ~75,765 |
-| Beating Expectations | 15.00% | ~71,029 |
-| Rushed signing | 15.00% | ~71,029 |
-| Window Shopping | 15.00% | ~71,029 |
+| Beating Expectations | 15.00% | ~71,030 |
+| Rushed signing | 15.00% | ~71,030 |
+| Window Shopping | 15.00% | ~71,030 |
 | Eyes and Ears | 14.00% | ~66,294 |
 | Comeback King! | 14.00% | ~66,294 |
 | You're Up! | 13.00% | ~61,559 |
-| Money, Money, Money | 12.00% | ~56,823 |
+| Money, Money, Money | 12.00% | ~56,824 |
 | Superb Strike | 10.00% | ~47,353 |
 | International Superstar | 10.00% | ~47,353 |
 | Invincible! | 10.00% | ~47,353 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,529 (Ranked 36)  
+Progressed: 473,530 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 21 (0.00%) (Ranked 286)
 | 2023-09-19 | 473,419 | 21 |
 | 2023-09-20 | 473,471 | 21 |
 | 2023-09-21 | 473,518 | 21 |
-| 2023-09-22 | 473,529 | 21 |
+| 2023-09-22 | 473,530 | 21 |
 ## Awards
 Max (Relaxing): 6,452  (Ranked 54)  
 Sum: 50,766 (Ranked 26)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4291,
+  "EOS_Progressed": 4292,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1265,6 +1265,11 @@
       "Time": "2023-09-21T06:08:27.1697748+00:00",
       "NumProgressed": 4291,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-22T12:03:32.0449157+00:00",
+      "NumProgressed": 4292,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1308,7 +1313,7 @@
       "Name": "Bread for the people I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_BREAD2",
@@ -1348,7 +1353,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -1572,7 +1577,7 @@
       "Name": "Completionist I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_QUESTS2",
@@ -1612,7 +1617,7 @@
       "Name": "Full-time job II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -1972,7 +1977,7 @@
       "Name": "A time consuming game II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -2052,7 +2057,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -2083,15 +2088,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4291,
+      "Progressed": 4292,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:03:16.9047002+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:03:32.044915+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:01:05.3885398+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:03:16.904885+00:00"
+  "LastUpdate_Ratings": "2023-09-22T12:00:29.9289338+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:03:32.0450584+00:00"
 }

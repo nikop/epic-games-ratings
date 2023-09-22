@@ -12,14 +12,14 @@
 | Cookie Addict | 50.00% | ~25 |
 | Salvager | 42.00% | ~21 |
 | You're Hired! | 28.00% | ~14 |
-| Expert Miner | 22.00% | ~11 |
+| Expert Miner | 24.00% | ~12 |
 | Expert Firefighter | 14.00% | ~7 |
 | Master Mechanic | 12.00% | ~6 |
 | Pancake Day | 12.00% | ~6 |
+| Ray of Sunshine | 12.00% | ~6 |
 | Master Miner | 10.00% | ~5 |
-| Ray of Sunshine | 10.00% | ~5 |
+| Master Firefighter | 8.00% | ~4 |
 | Notorious Pirate | 6.00% | ~3 |
-| Master Firefighter | 6.00% | ~3 |
 | Family Reunion | 4.00% | ~2 |
 | Just Lazy | 2.00% | ~1 |
 | Pirate Lord | 0.00% | ~0 |

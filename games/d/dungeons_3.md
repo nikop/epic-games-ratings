@@ -48,9 +48,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | The White Knight | 10.00% | ~3,100 |
 | Please, no interruptions! | 10.00% | ~3,100 |
 | Use the terrain | 9.00% | ~2,790 |
+| Master of Traps | 9.00% | ~2,790 |
 | Prison Break | 9.00% | ~2,790 |
 | Hearts of Iron | 8.00% | ~2,480 |
-| Master of Traps | 8.00% | ~2,480 |
 | Ignore The Level Designer’s Plan | 8.00% | ~2,480 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~2,480 |
 | Lifesaver | 8.00% | ~2,480 |

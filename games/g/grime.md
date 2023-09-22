@@ -190,7 +190,7 @@ Completed: 1 (0.00%) (Ranked 286)
 | 2023-09-21 | 149,633 | 1 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 444)  
-Sum: 231 (Ranked 362)  
+Sum: 232 (Ranked 362)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
@@ -201,7 +201,7 @@ Diff (max vs sum): 82
 | This game has Amazing Storytelling | 29 |
 | This game has a Creative Community | 26 |
 | This game is Extremely Fun | 26 |
-| This game has Amazing Characters | 21 |
+| This game has Amazing Characters | 22 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -298,3 +298,4 @@ Diff (max vs sum): 82
 | 2023-09-16 | 4.59 | - | 34 | 225 |
 | 2023-09-18 | 4.59 | - | 36 | 230 |
 | 2023-09-19 | 4.59 | - | 36 | 231 |
+| 2023-09-22 | 4.59 | - | 36 | 232 |

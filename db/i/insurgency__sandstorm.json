@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3493,9 +3493,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 454289,
+  "EOS_Progressed": 454304,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5058,
+  "EOS_NewPlayers": 5039,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20873,6 +20873,11 @@
       "Time": "2023-09-22T11:05:25.5371621+00:00",
       "NumProgressed": 454289,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-22T12:05:15.6676664+00:00",
+      "NumProgressed": 454304,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -20916,7 +20921,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -21148,7 +21153,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22714
+      "UsersEstimate": 22715
     },
     {
       "ID": "ACH_WET_FEET",
@@ -21163,15 +21168,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 454289,
+      "Progressed": 454304,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-22T11:00:46.8778168+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:05:25.5371616+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:05:15.6676657+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:15.9680136+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:00:46.8778174+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:05:25.5373207+00:00"
+  "LastUpdate_Ratings": "2023-09-22T12:00:13.3656919+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:05:15.6678014+00:00"
 }

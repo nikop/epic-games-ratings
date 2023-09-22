@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2664,7 +2664,7 @@
   ],
   "EOS_Progressed": 30998,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -19628,9 +19628,9 @@
       "ID": "ACH_D3_Campaign_DayNight_1",
       "SetID": "cda475f",
       "Name": "Master of Traps",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2790
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_2",
@@ -20044,8 +20044,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-20T21:00:27.5455441+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:08:53.1589298+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:08:15.1601559+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.8919956+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:02:26.1717937+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:08:53.1591282+00:00"
+  "LastUpdate_Ratings": "2023-09-22T12:01:34.7364292+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:08:15.1603145+00:00"
 }

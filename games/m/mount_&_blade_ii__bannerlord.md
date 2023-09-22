@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,062 |
-| Landlord | 33.00% | ~20,360 |
-| Bannerlord | 23.00% | ~14,190 |
-| Horde breaker | 23.00% | ~14,190 |
-| Lawmaker | 23.00% | ~14,190 |
-| Trained | 23.00% | ~14,190 |
-| The king is pleased | 18.00% | ~11,105 |
-| King Solomon | 17.00% | ~10,488 |
+| Lawbringer | 39.00% | ~24,063 |
+| Landlord | 33.00% | ~20,361 |
+| Bannerlord | 23.00% | ~14,191 |
+| Horde breaker | 23.00% | ~14,191 |
+| Lawmaker | 23.00% | ~14,191 |
+| Trained | 23.00% | ~14,191 |
+| The king is pleased | 18.00% | ~11,106 |
+| King Solomon | 17.00% | ~10,489 |
 | I can do it | 16.00% | ~9,872 |
 | Apple of my eye | 15.00% | ~9,255 |
 | God of the Arena | 13.00% | ~8,021 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,697 (Ranked 90)  
+Progressed: 61,700 (Ranked 90)  
 Completed: 0 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,20 +213,20 @@ Completed: 0 (0.00%) (Ranked 286)
 | 2023-09-19 | 61,511 | 0 |
 | 2023-09-20 | 61,595 | 0 |
 | 2023-09-21 | 61,671 | 0 |
-| 2023-09-22 | 61,697 | 0 |
+| 2023-09-22 | 61,700 | 0 |
 ## Awards
-Max (Character Customization): 7,118  (Ranked 51)  
-Sum: 14,536 (Ranked 68)  
+Max (Character Customization): 7,119  (Ranked 51)  
+Sum: 14,539 (Ranked 68)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,118 |
+| This game has Inclusive Character Customization | 7,119 |
 | This game is Great for Beginners | 976 |
 | This game has Diverse Characters | 921 |
 | This game is Highly Recommended | 871 |
 | This game is Extremely Fun | 835 |
 | This game has Amazing Storytelling | 820 |
-| This game is Relaxing | 806 |
+| This game is Relaxing | 808 |
 | This game has Amazing Characters | 805 |
 | This game has Quickly Understood Controls | 794 |
 | This game has a Creative Community | 590 |
@@ -485,3 +485,4 @@ Diff (max vs sum): -17
 | 2023-09-19 | 4.74 | - | 7,110 | 14,506 |
 | 2023-09-20 | 4.74 | - | 7,110 | 14,516 |
 | 2023-09-21 | 4.74 | - | 7,118 | 14,536 |
+| 2023-09-22 | 4.74 | - | 7,119 | 14,539 |

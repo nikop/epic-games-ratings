@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
     "PcReleaseDate": "2022-06-05T23:00:00+00:00",
@@ -253,9 +253,9 @@
       "ID": "A_Extinguish_25_Fires",
       "SetID": "56632p4",
       "Name": "Master Firefighter",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_Fix_10_Systems",
@@ -309,9 +309,9 @@
       "ID": "A_Mine_10_Asteroid",
       "SetID": "56632p4",
       "Name": "Expert Miner",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "A_Mine_1_Asteroid",
@@ -341,9 +341,9 @@
       "ID": "A_Ray_Of_Sunshine",
       "SetID": "56632p4",
       "Name": "Ray of Sunshine",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_Salvage_10_Wrecks",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:04:57.3954945+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:04:51.3034929+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:52.1778029+00:00",
-  "LastUpdate_Ratings": "2023-09-22T11:01:41.1630367+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:04:57.3955139+00:00"
+  "LastUpdate_Ratings": "2023-09-22T12:00:57.849017+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:04:51.303512+00:00"
 }

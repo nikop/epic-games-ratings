@@ -6,24 +6,24 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,744,964 |
-| Easy to forget | 46.00% | ~1,638,129 |
-| Back in the black | 39.00% | ~1,388,848 |
-| That's what I'm talking about | 29.00% | ~1,032,733 |
-| The Best of Both Worlds | 25.00% | ~890,288 |
-| Get your wings | 20.00% | ~712,230 |
-| Double trouble | 16.00% | ~569,784 |
-| Smashing it | 11.00% | ~391,726 |
-| But can it run Crysis? | 9.00% | ~320,504 |
-| My favourite feature... | 9.00% | ~320,504 |
-| From humble beginnings... | 7.00% | ~249,281 |
-| Customer satisfaction | 7.00% | ~249,281 |
-| Keeping things neat | 4.00% | ~142,446 |
-| Seems you're pretty good at this | 4.00% | ~142,446 |
-| Bending over backwards | 4.00% | ~142,446 |
-| Triple threat | 3.00% | ~106,834 |
-| You rock at this! | 3.00% | ~106,834 |
-| Your music sucks | 3.00% | ~106,834 |
+| You need to plug it in... | 49.00% | ~1,744,973 |
+| Easy to forget | 46.00% | ~1,638,138 |
+| Back in the black | 39.00% | ~1,388,856 |
+| That's what I'm talking about | 29.00% | ~1,032,739 |
+| The Best of Both Worlds | 25.00% | ~890,292 |
+| Get your wings | 20.00% | ~712,234 |
+| Double trouble | 16.00% | ~569,787 |
+| Smashing it | 11.00% | ~391,729 |
+| But can it run Crysis? | 9.00% | ~320,505 |
+| My favourite feature... | 9.00% | ~320,505 |
+| From humble beginnings... | 7.00% | ~249,282 |
+| Customer satisfaction | 7.00% | ~249,282 |
+| Keeping things neat | 4.00% | ~142,447 |
+| Seems you're pretty good at this | 4.00% | ~142,447 |
+| Bending over backwards | 4.00% | ~142,447 |
+| Triple threat | 3.00% | ~106,835 |
+| You rock at this! | 3.00% | ~106,835 |
+| Your music sucks | 3.00% | ~106,835 |
 | I'm broke, Uncle! | 2.00% | ~71,223 |
 | Maybe you should try something else? | 2.00% | ~71,223 |
 | Taking care of business | 2.00% | ~71,223 |
@@ -37,17 +37,17 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,612 |
 | Majority Shareholder | 1.00% | ~35,612 |
 | Owner | 1.00% | ~35,612 |
-| Show off | 0.90% | ~32,050 |
+| Show off | 0.90% | ~32,051 |
 | Work ethic 101 | 0.70% | ~24,928 |
 | Building momentum | 0.60% | ~21,367 |
 | Lead by example | 0.60% | ~21,367 |
 | Treat yourself - RAM | 0.50% | ~17,806 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,683 |
-| Mr big business | 0.30% | ~10,683 |
-| Mister Big | 0.30% | ~10,683 |
-| Getting your feet wet | 0.30% | ~10,683 |
-| Customer's ALWAYS right. | 0.30% | ~10,683 |
-| Treat yourself - CPU | 0.30% | ~10,683 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,684 |
+| Mr big business | 0.30% | ~10,684 |
+| Mister Big | 0.30% | ~10,684 |
+| Getting your feet wet | 0.30% | ~10,684 |
+| Customer's ALWAYS right. | 0.30% | ~10,684 |
+| Treat yourself - CPU | 0.30% | ~10,684 |
 | 1920x1080 | 0.20% | ~7,122 |
 | Blow 'em away | 0.20% | ~7,122 |
 | Hasta La Vista, Baby. | 0.10% | ~3,561 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,561 |
 | Treat yourself - GPU | 0.10% | ~3,561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,561,150 (Ranked 5)  
+Progressed: 3,561,170 (Ranked 5)  
 Completed: 35 (0.00%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,17 +214,17 @@ Completed: 35 (0.00%) (Ranked 286)
 | 2023-09-19 | 3,560,230 | 35 |
 | 2023-09-20 | 3,560,602 | 35 |
 | 2023-09-21 | 3,561,003 | 35 |
-| 2023-09-22 | 3,561,150 | 35 |
+| 2023-09-22 | 3,561,170 | 35 |
 ## Awards
 Max (Great for Beginners): 1,070  (Ranked 140)  
-Sum: 8,017 (Ranked 100)  
+Sum: 8,018 (Ranked 100)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,070 |
 | This game is Educational | 995 |
 | This game is Extremely Fun | 992 |
-| This game is Relaxing | 986 |
+| This game is Relaxing | 987 |
 | This game has Quickly Understood Controls | 944 |
 | This game is Highly Recommended | 896 |
 | This game has Amazing Storytelling | 821 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 40
 | 2023-09-19 | 4.65 | - | 1,068 | 8,010 |
 | 2023-09-20 | 4.65 | - | 1,068 | 8,011 |
 | 2023-09-21 | 4.65 | - | 1,070 | 8,015 |
-| 2023-09-22 | 4.65 | - | 1,070 | 8,017 |
+| 2023-09-22 | 4.65 | - | 1,070 | 8,018 |

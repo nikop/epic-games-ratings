@@ -16,7 +16,7 @@ Number of Ratings: 98  (23.09.2022)
 | Bomberman | 25.00% | ~352 |
 | You're Gonna Go Far, Kid | 24.00% | ~338 |
 | Death to the Oppressor! | 17.00% | ~240 |
-| The Gang's All Here | 15.00% | ~211 |
+| The Gang's All Here | 15.00% | ~212 |
 | Your Answer | 14.00% | ~197 |
 | One by One | 13.00% | ~183 |
 | The Big Bertha | 11.00% | ~155 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,409 (Ranked 209)  
+Progressed: 1,410 (Ranked 209)  
 Completed: 1 (0.07%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.07%) (Ranked 238)
 | 2023-09-19 | 1,393 | 1 |
 | 2023-09-20 | 1,400 | 1 |
 | 2023-09-21 | 1,405 | 1 |
-| 2023-09-22 | 1,409 | 1 |
+| 2023-09-22 | 1,410 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

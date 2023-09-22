@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~27,040 |
-| Let There Be Light | 34.00% | ~22,423 |
-| Float Like a Butterfly | 32.00% | ~21,104 |
-| Nordic Walking | 26.00% | ~17,147 |
+| Follow the Light | 41.00% | ~27,041 |
+| Let There Be Light | 34.00% | ~22,424 |
+| Float Like a Butterfly | 32.00% | ~21,105 |
+| Nordic Walking | 26.00% | ~17,148 |
 | Bright Falls' Finest | 25.00% | ~16,488 |
-| Under a Thin Layer of Skin | 22.00% | ~14,509 |
-| Paging Mr. Wake | 19.00% | ~12,530 |
-| Park Ranger | 18.00% | ~11,871 |
+| Under a Thin Layer of Skin | 22.00% | ~14,510 |
+| Paging Mr. Wake | 19.00% | ~12,531 |
+| Park Ranger | 18.00% | ~11,872 |
 | Back! Back, I Say! | 17.00% | ~11,212 |
 | Finders Keepers | 17.00% | ~11,212 |
 | Sound and Fury | 16.00% | ~10,552 |
 | Damn Good Cup of Coffee | 16.00% | ~10,552 |
-| Wheels Within Wheels | 15.00% | ~9,892 |
-| They're Heeeeeere! | 15.00% | ~9,892 |
-| Missed by a Mile | 15.00% | ~9,892 |
+| Wheels Within Wheels | 15.00% | ~9,893 |
+| They're Heeeeeere! | 15.00% | ~9,893 |
+| Missed by a Mile | 15.00% | ~9,893 |
 | The Six-Gun Scribe | 14.00% | ~9,233 |
 | Heavy Metal | 13.00% | ~8,574 |
 | Iron Horse | 13.00% | ~8,574 |
@@ -30,14 +30,14 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 12.00% | ~7,914 |
 | Thunder and Lightning | 12.00% | ~7,914 |
 | Two For the Price of One | 12.00% | ~7,914 |
-| Gatekeeper | 11.00% | ~7,254 |
-| The Lady of the Light | 11.00% | ~7,254 |
-| Energized! | 11.00% | ~7,254 |
+| Gatekeeper | 11.00% | ~7,255 |
+| The Lady of the Light | 11.00% | ~7,255 |
+| Energized! | 11.00% | ~7,255 |
 | Right of Way | 10.00% | ~6,595 |
 | What Light Through Yonder Window | 9.00% | ~5,936 |
 | Tornado Wrangler | 8.00% | ~5,276 |
 | Departure | 8.00% | ~5,276 |
-| A Friend in Need | 8.00% | ~2,353 |
+| A Friend in Need | 8.00% | ~2,354 |
 | Drink 'Em Both Up | 6.00% | ~3,957 |
 | Hardboiled Writer | 6.00% | ~3,957 |
 | A Friend Indeed | 6.00% | ~1,765 |
@@ -47,7 +47,7 @@ Number of Ratings: 524  (23.09.2022)
 | Ding! | 5.00% | ~1,471 |
 | Boob Tube | 4.00% | ~2,638 |
 | Heartbreaker | 4.00% | ~1,177 |
-| Carny | 3.00% | ~1,978 |
+| Carny | 3.00% | ~1,979 |
 | Kill Your Darlings | 3.00% | ~883 |
 | Medical Opinions | 2.00% | ~1,319 |
 | Taken Season | 2.00% | ~1,319 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,950 (Ranked 89)  
+Progressed: 65,953 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 66 (0.10%) (Ranked 228)
 | 2023-09-19 | 65,814 | 65 |
 | 2023-09-20 | 65,872 | 65 |
 | 2023-09-21 | 65,931 | 66 |
-| 2023-09-22 | 65,950 | 66 |
+| 2023-09-22 | 65,953 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,613 |
-| The Killing Jar | 8.00% | ~14,767 |
-| Not Your Average Trait | 8.00% | ~14,767 |
-| Expanding Horizons | 7.00% | ~12,921 |
-| Quest for Survival | 7.00% | ~12,921 |
-| Gleaming the Cube | 6.00% | ~11,075 |
-| Not a Janitor | 6.00% | ~11,075 |
-| Familiar Face | 6.00% | ~11,075 |
-| Duality | 6.00% | ~11,075 |
-| Top Performer | 6.00% | ~11,075 |
-| Boss'n Up | 6.00% | ~11,075 |
-| Good, But Could Be Better! | 6.00% | ~11,075 |
-| Trait Chaser | 6.00% | ~11,075 |
-| Not So Special Now | 5.00% | ~9,229 |
-| Equal Measures | 5.00% | ~9,229 |
-| Blue Goddess | 5.00% | ~9,229 |
-| Shhh...It's a Secret | 5.00% | ~9,229 |
-| Almost There | 5.00% | ~9,229 |
-| Make Some Room | 5.00% | ~9,229 |
+| First of Many | 9.00% | ~16,615 |
+| The Killing Jar | 8.00% | ~14,768 |
+| Not Your Average Trait | 8.00% | ~14,768 |
+| Expanding Horizons | 7.00% | ~12,922 |
+| Quest for Survival | 7.00% | ~12,922 |
+| Gleaming the Cube | 6.00% | ~11,076 |
+| Not a Janitor | 6.00% | ~11,076 |
+| Familiar Face | 6.00% | ~11,076 |
+| Duality | 6.00% | ~11,076 |
+| Top Performer | 6.00% | ~11,076 |
+| Boss'n Up | 6.00% | ~11,076 |
+| Good, But Could Be Better! | 6.00% | ~11,076 |
+| Trait Chaser | 6.00% | ~11,076 |
+| Not So Special Now | 5.00% | ~9,230 |
+| Equal Measures | 5.00% | ~9,230 |
+| Blue Goddess | 5.00% | ~9,230 |
+| Shhh...It's a Secret | 5.00% | ~9,230 |
+| Almost There | 5.00% | ~9,230 |
+| Make Some Room | 5.00% | ~9,230 |
 | Chaos | 4.00% | ~7,384 |
 | Traitor | 4.00% | ~7,384 |
 | Power Surge | 4.00% | ~7,384 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,846 |
 | Ghost in the Machine | 0.90% | ~1,661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184,588 (Ranked 65)  
+Progressed: 184,606 (Ranked 65)  
 Completed: 320 (0.17%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 320 (0.17%) (Ranked 208)
 | 2023-09-19 | 183,629 | 312 |
 | 2023-09-20 | 184,044 | 315 |
 | 2023-09-21 | 184,448 | 319 |
-| 2023-09-22 | 184,588 | 320 |
+| 2023-09-22 | 184,606 | 320 |
 ## Awards
 Max (Great Boss Battles): 1,667  (Ranked 119)  
 Sum: 3,383 (Ranked 157)  

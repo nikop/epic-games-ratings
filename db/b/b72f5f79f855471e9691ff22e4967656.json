@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -847,9 +847,9 @@
       "ID": "questBuildShip",
       "SetID": "ci65fo0",
       "Name": "Captain",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "questBuilder",
@@ -1100,8 +1100,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-22T11:07:01.7970587+00:00",
+  "LastChanged_Achievements": "2023-09-22T12:06:38.7490238+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:10.772081+00:00",
-  "LastUpdate_Ratings": "2023-09-22T10:58:46.3810353+00:00",
-  "LastUpdate_Achievements": "2023-09-22T11:07:01.7971658+00:00"
+  "LastUpdate_Ratings": "2023-09-22T11:58:33.7889332+00:00",
+  "LastUpdate_Achievements": "2023-09-22T12:06:38.7491138+00:00"
 }
