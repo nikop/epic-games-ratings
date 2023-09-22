@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65946,
+  "EOS_Progressed": 65947,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15477,6 +15477,11 @@
       "Time": "2023-09-22T07:04:41.7297585+00:00",
       "NumProgressed": 65946,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-22T08:04:58.4023935+00:00",
+      "NumProgressed": 65947,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15504,7 +15509,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16486
+      "UsersEstimate": 16487
     },
     {
       "ID": "04",
@@ -15656,7 +15661,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9232
+      "UsersEstimate": 9233
     },
     {
       "ID": "23",
@@ -15712,7 +15717,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10551
+      "UsersEstimate": 10552
     },
     {
       "ID": "30",
@@ -15848,7 +15853,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10551
+      "UsersEstimate": 10552
     },
     {
       "ID": "47",
@@ -16023,21 +16028,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65946,
+      "Progressed": 65947,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29414,
+      "Progressed": 29415,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:04:41.7297578+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:04:58.402393+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:58:58.8488991+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:04:41.7299113+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:59:19.812327+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:04:58.4025221+00:00"
 }

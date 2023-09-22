@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3219,
+  "EOS_Progressed": 3220,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 5.81,
   "EosHistory": [
@@ -4865,6 +4865,11 @@
       "Time": "2023-09-22T03:05:09.5995407+00:00",
       "NumProgressed": 3219,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-09-22T08:05:11.6692224+00:00",
+      "NumProgressed": 3220,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 24,
@@ -4884,7 +4889,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "11",
@@ -4892,7 +4897,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "12",
@@ -4916,7 +4921,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "15",
@@ -4972,7 +4977,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "21",
@@ -4988,7 +4993,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "23",
@@ -5020,7 +5025,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "5",
@@ -5028,7 +5033,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "6",
@@ -5044,7 +5049,7 @@
       "Name": "MASTER",
       "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "8",
@@ -5052,7 +5057,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "9",
@@ -5067,13 +5072,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3219,
+      "Progressed": 3220,
       "Completed": 187
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:04:54.0394248+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:05:11.6692219+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-22T07:00:14.3275388+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:04:54.0394711+00:00"
+  "LastUpdate_Ratings": "2023-09-22T08:00:33.8640561+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:05:11.6692605+00:00"
 }

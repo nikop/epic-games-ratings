@@ -6,43 +6,43 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~53,632 |
-| Zealous | 5.00% | ~44,694 |
-| Skillful | 5.00% | ~44,694 |
-| Make Some Noise | 5.00% | ~44,694 |
-| Handyman | 4.00% | ~35,755 |
-| Not half bad | 4.00% | ~35,755 |
-| Apt Survivor | 4.00% | ~35,755 |
-| Survival Treasures | 4.00% | ~35,755 |
-| Sorted | 4.00% | ~35,755 |
-| The Grand Sacrifice | 3.00% | ~26,816 |
-| Agonizing Escape | 3.00% | ~26,816 |
-| Backdoor Escape | 3.00% | ~26,816 |
-| No one left behind | 3.00% | ~26,816 |
-| Medic | 3.00% | ~26,816 |
-| Nerves of steel | 3.00% | ~26,816 |
-| Perfect Escape | 3.00% | ~26,816 |
-| Bloody Millionaire | 3.00% | ~26,816 |
-| I | 3.00% | ~26,816 |
-| Engineer | 3.00% | ~26,816 |
-| Healthy Obsession | 3.00% | ~26,816 |
-| Resurgence | 3.00% | ~26,816 |
-| Preemptive Strike | 3.00% | ~26,816 |
-| Humanitarian | 3.00% | ~26,816 |
-| MU/TH/UR Dearest | 3.00% | ~26,816 |
-| I've got your back | 2.00% | ~17,877 |
-| Perfect Killing | 2.00% | ~17,877 |
-| Apt Killer | 2.00% | ~17,877 |
-| Risk it all | 2.00% | ~17,877 |
-| Vulture | 2.00% | ~17,877 |
-| II | 2.00% | ~17,877 |
-| III | 2.00% | ~17,877 |
-| Wounded Healer | 2.00% | ~17,877 |
-| First to the Punch | 2.00% | ~17,877 |
-| Every Last Drop | 2.00% | ~17,877 |
-| Close Shave | 2.00% | ~17,877 |
-| With Scars to Show | 2.00% | ~17,877 |
-| Second Act | 2.00% | ~17,877 |
+| It wakes | 6.00% | ~53,635 |
+| Zealous | 5.00% | ~44,696 |
+| Skillful | 5.00% | ~44,696 |
+| Make Some Noise | 5.00% | ~44,696 |
+| Handyman | 4.00% | ~35,757 |
+| Not half bad | 4.00% | ~35,757 |
+| Apt Survivor | 4.00% | ~35,757 |
+| Survival Treasures | 4.00% | ~35,757 |
+| Sorted | 4.00% | ~35,757 |
+| The Grand Sacrifice | 3.00% | ~26,818 |
+| Agonizing Escape | 3.00% | ~26,818 |
+| Backdoor Escape | 3.00% | ~26,818 |
+| No one left behind | 3.00% | ~26,818 |
+| Medic | 3.00% | ~26,818 |
+| Nerves of steel | 3.00% | ~26,818 |
+| Perfect Escape | 3.00% | ~26,818 |
+| Bloody Millionaire | 3.00% | ~26,818 |
+| I | 3.00% | ~26,818 |
+| Engineer | 3.00% | ~26,818 |
+| Healthy Obsession | 3.00% | ~26,818 |
+| Resurgence | 3.00% | ~26,818 |
+| Preemptive Strike | 3.00% | ~26,818 |
+| Humanitarian | 3.00% | ~26,818 |
+| MU/TH/UR Dearest | 3.00% | ~26,818 |
+| I've got your back | 2.00% | ~17,878 |
+| Perfect Killing | 2.00% | ~17,878 |
+| Apt Killer | 2.00% | ~17,878 |
+| Risk it all | 2.00% | ~17,878 |
+| Vulture | 2.00% | ~17,878 |
+| II | 2.00% | ~17,878 |
+| III | 2.00% | ~17,878 |
+| Wounded Healer | 2.00% | ~17,878 |
+| First to the Punch | 2.00% | ~17,878 |
+| Every Last Drop | 2.00% | ~17,878 |
+| Close Shave | 2.00% | ~17,878 |
+| With Scars to Show | 2.00% | ~17,878 |
+| Second Act | 2.00% | ~17,878 |
 | A bite for the Entity | 1.00% | ~8,939 |
 | Blood on your hands | 1.00% | ~8,939 |
 | Escape Artist | 1.00% | ~8,939 |
@@ -94,19 +94,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.70% | ~6,257 |
 | Insult and Injury | 0.70% | ~6,257 |
 | Rebuilding The Borgo | 0.70% | ~6,257 |
-| Whiffing to Success | 0.60% | ~5,363 |
-| Outrage | 0.60% | ~5,363 |
-| I See You | 0.60% | ~5,363 |
-| Prowler | 0.60% | ~5,363 |
-| Hack the Mainframe | 0.60% | ~5,363 |
-| Blood in your mouth | 0.50% | ~4,469 |
-| Looter | 0.50% | ~4,469 |
-| Heavy Burden | 0.50% | ~4,469 |
-| Power Moves | 0.50% | ~4,469 |
-| Punch Drunk | 0.50% | ~4,469 |
-| Triage | 0.50% | ~4,469 |
-| High Speed Pursuit | 0.50% | ~4,469 |
-| Death of Ignorance | 0.40% | ~3,575 |
+| Whiffing to Success | 0.60% | ~5,364 |
+| Outrage | 0.60% | ~5,364 |
+| I See You | 0.60% | ~5,364 |
+| Prowler | 0.60% | ~5,364 |
+| Hack the Mainframe | 0.60% | ~5,364 |
+| Blood in your mouth | 0.50% | ~4,470 |
+| Looter | 0.50% | ~4,470 |
+| Heavy Burden | 0.50% | ~4,470 |
+| Power Moves | 0.50% | ~4,470 |
+| Punch Drunk | 0.50% | ~4,470 |
+| Triage | 0.50% | ~4,470 |
+| High Speed Pursuit | 0.50% | ~4,470 |
+| Death of Ignorance | 0.40% | ~3,576 |
 | A feast for the Entity | 0.30% | ~2,682 |
 | In the void she walks | 0.30% | ~2,682 |
 | Mad House | 0.30% | ~2,682 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~894 |
 | Adept Ripley | 0.10% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,870 (Ranked 14)  
+Progressed: 893,924 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,7 +391,7 @@ Completed: 49 (0.01%) (Ranked 269)
 | 2023-09-19 | 889,597 | 49 |
 | 2023-09-20 | 891,547 | 49 |
 | 2023-09-21 | 893,416 | 49 |
-| 2023-09-22 | 893,870 | 49 |
+| 2023-09-22 | 893,924 | 49 |
 ## Awards
 Max (Diverse Characters): 32,832  (Ranked 15)  
 Sum: 255,767 (Ranked 11)  

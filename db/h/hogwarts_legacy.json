@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7962,7 +7962,7 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 297081,
+  "EOS_Progressed": 297082,
   "EOS_Completed": 476,
   "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 6,
@@ -24692,6 +24692,11 @@
       "Time": "2023-09-22T07:05:29.6184308+00:00",
       "NumProgressed": 297081,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T08:05:48.8179469+00:00",
+      "NumProgressed": 297082,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24775,7 +24780,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23766
+      "UsersEstimate": 23767
     },
     {
       "ID": "PFA_19",
@@ -25007,7 +25012,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23766
+      "UsersEstimate": 23767
     },
     {
       "ID": "PFA_45",
@@ -25062,7 +25067,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297081,
+      "Progressed": 297082,
       "Completed": 476
     }
   ],
@@ -25070,8 +25075,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-22T05:58:58.264886+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:05:29.6184303+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:05:48.8179458+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:58:45.7467837+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:05:29.6185657+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:59:02.4872255+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:05:48.8180997+00:00"
 }

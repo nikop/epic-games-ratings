@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -900,9 +900,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6666,
+  "EOS_Progressed": 6667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6300,6 +6300,11 @@
       "Time": "2023-09-21T23:05:30.1431314+00:00",
       "NumProgressed": 6666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T08:04:44.2390616+00:00",
+      "NumProgressed": 6667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6343,7 +6348,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -6351,7 +6356,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "Control_All_Relics",
@@ -6405,17 +6410,17 @@
       "ID": "First_Nebula_Anomaly",
       "SetID": "4h07amh",
       "Name": "Discover a Nebula",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "First_Planet_Colonized",
       "SetID": "4h07amh",
       "Name": "Colonize a Planet",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5200
     },
     {
       "ID": "First_Race_Met",
@@ -6423,7 +6428,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4866
+      "UsersEstimate": 4867
     },
     {
       "ID": "First_Ship_Designed",
@@ -6431,7 +6436,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "First_Stream_Travel",
@@ -6447,7 +6452,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6527,7 +6532,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "Play_1000_Hours",
@@ -6597,9 +6602,9 @@
       "ID": "Sell_10_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Seller, Level 2",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "Sell_30_Resource",
@@ -6615,7 +6620,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -6631,7 +6636,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6693,9 +6698,9 @@
       "ID": "Win_As_Drengin",
       "SetID": "4h07amh",
       "Name": "Win as the Drengin",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 47
     },
     {
       "ID": "Win_As_Festron",
@@ -6725,9 +6730,9 @@
       "ID": "Win_As_Krynn",
       "SetID": "4h07amh",
       "Name": "Win as the Krynn",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 47
     },
     {
       "ID": "Win_As_Manti",
@@ -6886,15 +6891,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6666,
+      "Progressed": 6667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-16T15:57:36.6931237+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:04:27.9853223+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:04:44.239061+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:17.012778+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:58:54.3981543+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:04:27.9854309+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:59:14.2488081+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:04:44.2391546+00:00"
 }

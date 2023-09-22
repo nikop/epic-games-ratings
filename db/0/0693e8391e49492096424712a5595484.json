@@ -1772,9 +1772,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 315
+      "UsersEstimate": 319
     },
     {
       "ID": "Drunkard",
@@ -1828,9 +1828,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 223
     },
     {
       "ID": "HastrmanHappy",
@@ -1860,17 +1860,17 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 184
     },
     {
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "PriestBroom",
@@ -1892,9 +1892,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 157
     },
     {
       "ID": "PriestRogue",
@@ -2027,8 +2027,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:05:30.9913343+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:05:50.1527072+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:58:08.1069566+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:05:30.9913834+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:58:22.1854185+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:05:50.1527461+00:00"
 }

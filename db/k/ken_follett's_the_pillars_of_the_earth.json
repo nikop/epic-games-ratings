@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15319,
+  "EOS_Progressed": 15320,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10577,6 +10577,11 @@
       "Time": "2023-09-22T04:04:12.0162444+00:00",
       "NumProgressed": 15319,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-22T08:04:03.1103722+00:00",
+      "NumProgressed": 15320,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10628,7 +10633,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "tpote_achievement_15",
@@ -10668,7 +10673,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "tpote_achievement_2",
@@ -10676,7 +10681,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "tpote_achievement_20",
@@ -10732,7 +10737,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "tpote_achievement_27",
@@ -10740,7 +10745,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "tpote_achievement_28",
@@ -10780,7 +10785,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "tpote_achievement_32",
@@ -10915,15 +10920,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15319,
+      "Progressed": 15320,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:03:48.1756953+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:04:03.1103713+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:56.6465431+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:57:35.3300948+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:03:48.1757867+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:57:49.1904882+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:04:03.1104474+00:00"
 }

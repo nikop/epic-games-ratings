@@ -6,18 +6,18 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,266 |
-| Worker Specialization | 78.00% | ~5,199 |
-| First Contact | 73.00% | ~4,866 |
+| Colonize a Planet | 78.00% | ~5,200 |
+| Worker Specialization | 78.00% | ~5,200 |
+| First Contact | 73.00% | ~4,867 |
 | Win a Battle | 66.00% | ~4,400 |
-| Anomaly Researcher | 62.00% | ~4,133 |
-| Unleash My Power | 62.00% | ~4,133 |
-| Own 30 Planets | 34.00% | ~2,266 |
+| Anomaly Researcher | 62.00% | ~4,134 |
+| Unleash My Power | 62.00% | ~4,134 |
+| Own 30 Planets | 34.00% | ~2,267 |
 | Xenocide | 32.00% | ~2,133 |
 | Design a Civilization | 32.00% | ~2,133 |
-| Commodity Trader | 31.00% | ~2,066 |
-| Design a Ship | 28.00% | ~1,866 |
-| Commodity Seller | 25.00% | ~1,666 |
+| Commodity Trader | 31.00% | ~2,067 |
+| Design a Ship | 28.00% | ~1,867 |
+| Commodity Seller | 25.00% | ~1,667 |
 | Prestige Victory! | 14.00% | ~933 |
 | Galactic War | 11.00% | ~733 |
 | Trading Partner | 9.00% | ~600 |
@@ -40,8 +40,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 1.00% | ~67 |
 | Win as the Navigators | 0.90% | ~60 |
 | Win as Torians | 0.90% | ~60 |
-| Win as the Drengin | 0.80% | ~53 |
-| Win as the Krynn | 0.80% | ~53 |
+| Win as the Drengin | 0.70% | ~47 |
+| Win as the Krynn | 0.70% | ~47 |
 | Win as the Manti | 0.70% | ~47 |
 | Win as Xeloxi | 0.70% | ~47 |
 | Win as the Drath | 0.60% | ~40 |
@@ -51,13 +51,13 @@ Number of Ratings: 429  (23.09.2022)
 | Diplomatic Victory! | 0.60% | ~40 |
 | Iconia Reclaimed! | 0.30% | ~20 |
 | Relic Hoarder | 0.20% | ~13 |
-| Discover a Nebula | 0.20% | ~13 |
-| Commodity Seller, Level 2 | 0.20% | ~13 |
 | Commodity Trader - Level 2 | 0.10% | ~7 |
+| Discover a Nebula | 0.10% | ~7 |
 | Play for 1000 Hours | 0.10% | ~7 |
 | Play for 100 Hours | 0.10% | ~7 |
 | Play for 5 Hours | 0.10% | ~7 |
 | It's OUR Homeworld | 0.10% | ~7 |
+| Commodity Seller, Level 2 | 0.10% | ~7 |
 | Win a Multiplayer Game | 0.10% | ~7 |
 | Solid Economy | 0.00% | ~0 |
 | Ask Not What Your Empire Can Do For You | 0.00% | ~0 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,666 (Ranked 145)  
+Progressed: 6,667 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 0 (0.00%) (Ranked 285)
 | 2023-09-19 | 6,654 | 0 |
 | 2023-09-20 | 6,658 | 0 |
 | 2023-09-21 | 6,666 | 0 |
+| 2023-09-22 | 6,667 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 353)  
 Sum: 679 (Ranked 282)  

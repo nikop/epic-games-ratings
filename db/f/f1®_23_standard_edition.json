@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -298,9 +298,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1090,
+  "EOS_Progressed": 1091,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1086,
+  "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -703,6 +703,11 @@
       "Time": "2023-09-22T07:03:05.2876759+00:00",
       "NumProgressed": 1090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T08:03:18.2919772+00:00",
+      "NumProgressed": 1091,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -721,9 +726,9 @@
       "ID": "achievement_0002",
       "SetID": "9123ogc",
       "Name": "Gathering Dust",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_0003",
@@ -763,7 +768,7 @@
       "Name": "Getting on the Step",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "achievement_0008",
@@ -771,7 +776,7 @@
       "Name": "On the Top Step",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "achievement_0009",
@@ -827,15 +832,15 @@
       "Name": "Lightning Round the World",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_0016",
       "SetID": "9123ogc",
       "Name": "Hitting a Season",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_0017",
@@ -851,7 +856,7 @@
       "Name": "Hitting a Century",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_0019",
@@ -947,7 +952,7 @@
       "Name": "Reuse",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_0031",
@@ -1001,9 +1006,9 @@
       "ID": "achievement_0037",
       "SetID": "9123ogc",
       "Name": "Golden Touch",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_0038",
@@ -1051,7 +1056,7 @@
       "Name": "Familiar Faces",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_0044",
@@ -1075,7 +1080,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_0047",
@@ -1083,7 +1088,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_0048",
@@ -1106,7 +1111,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 1090,
+      "Progressed": 1091,
       "Completed": 0
     }
   ],
@@ -1114,8 +1119,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-09-21T19:58:49.7438625+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:03:05.2876754+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:03:18.2919767+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.5356623+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:58:37.3846356+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:03:05.2877265+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:58:53.7871527+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:03:18.2920162+00:00"
 }

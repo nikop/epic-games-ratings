@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,416 |
-| That's a Grand Army | 3.00% | ~12,312 |
-| That is mine! | 3.00% | ~12,312 |
-| Victorious! | 3.00% | ~12,312 |
+| Until death do us apart | 4.00% | ~16,417 |
+| That's a Grand Army | 3.00% | ~12,313 |
+| That is mine! | 3.00% | ~12,313 |
+| Victorious! | 3.00% | ~12,313 |
 | Brothers in Arms | 2.00% | ~8,208 |
 | For the Glory | 2.00% | ~8,208 |
 | That's a Grand Navy | 2.00% | ~8,208 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.70% | ~2,873 |
 | Royal Authority | 0.70% | ~2,873 |
 | Total Control | 0.70% | ~2,873 |
-| My armies are invincible! | 0.60% | ~2,462 |
+| My armies are invincible! | 0.60% | ~2,463 |
 | Agressive Expander | 0.50% | ~2,052 |
 | City of Cities | 0.50% | ~2,052 |
 | Combined Arms | 0.50% | ~2,052 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410,398 (Ranked 40)  
+Progressed: 410,421 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 0 (0.00%) (Ranked 285)
 | 2023-09-19 | 408,554 | 0 |
 | 2023-09-20 | 409,400 | 0 |
 | 2023-09-21 | 410,221 | 0 |
-| 2023-09-22 | 410,398 | 0 |
+| 2023-09-22 | 410,421 | 0 |
 ## Awards
 Max (Educational): 6,199  (Ranked 56)  
 Sum: 50,893 (Ranked 25)  

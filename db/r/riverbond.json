@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 615,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 33,
@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527782,
+  "EOS_Progressed": 527783,
   "EOS_Completed": 476,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 3,
@@ -17009,6 +17009,11 @@
       "Time": "2023-09-22T07:03:39.792553+00:00",
       "NumProgressed": 527782,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-22T08:03:54.3033829+00:00",
+      "NumProgressed": 527783,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 57,
@@ -17036,7 +17041,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369447
+      "UsersEstimate": 369448
     },
     {
       "ID": "12",
@@ -17244,7 +17249,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263891
+      "UsersEstimate": 263892
     },
     {
       "ID": "36",
@@ -17356,7 +17361,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105556
+      "UsersEstimate": 105557
     },
     {
       "ID": "49",
@@ -17380,7 +17385,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73889
+      "UsersEstimate": 73890
     },
     {
       "ID": "51",
@@ -17475,15 +17480,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527782,
+      "Progressed": 527783,
       "Completed": 476
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:03:39.7925524+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:03:54.3033824+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:22.714106+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:59:04.8015356+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:03:39.7927029+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:59:25.7835483+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:03:54.3035072+00:00"
 }

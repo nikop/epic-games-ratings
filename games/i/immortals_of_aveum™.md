@@ -53,7 +53,7 @@ Rating: 3.97 (Ranked 959)
 | All the Major Food Groups | 0.00% | ~0 |
 | Beggars Would Ride | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 581)  
+Progressed: 1 (Ranked 582)  
 Completed: 0 (0.00%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |

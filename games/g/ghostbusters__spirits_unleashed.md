@@ -19,6 +19,7 @@ Rating: 4.50 (Ranked 568)
 | Back Off | 0.30% | ~78 |
 | Clutch Capture | 0.30% | ~78 |
 | Cultured | 0.30% | ~78 |
+| Ectoplasmic Entity | 0.30% | ~78 |
 | Ghostbuster In Training | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |
 | Summoner | 0.30% | ~78 |
@@ -28,7 +29,6 @@ Rating: 4.50 (Ranked 568)
 | Welcome to the Crew | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
 | Daily Dose | 0.20% | ~52 |
-| Ectoplasmic Entity | 0.20% | ~52 |
 | Legions | 0.20% | ~52 |
 | Pesky Jerks | 0.20% | ~52 |
 | Reckless | 0.20% | ~52 |

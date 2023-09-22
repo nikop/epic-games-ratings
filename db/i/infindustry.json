@@ -2,9 +2,9 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 87,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -451,6 +451,11 @@
       "Time": "2023-09-20T02:21:48.7593059+00:00",
       "NumProgressed": 85,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-22T08:06:53.9153712+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -508,7 +513,7 @@
       "ID": "Healer",
       "SetID": "82ojhod",
       "Name": "Healer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 90,
       "UsersEstimate": 3
     },
@@ -557,14 +562,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 87,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:06:33.1973184+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:06:53.9153704+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.2127753+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:58:34.2215601+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:06:33.197333+00:00"
+  "LastUpdate_Ratings": "2023-09-22T07:58:51.0507398+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:06:53.9153901+00:00"
 }

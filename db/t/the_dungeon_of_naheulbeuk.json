@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -972,9 +972,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225809,
+  "EOS_Progressed": 225816,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1709,
+  "EOS_NewPlayers": 1710,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11832,6 +11832,11 @@
       "Time": "2023-09-22T07:03:13.9229908+00:00",
       "NumProgressed": 225809,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-22T08:03:27.2082125+00:00",
+      "NumProgressed": 225816,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11891,7 +11896,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9032
+      "UsersEstimate": 9033
     },
     {
       "ID": "Chapter2",
@@ -12243,7 +12248,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9032
+      "UsersEstimate": 9033
     },
     {
       "ID": "DwarfElf15Support",
@@ -12291,7 +12296,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70001
+      "UsersEstimate": 70003
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12339,7 +12344,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11290
+      "UsersEstimate": 11291
     },
     {
       "ID": "FollowBraztok",
@@ -12363,7 +12368,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "KillDungeonLich",
@@ -12459,7 +12464,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "RangerEpic",
@@ -12546,21 +12551,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225809,
+      "Progressed": 225816,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225809,
+      "Progressed": 225816,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-21T20:00:13.8870562+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:03:13.9229902+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:03:27.2082119+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-22T06:59:43.2031218+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:03:13.9231593+00:00"
+  "LastUpdate_Ratings": "2023-09-22T08:00:04.1428377+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:03:27.2083621+00:00"
 }

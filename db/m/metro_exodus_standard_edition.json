@@ -2,12 +2,12 @@
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
   "ProductSlug": "metro-exodus",
-  "Ranking_Rating": 89,
+  "Ranking_Rating": 90,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-02-15T15:00:00+00:00",
@@ -4541,8 +4541,8 @@
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
   "LastChanged": "2023-09-22T06:00:42.1785318+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:02:21.0662016+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:03:14.1991878+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.7116015+00:00",
-  "LastUpdate_Ratings": "2023-09-22T07:00:32.7225794+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:02:21.0662097+00:00"
+  "LastUpdate_Ratings": "2023-09-22T08:00:52.7887516+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:03:14.1991975+00:00"
 }

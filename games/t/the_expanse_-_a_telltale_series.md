@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,788 |
-| Stogie for Fogey | 26.00% | ~2,985 |
-| Martian Music | 25.00% | ~2,870 |
-| Captain Drummer | 25.00% | ~2,870 |
-| Celebrations are in Order | 24.00% | ~2,755 |
-| Spore Taste | 23.00% | ~2,640 |
-| The Pit and the Pirates | 21.00% | ~2,411 |
-| Drone Dodger | 20.00% | ~2,296 |
-| Doctor Approved | 18.00% | ~2,066 |
-| Thorston Mayer | 14.00% | ~1,607 |
-| Bottoms up! | 11.00% | ~1,263 |
-| Bosmang | 7.00% | ~804 |
-| Data Logger | 6.00% | ~689 |
-| Data Archivist | 5.00% | ~574 |
-| Call it Even | 5.00% | ~574 |
-| Data Master | 5.00% | ~574 |
-| Data Recoverer | 5.00% | ~574 |
-| Heal Thy Medic | 4.00% | ~459 |
-| Khan's Revenge | 4.00% | ~459 |
-| Miraculous Maya | 3.00% | ~344 |
-| Debris Spree | 3.00% | ~344 |
+| Impossible Objects | 33.00% | ~3,793 |
+| Stogie for Fogey | 26.00% | ~2,988 |
+| Martian Music | 25.00% | ~2,873 |
+| Captain Drummer | 25.00% | ~2,873 |
+| Celebrations are in Order | 24.00% | ~2,758 |
+| Spore Taste | 23.00% | ~2,643 |
+| The Pit and the Pirates | 21.00% | ~2,414 |
+| Drone Dodger | 20.00% | ~2,299 |
+| Doctor Approved | 18.00% | ~2,069 |
+| Thorston Mayer | 14.00% | ~1,609 |
+| Bottoms up! | 11.00% | ~1,264 |
+| Bosmang | 7.00% | ~805 |
+| Data Logger | 6.00% | ~690 |
+| Data Archivist | 5.00% | ~575 |
+| Call it Even | 5.00% | ~575 |
+| Data Master | 5.00% | ~575 |
+| Data Recoverer | 5.00% | ~575 |
+| Heal Thy Medic | 4.00% | ~460 |
+| Khan's Revenge | 4.00% | ~460 |
+| Miraculous Maya | 3.00% | ~345 |
+| Debris Spree | 3.00% | ~345 |
 | Urshanabi Hoarder | 2.00% | ~230 |
 | No Belter Left Behind | 2.00% | ~230 |
 | Grave Robber | 2.00% | ~230 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 547)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,480 (Ranked 130)  
+Progressed: 11,493 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 285)
 | 2023-09-19 | 10,886 | 0 |
 | 2023-09-20 | 11,076 | 0 |
 | 2023-09-21 | 11,365 | 0 |
-| 2023-09-22 | 11,480 | 0 |
+| 2023-09-22 | 11,493 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

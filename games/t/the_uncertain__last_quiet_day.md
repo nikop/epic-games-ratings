@@ -15,9 +15,9 @@
 | Trick or Treat? | 23.00% | ~125 |
 | There is another way | 23.00% | ~125 |
 | Sysadmin | 21.00% | ~114 |
+| Annoying | 20.00% | ~108 |
 | Every little helps | 20.00% | ~108 |
 | The Walking Robot Among Us | 20.00% | ~108 |
-| Annoying | 19.00% | ~103 |
 | Hacker | 19.00% | ~103 |
 | He is just a child | 19.00% | ~103 |
 | Uncertain | 18.00% | ~98 |

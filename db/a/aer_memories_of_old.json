@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -404,9 +404,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20571,
+  "EOS_Progressed": 20573,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
@@ -16969,6 +16969,11 @@
       "Time": "2023-09-22T07:03:49.2498747+00:00",
       "NumProgressed": 20571,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-09-22T08:04:04.1765241+00:00",
+      "NumProgressed": 20573,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 20,
@@ -17004,7 +17009,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -17100,7 +17105,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15840
+      "UsersEstimate": 15841
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17139,15 +17144,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20571,
+      "Progressed": 20573,
       "Completed": 413
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-22T04:02:14.2892048+00:00",
-  "LastChanged_Achievements": "2023-09-22T07:03:49.249874+00:00",
+  "LastChanged_Achievements": "2023-09-22T08:04:04.1765235+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-22T07:02:11.5490874+00:00",
-  "LastUpdate_Achievements": "2023-09-22T07:03:49.2499845+00:00"
+  "LastUpdate_Ratings": "2023-09-22T08:01:01.8211649+00:00",
+  "LastUpdate_Achievements": "2023-09-22T08:04:04.1766179+00:00"
 }
