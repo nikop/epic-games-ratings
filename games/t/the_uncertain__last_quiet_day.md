@@ -33,8 +33,8 @@
 | Blade Runner | 10.00% | ~54 |
 | Perfect hearing | 9.00% | ~49 |
 | Meticulous | 8.00% | ~43 |
+| Lucky dog | 5.00% | ~27 |
 | Accurate | 5.00% | ~27 |
-| Lucky dog | 4.00% | ~22 |
 | Silent | 4.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 543 (Ranked 258)  

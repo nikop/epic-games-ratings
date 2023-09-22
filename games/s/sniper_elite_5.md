@@ -1,12 +1,12 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 629)  
+Rating: 4.46 (Ranked 630)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,679 |
-| Confirming Suspicions | 40.00% | ~1,460 |
+| Confirming Suspicions | 41.00% | ~1,497 |
 | The Kraken Wakes | 36.00% | ~1,314 |
 | It's Starting to Crack | 33.00% | ~1,205 |
 | Change the Channel | 30.00% | ~1,095 |
@@ -19,9 +19,9 @@ Rating: 4.46 (Ranked 629)
 | Organ Grinder | 22.00% | ~803 |
 | As Quiet as a Mouse | 22.00% | ~803 |
 | Sharpshooter | 21.00% | ~767 |
+| Gunslinger | 18.00% | ~657 |
 | Explosive Efficiency | 18.00% | ~657 |
 | Just a Flesh Wound | 17.00% | ~621 |
-| Gunslinger | 17.00% | ~621 |
 | Climbing the Ladder | 16.00% | ~584 |
 | Der Geist | 16.00% | ~584 |
 | Close Quarters | 15.00% | ~548 |

@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 385,
+  "EOS_Progressed": 386,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -835,6 +835,11 @@
     {
       "Time": "2023-09-19T21:07:12.7775094+00:00",
       "NumProgressed": 385,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T20:06:33.0195565+00:00",
+      "NumProgressed": 386,
       "NumCompleted": 0
     }
   ],
@@ -2142,14 +2147,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 385,
+      "Progressed": 386,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-09-22T19:08:10.8109667+00:00",
+  "LastChanged_Achievements": "2023-09-22T20:06:33.0195559+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:16.3469079+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:59:57.4619845+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:08:10.8112309+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:59:10.9381036+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:06:33.0198683+00:00"
 }

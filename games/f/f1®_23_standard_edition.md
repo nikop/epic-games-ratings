@@ -1,61 +1,61 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 260)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~1,149 |
-| On the Top Step | 84.00% | ~1,049 |
-| Setting up for Success | 75.00% | ~937 |
-| Team Orders | 74.00% | ~924 |
-| Engineer | 54.00% | ~674 |
-| Familiar Faces | 47.00% | ~587 |
-| Going the Extra Mile | 42.00% | ~525 |
-| Hitting a Season | 38.00% | ~475 |
-| Sharing the Love | 38.00% | ~475 |
-| Challenge Yourself | 33.00% | ~412 |
-| A Dozen Pieces | 32.00% | ~400 |
-| Making History | 32.00% | ~400 |
-| Writing a new Chapter | 25.00% | ~312 |
-| Spring Cleaning | 23.00% | ~287 |
-| Network Success | 22.00% | ~275 |
-| Crucial Combo | 19.00% | ~237 |
-| Reduce | 19.00% | ~237 |
-| Ups and Downs | 19.00% | ~237 |
-| Oil and Water | 17.00% | ~212 |
-| Hitting a Bullseye | 17.00% | ~212 |
-| One for the Book | 17.00% | ~212 |
-| Proving Them Wrong | 17.00% | ~212 |
-| Gathering Dust | 16.00% | ~200 |
-| Reuse | 16.00% | ~200 |
-| Lightning Round the World | 15.00% | ~187 |
-| Tinkerer | 13.00% | ~162 |
-| Eagle Eye | 12.00% | ~150 |
-| All in a Weekend's Work | 12.00% | ~150 |
-| Spinning Around | 12.00% | ~150 |
-| Recycle | 12.00% | ~150 |
-| Undisputed Winner | 11.00% | ~137 |
-| Switcheroo | 10.00% | ~125 |
-| For all Those Back at the Factory | 8.00% | ~100 |
-| Friendly Competition | 8.00% | ~100 |
-| Loyal Bond | 6.00% | ~75 |
-| Living up to Expectations | 6.00% | ~75 |
-| Smooth Operator | 6.00% | ~75 |
-| Peak Performance | 5.00% | ~62 |
-| Hitting a Century | 4.00% | ~50 |
-| Seasoned Rookie | 3.00% | ~37 |
-| Wait, I know you? | 3.00% | ~37 |
-| Filling in the Gaps | 3.00% | ~37 |
+| Getting on the Step | 92.00% | ~1,167 |
+| On the Top Step | 84.00% | ~1,065 |
+| Setting up for Success | 75.00% | ~951 |
+| Team Orders | 74.00% | ~938 |
+| Engineer | 54.00% | ~685 |
+| Familiar Faces | 47.00% | ~596 |
+| Going the Extra Mile | 42.00% | ~533 |
+| Hitting a Season | 38.00% | ~482 |
+| Sharing the Love | 38.00% | ~482 |
+| Challenge Yourself | 33.00% | ~418 |
+| A Dozen Pieces | 32.00% | ~406 |
+| Making History | 32.00% | ~406 |
+| Writing a new Chapter | 25.00% | ~317 |
+| Spring Cleaning | 23.00% | ~292 |
+| Network Success | 22.00% | ~279 |
+| Crucial Combo | 19.00% | ~241 |
+| Reduce | 19.00% | ~241 |
+| Ups and Downs | 19.00% | ~241 |
+| Oil and Water | 17.00% | ~216 |
+| Hitting a Bullseye | 17.00% | ~216 |
+| One for the Book | 17.00% | ~216 |
+| Proving Them Wrong | 17.00% | ~216 |
+| Gathering Dust | 16.00% | ~203 |
+| Reuse | 16.00% | ~203 |
+| Lightning Round the World | 15.00% | ~190 |
+| Tinkerer | 13.00% | ~165 |
+| Eagle Eye | 12.00% | ~152 |
+| All in a Weekend's Work | 12.00% | ~152 |
+| Spinning Around | 12.00% | ~152 |
+| Recycle | 12.00% | ~152 |
+| Undisputed Winner | 11.00% | ~139 |
+| Switcheroo | 10.00% | ~127 |
+| For all Those Back at the Factory | 8.00% | ~101 |
+| Friendly Competition | 8.00% | ~101 |
+| Living up to Expectations | 7.00% | ~89 |
+| Smooth Operator | 7.00% | ~89 |
+| Loyal Bond | 6.00% | ~76 |
+| Peak Performance | 5.00% | ~63 |
+| Hitting a Century | 4.00% | ~51 |
+| Seasoned Rookie | 3.00% | ~38 |
+| Wait, I know you? | 3.00% | ~38 |
+| Filling in the Gaps | 3.00% | ~38 |
 | Media Darling | 2.00% | ~25 |
-| Under the Microscope | 1.00% | ~12 |
-| Saturday Night Drama | 1.00% | ~12 |
+| Under the Microscope | 1.00% | ~13 |
+| Saturday Night Drama | 1.00% | ~13 |
 | Ultimate Collector | 0.90% | ~11 |
-| Golden Touch | 0.60% | ~7 |
+| Golden Touch | 0.60% | ~8 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,249 (Ranked 213)  
+Progressed: 1,268 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 289)
 | 2023-09-19 | 528 | 0 |
 | 2023-09-20 | 812 | 0 |
 | 2023-09-21 | 1,052 | 0 |
-| 2023-09-22 | 1,249 | 0 |
+| 2023-09-22 | 1,268 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

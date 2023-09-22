@@ -1,63 +1,63 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.68 (Ranked 244)  
+Rating: 4.69 (Ranked 220)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 24.00% | ~7,308 |
-| Student | 19.00% | ~5,786 |
-| Knower | 14.00% | ~4,263 |
-| Listener | 13.00% | ~3,959 |
-| Aspen Tree | 12.00% | ~3,654 |
-| Healer | 12.00% | ~3,654 |
-| Cow Level | 10.00% | ~3,045 |
-| Scientist | 10.00% | ~3,045 |
-| Soldier | 10.00% | ~3,045 |
-| Old Friend | 9.00% | ~2,741 |
-| Herbalist | 9.00% | ~2,741 |
-| New Spirits | 9.00% | ~2,741 |
-| Water | 9.00% | ~2,741 |
-| Voipel | 8.00% | ~2,436 |
-| Collector | 8.00% | ~2,436 |
-| Wolf | 8.00% | ~2,436 |
-| Black Mage | 8.00% | ~2,436 |
-| Card Player | 7.00% | ~2,132 |
-| Fern | 7.00% | ~2,132 |
-| 100 Friends | 7.00% | ~2,132 |
-| Dead Friend | 7.00% | ~2,132 |
-| Pine Tree | 7.00% | ~2,132 |
-| Worthy | 6.00% | ~1,827 |
-| Black Book | 6.00% | ~1,827 |
-| Black Sorcerer | 6.00% | ~1,827 |
-| Dead Man | 6.00% | ~1,827 |
-| Witch | 6.00% | ~1,827 |
-| Researcher | 6.00% | ~1,827 |
-| Savvy | 6.00% | ~1,827 |
-| Sinner | 6.00% | ~1,827 |
-| Folklorist | 6.00% | ~1,827 |
-| Encyclopedist | 5.00% | ~1,523 |
-| Vorsa | 5.00% | ~1,523 |
-| Old Spirits | 5.00% | ~1,523 |
-| Traveller | 5.00% | ~1,523 |
-| Keeper of Knowledge | 5.00% | ~1,523 |
-| Susanin | 4.00% | ~1,218 |
-| Black Sorceress | 3.00% | ~914 |
-| Cheater | 3.00% | ~914 |
-| Diplomat | 3.00% | ~914 |
-| Righteous | 3.00% | ~914 |
-| White Head | 3.00% | ~914 |
-| Musician | 3.00% | ~914 |
-| Koldun | 3.00% | ~914 |
-| Revelation | 2.00% | ~609 |
-| Detective | 2.00% | ~609 |
-| Great Sorceress | 2.00% | ~609 |
+| Initiation | 24.00% | ~7,320 |
+| Student | 19.00% | ~5,795 |
+| Knower | 14.00% | ~4,270 |
+| Listener | 13.00% | ~3,965 |
+| Aspen Tree | 12.00% | ~3,660 |
+| Healer | 12.00% | ~3,660 |
+| Cow Level | 10.00% | ~3,050 |
+| Scientist | 10.00% | ~3,050 |
+| Soldier | 10.00% | ~3,050 |
+| Old Friend | 9.00% | ~2,745 |
+| Herbalist | 9.00% | ~2,745 |
+| Water | 9.00% | ~2,745 |
+| New Spirits | 8.00% | ~2,440 |
+| Voipel | 8.00% | ~2,440 |
+| Collector | 8.00% | ~2,440 |
+| Wolf | 8.00% | ~2,440 |
+| Black Mage | 8.00% | ~2,440 |
+| Card Player | 7.00% | ~2,135 |
+| Fern | 7.00% | ~2,135 |
+| 100 Friends | 7.00% | ~2,135 |
+| Dead Friend | 7.00% | ~2,135 |
+| Pine Tree | 7.00% | ~2,135 |
+| Worthy | 6.00% | ~1,830 |
+| Black Book | 6.00% | ~1,830 |
+| Black Sorcerer | 6.00% | ~1,830 |
+| Dead Man | 6.00% | ~1,830 |
+| Witch | 6.00% | ~1,830 |
+| Researcher | 6.00% | ~1,830 |
+| Savvy | 6.00% | ~1,830 |
+| Sinner | 6.00% | ~1,830 |
+| Folklorist | 6.00% | ~1,830 |
+| Encyclopedist | 5.00% | ~1,525 |
+| Vorsa | 5.00% | ~1,525 |
+| Old Spirits | 5.00% | ~1,525 |
+| Traveller | 5.00% | ~1,525 |
+| Keeper of Knowledge | 5.00% | ~1,525 |
+| Susanin | 4.00% | ~1,220 |
+| Black Sorceress | 3.00% | ~915 |
+| Cheater | 3.00% | ~915 |
+| Diplomat | 3.00% | ~915 |
+| Righteous | 3.00% | ~915 |
+| White Head | 3.00% | ~915 |
+| Musician | 3.00% | ~915 |
+| Koldun | 3.00% | ~915 |
+| Revelation | 2.00% | ~610 |
+| Detective | 2.00% | ~610 |
+| Great Sorceress | 2.00% | ~610 |
 | Mistress of Hell | 1.00% | ~305 |
 | Own Way | 1.00% | ~305 |
-| Word Master | 0.10% | ~30 |
+| Word Master | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,451 (Ranked 106)  
+Progressed: 30,501 (Ranked 106)  
 Completed: 19 (0.06%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 19 (0.06%) (Ranked 245)
 | 2023-09-19 | 28,614 | 17 |
 | 2023-09-20 | 29,213 | 19 |
 | 2023-09-21 | 29,830 | 19 |
-| 2023-09-22 | 30,451 | 19 |
+| 2023-09-22 | 30,501 | 19 |
 ## Awards
 Max (Character Customization): 55  (Ranked 397)  
 Sum: 55 (Ranked 453)  
@@ -167,3 +167,4 @@ Diff (max vs sum): -56
 | 2023-09-19 | 4.69 | - | 54 | 54 |
 | 2023-09-20 | 4.68 | - | 54 | 54 |
 | 2023-09-21 | 4.68 | - | 55 | 55 |
+| 2023-09-22 | 4.69 | - | 55 | 55 |

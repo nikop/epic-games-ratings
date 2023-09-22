@@ -2,7 +2,7 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 97,
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43290,
+  "EOS_Progressed": 43291,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15601,6 +15601,11 @@
       "Time": "2023-09-22T16:04:28.7573984+00:00",
       "NumProgressed": 43290,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-22T20:03:44.9721411+00:00",
+      "NumProgressed": 43291,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15612,7 +15617,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24675
+      "UsersEstimate": 24676
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15692,7 +15697,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -15732,7 +15737,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34632
+      "UsersEstimate": 34633
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15772,7 +15777,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6926
+      "UsersEstimate": 6927
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -15796,7 +15801,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6926
+      "UsersEstimate": 6927
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -15804,7 +15809,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16017
+      "UsersEstimate": 16018
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -15860,7 +15865,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11688
+      "UsersEstimate": 11689
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -15876,7 +15881,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25974
+      "UsersEstimate": 25975
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -15884,7 +15889,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29004
+      "UsersEstimate": 29005
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -15892,7 +15897,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -15916,7 +15921,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19480
+      "UsersEstimate": 19481
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -15924,7 +15929,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -15948,7 +15953,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40260
+      "UsersEstimate": 40261
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -15963,7 +15968,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43290,
+      "Progressed": 43291,
       "Completed": 238
     }
   ],
@@ -15971,8 +15976,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-22T19:04:27.6920428+00:00",
+  "LastChanged_Achievements": "2023-09-22T20:03:44.9721404+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:19.6302549+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:00:41.9336452+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:04:27.6921435+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:59:43.2688539+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:03:44.9722847+00:00"
 }

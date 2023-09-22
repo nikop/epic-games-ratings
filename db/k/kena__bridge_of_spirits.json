@@ -2,7 +2,7 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 203,
+  "Ranking_Rating": 204,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 39,
@@ -1304,7 +1304,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428116,
+  "EOS_Progressed": 428117,
   "EOS_Completed": 533,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
@@ -11834,6 +11834,11 @@
       "Time": "2023-09-22T17:08:21.3399428+00:00",
       "NumProgressed": 428116,
       "NumCompleted": 533
+    },
+    {
+      "Time": "2023-09-22T20:08:04.0263398+00:00",
+      "NumProgressed": 428117,
+      "NumCompleted": 533
     }
   ],
   "TotalAchievements": 41,
@@ -11845,7 +11850,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64217
+      "UsersEstimate": 64218
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -11853,7 +11858,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 166965
+      "UsersEstimate": 166966
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -12013,7 +12018,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406710
+      "UsersEstimate": 406711
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12045,7 +12050,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295400
+      "UsersEstimate": 295401
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -12061,7 +12066,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342493
+      "UsersEstimate": 342494
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -12093,7 +12098,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196933
+      "UsersEstimate": 196934
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -12101,7 +12106,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141278
+      "UsersEstimate": 141279
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -12109,7 +12114,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115591
+      "UsersEstimate": 115592
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -12117,7 +12122,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115591
+      "UsersEstimate": 115592
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -12125,7 +12130,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239745
+      "UsersEstimate": 239746
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -12141,7 +12146,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145559
+      "UsersEstimate": 145560
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -12149,7 +12154,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115591
+      "UsersEstimate": 115592
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -12172,15 +12177,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428116,
+      "Progressed": 428117,
       "Completed": 533
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-10T15:01:55.9798538+00:00",
-  "LastChanged_Achievements": "2023-09-22T19:08:52.6345507+00:00",
+  "LastChanged_Achievements": "2023-09-22T20:08:04.026339+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:55.7444197+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:01:38.8405391+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:08:52.6346256+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:00:22.1044838+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:08:04.0264449+00:00"
 }

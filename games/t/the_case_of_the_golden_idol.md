@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Solved The Spider of Lanka 1st Case | 11.00% | ~15 |
+| Solved The Spider of Lanka 1st Case | 12.00% | ~17 |
 | Solved The Spider of Lanka 2nd Case | 6.00% | ~8 |
 | Solved first case | 5.00% | ~10 |
 | Solved second case | 5.00% | ~10 |

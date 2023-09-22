@@ -2,7 +2,7 @@
   "ID": "5f7c811695f14b8fa3a8e1ea35713d23",
   "Name": "Batman Arkham Asylum Game of the Year Edition",
   "ProductSlug": "batman-arkham-asylum",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 632,
@@ -952,6 +952,6 @@
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
   "LastChanged": "2023-09-13T17:57:30.0160797+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:38.0684878+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:01:13.2251058+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:04:51.8159739+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:00:03.8658313+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:04:03.7860933+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10248,
+  "EOS_Progressed": 10249,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1526,6 +1526,11 @@
       "Time": "2023-09-22T13:13:29.4268832+00:00",
       "NumProgressed": 10248,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-22T20:08:19.9752177+00:00",
+      "NumProgressed": 10249,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1641,7 +1646,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4100
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1649,7 +1654,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1697,7 +1702,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7891
+      "UsersEstimate": 7892
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1745,7 +1750,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5841
+      "UsersEstimate": 5842
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1761,7 +1766,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9838
+      "UsersEstimate": 9839
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1825,7 +1830,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "ACH_SNOW",
@@ -1857,7 +1862,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "ACH_WEEKLY",
@@ -1880,15 +1885,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10248,
+      "Progressed": 10249,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-22T19:09:14.0219249+00:00",
+  "LastChanged_Achievements": "2023-09-22T20:08:19.9752168+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:23.9885415+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:00:22.3775273+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:09:14.0219588+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:59:28.5597459+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:08:19.9752575+00:00"
 }

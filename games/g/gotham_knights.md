@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 888)  
+Rating: 4.18 (Ranked 889)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -60,8 +60,8 @@ Rating: 4.18 (Ranked 888)
 | Confronting Your Demon | 0.60% | ~258 |
 | That's Showbiz, Clayby | 0.50% | ~215 |
 | Hammer and Icicle | 0.40% | ~172 |
+| Renewable Enemy Source | 0.40% | ~172 |
 | Showdown Sovereign | 0.40% | ~172 |
-| Renewable Enemy Source | 0.30% | ~129 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~129 |
 | The Cold, the Bad and the Ugly | 0.30% | ~129 |
 | Element of Surprise | 0.20% | ~86 |

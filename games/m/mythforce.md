@@ -1,20 +1,20 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 584)  
+Rating: 4.49 (Ranked 585)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 18.00% | ~530 |
-| That'll Leave a Mark | 18.00% | ~530 |
+| Faceroll the Bones | 18.00% | ~531 |
+| That'll Leave a Mark | 18.00% | ~531 |
 | Debuff Dogpile | 17.00% | ~501 |
 | Hit 'Em Where It Hurts | 17.00% | ~501 |
 | Perk Shard Punch Card | 17.00% | ~501 |
 | Mushroom Madness! | 16.00% | ~472 |
+| Spending Spree | 14.00% | ~413 |
 | First Strike | 13.00% | ~383 |
 | Horder Better Faster Stronger | 13.00% | ~383 |
-| Spending Spree | 13.00% | ~383 |
 | Everything Must Go! | 11.00% | ~324 |
 | Ten Steps from the Grave | 11.00% | ~324 |
 | Next Time on MythForce... | 9.00% | ~265 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,947 (Ranked 182)  
+Progressed: 2,949 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,10 +99,10 @@ Completed: 0 (0.00%) (Ranked 289)
 | 2023-09-19 | 2,764 | 0 |
 | 2023-09-20 | 2,843 | 0 |
 | 2023-09-21 | 2,900 | 0 |
-| 2023-09-22 | 2,947 | 0 |
+| 2023-09-22 | 2,949 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 460)  
-Sum: 267 (Ranked 357)  
+Sum: 268 (Ranked 357)  
 Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
@@ -114,8 +114,8 @@ Diff (max vs sum): 103
 | This game has Diverse Characters | 26 |
 | This game has Unique Visuals | 26 |
 | This game has Amazing Storytelling | 23 |
+| This game is Extremely Fun | 22 |
 | This game is Relaxing | 22 |
-| This game is Extremely Fun | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -201,4 +201,4 @@ Diff (max vs sum): 103
 | 2023-09-17 | 4.49 | - | 32 | 261 |
 | 2023-09-20 | 4.49 | - | 32 | 265 |
 | 2023-09-21 | 4.49 | - | 32 | 266 |
-| 2023-09-22 | 4.49 | - | 32 | 267 |
+| 2023-09-22 | 4.49 | - | 32 | 268 |

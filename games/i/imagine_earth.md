@@ -1,7 +1,7 @@
 # Imagine Earth
 [Store](https://store.epicgames.com/en-US/p/imagine-earth-7498e4)  
 [View Rawdata](../../db/i/imagine_earth.json)  
-Rating: 4.30 (Ranked 802)  
+Rating: 4.30 (Ranked 803)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,7 +20,7 @@ Number of Ratings: 22  (23.09.2022)
 | Edora | 14.00% | ~58 |
 | Environmentalist | 12.00% | ~50 |
 | Iqunox | 9.00% | ~37 |
-| Udion Torix | 8.00% | ~33 |
+| Udion Torix | 9.00% | ~37 |
 | Forester | 7.00% | ~29 |
 | Thera | 6.00% | ~25 |
 | Campaign Titanium | 5.00% | ~21 |

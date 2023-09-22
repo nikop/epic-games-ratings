@@ -1,7 +1,7 @@
 # Loop Hero
 [Store](https://store.epicgames.com/en-US/p/loop-hero)  
 [View Rawdata](../../db/l/loop_hero.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 260)  
 Number of Ratings: 6,301  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 455  (Ranked 207)  

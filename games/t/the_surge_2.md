@@ -1,13 +1,13 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 845)  
+Rating: 4.24 (Ranked 846)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,629 |
-| Don't I Know You...? | 76.00% | ~1,547 |
-| Jailbreak | 65.00% | ~1,323 |
+| Rigged And Ready | 80.00% | ~1,630 |
+| Don't I Know You...? | 76.00% | ~1,548 |
+| Jailbreak | 65.00% | ~1,324 |
 | HEADSHOT! | 38.00% | ~774 |
 | Suited and Booted | 38.00% | ~774 |
 | Sleeping With The Fishes | 35.00% | ~713 |
@@ -15,7 +15,7 @@ Rating: 4.24 (Ranked 845)
 | High Performance | 30.00% | ~611 |
 | Powered Up | 28.00% | ~570 |
 | Studied The Blade | 25.00% | ~509 |
-| Home Invasion | 23.00% | ~468 |
+| Home Invasion | 23.00% | ~469 |
 | Luminary | 22.00% | ~448 |
 | It's a Trap | 22.00% | ~448 |
 | True Survivor | 21.00% | ~428 |
@@ -24,9 +24,9 @@ Rating: 4.24 (Ranked 845)
 | Court Martial | 19.00% | ~387 |
 | Clean Cut | 19.00% | ~387 |
 | Unforeseeable Consequences | 19.00% | ~387 |
-| Dead Again | 18.00% | ~366 |
+| Dead Again | 18.00% | ~367 |
 | Full Arsenal | 17.00% | ~346 |
-| Can't Trust Banks | 15.00% | ~305 |
+| Can't Trust Banks | 15.00% | ~306 |
 | Mommy Dearest | 14.00% | ~285 |
 | Bad Dog | 13.00% | ~265 |
 | Where It All Began | 13.00% | ~265 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 845)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,036 (Ranked 192)  
+Progressed: 2,037 (Ranked 192)  
 Completed: 12 (0.59%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 12 (0.59%) (Ranked 151)
 | 2023-09-19 | 2,020 | 12 |
 | 2023-09-20 | 2,024 | 12 |
 | 2023-09-21 | 2,028 | 12 |
-| 2023-09-22 | 2,036 | 12 |
+| 2023-09-22 | 2,037 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

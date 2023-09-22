@@ -1,18 +1,18 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 203)  
+Rating: 4.70 (Ranked 204)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~10,425 |
-| Finding Your Footing | 26.00% | ~10,425 |
-| Nomad | 17.00% | ~6,816 |
-| Picking Up Speed | 16.00% | ~6,416 |
-| Welcome Maya | 15.00% | ~6,015 |
-| Scout | 11.00% | ~4,411 |
-| Sightseer | 11.00% | ~4,411 |
+| Rookie | 26.00% | ~10,427 |
+| Finding Your Footing | 26.00% | ~10,427 |
+| Nomad | 17.00% | ~6,818 |
+| Picking Up Speed | 16.00% | ~6,417 |
+| Welcome Maya | 15.00% | ~6,016 |
+| Scout | 11.00% | ~4,412 |
+| Sightseer | 11.00% | ~4,412 |
 | Amateur | 9.00% | ~3,609 |
 | Unlock Maya | 8.00% | ~3,208 |
 | Enter Paz | 8.00% | ~3,208 |
@@ -38,7 +38,7 @@ Number of Ratings: 332  (23.09.2022)
 | Vandal | 1.00% | ~401 |
 | Unlock Felipe | 0.80% | ~321 |
 | Adventurer | 0.70% | ~281 |
-| Unlock Tupa | 0.50% | ~200 |
+| Unlock Tupa | 0.50% | ~201 |
 | Master Of The Sands | 0.30% | ~120 |
 | Master | 0.20% | ~80 |
 | Life Aquatic | 0.10% | ~40 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~40 |
 | Windswept | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,097 (Ranked 99)  
+Progressed: 40,105 (Ranked 99)  
 Completed: 5 (0.01%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,11 +201,11 @@ Completed: 5 (0.01%) (Ranked 272)
 | 2023-09-19 | 39,814 | 5 |
 | 2023-09-20 | 39,924 | 5 |
 | 2023-09-21 | 40,023 | 5 |
-| 2023-09-22 | 40,097 | 5 |
+| 2023-09-22 | 40,105 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 412)  
-Sum: 362 (Ranked 330)  
-Diff (max vs sum): 82  
+Sum: 362 (Ranked 331)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 48 |

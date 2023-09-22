@@ -8,10 +8,10 @@
 | Welcome to the Tower | 49.00% | ~94 |
 | The great escape | 45.00% | ~86 |
 | The Preacher's fate | 44.00% | ~84 |
-| A new dawn | 39.00% | ~75 |
+| A new dawn | 40.00% | ~77 |
 | Scholar | 38.00% | ~73 |
 | The darkness | 36.00% | ~69 |
-| A good beginning | 34.00% | ~65 |
+| A good beginning | 35.00% | ~67 |
 | True G4M3R | 34.00% | ~65 |
 | One last step | 32.00% | ~61 |
 | Cable guy | 30.00% | ~58 |
@@ -19,7 +19,7 @@
 | Half the way | 29.00% | ~56 |
 | In this together | 28.00% | ~54 |
 | Peace walker | 28.00% | ~54 |
-| Open door | 24.00% | ~46 |
+| Open door | 25.00% | ~48 |
 | Free at last | 23.00% | ~44 |
 | Feels like springtime | 23.00% | ~44 |
 | Rascal | 23.00% | ~44 |
@@ -31,7 +31,7 @@
 | Fashion victim | 13.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 192 (Ranked 334)  
-Completed: 10 (5.21%) (Ranked 53)  
+Completed: 10 (5.21%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

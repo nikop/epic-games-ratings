@@ -1,25 +1,25 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.45 (Ranked 641)  
+Rating: 4.45 (Ranked 642)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 75.00% | ~1,450 |
-| A new Journey | 74.00% | ~1,430 |
-| Departure | 73.00% | ~1,411 |
+| A new Journey | 74.00% | ~1,431 |
+| Departure | 73.00% | ~1,412 |
 | From X to Y | 72.00% | ~1,392 |
-| Way of Iron | 70.00% | ~1,353 |
-| Mystery Tour | 68.00% | ~1,314 |
-| We brake for nobody | 67.00% | ~1,295 |
+| Way of Iron | 70.00% | ~1,354 |
+| Mystery Tour | 68.00% | ~1,315 |
+| We brake for nobody | 67.00% | ~1,296 |
 | Brainstorm | 66.00% | ~1,276 |
-| Mind the Gap | 65.00% | ~1,256 |
-| Travel Company | 65.00% | ~1,256 |
-| All around the World | 62.00% | ~1,198 |
+| Mind the Gap | 65.00% | ~1,257 |
+| Travel Company | 65.00% | ~1,257 |
+| All around the World | 62.00% | ~1,199 |
 | Right through the middle | 57.00% | ~1,102 |
 | Poor Devil | 54.00% | ~1,044 |
-| Facility Manager | 53.00% | ~1,024 |
-| Producer | 50.00% | ~966 |
+| Facility Manager | 53.00% | ~1,025 |
+| Producer | 50.00% | ~967 |
 | Apprentice | 41.00% | ~793 |
 | Bridge Builder | 41.00% | ~793 |
 | Access granted | 35.00% | ~677 |
@@ -33,7 +33,7 @@ Rating: 4.45 (Ranked 641)
 | Socializer | 29.00% | ~561 |
 | General Manager | 27.00% | ~522 |
 | Country Life | 27.00% | ~522 |
-| Hostile Takeover | 25.00% | ~483 |
+| Hostile Takeover | 25.00% | ~484 |
 | Seven at one stroke | 24.00% | ~464 |
 | Trailblazer | 21.00% | ~406 |
 | Traffic Junction | 21.00% | ~406 |
@@ -61,7 +61,7 @@ Rating: 4.45 (Ranked 641)
 | Together we stand | 0.60% | ~12 |
 | Three Cheers for Progress | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,933 (Ranked 194)  
+Progressed: 1,934 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 289)
 | 2023-09-19 | 1,921 | 0 |
 | 2023-09-20 | 1,925 | 0 |
 | 2023-09-21 | 1,929 | 0 |
-| 2023-09-22 | 1,933 | 0 |
+| 2023-09-22 | 1,934 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

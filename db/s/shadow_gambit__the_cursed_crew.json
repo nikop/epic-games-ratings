@@ -2,13 +2,13 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 219,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 662,
+  "EOS_Progressed": 663,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.72,
+  "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1809,6 +1809,11 @@
       "Time": "2023-09-22T19:04:57.6786095+00:00",
       "NumProgressed": 662,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-22T20:04:08.2922501+00:00",
+      "NumProgressed": 663,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1819,17 +1824,17 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 199
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 451
     },
     {
       "ID": "_03_FinishAct1",
@@ -1837,7 +1842,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1885,7 +1890,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "_10_Completion_30",
@@ -1909,7 +1914,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "_13_Completion_60",
@@ -1933,7 +1938,7 @@
       "Name": "Marauder",
       "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -1947,9 +1952,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 272
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2028,7 +2033,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 662,
+      "Progressed": 663,
       "Completed": 18
     }
   ],
@@ -2036,8 +2041,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-22T19:04:57.678609+00:00",
+  "LastChanged_Achievements": "2023-09-22T20:04:08.2922492+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:01:03.6021796+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:04:57.6786332+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:59:57.6610947+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:04:08.2922822+00:00"
 }

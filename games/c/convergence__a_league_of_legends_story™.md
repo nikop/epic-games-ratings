@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 398)  
+Rating: 4.60 (Ranked 399)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,14 +21,14 @@ Rating: 4.60 (Ranked 398)
 | Fast Learner | 19.00% | ~168 |
 | Immaculate Aim | 19.00% | ~168 |
 | The Wicked Twins | 18.00% | ~159 |
+| Right On Time | 17.00% | ~151 |
 | Like Clockwork | 17.00% | ~151 |
 | The Betrayer | 17.00% | ~151 |
 | The Loose Cannon | 17.00% | ~151 |
 | Golem Chaser | 17.00% | ~151 |
+| Check Your Pulse | 17.00% | ~151 |
 | The Family Fortune | 17.00% | ~151 |
-| Right On Time | 16.00% | ~142 |
 | The Man Who Shattered Time | 16.00% | ~142 |
-| Check Your Pulse | 16.00% | ~142 |
 | Street Style | 15.00% | ~133 |
 | Cartographer | 15.00% | ~133 |
 | Treasure Trove | 14.00% | ~124 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 398)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886 (Ranked 231)  
+Progressed: 886 (Ranked 232)  
 Completed: 5 (0.56%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |

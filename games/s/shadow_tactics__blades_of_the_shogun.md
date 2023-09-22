@@ -1,14 +1,14 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.66 (Ranked 283)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,405 |
-| A thief's beginning | 10.00% | ~20,368 |
-| Thorough | 10.00% | ~20,368 |
+| Genin | 11.00% | ~22,406 |
+| A thief's beginning | 10.00% | ~20,369 |
+| Thorough | 10.00% | ~20,369 |
 | Disguised | 8.00% | ~16,295 |
 | Rescue Takuma | 8.00% | ~16,295 |
 | Rollin' | 8.00% | ~16,295 |
@@ -25,9 +25,9 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,184 |
 | Prisoners | 5.00% | ~10,184 |
 | Too Early | 5.00% | ~10,184 |
-| Gear up | 4.00% | ~8,147 |
-| Happy little accidents | 4.00% | ~8,147 |
-| Still Rollin' | 4.00% | ~8,147 |
+| Gear up | 4.00% | ~8,148 |
+| Happy little accidents | 4.00% | ~8,148 |
+| Still Rollin' | 4.00% | ~8,148 |
 | Noboru | 3.00% | ~6,111 |
 | Stoned | 3.00% | ~6,111 |
 | The Old Way | 3.00% | ~6,111 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | The End | 1.00% | ~2,037 |
 | Undeserved Honor | 1.00% | ~2,037 |
 | When Cut Across the Neck | 0.90% | ~1,833 |
-| High Five the Moon | 0.80% | ~1,629 |
-| The Cave | 0.80% | ~1,629 |
+| High Five the Moon | 0.80% | ~1,630 |
+| The Cave | 0.80% | ~1,630 |
 | Merciful | 0.50% | ~1,018 |
 | Time Paradox | 0.50% | ~1,018 |
 | Five Shadows | 0.30% | ~611 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~204 |
 | Release the Kraken | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,685 (Ranked 62)  
+Progressed: 203,690 (Ranked 62)  
 Completed: 85 (0.04%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 85 (0.04%) (Ranked 253)
 | 2023-09-19 | 203,185 | 82 |
 | 2023-09-20 | 203,354 | 83 |
 | 2023-09-21 | 203,528 | 84 |
-| 2023-09-22 | 203,685 | 85 |
+| 2023-09-22 | 203,690 | 85 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,766 (Ranked 136)  

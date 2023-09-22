@@ -2,7 +2,7 @@
   "ID": "c9e311e119034b25a02ed1ebfdffc0d1",
   "Name": "Anno 2070",
   "ProductSlug": "anno-2070",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 605,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 632,
@@ -234,6 +234,6 @@
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
   "LastChanged": "2023-07-21T20:58:02.9919183+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:34.560064+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:59:22.5390032+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:08:11.5419495+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:58:44.3475057+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:06:33.4858738+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 632,
@@ -8367,6 +8367,6 @@
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
   "LastChanged": "2023-09-22T17:01:23.8942585+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:57.2527257+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:01:39.0370853+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:05:27.9229258+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:00:22.1089227+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:04:31.1386289+00:00"
 }

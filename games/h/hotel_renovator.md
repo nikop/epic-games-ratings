@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.38 (Ranked 732)  
+Rating: 4.38 (Ranked 734)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,7 +33,7 @@ Rating: 4.38 (Ranked 732)
 | King of hospitality | 11.00% | ~113 |
 | Top spot in town | 2.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,024 (Ranked 225)  
+Progressed: 1,024 (Ranked 226)  
 Completed: 15 (1.46%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,7 +2,7 @@
   "ID": "0aaf0617ee0d47df87c0dc93509159dd",
   "Name": "Carcassonne",
   "ProductSlug": "carcassonne",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 283,
   "Ranking_Popularity": 368,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 632,
@@ -741,10 +741,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 532,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-09-22T19:56:56.586898+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 533,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 532,
+  "NumberOfAwards": 533,
   "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -764,7 +770,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game is Highly Recommended",
@@ -826,8 +832,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2023-09-21T23:03:00.809764+00:00",
+  "LastChanged": "2023-09-22T19:56:56.5868978+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:53.5208465+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:02:58.1975856+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:06:11.0727992+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:56:56.5868984+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:05:02.4747036+00:00"
 }

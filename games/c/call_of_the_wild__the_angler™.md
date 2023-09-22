@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.16 (Ranked 898)  
+Rating: 4.16 (Ranked 899)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -199,9 +199,9 @@ Completed: 0 (0.00%) (Ranked 289)
 | 2023-09-21 | 5,847 | 0 |
 | 2023-09-22 | 5,855 | 0 |
 ## Awards
-Max (Relaxing): 36  (Ranked 444)  
+Max (Relaxing): 36  (Ranked 445)  
 Sum: 176 (Ranked 389)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |

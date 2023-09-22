@@ -1,51 +1,51 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 833)  
+Rating: 4.26 (Ranked 834)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 80.00% | ~61,118 |
-| Dead-ball specialist | 70.00% | ~53,479 |
-| Let the Games Begin | 55.00% | ~42,019 |
-| European Legend | 55.00% | ~42,019 |
-| Multitasking | 53.00% | ~40,491 |
-| High Grades | 53.00% | ~40,491 |
-| A Moment of Your Time | 52.00% | ~39,727 |
-| Balanced Path | 51.00% | ~38,963 |
-| Squad Building Connoisseur | 48.00% | ~36,671 |
-| Tactical Tinkerer | 48.00% | ~36,671 |
-| Aiming High | 48.00% | ~36,671 |
-| The Winning Formula | 45.00% | ~34,379 |
-| Intuition and Execution | 45.00% | ~34,379 |
-| Parking the Bus | 35.00% | ~26,739 |
-| Safe House | 33.00% | ~25,211 |
-| The Chosen One | 28.00% | ~21,391 |
-| Best of Five | 25.00% | ~19,100 |
-| Football is Everything | 24.00% | ~18,336 |
-| Fresh Fit | 23.00% | ~17,572 |
-| Bring it on | 19.00% | ~14,516 |
-| Life-Like | 17.00% | ~12,988 |
-| Make the Grade | 14.00% | ~10,696 |
-| I Played Them All | 13.00% | ~9,932 |
-| Specialist | 12.00% | ~9,168 |
-| Teamwork works | 10.00% | ~7,640 |
-| First of Many | 10.00% | ~7,640 |
-| Momentous Achievement | 8.00% | ~6,112 |
-| Shop till you drop | 7.00% | ~5,348 |
-| On the way up | 7.00% | ~5,348 |
-| In Cahoots | 6.00% | ~4,584 |
-| Tune Your Club | 6.00% | ~4,584 |
-| Becoming Unplayable | 6.00% | ~4,584 |
-| Volta's best | 5.00% | ~3,820 |
-| Sharing is Caring | 5.00% | ~3,820 |
-| Full-House | 4.00% | ~3,056 |
-| Full wardrobe | 0.90% | ~688 |
-| Girl Power | 0.40% | ~306 |
-| Training Addict | 0.10% | ~76 |
-| Dazzling Personality | 0.10% | ~76 |
+| Power Shot | 80.00% | ~61,862 |
+| Dead-ball specialist | 70.00% | ~54,129 |
+| Let the Games Begin | 55.00% | ~42,530 |
+| European Legend | 55.00% | ~42,530 |
+| Multitasking | 53.00% | ~40,983 |
+| High Grades | 53.00% | ~40,983 |
+| A Moment of Your Time | 52.00% | ~40,210 |
+| Balanced Path | 51.00% | ~39,437 |
+| Squad Building Connoisseur | 48.00% | ~37,117 |
+| Tactical Tinkerer | 48.00% | ~37,117 |
+| Aiming High | 48.00% | ~37,117 |
+| The Winning Formula | 45.00% | ~34,797 |
+| Intuition and Execution | 45.00% | ~34,797 |
+| Parking the Bus | 35.00% | ~27,064 |
+| Safe House | 33.00% | ~25,518 |
+| The Chosen One | 28.00% | ~21,652 |
+| Best of Five | 25.00% | ~19,332 |
+| Football is Everything | 24.00% | ~18,558 |
+| Fresh Fit | 23.00% | ~17,785 |
+| Bring it on | 19.00% | ~14,692 |
+| Life-Like | 17.00% | ~13,146 |
+| Make the Grade | 14.00% | ~10,826 |
+| I Played Them All | 13.00% | ~10,053 |
+| Specialist | 12.00% | ~9,279 |
+| Teamwork works | 10.00% | ~7,733 |
+| First of Many | 10.00% | ~7,733 |
+| Momentous Achievement | 8.00% | ~6,186 |
+| Shop till you drop | 7.00% | ~5,413 |
+| On the way up | 7.00% | ~5,413 |
+| In Cahoots | 6.00% | ~4,640 |
+| Tune Your Club | 6.00% | ~4,640 |
+| Becoming Unplayable | 6.00% | ~4,640 |
+| Volta's best | 5.00% | ~3,866 |
+| Sharing is Caring | 5.00% | ~3,866 |
+| Full-House | 4.00% | ~3,093 |
+| Full wardrobe | 0.90% | ~696 |
+| Girl Power | 0.40% | ~309 |
+| Training Addict | 0.10% | ~77 |
+| Dazzling Personality | 0.10% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,398 (Ranked 82)  
+Progressed: 77,327 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,10 +53,10 @@ Completed: 0 (0.00%) (Ranked 289)
 | 2023-09-19 | 132 | 0 |
 | 2023-09-20 | 45,404 | 0 |
 | 2023-09-21 | 64,266 | 0 |
-| 2023-09-22 | 76,398 | 0 |
+| 2023-09-22 | 77,327 | 0 |
 ## Awards
 Max (Diverse Characters): 19,658  (Ranked 19)  
-Sum: 100,203 (Ranked 14)  
+Sum: 100,213 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -65,7 +65,7 @@ Diff (max vs sum): 5
 | This game has a Competitive Community | 12,979 |
 | This game has Amazing Characters | 11,343 |
 | This game is Extremely Fun | 10,936 |
-| This game has Competitive Players | 10,872 |
+| This game has Competitive Players | 10,882 |
 | This game has Amazing Storytelling | 10,692 |
 | This game has Quickly Understood Controls | 9,875 |
 ## Ratings History
@@ -332,4 +332,4 @@ Diff (max vs sum): 5
 | 2023-09-19 | 4.26 | 19,551 | 99,813 |
 | 2023-09-20 | 4.26 | 19,592 | 99,938 |
 | 2023-09-21 | 4.26 | 19,620 | 100,085 |
-| 2023-09-22 | 4.26 | 19,658 | 100,203 |
+| 2023-09-22 | 4.26 | 19,658 | 100,213 |

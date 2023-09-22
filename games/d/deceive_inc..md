@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.56 (Ranked 468)  
+Rating: 4.56 (Ranked 469)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,15 +14,15 @@ Rating: 4.56 (Ranked 468)
 | For your Eyes only | 18.00% | ~3,257 |
 | Assistant Accountant | 17.00% | ~3,076 |
 | Tailor-Made | 17.00% | ~3,076 |
-| You Only Live Twice | 16.00% | ~2,895 |
-| Fully Decked Out | 16.00% | ~2,895 |
-| A view to Win | 13.00% | ~2,352 |
-| Private Collection | 12.00% | ~2,171 |
-| Smells Like Trouble | 12.00% | ~2,171 |
-| The Living Portrait | 11.00% | ~1,990 |
-| My Motto, My Creed | 11.00% | ~1,990 |
-| Killer Looks | 11.00% | ~1,990 |
-| Hostile Takeover | 11.00% | ~1,990 |
+| You Only Live Twice | 16.00% | ~2,896 |
+| Fully Decked Out | 16.00% | ~2,896 |
+| A view to Win | 13.00% | ~2,353 |
+| Private Collection | 12.00% | ~2,172 |
+| Smells Like Trouble | 12.00% | ~2,172 |
+| The Living Portrait | 11.00% | ~1,991 |
+| My Motto, My Creed | 11.00% | ~1,991 |
+| Killer Looks | 11.00% | ~1,991 |
+| Hostile Takeover | 11.00% | ~1,991 |
 | Keycards Royale | 10.00% | ~1,810 |
 | Dr. No Kill | 10.00% | ~1,810 |
 | In It to Win It | 9.00% | ~1,629 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 468)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,095 (Ranked 120)  
+Progressed: 18,097 (Ranked 120)  
 Completed: 3 (0.02%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 3 (0.02%) (Ranked 262)
 | 2023-09-19 | 18,065 | 3 |
 | 2023-09-20 | 18,072 | 3 |
 | 2023-09-21 | 18,082 | 3 |
-| 2023-09-22 | 18,095 | 3 |
+| 2023-09-22 | 18,097 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

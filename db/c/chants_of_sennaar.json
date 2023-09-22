@@ -3,7 +3,7 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
@@ -935,9 +935,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "META_HALF_LINK",
@@ -951,9 +951,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1079,9 +1079,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "PROGRESS_N4",
@@ -1110,8 +1110,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-22T19:09:25.0495288+00:00",
+  "LastChanged_Achievements": "2023-09-22T20:08:28.2442931+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:01:55.6912464+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:09:25.0495478+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:00:33.9976818+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:08:28.2443159+00:00"
 }

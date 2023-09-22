@@ -1,12 +1,12 @@
 # Hood: Outlaws & Legends
 [Store](https://store.epicgames.com/en-US/p/hood-outlaws-and-legends)  
 [View Rawdata](../../db/h/hood__outlaws_&_legends.json)  
-Rating: 3.99 (Ranked 950)  
+Rating: 3.99 (Ranked 951)  
 Number of Ratings: 12,539  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 373  (Ranked 224)  
-Sum: 2,389 (Ranked 186)  
-Diff (max vs sum): 38  
+Sum: 2,389 (Ranked 187)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 373 |

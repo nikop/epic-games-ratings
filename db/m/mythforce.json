@@ -2,12 +2,12 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -591,10 +591,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 267,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-09-22T20:00:17.7288554+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 268,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 267,
+  "NumberOfAwards": 268,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -650,7 +656,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Relaxing",
@@ -659,9 +665,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2947,
+  "EOS_Progressed": 2949,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 865,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5254,6 +5260,11 @@
       "Time": "2023-09-22T19:05:09.09287+00:00",
       "NumProgressed": 2947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-22T20:04:16.9775301+00:00",
+      "NumProgressed": 2949,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5314,7 +5325,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5416,9 +5427,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 383
+      "UsersEstimate": 413
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5434,7 +5445,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5449,15 +5460,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2947,
+      "Progressed": 2949,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-09-22T11:01:43.6816518+00:00",
-  "LastChanged_Achievements": "2023-09-22T19:05:09.0928694+00:00",
+  "LastChanged": "2023-09-22T20:00:17.7288553+00:00",
+  "LastChanged_Achievements": "2023-09-22T20:04:16.9775295+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:53.4013581+00:00",
-  "LastUpdate_Ratings": "2023-09-22T19:01:32.7592874+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:05:09.0929065+00:00"
+  "LastUpdate_Ratings": "2023-09-22T20:00:17.7288558+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:04:16.9775786+00:00"
 }

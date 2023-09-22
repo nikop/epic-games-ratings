@@ -1,7 +1,7 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 669)  
+Rating: 4.43 (Ranked 670)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 669)
 | Perma-live | 0.10% | ~223 |
 | Purge the Heretek | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,096 (Ranked 59)  
+Progressed: 223,097 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 5 (0.00%) (Ranked 289)
 | 2023-09-19 | 222,925 | 5 |
 | 2023-09-20 | 222,977 | 5 |
 | 2023-09-21 | 223,034 | 5 |
-| 2023-09-22 | 223,096 | 5 |
+| 2023-09-22 | 223,097 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 244)  
 Sum: 2,146 (Ranked 198)  

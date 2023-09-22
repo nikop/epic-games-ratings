@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,9 +9,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 6.00% | ~843 |
 | Settler | 6.00% | ~843 |
 | Play a Single Player Game | 6.00% | ~843 |
-| Intrepid | 5.00% | ~702 |
-| Friendly Family | 5.00% | ~702 |
-| The Clergy | 5.00% | ~702 |
+| Intrepid | 5.00% | ~703 |
+| Friendly Family | 5.00% | ~703 |
+| The Clergy | 5.00% | ~703 |
 | Able | 4.00% | ~562 |
 | Architect | 4.00% | ~562 |
 | Good | 4.00% | ~562 |
@@ -75,48 +75,48 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 2.00% | ~281 |
 | Points Victory | 2.00% | ~281 |
 | Poetic Leader | 2.00% | ~281 |
-| Beloved | 1.00% | ~140 |
-| Capable | 1.00% | ~140 |
-| Conqueror | 1.00% | ~140 |
-| Invincible | 1.00% | ~140 |
-| Lion | 1.00% | ~140 |
-| Ready | 1.00% | ~140 |
-| Subjugator | 1.00% | ~140 |
-| Victorious | 1.00% | ~140 |
-| Good Difficulty | 1.00% | ~140 |
-| Champions | 1.00% | ~140 |
-| Landowners | 1.00% | ~140 |
-| Patrons | 1.00% | ~140 |
-| Riders | 1.00% | ~140 |
-| Statesmen | 1.00% | ~140 |
-| Traders | 1.00% | ~140 |
-| Hittite Iron | 1.00% | ~140 |
-| Circus Maximus | 1.00% | ~140 |
-| Hagia Sophia | 1.00% | ~140 |
-| Church of the Holy Sepulchre | 1.00% | ~140 |
-| Temple of Solomon | 1.00% | ~140 |
-| Pantheon | 1.00% | ~140 |
-| Via Recta Souk | 1.00% | ~140 |
-| Learn to Play 3 | 1.00% | ~140 |
-| Power to the People | 1.00% | ~140 |
-| Assyrian Paganism | 1.00% | ~140 |
-| Persian Paganism | 1.00% | ~140 |
-| Building Wonders | 1.00% | ~140 |
-| Economic Reform | 1.00% | ~140 |
-| Industrial Progress | 1.00% | ~140 |
-| Military Prestige | 1.00% | ~140 |
-| Dualism | 1.00% | ~140 |
-| Gnosticism | 1.00% | ~140 |
-| Legalism | 1.00% | ~140 |
-| Redemption | 1.00% | ~140 |
-| Revelation | 1.00% | ~140 |
-| Veneration | 1.00% | ~140 |
-| Cimmerian Archer | 1.00% | ~140 |
-| Legionary | 1.00% | ~140 |
-| Phalangite | 1.00% | ~140 |
-| Ambition Victory | 1.00% | ~140 |
-| Double Victory | 1.00% | ~140 |
-| Win a Single Player Game | 1.00% | ~140 |
+| Beloved | 1.00% | ~141 |
+| Capable | 1.00% | ~141 |
+| Conqueror | 1.00% | ~141 |
+| Invincible | 1.00% | ~141 |
+| Lion | 1.00% | ~141 |
+| Ready | 1.00% | ~141 |
+| Subjugator | 1.00% | ~141 |
+| Victorious | 1.00% | ~141 |
+| Good Difficulty | 1.00% | ~141 |
+| Champions | 1.00% | ~141 |
+| Landowners | 1.00% | ~141 |
+| Patrons | 1.00% | ~141 |
+| Riders | 1.00% | ~141 |
+| Statesmen | 1.00% | ~141 |
+| Traders | 1.00% | ~141 |
+| Hittite Iron | 1.00% | ~141 |
+| Circus Maximus | 1.00% | ~141 |
+| Hagia Sophia | 1.00% | ~141 |
+| Church of the Holy Sepulchre | 1.00% | ~141 |
+| Temple of Solomon | 1.00% | ~141 |
+| Pantheon | 1.00% | ~141 |
+| Via Recta Souk | 1.00% | ~141 |
+| Learn to Play 3 | 1.00% | ~141 |
+| Power to the People | 1.00% | ~141 |
+| Assyrian Paganism | 1.00% | ~141 |
+| Persian Paganism | 1.00% | ~141 |
+| Building Wonders | 1.00% | ~141 |
+| Economic Reform | 1.00% | ~141 |
+| Industrial Progress | 1.00% | ~141 |
+| Military Prestige | 1.00% | ~141 |
+| Dualism | 1.00% | ~141 |
+| Gnosticism | 1.00% | ~141 |
+| Legalism | 1.00% | ~141 |
+| Redemption | 1.00% | ~141 |
+| Revelation | 1.00% | ~141 |
+| Veneration | 1.00% | ~141 |
+| Cimmerian Archer | 1.00% | ~141 |
+| Legionary | 1.00% | ~141 |
+| Phalangite | 1.00% | ~141 |
+| Ambition Victory | 1.00% | ~141 |
+| Double Victory | 1.00% | ~141 |
+| Win a Single Player Game | 1.00% | ~141 |
 | Bad Heir Day | 0.90% | ~126 |
 | Devout | 0.90% | ~126 |
 | Strong Difficulty | 0.90% | ~126 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,050 (Ranked 126)  
+Progressed: 14,051 (Ranked 126)  
 Completed: 5 (0.04%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -458,7 +458,7 @@ Completed: 5 (0.04%) (Ranked 253)
 | 2023-09-19 | 14,005 | 5 |
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
-| 2023-09-22 | 14,050 | 5 |
+| 2023-09-22 | 14,051 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,814 (Ranked 207)  

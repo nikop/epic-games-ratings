@@ -2,9 +2,9 @@
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
   "ProductSlug": "superteam-football-6ce66c",
-  "Ranking_Rating": 669,
+  "Ranking_Rating": 670,
   "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 325,
+  "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 404,
@@ -815,6 +815,6 @@
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
   "LastChanged": "2023-09-18T07:00:53.3908272+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:01.905662+00:00",
-  "LastUpdate_Ratings": "2023-09-22T18:58:15.8335006+00:00",
-  "LastUpdate_Achievements": "2023-09-22T19:09:11.4747454+00:00"
+  "LastUpdate_Ratings": "2023-09-22T19:57:55.0111658+00:00",
+  "LastUpdate_Achievements": "2023-09-22T20:08:18.0027557+00:00"
 }
