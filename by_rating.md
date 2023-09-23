@@ -310,7 +310,7 @@
 | 302 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 524 |
 | 302 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 54 | 398 |
 | 302 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 524 |
-| 302 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 494 |
+| 302 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 495 |
 | 302 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 524 |
 | 302 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 34 | 455 |
 | 302 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 99 | 342 |
@@ -529,7 +529,7 @@
 | 522 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,452 | 126 |
 | 522 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 524 |
 | 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 524 |
-| 522 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 494 |
+| 522 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 495 |
 | 522 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 524 |
 | 522 | [VALORANT](games/v/valorant.md) | 4.53 | 71,582 | 10 |
 | 522 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 346 |
@@ -544,7 +544,7 @@
 | 534 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 125 | 318 |
 | 534 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 524 |
 | 534 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 304 | 238 |
-| 534 | [Sable](games/s/sable.md) | 4.52 | 24 | 494 |
+| 534 | [Sable](games/s/sable.md) | 4.52 | 24 | 495 |
 | 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 22 | 505 |
 | 534 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 524 |
 | 548 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 108 | 333 |
@@ -596,7 +596,7 @@
 | 585 | [Maneater](games/m/maneater.md) | 4.49 | 13,691 | 27 |
 | 585 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 342 |
 | 585 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 460 |
-| 585 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 24 | 494 |
+| 585 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 24 | 495 |
 | 585 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 550,799 | 2 |
 | 585 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 361 |
 | 585 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 524 |
@@ -652,10 +652,10 @@
 | 643 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.45 | 0 | 524 |
 | 643 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 119 | 324 |
 | 643 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 524 |
-| 643 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 24 | 494 |
+| 643 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 24 | 495 |
 | 654 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 524 |
 | 654 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 524 |
-| 654 | [ELEX](games/e/elex.md) | 4.44 | 24 | 494 |
+| 654 | [ELEX](games/e/elex.md) | 4.44 | 24 | 495 |
 | 654 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 524 |
 | 654 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 524 |
 | 654 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 35 | 448 |
@@ -727,7 +727,7 @@
 | 723 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 524 |
 | 723 | [MORDHAU](games/m/mordhau.md) | 4.39 | 673 | 175 |
 | 723 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,760 | 32 |
-| 723 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.39 | 24 | 494 |
+| 723 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.39 | 25 | 490 |
 | 723 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 524 |
 | 723 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 524 |
 | 723 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 333 | 230 |
@@ -853,7 +853,7 @@
 | 846 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 416 |
 | 846 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 524 |
 | 846 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 524 |
-| 846 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 494 |
+| 846 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 495 |
 | 855 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 524 |
 | 855 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 146 |
 | 855 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 524 |
@@ -892,7 +892,7 @@
 | 889 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 524 |
 | 889 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,731 | 96 |
 | 889 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 348 |
-| 889 | [SYNCED](games/s/synced.md) | 4.18 | 24 | 494 |
+| 889 | [SYNCED](games/s/synced.md) | 4.18 | 24 | 495 |
 | 894 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 0 | 524 |
 | 894 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 93 | 353 |
 | 894 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 524 |
@@ -913,9 +913,9 @@
 | 906 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 524 |
 | 912 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 477 |
 | 912 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.14 | 21 | 517 |
+| 912 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 524 |
 | 912 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 524 |
-| 915 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 524 |
-| 915 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 524 |
+| 916 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 524 |
 | 917 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 524 |
 | 918 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,515 | 101 |
 | 919 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 89 | 358 |
