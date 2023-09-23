@@ -6,7 +6,7 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
@@ -6208,9 +6208,9 @@
       "Count": 3751
     }
   ],
-  "EOS_Progressed": 136580,
+  "EOS_Progressed": 136583,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22238,6 +22238,11 @@
       "Time": "2023-09-23T15:05:18.5003176+00:00",
       "NumProgressed": 136580,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-23T16:04:44.1596347+00:00",
+      "NumProgressed": 136583,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22847,9 +22852,9 @@
       "ID": "level03",
       "SetID": "anfd17p",
       "Name": "Master Merchant",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 683
     },
     {
       "ID": "level04",
@@ -23144,15 +23149,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136580,
+      "Progressed": 136583,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-23T13:06:07.4334241+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:05:18.5003172+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:04:44.1596342+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:01:05.113648+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:05:18.500521+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:00:05.6157689+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:04:44.1598658+00:00"
 }

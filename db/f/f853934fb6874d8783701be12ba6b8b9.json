@@ -3,9 +3,9 @@
   "Name": "Life Changer",
   "ProductSlug": "life-changer-64fc81",
   "Ranking_EOS_Progress": 584,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-22T01:30:00+00:00",
     "PcReleaseDate": "2023-04-20T02:30:00+00:00",
@@ -207,8 +207,8 @@
   ],
   "FirstSeen": "2023-06-25T20:57:02.4050138+00:00",
   "FirstSeenAchievements": "2023-06-22T09:07:33.6284309+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:08:58.3535244+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:08:17.8063237+00:00",
   "LastUpdate_AppInfo": "2023-09-17T13:57:09.0658226+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:59:09.7685374+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:08:58.353536+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:58:45.7855952+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:08:17.8063374+00:00"
 }

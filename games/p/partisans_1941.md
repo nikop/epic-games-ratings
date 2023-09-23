@@ -7,8 +7,8 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | E1M1 | 40.00% | ~568 |
+| War Never Changes | 40.00% | ~568 |
 | Grenadier | 39.00% | ~553 |
-| War Never Changes | 39.00% | ~553 |
 | Heroes Never Die | 36.00% | ~511 |
 | Mosquito bite | 34.00% | ~482 |
 | Spice It Up | 30.00% | ~426 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,419 (Ranked 212)  
-Completed: 1 (0.07%) (Ranked 241)  
+Completed: 1 (0.07%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

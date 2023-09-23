@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -341,6 +341,11 @@
       "Time": "2023-09-22T22:03:04.9412684+00:00",
       "NumProgressed": 408,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T16:03:14.3522323+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -352,7 +357,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "dep4_achievement_10",
@@ -368,7 +373,7 @@
       "Name": "Distraction",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "dep4_achievement_12",
@@ -390,9 +395,9 @@
       "ID": "dep4_achievement_14",
       "SetID": "5d32b60",
       "Name": "Shall we play a game?",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 196
     },
     {
       "ID": "dep4_achievement_15",
@@ -432,7 +437,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "dep4_achievement_2",
@@ -440,7 +445,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "dep4_achievement_20",
@@ -464,7 +469,7 @@
       "Name": "No man left behind!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "dep4_achievement_23",
@@ -520,7 +525,7 @@
       "Name": "Pacifist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "dep4_achievement_3",
@@ -528,7 +533,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "dep4_achievement_30",
@@ -568,7 +573,7 @@
       "Name": "Apoca...huh?",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "dep4_achievement_35",
@@ -592,7 +597,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "dep4_achievement_5",
@@ -608,7 +613,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "dep4_achievement_7",
@@ -616,7 +621,7 @@
       "Name": "Portals come in packs",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "dep4_achievement_8",
@@ -632,14 +637,14 @@
       "Name": "Against better judgement",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 6
     }
   ],
@@ -647,8 +652,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-23T08:58:33.5454881+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:03:20.682198+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:03:14.3522319+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.7249609+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:58:42.9046918+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:03:20.6822233+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:58:25.202769+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:03:14.352275+00:00"
 }

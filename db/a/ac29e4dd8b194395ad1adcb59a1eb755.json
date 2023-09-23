@@ -2,10 +2,10 @@
   "ID": "ac29e4dd8b194395ad1adcb59a1eb755",
   "Name": "Time Trap",
   "ProductSlug": "time-trap-8a9725",
-  "Ranking_EOS_Progress": 505,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
     "PcReleaseDate": "2017-07-28T18:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -54,6 +54,11 @@
       "Time": "2023-09-23T11:07:45.6831692+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T16:05:55.0309667+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T14:02:14.1636363+00:00",
@@ -64,31 +69,31 @@
       "ID": "achievement_beginner",
       "SetID": "b9jpe8p",
       "Name": "Beginner",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_calm",
       "SetID": "b9jpe8p",
       "Name": "Calm",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_sniper",
       "SetID": "b9jpe8p",
       "Name": "Sniper",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_superman",
       "SetID": "b9jpe8p",
       "Name": "Superman",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -105,13 +110,13 @@
     {
       "ID": "b9jpe8p",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:06:54.7165248+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:05:55.0309662+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:57:11.8928614+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:01:25.5680674+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:06:54.7165309+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:00:21.1039302+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:05:55.030975+00:00"
 }

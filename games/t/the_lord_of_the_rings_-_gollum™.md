@@ -7,7 +7,7 @@
 | The Wraith | 63.00% | ~331 |
 | Welcome to Mordor! | 53.00% | ~278 |
 | Collectibles Part 1 | 52.00% | ~273 |
-| Wait! Wait! Not yet! | 38.00% | ~200 |
+| Wait! Wait! Not yet! | 39.00% | ~205 |
 | Like Flying... | 33.00% | ~173 |
 | The Maggot | 28.00% | ~147 |
 | Memories | 27.00% | ~142 |
@@ -42,7 +42,7 @@
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 525 (Ranked 260)  
-Completed: 1 (0.19%) (Ranked 208)  
+Completed: 1 (0.19%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

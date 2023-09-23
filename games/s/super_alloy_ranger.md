@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 81.00% | ~72 |
-| Gear Up | 70.00% | ~62 |
-| A Grand Show | 70.00% | ~62 |
-| Freshen Up | 60.00% | ~53 |
+| Iceberg Theory | 82.00% | ~73 |
+| Gear Up | 71.00% | ~63 |
+| A Grand Show | 71.00% | ~63 |
+| Freshen Up | 61.00% | ~54 |
 | GG EZ | 60.00% | ~53 |
 | Hydrophobia | 45.00% | ~40 |
 | Ka-Ching! | 36.00% | ~32 |
@@ -56,7 +56,7 @@
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 89 (Ranked 385)  
-Completed: 0 (0.00%) (Ranked 290)  
+Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

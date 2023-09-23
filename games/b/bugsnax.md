@@ -6,38 +6,38 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,489 |
-| Gone Home | 93.00% | ~26,355 |
-| Wonderfalls | 87.00% | ~24,655 |
-| Got to Catch a Few | 77.00% | ~21,821 |
-| Double Trapper | 75.00% | ~21,254 |
-| I'm Stuffed | 69.00% | ~19,554 |
-| Got to Catch a Lot | 66.00% | ~18,704 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,287 |
-| In the Arms of the Gramble | 59.00% | ~16,720 |
-| Know Thy Neighbor | 59.00% | ~16,720 |
-| Launch Party | 56.00% | ~15,870 |
-| Perf Dirt | 56.00% | ~15,870 |
-| Vacation's End | 52.00% | ~14,736 |
-| Bossy Bugs | 46.00% | ~13,036 |
+| Everybody Gets One | 97.00% | ~27,491 |
+| Gone Home | 93.00% | ~26,357 |
+| Wonderfalls | 87.00% | ~24,657 |
+| Got to Catch a Few | 77.00% | ~21,823 |
+| Double Trapper | 75.00% | ~21,256 |
+| I'm Stuffed | 69.00% | ~19,555 |
+| Got to Catch a Lot | 66.00% | ~18,705 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,288 |
+| In the Arms of the Gramble | 59.00% | ~16,721 |
+| Know Thy Neighbor | 59.00% | ~16,721 |
+| Launch Party | 56.00% | ~15,871 |
+| Perf Dirt | 56.00% | ~15,871 |
+| Vacation's End | 52.00% | ~14,737 |
+| Bossy Bugs | 46.00% | ~13,037 |
 | Survivor | 45.00% | ~12,753 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,186 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,187 |
 | Sidetracked | 40.00% | ~11,336 |
-| Film Buff | 38.00% | ~10,769 |
-| Combo Meal | 38.00% | ~10,769 |
-| Midnight Snak | 36.00% | ~10,202 |
+| Film Buff | 38.00% | ~10,770 |
+| Combo Meal | 38.00% | ~10,770 |
+| Midnight Snak | 36.00% | ~10,203 |
 | Candid Cryptid | 35.00% | ~9,919 |
-| Got to Catch Them All | 32.00% | ~9,068 |
+| Got to Catch Them All | 32.00% | ~9,069 |
 | Deep Impact | 23.00% | ~6,518 |
 | Grab Bag | 23.00% | ~6,518 |
 | Feeding Frenzy | 18.00% | ~5,101 |
 | Clothesline | 17.00% | ~4,818 |
 | Say Cheese! | 15.00% | ~4,251 |
-| Sundae Best | 14.00% | ~3,967 |
+| Sundae Best | 14.00% | ~3,968 |
 | Live Laugh Hut | 8.00% | ~2,267 |
 | Dapper Capper | 7.00% | ~1,984 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,339 (Ranked 108)  
+Progressed: 28,341 (Ranked 108)  
 Completed: 1,351 (4.77%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 1,351 (4.77%) (Ranked 55)
 | 2023-09-20 | 28,317 | 1,350 |
 | 2023-09-21 | 28,326 | 1,350 |
 | 2023-09-22 | 28,334 | 1,351 |
-| 2023-09-23 | 28,339 | 1,351 |
+| 2023-09-23 | 28,341 | 1,351 |
 ## Awards
 Max (Amazing Storytelling): 39  (Ranked 432)  
 Sum: 341 (Ranked 337)  

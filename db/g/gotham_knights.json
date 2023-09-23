@@ -6,7 +6,7 @@
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
@@ -3116,9 +3116,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72755,
+  "EOS_Progressed": 72757,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16381,6 +16381,11 @@
       "Time": "2023-09-23T15:06:09.735916+00:00",
       "NumProgressed": 72755,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-23T16:05:21.7466477+00:00",
+      "NumProgressed": 72757,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16480,7 +16485,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10913
+      "UsersEstimate": 10914
     },
     {
       "ID": "CHALLENGES_1",
@@ -16488,7 +16493,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12368
+      "UsersEstimate": 12369
     },
     {
       "ID": "CLAYFACE_1",
@@ -16616,7 +16621,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21099
+      "UsersEstimate": 21100
     },
     {
       "ID": "FREEZE_1_5",
@@ -16632,7 +16637,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13823
+      "UsersEstimate": 13824
     },
     {
       "ID": "FREEZE_3",
@@ -16696,7 +16701,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25464
+      "UsersEstimate": 25465
     },
     {
       "ID": "HARLEY_2",
@@ -16736,7 +16741,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37833
+      "UsersEstimate": 37834
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16768,7 +16773,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20371
+      "UsersEstimate": 20372
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16824,7 +16829,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10913
+      "UsersEstimate": 10914
     },
     {
       "ID": "MYSTERY_07",
@@ -16879,13 +16884,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72755,
+      "Progressed": 72757,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43035,
+      "Progressed": 43037,
       "Completed": 2666
     }
   ],
@@ -16893,8 +16898,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-23T13:08:05.8327884+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:06:09.7359155+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:05:21.7466472+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:02:22.6614916+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:06:09.7360243+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:02:13.2389471+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:05:21.7467947+00:00"
 }

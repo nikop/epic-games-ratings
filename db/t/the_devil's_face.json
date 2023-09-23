@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1461,6 +1461,11 @@
       "Time": "2023-09-22T16:06:42.9424274+00:00",
       "NumProgressed": 333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T16:05:35.6965305+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1470,9 +1475,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1502,9 +1507,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "296pn27",
       "Name": "Hubris",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1583,14 +1588,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:06:28.4596358+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:05:35.6965301+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:06.028915+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:58:51.5232036+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:06:28.4596516+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:58:32.8937145+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:05:35.6965496+00:00"
 }

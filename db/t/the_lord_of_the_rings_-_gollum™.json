@@ -3,9 +3,9 @@
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1437,9 +1437,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 205
     },
     {
       "ID": "Memories",
@@ -1564,8 +1564,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:08:33.5453416+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:07:09.4274664+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.7265092+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:57:19.3630674+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:08:33.5453699+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:57:24.1503697+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:07:09.4275039+00:00"
 }

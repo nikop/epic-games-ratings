@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 52,
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.53,
+  "EOS_Completed_Percentage": 5.5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -924,6 +924,11 @@
       "Time": "2023-09-23T15:08:56.855609+00:00",
       "NumProgressed": 199,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-23T16:08:16.7634729+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 25,
@@ -933,9 +938,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "END_GOOD",
@@ -1053,9 +1058,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1079,7 +1084,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1134,14 +1139,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:08:56.8556085+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:08:16.7634725+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:02:08.7658023+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:08:56.8556277+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:02:04.6286983+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:08:16.7634948+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~734 |
-| My little farm | 64.00% | ~587 |
+| Cabin boy | 81.00% | ~744 |
+| My little farm | 64.00% | ~588 |
 | Every beginning is difficult | 63.00% | ~578 |
 | Gofer | 57.00% | ~523 |
 | 3, 2, 1, mine | 56.00% | ~514 |
-| O Captain! My Captain! | 54.00% | ~495 |
-| Seafarer | 53.00% | ~486 |
-| Greed for gold | 43.00% | ~394 |
-| Intangible | 42.00% | ~385 |
-| I'm out of here for a while | 42.00% | ~385 |
-| In a mint condition | 38.00% | ~348 |
-| Licence to Kill | 37.00% | ~339 |
+| O Captain! My Captain! | 54.00% | ~496 |
+| Seafarer | 53.00% | ~487 |
+| Greed for gold | 43.00% | ~395 |
+| Intangible | 42.00% | ~386 |
+| I'm out of here for a while | 42.00% | ~386 |
+| In a mint condition | 38.00% | ~349 |
+| Licence to Kill | 37.00% | ~340 |
 | Pirates! | 35.00% | ~321 |
 | Collectionitis | 29.00% | ~266 |
 | Megalomania | 29.00% | ~266 |
 | Christening | 28.00% | ~257 |
-| Groundskeeper | 26.00% | ~238 |
+| Groundskeeper | 26.00% | ~239 |
 | Wholesale | 22.00% | ~202 |
 | Walk the plank | 21.00% | ~193 |
 | Pearly gates | 18.00% | ~165 |
 | My precious! | 17.00% | ~156 |
-| Conquistador | 14.00% | ~128 |
+| Conquistador | 14.00% | ~129 |
 | Panic buying | 12.00% | ~110 |
 | Just a scratch | 9.00% | ~83 |
 | Your vessel, my vessel | 9.00% | ~83 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 917 (Ranked 232)  
-Completed: 1 (0.11%) (Ranked 228)  
+Progressed: 918 (Ranked 232)  
+Completed: 1 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,7 +196,7 @@ Completed: 1 (0.11%) (Ranked 228)
 | 2023-09-20 | 903 | 1 |
 | 2023-09-21 | 909 | 1 |
 | 2023-09-22 | 911 | 1 |
-| 2023-09-23 | 917 | 1 |
+| 2023-09-23 | 918 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

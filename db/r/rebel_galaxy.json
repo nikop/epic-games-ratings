@@ -3,12 +3,12 @@
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy",
   "Ranking_Rating": 694,
-  "Ranking_Popularity": 437,
+  "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 634,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2015-10-20T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -906,6 +906,6 @@
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
   "LastChanged": "2023-09-22T23:01:15.1980016+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:19.3149933+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:01:49.4977148+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:06:26.311818+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:00:36.9174082+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:05:33.9104549+00:00"
 }

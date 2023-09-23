@@ -34,7 +34,7 @@
 | We Are OFK | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 584)  
-Completed: 0 (0.00%) (Ranked 290)  
+Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,12 +6,12 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,295 |
-| Man of politics | 35.00% | ~5,374 |
+| Tattletale | 40.00% | ~6,142 |
+| Man of politics | 35.00% | ~5,375 |
 | Friends of sorts | 33.00% | ~5,067 |
 | Yet another secret | 33.00% | ~5,067 |
-| Let there be darkness | 32.00% | ~4,913 |
-| End of Book One | 30.00% | ~4,606 |
+| Let there be darkness | 32.00% | ~4,914 |
+| End of Book One | 30.00% | ~4,607 |
 | Wannabe knight | 24.00% | ~3,685 |
 | Garden of Eden | 24.00% | ~3,685 |
 | Full house | 24.00% | ~3,685 |
@@ -20,15 +20,15 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~2,764 |
 | Workers' union | 18.00% | ~2,764 |
 | End of Book Two | 18.00% | ~2,764 |
-| Everything's in order | 17.00% | ~2,610 |
+| Everything's in order | 17.00% | ~2,611 |
 | Twist of Fate | 14.00% | ~2,150 |
 | Jack was here! | 14.00% | ~2,150 |
 | Exterminator | 13.00% | ~1,996 |
-| Whodunnit | 12.00% | ~1,842 |
+| Whodunnit | 12.00% | ~1,843 |
 | Friar Tuck | 11.00% | ~1,689 |
 | First profit | 11.00% | ~1,689 |
-| Good midwife | 10.00% | ~1,535 |
-| Team player | 10.00% | ~1,535 |
+| Good midwife | 10.00% | ~1,536 |
+| Team player | 10.00% | ~1,536 |
 | Skilled merchant | 9.00% | ~1,382 |
 | Nothing but make-believe | 9.00% | ~1,382 |
 | Brother Marcus | 9.00% | ~1,382 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~461 |
 | Boy of mystery | 2.00% | ~307 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,354 (Ranked 126)  
-Completed: 111 (0.72%) (Ranked 143)  
+Progressed: 15,356 (Ranked 126)  
+Completed: 111 (0.72%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 111 (0.72%) (Ranked 143)
 | 2023-09-20 | 15,297 | 111 |
 | 2023-09-21 | 15,316 | 111 |
 | 2023-09-22 | 15,337 | 111 |
-| 2023-09-23 | 15,354 | 111 |
+| 2023-09-23 | 15,356 | 111 |
 ## Awards
 Max (Easy Puzzles): 149  (Ranked 303)  
 Sum: 190 (Ranked 384)  

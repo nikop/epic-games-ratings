@@ -6,9 +6,9 @@
   "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -906,9 +906,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6680,
+  "EOS_Progressed": 6681,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6361,6 +6361,11 @@
       "Time": "2023-09-23T15:05:27.256553+00:00",
       "NumProgressed": 6680,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T16:04:50.4124574+00:00",
+      "NumProgressed": 6681,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6476,7 +6481,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "First_Race_Met",
@@ -6484,7 +6489,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4876
+      "UsersEstimate": 4877
     },
     {
       "ID": "First_Ship_Designed",
@@ -6492,7 +6497,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "First_Stream_Travel",
@@ -6508,7 +6513,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6588,7 +6593,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "Play_1000_Hours",
@@ -6947,15 +6952,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6680,
+      "Progressed": 6681,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-22T11:59:38.3231569+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:05:27.2565525+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:04:50.4124571+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.9419907+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:00:13.3520095+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:05:27.2566396+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:59:29.6731641+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:04:50.4125863+00:00"
 }

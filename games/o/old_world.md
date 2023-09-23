@@ -276,6 +276,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Role-Playing | 0.10% | ~14 |
 | Win a 1-v-1 Game | 0.10% | ~14 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~14 |
+| Win a Hotseat Game | 0.10% | ~14 |
 | Win a MP Teams Game | 0.10% | ~14 |
 | Win a Network Game | 0.10% | ~14 |
 | Win a Play-By-Cloud Game | 0.10% | ~14 |
@@ -300,11 +301,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
-| Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,066 (Ranked 127)  
-Completed: 5 (0.04%) (Ranked 254)  
+Completed: 5 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

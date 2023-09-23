@@ -3,9 +3,9 @@
   "Name": "Akane",
   "ProductSlug": "akane-cbba21",
   "Ranking_EOS_Progress": 634,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-13T14:00:00+00:00",
     "PcReleaseDate": "2018-09-10T17:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-06-14T07:56:58.7854984+00:00",
   "FirstSeenAchievements": "2023-06-13T15:00:02.0759881+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:03:35.8305791+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:03:25.6021258+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:06.6292506+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:59:42.9036658+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:03:35.8305816+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:59:09.2111221+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:03:25.6021301+00:00"
 }

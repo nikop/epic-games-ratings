@@ -15,7 +15,7 @@ Number of Ratings: 28  (23.09.2022)
 | Need to think | 41.00% | ~203 |
 | Completely nuts! | 39.00% | ~193 |
 | Just in time! | 33.00% | ~163 |
-| Europe | 31.00% | ~153 |
+| Europe | 32.00% | ~158 |
 | It's no coincidence. | 29.00% | ~143 |
 | Madness! | 29.00% | ~143 |
 | Philatelist | 26.00% | ~128 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 494 (Ranked 265)  
-Completed: 2 (0.40%) (Ranked 170)  
+Completed: 2 (0.40%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

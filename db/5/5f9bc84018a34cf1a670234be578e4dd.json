@@ -1227,9 +1227,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "FallDeath",
@@ -1267,17 +1267,17 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "GasFound",
@@ -1307,17 +1307,17 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
@@ -1330,8 +1330,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-23T15:04:01.8375027+00:00",
+  "LastChanged_Achievements": "2023-09-23T16:03:45.8151539+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:58:56.591308+00:00",
-  "LastUpdate_Achievements": "2023-09-23T15:04:01.8375177+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:58:36.5461511+00:00",
+  "LastUpdate_Achievements": "2023-09-23T16:03:45.8151735+00:00"
 }
