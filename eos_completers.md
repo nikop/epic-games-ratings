@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 93.25% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 93.18% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.46% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.64% |
@@ -26,7 +26,7 @@
 | 23 | [Anna's Quest](games/a/anna's_quest.md) | 11.11% |
 | 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.90% |
 | 26 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.58% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.56% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.22% |
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -70,7 +70,7 @@
 | 68 | [The Complex](games/t/the_complex.md) | 3.42% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 70 | [Doodle God](games/d/doodle_god.md) | 3.35% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.34% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.35% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.29% |
 | 73 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.26% |
 | 74 | [Without Escape](games/w/without_escape.md) | 3.23% |
@@ -94,12 +94,12 @@
 | 92 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 93 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.33% |
 | 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
-| 95 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.27% |
 | 95 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
-| 97 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2.22% |
+| 96 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.23% |
+| 97 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2.17% |
 | 98 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
-| 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
+| 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.92% |
 | 102 | [Night Book](games/n/night_book.md) | 1.86% |
 | 103 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.85% |
@@ -125,15 +125,15 @@
 | 123 | [Infindustry](games/i/infindustry.md) | 1.15% |
 | 124 | [Trifox](games/t/trifox.md) | 1.09% |
 | 125 | [Adios](games/a/adios.md) | 1.04% |
-| 125 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.04% |
+| 126 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.03% |
 | 127 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
-| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
-| 129 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
-| 129 | [Sable](games/s/sable.md) | 1.01% |
+| 128 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 128 | [Sable](games/s/sable.md) | 1.01% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 131 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 131 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 133 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 134 | [Eternights](games/e/eternights.md) | 0.98% |
+| 134 | [Eternights](games/e/eternights.md) | 0.97% |
 | 135 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
 | 136 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 137 | [Hades](games/h/hades.md) | 0.90% |
@@ -162,10 +162,10 @@
 | 159 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 161 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.49% |
 | 162 | [Godlike Burger](games/g/godlike_burger.md) | 0.47% |
-| 162 | [It Takes Two](games/i/it_takes_two.md) | 0.47% |
 | 162 | [Them and Us](games/t/them_and_us.md) | 0.47% |
-| 165 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 165 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 164 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 164 | [It Takes Two](games/i/it_takes_two.md) | 0.46% |
+| 164 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 167 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 168 | [Tchia](games/t/tchia.md) | 0.44% |
 | 169 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
@@ -188,12 +188,12 @@
 | 186 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 187 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 187 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 189 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
 | 189 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 189 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
 | 189 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 192 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 192 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 192 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 193 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 193 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 195 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.26% |
 | 195 | [Scrapnaut](games/s/scrapnaut.md) | 0.26% |
 | 197 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
