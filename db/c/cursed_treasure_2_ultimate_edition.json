@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -302,9 +302,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Tanglewood",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_4",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:04:41.7202617+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:03:27.1638175+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:32.3793412+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:00:37.3966818+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:04:41.7203097+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:00:41.5711827+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:03:27.1638519+00:00"
 }

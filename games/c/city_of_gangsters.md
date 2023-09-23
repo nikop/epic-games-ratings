@@ -5,37 +5,37 @@ Rating: 4.27 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,481 |
-| Copacetic Coordination | 16.00% | ~55,124 |
-| Fronting the Money | 15.00% | ~51,679 |
-| The Dawn of Automation | 14.00% | ~48,233 |
-| Extraordinary Logistics | 14.00% | ~48,233 |
-| Dirty Money | 13.00% | ~44,788 |
-| Family First | 13.00% | ~44,788 |
-| Cleaning House | 12.00% | ~41,343 |
-| Room in the Back | 12.00% | ~41,343 |
-| Beating the Heat | 11.00% | ~37,898 |
-| Booze Baron | 11.00% | ~37,898 |
-| Friends on the Force | 10.00% | ~34,452 |
-| Neighborhood Watch | 10.00% | ~34,452 |
-| Core Corps | 8.00% | ~27,562 |
-| Sizeable Stash | 8.00% | ~27,562 |
+| Corner Clout | 46.00% | ~158,486 |
+| Copacetic Coordination | 16.00% | ~55,126 |
+| Fronting the Money | 15.00% | ~51,680 |
+| The Dawn of Automation | 14.00% | ~48,235 |
+| Extraordinary Logistics | 14.00% | ~48,235 |
+| Dirty Money | 13.00% | ~44,790 |
+| Family First | 13.00% | ~44,790 |
+| Cleaning House | 12.00% | ~41,344 |
+| Room in the Back | 12.00% | ~41,344 |
+| Beating the Heat | 11.00% | ~37,899 |
+| Booze Baron | 11.00% | ~37,899 |
+| Friends on the Force | 10.00% | ~34,454 |
+| Neighborhood Watch | 10.00% | ~34,454 |
+| Core Corps | 8.00% | ~27,563 |
+| Sizeable Stash | 8.00% | ~27,563 |
 | Street Fighter | 7.00% | ~24,117 |
 | Friendly Gestures | 7.00% | ~24,117 |
 | People Person | 7.00% | ~24,117 |
-| Liquor Lord | 6.00% | ~20,671 |
-| Safety in Numbers | 6.00% | ~20,671 |
-| Moving Experiences | 6.00% | ~20,671 |
-| Wise Head | 6.00% | ~20,671 |
-| Show ‘em the Sugar | 6.00% | ~20,671 |
-| Killing Them Softly | 6.00% | ~20,671 |
-| Street Knowledge | 5.00% | ~17,226 |
-| Oh Captain | 5.00% | ~17,226 |
-| Branching Out | 5.00% | ~17,226 |
-| Improvement Missions | 5.00% | ~17,226 |
-| Opportunity Knocked | 5.00% | ~17,226 |
-| City of Big Shoulders | 5.00% | ~17,226 |
-| Mission Mastery | 5.00% | ~17,226 |
+| Liquor Lord | 6.00% | ~20,672 |
+| Safety in Numbers | 6.00% | ~20,672 |
+| Moving Experiences | 6.00% | ~20,672 |
+| Wise Head | 6.00% | ~20,672 |
+| Show ‘em the Sugar | 6.00% | ~20,672 |
+| Killing Them Softly | 6.00% | ~20,672 |
+| Street Knowledge | 5.00% | ~17,227 |
+| Oh Captain | 5.00% | ~17,227 |
+| Branching Out | 5.00% | ~17,227 |
+| Improvement Missions | 5.00% | ~17,227 |
+| Opportunity Knocked | 5.00% | ~17,227 |
+| City of Big Shoulders | 5.00% | ~17,227 |
+| Mission Mastery | 5.00% | ~17,227 |
 | Considerable Clams | 4.00% | ~13,781 |
 | Gin Joint | 4.00% | ~13,781 |
 | An Affront to the Enemy | 4.00% | ~13,781 |
@@ -48,11 +48,11 @@ Rating: 4.27 (Ranked 825)
 | Still Stalwart | 3.00% | ~10,336 |
 | Bees Knees Bootlegger | 3.00% | ~10,336 |
 | Tighten the Screws | 3.00% | ~10,336 |
-| One of Us | 2.00% | ~6,890 |
-| Baker’s Dozen | 2.00% | ~6,890 |
-| Dropping the Dime | 2.00% | ~6,890 |
-| Spiffy Speakeasies | 2.00% | ~6,890 |
-| Keeping Your Word | 2.00% | ~6,890 |
+| One of Us | 2.00% | ~6,891 |
+| Baker’s Dozen | 2.00% | ~6,891 |
+| Dropping the Dime | 2.00% | ~6,891 |
+| Spiffy Speakeasies | 2.00% | ~6,891 |
+| Keeping Your Word | 2.00% | ~6,891 |
 | Boxing Them In | 1.00% | ~3,445 |
 | Backroom Empire | 1.00% | ~3,445 |
 | Corner Control | 1.00% | ~3,445 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 825)
 | High Pillow | 0.10% | ~345 |
 | Station Master | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,524 (Ranked 43)  
+Progressed: 344,535 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,10 +242,10 @@ Completed: 7 (0.00%) (Ranked 290)
 | 2023-09-20 | 344,176 | 7 |
 | 2023-09-21 | 344,329 | 7 |
 | 2023-09-22 | 344,476 | 7 |
-| 2023-09-23 | 344,524 | 7 |
+| 2023-09-23 | 344,535 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 443)  
-Sum: 195 (Ranked 379)  
+Sum: 196 (Ranked 379)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): 64
 | This game is Highly Recommended | 33 |
 | This game is Relaxing | 30 |
 | This game is Extremely Fun | 26 |
-| This game has Quickly Understood Controls | 24 |
+| This game has Quickly Understood Controls | 25 |
 | This game has Easy Combat | 24 |
 | This game has Diverse Characters | 21 |
 ## Ratings History
@@ -338,3 +338,4 @@ Diff (max vs sum): 64
 | 2023-09-14 | 4.27 | 37 | 193 |
 | 2023-09-16 | 4.27 | 37 | 194 |
 | 2023-09-18 | 4.27 | 37 | 195 |
+| 2023-09-23 | 4.27 | 37 | 196 |

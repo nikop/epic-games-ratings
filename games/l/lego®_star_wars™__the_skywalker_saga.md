@@ -6,22 +6,22 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,167 |
-| ''I don't like you either!'' | 79.00% | ~40,858 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,168 |
+| ''I don't like you either!'' | 79.00% | ~40,859 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~37,238 |
-| ''Impressive, most impressive'' | 71.00% | ~36,720 |
-| The Phantom Menace | 59.00% | ~30,514 |
-| ''Aggressive Negotiations'' | 58.00% | ~29,997 |
+| ''Impressive, most impressive'' | 71.00% | ~36,721 |
+| The Phantom Menace | 59.00% | ~30,515 |
+| ''Aggressive Negotiations'' | 58.00% | ~29,998 |
 | ''I can fly anything'' | 57.00% | ~29,480 |
-| ''And who gave you permission...?'' | 53.00% | ~27,411 |
-| A New Hope | 48.00% | ~24,825 |
+| ''And who gave you permission...?'' | 53.00% | ~27,412 |
+| A New Hope | 48.00% | ~24,826 |
 | Attack of the Clones | 46.00% | ~23,791 |
 | Revenge of the Sith | 40.00% | ~20,688 |
 | The Empire Strikes Back | 37.00% | ~19,136 |
 | ''A fine addition to my collection'' | 37.00% | ~19,136 |
 | Return of the Jedi | 32.00% | ~16,550 |
 | The Force Awakens | 27.00% | ~13,964 |
-| The Last Jedi | 23.00% | ~11,895 |
+| The Last Jedi | 23.00% | ~11,896 |
 | The Rise of Skywalker | 20.00% | ~10,344 |
 | ''It's true... all of it'' | 19.00% | ~9,827 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,827 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~517 |
 | ''I've never seen a real one!'' | 0.90% | ~465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,719 (Ranked 94)  
+Progressed: 51,720 (Ranked 94)  
 Completed: 233 (0.45%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 233 (0.45%) (Ranked 166)
 | 2023-09-20 | 51,708 | 232 |
 | 2023-09-21 | 51,716 | 232 |
 | 2023-09-22 | 51,718 | 233 |
-| 2023-09-23 | 51,719 | 233 |
+| 2023-09-23 | 51,720 | 233 |
 ## Awards
 Max (Great Boss Battles): 2,408  (Ranked 103)  
 Sum: 6,616 (Ranked 118)  

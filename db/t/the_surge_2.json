@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -2797,9 +2797,9 @@
       "ID": "ACHV_35",
       "SetID": "8p5mlmc",
       "Name": "Sleeping With The Fishes",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 735
     },
     {
       "ID": "ACHV_36",
@@ -2990,8 +2990,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:09:27.7589554+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T07:57:12.216001+00:00",
-  "LastUpdate_Ratings": "2023-09-23T07:58:33.0026886+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:09:27.7590226+00:00"
+  "LastChanged_Achievements": "2023-09-23T09:07:04.4816016+00:00",
+  "LastUpdate_AppInfo": "2023-09-23T08:56:59.9693567+00:00",
+  "LastUpdate_Ratings": "2023-09-23T08:58:36.5742821+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:07:04.4816562+00:00"
 }

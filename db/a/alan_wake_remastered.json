@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65999,
+  "EOS_Progressed": 66002,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15592,6 +15592,11 @@
       "Time": "2023-09-23T08:05:21.8577224+00:00",
       "NumProgressed": 65999,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-23T09:04:13.839426+00:00",
+      "NumProgressed": 66002,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15603,7 +15608,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27060
+      "UsersEstimate": 27061
     },
     {
       "ID": "02",
@@ -15611,7 +15616,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17160
+      "UsersEstimate": 17161
     },
     {
       "ID": "03",
@@ -15851,7 +15856,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21120
+      "UsersEstimate": 21121
     },
     {
       "ID": "33",
@@ -15875,7 +15880,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22440
+      "UsersEstimate": 22441
     },
     {
       "ID": "36",
@@ -15993,9 +15998,9 @@
       "ID": "50",
       "SetID": "212770e",
       "Name": "Bright Falls Aficionado",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 110,
-      "UsersEstimate": 198
+      "UsersEstimate": 132
     },
     {
       "ID": "51",
@@ -16003,7 +16008,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "52",
@@ -16138,21 +16143,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65999,
+      "Progressed": 66002,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29467,
+      "Progressed": 29470,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:05:21.8577219+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:04:13.8394256+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-23T07:59:54.7327487+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:05:21.857891+00:00"
+  "LastUpdate_Ratings": "2023-09-23T08:59:57.373333+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:04:13.8395473+00:00"
 }

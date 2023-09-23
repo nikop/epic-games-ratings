@@ -6,10 +6,10 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~27,060 |
-| Let There Be Light | 34.00% | ~22,440 |
-| Float Like a Butterfly | 32.00% | ~21,120 |
-| Nordic Walking | 26.00% | ~17,160 |
+| Follow the Light | 41.00% | ~27,061 |
+| Let There Be Light | 34.00% | ~22,441 |
+| Float Like a Butterfly | 32.00% | ~21,121 |
+| Nordic Walking | 26.00% | ~17,161 |
 | Bright Falls' Finest | 25.00% | ~16,500 |
 | Under a Thin Layer of Skin | 22.00% | ~14,520 |
 | Paging Mr. Wake | 19.00% | ~12,540 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 9.00% | ~5,940 |
 | Tornado Wrangler | 8.00% | ~5,280 |
 | Departure | 8.00% | ~5,280 |
-| A Friend in Need | 8.00% | ~2,357 |
+| A Friend in Need | 8.00% | ~2,358 |
 | Drink 'Em Both Up | 6.00% | ~3,960 |
 | Hardboiled Writer | 6.00% | ~3,960 |
 | A Friend Indeed | 6.00% | ~1,768 |
@@ -65,16 +65,16 @@ Number of Ratings: 524  (23.09.2022)
 | Run-On Sentence | 0.40% | ~118 |
 | License Revoked | 0.40% | ~118 |
 | Whirlwind | 0.40% | ~118 |
-| Bright Falls Aficionado | 0.30% | ~198 |
 | Tick Tock | 0.30% | ~88 |
 | Gunless Wonder | 0.20% | ~132 |
 | Every Nook and Cranny | 0.20% | ~132 |
 | Collector's Edition | 0.20% | ~132 |
+| Bright Falls Aficionado | 0.20% | ~132 |
 | Licensed Properties | 0.20% | ~59 |
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,999 (Ranked 89)  
+Progressed: 66,002 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 66 (0.10%) (Ranked 231)
 | 2023-09-20 | 65,872 | 65 |
 | 2023-09-21 | 65,931 | 66 |
 | 2023-09-22 | 65,981 | 66 |
-| 2023-09-23 | 65,999 | 66 |
+| 2023-09-23 | 66,002 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

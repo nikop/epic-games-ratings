@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -297,7 +297,7 @@
   "Tags": [],
   "EOS_Progressed": 1415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2807,9 +2807,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 255
     },
     {
       "ID": "Defense_Common",
@@ -3007,8 +3007,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:04:38.8241257+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:03:23.8608879+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-23T07:57:17.2994634+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:04:38.8241639+00:00"
+  "LastUpdate_Ratings": "2023-09-23T08:57:24.4823081+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:03:23.8609172+00:00"
 }

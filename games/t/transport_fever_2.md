@@ -216,12 +216,12 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-21 | 1,676 | 0 |
 | 2023-09-22 | 1,677 | 0 |
 ## Awards
-Max (Highly Recommended): 41  (Ranked 428)  
-Sum: 283 (Ranked 350)  
+Max (Highly Recommended): 42  (Ranked 427)  
+Sum: 284 (Ranked 349)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 41 |
+| This game is Highly Recommended | 42 |
 | This game is Great for Beginners | 36 |
 | This game has Amazing Storytelling | 35 |
 | This game is Extremely Fun | 33 |
@@ -316,3 +316,4 @@ Diff (max vs sum): 78
 | 2023-09-07 | 4.69 | - | 41 | 281 |
 | 2023-09-11 | 4.69 | - | 41 | 282 |
 | 2023-09-16 | 4.69 | - | 41 | 283 |
+| 2023-09-23 | 4.69 | - | 42 | 284 |

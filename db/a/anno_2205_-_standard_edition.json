@@ -2,13 +2,13 @@
   "ID": "cbbb7e8728a3476f97e44f3856c3cb13",
   "Name": "Anno 2205 - Standard Edition",
   "ProductSlug": "anno-2205",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 615,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-02-19T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -447,6 +447,6 @@
   "FirstSeen": "2022-07-22T20:21:07.0175172+00:00",
   "LastChanged": "2023-09-11T03:00:21.9511222+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:26.2088889+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:00:27.1679403+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:05:23.6052313+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:00:32.5899568+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:04:15.5004214+00:00"
 }

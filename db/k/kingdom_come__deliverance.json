@@ -7416,9 +7416,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802298,
+  "EOS_Progressed": 802301,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24741,6 +24741,11 @@
       "Time": "2023-09-23T08:04:47.5858619+00:00",
       "NumProgressed": 802298,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-23T09:03:34.1870861+00:00",
+      "NumProgressed": 802301,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -24832,7 +24837,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256735
+      "UsersEstimate": 256736
     },
     {
       "ID": "Bookworm",
@@ -24864,7 +24869,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200574
+      "UsersEstimate": 200575
     },
     {
       "ID": "Chivalrous",
@@ -25056,7 +25061,7 @@
       "Name": "I Can Quit Anytime",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "InfernalJustice",
@@ -25200,7 +25205,7 @@
       "Name": "Perfectionist",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "Pilgrim",
@@ -25407,15 +25412,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802298,
+      "Progressed": 802301,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-22T21:00:56.117584+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:04:47.5858614+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:03:34.1870857+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:41.6954076+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:00:47.6727305+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:04:47.5860556+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:00:53.4130315+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:03:34.187237+00:00"
 }

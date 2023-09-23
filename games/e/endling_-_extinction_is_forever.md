@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~469 |
-| A Friend in Need | 60.00% | ~296 |
-| Surviving | 44.00% | ~217 |
+| Home Sweet Home | 95.00% | ~470 |
+| A Friend in Need | 60.00% | ~297 |
+| Surviving | 44.00% | ~218 |
 | Never Give Up | 41.00% | ~203 |
 | Detox diet | 41.00% | ~203 |
 | Tasty | 38.00% | ~188 |
@@ -26,14 +26,14 @@
 | Two Peas in a Pod | 11.00% | ~54 |
 | All For One | 11.00% | ~54 |
 | Extinction is Forever | 11.00% | ~54 |
-| We Are a Family | 9.00% | ~44 |
+| We Are a Family | 9.00% | ~45 |
 | For a Better Tomorrow | 4.00% | ~20 |
 | Mother Love | 4.00% | ~20 |
 | Omnivore | 2.00% | ~10 |
 | Easter Egg | 2.00% | ~10 |
 | Endling | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494 (Ranked 264)  
+Progressed: 495 (Ranked 264)  
 Completed: 3 (0.61%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 3 (0.61%) (Ranked 149)
 | 2023-09-17 | 492 | 3 |
 | 2023-09-20 | 493 | 3 |
 | 2023-09-21 | 494 | 3 |
+| 2023-09-23 | 495 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

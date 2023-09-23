@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -773,9 +773,9 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -828,8 +828,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:06:16.3356701+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:05:17.6446075+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:01:17.1049715+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:06:16.3356983+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:01:25.8705567+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:05:17.6446241+00:00"
 }

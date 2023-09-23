@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -763,9 +763,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 40163,
+  "EOS_Progressed": 40168,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18143,6 +18143,11 @@
       "Time": "2023-09-23T08:05:08.974563+00:00",
       "NumProgressed": 40163,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T09:03:58.8603186+00:00",
+      "NumProgressed": 40168,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18194,7 +18199,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10442
+      "UsersEstimate": 10444
     },
     {
       "ID": "goals180",
@@ -18258,7 +18263,7 @@
       "Name": "Master Of The Sands",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "mylittlefriend",
@@ -18274,7 +18279,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6828
+      "UsersEstimate": 6829
     },
     {
       "ID": "novice",
@@ -18282,7 +18287,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6426
+      "UsersEstimate": 6427
     },
     {
       "ID": "playerFelipe",
@@ -18362,7 +18367,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10442
+      "UsersEstimate": 10444
     },
     {
       "ID": "sandboarder",
@@ -18418,7 +18423,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6024
+      "UsersEstimate": 6025
     },
     {
       "ID": "unlockpaz",
@@ -18465,15 +18470,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40163,
+      "Progressed": 40168,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-15T18:59:46.0517452+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:05:08.9745625+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:03:58.8603182+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:21.9725238+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:03:06.7322426+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:05:08.9746951+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:01:35.6545305+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:03:58.8604195+00:00"
 }

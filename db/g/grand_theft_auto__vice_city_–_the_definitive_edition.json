@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -664,9 +664,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 10244,
+  "EOS_Progressed": 10245,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10204,6 +10204,11 @@
       "Time": "2023-09-23T08:04:31.9531324+00:00",
       "NumProgressed": 10244,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-09-23T09:03:15.9415692+00:00",
+      "NumProgressed": 10245,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 34,
@@ -10319,7 +10324,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4302
+      "UsersEstimate": 4303
     },
     {
       "ID": "ACH15",
@@ -10375,7 +10380,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "ACH22",
@@ -10486,7 +10491,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10244,
+      "Progressed": 10245,
       "Completed": 57
     }
   ],
@@ -10494,8 +10499,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-22T04:00:26.0954843+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:04:31.9531317+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:03:15.941569+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:00:46.0431912+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:04:31.9532179+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:00:51.1870099+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:03:15.9416301+00:00"
 }

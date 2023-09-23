@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 494,
+  "EOS_Progressed": 495,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -676,6 +676,11 @@
       "Time": "2023-09-21T16:03:43.4222403+00:00",
       "NumProgressed": 494,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T09:02:48.5809074+00:00",
+      "NumProgressed": 495,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -695,7 +700,7 @@
       "Name": "We Are a Family",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TROP002",
@@ -727,7 +732,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "TROP006",
@@ -751,7 +756,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "TROP009",
@@ -759,7 +764,7 @@
       "Name": "Surviving",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "TROP010",
@@ -910,7 +915,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 494,
+      "Progressed": 495,
       "Completed": 3
     }
   ],
@@ -918,8 +923,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:04:08.7658414+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:02:48.580907+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.3021605+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:00:20.9634171+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:04:08.7658648+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:00:25.7478719+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:02:48.5809262+00:00"
 }

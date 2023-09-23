@@ -53,7 +53,7 @@ Rating: 3.97 (Ranked 960)
 | Backtracker | 0.00% | ~0 |
 | Good Boy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 510)  
+Progressed: 7 (Ranked 511)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |

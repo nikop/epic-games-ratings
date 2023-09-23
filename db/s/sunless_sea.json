@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37714,
+  "EOS_Progressed": 37716,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16567,6 +16567,11 @@
       "Time": "2023-09-23T07:03:18.4265486+00:00",
       "NumProgressed": 37714,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T09:02:29.1631173+00:00",
+      "NumProgressed": 37716,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16594,7 +16599,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "ach_antiquarian10",
@@ -16698,7 +16703,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13577
+      "UsersEstimate": 13578
     },
     {
       "ID": "ach_die10",
@@ -17009,15 +17014,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37714,
+      "Progressed": 37716,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:03:51.8458836+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:02:29.163117+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:44.1241122+00:00",
-  "LastUpdate_Ratings": "2023-09-23T07:57:39.8175829+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:03:51.8460247+00:00"
+  "LastUpdate_Ratings": "2023-09-23T08:57:44.9392605+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:02:29.163235+00:00"
 }

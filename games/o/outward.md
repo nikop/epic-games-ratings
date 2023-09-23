@@ -6,15 +6,15 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,587 |
-| Ready for Winter | 64.00% | ~2,207 |
-| Ready for Summer | 52.00% | ~1,793 |
-| Cordon Bleu | 43.00% | ~1,483 |
+| Venture Outward | 75.00% | ~2,588 |
+| Ready for Winter | 64.00% | ~2,208 |
+| Ready for Summer | 52.00% | ~1,794 |
+| Cordon Bleu | 43.00% | ~1,484 |
 | Tapped! | 37.00% | ~1,276 |
 | Eureka | 32.00% | ~1,104 |
 | Scourge Slayer | 25.00% | ~862 |
-| Exceptional Skill | 23.00% | ~793 |
-| Science, Troglodyte! | 23.00% | ~793 |
+| Exceptional Skill | 23.00% | ~794 |
+| Science, Troglodyte! | 23.00% | ~794 |
 | Home Sweet Home | 22.00% | ~759 |
 | Encyclopedic! | 20.00% | ~690 |
 | The Power of Family | 17.00% | ~586 |
@@ -26,17 +26,17 @@ Number of Ratings: 266  (23.09.2022)
 | Ace Detective | 8.00% | ~276 |
 | Gift from the Ancestors | 8.00% | ~276 |
 | Magic is a science | 8.00% | ~276 |
-| House of Cards | 7.00% | ~241 |
-| Let ‘em eat magma! | 7.00% | ~241 |
-| The power of ambition | 7.00% | ~241 |
+| House of Cards | 7.00% | ~242 |
+| Let ‘em eat magma! | 7.00% | ~242 |
+| The power of ambition | 7.00% | ~242 |
 | Blood and justice | 6.00% | ~207 |
 | Hold my Mead and Watch This | 6.00% | ~207 |
 | The stuff of legends. | 6.00% | ~207 |
 | Ancestor's Pride | 4.00% | ~138 |
 | For All Aurai | 4.00% | ~138 |
 | Memory of a legend | 4.00% | ~138 |
-| Light of Levant | 3.00% | ~103 |
-| This was a mistake... | 3.00% | ~103 |
+| Light of Levant | 3.00% | ~104 |
+| This was a mistake... | 3.00% | ~104 |
 | Crowd Pleaser. | 2.00% | ~69 |
 | Perfect Defense | 2.00% | ~69 |
 | Power! To! The People! | 2.00% | ~69 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,449 (Ranked 175)  
+Progressed: 3,450 (Ranked 175)  
 Completed: 4 (0.12%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 4 (0.12%) (Ranked 223)
 | 2023-09-20 | 3,423 | 4 |
 | 2023-09-21 | 3,436 | 4 |
 | 2023-09-22 | 3,447 | 4 |
-| 2023-09-23 | 3,449 | 4 |
+| 2023-09-23 | 3,450 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 449)  
 Sum: 244 (Ranked 361)  

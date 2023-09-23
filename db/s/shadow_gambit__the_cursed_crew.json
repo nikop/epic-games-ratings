@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1962,9 +1962,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 279
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2051,8 +2051,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-23T08:04:40.4681462+00:00",
+  "LastChanged_Achievements": "2023-09-23T09:03:25.8056036+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:00:40.191933+00:00",
-  "LastUpdate_Achievements": "2023-09-23T08:04:40.4681765+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:00:43.950121+00:00",
+  "LastUpdate_Achievements": "2023-09-23T09:03:25.8056278+00:00"
 }
