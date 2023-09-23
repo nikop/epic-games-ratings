@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4295,
+  "EOS_Progressed": 4296,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1285,6 +1285,11 @@
       "Time": "2023-09-23T05:03:37.3409661+00:00",
       "NumProgressed": 4295,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T06:03:12.7566714+00:00",
+      "NumProgressed": 4296,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1648,7 +1653,7 @@
       "Name": "Eureka!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -1944,7 +1949,7 @@
       "Name": "Tax-man I",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2048,7 +2053,7 @@
       "Name": "A new beginning",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2103,15 +2108,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4295,
+      "Progressed": 4296,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-23T05:03:37.3409655+00:00",
+  "LastChanged_Achievements": "2023-09-23T06:03:12.7566709+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:29.6799819+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:01:03.3216194+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:03:37.3411145+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:00:11.4432657+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:03:12.7568366+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 137,
+  "Ranking_Rating": 117,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "NumberOfRatings": 315,
   "RatingHistory": [
     {
@@ -687,6 +687,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 210,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-09-23T05:57:15.3500671+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
@@ -760,8 +766,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-09-22T06:00:54.0350013+00:00",
+  "LastChanged": "2023-09-23T05:57:15.350067+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:36.1484914+00:00",
-  "LastUpdate_Ratings": "2023-09-23T04:57:26.4031219+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:07:43.341515+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:57:15.3500675+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:06:42.2829588+00:00"
 }

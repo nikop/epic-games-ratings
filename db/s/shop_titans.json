@@ -6202,9 +6202,9 @@
       "Count": 3751
     }
   ],
-  "EOS_Progressed": 136559,
+  "EOS_Progressed": 136563,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22182,6 +22182,11 @@
       "Time": "2023-09-23T05:05:06.6988399+00:00",
       "NumProgressed": 136559,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-23T06:04:28.0906015+00:00",
+      "NumProgressed": 136563,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22647,9 +22652,9 @@
       "ID": "fuseuncommon",
       "SetID": "anfd17p",
       "Name": "Trash to Treasure",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 819
     },
     {
       "ID": "gemsspent",
@@ -22681,7 +22686,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "gold04",
@@ -22785,7 +22790,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "level03",
@@ -22905,7 +22910,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "quest02",
@@ -23065,7 +23070,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "workers03",
@@ -23088,15 +23093,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136559,
+      "Progressed": 136563,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-23T03:59:49.3225666+00:00",
-  "LastChanged_Achievements": "2023-09-23T05:05:06.6988392+00:00",
+  "LastChanged_Achievements": "2023-09-23T06:04:28.0906013+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:00:59.3210847+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:05:06.6991179+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:00:08.1151543+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:04:28.090864+00:00"
 }

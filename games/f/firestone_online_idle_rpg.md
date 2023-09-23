@@ -5,16 +5,16 @@ Rating: 4.02 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,821 |
-| World Map | 79.00% | ~1,547 |
-| Temple of Eternals | 57.00% | ~1,116 |
-| Prestigious | 54.00% | ~1,057 |
-| Fellowship Power | 42.00% | ~822 |
+| Victor | 93.00% | ~1,822 |
+| World Map | 79.00% | ~1,548 |
+| Temple of Eternals | 57.00% | ~1,117 |
+| Prestigious | 54.00% | ~1,058 |
+| Fellowship Power | 42.00% | ~823 |
 | Guild Power | 26.00% | ~509 |
-| Prestigious x10 | 23.00% | ~450 |
+| Prestigious x10 | 23.00% | ~451 |
 | The game is on | 21.00% | ~411 |
 | Exotic Merchant | 19.00% | ~372 |
-| Dragon Clicker | 18.00% | ~352 |
+| Dragon Clicker | 18.00% | ~353 |
 | Full Party | 17.00% | ~333 |
 | Inspection | 17.00% | ~333 |
 | Miner Clicker | 17.00% | ~333 |
@@ -53,10 +53,10 @@ Rating: 4.02 (Ranked 946)
 | Lock And Load | 7.00% | ~137 |
 | Missions Dedication | 7.00% | ~137 |
 | Sailor | 7.00% | ~137 |
-| Ancient Knowledge | 6.00% | ~117 |
-| How Do You Turn This On? | 6.00% | ~117 |
-| Legendary | 6.00% | ~117 |
-| The Alchemist | 6.00% | ~117 |
+| Ancient Knowledge | 6.00% | ~118 |
+| How Do You Turn This On? | 6.00% | ~118 |
+| Legendary | 6.00% | ~118 |
+| The Alchemist | 6.00% | ~118 |
 | Active Member | 5.00% | ~98 |
 | Arena Challenger | 5.00% | ~98 |
 | Background Story | 5.00% | ~98 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 946)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,958 (Ranked 194)  
+Progressed: 1,959 (Ranked 194)  
 Completed: 2 (0.10%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 2 (0.10%) (Ranked 231)
 | 2023-09-20 | 1,954 | 2 |
 | 2023-09-21 | 1,957 | 2 |
 | 2023-09-22 | 1,958 | 2 |
+| 2023-09-23 | 1,959 | 2 |
 ## Awards
 Max (Great for Beginners): 22  (Ranked 505)  
 Sum: 43 (Ranked 465)  

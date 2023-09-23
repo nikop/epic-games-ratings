@@ -2,13 +2,13 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 605,
+  "Ranking_Rating": 604,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9144,
+  "EOS_Progressed": 9145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13312,6 +13312,11 @@
       "Time": "2023-09-23T05:07:09.9830027+00:00",
       "NumProgressed": 9144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T06:06:14.7197117+00:00",
+      "NumProgressed": 9145,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13323,7 +13328,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5486
+      "UsersEstimate": 5487
     },
     {
       "ID": "10",
@@ -13331,7 +13336,7 @@
       "Name": "Friendly",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "11",
@@ -13355,7 +13360,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4846
+      "UsersEstimate": 4847
     },
     {
       "ID": "14",
@@ -13371,7 +13376,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "16",
@@ -13411,7 +13416,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "20",
@@ -13459,7 +13464,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "26",
@@ -13467,7 +13472,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "27",
@@ -13547,7 +13552,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "36",
@@ -13563,7 +13568,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "38",
@@ -13571,7 +13576,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "39",
@@ -13587,7 +13592,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "40",
@@ -13643,7 +13648,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "47",
@@ -13794,15 +13799,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9144,
+      "Progressed": 9145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-22T19:56:57.4425059+00:00",
-  "LastChanged_Achievements": "2023-09-23T05:07:09.9830015+00:00",
+  "LastChanged_Achievements": "2023-09-23T06:06:14.7197113+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:54.26707+00:00",
-  "LastUpdate_Ratings": "2023-09-23T04:57:18.7542813+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:07:09.9831544+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:57:08.2052897+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:06:14.7198616+00:00"
 }

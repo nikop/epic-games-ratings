@@ -410,11 +410,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20645,
+  "EOS_Progressed": 20647,
   "EOS_Completed": 416,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 2.02,
+  "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -17080,6 +17080,11 @@
       "Time": "2023-09-23T05:04:28.0364631+00:00",
       "NumProgressed": 20645,
       "NumCompleted": 416
+    },
+    {
+      "Time": "2023-09-23T06:03:55.4471025+00:00",
+      "NumProgressed": 20647,
+      "NumCompleted": 416
     }
   ],
   "TotalAchievements": 20,
@@ -17107,7 +17112,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2890
+      "UsersEstimate": 2891
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -17123,7 +17128,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -17131,7 +17136,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -17147,7 +17152,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -17203,7 +17208,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "INTRO_FINISHED",
@@ -17211,7 +17216,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15897
+      "UsersEstimate": 15898
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17227,7 +17232,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2890
+      "UsersEstimate": 2891
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -17250,15 +17255,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20645,
+      "Progressed": 20647,
       "Completed": 416
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-23T05:04:28.0364625+00:00",
+  "LastChanged_Achievements": "2023-09-23T06:03:55.4471021+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:02:21.5949582+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:04:28.0365969+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:02:20.8569445+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:03:55.4472223+00:00"
 }

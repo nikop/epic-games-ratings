@@ -10,7 +10,7 @@
 | Triple Kill | 60.00% | ~175 |
 | No Asperascope | 57.00% | ~166 |
 | Survivor | 57.00% | ~138 |
-| Cornivore | 52.00% | ~152 |
+| Cornivore | 53.00% | ~155 |
 | I Believe I Can Fly | 50.00% | ~146 |
 | No Diggity | 43.00% | ~104 |
 | Early Survivor | 41.00% | ~99 |

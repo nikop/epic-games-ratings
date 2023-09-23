@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -964,7 +964,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2907,
+  "EOS_Progressed": 2908,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -4814,6 +4814,11 @@
       "Time": "2023-09-23T05:08:12.7677091+00:00",
       "NumProgressed": 2907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T06:08:26.1639879+00:00",
+      "NumProgressed": 2908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4889,7 +4894,7 @@
       "Name": "Fashionista",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -4897,7 +4902,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -5105,7 +5110,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -5129,7 +5134,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5153,7 +5158,7 @@
       "Name": "Tight lipslides",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -5193,7 +5198,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -5201,22 +5206,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2907,
+      "Progressed": 2908,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-23T04:00:36.1345295+00:00",
-  "LastChanged_Achievements": "2023-09-23T05:08:12.7677086+00:00",
+  "LastChanged_Achievements": "2023-09-23T06:08:26.1639874+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:01:52.100856+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:08:12.7677822+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:02:04.4690048+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:08:26.1640745+00:00"
 }

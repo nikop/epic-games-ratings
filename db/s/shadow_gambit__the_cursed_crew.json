@@ -5,9 +5,9 @@
   "Ranking_Rating": 220,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
@@ -1819,6 +1819,11 @@
       "Time": "2023-09-23T05:04:45.0772377+00:00",
       "NumProgressed": 664,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-23T06:04:09.7112816+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1831,7 +1836,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1839,7 +1844,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "_03_FinishAct1",
@@ -1855,15 +1860,15 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 233
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1871,7 +1876,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "_07_FinishAct3",
@@ -1927,7 +1932,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "_14_Completion_70",
@@ -1959,7 +1964,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2038,7 +2043,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 18
     }
   ],
@@ -2046,8 +2051,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-23T05:04:45.0772373+00:00",
+  "LastChanged_Achievements": "2023-09-23T06:04:09.711281+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:01:10.0642275+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:04:45.0772713+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:00:16.2366476+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:04:09.7113283+00:00"
 }

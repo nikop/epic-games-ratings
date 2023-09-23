@@ -6,43 +6,43 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~53,758 |
-| Skillful | 6.00% | ~53,758 |
-| Zealous | 5.00% | ~44,798 |
-| Not half bad | 5.00% | ~44,798 |
-| Make Some Noise | 5.00% | ~44,798 |
-| Handyman | 4.00% | ~35,839 |
-| Apt Survivor | 4.00% | ~35,839 |
-| Survival Treasures | 4.00% | ~35,839 |
-| Sorted | 4.00% | ~35,839 |
-| The Grand Sacrifice | 3.00% | ~26,879 |
-| Agonizing Escape | 3.00% | ~26,879 |
-| Backdoor Escape | 3.00% | ~26,879 |
-| No one left behind | 3.00% | ~26,879 |
-| Medic | 3.00% | ~26,879 |
-| Nerves of steel | 3.00% | ~26,879 |
-| Perfect Escape | 3.00% | ~26,879 |
-| Bloody Millionaire | 3.00% | ~26,879 |
-| I | 3.00% | ~26,879 |
-| Engineer | 3.00% | ~26,879 |
-| Healthy Obsession | 3.00% | ~26,879 |
-| Resurgence | 3.00% | ~26,879 |
-| Preemptive Strike | 3.00% | ~26,879 |
-| Humanitarian | 3.00% | ~26,879 |
-| MU/TH/UR Dearest | 3.00% | ~26,879 |
-| I've got your back | 2.00% | ~17,919 |
-| Perfect Killing | 2.00% | ~17,919 |
-| Apt Killer | 2.00% | ~17,919 |
-| Risk it all | 2.00% | ~17,919 |
-| Vulture | 2.00% | ~17,919 |
-| II | 2.00% | ~17,919 |
-| III | 2.00% | ~17,919 |
-| Wounded Healer | 2.00% | ~17,919 |
-| First to the Punch | 2.00% | ~17,919 |
-| Every Last Drop | 2.00% | ~17,919 |
-| Close Shave | 2.00% | ~17,919 |
-| With Scars to Show | 2.00% | ~17,919 |
-| Second Act | 2.00% | ~17,919 |
+| It wakes | 6.00% | ~53,762 |
+| Skillful | 6.00% | ~53,762 |
+| Zealous | 5.00% | ~44,801 |
+| Not half bad | 5.00% | ~44,801 |
+| Make Some Noise | 5.00% | ~44,801 |
+| Handyman | 4.00% | ~35,841 |
+| Apt Survivor | 4.00% | ~35,841 |
+| Survival Treasures | 4.00% | ~35,841 |
+| Sorted | 4.00% | ~35,841 |
+| The Grand Sacrifice | 3.00% | ~26,881 |
+| Agonizing Escape | 3.00% | ~26,881 |
+| Backdoor Escape | 3.00% | ~26,881 |
+| No one left behind | 3.00% | ~26,881 |
+| Medic | 3.00% | ~26,881 |
+| Nerves of steel | 3.00% | ~26,881 |
+| Perfect Escape | 3.00% | ~26,881 |
+| Bloody Millionaire | 3.00% | ~26,881 |
+| I | 3.00% | ~26,881 |
+| Engineer | 3.00% | ~26,881 |
+| Healthy Obsession | 3.00% | ~26,881 |
+| Resurgence | 3.00% | ~26,881 |
+| Preemptive Strike | 3.00% | ~26,881 |
+| Humanitarian | 3.00% | ~26,881 |
+| MU/TH/UR Dearest | 3.00% | ~26,881 |
+| I've got your back | 2.00% | ~17,921 |
+| Perfect Killing | 2.00% | ~17,921 |
+| Apt Killer | 2.00% | ~17,921 |
+| Risk it all | 2.00% | ~17,921 |
+| Vulture | 2.00% | ~17,921 |
+| II | 2.00% | ~17,921 |
+| III | 2.00% | ~17,921 |
+| Wounded Healer | 2.00% | ~17,921 |
+| First to the Punch | 2.00% | ~17,921 |
+| Every Last Drop | 2.00% | ~17,921 |
+| Close Shave | 2.00% | ~17,921 |
+| With Scars to Show | 2.00% | ~17,921 |
+| Second Act | 2.00% | ~17,921 |
 | A bite for the Entity | 1.00% | ~8,960 |
 | Blood on your hands | 1.00% | ~8,960 |
 | Blood on your face | 1.00% | ~8,960 |
@@ -79,11 +79,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Terror of LV-426 | 1.00% | ~8,960 |
 | Hemophobia | 0.90% | ~8,064 |
 | Serial Killer | 0.90% | ~8,064 |
+| Devoted Gatekeeping | 0.90% | ~8,064 |
 | Outrun the Overlap | 0.90% | ~8,064 |
 | Complete the Evolution | 0.90% | ~8,064 |
 | Jump Scares | 0.80% | ~7,168 |
 | Game Over | 0.80% | ~7,168 |
-| Devoted Gatekeeping | 0.80% | ~7,168 |
 | Selfless Survival | 0.80% | ~7,168 |
 | End of Days | 0.80% | ~7,168 |
 | Insult and Injury | 0.80% | ~7,168 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~896 |
 | Adept Ripley | 0.10% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,966 (Ranked 14)  
+Progressed: 896,026 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,7 +392,7 @@ Completed: 49 (0.01%) (Ranked 274)
 | 2023-09-20 | 891,547 | 49 |
 | 2023-09-21 | 893,416 | 49 |
 | 2023-09-22 | 895,442 | 49 |
-| 2023-09-23 | 895,966 | 49 |
+| 2023-09-23 | 896,026 | 49 |
 ## Awards
 Max (Diverse Characters): 32,876  (Ranked 15)  
 Sum: 256,086 (Ranked 12)  

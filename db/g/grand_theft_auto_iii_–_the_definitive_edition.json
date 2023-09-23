@@ -484,7 +484,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7983,
+  "EOS_Progressed": 7985,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 2,
@@ -8919,6 +8919,11 @@
       "Time": "2023-09-23T05:04:35.6506164+00:00",
       "NumProgressed": 7983,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-23T06:04:01.7865177+00:00",
+      "NumProgressed": 7985,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 29,
@@ -8930,7 +8935,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6628
     },
     {
       "ID": "ACH02",
@@ -8938,7 +8943,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "ACH03",
@@ -8962,7 +8967,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH06",
@@ -9002,7 +9007,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "ACH11",
@@ -9161,7 +9166,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7983,
+      "Progressed": 7985,
       "Completed": 52
     }
   ],
@@ -9169,8 +9174,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-23T05:04:35.6506158+00:00",
+  "LastChanged_Achievements": "2023-09-23T06:04:01.7865172+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:00:28.3061077+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:04:35.6507054+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:59:42.4440121+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:04:01.7865928+00:00"
 }

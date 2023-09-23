@@ -1,29 +1,29 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 605)  
+Rating: 4.48 (Ranked 604)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 72.00% | ~6,584 |
-| Leader | 60.00% | ~5,486 |
-| Explorer | 53.00% | ~4,846 |
+| Leader | 60.00% | ~5,487 |
+| Explorer | 53.00% | ~4,847 |
 | Healer | 52.00% | ~4,755 |
-| Aspiring Inventor | 44.00% | ~4,023 |
+| Aspiring Inventor | 44.00% | ~4,024 |
 | Adventurer | 41.00% | ~3,749 |
 | Famous Healer | 38.00% | ~3,475 |
-| Local Leader | 35.00% | ~3,200 |
+| Local Leader | 35.00% | ~3,201 |
 | Famous Explorer | 34.00% | ~3,109 |
 | New Opportunities | 34.00% | ~3,109 |
 | Energized | 33.00% | ~3,018 |
 | The Long Haul | 33.00% | ~3,018 |
 | The Great Healer | 31.00% | ~2,835 |
 | Survivor | 31.00% | ~2,835 |
-| Legendary Explorer | 28.00% | ~2,560 |
-| Cleaner | 28.00% | ~2,560 |
-| Catastrofan | 28.00% | ~2,560 |
-| Finders, Keepers | 26.00% | ~2,377 |
+| Legendary Explorer | 28.00% | ~2,561 |
+| Cleaner | 28.00% | ~2,561 |
+| Catastrofan | 28.00% | ~2,561 |
+| Finders, Keepers | 26.00% | ~2,378 |
 | Top Notch | 25.00% | ~2,286 |
 | Great Leader | 23.00% | ~2,103 |
 | Mentor | 23.00% | ~2,103 |
@@ -31,10 +31,10 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 22.00% | ~2,012 |
 | Real Survivor | 22.00% | ~2,012 |
 | Rocket Surgeon | 20.00% | ~1,829 |
-| War Never Changes | 19.00% | ~1,737 |
-| Friendly | 17.00% | ~1,554 |
-| Big Game Hunter | 17.00% | ~1,554 |
-| Spreading Influence | 17.00% | ~1,554 |
+| War Never Changes | 19.00% | ~1,738 |
+| Friendly | 17.00% | ~1,555 |
+| Big Game Hunter | 17.00% | ~1,555 |
+| Spreading Influence | 17.00% | ~1,555 |
 | Around the World | 16.00% | ~1,463 |
 | Bookworm | 15.00% | ~1,372 |
 | Famous Adventurer | 14.00% | ~1,280 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,144 (Ranked 140)  
+Progressed: 9,145 (Ranked 140)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 9,113 | 0 |
 | 2023-09-21 | 9,129 | 0 |
 | 2023-09-22 | 9,141 | 0 |
-| 2023-09-23 | 9,144 | 0 |
+| 2023-09-23 | 9,145 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 337)  
 Sum: 702 (Ranked 280)  

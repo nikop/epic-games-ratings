@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1994,6 +1994,11 @@
       "Time": "2023-09-23T04:06:10.3788289+00:00",
       "NumProgressed": 449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T06:06:21.3941397+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2037,7 +2042,7 @@
       "Name": "War with Friends",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -2100,7 +2105,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 0
     }
   ],
@@ -2108,8 +2113,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-09-23T05:07:17.784329+00:00",
+  "LastChanged_Achievements": "2023-09-23T06:06:21.3941392+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:31.3171968+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:01:04.8919279+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:07:17.7843564+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:00:12.8066494+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:06:21.3941614+00:00"
 }

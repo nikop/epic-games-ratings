@@ -6,19 +6,19 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,263 |
-| First Steps | 80.00% | ~34,635 |
-| Control the Shadows | 67.00% | ~29,007 |
-| Tools of the Trade | 63.00% | ~27,275 |
-| Apprentice | 60.00% | ~25,976 |
+| Awakening | 93.00% | ~40,264 |
+| First Steps | 80.00% | ~34,636 |
+| Control the Shadows | 67.00% | ~29,008 |
+| Tools of the Trade | 63.00% | ~27,276 |
+| Apprentice | 60.00% | ~25,977 |
 | Secret Seeker | 57.00% | ~24,678 |
 | Forge of Assassins | 55.00% | ~23,812 |
 | Revenant | 52.00% | ~22,513 |
-| I don’t Care! | 45.00% | ~19,482 |
+| I don’t Care! | 45.00% | ~19,483 |
 | Bird of Prey | 37.00% | ~16,019 |
 | Engraved with Power | 32.00% | ~13,854 |
 | Lady | 31.00% | ~13,421 |
-| Fashionable Assassin | 27.00% | ~11,689 |
+| Fashionable Assassin | 27.00% | ~11,690 |
 | Apex Predator | 24.00% | ~10,391 |
 | Soul Reaver | 22.00% | ~9,525 |
 | Embers | 21.00% | ~9,092 |
@@ -32,10 +32,10 @@ Number of Ratings: 88  (23.09.2022)
 | Signature Move | 14.00% | ~6,061 |
 | Ruse | 11.00% | ~4,762 |
 | Master Ninja | 11.00% | ~4,762 |
-| Hatching | 10.00% | ~4,329 |
-| Bonds | 9.00% | ~3,896 |
-| Get Over Here | 9.00% | ~3,896 |
-| The Hidden Village | 9.00% | ~3,896 |
+| Hatching | 10.00% | ~4,330 |
+| Bonds | 9.00% | ~3,897 |
+| Get Over Here | 9.00% | ~3,897 |
+| The Hidden Village | 9.00% | ~3,897 |
 | Denouement | 8.00% | ~3,464 |
 | A Pleasant Stay | 8.00% | ~3,464 |
 | Pilgrimage | 7.00% | ~3,031 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~866 |
 | Anger Management | 1.00% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,294 (Ranked 97)  
+Progressed: 43,295 (Ranked 97)  
 Completed: 238 (0.55%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 238 (0.55%) (Ranked 157)
 | 2023-09-20 | 43,276 | 238 |
 | 2023-09-21 | 43,285 | 238 |
 | 2023-09-22 | 43,294 | 238 |
+| 2023-09-23 | 43,295 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

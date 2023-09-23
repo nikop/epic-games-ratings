@@ -10,14 +10,15 @@ Rating: 4.50 (Ranked 568)
 | Meticulously Efficient | 0.60% | ~156 |
 | Discovery | 0.50% | ~130 |
 | Solo Capture | 0.50% | ~130 |
+| Back Off | 0.40% | ~104 |
 | I collect Spores, Molds, and Fungi | 0.40% | ~104 |
 | Cultured | 0.40% | ~104 |
 | Fully Upgraded | 0.40% | ~104 |
 | Teamwork | 0.40% | ~104 |
+| There you are! | 0.40% | ~104 |
 | Vaporous Expansion | 0.40% | ~104 |
 | Whoopsie | 0.40% | ~104 |
 | Animated | 0.30% | ~78 |
-| Back Off | 0.30% | ~78 |
 | Clutch Capture | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
 | Ghostbuster In Training | 0.30% | ~78 |
@@ -28,7 +29,6 @@ Rating: 4.50 (Ranked 568)
 | Summoner | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
 | Terrifying | 0.30% | ~78 |
-| There you are! | 0.30% | ~78 |
 | Welcome to the Crew | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
 | Daily Dose | 0.20% | ~52 |

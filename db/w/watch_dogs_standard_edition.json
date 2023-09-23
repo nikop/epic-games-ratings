@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 449,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1876,10 +1876,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 473,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2023-09-23T05:58:21.4591413+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 474,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 473,
+  "NumberOfAwards": 474,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1935,7 +1941,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1967,8 +1973,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-09-22T18:58:40.274111+00:00",
+  "LastChanged": "2023-09-23T05:58:21.4591411+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.4308501+00:00",
-  "LastUpdate_Ratings": "2023-09-23T04:58:48.7079417+00:00",
-  "LastUpdate_Achievements": "2023-09-23T05:03:54.143577+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:58:21.4591419+00:00",
+  "LastUpdate_Achievements": "2023-09-23T06:03:26.6994482+00:00"
 }

@@ -27,10 +27,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.90% | ~1,229 |
 | Where it Hurts | 0.90% | ~1,229 |
 | Dungeon Imports | 0.90% | ~1,229 |
-| Gild-Gotten Goods | 0.80% | ~1,092 |
-| Accomplished Merchant | 0.80% | ~1,092 |
-| Did we pack lunch? | 0.80% | ~1,092 |
-| Arcane Industries | 0.80% | ~1,092 |
+| Gild-Gotten Goods | 0.80% | ~1,093 |
+| Accomplished Merchant | 0.80% | ~1,093 |
+| Did we pack lunch? | 0.80% | ~1,093 |
+| Arcane Industries | 0.80% | ~1,093 |
 | On the Path to Greatness | 0.70% | ~956 |
 | Ascended | 0.70% | ~956 |
 | Research & Development | 0.70% | ~956 |
@@ -44,6 +44,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.60% | ~819 |
 | Power of Love | 0.60% | ~819 |
 | Flawless Fusion | 0.60% | ~819 |
+| Trash to Treasure | 0.60% | ~819 |
 | Royal Ransom | 0.60% | ~819 |
 | Magical Harmony | 0.60% | ~819 |
 | A Notch Above the Rest | 0.50% | ~683 |
@@ -62,7 +63,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 0.50% | ~683 |
 | Cranked up to 11 | 0.50% | ~683 |
 | Fit for a King | 0.50% | ~683 |
-| Trash to Treasure | 0.50% | ~683 |
 | Mammonite | 0.50% | ~683 |
 | Wealth Beyond Measure | 0.50% | ~683 |
 | Fat Cat Tag Team | 0.50% | ~683 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,559 (Ranked 69)  
+Progressed: 136,563 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 153 (0.11%) (Ranked 228)
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
-| 2023-09-23 | 136,559 | 153 |
+| 2023-09-23 | 136,563 | 153 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 70)  
 Sum: 27,278 (Ranked 48)  
