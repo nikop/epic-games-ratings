@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,7 +1000,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4596,
+  "EOS_Progressed": 4609,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 1,
@@ -3895,6 +3895,11 @@
       "Time": "2023-09-23T18:09:35.3089286+00:00",
       "NumProgressed": 4596,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T19:09:26.2665379+00:00",
+      "NumProgressed": 4609,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3907,7 +3912,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "a_10",
@@ -3955,7 +3960,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1659
     },
     {
       "ID": "a_19",
@@ -3963,7 +3968,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "a_2",
@@ -3977,9 +3982,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 230
     },
     {
       "ID": "a_21",
@@ -4003,7 +4008,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "a_25",
@@ -4154,7 +4159,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4596,
+      "Progressed": 4609,
       "Completed": 6
     }
   ],
@@ -4162,8 +4167,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:09:35.3089281+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:09:26.2665373+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:01:08.1755218+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:09:35.3089704+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:01:04.7071043+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:09:26.266642+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "02c14a01b7044db98de3f3a10813a42e",
   "Name": "HUMANKIND\u2122 Standard Edition",
   "ProductSlug": "humankind",
-  "Ranking_Rating": 569,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 634,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 609,
   "RatingHistory": [
     {
@@ -1290,6 +1290,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 934,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-09-23T19:01:14.2791119+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 934,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
@@ -1381,8 +1387,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2023-09-19T22:58:26.4649943+00:00",
+  "LastChanged": "2023-09-23T19:01:14.2791116+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:07.8027166+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:01:16.6500049+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:04:26.1104813+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:01:14.2791125+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:04:18.095171+00:00"
 }

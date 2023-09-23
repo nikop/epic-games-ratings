@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -498,9 +498,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -867,8 +867,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:09:02.9800208+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:08:53.8608402+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.6031349+00:00",
-  "LastUpdate_Ratings": "2023-09-23T17:58:20.0063619+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:09:02.9800652+00:00"
+  "LastUpdate_Ratings": "2023-09-23T18:58:12.4183691+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:08:53.8608814+00:00"
 }

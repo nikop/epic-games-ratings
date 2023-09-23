@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Mighty Powers | 74.00% | ~20 |
 | Grand Re-Opening | 63.00% | ~17 |
+| Summer Day | 63.00% | ~17 |
 | Pup Pup Boogie | 59.00% | ~16 |
-| Summer Day | 59.00% | ~16 |
 | Mr. Porter | 52.00% | ~14 |
 | Risky Rescue | 48.00% | ~13 |
 | Carlos Is Tangled | 44.00% | ~12 |
@@ -19,10 +19,10 @@
 | The Fastest | 30.00% | ~8 |
 | Master of the Rope | 26.00% | ~7 |
 | Clear the Road | 26.00% | ~7 |
+| Adventure Bay’s Citizen | 26.00% | ~7 |
 | In the Air | 22.00% | ~6 |
 | Never Miss | 22.00% | ~6 |
 | Animal Sighting | 22.00% | ~6 |
-| Adventure Bay’s Citizen | 22.00% | ~6 |
 | You Have Been Everywhere | 19.00% | ~5 |
 | Don’t Miss Any | 19.00% | ~5 |
 | Everything Under Control | 15.00% | ~4 |

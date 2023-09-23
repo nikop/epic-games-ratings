@@ -531,8 +531,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,814 (Ranked 57)  
-Completed: 2,299 (1.00%) (Ranked 130)  
+Progressed: 229,823 (Ranked 57)  
+Completed: 2,299 (1.00%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -687,7 +687,7 @@ Completed: 2,299 (1.00%) (Ranked 130)
 | 2023-09-20 | 229,496 | 2,296 |
 | 2023-09-21 | 229,612 | 2,297 |
 | 2023-09-22 | 229,714 | 2,297 |
-| 2023-09-23 | 229,814 | 2,299 |
+| 2023-09-23 | 229,823 | 2,299 |
 ## Awards
 Max (Diverse Characters): 5,309  (Ranked 67)  
 Sum: 31,717 (Ranked 39)  

@@ -1,53 +1,53 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 616)  
+Rating: 4.47 (Ranked 617)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,532 |
-| Now You're Talking | 62.00% | ~327,300 |
-| Steel Yourself | 62.00% | ~327,300 |
-| Window Dressing | 50.00% | ~263,952 |
-| Trigger Happy | 46.00% | ~242,835 |
-| Riverborn | 45.00% | ~237,556 |
-| Starry Eyed | 34.00% | ~179,487 |
-| Poking Around | 34.00% | ~179,487 |
-| Talk of the Town | 24.00% | ~126,697 |
-| AAARR! | 23.00% | ~121,418 |
-| Hello Darkness | 23.00% | ~121,418 |
-| Wind At Our Backs | 22.00% | ~116,139 |
-| To the Beat | 20.00% | ~105,581 |
-| Sunny Shores | 17.00% | ~89,744 |
-| Sunday Best | 16.00% | ~84,464 |
-| To Victory! | 15.00% | ~79,185 |
-| Two of a Kind | 14.00% | ~73,906 |
-| Keep On Trucking | 13.00% | ~68,627 |
-| Going on an Adventure | 11.00% | ~58,069 |
-| Make Peace, Not War | 11.00% | ~58,069 |
-| Walking The Line | 10.00% | ~52,790 |
-| Not So Cute Anymore | 10.00% | ~52,790 |
-| Road Less Travelled | 9.00% | ~47,511 |
-| Lost and Found | 9.00% | ~47,511 |
-| Under the Radar | 8.00% | ~42,232 |
-| Partner in Crime | 7.00% | ~36,953 |
-| Hard to Hear | 7.00% | ~36,953 |
-| Moving On Up | 6.00% | ~31,674 |
-| Owl Knows Best | 6.00% | ~31,674 |
-| Mind the Moose | 6.00% | ~31,674 |
-| Oh, Romeo! | 6.00% | ~31,674 |
-| Dressed to Kill | 6.00% | ~31,674 |
-| Beast Mode | 6.00% | ~31,674 |
-| Noble Intentions | 5.00% | ~26,395 |
-| Rising Star | 5.00% | ~26,395 |
-| Slime Slayer | 5.00% | ~26,395 |
-| Privacy, Please! | 4.00% | ~21,116 |
-| Silky Smooth | 4.00% | ~21,116 |
-| Hash It Over | 4.00% | ~21,116 |
-| Biting Tongue | 4.00% | ~21,116 |
-| What a Catch! | 4.00% | ~21,116 |
-| Hit the Spot | 4.00% | ~21,116 |
+| First Step | 70.00% | ~369,539 |
+| Now You're Talking | 62.00% | ~327,306 |
+| Steel Yourself | 62.00% | ~327,306 |
+| Window Dressing | 50.00% | ~263,956 |
+| Trigger Happy | 46.00% | ~242,840 |
+| Riverborn | 45.00% | ~237,561 |
+| Starry Eyed | 34.00% | ~179,490 |
+| Poking Around | 34.00% | ~179,490 |
+| Talk of the Town | 24.00% | ~126,699 |
+| AAARR! | 23.00% | ~121,420 |
+| Hello Darkness | 23.00% | ~121,420 |
+| Wind At Our Backs | 22.00% | ~116,141 |
+| To the Beat | 20.00% | ~105,583 |
+| Sunny Shores | 17.00% | ~89,745 |
+| Sunday Best | 16.00% | ~84,466 |
+| To Victory! | 15.00% | ~79,187 |
+| Two of a Kind | 14.00% | ~73,908 |
+| Keep On Trucking | 13.00% | ~68,629 |
+| Going on an Adventure | 11.00% | ~58,070 |
+| Make Peace, Not War | 11.00% | ~58,070 |
+| Walking The Line | 10.00% | ~52,791 |
+| Not So Cute Anymore | 10.00% | ~52,791 |
+| Road Less Travelled | 9.00% | ~47,512 |
+| Lost and Found | 9.00% | ~47,512 |
+| Under the Radar | 8.00% | ~42,233 |
+| Partner in Crime | 7.00% | ~36,954 |
+| Hard to Hear | 7.00% | ~36,954 |
+| Moving On Up | 6.00% | ~31,675 |
+| Owl Knows Best | 6.00% | ~31,675 |
+| Mind the Moose | 6.00% | ~31,675 |
+| Oh, Romeo! | 6.00% | ~31,675 |
+| Dressed to Kill | 6.00% | ~31,675 |
+| Beast Mode | 6.00% | ~31,675 |
+| Noble Intentions | 5.00% | ~26,396 |
+| Rising Star | 5.00% | ~26,396 |
+| Slime Slayer | 5.00% | ~26,396 |
+| Privacy, Please! | 4.00% | ~21,117 |
+| Silky Smooth | 4.00% | ~21,117 |
+| Hash It Over | 4.00% | ~21,117 |
+| Biting Tongue | 4.00% | ~21,117 |
+| What a Catch! | 4.00% | ~21,117 |
+| Hit the Spot | 4.00% | ~21,117 |
 | Talk the Talk | 3.00% | ~15,837 |
 | Skin in the Game | 3.00% | ~15,837 |
 | Caving In | 3.00% | ~15,837 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,584 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,903 (Ranked 33)  
+Progressed: 527,913 (Ranked 33)  
 Completed: 478 (0.09%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 478 (0.09%) (Ranked 236)
 | 2023-09-20 | 527,718 | 476 |
 | 2023-09-21 | 527,763 | 476 |
 | 2023-09-22 | 527,827 | 477 |
-| 2023-09-23 | 527,903 | 478 |
+| 2023-09-23 | 527,913 | 478 |
 ## Awards
 Max (Relaxing): 20  (Ranked 520)  
 Sum: 20 (Ranked 520)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15961,
+  "EOS_Progressed": 15962,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7091,6 +7091,11 @@
       "Time": "2023-09-23T17:08:11.713638+00:00",
       "NumProgressed": 15961,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-23T19:09:12.1035056+00:00",
+      "NumProgressed": 15962,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -7454,7 +7459,7 @@
       "Name": "Keep Fighting",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -7477,13 +7482,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15961,
+      "Progressed": 15962,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3887,
+      "Progressed": 3888,
       "Completed": 29
     }
   ],
@@ -7491,8 +7496,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-22T12:00:29.265171+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:09:21.1434353+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:09:12.103505+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.2619756+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:01:47.8495118+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:09:21.1435246+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:01:43.2744087+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:09:12.1036237+00:00"
 }

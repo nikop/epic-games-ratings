@@ -2,7 +2,7 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 119,
@@ -99,9 +99,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 69,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "cold_feet",
@@ -187,9 +187,9 @@
       "ID": "poor_gracie_ray",
       "SetID": "7i36ba9",
       "Name": "Poor Gracie Ray",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "skipper",
@@ -291,9 +291,9 @@
       "ID": "who_is_d",
       "SetID": "7i36ba9",
       "Name": "Who is D?",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -306,8 +306,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:07:09.1147941+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:07:00.6380965+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.2852285+00:00",
-  "LastUpdate_Ratings": "2023-09-23T17:58:53.7107509+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:07:09.1148158+00:00"
+  "LastUpdate_Ratings": "2023-09-23T18:58:46.7468991+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:07:00.6381271+00:00"
 }

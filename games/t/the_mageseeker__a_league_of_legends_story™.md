@@ -5,15 +5,15 @@ Rating: 4.82 (Ranked 65)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,469 |
-| No more cages! | 92.00% | ~2,366 |
-| Everfrost | 79.00% | ~2,032 |
-| Pentakill | 78.00% | ~2,006 |
-| Dark Forest | 78.00% | ~2,006 |
-| The use of petricite | 75.00% | ~1,929 |
-| You can pet the dog | 61.00% | ~1,569 |
-| Big Helmet Bro | 38.00% | ~977 |
-| Clarion Cove | 38.00% | ~977 |
+| For Demacia | 96.00% | ~2,470 |
+| No more cages! | 92.00% | ~2,367 |
+| Everfrost | 79.00% | ~2,033 |
+| Pentakill | 78.00% | ~2,007 |
+| Dark Forest | 78.00% | ~2,007 |
+| The use of petricite | 75.00% | ~1,930 |
+| You can pet the dog | 61.00% | ~1,570 |
+| Big Helmet Bro | 38.00% | ~978 |
+| Clarion Cove | 38.00% | ~978 |
 | Thornbarrow | 37.00% | ~952 |
 | Elemental master | 36.00% | ~926 |
 | Past trauma | 36.00% | ~926 |
@@ -23,15 +23,15 @@ Rating: 4.82 (Ranked 65)
 | Old friend | 30.00% | ~772 |
 | Hijack | 29.00% | ~746 |
 | Devineur | 29.00% | ~746 |
-| Whispers in the Woods I | 27.00% | ~694 |
+| Whispers in the Woods I | 27.00% | ~695 |
 | Ancient power | 26.00% | ~669 |
 | I chose my shackles | 25.00% | ~643 |
-| Sacred Woods | 24.00% | ~617 |
+| Sacred Woods | 24.00% | ~618 |
 | Capelworth | 23.00% | ~592 |
 | Little light | 22.00% | ~566 |
-| Iffighain Headquarters | 22.00% | ~566 |
 | Full equipped | 22.00% | ~566 |
 | Glyndemere | 21.00% | ~540 |
+| Iffighain Headquarters | 21.00% | ~540 |
 | Whispers in the Woods II | 18.00% | ~463 |
 | Quickmoore Headquarters | 18.00% | ~463 |
 | No more holding back | 17.00% | ~437 |
@@ -55,11 +55,11 @@ Rating: 4.82 (Ranked 65)
 | Chains master | 10.00% | ~257 |
 | The great mage rebellion starts now | 10.00% | ~257 |
 | You can pet the... horse | 10.00% | ~257 |
-| Spellcrafting | 9.00% | ~231 |
+| Spellcrafting | 9.00% | ~232 |
 | Silverwing nest | 2.00% | ~51 |
 | The Unshackled | 0.90% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,572 (Ranked 188)  
+Progressed: 2,573 (Ranked 188)  
 Completed: 9 (0.35%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 9 (0.35%) (Ranked 179)
 | 2023-09-20 | 2,567 | 8 |
 | 2023-09-21 | 2,569 | 8 |
 | 2023-09-22 | 2,570 | 9 |
-| 2023-09-23 | 2,572 | 9 |
+| 2023-09-23 | 2,573 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

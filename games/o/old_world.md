@@ -9,9 +9,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 6.00% | ~844 |
 | Settler | 6.00% | ~844 |
 | Play a Single Player Game | 6.00% | ~844 |
-| Intrepid | 5.00% | ~703 |
-| Friendly Family | 5.00% | ~703 |
-| The Clergy | 5.00% | ~703 |
+| Intrepid | 5.00% | ~704 |
+| Friendly Family | 5.00% | ~704 |
+| The Clergy | 5.00% | ~704 |
 | Able | 4.00% | ~563 |
 | Architect | 4.00% | ~563 |
 | Enlightened | 4.00% | ~563 |
@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 3.00% | ~422 |
 | Regicide | 2.00% | ~281 |
 | Hanging Gardens in Babylon | 2.00% | ~281 |
+| Beloved | 2.00% | ~281 |
 | Drillmaster | 2.00% | ~281 |
 | Great | 2.00% | ~281 |
 | Intercessor | 2.00% | ~281 |
@@ -72,10 +73,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 2.00% | ~281 |
 | Manichaeism | 2.00% | ~281 |
 | Egyptian Paganism | 2.00% | ~281 |
+| Persian Paganism | 2.00% | ~281 |
 | Mythology | 2.00% | ~281 |
 | Points Victory | 2.00% | ~281 |
 | Poetic Leader | 2.00% | ~281 |
-| Beloved | 1.00% | ~141 |
 | Capable | 1.00% | ~141 |
 | Conqueror | 1.00% | ~141 |
 | Devout | 1.00% | ~141 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 1.00% | ~141 |
 | Power to the People | 1.00% | ~141 |
 | Assyrian Paganism | 1.00% | ~141 |
-| Persian Paganism | 1.00% | ~141 |
 | Building Wonders | 1.00% | ~141 |
 | Economic Reform | 1.00% | ~141 |
 | Industrial Progress | 1.00% | ~141 |
@@ -130,22 +130,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.80% | ~113 |
 | Hunters | 0.80% | ~113 |
 | Learn to Play 4 | 0.80% | ~113 |
+| One True Faith | 0.80% | ~113 |
 | Turreted Elephant | 0.80% | ~113 |
-| Old | 0.70% | ~98 |
-| Peacemaker | 0.70% | ~98 |
-| Cao'an | 0.70% | ~98 |
-| Egypt | 0.70% | ~98 |
-| Rome | 0.70% | ~98 |
-| One True Faith | 0.70% | ~98 |
-| All Nations | 0.70% | ~98 |
-| No Undo | 0.70% | ~98 |
+| Old | 0.70% | ~99 |
+| Peacemaker | 0.70% | ~99 |
+| Cao'an | 0.70% | ~99 |
+| Egypt | 0.70% | ~99 |
+| Rome | 0.70% | ~99 |
+| All Nations | 0.70% | ~99 |
+| No Undo | 0.70% | ~99 |
 | Carthage - Ox Hide | 0.60% | ~84 |
 | Noble Difficulty | 0.60% | ~84 |
+| Old World Order | 0.60% | ~84 |
 | Play a Network Game | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
 | The Eternal Treaty | 0.50% | ~70 |
 | Persia | 0.50% | ~70 |
-| Old World Order | 0.50% | ~70 |
 | Capturing Cities | 0.50% | ~70 |
 | Ten Crowns | 0.50% | ~70 |
 | Three Man Chariot | 0.50% | ~70 |
@@ -174,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.30% | ~42 |
 | Patriarch St Paul | 0.30% | ~42 |
 | Hypatia the Teacher | 0.30% | ~42 |
+| Blade of the Monkey | 0.20% | ~28 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
 | Silver Victory (Carthage 2) | 0.20% | ~28 |
@@ -203,7 +204,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.10% | ~14 |
 | Battle of Opis | 0.10% | ~14 |
 | Before the Mongol Horde | 0.10% | ~14 |
-| Blade of the Monkey | 0.10% | ~14 |
 | Hagia Sophia in Byzantion | 0.10% | ~14 |
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Epic Victory (Carthage 2) | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,069 (Ranked 127)  
+Progressed: 14,073 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 5 (0.04%) (Ranked 255)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,069 | 5 |
+| 2023-09-23 | 14,073 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 264)  
 Sum: 1,817 (Ranked 207)  

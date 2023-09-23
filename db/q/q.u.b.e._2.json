@@ -5,9 +5,9 @@
   "Ranking_Rating": 694,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1773,6 +1773,11 @@
       "Time": "2023-09-23T18:05:37.2299518+00:00",
       "NumProgressed": 416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T19:05:28.9566678+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1793,7 +1798,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1801,7 +1806,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -1977,7 +1982,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_S4",
@@ -2001,7 +2006,7 @@
       "Name": "Lost in Space",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_STATUE",
@@ -2016,15 +2021,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:05:37.2299513+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:05:28.9566671+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:00:34.7242153+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:05:37.2300107+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:00:29.8396685+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:05:28.9567058+00:00"
 }

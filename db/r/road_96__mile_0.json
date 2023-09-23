@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 407,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1309,6 +1309,11 @@
       "Time": "2023-09-23T12:03:44.1116269+00:00",
       "NumProgressed": 406,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-23T19:03:49.0006915+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1320,7 +1325,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "completeact2",
@@ -1390,9 +1395,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "scoreminrankrp1",
@@ -1416,7 +1421,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "scoreminrankrv1",
@@ -1432,14 +1437,14 @@
       "Name": "Friendzone",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 2
     }
   ],
@@ -1447,8 +1452,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:04:07.0454375+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:03:49.0006911+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:02:42.775873+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:04:07.0454685+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:02:36.0202012+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:03:49.0007145+00:00"
 }

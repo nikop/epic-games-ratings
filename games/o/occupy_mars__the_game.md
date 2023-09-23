@@ -23,10 +23,10 @@ Rating: 3.99 (Ranked 951)
 | DeDust | 5.00% | ~81 |
 | ITS crash site | 5.00% | ~81 |
 | “Aliens” | 4.00% | ~65 |
+| Hard Landing | 3.00% | ~49 |
 | Plumber | 3.00% | ~49 |
 | To infinity and beyond! | 3.00% | ~49 |
 | Driver's License | 2.00% | ~32 |
-| Hard Landing | 2.00% | ~32 |
 | Explosive Miner | 1.00% | ~16 |
 | Caveman | 1.00% | ~16 |
 | Planetary Defence | 1.00% | ~16 |

@@ -844,9 +844,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:07:31.1779364+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:07:23.2506172+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:32.58523+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:01:12.6136781+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:07:31.1780767+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:01:10.2639572+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:07:23.2506495+00:00"
 }

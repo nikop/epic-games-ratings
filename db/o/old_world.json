@@ -1737,9 +1737,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14069,
+  "EOS_Progressed": 14073,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12057,6 +12057,11 @@
       "Time": "2023-09-23T18:04:34.7285894+00:00",
       "NumProgressed": 14069,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T19:04:27.2539883+00:00",
+      "NumProgressed": 14073,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12202,9 +12207,9 @@
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
       "SetID": "9201eeb",
       "Name": "Blade of the Monkey",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA",
@@ -12434,9 +12439,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -12556,7 +12561,7 @@
       "Name": "Intrepid",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -12644,7 +12649,7 @@
       "Name": "Old",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -12652,7 +12657,7 @@
       "Name": "Peacemaker",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -12980,7 +12985,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -13460,7 +13465,7 @@
       "Name": "Cao\u0027an",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -13692,7 +13697,7 @@
       "Name": "Egypt",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -13724,23 +13729,23 @@
       "Name": "Rome",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
       "SetID": "9201eeb",
       "Name": "Old World Order",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -13914,9 +13919,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -14180,7 +14185,7 @@
       "Name": "All Nations",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -14220,7 +14225,7 @@
       "Name": "No Undo",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -14348,7 +14353,7 @@
       "Name": "The Clergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -14435,21 +14440,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14069,
+      "Progressed": 14073,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14069,
+      "Progressed": 14073,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T18:01:38.9338052+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:04:34.7285889+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:04:27.2539878+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:01:38.9338061+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:04:34.7295943+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:01:35.3015076+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:04:27.2549778+00:00"
 }

@@ -16,7 +16,7 @@ Rating: 4.38 (Ranked 733)
 | Roll with it | 46.00% | ~475 |
 | Humble beginnings | 44.00% | ~455 |
 | Love is in the air | 44.00% | ~455 |
-| Fine, I'll do it myself | 42.00% | ~434 |
+| Fine, I'll do it myself | 43.00% | ~444 |
 | Moving up | 41.00% | ~424 |
 | No need to call anyone | 39.00% | ~403 |
 | Big fortune | 32.00% | ~331 |
@@ -33,7 +33,7 @@ Rating: 4.38 (Ranked 733)
 | King of hospitality | 11.00% | ~114 |
 | Top spot in town | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,033 (Ranked 228)  
+Progressed: 1,033 (Ranked 229)  
 Completed: 15 (1.45%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |

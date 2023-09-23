@@ -7,7 +7,7 @@
 | New arm | 81.00% | ~169 |
 | Shelter Escape | 81.00% | ~169 |
 | The First Bond | 70.00% | ~146 |
-| Novice Scavenger | 62.00% | ~130 |
+| Novice Scavenger | 63.00% | ~132 |
 | Master Craftsman | 51.00% | ~107 |
 | First wall | 49.00% | ~102 |
 | Piggyback Expert | 48.00% | ~100 |
@@ -15,7 +15,7 @@
 | Expert Scavenger | 30.00% | ~63 |
 | Their Rock | 26.00% | ~54 |
 | Yuna's Promise | 25.00% | ~52 |
-| Stone Retriever | 23.00% | ~48 |
+| Stone Retriever | 24.00% | ~50 |
 | Find myself | 21.00% | ~44 |
 | Truebro | 17.00% | ~36 |
 | Min's Promise | 16.00% | ~33 |

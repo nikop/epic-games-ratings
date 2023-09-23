@@ -268,9 +268,9 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 59,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "20",
@@ -404,9 +404,9 @@
       "ID": "9",
       "SetID": "38ide56",
       "Name": "Adventure Bay\u2019s Citizen",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -421,8 +421,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:03:34.8627262+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:03:37.4003946+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:33.5455388+00:00",
-  "LastUpdate_Ratings": "2023-09-23T17:58:12.1386216+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:03:34.8627544+00:00"
+  "LastUpdate_Ratings": "2023-09-23T18:58:04.7241438+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:03:37.4004197+00:00"
 }

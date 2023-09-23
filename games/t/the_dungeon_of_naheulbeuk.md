@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,120 |
-| Where's that freaking Dwarf? | 5.00% | ~11,310 |
-| Alt+F4 | 5.00% | ~11,310 |
-| Déjà vu | 4.00% | ~9,048 |
-| A beer, two curses, three companions | 3.00% | ~6,786 |
-| Sock! SOCK! | 3.00% | ~6,786 |
-| GG EZ | 3.00% | ~6,786 |
-| Speedrun | 3.00% | ~6,786 |
+| Sowwy! | 31.00% | ~70,127 |
+| Where's that freaking Dwarf? | 5.00% | ~11,311 |
+| Alt+F4 | 5.00% | ~11,311 |
+| Déjà vu | 4.00% | ~9,049 |
+| A beer, two curses, three companions | 3.00% | ~6,787 |
+| Sock! SOCK! | 3.00% | ~6,787 |
+| GG EZ | 3.00% | ~6,787 |
+| Speedrun | 3.00% | ~6,787 |
 | Livin' in a dwarven paradise | 2.00% | ~4,524 |
 | Way of the Wimp | 2.00% | ~4,524 |
 | The plot thickens... At the tavern | 2.00% | ~4,524 |
@@ -41,9 +41,9 @@ Number of Ratings: 118  (23.09.2022)
 | Team Building Exercise | 1.00% | ~2,262 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,036 |
 | Lust and Debauchery | 0.80% | ~1,810 |
-| Dead for good | 0.70% | ~1,583 |
-| Gargantua | 0.70% | ~1,583 |
-| Material Girl | 0.70% | ~1,583 |
+| Dead for good | 0.70% | ~1,584 |
+| Gargantua | 0.70% | ~1,584 |
+| Material Girl | 0.70% | ~1,584 |
 | In Navalu's footsteps | 0.60% | ~1,357 |
 | We come in peace | 0.50% | ~1,131 |
 | Lëgal Legend | 0.50% | ~1,131 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~226 |
 | Dwarf Candy | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,193 (Ranked 58)  
+Progressed: 226,217 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 3 (0.00%) (Ranked 291)
 | 2023-09-20 | 225,552 | 3 |
 | 2023-09-21 | 225,765 | 3 |
 | 2023-09-22 | 225,994 | 3 |
-| 2023-09-23 | 226,193 | 3 |
+| 2023-09-23 | 226,217 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 276)  
 Sum: 383 (Ranked 326)  

@@ -2,7 +2,7 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 119,
@@ -634,9 +634,9 @@
       "ID": "Epic_InnerWorld_1",
       "SetID": "ba1m2fc",
       "Name": "Pseudo-redemption",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Epic_KillBoss_25",
@@ -841,8 +841,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-23T18:06:26.3867423+00:00",
+  "LastChanged_Achievements": "2023-09-23T19:06:18.5669562+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:56.0035176+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:00:14.0429177+00:00",
-  "LastUpdate_Achievements": "2023-09-23T18:06:26.3867908+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:00:08.3330945+00:00",
+  "LastUpdate_Achievements": "2023-09-23T19:06:18.5670021+00:00"
 }

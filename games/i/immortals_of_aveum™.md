@@ -5,24 +5,29 @@ Rating: 3.97 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Maybe Engage a Little | 67.00% | ~6 |
-| Enlisted | 67.00% | ~6 |
-| Unforeseen | 56.00% | ~5 |
-| Battlefields Have Memories | 56.00% | ~5 |
-| No More Names | 56.00% | ~5 |
-| Initiate | 44.00% | ~4 |
-| Thrada-Kul | 22.00% | ~2 |
-| Gravity-Challenged Rocks | 22.00% | ~2 |
-| Control is an Illusion | 11.00% | ~1 |
-| Socialite | 11.00% | ~1 |
-| Soldier | 11.00% | ~1 |
-| All the Major Food Groups | 11.00% | ~1 |
-| Beggars Would Ride | 11.00% | ~1 |
-| The Means to Save It | 0.00% | ~0 |
-| Resilience to Sin | 0.00% | ~0 |
-| A Familiar Nest | 0.00% | ~0 |
-| Geas Aristeya | 0.00% | ~0 |
-| A Perfect Cycle | 0.00% | ~0 |
+| Maybe Engage a Little | 70.00% | ~7 |
+| No More Names | 70.00% | ~7 |
+| Enlisted | 70.00% | ~7 |
+| Unforeseen | 60.00% | ~6 |
+| Battlefields Have Memories | 60.00% | ~6 |
+| Initiate | 50.00% | ~5 |
+| Thrada-Kul | 30.00% | ~3 |
+| Gravity-Challenged Rocks | 30.00% | ~3 |
+| Control is an Illusion | 20.00% | ~2 |
+| Socialite | 20.00% | ~2 |
+| Soldier | 20.00% | ~2 |
+| All the Major Food Groups | 20.00% | ~2 |
+| Beggars Would Ride | 20.00% | ~2 |
+| The Means to Save It | 10.00% | ~1 |
+| Resilience to Sin | 10.00% | ~1 |
+| A Familiar Nest | 10.00% | ~1 |
+| Geas Aristeya | 10.00% | ~1 |
+| A Perfect Cycle | 10.00% | ~1 |
+| Armsman | 10.00% | ~1 |
+| Armaments Azure | 10.00% | ~1 |
+| Periapt Cerulean | 10.00% | ~1 |
+| Periapt Alizarin | 10.00% | ~1 |
+| Good Boy | 10.00% | ~1 |
 | Recruit | 0.00% | ~0 |
 | Lights Army | 0.00% | ~0 |
 | Grand Magnus | 0.00% | ~0 |
@@ -32,14 +37,10 @@ Rating: 3.97 (Ranked 960)
 | Witch-Taker | 0.00% | ~0 |
 | Out of Time | 0.00% | ~0 |
 | Scholar | 0.00% | ~0 |
-| Armsman | 0.00% | ~0 |
 | Kitted Out | 0.00% | ~0 |
 | Best Dressed | 0.00% | ~0 |
-| Armaments Azure | 0.00% | ~0 |
 | Armaments Gules | 0.00% | ~0 |
 | Armaments Vert | 0.00% | ~0 |
-| Periapt Cerulean | 0.00% | ~0 |
-| Periapt Alizarin | 0.00% | ~0 |
 | Periapt Viridian | 0.00% | ~0 |
 | Veteran | 0.00% | ~0 |
 | Master of Ultramarine | 0.00% | ~0 |
@@ -51,16 +52,15 @@ Rating: 3.97 (Ranked 960)
 | Treasure Hunter | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 | Backtracker | 0.00% | ~0 |
-| Good Boy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 506)  
+Progressed: 10 (Ranked 503)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 1 | 0 |
 | 2023-09-22 | 3 | 0 |
-| 2023-09-23 | 9 | 0 |
+| 2023-09-23 | 10 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

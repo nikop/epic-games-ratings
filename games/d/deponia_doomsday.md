@@ -25,7 +25,7 @@ Rating: 4.57 (Ranked 450)
 | And everything comes full circle. | 20.00% | ~82 |
 | Masseltov | 19.00% | ~78 |
 | Quickdraw | 15.00% | ~62 |
-| Thuna...? | 14.00% | ~58 |
+| Thuna...? | 15.00% | ~62 |
 | Monstrous Harassment | 14.00% | ~58 |
 | Heading the inverter | 14.00% | ~58 |
 | Blast from the Past | 13.00% | ~53 |
