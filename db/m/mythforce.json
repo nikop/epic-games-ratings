@@ -5,10 +5,10 @@
   "Ranking_Rating": 586,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 356,
-  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -683,9 +683,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3058,
+  "EOS_Progressed": 3060,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5403,6 +5403,11 @@
       "Time": "2023-09-23T20:05:23.4384671+00:00",
       "NumProgressed": 3058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T21:04:31.3954571+00:00",
+      "NumProgressed": 3060,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5447,7 +5452,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5479,7 +5484,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -5503,7 +5508,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -5551,7 +5556,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5575,7 +5580,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5583,7 +5588,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5598,15 +5603,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3058,
+      "Progressed": 3060,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-23T18:02:26.446809+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:05:23.4384665+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:04:31.3954565+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:01:36.0489665+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:05:23.4385466+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:00:32.0682369+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:31.3954925+00:00"
 }

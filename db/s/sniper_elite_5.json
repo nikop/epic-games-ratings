@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3657,
+  "EOS_Progressed": 3658,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6854,6 +6854,11 @@
       "Time": "2023-09-23T18:03:20.0906251+00:00",
       "NumProgressed": 3657,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-23T21:02:20.2773617+00:00",
+      "NumProgressed": 3658,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6889,7 +6894,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6897,7 +6902,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6945,7 +6950,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6959,9 +6964,9 @@
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
       "SetID": "bm6el81",
       "Name": "Master of Secondaries",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -7017,7 +7022,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7033,7 +7038,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7329,7 +7334,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7432,13 +7437,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3608,
+      "Progressed": 3609,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3657,
+      "Progressed": 3658,
       "Completed": 11
     }
   ],
@@ -7446,8 +7451,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:03:33.1206843+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:02:20.2773613+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:59:31.0514545+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:03:33.1208214+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:58:53.4208104+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:02:20.2774588+00:00"
 }

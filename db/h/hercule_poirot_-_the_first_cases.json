@@ -2,13 +2,13 @@
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
   "ProductSlug": "hercule-poirot-the-first-cases-584238",
-  "Ranking_Rating": 762,
+  "Ranking_Rating": 763,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -52,11 +52,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.41,
+  "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:42.6464552+00:00",
@@ -517,6 +517,11 @@
       "Time": "2023-09-20T08:04:08.0953241+00:00",
       "NumProgressed": 427,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T21:04:45.3212404+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -526,9 +531,9 @@
       "ID": "ACH_01",
       "SetID": "72imik0",
       "Name": "The Bracelet",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_010",
@@ -552,15 +557,15 @@
       "Name": "Well-acquainted",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_014",
@@ -568,7 +573,7 @@
       "Name": "Order and Method",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_015",
@@ -576,7 +581,7 @@
       "Name": "Truth from Within",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_016",
@@ -584,7 +589,7 @@
       "Name": "Curious and Beautiful",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_017",
@@ -622,9 +627,9 @@
       "ID": "ACH_020",
       "SetID": "72imik0",
       "Name": "Exquisite Artwork",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_021",
@@ -688,7 +693,7 @@
       "Name": "It Wasn\u2019t a Burglary",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_029",
@@ -718,9 +723,9 @@
       "ID": "ACH_031",
       "SetID": "72imik0",
       "Name": "Angeline Van den Bosch",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_032",
@@ -744,7 +749,7 @@
       "Name": "Comtesse Margaux de Vos",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_035",
@@ -752,15 +757,15 @@
       "Name": "Elizabeth Padget",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_036",
       "SetID": "72imik0",
       "Name": "Ernesto da Silva",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_037",
@@ -776,7 +781,7 @@
       "Name": "Gedeon Demir",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_039",
@@ -800,7 +805,7 @@
       "Name": "Inge Frank",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_041",
@@ -832,15 +837,15 @@
       "Name": "Rehana Piette",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_045",
       "SetID": "72imik0",
       "Name": "Viscount Edwin Van den Bosch",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_046",
@@ -880,7 +885,7 @@
       "Name": "The Family",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_09",
@@ -895,7 +900,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 6
     }
   ],
@@ -903,8 +908,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:05:40.0090833+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:04:45.32124+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.2120388+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:00:34.0066629+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:05:40.0091335+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:59:40.6703514+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:45.321273+00:00"
 }

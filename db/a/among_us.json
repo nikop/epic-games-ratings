@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
     "PcReleaseDate": "2018-06-15T14:36:00+00:00",
@@ -8310,10 +8310,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 21936,
       "NumberOfAwardsMax": 2685
+    },
+    {
+      "Time": "2023-09-23T21:00:35.4867048+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 21939,
+      "NumberOfAwardsMax": 2685
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21936,
+  "NumberOfAwards": 21939,
   "NumberOfAwardsMax": 2685,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8333,7 +8339,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2126
+      "Count": 2128
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8363,7 +8369,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2048
+      "Count": 2049
     },
     {
       "Text": "This game has Competitive Players",
@@ -8401,8 +8407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2023-09-23T18:02:31.477131+00:00",
+  "LastChanged": "2023-09-23T21:00:35.4867046+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:17.7998613+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:01:41.0243723+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:05:38.2850336+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:00:35.4867055+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:43.7709497+00:00"
 }

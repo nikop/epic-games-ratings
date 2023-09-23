@@ -2,20 +2,20 @@
   "ID": "59de74945cc34f96af65e4e238591df7",
   "Name": "Rebel Cops",
   "ProductSlug": "rebel-cops",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-01-24T17:00:00+00:00",
     "PcReleaseDate": "2019-09-17T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2022-11-01T18:31:34.6726492+00:00",
@@ -52,6 +52,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-23T20:59:15.1378188+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -70,8 +76,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:33.7295496+00:00",
   "FirstSeenRating": "2022-11-01T18:31:34.6726487+00:00",
-  "LastChanged": "2023-07-29T03:58:35.1796795+00:00",
+  "LastChanged": "2023-09-23T20:59:15.1378187+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:18.4863274+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:00:01.7436469+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:05:56.0460836+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:59:15.1378195+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:58.9328294+00:00"
 }

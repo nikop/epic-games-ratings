@@ -2,13 +2,13 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 605,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1128,
+  "EOS_Progressed": 1129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -915,6 +915,11 @@
       "Time": "2023-09-23T01:43:55.911164+00:00",
       "NumProgressed": 1128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T21:04:49.4166528+00:00",
+      "NumProgressed": 1129,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1230,7 +1235,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ONEMODULE",
@@ -1278,7 +1283,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "TENPLATINUM",
@@ -1341,7 +1346,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1128,
+      "Progressed": 1129,
       "Completed": 0
     }
   ],
@@ -1349,8 +1354,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:05:44.5820299+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:04:49.4166525+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:25.7086726+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:57:43.8765398+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:05:44.5821193+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:57:26.9975732+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:49.416693+00:00"
 }

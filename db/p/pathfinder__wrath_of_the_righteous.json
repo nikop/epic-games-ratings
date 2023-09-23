@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3776,9 +3776,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11388,
+  "EOS_Progressed": 11390,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12761,6 +12761,11 @@
       "Time": "2023-09-23T20:05:11.4197578+00:00",
       "NumProgressed": 11388,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T21:04:21.4655326+00:00",
+      "NumProgressed": 11390,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12772,7 +12777,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "02_BurningCity",
@@ -12788,7 +12793,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "04_FithCrusade",
@@ -12892,7 +12897,7 @@
       "Name": "Path of the Legend",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "17_Transformation",
@@ -12900,7 +12905,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "18_MythicChoices",
@@ -12908,7 +12913,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "19_EqualToAroden",
@@ -12980,7 +12985,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "29_StrategicVictory",
@@ -13020,7 +13025,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -13076,7 +13081,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "41_PlayfulMood",
@@ -13116,7 +13121,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "46_AllPathsOpen",
@@ -13124,7 +13129,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13180,7 +13185,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "54_DeathByColumn",
@@ -13699,21 +13704,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10170,
+      "Progressed": 10172,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11388,
+      "Progressed": 11390,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-23T09:59:41.2009033+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:05:11.4197571+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:04:21.4655322+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:00:43.1631501+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:05:11.4201549+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:59:49.6895623+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:21.465719+00:00"
 }

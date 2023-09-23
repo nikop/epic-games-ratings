@@ -10,7 +10,7 @@ Rating: 3.97 (Ranked 960)
 | Enlisted | 70.00% | ~7 |
 | Unforeseen | 60.00% | ~6 |
 | Battlefields Have Memories | 60.00% | ~6 |
-| Initiate | 50.00% | ~5 |
+| Initiate | 60.00% | ~6 |
 | Thrada-Kul | 30.00% | ~3 |
 | Gravity-Challenged Rocks | 30.00% | ~3 |
 | Control is an Illusion | 20.00% | ~2 |

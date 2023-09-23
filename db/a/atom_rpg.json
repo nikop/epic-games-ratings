@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2823,9 +2823,9 @@
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 86
     },
     {
       "ID": "WANDERER_1",
@@ -2855,8 +2855,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:05:33.2455559+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:04:39.6154006+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:58:19.9981048+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:05:33.2456945+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:57:56.3886332+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:39.6271287+00:00"
 }

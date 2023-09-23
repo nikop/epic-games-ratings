@@ -22,7 +22,7 @@ Number of Ratings: 54  (23.09.2022)
 | Bustin' nuts | 8.00% | ~98 |
 | Not-so-private Eye | 8.00% | ~98 |
 | Superhuman | 8.00% | ~98 |
-| The Vitinsky Rifle | 6.00% | ~73 |
+| The Vitinsky Rifle | 7.00% | ~86 |
 | Protection racket | 5.00% | ~61 |
 | Secret room | 5.00% | ~61 |
 | Indy | 4.00% | ~49 |

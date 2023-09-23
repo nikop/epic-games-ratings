@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,799 |
-| Jeef Skeejj | 44.00% | ~205,866 |
-| Careful planning | 39.00% | ~182,472 |
-| Second Coming | 33.00% | ~154,400 |
-| Jeef Skagg | 30.00% | ~140,363 |
+| The Shutdown | 66.00% | ~308,801 |
+| Jeef Skeejj | 44.00% | ~205,868 |
+| Careful planning | 39.00% | ~182,474 |
+| Second Coming | 33.00% | ~154,401 |
+| Jeef Skagg | 30.00% | ~140,364 |
 | Mother | 25.00% | ~116,970 |
 | In space, no one can hear you scream | 24.00% | ~112,291 |
-| Chapter I: Echoes | 22.00% | ~102,933 |
-| Excelsior Rule | 22.00% | ~102,933 |
+| Chapter I: Echoes | 22.00% | ~102,934 |
+| Excelsior Rule | 22.00% | ~102,934 |
 | Things persisted in not being what they seemed | 20.00% | ~93,576 |
 | Knightmare Frames | 15.00% | ~70,182 |
 | May His passing cleanse the world | 15.00% | ~70,182 |
@@ -28,9 +28,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,430 |
 | Back to Ganyma | 8.00% | ~37,430 |
 | Kaos Rule | 8.00% | ~37,430 |
-| Admiral Okonkwo | 7.00% | ~32,751 |
-| The Survivalists | 7.00% | ~32,751 |
-| The Tech Specialist | 7.00% | ~32,751 |
+| Admiral Okonkwo | 7.00% | ~32,752 |
+| The Survivalists | 7.00% | ~32,752 |
+| The Tech Specialist | 7.00% | ~32,752 |
 | Chapter V: Memories of None | 6.00% | ~28,073 |
 | Meet your maker | 6.00% | ~28,073 |
 | The Impersonator | 6.00% | ~28,073 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,878 (Ranked 37)  
+Progressed: 467,881 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 18 (0.00%) (Ranked 291)
 | 2023-09-20 | 467,678 | 18 |
 | 2023-09-21 | 467,723 | 18 |
 | 2023-09-22 | 467,804 | 18 |
-| 2023-09-23 | 467,878 | 18 |
+| 2023-09-23 | 467,881 | 18 |
 ## Awards
 Max (Character Customization): 219  (Ranked 268)  
 Sum: 239 (Ranked 363)  

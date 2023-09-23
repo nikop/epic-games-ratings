@@ -6,24 +6,24 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~626,589 |
-| Escaped Asphodel | 80.00% | ~563,226 |
-| Arms Collector | 71.00% | ~499,863 |
-| Friends in High Places | 68.00% | ~478,742 |
+| Escaped Tartarus | 89.00% | ~626,590 |
+| Escaped Asphodel | 80.00% | ~563,227 |
+| Arms Collector | 71.00% | ~499,864 |
+| Friends in High Places | 68.00% | ~478,743 |
 | Escaped Elysium | 66.00% | ~464,662 |
 | Chthonic Colleagues | 63.00% | ~443,541 |
-| Is There No Escape? | 52.00% | ~366,097 |
+| Is There No Escape? | 52.00% | ~366,098 |
 | Death Dealer | 45.00% | ~316,815 |
 | Skelly Slayer | 42.00% | ~295,694 |
-| Well Stocked | 40.00% | ~281,613 |
+| Well Stocked | 40.00% | ~281,614 |
 | Back to Work | 38.00% | ~267,533 |
-| Day-or-Night Trader | 37.00% | ~260,492 |
-| Blessed by the Gods | 37.00% | ~260,492 |
+| Day-or-Night Trader | 37.00% | ~260,493 |
+| Blessed by the Gods | 37.00% | ~260,493 |
 | Urge to Sing | 36.00% | ~253,452 |
 | Blood Bound | 35.00% | ~246,412 |
 | Three-Headed Boy | 32.00% | ~225,291 |
-| River Denizens | 28.00% | ~197,129 |
-| Grown Close | 28.00% | ~197,129 |
+| River Denizens | 28.00% | ~197,130 |
+| Grown Close | 28.00% | ~197,130 |
 | Home Makeover | 27.00% | ~190,089 |
 | The Family Secret | 26.00% | ~183,049 |
 | Had to Happen | 25.00% | ~176,008 |
@@ -56,8 +56,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,161 |
 | Friends Forever | 4.00% | ~28,161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,033 (Ranked 21)  
-Completed: 6,370 (0.90%) (Ranked 138)  
+Progressed: 704,034 (Ranked 21)  
+Completed: 6,370 (0.90%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,7 +212,7 @@ Completed: 6,370 (0.90%) (Ranked 138)
 | 2023-09-20 | 703,848 | 6,363 |
 | 2023-09-21 | 703,905 | 6,366 |
 | 2023-09-22 | 703,961 | 6,367 |
-| 2023-09-23 | 704,033 | 6,370 |
+| 2023-09-23 | 704,034 | 6,370 |
 ## Awards
 Max (Character Customization): 3,275  (Ranked 94)  
 Sum: 7,930 (Ranked 102)  

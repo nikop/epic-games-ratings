@@ -15,7 +15,7 @@ Number of Ratings: 53  (23.09.2022)
 | Seafarer | 53.00% | ~487 |
 | Greed for gold | 43.00% | ~395 |
 | Intangible | 42.00% | ~386 |
-| I'm out of here for a while | 41.00% | ~377 |
+| I'm out of here for a while | 42.00% | ~386 |
 | In a mint condition | 38.00% | ~349 |
 | Licence to Kill | 37.00% | ~340 |
 | Pirates! | 35.00% | ~322 |

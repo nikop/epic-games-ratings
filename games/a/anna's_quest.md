@@ -23,8 +23,8 @@
 | Show me your true self | 40.00% | ~18 |
 | A very special drink | 40.00% | ~18 |
 | Little genius | 40.00% | ~18 |
+| GG | 38.00% | ~17 |
 | No posters allowed | 38.00% | ~17 |
-| GG | 36.00% | ~16 |
 | You've got mail! | 36.00% | ~16 |
 | Close the deal | 33.00% | ~15 |
 | Shattered | 33.00% | ~15 |

@@ -2,9 +2,9 @@
   "ID": "dba7dabb038f40209c6075de144754de",
   "Name": "ZZT!",
   "ProductSlug": "zzt",
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3231,
+  "EOS_Progressed": 3232,
   "EOS_Completed": 143,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 4.43,
+  "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -4796,6 +4796,11 @@
       "Time": "2023-09-23T19:06:59.8676305+00:00",
       "NumProgressed": 3231,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2023-09-23T21:05:29.5097013+00:00",
+      "NumProgressed": 3232,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 5,
@@ -4807,7 +4812,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3231
+      "UsersEstimate": 3232
     },
     {
       "ID": "2",
@@ -4846,7 +4851,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3231,
+      "Progressed": 3232,
       "Completed": 143
     }
   ],
@@ -4854,8 +4859,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:06:32.6798391+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:05:29.5097011+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:40.9652938+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:01:02.1245476+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:06:32.6798998+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:00:04.5910038+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:05:29.5097285+00:00"
 }

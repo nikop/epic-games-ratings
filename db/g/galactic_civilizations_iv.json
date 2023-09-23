@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -906,9 +906,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6681,
+  "EOS_Progressed": 6683,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6366,6 +6366,11 @@
       "Time": "2023-09-23T16:04:50.4124574+00:00",
       "NumProgressed": 6681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T21:04:48.8783865+00:00",
+      "NumProgressed": 6683,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6409,7 +6414,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -6417,7 +6422,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "Control_All_Relics",
@@ -6441,7 +6446,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -6457,7 +6462,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "First_Major_Ally",
@@ -6481,7 +6486,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5211
+      "UsersEstimate": 5213
     },
     {
       "ID": "First_Race_Met",
@@ -6489,7 +6494,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4877
+      "UsersEstimate": 4879
     },
     {
       "ID": "First_Ship_Designed",
@@ -6513,7 +6518,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5211
+      "UsersEstimate": 5213
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6681,7 +6686,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -6697,7 +6702,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6865,7 +6870,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4411
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6873,7 +6878,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "Win_Conquest",
@@ -6929,7 +6934,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Win_Quickly",
@@ -6952,15 +6957,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6681,
+      "Progressed": 6683,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-22T11:59:38.3231569+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:05:44.1661448+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:04:48.8783861+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.9419907+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:00:16.1347967+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:05:44.1663333+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:59:27.0006582+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:48.878473+00:00"
 }

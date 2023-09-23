@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1785,9 +1785,9 @@
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1946,8 +1946,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-19T13:03:28.3019162+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:04:44.1112344+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:03:48.4051354+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:14.2726698+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:59:48.8502948+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:04:44.1112832+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:59:07.8130855+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:03:48.40516+00:00"
 }

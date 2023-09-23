@@ -11,6 +11,7 @@ Rating: 4.50 (Ranked 570)
 | Discovery | 0.50% | ~130 |
 | Solo Capture | 0.50% | ~130 |
 | Back Off | 0.40% | ~104 |
+| Clutch Capture | 0.40% | ~104 |
 | I collect Spores, Molds, and Fungi | 0.40% | ~104 |
 | Cultured | 0.40% | ~104 |
 | Fully Upgraded | 0.40% | ~104 |
@@ -20,7 +21,6 @@ Rating: 4.50 (Ranked 570)
 | Vaporous Expansion | 0.40% | ~104 |
 | Whoopsie | 0.40% | ~104 |
 | Animated | 0.30% | ~78 |
-| Clutch Capture | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
 | Ghostbuster In Training | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |

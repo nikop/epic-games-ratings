@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -754,9 +754,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5866,
+  "EOS_Progressed": 5867,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7759,6 +7759,11 @@
       "Time": "2023-09-23T19:03:43.3438627+00:00",
       "NumProgressed": 5866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T21:03:04.8437361+00:00",
+      "NumProgressed": 5867,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7770,7 +7775,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4634
+      "UsersEstimate": 4635
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7778,7 +7783,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7794,7 +7799,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -7810,7 +7815,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3461
+      "UsersEstimate": 3462
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7818,7 +7823,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -7826,7 +7831,7 @@
       "Name": "Scaling up",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7834,7 +7839,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -8049,13 +8054,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5866,
+      "Progressed": 5867,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5238,
+      "Progressed": 5239,
       "Completed": 112
     }
   ],
@@ -8063,8 +8068,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-22T05:57:43.3886149+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:03:51.4039769+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:03:04.8437358+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.3965529+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:58:30.6491706+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:03:51.4041026+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:58:03.4372745+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:03:04.8437922+00:00"
 }

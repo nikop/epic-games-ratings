@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Travel Streamer | 94.00% | ~89 |
 | Training Simulation | 82.00% | ~78 |
-| Kuku Bird Hunter | 73.00% | ~69 |
+| Kuku Bird Hunter | 74.00% | ~70 |
 | Fashion Connoisseur | 68.00% | ~65 |
 | Storm Traveller | 68.00% | ~65 |
 | Wolf King Killer | 67.00% | ~64 |

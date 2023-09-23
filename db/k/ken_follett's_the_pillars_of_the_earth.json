@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15365,
+  "EOS_Progressed": 15367,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10702,6 +10702,11 @@
       "Time": "2023-09-23T19:05:06.497737+00:00",
       "NumProgressed": 15365,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-23T21:04:07.2482761+00:00",
+      "NumProgressed": 15367,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10713,7 +10718,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "tpote_achievement_10",
@@ -10753,7 +10758,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "tpote_achievement_15",
@@ -10801,7 +10806,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "tpote_achievement_20",
@@ -10857,7 +10862,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "tpote_achievement_27",
@@ -10897,7 +10902,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "tpote_achievement_31",
@@ -10977,7 +10982,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "tpote_achievement_40",
@@ -11025,7 +11030,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3380
+      "UsersEstimate": 3381
     },
     {
       "ID": "tpote_achievement_9",
@@ -11040,15 +11045,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15365,
+      "Progressed": 15367,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:04:54.9757077+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:04:07.2482757+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:58:30.3935427+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:04:54.9758232+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:58:03.3038777+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:04:07.2483509+00:00"
 }

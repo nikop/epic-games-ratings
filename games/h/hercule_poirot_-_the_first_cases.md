@@ -1,46 +1,46 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 762)  
+Rating: 4.35 (Ranked 763)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 90.00% | ~384 |
+| It Wasn’t a Burglary | 90.00% | ~385 |
 | Luc Piette | 76.00% | ~325 |
-| Angeline Van den Bosch | 74.00% | ~316 |
-| Elizabeth Padget | 70.00% | ~299 |
-| Little Grey Cells | 69.00% | ~295 |
-| The Bracelet | 66.00% | ~282 |
+| Angeline Van den Bosch | 73.00% | ~312 |
+| Elizabeth Padget | 70.00% | ~300 |
+| Little Grey Cells | 68.00% | ~291 |
+| The Bracelet | 65.00% | ~278 |
 | The Blackmail | 55.00% | ~235 |
 | Major Felix Hagen | 55.00% | ~235 |
 | Fine-toothed Comb | 54.00% | ~231 |
 | Florette Duval | 54.00% | ~231 |
-| Order and Method | 53.00% | ~226 |
+| Order and Method | 53.00% | ~227 |
 | The Altercation | 50.00% | ~214 |
-| Truth from Within | 49.00% | ~209 |
+| Truth from Within | 49.00% | ~210 |
 | The Major | 47.00% | ~201 |
-| Curious and Beautiful | 45.00% | ~192 |
-| Comtesse Margaux de Vos | 45.00% | ~192 |
+| Curious and Beautiful | 45.00% | ~193 |
+| Comtesse Margaux de Vos | 45.00% | ~193 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~188 |
 | The Interrogations | 44.00% | ~188 |
-| Well-acquainted | 42.00% | ~179 |
+| Well-acquainted | 42.00% | ~180 |
 | Zakariya Demir | 41.00% | ~175 |
 | Well-read | 39.00% | ~167 |
 | Cassandra Van den Bosch | 37.00% | ~158 |
 | The Secret | 37.00% | ~158 |
-| Gedeon Demir | 35.00% | ~149 |
-| Rehana Piette | 34.00% | ~145 |
+| Gedeon Demir | 35.00% | ~150 |
+| Rehana Piette | 34.00% | ~146 |
 | Instinct is Marvellous | 33.00% | ~141 |
-| Ernesto da Silva | 33.00% | ~141 |
-| Inge Frank | 31.00% | ~132 |
+| Ernesto da Silva | 32.00% | ~137 |
+| Inge Frank | 31.00% | ~133 |
 | Hugo Beckers | 30.00% | ~128 |
 | The Search | 30.00% | ~128 |
-| The Family | 27.00% | ~115 |
+| The Family | 27.00% | ~116 |
 | Well-travelled | 26.00% | ~111 |
 | Thinking of Everything | 26.00% | ~111 |
-| Exquisite Artwork | 26.00% | ~111 |
-| Viscount Edwin Van den Bosch | 26.00% | ~111 |
+| Exquisite Artwork | 25.00% | ~107 |
 | Archibald Sterling | 25.00% | ~107 |
+| Viscount Edwin Van den Bosch | 25.00% | ~107 |
 | Well-prepared | 21.00% | ~90 |
 | The Truth | 21.00% | ~90 |
 | Sunken Secrets | 18.00% | ~77 |
@@ -52,8 +52,8 @@ Rating: 4.35 (Ranked 762)
 | Room with a View | 7.00% | ~30 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 274)  
-Completed: 6 (1.41%) (Ranked 115)  
+Progressed: 428 (Ranked 273)  
+Completed: 6 (1.40%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,6 +119,7 @@ Completed: 6 (1.41%) (Ranked 115)
 | 2023-09-18 | 425 | 6 |
 | 2023-09-19 | 426 | 6 |
 | 2023-09-20 | 427 | 6 |
+| 2023-09-23 | 428 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

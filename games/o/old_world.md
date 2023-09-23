@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 6.00% | ~844 |
-| Settler | 6.00% | ~844 |
-| Play a Single Player Game | 6.00% | ~844 |
+| Explorer | 6.00% | ~845 |
+| Settler | 6.00% | ~845 |
+| Play a Single Player Game | 6.00% | ~845 |
 | Intrepid | 5.00% | ~704 |
 | Friendly Family | 5.00% | ~704 |
 | The Clergy | 5.00% | ~704 |
@@ -50,33 +50,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 3.00% | ~422 |
 | Naming Landmarks | 3.00% | ~422 |
 | The Great Mage | 3.00% | ~422 |
-| Regicide | 2.00% | ~281 |
-| Hanging Gardens in Babylon | 2.00% | ~281 |
-| Beloved | 2.00% | ~281 |
-| Drillmaster | 2.00% | ~281 |
-| Great | 2.00% | ~281 |
-| Intercessor | 2.00% | ~281 |
-| Mighty | 2.00% | ~281 |
-| Valiant | 2.00% | ~281 |
-| Legendary Cities | 2.00% | ~281 |
-| Just Difficulty | 2.00% | ~281 |
-| Artisans | 2.00% | ~281 |
-| Sages | 2.00% | ~281 |
-| Furious Family | 2.00% | ~281 |
-| Acropolis | 2.00% | ~281 |
-| Apadana | 2.00% | ~281 |
-| Colossus | 2.00% | ~281 |
-| Mausoleum | 2.00% | ~281 |
-| Musaeum | 2.00% | ~281 |
-| Necropolis | 2.00% | ~281 |
-| Learn to Play 2 | 2.00% | ~281 |
-| Greece | 2.00% | ~281 |
-| Manichaeism | 2.00% | ~281 |
-| Egyptian Paganism | 2.00% | ~281 |
-| Persian Paganism | 2.00% | ~281 |
-| Mythology | 2.00% | ~281 |
-| Points Victory | 2.00% | ~281 |
-| Poetic Leader | 2.00% | ~281 |
+| Regicide | 2.00% | ~282 |
+| Hanging Gardens in Babylon | 2.00% | ~282 |
+| Beloved | 2.00% | ~282 |
+| Drillmaster | 2.00% | ~282 |
+| Great | 2.00% | ~282 |
+| Intercessor | 2.00% | ~282 |
+| Mighty | 2.00% | ~282 |
+| Valiant | 2.00% | ~282 |
+| Legendary Cities | 2.00% | ~282 |
+| Just Difficulty | 2.00% | ~282 |
+| Artisans | 2.00% | ~282 |
+| Sages | 2.00% | ~282 |
+| Furious Family | 2.00% | ~282 |
+| Acropolis | 2.00% | ~282 |
+| Apadana | 2.00% | ~282 |
+| Colossus | 2.00% | ~282 |
+| Mausoleum | 2.00% | ~282 |
+| Musaeum | 2.00% | ~282 |
+| Necropolis | 2.00% | ~282 |
+| Learn to Play 2 | 2.00% | ~282 |
+| Greece | 2.00% | ~282 |
+| Manichaeism | 2.00% | ~282 |
+| Egyptian Paganism | 2.00% | ~282 |
+| Persian Paganism | 2.00% | ~282 |
+| Mythology | 2.00% | ~282 |
+| Points Victory | 2.00% | ~282 |
+| Poetic Leader | 2.00% | ~282 |
 | Capable | 1.00% | ~141 |
 | Conqueror | 1.00% | ~141 |
 | Devout | 1.00% | ~141 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,074 (Ranked 127)  
+Progressed: 14,078 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 5 (0.04%) (Ranked 255)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,074 | 5 |
+| 2023-09-23 | 14,078 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 264)  
 Sum: 1,817 (Ranked 207)  

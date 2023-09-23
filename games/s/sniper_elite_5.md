@@ -5,8 +5,8 @@ Rating: 4.46 (Ranked 631)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,682 |
-| Confirming Suspicions | 41.00% | ~1,499 |
+| Meeting Resistance | 46.00% | ~1,683 |
+| Confirming Suspicions | 41.00% | ~1,500 |
 | The Kraken Wakes | 36.00% | ~1,317 |
 | It's Starting to Crack | 33.00% | ~1,207 |
 | Change the Channel | 30.00% | ~1,097 |
@@ -31,13 +31,13 @@ Rating: 4.46 (Ranked 631)
 | Skirmisher | 14.00% | ~512 |
 | Die Nussknacker Sweet! | 14.00% | ~512 |
 | Snake in the Grass | 14.00% | ~512 |
-| No Stone Unturned | 13.00% | ~475 |
-| Opposing Force | 13.00% | ~475 |
-| Set Europe Ablaze | 13.00% | ~475 |
+| No Stone Unturned | 13.00% | ~476 |
+| Opposing Force | 13.00% | ~476 |
+| Set Europe Ablaze | 13.00% | ~476 |
 | Precision Is Key | 9.00% | ~329 |
 | My Little Friend | 9.00% | ~329 |
 | Rigged to Blow | 8.00% | ~293 |
-| Herr Today, Gone Tomorrow | 6.00% | ~216 |
+| Herr Today, Gone Tomorrow | 6.00% | ~217 |
 | The Long Game | 5.00% | ~183 |
 | It'll Buff Right Out | 5.00% | ~183 |
 | Don't hold your breath | 5.00% | ~183 |
@@ -69,7 +69,7 @@ Rating: 4.46 (Ranked 631)
 | From Führer Away | 1.00% | ~36 |
 | Alpha | 1.00% | ~36 |
 | Das Familienjuwel | 1.00% | ~36 |
-| Master of Secondaries | 0.80% | ~29 |
+| Master of Secondaries | 0.90% | ~33 |
 | Master of Rifles | 0.80% | ~29 |
 | Master of Pistols | 0.70% | ~26 |
 | Master-at-arms | 0.70% | ~26 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 631)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,657 (Ranked 170)  
+Progressed: 3,658 (Ranked 170)  
 Completed: 11 (0.30%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 11 (0.30%) (Ranked 190)
 | 2023-09-20 | 3,645 | 11 |
 | 2023-09-21 | 3,649 | 11 |
 | 2023-09-22 | 3,652 | 11 |
-| 2023-09-23 | 3,657 | 11 |
+| 2023-09-23 | 3,658 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

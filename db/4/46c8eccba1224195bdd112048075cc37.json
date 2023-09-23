@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -701,6 +701,11 @@
       "Time": "2023-09-23T15:03:59.5227331+00:00",
       "NumProgressed": 150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T21:03:31.8032756+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -728,7 +733,7 @@
       "Name": "Metamorphosis",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CollectCurses",
@@ -768,7 +773,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "FirstBoss",
@@ -782,9 +787,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "FourthBoss",
@@ -830,9 +835,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ReturnShell",
@@ -864,21 +869,21 @@
       "Name": "Flower",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-23T20:04:24.5891099+00:00",
+  "LastChanged_Achievements": "2023-09-23T21:03:31.8032754+00:00",
   "LastUpdate_AppInfo": "2023-09-18T13:57:13.5059028+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:00:12.9058543+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:04:24.589129+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:59:24.0143685+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:03:31.8032896+00:00"
 }

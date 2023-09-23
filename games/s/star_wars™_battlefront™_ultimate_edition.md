@@ -4,78 +4,78 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 84.00% | ~76 |
-| Off to a good start | 61.00% | ~55 |
-| Do... or do not. There is no try | 43.00% | ~39 |
-| A good blaster at your side | 33.00% | ~30 |
-| Great shot, kid! | 33.00% | ~30 |
-| The power of the Force | 27.00% | ~24 |
-| Collector | 26.00% | ~23 |
-| Shoot first | 26.00% | ~23 |
-| I suggest a new strategy | 24.00% | ~22 |
-| Tell Jabba that I've got his money | 23.00% | ~21 |
-| Scrap collector | 20.00% | ~18 |
-| A cunning warrior | 20.00% | ~18 |
-| Judge me by my size, do you? | 19.00% | ~17 |
-| What's the cargo? | 18.00% | ~16 |
-| "Gonk? Gonk!" | 18.00% | ~16 |
-| Never tell me the odds! | 18.00% | ~16 |
-| A tremor in the Force | 17.00% | ~15 |
-| Together we can rule the galaxy | 16.00% | ~14 |
-| Distinguished | 14.00% | ~13 |
-| All right, I'll give it a try | 14.00% | ~13 |
-| Patience you must have | 14.00% | ~13 |
-| Support the troops | 14.00% | ~13 |
-| Survivor | 13.00% | ~12 |
-| I've been waiting for you | 12.00% | ~11 |
-| Determined | 12.00% | ~11 |
-| Best star-pilot in the galaxy | 12.00% | ~11 |
-| Impressive. Most impressive. | 12.00% | ~11 |
-| Not bad for a little furball | 12.00% | ~11 |
-| Don't underestimate the Force | 12.00% | ~11 |
-| When 900 years old you reach... | 11.00% | ~10 |
-| City in the Clouds | 11.00% | ~10 |
-| Precision shot | 10.00% | ~9 |
-| This is a new day, a new beginning | 10.00% | ~9 |
-| What will you become? | 10.00% | ~9 |
-| That's no moon | 9.00% | ~8 |
-| Alternative solution | 9.00% | ~8 |
-| Disturbed tranquility | 8.00% | ~7 |
-| Playing the objective | 7.00% | ~6 |
-| The Force is strong with this one | 7.00% | ~6 |
-| On the ball | 6.00% | ~5 |
-| No such thing as luck | 6.00% | ~5 |
-| You have your moments | 6.00% | ~5 |
-| The circle is now complete | 6.00% | ~5 |
-| Hold the line! | 4.00% | ~4 |
-| Your journey has only started | 4.00% | ~4 |
-| Safety ain't the point of a joyride | 4.00% | ~4 |
-| Do we take prisoners? | 4.00% | ~4 |
-| Onwards! | 4.00% | ~4 |
-| A New Hope | 3.00% | ~3 |
-| Ackbar's Elite | 3.00% | ~3 |
+| New Recruit | 86.00% | ~82 |
+| Off to a good start | 64.00% | ~61 |
+| Do... or do not. There is no try | 45.00% | ~43 |
+| Great shot, kid! | 36.00% | ~34 |
+| A good blaster at your side | 35.00% | ~33 |
+| The power of the Force | 29.00% | ~28 |
+| Collector | 29.00% | ~28 |
+| Shoot first | 29.00% | ~28 |
+| I suggest a new strategy | 28.00% | ~27 |
+| Tell Jabba that I've got his money | 26.00% | ~25 |
+| Scrap collector | 23.00% | ~22 |
+| A cunning warrior | 22.00% | ~21 |
+| What's the cargo? | 21.00% | ~20 |
+| Judge me by my size, do you? | 21.00% | ~20 |
+| Never tell me the odds! | 20.00% | ~19 |
+| "Gonk? Gonk!" | 19.00% | ~18 |
+| A tremor in the Force | 19.00% | ~18 |
+| Together we can rule the galaxy | 19.00% | ~18 |
+| Survivor | 18.00% | ~17 |
+| Distinguished | 17.00% | ~16 |
+| All right, I'll give it a try | 17.00% | ~16 |
+| Support the troops | 17.00% | ~16 |
+| Patience you must have | 16.00% | ~15 |
+| Impressive. Most impressive. | 15.00% | ~14 |
+| Not bad for a little furball | 15.00% | ~14 |
+| I've been waiting for you | 14.00% | ~13 |
+| Determined | 14.00% | ~13 |
+| Best star-pilot in the galaxy | 14.00% | ~13 |
+| City in the Clouds | 14.00% | ~13 |
+| Don't underestimate the Force | 14.00% | ~13 |
+| When 900 years old you reach... | 13.00% | ~12 |
+| That's no moon | 13.00% | ~12 |
+| Precision shot | 12.00% | ~11 |
+| This is a new day, a new beginning | 12.00% | ~11 |
+| What will you become? | 12.00% | ~11 |
+| Disturbed tranquility | 11.00% | ~10 |
+| Alternative solution | 9.00% | ~9 |
+| Playing the objective | 8.00% | ~8 |
+| The Force is strong with this one | 8.00% | ~8 |
+| On the ball | 8.00% | ~8 |
+| You have your moments | 7.00% | ~7 |
+| The circle is now complete | 7.00% | ~7 |
+| Hold the line! | 6.00% | ~6 |
+| No such thing as luck | 6.00% | ~6 |
+| Do we take prisoners? | 6.00% | ~6 |
+| When surrounded by war... | 6.00% | ~6 |
+| A New Hope | 5.00% | ~5 |
+| Your journey has only started | 5.00% | ~5 |
+| Safety ain't the point of a joyride | 5.00% | ~5 |
+| Ackbar's Elite | 5.00% | ~5 |
+| I’ll take that bet | 5.00% | ~5 |
+| Onwards! | 5.00% | ~5 |
+| in a galaxy far, far away.... | 4.00% | ~4 |
+| Stop that Droid | 4.00% | ~4 |
 | Greed can be a very powerful ally | 3.00% | ~3 |
-| When surrounded by war... | 3.00% | ~3 |
-| I’ll take that bet | 3.00% | ~3 |
-| in a galaxy far, far away.... | 2.00% | ~2 |
-| Stop that Droid | 2.00% | ~2 |
+| Don't get cocky | 2.00% | ~2 |
+| Master | 2.00% | ~2 |
+| Stay in attack formation | 2.00% | ~2 |
 | That got him! | 1.00% | ~1 |
 | Stay on target | 1.00% | ~1 |
-| Don't get cocky | 1.00% | ~1 |
-| Master | 1.00% | ~1 |
 | Walker defender | 1.00% | ~1 |
-| Stay in attack formation | 1.00% | ~1 |
 | I never doubted you! | 1.00% | ~1 |
 | Crush them with one swift stroke… | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 385)  
-Completed: 1 (1.11%) (Ranked 123)  
+Progressed: 95 (Ranked 379)  
+Completed: 1 (1.05%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 2 | 0 |
 | 2023-09-22 | 30 | 1 |
-| 2023-09-23 | 90 | 1 |
+| 2023-09-23 | 95 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

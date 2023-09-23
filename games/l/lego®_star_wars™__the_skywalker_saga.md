@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,172 |
-| ''I don't like you either!'' | 79.00% | ~40,862 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,241 |
-| ''Impressive, most impressive'' | 71.00% | ~36,724 |
-| The Phantom Menace | 59.00% | ~30,517 |
-| ''Aggressive Negotiations'' | 58.00% | ~30,000 |
-| ''I can fly anything'' | 57.00% | ~29,483 |
-| ''And who gave you permission...?'' | 53.00% | ~27,414 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,174 |
+| ''I don't like you either!'' | 79.00% | ~40,864 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,243 |
+| ''Impressive, most impressive'' | 71.00% | ~36,725 |
+| The Phantom Menace | 59.00% | ~30,518 |
+| ''Aggressive Negotiations'' | 58.00% | ~30,001 |
+| ''I can fly anything'' | 57.00% | ~29,484 |
+| ''And who gave you permission...?'' | 53.00% | ~27,415 |
 | A New Hope | 48.00% | ~24,828 |
-| Attack of the Clones | 46.00% | ~23,793 |
+| Attack of the Clones | 46.00% | ~23,794 |
 | Revenge of the Sith | 40.00% | ~20,690 |
-| The Empire Strikes Back | 37.00% | ~19,138 |
-| ''A fine addition to my collection'' | 37.00% | ~19,138 |
+| The Empire Strikes Back | 37.00% | ~19,139 |
+| ''A fine addition to my collection'' | 37.00% | ~19,139 |
 | Return of the Jedi | 32.00% | ~16,552 |
-| The Force Awakens | 27.00% | ~13,965 |
+| The Force Awakens | 27.00% | ~13,966 |
 | The Last Jedi | 23.00% | ~11,897 |
 | The Rise of Skywalker | 20.00% | ~10,345 |
 | ''It's true... all of it'' | 19.00% | ~9,828 |
@@ -33,26 +33,26 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''GONK!'' | 3.00% | ~1,552 |
 | ''Hey, what are you trying to push on us?'' | 3.00% | ~1,552 |
 | The Slice | 3.00% | ~1,552 |
-| ''Hello there!'' | 2.00% | ~1,034 |
-| Unknown Regions | 2.00% | ~1,034 |
-| ''Do or do not. There is no try'' | 2.00% | ~1,034 |
-| ''See you around, kid'' | 2.00% | ~1,034 |
-| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~1,034 |
-| Greater Javin | 2.00% | ~1,034 |
-| New Territories | 2.00% | ~1,034 |
-| The Interior | 2.00% | ~1,034 |
-| Western Reaches | 2.00% | ~1,034 |
-| Trailing Sectors | 2.00% | ~1,034 |
-| The Arkanis Sector | 2.00% | ~1,034 |
-| ''A little short for a Stormtrooper...'' | 2.00% | ~1,034 |
-| ''Power! Unlimited power!'' | 2.00% | ~1,034 |
-| ''No more training, do you require'' | 2.00% | ~1,034 |
-| ''You needn't worry about your reward'' | 2.00% | ~1,034 |
-| ''Now I am the Master'' | 2.00% | ~1,034 |
+| ''Hello there!'' | 2.00% | ~1,035 |
+| Unknown Regions | 2.00% | ~1,035 |
+| ''Do or do not. There is no try'' | 2.00% | ~1,035 |
+| ''See you around, kid'' | 2.00% | ~1,035 |
+| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~1,035 |
+| Greater Javin | 2.00% | ~1,035 |
+| New Territories | 2.00% | ~1,035 |
+| The Interior | 2.00% | ~1,035 |
+| Western Reaches | 2.00% | ~1,035 |
+| Trailing Sectors | 2.00% | ~1,035 |
+| The Arkanis Sector | 2.00% | ~1,035 |
+| ''A little short for a Stormtrooper...'' | 2.00% | ~1,035 |
+| ''Power! Unlimited power!'' | 2.00% | ~1,035 |
+| ''No more training, do you require'' | 2.00% | ~1,035 |
+| ''You needn't worry about your reward'' | 2.00% | ~1,035 |
+| ''Now I am the Master'' | 2.00% | ~1,035 |
 | ''Jedi Business'' | 1.00% | ~517 |
 | ''I've never seen a real one!'' | 0.90% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,724 (Ranked 94)  
+Progressed: 51,726 (Ranked 94)  
 Completed: 234 (0.45%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,16 +208,16 @@ Completed: 234 (0.45%) (Ranked 168)
 | 2023-09-20 | 51,708 | 232 |
 | 2023-09-21 | 51,716 | 232 |
 | 2023-09-22 | 51,718 | 233 |
-| 2023-09-23 | 51,724 | 234 |
+| 2023-09-23 | 51,726 | 234 |
 ## Awards
 Max (Great Boss Battles): 2,410  (Ranked 103)  
-Sum: 6,618 (Ranked 118)  
+Sum: 6,619 (Ranked 118)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,410 |
 | This game is Great for Beginners | 500 |
-| This game has Diverse Characters | 498 |
+| This game has Diverse Characters | 499 |
 | This game has Amazing Characters | 486 |
 | This game is Highly Recommended | 468 |
 | This game has Easy Combat | 464 |
@@ -442,4 +442,4 @@ Diff (max vs sum): -15
 | 2023-09-20 | 4.78 | - | 2,406 | 6,608 |
 | 2023-09-21 | 4.78 | - | 2,408 | 6,615 |
 | 2023-09-22 | 4.78 | - | 2,408 | 6,616 |
-| 2023-09-23 | 4.78 | - | 2,410 | 6,618 |
+| 2023-09-23 | 4.78 | - | 2,410 | 6,619 |

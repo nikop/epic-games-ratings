@@ -4,8 +4,8 @@
   "ProductSlug": "imp-of-the-sun",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-24T09:00:00+00:00",
     "PcReleaseDate": "2022-03-24T09:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.0852734+00:00",
   "LastChanged": "2023-03-31T05:57:47.0852735+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:33.4319829+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:00:37.1382389+00:00",
-  "LastUpdate_Achievements": "2023-09-23T20:04:41.0979975+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:59:44.5174239+00:00",
+  "LastUpdate_Achievements": "2023-09-23T21:03:45.9042206+00:00"
 }
