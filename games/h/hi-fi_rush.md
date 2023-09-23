@@ -57,10 +57,10 @@ Rating: 4.85 (Ranked 41)
 | With our powers combined…and to the rhythm… | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |
 | And the crowd goes wild! | 0.20% | ~8 |
+| I can't see this ever being a problem again | 0.20% | ~8 |
 | I am a good person who likes to help | 0.20% | ~8 |
 | That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
-| I can't see this ever being a problem again | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
 | Fully Powered Up! | 0.10% | ~4 |
 | I have to read ALL of these things? | 0.10% | ~4 |

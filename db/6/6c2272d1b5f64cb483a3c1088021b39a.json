@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1069,
+  "EOS_Progressed": 1070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3556,6 +3556,11 @@
       "Time": "2023-09-23T12:05:50.3175013+00:00",
       "NumProgressed": 1069,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T17:05:09.7087938+00:00",
+      "NumProgressed": 1070,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3663,7 +3668,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "collector_2",
@@ -3735,7 +3740,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "elemental_stones_2",
@@ -3999,7 +4004,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "soul_shards_2",
@@ -4094,14 +4099,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1069,
+      "Progressed": 1070,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:04:45.4705735+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:05:09.7087936+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:16.2179467+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:58:22.2921316+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:04:45.4706643+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:58:39.5920523+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:05:09.7088589+00:00"
 }

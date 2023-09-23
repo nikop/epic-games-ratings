@@ -4,7 +4,7 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 569,
   "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 362,
+  "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 109,
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467863,
+  "EOS_Progressed": 467864,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16969,6 +16969,11 @@
       "Time": "2023-09-23T16:04:35.7103688+00:00",
       "NumProgressed": 467863,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-23T17:04:59.6337721+00:00",
+      "NumProgressed": 467864,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16980,7 +16985,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70179
+      "UsersEstimate": 70180
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -16988,7 +16993,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70179
+      "UsersEstimate": 70180
     },
     {
       "ID": "achievement_first_death",
@@ -17012,7 +17017,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70179
+      "UsersEstimate": 70180
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -17148,7 +17153,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70179
+      "UsersEstimate": 70180
     },
     {
       "ID": "achievement_story_neon_child",
@@ -17611,21 +17616,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11797,
+      "Progressed": 11798,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467863,
+      "Progressed": 467864,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:04:35.7103683+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:04:59.6337717+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.1528174+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:00:29.5754422+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:04:35.7105655+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:00:51.5013019+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:04:59.6339138+00:00"
 }

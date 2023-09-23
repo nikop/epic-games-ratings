@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.5,
+  "EOS_Completed_Percentage": 5.47,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -929,6 +929,11 @@
       "Time": "2023-09-23T16:08:16.7634729+00:00",
       "NumProgressed": 200,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-23T17:09:04.117913+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 25,
@@ -938,9 +943,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "END_GOOD",
@@ -994,25 +999,25 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1026,9 +1031,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1058,9 +1063,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1084,7 +1089,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1130,23 +1135,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:08:16.7634725+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:09:04.1179126+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:02:04.6286983+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:08:16.7634948+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:03:04.6673113+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:09:04.117933+00:00"
 }

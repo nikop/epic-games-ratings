@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.21 (Ranked 862)  
+Rating: 4.21 (Ranked 863)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -44,6 +44,7 @@ Number of Ratings: 37  (23.09.2022)
 | Saint Florian | 3.00% | ~129 |
 | My precious... I | 3.00% | ~129 |
 | Cosmas and Damian | 3.00% | ~129 |
+| Builder III | 3.00% | ~129 |
 | Tools of the trade II | 3.00% | ~129 |
 | The Art of War | 2.00% | ~86 |
 | Five brews are a schnitzel | 2.00% | ~86 |
@@ -51,7 +52,6 @@ Number of Ratings: 37  (23.09.2022)
 | The King's new clothes III | 2.00% | ~86 |
 | My precious... II | 2.00% | ~86 |
 | My precious... III | 2.00% | ~86 |
-| Builder III | 2.00% | ~86 |
 | Completionist II | 2.00% | ~86 |
 | Genius | 2.00% | ~86 |
 | I've been everywhere V | 2.00% | ~86 |

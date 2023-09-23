@@ -5,22 +5,22 @@ Rating: 4.60 (Ranked 399)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 29.00% | ~257 |
+| Time Heals All Wounds | 29.00% | ~258 |
 | Rail Rat | 24.00% | ~213 |
 | The Mysterious Stranger | 23.00% | ~204 |
 | Immaculate Aim | 21.00% | ~186 |
-| Make Up For Lost Time | 20.00% | ~177 |
-| Time Flies | 20.00% | ~177 |
-| The Prince in Heels | 20.00% | ~177 |
-| The Brass Boss | 20.00% | ~177 |
+| Make Up For Lost Time | 20.00% | ~178 |
+| Time Flies | 20.00% | ~178 |
+| The Prince in Heels | 20.00% | ~178 |
+| The Brass Boss | 20.00% | ~178 |
 | The Steel Shadow | 19.00% | ~169 |
 | The Harder They Fall | 19.00% | ~169 |
 | No, Thanks! | 19.00% | ~169 |
 | Breaking Down Barriers | 19.00% | ~169 |
+| The Wicked Twins | 19.00% | ~169 |
 | Honest Mistake | 19.00% | ~169 |
 | Fast Learner | 19.00% | ~169 |
 | Immaculate Aim | 19.00% | ~169 |
-| The Wicked Twins | 18.00% | ~160 |
 | Right On Time | 17.00% | ~151 |
 | Like Clockwork | 17.00% | ~151 |
 | The Betrayer | 17.00% | ~151 |
@@ -33,7 +33,7 @@ Rating: 4.60 (Ranked 399)
 | Cartographer | 15.00% | ~133 |
 | Treasure Trove | 14.00% | ~124 |
 | Whiz Kid | 13.00% | ~115 |
-| Good Neighbor | 12.00% | ~106 |
+| Good Neighbor | 12.00% | ~107 |
 | Chaincrawler Explorer | 11.00% | ~98 |
 | Family Memories | 11.00% | ~98 |
 | Sump Explorer | 10.00% | ~89 |
@@ -49,7 +49,7 @@ Rating: 4.60 (Ranked 399)
 | Golem Hunter | 6.00% | ~53 |
 | Clovemary for Remembering | 5.00% | ~44 |
 | Rungs Was Right | 5.00% | ~44 |
-| Hexlock for Protection | 4.00% | ~35 |
+| Hexlock for Protection | 4.00% | ~36 |
 | Wunderkind | 2.00% | ~18 |
 | Fitting In | 2.00% | ~18 |
 | Thinking Two Steps Ahead | 1.00% | ~9 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 399)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887 (Ranked 234)  
+Progressed: 888 (Ranked 234)  
 Completed: 5 (0.56%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 5 (0.56%) (Ranked 155)
 | 2023-09-20 | 882 | 5 |
 | 2023-09-21 | 885 | 5 |
 | 2023-09-22 | 887 | 5 |
+| 2023-09-23 | 888 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

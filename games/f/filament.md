@@ -5,9 +5,9 @@ Rating: 4.32 (Ranked 787)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~189,938 |
-| Snooper. | 10.00% | ~20,206 |
-| You have to start somewhere, right? | 7.00% | ~14,144 |
+| Boarded! | 94.00% | ~189,944 |
+| Snooper. | 10.00% | ~20,207 |
+| You have to start somewhere, right? | 7.00% | ~14,145 |
 | So you're saying I don't touch these ones? | 6.00% | ~12,124 |
 | Corrupted. | 5.00% | ~10,103 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~10,103 |
@@ -25,8 +25,8 @@ Rating: 4.32 (Ranked 787)
 | They're like really flat pillars. | 2.00% | ~4,041 |
 | That's a wrap. | 2.00% | ~4,041 |
 | In balance. | 2.00% | ~4,041 |
-| Cockpit | 0.80% | ~1,616 |
-| Witness it. | 0.80% | ~1,616 |
+| Cockpit | 0.80% | ~1,617 |
+| Witness it. | 0.80% | ~1,617 |
 | Bridge crossed. | 0.70% | ~1,414 |
 | Names to faces. | 0.70% | ~1,414 |
 | A full deck. | 0.60% | ~1,212 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 787)
 | Snooper + | 0.50% | ~1,010 |
 | Corrupted + | 0.40% | ~808 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,062 (Ranked 63)  
+Progressed: 202,068 (Ranked 63)  
 Completed: 504 (0.25%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,16 +191,16 @@ Completed: 504 (0.25%) (Ranked 197)
 | 2023-09-20 | 201,856 | 503 |
 | 2023-09-21 | 201,929 | 504 |
 | 2023-09-22 | 201,995 | 504 |
-| 2023-09-23 | 202,062 | 504 |
+| 2023-09-23 | 202,068 | 504 |
 ## Awards
 Max (Challenging Puzzles): 562  (Ranked 194)  
-Sum: 676 (Ranked 284)  
+Sum: 677 (Ranked 284)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 562 |
+| This game is Highly Recommended | 25 |
 | This game has Amazing Characters | 25 |
-| This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Amazing Storytelling | 21 |
 | This game is Educational | 21 |
@@ -236,3 +236,4 @@ Diff (max vs sum): -90
 | 2023-08-12 | 4.32 | 560 | 674 |
 | 2023-08-19 | 4.32 | 561 | 675 |
 | 2023-09-21 | 4.32 | 562 | 676 |
+| 2023-09-23 | 4.32 | 562 | 677 |

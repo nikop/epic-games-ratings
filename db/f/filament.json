@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -199,10 +199,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 676,
       "NumberOfAwardsMax": 562
+    },
+    {
+      "Time": "2023-09-23T16:57:23.9604775+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 677,
+      "NumberOfAwardsMax": 562
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 676,
+  "NumberOfAwards": 677,
   "NumberOfAwardsMax": 562,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -216,7 +222,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -249,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202062,
+  "EOS_Progressed": 202068,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -17109,6 +17115,11 @@
       "Time": "2023-09-23T16:06:23.5667174+00:00",
       "NumProgressed": 202062,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-09-23T17:06:49.9768954+00:00",
+      "NumProgressed": 202068,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 29,
@@ -17144,7 +17155,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 189938
+      "UsersEstimate": 189944
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17176,7 +17187,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -17304,7 +17315,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20206
+      "UsersEstimate": 20207
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -17320,7 +17331,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14144
+      "UsersEstimate": 14145
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -17328,7 +17339,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -17351,16 +17362,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202062,
+      "Progressed": 202068,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-09-21T07:00:54.1408564+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:06:23.566717+00:00",
+  "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:06:49.9768949+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.1014806+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:57:08.7847086+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:06:23.5668496+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:57:23.9604778+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:06:49.9769881+00:00"
 }

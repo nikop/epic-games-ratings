@@ -8004,9 +8004,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297168,
+  "EOS_Progressed": 297172,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24899,6 +24899,11 @@
       "Time": "2023-09-23T16:05:55.4142191+00:00",
       "NumProgressed": 297168,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-23T17:06:21.8747723+00:00",
+      "NumProgressed": 297172,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24982,7 +24987,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23773
+      "UsersEstimate": 23774
     },
     {
       "ID": "PFA_19",
@@ -25030,7 +25035,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35660
+      "UsersEstimate": 35661
     },
     {
       "ID": "PFA_24",
@@ -25094,7 +25099,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32688
+      "UsersEstimate": 32689
     },
     {
       "ID": "PFA_31",
@@ -25190,7 +25195,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14858
+      "UsersEstimate": 14859
     },
     {
       "ID": "PFA_42",
@@ -25214,7 +25219,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23773
+      "UsersEstimate": 23774
     },
     {
       "ID": "PFA_45",
@@ -25254,7 +25259,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32688
+      "UsersEstimate": 32689
     },
     {
       "ID": "PFA_9",
@@ -25269,7 +25274,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297168,
+      "Progressed": 297172,
       "Completed": 476
     }
   ],
@@ -25277,8 +25282,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-23T11:00:38.6122149+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:05:55.4142186+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:06:21.8747719+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:59:20.56414+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:05:55.4143534+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:59:41.7544944+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:06:21.8748799+00:00"
 }

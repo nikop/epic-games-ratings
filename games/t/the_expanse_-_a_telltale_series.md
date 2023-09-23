@@ -5,38 +5,38 @@ Rating: 4.54 (Ranked 506)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,976 |
-| Stogie for Fogey | 27.00% | ~3,253 |
-| Captain Drummer | 26.00% | ~3,132 |
-| Martian Music | 25.00% | ~3,012 |
-| Celebrations are in Order | 25.00% | ~3,012 |
-| Spore Taste | 24.00% | ~2,891 |
-| The Pit and the Pirates | 22.00% | ~2,650 |
-| Drone Dodger | 21.00% | ~2,530 |
-| Doctor Approved | 19.00% | ~2,289 |
-| Thorston Mayer | 14.00% | ~1,687 |
-| Bottoms up! | 11.00% | ~1,325 |
-| Bosmang | 11.00% | ~1,325 |
-| Data Archivist | 8.00% | ~964 |
-| Call it Even | 8.00% | ~964 |
-| Data Logger | 7.00% | ~843 |
-| Heal Thy Medic | 7.00% | ~843 |
-| Khan's Revenge | 6.00% | ~723 |
-| Data Master | 6.00% | ~723 |
-| Data Recoverer | 5.00% | ~602 |
-| Miraculous Maya | 4.00% | ~482 |
-| Debris Spree | 3.00% | ~361 |
-| Urshanabi Hoarder | 2.00% | ~241 |
-| Brother's Reaper | 2.00% | ~241 |
-| No Belter Left Behind | 2.00% | ~241 |
-| Grave Robber | 2.00% | ~241 |
-| Data Miner | 1.00% | ~120 |
+| Impossible Objects | 33.00% | ~3,985 |
+| Stogie for Fogey | 27.00% | ~3,261 |
+| Captain Drummer | 26.00% | ~3,140 |
+| Martian Music | 25.00% | ~3,019 |
+| Celebrations are in Order | 25.00% | ~3,019 |
+| Spore Taste | 24.00% | ~2,898 |
+| The Pit and the Pirates | 22.00% | ~2,657 |
+| Drone Dodger | 21.00% | ~2,536 |
+| Doctor Approved | 19.00% | ~2,294 |
+| Thorston Mayer | 14.00% | ~1,691 |
+| Bottoms up! | 11.00% | ~1,328 |
+| Bosmang | 11.00% | ~1,328 |
+| Data Archivist | 8.00% | ~966 |
+| Call it Even | 8.00% | ~966 |
+| Data Logger | 7.00% | ~845 |
+| Heal Thy Medic | 7.00% | ~845 |
+| Khan's Revenge | 7.00% | ~845 |
+| Data Master | 6.00% | ~725 |
+| Data Recoverer | 5.00% | ~604 |
+| Miraculous Maya | 4.00% | ~483 |
+| Debris Spree | 3.00% | ~362 |
+| Urshanabi Hoarder | 2.00% | ~242 |
+| Brother's Reaper | 2.00% | ~242 |
+| No Belter Left Behind | 2.00% | ~242 |
+| Grave Robber | 2.00% | ~242 |
+| Data Miner | 1.00% | ~121 |
 | Scavenger Star | 0.30% | ~36 |
 | Data Collector | 0.20% | ~24 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,047 (Ranked 131)  
+Progressed: 12,076 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-20 | 11,076 | 0 |
 | 2023-09-21 | 11,365 | 0 |
 | 2023-09-22 | 11,791 | 0 |
-| 2023-09-23 | 12,047 | 0 |
+| 2023-09-23 | 12,076 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

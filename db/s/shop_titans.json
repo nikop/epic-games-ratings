@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6208,9 +6208,9 @@
       "Count": 3751
     }
   ],
-  "EOS_Progressed": 136583,
+  "EOS_Progressed": 136585,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22243,6 +22243,11 @@
       "Time": "2023-09-23T16:04:44.1596347+00:00",
       "NumProgressed": 136583,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-23T17:05:08.3624634+00:00",
+      "NumProgressed": 136585,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22342,7 +22347,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "bigsale03",
@@ -22414,7 +22419,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "chest01",
@@ -22614,7 +22619,7 @@
       "Name": "Power of Love",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "energy03",
@@ -22694,7 +22699,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "fuselegendary",
@@ -22710,7 +22715,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "gemsspent",
@@ -22750,7 +22755,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "gold05",
@@ -23078,7 +23083,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "typeunlock01",
@@ -23149,15 +23154,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136583,
+      "Progressed": 136585,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-23T13:06:07.4334241+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:04:44.1596342+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:05:08.3624627+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:00:05.6157689+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:04:44.1598658+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:00:26.3920159+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:05:08.3626777+00:00"
 }

@@ -1,52 +1,52 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 281)  
+Rating: 4.67 (Ranked 260)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~1,406 |
-| On the Top Step | 84.00% | ~1,270 |
-| Setting up for Success | 74.00% | ~1,119 |
-| Team Orders | 74.00% | ~1,119 |
-| Engineer | 54.00% | ~816 |
-| Familiar Faces | 47.00% | ~711 |
-| Going the Extra Mile | 42.00% | ~635 |
-| Sharing the Love | 38.00% | ~575 |
-| Hitting a Season | 37.00% | ~559 |
-| Challenge Yourself | 32.00% | ~484 |
-| Making History | 32.00% | ~484 |
-| A Dozen Pieces | 30.00% | ~454 |
-| Writing a new Chapter | 25.00% | ~378 |
-| Spring Cleaning | 23.00% | ~348 |
-| Network Success | 22.00% | ~333 |
-| Reduce | 19.00% | ~287 |
-| Ups and Downs | 19.00% | ~287 |
-| Crucial Combo | 18.00% | ~272 |
-| Oil and Water | 17.00% | ~257 |
-| Proving Them Wrong | 17.00% | ~257 |
-| Gathering Dust | 16.00% | ~242 |
-| Hitting a Bullseye | 16.00% | ~242 |
-| Reuse | 16.00% | ~242 |
-| One for the Book | 16.00% | ~242 |
-| Lightning Round the World | 15.00% | ~227 |
-| Tinkerer | 13.00% | ~197 |
-| All in a Weekend's Work | 12.00% | ~181 |
-| Recycle | 12.00% | ~181 |
-| Eagle Eye | 11.00% | ~166 |
-| Undisputed Winner | 11.00% | ~166 |
-| Spinning Around | 11.00% | ~166 |
-| Switcheroo | 10.00% | ~151 |
-| Friendly Competition | 8.00% | ~121 |
-| For all Those Back at the Factory | 7.00% | ~106 |
-| Living up to Expectations | 7.00% | ~106 |
-| Smooth Operator | 7.00% | ~106 |
+| Getting on the Step | 93.00% | ~1,416 |
+| On the Top Step | 85.00% | ~1,295 |
+| Setting up for Success | 74.00% | ~1,127 |
+| Team Orders | 73.00% | ~1,112 |
+| Engineer | 54.00% | ~822 |
+| Familiar Faces | 47.00% | ~716 |
+| Going the Extra Mile | 42.00% | ~640 |
+| Sharing the Love | 38.00% | ~579 |
+| Hitting a Season | 37.00% | ~564 |
+| Challenge Yourself | 32.00% | ~487 |
+| Making History | 32.00% | ~487 |
+| A Dozen Pieces | 30.00% | ~457 |
+| Writing a new Chapter | 25.00% | ~381 |
+| Spring Cleaning | 23.00% | ~350 |
+| Network Success | 22.00% | ~335 |
+| Reduce | 19.00% | ~289 |
+| Ups and Downs | 19.00% | ~289 |
+| Crucial Combo | 18.00% | ~274 |
+| Oil and Water | 17.00% | ~259 |
+| Proving Them Wrong | 17.00% | ~259 |
+| Gathering Dust | 16.00% | ~244 |
+| Hitting a Bullseye | 16.00% | ~244 |
+| Reuse | 16.00% | ~244 |
+| One for the Book | 16.00% | ~244 |
+| Lightning Round the World | 15.00% | ~228 |
+| Tinkerer | 13.00% | ~198 |
+| All in a Weekend's Work | 12.00% | ~183 |
+| Spinning Around | 12.00% | ~183 |
+| Recycle | 12.00% | ~183 |
+| Eagle Eye | 11.00% | ~168 |
+| Undisputed Winner | 10.00% | ~152 |
+| Switcheroo | 10.00% | ~152 |
+| Friendly Competition | 8.00% | ~122 |
+| For all Those Back at the Factory | 7.00% | ~107 |
+| Living up to Expectations | 7.00% | ~107 |
+| Smooth Operator | 7.00% | ~107 |
 | Loyal Bond | 6.00% | ~91 |
 | Peak Performance | 5.00% | ~76 |
-| Hitting a Century | 4.00% | ~60 |
-| Seasoned Rookie | 3.00% | ~45 |
-| Wait, I know you? | 3.00% | ~45 |
-| Filling in the Gaps | 3.00% | ~45 |
+| Hitting a Century | 4.00% | ~61 |
+| Seasoned Rookie | 3.00% | ~46 |
+| Wait, I know you? | 3.00% | ~46 |
+| Filling in the Gaps | 3.00% | ~46 |
 | Media Darling | 2.00% | ~30 |
 | Under the Microscope | 1.00% | ~15 |
 | Saturday Night Drama | 1.00% | ~15 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,512 (Ranked 207)  
+Progressed: 1,523 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-20 | 812 | 0 |
 | 2023-09-21 | 1,052 | 0 |
 | 2023-09-22 | 1,316 | 0 |
-| 2023-09-23 | 1,512 | 0 |
+| 2023-09-23 | 1,523 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -112,4 +112,4 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-19 | 4.67 | 0 | 0 |
 | 2023-09-20 | 4.66 | 0 | 0 |
 | 2023-09-21 | 4.67 | 0 | 0 |
-| 2023-09-23 | 4.66 | 0 | 0 |
+| 2023-09-23 | 4.67 | 0 | 0 |

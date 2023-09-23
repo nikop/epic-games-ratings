@@ -52,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 3.00% | ~422 |
 | Regicide | 2.00% | ~281 |
 | Hanging Gardens in Babylon | 2.00% | ~281 |
-| Beloved | 2.00% | ~281 |
 | Drillmaster | 2.00% | ~281 |
 | Great | 2.00% | ~281 |
 | Intercessor | 2.00% | ~281 |
@@ -76,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 2.00% | ~281 |
 | Points Victory | 2.00% | ~281 |
 | Poetic Leader | 2.00% | ~281 |
+| Beloved | 1.00% | ~141 |
 | Capable | 1.00% | ~141 |
 | Conqueror | 1.00% | ~141 |
 | Devout | 1.00% | ~141 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,066 (Ranked 127)  
+Progressed: 14,067 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 5 (0.04%) (Ranked 255)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,066 | 5 |
+| 2023-09-23 | 14,067 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,816 (Ranked 207)  

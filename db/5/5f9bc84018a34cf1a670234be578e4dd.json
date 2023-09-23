@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 239,
-  "EOS_Completed": 55,
+  "EOS_Completed": 56,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 23.01,
+  "EOS_Completed_Percentage": 23.43,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1201,6 +1201,11 @@
       "Time": "2023-09-23T15:04:01.8375032+00:00",
       "NumProgressed": 239,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-23T17:04:09.2059218+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1211,9 +1216,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "Batteries",
@@ -1325,13 +1330,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 239,
-      "Completed": 55
+      "Completed": 56
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:03:45.8151539+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:04:09.2059213+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:58:36.5461511+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:03:45.8151735+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:58:54.537001+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:04:09.2059357+00:00"
 }

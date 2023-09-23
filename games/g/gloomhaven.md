@@ -1,47 +1,47 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 615)  
+Rating: 4.47 (Ranked 616)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 37.00% | ~1,901 |
-| A normal day in Gloomhaven | 30.00% | ~1,541 |
-| Overkill | 28.00% | ~1,439 |
-| Vaccine Incoming | 27.00% | ~1,387 |
-| Spread the plague | 24.00% | ~1,233 |
-| Get over here! | 21.00% | ~1,079 |
-| Just when I thought I was out... | 17.00% | ~873 |
-| Mine... All Mine... | 16.00% | ~822 |
-| Light of my life | 13.00% | ~668 |
-| Anatomy Lesson | 13.00% | ~668 |
-| You activated my trap card! | 12.00% | ~617 |
-| Augmented rat | 12.00% | ~617 |
-| Obstacle race | 12.00% | ~617 |
-| Doom and gloom | 11.00% | ~565 |
-| Precious! | 9.00% | ~462 |
-| Grizzled veteran | 8.00% | ~411 |
-| Pack leader | 7.00% | ~360 |
-| Pain is your friend | 7.00% | ~360 |
-| Play it again, Sam | 7.00% | ~360 |
-| Black death | 6.00% | ~308 |
-| Who's the Boss? | 5.00% | ~257 |
-| Quad damage | 5.00% | ~257 |
-| Dungeon Veteran | 4.00% | ~206 |
-| The Pro from Dover | 4.00% | ~206 |
-| Pretty lights! | 4.00% | ~206 |
-| Now you see me... | 4.00% | ~206 |
-| Power Up! | 3.00% | ~154 |
+| I'm not dead yet | 38.00% | ~1,965 |
+| A normal day in Gloomhaven | 30.00% | ~1,551 |
+| Overkill | 28.00% | ~1,448 |
+| Vaccine Incoming | 27.00% | ~1,396 |
+| Spread the plague | 25.00% | ~1,292 |
+| Get over here! | 21.00% | ~1,086 |
+| Just when I thought I was out... | 17.00% | ~879 |
+| Mine... All Mine... | 16.00% | ~827 |
+| Light of my life | 13.00% | ~672 |
+| Anatomy Lesson | 13.00% | ~672 |
+| You activated my trap card! | 12.00% | ~620 |
+| Augmented rat | 12.00% | ~620 |
+| Obstacle race | 12.00% | ~620 |
+| Doom and gloom | 11.00% | ~569 |
+| Precious! | 9.00% | ~465 |
+| Grizzled veteran | 8.00% | ~414 |
+| Pack leader | 7.00% | ~362 |
+| Pain is your friend | 7.00% | ~362 |
+| Play it again, Sam | 7.00% | ~362 |
+| Black death | 6.00% | ~310 |
+| Who's the Boss? | 5.00% | ~258 |
+| Quad damage | 5.00% | ~258 |
+| Dungeon Veteran | 4.00% | ~207 |
+| The Pro from Dover | 4.00% | ~207 |
+| Pretty lights! | 4.00% | ~207 |
+| Now you see me... | 4.00% | ~207 |
+| Power Up! | 3.00% | ~155 |
 | I hate portals | 2.00% | ~103 |
 | Merchant of doom | 2.00% | ~103 |
 | Caught off guard | 2.00% | ~103 |
 | Master Assassin | 2.00% | ~103 |
 | Grin and bear it | 2.00% | ~103 |
-| The Sniper | 1.00% | ~51 |
-| An axe to grind | 1.00% | ~51 |
-| Down the hatch | 0.90% | ~46 |
-| An eye for an eye | 0.90% | ~46 |
+| The Sniper | 1.00% | ~52 |
+| An axe to grind | 1.00% | ~52 |
+| Down the hatch | 0.90% | ~47 |
+| An eye for an eye | 0.90% | ~47 |
 | How to train your Drake | 0.80% | ~41 |
 | Add a bit of colour | 0.70% | ~36 |
 | The Rat King | 0.70% | ~36 |
@@ -52,10 +52,10 @@ Number of Ratings: 68  (23.09.2022)
 | Betray this | 0.40% | ~21 |
 | Captain hooked | 0.40% | ~21 |
 | A tough job | 0.40% | ~21 |
-| Spoiler police! | 0.30% | ~15 |
-| Pull out the big guns | 0.30% | ~15 |
-| Crimson Tornado | 0.30% | ~15 |
-| Born Support | 0.30% | ~15 |
+| Spoiler police! | 0.30% | ~16 |
+| Pull out the big guns | 0.30% | ~16 |
+| Crimson Tornado | 0.30% | ~16 |
+| Born Support | 0.30% | ~16 |
 | Beware my power | 0.20% | ~10 |
 | The Jaws of victory! | 0.20% | ~10 |
 | A cult following | 0.10% | ~5 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~5 |
 | Murder Death Kill | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,138 (Ranked 161)  
+Progressed: 5,170 (Ranked 160)  
 Completed: 1 (0.02%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 1 (0.02%) (Ranked 265)
 | 2023-09-20 | 3,028 | 0 |
 | 2023-09-21 | 3,873 | 0 |
 | 2023-09-22 | 4,676 | 1 |
-| 2023-09-23 | 5,138 | 1 |
+| 2023-09-23 | 5,170 | 1 |
 ## Awards
 Max (Character Customization): 3,532  (Ranked 89)  
 Sum: 8,219 (Ranked 99)  

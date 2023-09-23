@@ -10,7 +10,7 @@
 | Freshen Up | 61.00% | ~54 |
 | GG EZ | 60.00% | ~53 |
 | Hydrophobia | 45.00% | ~40 |
-| Ka-Ching! | 36.00% | ~32 |
+| Ka-Ching! | 37.00% | ~33 |
 | Stop Right There | 31.00% | ~28 |
 | Get to the Point | 30.00% | ~27 |
 | Mr. Want It All | 19.00% | ~17 |
@@ -24,13 +24,13 @@
 | Keep it Up, rookie! | 8.00% | ~7 |
 | he Ultra Fortress Conqueror | 7.00% | ~6 |
 | Antaeus | 7.00% | ~6 |
+| The Sunken City Conqueror | 6.00% | ~5 |
 | The Deep Frozen Conqueror | 6.00% | ~5 |
 | The Infinite Train Conqueror | 6.00% | ~5 |
 | The Paradox Coordinate Conqueror | 6.00% | ~5 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~5 |
 | Hell of a Fight | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
-| The Sunken City Conqueror | 4.00% | ~4 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~4 |
 | The Inactivated Frozen Conqueror | 4.00% | ~4 |
 | Death Bringer Conqueror | 4.00% | ~4 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 385)  
+Progressed: 89 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

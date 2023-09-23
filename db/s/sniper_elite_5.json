@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3655,
+  "EOS_Progressed": 3656,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6844,6 +6844,11 @@
       "Time": "2023-09-23T13:08:16.6162217+00:00",
       "NumProgressed": 3655,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-23T17:03:24.6759625+00:00",
+      "NumProgressed": 3656,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6911,7 +6916,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6935,7 +6940,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6975,7 +6980,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7079,7 +7084,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7191,7 +7196,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7223,7 +7228,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7247,7 +7252,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7422,13 +7427,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3606,
+      "Progressed": 3607,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3655,
+      "Progressed": 3656,
       "Completed": 11
     }
   ],
@@ -7436,8 +7441,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:02:20.8104651+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:03:24.6759621+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:58:57.3931781+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:02:20.8106268+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:59:16.1777595+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:03:24.6760515+00:00"
 }

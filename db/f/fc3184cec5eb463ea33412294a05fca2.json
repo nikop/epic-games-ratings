@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.66,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1106,6 +1106,11 @@
       "Time": "2023-09-23T13:12:51.3112244+00:00",
       "NumProgressed": 260,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-23T17:06:42.6900387+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 16,
@@ -1133,7 +1138,7 @@
       "Name": "Cruise ship",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1157,7 +1162,7 @@
       "Name": "High-rise",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1227,31 +1232,31 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:06:16.2836668+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:06:42.6900382+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:58:30.5871923+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:06:16.2836851+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:58:47.5104067+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:06:42.6900517+00:00"
 }

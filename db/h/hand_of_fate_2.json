@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662480,
+  "EOS_Progressed": 662481,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15648,6 +15648,11 @@
       "Time": "2023-09-23T16:04:22.3402971+00:00",
       "NumProgressed": 662480,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-23T17:04:46.180648+00:00",
+      "NumProgressed": 662481,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15667,7 +15672,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384238
+      "UsersEstimate": 384239
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -15675,7 +15680,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152370
+      "UsersEstimate": 152371
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -15795,7 +15800,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152370
+      "UsersEstimate": 152371
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -16042,15 +16047,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662480,
+      "Progressed": 662481,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:04:22.3402964+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:04:46.1806472+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.7823898+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:59:57.7652217+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:04:22.3404184+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:00:18.9486145+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:04:46.180748+00:00"
 }

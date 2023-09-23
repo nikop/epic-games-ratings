@@ -6,19 +6,20 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,111 |
-| Where's that freaking Dwarf? | 5.00% | ~11,308 |
-| Alt+F4 | 5.00% | ~11,308 |
+| Sowwy! | 31.00% | ~70,116 |
+| Where's that freaking Dwarf? | 5.00% | ~11,309 |
+| Alt+F4 | 5.00% | ~11,309 |
 | Déjà vu | 4.00% | ~9,047 |
 | A beer, two curses, three companions | 3.00% | ~6,785 |
 | Sock! SOCK! | 3.00% | ~6,785 |
 | GG EZ | 3.00% | ~6,785 |
 | Speedrun | 3.00% | ~6,785 |
-| Livin' in a dwarven paradise | 2.00% | ~4,523 |
-| Way of the Wimp | 2.00% | ~4,523 |
-| The plot thickens... At the tavern | 2.00% | ~4,523 |
-| DM intervention | 2.00% | ~4,523 |
-| Fireproof Wizardess | 2.00% | ~4,523 |
+| Livin' in a dwarven paradise | 2.00% | ~4,524 |
+| Way of the Wimp | 2.00% | ~4,524 |
+| The plot thickens... At the tavern | 2.00% | ~4,524 |
+| DM intervention | 2.00% | ~4,524 |
+| Oh, when I'll be level 10... | 2.00% | ~4,524 |
+| Fireproof Wizardess | 2.00% | ~4,524 |
 | Shiny and Crôm | 1.00% | ~2,262 |
 | The demons' feast | 1.00% | ~2,262 |
 | The Great Library | 1.00% | ~2,262 |
@@ -38,8 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,262 |
 | Thieves' Guild Accreditation | 1.00% | ~2,262 |
 | Team Building Exercise | 1.00% | ~2,262 |
-| Oh, when I'll be level 10... | 1.00% | ~2,262 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,035 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,036 |
 | Lust and Debauchery | 0.80% | ~1,809 |
 | Dead for good | 0.70% | ~1,583 |
 | Gargantua | 0.70% | ~1,583 |
@@ -50,8 +50,8 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.40% | ~905 |
 | An old poacher makes the best gamekeeper | 0.40% | ~905 |
 | Law and Order | 0.40% | ~905 |
-| Scholar of the Lands of Fangh | 0.30% | ~678 |
-| It's been a hard day's night | 0.30% | ~678 |
+| Scholar of the Lands of Fangh | 0.30% | ~679 |
+| It's been a hard day's night | 0.30% | ~679 |
 | Friendly fire | 0.20% | ~452 |
 | I'd rather... Just... Sing! | 0.20% | ~452 |
 | The number of the counting shalt be 7 | 0.20% | ~452 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~226 |
 | Dwarf Candy | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,164 (Ranked 58)  
+Progressed: 226,182 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 3 (0.00%) (Ranked 291)
 | 2023-09-20 | 225,552 | 3 |
 | 2023-09-21 | 225,765 | 3 |
 | 2023-09-22 | 225,994 | 3 |
-| 2023-09-23 | 226,164 | 3 |
+| 2023-09-23 | 226,182 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 276)  
 Sum: 383 (Ranked 326)  

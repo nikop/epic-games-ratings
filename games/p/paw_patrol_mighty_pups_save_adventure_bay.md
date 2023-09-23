@@ -15,8 +15,8 @@
 | Paw patrol member | 33.00% | ~9 |
 | Robot Out of Control | 33.00% | ~9 |
 | Break Time | 30.00% | ~8 |
+| Training Day | 30.00% | ~8 |
 | Master of the Rope | 26.00% | ~7 |
-| Training Day | 26.00% | ~7 |
 | The Fastest | 26.00% | ~7 |
 | Clear the Road | 26.00% | ~7 |
 | Never Miss | 22.00% | ~6 |
@@ -26,9 +26,9 @@
 | You Have Been Everywhere | 19.00% | ~5 |
 | Don’t Miss Any | 19.00% | ~5 |
 | Everything Under Control | 15.00% | ~4 |
+| Mountain and Ice | 15.00% | ~4 |
 | A Great Explorer | 11.00% | ~3 |
 | Nothing Can Stop You | 11.00% | ~3 |
-| Mountain and Ice | 11.00% | ~3 |
 | King of the Mountain | 7.00% | ~2 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |

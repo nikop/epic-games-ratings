@@ -1,19 +1,19 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.47 (Ranked 615)  
+Rating: 4.47 (Ranked 616)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,207 |
+| Atom Agent | 99.00% | ~1,208 |
 | One HIT wonder | 35.00% | ~427 |
 | Wanderer | 35.00% | ~427 |
-| One shot, one kill | 28.00% | ~341 |
-| Traveler | 26.00% | ~317 |
+| One shot, one kill | 28.00% | ~342 |
+| Traveler | 25.00% | ~305 |
 | Head Burst | 19.00% | ~232 |
-| Explorer | 18.00% | ~219 |
-| Grave Robber | 18.00% | ~219 |
+| Explorer | 18.00% | ~220 |
+| Grave Robber | 18.00% | ~220 |
 | Double agent | 15.00% | ~183 |
 | Paranoia | 15.00% | ~183 |
 | Kraina Grzybow | 10.00% | ~122 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,219 (Ranked 218)  
+Progressed: 1,220 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-20 | 1,206 | 0 |
 | 2023-09-21 | 1,211 | 0 |
 | 2023-09-22 | 1,216 | 0 |
-| 2023-09-23 | 1,219 | 0 |
+| 2023-09-23 | 1,220 | 0 |
 ## Awards
 Max (Character Customization): 50  (Ranked 407)  
 Sum: 50 (Ranked 458)  

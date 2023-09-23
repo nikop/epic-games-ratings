@@ -5,8 +5,8 @@ Rating: 4.02 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,824 |
-| World Map | 79.00% | ~1,549 |
+| Victor | 93.00% | ~1,825 |
+| World Map | 79.00% | ~1,550 |
 | Temple of Eternals | 57.00% | ~1,118 |
 | Prestigious | 54.00% | ~1,059 |
 | Fellowship Power | 42.00% | ~824 |
@@ -15,18 +15,18 @@ Rating: 4.02 (Ranked 946)
 | The game is on | 21.00% | ~412 |
 | Exotic Merchant | 19.00% | ~373 |
 | Dragon Clicker | 18.00% | ~353 |
-| Full Party | 17.00% | ~333 |
-| Inspection | 17.00% | ~333 |
-| Miner Clicker | 17.00% | ~333 |
-| Dragon Master | 16.00% | ~314 |
+| Full Party | 17.00% | ~334 |
+| Inspection | 17.00% | ~334 |
+| Miner Clicker | 17.00% | ~334 |
 | Enlightenment | 16.00% | ~314 |
+| Dragon Master | 15.00% | ~294 |
 | Hero inspection | 15.00% | ~294 |
 | Lieutenant | 15.00% | ~294 |
+| Milestone collector | 14.00% | ~275 |
 | Mysterious Rock | 14.00% | ~275 |
 | Natural Talent | 14.00% | ~275 |
 | Superior | 14.00% | ~275 |
 | The Unstoppable | 14.00% | ~275 |
-| Milestone collector | 13.00% | ~255 |
 | Scientist | 12.00% | ~235 |
 | The power of Awakening | 12.00% | ~235 |
 | Challenger | 11.00% | ~216 |
@@ -39,10 +39,10 @@ Rating: 4.02 (Ranked 946)
 | Scroll Master | 11.00% | ~216 |
 | Four Leaf Clover | 10.00% | ~196 |
 | Frostfire Liberator | 10.00% | ~196 |
-| Here We Go Again | 9.00% | ~176 |
-| Master Enchanter | 9.00% | ~176 |
-| The father of Dragons | 9.00% | ~176 |
-| Trader | 9.00% | ~176 |
+| Here We Go Again | 9.00% | ~177 |
+| Master Enchanter | 9.00% | ~177 |
+| The father of Dragons | 9.00% | ~177 |
+| Trader | 9.00% | ~177 |
 | Crystal Mining | 8.00% | ~157 |
 | Dragon Slayer | 8.00% | ~157 |
 | Enchanting skill | 8.00% | ~157 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 946)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,961 (Ranked 195)  
+Progressed: 1,962 (Ranked 195)  
 Completed: 2 (0.10%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 2 (0.10%) (Ranked 232)
 | 2023-09-20 | 1,954 | 2 |
 | 2023-09-21 | 1,957 | 2 |
 | 2023-09-22 | 1,958 | 2 |
-| 2023-09-23 | 1,961 | 2 |
+| 2023-09-23 | 1,962 | 2 |
 ## Awards
 Max (Great for Beginners): 22  (Ranked 505)  
 Sum: 43 (Ranked 465)  

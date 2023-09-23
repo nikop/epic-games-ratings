@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2250,6 +2250,11 @@
       "Time": "2023-09-22T22:04:25.9089284+00:00",
       "NumProgressed": 887,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T17:04:47.7665025+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2429,7 +2434,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2453,7 +2458,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "MapCompletion1",
@@ -2501,7 +2506,7 @@
       "Name": "Time Flies",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ParryBoss",
@@ -2531,9 +2536,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 169
     },
     {
       "ID": "PidgeDefeated",
@@ -2541,7 +2546,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "RewindDamage1",
@@ -2549,7 +2554,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "RewindParry",
@@ -2661,7 +2666,7 @@
       "Name": "Good Neighbor",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2669,7 +2674,7 @@
       "Name": "The Brass Boss",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2684,7 +2689,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 5
     }
   ],
@@ -2692,8 +2697,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:04:24.0741246+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:04:47.7665021+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:57:34.8666457+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:04:24.0741785+00:00"
+  "LastUpdate_Ratings": "2023-09-23T16:57:49.839623+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:04:47.7665659+00:00"
 }

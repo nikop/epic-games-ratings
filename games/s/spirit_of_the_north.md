@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~47,344 |
-| INFUSED WITH LIGHT | 53.00% | ~36,901 |
-| FOXIN' AROUND | 29.00% | ~20,191 |
-| FETCH | 27.00% | ~18,798 |
-| BLOOMS OF LIGHT | 26.00% | ~18,102 |
-| AWAKEN | 22.00% | ~15,317 |
-| BEST FRIENDS | 22.00% | ~15,317 |
-| ERADICATE | 21.00% | ~14,621 |
-| SPIRIT BARK | 21.00% | ~14,621 |
-| GARDEN OF LIGHT | 18.00% | ~12,532 |
-| SPIRIT FORM | 16.00% | ~11,140 |
-| WRITTEN IN STONE | 16.00% | ~11,140 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~47,348 |
+| INFUSED WITH LIGHT | 53.00% | ~36,904 |
+| FOXIN' AROUND | 29.00% | ~20,193 |
+| FETCH | 27.00% | ~18,800 |
+| BLOOMS OF LIGHT | 26.00% | ~18,104 |
+| AWAKEN | 22.00% | ~15,319 |
+| BEST FRIENDS | 22.00% | ~15,319 |
+| ERADICATE | 21.00% | ~14,622 |
+| SPIRIT BARK | 21.00% | ~14,622 |
+| GARDEN OF LIGHT | 18.00% | ~12,533 |
+| SPIRIT FORM | 16.00% | ~11,141 |
+| WRITTEN IN STONE | 16.00% | ~11,141 |
 | UPROOTING DARKNESS | 15.00% | ~10,444 |
-| WEIGHTLESS | 12.00% | ~8,355 |
+| WEIGHTLESS | 12.00% | ~8,356 |
 | SPIRIT DASH | 11.00% | ~7,659 |
-| OLD COMPANION | 9.00% | ~6,266 |
+| OLD COMPANION | 9.00% | ~6,267 |
 | MATCH MAKER | 8.00% | ~5,570 |
 | PLAGUE DOCTOR | 8.00% | ~5,570 |
 | SPIRITED AWAY | 8.00% | ~5,570 |
 | NORTHERN LIGHTS | 7.00% | ~4,874 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,785 |
 | ANCIENT HISTORY | 3.00% | ~2,089 |
-| NONE FORGOTTEN | 2.00% | ~1,392 |
+| NONE FORGOTTEN | 2.00% | ~1,393 |
 | KINDRED SPIRITS | 0.60% | ~418 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,624 (Ranked 86)  
+Progressed: 69,630 (Ranked 86)  
 Completed: 362 (0.52%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 362 (0.52%) (Ranked 160)
 | 2023-09-20 | 69,388 | 360 |
 | 2023-09-21 | 69,469 | 361 |
 | 2023-09-22 | 69,547 | 362 |
-| 2023-09-23 | 69,624 | 362 |
+| 2023-09-23 | 69,630 | 362 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 486)  
 Sum: 114 (Ranked 415)  

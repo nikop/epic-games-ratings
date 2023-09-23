@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 70,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "EpicACHV_11",
@@ -276,9 +276,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "EpicACHV_15",
@@ -348,9 +348,9 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 70,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "EpicACHV_8",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:05:56.5926137+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:06:23.0788444+00:00",
   "LastUpdate_AppInfo": "2023-09-20T05:57:18.1386225+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:02:05.6840698+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:05:56.5926287+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:03:05.5486144+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:06:23.0788555+00:00"
 }

@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1066,
+  "EOS_Progressed": 1067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1559,6 +1559,11 @@
       "Time": "2023-09-23T14:05:37.2613574+00:00",
       "NumProgressed": 1066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T17:04:49.121057+00:00",
+      "NumProgressed": 1067,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1601,9 +1606,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 192
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1643,7 +1648,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1673,9 +1678,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 192
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1833,9 +1838,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "c7hf6a4",
       "Name": "Next Level",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1889,9 +1894,9 @@
       "ID": "ML_ACHIEVEMENT_41",
       "SetID": "c7hf6a4",
       "Name": "My Work Here Is Done",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -1962,14 +1967,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1066,
+      "Progressed": 1067,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:04:25.537041+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:04:49.1210566+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:00:27.4696035+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:04:25.5371232+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:00:49.2968186+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:04:49.1210967+00:00"
 }

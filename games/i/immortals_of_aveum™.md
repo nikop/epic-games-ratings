@@ -6,11 +6,11 @@ Rating: 3.97 (Ranked 960)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Maybe Engage a Little | 67.00% | ~6 |
+| Enlisted | 67.00% | ~6 |
 | Unforeseen | 56.00% | ~5 |
 | Battlefields Have Memories | 56.00% | ~5 |
 | No More Names | 56.00% | ~5 |
-| Enlisted | 56.00% | ~5 |
-| Initiate | 33.00% | ~3 |
+| Initiate | 44.00% | ~4 |
 | Thrada-Kul | 22.00% | ~2 |
 | Gravity-Challenged Rocks | 22.00% | ~2 |
 | Control is an Illusion | 11.00% | ~1 |

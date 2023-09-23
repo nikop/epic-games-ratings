@@ -990,9 +990,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226164,
+  "EOS_Progressed": 226182,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1697,
+  "EOS_NewPlayers": 1694,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12010,6 +12010,11 @@
       "Time": "2023-09-23T16:03:21.9553025+00:00",
       "NumProgressed": 226164,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T17:03:45.2233829+00:00",
+      "NumProgressed": 226182,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -12021,7 +12026,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "100Fail",
@@ -12053,7 +12058,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "BookCollection",
@@ -12061,7 +12066,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "Chapter1",
@@ -12085,7 +12090,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "Chapter4",
@@ -12421,7 +12426,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11308
+      "UsersEstimate": 11309
     },
     {
       "ID": "DwarfElf15Support",
@@ -12469,7 +12474,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70111
+      "UsersEstimate": 70116
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12493,7 +12498,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "EndGameCursed",
@@ -12517,7 +12522,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11308
+      "UsersEstimate": 11309
     },
     {
       "ID": "FollowBraztok",
@@ -12541,7 +12546,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "KillDungeonLich",
@@ -12613,7 +12618,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "QuestMinstrel",
@@ -12699,9 +12704,9 @@
       "ID": "TeamLevel10",
       "SetID": "50chcgj",
       "Name": "Oh, when I\u0027ll be level 10...",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2262
+      "UsersEstimate": 4524
     },
     {
       "ID": "WizardEpic",
@@ -12717,28 +12722,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 226164,
+      "Progressed": 226182,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 226164,
+      "Progressed": 226182,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-22T23:00:48.1679541+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:03:21.9553019+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:03:45.2233825+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:00:17.7928131+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:03:21.9554859+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:00:39.4016774+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:03:45.2235468+00:00"
 }

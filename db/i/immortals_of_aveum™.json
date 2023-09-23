@@ -347,9 +347,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_49",
@@ -363,9 +363,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_50",
@@ -500,8 +500,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-12T10:00:20.9972583+00:00",
-  "LastChanged_Achievements": "2023-09-23T16:04:12.5148425+00:00",
+  "LastChanged_Achievements": "2023-09-23T17:04:36.0504497+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.7860154+00:00",
-  "LastUpdate_Ratings": "2023-09-23T15:59:45.8116176+00:00",
-  "LastUpdate_Achievements": "2023-09-23T16:04:12.5148841+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:00:06.7060571+00:00",
+  "LastUpdate_Achievements": "2023-09-23T17:04:36.0504836+00:00"
 }
