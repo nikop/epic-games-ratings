@@ -990,9 +990,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226024,
+  "EOS_Progressed": 226027,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1699,
+  "EOS_NewPlayers": 1696,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11950,6 +11950,11 @@
       "Time": "2023-09-23T04:02:25.5177349+00:00",
       "NumProgressed": 226024,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T05:03:30.4484711+00:00",
+      "NumProgressed": 226027,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11961,7 +11966,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "100Fail",
@@ -11993,7 +11998,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "BookCollection",
@@ -12025,7 +12030,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "Chapter4",
@@ -12409,7 +12414,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70067
+      "UsersEstimate": 70068
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12433,7 +12438,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "EndGameCursed",
@@ -12657,28 +12662,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 226024,
+      "Progressed": 226027,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 226024,
+      "Progressed": 226027,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-22T23:00:48.1679541+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:02:25.5177343+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:03:30.4484705+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-23T04:00:00.1191665+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:02:25.5180353+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:01:13.5841872+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:03:30.4486592+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3036,10 +3036,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4543,
       "NumberOfAwardsMax": 2731
+    },
+    {
+      "Time": "2023-09-23T05:02:21.2803819+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4546,
+      "NumberOfAwardsMax": 2731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4543,
+  "NumberOfAwards": 4546,
   "NumberOfAwardsMax": 2731,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3053,7 +3059,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 230
+      "Count": 233
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3104,9 +3110,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72744,
+  "EOS_Progressed": 72746,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16339,6 +16345,11 @@
       "Time": "2023-09-23T04:04:50.8714126+00:00",
       "NumProgressed": 72744,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-23T05:05:52.4274971+00:00",
+      "NumProgressed": 72746,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16398,7 +16409,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16731
+      "UsersEstimate": 16732
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16430,7 +16441,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8729
+      "UsersEstimate": 8730
     },
     {
       "ID": "APPLY_STATUS",
@@ -16446,7 +16457,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12366
+      "UsersEstimate": 12367
     },
     {
       "ID": "CLAYFACE_1",
@@ -16454,7 +16465,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15276
+      "UsersEstimate": 15277
     },
     {
       "ID": "CLAYFACE_2",
@@ -16526,7 +16537,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8729
+      "UsersEstimate": 8730
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -16566,7 +16577,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7274
+      "UsersEstimate": 7275
     },
     {
       "ID": "FREEZE_1",
@@ -16582,7 +16593,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15276
+      "UsersEstimate": 15277
     },
     {
       "ID": "FREEZE_2",
@@ -16590,7 +16601,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13821
+      "UsersEstimate": 13822
     },
     {
       "ID": "FREEZE_3",
@@ -16654,7 +16665,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25460
+      "UsersEstimate": 25461
     },
     {
       "ID": "HARLEY_2",
@@ -16694,7 +16705,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37827
+      "UsersEstimate": 37828
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16726,7 +16737,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20368
+      "UsersEstimate": 20369
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16742,7 +16753,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24733
+      "UsersEstimate": 24734
     },
     {
       "ID": "MYSTERY_02",
@@ -16758,7 +16769,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16731
+      "UsersEstimate": 16732
     },
     {
       "ID": "MYSTERY_04",
@@ -16798,7 +16809,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8729
+      "UsersEstimate": 8730
     },
     {
       "ID": "SECRET_CACHE",
@@ -16837,22 +16848,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72744,
+      "Progressed": 72746,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43024,
+      "Progressed": 43026,
       "Completed": 2666
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-22T21:02:20.1008726+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:04:50.871412+00:00",
+  "LastChanged": "2023-09-23T05:02:21.2803817+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:05:52.4274965+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-23T04:02:04.4524442+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:04:50.8716602+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:02:21.280383+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:05:52.4276564+00:00"
 }

@@ -48,8 +48,8 @@
 | Annihilate | 9.00% | ~17 |
 | Godlike Skin | 7.00% | ~13 |
 | See You Later | 6.00% | ~11 |
+| Unlucky Luke | 6.00% | ~11 |
 | Feast Time | 6.00% | ~11 |
-| Unlucky Luke | 5.00% | ~9 |
 | Cheesy Chess | 5.00% | ~9 |
 | A Phony Clown | 4.00% | ~7 |
 | Octopy Mayhem | 4.00% | ~7 |

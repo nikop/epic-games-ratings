@@ -332,7 +332,7 @@
   ],
   "EOS_Progressed": 3357,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4745,9 +4745,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2484
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5018,8 +5018,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:02:32.3840731+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:03:39.3066069+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:57:26.7779079+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:02:32.3841784+00:00"
+  "LastUpdate_Ratings": "2023-09-23T04:57:49.3271905+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:03:39.3066838+00:00"
 }

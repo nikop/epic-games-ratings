@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6379,
+  "EOS_Progressed": 6381,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 1,
@@ -2336,6 +2336,11 @@
       "Time": "2023-09-23T04:07:11.0984265+00:00",
       "NumProgressed": 6379,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T05:07:56.5502216+00:00",
+      "NumProgressed": 6381,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2460,7 +2465,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "GamesPlayed1",
@@ -2468,7 +2473,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "GamesPlayed10",
@@ -2540,7 +2545,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "HAUpgraded1",
@@ -2932,21 +2937,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6379,
+      "Progressed": 6381,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:07:11.0984259+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:07:56.550221+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:58:17.4620138+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:07:11.0985924+00:00"
+  "LastUpdate_Ratings": "2023-09-23T04:58:54.1444263+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:07:56.5503287+00:00"
 }

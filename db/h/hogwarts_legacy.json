@@ -7998,9 +7998,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297127,
+  "EOS_Progressed": 297128,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24833,6 +24833,11 @@
       "Time": "2023-09-23T04:05:24.404952+00:00",
       "NumProgressed": 297127,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-23T05:06:33.4013322+00:00",
+      "NumProgressed": 297128,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -25068,7 +25073,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26741
+      "UsersEstimate": 26742
     },
     {
       "ID": "PFA_36",
@@ -25196,14 +25201,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26741
+      "UsersEstimate": 26742
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297127,
+      "Progressed": 297128,
       "Completed": 476
     }
   ],
@@ -25211,8 +25216,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-23T02:59:03.22046+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:05:24.4049514+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:06:33.4013317+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:58:59.7235716+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:05:24.4052026+00:00"
+  "LastUpdate_Ratings": "2023-09-23T04:59:53.8150558+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:06:33.4014933+00:00"
 }

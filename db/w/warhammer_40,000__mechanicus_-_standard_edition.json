@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -669,9 +669,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 223120,
+  "EOS_Progressed": 223123,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17569,6 +17569,11 @@
       "Time": "2023-09-23T04:05:34.0012163+00:00",
       "NumProgressed": 223120,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T05:06:45.1180669+00:00",
+      "NumProgressed": 223123,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -17588,7 +17593,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58011
+      "UsersEstimate": 58012
     },
     {
       "ID": "ACH_BASE_11",
@@ -17828,7 +17833,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26774
+      "UsersEstimate": 26775
     },
     {
       "ID": "ACH_BASE_8",
@@ -17851,7 +17856,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 223120,
+      "Progressed": 223123,
       "Completed": 5
     }
   ],
@@ -17859,8 +17864,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-09-22T21:00:43.5696583+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:05:34.0012156+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:06:45.1180664+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:32.2325018+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:59:54.914664+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:05:34.0014445+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:01:07.2497822+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:06:45.1182027+00:00"
 }

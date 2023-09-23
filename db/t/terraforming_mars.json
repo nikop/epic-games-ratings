@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2788,7 +2788,7 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 76627,
+  "EOS_Progressed": 76628,
   "EOS_Completed": 133,
   "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 15,
@@ -19923,6 +19923,11 @@
       "Time": "2023-09-23T04:04:20.48266+00:00",
       "NumProgressed": 76627,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-09-23T05:05:14.5030142+00:00",
+      "NumProgressed": 76628,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 30,
@@ -19998,7 +20003,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6896
+      "UsersEstimate": 6897
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -20062,7 +20067,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 18390
+      "UsersEstimate": 18391
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -20173,15 +20178,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 76627,
+      "Progressed": 76628,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-22T09:58:39.5414982+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:04:20.4826596+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:05:14.5030139+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:00.6851624+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:58:56.2519424+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:04:20.4828865+00:00"
+  "LastUpdate_Ratings": "2023-09-23T04:59:49.755231+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:05:14.5031515+00:00"
 }

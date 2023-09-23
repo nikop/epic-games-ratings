@@ -126,11 +126,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.90% | ~127 |
 | Enlightenment | 0.90% | ~127 |
 | Kushite Cavalry | 0.90% | ~127 |
+| Ishtar Gate in Babylon | 0.80% | ~112 |
 | Clerics | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
 | Learn to Play 4 | 0.80% | ~112 |
 | Turreted Elephant | 0.80% | ~112 |
-| Ishtar Gate in Babylon | 0.70% | ~98 |
 | Old | 0.70% | ~98 |
 | Peacemaker | 0.70% | ~98 |
 | Cao'an | 0.70% | ~98 |

@@ -1,7 +1,7 @@
 # CARRION
 [Store](https://store.epicgames.com/en-US/p/carrion)  
 [View Rawdata](../../db/c/carrion.json)  
-Rating: 4.69 (Ranked 220)  
+Rating: 4.68 (Ranked 244)  
 Number of Ratings: 46  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -47,3 +47,4 @@ Number of Ratings: 46  (23.09.2022)
 | 2023-03-31 | 4.67 | - | 0 | 0 |
 | 2023-04-02 | 4.68 | - | 0 | 0 |
 | 2023-06-17 | 4.69 | - | 0 | 0 |
+| 2023-09-23 | 4.68 | - | 0 | 0 |

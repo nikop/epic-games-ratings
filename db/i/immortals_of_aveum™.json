@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 50,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_36",
@@ -485,8 +485,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-12T10:00:20.9972583+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:03:44.8501955+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:04:30.4130894+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.6375227+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:59:26.306107+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:03:44.8502722+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:00:31.2481221+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:04:30.4131274+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 28  (23.09.2022)
 | Builder | 52.00% | ~256 |
 | Pangs of conscience | 45.00% | ~222 |
 | Living it large! | 44.00% | ~217 |
-| Collector | 42.00% | ~207 |
+| Collector | 43.00% | ~212 |
 | Need to think | 41.00% | ~202 |
 | Completely nuts! | 39.00% | ~192 |
 | Just in time! | 33.00% | ~163 |
@@ -25,7 +25,7 @@ Number of Ratings: 28  (23.09.2022)
 | Foreman | 21.00% | ~104 |
 | Russia | 19.00% | ~94 |
 | Missed it! | 19.00% | ~94 |
-| America | 17.00% | ~84 |
+| America | 18.00% | ~89 |
 | Sabotage | 16.00% | ~79 |
 | Woodcutter | 11.00% | ~54 |
 | Engineer | 11.00% | ~54 |
@@ -33,10 +33,10 @@ Number of Ratings: 28  (23.09.2022)
 | Japan | 10.00% | ~49 |
 | Tycoon | 8.00% | ~39 |
 | Germany | 6.00% | ~30 |
+| Chuck Norris | 5.00% | ~25 |
 | Сhancellor | 4.00% | ~20 |
 | Peacemaker | 4.00% | ~20 |
 | Supercrash! | 4.00% | ~20 |
-| Chuck Norris | 4.00% | ~20 |
 | Forgotten | 2.00% | ~10 |
 | Lucky vandal | 2.00% | ~10 |
 | BBQ | 0.60% | ~3 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 493 (Ranked 265)  
-Completed: 2 (0.41%) (Ranked 171)  
+Completed: 2 (0.41%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

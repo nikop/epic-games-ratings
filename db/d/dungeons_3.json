@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2668,9 +2668,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 31059,
+  "EOS_Progressed": 31060,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -19628,6 +19628,11 @@
       "Time": "2023-09-23T04:07:19.8402947+00:00",
       "NumProgressed": 31059,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-09-23T05:08:07.425376+00:00",
+      "NumProgressed": 31060,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 60,
@@ -19639,7 +19644,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 18014
+      "UsersEstimate": 18015
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -19647,7 +19652,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14287
+      "UsersEstimate": 14288
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -19775,7 +19780,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9628
+      "UsersEstimate": 9629
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -19847,7 +19852,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13355
+      "UsersEstimate": 13356
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -19863,7 +19868,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11181
+      "UsersEstimate": 11182
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -19871,7 +19876,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12734
+      "UsersEstimate": 12735
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -19919,7 +19924,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8075
+      "UsersEstimate": 8076
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -19991,7 +19996,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6522
+      "UsersEstimate": 6523
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -19999,7 +20004,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9628
+      "UsersEstimate": 9629
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -20015,7 +20020,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10249
+      "UsersEstimate": 10250
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -20111,22 +20116,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8075
+      "UsersEstimate": 8076
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 31059,
+      "Progressed": 31060,
       "Completed": 253
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-23T03:00:41.8562993+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:07:19.8402942+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:08:07.4253753+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:20.8919956+00:00",
-  "LastUpdate_Ratings": "2023-09-23T04:00:50.6593911+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:07:19.8405672+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:02:16.1414237+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:08:07.4255405+00:00"
 }

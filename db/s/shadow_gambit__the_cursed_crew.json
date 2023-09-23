@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
@@ -1814,6 +1814,11 @@
       "Time": "2023-09-22T20:04:08.2922501+00:00",
       "NumProgressed": 663,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-23T05:04:45.0772377+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1834,7 +1839,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "_03_FinishAct1",
@@ -1842,7 +1847,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1856,9 +1861,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 226
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1882,7 +1887,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "_09_Completion_20",
@@ -1898,7 +1903,7 @@
       "Name": "Buccaneer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "_11_Completion_40",
@@ -1906,7 +1911,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "_12_Completion_50",
@@ -1946,7 +1951,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1970,7 +1975,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2033,7 +2038,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 18
     }
   ],
@@ -2041,8 +2046,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:03:56.8074782+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:04:45.0772373+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:59:57.0747657+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:03:56.8075271+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:01:10.0642275+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:04:45.0772713+00:00"
 }

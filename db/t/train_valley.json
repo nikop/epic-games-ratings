@@ -6,7 +6,7 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
@@ -1175,9 +1175,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 212
     },
     {
       "ID": "03_philatelist",
@@ -1223,9 +1223,9 @@
       "ID": "08_america",
       "SetID": "chb1m60",
       "Name": "America",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "09_russia",
@@ -1463,9 +1463,9 @@
       "ID": "38_chuck",
       "SetID": "chb1m60",
       "Name": "Chuck Norris",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "39_salesman",
@@ -1487,8 +1487,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:02:25.9359597+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:03:31.0364275+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:28.7863119+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:59:05.1454285+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:02:25.9360242+00:00"
+  "LastUpdate_Ratings": "2023-09-23T05:00:00.5369269+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:03:31.0364686+00:00"
 }

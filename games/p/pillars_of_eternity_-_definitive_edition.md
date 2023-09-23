@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,098 (Ranked 221)  
-Completed: 4 (0.36%) (Ranked 177)  
+Progressed: 1,098 (Ranked 222)  
+Completed: 4 (0.36%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

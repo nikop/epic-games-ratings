@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -696,6 +696,11 @@
       "Time": "2023-09-23T01:45:41.804499+00:00",
       "NumProgressed": 200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T05:07:19.5536247+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -714,9 +719,9 @@
       "ID": "Dangerous_dose",
       "SetID": "cjfnji1",
       "Name": "Dangerous dose",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Dissatisfaction",
@@ -732,23 +737,23 @@
       "Name": "Full load",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Island",
       "SetID": "cjfnji1",
       "Name": "Island",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 129
     },
     {
       "ID": "Master",
@@ -786,17 +791,17 @@
       "ID": "Speed",
       "SetID": "cjfnji1",
       "Name": "Speed",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Tangentially",
       "SetID": "cjfnji1",
       "Name": "Tangentially",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "USSR",
@@ -819,14 +824,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-23T04:06:11.7715177+00:00",
+  "LastChanged_Achievements": "2023-09-23T05:07:19.5536243+00:00",
   "LastUpdate_AppInfo": "2023-09-18T20:57:14.6607347+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:57:47.5521533+00:00",
-  "LastUpdate_Achievements": "2023-09-23T04:06:11.7715401+00:00"
+  "LastUpdate_Ratings": "2023-09-23T04:58:16.8186689+00:00",
+  "LastUpdate_Achievements": "2023-09-23T05:07:19.5536429+00:00"
 }
