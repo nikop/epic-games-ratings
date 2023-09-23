@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9895,
+  "EOS_Progressed": 9987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9146,
+  "EOS_NewPlayers": 9238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -152,6 +152,11 @@
       "Time": "2023-09-23T06:04:11.6403922+00:00",
       "NumProgressed": 9895,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T07:04:28.4226909+00:00",
+      "NumProgressed": 9987,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -172,7 +177,7 @@
       "Name": "Surgical Aim",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_11",
@@ -180,7 +185,7 @@
       "Name": "Bullseye",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_12",
@@ -188,7 +193,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2497
     },
     {
       "ID": "achievement_13",
@@ -196,7 +201,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1997
     },
     {
       "ID": "achievement_14",
@@ -204,15 +209,15 @@
       "Name": "The Alchemist",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1997
     },
     {
       "ID": "achievement_15",
       "SetID": "3o4m6ni",
       "Name": "Trust me, I\u0027m a Manager",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2996
     },
     {
       "ID": "achievement_16",
@@ -220,7 +225,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 693
+      "UsersEstimate": 699
     },
     {
       "ID": "achievement_17",
@@ -228,7 +233,7 @@
       "Name": "One Moment Please!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2996
     },
     {
       "ID": "achievement_18",
@@ -252,7 +257,7 @@
       "Name": "Teamwork works",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_20",
@@ -268,15 +273,15 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 8411
+      "UsersEstimate": 8489
     },
     {
       "ID": "achievement_22",
       "SetID": "3o4m6ni",
       "Name": "Level Up!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2497
     },
     {
       "ID": "achievement_23",
@@ -284,7 +289,7 @@
       "Name": "Graduation Day",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1498
     },
     {
       "ID": "achievement_24",
@@ -308,7 +313,7 @@
       "Name": "We\u0027re Going Up",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_27",
@@ -324,7 +329,7 @@
       "Name": "First of Many",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 399
     },
     {
       "ID": "achievement_29",
@@ -348,7 +353,7 @@
       "Name": "Make the Grade",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_31",
@@ -380,7 +385,7 @@
       "Name": "Fashion Icon",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_35",
@@ -388,15 +393,15 @@
       "Name": "Golden Generation",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_36",
       "SetID": "3o4m6ni",
       "Name": "An ace up your sleeve",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_37",
@@ -404,7 +409,7 @@
       "Name": "Do Your Homework",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_38",
@@ -412,7 +417,7 @@
       "Name": "European Legend",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_39",
@@ -452,7 +457,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1698
     },
     {
       "ID": "achievement_7",
@@ -460,7 +465,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 799
     },
     {
       "ID": "achievement_8",
@@ -468,7 +473,7 @@
       "Name": "Power Shot",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4294
     },
     {
       "ID": "achievement_9",
@@ -476,20 +481,20 @@
       "Name": "Bring it on",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 399
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 9895,
+      "Progressed": 9987,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged_Achievements": "2023-09-23T06:04:11.6403917+00:00",
+  "LastChanged_Achievements": "2023-09-23T07:04:28.4226905+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8173027+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:58:40.5687283+00:00",
-  "LastUpdate_Achievements": "2023-09-23T06:04:11.6404267+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:58:45.9361423+00:00",
+  "LastUpdate_Achievements": "2023-09-23T07:04:28.4227227+00:00"
 }

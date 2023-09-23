@@ -4,7 +4,7 @@
   "ProductSlug": "unbound-worlds-apart",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-07-28T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:06.8125635+00:00",
   "LastChanged": "2023-03-31T05:57:06.8125636+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:53.2400369+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:57:38.323505+00:00",
-  "LastUpdate_Achievements": "2023-09-23T06:03:23.811869+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:57:43.1458215+00:00",
+  "LastUpdate_Achievements": "2023-09-23T07:03:21.5945356+00:00"
 }

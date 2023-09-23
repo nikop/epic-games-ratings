@@ -9,7 +9,7 @@
 | Ooh, it's shiny! | 62.00% | ~28 |
 | My lost nightingale | 56.00% | ~25 |
 | Through the woods | 53.00% | ~24 |
-| Back to the anvil | 47.00% | ~21 |
+| Back to the anvil | 49.00% | ~22 |
 | So soothing... | 44.00% | ~20 |
 | Roostwig has entered the building | 44.00% | ~20 |
 | Mystery solved | 42.00% | ~19 |

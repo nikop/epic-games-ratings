@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Remembering of the past | 27.00% | ~3 |
+| Black Hog Down | 27.00% | ~3 |
 | Ouch, that hurt! | 18.00% | ~2 |
-| Black Hog Down | 18.00% | ~2 |
 | Slam-KABAM | 9.00% | ~1 |
 | Heavy Thoughts | 9.00% | ~1 |
 | A heavy thinker | 9.00% | ~1 |

@@ -22,8 +22,8 @@ Rating: 4.56 (Ranked 469)
 | Deadly Kombationem | 19.00% | ~127 |
 | The truth is out there | 16.00% | ~107 |
 | Annakin Skyscroller | 14.00% | ~94 |
+| Arm Wrestlin' | 10.00% | ~67 |
 | In the smacker...I think | 10.00% | ~67 |
-| Arm Wrestlin' | 9.00% | ~60 |
 | 1+1>2 | 9.00% | ~60 |
 | This can't be right… | 9.00% | ~60 |
 | So Fresh and So clean clean | 8.00% | ~54 |

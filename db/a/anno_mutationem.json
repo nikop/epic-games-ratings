@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -111,7 +111,7 @@
   "Tags": [],
   "EOS_Progressed": 671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -544,9 +544,9 @@
       "ID": "Arm_Wrestling",
       "SetID": "gl7plp",
       "Name": "Arm Wrestlin\u0027",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 67
     },
     {
       "ID": "Big_Spender",
@@ -825,8 +825,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-09-23T06:06:35.1072136+00:00",
+  "LastChanged_Achievements": "2023-09-23T07:07:05.253013+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:38.1086699+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:59:54.8547747+00:00",
-  "LastUpdate_Achievements": "2023-09-23T06:06:35.1072635+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:59:57.1869025+00:00",
+  "LastUpdate_Achievements": "2023-09-23T07:07:05.2530421+00:00"
 }

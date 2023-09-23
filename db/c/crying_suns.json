@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467817,
+  "EOS_Progressed": 467821,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16919,6 +16919,11 @@
       "Time": "2023-09-23T06:04:20.5359239+00:00",
       "NumProgressed": 467817,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-23T07:04:36.997475+00:00",
+      "NumProgressed": 467821,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16946,7 +16951,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112276
+      "UsersEstimate": 112277
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -16954,7 +16959,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102920
+      "UsersEstimate": 102921
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -16978,7 +16983,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37425
+      "UsersEstimate": 37426
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -17018,7 +17023,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308759
+      "UsersEstimate": 308762
     },
     {
       "ID": "achievement_story_landa",
@@ -17042,7 +17047,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37425
+      "UsersEstimate": 37426
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -17050,7 +17055,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116954
+      "UsersEstimate": 116955
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -17090,7 +17095,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37425
+      "UsersEstimate": 37426
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -17106,7 +17111,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93563
+      "UsersEstimate": 93564
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -17114,7 +17119,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154380
+      "UsersEstimate": 154381
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17122,7 +17127,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37425
+      "UsersEstimate": 37426
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -17354,7 +17359,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205839
+      "UsersEstimate": 205841
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -17362,7 +17367,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140345
+      "UsersEstimate": 140346
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -17386,7 +17391,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182449
+      "UsersEstimate": 182450
     },
     {
       "ID": "achievement_win_run_hard",
@@ -17434,7 +17439,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37425
+      "UsersEstimate": 37426
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -17442,7 +17447,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102920
+      "UsersEstimate": 102921
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -17561,21 +17566,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11751,
+      "Progressed": 11755,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467817,
+      "Progressed": 467821,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-23T06:04:20.5359232+00:00",
+  "LastChanged_Achievements": "2023-09-23T07:04:36.9974746+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:49.9396656+00:00",
-  "LastUpdate_Ratings": "2023-09-23T06:00:35.3621506+00:00",
-  "LastUpdate_Achievements": "2023-09-23T06:04:20.5362598+00:00"
+  "LastUpdate_Ratings": "2023-09-23T07:00:36.0432892+00:00",
+  "LastUpdate_Achievements": "2023-09-23T07:04:36.9976444+00:00"
 }

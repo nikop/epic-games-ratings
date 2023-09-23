@@ -3650,7 +3650,7 @@
   ],
   "EOS_Progressed": 88126,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19933,9 +19933,9 @@
       "ID": "ACH_0110",
       "SetID": "3kam13l",
       "Name": "Moneybags",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 88
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_0200",
@@ -20140,8 +20140,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-22T23:57:40.0942997+00:00",
-  "LastChanged_Achievements": "2023-09-23T06:03:24.4257141+00:00",
+  "LastChanged_Achievements": "2023-09-23T07:03:21.9619746+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:57:32.0179211+00:00",
-  "LastUpdate_Achievements": "2023-09-23T06:03:24.4259549+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:57:37.1106909+00:00",
+  "LastUpdate_Achievements": "2023-09-23T07:03:21.9621157+00:00"
 }

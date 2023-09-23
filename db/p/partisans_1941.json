@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1414,
+  "EOS_Progressed": 1415,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -2745,6 +2745,11 @@
       "Time": "2023-09-23T05:04:42.8047963+00:00",
       "NumProgressed": 1414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T07:04:24.8092158+00:00",
+      "NumProgressed": 1415,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2788,7 +2793,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Commandos",
@@ -2804,7 +2809,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Defense_Common",
@@ -2860,7 +2865,7 @@
       "Name": "Game Over",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Grenadier",
@@ -2868,7 +2873,7 @@
       "Name": "Grenadier",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "Hard_Serpent",
@@ -2946,9 +2951,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 467
     },
     {
       "ID": "Scout",
@@ -2972,7 +2977,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "We_were_not_here",
@@ -2995,15 +3000,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1414,
+      "Progressed": 1415,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-23T06:04:08.022744+00:00",
+  "LastChanged_Achievements": "2023-09-23T07:04:24.8092136+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.0321348+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:57:10.4418839+00:00",
-  "LastUpdate_Achievements": "2023-09-23T06:04:08.0227995+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:57:17.3258471+00:00",
+  "LastUpdate_Achievements": "2023-09-23T07:04:24.8092522+00:00"
 }

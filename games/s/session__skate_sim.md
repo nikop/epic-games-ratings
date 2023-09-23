@@ -22,13 +22,13 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~204 |
 | That pinch! | 7.00% | ~204 |
 | Tight lipslides | 7.00% | ~204 |
-| Bottom ply killer | 6.00% | ~174 |
-| Fulfilled the dream | 6.00% | ~174 |
-| G'Day Mate! | 6.00% | ~174 |
-| NAHELL! | 6.00% | ~174 |
-| Purple passion | 6.00% | ~174 |
-| Squad goals | 6.00% | ~174 |
-| Sup widdit big dog! | 6.00% | ~174 |
+| Bottom ply killer | 6.00% | ~175 |
+| Fulfilled the dream | 6.00% | ~175 |
+| G'Day Mate! | 6.00% | ~175 |
+| NAHELL! | 6.00% | ~175 |
+| Purple passion | 6.00% | ~175 |
+| Squad goals | 6.00% | ~175 |
+| Sup widdit big dog! | 6.00% | ~175 |
 | Commence the Hijinx! | 5.00% | ~145 |
 | DIY Boss | 5.00% | ~145 |
 | Globetrotter | 5.00% | ~145 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,908 (Ranked 183)  
+Progressed: 2,909 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 2,883 | 0 |
 | 2023-09-21 | 2,892 | 0 |
 | 2023-09-22 | 2,904 | 0 |
-| 2023-09-23 | 2,908 | 0 |
+| 2023-09-23 | 2,909 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 398)  
 Sum: 471 (Ranked 310)  

@@ -21,6 +21,7 @@ Rating: 3.93 (Ranked 965)
 | Hidden Sonata | 0.20% | ~176 |
 | Track Star | 0.20% | ~176 |
 | Headhunter | 0.20% | ~176 |
+| Moneybags | 0.20% | ~176 |
 | True Player | 0.20% | ~176 |
 | Legend Looter | 0.10% | ~88 |
 | Imports and Exports | 0.10% | ~88 |
@@ -33,7 +34,6 @@ Rating: 3.93 (Ranked 965)
 | Privateer | 0.10% | ~88 |
 | Talent Scout | 0.10% | ~88 |
 | Full House | 0.10% | ~88 |
-| Moneybags | 0.10% | ~88 |
 | Groundhog Days | 0.10% | ~88 |
 | Olympus Ascended | 0.10% | ~88 |
 | Cracked the Jack | 0.10% | ~88 |

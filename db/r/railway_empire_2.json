@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1936,
+  "EOS_Progressed": 1937,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4869,6 +4869,11 @@
       "Time": "2023-09-23T01:45:01.9149973+00:00",
       "NumProgressed": 1936,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T07:05:55.8780176+00:00",
+      "NumProgressed": 1937,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4960,7 +4965,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "A11",
@@ -4976,7 +4981,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "A13",
@@ -5016,7 +5021,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "A18",
@@ -5040,7 +5045,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "A21",
@@ -5104,7 +5109,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "A29",
@@ -5144,7 +5149,7 @@
       "Name": "Locusts",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "A34",
@@ -5168,7 +5173,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "A37",
@@ -5176,7 +5181,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "A38",
@@ -5184,7 +5189,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "A39",
@@ -5200,7 +5205,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "A41",
@@ -5240,7 +5245,7 @@
       "Name": "Settler",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "A46",
@@ -5248,7 +5253,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "A47",
@@ -5256,7 +5261,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "A48",
@@ -5296,7 +5301,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "A53",
@@ -5319,7 +5324,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1936,
+      "Progressed": 1937,
       "Completed": 0
     }
   ],
@@ -5327,8 +5332,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-22T14:01:19.3891438+00:00",
-  "LastChanged_Achievements": "2023-09-23T06:05:42.4460073+00:00",
+  "LastChanged_Achievements": "2023-09-23T07:05:55.878017+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:28.7134355+00:00",
-  "LastUpdate_Ratings": "2023-09-23T06:00:09.6264374+00:00",
-  "LastUpdate_Achievements": "2023-09-23T06:05:42.4461013+00:00"
+  "LastUpdate_Ratings": "2023-09-23T07:00:07.7954901+00:00",
+  "LastUpdate_Achievements": "2023-09-23T07:05:55.8780988+00:00"
 }

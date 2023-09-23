@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1255,9 +1255,9 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "13_bunkrupt",
@@ -1487,8 +1487,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-23T06:03:07.5193064+00:00",
+  "LastChanged_Achievements": "2023-09-23T07:03:04.957498+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:28.7863119+00:00",
-  "LastUpdate_Ratings": "2023-09-23T05:59:19.4558076+00:00",
-  "LastUpdate_Achievements": "2023-09-23T06:03:07.5193442+00:00"
+  "LastUpdate_Ratings": "2023-09-23T06:59:20.9994287+00:00",
+  "LastUpdate_Achievements": "2023-09-23T07:03:04.9575353+00:00"
 }
