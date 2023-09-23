@@ -1,12 +1,12 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 470)  
+Rating: 4.56 (Ranked 471)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 27.00% | ~859 |
-| Sputnik 2049 | 24.00% | ~763 |
+| Sputnik 2049 | 24.00% | ~764 |
 | Infinite Growth... | 23.00% | ~732 |
 | Without Breaking Some Eggs... | 22.00% | ~700 |
 | Space Society | 16.00% | ~509 |
@@ -21,7 +21,7 @@ Rating: 4.56 (Ranked 470)
 | A Hunk of Junk | 10.00% | ~318 |
 | Exceeding Capacity | 10.00% | ~318 |
 | Breaking Protocol | 10.00% | ~318 |
-| Man's Best Friend | 8.00% | ~254 |
+| Man's Best Friend | 8.00% | ~255 |
 | Sightseeing | 7.00% | ~223 |
 | Power Outage | 7.00% | ~223 |
 | Convenient Transport | 7.00% | ~223 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 470)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,181 (Ranked 180)  
+Progressed: 3,182 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 3,176 | 0 |
 | 2023-09-21 | 3,179 | 0 |
 | 2023-09-22 | 3,181 | 0 |
+| 2023-09-23 | 3,182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

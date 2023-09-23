@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8004,9 +8004,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297160,
+  "EOS_Progressed": 297161,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24884,6 +24884,11 @@
       "Time": "2023-09-23T13:12:22.2241944+00:00",
       "NumProgressed": 297160,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-23T14:07:38.0375084+00:00",
+      "NumProgressed": 297161,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24895,7 +24900,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41602
+      "UsersEstimate": 41603
     },
     {
       "ID": "PFA_10",
@@ -25254,7 +25259,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297160,
+      "Progressed": 297161,
       "Completed": 476
     }
   ],
@@ -25262,8 +25267,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-23T11:00:38.6122149+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:12:22.2241928+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:07:38.037508+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:04:59.0767188+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:12:22.2243479+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:00:29.3300401+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:07:38.0376166+00:00"
 }

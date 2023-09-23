@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1381,9 +1381,9 @@
       "ID": "fight_win_10",
       "SetID": "69co12a",
       "Name": "Fighting is cool",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "fight_win_25",
@@ -1493,9 +1493,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "intro_dream",
@@ -1509,9 +1509,9 @@
       "ID": "law_student",
       "SetID": "69co12a",
       "Name": "Law student",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "league_1",
@@ -1796,8 +1796,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:14:29.8978929+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:09:38.8103697+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:09.0565974+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:04:24.7668624+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:14:29.8980199+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:59:57.1209347+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:09:38.8104291+00:00"
 }

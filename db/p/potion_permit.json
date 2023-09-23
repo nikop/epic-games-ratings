@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1595,
+  "EOS_Progressed": 1596,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2108,6 +2108,11 @@
       "Time": "2023-09-23T11:06:39.9457073+00:00",
       "NumProgressed": 1595,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-23T14:06:29.7369201+00:00",
+      "NumProgressed": 1596,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -2119,15 +2124,15 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACHIEVEMENTS_02",
       "SetID": "d4o538a",
       "Name": "Great Doctor",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 830
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2215,7 +2220,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -2239,7 +2244,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -2271,7 +2276,7 @@
       "Name": "Decorative Mind",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -2295,7 +2300,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2391,7 +2396,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -2422,7 +2427,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1595,
+      "Progressed": 1596,
       "Completed": 9
     }
   ],
@@ -2430,8 +2435,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:11:11.0044194+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T12:59:15.4686624+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:04:14.6455225+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:11:11.0044915+00:00"
+  "LastChanged_Achievements": "2023-09-23T14:06:29.7369198+00:00",
+  "LastUpdate_AppInfo": "2023-09-23T13:57:26.423195+00:00",
+  "LastUpdate_Ratings": "2023-09-23T13:59:47.6063701+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:06:29.7369533+00:00"
 }

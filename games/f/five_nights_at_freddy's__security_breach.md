@@ -1,18 +1,19 @@
 # Five Nights at Freddy's: Security Breach
 [Store](https://store.epicgames.com/en-US/p/five-nights-at-freddys-security-breach-8dee2a)  
 [View Rawdata](../../db/f/five_nights_at_freddy's__security_breach.json)  
-Rating: 4.61 (Ranked 372)  
+Rating: 4.61 (Ranked 373)  
 Number of Ratings: 169  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 28  (Ranked 472)  
-Sum: 147 (Ranked 403)  
-Diff (max vs sum): 69  
+Sum: 171 (Ranked 393)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 28 |
 | This game has Amazing Storytelling | 27 |
 | This game has Diverse Characters | 25 |
 | This game has Quickly Understood Controls | 24 |
+| This game is Great for Beginners | 24 |
 | This game is Highly Recommended | 22 |
 | This game is Relaxing | 21 |
 | This game has Competitive Players | 20 |
@@ -145,3 +146,4 @@ Diff (max vs sum): 69
 | 2023-09-10 | 4.61 | - | 27 | 145 |
 | 2023-09-13 | 4.61 | - | 28 | 146 |
 | 2023-09-18 | 4.61 | - | 28 | 147 |
+| 2023-09-23 | 4.61 | - | 28 | 171 |

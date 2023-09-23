@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 755,
+  "EOS_Progressed": 756,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1683,6 +1683,11 @@
       "Time": "2023-09-19T19:03:21.8669847+00:00",
       "NumProgressed": 755,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T14:05:30.3280964+00:00",
+      "NumProgressed": 756,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1710,7 +1715,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1764,9 +1769,9 @@
       "ID": "ACHV_EDEN",
       "SetID": "cceobco",
       "Name": "Eden Heights",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHV_FULLYMODDED",
@@ -1806,7 +1811,7 @@
       "Name": "Nanonic I",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1894,7 +1899,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1925,13 +1930,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 755,
+      "Progressed": 756,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 3
     }
   ],
@@ -1939,8 +1944,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:10:06.9307911+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:05:30.328096+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.5489762+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:02:02.6731717+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:10:06.9308465+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:57:44.3527189+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:05:30.3281217+00:00"
 }

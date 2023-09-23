@@ -1,28 +1,28 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 548)  
+Rating: 4.51 (Ranked 549)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,140 |
-| Man of politics | 35.00% | ~5,373 |
-| Friends of sorts | 33.00% | ~5,066 |
-| Yet another secret | 33.00% | ~5,066 |
-| Let there be darkness | 32.00% | ~4,912 |
-| End of Book One | 30.00% | ~4,605 |
-| Wannabe knight | 24.00% | ~3,684 |
-| Garden of Eden | 24.00% | ~3,684 |
-| Full house | 24.00% | ~3,684 |
-| Help an old friend | 22.00% | ~3,377 |
-| Two of us | 20.00% | ~3,070 |
-| Negotiation skills | 18.00% | ~2,763 |
-| Workers' union | 18.00% | ~2,763 |
-| End of Book Two | 18.00% | ~2,763 |
+| Tattletale | 41.00% | ~6,295 |
+| Man of politics | 35.00% | ~5,374 |
+| Friends of sorts | 33.00% | ~5,067 |
+| Yet another secret | 33.00% | ~5,067 |
+| Let there be darkness | 32.00% | ~4,913 |
+| End of Book One | 30.00% | ~4,606 |
+| Wannabe knight | 24.00% | ~3,685 |
+| Garden of Eden | 24.00% | ~3,685 |
+| Full house | 24.00% | ~3,685 |
+| Help an old friend | 22.00% | ~3,378 |
+| Two of us | 20.00% | ~3,071 |
+| Negotiation skills | 18.00% | ~2,764 |
+| Workers' union | 18.00% | ~2,764 |
+| End of Book Two | 18.00% | ~2,764 |
 | Everything's in order | 17.00% | ~2,610 |
-| Twist of Fate | 14.00% | ~2,149 |
-| Jack was here! | 14.00% | ~2,149 |
+| Twist of Fate | 14.00% | ~2,150 |
+| Jack was here! | 14.00% | ~2,150 |
 | Exterminator | 13.00% | ~1,996 |
 | Whodunnit | 12.00% | ~1,842 |
 | Friar Tuck | 11.00% | ~1,689 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~461 |
 | Boy of mystery | 2.00% | ~307 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,351 (Ranked 126)  
+Progressed: 15,354 (Ranked 126)  
 Completed: 111 (0.72%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 111 (0.72%) (Ranked 143)
 | 2023-09-20 | 15,297 | 111 |
 | 2023-09-21 | 15,316 | 111 |
 | 2023-09-22 | 15,337 | 111 |
-| 2023-09-23 | 15,351 | 111 |
+| 2023-09-23 | 15,354 | 111 |
 ## Awards
 Max (Easy Puzzles): 149  (Ranked 303)  
 Sum: 190 (Ranked 384)  

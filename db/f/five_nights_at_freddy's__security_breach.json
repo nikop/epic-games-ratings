@@ -2,13 +2,13 @@
   "ID": "324dc1d18ca942d5852d677fb8710ad6",
   "Name": "Five Nights at Freddy\u0027s: Security Breach",
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
-  "Ranking_Rating": 372,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 472,
-  "Ranking_PopularitySum": 403,
+  "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -749,10 +749,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 147,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-09-23T13:59:18.9725801+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 147,
+  "NumberOfAwards": 171,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -797,6 +803,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -810,8 +822,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2023-09-18T15:00:15.1246515+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T12:59:10.9047543+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:03:43.2847649+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:09:52.130891+00:00"
+  "LastChanged": "2023-09-23T13:59:18.97258+00:00",
+  "LastUpdate_AppInfo": "2023-09-23T13:57:14.9589789+00:00",
+  "LastUpdate_Ratings": "2023-09-23T13:59:18.9725803+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:05:15.9690534+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 822,
+  "EOS_Progressed": 823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -763,6 +763,11 @@
       "Time": "2023-09-22T14:08:26.1347661+00:00",
       "NumProgressed": 822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T14:08:41.3308777+00:00",
+      "NumProgressed": 823,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -774,7 +779,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "11",
@@ -798,7 +803,7 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "14",
@@ -806,7 +811,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "15",
@@ -924,9 +929,9 @@
       "ID": "28",
       "SetID": "4n5bj21",
       "Name": "Better late then never",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 33
     },
     {
       "ID": "29",
@@ -1022,7 +1027,7 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "9",
@@ -1037,7 +1042,7 @@
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 822,
+      "Progressed": 823,
       "Completed": 0
     }
   ],
@@ -1045,8 +1050,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:13:29.5308963+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:08:41.3308774+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.4459576+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:06:36.5840729+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:13:29.5309309+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:02:02.5324628+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:08:41.3309008+00:00"
 }

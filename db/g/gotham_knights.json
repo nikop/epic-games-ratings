@@ -3116,9 +3116,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72752,
+  "EOS_Progressed": 72754,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16371,6 +16371,11 @@
       "Time": "2023-09-23T12:06:40.8320947+00:00",
       "NumProgressed": 72752,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-23T14:06:51.7180327+00:00",
+      "NumProgressed": 72754,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16494,7 +16499,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "CLAYFACE_3",
@@ -16502,7 +16507,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10185
+      "UsersEstimate": 10186
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -16606,7 +16611,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21098
+      "UsersEstimate": 21099
     },
     {
       "ID": "FREEZE_1_5",
@@ -16630,7 +16635,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10185
+      "UsersEstimate": 10186
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -16686,7 +16691,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25463
+      "UsersEstimate": 25464
     },
     {
       "ID": "HARLEY_2",
@@ -16702,7 +16707,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "HARLEY_4",
@@ -16710,7 +16715,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11640
+      "UsersEstimate": 11641
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16726,7 +16731,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37831
+      "UsersEstimate": 37832
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16750,7 +16755,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16798,7 +16803,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "MYSTERY_05",
@@ -16806,7 +16811,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "MYSTERY_06",
@@ -16822,7 +16827,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10185
+      "UsersEstimate": 10186
     },
     {
       "ID": "MYSTERY_08",
@@ -16869,13 +16874,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72752,
+      "Progressed": 72754,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43032,
+      "Progressed": 43034,
       "Completed": 2666
     }
   ],
@@ -16883,8 +16888,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-23T13:08:05.8327884+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:11:34.0729283+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:06:51.7180322+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:08:05.8327892+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:11:34.0731787+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:03:15.1563575+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:06:51.7181426+00:00"
 }

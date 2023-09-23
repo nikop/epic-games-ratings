@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -9836,10 +9836,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 524092,
       "NumberOfAwardsMax": 71582
+    },
+    {
+      "Time": "2023-09-23T14:00:38.6654893+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 524286,
+      "NumberOfAwardsMax": 71582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 524092,
+  "NumberOfAwards": 524286,
   "NumberOfAwardsMax": 71582,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9853,7 +9859,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 58800
+      "Count": 58823
     },
     {
       "Text": "This game has Competitive Players",
@@ -9901,7 +9907,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 55349
+      "Count": 55520
     }
   ],
   "EOS_Progressed": 0,
@@ -9915,8 +9921,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-09-23T13:05:09.2013812+00:00",
+  "LastChanged": "2023-09-23T14:00:38.6654891+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.4613387+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:05:09.2013819+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:10:50.9716935+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:00:38.6654898+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:06:10.4807315+00:00"
 }

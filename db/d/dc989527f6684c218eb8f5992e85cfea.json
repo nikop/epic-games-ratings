@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11757,
+  "EOS_Progressed": 11758,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10321,6 +10321,11 @@
       "Time": "2023-09-23T13:11:00.291243+00:00",
       "NumProgressed": 11757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T14:06:19.3941339+00:00",
+      "NumProgressed": 11758,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -10404,7 +10409,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -10500,7 +10505,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -10531,14 +10536,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11757,
+      "Progressed": 11758,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:11:00.2912425+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:06:19.3941335+00:00",
   "LastUpdate_AppInfo": "2023-09-23T01:36:02.081664+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:04:08.657989+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:11:00.2913335+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:59:41.6618344+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:06:19.3941952+00:00"
 }

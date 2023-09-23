@@ -1,51 +1,51 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 488)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~27,064 |
-| Let There Be Light | 34.00% | ~22,443 |
-| Float Like a Butterfly | 32.00% | ~21,123 |
-| Nordic Walking | 26.00% | ~17,163 |
-| Bright Falls' Finest | 25.00% | ~16,502 |
-| Under a Thin Layer of Skin | 22.00% | ~14,522 |
-| Paging Mr. Wake | 19.00% | ~12,542 |
-| Park Ranger | 18.00% | ~11,882 |
-| Back! Back, I Say! | 17.00% | ~11,222 |
-| Finders Keepers | 17.00% | ~11,222 |
+| Follow the Light | 41.00% | ~27,066 |
+| Let There Be Light | 34.00% | ~22,445 |
+| Float Like a Butterfly | 32.00% | ~21,125 |
+| Nordic Walking | 26.00% | ~17,164 |
+| Bright Falls' Finest | 25.00% | ~16,504 |
+| Under a Thin Layer of Skin | 22.00% | ~14,523 |
+| Paging Mr. Wake | 19.00% | ~12,543 |
+| Park Ranger | 18.00% | ~11,883 |
+| Back! Back, I Say! | 17.00% | ~11,223 |
+| Finders Keepers | 17.00% | ~11,223 |
 | Sound and Fury | 16.00% | ~10,562 |
 | Damn Good Cup of Coffee | 16.00% | ~10,562 |
 | Wheels Within Wheels | 15.00% | ~9,902 |
 | They're Heeeeeere! | 15.00% | ~9,902 |
 | Missed by a Mile | 15.00% | ~9,902 |
-| The Six-Gun Scribe | 14.00% | ~9,241 |
-| Collateral Carnage | 14.00% | ~9,241 |
-| Heavy Metal | 13.00% | ~8,581 |
-| Iron Horse | 13.00% | ~8,581 |
-| Perchance to Dream | 13.00% | ~8,581 |
-| Come One, Come All | 13.00% | ~8,581 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,921 |
-| Thunder and Lightning | 12.00% | ~7,921 |
-| Two For the Price of One | 12.00% | ~7,921 |
-| Gatekeeper | 11.00% | ~7,261 |
-| The Lady of the Light | 11.00% | ~7,261 |
-| Energized! | 11.00% | ~7,261 |
-| Right of Way | 10.00% | ~6,601 |
+| The Six-Gun Scribe | 14.00% | ~9,242 |
+| Collateral Carnage | 14.00% | ~9,242 |
+| Heavy Metal | 13.00% | ~8,582 |
+| Iron Horse | 13.00% | ~8,582 |
+| Perchance to Dream | 13.00% | ~8,582 |
+| Come One, Come All | 13.00% | ~8,582 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,922 |
+| Thunder and Lightning | 12.00% | ~7,922 |
+| Two For the Price of One | 12.00% | ~7,922 |
+| Gatekeeper | 11.00% | ~7,262 |
+| The Lady of the Light | 11.00% | ~7,262 |
+| Energized! | 11.00% | ~7,262 |
+| Right of Way | 10.00% | ~6,602 |
 | What Light Through Yonder Window | 9.00% | ~5,941 |
 | Tornado Wrangler | 8.00% | ~5,281 |
 | Departure | 8.00% | ~5,281 |
-| A Friend in Need | 8.00% | ~2,358 |
+| A Friend in Need | 8.00% | ~2,359 |
 | Drink 'Em Both Up | 6.00% | ~3,961 |
 | Hardboiled Writer | 6.00% | ~3,961 |
 | A Friend Indeed | 6.00% | ~1,769 |
 | Ding! | 6.00% | ~1,769 |
-| Children of the Elder God | 5.00% | ~3,300 |
-| If It Flies, It Burns | 5.00% | ~3,300 |
-| KBF-FM | 5.00% | ~3,300 |
-| Boob Tube | 4.00% | ~2,640 |
+| Children of the Elder God | 5.00% | ~3,301 |
+| If It Flies, It Burns | 5.00% | ~3,301 |
+| KBF-FM | 5.00% | ~3,301 |
+| Boob Tube | 4.00% | ~2,641 |
 | Heartbreaker | 4.00% | ~1,179 |
 | Carny | 3.00% | ~1,980 |
 | Kill Your Darlings | 3.00% | ~884 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,010 (Ranked 89)  
+Progressed: 66,015 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 66 (0.10%) (Ranked 231)
 | 2023-09-20 | 65,872 | 65 |
 | 2023-09-21 | 65,931 | 66 |
 | 2023-09-22 | 65,981 | 66 |
-| 2023-09-23 | 66,010 | 66 |
+| 2023-09-23 | 66,015 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

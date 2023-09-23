@@ -1,35 +1,35 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 488)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 99.00% | ~19,113 |
-| Before the Downfall | 94.00% | ~18,148 |
-| Money like Water | 92.00% | ~17,762 |
+| Trevithick's Legacy | 99.00% | ~19,112 |
+| Before the Downfall | 94.00% | ~18,147 |
+| Money like Water | 92.00% | ~17,761 |
 | Minimalist | 91.00% | ~17,568 |
-| Builder | 84.00% | ~16,217 |
+| Builder | 84.00% | ~16,216 |
 | Eraser | 71.00% | ~13,707 |
-| Pocket of Trains | 66.00% | ~12,742 |
-| Inspector | 60.00% | ~11,584 |
+| Pocket of Trains | 66.00% | ~12,741 |
+| Inspector | 60.00% | ~11,583 |
 | Going the Distance | 55.00% | ~10,618 |
-| Oil Baron | 43.00% | ~8,302 |
-| Loads-a-Money | 43.00% | ~8,302 |
+| Oil Baron | 43.00% | ~8,301 |
+| Loads-a-Money | 43.00% | ~8,301 |
 | Helper of the People | 40.00% | ~7,722 |
 | Simplification | 34.00% | ~6,564 |
 | Box of Trains | 34.00% | ~6,564 |
 | Let There be Light | 33.00% | ~6,371 |
 | Hot Water | 31.00% | ~5,985 |
 | Indecisive | 30.00% | ~5,792 |
-| The scenic route | 28.00% | ~5,406 |
+| The scenic route | 28.00% | ~5,405 |
 | Industrialist | 25.00% | ~4,826 |
 | Perfectionist | 24.00% | ~4,633 |
 | 8K is Enough for Everyone | 23.00% | ~4,440 |
 | Trains over Pipes | 23.00% | ~4,440 |
 | Man of Steel | 17.00% | ~3,282 |
 | Room Full of Trains | 13.00% | ~2,510 |
-| Investor | 10.00% | ~1,931 |
+| Investor | 10.00% | ~1,930 |
 | Multiverse | 7.00% | ~1,351 |
 | The poor groundwater levels | 7.00% | ~1,351 |
 | Metropolis | 7.00% | ~1,351 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 487)
 | Overdeer | 0.60% | ~116 |
 | Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,306 (Ranked 117)  
+Progressed: 19,305 (Ranked 117)  
 Completed: 37 (0.19%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

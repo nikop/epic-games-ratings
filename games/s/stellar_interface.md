@@ -32,30 +32,30 @@
 | Merchant Prince II | 10.00% | ~6 |
 | Hitchhiker | 8.00% | ~5 |
 | Hoarder | 8.00% | ~5 |
+| Usurper I | 8.00% | ~5 |
+| Flower Power | 8.00% | ~5 |
+| Galactic Lieutenant | 8.00% | ~5 |
 | Sectoral Captain | 8.00% | ~5 |
+| Collateral Damage II | 8.00% | ~5 |
+| System Ensign | 6.00% | ~4 |
 | Rambo III | 6.00% | ~4 |
 | Diligent | 6.00% | ~4 |
+| Omicron Beta | 6.00% | ~4 |
 | Food Poisoning | 6.00% | ~4 |
-| Usurper I | 6.00% | ~4 |
-| Flower Power | 6.00% | ~4 |
+| Wicked Sick | 6.00% | ~4 |
 | 50Gb HDD | 6.00% | ~4 |
-| Galactic Lieutenant | 6.00% | ~4 |
-| Collateral Damage II | 6.00% | ~4 |
+| Fighting Fit II | 6.00% | ~4 |
 | Bronze Foundation | 5.00% | ~3 |
-| System Ensign | 5.00% | ~3 |
 | Bronze Pest Control | 5.00% | ~3 |
 | Rambo IV | 5.00% | ~3 |
 | Curious | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
-| Omicron Beta | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |
 | Bird of Prey | 5.00% | ~3 |
-| Wicked Sick | 5.00% | ~3 |
 | Usurper II | 5.00% | ~3 |
 | Silver Foundation | 5.00% | ~3 |
 | Silver Pest Control | 5.00% | ~3 |
 | Mysterious Skin | 5.00% | ~3 |
-| Fighting Fit II | 5.00% | ~3 |
 | Bronze BBQ | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |

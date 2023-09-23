@@ -1,50 +1,50 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 488)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~944,231 |
-| I Need a Bigger Garage | 63.00% | ~660,962 |
-| Pump my Ride | 47.00% | ~493,099 |
-| Ghostbuster | 33.00% | ~346,218 |
-| Call Roadside Assistance | 18.00% | ~188,846 |
-| That Was Close | 18.00% | ~188,846 |
-| Quickie | 11.00% | ~115,406 |
-| California Dreamer | 7.00% | ~73,440 |
-| Can't Touch This | 5.00% | ~52,457 |
-| Comeback | 4.00% | ~41,966 |
-| Driver from Ipanema | 3.00% | ~31,474 |
-| Carménère Taster | 3.00% | ~31,474 |
-| Supersonic | 3.00% | ~31,474 |
-| Marathonist | 3.00% | ~31,474 |
-| Living Legend | 3.00% | ~31,474 |
-| God of Roads | 2.00% | ~20,983 |
-| Pathfinder | 2.00% | ~20,983 |
-| Go-Kart Champion | 2.00% | ~20,983 |
-| Completionist | 2.00% | ~20,983 |
-| Harder, Better, Faster, Stronger | 2.00% | ~20,983 |
-| The Iceman | 1.00% | ~10,491 |
-| Bollywood Star | 1.00% | ~10,491 |
-| Oil Tycoon | 1.00% | ~10,491 |
-| Round the Globe | 1.00% | ~10,491 |
-| Golden Passport | 1.00% | ~10,491 |
-| Brave and Bold | 1.00% | ~10,491 |
-| Crocodile Hunter | 0.90% | ~9,442 |
-| Old Master | 0.90% | ~9,442 |
+| The First of Many | 90.00% | ~944,265 |
+| I Need a Bigger Garage | 63.00% | ~660,985 |
+| Pump my Ride | 47.00% | ~493,116 |
+| Ghostbuster | 33.00% | ~346,230 |
+| Call Roadside Assistance | 18.00% | ~188,853 |
+| That Was Close | 18.00% | ~188,853 |
+| Quickie | 11.00% | ~115,410 |
+| California Dreamer | 7.00% | ~73,443 |
+| Can't Touch This | 5.00% | ~52,459 |
+| Comeback | 4.00% | ~41,967 |
+| Driver from Ipanema | 3.00% | ~31,475 |
+| Carménère Taster | 3.00% | ~31,475 |
+| Supersonic | 3.00% | ~31,475 |
+| Marathonist | 3.00% | ~31,475 |
+| Living Legend | 3.00% | ~31,475 |
+| God of Roads | 2.00% | ~20,984 |
+| Pathfinder | 2.00% | ~20,984 |
+| Go-Kart Champion | 2.00% | ~20,984 |
+| Completionist | 2.00% | ~20,984 |
+| Harder, Better, Faster, Stronger | 2.00% | ~20,984 |
+| The Iceman | 1.00% | ~10,492 |
+| Bollywood Star | 1.00% | ~10,492 |
+| Oil Tycoon | 1.00% | ~10,492 |
+| Round the Globe | 1.00% | ~10,492 |
+| Golden Passport | 1.00% | ~10,492 |
+| Brave and Bold | 1.00% | ~10,492 |
+| Crocodile Hunter | 0.90% | ~9,443 |
+| Old Master | 0.90% | ~9,443 |
 | Volcano Surfer | 0.80% | ~8,393 |
 | Otaku | 0.80% | ~8,393 |
 | Survivor | 0.60% | ~6,295 |
 | King of the World | 0.60% | ~6,295 |
 | Getting Famous | 0.50% | ~5,246 |
-| Now Go Play Outside | 0.30% | ~3,147 |
+| Now Go Play Outside | 0.30% | ~3,148 |
 | Master of the Racetrack | 0.20% | ~2,098 |
 | Transporter | 0.10% | ~1,049 |
 | Look Mom, No Hands! | 0.10% | ~1,049 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049,146 (Ranked 13)  
+Progressed: 1,049,183 (Ranked 13)  
 Completed: 432 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 432 (0.04%) (Ranked 254)
 | 2023-09-20 | 1,047,518 | 429 |
 | 2023-09-21 | 1,048,077 | 430 |
 | 2023-09-22 | 1,048,708 | 431 |
-| 2023-09-23 | 1,049,146 | 432 |
+| 2023-09-23 | 1,049,183 | 432 |
 ## Awards
 Max (Great for Beginners): 155  (Ranked 301)  
-Sum: 1,295 (Ranked 229)  
+Sum: 1,296 (Ranked 229)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): 72
 | This game is Relaxing | 129 |
 | This game is Highly Recommended | 125 |
 | This game has Playful Visuals | 121 |
-| This game has Competitive Players | 117 |
+| This game has Competitive Players | 118 |
 | This game is Extremely Fun | 111 |
 | This game has Amazing Storytelling | 99 |
 | This game has Amazing Characters | 93 |
@@ -433,4 +433,4 @@ Diff (max vs sum): 72
 | 2023-09-20 | 4.55 | - | 155 | 1,289 |
 | 2023-09-21 | 4.55 | - | 155 | 1,290 |
 | 2023-09-22 | 4.55 | - | 155 | 1,294 |
-| 2023-09-23 | 4.55 | - | 155 | 1,295 |
+| 2023-09-23 | 4.55 | - | 155 | 1,296 |

@@ -3,12 +3,12 @@
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
   "Ranking_Rating": 951,
-  "Ranking_Popularity": 524,
-  "Ranking_PopularitySum": 524,
+  "Ranking_Popularity": 525,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3741,6 +3741,11 @@
       "Time": "2023-09-22T19:07:02.7152714+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T14:07:37.5036562+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3832,7 +3837,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3856,7 +3861,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -3944,7 +3949,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4000,7 +4005,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4135,7 +4140,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 0
     }
   ],
@@ -4143,8 +4148,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-22T00:03:09.8944256+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:12:21.6766519+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:07:37.5036558+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:04.0645651+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:02:28.1855231+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:12:21.6767173+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:58:09.7705163+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:07:37.5037042+00:00"
 }

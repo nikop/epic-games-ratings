@@ -8,12 +8,13 @@ Rating: 3.97 (Ranked 960)
 | Maybe Engage a Little | 67.00% | ~6 |
 | Unforeseen | 56.00% | ~5 |
 | Battlefields Have Memories | 56.00% | ~5 |
+| No More Names | 56.00% | ~5 |
 | Enlisted | 56.00% | ~5 |
-| No More Names | 44.00% | ~4 |
 | Initiate | 33.00% | ~3 |
 | Thrada-Kul | 22.00% | ~2 |
 | Gravity-Challenged Rocks | 22.00% | ~2 |
 | Control is an Illusion | 11.00% | ~1 |
+| Socialite | 11.00% | ~1 |
 | Soldier | 11.00% | ~1 |
 | All the Major Food Groups | 11.00% | ~1 |
 | Beggars Would Ride | 11.00% | ~1 |
@@ -25,7 +26,6 @@ Rating: 3.97 (Ranked 960)
 | Recruit | 0.00% | ~0 |
 | Lights Army | 0.00% | ~0 |
 | Grand Magnus | 0.00% | ~0 |
-| Socialite | 0.00% | ~0 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Petite Bourgeoisie | 0.00% | ~0 |

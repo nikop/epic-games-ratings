@@ -139,22 +139,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.70% | ~98 |
 | All Nations | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
+| Carthage - Ox Hide | 0.60% | ~84 |
 | Noble Difficulty | 0.60% | ~84 |
 | Play a Network Game | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
-| Carthage - Ox Hide | 0.50% | ~70 |
 | The Eternal Treaty | 0.50% | ~70 |
 | Persia | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
 | Capturing Cities | 0.50% | ~70 |
 | Ten Crowns | 0.50% | ~70 |
+| Three Man Chariot | 0.50% | ~70 |
 | Ancient | 0.40% | ~56 |
 | Glorious Difficulty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
 | Hatti | 0.40% | ~56 |
 | Pantheon of Gods | 0.40% | ~56 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
-| Three Man Chariot | 0.40% | ~56 |
 | Siege Tower | 0.40% | ~56 |
 | Conquest Victory | 0.40% | ~56 |
 | Necropolis in Waset | 0.40% | ~56 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,063 (Ranked 127)  
+Progressed: 14,066 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 5 (0.04%) (Ranked 254)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,063 | 5 |
+| 2023-09-23 | 14,066 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,816 (Ranked 207)  

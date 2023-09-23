@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3776,7 +3776,7 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11383,
+  "EOS_Progressed": 11384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -12741,6 +12741,11 @@
       "Time": "2023-09-23T13:10:11.2200621+00:00",
       "NumProgressed": 11383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T14:05:34.411137+00:00",
+      "NumProgressed": 11384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12792,7 +12797,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "07_FinalThreshold",
@@ -12840,7 +12845,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "13_PathOfLich",
@@ -12976,7 +12981,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "31_DivideAndRule",
@@ -13024,7 +13029,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -13136,7 +13141,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -13679,21 +13684,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10165,
+      "Progressed": 10166,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11383,
+      "Progressed": 11384,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-23T09:59:41.2009033+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:10:11.2200614+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:05:34.4111364+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:05:46.3074416+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:10:11.2204504+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:01:16.100538+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:05:34.4113212+00:00"
 }

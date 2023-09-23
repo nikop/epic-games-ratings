@@ -3,12 +3,12 @@
   "Name": "Twin Mirror",
   "ProductSlug": "twin-mirror",
   "Ranking_Rating": 839,
-  "Ranking_Popularity": 524,
-  "Ranking_PopularitySum": 524,
+  "Ranking_Popularity": 525,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-01T14:00:00+00:00",
     "PcReleaseDate": "2020-12-01T14:00:00+00:00",
@@ -164,7 +164,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.1438666+00:00",
   "LastChanged": "2023-08-03T15:03:11.3861867+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T12:59:05.2161899+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:03:15.2341855+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:09:34.6790567+00:00"
+  "LastUpdate_AppInfo": "2023-09-23T13:57:06.6066714+00:00",
+  "LastUpdate_Ratings": "2023-09-23T13:58:52.3223133+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:04:59.0614453+00:00"
 }

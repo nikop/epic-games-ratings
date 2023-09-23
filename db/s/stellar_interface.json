@@ -4,8 +4,8 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -399,9 +399,9 @@
       "ID": "BronzeMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Ensign",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BronzeMissionsCompleted20Achievement",
@@ -687,9 +687,9 @@
       "ID": "ConsumableUsed50TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Beta",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ConsumableWithActiveCountOf10Achievement",
@@ -911,9 +911,9 @@
       "ID": "Killed10000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Wicked Sick",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed1000BossesAchievement",
@@ -951,9 +951,9 @@
       "ID": "Killed10BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper I",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Killed10EnemiesAchievement",
@@ -1015,9 +1015,9 @@
       "ID": "LilySpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Flower Power",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MultipleProjectileAchievement",
@@ -1111,9 +1111,9 @@
       "ID": "PlayedFor5HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Lieutenant",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PlayerHas10DronesAchievement",
@@ -1279,9 +1279,9 @@
       "ID": "VisitLostLord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage II",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "VisitLostLord1TimeAchievement",
@@ -1367,9 +1367,9 @@
       "ID": "VisitRegular100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit II",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "VisitRegular10TimeAchievement",
@@ -1398,8 +1398,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:13:25.2367229+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:08:37.4346411+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:05.7400857+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:06:40.0436742+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:13:25.2370862+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:02:05.6923653+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:08:37.4348118+00:00"
 }

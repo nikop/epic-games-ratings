@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2585,
+  "EOS_Progressed": 2586,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6071,6 +6071,11 @@
       "Time": "2023-09-23T10:08:11.9674532+00:00",
       "NumProgressed": 2585,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T14:09:07.8731814+00:00",
+      "NumProgressed": 2586,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6090,7 +6095,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "BOT_DESTROYER",
@@ -6106,7 +6111,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "CONQUEROR",
@@ -6162,7 +6167,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "GLOVE_SLAP",
@@ -6186,7 +6191,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "GUARD_MAKER",
@@ -6257,14 +6262,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2585,
+      "Progressed": 2586,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:13:56.919153+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:09:07.8731811+00:00",
   "LastUpdate_AppInfo": "2023-09-20T02:12:42.7144796+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:04:30.7918192+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:13:56.9192486+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:00:03.0149836+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:09:07.8732229+00:00"
 }

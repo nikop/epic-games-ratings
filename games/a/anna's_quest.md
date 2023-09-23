@@ -10,19 +10,19 @@
 | My lost nightingale | 56.00% | ~25 |
 | Through the woods | 53.00% | ~24 |
 | Back to the anvil | 49.00% | ~22 |
+| So soothing... | 47.00% | ~21 |
 | Mystery solved | 44.00% | ~20 |
-| So soothing... | 44.00% | ~20 |
+| Kekekeke... | 44.00% | ~20 |
 | Roostwig has entered the building | 44.00% | ~20 |
 | Honey, honey, honey… | 42.00% | ~19 |
 | Fussy eater | 42.00% | ~19 |
 | Far away from home | 42.00% | ~19 |
-| Kekekeke... | 42.00% | ~19 |
 | NOW GO AWAY! | 42.00% | ~19 |
+| Sorry Grandpa | 42.00% | ~19 |
 | Game Over! | 40.00% | ~18 |
 | Show me your true self | 40.00% | ~18 |
 | A very special drink | 40.00% | ~18 |
 | Little genius | 40.00% | ~18 |
-| Sorry Grandpa | 40.00% | ~18 |
 | No posters allowed | 38.00% | ~17 |
 | GG | 36.00% | ~16 |
 | You've got mail! | 36.00% | ~16 |
@@ -36,8 +36,8 @@
 | Ring-a-ding-ding | 29.00% | ~13 |
 | Singstar | 27.00% | ~12 |
 | Bahahahaha... | 27.00% | ~12 |
+| Kill it! KILL IT! | 27.00% | ~12 |
 | Makeover | 24.00% | ~11 |
-| Kill it! KILL IT! | 24.00% | ~11 |
 | Guilty conscience | 22.00% | ~10 |
 | Cameodalic | 20.00% | ~9 |
 | Clever reference #451 | 18.00% | ~8 |

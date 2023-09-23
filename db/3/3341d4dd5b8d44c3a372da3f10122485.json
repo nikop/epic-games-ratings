@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 2,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -721,9 +721,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Majak",
@@ -737,17 +737,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 75,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 80,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Poklop",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:08:34.01372+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:03:40.9349248+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.5559895+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:04:03.5880993+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:08:34.0137914+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:59:36.8876412+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:03:40.9349377+00:00"
 }

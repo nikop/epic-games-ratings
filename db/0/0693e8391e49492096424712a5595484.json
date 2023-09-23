@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1762,9 +1762,9 @@
       "ID": "BeggarWomanFishGrilled",
       "SetID": "db30heh",
       "Name": "Tasty Alms",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "BeggarWomanHut",
@@ -1826,9 +1826,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 199
     },
     {
       "ID": "DwarfHobo",
@@ -1906,9 +1906,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "PriestPistol",
@@ -2057,8 +2057,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:12:24.8275096+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:07:40.5501434+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:04:02.4916052+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:12:24.8275592+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:59:36.1851402+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:07:40.5501819+00:00"
 }

@@ -1,52 +1,52 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 644)  
+Rating: 4.45 (Ranked 643)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~394,069 |
-| Happy Returns | 78.00% | ~379,474 |
-| Hey! That's mine! | 78.00% | ~379,474 |
-| Field Promotion | 74.00% | ~360,014 |
-| Leadhead | 71.00% | ~345,419 |
-| Eradicator | 67.00% | ~325,958 |
-| Surplus | 65.00% | ~316,228 |
-| I Spy | 64.00% | ~311,363 |
-| Burn Baby Burn | 59.00% | ~287,038 |
-| Yellow Beats Green | 55.00% | ~267,578 |
-| Salvage Rights | 53.00% | ~257,848 |
-| Close Call | 50.00% | ~243,252 |
-| Pew Pew | 50.00% | ~243,252 |
-| What IS that? | 50.00% | ~243,252 |
-| Penny Pincher | 49.00% | ~238,387 |
-| Arsenal | 46.00% | ~223,792 |
-| Boot Camp | 45.00% | ~218,927 |
-| Flawless Victory | 42.00% | ~204,332 |
-| Confident | 41.00% | ~199,467 |
-| Exterminator | 36.00% | ~175,142 |
-| Sharpshooter | 34.00% | ~165,412 |
-| Not So Fast | 33.00% | ~160,547 |
-| Great Ball of Fire | 32.00% | ~155,682 |
-| No Sale | 31.00% | ~150,817 |
-| Kaboom! | 30.00% | ~145,952 |
-| Liquidator | 29.00% | ~141,086 |
-| High Voltage | 24.00% | ~116,761 |
-| Filthy Rich | 19.00% | ~92,436 |
-| The Not-So-Friendly Skies | 18.00% | ~87,571 |
-| Power Builder | 17.00% | ~82,706 |
-| Pyrrhic Victory | 17.00% | ~82,706 |
-| Death From Above | 16.00% | ~77,841 |
-| Retry | 16.00% | ~77,841 |
+| First Blood | 81.00% | ~394,073 |
+| Happy Returns | 78.00% | ~379,478 |
+| Hey! That's mine! | 78.00% | ~379,478 |
+| Field Promotion | 74.00% | ~360,017 |
+| Leadhead | 71.00% | ~345,422 |
+| Eradicator | 67.00% | ~325,962 |
+| Surplus | 65.00% | ~316,232 |
+| I Spy | 64.00% | ~311,366 |
+| Burn Baby Burn | 59.00% | ~287,041 |
+| Yellow Beats Green | 55.00% | ~267,580 |
+| Salvage Rights | 53.00% | ~257,850 |
+| Close Call | 50.00% | ~243,255 |
+| Pew Pew | 50.00% | ~243,255 |
+| What IS that? | 50.00% | ~243,255 |
+| Penny Pincher | 49.00% | ~238,390 |
+| Arsenal | 46.00% | ~223,795 |
+| Boot Camp | 45.00% | ~218,930 |
+| Flawless Victory | 42.00% | ~204,334 |
+| Confident | 41.00% | ~199,469 |
+| Exterminator | 36.00% | ~175,144 |
+| Sharpshooter | 34.00% | ~165,413 |
+| Not So Fast | 33.00% | ~160,548 |
+| Great Ball of Fire | 32.00% | ~155,683 |
+| No Sale | 31.00% | ~150,818 |
+| Kaboom! | 30.00% | ~145,953 |
+| Liquidator | 29.00% | ~141,088 |
+| High Voltage | 24.00% | ~116,762 |
+| Filthy Rich | 19.00% | ~92,437 |
+| The Not-So-Friendly Skies | 18.00% | ~87,572 |
+| Power Builder | 17.00% | ~82,707 |
+| Pyrrhic Victory | 17.00% | ~82,707 |
+| Death From Above | 16.00% | ~77,842 |
+| Retry | 16.00% | ~77,842 |
 | Head Trauma | 12.00% | ~58,381 |
-| Full Defense | 10.00% | ~48,650 |
-| Overseer | 9.00% | ~43,785 |
-| Annihilator | 8.00% | ~38,920 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,920 |
-| Indecisive | 6.00% | ~29,190 |
-| Base Defender | 5.00% | ~24,325 |
-| Relay Race | 5.00% | ~24,325 |
+| Full Defense | 10.00% | ~48,651 |
+| Overseer | 9.00% | ~43,786 |
+| Annihilator | 8.00% | ~38,921 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,921 |
+| Indecisive | 6.00% | ~29,191 |
+| Base Defender | 5.00% | ~24,326 |
+| Relay Race | 5.00% | ~24,326 |
 | Diversity | 3.00% | ~14,595 |
 | Full Potential | 3.00% | ~14,595 |
 | Tower Expert | 3.00% | ~14,595 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~487 |
 | You Monster | 0.10% | ~487 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,505 (Ranked 35)  
+Progressed: 486,510 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 4 (0.00%) (Ranked 290)
 | 2023-09-20 | 486,376 | 4 |
 | 2023-09-21 | 486,411 | 4 |
 | 2023-09-22 | 486,463 | 4 |
-| 2023-09-23 | 486,505 | 4 |
+| 2023-09-23 | 486,510 | 4 |
 ## Awards
 Max (Great for Beginners): 247  (Ranked 258)  
 Sum: 1,688 (Ranked 213)  

@@ -21,10 +21,10 @@
 | Clear the Road | 26.00% | ~7 |
 | Never Miss | 22.00% | ~6 |
 | Animal Sighting | 22.00% | ~6 |
+| Adventure Bay’s Citizen | 22.00% | ~6 |
 | In the Air | 19.00% | ~5 |
 | You Have Been Everywhere | 19.00% | ~5 |
 | Don’t Miss Any | 19.00% | ~5 |
-| Adventure Bay’s Citizen | 19.00% | ~5 |
 | Everything Under Control | 15.00% | ~4 |
 | A Great Explorer | 11.00% | ~3 |
 | Nothing Can Stop You | 11.00% | ~3 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 457)  
+Progressed: 27 (Ranked 458)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |

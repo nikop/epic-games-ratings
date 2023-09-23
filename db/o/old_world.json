@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1731,9 +1731,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14063,
+  "EOS_Progressed": 14066,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12036,6 +12036,11 @@
       "Time": "2023-09-23T13:09:13.169142+00:00",
       "NumProgressed": 14063,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T14:04:39.2063417+00:00",
+      "NumProgressed": 14066,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12197,9 +12202,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1",
       "SetID": "9201eeb",
       "Name": "Carthage - Ox Hide",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -14101,9 +14106,9 @@
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
       "SetID": "9201eeb",
       "Name": "Three Man Chariot",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -14414,21 +14419,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14063,
+      "Progressed": 14066,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14063,
+      "Progressed": 14066,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T12:01:32.99154+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:09:13.1691414+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:04:39.2063413+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:06:02.3186474+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:09:13.1711147+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:01:30.9841668+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:04:39.2071151+00:00"
 }

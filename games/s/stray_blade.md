@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 88.00% | ~75 |
-| Tinkerer | 69.00% | ~59 |
+| Self-Defence | 88.00% | ~76 |
+| Tinkerer | 70.00% | ~60 |
 | Welcome to the Club | 40.00% | ~34 |
-| Apprentice | 38.00% | ~32 |
-| A new World ahead | 31.00% | ~26 |
+| Apprentice | 37.00% | ~32 |
+| A new World ahead | 31.00% | ~27 |
 | Can't touch this | 27.00% | ~23 |
-| Don't Cry Wolf | 25.00% | ~21 |
+| Don't Cry Wolf | 26.00% | ~22 |
 | Freezing Cold | 19.00% | ~16 |
-| Expert | 18.00% | ~15 |
+| Expert | 17.00% | ~15 |
 | Searing Heat | 15.00% | ~13 |
 | Nothing but the Truth | 15.00% | ~13 |
 | The Golden Flash | 14.00% | ~12 |
 | The Power of the Mountains | 14.00% | ~12 |
 | Changing the World | 12.00% | ~10 |
-| Witch | 11.00% | ~9 |
+| Witch | 10.00% | ~9 |
 | Locked and Loaded | 9.00% | ~8 |
 | The A-Team | 9.00% | ~8 |
 | Through Dangers Untold | 8.00% | ~7 |
@@ -32,10 +32,10 @@
 | Defeat Ingla | 5.00% | ~4 |
 | Ancient Powers | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
-| Wayseeker | 4.00% | ~3 |
-| Pathfinder | 4.00% | ~3 |
-| The End | 4.00% | ~3 |
-| Unveiling the Truth | 4.00% | ~3 |
+| Wayseeker | 3.00% | ~3 |
+| Pathfinder | 3.00% | ~3 |
+| The End | 3.00% | ~3 |
+| Unveiling the Truth | 3.00% | ~3 |
 | Sponsor | 2.00% | ~2 |
 | Wizard | 2.00% | ~2 |
 | Globetrotter | 2.00% | ~2 |
@@ -51,7 +51,7 @@
 | Fashionista | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 389)  
+Progressed: 86 (Ranked 389)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-16 | 79 | 0 |
 | 2023-09-17 | 82 | 0 |
 | 2023-09-22 | 85 | 0 |
+| 2023-09-23 | 86 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

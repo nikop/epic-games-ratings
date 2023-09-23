@@ -4,8 +4,8 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -481,8 +481,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-09-23T13:12:16.0918907+00:00",
+  "LastChanged_Achievements": "2023-09-23T14:07:32.1912656+00:00",
   "LastUpdate_AppInfo": "2023-09-20T05:57:18.1394121+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:06:13.0179016+00:00",
-  "LastUpdate_Achievements": "2023-09-23T13:12:16.0919388+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:01:39.8928227+00:00",
+  "LastUpdate_Achievements": "2023-09-23T14:07:32.1913038+00:00"
 }
