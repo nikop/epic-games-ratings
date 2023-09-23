@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1387,
+  "EOS_Progressed": 1388,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5046,6 +5046,11 @@
       "Time": "2023-09-23T11:07:50.8712645+00:00",
       "NumProgressed": 1387,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T12:07:34.3563982+00:00",
+      "NumProgressed": 1388,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5057,7 +5062,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -5081,7 +5086,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -5129,7 +5134,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_headquarters_10",
@@ -5145,7 +5150,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_headquarters_20",
@@ -5161,7 +5166,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5233,7 +5238,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5360,14 +5365,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1387,
+      "Progressed": 1388,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:07:50.8712641+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:07:34.3563977+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:14.9818312+00:00",
-  "LastUpdate_Ratings": "2023-09-23T10:59:39.7721365+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:07:50.8713109+00:00"
+  "LastUpdate_Ratings": "2023-09-23T11:59:23.9004918+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:07:34.3564648+00:00"
 }

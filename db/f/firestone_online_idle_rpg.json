@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -294,7 +294,7 @@
   ],
   "EOS_Progressed": 1961,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5869,9 +5869,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 314
     },
     {
       "ID": "exoticmerchant",
@@ -6310,8 +6310,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:06:45.0908963+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:06:23.445067+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:01:41.1451266+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:06:45.0909867+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:01:34.9140224+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:06:23.4452082+00:00"
 }

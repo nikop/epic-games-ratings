@@ -1645,10 +1645,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1815,
       "NumberOfAwardsMax": 221
+    },
+    {
+      "Time": "2023-09-23T12:01:32.9915401+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1816,
+      "NumberOfAwardsMax": 221
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1815,
+  "NumberOfAwards": 1816,
   "NumberOfAwardsMax": 221,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1674,7 +1680,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1725,9 +1731,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14061,
+  "EOS_Progressed": 14062,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12020,6 +12026,11 @@
       "Time": "2023-09-23T11:04:47.4203846+00:00",
       "NumProgressed": 14061,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T12:04:20.9171474+00:00",
+      "NumProgressed": 14062,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -14398,21 +14409,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14061,
+      "Progressed": 14062,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14061,
+      "Progressed": 14062,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-09-23T02:13:33.1973754+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:04:47.4203842+00:00",
+  "LastChanged": "2023-09-23T12:01:32.99154+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:04:20.9171467+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:01:38.3390527+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:04:47.4211843+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:01:32.9915406+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:04:20.9183421+00:00"
 }

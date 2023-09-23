@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 196,
-  "EOS_Completed": 10,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.1,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 5.61,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -909,6 +909,11 @@
       "Time": "2023-09-23T11:09:42.8582326+00:00",
       "NumProgressed": 196,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-23T12:09:37.4020384+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 25,
@@ -926,9 +931,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "META_ALL_LINK",
@@ -950,9 +955,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "META_HALF_LINK",
@@ -1006,9 +1011,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1078,9 +1083,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "PROGRESS_N2",
@@ -1120,13 +1125,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 196,
-      "Completed": 10
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:09:42.8582318+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:09:37.4020376+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:02:38.836017+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:09:42.8582527+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:02:37.8660275+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:09:37.4020648+00:00"
 }

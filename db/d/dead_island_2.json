@@ -4708,10 +4708,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9156,
       "NumberOfAwardsMax": 6156
+    },
+    {
+      "Time": "2023-09-23T12:02:06.9413232+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9157,
+      "NumberOfAwardsMax": 6156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9156,
+  "NumberOfAwards": 9157,
   "NumberOfAwardsMax": 6156,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4761,7 +4767,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 384
+      "Count": 385
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4770,9 +4776,9 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 684680,
+  "EOS_Progressed": 684713,
   "EOS_Completed": 2166,
-  "EOS_NewPlayers": 4061,
+  "EOS_NewPlayers": 4051,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22320,6 +22326,11 @@
       "Time": "2023-09-23T11:08:03.3263408+00:00",
       "NumProgressed": 684680,
       "NumCompleted": 2166
+    },
+    {
+      "Time": "2023-09-23T12:07:47.8249082+00:00",
+      "NumProgressed": 684713,
+      "NumCompleted": 2166
     }
   ],
   "TotalAchievements": 45,
@@ -22403,7 +22414,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "ach_defensive",
@@ -22467,7 +22478,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "ach_hazardous_materials",
@@ -22507,7 +22518,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "ach_investigator",
@@ -22690,22 +22701,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 684680,
+      "Progressed": 684713,
       "Completed": 2166
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 10221,
-      "Completed": 10221
+      "Progressed": 10254,
+      "Completed": 10254
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-23T11:02:10.5222+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:08:03.3263404+00:00",
+  "LastChanged": "2023-09-23T12:02:06.9413231+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:07:47.8249077+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:42.2065693+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:02:10.5222005+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:08:03.3264511+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:02:06.9413236+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:07:47.8250565+00:00"
 }

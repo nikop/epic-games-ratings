@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -249,9 +249,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202033,
+  "EOS_Progressed": 202039,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -17084,6 +17084,11 @@
       "Time": "2023-09-23T11:08:21.5580759+00:00",
       "NumProgressed": 202033,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-09-23T12:08:07.7472066+00:00",
+      "NumProgressed": 202039,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 29,
@@ -17119,7 +17124,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 189911
+      "UsersEstimate": 189917
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17279,7 +17284,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20203
+      "UsersEstimate": 20204
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -17295,7 +17300,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14142
+      "UsersEstimate": 14143
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -17326,7 +17331,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202033,
+      "Progressed": 202039,
       "Completed": 504
     }
   ],
@@ -17334,8 +17339,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-21T07:00:54.1408564+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:08:21.5580755+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:08:07.7472057+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:10.0973549+00:00",
-  "LastUpdate_Ratings": "2023-09-23T10:02:10.5796697+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:08:21.5581669+00:00"
+  "LastUpdate_Ratings": "2023-09-23T11:57:13.716942+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:08:07.7473314+00:00"
 }

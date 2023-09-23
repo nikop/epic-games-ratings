@@ -2,9 +2,9 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -701,9 +701,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -789,9 +789,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -828,8 +828,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:07:51.9009733+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:07:35.3735375+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-23T10:57:37.3979768+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:07:51.9009917+00:00"
+  "LastUpdate_Ratings": "2023-09-23T11:57:15.3363894+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:07:35.37357+00:00"
 }

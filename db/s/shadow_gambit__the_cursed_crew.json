@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 666,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.71,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1824,6 +1824,11 @@
       "Time": "2023-09-23T06:04:09.7112816+00:00",
       "NumProgressed": 665,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-23T12:05:21.6056414+00:00",
+      "NumProgressed": 666,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1842,9 +1847,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 453
     },
     {
       "ID": "_03_FinishAct1",
@@ -1852,7 +1857,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1884,7 +1889,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "_08_Completion_10",
@@ -1962,9 +1967,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 273
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1988,7 +1993,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2004,7 +2009,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2012,7 +2017,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -2020,7 +2025,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2043,7 +2048,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 666,
       "Completed": 18
     }
   ],
@@ -2051,8 +2056,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:05:48.5289286+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:05:21.6056409+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:33.9837917+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:01:55.6728428+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:05:48.5289511+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:01:50.9958295+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:05:21.6056689+00:00"
 }

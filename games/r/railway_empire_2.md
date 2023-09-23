@@ -20,8 +20,8 @@ Rating: 4.45 (Ranked 644)
 | Poor Devil | 54.00% | ~1,047 |
 | Facility Manager | 53.00% | ~1,028 |
 | Producer | 50.00% | ~970 |
+| Bridge Builder | 42.00% | ~814 |
 | Apprentice | 41.00% | ~795 |
-| Bridge Builder | 41.00% | ~795 |
 | Access granted | 35.00% | ~679 |
 | Going once, going twice, sold | 35.00% | ~679 |
 | Stoker | 33.00% | ~640 |

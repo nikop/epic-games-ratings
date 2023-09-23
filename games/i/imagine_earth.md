@@ -10,28 +10,28 @@ Number of Ratings: 22  (23.09.2022)
 | Joma | 43.00% | ~179 |
 | Campaign Bronze | 35.00% | ~146 |
 | Lorian | 31.00% | ~129 |
-| Metropolis | 27.00% | ~112 |
+| Metropolis | 27.00% | ~113 |
 | Rounos | 24.00% | ~100 |
-| Campaign Silver | 21.00% | ~87 |
-| Magni | 21.00% | ~87 |
+| Campaign Silver | 21.00% | ~88 |
+| Magni | 21.00% | ~88 |
 | Bora | 18.00% | ~75 |
-| Scientist | 15.00% | ~62 |
+| Scientist | 15.00% | ~63 |
 | Campaign Gold | 14.00% | ~58 |
 | Edora | 14.00% | ~58 |
 | Environmentalist | 12.00% | ~50 |
-| Iqunox | 9.00% | ~37 |
-| Udion Torix | 9.00% | ~37 |
+| Iqunox | 9.00% | ~38 |
+| Udion Torix | 9.00% | ~38 |
 | Forester | 6.00% | ~25 |
 | Thera | 6.00% | ~25 |
 | Campaign Titanium | 5.00% | ~21 |
 | Builder | 4.00% | ~17 |
 | World Creator | 4.00% | ~17 |
-| Multitalent | 3.00% | ~12 |
+| Multitalent | 3.00% | ~13 |
 | Competitor Bronze | 0.50% | ~2 |
 | Competitor Silver | 0.20% | ~1 |
 | Competitor Gold | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416 (Ranked 276)  
+Progressed: 417 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-16 | 413 | 0 |
 | 2023-09-17 | 414 | 0 |
 | 2023-09-22 | 415 | 0 |
-| 2023-09-23 | 416 | 0 |
+| 2023-09-23 | 417 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

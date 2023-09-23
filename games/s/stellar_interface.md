@@ -36,6 +36,7 @@
 | Food Poisoning | 6.00% | ~4 |
 | Usurper I | 6.00% | ~4 |
 | Flower Power | 6.00% | ~4 |
+| 50Gb HDD | 6.00% | ~4 |
 | Galactic Lieutenant | 6.00% | ~4 |
 | Sectoral Captain | 6.00% | ~4 |
 | Collateral Damage II | 6.00% | ~4 |
@@ -51,7 +52,6 @@
 | Bird of Prey | 5.00% | ~3 |
 | Wicked Sick | 5.00% | ~3 |
 | Usurper II | 5.00% | ~3 |
-| 50Gb HDD | 5.00% | ~3 |
 | Silver Foundation | 5.00% | ~3 |
 | Silver Pest Control | 5.00% | ~3 |
 | Mysterious Skin | 5.00% | ~3 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 405)  
+Progressed: 63 (Ranked 406)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |

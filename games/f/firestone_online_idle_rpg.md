@@ -19,7 +19,7 @@ Rating: 4.02 (Ranked 946)
 | Inspection | 17.00% | ~333 |
 | Miner Clicker | 17.00% | ~333 |
 | Dragon Master | 16.00% | ~314 |
-| Enlightenment | 15.00% | ~294 |
+| Enlightenment | 16.00% | ~314 |
 | Hero inspection | 15.00% | ~294 |
 | Lieutenant | 15.00% | ~294 |
 | Mysterious Rock | 14.00% | ~275 |

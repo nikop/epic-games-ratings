@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43305,
+  "EOS_Progressed": 43306,
   "EOS_Completed": 238,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -15641,6 +15641,11 @@
       "Time": "2023-09-23T11:05:20.0984721+00:00",
       "NumProgressed": 43305,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-23T12:04:50.8310139+00:00",
+      "NumProgressed": 43306,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15700,7 +15705,7 @@
       "Name": "Hatching",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4331
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -15708,7 +15713,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -15772,7 +15777,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34644
+      "UsersEstimate": 34645
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15796,7 +15801,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -15820,7 +15825,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -15892,7 +15897,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27282
+      "UsersEstimate": 27283
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -15900,7 +15905,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11692
+      "UsersEstimate": 11693
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -15916,7 +15921,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25983
+      "UsersEstimate": 25984
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -15924,7 +15929,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29014
+      "UsersEstimate": 29015
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -15956,7 +15961,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19487
+      "UsersEstimate": 19488
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -15988,7 +15993,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40274
+      "UsersEstimate": 40275
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16003,7 +16008,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43305,
+      "Progressed": 43306,
       "Completed": 238
     }
   ],
@@ -16011,8 +16016,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:05:20.0984717+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:04:50.8310132+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:19.6302549+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:01:34.4266593+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:05:20.098573+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:01:28.8833244+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:04:50.8311454+00:00"
 }

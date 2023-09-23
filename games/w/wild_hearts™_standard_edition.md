@@ -15,9 +15,9 @@
 | Memory Rouser | 67.00% | ~18 |
 | Mountain Splitter | 67.00% | ~18 |
 | Helpful Heart | 67.00% | ~18 |
+| Kemono Hunter | 63.00% | ~17 |
+| Expert Conjuror | 63.00% | ~17 |
 | Distance Devourer | 59.00% | ~16 |
-| Kemono Hunter | 59.00% | ~16 |
-| Expert Conjuror | 59.00% | ~16 |
 | Subsistence Skills | 56.00% | ~15 |
 | Bonds of Enmity | 56.00% | ~15 |
 | Counter Specialist | 52.00% | ~14 |

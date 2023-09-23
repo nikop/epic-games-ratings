@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~27,062 |
+| Follow the Light | 41.00% | ~27,063 |
 | Let There Be Light | 34.00% | ~22,442 |
 | Float Like a Butterfly | 32.00% | ~21,122 |
 | Nordic Walking | 26.00% | ~17,162 |
 | Bright Falls' Finest | 25.00% | ~16,502 |
-| Under a Thin Layer of Skin | 22.00% | ~14,521 |
+| Under a Thin Layer of Skin | 22.00% | ~14,522 |
 | Paging Mr. Wake | 19.00% | ~12,541 |
 | Park Ranger | 18.00% | ~11,881 |
 | Back! Back, I Say! | 17.00% | ~11,221 |
@@ -35,8 +35,8 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 11.00% | ~7,261 |
 | Right of Way | 10.00% | ~6,601 |
 | What Light Through Yonder Window | 9.00% | ~5,941 |
-| Tornado Wrangler | 8.00% | ~5,280 |
-| Departure | 8.00% | ~5,280 |
+| Tornado Wrangler | 8.00% | ~5,281 |
+| Departure | 8.00% | ~5,281 |
 | A Friend in Need | 8.00% | ~2,358 |
 | Drink 'Em Both Up | 6.00% | ~3,960 |
 | Hardboiled Writer | 6.00% | ~3,960 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,320 |
 | An Idyllic Small Town | 2.00% | ~1,320 |
 | Couch Potato | 2.00% | ~1,320 |
-| Iron Will | 2.00% | ~589 |
+| Iron Will | 2.00% | ~590 |
 | Go Gentle Into That Good Light | 1.00% | ~295 |
 | Words Will Never Harm You | 0.70% | ~206 |
 | Cardboard Companions | 0.60% | ~177 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,006 (Ranked 89)  
+Progressed: 66,007 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 66 (0.10%) (Ranked 231)
 | 2023-09-20 | 65,872 | 65 |
 | 2023-09-21 | 65,931 | 66 |
 | 2023-09-22 | 65,981 | 66 |
-| 2023-09-23 | 66,006 | 66 |
+| 2023-09-23 | 66,007 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

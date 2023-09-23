@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -484,7 +484,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7993,
+  "EOS_Progressed": 7994,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 2,
@@ -8949,6 +8949,11 @@
       "Time": "2023-09-23T11:05:38.1362254+00:00",
       "NumProgressed": 7993,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-23T12:05:10.1906075+00:00",
+      "NumProgressed": 7994,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 29,
@@ -8960,7 +8965,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6634
+      "UsersEstimate": 6635
     },
     {
       "ID": "ACH02",
@@ -8984,7 +8989,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3037
+      "UsersEstimate": 3038
     },
     {
       "ID": "ACH05",
@@ -9191,7 +9196,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7993,
+      "Progressed": 7994,
       "Completed": 52
     }
   ],
@@ -9199,8 +9204,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:05:38.136225+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:05:10.190607+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:01:10.5403659+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:05:38.1362805+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:01:06.4594554+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:05:10.1906903+00:00"
 }

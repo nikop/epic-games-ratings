@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8004,9 +8004,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297146,
+  "EOS_Progressed": 297152,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24874,6 +24874,11 @@
       "Time": "2023-09-23T11:07:45.9453381+00:00",
       "NumProgressed": 297146,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-23T12:07:28.4319489+00:00",
+      "NumProgressed": 297152,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24885,7 +24890,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41600
+      "UsersEstimate": 41601
     },
     {
       "ID": "PFA_10",
@@ -24933,7 +24938,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20800
+      "UsersEstimate": 20801
     },
     {
       "ID": "PFA_16",
@@ -24949,7 +24954,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20800
+      "UsersEstimate": 20801
     },
     {
       "ID": "PFA_18",
@@ -24965,7 +24970,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20800
+      "UsersEstimate": 20801
     },
     {
       "ID": "PFA_2",
@@ -25045,7 +25050,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8914
+      "UsersEstimate": 8915
     },
     {
       "ID": "PFA_29",
@@ -25061,7 +25066,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8914
+      "UsersEstimate": 8915
     },
     {
       "ID": "PFA_30",
@@ -25069,7 +25074,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32686
+      "UsersEstimate": 32687
     },
     {
       "ID": "PFA_31",
@@ -25077,7 +25082,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "PFA_32",
@@ -25101,7 +25106,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8914
+      "UsersEstimate": 8915
     },
     {
       "ID": "PFA_35",
@@ -25109,7 +25114,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26743
+      "UsersEstimate": 26744
     },
     {
       "ID": "PFA_36",
@@ -25157,7 +25162,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "PFA_41",
@@ -25165,7 +25170,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14857
+      "UsersEstimate": 14858
     },
     {
       "ID": "PFA_42",
@@ -25197,7 +25202,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "PFA_5",
@@ -25213,7 +25218,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38629
+      "UsersEstimate": 38630
     },
     {
       "ID": "PFA_7",
@@ -25221,7 +25226,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38629
+      "UsersEstimate": 38630
     },
     {
       "ID": "PFA_8",
@@ -25229,7 +25234,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32686
+      "UsersEstimate": 32687
     },
     {
       "ID": "PFA_9",
@@ -25237,14 +25242,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26743
+      "UsersEstimate": 26744
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297146,
+      "Progressed": 297152,
       "Completed": 476
     }
   ],
@@ -25252,8 +25257,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-23T11:00:38.6122149+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:07:45.9453377+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:07:28.4319483+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:00:38.6122155+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:07:45.945447+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:00:30.7170454+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:07:28.4321455+00:00"
 }

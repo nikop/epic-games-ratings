@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109673,
+  "EOS_Progressed": 109674,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2529,6 +2529,11 @@
       "Time": "2023-09-22T21:07:48.2896421+00:00",
       "NumProgressed": 109673,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T12:03:22.0642966+00:00",
+      "NumProgressed": 109674,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2668,7 +2673,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14257
+      "UsersEstimate": 14258
     },
     {
       "ID": "25",
@@ -2811,15 +2816,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109673,
+      "Progressed": 109674,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-09-23T11:03:31.0374955+00:00",
+  "LastChanged_Achievements": "2023-09-23T12:03:22.0642961+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.7225094+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:01:21.8184185+00:00",
-  "LastUpdate_Achievements": "2023-09-23T11:03:31.0375315+00:00"
+  "LastUpdate_Ratings": "2023-09-23T12:01:17.3663953+00:00",
+  "LastUpdate_Achievements": "2023-09-23T12:03:22.0643463+00:00"
 }

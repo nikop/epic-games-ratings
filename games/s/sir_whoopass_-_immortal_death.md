@@ -17,7 +17,7 @@
 | Rolling, Rolling, Rolling | 73.00% | ~74 |
 | Fire-fighter! | 67.00% | ~68 |
 | Oh, you're up to no gouda! | 63.00% | ~64 |
-| Meat grinder | 60.00% | ~61 |
+| Meat grinder | 61.00% | ~62 |
 | Make Love not War-Craft a Mistlefoe | 59.00% | ~60 |
 | You're not going to blow me up! | 54.00% | ~55 |
 | Mushroom soup of the day | 52.00% | ~53 |
@@ -34,7 +34,7 @@
 | Make America Grate Again | 36.00% | ~36 |
 | You can't stop me, bro! | 35.00% | ~35 |
 | You are no match for me, Billy! | 34.00% | ~34 |
-| Catch the bus with me! | 33.00% | ~33 |
+| Catch the bus with me! | 34.00% | ~34 |
 | Karaoke king | 33.00% | ~33 |
 | I'm going to get a concussion | 31.00% | ~31 |
 | Meatballs, coming up! | 30.00% | ~30 |
@@ -43,23 +43,23 @@
 | Hovering around | 25.00% | ~25 |
 | Kleptomaniac | 25.00% | ~25 |
 | Ripe Meat Off The Bone! | 24.00% | ~24 |
+| You're not so Big anymore, Boi! | 23.00% | ~23 |
+| Your daily dose of Vitamin C. | 23.00% | ~23 |
 | I cant stand still! | 23.00% | ~23 |
-| You're not so Big anymore, Boi! | 22.00% | ~22 |
-| Your daily dose of Vitamin C. | 22.00% | ~22 |
 | Master Butcher | 18.00% | ~18 |
 | Slimy... yet satisfying | 18.00% | ~18 |
 | Deal with it | 17.00% | ~17 |
 | Just wing it! | 16.00% | ~16 |
+| Ancient Ruins of Dirty Feet | 14.00% | ~14 |
 | Yeehaw!!! | 14.00% | ~14 |
 | You're looking mozzare-hella good! | 13.00% | ~13 |
-| Ancient Ruins of Dirty Feet | 13.00% | ~13 |
 | Timber! | 11.00% | ~11 |
 | Free Of Chains | 11.00% | ~11 |
 | Grumpy Immortal | 10.00% | ~10 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~9 |
+| I drink, but I'm not a drunk! | 9.00% | ~9 |
 | Scrambled Eggs | 9.00% | ~9 |
 | Spoiler alert! | 8.00% | ~8 |
-| I drink, but I'm not a drunk! | 8.00% | ~8 |
 | I want to throw up! | 7.00% | ~7 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~7 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~5 |
