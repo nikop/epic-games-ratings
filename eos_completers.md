@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 93.61% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 93.48% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.64% |
@@ -33,7 +33,7 @@
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.13% |
 | 32 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.89% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 34 | [Sonic Origins](games/s/sonic_origins.md) | 8.32% |
+| 34 | [Sonic Origins](games/s/sonic_origins.md) | 8.30% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
@@ -70,7 +70,7 @@
 | 68 | [The Complex](games/t/the_complex.md) | 3.42% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 70 | [Doodle God](games/d/doodle_god.md) | 3.35% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.32% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.34% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.29% |
 | 73 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.26% |
 | 74 | [Without Escape](games/w/without_escape.md) | 3.23% |
@@ -78,10 +78,10 @@
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 77 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 78 | [Mega City Police](games/m/mega_city_police.md) | 3.03% |
-| 78 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 3.03% |
-| 80 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 81 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
-| 82 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
+| 79 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 80 | [FORECLOSED](games/f/foreclosed.md) | 2.91% |
+| 81 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
+| 82 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2.78% |
 | 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.74% |
 | 84 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.71% |
@@ -92,11 +92,11 @@
 | 90 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.45% |
 | 91 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
-| 93 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.40% |
-| 94 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
+| 93 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
+| 94 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.35% |
 | 95 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.33% |
 | 95 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.33% |
-| 97 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 97 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 98 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
 | 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
@@ -125,9 +125,9 @@
 | 123 | [Infindustry](games/i/infindustry.md) | 1.15% |
 | 124 | [Trifox](games/t/trifox.md) | 1.09% |
 | 125 | [Adios](games/a/adios.md) | 1.04% |
-| 126 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.03% |
-| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
-| 128 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
+| 126 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.02% |
+| 126 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 1.02% |
+| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 129 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
 | 129 | [Sable](games/s/sable.md) | 1.01% |
 | 131 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
@@ -167,8 +167,8 @@
 | 165 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 165 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 167 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
-| 168 | [Dead Space](games/d/dead_space.md) | 0.44% |
 | 168 | [Tchia](games/t/tchia.md) | 0.44% |
+| 169 | [Dead Space](games/d/dead_space.md) | 0.43% |
 | 170 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
 | 171 | [Train Valley](games/t/train_valley.md) | 0.41% |
 | 172 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
@@ -188,12 +188,12 @@
 | 186 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 186 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 188 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 188 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.30% |
 | 188 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
 | 188 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 192 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 192 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 192 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 191 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
+| 191 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 191 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.29% |
 | 195 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.26% |
 | 195 | [Scrapnaut](games/s/scrapnaut.md) | 0.26% |
 | 197 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
@@ -533,6 +533,7 @@
 | 290 | [Saint Kotar](games/s/saint_kotar.md) | 0.00% |
 | 290 | [Scathe](games/s/scathe.md) | 0.00% |
 | 290 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 0.00% |
+| 290 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 0.00% |
 | 290 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.00% |
 | 290 | [Shadow Gangs](games/s/shadow_gangs.md) | 0.00% |
 | 290 | [Shalnor Legends 2: Trials of Thunder](games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 0.00% |
