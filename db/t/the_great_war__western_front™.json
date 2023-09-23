@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1984,6 +1984,11 @@
       "Time": "2023-09-22T22:06:36.2075594+00:00",
       "NumProgressed": 447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T01:45:40.5891012+00:00",
+      "NumProgressed": 448,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2059,7 +2064,7 @@
       "Name": "Earth Shattering",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2073,9 +2078,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2090,7 +2095,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 448,
       "Completed": 0
     }
   ],
@@ -2098,8 +2103,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:08:03.9930571+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:45:40.5891007+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:31.3171968+00:00",
-  "LastUpdate_Ratings": "2023-09-23T00:01:17.6565924+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:08:03.9930829+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:39:08.7848523+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:45:40.5891228+00:00"
 }

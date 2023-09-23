@@ -2,9 +2,9 @@
   "ID": "1abfe306ce6d46999d2e76eadccf658e",
   "Name": "Kombinera",
   "ProductSlug": "kombinara-e5baa8",
-  "Ranking_EOS_Progress": 633,
+  "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-07T14:30:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:03.8029502+00:00",
   "LastChanged": "2023-03-31T05:57:03.8029503+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:39.7934239+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:57:46.1353317+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:07:34.9021235+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:36:38.2343265+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:45:18.4761959+00:00"
 }

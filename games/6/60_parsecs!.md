@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~714 |
-| Friendzone | 80.00% | ~589 |
-| Space Colonization | 80.00% | ~589 |
+| Don't Panic! | 97.00% | ~715 |
+| Friendzone | 80.00% | ~590 |
+| Space Colonization | 80.00% | ~590 |
 | Hello World | 74.00% | ~545 |
-| Space Engineer | 64.00% | ~471 |
+| Space Engineer | 64.00% | ~472 |
 | Tinkerer | 63.00% | ~464 |
 | Dust to Dust | 57.00% | ~420 |
-| Across The Stars | 48.00% | ~353 |
-| Crafty | 48.00% | ~353 |
+| Across The Stars | 48.00% | ~354 |
+| Crafty | 48.00% | ~354 |
 | All Seats Taken | 39.00% | ~287 |
 | For Science! | 35.00% | ~258 |
 | Meet the Petersons | 32.00% | ~236 |
-| Stay Cool | 29.00% | ~213 |
-| KIA | 26.00% | ~191 |
+| Stay Cool | 29.00% | ~214 |
+| KIA | 26.00% | ~192 |
 | Mutiny in making | 24.00% | ~177 |
 | Et tu, Astrocitizen? | 20.00% | ~147 |
 | Eco-Shuttle | 19.00% | ~140 |
@@ -38,10 +38,10 @@
 | 2018: A Soup Odyssey | 3.00% | ~22 |
 | Bovine Domain | 2.00% | ~15 |
 | That's No Moon! | 2.00% | ~15 |
-| AAARGH! | 1.00% | ~7 |
 | No Ticket | 1.00% | ~7 |
-| Bingpot! | 1.00% | ~7 |
 | Feels like home | 1.00% | ~7 |
+| AAARGH! | 0.90% | ~7 |
+| Bingpot! | 0.90% | ~7 |
 | Space Selfie | 0.80% | ~6 |
 | Small Step | 0.50% | ~4 |
 | Giant Leap | 0.30% | ~2 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 240)  
+Progressed: 737 (Ranked 240)  
 Completed: 1 (0.14%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 1 (0.14%) (Ranked 219)
 | 2023-09-10 | 734 | 1 |
 | 2023-09-11 | 735 | 1 |
 | 2023-09-16 | 736 | 1 |
+| 2023-09-23 | 737 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,7 +3,7 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 417,
-  "Ranking_Popularity": 275,
+  "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 290,
@@ -990,9 +990,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225999,
+  "EOS_Progressed": 226014,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1707,
+  "EOS_NewPlayers": 1709,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11930,6 +11930,11 @@
       "Time": "2023-09-23T00:03:38.4003134+00:00",
       "NumProgressed": 225999,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T01:42:23.9799185+00:00",
+      "NumProgressed": 226014,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11989,7 +11994,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9040
+      "UsersEstimate": 9041
     },
     {
       "ID": "Chapter2",
@@ -12341,7 +12346,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9040
+      "UsersEstimate": 9041
     },
     {
       "ID": "DwarfElf15Support",
@@ -12389,7 +12394,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70060
+      "UsersEstimate": 70064
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12437,7 +12442,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11300
+      "UsersEstimate": 11301
     },
     {
       "ID": "FollowBraztok",
@@ -12644,21 +12649,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 225999,
+      "Progressed": 226014,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 225999,
+      "Progressed": 226014,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-22T23:00:48.1679541+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:03:38.4003128+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:42:23.979918+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:36.9932457+00:00",
-  "LastUpdate_Ratings": "2023-09-23T00:01:28.4773391+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:03:38.4005133+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:39:15.4102902+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:42:23.9801171+00:00"
 }

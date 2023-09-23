@@ -414,9 +414,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:04:14.6918933+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:42:51.2305688+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:58:58.6661814+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:04:14.691992+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:37:30.1162032+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:42:51.2306191+00:00"
 }

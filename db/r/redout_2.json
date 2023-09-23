@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -910,6 +910,11 @@
       "Time": "2023-09-22T01:45:52.4873257+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T01:43:55.911164+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1025,7 +1030,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1049,7 +1054,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "CAREERADVANCED",
@@ -1073,7 +1078,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1217,7 +1222,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ONELIVERY",
@@ -1233,7 +1238,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ONEPAINT",
@@ -1336,7 +1341,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 0
     }
   ],
@@ -1344,8 +1349,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:05:41.5156443+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:43:55.9111635+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.9478991+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:57:16.8835094+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:05:41.5156914+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:36:14.8548497+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:43:55.9112148+00:00"
 }

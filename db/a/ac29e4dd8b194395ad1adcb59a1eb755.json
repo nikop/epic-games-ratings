@@ -67,9 +67,9 @@
       "ID": "achievement_calm",
       "SetID": "b9jpe8p",
       "Name": "Calm",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_sniper",
@@ -105,8 +105,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:07:11.5786748+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:45:01.3114301+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:57:11.8928614+00:00",
-  "LastUpdate_Ratings": "2023-09-23T00:01:33.3656722+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:07:11.5786833+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:39:18.5266319+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:45:01.3114372+00:00"
 }

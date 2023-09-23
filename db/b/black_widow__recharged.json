@@ -6,7 +6,7 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18240,
+  "EOS_Progressed": 18241,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12777,6 +12777,11 @@
       "Time": "2023-09-22T23:06:15.9323259+00:00",
       "NumProgressed": 18240,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-23T01:44:49.3873717+00:00",
+      "NumProgressed": 18241,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 14,
@@ -12818,9 +12823,9 @@
       "ID": "ACH_DONT_BRING_ME_DOWN",
       "SetID": "1blkama",
       "Name": "Don\u0027t Bring Me Down",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 3466
+      "UsersEstimate": 3648
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -12828,7 +12833,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2918
+      "UsersEstimate": 2919
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -12844,7 +12849,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9667
+      "UsersEstimate": 9668
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -12899,15 +12904,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18240,
+      "Progressed": 18241,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:06:55.1152729+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:44:49.3873712+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9412789+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:58:50.3196056+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:06:55.1153693+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:37:23.9745399+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:44:49.3874602+00:00"
 }

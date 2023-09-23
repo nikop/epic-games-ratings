@@ -958,9 +958,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2905,
+  "EOS_Progressed": 2906,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4798,6 +4798,11 @@
       "Time": "2023-09-23T00:09:10.7407646+00:00",
       "NumProgressed": 2905,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T01:47:18.9440035+00:00",
+      "NumProgressed": 2906,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4937,7 +4942,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_HOARDER",
@@ -4953,7 +4958,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -4961,7 +4966,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5025,7 +5030,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -5121,7 +5126,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -5129,7 +5134,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -5161,7 +5166,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -5185,22 +5190,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2905,
+      "Progressed": 2906,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-22T14:02:17.800536+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:09:10.7407641+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:47:18.9440031+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.5265932+00:00",
-  "LastUpdate_Ratings": "2023-09-23T00:02:10.923867+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:09:10.7408944+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:39:44.9152443+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:47:18.9440686+00:00"
 }

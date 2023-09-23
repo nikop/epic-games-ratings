@@ -2,9 +2,9 @@
   "ID": "78b3ea07ed1c4d00a3903c5a11eb87a9",
   "Name": "Timelie - Game of the Year Edition",
   "ProductSlug": "timelie",
-  "Ranking_EOS_Progress": 633,
+  "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-05-28T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:14.5450662+00:00",
   "LastChanged": "2023-03-31T05:58:14.5450663+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:03.8233131+00:00",
-  "LastUpdate_Ratings": "2023-09-23T00:02:07.0153617+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:05:26.0436903+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:39:42.4612805+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:43:44.2076151+00:00"
 }

@@ -24,10 +24,10 @@
 | Through Dangers Untold | 8.00% | ~7 |
 | Finally! | 8.00% | ~7 |
 | Craftsmen | 7.00% | ~6 |
+| Defeat Uskol | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
 | Defeat Tezuth | 6.00% | ~5 |
-| Defeat Uskol | 6.00% | ~5 |
 | Bringing guns to a sword fight | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | Ancient Powers | 5.00% | ~4 |

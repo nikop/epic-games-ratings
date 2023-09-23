@@ -117,18 +117,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 1.00% | ~141 |
 | Double Victory | 1.00% | ~141 |
 | Win a Single Player Game | 1.00% | ~141 |
-| Bad Heir Day | 0.90% | ~126 |
-| Devout | 0.90% | ~126 |
-| Strong Difficulty | 0.90% | ~126 |
-| Adur Burzen-Mihr | 0.90% | ~126 |
-| Babylonia | 0.90% | ~126 |
-| Carthage | 0.90% | ~126 |
-| Enlightenment | 0.90% | ~126 |
-| Kushite Cavalry | 0.90% | ~126 |
+| Bad Heir Day | 0.90% | ~127 |
+| Devout | 0.90% | ~127 |
+| Strong Difficulty | 0.90% | ~127 |
+| Adur Burzen-Mihr | 0.90% | ~127 |
+| Babylonia | 0.90% | ~127 |
+| Carthage | 0.90% | ~127 |
+| Hittite Paganism | 0.90% | ~127 |
+| Enlightenment | 0.90% | ~127 |
+| Kushite Cavalry | 0.90% | ~127 |
 | Clerics | 0.80% | ~112 |
 | Hunters | 0.80% | ~112 |
 | Learn to Play 4 | 0.80% | ~112 |
-| Hittite Paganism | 0.80% | ~112 |
 | Turreted Elephant | 0.80% | ~112 |
 | Ishtar Gate in Babylon | 0.70% | ~98 |
 | Old | 0.70% | ~98 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,054 (Ranked 126)  
+Progressed: 14,057 (Ranked 126)  
 Completed: 5 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,6 +459,7 @@ Completed: 5 (0.04%) (Ranked 254)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
+| 2023-09-23 | 14,057 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,814 (Ranked 207)  

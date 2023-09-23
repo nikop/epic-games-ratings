@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1164,9 +1164,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1188,9 +1188,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1220,9 +1220,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
@@ -1235,8 +1235,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:07:41.8081167+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:45:23.135647+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:58:40.3529833+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:07:41.8081529+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:37:19.256509+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:45:23.1356626+00:00"
 }

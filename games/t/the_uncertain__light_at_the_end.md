@@ -28,14 +28,14 @@ Rating: 3.82 (Ranked 977)
 | Everything Must Go! | 3.00% | ~16 |
 | Paparazzi | 3.00% | ~16 |
 | Life of the Party | 3.00% | ~16 |
-| The Butterfly Effect | 2.00% | ~10 |
-| Echoes of the Past | 2.00% | ~10 |
-| Casual Gamer | 2.00% | ~10 |
-| Urban Scrawl | 2.00% | ~10 |
-| Marvellous Toys | 2.00% | ~10 |
+| The Butterfly Effect | 2.00% | ~11 |
+| Echoes of the Past | 2.00% | ~11 |
+| Casual Gamer | 2.00% | ~11 |
+| Urban Scrawl | 2.00% | ~11 |
+| Marvellous Toys | 2.00% | ~11 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525 (Ranked 259)  
+Progressed: 526 (Ranked 259)  
 Completed: 5 (0.95%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 5 (0.95%) (Ranked 135)
 | 2023-09-17 | 522 | 5 |
 | 2023-09-18 | 524 | 5 |
 | 2023-09-21 | 525 | 5 |
+| 2023-09-23 | 526 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

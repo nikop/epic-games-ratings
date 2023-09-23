@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
@@ -3104,9 +3104,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72738,
+  "EOS_Progressed": 72739,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16324,6 +16324,11 @@
       "Time": "2023-09-23T00:06:23.5532975+00:00",
       "NumProgressed": 72738,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-23T01:44:26.4164705+00:00",
+      "NumProgressed": 72739,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16431,7 +16436,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12365
+      "UsersEstimate": 12366
     },
     {
       "ID": "CLAYFACE_1",
@@ -16519,7 +16524,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -16639,7 +16644,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25458
+      "UsersEstimate": 25459
     },
     {
       "ID": "HARLEY_2",
@@ -16647,7 +16652,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18184
+      "UsersEstimate": 18185
     },
     {
       "ID": "HARLEY_3",
@@ -16735,7 +16740,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18184
+      "UsersEstimate": 18185
     },
     {
       "ID": "MYSTERY_03",
@@ -16799,7 +16804,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -16822,13 +16827,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72738,
+      "Progressed": 72739,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43018,
+      "Progressed": 43019,
       "Completed": 2666
     }
   ],
@@ -16836,8 +16841,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-22T21:02:20.1008726+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:06:23.5532968+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:44:26.41647+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:35.1829045+00:00",
-  "LastUpdate_Ratings": "2023-09-23T00:03:13.8228454+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:06:23.5534485+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:42:05.8042757+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:44:26.41661+00:00"
 }

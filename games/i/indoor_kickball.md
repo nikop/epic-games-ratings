@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 83.00% | ~75 |
-| Accessory Unlocked | 82.00% | ~74 |
-| Character Unlocked | 78.00% | ~70 |
-| Homer | 76.00% | ~68 |
+| Hat Unlocked | 84.00% | ~76 |
+| Accessory Unlocked | 82.00% | ~75 |
+| Character Unlocked | 77.00% | ~70 |
+| Homer | 76.00% | ~69 |
 | Butter Fingers | 73.00% | ~66 |
-| Settle Down | 72.00% | ~65 |
-| Kickball Unlocked | 70.00% | ~63 |
-| Have a good trip! | 69.00% | ~62 |
+| Settle Down | 71.00% | ~65 |
+| Kickball Unlocked | 70.00% | ~64 |
+| Have a good trip! | 69.00% | ~63 |
 | Stay Hydrated | 64.00% | ~58 |
 | First Win | 62.00% | ~56 |
 | True Story! | 43.00% | ~39 |
 | Bedroom Secret Spot | 40.00% | ~36 |
 | Kick It | 32.00% | ~29 |
+| Classroom Secret Spot | 29.00% | ~26 |
 | Spooky | 29.00% | ~26 |
-| Classroom Secret Spot | 28.00% | ~25 |
-| At least everyone still had fun | 28.00% | ~25 |
-| Grand Slam! | 27.00% | ~24 |
+| At least everyone still had fun | 29.00% | ~26 |
+| Grand Slam! | 26.00% | ~24 |
 | Save some water for the fishies | 24.00% | ~22 |
 | Angry Dad | 24.00% | ~22 |
 | Bathroom Secret Spot | 23.00% | ~21 |
@@ -32,7 +32,7 @@
 | Interference | 10.00% | ~9 |
 | You broke it, you bought it | 8.00% | ~7 |
 | Kitchen Secret Spot | 7.00% | ~6 |
-| Found the Secret Formula! | 6.00% | ~5 |
+| Found the Secret Formula! | 5.00% | ~5 |
 | Attic Secret Spot | 4.00% | ~4 |
 | Basement Secret Spot | 3.00% | ~3 |
 | Garage Secret Spot | 2.00% | ~2 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 383)  
+Progressed: 91 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,3 +94,4 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-04 | 88 | 0 |
 | 2023-09-19 | 89 | 0 |
 | 2023-09-21 | 90 | 0 |
+| 2023-09-23 | 91 | 0 |

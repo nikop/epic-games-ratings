@@ -26,7 +26,7 @@ Number of Ratings: 58  (23.09.2022)
 | Disruption | 43.00% | ~516 |
 | Phoenix | 43.00% | ~516 |
 | Cult Slayer | 40.00% | ~480 |
-| Origin | 39.00% | ~468 |
+| Origin | 40.00% | ~480 |
 | It Was An Accident | 39.00% | ~468 |
 | Set in Motion | 38.00% | ~456 |
 | In the Eye of the Storm | 37.00% | ~444 |

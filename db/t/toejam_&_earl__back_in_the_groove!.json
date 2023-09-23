@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57009,
+  "EOS_Progressed": 57011,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9713,6 +9713,11 @@
       "Time": "2023-09-22T23:06:27.0448925+00:00",
       "NumProgressed": 57009,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T01:44:58.3656523+00:00",
+      "NumProgressed": 57011,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -9796,7 +9801,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "FlyingPresentMaster",
@@ -10036,7 +10041,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "Teamwork",
@@ -10115,7 +10120,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57009,
+      "Progressed": 57011,
       "Completed": 6
     }
   ],
@@ -10123,8 +10128,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:07:07.5994641+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:44:58.3656514+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.999979+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:59:14.4840078+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:07:07.5996293+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:37:40.2564083+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:44:58.3657574+00:00"
 }

@@ -24,15 +24,15 @@ Rating: 4.54 (Ranked 504)
 | Personal Assistant Personally Assisted | 2.00% | ~13,689 |
 | This is My Weapon | 2.00% | ~13,689 |
 | Welcome To Hell-A | 2.00% | ~13,689 |
-| Making Your Mark | 1.00% | ~6,844 |
-| Anger Management | 1.00% | ~6,844 |
-| Perks of the Job | 1.00% | ~6,844 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,844 |
-| Ooh, Shiny! | 1.00% | ~6,844 |
-| Humanity Distilled | 1.00% | ~6,844 |
-| I Am the Resurrection | 1.00% | ~6,844 |
-| Down with the Sickness | 1.00% | ~6,844 |
-| Our True Nature | 1.00% | ~6,844 |
+| Making Your Mark | 1.00% | ~6,845 |
+| Anger Management | 1.00% | ~6,845 |
+| Perks of the Job | 1.00% | ~6,845 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,845 |
+| Ooh, Shiny! | 1.00% | ~6,845 |
+| Humanity Distilled | 1.00% | ~6,845 |
+| I Am the Resurrection | 1.00% | ~6,845 |
+| Down with the Sickness | 1.00% | ~6,845 |
+| Our True Nature | 1.00% | ~6,845 |
 | Max Headroom | 0.80% | ~5,476 |
 | Jumbo Keyring | 0.70% | ~4,791 |
 | Go, Bobcats! | 0.70% | ~4,791 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~684 |
 | Bucket List | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,438 (Ranked 22)  
+Progressed: 684,459 (Ranked 22)  
 Completed: 2,165 (0.32%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 2,165 (0.32%) (Ranked 185)
 | 2023-09-20 | 683,347 | 2,156 |
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
-| 2023-09-23 | 684,438 | 2,165 |
+| 2023-09-23 | 684,459 | 2,165 |
 ## Awards
 Max (Great Boss Battles): 6,156  (Ranked 57)  
-Sum: 9,152 (Ranked 93)  
+Sum: 9,155 (Ranked 93)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -221,8 +221,8 @@ Diff (max vs sum): -36
 | This game is Relaxing | 384 |
 | This game has Amazing Storytelling | 358 |
 | This game is Extremely Fun | 345 |
+| This game is Highly Recommended | 335 |
 | This game has Amazing Characters | 334 |
-| This game is Highly Recommended | 332 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -381,4 +381,4 @@ Diff (max vs sum): -36
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
 | 2023-09-22 | 4.54 | 6,156 | 9,150 |
-| 2023-09-23 | 4.54 | 6,156 | 9,152 |
+| 2023-09-23 | 4.54 | 6,156 | 9,155 |

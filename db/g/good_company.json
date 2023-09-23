@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5426,
+  "EOS_Progressed": 5428,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -3560,6 +3560,11 @@
       "Time": "2023-09-22T23:06:22.6290719+00:00",
       "NumProgressed": 5426,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T01:44:54.9280871+00:00",
+      "NumProgressed": 5428,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3683,7 +3688,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3691,7 +3696,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ach_campaign_progress7",
@@ -4178,15 +4183,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5426,
+      "Progressed": 5428,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-23T00:07:02.7604079+00:00",
+  "LastChanged_Achievements": "2023-09-23T01:44:54.9280865+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:47.9419518+00:00",
-  "LastUpdate_Ratings": "2023-09-23T00:01:42.2058645+00:00",
-  "LastUpdate_Achievements": "2023-09-23T00:07:02.7605577+00:00"
+  "LastUpdate_Ratings": "2023-09-23T01:39:25.9534868+00:00",
+  "LastUpdate_Achievements": "2023-09-23T01:44:54.9281777+00:00"
 }

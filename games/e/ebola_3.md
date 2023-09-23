@@ -12,8 +12,8 @@
 | Doberman ✔ | 15.00% | ~40 |
 | Weapon ✔ | 12.00% | ~32 |
 | Chess ✔ | 11.00% | ~29 |
+| Master of Unlocking ✔ | 10.00% | ~27 |
 | Survival ✔ | 9.00% | ~24 |
-| Master of Unlocking ✔ | 9.00% | ~24 |
 | Hospital ✔ | 8.00% | ~21 |
 | Thirst ✔ | 8.00% | ~21 |
 | City ✔ | 7.00% | ~19 |
