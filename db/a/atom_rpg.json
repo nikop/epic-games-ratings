@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1221,
+  "EOS_Progressed": 1222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2545,6 +2545,11 @@
       "Time": "2023-09-23T18:05:58.5991331+00:00",
       "NumProgressed": 1221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T20:05:33.2455565+00:00",
+      "NumProgressed": 1222,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2612,7 +2617,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "EXPERT_1",
@@ -2708,7 +2713,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2812,7 +2817,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "VVE",
@@ -2828,7 +2833,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "WISHMASTER_1",
@@ -2843,15 +2848,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1221,
+      "Progressed": 1222,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:05:50.6068211+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:05:33.2455559+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:58:33.9657004+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:05:50.6069004+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:58:19.9981048+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:05:33.2456945+00:00"
 }

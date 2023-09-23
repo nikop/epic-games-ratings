@@ -35,10 +35,10 @@ Rating: 4.42 (Ranked 682)
 | Chain Killer | 22.00% | ~322 |
 | Silent but Violent | 22.00% | ~322 |
 | The Watchers | 22.00% | ~322 |
+| Chaos Theory | 16.00% | ~234 |
 | Commando | 16.00% | ~234 |
 | Dr Jones | 16.00% | ~234 |
 | Newtonian Knockout | 16.00% | ~234 |
-| Chaos Theory | 15.00% | ~219 |
 | Ruthless | 14.00% | ~205 |
 | Side Order | 11.00% | ~161 |
 | Chain Reaction | 9.00% | ~132 |
@@ -57,7 +57,7 @@ Rating: 4.42 (Ranked 682)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,463 (Ranked 209)  
+Progressed: 1,463 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3116,7 +3116,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72761,
+  "EOS_Progressed": 72762,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 4,
@@ -16401,6 +16401,11 @@
       "Time": "2023-09-23T19:06:47.4957867+00:00",
       "NumProgressed": 72761,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-23T20:06:22.129566+00:00",
+      "NumProgressed": 72762,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16508,7 +16513,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12369
+      "UsersEstimate": 12370
     },
     {
       "ID": "CLAYFACE_1",
@@ -16596,7 +16601,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6548
+      "UsersEstimate": 6549
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -16716,7 +16721,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25466
+      "UsersEstimate": 25467
     },
     {
       "ID": "HARLEY_2",
@@ -16876,7 +16881,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6548
+      "UsersEstimate": 6549
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -16899,13 +16904,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72761,
+      "Progressed": 72762,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43041,
+      "Progressed": 43042,
       "Completed": 2667
     }
   ],
@@ -16913,8 +16918,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-23T13:08:05.8327884+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:06:47.495766+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:06:22.1295654+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:57:10.361871+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:06:47.4959587+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:57:08.0449449+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:06:22.1298139+00:00"
 }

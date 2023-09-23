@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -176,17 +176,17 @@
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_17",
       "SetID": "18al4io",
       "Name": "Lights Army",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_18",
@@ -344,9 +344,9 @@
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_48",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-12T10:00:20.9972583+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:05:10.5268753+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:04:58.5575173+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.7860154+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:01:10.9773866+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:05:10.5269225+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:00:35.9323685+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:04:58.5575908+00:00"
 }

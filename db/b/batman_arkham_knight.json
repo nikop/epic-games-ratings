@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2015-06-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4616,10 +4616,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 9176,
       "NumberOfAwardsMax": 5847
+    },
+    {
+      "Time": "2023-09-23T19:58:37.1597183+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9177,
+      "NumberOfAwardsMax": 5847
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9176,
+  "NumberOfAwards": 9177,
   "NumberOfAwardsMax": 5847,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4645,7 +4651,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 363
+      "Count": 364
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4701,8 +4707,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2023-09-23T17:58:58.6651729+00:00",
+  "LastChanged": "2023-09-23T19:58:37.1597181+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:07.8365556+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:58:51.1887922+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:09:13.76268+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:58:37.159719+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:08:26.0540264+00:00"
 }

@@ -484,9 +484,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8018,
+  "EOS_Progressed": 8019,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -8984,6 +8984,11 @@
       "Time": "2023-09-23T18:05:23.7626768+00:00",
       "NumProgressed": 8018,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-23T20:05:03.2730173+00:00",
+      "NumProgressed": 8019,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 29,
@@ -8995,7 +9000,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "ACH02",
@@ -9115,7 +9120,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "ACH17",
@@ -9226,7 +9231,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8018,
+      "Progressed": 8019,
       "Completed": 52
     }
   ],
@@ -9234,8 +9239,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:05:15.7914725+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:05:03.2730166+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.067951+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:01:07.2207874+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:05:15.7915408+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:00:34.0615015+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:05:03.2731435+00:00"
 }

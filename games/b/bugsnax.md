@@ -6,12 +6,12 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,492 |
-| Gone Home | 93.00% | ~26,358 |
+| Everybody Gets One | 97.00% | ~27,493 |
+| Gone Home | 93.00% | ~26,359 |
 | Wonderfalls | 87.00% | ~24,658 |
-| Got to Catch a Few | 77.00% | ~21,823 |
-| Double Trapper | 75.00% | ~21,256 |
-| I'm Stuffed | 69.00% | ~19,556 |
+| Got to Catch a Few | 77.00% | ~21,824 |
+| Double Trapper | 75.00% | ~21,257 |
+| I'm Stuffed | 69.00% | ~19,557 |
 | Got to Catch a Lot | 66.00% | ~18,706 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,289 |
 | In the Arms of the Gramble | 59.00% | ~16,722 |
@@ -19,7 +19,7 @@ Number of Ratings: 425  (23.09.2022)
 | Launch Party | 56.00% | ~15,872 |
 | Perf Dirt | 56.00% | ~15,872 |
 | Vacation's End | 52.00% | ~14,738 |
-| Bossy Bugs | 46.00% | ~13,037 |
+| Bossy Bugs | 46.00% | ~13,038 |
 | Survivor | 45.00% | ~12,754 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,187 |
 | Sidetracked | 40.00% | ~11,337 |
@@ -27,7 +27,7 @@ Number of Ratings: 425  (23.09.2022)
 | Combo Meal | 38.00% | ~10,770 |
 | Midnight Snak | 36.00% | ~10,203 |
 | Candid Cryptid | 35.00% | ~9,920 |
-| Got to Catch Them All | 32.00% | ~9,069 |
+| Got to Catch Them All | 32.00% | ~9,070 |
 | Deep Impact | 23.00% | ~6,519 |
 | Grab Bag | 23.00% | ~6,519 |
 | Feeding Frenzy | 18.00% | ~5,102 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,267 |
 | Dapper Capper | 7.00% | ~1,984 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,342 (Ranked 108)  
+Progressed: 28,343 (Ranked 108)  
 Completed: 1,352 (4.77%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 1,352 (4.77%) (Ranked 55)
 | 2023-09-20 | 28,317 | 1,350 |
 | 2023-09-21 | 28,326 | 1,350 |
 | 2023-09-22 | 28,334 | 1,351 |
-| 2023-09-23 | 28,342 | 1,352 |
+| 2023-09-23 | 28,343 | 1,352 |
 ## Awards
 Max (Amazing Storytelling): 39  (Ranked 432)  
 Sum: 341 (Ranked 337)  

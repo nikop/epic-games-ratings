@@ -16,11 +16,11 @@
 | Their Rock | 26.00% | ~54 |
 | Yuna's Promise | 25.00% | ~52 |
 | Stone Retriever | 24.00% | ~50 |
-| Find myself | 21.00% | ~44 |
+| Find myself | 22.00% | ~46 |
+| Min's Promise | 17.00% | ~36 |
 | Truebro | 17.00% | ~36 |
-| Min's Promise | 16.00% | ~33 |
-| Sia's Promise | 14.00% | ~29 |
-| Romantic | 14.00% | ~29 |
+| Sia's Promise | 15.00% | ~31 |
+| Romantic | 15.00% | ~31 |
 | TentacleMAN | 10.00% | ~21 |
 | Plushyboy | 5.00% | ~10 |
 | Flawless | 5.00% | ~10 |
@@ -31,7 +31,7 @@
 | True Player | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 209 (Ranked 330)  
-Completed: 2 (0.96%) (Ranked 134)  
+Completed: 2 (0.96%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

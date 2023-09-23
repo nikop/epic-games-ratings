@@ -4,8 +4,8 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -313,17 +313,17 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "finishGame",
@@ -337,25 +337,25 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 79,
+      "Percentage": 81,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "killWithHammer",
@@ -369,9 +369,9 @@
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 55,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "leviathan02",
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:06:00.5983259+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:05:41.6316211+00:00",
   "LastUpdate_AppInfo": "2023-09-17T18:57:02.9424717+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:02:37.6184387+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:06:00.5983397+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:03:10.3226563+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:05:41.6316424+00:00"
 }

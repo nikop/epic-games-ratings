@@ -5,7 +5,7 @@ Rating: 4.86 (Ranked 31)
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 157  (Ranked 300)  
-Sum: 500 (Ranked 304)  
+Sum: 501 (Ranked 304)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): -4
 | This game is Great for Beginners | 43 |
 | This game has Quickly Understood Controls | 41 |
 | This game is Highly Recommended | 40 |
-| This game is Relaxing | 34 |
+| This game is Relaxing | 35 |
 | This game has Competitive Players | 31 |
 | This game has Amazing Storytelling | 26 |
 | This game has Beautiful Visuals | 26 |
@@ -118,3 +118,4 @@ Diff (max vs sum): -4
 | 2023-09-17 | 4.86 | - | 157 | 497 |
 | 2023-09-18 | 4.86 | - | 157 | 499 |
 | 2023-09-19 | 4.86 | - | 157 | 500 |
+| 2023-09-23 | 4.86 | - | 157 | 501 |

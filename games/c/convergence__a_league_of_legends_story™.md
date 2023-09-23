@@ -21,11 +21,11 @@ Rating: 4.60 (Ranked 399)
 | Honest Mistake | 19.00% | ~169 |
 | Fast Learner | 19.00% | ~169 |
 | Immaculate Aim | 19.00% | ~169 |
+| Golem Chaser | 18.00% | ~160 |
 | Right On Time | 17.00% | ~151 |
 | Like Clockwork | 17.00% | ~151 |
 | The Betrayer | 17.00% | ~151 |
 | The Loose Cannon | 17.00% | ~151 |
-| Golem Chaser | 17.00% | ~151 |
 | Check Your Pulse | 17.00% | ~151 |
 | The Family Fortune | 17.00% | ~151 |
 | The Man Who Shattered Time | 16.00% | ~142 |
@@ -36,10 +36,10 @@ Rating: 4.60 (Ranked 399)
 | Good Neighbor | 12.00% | ~107 |
 | Chaincrawler Explorer | 11.00% | ~98 |
 | Family Memories | 11.00% | ~98 |
+| Ask Questions Later | 11.00% | ~98 |
 | Sump Explorer | 10.00% | ~89 |
 | Syron for Hope | 10.00% | ~89 |
 | Theater Explorer | 10.00% | ~89 |
-| Ask Questions Later | 10.00% | ~89 |
 | Factorywood Explorer | 9.00% | ~80 |
 | Fairgrounds Explorer | 9.00% | ~80 |
 | Corin Goes Home | 8.00% | ~71 |

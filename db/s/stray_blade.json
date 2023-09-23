@@ -2,10 +2,10 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -518,9 +518,9 @@
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:09:46.5522515+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:09:23.8541402+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.6458275+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:00:38.4936078+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:09:46.5522953+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:00:11.6584566+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:09:23.8542067+00:00"
 }

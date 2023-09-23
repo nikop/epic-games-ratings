@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 586,
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -332,7 +332,7 @@
   ],
   "EOS_Progressed": 3373,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4881,9 +4881,9 @@
       "ID": "ACH_MISSION_01",
       "SetID": "816efe",
       "Name": "Something Lurks Under The Hills",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2058
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5058,8 +5058,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:04:09.766924+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:04:05.9710122+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:42.0106466+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:58:17.1223922+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:04:09.7669998+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:58:06.1918945+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:04:05.9711233+00:00"
 }

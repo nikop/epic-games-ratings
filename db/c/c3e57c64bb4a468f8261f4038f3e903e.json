@@ -4,8 +4,8 @@
   "ProductSlug": "play-with-me-escape-room-586cc4",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-06T13:00:00+00:00",
     "PcReleaseDate": "2018-01-17T11:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-08T13:57:04.0090013+00:00",
   "LastUpdate_AppInfo": "2023-09-20T20:57:03.1476769+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:59:25.6474631+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:08:22.2156708+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:59:07.0436778+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:07:42.1507063+00:00"
 }

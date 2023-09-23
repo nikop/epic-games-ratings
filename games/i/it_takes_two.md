@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 88.00% | ~2,672 |
-| Struck A Pose | 87.00% | ~2,641 |
-| Look At Him Go | 76.00% | ~2,307 |
-| On Rails Experience | 54.00% | ~1,639 |
-| A Daring Devil | 49.00% | ~1,488 |
-| Break the Bank | 42.00% | ~1,275 |
-| It Took Two | 36.00% | ~1,093 |
-| Bug Sized Relaxation | 18.00% | ~546 |
-| Plastic Prison Breakers | 17.00% | ~516 |
-| Terror Of The Seven Seas | 15.00% | ~455 |
-| Realize Your Art | 12.00% | ~364 |
-| Force Triangulated | 12.00% | ~364 |
-| Something Fishy | 10.00% | ~304 |
-| Meditation Maestro | 10.00% | ~304 |
-| Lost And Found | 9.00% | ~273 |
-| Platforming Prodigy | 8.00% | ~243 |
-| Snackosaurus | 7.00% | ~213 |
-| Mood Swing | 6.00% | ~182 |
-| Minigame Megalomania | 4.00% | ~121 |
-| Faraway Frequencies | 4.00% | ~121 |
+| Fried Friendship | 88.00% | ~2,688 |
+| Struck A Pose | 87.00% | ~2,657 |
+| Look At Him Go | 76.00% | ~2,321 |
+| On Rails Experience | 54.00% | ~1,649 |
+| A Daring Devil | 49.00% | ~1,496 |
+| Break the Bank | 42.00% | ~1,283 |
+| It Took Two | 36.00% | ~1,099 |
+| Bug Sized Relaxation | 18.00% | ~550 |
+| Plastic Prison Breakers | 17.00% | ~519 |
+| Terror Of The Seven Seas | 15.00% | ~458 |
+| Realize Your Art | 12.00% | ~366 |
+| Force Triangulated | 12.00% | ~366 |
+| Something Fishy | 10.00% | ~305 |
+| Meditation Maestro | 10.00% | ~305 |
+| Lost And Found | 9.00% | ~275 |
+| Platforming Prodigy | 8.00% | ~244 |
+| Snackosaurus | 7.00% | ~214 |
+| Mood Swing | 6.00% | ~183 |
+| Minigame Megalomania | 4.00% | ~122 |
+| Faraway Frequencies | 4.00% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,036 (Ranked 183)  
-Completed: 14 (0.46%) (Ranked 165)  
+Progressed: 3,054 (Ranked 183)  
+Completed: 15 (0.49%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-20 | 9 | 0 |
 | 2023-09-21 | 992 | 4 |
 | 2023-09-22 | 1,941 | 10 |
-| 2023-09-23 | 3,036 | 14 |
+| 2023-09-23 | 3,054 | 15 |

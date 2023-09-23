@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.15,
+  "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -351,6 +351,11 @@
       "Time": "2023-09-23T08:09:18.4908985+00:00",
       "NumProgressed": 65,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-23T20:09:13.2835631+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -409,7 +414,7 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
       "UsersEstimate": 28
     },
@@ -419,13 +424,13 @@
       "Name": "Chamois",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -441,7 +446,7 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
       "UsersEstimate": 39
     },
@@ -537,7 +542,7 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -545,7 +550,7 @@
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -561,7 +566,7 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 20
     },
@@ -577,7 +582,7 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -593,7 +598,7 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 20
     }
@@ -602,14 +607,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:09:34.1201082+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:09:13.2835625+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.4227697+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:59:25.5736326+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:09:34.1204614+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:59:06.947773+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:09:13.2835911+00:00"
 }

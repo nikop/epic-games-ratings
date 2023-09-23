@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1778,6 +1778,11 @@
       "Time": "2023-09-23T19:05:28.9566678+00:00",
       "NumProgressed": 417,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T20:05:14.8975773+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1924,9 +1929,9 @@
       "ID": "ACH_EXSITE",
       "SetID": "232494e",
       "Name": "Infinity Loop",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_HUB1",
@@ -1934,7 +1939,7 @@
       "Name": "Mission Success",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_HUB2",
@@ -1950,7 +1955,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_PEAK",
@@ -1990,7 +1995,7 @@
       "Name": "Power Glove",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_S5",
@@ -1998,7 +2003,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2006,7 +2011,7 @@
       "Name": "Lost in Space",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_STATUE",
@@ -2021,15 +2026,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:05:28.9566671+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:05:14.8975768+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:00:29.8396685+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:05:28.9567058+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:00:04.1855046+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:05:14.8976279+00:00"
 }

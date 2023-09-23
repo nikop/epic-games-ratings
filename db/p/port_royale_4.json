@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 918,
+  "EOS_Progressed": 919,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2165,6 +2165,11 @@
       "Time": "2023-09-23T16:05:06.9837271+00:00",
       "NumProgressed": 918,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T20:06:03.9856506+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2272,7 +2277,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH013",
@@ -2344,7 +2349,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH022",
@@ -2360,7 +2365,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH024",
@@ -2390,9 +2395,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH028",
@@ -2432,7 +2437,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH033",
@@ -2456,15 +2461,15 @@
       "Name": "All mine!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH037",
@@ -2472,7 +2477,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH038",
@@ -2488,7 +2493,7 @@
       "Name": "Panel of experts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH040",
@@ -2560,7 +2565,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH049",
@@ -2575,15 +2580,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 918,
+      "Progressed": 919,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:06:26.6813303+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:06:03.9856501+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.6290536+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:02:03.863699+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:06:26.6813888+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:01:22.5284918+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:06:03.9857469+00:00"
 }

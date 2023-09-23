@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -317,9 +317,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -341,9 +341,9 @@
       "ID": "SG_BRANDNEWCHORUS",
       "SetID": "bj5g0n4",
       "Name": "Brand New Chorus",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -357,9 +357,9 @@
       "ID": "SG_CHARISMATIC",
       "SetID": "bj5g0n4",
       "Name": "Charismatic",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SG_CUNNING",
@@ -381,9 +381,9 @@
       "ID": "SG_EVERYTHINGHASCHANGED",
       "SetID": "bj5g0n4",
       "Name": "Everything Has Changed",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_FIERY",
@@ -477,9 +477,9 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -549,9 +549,9 @@
       "ID": "SG_THEMUSESENCORE",
       "SetID": "bj5g0n4",
       "Name": "The Muse\u2019s Encore",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:06:49.5597405+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:06:23.7118469+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:54.861209+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:58:46.9257334+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:06:49.5597716+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:58:33.5548504+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:06:23.7118785+00:00"
 }

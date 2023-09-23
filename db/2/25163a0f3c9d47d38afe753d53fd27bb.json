@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 731,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.55,
+  "EOS_Completed_Percentage": 10.53,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2541,6 +2541,11 @@
       "Time": "2023-09-23T17:07:19.4700288+00:00",
       "NumProgressed": 730,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-23T20:08:10.3212876+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 30,
@@ -2552,7 +2557,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "LEVEL_002",
@@ -2568,7 +2573,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "LEVEL_004",
@@ -2576,7 +2581,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "LEVEL_005",
@@ -2584,7 +2589,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "LEVEL_006",
@@ -2608,7 +2613,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "LEVEL_009",
@@ -2648,7 +2653,7 @@
       "Name": "Higher ground",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "LEVEL_014",
@@ -2664,7 +2669,7 @@
       "Name": "Flatland",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_016",
@@ -2710,9 +2715,9 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 88
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_022",
@@ -2791,14 +2796,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 731,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:08:55.282866+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:08:10.3212872+00:00",
   "LastUpdate_AppInfo": "2023-09-18T22:57:19.1812695+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:00:11.2942837+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:08:55.2829236+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:59:46.1631409+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:08:10.3213326+00:00"
 }

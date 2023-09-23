@@ -5,10 +5,10 @@
   "Ranking_Rating": 947,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1045,
+  "EOS_Progressed": 1068,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1025,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -512,6 +512,11 @@
       "Time": "2023-09-23T19:06:52.4162451+00:00",
       "NumProgressed": 1045,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T20:06:26.3065238+00:00",
+      "NumProgressed": 1068,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -524,7 +529,7 @@
       "Name": "Primetime",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_10",
@@ -532,15 +537,15 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 374
     },
     {
       "ID": "achievement_11",
       "SetID": "aiin7da",
       "Name": "Big Spender",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 303
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_12",
@@ -548,7 +553,7 @@
       "Name": "Dealmaker",
       "Percentage": 29,
       "XP": 60,
-      "UsersEstimate": 303
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_13",
@@ -556,7 +561,7 @@
       "Name": "MVP",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 272
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_14",
@@ -564,7 +569,7 @@
       "Name": "ROTY",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 366
+      "UsersEstimate": 374
     },
     {
       "ID": "achievement_15",
@@ -586,9 +591,9 @@
       "ID": "achievement_17",
       "SetID": "aiin7da",
       "Name": "Ol\u0027 Reliable",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_18",
@@ -612,7 +617,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_20",
@@ -620,7 +625,7 @@
       "Name": "Saw It Coming",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_21",
@@ -628,7 +633,7 @@
       "Name": "Clean The Pile",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_3",
@@ -636,7 +641,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_4",
@@ -652,7 +657,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_6",
@@ -660,7 +665,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_7",
@@ -668,7 +673,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_8",
@@ -676,7 +681,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 261
+      "UsersEstimate": 267
     },
     {
       "ID": "achievement_9",
@@ -684,14 +689,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1045,
+      "Progressed": 1068,
       "Completed": 0
     }
   ],
@@ -699,8 +704,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-23T03:59:07.1478372+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:06:52.4162445+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:06:26.3065234+00:00",
   "LastUpdate_AppInfo": "2023-09-21T02:12:03.9415691+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:00:39.7401601+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:06:52.4162655+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:00:12.3078009+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:06:26.3065434+00:00"
 }

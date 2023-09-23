@@ -3,7 +3,7 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
@@ -671,9 +671,9 @@
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -687,25 +687,25 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -838,8 +838,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:07:42.5047733+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:07:08.2714891+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-23T18:57:18.9387656+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:07:42.504793+00:00"
+  "LastUpdate_Ratings": "2023-09-23T19:57:16.3955438+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:07:08.2715252+00:00"
 }

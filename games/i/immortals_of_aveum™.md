@@ -23,13 +23,14 @@ Rating: 3.97 (Ranked 960)
 | A Familiar Nest | 10.00% | ~1 |
 | Geas Aristeya | 10.00% | ~1 |
 | A Perfect Cycle | 10.00% | ~1 |
+| Recruit | 10.00% | ~1 |
+| Lights Army | 10.00% | ~1 |
 | Armsman | 10.00% | ~1 |
 | Armaments Azure | 10.00% | ~1 |
 | Periapt Cerulean | 10.00% | ~1 |
 | Periapt Alizarin | 10.00% | ~1 |
+| Periapt Viridian | 10.00% | ~1 |
 | Good Boy | 10.00% | ~1 |
-| Recruit | 0.00% | ~0 |
-| Lights Army | 0.00% | ~0 |
 | Grand Magnus | 0.00% | ~0 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
@@ -41,7 +42,6 @@ Rating: 3.97 (Ranked 960)
 | Best Dressed | 0.00% | ~0 |
 | Armaments Gules | 0.00% | ~0 |
 | Armaments Vert | 0.00% | ~0 |
-| Periapt Viridian | 0.00% | ~0 |
 | Veteran | 0.00% | ~0 |
 | Master of Ultramarine | 0.00% | ~0 |
 | Master of Carmine | 0.00% | ~0 |

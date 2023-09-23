@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267 (Ranked 311)  
+Progressed: 267 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

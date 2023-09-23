@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1855,6 +1855,11 @@
       "Time": "2023-09-23T17:05:25.5763653+00:00",
       "NumProgressed": 683,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T20:05:56.3199499+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1898,7 +1903,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Devoted",
@@ -1946,7 +1951,7 @@
       "Name": "Goal!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GoldRush",
@@ -2002,7 +2007,7 @@
       "Name": "Both sides",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "MuhsroomTruth",
@@ -2042,7 +2047,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Specialist",
@@ -2090,7 +2095,7 @@
       "Name": "Toxic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Webbed",
@@ -2114,14 +2119,14 @@
       "Name": "Witch\u0027s cookbook",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 1
     }
   ],
@@ -2129,8 +2134,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-23T19:06:17.470952+00:00",
+  "LastChanged_Achievements": "2023-09-23T20:05:56.3199492+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.2653513+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:00:36.6677844+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:06:17.4710277+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:00:09.9112568+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:05:56.3199865+00:00"
 }

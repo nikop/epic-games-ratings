@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,080 |
-| Photographer | 69.00% | ~6,979 |
-| Valley's Helper | 63.00% | ~6,372 |
-| Constructor | 51.00% | ~5,158 |
-| Renovator | 51.00% | ~5,158 |
-| Bestest Friend | 47.00% | ~4,754 |
-| Banker | 39.00% | ~3,944 |
-| Gardener | 31.00% | ~3,135 |
-| Generous | 24.00% | ~2,427 |
-| Chef Cook | 17.00% | ~1,719 |
-| Miner | 9.00% | ~910 |
+| Goofy's Investor | 70.00% | ~7,082 |
+| Photographer | 69.00% | ~6,981 |
+| Valley's Helper | 63.00% | ~6,374 |
+| Constructor | 51.00% | ~5,160 |
+| Renovator | 51.00% | ~5,160 |
+| Bestest Friend | 47.00% | ~4,755 |
+| Banker | 39.00% | ~3,946 |
+| Gardener | 31.00% | ~3,136 |
+| Generous | 24.00% | ~2,428 |
+| Chef Cook | 17.00% | ~1,720 |
+| Miner | 9.00% | ~911 |
 | Duty Bound | 6.00% | ~607 |
 | Angler | 5.00% | ~506 |
 | Thorn Cleaner | 5.00% | ~506 |
-| Chit Chatter | 3.00% | ~303 |
+| Chit Chatter | 3.00% | ~304 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,114 (Ranked 139)  
+Progressed: 10,117 (Ranked 139)  
 Completed: 231 (2.28%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,14 +129,14 @@ Completed: 231 (2.28%) (Ranked 93)
 | 2023-09-20 | 9,980 | 228 |
 | 2023-09-21 | 10,031 | 228 |
 | 2023-09-22 | 10,063 | 229 |
-| 2023-09-23 | 10,114 | 231 |
+| 2023-09-23 | 10,117 | 231 |
 ## Awards
-Max (Great for Beginners): 960  (Ranked 149)  
-Sum: 7,581 (Ranked 106)  
+Max (Great for Beginners): 962  (Ranked 149)  
+Sum: 7,583 (Ranked 106)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 960 |
+| This game is Great for Beginners | 962 |
 | This game has Diverse Characters | 836 |
 | This game is Relaxing | 800 |
 | This game is Highly Recommended | 799 |
@@ -344,4 +344,4 @@ Diff (max vs sum): 43
 | 2023-09-20 | 4.76 | - | 958 | 7,560 |
 | 2023-09-21 | 4.76 | - | 960 | 7,569 |
 | 2023-09-22 | 4.76 | - | 960 | 7,577 |
-| 2023-09-23 | 4.76 | - | 960 | 7,581 |
+| 2023-09-23 | 4.76 | - | 962 | 7,583 |

@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.49 (Ranked 585)  
+Rating: 4.49 (Ranked 586)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.49 (Ranked 585)
 | Keep 'Em Coming | 73.00% | ~2,462 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,260 |
 | Call Me Snake | 62.00% | ~2,091 |
-| Something Lurks Under The Hills | 60.00% | ~2,024 |
+| Something Lurks Under The Hills | 61.00% | ~2,058 |
 | This Was No Papercut | 59.00% | ~1,990 |
 | People Person | 56.00% | ~1,889 |
 | The Shrink Hates Me | 56.00% | ~1,889 |

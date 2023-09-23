@@ -1,24 +1,24 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 585)  
+Rating: 4.49 (Ranked 586)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 19.00% | ~580 |
-| Debuff Dogpile | 18.00% | ~549 |
-| Hit 'Em Where It Hurts | 18.00% | ~549 |
-| Perk Shard Punch Card | 18.00% | ~549 |
-| That'll Leave a Mark | 18.00% | ~549 |
-| Mushroom Madness! | 17.00% | ~519 |
-| First Strike | 14.00% | ~427 |
-| Horder Better Faster Stronger | 14.00% | ~427 |
-| Spending Spree | 14.00% | ~427 |
-| Everything Must Go! | 12.00% | ~366 |
+| Faceroll the Bones | 19.00% | ~581 |
+| Debuff Dogpile | 18.00% | ~550 |
+| Hit 'Em Where It Hurts | 18.00% | ~550 |
+| Perk Shard Punch Card | 18.00% | ~550 |
+| That'll Leave a Mark | 18.00% | ~550 |
+| Mushroom Madness! | 17.00% | ~520 |
+| First Strike | 14.00% | ~428 |
+| Horder Better Faster Stronger | 14.00% | ~428 |
+| Spending Spree | 14.00% | ~428 |
+| Everything Must Go! | 12.00% | ~367 |
 | Ten Steps from the Grave | 11.00% | ~336 |
-| Next Time on MythForce... | 10.00% | ~305 |
-| Cold-Blooded Critters | 8.00% | ~244 |
+| Next Time on MythForce... | 10.00% | ~306 |
+| Cold-Blooded Critters | 8.00% | ~245 |
 | Death Becomes You | 7.00% | ~214 |
 | Flawless Victory | 6.00% | ~183 |
 | The Harder They Fall | 5.00% | ~153 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,052 (Ranked 182)  
+Progressed: 3,058 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-20 | 2,843 | 0 |
 | 2023-09-21 | 2,900 | 0 |
 | 2023-09-22 | 2,956 | 0 |
-| 2023-09-23 | 3,052 | 0 |
+| 2023-09-23 | 3,058 | 0 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 456)  
 Sum: 272 (Ranked 356)  

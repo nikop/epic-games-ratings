@@ -50,10 +50,10 @@
 | Quintessence of Form | 19.00% | ~6 |
 | Tender Touch | 16.00% | ~5 |
 | Big Spender | 16.00% | ~5 |
-| Bewitched by Bathing | 6.00% | ~2 |
+| Bewitched by Bathing | 10.00% | ~3 |
 | Tsukumo Whisperer | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 450)  
+Progressed: 31 (Ranked 451)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

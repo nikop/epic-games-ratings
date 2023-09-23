@@ -2,13 +2,13 @@
   "ID": "3a1067df83654812b976101174e1904f",
   "Name": "Timberborn",
   "ProductSlug": "timberborn",
-  "Ranking_Rating": 175,
+  "Ranking_Rating": 176,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-15T15:00:00+00:00",
     "PcReleaseDate": "2021-09-15T15:00:00+00:00",
@@ -1584,6 +1584,6 @@
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
   "LastChanged": "2023-09-23T19:01:47.7553407+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:45.2178213+00:00",
-  "LastUpdate_Ratings": "2023-09-23T19:01:47.7553415+00:00",
-  "LastUpdate_Achievements": "2023-09-23T19:09:03.9499555+00:00"
+  "LastUpdate_Ratings": "2023-09-23T20:01:06.5416969+00:00",
+  "LastUpdate_Achievements": "2023-09-23T20:08:17.9042457+00:00"
 }
