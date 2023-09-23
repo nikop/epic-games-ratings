@@ -5,7 +5,7 @@
   "Ranking_Rating": 862,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 267,
-  "Ranking_EOS_Progress": 110,
+  "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 36,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24554,
+  "EOS_Progressed": 24557,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -17975,6 +17975,11 @@
       "Time": "2023-09-23T07:06:05.763767+00:00",
       "NumProgressed": 24554,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-09-23T08:06:22.0807478+00:00",
+      "NumProgressed": 24557,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 22,
@@ -18058,7 +18063,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "1025",
@@ -18098,7 +18103,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "1030",
@@ -18122,7 +18127,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9822
+      "UsersEstimate": 9823
     },
     {
       "ID": "1033",
@@ -18154,22 +18159,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24554,
+      "Progressed": 24557,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-23T07:06:05.7637665+00:00",
+  "LastChanged_Achievements": "2023-09-23T08:06:22.0807473+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:09.9877962+00:00",
-  "LastUpdate_Ratings": "2023-09-23T06:58:17.1057331+00:00",
-  "LastUpdate_Achievements": "2023-09-23T07:06:05.7638957+00:00"
+  "LastUpdate_Ratings": "2023-09-23T07:58:30.6785281+00:00",
+  "LastUpdate_Achievements": "2023-09-23T08:06:22.0808651+00:00"
 }

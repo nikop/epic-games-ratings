@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 878,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 145,
@@ -484,7 +484,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7986,
+  "EOS_Progressed": 7988,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 2,
@@ -8929,6 +8929,11 @@
       "Time": "2023-09-23T07:04:18.7974335+00:00",
       "NumProgressed": 7986,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-23T08:04:32.5365092+00:00",
+      "NumProgressed": 7988,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 29,
@@ -8940,7 +8945,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6630
     },
     {
       "ID": "ACH02",
@@ -8948,7 +8953,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ACH03",
@@ -8980,7 +8985,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "ACH07",
@@ -9012,7 +9017,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "ACH11",
@@ -9052,7 +9057,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH16",
@@ -9060,7 +9065,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "ACH17",
@@ -9124,7 +9129,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH25",
@@ -9171,7 +9176,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7986,
+      "Progressed": 7988,
       "Completed": 52
     }
   ],
@@ -9179,8 +9184,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-23T07:04:18.7974328+00:00",
+  "LastChanged_Achievements": "2023-09-23T08:04:32.5365088+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.4889872+00:00",
-  "LastUpdate_Ratings": "2023-09-23T06:59:43.4093221+00:00",
-  "LastUpdate_Achievements": "2023-09-23T07:04:18.797504+00:00"
+  "LastUpdate_Ratings": "2023-09-23T08:00:04.6196474+00:00",
+  "LastUpdate_Achievements": "2023-09-23T08:04:32.5365811+00:00"
 }

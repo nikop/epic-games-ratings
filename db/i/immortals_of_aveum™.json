@@ -5,10 +5,10 @@
   "Ranking_Rating": 960,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -95,6 +95,11 @@
       "Time": "2023-09-23T06:03:57.5604859+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T08:04:28.3855026+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -105,7 +110,7 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 60,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -113,7 +118,7 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -193,7 +198,7 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 60,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -249,7 +254,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 80,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -281,7 +286,7 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 60,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -337,7 +342,7 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 60,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -345,7 +350,7 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -353,7 +358,7 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 60,
+      "Percentage": 43,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -401,7 +406,7 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 40,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -457,7 +462,7 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 40,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -465,7 +470,7 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -473,7 +478,7 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     }
@@ -482,7 +487,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
@@ -490,8 +495,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-12T10:00:20.9972583+00:00",
-  "LastChanged_Achievements": "2023-09-23T07:04:14.7990974+00:00",
+  "LastChanged_Achievements": "2023-09-23T08:04:28.3855022+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.6375227+00:00",
-  "LastUpdate_Ratings": "2023-09-23T06:59:44.7827091+00:00",
-  "LastUpdate_Achievements": "2023-09-23T07:04:14.7991403+00:00"
+  "LastUpdate_Ratings": "2023-09-23T08:00:06.6787906+00:00",
+  "LastUpdate_Achievements": "2023-09-23T08:04:28.3855443+00:00"
 }

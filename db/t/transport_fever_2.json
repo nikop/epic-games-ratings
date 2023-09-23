@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3816,9 +3816,9 @@
       "ID": "achBuildBusStop",
       "SetID": "dgl390n",
       "Name": "First bus stop",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1191
     },
     {
       "ID": "achBuildTrainStation",
@@ -3848,9 +3848,9 @@
       "ID": "achCollectAllMedals",
       "SetID": "dgl390n",
       "Name": "Campaign tycoon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "achCompleteCampaignA",
@@ -4216,8 +4216,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-16T13:02:14.1846871+00:00",
-  "LastChanged_Achievements": "2023-09-23T07:07:07.6992035+00:00",
+  "LastChanged_Achievements": "2023-09-23T08:07:04.8925106+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:46.7514199+00:00",
-  "LastUpdate_Ratings": "2023-09-23T06:57:36.9634332+00:00",
-  "LastUpdate_Achievements": "2023-09-23T07:07:07.6992789+00:00"
+  "LastUpdate_Ratings": "2023-09-23T07:57:44.3526511+00:00",
+  "LastUpdate_Achievements": "2023-09-23T08:07:04.8926123+00:00"
 }

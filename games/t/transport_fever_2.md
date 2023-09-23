@@ -7,9 +7,9 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,291 |
+| First bus stop | 71.00% | ~1,191 |
 | First cargo item on board | 71.00% | ~1,191 |
 | First cargo item waiting | 71.00% | ~1,191 |
-| First bus stop | 70.00% | ~1,174 |
 | First passenger on board | 67.00% | ~1,124 |
 | First passenger waiting | 67.00% | ~1,124 |
 | First bus arrived | 66.00% | ~1,107 |
@@ -58,9 +58,9 @@ Number of Ratings: 180  (23.09.2022)
 | Industrialist | 3.00% | ~50 |
 | No country for old trains | 2.00% | ~34 |
 | Charles Alton Ellis | 2.00% | ~34 |
+| Campaign tycoon | 2.00% | ~34 |
 | Metropolis | 2.00% | ~34 |
 | Speed of light | 2.00% | ~34 |
-| Campaign tycoon | 1.00% | ~17 |
 | Trans-Siberian Railway | 1.00% | ~17 |
 | Train Fever | 0.90% | ~15 |
 | Louis Favre | 0.80% | ~13 |

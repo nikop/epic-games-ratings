@@ -18,9 +18,9 @@
 | Keeping Busy | 8.00% | ~111 |
 | Infantry Reporting | 8.00% | ~111 |
 | Silver Competitor | 7.00% | ~97 |
-| Captain | 7.00% | ~97 |
 | Factory Expansion | 7.00% | ~97 |
 | Exterminator | 6.00% | ~83 |
+| Captain | 6.00% | ~83 |
 | Brothers in Arms | 5.00% | ~69 |
 | Know The Enemy | 4.00% | ~55 |
 | Player Betrayer | 4.00% | ~55 |
@@ -36,14 +36,14 @@
 | General | 1.00% | ~14 |
 | Seek & Destroy | 1.00% | ~14 |
 | Titan Tanks | 1.00% | ~14 |
-| Advanced Interceptors | 0.70% | ~10 |
 | Shock Troops | 0.70% | ~10 |
-| Jet Troops | 0.70% | ~10 |
+| Advanced Interceptors | 0.60% | ~8 |
+| Jet Troops | 0.60% | ~8 |
 | Gold Competitor | 0.10% | ~1 |
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,384 (Ranked 212)  
+Progressed: 1,385 (Ranked 212)  
 Completed: 1 (0.07%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,4 +150,4 @@ Completed: 1 (0.07%) (Ranked 241)
 | 2023-09-20 | 1,365 | 1 |
 | 2023-09-21 | 1,376 | 1 |
 | 2023-09-22 | 1,383 | 1 |
-| 2023-09-23 | 1,384 | 1 |
+| 2023-09-23 | 1,385 | 1 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1760,9 +1760,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 318
     },
     {
       "ID": "BroomAmanita",
@@ -1984,9 +1984,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 357
+      "UsersEstimate": 362
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2047,8 +2047,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-23T07:05:56.710896+00:00",
+  "LastChanged_Achievements": "2023-09-23T08:06:13.438508+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-23T06:58:34.1488779+00:00",
-  "LastUpdate_Achievements": "2023-09-23T07:05:56.7109439+00:00"
+  "LastUpdate_Ratings": "2023-09-23T07:58:50.8883142+00:00",
+  "LastUpdate_Achievements": "2023-09-23T08:06:13.4385957+00:00"
 }

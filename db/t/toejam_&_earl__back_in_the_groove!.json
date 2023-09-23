@@ -2,13 +2,13 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57015,
+  "EOS_Progressed": 57017,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9738,6 +9738,11 @@
       "Time": "2023-09-23T06:05:37.1517512+00:00",
       "NumProgressed": 57015,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T08:06:08.9935324+00:00",
+      "NumProgressed": 57017,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -9837,7 +9842,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5131
+      "UsersEstimate": 5132
     },
     {
       "ID": "FoolMeTwice",
@@ -9909,7 +9914,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "IsThisPossible",
@@ -10140,7 +10145,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57015,
+      "Progressed": 57017,
       "Completed": 6
     }
   ],
@@ -10148,8 +10153,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-23T07:05:52.3136453+00:00",
+  "LastChanged_Achievements": "2023-09-23T08:06:08.9935319+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:59.999979+00:00",
-  "LastUpdate_Ratings": "2023-09-23T06:58:42.8377493+00:00",
-  "LastUpdate_Achievements": "2023-09-23T07:05:52.3137493+00:00"
+  "LastUpdate_Ratings": "2023-09-23T07:58:59.0717975+00:00",
+  "LastUpdate_Achievements": "2023-09-23T08:06:08.993632+00:00"
 }

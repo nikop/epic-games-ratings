@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 6.00% | ~843 |
-| Settler | 6.00% | ~843 |
-| Play a Single Player Game | 6.00% | ~843 |
+| Explorer | 6.00% | ~844 |
+| Settler | 6.00% | ~844 |
+| Play a Single Player Game | 6.00% | ~844 |
 | Intrepid | 5.00% | ~703 |
 | Friendly Family | 5.00% | ~703 |
 | The Clergy | 5.00% | ~703 |
@@ -137,11 +137,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.70% | ~98 |
 | Rome | 0.70% | ~98 |
 | One True Faith | 0.70% | ~98 |
+| All Nations | 0.70% | ~98 |
 | No Undo | 0.70% | ~98 |
 | Noble Difficulty | 0.60% | ~84 |
 | Play a Network Game | 0.60% | ~84 |
 | Cataphract Archer | 0.60% | ~84 |
-| All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
 | The Eternal Treaty | 0.50% | ~70 |
 | Persia | 0.50% | ~70 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,058 (Ranked 127)  
+Progressed: 14,059 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 5 (0.04%) (Ranked 254)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,058 | 5 |
+| 2023-09-23 | 14,059 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,815 (Ranked 207)  

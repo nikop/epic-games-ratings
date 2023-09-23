@@ -1,24 +1,24 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.80 (Ranked 84)  
+Rating: 4.81 (Ranked 78)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,355 |
-| A Thorny Situation | 70.00% | ~3,217 |
-| ... And Spit Back Out | 59.00% | ~2,712 |
-| Break-Net Speed | 47.00% | ~2,160 |
-| Bramble Breaker | 43.00% | ~1,976 |
-| Miner 49er | 40.00% | ~1,838 |
-| Humble Collector | 39.00% | ~1,792 |
+| Azoria Beckons | 73.00% | ~3,357 |
+| A Thorny Situation | 70.00% | ~3,219 |
+| ... And Spit Back Out | 59.00% | ~2,713 |
+| Break-Net Speed | 47.00% | ~2,161 |
+| Bramble Breaker | 43.00% | ~1,977 |
+| Miner 49er | 40.00% | ~1,839 |
+| Humble Collector | 39.00% | ~1,793 |
 | Calm Sailing | 32.00% | ~1,471 |
 | Open the Gate! | 28.00% | ~1,287 |
-| Mist Walker | 27.00% | ~1,241 |
-| Lumberjack | 23.00% | ~1,057 |
-| Oui, Chef! | 21.00% | ~965 |
-| Clear the Air | 13.00% | ~597 |
-| Botanical Breakthrough | 13.00% | ~597 |
+| Mist Walker | 26.00% | ~1,195 |
+| Lumberjack | 23.00% | ~1,058 |
+| Oui, Chef! | 21.00% | ~966 |
+| Clear the Air | 13.00% | ~598 |
+| Botanical Breakthrough | 13.00% | ~598 |
 | Beach Comber | 11.00% | ~506 |
 | Higher Tax Bracket | 8.00% | ~368 |
 | Search for the Hairy Grell | 7.00% | ~322 |
@@ -41,7 +41,7 @@ Rating: 4.80 (Ranked 84)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,596 (Ranked 164)  
+Progressed: 4,598 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 4,323 | 0 |
 | 2023-09-21 | 4,439 | 0 |
 | 2023-09-22 | 4,573 | 0 |
-| 2023-09-23 | 4,596 | 0 |
+| 2023-09-23 | 4,598 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -80,3 +80,4 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 4.78 | 0 | 0 |
 | 2023-09-21 | 4.79 | 0 | 0 |
 | 2023-09-22 | 4.80 | 0 | 0 |
+| 2023-09-23 | 4.81 | 0 | 0 |

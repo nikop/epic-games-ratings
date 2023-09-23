@@ -15,18 +15,18 @@
 | Medal of Exploration II | 63.00% | ~141 |
 | Turian Ally | 58.00% | ~130 |
 | Council Legion of Merit | 58.00% | ~130 |
+| Meritorious Service Medal | 56.00% | ~125 |
 | Medal of Honor | 55.00% | ~123 |
-| Meritorious Service Medal | 55.00% | ~123 |
 | Medal of Exploration III | 55.00% | ~123 |
 | Charismatic | 55.00% | ~123 |
-| Soldier | 53.00% | ~119 |
+| Soldier | 54.00% | ~121 |
 | Asari Ally | 53.00% | ~119 |
 | Principled | 51.00% | ~114 |
 | Sentinel Ally | 50.00% | ~112 |
 | Soldier Ally | 49.00% | ~110 |
 | Colonial Savior | 49.00% | ~110 |
+| Paramour I | 47.00% | ~105 |
 | Krogan Ally | 47.00% | ~105 |
-| Paramour I | 46.00% | ~103 |
 | Merciless | 46.00% | ~103 |
 | Scientist | 46.00% | ~103 |
 | Head Hunter | 45.00% | ~101 |
@@ -45,10 +45,11 @@
 | Colony Defense | 35.00% | ~78 |
 | The Krogan | 35.00% | ~78 |
 | The Justicar | 33.00% | ~74 |
+| Broke, Blind, and Bedlam | 33.00% | ~74 |
 | Agent | 32.00% | ~72 |
-| Broke, Blind, and Bedlam | 32.00% | ~72 |
 | Shopaholic | 32.00% | ~72 |
 | A Personal Touch | 31.00% | ~69 |
+| Focused | 31.00% | ~69 |
 | Ghost Ship | 31.00% | ~69 |
 | The Assassin | 31.00% | ~69 |
 | The Quarian | 31.00% | ~69 |
@@ -57,7 +58,6 @@
 | The Cure | 31.00% | ~69 |
 | Revenge! | 31.00% | ~69 |
 | Driven | 31.00% | ~69 |
-| Focused | 30.00% | ~67 |
 | Battlemaster | 30.00% | ~67 |
 | Doppelganger | 30.00% | ~67 |
 | Fade Away | 30.00% | ~67 |
@@ -71,12 +71,12 @@
 | Treason | 28.00% | ~63 |
 | Mobilizer | 28.00% | ~63 |
 | Suicide Mission | 27.00% | ~60 |
+| Untouchable | 26.00% | ~58 |
 | Eye of the Hurricane | 26.00% | ~58 |
 | Mission Accomplished | 26.00% | ~58 |
 | Against All Odds | 26.00% | ~58 |
 | A House Divided | 26.00% | ~58 |
 | Weapon Specialist | 26.00% | ~58 |
-| Untouchable | 25.00% | ~56 |
 | First Aid Specialist | 25.00% | ~56 |
 | Liberator | 24.00% | ~54 |
 | Giant Killer | 23.00% | ~52 |
@@ -101,21 +101,21 @@
 | Fact Finder | 13.00% | ~29 |
 | Mail Slot | 12.00% | ~27 |
 | Warp Mastery | 12.00% | ~27 |
+| Last Witness | 12.00% | ~27 |
 | Barrier Mastery | 11.00% | ~25 |
 | Bruiser | 11.00% | ~25 |
 | Lift Mastery | 11.00% | ~25 |
-| Last Witness | 11.00% | ~25 |
 | Master and Commander | 11.00% | ~25 |
 | Combined Arms | 10.00% | ~22 |
 | Overload Specialist | 10.00% | ~22 |
 | Well Connected | 10.00% | ~22 |
+| Executioner | 9.00% | ~20 |
 | Sky High | 8.00% | ~18 |
 | Hijacker | 8.00% | ~18 |
 | Always Prepared | 8.00% | ~18 |
 | Damping Specialist | 8.00% | ~18 |
 | Paramour III | 8.00% | ~18 |
 | Long Service Medal | 8.00% | ~18 |
-| Executioner | 8.00% | ~18 |
 | Patriot | 8.00% | ~18 |
 | Legend | 8.00% | ~18 |
 | Insanity I | 7.00% | ~16 |

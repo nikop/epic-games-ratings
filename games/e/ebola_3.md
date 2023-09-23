@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 58.00% | ~154 |
-| Chest ✔ | 56.00% | ~149 |
-| Inventory ✔ | 55.00% | ~146 |
-| Police officers ✔ | 29.00% | ~77 |
+| Fright ✔ | 58.00% | ~155 |
+| Chest ✔ | 56.00% | ~150 |
+| Inventory ✔ | 55.00% | ~147 |
+| Police officers ✔ | 28.00% | ~75 |
 | Mutation ✔ | 26.00% | ~69 |
 | Doberman ✔ | 15.00% | ~40 |
 | Weapon ✔ | 12.00% | ~32 |
 | Chess ✔ | 11.00% | ~29 |
 | Master of Unlocking ✔ | 10.00% | ~27 |
 | Survival ✔ | 9.00% | ~24 |
-| Hospital ✔ | 8.00% | ~21 |
 | Thirst ✔ | 8.00% | ~21 |
 | City ✔ | 7.00% | ~19 |
+| Hospital ✔ | 7.00% | ~19 |
 | Fraternal help ✔ | 7.00% | ~19 |
 | Alice ✔ | 6.00% | ~16 |
 | Antivirus ✔ | 6.00% | ~16 |
@@ -28,14 +28,14 @@
 | Boss 1 ✔ | 5.00% | ~13 |
 | Brain ✔ | 5.00% | ~13 |
 | Eva ✔ | 5.00% | ~13 |
-| Group Alpha ✔ | 5.00% | ~13 |
-| Mutant fight ✔ | 5.00% | ~13 |
-| Sheriff ✔ | 5.00% | ~13 |
-| Infected ✔ | 5.00% | ~13 |
 | Broadcasting ✔ | 5.00% | ~13 |
 | Secret ✔ | 4.00% | ~11 |
+| Group Alpha ✔ | 4.00% | ~11 |
+| Mutant fight ✔ | 4.00% | ~11 |
 | Mutant run ✔ | 4.00% | ~11 |
+| Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |
+| Infected ✔ | 4.00% | ~11 |
 | Priest ✔ | 4.00% | ~11 |
 | Car ✔ | 3.00% | ~8 |
 | Crocodile Attack ✔ | 3.00% | ~8 |
@@ -47,15 +47,15 @@
 | Boss 3 ✔ | 3.00% | ~8 |
 | Seeker One ✔ | 2.00% | ~5 |
 | Seeker Three ✔ | 2.00% | ~5 |
-| Crocodile Escape ✔ | 2.00% | ~5 |
 | VIP ✔ | 2.00% | ~5 |
+| Crocodile Escape ✔ | 1.00% | ~3 |
 | Exterminate pests ✔ | 1.00% | ~3 |
-| Hardcore ✔ | 0.80% | ~2 |
-| Speedrun ✔ | 0.80% | ~2 |
+| Hardcore ✔ | 0.70% | ~2 |
+| Speedrun ✔ | 0.70% | ~2 |
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 310)  
+Progressed: 267 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-11 | 262 | 0 |
 | 2023-09-12 | 265 | 0 |
 | 2023-09-22 | 266 | 0 |
+| 2023-09-23 | 267 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
