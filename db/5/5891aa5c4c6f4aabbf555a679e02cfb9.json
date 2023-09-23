@@ -478,17 +478,17 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "b36c5kb",
       "Name": "Sykes Out",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_19",
       "SetID": "b36c5kb",
       "Name": "Finally Free",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -582,9 +582,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "b36c5kb",
       "Name": "Half the Stash",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:42:51.2305688+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:17:05.1948606+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:37:30.1162032+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:42:51.2306191+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:11:42.6722088+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:17:05.1949103+00:00"
 }

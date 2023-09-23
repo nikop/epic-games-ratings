@@ -7906,18 +7906,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 43979,
       "NumberOfAwardsMax": 22916
+    },
+    {
+      "Time": "2023-09-23T02:12:34.8671141+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44021,
+      "NumberOfAwardsMax": 22951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43979,
-  "NumberOfAwardsMax": 22916,
+  "NumberOfAwards": 44021,
+  "NumberOfAwardsMax": 22951,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 22916
+      "Count": 22951
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7953,7 +7959,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1043
+      "Count": 1050
     },
     {
       "Text": "This game is Relaxing",
@@ -7986,9 +7992,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297122,
+  "EOS_Progressed": 297123,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24806,6 +24812,11 @@
       "Time": "2023-09-23T01:45:01.6006167+00:00",
       "NumProgressed": 297122,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-23T02:19:35.8031852+00:00",
+      "NumProgressed": 297123,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -25001,7 +25012,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32683
+      "UsersEstimate": 32684
     },
     {
       "ID": "PFA_31",
@@ -25161,7 +25172,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32683
+      "UsersEstimate": 32684
     },
     {
       "ID": "PFA_9",
@@ -25176,16 +25187,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297122,
+      "Progressed": 297123,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-23T01:38:12.7600241+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:45:01.6006162+00:00",
+  "LastChanged": "2023-09-23T02:12:34.8671139+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:19:35.803184+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:38:12.7600248+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:45:01.6007541+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:12:34.8671147+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:19:35.8034466+00:00"
 }

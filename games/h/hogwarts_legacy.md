@@ -9,8 +9,8 @@ Rating: 4.76 (Ranked 117)
 | First Class Student | 13.00% | ~38,626 |
 | Troll with the Punches | 13.00% | ~38,626 |
 | A Keen Sense of Spell | 12.00% | ~35,655 |
-| A Talent for Spending | 11.00% | ~32,683 |
-| That's a Keeper | 11.00% | ~32,683 |
+| A Talent for Spending | 11.00% | ~32,684 |
+| That's a Keeper | 11.00% | ~32,684 |
 | Grappling with a Graphorn | 10.00% | ~29,712 |
 | The One Who Mastered Memories | 10.00% | ~29,712 |
 | The Hallowed Hero | 10.00% | ~29,712 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,122 (Ranked 44)  
+Progressed: 297,123 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,19 +207,19 @@ Completed: 476 (0.16%) (Ranked 213)
 | 2023-09-20 | 297,027 | 476 |
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
-| 2023-09-23 | 297,122 | 476 |
+| 2023-09-23 | 297,123 | 476 |
 ## Awards
-Max (Character Customization): 22,916  (Ranked 17)  
-Sum: 43,979 (Ranked 30)  
+Max (Character Customization): 22,951  (Ranked 17)  
+Sum: 44,021 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 22,916 |
+| This game has Inclusive Character Customization | 22,951 |
 | This game has Great Boss Battles | 11,276 |
 | This game is Great for Beginners | 1,088 |
 | This game has Amazing Storytelling | 1,059 |
+| This game has Diverse Characters | 1,050 |
 | This game is Relaxing | 1,045 |
-| This game has Diverse Characters | 1,043 |
 | This game is Extremely Fun | 1,039 |
 | This game has Amazing Characters | 1,018 |
 | This game is Highly Recommended | 1,004 |
@@ -412,4 +412,4 @@ Diff (max vs sum): -13
 | 2023-09-20 | 4.77 | 22,886 | 43,852 |
 | 2023-09-21 | 4.77 | 22,886 | 43,899 |
 | 2023-09-22 | 4.77 | 22,916 | 43,979 |
-| 2023-09-23 | 4.76 | 22,916 | 43,979 |
+| 2023-09-23 | 4.76 | 22,951 | 44,021 |

@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4584,
+  "EOS_Progressed": 4585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1524,
+  "EOS_NewPlayers": 1521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1897,6 +1897,11 @@
       "Time": "2023-09-23T01:43:04.6775397+00:00",
       "NumProgressed": 4584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T02:17:20.0851055+00:00",
+      "NumProgressed": 4585,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -1909,7 +1914,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -1917,7 +1922,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -1939,9 +1944,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 550
+      "UsersEstimate": 596
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -1997,7 +2002,7 @@
       "Name": "Lumberjack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -2013,7 +2018,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -2085,7 +2090,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -2188,7 +2193,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 4584,
+      "Progressed": 4585,
       "Completed": 0
     }
   ],
@@ -2196,8 +2201,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-22T07:58:59.3406859+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:43:04.6775392+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:17:20.0851048+00:00",
   "LastUpdate_AppInfo": "2023-09-22T03:57:07.0968101+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:38:09.3368755+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:43:04.6775776+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:12:30.6280343+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:17:20.0851482+00:00"
 }

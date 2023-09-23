@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3448,
+  "EOS_Progressed": 3449,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4644,6 +4644,11 @@
       "Time": "2023-09-23T00:06:36.8998561+00:00",
       "NumProgressed": 3448,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-23T02:19:06.2105281+00:00",
+      "NumProgressed": 3449,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4719,7 +4724,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4975,7 +4980,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4990,15 +4995,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3448,
+      "Progressed": 3449,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:44:36.1766434+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:19:06.2105272+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:27.3190803+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:39:06.873566+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:44:36.1767013+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:13:40.7438968+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:19:06.2106115+00:00"
 }

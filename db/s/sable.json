@@ -6,8 +6,8 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -470,9 +470,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 90681,
+  "EOS_Progressed": 90683,
   "EOS_Completed": 914,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -17970,6 +17970,11 @@
       "Time": "2023-09-23T01:42:48.2420101+00:00",
       "NumProgressed": 90681,
       "NumCompleted": 914
+    },
+    {
+      "Time": "2023-09-23T02:17:01.8754213+00:00",
+      "NumProgressed": 90683,
+      "NumCompleted": 914
     }
   ],
   "TotalAchievements": 56,
@@ -17981,7 +17986,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 29018
+      "UsersEstimate": 29019
     },
     {
       "ID": "ach_001_game_complete",
@@ -18061,7 +18066,7 @@
       "Name": "The Scrapper Mask",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7254
+      "UsersEstimate": 7255
     },
     {
       "ID": "ach_011_merchants_mask",
@@ -18125,7 +18130,7 @@
       "Name": "Shadow Of Neave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7254
+      "UsersEstimate": 7255
     },
     {
       "ID": "ach_019_door_rowleys_way",
@@ -18173,7 +18178,7 @@
       "Name": "Fragile Goods",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7254
+      "UsersEstimate": 7255
     },
     {
       "ID": "ach_025_solve_the_watch",
@@ -18189,7 +18194,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 22670
+      "UsersEstimate": 22671
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -18197,7 +18202,7 @@
       "Name": "Power to the People",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 12695
+      "UsersEstimate": 12696
     },
     {
       "ID": "ach_028_accuse_suspect",
@@ -18213,7 +18218,7 @@
       "Name": "Glider on the Storm",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7254
+      "UsersEstimate": 7255
     },
     {
       "ID": "ach_030_collect_glowworm",
@@ -18237,7 +18242,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 21763
+      "UsersEstimate": 21764
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -18245,7 +18250,7 @@
       "Name": "Squeeze One Out",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7254
+      "UsersEstimate": 7255
     },
     {
       "ID": "ach_034_collect_orange_ringed_beetle",
@@ -18301,7 +18306,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 22670
+      "UsersEstimate": 22671
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -18309,7 +18314,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 21763
+      "UsersEstimate": 21764
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -18428,15 +18433,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 90681,
+      "Progressed": 90683,
       "Completed": 914
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-21T18:01:45.6584473+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:42:48.2420095+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:17:01.8754206+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:11.3185924+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:39:50.2506065+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:42:48.2421647+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:14:37.4043524+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:17:01.8756056+00:00"
 }

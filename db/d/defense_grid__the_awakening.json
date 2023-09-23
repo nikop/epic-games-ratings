@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1819,9 +1819,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 486467,
+  "EOS_Progressed": 486468,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18159,6 +18159,11 @@
       "Time": "2023-09-23T01:44:13.2578504+00:00",
       "NumProgressed": 486467,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-23T02:18:38.7928517+00:00",
+      "NumProgressed": 486468,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -18218,7 +18223,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 218910
+      "UsersEstimate": 218911
     },
     {
       "ID": "BURNBABYBURN",
@@ -18282,7 +18287,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 199451
+      "UsersEstimate": 199452
     },
     {
       "ID": "CORECONTAINER",
@@ -18314,7 +18319,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 325933
+      "UsersEstimate": 325934
     },
     {
       "ID": "EXTERMINATOR",
@@ -18362,7 +18367,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 394038
+      "UsersEstimate": 394039
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -18370,7 +18375,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 204316
+      "UsersEstimate": 204317
     },
     {
       "ID": "FLURRY",
@@ -18426,7 +18431,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 155669
+      "UsersEstimate": 155670
     },
     {
       "ID": "GUNCRAZY",
@@ -18442,7 +18447,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 379444
+      "UsersEstimate": 379445
     },
     {
       "ID": "HEADTRAUMA",
@@ -18458,7 +18463,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 379444
+      "UsersEstimate": 379445
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -18482,7 +18487,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 311339
+      "UsersEstimate": 311340
     },
     {
       "ID": "KABOOM",
@@ -18514,7 +18519,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 141075
+      "UsersEstimate": 141076
     },
     {
       "ID": "MAJESTICPONY",
@@ -18650,7 +18655,7 @@
       "Name": "Power Builder",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 82699
+      "UsersEstimate": 82700
     },
     {
       "ID": "PYRRHICVICTORY",
@@ -18658,7 +18663,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 82699
+      "UsersEstimate": 82700
     },
     {
       "ID": "REGIONALDELUGE",
@@ -18865,15 +18870,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 486467,
+      "Progressed": 486468,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-09-22T18:01:33.7066001+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:44:13.25785+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:18:38.7928506+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:38.7469469+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:39:16.4445447+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:44:13.2580217+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:13:53.8978735+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:18:38.7931419+00:00"
 }

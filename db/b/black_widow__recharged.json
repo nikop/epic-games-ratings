@@ -2,13 +2,13 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 862,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18241,
+  "EOS_Progressed": 18242,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12782,6 +12782,11 @@
       "Time": "2023-09-23T01:44:49.3873717+00:00",
       "NumProgressed": 18241,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-23T02:19:21.5353334+00:00",
+      "NumProgressed": 18242,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 14,
@@ -12793,7 +12798,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14410
+      "UsersEstimate": 14411
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -12823,9 +12828,9 @@
       "ID": "ACH_DONT_BRING_ME_DOWN",
       "SetID": "1blkama",
       "Name": "Don\u0027t Bring Me Down",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3466
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -12841,7 +12846,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -12873,7 +12878,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "ACH_THE_FALL",
@@ -12881,7 +12886,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -12904,15 +12909,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18241,
+      "Progressed": 18242,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:44:49.3873712+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:19:21.5353328+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.9412789+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:37:23.9745399+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:44:49.3874602+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:11:34.3157943+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:19:21.5354462+00:00"
 }

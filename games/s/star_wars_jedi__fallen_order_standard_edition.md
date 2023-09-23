@@ -5,47 +5,47 @@ Rating: 4.69 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~6,462 |
-| A Long Time Ago | 93.00% | ~6,010 |
-| Sabersmith | 81.00% | ~5,234 |
-| The Obstacle is the Way | 79.00% | ~5,105 |
-| Back At You | 74.00% | ~4,782 |
-| Happy Go Wookiee | 70.00% | ~4,523 |
-| Everything is Connected | 60.00% | ~3,877 |
-| Her Name Was Masana Tide | 54.00% | ~3,489 |
-| Bank Shot | 54.00% | ~3,489 |
-| Perfect Timing | 52.00% | ~3,360 |
-| The Full Glow-Up | 50.00% | ~3,231 |
-| Gorgara Falls | 49.00% | ~3,166 |
-| For A More Civilized Age | 47.00% | ~3,037 |
+| The Mantis | 100.00% | ~6,463 |
+| A Long Time Ago | 93.00% | ~6,011 |
+| Sabersmith | 81.00% | ~5,235 |
+| The Obstacle is the Way | 79.00% | ~5,106 |
+| Back At You | 74.00% | ~4,783 |
+| Happy Go Wookiee | 70.00% | ~4,524 |
+| Everything is Connected | 60.00% | ~3,878 |
+| Her Name Was Masana Tide | 54.00% | ~3,490 |
+| Bank Shot | 54.00% | ~3,490 |
+| Perfect Timing | 52.00% | ~3,361 |
+| The Full Glow-Up | 50.00% | ~3,232 |
+| Gorgara Falls | 49.00% | ~3,167 |
+| For A More Civilized Age | 47.00% | ~3,038 |
 | I Knew He Was No Good | 45.00% | ~2,908 |
 | The Holocron Awaits | 43.00% | ~2,779 |
 | Look Out Below | 43.00% | ~2,779 |
 | Scum and Villainy | 42.00% | ~2,714 |
-| Don't Mess with BD-1 | 41.00% | ~2,649 |
-| Trust Only In The Force | 41.00% | ~2,649 |
+| Don't Mess with BD-1 | 41.00% | ~2,650 |
+| Trust Only In The Force | 41.00% | ~2,650 |
 | Blade Master | 37.00% | ~2,391 |
 | Full House | 35.00% | ~2,262 |
 | Legendary Beasts | 22.00% | ~1,422 |
-| Echo Location | 20.00% | ~1,292 |
+| Echo Location | 20.00% | ~1,293 |
 | Visiting Alderaan Places | 18.00% | ~1,163 |
 | Triple Take | 13.00% | ~840 |
 | Cal Got Your Tongue? | 13.00% | ~840 |
-| Big Bang | 12.00% | ~775 |
+| Big Bang | 12.00% | ~776 |
 | Can't Touch This | 10.00% | ~646 |
 | Feel the Force | 10.00% | ~646 |
 | Medical Droid | 8.00% | ~517 |
 | Data Collector | 7.00% | ~452 |
 | Data Disk | 6.00% | ~388 |
 | Collector | 5.00% | ~323 |
-| Kickoff | 4.00% | ~258 |
-| Green Thumb | 4.00% | ~258 |
+| Kickoff | 4.00% | ~259 |
+| Green Thumb | 4.00% | ~259 |
 | Kicking Back | 3.00% | ~194 |
 | What Goes Around... | 3.00% | ~194 |
 | A Galaxy Far, Far Away | 3.00% | ~194 |
 | Not So Fast | 1.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,462 (Ranked 150)  
+Progressed: 6,463 (Ranked 150)  
 Completed: 66 (1.02%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 66 (1.02%) (Ranked 126)
 | 2023-09-20 | 5,957 | 60 |
 | 2023-09-21 | 6,163 | 63 |
 | 2023-09-22 | 6,426 | 66 |
-| 2023-09-23 | 6,462 | 66 |
+| 2023-09-23 | 6,463 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

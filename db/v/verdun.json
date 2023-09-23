@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1750,7 +1750,7 @@
   ],
   "EOS_Progressed": 58946,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19160,9 +19160,9 @@
       "ID": "VERDUN_ACH_NCOKILLS",
       "SetID": "dje9lo9",
       "Name": "Setting an example",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 45388
+      "UsersEstimate": 45978
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -19272,8 +19272,8 @@
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:42:27.6559891+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:16:38.1978525+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:45.4198616+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:39:24.6851516+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:42:27.6561471+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:14:06.5212938+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:16:38.1980754+00:00"
 }

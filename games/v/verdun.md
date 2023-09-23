@@ -6,7 +6,7 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~45,388 |
+| Setting an example | 78.00% | ~45,978 |
 | Worth it | 63.00% | ~37,136 |
 | Eagle Eye | 55.00% | ~32,420 |
 | Corpseman I | 40.00% | ~23,578 |

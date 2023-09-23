@@ -298,9 +298,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1341,
+  "EOS_Progressed": 1343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1337,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -788,6 +788,11 @@
       "Time": "2023-09-23T01:42:31.2911397+00:00",
       "NumProgressed": 1341,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T02:16:42.2704338+00:00",
+      "NumProgressed": 1343,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -840,7 +845,7 @@
       "Name": "Setting up for Success",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 992
+      "UsersEstimate": 994
     },
     {
       "ID": "achievement_0007",
@@ -848,7 +853,7 @@
       "Name": "Getting on the Step",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1236
     },
     {
       "ID": "achievement_0008",
@@ -856,7 +861,7 @@
       "Name": "On the Top Step",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1128
     },
     {
       "ID": "achievement_0009",
@@ -920,7 +925,7 @@
       "Name": "Hitting a Season",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "achievement_0017",
@@ -960,7 +965,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 994
     },
     {
       "ID": "achievement_0022",
@@ -976,7 +981,7 @@
       "Name": "Sharing the Love",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "achievement_0024",
@@ -984,7 +989,7 @@
       "Name": "Loyal Bond",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_0025",
@@ -1048,7 +1053,7 @@
       "Name": "Tinkerer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_0033",
@@ -1056,7 +1061,7 @@
       "Name": "Engineer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "achievement_0034",
@@ -1136,7 +1141,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_0044",
@@ -1144,7 +1149,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "achievement_0045",
@@ -1152,7 +1157,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_0046",
@@ -1160,7 +1165,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_0047",
@@ -1191,7 +1196,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 1341,
+      "Progressed": 1343,
       "Completed": 0
     }
   ],
@@ -1199,8 +1204,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-09-21T19:58:49.7438625+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:42:31.2911392+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:16:42.2704331+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.5356623+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:38:03.7538714+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:42:31.2911854+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:12:24.3755783+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:16:42.2705012+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3243,
+  "EOS_Progressed": 3244,
   "EOS_Completed": 191,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 5.89,
   "EosHistory": [
@@ -4940,6 +4940,11 @@
       "Time": "2023-09-23T00:06:19.3142693+00:00",
       "NumProgressed": 3243,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-09-23T02:18:50.378715+00:00",
+      "NumProgressed": 3244,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 24,
@@ -4959,7 +4964,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "11",
@@ -4991,7 +4996,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "15",
@@ -5015,7 +5020,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "18",
@@ -5031,7 +5036,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 15,
       "XP": 85,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "2",
@@ -5047,7 +5052,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "21",
@@ -5095,7 +5100,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "5",
@@ -5103,7 +5108,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "6",
@@ -5142,13 +5147,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3243,
+      "Progressed": 3244,
       "Completed": 191
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:44:23.3224651+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:18:50.3787143+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:39:46.8488173+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:44:23.322508+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:14:33.2444907+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:18:50.3788057+00:00"
 }

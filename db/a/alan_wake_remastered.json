@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65987,
+  "EOS_Progressed": 65988,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15562,6 +15562,11 @@
       "Time": "2023-09-23T01:44:10.6881443+00:00",
       "NumProgressed": 65987,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-23T02:18:35.7727969+00:00",
+      "NumProgressed": 65988,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15597,7 +15602,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "05",
@@ -15757,7 +15762,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7919
     },
     {
       "ID": "25",
@@ -15773,7 +15778,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7919
     },
     {
       "ID": "27",
@@ -15805,7 +15810,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7919
     },
     {
       "ID": "31",
@@ -16108,21 +16113,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65987,
+      "Progressed": 65988,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29455,
+      "Progressed": 29456,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-23T01:44:10.6881438+00:00",
+  "LastChanged_Achievements": "2023-09-23T02:18:35.7727963+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-23T01:38:27.3221411+00:00",
-  "LastUpdate_Achievements": "2023-09-23T01:44:10.6883005+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:12:51.7142474+00:00",
+  "LastUpdate_Achievements": "2023-09-23T02:18:35.7729819+00:00"
 }
