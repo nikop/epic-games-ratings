@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 382,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -768,9 +768,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -896,9 +896,9 @@
       "ID": "WIN_ROBBER",
       "SetID": "20koof9",
       "Name": "In the Bag!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -929,8 +929,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:04:26.9010219+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:03:42.9870746+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:17.0711022+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:02:19.3627642+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:04:26.9010646+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:01:47.0751544+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:03:42.9871164+00:00"
 }

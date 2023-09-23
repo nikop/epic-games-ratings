@@ -9,19 +9,19 @@
 | Pushover | 29.00% | ~111 |
 | A Forest Walk | 29.00% | ~111 |
 | Amateur Mechanic | 28.00% | ~107 |
+| Multiply that! | 27.00% | ~103 |
 | C-C-C-Combo! | 26.00% | ~99 |
-| Multiply that! | 26.00% | ~99 |
 | Fore! | 24.00% | ~92 |
 | Insurance fraud | 24.00% | ~92 |
 | Snow Fun! | 24.00% | ~92 |
 | The Collector | 23.00% | ~88 |
 | The Wild West | 23.00% | ~88 |
 | Bag of Tricks | 23.00% | ~88 |
+| In the Bag! | 23.00% | ~88 |
 | You're it | 23.00% | ~88 |
 | To and Fro | 22.00% | ~84 |
 | Goodbye cruel world | 22.00% | ~84 |
 | I see the light! | 22.00% | ~84 |
-| In the Bag! | 22.00% | ~84 |
 | First Come, First Serve | 21.00% | ~80 |
 | Disoriented | 21.00% | ~80 |
 | Take that Frosty! | 21.00% | ~80 |

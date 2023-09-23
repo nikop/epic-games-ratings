@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 71,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_18",
@@ -248,9 +248,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 71,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_20",
@@ -550,8 +550,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:03:32.4077224+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:03:10.0768188+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:00:56.4234365+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:03:32.4077619+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:00:26.0810209+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:03:10.0768576+00:00"
 }

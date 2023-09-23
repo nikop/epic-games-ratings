@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 585,
-  "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 357,
+  "Ranking_Popularity": 456,
+  "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -603,11 +603,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 269,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-09-23T15:01:42.4404554+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 269,
-  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 271,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -626,7 +632,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -671,9 +677,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3016,
+  "EOS_Progressed": 3017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5361,6 +5367,11 @@
       "Time": "2023-09-23T14:05:47.8999588+00:00",
       "NumProgressed": 3016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T15:05:04.4777804+00:00",
+      "NumProgressed": 3017,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5556,15 +5567,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3016,
+      "Progressed": 3017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-09-23T04:00:22.5436721+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:05:47.8999584+00:00",
+  "LastChanged": "2023-09-23T15:01:42.4404553+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:05:04.4777799+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:02:15.4289116+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:05:47.8999912+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:01:42.4404557+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:05:04.4778156+00:00"
 }

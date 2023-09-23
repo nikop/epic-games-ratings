@@ -6,10 +6,10 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,381 |
-| I'll Be Back | 85.00% | ~3,962 |
-| Sorry, I Dropped This | 77.00% | ~3,589 |
-| First Day on the Job | 76.00% | ~3,542 |
+| On My Own Two Feet | 94.00% | ~4,382 |
+| I'll Be Back | 85.00% | ~3,963 |
+| Sorry, I Dropped This | 77.00% | ~3,590 |
+| First Day on the Job | 76.00% | ~3,543 |
 | Butcher's Bill | 55.00% | ~2,564 |
 | P.A.X | 37.00% | ~1,725 |
 | Hey Listen | 37.00% | ~1,725 |
@@ -31,10 +31,10 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~513 |
 | Shall Not Pass | 11.00% | ~513 |
 | Right Tool for the Job | 10.00% | ~466 |
-| Melting Down | 9.00% | ~419 |
-| Raging Drones | 9.00% | ~419 |
-| Overconfident | 9.00% | ~419 |
-| Is This Real Life? | 9.00% | ~419 |
+| Melting Down | 9.00% | ~420 |
+| Raging Drones | 9.00% | ~420 |
+| Overconfident | 9.00% | ~420 |
+| Is This Real Life? | 9.00% | ~420 |
 | Pusher Man | 8.00% | ~373 |
 | Squad Chief Helvig | 8.00% | ~373 |
 | No More Marching | 8.00% | ~373 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,661 (Ranked 164)  
+Progressed: 4,662 (Ranked 165)  
 Completed: 16 (0.34%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 16 (0.34%) (Ranked 182)
 | 2023-09-20 | 4,650 | 16 |
 | 2023-09-21 | 4,658 | 16 |
 | 2023-09-22 | 4,660 | 16 |
-| 2023-09-23 | 4,661 | 16 |
+| 2023-09-23 | 4,662 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 468)  
 Sum: 29 (Ranked 484)  

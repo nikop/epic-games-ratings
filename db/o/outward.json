@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,7 +514,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3455,
+  "EOS_Progressed": 3457,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
@@ -4669,6 +4669,11 @@
       "Time": "2023-09-23T13:11:46.9408732+00:00",
       "NumProgressed": 3455,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-23T15:06:21.4745035+00:00",
+      "NumProgressed": 3457,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4688,7 +4693,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "AncestorsPride_13",
@@ -4720,7 +4725,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "CrowdPleaser",
@@ -4768,7 +4773,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -4784,7 +4789,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "HouseofCards_19",
@@ -4824,7 +4829,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MasterofAurai_20",
@@ -4864,7 +4869,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4872,7 +4877,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4904,7 +4909,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4944,7 +4949,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -5000,7 +5005,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2593
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5015,15 +5020,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3455,
+      "Progressed": 3457,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:07:04.8346667+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:06:21.474503+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:01:39.7121035+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:07:04.8347126+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:01:08.7448176+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:06:21.4745492+00:00"
 }

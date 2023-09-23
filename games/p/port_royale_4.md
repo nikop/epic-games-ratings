@@ -6,13 +6,13 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~742 |
-| My little farm | 64.00% | ~586 |
-| Every beginning is difficult | 63.00% | ~577 |
-| Gofer | 57.00% | ~522 |
-| 3, 2, 1, mine | 56.00% | ~513 |
+| Cabin boy | 80.00% | ~734 |
+| My little farm | 64.00% | ~587 |
+| Every beginning is difficult | 63.00% | ~578 |
+| Gofer | 57.00% | ~523 |
+| 3, 2, 1, mine | 56.00% | ~514 |
 | O Captain! My Captain! | 54.00% | ~495 |
-| Seafarer | 53.00% | ~485 |
+| Seafarer | 53.00% | ~486 |
 | Greed for gold | 43.00% | ~394 |
 | Intangible | 42.00% | ~385 |
 | I'm out of here for a while | 42.00% | ~385 |
@@ -21,16 +21,16 @@ Number of Ratings: 53  (23.09.2022)
 | Pirates! | 35.00% | ~321 |
 | Collectionitis | 29.00% | ~266 |
 | Megalomania | 29.00% | ~266 |
-| Christening | 28.00% | ~256 |
+| Christening | 28.00% | ~257 |
 | Groundskeeper | 26.00% | ~238 |
 | Wholesale | 22.00% | ~202 |
-| Walk the plank | 21.00% | ~192 |
+| Walk the plank | 21.00% | ~193 |
 | Pearly gates | 18.00% | ~165 |
 | My precious! | 17.00% | ~156 |
 | Conquistador | 14.00% | ~128 |
 | Panic buying | 12.00% | ~110 |
-| Just a scratch | 9.00% | ~82 |
-| Your vessel, my vessel | 9.00% | ~82 |
+| Just a scratch | 9.00% | ~83 |
+| Your vessel, my vessel | 9.00% | ~83 |
 | All mine! | 8.00% | ~73 |
 | Paths of Glory | 8.00% | ~73 |
 | Panel of experts | 8.00% | ~73 |
@@ -40,9 +40,9 @@ Number of Ratings: 53  (23.09.2022)
 | Flying Dutchman | 5.00% | ~46 |
 | The Grande Bouffe | 5.00% | ~46 |
 | Overpopulation | 4.00% | ~37 |
-| Premier Maître | 3.00% | ~27 |
-| Supreme conqueror | 3.00% | ~27 |
-| A true pirate! | 3.00% | ~27 |
+| Premier Maître | 3.00% | ~28 |
+| Supreme conqueror | 3.00% | ~28 |
+| A true pirate! | 3.00% | ~28 |
 | Strategist | 2.00% | ~18 |
 | The customer is always right | 2.00% | ~18 |
 | Master & Commander | 2.00% | ~18 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 916 (Ranked 232)  
+Progressed: 917 (Ranked 232)  
 Completed: 1 (0.11%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.11%) (Ranked 228)
 | 2023-09-20 | 903 | 1 |
 | 2023-09-21 | 909 | 1 |
 | 2023-09-22 | 911 | 1 |
-| 2023-09-23 | 916 | 1 |
+| 2023-09-23 | 917 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

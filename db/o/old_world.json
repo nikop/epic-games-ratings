@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1733,7 +1733,7 @@
   ],
   "EOS_Progressed": 14066,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12418,9 +12418,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -14432,8 +14432,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T12:01:32.99154+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:04:39.2063413+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:03:55.6407536+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:01:30.9841668+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:04:39.2071151+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:01:00.5075726+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:03:55.641538+00:00"
 }

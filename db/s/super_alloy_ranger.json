@@ -4,8 +4,8 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -479,9 +479,9 @@
       "ID": "Achi_05",
       "SetID": "51a97k7",
       "Name": "The Fortress Conqueror",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achi_06",
@@ -639,9 +639,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achi_26",
@@ -663,9 +663,9 @@
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achi_29",
@@ -735,9 +735,9 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achi_38",
@@ -856,8 +856,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:04:51.4815091+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:04:08.0199839+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.3106061+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:59:05.1914243+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:04:51.4815445+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:58:35.1880719+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:04:08.0200225+00:00"
 }

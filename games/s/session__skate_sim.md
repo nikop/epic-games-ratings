@@ -8,10 +8,10 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 60.00% | ~1,747 |
 | Keeping it classy | 27.00% | ~786 |
-| Welcome to the family | 21.00% | ~611 |
+| Welcome to the family | 21.00% | ~612 |
 | The finer things in life | 19.00% | ~553 |
 | Backpacker | 14.00% | ~408 |
-| Go with the Flow | 13.00% | ~378 |
+| Go with the Flow | 13.00% | ~379 |
 | Plastic Surgeon | 10.00% | ~291 |
 | The flip trick crown jewel | 10.00% | ~291 |
 | The hard way | 10.00% | ~291 |
@@ -34,12 +34,12 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~146 |
 | Laid back | 5.00% | ~146 |
 | Lines for days | 5.00% | ~146 |
-| Manny Destroys All | 5.00% | ~146 |
-| Renaissance man | 5.00% | ~146 |
 | Trick shot marksman | 5.00% | ~146 |
 | Cops called! | 4.00% | ~116 |
 | G.O.A.T. status | 4.00% | ~116 |
+| Manny Destroys All | 4.00% | ~116 |
 | Prince of Philly | 4.00% | ~116 |
+| Renaissance man | 4.00% | ~116 |
 | Tank commander | 4.00% | ~116 |
 | We get it, you're good | 4.00% | ~116 |
 | Hoarder | 3.00% | ~87 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,911 (Ranked 183)  
+Progressed: 2,912 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 2,883 | 0 |
 | 2023-09-21 | 2,892 | 0 |
 | 2023-09-22 | 2,904 | 0 |
-| 2023-09-23 | 2,911 | 0 |
+| 2023-09-23 | 2,912 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 398)  
 Sum: 471 (Ranked 310)  

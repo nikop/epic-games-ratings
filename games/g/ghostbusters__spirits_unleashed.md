@@ -31,6 +31,7 @@ Rating: 4.50 (Ranked 569)
 | Terrifying | 0.30% | ~78 |
 | Welcome to the Crew | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
+| Collector | 0.20% | ~52 |
 | Daily Dose | 0.20% | ~52 |
 | Diabolical | 0.20% | ~52 |
 | Legions | 0.20% | ~52 |
@@ -41,7 +42,6 @@ Rating: 4.50 (Ranked 569)
 | Stunner | 0.20% | ~52 |
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
-| Collector | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Escape Artist | 0.10% | ~26 |
 | Fragile Panes | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 569)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,972 (Ranked 110)  
+Progressed: 25,974 (Ranked 110)  
 Completed: 58 (0.22%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 58 (0.22%) (Ranked 204)
 | 2023-09-20 | 25,927 | 57 |
 | 2023-09-21 | 25,942 | 58 |
 | 2023-09-22 | 25,960 | 58 |
-| 2023-09-23 | 25,972 | 58 |
+| 2023-09-23 | 25,974 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 254)  
 Sum: 2,329 (Ranked 188)  

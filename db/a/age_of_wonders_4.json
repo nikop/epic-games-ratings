@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,7 +336,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5187,
+  "EOS_Progressed": 5188,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -6181,6 +6181,11 @@
       "Time": "2023-09-18T13:08:43.0489805+00:00",
       "NumProgressed": 5187,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T15:05:29.3284803+00:00",
+      "NumProgressed": 5188,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6192,7 +6197,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "10",
@@ -6200,7 +6205,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "11",
@@ -6240,7 +6245,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "16",
@@ -6310,9 +6315,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 363
     },
     {
       "ID": "24",
@@ -6344,7 +6349,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "28",
@@ -6376,7 +6381,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "31",
@@ -6424,7 +6429,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "37",
@@ -6432,7 +6437,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "38",
@@ -6591,13 +6596,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5187,
+      "Progressed": 5188,
       "Completed": 4763
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5187,
+      "Progressed": 5188,
       "Completed": 6
     }
   ],
@@ -6605,8 +6610,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:06:12.338553+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:05:29.3284799+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:14.6179541+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:57:46.6840067+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:06:12.3386158+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:57:18.2634826+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:05:29.3285505+00:00"
 }

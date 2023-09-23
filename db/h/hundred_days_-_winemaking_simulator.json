@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4549,
+  "EOS_Progressed": 4562,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1154,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3875,6 +3875,11 @@
       "Time": "2023-09-23T14:09:23.9714986+00:00",
       "NumProgressed": 4549,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T15:08:41.0915897+00:00",
+      "NumProgressed": 4562,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3887,7 +3892,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 409
+      "UsersEstimate": 411
     },
     {
       "ID": "a_10",
@@ -3919,7 +3924,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "a_16",
@@ -3935,7 +3940,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1642
     },
     {
       "ID": "a_19",
@@ -3943,7 +3948,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "a_2",
@@ -3951,7 +3956,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "a_20",
@@ -3959,7 +3964,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "a_21",
@@ -3967,7 +3972,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "a_22",
@@ -3983,7 +3988,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "a_25",
@@ -4007,7 +4012,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "a_28",
@@ -4015,7 +4020,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_3",
@@ -4023,7 +4028,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "a_30",
@@ -4071,7 +4076,7 @@
       "Name": "Welcome to the club",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_36",
@@ -4087,7 +4092,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_5",
@@ -4103,7 +4108,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_7",
@@ -4119,7 +4124,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "a_9",
@@ -4134,7 +4139,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4549,
+      "Progressed": 4562,
       "Completed": 6
     }
   ],
@@ -4142,8 +4147,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:09:23.9714983+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:08:41.0915892+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:01:02.0633917+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:09:23.9715308+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:00:31.6745916+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:08:41.0916208+00:00"
 }

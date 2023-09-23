@@ -9,7 +9,7 @@
 | Welcome to the Club | 40.00% | ~34 |
 | Apprentice | 37.00% | ~32 |
 | A new World ahead | 31.00% | ~27 |
-| Can't touch this | 27.00% | ~23 |
+| Can't touch this | 28.00% | ~24 |
 | Don't Cry Wolf | 26.00% | ~22 |
 | Freezing Cold | 19.00% | ~16 |
 | Expert | 17.00% | ~15 |
@@ -24,10 +24,10 @@
 | Through Dangers Untold | 8.00% | ~7 |
 | Finally! | 8.00% | ~7 |
 | Craftsmen | 7.00% | ~6 |
+| Defeat Tezuth | 7.00% | ~6 |
 | Defeat Uskol | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
-| Defeat Tezuth | 6.00% | ~5 |
 | Bringing guns to a sword fight | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | Ancient Powers | 5.00% | ~4 |

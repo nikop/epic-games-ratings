@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 456,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -2014,6 +2014,11 @@
       "Time": "2023-09-23T14:08:27.232243+00:00",
       "NumProgressed": 454,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T15:07:43.6376623+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2089,7 +2094,7 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2105,7 +2110,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2120,7 +2125,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 456,
       "Completed": 0
     }
   ],
@@ -2128,8 +2133,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:08:27.2322424+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:07:43.6376618+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.662019+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:01:42.498013+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:08:27.232259+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:01:11.375326+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:07:43.6376799+00:00"
 }

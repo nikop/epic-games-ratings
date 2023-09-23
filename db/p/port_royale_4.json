@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,7 +240,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 916,
+  "EOS_Progressed": 917,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -2155,6 +2155,11 @@
       "Time": "2023-09-23T14:06:31.9878291+00:00",
       "NumProgressed": 916,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T15:05:48.9336321+00:00",
+      "NumProgressed": 917,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2164,9 +2169,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH001",
@@ -2174,7 +2179,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH002",
@@ -2206,7 +2211,7 @@
       "Name": "Premier Ma\u00EEtre",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH006",
@@ -2214,7 +2219,7 @@
       "Name": "Supreme conqueror",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH007",
@@ -2222,7 +2227,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH008",
@@ -2262,7 +2267,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH013",
@@ -2278,7 +2283,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH015",
@@ -2318,7 +2323,7 @@
       "Name": "Just a scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH020",
@@ -2350,7 +2355,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH024",
@@ -2406,7 +2411,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH031",
@@ -2430,7 +2435,7 @@
       "Name": "A true pirate!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH034",
@@ -2454,7 +2459,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH037",
@@ -2510,7 +2515,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH044",
@@ -2565,15 +2570,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 916,
+      "Progressed": 917,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:06:31.9878288+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:05:48.9336316+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.6290536+00:00",
-  "LastUpdate_Ratings": "2023-09-23T14:01:59.378971+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:06:31.9878774+00:00"
+  "LastUpdate_Ratings": "2023-09-23T15:01:27.3582362+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:05:48.9336744+00:00"
 }

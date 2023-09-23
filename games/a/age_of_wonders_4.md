@@ -7,9 +7,9 @@ Rating: 4.60 (Ranked 399)
 | ---- | ---------- | ----- |
 | Secret Technique | 8.00% | ~415 |
 | Realm Estate | 7.00% | ~363 |
+| A Wonderful Discovery | 7.00% | ~363 |
 | Walls Cannot Stop Us | 7.00% | ~363 |
 | Tipping the Scales | 7.00% | ~363 |
-| A Wonderful Discovery | 6.00% | ~311 |
 | Bone Peddler | 6.00% | ~311 |
 | From Friends to Family | 6.00% | ~311 |
 | Stronger Together | 6.00% | ~311 |
@@ -24,12 +24,12 @@ Rating: 4.60 (Ranked 399)
 | Here be Dragons | 5.00% | ~259 |
 | Blood of the Dragon | 5.00% | ~259 |
 | Mighty Hoard | 5.00% | ~259 |
-| Valley of Wonders | 4.00% | ~207 |
-| Return of the Wizard King | 4.00% | ~207 |
-| Digging for Treasure | 4.00% | ~207 |
-| Preparation Is Everything | 4.00% | ~207 |
-| Fiery Friend | 4.00% | ~207 |
-| Against the Odds | 4.00% | ~207 |
+| Valley of Wonders | 4.00% | ~208 |
+| Return of the Wizard King | 4.00% | ~208 |
+| Digging for Treasure | 4.00% | ~208 |
+| Preparation Is Everything | 4.00% | ~208 |
+| Fiery Friend | 4.00% | ~208 |
+| Against the Odds | 4.00% | ~208 |
 | God Emperor | 3.00% | ~156 |
 | Lord of Chaos | 3.00% | ~156 |
 | Arch Mage | 3.00% | ~156 |
@@ -47,7 +47,7 @@ Rating: 4.60 (Ranked 399)
 | Duality | 2.00% | ~104 |
 | I've Got Everything I Need Right Here | 1.00% | ~52 |
 | Manufactured War | 1.00% | ~52 |
-| Snap Out of It! | 0.80% | ~41 |
+| Snap Out of It! | 0.80% | ~42 |
 | Betrayal Most Foul | 0.50% | ~26 |
 | I Want to Break Free | 0.30% | ~16 |
 | Returning Circle | 0.20% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 399)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,187 (Ranked 159)  
+Progressed: 5,188 (Ranked 159)  
 Completed: 6 (0.12%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 6 (0.12%) (Ranked 223)
 | 2023-09-16 | 5,181 | 6 |
 | 2023-09-17 | 5,186 | 6 |
 | 2023-09-18 | 5,187 | 6 |
+| 2023-09-23 | 5,188 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 491)  
 Sum: 25 (Ranked 498)  

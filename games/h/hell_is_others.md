@@ -5,8 +5,8 @@ Rating: 4.42 (Ranked 682)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,526 |
-| Predator I | 22.00% | ~56,438 |
+| Survivor | 31.00% | ~79,527 |
+| Predator I | 22.00% | ~56,439 |
 | Fixer I | 10.00% | ~25,654 |
 | A week in Century City | 10.00% | ~25,654 |
 | The Wait | 7.00% | ~17,958 |
@@ -14,10 +14,10 @@ Rating: 4.42 (Ranked 682)
 | Cleaning Company | 6.00% | ~15,392 |
 | Well-oiled machine | 5.00% | ~12,827 |
 | Saver I | 5.00% | ~12,827 |
-| The Ascent | 4.00% | ~10,261 |
-| Pacifist | 4.00% | ~10,261 |
-| Vandalism | 4.00% | ~10,261 |
-| Capitalist I | 4.00% | ~10,261 |
+| The Ascent | 4.00% | ~10,262 |
+| Pacifist | 4.00% | ~10,262 |
+| Vandalism | 4.00% | ~10,262 |
+| Capitalist I | 4.00% | ~10,262 |
 | Fixer II | 3.00% | ~7,696 |
 | Adrenaline | 3.00% | ~7,696 |
 | By a hair | 2.00% | ~5,131 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 682)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,536 (Ranked 49)  
+Progressed: 256,540 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 3 (0.00%) (Ranked 290)
 | 2023-09-20 | 256,439 | 3 |
 | 2023-09-21 | 256,470 | 3 |
 | 2023-09-22 | 256,509 | 3 |
-| 2023-09-23 | 256,536 | 3 |
+| 2023-09-23 | 256,540 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 437)  
-Sum: 257 (Ranked 359)  
+Sum: 258 (Ranked 359)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -231,8 +231,8 @@ Diff (max vs sum): 78
 | This game has Challenging Combat | 31 |
 | This game is Highly Recommended | 29 |
 | This game has a Competitive Community | 26 |
+| This game has Competitive Players | 25 |
 | This game has Quickly Understood Controls | 24 |
-| This game has Competitive Players | 24 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -371,3 +371,4 @@ Diff (max vs sum): 78
 | 2023-09-15 | 4.42 | 37 | 255 |
 | 2023-09-19 | 4.42 | 38 | 256 |
 | 2023-09-20 | 4.42 | 38 | 257 |
+| 2023-09-23 | 4.42 | 38 | 258 |

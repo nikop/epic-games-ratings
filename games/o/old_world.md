@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 3.00% | ~422 |
 | Regicide | 2.00% | ~281 |
 | Hanging Gardens in Babylon | 2.00% | ~281 |
+| Beloved | 2.00% | ~281 |
 | Drillmaster | 2.00% | ~281 |
 | Great | 2.00% | ~281 |
 | Intercessor | 2.00% | ~281 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 2.00% | ~281 |
 | Points Victory | 2.00% | ~281 |
 | Poetic Leader | 2.00% | ~281 |
-| Beloved | 1.00% | ~141 |
 | Capable | 1.00% | ~141 |
 | Conqueror | 1.00% | ~141 |
 | Devout | 1.00% | ~141 |

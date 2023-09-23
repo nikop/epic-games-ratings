@@ -12,13 +12,13 @@ Rating: 3.93 (Ranked 965)
 | Underworld Initiate | 0.40% | ~353 |
 | Fancy Pants | 0.40% | ~353 |
 | Rockay Rex | 0.40% | ~353 |
-| Roid Ranger | 0.30% | ~264 |
-| Case Closed | 0.30% | ~264 |
-| King of the Hill | 0.30% | ~264 |
-| Off the Rocks | 0.30% | ~264 |
-| Raider’s Ruin | 0.30% | ~264 |
-| Dragonslayer | 0.30% | ~264 |
-| Hidden Sonata | 0.20% | ~176 |
+| Roid Ranger | 0.30% | ~265 |
+| Hidden Sonata | 0.30% | ~265 |
+| Case Closed | 0.30% | ~265 |
+| King of the Hill | 0.30% | ~265 |
+| Off the Rocks | 0.30% | ~265 |
+| Raider’s Ruin | 0.30% | ~265 |
+| Dragonslayer | 0.30% | ~265 |
 | Track Star | 0.20% | ~176 |
 | Headhunter | 0.20% | ~176 |
 | Moneybags | 0.20% | ~176 |
@@ -47,7 +47,7 @@ Rating: 3.93 (Ranked 965)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,162 (Ranked 77)  
+Progressed: 88,168 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 46 (0.05%) (Ranked 250)
 | 2023-09-20 | 87,943 | 46 |
 | 2023-09-21 | 88,017 | 46 |
 | 2023-09-22 | 88,112 | 46 |
-| 2023-09-23 | 88,162 | 46 |
+| 2023-09-23 | 88,168 | 46 |
 ## Awards
 Max (Diverse Characters): 452  (Ranked 208)  
 Sum: 2,170 (Ranked 197)  

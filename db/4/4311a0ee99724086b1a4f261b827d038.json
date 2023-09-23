@@ -2,13 +2,13 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 505,
+  "Ranking_Rating": 488,
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-07-29T12:59:22.4734783+00:00",
@@ -264,6 +264,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-09-23T14:58:49.8982454+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
@@ -278,9 +284,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 220537,
+  "EOS_Progressed": 220558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2363,
+  "EOS_NewPlayers": 2355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7203,6 +7209,11 @@
       "Time": "2023-09-23T14:07:09.3618558+00:00",
       "NumProgressed": 220537,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T15:06:26.1168078+00:00",
+      "NumProgressed": 220558,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -7215,7 +7226,7 @@
       "Name": "Super Nova Station Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "HW1_MISSION11_COMPLETE",
@@ -7223,7 +7234,7 @@
       "Name": "Tenhauser Gate Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "HW1_MISSION12_COMPLETE",
@@ -7231,7 +7242,7 @@
       "Name": "Galactic Core Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "HW1_MISSION13_COMPLETE",
@@ -7239,7 +7250,7 @@
       "Name": "The Karos Graveyard Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "HW1_MISSION14_COMPLETE",
@@ -7255,7 +7266,7 @@
       "Name": "Chapel Perilous Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "HW1_MISSION16_COMPLETE",
@@ -7271,7 +7282,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 44107
+      "UsersEstimate": 44112
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -7279,7 +7290,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19848
+      "UsersEstimate": 19850
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -7287,7 +7298,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11027
+      "UsersEstimate": 11028
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -7295,7 +7306,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8821
+      "UsersEstimate": 8822
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -7311,7 +7322,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6616
+      "UsersEstimate": 6617
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -7399,7 +7410,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28670
+      "UsersEstimate": 28673
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -7407,7 +7418,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15438
+      "UsersEstimate": 15439
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -7423,7 +7434,7 @@
       "Name": "Gehenna Outskirts Completed",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "HW2_MISSION5_COMPLETE",
@@ -7431,7 +7442,7 @@
       "Name": "Gehenna Completed",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "HW2_MISSION6_COMPLETE",
@@ -7471,7 +7482,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55134
+      "UsersEstimate": 55140
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -7486,16 +7497,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 220537,
+      "Progressed": 220558,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-09-20T20:57:33.8478605+00:00",
-  "LastChanged_Achievements": "2023-09-23T14:07:09.3618554+00:00",
+  "LastChanged": "2023-09-23T14:58:49.8982452+00:00",
+  "LastChanged_Achievements": "2023-09-23T15:06:26.1168073+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.9329368+00:00",
-  "LastUpdate_Ratings": "2023-09-23T13:59:20.623292+00:00",
-  "LastUpdate_Achievements": "2023-09-23T14:07:09.3619073+00:00"
+  "LastUpdate_Ratings": "2023-09-23T14:58:49.8982457+00:00",
+  "LastUpdate_Achievements": "2023-09-23T15:06:26.1168611+00:00"
 }
