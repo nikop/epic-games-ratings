@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 41.00% | ~435 |
-| Clean Race | 39.00% | ~414 |
-| Hear That Roar! | 38.00% | ~403 |
-| Eat My Dust | 36.00% | ~382 |
-| Rivals to the End | 30.00% | ~318 |
-| We're Going to Need a Bigger Garage | 25.00% | ~265 |
-| I'm Here Too! | 23.00% | ~244 |
-| Bitter Rivalry | 23.00% | ~244 |
+| First Love | 41.00% | ~436 |
+| Clean Race | 39.00% | ~415 |
+| Hear That Roar! | 38.00% | ~404 |
+| Eat My Dust | 36.00% | ~383 |
+| Rivals to the End | 30.00% | ~319 |
+| We're Going to Need a Bigger Garage | 25.00% | ~266 |
+| I'm Here Too! | 23.00% | ~245 |
+| Bitter Rivalry | 23.00% | ~245 |
 | Champagne Spray | 19.00% | ~202 |
-| I Want One Too! | 18.00% | ~191 |
-| Quick Pit Stop | 18.00% | ~191 |
-| Restored and Ready | 17.00% | ~180 |
+| I Want One Too! | 18.00% | ~192 |
+| Restored and Ready | 17.00% | ~181 |
+| Quick Pit Stop | 17.00% | ~181 |
 | Go-Faster Stripes | 16.00% | ~170 |
 | Legendary!!! | 16.00% | ~170 |
-| We've Just Begun | 9.00% | ~95 |
+| We've Just Begun | 9.00% | ~96 |
 | Stamina Star | 8.00% | ~85 |
 | Is It the Right Size? | 6.00% | ~64 |
 | Evangelist | 6.00% | ~64 |
-| Make It Your Own! | 4.00% | ~42 |
+| Make It Your Own! | 4.00% | ~43 |
 | Cherry Blossom and Temples | 3.00% | ~32 |
 | La Dolce Vita | 3.00% | ~32 |
 | The Road to Liberty | 3.00% | ~32 |
@@ -37,8 +37,8 @@
 | I'll Be the Best! | 1.00% | ~11 |
 | Exhausted but Happy | 1.00% | ~11 |
 | Overtaking the Master | 1.00% | ~11 |
-| Next Level | 0.80% | ~8 |
-| I Don't Stop | 0.80% | ~8 |
+| Next Level | 0.80% | ~9 |
+| I Don't Stop | 0.80% | ~9 |
 | Globe-trotter | 0.40% | ~4 |
 | In Search of Perfection | 0.40% | ~4 |
 | Maximum Endurance | 0.20% | ~2 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,061 (Ranked 226)  
+Progressed: 1,064 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 1,006 | 0 |
 | 2023-09-21 | 1,025 | 0 |
 | 2023-09-22 | 1,048 | 0 |
-| 2023-09-23 | 1,061 | 0 |
+| 2023-09-23 | 1,064 | 0 |

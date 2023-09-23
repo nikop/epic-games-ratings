@@ -37,10 +37,10 @@ Number of Ratings: 28  (23.09.2022)
 | Сhancellor | 4.00% | ~20 |
 | Peacemaker | 4.00% | ~20 |
 | Supercrash! | 4.00% | ~20 |
-| Forgotten | 2.00% | ~10 |
+| Forgotten | 3.00% | ~15 |
 | Lucky vandal | 2.00% | ~10 |
+| Salesman | 0.80% | ~4 |
 | BBQ | 0.60% | ~3 |
-| Salesman | 0.60% | ~3 |
 | Vandal | 0.40% | ~2 |
 | Mega-railroad | 0.40% | ~2 |
 | Juggler | 0.40% | ~2 |

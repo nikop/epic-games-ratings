@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -5478,9 +5478,9 @@
       "ID": "ACH_DEAD",
       "SetID": "5nj1ea3",
       "Name": "One way ticket",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 4364
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACH_DEEDEE",
@@ -5839,8 +5839,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-09-10T14:58:56.3860075+00:00",
-  "LastChanged_Achievements": "2023-09-23T12:06:36.8700849+00:00",
+  "LastChanged_Achievements": "2023-09-23T13:11:30.2347704+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.2935217+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:59:20.9207835+00:00",
-  "LastUpdate_Achievements": "2023-09-23T12:06:36.8701871+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:03:52.4909298+00:00",
+  "LastUpdate_Achievements": "2023-09-23T13:11:30.2349324+00:00"
 }

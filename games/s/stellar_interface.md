@@ -21,29 +21,29 @@
 | Bronze Prince of Ball-air | 13.00% | ~8 |
 | Pacifist | 13.00% | ~8 |
 | Collateral Damage I | 13.00% | ~8 |
+| Defrosted | 11.00% | ~7 |
 | 25Gb HDD | 11.00% | ~7 |
 | Sectoral Ensign | 10.00% | ~6 |
 | Rambo II | 10.00% | ~6 |
-| Defrosted | 10.00% | ~6 |
 | Golden Prince of Ball-air | 10.00% | ~6 |
+| Space Surfer | 10.00% | ~6 |
 | Unstoppable | 10.00% | ~6 |
 | Silver Prince of Ball-air | 10.00% | ~6 |
 | Merchant Prince II | 10.00% | ~6 |
 | Hitchhiker | 8.00% | ~5 |
 | Hoarder | 8.00% | ~5 |
-| Space Surfer | 8.00% | ~5 |
+| Sectoral Captain | 8.00% | ~5 |
+| Rambo III | 6.00% | ~4 |
 | Diligent | 6.00% | ~4 |
 | Food Poisoning | 6.00% | ~4 |
 | Usurper I | 6.00% | ~4 |
 | Flower Power | 6.00% | ~4 |
 | 50Gb HDD | 6.00% | ~4 |
 | Galactic Lieutenant | 6.00% | ~4 |
-| Sectoral Captain | 6.00% | ~4 |
 | Collateral Damage II | 6.00% | ~4 |
 | Bronze Foundation | 5.00% | ~3 |
 | System Ensign | 5.00% | ~3 |
 | Bronze Pest Control | 5.00% | ~3 |
-| Rambo III | 5.00% | ~3 |
 | Rambo IV | 5.00% | ~3 |
 | Curious | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 406)  
+Progressed: 63 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |

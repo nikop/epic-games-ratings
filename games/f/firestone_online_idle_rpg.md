@@ -28,6 +28,7 @@ Rating: 4.02 (Ranked 946)
 | The Unstoppable | 14.00% | ~275 |
 | Milestone collector | 13.00% | ~255 |
 | Scientist | 12.00% | ~235 |
+| The power of Awakening | 12.00% | ~235 |
 | Challenger | 11.00% | ~216 |
 | Daily Quest Completionist | 11.00% | ~216 |
 | Doing My Part | 11.00% | ~216 |
@@ -36,7 +37,6 @@ Rating: 4.02 (Ranked 946)
 | Moving Up The Ladder | 11.00% | ~216 |
 | Relic Of The Past | 11.00% | ~216 |
 | Scroll Master | 11.00% | ~216 |
-| The power of Awakening | 11.00% | ~216 |
 | Four Leaf Clover | 10.00% | ~196 |
 | Frostfire Liberator | 10.00% | ~196 |
 | Here We Go Again | 9.00% | ~176 |

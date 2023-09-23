@@ -12,18 +12,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 5.00% | ~703 |
 | Friendly Family | 5.00% | ~703 |
 | The Clergy | 5.00% | ~703 |
-| Able | 4.00% | ~562 |
-| Architect | 4.00% | ~562 |
-| Good | 4.00% | ~562 |
-| Just | 4.00% | ~562 |
-| Learned | 4.00% | ~562 |
-| Mason | 4.00% | ~562 |
-| Noble | 4.00% | ~562 |
-| Pioneer | 4.00% | ~562 |
-| Strong | 4.00% | ~562 |
-| Hanging Gardens | 4.00% | ~562 |
-| Oracle | 4.00% | ~562 |
-| Trade Caravan | 4.00% | ~562 |
+| Able | 4.00% | ~563 |
+| Architect | 4.00% | ~563 |
+| Good | 4.00% | ~563 |
+| Just | 4.00% | ~563 |
+| Learned | 4.00% | ~563 |
+| Mason | 4.00% | ~563 |
+| Noble | 4.00% | ~563 |
+| Pioneer | 4.00% | ~563 |
+| Strong | 4.00% | ~563 |
+| Hanging Gardens | 4.00% | ~563 |
+| Oracle | 4.00% | ~563 |
+| Trade Caravan | 4.00% | ~563 |
 | Ambitious | 3.00% | ~422 |
 | Brilliant | 3.00% | ~422 |
 | Enlightened | 3.00% | ~422 |
@@ -126,11 +126,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.90% | ~127 |
 | Enlightenment | 0.90% | ~127 |
 | Kushite Cavalry | 0.90% | ~127 |
-| Ishtar Gate in Babylon | 0.80% | ~112 |
-| Clerics | 0.80% | ~112 |
-| Hunters | 0.80% | ~112 |
-| Learn to Play 4 | 0.80% | ~112 |
-| Turreted Elephant | 0.80% | ~112 |
+| Ishtar Gate in Babylon | 0.80% | ~113 |
+| Clerics | 0.80% | ~113 |
+| Hunters | 0.80% | ~113 |
+| Learn to Play 4 | 0.80% | ~113 |
+| Turreted Elephant | 0.80% | ~113 |
 | Old | 0.70% | ~98 |
 | Peacemaker | 0.70% | ~98 |
 | Cao'an | 0.70% | ~98 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,062 (Ranked 127)  
+Progressed: 14,063 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 5 (0.04%) (Ranked 254)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,062 | 5 |
+| 2023-09-23 | 14,063 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,816 (Ranked 207)  

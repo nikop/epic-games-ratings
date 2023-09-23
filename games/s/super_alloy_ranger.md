@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 82.00% | ~71 |
-| Gear Up | 70.00% | ~61 |
-| A Grand Show | 70.00% | ~61 |
-| Freshen Up | 60.00% | ~52 |
-| GG EZ | 60.00% | ~52 |
-| Hydrophobia | 45.00% | ~39 |
-| Ka-Ching! | 36.00% | ~31 |
-| Stop Right There | 32.00% | ~28 |
-| Get to the Point | 30.00% | ~26 |
+| Iceberg Theory | 80.00% | ~71 |
+| Gear Up | 69.00% | ~61 |
+| A Grand Show | 69.00% | ~61 |
+| Freshen Up | 60.00% | ~53 |
+| GG EZ | 58.00% | ~52 |
+| Hydrophobia | 44.00% | ~39 |
+| Ka-Ching! | 35.00% | ~31 |
+| Stop Right There | 31.00% | ~28 |
+| Get to the Point | 29.00% | ~26 |
 | Mr. Want It All | 18.00% | ~16 |
 | The Hidden Secret | 16.00% | ~14 |
 | Toe to Toe | 16.00% | ~14 |
 | Phew! | 15.00% | ~13 |
-| The Abyss Conqueror | 13.00% | ~11 |
+| The Abyss Conqueror | 12.00% | ~11 |
 | Space Warrior: Prologue | 11.00% | ~10 |
 | The Fortress Conqueror | 10.00% | ~9 |
 | Grand Escape | 10.00% | ~9 |
@@ -30,12 +30,12 @@
 | The Hypergravitational Abyss Conqueror | 6.00% | ~5 |
 | Hell of a Fight | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
-| The Sunken City Conqueror | 5.00% | ~4 |
-| The Zero Dimensional Capital Conqueror | 5.00% | ~4 |
-| The Inactivated Frozen Conqueror | 5.00% | ~4 |
-| Death Bringer Conqueror | 5.00% | ~4 |
-| Rapidfire | 5.00% | ~4 |
-| Air Interception | 5.00% | ~4 |
+| The Sunken City Conqueror | 4.00% | ~4 |
+| The Zero Dimensional Capital Conqueror | 4.00% | ~4 |
+| The Inactivated Frozen Conqueror | 4.00% | ~4 |
+| Death Bringer Conqueror | 4.00% | ~4 |
+| Rapidfire | 4.00% | ~4 |
+| Air Interception | 4.00% | ~4 |
 | The Looping Space Conqueror | 3.00% | ~3 |
 | Space Ranger: Prologue | 3.00% | ~3 |
 | Breaking the Limit | 3.00% | ~3 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 387)  
+Progressed: 89 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-14 | 84 | 0 |
 | 2023-09-15 | 85 | 0 |
 | 2023-09-16 | 87 | 0 |
+| 2023-09-23 | 89 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,57 +5,57 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~1,339 |
-| On the Top Step | 84.00% | ~1,210 |
-| Setting up for Success | 75.00% | ~1,080 |
-| Team Orders | 74.00% | ~1,066 |
-| Engineer | 54.00% | ~778 |
-| Familiar Faces | 47.00% | ~677 |
-| Going the Extra Mile | 42.00% | ~605 |
-| Sharing the Love | 38.00% | ~547 |
-| Hitting a Season | 37.00% | ~533 |
-| Challenge Yourself | 32.00% | ~461 |
-| Making History | 32.00% | ~461 |
-| A Dozen Pieces | 30.00% | ~432 |
-| Writing a new Chapter | 25.00% | ~360 |
-| Spring Cleaning | 22.00% | ~317 |
-| Network Success | 22.00% | ~317 |
-| Reduce | 19.00% | ~274 |
-| Ups and Downs | 19.00% | ~274 |
-| Crucial Combo | 18.00% | ~259 |
-| Oil and Water | 17.00% | ~245 |
-| Proving Them Wrong | 17.00% | ~245 |
-| Gathering Dust | 16.00% | ~230 |
-| Hitting a Bullseye | 16.00% | ~230 |
-| Reuse | 16.00% | ~230 |
-| One for the Book | 16.00% | ~230 |
-| Lightning Round the World | 15.00% | ~216 |
-| Tinkerer | 13.00% | ~187 |
-| All in a Weekend's Work | 12.00% | ~173 |
-| Spinning Around | 12.00% | ~173 |
-| Recycle | 12.00% | ~173 |
-| Eagle Eye | 11.00% | ~158 |
-| Undisputed Winner | 10.00% | ~144 |
-| Switcheroo | 10.00% | ~144 |
-| Friendly Competition | 8.00% | ~115 |
-| For all Those Back at the Factory | 7.00% | ~101 |
-| Living up to Expectations | 7.00% | ~101 |
-| Smooth Operator | 7.00% | ~101 |
-| Loyal Bond | 6.00% | ~86 |
-| Peak Performance | 5.00% | ~72 |
+| Getting on the Step | 93.00% | ~1,350 |
+| On the Top Step | 84.00% | ~1,220 |
+| Setting up for Success | 75.00% | ~1,089 |
+| Team Orders | 74.00% | ~1,074 |
+| Engineer | 54.00% | ~784 |
+| Familiar Faces | 47.00% | ~682 |
+| Going the Extra Mile | 42.00% | ~610 |
+| Sharing the Love | 38.00% | ~552 |
+| Hitting a Season | 37.00% | ~537 |
+| Challenge Yourself | 32.00% | ~465 |
+| Making History | 32.00% | ~465 |
+| A Dozen Pieces | 30.00% | ~436 |
+| Writing a new Chapter | 25.00% | ~363 |
+| Spring Cleaning | 23.00% | ~334 |
+| Network Success | 22.00% | ~319 |
+| Reduce | 19.00% | ~276 |
+| Ups and Downs | 19.00% | ~276 |
+| Crucial Combo | 18.00% | ~261 |
+| Oil and Water | 17.00% | ~247 |
+| Proving Them Wrong | 17.00% | ~247 |
+| Gathering Dust | 16.00% | ~232 |
+| Hitting a Bullseye | 16.00% | ~232 |
+| Reuse | 16.00% | ~232 |
+| One for the Book | 16.00% | ~232 |
+| Lightning Round the World | 15.00% | ~218 |
+| Tinkerer | 13.00% | ~189 |
+| All in a Weekend's Work | 12.00% | ~174 |
+| Spinning Around | 12.00% | ~174 |
+| Recycle | 12.00% | ~174 |
+| Eagle Eye | 11.00% | ~160 |
+| Undisputed Winner | 11.00% | ~160 |
+| Switcheroo | 10.00% | ~145 |
+| Friendly Competition | 8.00% | ~116 |
+| For all Those Back at the Factory | 7.00% | ~102 |
+| Living up to Expectations | 7.00% | ~102 |
+| Smooth Operator | 7.00% | ~102 |
+| Loyal Bond | 6.00% | ~87 |
+| Peak Performance | 5.00% | ~73 |
 | Hitting a Century | 4.00% | ~58 |
-| Seasoned Rookie | 3.00% | ~43 |
-| Wait, I know you? | 3.00% | ~43 |
-| Filling in the Gaps | 3.00% | ~43 |
+| Seasoned Rookie | 3.00% | ~44 |
+| Wait, I know you? | 3.00% | ~44 |
+| Filling in the Gaps | 3.00% | ~44 |
 | Media Darling | 2.00% | ~29 |
-| Under the Microscope | 1.00% | ~14 |
-| Saturday Night Drama | 1.00% | ~14 |
+| Under the Microscope | 1.00% | ~15 |
+| Saturday Night Drama | 1.00% | ~15 |
 | Ultimate Collector | 0.80% | ~12 |
 | Golden Touch | 0.60% | ~9 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,440 (Ranked 211)  
+Progressed: 1,452 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 812 | 0 |
 | 2023-09-21 | 1,052 | 0 |
 | 2023-09-22 | 1,316 | 0 |
-| 2023-09-23 | 1,440 | 0 |
+| 2023-09-23 | 1,452 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

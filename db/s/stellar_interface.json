@@ -2,10 +2,10 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -463,9 +463,9 @@
       "ID": "Cleared100LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo III",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Cleared10LevelsAchievement",
@@ -735,9 +735,9 @@
       "ID": "ErebusSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Defrosted",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FlamethrowerDiarrheaAchievement",
@@ -887,9 +887,9 @@
       "ID": "KilgoreSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Surfer",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Killed0EnemiesInLevelAchievement",
@@ -1199,9 +1199,9 @@
       "ID": "SilverMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Captain",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SilverMissionsCompletedAllAchievement",
@@ -1398,8 +1398,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-23T12:08:31.253994+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T11:57:46.7289826+00:00",
-  "LastUpdate_Ratings": "2023-09-23T12:02:10.6385713+00:00",
-  "LastUpdate_Achievements": "2023-09-23T12:08:31.2542011+00:00"
+  "LastChanged_Achievements": "2023-09-23T13:13:25.2367229+00:00",
+  "LastUpdate_AppInfo": "2023-09-23T13:01:05.7400857+00:00",
+  "LastUpdate_Ratings": "2023-09-23T13:06:40.0436742+00:00",
+  "LastUpdate_Achievements": "2023-09-23T13:13:25.2370862+00:00"
 }

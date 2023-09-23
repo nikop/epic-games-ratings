@@ -17,11 +17,11 @@
 | Fussy eater | 42.00% | ~19 |
 | Far away from home | 42.00% | ~19 |
 | Kekekeke... | 42.00% | ~19 |
+| NOW GO AWAY! | 42.00% | ~19 |
 | Game Over! | 40.00% | ~18 |
 | Show me your true self | 40.00% | ~18 |
 | A very special drink | 40.00% | ~18 |
 | Little genius | 40.00% | ~18 |
-| NOW GO AWAY! | 40.00% | ~18 |
 | Sorry Grandpa | 40.00% | ~18 |
 | No posters allowed | 38.00% | ~17 |
 | GG | 36.00% | ~16 |

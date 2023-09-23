@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -125,7 +125,7 @@
   "Tags": [],
   "EOS_Progressed": 493,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1367,9 +1367,9 @@
       "ID": "26_forgotten",
       "SetID": "chb1m60",
       "Name": "Forgotten",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "27_lucky",
@@ -1471,9 +1471,9 @@
       "ID": "39_salesman",
       "SetID": "chb1m60",
       "Name": "Salesman",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -1487,8 +1487,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-23T12:03:45.432999+00:00",
+  "LastChanged_Achievements": "2023-09-23T13:08:47.7965493+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:01.7956204+00:00",
-  "LastUpdate_Ratings": "2023-09-23T12:00:37.6907823+00:00",
-  "LastUpdate_Achievements": "2023-09-23T12:03:45.4330408+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:05:07.3060191+00:00",
+  "LastUpdate_Achievements": "2023-09-23T13:08:47.7966026+00:00"
 }

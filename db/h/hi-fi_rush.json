@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4086,
+  "EOS_Progressed": 4087,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6705,6 +6705,11 @@
       "Time": "2023-09-23T10:03:53.3979677+00:00",
       "NumProgressed": 4086,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-23T13:09:27.2981588+00:00",
+      "NumProgressed": 4087,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6724,7 +6729,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "Ach003",
@@ -6828,7 +6833,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "Ach016",
@@ -6908,7 +6913,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "Ach026",
@@ -7204,7 +7209,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Ach063",
@@ -7283,13 +7288,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4086,
+      "Progressed": 4087,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2607,
+      "Progressed": 2608,
       "Completed": 1930
     }
   ],
@@ -7297,8 +7302,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-23T12:04:34.863531+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-23T12:01:17.5528107+00:00",
-  "LastUpdate_Achievements": "2023-09-23T12:04:34.8636652+00:00"
+  "LastChanged_Achievements": "2023-09-23T13:09:27.2981582+00:00",
+  "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
+  "LastUpdate_Ratings": "2023-09-23T13:05:45.3440694+00:00",
+  "LastUpdate_Achievements": "2023-09-23T13:09:27.2982808+00:00"
 }

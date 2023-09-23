@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3654,
+  "EOS_Progressed": 3655,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6839,6 +6839,11 @@
       "Time": "2023-09-23T11:03:24.4225617+00:00",
       "NumProgressed": 3654,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-23T13:08:16.6162217+00:00",
+      "NumProgressed": 3655,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6986,7 +6991,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7016,9 +7021,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1462
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7098,7 +7103,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7417,13 +7422,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3605,
+      "Progressed": 3606,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3654,
+      "Progressed": 3655,
       "Completed": 11
     }
   ],
@@ -7431,8 +7436,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-23T12:03:15.01602+00:00",
+  "LastChanged_Achievements": "2023-09-23T13:08:16.6162191+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:59:52.5032399+00:00",
-  "LastUpdate_Achievements": "2023-09-23T12:03:15.0184296+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:04:23.0631893+00:00",
+  "LastUpdate_Achievements": "2023-09-23T13:08:16.6205282+00:00"
 }

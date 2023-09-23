@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 966)  
+Rating: 3.93 (Ranked 965)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,12 +42,12 @@ Rating: 3.93 (Ranked 966)
 | Geek Out | 0.10% | ~88 |
 | Classy Joint | 0.10% | ~88 |
 | Impossible Dreamer | 0.10% | ~88 |
-| All that Glitters | 0.10% | ~16 |
-| All for One | 0.10% | ~16 |
-| One for All | 0.10% | ~16 |
-| Now You See Me | 0.10% | ~16 |
+| All that Glitters | 0.10% | ~17 |
+| All for One | 0.10% | ~17 |
+| One for All | 0.10% | ~17 |
+| Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,149 (Ranked 77)  
+Progressed: 88,154 (Ranked 77)  
 Completed: 46 (0.05%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,15 +203,15 @@ Completed: 46 (0.05%) (Ranked 250)
 | 2023-09-20 | 87,943 | 46 |
 | 2023-09-21 | 88,017 | 46 |
 | 2023-09-22 | 88,112 | 46 |
-| 2023-09-23 | 88,149 | 46 |
+| 2023-09-23 | 88,154 | 46 |
 ## Awards
 Max (Diverse Characters): 452  (Ranked 208)  
-Sum: 2,167 (Ranked 197)  
+Sum: 2,170 (Ranked 197)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 452 |
-| This game has Quickly Understood Controls | 444 |
+| This game has Quickly Understood Controls | 447 |
 | This game is Highly Recommended | 429 |
 | This game has Challenging Combat | 424 |
 | This game has Amazing Characters | 418 |
@@ -396,3 +396,4 @@ Diff (max vs sum): 11
 | 2023-09-20 | 3.93 | 446 | 2,140 |
 | 2023-09-21 | 3.93 | 450 | 2,152 |
 | 2023-09-22 | 3.93 | 452 | 2,167 |
+| 2023-09-23 | 3.93 | 452 | 2,170 |

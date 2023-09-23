@@ -4,8 +4,8 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -421,8 +421,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-23T12:03:31.5890809+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T11:58:33.6260278+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:58:02.3691872+00:00",
-  "LastUpdate_Achievements": "2023-09-23T12:03:31.5891048+00:00"
+  "LastChanged_Achievements": "2023-09-23T13:08:33.4604752+00:00",
+  "LastUpdate_AppInfo": "2023-09-23T12:59:33.5455388+00:00",
+  "LastUpdate_Ratings": "2023-09-23T13:02:34.6522264+00:00",
+  "LastUpdate_Achievements": "2023-09-23T13:08:33.4605195+00:00"
 }

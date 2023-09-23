@@ -4,8 +4,8 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -1037,9 +1037,9 @@
       "ID": "The Breaker",
       "SetID": "1fffk9d",
       "Name": "Broken!",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -1052,8 +1052,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-09-23T12:06:01.3705808+00:00",
+  "LastChanged_Achievements": "2023-09-23T13:10:54.3423554+00:00",
   "LastUpdate_AppInfo": "2023-09-20T04:57:03.872134+00:00",
-  "LastUpdate_Ratings": "2023-09-23T11:58:46.5975608+00:00",
-  "LastUpdate_Achievements": "2023-09-23T12:06:01.3705971+00:00"
+  "LastUpdate_Ratings": "2023-09-23T13:03:18.9039297+00:00",
+  "LastUpdate_Achievements": "2023-09-23T13:10:54.3423785+00:00"
 }

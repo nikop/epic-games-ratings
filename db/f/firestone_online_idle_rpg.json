@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -6197,9 +6197,9 @@
       "ID": "thepowerofawakening",
       "SetID": "3nl4bcg",
       "Name": "The power of Awakening",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 235
     },
     {
       "ID": "theunstoppable",
@@ -6310,8 +6310,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-15T09:57:36.6355435+00:00",
-  "LastChanged_Achievements": "2023-09-23T12:06:23.445067+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T11:57:24.7337025+00:00",
-  "LastUpdate_Ratings": "2023-09-23T12:01:34.9140224+00:00",
-  "LastUpdate_Achievements": "2023-09-23T12:06:23.4452082+00:00"
+  "LastChanged_Achievements": "2023-09-23T13:11:16.9703861+00:00",
+  "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
+  "LastUpdate_Ratings": "2023-09-23T13:06:04.0474708+00:00",
+  "LastUpdate_Achievements": "2023-09-23T13:11:16.970584+00:00"
 }
