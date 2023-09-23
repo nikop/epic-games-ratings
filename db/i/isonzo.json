@@ -3,7 +3,7 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 469,
-  "Ranking_Popularity": 445,
+  "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 228,
@@ -832,7 +832,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6958,
+  "EOS_Progressed": 6959,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -5707,6 +5707,11 @@
       "Time": "2023-09-22T19:06:27.8462041+00:00",
       "NumProgressed": 6958,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-23T04:04:59.4399717+00:00",
+      "NumProgressed": 6959,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5750,7 +5755,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -5926,7 +5931,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -5966,7 +5971,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -5998,7 +6003,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -6014,7 +6019,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -6077,7 +6082,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6958,
+      "Progressed": 6959,
       "Completed": 8
     }
   ],
@@ -6085,8 +6090,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-15T08:57:32.7631798+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:05:29.2061047+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:04:59.4399711+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:24.1228598+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:59:29.6239196+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:05:29.2061857+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:59:27.9084985+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:04:59.4400863+00:00"
 }

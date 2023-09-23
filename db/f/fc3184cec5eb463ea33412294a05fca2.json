@@ -1113,9 +1113,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1240,8 +1240,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:06:13.529334+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:05:44.1591105+00:00",
   "LastUpdate_AppInfo": "2023-09-16T18:57:11.2701205+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:58:12.4846935+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:06:13.529351+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:58:05.1058073+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:05:44.1591406+00:00"
 }

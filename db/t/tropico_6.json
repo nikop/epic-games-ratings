@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 157,
@@ -1128,9 +1128,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5283,
+  "EOS_Progressed": 5284,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10148,6 +10148,11 @@
       "Time": "2023-09-23T03:06:01.3560658+00:00",
       "NumProgressed": 5283,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-23T04:05:31.9903847+00:00",
+      "NumProgressed": 5284,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10191,7 +10196,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -10229,9 +10234,9 @@
       "ID": "ACH_EP_CHOCOLATEFACTORY",
       "SetID": "1p8ab95",
       "Name": "The Dreamer of Dreams",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 845
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -10255,7 +10260,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -10319,7 +10324,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3962
+      "UsersEstimate": 3963
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10367,7 +10372,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -10375,7 +10380,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -10423,7 +10428,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -10478,15 +10483,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5283,
+      "Progressed": 5284,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-23T01:37:26.9632375+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:06:01.3560651+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:05:31.9903841+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:59:08.3896086+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:58:20.2300848+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:06:01.3561507+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:58:13.7464281+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:05:31.9905338+00:00"
 }

@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4447,
+  "EOS_Progressed": 4455,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3820,6 +3820,11 @@
       "Time": "2023-09-23T03:09:18.6081023+00:00",
       "NumProgressed": 4447,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T04:07:26.0446568+00:00",
+      "NumProgressed": 4455,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3832,7 +3837,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "a_10",
@@ -3880,7 +3885,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1648
     },
     {
       "ID": "a_19",
@@ -3888,7 +3893,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "a_2",
@@ -3896,7 +3901,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "a_20",
@@ -3912,7 +3917,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "a_22",
@@ -3952,7 +3957,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "a_28",
@@ -3960,7 +3965,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "a_3",
@@ -3968,7 +3973,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "a_30",
@@ -4016,7 +4021,7 @@
       "Name": "Welcome to the club",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "a_36",
@@ -4032,7 +4037,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "a_5",
@@ -4048,7 +4053,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "a_7",
@@ -4064,7 +4069,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "a_9",
@@ -4079,7 +4084,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4447,
+      "Progressed": 4455,
       "Completed": 6
     }
   ],
@@ -4087,8 +4092,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:09:18.6081018+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:07:26.0446563+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:59:24.9066846+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:09:18.6081442+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:59:23.4512194+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:07:26.0447262+00:00"
 }

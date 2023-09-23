@@ -1741,9 +1741,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 489
+      "UsersEstimate": 497
     },
     {
       "ID": "AC08",
@@ -1773,9 +1773,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 356
     },
     {
       "ID": "AC12",
@@ -2062,8 +2062,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:04:43.1704009+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:04:13.601577+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:58:35.6363348+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:04:43.1704487+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:58:28.0813944+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:04:13.6016602+00:00"
 }

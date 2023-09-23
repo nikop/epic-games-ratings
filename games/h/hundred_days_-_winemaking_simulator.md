@@ -6,18 +6,18 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 37.00% | ~1,645 |
-| It's a good start | 9.00% | ~400 |
-| Bonjour! | 7.00% | ~311 |
+| Bye Bye | 37.00% | ~1,648 |
+| It's a good start | 9.00% | ~401 |
+| Bonjour! | 7.00% | ~312 |
 | The Assistant | 6.00% | ~267 |
 | Quack | 6.00% | ~267 |
-| Ostinata | 5.00% | ~222 |
-| The Blue Marl | 5.00% | ~222 |
+| Ostinata | 5.00% | ~223 |
+| The Blue Marl | 5.00% | ~223 |
 | A long journey | 4.00% | ~178 |
 | Better than nothing? | 4.00% | ~178 |
-| Keep the doctor away | 3.00% | ~133 |
-| Surprise of Langhe | 3.00% | ~133 |
-| Famous | 3.00% | ~133 |
+| Keep the doctor away | 3.00% | ~134 |
+| Surprise of Langhe | 3.00% | ~134 |
+| Famous | 3.00% | ~134 |
 | What is that? A castle? | 2.00% | ~89 |
 | A lot of space | 2.00% | ~89 |
 | A big garage | 2.00% | ~89 |
@@ -25,10 +25,10 @@ Number of Ratings: 7,669  (23.09.2022)
 | Millionaire | 2.00% | ~89 |
 | Exotic | 2.00% | ~89 |
 | Very Important Winemaker | 2.00% | ~89 |
-| Pastry Chef | 1.00% | ~44 |
-| Welcome to the club | 1.00% | ~44 |
-| King of Langhe | 1.00% | ~44 |
-| Gem of Monferrato | 1.00% | ~44 |
+| Pastry Chef | 1.00% | ~45 |
+| Welcome to the club | 1.00% | ~45 |
+| King of Langhe | 1.00% | ~45 |
+| Gem of Monferrato | 1.00% | ~45 |
 | Treasure of Roero | 0.70% | ~31 |
 | Knight of Langhe | 0.60% | ~27 |
 | King of red wines | 0.30% | ~13 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~9 |
 | Master Winemaker | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,447 (Ranked 165)  
+Progressed: 4,455 (Ranked 165)  
 Completed: 6 (0.13%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 6 (0.13%) (Ranked 222)
 | 2023-09-20 | 4,127 | 5 |
 | 2023-09-21 | 4,265 | 6 |
 | 2023-09-22 | 4,430 | 6 |
-| 2023-09-23 | 4,447 | 6 |
+| 2023-09-23 | 4,455 | 6 |
 ## Awards
 Max (Relaxing): 205  (Ranked 273)  
 Sum: 1,590 (Ranked 218)  

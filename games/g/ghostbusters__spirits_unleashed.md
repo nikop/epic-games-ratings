@@ -23,6 +23,7 @@ Rating: 4.50 (Ranked 568)
 | Ghostbuster In Training | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |
 | Right back at ya | 0.30% | ~78 |
+| Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Summoner | 0.30% | ~78 |
 | Swift Rift Removers | 0.30% | ~78 |
@@ -37,7 +38,6 @@ Rating: 4.50 (Ranked 568)
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
 | Seasoned | 0.20% | ~52 |
-| Side Hustle | 0.20% | ~52 |
 | Stunner | 0.20% | ~52 |
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 568)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,963 (Ranked 109)  
+Progressed: 25,965 (Ranked 109)  
 Completed: 58 (0.22%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 58 (0.22%) (Ranked 204)
 | 2023-09-20 | 25,927 | 57 |
 | 2023-09-21 | 25,942 | 58 |
 | 2023-09-22 | 25,960 | 58 |
-| 2023-09-23 | 25,963 | 58 |
+| 2023-09-23 | 25,965 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 254)  
 Sum: 2,328 (Ranked 188)  

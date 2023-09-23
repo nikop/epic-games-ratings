@@ -2,7 +2,7 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 22,
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 236,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 22.88,
   "EosHistory": [
@@ -1207,9 +1207,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "FallDeath",
@@ -1263,9 +1263,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "Hologram",
@@ -1287,9 +1287,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "Synthesis",
@@ -1310,8 +1310,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:03:49.9652938+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:03:19.3618355+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:58:19.6097072+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:03:49.9653227+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:58:13.148352+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:03:19.361864+00:00"
 }

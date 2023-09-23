@@ -26,7 +26,7 @@ Rating: 4.69 (Ranked 220)
 | Rustic Recipe | 11.00% | ~73 |
 | Accursed Artifacts | 10.00% | ~66 |
 | Lyrical Longing | 10.00% | ~66 |
-| Corsair | 6.00% | ~40 |
+| Corsair | 7.00% | ~46 |
 | Fully Decked | 6.00% | ~40 |
 | Freebooter | 5.00% | ~33 |
 | Marauder | 4.00% | ~27 |

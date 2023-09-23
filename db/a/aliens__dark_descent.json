@@ -3,11 +3,11 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 585,
-  "Ranking_Popularity": 471,
-  "Ranking_PopularitySum": 487,
+  "Ranking_Popularity": 468,
+  "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -310,18 +310,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-09-23T03:57:26.7779075+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 29,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 29,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 28
+      "Count": 29
     }
   ],
   "EOS_Progressed": 3357,
@@ -4971,9 +4977,9 @@
       "ID": "ACH_SECURE_MARINE",
       "SetID": "816efe",
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1410
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -5011,9 +5017,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-09-17T22:00:28.8313615+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:03:33.1770625+00:00",
+  "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:02:32.3840731+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:57:34.0034128+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:03:33.1771246+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:57:26.7779079+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:02:32.3841784+00:00"
 }

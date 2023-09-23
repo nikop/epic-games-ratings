@@ -19,7 +19,7 @@ Rating: 4.49 (Ranked 585)
 | Colonial Barrels | 50.00% | ~1,678 |
 | Harper's Hell | 45.00% | ~1,511 |
 | Making a Stand | 43.00% | ~1,444 |
-| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,376 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,410 |
 | Where It All Begun | 40.00% | ~1,343 |
 | Recouped Investment | 38.00% | ~1,276 |
 | Omelette Du Fromage | 33.00% | ~1,108 |
@@ -150,12 +150,12 @@ Completed: 3 (0.09%) (Ranked 235)
 | 2023-09-22 | 3,356 | 3 |
 | 2023-09-23 | 3,357 | 3 |
 ## Awards
-Max (Great Boss Battles): 28  (Ranked 471)  
-Sum: 28 (Ranked 487)  
+Max (Great Boss Battles): 29  (Ranked 468)  
+Sum: 29 (Ranked 484)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 28 |
+| This game has Great Boss Battles | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -204,3 +204,4 @@ Diff (max vs sum): -16
 | 2023-09-09 | 4.48 | 26 | 26 |
 | 2023-09-12 | 4.49 | 26 | 26 |
 | 2023-09-17 | 4.49 | 28 | 28 |
+| 2023-09-23 | 4.49 | 29 | 29 |

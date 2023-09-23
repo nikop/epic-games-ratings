@@ -5,13 +5,13 @@ Rating: 4.27 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,469 |
-| Copacetic Coordination | 16.00% | ~55,120 |
-| Fronting the Money | 15.00% | ~51,675 |
-| The Dawn of Automation | 14.00% | ~48,230 |
-| Extraordinary Logistics | 14.00% | ~48,230 |
-| Dirty Money | 13.00% | ~44,785 |
-| Family First | 13.00% | ~44,785 |
+| Corner Clout | 46.00% | ~158,472 |
+| Copacetic Coordination | 16.00% | ~55,121 |
+| Fronting the Money | 15.00% | ~51,676 |
+| The Dawn of Automation | 14.00% | ~48,231 |
+| Extraordinary Logistics | 14.00% | ~48,231 |
+| Dirty Money | 13.00% | ~44,786 |
+| Family First | 13.00% | ~44,786 |
 | Cleaning House | 12.00% | ~41,340 |
 | Room in the Back | 12.00% | ~41,340 |
 | Beating the Heat | 11.00% | ~37,895 |
@@ -59,34 +59,34 @@ Rating: 4.27 (Ranked 825)
 | Full House | 1.00% | ~3,445 |
 | The Rubber Meets the Road | 1.00% | ~3,445 |
 | Cat’s Meow Clubs | 1.00% | ~3,445 |
-| Determined Deliveries | 0.90% | ~3,100 |
-| Stepping It Up | 0.90% | ~3,100 |
+| Determined Deliveries | 0.90% | ~3,101 |
+| Stepping It Up | 0.90% | ~3,101 |
 | Boots in the Ground | 0.80% | ~2,756 |
 | Getting Fancy | 0.80% | ~2,756 |
 | Crossing Over | 0.80% | ~2,756 |
-| Social Butterfly | 0.50% | ~1,722 |
+| Social Butterfly | 0.50% | ~1,723 |
 | Homemade Hooch | 0.40% | ~1,378 |
 | Still Dreaming | 0.40% | ~1,378 |
 | High End Booze | 0.40% | ~1,378 |
 | Working on the Railroad | 0.40% | ~1,378 |
 | In-House Maintenance | 0.40% | ~1,378 |
-| Bottled Up | 0.30% | ~1,033 |
-| Streetwise | 0.30% | ~1,033 |
+| Bottled Up | 0.30% | ~1,034 |
+| Streetwise | 0.30% | ~1,034 |
 | Dirty Work | 0.20% | ~689 |
 | Balkan Firewater | 0.20% | ~689 |
-| Windy City Win | 0.10% | ~344 |
-| Steeling Victory | 0.10% | ~344 |
-| Queen of the City | 0.10% | ~344 |
-| Vehicles to Victory | 0.10% | ~344 |
-| Putting on the Ritz | 0.10% | ~344 |
-| Bourbon Barrels | 0.10% | ~344 |
-| Tied Houses | 0.10% | ~344 |
-| Laying Low | 0.10% | ~344 |
-| No Applesauce | 0.10% | ~344 |
-| High Pillow | 0.10% | ~344 |
-| Station Master | 0.10% | ~344 |
+| Windy City Win | 0.10% | ~345 |
+| Steeling Victory | 0.10% | ~345 |
+| Queen of the City | 0.10% | ~345 |
+| Vehicles to Victory | 0.10% | ~345 |
+| Putting on the Ritz | 0.10% | ~345 |
+| Bourbon Barrels | 0.10% | ~345 |
+| Tied Houses | 0.10% | ~345 |
+| Laying Low | 0.10% | ~345 |
+| No Applesauce | 0.10% | ~345 |
+| High Pillow | 0.10% | ~345 |
+| Station Master | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,498 (Ranked 43)  
+Progressed: 344,504 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,11 +242,11 @@ Completed: 7 (0.00%) (Ranked 290)
 | 2023-09-20 | 344,176 | 7 |
 | 2023-09-21 | 344,329 | 7 |
 | 2023-09-22 | 344,476 | 7 |
-| 2023-09-23 | 344,498 | 7 |
+| 2023-09-23 | 344,504 | 7 |
 ## Awards
-Max (Great for Beginners): 37  (Ranked 442)  
+Max (Great for Beginners): 37  (Ranked 443)  
 Sum: 195 (Ranked 379)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |

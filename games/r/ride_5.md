@@ -14,8 +14,8 @@
 | Bitter Rivalry | 23.00% | ~241 |
 | Champagne Spray | 19.00% | ~199 |
 | I Want One Too! | 18.00% | ~189 |
+| Quick Pit Stop | 18.00% | ~189 |
 | Restored and Ready | 17.00% | ~178 |
-| Quick Pit Stop | 17.00% | ~178 |
 | Go-Faster Stripes | 16.00% | ~168 |
 | Legendary!!! | 16.00% | ~168 |
 | We've Just Begun | 9.00% | ~94 |

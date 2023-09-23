@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3244,
+  "EOS_Progressed": 3245,
   "EOS_Completed": 191,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 5.89,
   "EosHistory": [
@@ -4945,6 +4945,11 @@
       "Time": "2023-09-23T02:18:50.378715+00:00",
       "NumProgressed": 3244,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-09-23T04:04:47.6841008+00:00",
+      "NumProgressed": 3245,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 24,
@@ -5028,7 +5033,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "19",
@@ -5116,7 +5121,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "7",
@@ -5147,13 +5152,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3244,
+      "Progressed": 3245,
       "Completed": 191
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:05:17.3348224+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:04:47.6841002+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:06.0918812+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:00:33.3688668+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:05:17.33487+00:00"
+  "LastUpdate_Ratings": "2023-09-23T04:00:39.9281192+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:04:47.6841824+00:00"
 }

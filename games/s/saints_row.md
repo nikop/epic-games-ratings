@@ -6,27 +6,27 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~33,190 |
-| To The Nines | 42.00% | ~30,304 |
+| First F#@!ing Day | 46.00% | ~33,191 |
+| To The Nines | 42.00% | ~30,305 |
 | Optimized | 36.00% | ~25,975 |
 | Performance Review | 36.00% | ~25,975 |
 | Making a Name | 34.00% | ~24,532 |
-| Tune Up | 33.00% | ~23,810 |
+| Tune Up | 33.00% | ~23,811 |
 | Landlord | 32.00% | ~23,089 |
-| The Side Job | 31.00% | ~22,367 |
-| Wet Work | 31.00% | ~22,367 |
-| Wrecking Ball | 27.00% | ~19,481 |
-| Food for Thought | 27.00% | ~19,481 |
+| The Side Job | 31.00% | ~22,368 |
+| Wet Work | 31.00% | ~22,368 |
+| Wrecking Ball | 27.00% | ~19,482 |
+| Food for Thought | 27.00% | ~19,482 |
 | Finders Keepers | 25.00% | ~18,038 |
 | A Young Empire | 25.00% | ~18,038 |
 | Work Ethic | 23.00% | ~16,595 |
 | Picking Fights | 19.00% | ~13,709 |
-| Quality Time | 18.00% | ~12,987 |
-| Power Players | 18.00% | ~12,987 |
-| Showdown | 16.00% | ~11,544 |
-| Et tu? | 16.00% | ~11,544 |
-| Took It to The Limit | 16.00% | ~11,544 |
-| Kitted Out | 14.00% | ~10,101 |
+| Quality Time | 18.00% | ~12,988 |
+| Power Players | 18.00% | ~12,988 |
+| Showdown | 16.00% | ~11,545 |
+| Et tu? | 16.00% | ~11,545 |
+| Took It to The Limit | 16.00% | ~11,545 |
+| Kitted Out | 14.00% | ~10,102 |
 | Masters of Santo Ileso | 12.00% | ~8,658 |
 | Hijacked | 11.00% | ~7,937 |
 | The Spins | 10.00% | ~7,215 |
@@ -42,7 +42,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Untouchable | 5.00% | ~3,608 |
 | Free Refills | 5.00% | ~3,608 |
 | Smooth Moves | 5.00% | ~3,608 |
-| Hazardous Heist | 5.00% | ~2,189 |
+| Hazardous Heist | 5.00% | ~2,190 |
 | Neighborly | 4.00% | ~2,886 |
 | Prankster | 4.00% | ~2,886 |
 | Tourist | 4.00% | ~2,886 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~144 |
 | Fiesta Time | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,152 (Ranked 85)  
+Progressed: 72,154 (Ranked 85)  
 Completed: 48 (0.07%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,17 +216,17 @@ Completed: 48 (0.07%) (Ranked 241)
 | 2023-09-20 | 71,791 | 48 |
 | 2023-09-21 | 71,970 | 48 |
 | 2023-09-22 | 72,126 | 48 |
-| 2023-09-23 | 72,152 | 48 |
+| 2023-09-23 | 72,154 | 48 |
 ## Awards
 Max (Extremely Fun): 1,067  (Ranked 141)  
-Sum: 8,645 (Ranked 97)  
+Sum: 8,647 (Ranked 97)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,067 |
 | This game has Quickly Understood Controls | 1,039 |
+| This game is Great for Beginners | 1,003 |
 | This game is Highly Recommended | 1,002 |
-| This game is Great for Beginners | 1,001 |
 | This game has Diverse Characters | 997 |
 | This game has Amazing Characters | 985 |
 | This game is Relaxing | 982 |
@@ -417,3 +417,4 @@ Diff (max vs sum): 44
 | 2023-09-18 | 3.79 | - | 1,067 | 8,639 |
 | 2023-09-19 | 3.79 | - | 1,067 | 8,640 |
 | 2023-09-20 | 3.79 | - | 1,067 | 8,645 |
+| 2023-09-23 | 3.79 | - | 1,067 | 8,647 |

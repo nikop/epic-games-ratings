@@ -2,9 +2,9 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1936,6 +1936,11 @@
       "Time": "2023-09-20T20:07:27.8632861+00:00",
       "NumProgressed": 821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T04:06:04.6311972+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1947,7 +1952,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1955,15 +1960,15 @@
       "Name": "How Many Do You Need?",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 148
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2019,7 +2024,7 @@
       "Name": "Capraphobia",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2219,7 +2224,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2227,7 +2232,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2243,7 +2248,7 @@
       "Name": "Decakill!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2259,7 +2264,7 @@
       "Name": "Do This In Silence",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -2355,7 +2360,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -2395,7 +2400,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2474,14 +2479,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:06:24.076336+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:06:04.6311963+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:53.0416285+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:58:50.3484909+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:06:24.0764333+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:58:46.1602417+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:06:04.6313541+00:00"
 }

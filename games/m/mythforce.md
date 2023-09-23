@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 19.00% | ~564 |
-| Debuff Dogpile | 18.00% | ~535 |
-| Hit 'Em Where It Hurts | 18.00% | ~535 |
-| That'll Leave a Mark | 18.00% | ~535 |
-| Mushroom Madness! | 17.00% | ~505 |
-| Perk Shard Punch Card | 17.00% | ~505 |
-| Spending Spree | 14.00% | ~416 |
-| First Strike | 13.00% | ~386 |
-| Horder Better Faster Stronger | 13.00% | ~386 |
-| Everything Must Go! | 12.00% | ~356 |
+| Faceroll the Bones | 19.00% | ~566 |
+| Debuff Dogpile | 18.00% | ~536 |
+| Hit 'Em Where It Hurts | 18.00% | ~536 |
+| That'll Leave a Mark | 18.00% | ~536 |
+| Mushroom Madness! | 17.00% | ~506 |
+| Perk Shard Punch Card | 17.00% | ~506 |
+| Spending Spree | 14.00% | ~417 |
+| First Strike | 13.00% | ~387 |
+| Horder Better Faster Stronger | 13.00% | ~387 |
+| Everything Must Go! | 12.00% | ~357 |
 | Ten Steps from the Grave | 11.00% | ~327 |
-| Next Time on MythForce... | 9.00% | ~267 |
+| Next Time on MythForce... | 9.00% | ~268 |
 | Cold-Blooded Critters | 7.00% | ~208 |
 | Death Becomes You | 7.00% | ~208 |
-| Flawless Victory | 6.00% | ~178 |
-| The Harder They Fall | 5.00% | ~148 |
+| Flawless Victory | 6.00% | ~179 |
+| The Harder They Fall | 5.00% | ~149 |
 | On this Episode! | 4.00% | ~119 |
-| Deadication | 2.00% | ~59 |
-| We've Got a Kaiju on the Field | 2.00% | ~59 |
-| Season Finale | 2.00% | ~59 |
+| Deadication | 2.00% | ~60 |
+| We've Got a Kaiju on the Field | 2.00% | ~60 |
+| Season Finale | 2.00% | ~60 |
 | The Fourth Gate | 1.00% | ~30 |
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,970 (Ranked 182)  
+Progressed: 2,977 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,16 +100,16 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 2,843 | 0 |
 | 2023-09-21 | 2,900 | 0 |
 | 2023-09-22 | 2,956 | 0 |
-| 2023-09-23 | 2,970 | 0 |
+| 2023-09-23 | 2,977 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 460)  
-Sum: 268 (Ranked 357)  
+Sum: 269 (Ranked 357)  
 Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |
 | This game is Great for Beginners | 32 |
-| This game has Amazing Characters | 30 |
+| This game has Amazing Characters | 31 |
 | This game has Quickly Understood Controls | 28 |
 | This game has Challenging Combat | 27 |
 | This game has Diverse Characters | 26 |
@@ -203,3 +203,4 @@ Diff (max vs sum): 103
 | 2023-09-20 | 4.49 | - | 32 | 265 |
 | 2023-09-21 | 4.49 | - | 32 | 266 |
 | 2023-09-22 | 4.49 | - | 32 | 268 |
+| 2023-09-23 | 4.49 | - | 32 | 269 |

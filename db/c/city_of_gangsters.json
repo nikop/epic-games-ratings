@@ -3,7 +3,7 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 825,
-  "Ranking_Popularity": 442,
+  "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 290,
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 344498,
+  "EOS_Progressed": 344504,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1164,
+  "EOS_NewPlayers": 1169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18045,6 +18045,11 @@
       "Time": "2023-09-23T03:03:22.9678042+00:00",
       "NumProgressed": 344498,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-23T04:02:22.3655801+00:00",
+      "NumProgressed": 344504,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18160,7 +18165,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51675
+      "UsersEstimate": 51676
     },
     {
       "ID": "ach015",
@@ -18184,7 +18189,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44785
+      "UsersEstimate": 44786
     },
     {
       "ID": "ach018",
@@ -18232,7 +18237,7 @@
       "Name": "Windy City Win",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach024",
@@ -18240,7 +18245,7 @@
       "Name": "Steeling Victory",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach025",
@@ -18248,7 +18253,7 @@
       "Name": "Queen of the City",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach026",
@@ -18256,7 +18261,7 @@
       "Name": "Vehicles to Victory",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach027",
@@ -18264,7 +18269,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158469
+      "UsersEstimate": 158472
     },
     {
       "ID": "ach028",
@@ -18320,7 +18325,7 @@
       "Name": "Putting on the Ritz",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach035",
@@ -18328,7 +18333,7 @@
       "Name": "Bottled Up",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ach036",
@@ -18376,7 +18381,7 @@
       "Name": "Streetwise",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ach042",
@@ -18408,7 +18413,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44785
+      "UsersEstimate": 44786
     },
     {
       "ID": "ach046",
@@ -18440,7 +18445,7 @@
       "Name": "Bourbon Barrels",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach050",
@@ -18544,7 +18549,7 @@
       "Name": "Tied Houses",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach064",
@@ -18560,7 +18565,7 @@
       "Name": "Determined Deliveries",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "ach066",
@@ -18568,7 +18573,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48230
+      "UsersEstimate": 48231
     },
     {
       "ID": "ach067",
@@ -18576,7 +18581,7 @@
       "Name": "Stepping It Up",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "ach068",
@@ -18584,7 +18589,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55120
+      "UsersEstimate": 55121
     },
     {
       "ID": "ach069",
@@ -18592,7 +18597,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48230
+      "UsersEstimate": 48231
     },
     {
       "ID": "ach070",
@@ -18600,7 +18605,7 @@
       "Name": "Laying Low",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach071",
@@ -18648,7 +18653,7 @@
       "Name": "No Applesauce",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach077",
@@ -18672,7 +18677,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "ach080",
@@ -18680,7 +18685,7 @@
       "Name": "High Pillow",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach081",
@@ -18688,14 +18693,14 @@
       "Name": "Station Master",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     }
   ],
   "AchievementSets": [
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 344498,
+      "Progressed": 344504,
       "Completed": 7
     }
   ],
@@ -18703,8 +18708,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-18T14:58:00.4320017+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:03:22.9678037+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:02:22.3655797+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:18.6830274+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:59:42.679231+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:03:22.9680004+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:59:40.7136329+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:02:22.3657936+00:00"
 }

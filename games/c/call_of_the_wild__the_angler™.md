@@ -200,9 +200,9 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-22 | 5,856 | 0 |
 | 2023-09-23 | 5,859 | 0 |
 ## Awards
-Max (Relaxing): 36  (Ranked 445)  
+Max (Relaxing): 36  (Ranked 446)  
 Sum: 176 (Ranked 390)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |

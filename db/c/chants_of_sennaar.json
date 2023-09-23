@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.18,
+  "EOS_Completed_Percentage": 5.15,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -899,6 +899,11 @@
       "Time": "2023-09-22T23:09:05.9182889+00:00",
       "NumProgressed": 193,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-23T04:08:07.2991751+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 25,
@@ -908,9 +913,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "END_GOOD",
@@ -966,7 +971,7 @@
       "Name": "Free at last",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "META_RESULT_1-4",
@@ -974,7 +979,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1006,7 +1011,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1014,7 +1019,7 @@
       "Name": "Rascal",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1028,9 +1033,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1054,7 +1059,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1062,7 +1067,7 @@
       "Name": "Scholar",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PROGRESS_N1",
@@ -1086,7 +1091,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "PROGRESS_N4",
@@ -1094,29 +1099,29 @@
       "Name": "The darkness",
       "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:09:29.9909608+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:08:07.2991746+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-23T03:00:34.1944693+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:09:29.9909858+00:00"
+  "LastUpdate_Ratings": "2023-09-23T04:00:42.1252591+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:08:07.2992135+00:00"
 }

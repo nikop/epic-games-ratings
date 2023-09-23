@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37064,
+  "EOS_Progressed": 37067,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -17303,6 +17303,11 @@
       "Time": "2023-09-23T03:05:43.9060128+00:00",
       "NumProgressed": 37064,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-23T04:05:14.538171+00:00",
+      "NumProgressed": 37067,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -17416,9 +17421,9 @@
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
       "SetID": "443p4o4",
       "Name": "Death Becomes Her",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -17545,7 +17550,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37064,
+      "Progressed": 37067,
       "Completed": 25
     }
   ],
@@ -17553,8 +17558,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:05:43.9060123+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:05:14.5381703+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:51.2246972+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:57:40.1781514+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:05:43.9061348+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:57:34.8069808+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:05:14.5383875+00:00"
 }

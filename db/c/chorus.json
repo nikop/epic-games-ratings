@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -294,7 +294,7 @@
   ],
   "EOS_Progressed": 1200,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -2101,9 +2101,9 @@
       "ID": "GatlingVsArmor",
       "SetID": "a6c395p",
       "Name": "Controlled Demolition",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 660
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2413,8 +2413,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-20T15:02:51.9408959+00:00",
-  "LastChanged_Achievements": "2023-09-23T03:05:13.1611179+00:00",
+  "LastChanged_Achievements": "2023-09-23T04:04:43.5834799+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.8827006+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:57:42.7205978+00:00",
-  "LastUpdate_Achievements": "2023-09-23T03:05:13.1611626+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:57:37.617115+00:00",
+  "LastUpdate_Achievements": "2023-09-23T04:04:43.5835313+00:00"
 }

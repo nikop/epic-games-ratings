@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,090 |
-| Landlord | 33.00% | ~20,384 |
-| Bannerlord | 23.00% | ~14,207 |
-| Horde breaker | 23.00% | ~14,207 |
-| Lawmaker | 23.00% | ~14,207 |
-| Trained | 23.00% | ~14,207 |
+| Lawbringer | 39.00% | ~24,091 |
+| Landlord | 33.00% | ~20,385 |
+| Bannerlord | 23.00% | ~14,208 |
+| Horde breaker | 23.00% | ~14,208 |
+| Lawmaker | 23.00% | ~14,208 |
+| Trained | 23.00% | ~14,208 |
 | The king is pleased | 18.00% | ~11,119 |
 | King Solomon | 17.00% | ~10,501 |
-| I can do it | 16.00% | ~9,883 |
+| I can do it | 16.00% | ~9,884 |
 | Apple of my eye | 15.00% | ~9,266 |
 | God of the Arena | 13.00% | ~8,030 |
-| Against all odds | 12.00% | ~7,412 |
-| This Is Our Land | 12.00% | ~7,412 |
+| Against all odds | 12.00% | ~7,413 |
+| This Is Our Land | 12.00% | ~7,413 |
 | Duelist | 10.00% | ~6,177 |
 | Dynasty | 10.00% | ~6,177 |
 | Swordbearer | 10.00% | ~6,177 |
@@ -27,8 +27,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 8.00% | ~4,942 |
 | Know your enemy | 7.00% | ~4,324 |
 | Mastery | 7.00% | ~4,324 |
-| Crush your enemies | 5.00% | ~3,088 |
-| My way | 5.00% | ~3,088 |
+| Crush your enemies | 5.00% | ~3,089 |
+| My way | 5.00% | ~3,089 |
 | Crowdfunded | 4.00% | ~2,471 |
 | Veni vidi vici | 4.00% | ~2,471 |
 | Freedom! | 3.00% | ~1,853 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,770 (Ranked 90)  
+Progressed: 61,772 (Ranked 90)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 61,595 | 0 |
 | 2023-09-21 | 61,671 | 0 |
 | 2023-09-22 | 61,762 | 0 |
-| 2023-09-23 | 61,770 | 0 |
+| 2023-09-23 | 61,772 | 0 |
 ## Awards
 Max (Character Customization): 7,119  (Ranked 51)  
 Sum: 14,548 (Ranked 68)  
