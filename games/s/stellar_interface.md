@@ -16,22 +16,23 @@
 | Mega Kill | 21.00% | ~13 |
 | Almost There I | 19.00% | ~12 |
 | Stoic | 17.00% | ~11 |
-| Omicron Alpha | 14.00% | ~9 |
+| Omicron Alpha | 16.00% | ~10 |
 | Galactic Cadet | 14.00% | ~9 |
 | Bronze Prince of Ball-air | 13.00% | ~8 |
 | Pacifist | 13.00% | ~8 |
 | Collateral Damage I | 13.00% | ~8 |
 | 25Gb HDD | 11.00% | ~7 |
+| Sectoral Ensign | 10.00% | ~6 |
 | Rambo II | 10.00% | ~6 |
 | Defrosted | 10.00% | ~6 |
+| Golden Prince of Ball-air | 10.00% | ~6 |
 | Unstoppable | 10.00% | ~6 |
 | Silver Prince of Ball-air | 10.00% | ~6 |
-| Sectoral Ensign | 8.00% | ~5 |
+| Merchant Prince II | 10.00% | ~6 |
 | Hitchhiker | 8.00% | ~5 |
 | Hoarder | 8.00% | ~5 |
-| Golden Prince of Ball-air | 8.00% | ~5 |
 | Space Surfer | 8.00% | ~5 |
-| Merchant Prince II | 8.00% | ~5 |
+| Diligent | 6.00% | ~4 |
 | Food Poisoning | 6.00% | ~4 |
 | Usurper I | 6.00% | ~4 |
 | Flower Power | 6.00% | ~4 |
@@ -44,7 +45,6 @@
 | Rambo III | 5.00% | ~3 |
 | Rambo IV | 5.00% | ~3 |
 | Curious | 5.00% | ~3 |
-| Diligent | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
 | Omicron Beta | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |

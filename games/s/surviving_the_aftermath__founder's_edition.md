@@ -6,37 +6,37 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,588 |
-| Leader | 60.00% | ~5,490 |
+| First Step | 72.00% | ~6,589 |
+| Leader | 60.00% | ~5,491 |
 | Explorer | 53.00% | ~4,850 |
-| Healer | 52.00% | ~4,758 |
+| Healer | 52.00% | ~4,759 |
 | Aspiring Inventor | 44.00% | ~4,026 |
 | Adventurer | 41.00% | ~3,752 |
 | Famous Healer | 38.00% | ~3,477 |
-| Local Leader | 35.00% | ~3,202 |
+| Local Leader | 35.00% | ~3,203 |
 | Famous Explorer | 34.00% | ~3,111 |
 | New Opportunities | 34.00% | ~3,111 |
 | Energized | 33.00% | ~3,020 |
 | The Long Haul | 33.00% | ~3,020 |
-| The Great Healer | 31.00% | ~2,836 |
-| Survivor | 31.00% | ~2,836 |
+| The Great Healer | 31.00% | ~2,837 |
+| Survivor | 31.00% | ~2,837 |
 | Legendary Explorer | 28.00% | ~2,562 |
 | Cleaner | 28.00% | ~2,562 |
 | Catastrofan | 28.00% | ~2,562 |
 | Finders, Keepers | 26.00% | ~2,379 |
 | Top Notch | 25.00% | ~2,288 |
-| Great Leader | 23.00% | ~2,104 |
-| Mentor | 23.00% | ~2,104 |
+| Great Leader | 23.00% | ~2,105 |
+| Mentor | 23.00% | ~2,105 |
 | Merchant | 22.00% | ~2,013 |
 | Ice Lakes | 22.00% | ~2,013 |
 | Real Survivor | 22.00% | ~2,013 |
 | Rocket Surgeon | 20.00% | ~1,830 |
-| War Never Changes | 19.00% | ~1,738 |
+| War Never Changes | 19.00% | ~1,739 |
 | Friendly | 17.00% | ~1,556 |
 | Big Game Hunter | 17.00% | ~1,556 |
 | Spreading Influence | 17.00% | ~1,556 |
 | Around the World | 16.00% | ~1,464 |
-| Bookworm | 15.00% | ~1,372 |
+| Bookworm | 15.00% | ~1,373 |
 | Famous Adventurer | 14.00% | ~1,281 |
 | Prepared for Anything | 13.00% | ~1,190 |
 | Big Catastrofan | 13.00% | ~1,190 |
@@ -50,8 +50,8 @@ Number of Ratings: 836  (23.09.2022)
 | Amped Up | 6.00% | ~549 |
 | Look, no Hands! | 5.00% | ~458 |
 | Luxurious Living | 4.00% | ~366 |
-| Mogul | 3.00% | ~274 |
-| Ranch Hand | 3.00% | ~274 |
+| Mogul | 3.00% | ~275 |
+| Ranch Hand | 3.00% | ~275 |
 | The Friendliest | 2.00% | ~183 |
 | Diplomat | 2.00% | ~183 |
 | Doomsday is canceled | 2.00% | ~183 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,150 (Ranked 140)  
+Progressed: 9,151 (Ranked 140)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 9,113 | 0 |
 | 2023-09-21 | 9,129 | 0 |
 | 2023-09-22 | 9,141 | 0 |
-| 2023-09-23 | 9,150 | 0 |
+| 2023-09-23 | 9,151 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 337)  
 Sum: 702 (Ranked 280)  

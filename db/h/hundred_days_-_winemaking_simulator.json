@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4499,
+  "EOS_Progressed": 4508,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1148,
+  "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3855,6 +3855,11 @@
       "Time": "2023-09-23T10:08:24.2135429+00:00",
       "NumProgressed": 4499,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T11:09:27.4317316+00:00",
+      "NumProgressed": 4508,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -3867,7 +3872,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "a_10",
@@ -3897,9 +3902,9 @@
       "ID": "a_15",
       "SetID": "daiie3o",
       "Name": "Big Money",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 135
     },
     {
       "ID": "a_16",
@@ -3915,7 +3920,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1623
     },
     {
       "ID": "a_19",
@@ -3923,7 +3928,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "a_2",
@@ -4011,7 +4016,7 @@
       "Name": "King of red wines",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_31",
@@ -4019,7 +4024,7 @@
       "Name": "King of white wines",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_32",
@@ -4027,7 +4032,7 @@
       "Name": "Sales Expert",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_33",
@@ -4043,7 +4048,7 @@
       "Name": "Master Winemaker",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_35",
@@ -4114,7 +4119,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4499,
+      "Progressed": 4508,
       "Completed": 6
     }
   ],
@@ -4122,8 +4127,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:08:24.2135424+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:09:27.4317312+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:33.1200934+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:59:29.4381533+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:08:24.2135814+00:00"
+  "LastUpdate_Ratings": "2023-09-23T11:01:08.5371779+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:09:27.4317643+00:00"
 }

@@ -7,9 +7,9 @@
 | New arm | 81.00% | ~168 |
 | Shelter Escape | 81.00% | ~168 |
 | The First Bond | 70.00% | ~145 |
-| Novice Scavenger | 61.00% | ~126 |
+| Novice Scavenger | 62.00% | ~128 |
 | Master Craftsman | 51.00% | ~106 |
-| First wall | 49.00% | ~101 |
+| First wall | 50.00% | ~104 |
 | Piggyback Expert | 47.00% | ~97 |
 | Second wall | 34.00% | ~70 |
 | Expert Scavenger | 30.00% | ~62 |
@@ -23,9 +23,9 @@
 | Romantic | 14.00% | ~29 |
 | TentacleMAN | 10.00% | ~21 |
 | Plushyboy | 5.00% | ~10 |
+| Flawless | 5.00% | ~10 |
 | Yohan's Promise | 4.00% | ~8 |
 | LOVEassistant | 4.00% | ~8 |
-| Flawless | 4.00% | ~8 |
 | Dreamboat | 2.00% | ~4 |
 | Bond Lord | 0.50% | ~1 |
 | True Player | 0.50% | ~1 |

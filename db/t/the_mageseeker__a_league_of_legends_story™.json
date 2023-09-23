@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,7 +130,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2571,
+  "EOS_Progressed": 2572,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 2,
@@ -3650,6 +3650,11 @@
       "Time": "2023-09-23T01:42:38.0084454+00:00",
       "NumProgressed": 2571,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-23T11:04:40.0089621+00:00",
+      "NumProgressed": 2572,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 53,
@@ -3693,7 +3698,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -3725,7 +3730,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3741,7 +3746,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3757,7 +3762,7 @@
       "Name": "Friendly fire",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -3797,7 +3802,7 @@
       "Name": "Old friend",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -3805,7 +3810,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -3837,7 +3842,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3845,7 +3850,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3853,7 +3858,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -3877,7 +3882,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3885,7 +3890,7 @@
       "Name": "Thornbarrow",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3925,7 +3930,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3941,7 +3946,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -3965,7 +3970,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4005,7 +4010,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4037,7 +4042,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4069,7 +4074,7 @@
       "Name": "Ancient power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -4084,7 +4089,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2571,
+      "Progressed": 2572,
       "Completed": 9
     }
   ],
@@ -4092,8 +4097,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:03:37.6027576+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:04:40.0089617+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:32.2915355+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:59:24.1217999+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:03:37.6028253+00:00"
+  "LastUpdate_Ratings": "2023-09-23T11:01:01.3397305+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:04:40.0090157+00:00"
 }

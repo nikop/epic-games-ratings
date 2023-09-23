@@ -6,9 +6,9 @@
   "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1282,7 +1282,7 @@
   ],
   "EOS_Progressed": 5905,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9807,9 +9807,9 @@
       "ID": "HARVEST_CROP_50",
       "SetID": "5349c2e",
       "Name": "Reap What You Sow",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4193
+      "UsersEstimate": 4252
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -10015,8 +10015,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-21T15:01:07.3222764+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:03:16.3699724+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:04:11.9287075+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:28.5393484+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:57:08.7654927+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:03:16.3700459+00:00"
+  "LastUpdate_Ratings": "2023-09-23T10:58:03.626041+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:04:11.9287741+00:00"
 }

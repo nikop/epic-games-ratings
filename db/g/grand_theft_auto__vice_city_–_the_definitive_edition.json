@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 504,
-  "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 438,
+  "Ranking_Popularity": 368,
+  "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -650,21 +650,27 @@
       "Rating": 4.54,
       "NumberOfAwards": 76,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-09-23T11:02:04.660057+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 76,
-  "NumberOfAwardsMax": 76,
+  "NumberOfAwards": 79,
+  "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 76
+      "Count": 79
     }
   ],
-  "EOS_Progressed": 10245,
+  "EOS_Progressed": 10247,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 1,
@@ -10209,6 +10215,11 @@
       "Time": "2023-09-23T09:03:15.9415692+00:00",
       "NumProgressed": 10245,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-09-23T11:05:37.2704404+00:00",
+      "NumProgressed": 10247,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 34,
@@ -10236,7 +10247,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACH04",
@@ -10324,7 +10335,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "ACH15",
@@ -10380,7 +10391,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4713
+      "UsersEstimate": 4714
     },
     {
       "ID": "ACH22",
@@ -10396,7 +10407,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "ACH24",
@@ -10491,16 +10502,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10245,
+      "Progressed": 10247,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-09-22T04:00:26.0954843+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:04:18.246519+00:00",
+  "LastChanged": "2023-09-23T11:02:04.6600568+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:05:37.2704399+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:40.4278859+00:00",
-  "LastUpdate_Ratings": "2023-09-23T10:00:08.7788273+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:04:18.2466042+00:00"
+  "LastUpdate_Ratings": "2023-09-23T11:02:04.6600573+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:05:37.2705049+00:00"
 }

@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 1.00% | ~141 |
 | Capable | 1.00% | ~141 |
 | Conqueror | 1.00% | ~141 |
+| Devout | 1.00% | ~141 |
 | Invincible | 1.00% | ~141 |
 | Lion | 1.00% | ~141 |
 | Ready | 1.00% | ~141 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~141 |
 | Win a Single Player Game | 1.00% | ~141 |
 | Bad Heir Day | 0.90% | ~127 |
-| Devout | 0.90% | ~127 |
 | Strong Difficulty | 0.90% | ~127 |
 | Adur Burzen-Mihr | 0.90% | ~127 |
 | Babylonia | 0.90% | ~127 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,060 (Ranked 127)  
+Progressed: 14,061 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 5 (0.04%) (Ranked 254)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,060 | 5 |
+| 2023-09-23 | 14,061 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,815 (Ranked 207)  

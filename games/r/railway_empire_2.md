@@ -24,8 +24,8 @@ Rating: 4.45 (Ranked 644)
 | Bridge Builder | 41.00% | ~795 |
 | Access granted | 35.00% | ~679 |
 | Going once, going twice, sold | 35.00% | ~679 |
+| Stoker | 33.00% | ~640 |
 | Bull and bear | 33.00% | ~640 |
-| Stoker | 32.00% | ~620 |
 | Full Steam ahead | 32.00% | ~620 |
 | All mine | 30.00% | ~582 |
 | Mole | 30.00% | ~582 |
@@ -44,9 +44,9 @@ Rating: 4.45 (Ranked 644)
 | Assimilated | 16.00% | ~310 |
 | Locusts | 15.00% | ~291 |
 | Settler | 15.00% | ~291 |
+| Go West | 14.00% | ~271 |
 | Max Power | 14.00% | ~271 |
 | Bold and beautiful | 14.00% | ~271 |
-| Go West | 13.00% | ~252 |
 | A new Hope | 11.00% | ~213 |
 | Tycoon | 11.00% | ~213 |
 | Unstoppable | 8.00% | ~155 |

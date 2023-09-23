@@ -6,8 +6,8 @@ Rating: 4.49 (Ranked 584)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,722 |
+| Keep 'Em Coming | 74.00% | ~2,487 |
 | Snatched Out | 74.00% | ~2,487 |
-| Keep 'Em Coming | 73.00% | ~2,454 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,252 |
 | Call Me Snake | 63.00% | ~2,117 |
 | Something Lurks Under The Hills | 61.00% | ~2,050 |
@@ -16,7 +16,7 @@ Rating: 4.49 (Ranked 584)
 | People Person | 56.00% | ~1,882 |
 | Use The Bumper, That's What It's For | 52.00% | ~1,748 |
 | First Steps Into Madness | 52.00% | ~1,748 |
-| Colonial Barrels | 50.00% | ~1,680 |
+| Colonial Barrels | 51.00% | ~1,714 |
 | Harper's Hell | 45.00% | ~1,512 |
 | Making a Stand | 43.00% | ~1,445 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,412 |

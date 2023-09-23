@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1058,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1539,6 +1539,11 @@
       "Time": "2023-09-23T10:04:27.1616552+00:00",
       "NumProgressed": 1058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T11:05:48.8227206+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1607,7 +1612,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -1615,7 +1620,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -1623,7 +1628,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1653,9 +1658,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 191
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1751,7 +1756,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -1839,7 +1844,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -1903,7 +1908,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -1942,14 +1947,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1058,
+      "Progressed": 1059,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:04:27.1616549+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:05:48.8227201+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:46.5517463+00:00",
-  "LastUpdate_Ratings": "2023-09-23T10:00:15.3151968+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:04:27.1617052+00:00"
+  "LastUpdate_Ratings": "2023-09-23T11:02:14.2077349+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:05:48.8227611+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,968 |
+| Just One...More...Term... | 75.00% | ~3,969 |
 | Un-Lonely Island | 47.00% | ~2,487 |
 | The Beginning of a Servantship | 45.00% | ~2,381 |
 | Trade Is My Trait | 37.00% | ~1,958 |
 | Number 18 | 24.00% | ~1,270 |
 | We Don't Have Time For That | 19.00% | ~1,005 |
-| The Legend of Langostino | 17.00% | ~899 |
-| The Governator | 17.00% | ~899 |
+| The Legend of Langostino | 17.00% | ~900 |
+| The Governator | 17.00% | ~900 |
 | Caribbean Comrade | 16.00% | ~847 |
 | The Dreamer of Dreams | 15.00% | ~794 |
 | Go Sovereigns! | 11.00% | ~582 |
@@ -26,9 +26,9 @@ Number of Ratings: 398  (23.09.2022)
 | I Owe You Nothing | 7.00% | ~370 |
 | Make Tropico Great Again! | 7.00% | ~370 |
 | French Connection | 7.00% | ~370 |
-| Don't Panic! | 6.00% | ~317 |
-| Computer Says "No" | 6.00% | ~317 |
-| Beware The Betman | 6.00% | ~317 |
+| Don't Panic! | 6.00% | ~318 |
+| Computer Says "No" | 6.00% | ~318 |
+| Beware The Betman | 6.00% | ~318 |
 | Viva Tropico! | 5.00% | ~265 |
 | Watch The World Burn | 5.00% | ~265 |
 | Fairy Tale Come True | 5.00% | ~265 |
@@ -40,14 +40,14 @@ Number of Ratings: 398  (23.09.2022)
 | Chain Gang | 2.00% | ~106 |
 | One Does Not Simply Stage A Coup | 2.00% | ~106 |
 | Sublime Subliminal Supreme | 2.00% | ~106 |
+| Teamplayer | 2.00% | ~106 |
 | Terraformer | 2.00% | ~106 |
 | Curse of the Mummy | 2.00% | ~106 |
 | From Knight to Little Duck | 1.00% | ~53 |
-| Teamplayer | 1.00% | ~53 |
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,291 (Ranked 157)  
+Progressed: 5,292 (Ranked 157)  
 Completed: 2 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 2 (0.04%) (Ranked 254)
 | 2023-09-20 | 5,235 | 2 |
 | 2023-09-21 | 5,255 | 2 |
 | 2023-09-22 | 5,282 | 2 |
-| 2023-09-23 | 5,291 | 2 |
+| 2023-09-23 | 5,292 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
 Sum: 688 (Ranked 281)  

@@ -12,7 +12,7 @@ Rating: 4.57 (Ranked 450)
 | FunScore | 55.00% | ~224 |
 | Funtime's over | 53.00% | ~216 |
 | Chunky | 50.00% | ~204 |
-| Shall we play a game? | 48.00% | ~196 |
+| Shall we play a game? | 49.00% | ~200 |
 | Boat of love, boat of love | 48.00% | ~196 |
 | School's out | 43.00% | ~175 |
 | Elysian Minigame-Master | 38.00% | ~155 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 450)
 | Every man for himself! | 5.00% | ~20 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 277)  
+Progressed: 408 (Ranked 278)  
 Completed: 6 (1.47%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |

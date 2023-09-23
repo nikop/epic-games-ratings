@@ -217,19 +217,19 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-22 | 1,677 | 0 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 427)  
-Sum: 284 (Ranked 349)  
-Diff (max vs sum): 78  
+Sum: 286 (Ranked 348)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 42 |
 | This game is Great for Beginners | 36 |
 | This game has Amazing Storytelling | 35 |
-| This game is Extremely Fun | 33 |
+| This game is Extremely Fun | 34 |
 | This game is Relaxing | 31 |
 | This game has Quickly Understood Controls | 31 |
 | This game has a Creative Community | 28 |
 | This game is Educational | 25 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 | This game has Obsessive Gameplay | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -316,4 +316,4 @@ Diff (max vs sum): 78
 | 2023-09-07 | 4.69 | - | 41 | 281 |
 | 2023-09-11 | 4.69 | - | 41 | 282 |
 | 2023-09-16 | 4.69 | - | 41 | 283 |
-| 2023-09-23 | 4.69 | - | 42 | 284 |
+| 2023-09-23 | 4.69 | - | 42 | 286 |

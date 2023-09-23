@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 30.00% | ~11 |
-| Greengrocer | 27.00% | ~10 |
-| Seven Days of Endless Adventure | 22.00% | ~8 |
+| Cabbage in the Baggage | 29.00% | ~11 |
+| Greengrocer | 26.00% | ~10 |
+| Seven Days of Endless Adventure | 21.00% | ~8 |
 | Masu-ter Angler | 16.00% | ~6 |
 | Go-Getter | 16.00% | ~6 |
 | River Cleaner | 16.00% | ~6 |
-| Seven Days of Endless Adventure - Déjà Vu | 14.00% | ~5 |
-| Just Hoverin' Along | 14.00% | ~5 |
-| Handyman Extraordinaire | 14.00% | ~5 |
+| Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~5 |
+| Just Hoverin' Along | 13.00% | ~5 |
+| Handyman Extraordinaire | 13.00% | ~5 |
 | What's That Smell? | 11.00% | ~4 |
 | It's Alive! | 11.00% | ~4 |
 | Farm Life! | 11.00% | ~4 |
@@ -51,7 +51,7 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 444)  
+Progressed: 38 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-08-29 | 35 | 0 |
 | 2023-09-05 | 36 | 0 |
 | 2023-09-17 | 37 | 0 |
+| 2023-09-23 | 38 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

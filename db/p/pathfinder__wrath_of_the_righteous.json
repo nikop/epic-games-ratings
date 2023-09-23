@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3778,7 +3778,7 @@
   ],
   "EOS_Progressed": 11380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12940,9 +12940,9 @@
       "ID": "27_VictorySeige",
       "SetID": "989of5o",
       "Name": "Queen\u0027s Gratitude",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1366
     },
     {
       "ID": "28_GreatUpstart",
@@ -13682,8 +13682,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-23T09:59:41.2009033+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:04:25.0036187+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:05:46.0649051+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.4694151+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:59:41.200904+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:04:25.0038392+00:00"
+  "LastUpdate_Ratings": "2023-09-23T11:01:23.0745559+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:05:46.0651165+00:00"
 }

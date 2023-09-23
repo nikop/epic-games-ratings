@@ -5,18 +5,18 @@ Rating: 3.97 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Maybe Engage a Little | 57.00% | ~4 |
-| Unforeseen | 43.00% | ~3 |
-| Battlefields Have Memories | 43.00% | ~3 |
-| No More Names | 43.00% | ~3 |
-| Enlisted | 43.00% | ~3 |
-| Initiate | 43.00% | ~3 |
-| Thrada-Kul | 29.00% | ~2 |
-| Gravity-Challenged Rocks | 29.00% | ~2 |
-| Control is an Illusion | 14.00% | ~1 |
-| Soldier | 14.00% | ~1 |
-| All the Major Food Groups | 14.00% | ~1 |
-| Beggars Would Ride | 14.00% | ~1 |
+| Unforeseen | 56.00% | ~5 |
+| Battlefields Have Memories | 56.00% | ~5 |
+| Maybe Engage a Little | 56.00% | ~5 |
+| Enlisted | 56.00% | ~5 |
+| No More Names | 44.00% | ~4 |
+| Initiate | 33.00% | ~3 |
+| Thrada-Kul | 22.00% | ~2 |
+| Gravity-Challenged Rocks | 22.00% | ~2 |
+| Control is an Illusion | 11.00% | ~1 |
+| Soldier | 11.00% | ~1 |
+| All the Major Food Groups | 11.00% | ~1 |
+| Beggars Would Ride | 11.00% | ~1 |
 | The Means to Save It | 0.00% | ~0 |
 | Resilience to Sin | 0.00% | ~0 |
 | A Familiar Nest | 0.00% | ~0 |
@@ -53,14 +53,14 @@ Rating: 3.97 (Ranked 960)
 | Backtracker | 0.00% | ~0 |
 | Good Boy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 511)  
+Progressed: 9 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 1 | 0 |
 | 2023-09-22 | 3 | 0 |
-| 2023-09-23 | 7 | 0 |
+| 2023-09-23 | 9 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

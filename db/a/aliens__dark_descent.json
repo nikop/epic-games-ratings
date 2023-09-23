@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -332,7 +332,7 @@
   ],
   "EOS_Progressed": 3361,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4704,9 +4704,9 @@
       "ID": "ACH_BARREL_KILL",
       "SetID": "816efe",
       "Name": "Colonial Barrels",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1714
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -4760,9 +4760,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2487
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5033,8 +5033,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:03:32.076171+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:04:32.5364332+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:50.443869+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:57:33.5144514+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:03:32.0762341+00:00"
+  "LastUpdate_Ratings": "2023-09-23T10:58:33.8577694+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:04:32.5364834+00:00"
 }

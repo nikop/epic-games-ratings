@@ -8,6 +8,7 @@ Rating: 4.60 (Ranked 398)
 | Secret Technique | 8.00% | ~415 |
 | Realm Estate | 7.00% | ~363 |
 | Walls Cannot Stop Us | 7.00% | ~363 |
+| Tipping the Scales | 7.00% | ~363 |
 | A Wonderful Discovery | 6.00% | ~311 |
 | Bone Peddler | 6.00% | ~311 |
 | From Friends to Family | 6.00% | ~311 |
@@ -15,7 +16,6 @@ Rating: 4.60 (Ranked 398)
 | Magical Synergy | 6.00% | ~311 |
 | Seat of Power | 6.00% | ~311 |
 | Intimidation Tactics | 6.00% | ~311 |
-| Tipping the Scales | 6.00% | ~311 |
 | There Can Only Be One! | 5.00% | ~259 |
 | Full Ascension | 5.00% | ~259 |
 | My Final Form | 5.00% | ~259 |

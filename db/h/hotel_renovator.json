@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1027,
+  "EOS_Progressed": 1028,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -1692,6 +1692,11 @@
       "Time": "2023-09-23T10:04:02.822781+00:00",
       "NumProgressed": 1027,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-23T11:05:17.6645867+00:00",
+      "NumProgressed": 1028,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1727,7 +1732,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1743,7 +1748,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1765,9 +1770,9 @@
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1799,7 +1804,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1815,7 +1820,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1839,7 +1844,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1903,7 +1908,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1918,7 +1923,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1027,
+      "Progressed": 1028,
       "Completed": 15
     }
   ],
@@ -1926,8 +1931,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-19T13:03:28.3019162+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:04:02.8227804+00:00",
-  "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:58:58.9816128+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:04:02.82281+00:00"
+  "LastChanged_Achievements": "2023-09-23T11:05:17.6645864+00:00",
+  "LastUpdate_AppInfo": "2023-09-23T10:57:14.2726698+00:00",
+  "LastUpdate_Ratings": "2023-09-23T11:00:24.6674481+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:05:17.664611+00:00"
 }

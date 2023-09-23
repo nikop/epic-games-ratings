@@ -11,15 +11,15 @@ Number of Ratings: 94  (23.09.2022)
 | Nature or Nurture | 50.00% | ~204 |
 | Power Glove | 49.00% | ~200 |
 | Forgotten Memories | 48.00% | ~196 |
-| Cogs in the Machine | 42.00% | ~171 |
+| Cogs in the Machine | 42.00% | ~172 |
 | Mission Success | 26.00% | ~106 |
 | There's No Place Like Home | 23.00% | ~94 |
 | Green Cube Killer | 22.00% | ~90 |
-| Descendants | 18.00% | ~73 |
-| Path to Salvation | 18.00% | ~73 |
-| Infinity Loop | 17.00% | ~69 |
+| Descendants | 18.00% | ~74 |
+| Path to Salvation | 18.00% | ~74 |
+| Infinity Loop | 17.00% | ~70 |
 | The Flawed Teacher | 15.00% | ~61 |
-| To Infinity and Beyond | 6.00% | ~24 |
+| To Infinity and Beyond | 6.00% | ~25 |
 | The Truthful Enemy | 5.00% | ~20 |
 | True collector | 0.50% | ~2 |
 | Bronze collector | 0.50% | ~2 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.20% | ~1 |
 | Laser Sharp | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 277)  
-Completed: 1 (0.25%) (Ranked 197)  
+Progressed: 409 (Ranked 277)  
+Completed: 1 (0.24%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,7 +69,7 @@ Completed: 1 (0.25%) (Ranked 197)
 | 2023-09-20 | 393 | 1 |
 | 2023-09-21 | 397 | 1 |
 | 2023-09-22 | 402 | 1 |
-| 2023-09-23 | 408 | 1 |
+| 2023-09-23 | 409 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

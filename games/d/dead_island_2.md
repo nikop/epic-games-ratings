@@ -5,38 +5,38 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 2.00% | ~13,693 |
-| Git Gutte! | 2.00% | ~13,693 |
-| Bookworm | 2.00% | ~13,693 |
-| Break A Leg | 2.00% | ~13,693 |
-| But Doctor, I am Butcho | 2.00% | ~13,693 |
-| Slayer Squad | 2.00% | ~13,693 |
-| Can't Handle the Truth | 2.00% | ~13,693 |
-| Coup de Grâce | 2.00% | ~13,693 |
-| Like Riding a Bike | 2.00% | ~13,693 |
-| Hazardous Materials | 2.00% | ~13,693 |
-| Friends Like These | 2.00% | ~13,693 |
-| Hotel California | 2.00% | ~13,693 |
-| Apex Predator | 2.00% | ~13,693 |
-| Zombologist | 2.00% | ~13,693 |
-| A Patton Emerges | 2.00% | ~13,693 |
-| Stacking the Deck | 2.00% | ~13,693 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,693 |
-| This is My Weapon | 2.00% | ~13,693 |
-| Welcome To Hell-A | 2.00% | ~13,693 |
-| Making Your Mark | 1.00% | ~6,846 |
-| Anger Management | 1.00% | ~6,846 |
-| Perks of the Job | 1.00% | ~6,846 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,846 |
-| Ooh, Shiny! | 1.00% | ~6,846 |
-| Humanity Distilled | 1.00% | ~6,846 |
-| I Am the Resurrection | 1.00% | ~6,846 |
-| Down with the Sickness | 1.00% | ~6,846 |
-| Our True Nature | 1.00% | ~6,846 |
+| Dr. Reed, I Presume? | 2.00% | ~13,694 |
+| Git Gutte! | 2.00% | ~13,694 |
+| Bookworm | 2.00% | ~13,694 |
+| Break A Leg | 2.00% | ~13,694 |
+| But Doctor, I am Butcho | 2.00% | ~13,694 |
+| Slayer Squad | 2.00% | ~13,694 |
+| Can't Handle the Truth | 2.00% | ~13,694 |
+| Coup de Grâce | 2.00% | ~13,694 |
+| Like Riding a Bike | 2.00% | ~13,694 |
+| Hazardous Materials | 2.00% | ~13,694 |
+| Friends Like These | 2.00% | ~13,694 |
+| Hotel California | 2.00% | ~13,694 |
+| Apex Predator | 2.00% | ~13,694 |
+| Zombologist | 2.00% | ~13,694 |
+| A Patton Emerges | 2.00% | ~13,694 |
+| Stacking the Deck | 2.00% | ~13,694 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,694 |
+| This is My Weapon | 2.00% | ~13,694 |
+| Welcome To Hell-A | 2.00% | ~13,694 |
+| Making Your Mark | 1.00% | ~6,847 |
+| Anger Management | 1.00% | ~6,847 |
+| Perks of the Job | 1.00% | ~6,847 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,847 |
+| Ooh, Shiny! | 1.00% | ~6,847 |
+| Humanity Distilled | 1.00% | ~6,847 |
+| I Am the Resurrection | 1.00% | ~6,847 |
+| Down with the Sickness | 1.00% | ~6,847 |
+| Our True Nature | 1.00% | ~6,847 |
 | Max Headroom | 0.90% | ~6,162 |
-| Jumbo Keyring | 0.70% | ~4,792 |
-| Go, Bobcats! | 0.70% | ~4,792 |
-| Rising Star | 0.70% | ~4,792 |
+| Jumbo Keyring | 0.70% | ~4,793 |
+| Go, Bobcats! | 0.70% | ~4,793 |
+| Rising Star | 0.70% | ~4,793 |
 | Smorgasbord | 0.60% | ~4,108 |
 | On Safari | 0.50% | ~3,423 |
 | Not Even My Final Form | 0.50% | ~3,423 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Donk! | 0.10% | ~685 |
 | Bucket List | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,636 (Ranked 22)  
+Progressed: 684,680 (Ranked 22)  
 Completed: 2,166 (0.32%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 2,166 (0.32%) (Ranked 186)
 | 2023-09-20 | 683,347 | 2,156 |
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
-| 2023-09-23 | 684,636 | 2,166 |
+| 2023-09-23 | 684,680 | 2,166 |
 ## Awards
 Max (Great Boss Battles): 6,156  (Ranked 57)  
-Sum: 9,155 (Ranked 93)  
+Sum: 9,156 (Ranked 93)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -222,7 +222,7 @@ Diff (max vs sum): -36
 | This game has Amazing Storytelling | 358 |
 | This game is Extremely Fun | 345 |
 | This game is Highly Recommended | 335 |
-| This game has Amazing Characters | 334 |
+| This game has Amazing Characters | 335 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -381,4 +381,4 @@ Diff (max vs sum): -36
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
 | 2023-09-22 | 4.54 | 6,156 | 9,150 |
-| 2023-09-23 | 4.54 | 6,156 | 9,155 |
+| 2023-09-23 | 4.54 | 6,156 | 9,156 |

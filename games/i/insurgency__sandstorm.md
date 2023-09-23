@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~22,740 |
-| Exploitative | 4.00% | ~18,192 |
-| Point Shooting | 4.00% | ~18,192 |
-| Wet Feet | 4.00% | ~18,192 |
-| High Speed Low Drag | 3.00% | ~13,644 |
-| Lucky | 3.00% | ~13,644 |
-| Stylin' | 3.00% | ~13,644 |
-| Turf War | 3.00% | ~13,644 |
+| Wallbanger | 5.00% | ~22,741 |
+| Exploitative | 4.00% | ~18,193 |
+| Point Shooting | 4.00% | ~18,193 |
+| Wet Feet | 4.00% | ~18,193 |
+| High Speed Low Drag | 3.00% | ~13,645 |
+| Lucky | 3.00% | ~13,645 |
+| Stylin' | 3.00% | ~13,645 |
+| Turf War | 3.00% | ~13,645 |
 | Banged | 2.00% | ~9,096 |
 | Checkpoint Victory | 2.00% | ~9,096 |
 | First Blood | 2.00% | ~9,096 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,093 |
 | Mount & Gun | 0.90% | ~4,093 |
 | Personal | 0.90% | ~4,093 |
-| Grounded | 0.80% | ~3,638 |
-| Play to Win | 0.80% | ~3,638 |
+| Grounded | 0.80% | ~3,639 |
+| Play to Win | 0.80% | ~3,639 |
 | #1 | 0.70% | ~3,184 |
 | Special Delivery | 0.70% | ~3,184 |
 | Firefight Victory | 0.60% | ~2,729 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~455 |
 | Road Hazard | 0.10% | ~455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,807 (Ranked 38)  
+Progressed: 454,823 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 2 (0.00%) (Ranked 290)
 | 2023-09-20 | 453,689 | 2 |
 | 2023-09-21 | 454,121 | 2 |
 | 2023-09-22 | 454,566 | 2 |
-| 2023-09-23 | 454,807 | 2 |
+| 2023-09-23 | 454,823 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 383  (Ranked 223)  
-Sum: 3,003 (Ranked 169)  
+Sum: 3,004 (Ranked 169)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): 54
 | This game has Realistic Visuals | 319 |
 | This game has Amazing Storytelling | 316 |
 | This game has Amazing Characters | 314 |
-| This game has a Competitive Community | 281 |
+| This game has a Competitive Community | 282 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -460,3 +460,4 @@ Diff (max vs sum): 54
 | 2023-09-20 | 4.62 | - | 382 | 2,996 |
 | 2023-09-21 | 4.62 | - | 382 | 2,999 |
 | 2023-09-22 | 4.62 | - | 383 | 3,003 |
+| 2023-09-23 | 4.62 | - | 383 | 3,004 |

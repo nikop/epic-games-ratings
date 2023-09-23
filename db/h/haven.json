@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1454,
+  "EOS_Progressed": 1455,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1784,6 +1784,11 @@
       "Time": "2023-09-23T09:06:05.7147639+00:00",
       "NumProgressed": 1454,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-23T11:08:43.6336121+00:00",
+      "NumProgressed": 1455,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1795,7 +1800,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "10",
@@ -1819,7 +1824,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "13",
@@ -1843,7 +1848,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "16",
@@ -1883,7 +1888,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "20",
@@ -1891,7 +1896,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "21",
@@ -1993,9 +1998,9 @@
       "ID": "5",
       "SetID": "n50no0",
       "Name": "An eye for an eye",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 73
     },
     {
       "ID": "6",
@@ -2034,15 +2039,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1454,
+      "Progressed": 1455,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:06:39.6918576+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:08:43.6336116+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:19.4812312+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:56:58.2158063+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:06:39.6918903+00:00"
+  "LastUpdate_Ratings": "2023-09-23T10:57:48.4323716+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:08:43.6336369+00:00"
 }

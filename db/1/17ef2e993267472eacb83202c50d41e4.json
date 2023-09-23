@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6393,
+  "EOS_Progressed": 6394,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2361,6 +2361,11 @@
       "Time": "2023-09-23T10:08:11.2676375+00:00",
       "NumProgressed": 6393,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T11:09:10.9384088+00:00",
+      "NumProgressed": 6394,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2685,7 +2690,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "MaxDamageDone30000",
@@ -2741,7 +2746,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "MaxTowersKilled6",
@@ -2829,7 +2834,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "QAUpgraded1",
@@ -2845,7 +2850,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "RAPurchased1",
@@ -2885,7 +2890,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "SOVUpgraded1",
@@ -2933,7 +2938,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "TSUPurchased1",
@@ -2964,14 +2969,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6393,
+      "Progressed": 6394,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-23T10:08:11.2676369+00:00",
+  "LastChanged_Achievements": "2023-09-23T11:09:10.9384084+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:58:25.6783269+00:00",
-  "LastUpdate_Achievements": "2023-09-23T10:08:11.2677309+00:00"
+  "LastUpdate_Ratings": "2023-09-23T10:59:41.9843794+00:00",
+  "LastUpdate_Achievements": "2023-09-23T11:09:10.9384866+00:00"
 }
