@@ -40,7 +40,7 @@
 | Fight is life | 47.00% | ~154 |
 | Mysterious voice | 47.00% | ~154 |
 | Guiding on the right path | 47.00% | ~154 |
-| No blades in the gym | 45.00% | ~148 |
+| No blades in the gym | 46.00% | ~151 |
 | Champion – no way back | 44.00% | ~144 |
 | Underground dwellers | 42.00% | ~138 |
 | Responsible approach | 42.00% | ~138 |
@@ -58,6 +58,7 @@
 | Your own way | 36.00% | ~118 |
 | Not little hacker | 35.00% | ~115 |
 | Anyone can resist | 35.00% | ~115 |
+| Another world | 34.00% | ~112 |
 | The lonesome road | 34.00% | ~112 |
 | Keep nature safe | 34.00% | ~112 |
 | Family comes first | 34.00% | ~112 |
@@ -65,7 +66,6 @@
 | Careerist | 34.00% | ~112 |
 | The heart of the Resistance | 34.00% | ~112 |
 | Trap disarmed | 33.00% | ~108 |
-| Another world | 33.00% | ~108 |
 | The last bell ring | 33.00% | ~108 |
 | Silver’s past | 30.00% | ~98 |
 | Better cooking at home | 30.00% | ~98 |

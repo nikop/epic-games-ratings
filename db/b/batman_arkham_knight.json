@@ -4,11 +4,11 @@
   "ProductSlug": "batman-arkham-knight",
   "Ranking_Rating": 65,
   "Ranking_Popularity": 62,
-  "Ranking_PopularitySum": 93,
+  "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2015-06-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4622,10 +4622,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 9177,
       "NumberOfAwardsMax": 5847
+    },
+    {
+      "Time": "2023-09-23T22:59:01.6481386+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9181,
+      "NumberOfAwardsMax": 5847
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9177,
+  "NumberOfAwards": 9181,
   "NumberOfAwardsMax": 5847,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4645,7 +4651,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 420
+      "Count": 422
     },
     {
       "Text": "This game is Relaxing",
@@ -4675,13 +4681,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 372
+      "Count": 373
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 388
+      "Count": 389
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4707,8 +4713,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2023-09-23T19:58:37.1597181+00:00",
+  "LastChanged": "2023-09-23T22:59:01.6481385+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:07.8365556+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:58:08.9158265+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:08:05.9400028+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:59:01.6481397+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:09:04.2752265+00:00"
 }

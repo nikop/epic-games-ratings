@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18115,
+  "EOS_Progressed": 18118,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10621,6 +10621,11 @@
       "Time": "2023-09-23T22:05:04.3762339+00:00",
       "NumProgressed": 18115,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T23:05:57.8811176+00:00",
+      "NumProgressed": 18118,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10632,7 +10637,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     },
     {
       "ID": "0002",
@@ -10696,7 +10701,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "0010",
@@ -10704,7 +10709,7 @@
       "Name": "Social of Solace",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "0011",
@@ -10720,7 +10725,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2899
     },
     {
       "ID": "0013",
@@ -10736,7 +10741,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2899
     },
     {
       "ID": "0015",
@@ -10752,7 +10757,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "0017",
@@ -10768,7 +10773,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "0019",
@@ -10808,7 +10813,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "0024",
@@ -10816,7 +10821,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3805
     },
     {
       "ID": "0025",
@@ -10846,9 +10851,9 @@
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4166
+      "UsersEstimate": 3986
     },
     {
       "ID": "0029",
@@ -10902,9 +10907,9 @@
       "ID": "0035",
       "SetID": "2n2feee",
       "Name": "Chairman of Deceive Inc.",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 145
     },
     {
       "ID": "0036",
@@ -10919,7 +10924,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18115,
+      "Progressed": 18118,
       "Completed": 3
     }
   ],
@@ -10927,8 +10932,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:05:04.3762334+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:05:57.8811169+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:57:41.8972951+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:05:04.3763782+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:58:19.6709474+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:05:57.8812515+00:00"
 }

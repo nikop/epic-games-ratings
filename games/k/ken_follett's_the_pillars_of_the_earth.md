@@ -7,7 +7,7 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,148 |
-| Man of politics | 35.00% | ~5,379 |
+| Man of politics | 35.00% | ~5,380 |
 | Friends of sorts | 33.00% | ~5,072 |
 | Yet another secret | 33.00% | ~5,072 |
 | Let there be darkness | 32.00% | ~4,918 |
@@ -17,9 +17,9 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,689 |
 | Help an old friend | 22.00% | ~3,381 |
 | Two of us | 20.00% | ~3,074 |
-| Negotiation skills | 18.00% | ~2,766 |
-| Workers' union | 18.00% | ~2,766 |
-| End of Book Two | 18.00% | ~2,766 |
+| Negotiation skills | 18.00% | ~2,767 |
+| Workers' union | 18.00% | ~2,767 |
+| End of Book Two | 18.00% | ~2,767 |
 | Everything's in order | 17.00% | ~2,613 |
 | Twist of Fate | 14.00% | ~2,152 |
 | Jack was here! | 14.00% | ~2,152 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~461 |
 | Boy of mystery | 2.00% | ~307 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,369 (Ranked 126)  
+Progressed: 15,370 (Ranked 126)  
 Completed: 111 (0.72%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,14 +204,14 @@ Completed: 111 (0.72%) (Ranked 144)
 | 2023-09-20 | 15,297 | 111 |
 | 2023-09-21 | 15,316 | 111 |
 | 2023-09-22 | 15,337 | 111 |
-| 2023-09-23 | 15,369 | 111 |
+| 2023-09-23 | 15,370 | 111 |
 ## Awards
-Max (Easy Puzzles): 149  (Ranked 303)  
-Sum: 190 (Ranked 384)  
+Max (Easy Puzzles): 150  (Ranked 303)  
+Sum: 191 (Ranked 384)  
 Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
-| This game features Easy Puzzles | 149 |
+| This game features Easy Puzzles | 150 |
 | In this game, your choices Impact the Story | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -300,3 +300,4 @@ Diff (max vs sum): -81
 | 2023-08-03 | 4.51 | - | 148 | 188 |
 | 2023-09-10 | 4.51 | - | 149 | 189 |
 | 2023-09-16 | 4.51 | - | 149 | 190 |
+| 2023-09-23 | 4.51 | - | 150 | 191 |

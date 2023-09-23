@@ -8,8 +8,8 @@ Number of Ratings: 38  (23.09.2022)
 | ---- | ---------- | ----- |
 | Balding bloot! | 78.00% | ~1,139 |
 | Lovebirds | 49.00% | ~715 |
+| Life’s short, ride long | 45.00% | ~657 |
 | Hug therapy | 44.00% | ~642 |
-| Life’s short, ride long | 44.00% | ~642 |
 | Over my dead body | 40.00% | ~584 |
 | Shake the rust off their feet | 21.00% | ~307 |
 | My little pony | 20.00% | ~292 |
@@ -26,9 +26,9 @@ Number of Ratings: 38  (23.09.2022)
 | Unstoppable | 9.00% | ~131 |
 | Ain't no mountain high enough | 9.00% | ~131 |
 | Self-sustainability | 8.00% | ~117 |
+| An eye for an eye | 6.00% | ~88 |
 | Can't get wetter... | 5.00% | ~73 |
 | Spring cleaning | 5.00% | ~73 |
-| An eye for an eye | 5.00% | ~73 |
 | Second thoughts | 4.00% | ~58 |
 | Mooning the moon | 4.00% | ~58 |
 | Strip-a-bobble | 4.00% | ~58 |

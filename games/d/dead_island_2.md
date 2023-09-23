@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~20,554 |
+| Welcome To Hell-A | 3.00% | ~20,555 |
 | Dr. Reed, I Presume? | 2.00% | ~13,703 |
 | Git Gutte! | 2.00% | ~13,703 |
 | Bookworm | 2.00% | ~13,703 |
@@ -24,15 +24,15 @@ Rating: 4.54 (Ranked 507)
 | Stacking the Deck | 2.00% | ~13,703 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,703 |
 | This is My Weapon | 2.00% | ~13,703 |
-| Making Your Mark | 1.00% | ~6,851 |
-| Anger Management | 1.00% | ~6,851 |
-| Perks of the Job | 1.00% | ~6,851 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,851 |
-| Ooh, Shiny! | 1.00% | ~6,851 |
-| Humanity Distilled | 1.00% | ~6,851 |
-| I Am the Resurrection | 1.00% | ~6,851 |
-| Down with the Sickness | 1.00% | ~6,851 |
-| Our True Nature | 1.00% | ~6,851 |
+| Making Your Mark | 1.00% | ~6,852 |
+| Anger Management | 1.00% | ~6,852 |
+| Perks of the Job | 1.00% | ~6,852 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,852 |
+| Ooh, Shiny! | 1.00% | ~6,852 |
+| Humanity Distilled | 1.00% | ~6,852 |
+| I Am the Resurrection | 1.00% | ~6,852 |
+| Down with the Sickness | 1.00% | ~6,852 |
+| Our True Nature | 1.00% | ~6,852 |
 | Max Headroom | 0.90% | ~6,166 |
 | Jumbo Keyring | 0.70% | ~4,796 |
 | Go, Bobcats! | 0.70% | ~4,796 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~685 |
 | Bucket List | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,129 (Ranked 22)  
-Completed: 2,169 (0.32%) (Ranked 187)  
+Progressed: 685,164 (Ranked 22)  
+Completed: 2,169 (0.32%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,11 +207,11 @@ Completed: 2,169 (0.32%) (Ranked 187)
 | 2023-09-20 | 683,347 | 2,156 |
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
-| 2023-09-23 | 685,129 | 2,169 |
+| 2023-09-23 | 685,164 | 2,169 |
 ## Awards
 Max (Great Boss Battles): 6,175  (Ranked 57)  
-Sum: 9,178 (Ranked 92)  
-Diff (max vs sum): -35  
+Sum: 9,178 (Ranked 93)  
+Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,175 |

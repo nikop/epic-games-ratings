@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 467,
+  "EOS_Progressed": 468,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -459,6 +459,11 @@
       "Time": "2023-09-20T18:04:34.763435+00:00",
       "NumProgressed": 467,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T23:05:44.2462063+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -470,7 +475,7 @@
       "Name": "Grand Opening",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -494,7 +499,7 @@
       "Name": "One More Thing...",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -518,7 +523,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -534,7 +539,7 @@
       "Name": "Path of Learning",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -550,7 +555,7 @@
       "Name": "Lucky Day",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -806,7 +811,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -869,7 +874,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 467,
+      "Progressed": 468,
       "Completed": 1
     }
   ],
@@ -877,8 +882,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:04:54.3257703+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:05:44.2462058+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:25.9515822+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:59:51.7551855+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:04:54.3258175+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:01:26.1535548+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:05:44.246259+00:00"
 }

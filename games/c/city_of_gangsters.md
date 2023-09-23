@@ -5,19 +5,19 @@ Rating: 4.27 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,549 |
-| Copacetic Coordination | 16.00% | ~55,147 |
+| Corner Clout | 46.00% | ~158,550 |
+| Copacetic Coordination | 16.00% | ~55,148 |
 | Fronting the Money | 15.00% | ~51,701 |
-| The Dawn of Automation | 14.00% | ~48,254 |
-| Extraordinary Logistics | 14.00% | ~48,254 |
-| Dirty Money | 13.00% | ~44,807 |
-| Family First | 13.00% | ~44,807 |
+| The Dawn of Automation | 14.00% | ~48,255 |
+| Extraordinary Logistics | 14.00% | ~48,255 |
+| Dirty Money | 13.00% | ~44,808 |
+| Family First | 13.00% | ~44,808 |
 | Cleaning House | 12.00% | ~41,361 |
 | Room in the Back | 12.00% | ~41,361 |
 | Beating the Heat | 11.00% | ~37,914 |
 | Booze Baron | 11.00% | ~37,914 |
-| Friends on the Force | 10.00% | ~34,467 |
-| Neighborhood Watch | 10.00% | ~34,467 |
+| Friends on the Force | 10.00% | ~34,468 |
+| Neighborhood Watch | 10.00% | ~34,468 |
 | Core Corps | 8.00% | ~27,574 |
 | Sizeable Stash | 8.00% | ~27,574 |
 | Street Fighter | 7.00% | ~24,127 |
@@ -48,11 +48,11 @@ Rating: 4.27 (Ranked 824)
 | Still Stalwart | 3.00% | ~10,340 |
 | Bees Knees Bootlegger | 3.00% | ~10,340 |
 | Tighten the Screws | 3.00% | ~10,340 |
-| One of Us | 2.00% | ~6,893 |
-| Baker’s Dozen | 2.00% | ~6,893 |
-| Dropping the Dime | 2.00% | ~6,893 |
-| Spiffy Speakeasies | 2.00% | ~6,893 |
-| Keeping Your Word | 2.00% | ~6,893 |
+| One of Us | 2.00% | ~6,894 |
+| Baker’s Dozen | 2.00% | ~6,894 |
+| Dropping the Dime | 2.00% | ~6,894 |
+| Spiffy Speakeasies | 2.00% | ~6,894 |
+| Keeping Your Word | 2.00% | ~6,894 |
 | Boxing Them In | 1.00% | ~3,447 |
 | Backroom Empire | 1.00% | ~3,447 |
 | Corner Control | 1.00% | ~3,447 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 824)
 | High Pillow | 0.10% | ~345 |
 | Station Master | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,671 (Ranked 43)  
+Progressed: 344,675 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 7 (0.00%) (Ranked 291)
 | 2023-09-20 | 344,176 | 7 |
 | 2023-09-21 | 344,329 | 7 |
 | 2023-09-22 | 344,476 | 7 |
-| 2023-09-23 | 344,671 | 7 |
+| 2023-09-23 | 344,675 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 444)  
 Sum: 196 (Ranked 379)  

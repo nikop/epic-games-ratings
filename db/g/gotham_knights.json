@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3116,7 +3116,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72764,
+  "EOS_Progressed": 72766,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 4,
@@ -16416,6 +16416,11 @@
       "Time": "2023-09-23T22:05:36.3380336+00:00",
       "NumProgressed": 72764,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-23T23:06:43.4933862+00:00",
+      "NumProgressed": 72766,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16531,7 +16536,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15280
+      "UsersEstimate": 15281
     },
     {
       "ID": "CLAYFACE_2",
@@ -16571,7 +16576,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5094
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -16587,7 +16592,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9459
+      "UsersEstimate": 9460
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -16635,7 +16640,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9459
+      "UsersEstimate": 9460
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -16643,7 +16648,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7276
+      "UsersEstimate": 7277
     },
     {
       "ID": "FREEZE_1",
@@ -16659,7 +16664,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15280
+      "UsersEstimate": 15281
     },
     {
       "ID": "FREEZE_2",
@@ -16667,7 +16672,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13825
+      "UsersEstimate": 13826
     },
     {
       "ID": "FREEZE_3",
@@ -16731,7 +16736,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25467
+      "UsersEstimate": 25468
     },
     {
       "ID": "HARLEY_2",
@@ -16739,7 +16744,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18191
+      "UsersEstimate": 18192
     },
     {
       "ID": "HARLEY_3",
@@ -16755,7 +16760,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16771,7 +16776,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37837
+      "UsersEstimate": 37838
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16827,7 +16832,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18191
+      "UsersEstimate": 18192
     },
     {
       "ID": "MYSTERY_03",
@@ -16914,13 +16919,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72764,
+      "Progressed": 72766,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43044,
+      "Progressed": 43046,
       "Completed": 2667
     }
   ],
@@ -16928,8 +16933,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-23T13:08:05.8327884+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:05:36.338033+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:06:43.4933854+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:57:02.5091709+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:05:36.3381803+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:57:17.76718+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:06:43.4936598+00:00"
 }

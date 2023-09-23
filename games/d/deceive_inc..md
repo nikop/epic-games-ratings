@@ -5,17 +5,17 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,253 |
-| The Spy who eliminated me | 23.00% | ~4,166 |
-| Mainframe Hacker | 22.00% | ~3,985 |
-| Tomorrow Never Dyes | 21.00% | ~3,804 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,254 |
+| Mainframe Hacker | 22.00% | ~3,986 |
+| The Spy who eliminated me | 22.00% | ~3,986 |
+| Tomorrow Never Dyes | 21.00% | ~3,805 |
 | Never Say Loser Again | 19.00% | ~3,442 |
 | From the Vault with Love | 18.00% | ~3,261 |
 | For your Eyes only | 18.00% | ~3,261 |
 | Assistant Accountant | 17.00% | ~3,080 |
 | Tailor-Made | 17.00% | ~3,080 |
-| You Only Live Twice | 16.00% | ~2,898 |
-| Fully Decked Out | 16.00% | ~2,898 |
+| You Only Live Twice | 16.00% | ~2,899 |
+| Fully Decked Out | 16.00% | ~2,899 |
 | A view to Win | 13.00% | ~2,355 |
 | Private Collection | 12.00% | ~2,174 |
 | Smells Like Trouble | 12.00% | ~2,174 |
@@ -25,24 +25,24 @@ Rating: 4.56 (Ranked 471)
 | Hostile Takeover | 11.00% | ~1,993 |
 | Keycards Royale | 10.00% | ~1,812 |
 | Dr. No Kill | 10.00% | ~1,812 |
-| In It to Win It | 9.00% | ~1,630 |
+| In It to Win It | 9.00% | ~1,631 |
 | Security Supervisor | 6.00% | ~1,087 |
 | License to Thrill | 5.00% | ~906 |
-| Social of Solace | 3.00% | ~543 |
-| Live and let lie | 3.00% | ~543 |
-| Safe Withdrawal | 3.00% | ~543 |
+| Social of Solace | 3.00% | ~544 |
+| Live and let lie | 3.00% | ~544 |
+| Safe Withdrawal | 3.00% | ~544 |
 | Branch Manager | 2.00% | ~362 |
 | Call Me Maybe | 2.00% | ~362 |
 | PHD in VIP | 2.00% | ~362 |
 | The terminals are not enough | 1.00% | ~181 |
 | Lose Another Day | 1.00% | ~181 |
-| Chairman of Deceive Inc. | 0.90% | ~163 |
 | Chief Information Officer | 0.80% | ~145 |
+| Chairman of Deceive Inc. | 0.80% | ~145 |
 | Masteries Are Forever | 0.40% | ~72 |
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,115 (Ranked 121)  
+Progressed: 18,118 (Ranked 121)  
 Completed: 3 (0.02%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 3 (0.02%) (Ranked 265)
 | 2023-09-20 | 18,072 | 3 |
 | 2023-09-21 | 18,082 | 3 |
 | 2023-09-22 | 18,098 | 3 |
-| 2023-09-23 | 18,115 | 3 |
+| 2023-09-23 | 18,118 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

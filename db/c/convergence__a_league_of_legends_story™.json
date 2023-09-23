@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 888,
+  "EOS_Progressed": 889,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2255,6 +2255,11 @@
       "Time": "2023-09-23T17:04:47.7665025+00:00",
       "NumProgressed": 888,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T23:05:24.2072555+00:00",
+      "NumProgressed": 889,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2418,7 +2423,7 @@
       "Name": "Whiz Kid",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "GrindingTime1",
@@ -2642,7 +2647,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "WarwickDefeated",
@@ -2689,7 +2694,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 888,
+      "Progressed": 889,
       "Completed": 5
     }
   ],
@@ -2697,8 +2702,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:04:40.1800331+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:05:24.2072549+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:57:30.3484048+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:04:40.1800959+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:58:02.6745538+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:05:24.2073546+00:00"
 }

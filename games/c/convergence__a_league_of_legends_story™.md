@@ -8,7 +8,7 @@ Rating: 4.60 (Ranked 399)
 | Time Heals All Wounds | 29.00% | ~258 |
 | Rail Rat | 24.00% | ~213 |
 | The Mysterious Stranger | 23.00% | ~204 |
-| Immaculate Aim | 21.00% | ~186 |
+| Immaculate Aim | 21.00% | ~187 |
 | Make Up For Lost Time | 20.00% | ~178 |
 | Time Flies | 20.00% | ~178 |
 | The Prince in Heels | 20.00% | ~178 |
@@ -32,7 +32,7 @@ Rating: 4.60 (Ranked 399)
 | Street Style | 15.00% | ~133 |
 | Cartographer | 15.00% | ~133 |
 | Treasure Trove | 14.00% | ~124 |
-| Whiz Kid | 13.00% | ~115 |
+| Whiz Kid | 13.00% | ~116 |
 | Good Neighbor | 12.00% | ~107 |
 | Chaincrawler Explorer | 11.00% | ~98 |
 | Family Memories | 11.00% | ~98 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 399)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888 (Ranked 234)  
+Progressed: 889 (Ranked 234)  
 Completed: 5 (0.56%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 5 (0.56%) (Ranked 155)
 | 2023-09-20 | 882 | 5 |
 | 2023-09-21 | 885 | 5 |
 | 2023-09-22 | 887 | 5 |
-| 2023-09-23 | 888 | 5 |
+| 2023-09-23 | 889 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

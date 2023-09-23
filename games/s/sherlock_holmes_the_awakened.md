@@ -1,32 +1,32 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.62 (Ranked 352)  
+Rating: 4.62 (Ranked 351)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 66.00% | ~439 |
-| Read Between The Lines | 65.00% | ~432 |
-| High Profile | 59.00% | ~392 |
+| To Hell In A Handcart | 66.00% | ~440 |
+| Read Between The Lines | 65.00% | ~433 |
+| High Profile | 59.00% | ~393 |
 | Whispers In The Dark | 58.00% | ~386 |
 | Fond Memories | 55.00% | ~366 |
-| A Method To His Madness | 54.00% | ~359 |
-| History Check | 53.00% | ~352 |
-| The New World | 50.00% | ~332 |
+| A Method To His Madness | 54.00% | ~360 |
+| History Check | 53.00% | ~353 |
+| The New World | 50.00% | ~333 |
 | Open Sesame | 49.00% | ~326 |
 | Sticky Fingers | 49.00% | ~326 |
 | Knives Out | 49.00% | ~326 |
-| Land, Ho! | 49.00% | ~326 |
-| Lock, Stock, And Barrel | 48.00% | ~319 |
-| Gaze Into The Abyss | 48.00% | ~319 |
-| Back In The Saddle | 48.00% | ~319 |
-| No Man Is An Island | 48.00% | ~319 |
+| Gaze Into The Abyss | 48.00% | ~320 |
+| Land, Ho! | 48.00% | ~320 |
+| Lock, Stock, And Barrel | 47.00% | ~313 |
+| Back In The Saddle | 47.00% | ~313 |
+| No Man Is An Island | 47.00% | ~313 |
 | At Wits' End | 47.00% | ~313 |
-| Fhtagn! | 45.00% | ~299 |
+| Fhtagn! | 45.00% | ~300 |
 | Bookworm | 44.00% | ~293 |
 | Up In Flames | 44.00% | ~293 |
 | Going Once... | 40.00% | ~266 |
-| Let Me Be Frank | 39.00% | ~259 |
+| Let Me Be Frank | 39.00% | ~260 |
 | Brain Food | 38.00% | ~253 |
 | No Stone Unturned | 37.00% | ~246 |
 | Read It And Weep | 23.00% | ~153 |
@@ -34,8 +34,8 @@ Rating: 4.62 (Ranked 352)
 | Big Breakthrough | 14.00% | ~93 |
 | Reawakened | 5.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665 (Ranked 250)  
-Completed: 26 (3.91%) (Ranked 63)  
+Progressed: 666 (Ranked 250)  
+Completed: 26 (3.90%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,6 +170,7 @@ Completed: 26 (3.91%) (Ranked 63)
 | 2023-09-18 | 663 | 25 |
 | 2023-09-19 | 663 | 26 |
 | 2023-09-20 | 665 | 26 |
+| 2023-09-23 | 666 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

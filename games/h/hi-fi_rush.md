@@ -17,13 +17,13 @@ Rating: 4.85 (Ranked 41)
 | This will cost you big time | 9.00% | ~368 |
 | I play my own way! | 9.00% | ~368 |
 | Uh, they were broken when I got here | 9.00% | ~368 |
+| Whoa! There's ANOTHER health bar!? | 8.00% | ~327 |
 | Z-shielding's got nothing on us! | 8.00% | ~327 |
 | Kissing the sky! | 8.00% | ~327 |
 | I look cool. But I can look COOLER. | 8.00% | ~327 |
 | The Negotiator | 7.00% | ~286 |
 | Headliner | 7.00% | ~286 |
 | Time to pay up! | 7.00% | ~286 |
-| Whoa! There's ANOTHER health bar!? | 7.00% | ~286 |
 | You must like calling me in, Chai | 7.00% | ~286 |
 | Out in a puff of smoke | 7.00% | ~286 |
 | Does that say weakpoint? | 7.00% | ~286 |

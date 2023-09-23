@@ -4,9 +4,9 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 507,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 92,
+  "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -4788,9 +4788,9 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 685129,
+  "EOS_Progressed": 685164,
   "EOS_Completed": 2169,
-  "EOS_NewPlayers": 4066,
+  "EOS_NewPlayers": 4080,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22393,6 +22393,11 @@
       "Time": "2023-09-23T22:06:22.5303683+00:00",
       "NumProgressed": 685129,
       "NumCompleted": 2169
+    },
+    {
+      "Time": "2023-09-23T23:07:50.4089659+00:00",
+      "NumProgressed": 685164,
+      "NumCompleted": 2169
     }
   ],
   "TotalAchievements": 45,
@@ -22412,7 +22417,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_ammo_ran",
@@ -22428,7 +22433,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -22452,7 +22457,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_bookworm",
@@ -22484,7 +22489,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -22620,7 +22625,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_magnum_opus",
@@ -22644,7 +22649,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_revival_tour",
@@ -22652,7 +22657,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_salvation",
@@ -22660,7 +22665,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_secrets_of_la",
@@ -22716,7 +22721,7 @@
       "Name": "Our True Nature",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -22740,7 +22745,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20554
+      "UsersEstimate": 20555
     },
     {
       "ID": "ach_well_known_survivor",
@@ -22763,22 +22768,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 685129,
+      "Progressed": 685164,
       "Completed": 2169
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 10670,
-      "Completed": 10670
+      "Progressed": 10705,
+      "Completed": 10705
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-23T18:02:12.4218993+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:06:22.5303677+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:07:50.4089653+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-23T22:00:22.0000256+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:06:22.5305909+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:02:10.3119031+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:07:50.4091259+00:00"
 }

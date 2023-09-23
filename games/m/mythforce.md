@@ -8,21 +8,21 @@ Number of Ratings: 285  (23.09.2022)
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 19.00% | ~582 |
 | That'll Leave a Mark | 19.00% | ~582 |
-| Debuff Dogpile | 18.00% | ~551 |
-| Hit 'Em Where It Hurts | 18.00% | ~551 |
-| Perk Shard Punch Card | 18.00% | ~551 |
+| Debuff Dogpile | 18.00% | ~552 |
+| Hit 'Em Where It Hurts | 18.00% | ~552 |
+| Perk Shard Punch Card | 18.00% | ~552 |
 | Mushroom Madness! | 17.00% | ~521 |
 | First Strike | 14.00% | ~429 |
 | Horder Better Faster Stronger | 14.00% | ~429 |
 | Spending Spree | 14.00% | ~429 |
-| Everything Must Go! | 12.00% | ~367 |
-| Ten Steps from the Grave | 11.00% | ~337 |
+| Everything Must Go! | 12.00% | ~368 |
+| Ten Steps from the Grave | 12.00% | ~368 |
 | Next Time on MythForce... | 10.00% | ~306 |
 | Cold-Blooded Critters | 8.00% | ~245 |
 | Death Becomes You | 7.00% | ~214 |
 | Flawless Victory | 6.00% | ~184 |
 | The Harder They Fall | 5.00% | ~153 |
-| On this Episode! | 4.00% | ~122 |
+| On this Episode! | 4.00% | ~123 |
 | Deadication | 2.00% | ~61 |
 | We've Got a Kaiju on the Field | 2.00% | ~61 |
 | Season Finale | 2.00% | ~61 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~6 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,062 (Ranked 183)  
+Progressed: 3,064 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,17 +100,17 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-20 | 2,843 | 0 |
 | 2023-09-21 | 2,900 | 0 |
 | 2023-09-22 | 2,956 | 0 |
-| 2023-09-23 | 3,062 | 0 |
+| 2023-09-23 | 3,064 | 0 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 456)  
-Sum: 272 (Ranked 356)  
-Diff (max vs sum): 100  
+Sum: 273 (Ranked 354)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Characters | 31 |
-| This game has Quickly Understood Controls | 28 |
+| This game has Quickly Understood Controls | 29 |
 | This game has Challenging Combat | 27 |
 | This game has Diverse Characters | 26 |
 | This game has Unique Visuals | 26 |
@@ -203,4 +203,4 @@ Diff (max vs sum): 100
 | 2023-09-20 | 4.49 | - | 32 | 265 |
 | 2023-09-21 | 4.49 | - | 32 | 266 |
 | 2023-09-22 | 4.49 | - | 32 | 268 |
-| 2023-09-23 | 4.49 | - | 34 | 272 |
+| 2023-09-23 | 4.49 | - | 34 | 273 |

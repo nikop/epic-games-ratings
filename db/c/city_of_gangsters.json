@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -631,9 +631,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 344671,
+  "EOS_Progressed": 344675,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18146,6 +18146,11 @@
       "Time": "2023-09-23T22:03:36.619062+00:00",
       "NumProgressed": 344671,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-23T23:03:45.6713345+00:00",
+      "NumProgressed": 344675,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18181,7 +18186,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "ach005",
@@ -18253,7 +18258,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "ach014",
@@ -18285,7 +18290,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44807
+      "UsersEstimate": 44808
     },
     {
       "ID": "ach018",
@@ -18365,7 +18370,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158549
+      "UsersEstimate": 158550
     },
     {
       "ID": "ach028",
@@ -18389,7 +18394,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "ach031",
@@ -18461,7 +18466,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34467
+      "UsersEstimate": 34468
     },
     {
       "ID": "ach040",
@@ -18509,7 +18514,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44807
+      "UsersEstimate": 44808
     },
     {
       "ID": "ach046",
@@ -18589,7 +18594,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "ach056",
@@ -18621,7 +18626,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34467
+      "UsersEstimate": 34468
     },
     {
       "ID": "ach060",
@@ -18637,7 +18642,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "ach062",
@@ -18669,7 +18674,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48254
+      "UsersEstimate": 48255
     },
     {
       "ID": "ach067",
@@ -18685,7 +18690,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55147
+      "UsersEstimate": 55148
     },
     {
       "ID": "ach069",
@@ -18693,7 +18698,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48254
+      "UsersEstimate": 48255
     },
     {
       "ID": "ach070",
@@ -18796,7 +18801,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 344671,
+      "Progressed": 344675,
       "Completed": 7
     }
   ],
@@ -18804,8 +18809,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-23T09:00:25.6768504+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:03:36.6190616+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:03:45.6713339+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:59:55.6239124+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:03:36.6192757+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:01:31.9525949+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:03:45.671574+00:00"
 }

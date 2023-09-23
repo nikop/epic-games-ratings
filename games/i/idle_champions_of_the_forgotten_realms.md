@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Brief Tour of the Realms | 0.20% | ~460 |
 | The Jungles of Doomspace | 0.20% | ~392 |
-| A Brief Tour of the Realms | 0.10% | ~230 |
 | Maddening | 0.10% | ~230 |
 | Pros and CONs | 0.10% | ~230 |
 | Upholding the Law | 0.10% | ~230 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,839 (Ranked 57)  
+Progressed: 229,845 (Ranked 57)  
 Completed: 2,299 (1.00%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -687,7 +687,7 @@ Completed: 2,299 (1.00%) (Ranked 127)
 | 2023-09-20 | 229,496 | 2,296 |
 | 2023-09-21 | 229,612 | 2,297 |
 | 2023-09-22 | 229,714 | 2,297 |
-| 2023-09-23 | 229,839 | 2,299 |
+| 2023-09-23 | 229,845 | 2,299 |
 ## Awards
 Max (Diverse Characters): 5,309  (Ranked 67)  
 Sum: 31,717 (Ranked 39)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1859,9 +1859,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 417
     },
     {
       "ID": "AC19",
@@ -2092,8 +2092,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:04:57.9716879+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:05:49.3224137+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:58:45.6613258+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:04:57.9717448+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:59:54.2674941+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:05:49.3224865+00:00"
 }

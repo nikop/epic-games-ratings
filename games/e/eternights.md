@@ -9,7 +9,7 @@
 | The First Bond | 70.00% | ~147 |
 | Novice Scavenger | 62.00% | ~130 |
 | Master Craftsman | 50.00% | ~105 |
-| First wall | 49.00% | ~103 |
+| First wall | 50.00% | ~105 |
 | Piggyback Expert | 48.00% | ~101 |
 | Second wall | 34.00% | ~71 |
 | Expert Scavenger | 30.00% | ~63 |
@@ -17,8 +17,8 @@
 | Yuna's Promise | 25.00% | ~52 |
 | Stone Retriever | 24.00% | ~50 |
 | Find myself | 21.00% | ~44 |
+| Truebro | 18.00% | ~38 |
 | Min's Promise | 17.00% | ~36 |
-| Truebro | 17.00% | ~36 |
 | Sia's Promise | 15.00% | ~32 |
 | Romantic | 15.00% | ~32 |
 | TentacleMAN | 10.00% | ~21 |

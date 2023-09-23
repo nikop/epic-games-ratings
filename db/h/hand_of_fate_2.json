@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662494,
+  "EOS_Progressed": 662495,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15678,6 +15678,11 @@
       "Time": "2023-09-23T22:04:38.7031841+00:00",
       "NumProgressed": 662494,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-23T23:05:22.1488502+00:00",
+      "NumProgressed": 662495,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15753,7 +15758,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66249
+      "UsersEstimate": 66250
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -15785,7 +15790,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66249
+      "UsersEstimate": 66250
     },
     {
       "ID": "Achievement_14_Magician",
@@ -15969,7 +15974,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59624
+      "UsersEstimate": 59625
     },
     {
       "ID": "Achievement_37_Champion",
@@ -16072,15 +16077,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662494,
+      "Progressed": 662495,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:04:38.7031837+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:05:22.1488494+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.7823898+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:59:55.4421923+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:04:38.7033303+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:01:31.6912058+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:05:22.1490777+00:00"
 }

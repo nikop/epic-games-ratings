@@ -4,11 +4,11 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 586,
   "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 356,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -615,10 +615,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-23T23:02:22.8356293+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -656,7 +662,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Unique Visuals",
@@ -683,7 +689,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3062,
+  "EOS_Progressed": 3064,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 0,
@@ -5413,6 +5419,11 @@
       "Time": "2023-09-23T22:04:48.7873351+00:00",
       "NumProgressed": 3062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T23:05:36.6259135+00:00",
+      "NumProgressed": 3064,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5457,7 +5468,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5465,7 +5476,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5513,7 +5524,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -5553,7 +5564,7 @@
       "Name": "On this Episode!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -5561,7 +5572,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5583,9 +5594,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 368
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5608,15 +5619,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3062,
+      "Progressed": 3064,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-09-23T18:02:26.446809+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:04:48.7873347+00:00",
+  "LastChanged": "2023-09-23T23:02:22.8356291+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:05:36.6259129+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-23T22:00:30.9825492+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:04:48.7873828+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:02:22.8356298+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:05:36.6260018+00:00"
 }

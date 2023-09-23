@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.62 (Ranked 352)  
+Rating: 4.62 (Ranked 351)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.62 (Ranked 352)
 | Home, sweet home | 91.00% | ~4,732 |
 | Survivalist | 89.00% | ~4,628 |
 | One way ticket | 84.00% | ~4,368 |
-| Last man standing | 79.00% | ~4,108 |
+| Last man standing | 80.00% | ~4,160 |
 | Family guy | 77.00% | ~4,004 |
 | Out of the Bag | 75.00% | ~3,900 |
 | The Dark Side | 70.00% | ~3,640 |

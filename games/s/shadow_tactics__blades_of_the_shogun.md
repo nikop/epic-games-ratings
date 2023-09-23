@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,433 |
+| Genin | 11.00% | ~22,434 |
 | A thief's beginning | 10.00% | ~20,394 |
 | Thorough | 10.00% | ~20,394 |
-| Disguised | 8.00% | ~16,315 |
-| Rescue Takuma | 8.00% | ~16,315 |
-| Rollin' | 8.00% | ~16,315 |
-| Tanuki Time | 8.00% | ~16,315 |
+| Disguised | 8.00% | ~16,316 |
+| Rescue Takuma | 8.00% | ~16,316 |
+| Rollin' | 8.00% | ~16,316 |
+| Tanuki Time | 8.00% | ~16,316 |
 | Ice Ice Yuki | 7.00% | ~14,276 |
 | Jonin | 7.00% | ~14,276 |
 | Stoned Ox | 7.00% | ~14,276 |
 | Yabu | 7.00% | ~14,276 |
-| Chunin | 6.00% | ~12,236 |
-| Flying Rocks | 6.00% | ~12,236 |
-| Happy Planning | 6.00% | ~12,236 |
-| Mugen Unchained | 6.00% | ~12,236 |
-| Warzone | 6.00% | ~12,236 |
+| Chunin | 6.00% | ~12,237 |
+| Flying Rocks | 6.00% | ~12,237 |
+| Happy Planning | 6.00% | ~12,237 |
+| Mugen Unchained | 6.00% | ~12,237 |
+| Warzone | 6.00% | ~12,237 |
 | Okkoto | 5.00% | ~10,197 |
 | Prisoners | 5.00% | ~10,197 |
 | Too Early | 5.00% | ~10,197 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~204 |
 | Release the Kraken | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,939 (Ranked 62)  
+Progressed: 203,944 (Ranked 62)  
 Completed: 86 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,17 +207,17 @@ Completed: 86 (0.04%) (Ranked 255)
 | 2023-09-20 | 203,354 | 83 |
 | 2023-09-21 | 203,528 | 84 |
 | 2023-09-22 | 203,710 | 86 |
-| 2023-09-23 | 203,939 | 86 |
+| 2023-09-23 | 203,944 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
-Sum: 4,770 (Ranked 136)  
+Sum: 4,773 (Ranked 136)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 566 |
 | This game has Diverse Characters | 530 |
 | This game is Extremely Fun | 526 |
-| This game has Amazing Storytelling | 507 |
+| This game has Amazing Storytelling | 510 |
 | This game has Amazing Characters | 490 |
 | This game is Highly Recommended | 487 |
 | This game is Relaxing | 485 |
@@ -403,4 +403,4 @@ Diff (max vs sum): 55
 | 2023-09-20 | 4.66 | - | 566 | 4,762 |
 | 2023-09-21 | 4.66 | - | 566 | 4,765 |
 | 2023-09-22 | 4.66 | - | 566 | 4,766 |
-| 2023-09-23 | 4.66 | - | 566 | 4,770 |
+| 2023-09-23 | 4.66 | - | 566 | 4,773 |

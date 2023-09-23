@@ -487,18 +487,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 190,
       "NumberOfAwardsMax": 149
+    },
+    {
+      "Time": "2023-09-23T22:58:53.6487584+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 190,
-  "NumberOfAwardsMax": 149,
+  "NumberOfAwards": 191,
+  "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
       "Prefix": "This game features",
       "Type": "Easy Puzzles",
-      "Count": 149
+      "Count": 150
     },
     {
       "Text": "In this game, your choices Impact the Story",
@@ -507,7 +513,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15369,
+  "EOS_Progressed": 15370,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -10712,6 +10718,11 @@
       "Time": "2023-09-23T22:04:25.84956+00:00",
       "NumProgressed": 15369,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-23T23:05:04.1859061+00:00",
+      "NumProgressed": 15370,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10803,7 +10814,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "tpote_achievement_2",
@@ -10875,7 +10886,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "tpote_achievement_28",
@@ -10915,7 +10926,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "tpote_achievement_32",
@@ -11043,22 +11054,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15369,
+      "Progressed": 15370,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2023-09-16T15:01:23.4466055+00:00",
-  "LastChanged_Achievements": "2023-09-23T22:04:25.8495595+00:00",
+  "LastChanged": "2023-09-23T22:58:53.6487582+00:00",
+  "LastChanged_Achievements": "2023-09-23T23:05:04.1859054+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:58:03.6525706+00:00",
-  "LastUpdate_Achievements": "2023-09-23T22:04:25.8497001+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:58:53.6487589+00:00",
+  "LastUpdate_Achievements": "2023-09-23T23:05:04.1860822+00:00"
 }

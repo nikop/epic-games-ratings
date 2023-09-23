@@ -1,26 +1,26 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 488)  
+Rating: 4.56 (Ranked 471)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,342 |
-| Pay 'n' Spray | 50.00% | ~6,384 |
-| All Dressed Up for San Fierro | 25.00% | ~3,192 |
+| Getting Started | 81.00% | ~10,345 |
+| Pay 'n' Spray | 50.00% | ~6,386 |
+| All Dressed Up for San Fierro | 25.00% | ~3,193 |
 | The American Dream | 19.00% | ~2,426 |
-| School's Out | 18.00% | ~2,298 |
+| School's Out | 18.00% | ~2,299 |
 | Smooth Moves | 17.00% | ~2,171 |
-| What happens in Las Venturas... | 15.00% | ~1,915 |
-| Today Was a Good Day | 15.00% | ~1,915 |
-| Horror of the Santa Maria | 11.00% | ~1,404 |
+| What happens in Las Venturas... | 15.00% | ~1,916 |
+| Today Was a Good Day | 15.00% | ~1,916 |
+| Horror of the Santa Maria | 11.00% | ~1,405 |
 | Liberty City State of Mind | 10.00% | ~1,277 |
-| The End of the Line | 8.00% | ~1,021 |
-| Original Gangster | 8.00% | ~1,021 |
+| The End of the Line | 8.00% | ~1,022 |
+| Original Gangster | 8.00% | ~1,022 |
 | With Extra Dip | 7.00% | ~894 |
 | Saviour | 6.00% | ~766 |
-| They Can’t Stop All of Us | 5.00% | ~638 |
-| Rescue a Kitten Too? | 5.00% | ~638 |
+| They Can’t Stop All of Us | 5.00% | ~639 |
+| Rescue a Kitten Too? | 5.00% | ~639 |
 | What are the Odds | 4.00% | ~511 |
 | Bike or Biker | 3.00% | ~383 |
 | What the City Needs | 3.00% | ~383 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 488)
 | ...Here we go again | 0.50% | ~64 |
 | I Ain't No Buster | 0.30% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,768 (Ranked 130)  
+Progressed: 12,771 (Ranked 130)  
 Completed: 45 (0.35%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,14 +197,14 @@ Completed: 45 (0.35%) (Ranked 179)
 | 2023-09-20 | 12,599 | 45 |
 | 2023-09-21 | 12,641 | 45 |
 | 2023-09-22 | 12,700 | 45 |
-| 2023-09-23 | 12,768 | 45 |
+| 2023-09-23 | 12,771 | 45 |
 ## Awards
-Max (Great Boss Battles): 305  (Ranked 237)  
-Sum: 403 (Ranked 320)  
+Max (Great Boss Battles): 306  (Ranked 237)  
+Sum: 404 (Ranked 320)  
 Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 305 |
+| This game has Great Boss Battles | 306 |
 | This game is Relaxing | 26 |
 | This game has Amazing Storytelling | 25 |
 | This game has Amazing Characters | 24 |
@@ -339,3 +339,4 @@ Diff (max vs sum): -83
 | 2023-09-20 | 4.56 | 302 | 398 |
 | 2023-09-21 | 4.55 | 303 | 399 |
 | 2023-09-22 | 4.55 | 305 | 403 |
+| 2023-09-23 | 4.56 | 306 | 404 |

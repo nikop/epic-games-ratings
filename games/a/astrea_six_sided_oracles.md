@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Dicesmithing Time! | 100.00% | ~5 |
 | Endless Tricks | 100.00% | ~5 |
 | Mechanical Buddy | 100.00% | ~5 |
 | Meissa's Savior | 100.00% | ~5 |
 | Purification Pioneer | 100.00% | ~5 |
-| Dicesmithing Time! | 80.00% | ~4 |
 | Sanctuary Guardian | 80.00% | ~4 |
+| Stellar Dismantler | 80.00% | ~4 |
 | Mind Illuminator | 60.00% | ~3 |
-| Stellar Dismantler | 60.00% | ~3 |
-| Wild's Keeper | 40.00% | ~2 |
+| Wild's Keeper | 60.00% | ~3 |
 | Anomaly Destroyer | 20.00% | ~1 |
 | Arch-Oracle | 20.00% | ~1 |
 | Astral Adventurer | 20.00% | ~1 |
@@ -29,6 +29,7 @@
 | The Corruption Goddess | 20.00% | ~1 |
 | Unbeatable | 20.00% | ~1 |
 | Unepic Hero | 20.00% | ~1 |
+| Wave Bender | 20.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -83,7 +84,6 @@
 | The world goes round... | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
-| Wave Bender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 528)  
 Completed: 0 (0.00%) (Ranked 291)  
