@@ -16,9 +16,9 @@
 | One last step | 32.00% | ~65 |
 | Cable guy | 30.00% | ~61 |
 | Champollion | 30.00% | ~61 |
+| In this together | 28.00% | ~57 |
 | Peace walker | 28.00% | ~57 |
 | Half the way | 28.00% | ~57 |
-| In this together | 27.00% | ~55 |
 | Open door | 24.00% | ~48 |
 | Feels like springtime | 23.00% | ~46 |
 | Rascal | 23.00% | ~46 |

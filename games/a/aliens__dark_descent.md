@@ -6,8 +6,8 @@ Rating: 4.49 (Ranked 586)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,766 |
+| Keep 'Em Coming | 74.00% | ~2,496 |
 | Snatched Out | 74.00% | ~2,496 |
-| Keep 'Em Coming | 73.00% | ~2,462 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,260 |
 | Call Me Snake | 62.00% | ~2,091 |
 | Something Lurks Under The Hills | 61.00% | ~2,058 |
@@ -21,7 +21,7 @@ Rating: 4.49 (Ranked 586)
 | Making a Stand | 43.00% | ~1,450 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,417 |
 | Where It All Begun | 40.00% | ~1,349 |
-| Recouped Investment | 38.00% | ~1,282 |
+| Recouped Investment | 39.00% | ~1,315 |
 | Omelette Du Fromage | 33.00% | ~1,113 |
 | Living Nightmare | 33.00% | ~1,113 |
 | The More The Merrier | 33.00% | ~1,113 |

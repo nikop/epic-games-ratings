@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -258,7 +258,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66610,
+  "EOS_Progressed": 66613,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -10838,6 +10838,11 @@
       "Time": "2023-09-23T21:08:18.6487526+00:00",
       "NumProgressed": 66610,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-23T22:08:18.8375248+00:00",
+      "NumProgressed": 66613,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -10865,7 +10870,7 @@
       "Name": "Bless me Father...",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -10985,7 +10990,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -11008,7 +11013,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 66610,
+      "Progressed": 66613,
       "Completed": 14
     }
   ],
@@ -11016,8 +11021,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:08:18.6487524+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:08:18.8375243+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:17.898974+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:59:14.7546108+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:08:18.6488161+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:59:12.143985+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:08:18.8376124+00:00"
 }

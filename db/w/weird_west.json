@@ -5,9 +5,9 @@
   "Ranking_Rating": 654,
   "Ranking_Popularity": 487,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 198,
+  "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1839,
+  "EOS_Progressed": 1840,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2023,6 +2023,11 @@
       "Time": "2023-09-23T16:03:24.5522506+00:00",
       "NumProgressed": 1839,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-23T22:03:42.361657+00:00",
+      "NumProgressed": 1840,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2114,7 +2119,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2186,7 +2191,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2266,7 +2271,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2330,7 +2335,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2346,7 +2351,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2362,7 +2367,7 @@
       "Name": "The Great Escape",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2410,7 +2415,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2418,7 +2423,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2457,15 +2462,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1839,
+      "Progressed": 1840,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-09-01T07:57:58.5447992+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:03:12.252844+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:03:42.3616564+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:35.2574862+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:00:00.7260955+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:03:12.2528882+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:00:00.9834689+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:03:42.3617199+00:00"
 }

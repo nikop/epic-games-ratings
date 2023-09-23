@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -397,9 +397,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:05:21.9368589+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:05:37.6121903+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:54.861209+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:58:05.4820465+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:05:21.9368821+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:58:05.7330074+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:05:37.6122174+00:00"
 }

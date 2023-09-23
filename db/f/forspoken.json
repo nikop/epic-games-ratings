@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40017,
+  "EOS_Progressed": 40018,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8787,6 +8787,11 @@
       "Time": "2023-09-23T21:05:02.1245235+00:00",
       "NumProgressed": 40017,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T22:05:18.3765185+00:00",
+      "NumProgressed": 40018,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9052,9 +9057,9 @@
       "ID": "MAGIC_FLOWER",
       "SetID": "6d0g7k8",
       "Name": "Help Me Out Here",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 2001
     },
     {
       "ID": "MAGIC_IVY",
@@ -9221,22 +9226,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40017,
+      "Progressed": 40018,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4854,
-      "Completed": 4854
+      "Progressed": 4855,
+      "Completed": 4855
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:05:02.1245228+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:05:18.3765179+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.3450357+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:00:16.7988151+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:05:02.1247554+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:00:15.9223231+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:05:18.3766529+00:00"
 }

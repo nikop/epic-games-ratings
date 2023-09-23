@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6183,
+  "EOS_Progressed": 6186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10326,6 +10326,11 @@
       "Time": "2023-09-23T21:05:39.2583818+00:00",
       "NumProgressed": 6183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T22:05:53.8136937+00:00",
+      "NumProgressed": 6186,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10337,7 +10342,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "10",
@@ -10353,7 +10358,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "12",
@@ -10393,7 +10398,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "3",
@@ -10401,7 +10406,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "4",
@@ -10441,7 +10446,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "9",
@@ -10456,7 +10461,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6183,
+      "Progressed": 6186,
       "Completed": 0
     }
   ],
@@ -10464,8 +10469,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:05:39.2583816+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:05:53.813693+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:08.1650438+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:59:46.2696669+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:05:39.2584407+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:59:46.0476731+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:05:53.8137746+00:00"
 }

@@ -120,6 +120,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~141 |
 | Bad Heir Day | 0.90% | ~127 |
 | Strong Difficulty | 0.90% | ~127 |
+| Hunters | 0.90% | ~127 |
 | Adur Burzen-Mihr | 0.90% | ~127 |
 | Babylonia | 0.90% | ~127 |
 | Carthage | 0.90% | ~127 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
-| Hunters | 0.80% | ~113 |
 | Learn to Play 4 | 0.80% | ~113 |
 | One True Faith | 0.80% | ~113 |
 | Turreted Elephant | 0.80% | ~113 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,078 (Ranked 127)  
+Progressed: 14,079 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 5 (0.04%) (Ranked 255)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,078 | 5 |
+| 2023-09-23 | 14,079 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 264)  
 Sum: 1,817 (Ranked 207)  

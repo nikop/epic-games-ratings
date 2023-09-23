@@ -7,11 +7,11 @@
 | Travel Streamer | 94.00% | ~89 |
 | Training Simulation | 82.00% | ~78 |
 | Kuku Bird Hunter | 74.00% | ~70 |
-| Fashion Connoisseur | 68.00% | ~65 |
-| Storm Traveller | 68.00% | ~65 |
-| Wolf King Killer | 67.00% | ~64 |
-| Arms Mechanic | 61.00% | ~58 |
-| Flower Thief | 58.00% | ~55 |
+| Fashion Connoisseur | 69.00% | ~66 |
+| Storm Traveller | 69.00% | ~66 |
+| Wolf King Killer | 68.00% | ~65 |
+| Arms Mechanic | 62.00% | ~59 |
+| Flower Thief | 59.00% | ~56 |
 | Apostle of Flame | 56.00% | ~53 |
 | Beginner Cook | 55.00% | ~52 |
 | Beginner Artificer | 54.00% | ~51 |
@@ -20,7 +20,7 @@
 | Giant Lizard Killer | 45.00% | ~43 |
 | Nosebleeder | 44.00% | ~42 |
 | Guardian | 43.00% | ~41 |
-| Trader | 39.00% | ~37 |
+| Trader | 40.00% | ~38 |
 | Weapon Boost | 39.00% | ~37 |
 | Flying Kobold Killer | 35.00% | ~33 |
 | Youth Magnet | 35.00% | ~33 |
@@ -50,7 +50,7 @@
 | Giant Lizard Challenge | 2.00% | ~2 |
 | Berserker Challenge | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 379)  
+Progressed: 95 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

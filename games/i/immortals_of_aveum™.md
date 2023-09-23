@@ -11,7 +11,7 @@ Rating: 3.97 (Ranked 960)
 | Unforeseen | 60.00% | ~6 |
 | Battlefields Have Memories | 60.00% | ~6 |
 | Initiate | 60.00% | ~6 |
-| Thrada-Kul | 30.00% | ~3 |
+| Thrada-Kul | 40.00% | ~4 |
 | Gravity-Challenged Rocks | 30.00% | ~3 |
 | Control is an Illusion | 20.00% | ~2 |
 | Socialite | 20.00% | ~2 |

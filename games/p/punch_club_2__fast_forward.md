@@ -67,9 +67,9 @@
 | Trap disarmed | 33.00% | ~108 |
 | Another world | 33.00% | ~108 |
 | The last bell ring | 33.00% | ~108 |
+| Silver’s past | 30.00% | ~98 |
 | Better cooking at home | 30.00% | ~98 |
 | The only right decision | 30.00% | ~98 |
-| Silver’s past | 29.00% | ~95 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 328 (Ranked 293)  
 Completed: 8 (2.44%) (Ranked 89)  

@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3257,
+  "EOS_Progressed": 3258,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 5.93,
+  "EOS_Completed_Percentage": 5.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4990,6 +4990,11 @@
       "Time": "2023-09-23T19:06:42.4514429+00:00",
       "NumProgressed": 3257,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2023-09-23T22:05:32.9168202+00:00",
+      "NumProgressed": 3258,
+      "NumCompleted": 193
     }
   ],
   "TotalAchievements": 24,
@@ -5017,7 +5022,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "12",
@@ -5113,7 +5118,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "23",
@@ -5121,7 +5126,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "24",
@@ -5129,7 +5134,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "3",
@@ -5177,7 +5182,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "9",
@@ -5192,13 +5197,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3257,
+      "Progressed": 3258,
       "Completed": 193
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:05:17.0461401+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:05:32.9168198+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:57:03.6421046+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:05:17.0461793+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:57:07.7544421+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:05:32.91689+00:00"
 }

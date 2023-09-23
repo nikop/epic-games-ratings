@@ -2,7 +2,7 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 132,
+  "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 17,
   "Ranking_EOS_NewCompleters": 117,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11941,
+  "EOS_Progressed": 12259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7749,
+  "EOS_NewPlayers": 8066,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2319,6 +2319,11 @@
       "Time": "2023-09-23T21:05:27.0377653+00:00",
       "NumProgressed": 11941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T22:05:42.4725381+00:00",
+      "NumProgressed": 12259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2425,9 +2430,9 @@
       "ID": "kills_1",
       "SetID": "413a09o",
       "Name": "Rookie Rumble",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 5732
+      "UsersEstimate": 6007
     },
     {
       "ID": "kills_100",
@@ -2435,7 +2440,7 @@
       "Name": "Rookie Riot",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "kills_1000",
@@ -2483,7 +2488,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 981
     },
     {
       "ID": "revives_25",
@@ -2523,7 +2528,7 @@
       "Name": "Top Toy",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "top10_10",
@@ -2531,7 +2536,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -2561,9 +2566,9 @@
       "ID": "wins_1",
       "SetID": "413a09o",
       "Name": "Toy Commander",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 25
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -2578,13 +2583,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 11941,
+      "Progressed": 12259,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:05:27.037765+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:05:42.4725376+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:57:11.7211994+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:05:27.0377928+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:57:14.7720205+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:05:42.4725829+00:00"
 }

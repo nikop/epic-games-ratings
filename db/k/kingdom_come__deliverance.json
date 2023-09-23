@@ -7342,10 +7342,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27826,
       "NumberOfAwardsMax": 7469
+    },
+    {
+      "Time": "2023-09-23T22:00:20.1094436+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27828,
+      "NumberOfAwardsMax": 7469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27826,
+  "NumberOfAwards": 27828,
   "NumberOfAwardsMax": 7469,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7359,7 +7365,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5500
+      "Count": 5502
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7428,9 +7434,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802395,
+  "EOS_Progressed": 802396,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24818,6 +24824,11 @@
       "Time": "2023-09-23T21:04:30.5153975+00:00",
       "NumProgressed": 802395,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-23T22:04:47.9991681+00:00",
+      "NumProgressed": 802396,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -24909,7 +24920,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256766
+      "UsersEstimate": 256767
     },
     {
       "ID": "Bookworm",
@@ -24925,7 +24936,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96287
+      "UsersEstimate": 96288
     },
     {
       "ID": "Casanova",
@@ -25365,7 +25376,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88263
+      "UsersEstimate": 88264
     },
     {
       "ID": "Sniper",
@@ -25405,7 +25416,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96287
+      "UsersEstimate": 96288
     },
     {
       "ID": "TisButAScratch",
@@ -25437,7 +25448,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88263
+      "UsersEstimate": 88264
     },
     {
       "ID": "TrialAndError",
@@ -25484,15 +25495,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802395,
+      "Progressed": 802396,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-23T16:00:22.5703942+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:04:30.5153971+00:00",
+  "LastChanged": "2023-09-23T22:00:20.1094435+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:04:47.9991676+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-23T21:00:20.2951379+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:04:30.5155536+00:00"
+  "LastUpdate_Ratings": "2023-09-23T22:00:20.1094444+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:04:47.9994359+00:00"
 }

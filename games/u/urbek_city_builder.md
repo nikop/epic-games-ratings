@@ -15,7 +15,7 @@
 | I like my life | 1.00% | ~4 |
 | Clean energy | 1.00% | ~4 |
 | Bucolic city | 1.00% | ~4 |
-| I love parks | 0.90% | ~3 |
+| I love parks | 0.80% | ~3 |
 | I love books! | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
 | Banking city | 0.30% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352 (Ranked 289)  
+Progressed: 353 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-19 | 346 | 0 |
 | 2023-09-20 | 348 | 0 |
 | 2023-09-22 | 350 | 0 |
-| 2023-09-23 | 352 | 0 |
+| 2023-09-23 | 353 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

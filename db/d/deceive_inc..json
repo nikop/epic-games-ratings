@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18114,
+  "EOS_Progressed": 18115,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10616,6 +10616,11 @@
       "Time": "2023-09-23T20:05:42.1100515+00:00",
       "NumProgressed": 18114,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T22:05:04.3762339+00:00",
+      "NumProgressed": 18115,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10643,7 +10648,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "0004",
@@ -10723,7 +10728,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "0014",
@@ -10779,7 +10784,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "0021",
@@ -10819,7 +10824,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "0026",
@@ -10841,9 +10846,9 @@
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3985
+      "UsersEstimate": 4166
     },
     {
       "ID": "0029",
@@ -10914,7 +10919,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18114,
+      "Progressed": 18115,
       "Completed": 3
     }
   ],
@@ -10922,8 +10927,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-23T21:04:47.2640432+00:00",
+  "LastChanged_Achievements": "2023-09-23T22:05:04.3762334+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:57:38.4622543+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:04:47.2641148+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:57:41.8972951+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:05:04.3763782+00:00"
 }

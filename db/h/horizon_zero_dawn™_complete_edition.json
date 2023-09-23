@@ -3,11 +3,11 @@
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 117,
-  "Ranking_Popularity": 74,
+  "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -5669,18 +5669,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 9746,
       "NumberOfAwardsMax": 4573
+    },
+    {
+      "Time": "2023-09-23T21:58:30.1582177+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 9756,
+      "NumberOfAwardsMax": 4582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9746,
-  "NumberOfAwardsMax": 4573,
+  "NumberOfAwards": 9756,
+  "NumberOfAwardsMax": 4582,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4573
+      "Count": 4582
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5722,7 +5728,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 236
+      "Count": 237
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5760,8 +5766,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-09-23T15:58:35.1432462+00:00",
+  "LastChanged": "2023-09-23T21:58:30.1582175+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.4893948+00:00",
-  "LastUpdate_Ratings": "2023-09-23T20:58:30.9659413+00:00",
-  "LastUpdate_Achievements": "2023-09-23T21:03:27.6410852+00:00"
+  "LastUpdate_Ratings": "2023-09-23T21:58:30.1582181+00:00",
+  "LastUpdate_Achievements": "2023-09-23T22:03:57.4127055+00:00"
 }

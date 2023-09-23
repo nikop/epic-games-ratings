@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,595 (Ranked 69)  
+Progressed: 136,600 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 153 (0.11%) (Ranked 229)
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
-| 2023-09-23 | 136,595 | 153 |
+| 2023-09-23 | 136,600 | 153 |
 ## Awards
 Max (Great for Beginners): 4,755  (Ranked 70)  
 Sum: 27,285 (Ranked 48)  
