@@ -11,7 +11,7 @@
 | [Afterdream](games/3/35a8b1e4591b4348a302b12ba5d9ff9b.md) | 2023-09-28 | - |  | - | - |
 | [Diluvian Ultra](games/d/diluvian_ultra.md) | 2023-09-28 | - |  | - | - |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 3 | - | - |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 11,658 | - | - |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 11,782 | - | - |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-09-30 | - |  | - | - |
 | [Beacon's Bluff](games/1/1ca6e9728fe7438baed142359fbb70ed.md) | 2023-09-30 | - |  | - | - |
@@ -27,7 +27,6 @@
 | [Goblin's mystic war](games/3/3af8858720374a80a12d98bff9d9bda1.md) | 2023-09-30 | - |  | - | - |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-30 | - |  | - | - |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-30 | 11 (1,000 XP) | 0 | - | - |
-| [Iron Dungeon](games/i/iron_dungeon.md) | 2023-09-30 | - |  | - | - |
 | [MidEvil](games/c/c5a7105b5a09460b9bc3bfb9c8e5e719.md) | 2023-09-30 | - |  | - | - |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-09-30 | - |  | - | - |
 | [Moons of Ardan](games/8/820b1fcc8d6c46e59d7ae15218b06834.md) | 2023-09-30 | - |  | - | - |
@@ -44,6 +43,7 @@
 | [Spiderbro](games/5/50294a633a1f47438d52a3f445f97775.md) | 2023-10-01 | - |  | - | - |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 68 (1,000 XP) | 1 | - | - |
 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
+| [Iron Dungeon](games/i/iron_dungeon.md) | 2023-10-03 | - |  | - | - |
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | 2023-10-03 | 25 (1,000 XP) | 0 | - | - |
 | [Dude, Where Is My Beer?](games/7/7c6b6697df584024be9c60a1da59096b.md) | 2023-10-04 | - |  | - | - |
 | [Dinobreak](games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 2023-10-04 | 25 (1,000 XP) | 1 | - | - |
@@ -213,7 +213,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 11,586 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 11,746 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
