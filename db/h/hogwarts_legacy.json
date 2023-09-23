@@ -7912,10 +7912,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44021,
       "NumberOfAwardsMax": 22951
+    },
+    {
+      "Time": "2023-09-23T02:59:03.2204601+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44047,
+      "NumberOfAwardsMax": 22951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44021,
+  "NumberOfAwards": 44047,
   "NumberOfAwardsMax": 22951,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7929,7 +7935,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11276
+      "Count": 11302
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -7992,7 +7998,7 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297123,
+  "EOS_Progressed": 297125,
   "EOS_Completed": 476,
   "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 6,
@@ -24817,6 +24823,11 @@
       "Time": "2023-09-23T02:19:35.8031852+00:00",
       "NumProgressed": 297123,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-23T03:05:53.8799801+00:00",
+      "NumProgressed": 297125,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -24828,7 +24839,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41597
+      "UsersEstimate": 41598
     },
     {
       "ID": "PFA_10",
@@ -24868,7 +24879,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17827
+      "UsersEstimate": 17828
     },
     {
       "ID": "PFA_15",
@@ -24964,7 +24975,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17827
+      "UsersEstimate": 17828
     },
     {
       "ID": "PFA_26",
@@ -24996,7 +25007,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17827
+      "UsersEstimate": 17828
     },
     {
       "ID": "PFA_3",
@@ -25116,7 +25127,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17827
+      "UsersEstimate": 17828
     },
     {
       "ID": "PFA_43",
@@ -25187,16 +25198,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297123,
+      "Progressed": 297125,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-23T02:12:34.8671139+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:19:35.803184+00:00",
+  "LastChanged": "2023-09-23T02:59:03.22046+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:05:53.8799794+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:12.0925953+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:12:34.8671147+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:19:35.8034466+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:59:03.2204609+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:05:53.8801176+00:00"
 }

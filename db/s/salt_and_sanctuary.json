@@ -6,7 +6,7 @@
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533785,
+  "EOS_Progressed": 533787,
   "EOS_Completed": 1553,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19589,6 +19589,11 @@
       "Time": "2023-09-23T02:16:57.8423053+00:00",
       "NumProgressed": 533785,
       "NumCompleted": 1553
+    },
+    {
+      "Time": "2023-09-23T03:03:45.2242254+00:00",
+      "NumProgressed": 533787,
+      "NumCompleted": 1553
     }
   ],
   "TotalAchievements": 37,
@@ -19616,7 +19621,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165473
+      "UsersEstimate": 165474
     },
     {
       "ID": "DEVOTED",
@@ -19656,7 +19661,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443042
+      "UsersEstimate": 443043
     },
     {
       "ID": "HONED",
@@ -19712,7 +19717,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213514
+      "UsersEstimate": 213515
     },
     {
       "ID": "THE_CASTLE",
@@ -19720,7 +19725,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58716
+      "UsersEstimate": 58717
     },
     {
       "ID": "THE_CAVE",
@@ -19776,7 +19781,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96081
+      "UsersEstimate": 96082
     },
     {
       "ID": "THE_KEEP",
@@ -19856,7 +19861,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341622
+      "UsersEstimate": 341624
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -19895,15 +19900,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533785,
+      "Progressed": 533787,
       "Completed": 1553
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-19T16:00:07.3346175+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:16:57.8423047+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:03:45.2242247+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.1616875+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:14:34.6225575+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:16:57.8424576+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:00:34.4463865+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:03:45.2243766+00:00"
 }

@@ -6,40 +6,40 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~30,832 |
-| Just The Two of Us | 32.00% | ~29,019 |
-| Up On High | 25.00% | ~22,671 |
-| Under The Hood | 25.00% | ~22,671 |
-| Got Your Nose | 24.00% | ~21,764 |
-| The Gift of Gab | 24.00% | ~21,764 |
-| Wrapping Up | 22.00% | ~19,950 |
-| More Than A Box Of Sand | 18.00% | ~16,323 |
-| The Dunboyne | 17.00% | ~15,416 |
-| Badge Hobbyist | 17.00% | ~15,416 |
-| Chum Novice | 16.00% | ~14,509 |
-| Silver-Tongued Sable | 16.00% | ~14,509 |
-| Sticky Paws | 16.00% | ~14,509 |
-| Bubble Up | 16.00% | ~14,509 |
-| Thread The Needle | 15.00% | ~13,602 |
-| Power to the People | 14.00% | ~12,696 |
-| Take That! | 13.00% | ~11,789 |
-| Nesting Giant | 13.00% | ~11,789 |
-| Treasure Tracker | 13.00% | ~11,789 |
-| Big Spender | 13.00% | ~11,789 |
-| Badge Collector | 12.00% | ~10,882 |
-| Quite The Catch | 12.00% | ~10,882 |
-| Rowleys Way | 11.00% | ~9,975 |
-| The Machinist Mask | 10.00% | ~9,068 |
-| The Cartographer Mask | 10.00% | ~9,068 |
-| Balfron Connection | 10.00% | ~9,068 |
-| Ceiling Of Stars | 10.00% | ~9,068 |
-| Playing Dress Up | 10.00% | ~9,068 |
-| Many Different Faces | 9.00% | ~8,161 |
-| Trellick's Pillar | 9.00% | ~8,161 |
-| Centre Of Brunswick | 9.00% | ~8,161 |
-| Bike Collector | 9.00% | ~8,161 |
-| Dune Rider | 9.00% | ~8,161 |
-| Not That Kind Of Gliding | 9.00% | ~8,161 |
+| Simoon | 34.00% | ~30,835 |
+| Just The Two of Us | 32.00% | ~29,021 |
+| Up On High | 25.00% | ~22,672 |
+| Under The Hood | 25.00% | ~22,672 |
+| Got Your Nose | 24.00% | ~21,766 |
+| The Gift of Gab | 24.00% | ~21,766 |
+| Wrapping Up | 22.00% | ~19,952 |
+| More Than A Box Of Sand | 18.00% | ~16,324 |
+| The Dunboyne | 17.00% | ~15,417 |
+| Badge Hobbyist | 17.00% | ~15,417 |
+| Chum Novice | 16.00% | ~14,510 |
+| Silver-Tongued Sable | 16.00% | ~14,510 |
+| Sticky Paws | 16.00% | ~14,510 |
+| Bubble Up | 16.00% | ~14,510 |
+| Thread The Needle | 15.00% | ~13,604 |
+| Power to the People | 14.00% | ~12,697 |
+| Take That! | 13.00% | ~11,790 |
+| Nesting Giant | 13.00% | ~11,790 |
+| Treasure Tracker | 13.00% | ~11,790 |
+| Big Spender | 13.00% | ~11,790 |
+| Badge Collector | 12.00% | ~10,883 |
+| Quite The Catch | 12.00% | ~10,883 |
+| Rowleys Way | 11.00% | ~9,976 |
+| The Machinist Mask | 10.00% | ~9,069 |
+| The Cartographer Mask | 10.00% | ~9,069 |
+| Balfron Connection | 10.00% | ~9,069 |
+| Ceiling Of Stars | 10.00% | ~9,069 |
+| Playing Dress Up | 10.00% | ~9,069 |
+| Many Different Faces | 9.00% | ~8,162 |
+| Trellick's Pillar | 9.00% | ~8,162 |
+| Centre Of Brunswick | 9.00% | ~8,162 |
+| Bike Collector | 9.00% | ~8,162 |
+| Dune Rider | 9.00% | ~8,162 |
+| Not That Kind Of Gliding | 9.00% | ~8,162 |
 | The Scrapper Mask | 8.00% | ~7,255 |
 | Shadow Of Neave | 8.00% | ~7,255 |
 | Fragile Goods | 8.00% | ~7,255 |
@@ -56,15 +56,15 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,441 |
 | The Gliding | 5.00% | ~4,534 |
 | The Entertainer Mask | 5.00% | ~4,534 |
-| The Quick and the Curious | 4.00% | ~3,627 |
-| Bike Aficionado | 4.00% | ~3,627 |
-| Chum Expert | 3.00% | ~2,720 |
-| Gastric Bypass | 3.00% | ~2,720 |
-| The Angler Mask | 3.00% | ~2,720 |
+| The Quick and the Curious | 4.00% | ~3,628 |
+| Bike Aficionado | 4.00% | ~3,628 |
+| Chum Expert | 3.00% | ~2,721 |
+| Gastric Bypass | 3.00% | ~2,721 |
+| The Angler Mask | 3.00% | ~2,721 |
 | Vivacious Vivarium | 2.00% | ~1,814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,683 (Ranked 76)  
-Completed: 914 (1.01%) (Ranked 128)  
+Progressed: 90,690 (Ranked 76)  
+Completed: 914 (1.01%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,11 +219,11 @@ Completed: 914 (1.01%) (Ranked 128)
 | 2023-09-20 | 90,382 | 907 |
 | 2023-09-21 | 90,499 | 913 |
 | 2023-09-22 | 90,670 | 914 |
-| 2023-09-23 | 90,683 | 914 |
+| 2023-09-23 | 90,690 | 914 |
 ## Awards
-Max (Quickly Understood Controls): 24  (Ranked 494)  
+Max (Quickly Understood Controls): 24  (Ranked 495)  
 Sum: 87 (Ranked 428)  
-Diff (max vs sum): 66  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 24 |

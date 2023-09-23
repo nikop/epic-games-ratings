@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 168,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -793,6 +793,11 @@
       "Time": "2023-09-15T13:12:20.6369621+00:00",
       "NumProgressed": 167,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T03:04:04.3414169+00:00",
+      "NumProgressed": 168,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -876,7 +881,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "easy_victory",
@@ -892,7 +897,7 @@
       "Name": "Graduation",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -1051,7 +1056,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 168,
       "Completed": 1
     }
   ],
@@ -1059,8 +1064,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:17:21.274314+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:04:04.3414164+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:59.5330172+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:10:47.9316377+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:17:21.2743449+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:57:36.3488709+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:04:04.341443+00:00"
 }

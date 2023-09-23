@@ -318,9 +318,9 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "A19",
@@ -525,8 +525,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:21:20.0843198+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:09:20.0787631+00:00",
   "LastUpdate_AppInfo": "2023-09-19T04:57:07.5249835+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:11:31.2296743+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:21:20.0843566+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:58:13.843417+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:09:20.0787904+00:00"
 }

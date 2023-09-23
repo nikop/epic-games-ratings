@@ -6,6 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Jungles of Doomspace | 0.20% | ~392 |
 | A Brief Tour of the Realms | 0.10% | ~230 |
 | Maddening | 0.10% | ~230 |
 | Pros and CONs | 0.10% | ~230 |
@@ -526,12 +527,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~196 |
 | The End | 0.10% | ~196 |
 | All's Well That Ends Well | 0.10% | ~196 |
-| The Jungles of Doomspace | 0.10% | ~196 |
 | Slow Down Showdown | 0.10% | ~196 |
 | The Arena of Blood | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,722 (Ranked 57)  
+Progressed: 229,726 (Ranked 57)  
 Completed: 2,297 (1.00%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -687,7 +687,7 @@ Completed: 2,297 (1.00%) (Ranked 131)
 | 2023-09-20 | 229,496 | 2,296 |
 | 2023-09-21 | 229,612 | 2,297 |
 | 2023-09-22 | 229,714 | 2,297 |
-| 2023-09-23 | 229,722 | 2,297 |
+| 2023-09-23 | 229,726 | 2,297 |
 ## Awards
 Max (Diverse Characters): 5,309  (Ranked 67)  
 Sum: 31,710 (Ranked 39)  

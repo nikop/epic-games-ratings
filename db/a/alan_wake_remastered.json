@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65988,
+  "EOS_Progressed": 65990,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15567,6 +15567,11 @@
       "Time": "2023-09-23T02:18:35.7727969+00:00",
       "NumProgressed": 65988,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-23T03:05:05.644414+00:00",
+      "NumProgressed": 65990,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15578,7 +15583,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27055
+      "UsersEstimate": 27056
     },
     {
       "ID": "02",
@@ -15594,7 +15599,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16497
+      "UsersEstimate": 16498
     },
     {
       "ID": "04",
@@ -15610,7 +15615,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14517
+      "UsersEstimate": 14518
     },
     {
       "ID": "06",
@@ -15626,7 +15631,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8578
+      "UsersEstimate": 8579
     },
     {
       "ID": "08",
@@ -15634,7 +15639,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8578
+      "UsersEstimate": 8579
     },
     {
       "ID": "09",
@@ -15658,7 +15663,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "12",
@@ -15666,7 +15671,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8578
+      "UsersEstimate": 8579
     },
     {
       "ID": "13",
@@ -15730,7 +15735,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "21",
@@ -15746,7 +15751,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9238
+      "UsersEstimate": 9239
     },
     {
       "ID": "23",
@@ -15786,7 +15791,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9238
+      "UsersEstimate": 9239
     },
     {
       "ID": "28",
@@ -15794,7 +15799,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8578
+      "UsersEstimate": 8579
     },
     {
       "ID": "29",
@@ -15826,7 +15831,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21116
+      "UsersEstimate": 21117
     },
     {
       "ID": "33",
@@ -15850,7 +15855,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22436
+      "UsersEstimate": 22437
     },
     {
       "ID": "36",
@@ -15954,7 +15959,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "49",
@@ -15978,7 +15983,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "52",
@@ -16113,21 +16118,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65988,
+      "Progressed": 65990,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29456,
+      "Progressed": 29458,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:18:35.7727963+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:05:05.6444135+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:12:51.7142474+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:18:35.7729819+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:59:17.2392889+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:05:05.6445709+00:00"
 }

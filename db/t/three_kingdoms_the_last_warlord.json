@@ -4,7 +4,7 @@
   "ProductSlug": "hmby-8a8452",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -1574,8 +1574,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:35.044621+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:22:06.3701869+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:09:24.8050936+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:10.6486303+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:13:05.6468383+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:22:06.3706056+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:59:26.1793013+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:09:24.8054997+00:00"
 }

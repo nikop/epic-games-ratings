@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 204,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -768,17 +768,17 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -823,8 +823,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:19:40.9259352+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:05:58.0740013+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:07.408428+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:14:32.9273582+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:19:40.9259624+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:00:33.1205165+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:05:58.0740245+00:00"
 }

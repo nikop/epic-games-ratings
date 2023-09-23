@@ -13,15 +13,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 2.00% | ~2,731 |
 | Capitalism Ho! | 2.00% | ~2,731 |
 | Titan's First Steps | 2.00% | ~2,731 |
-| The Daily Grind | 1.00% | ~1,365 |
-| One Easy Payment | 1.00% | ~1,365 |
-| Some Assembly Required | 1.00% | ~1,365 |
-| Another Satisfied Customer | 1.00% | ~1,365 |
-| Pretty Penny | 1.00% | ~1,365 |
-| One-Armed Bandit | 1.00% | ~1,365 |
-| Budding Merchant | 1.00% | ~1,365 |
-| Through Repetition, Perfection | 1.00% | ~1,365 |
-| Own the Means of Production | 1.00% | ~1,365 |
+| The Daily Grind | 1.00% | ~1,366 |
+| One Easy Payment | 1.00% | ~1,366 |
+| Some Assembly Required | 1.00% | ~1,366 |
+| Another Satisfied Customer | 1.00% | ~1,366 |
+| Pretty Penny | 1.00% | ~1,366 |
+| One-Armed Bandit | 1.00% | ~1,366 |
+| Budding Merchant | 1.00% | ~1,366 |
+| Through Repetition, Perfection | 1.00% | ~1,366 |
+| Own the Means of Production | 1.00% | ~1,366 |
 | Bounty Hunters | 0.90% | ~1,229 |
 | Demand for Supplies | 0.90% | ~1,229 |
 | Flooding the Market | 0.90% | ~1,229 |
@@ -71,6 +71,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.50% | ~683 |
 | Scourge of the Seas | 0.50% | ~683 |
 | Attrition Mission | 0.50% | ~683 |
+| Glittering Collection | 0.50% | ~683 |
 | Moment of Respite | 0.50% | ~683 |
 | Black Friday Special | 0.50% | ~683 |
 | Special Ingredient | 0.50% | ~683 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.40% | ~546 |
 | Bountiful Harvest | 0.40% | ~546 |
 | Precision Engineering | 0.40% | ~546 |
-| Glittering Collection | 0.40% | ~546 |
 | Treasure Trove | 0.40% | ~546 |
 | King's Shadow | 0.40% | ~546 |
 | Master Recycler | 0.40% | ~546 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,549 (Ranked 69)  
+Progressed: 136,553 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 153 (0.11%) (Ranked 228)
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
-| 2023-09-23 | 136,549 | 153 |
+| 2023-09-23 | 136,553 | 153 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 70)  
 Sum: 27,274 (Ranked 48)  

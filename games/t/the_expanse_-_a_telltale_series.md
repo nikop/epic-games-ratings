@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,907 |
-| Stogie for Fogey | 27.00% | ~3,197 |
-| Captain Drummer | 26.00% | ~3,078 |
-| Martian Music | 25.00% | ~2,960 |
-| Spore Taste | 24.00% | ~2,841 |
-| Celebrations are in Order | 24.00% | ~2,841 |
-| The Pit and the Pirates | 21.00% | ~2,486 |
-| Drone Dodger | 21.00% | ~2,486 |
-| Doctor Approved | 19.00% | ~2,249 |
-| Thorston Mayer | 14.00% | ~1,657 |
-| Bottoms up! | 11.00% | ~1,302 |
-| Bosmang | 10.00% | ~1,184 |
+| Impossible Objects | 33.00% | ~3,910 |
+| Stogie for Fogey | 27.00% | ~3,199 |
+| Captain Drummer | 26.00% | ~3,081 |
+| Martian Music | 25.00% | ~2,962 |
+| Spore Taste | 24.00% | ~2,844 |
+| Celebrations are in Order | 24.00% | ~2,844 |
+| The Pit and the Pirates | 21.00% | ~2,488 |
+| Drone Dodger | 21.00% | ~2,488 |
+| Doctor Approved | 19.00% | ~2,251 |
+| Thorston Mayer | 14.00% | ~1,659 |
+| Bottoms up! | 11.00% | ~1,303 |
+| Bosmang | 10.00% | ~1,185 |
+| Data Archivist | 7.00% | ~829 |
 | Data Logger | 7.00% | ~829 |
 | Call it Even | 7.00% | ~829 |
-| Data Archivist | 6.00% | ~710 |
-| Heal Thy Medic | 6.00% | ~710 |
-| Khan's Revenge | 6.00% | ~710 |
-| Data Master | 6.00% | ~710 |
+| Heal Thy Medic | 6.00% | ~711 |
+| Khan's Revenge | 6.00% | ~711 |
+| Data Master | 6.00% | ~711 |
 | Data Recoverer | 5.00% | ~592 |
 | Miraculous Maya | 4.00% | ~474 |
 | Debris Spree | 3.00% | ~355 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 504)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,839 (Ranked 131)  
+Progressed: 11,849 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 11,076 | 0 |
 | 2023-09-21 | 11,365 | 0 |
 | 2023-09-22 | 11,791 | 0 |
-| 2023-09-23 | 11,839 | 0 |
+| 2023-09-23 | 11,849 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -404,9 +404,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20635,
+  "EOS_Progressed": 20638,
   "EOS_Completed": 416,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -17059,6 +17059,11 @@
       "Time": "2023-09-23T01:43:14.9365735+00:00",
       "NumProgressed": 20635,
       "NumCompleted": 416
+    },
+    {
+      "Time": "2023-09-23T03:04:12.8236799+00:00",
+      "NumProgressed": 20638,
+      "NumCompleted": 416
     }
   ],
   "TotalAchievements": 20,
@@ -17102,7 +17107,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -17126,7 +17131,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -17134,7 +17139,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "FOUND_ERIN",
@@ -17182,7 +17187,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "INTRO_FINISHED",
@@ -17190,7 +17195,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15889
+      "UsersEstimate": 15891
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17198,7 +17203,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17214,7 +17219,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "WEST_FINISHED",
@@ -17222,22 +17227,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20635,
+      "Progressed": 20638,
       "Completed": 416
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-22T04:02:14.2892048+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:17:31.8405636+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:04:12.8236793+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:16:12.7283664+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:17:31.8407131+00:00"
+  "LastUpdate_Ratings": "2023-09-23T03:03:07.7186871+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:04:12.8237961+00:00"
 }

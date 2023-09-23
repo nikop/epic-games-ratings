@@ -8,8 +8,8 @@
 | New arm | 81.00% | ~165 |
 | The First Bond | 70.00% | ~143 |
 | Novice Scavenger | 62.00% | ~126 |
-| Master Craftsman | 50.00% | ~102 |
-| First wall | 49.00% | ~100 |
+| Master Craftsman | 51.00% | ~104 |
+| First wall | 50.00% | ~102 |
 | Piggyback Expert | 48.00% | ~98 |
 | Second wall | 34.00% | ~69 |
 | Expert Scavenger | 31.00% | ~63 |

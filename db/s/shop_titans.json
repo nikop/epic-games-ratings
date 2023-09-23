@@ -6196,7 +6196,7 @@
       "Count": 3751
     }
   ],
-  "EOS_Progressed": 136549,
+  "EOS_Progressed": 136553,
   "EOS_Completed": 153,
   "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 2,
@@ -22161,6 +22161,11 @@
       "Time": "2023-09-23T01:43:48.0975483+00:00",
       "NumProgressed": 136549,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-23T03:04:43.9839286+00:00",
+      "NumProgressed": 136553,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 112,
@@ -22172,7 +22177,7 @@
       "Name": "The Daily Grind",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "advlevel02",
@@ -22252,7 +22257,7 @@
       "Name": "One Easy Payment",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "bigsale02",
@@ -22276,7 +22281,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "blueprint02",
@@ -22524,7 +22529,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "energy02",
@@ -22652,7 +22657,7 @@
       "Name": "Pretty Penny",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "gold03",
@@ -22724,7 +22729,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "jackslot02",
@@ -22756,7 +22761,7 @@
       "Name": "Budding Merchant",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "level02",
@@ -22828,7 +22833,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "master02",
@@ -22914,9 +22919,9 @@
       "ID": "rareres01",
       "SetID": "anfd17p",
       "Name": "Glittering Collection",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 683
     },
     {
       "ID": "rareres02",
@@ -23036,7 +23041,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "workers02",
@@ -23067,15 +23072,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136549,
+      "Progressed": 136553,
       "Completed": 153
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-22T21:59:57.2375293+00:00",
-  "LastChanged_Achievements": "2023-09-23T02:18:09.619848+00:00",
+  "LastChanged_Achievements": "2023-09-23T03:04:43.983928+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:25.1939954+00:00",
-  "LastUpdate_Ratings": "2023-09-23T02:13:37.3319251+00:00",
-  "LastUpdate_Achievements": "2023-09-23T02:18:09.6202374+00:00"
+  "LastUpdate_Ratings": "2023-09-23T02:59:49.7213881+00:00",
+  "LastUpdate_Achievements": "2023-09-23T03:04:43.9841752+00:00"
 }
