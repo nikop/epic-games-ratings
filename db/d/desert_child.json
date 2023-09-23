@@ -4,7 +4,7 @@
   "ProductSlug": "desert-child-be4072",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-30T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:22.6453401+00:00",
   "LastChanged": "2023-03-31T05:58:22.6453402+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:29.159668+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:59:47.1983561+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:06:09.7909017+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:59:14.2381705+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:06:43.1385064+00:00"
 }

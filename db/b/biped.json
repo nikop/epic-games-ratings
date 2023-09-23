@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6124,
+  "EOS_Progressed": 6125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10266,6 +10266,11 @@
       "Time": "2023-09-23T09:04:53.7594224+00:00",
       "NumProgressed": 6124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T10:05:40.1931386+00:00",
+      "NumProgressed": 6125,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10277,7 +10282,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2144
     },
     {
       "ID": "10",
@@ -10373,7 +10378,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "8",
@@ -10389,14 +10394,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6124,
+      "Progressed": 6125,
       "Completed": 0
     }
   ],
@@ -10404,8 +10409,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:04:53.7594221+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:05:40.1931375+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:34.666405+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:00:14.0003543+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:04:53.7594811+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:59:37.8976101+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:05:40.1932091+00:00"
 }

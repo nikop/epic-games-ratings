@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -953,9 +953,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1001,9 +1001,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:07:01.1077421+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:08:35.5436079+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:08.3810934+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:01:27.4367918+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:07:01.1077608+00:00"
+  "LastUpdate_Ratings": "2023-09-23T10:02:07.3005497+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:08:35.5436301+00:00"
 }

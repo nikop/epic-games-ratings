@@ -5,30 +5,30 @@ Rating: 4.50 (Ranked 568)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 85.00% | ~361 |
-| Vanquisher of Robots | 76.00% | ~323 |
-| Party | 49.00% | ~208 |
+| Good start! | 85.00% | ~362 |
+| Vanquisher of Robots | 76.00% | ~324 |
+| Party | 49.00% | ~209 |
 | Impossible Cube | 46.00% | ~196 |
 | Knowledge is Power | 44.00% | ~187 |
-| Through the Darkness | 43.00% | ~183 |
-| No Mercy | 42.00% | ~178 |
-| The Return of a Rat | 41.00% | ~174 |
-| Fat of the Earth | 36.00% | ~153 |
+| No Mercy | 42.00% | ~179 |
+| Through the Darkness | 42.00% | ~179 |
+| The Return of a Rat | 41.00% | ~175 |
+| Fat of the Earth | 35.00% | ~149 |
 | Last Man Standing | 32.00% | ~136 |
 | Catch Jonathan_tostar | 27.00% | ~115 |
 | He's Seen It All | 27.00% | ~115 |
 | Great Hero | 27.00% | ~115 |
-| Campaigning | 26.00% | ~110 |
-| Rookie | 26.00% | ~110 |
+| Campaigning | 26.00% | ~111 |
+| Rookie | 26.00% | ~111 |
 | Assemble a Meganewbie | 25.00% | ~106 |
 | Frugal | 22.00% | ~94 |
 | Feed a God | 21.00% | ~89 |
 | To the Moon and Back | 20.00% | ~85 |
-| Great Flight | 18.00% | ~76 |
+| Great Flight | 18.00% | ~77 |
 | Holy Vengeance | 16.00% | ~68 |
 | Honorary Cultist | 12.00% | ~51 |
 | Brain and Brawn | 11.00% | ~47 |
-| Strength and Sorcery | 10.00% | ~42 |
+| Strength and Sorcery | 10.00% | ~43 |
 | Omae Wa Mou Shindeiru | 8.00% | ~34 |
 | Experimentalist | 7.00% | ~30 |
 | Wide Selection | 6.00% | ~26 |
@@ -41,8 +41,8 @@ Rating: 4.50 (Ranked 568)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 275)  
-Completed: 1 (0.24%) (Ranked 201)  
+Progressed: 426 (Ranked 274)  
+Completed: 1 (0.23%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,6 +92,7 @@ Completed: 1 (0.24%) (Ranked 201)
 | 2023-08-07 | 423 | 1 |
 | 2023-08-11 | 424 | 1 |
 | 2023-08-27 | 425 | 1 |
+| 2023-09-23 | 426 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

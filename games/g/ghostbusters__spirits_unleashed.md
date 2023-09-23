@@ -14,6 +14,7 @@ Rating: 4.50 (Ranked 568)
 | I collect Spores, Molds, and Fungi | 0.40% | ~104 |
 | Cultured | 0.40% | ~104 |
 | Fully Upgraded | 0.40% | ~104 |
+| Swift Rift Removers | 0.40% | ~104 |
 | Teamwork | 0.40% | ~104 |
 | There you are! | 0.40% | ~104 |
 | Vaporous Expansion | 0.40% | ~104 |
@@ -27,7 +28,6 @@ Rating: 4.50 (Ranked 568)
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Summoner | 0.30% | ~78 |
-| Swift Rift Removers | 0.30% | ~78 |
 | Terrifying | 0.30% | ~78 |
 | Welcome to the Crew | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 568)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,967 (Ranked 109)  
+Progressed: 25,968 (Ranked 110)  
 Completed: 58 (0.22%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 58 (0.22%) (Ranked 204)
 | 2023-09-20 | 25,927 | 57 |
 | 2023-09-21 | 25,942 | 58 |
 | 2023-09-22 | 25,960 | 58 |
-| 2023-09-23 | 25,967 | 58 |
+| 2023-09-23 | 25,968 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 254)  
 Sum: 2,328 (Ranked 188)  

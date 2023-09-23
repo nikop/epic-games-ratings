@@ -4,7 +4,7 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224,
+  "EOS_Progressed": 225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -951,6 +951,11 @@
       "Time": "2023-09-22T10:04:49.9378127+00:00",
       "NumProgressed": 224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T10:04:54.6308249+00:00",
+      "NumProgressed": 225,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -978,7 +983,7 @@
       "Name": "1 Suicide Guy statue",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Game Completed",
@@ -1026,7 +1031,7 @@
       "Name": "Firest level completed!",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "The Breaker",
@@ -1041,14 +1046,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 224,
+      "Progressed": 225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:03:59.1977113+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:04:54.6308243+00:00",
   "LastUpdate_AppInfo": "2023-09-20T04:57:03.872134+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:58:18.5707251+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:03:59.197724+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:57:56.4121656+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:04:54.6308378+00:00"
 }

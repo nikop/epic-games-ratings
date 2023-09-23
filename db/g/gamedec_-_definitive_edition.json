@@ -414,9 +414,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246818,
+  "EOS_Progressed": 246819,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17759,6 +17759,11 @@
       "Time": "2023-09-23T09:02:41.3597374+00:00",
       "NumProgressed": 246818,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-23T10:03:48.6222004+00:00",
+      "NumProgressed": 246819,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17986,7 +17991,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59236
+      "UsersEstimate": 59237
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -18082,7 +18087,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19745
+      "UsersEstimate": 19746
     },
     {
       "ID": "ACH_SCRATCH",
@@ -18090,7 +18095,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61704
+      "UsersEstimate": 61705
     },
     {
       "ID": "ACH_SOREAD",
@@ -18162,7 +18167,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 19745
+      "UsersEstimate": 19746
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -18185,7 +18190,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246818,
+      "Progressed": 246819,
       "Completed": 7
     }
   ],
@@ -18193,8 +18198,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:02:41.3597372+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:03:48.6221998+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:05.3686602+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:59:59.1413882+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:02:41.3598487+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:59:23.5001307+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:03:48.6223625+00:00"
 }

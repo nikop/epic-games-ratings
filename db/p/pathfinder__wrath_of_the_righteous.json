@@ -3696,10 +3696,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6952,
       "NumberOfAwardsMax": 1715
+    },
+    {
+      "Time": "2023-09-23T09:59:41.2009035+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6955,
+      "NumberOfAwardsMax": 1715
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6952,
+  "NumberOfAwards": 6955,
   "NumberOfAwardsMax": 1715,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3713,13 +3719,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 612
+      "Count": 613
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 650
+      "Count": 651
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3737,7 +3743,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 636
+      "Count": 637
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3770,7 +3776,7 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11379,
+  "EOS_Progressed": 11380,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -12720,6 +12726,11 @@
       "Time": "2023-09-23T05:04:42.1905688+00:00",
       "NumProgressed": 11379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-23T10:04:25.0036192+00:00",
+      "NumProgressed": 11380,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12739,7 +12750,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -13658,21 +13669,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10161,
+      "Progressed": 10162,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11379,
+      "Progressed": 11380,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-09-22T23:00:16.0603268+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:03:23.5422569+00:00",
+  "LastChanged": "2023-09-23T09:59:41.2009033+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:04:25.0036187+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:12.4694151+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:00:17.76635+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:03:23.5424262+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:59:41.200904+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:04:25.0038392+00:00"
 }

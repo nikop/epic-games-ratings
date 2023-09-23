@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3158,
+  "EOS_Progressed": 3159,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -6886,6 +6886,11 @@
       "Time": "2023-09-23T09:04:41.5863465+00:00",
       "NumProgressed": 3158,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-23T10:05:30.131713+00:00",
+      "NumProgressed": 3159,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 16,
@@ -6969,7 +6974,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "ach_food_completed",
@@ -6985,7 +6990,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ach_game_opened",
@@ -6993,7 +6998,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "ach_magic_wand",
@@ -7017,21 +7022,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3158,
+      "Progressed": 3159,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:04:41.5863462+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:05:30.1317125+00:00",
   "LastUpdate_AppInfo": "2023-09-22T15:57:09.3671464+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:58:32.7551814+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:04:41.5863876+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:58:10.5889767+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:05:30.1317645+00:00"
 }

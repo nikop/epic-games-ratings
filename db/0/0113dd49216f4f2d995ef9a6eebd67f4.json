@@ -373,9 +373,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -517,9 +517,9 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:04:34.3793619+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:05:24.2034939+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:54.861209+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:58:16.5628141+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:04:34.3793846+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:57:54.8333728+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:05:24.2035271+00:00"
 }

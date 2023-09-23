@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Star Power | 87.00% | ~156 |
-| Makin' the Cut | 74.00% | ~132 |
+| Star Power | 88.00% | ~158 |
+| Makin' the Cut | 75.00% | ~134 |
 | From Way Downtown | 70.00% | ~125 |
 | Clean Sheet | 68.00% | ~122 |
 | Winner's Circle | 62.00% | ~111 |

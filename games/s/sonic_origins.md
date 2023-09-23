@@ -8,20 +8,20 @@ Number of Ratings: 154  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 93.00% | ~472 |
 | Newbie Hero | 81.00% | ~411 |
-| Welcome to Sonic CD | 73.00% | ~370 |
-| Welcome to Sonic 3 & Knuckles | 72.00% | ~365 |
-| Welcome to Sonic the Hedgehog 2 | 71.00% | ~360 |
+| Welcome to Sonic CD | 72.00% | ~366 |
+| Welcome to Sonic 3 & Knuckles | 72.00% | ~366 |
+| Welcome to Sonic the Hedgehog 2 | 71.00% | ~361 |
 | Time Traveler | 67.00% | ~340 |
 | Ring Collector | 67.00% | ~340 |
-| Everyone's Hero | 64.00% | ~324 |
-| Gallant Spin Dash | 60.00% | ~304 |
-| Miles "Tails" Prower | 60.00% | ~304 |
-| Easy Peasy with Shields | 59.00% | ~299 |
-| Knuckles the Echidna | 59.00% | ~299 |
-| Bubbly Breath | 58.00% | ~294 |
+| Everyone's Hero | 64.00% | ~325 |
+| Gallant Spin Dash | 60.00% | ~305 |
+| Miles "Tails" Prower | 60.00% | ~305 |
+| Easy Peasy with Shields | 59.00% | ~300 |
+| Knuckles the Echidna | 59.00% | ~300 |
+| Bubbly Breath | 58.00% | ~295 |
 | Boss Rush Attempt | 53.00% | ~269 |
 | Cleared Sonic the Hedgehog | 50.00% | ~254 |
-| Super Sonic | 45.00% | ~228 |
+| Super Sonic | 45.00% | ~229 |
 | Shut Down Metal Sonic | 42.00% | ~213 |
 | Beware Stingers! | 42.00% | ~213 |
 | Museum Time | 42.00% | ~213 |
@@ -33,8 +33,8 @@ Number of Ratings: 154  (23.09.2022)
 | Lucky Hedgehog | 31.00% | ~157 |
 | All Clear! | 30.00% | ~152 |
 | To the Mirror World | 28.00% | ~142 |
-| Movie Maniac | 20.00% | ~101 |
-| Sound Savant | 20.00% | ~101 |
+| Movie Maniac | 20.00% | ~102 |
+| Sound Savant | 20.00% | ~102 |
 | Sonic the Hedgehog Mission Master | 18.00% | ~91 |
 | Beware Rhinobots! | 16.00% | ~81 |
 | Art Appreciator | 16.00% | ~81 |
@@ -42,8 +42,8 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 14.00% | ~71 |
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 507 (Ranked 262)  
-Completed: 42 (8.28%) (Ranked 34)  
+Progressed: 508 (Ranked 262)  
+Completed: 42 (8.27%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,7 +134,7 @@ Completed: 42 (8.28%) (Ranked 34)
 | 2023-09-20 | 497 | 42 |
 | 2023-09-21 | 500 | 42 |
 | 2023-09-22 | 505 | 42 |
-| 2023-09-23 | 507 | 42 |
+| 2023-09-23 | 508 | 42 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 315)  
 Sum: 128 (Ranked 408)  

@@ -6,43 +6,43 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~1,874 |
-| A normal day in Gloomhaven | 31.00% | ~1,529 |
-| Overkill | 28.00% | ~1,381 |
-| Vaccine Incoming | 27.00% | ~1,332 |
-| Spread the plague | 25.00% | ~1,233 |
-| Get over here! | 21.00% | ~1,036 |
-| Just when I thought I was out... | 17.00% | ~838 |
-| Mine... All Mine... | 16.00% | ~789 |
-| Light of my life | 13.00% | ~641 |
-| Anatomy Lesson | 13.00% | ~641 |
-| You activated my trap card! | 12.00% | ~592 |
-| Augmented rat | 12.00% | ~592 |
-| Obstacle race | 12.00% | ~592 |
-| Doom and gloom | 11.00% | ~543 |
-| Precious! | 9.00% | ~444 |
-| Grizzled veteran | 7.00% | ~345 |
-| Pack leader | 7.00% | ~345 |
-| Pain is your friend | 7.00% | ~345 |
-| Play it again, Sam | 7.00% | ~345 |
-| Black death | 6.00% | ~296 |
-| Quad damage | 5.00% | ~247 |
-| Dungeon Veteran | 4.00% | ~197 |
-| Who's the Boss? | 4.00% | ~197 |
-| The Pro from Dover | 4.00% | ~197 |
-| Pretty lights! | 4.00% | ~197 |
-| Now you see me... | 4.00% | ~197 |
-| Power Up! | 3.00% | ~148 |
+| I'm not dead yet | 38.00% | ~1,881 |
+| A normal day in Gloomhaven | 31.00% | ~1,535 |
+| Overkill | 28.00% | ~1,386 |
+| Vaccine Incoming | 27.00% | ~1,337 |
+| Spread the plague | 25.00% | ~1,238 |
+| Get over here! | 21.00% | ~1,040 |
+| Just when I thought I was out... | 17.00% | ~842 |
+| Mine... All Mine... | 16.00% | ~792 |
+| Light of my life | 13.00% | ~644 |
+| Anatomy Lesson | 13.00% | ~644 |
+| You activated my trap card! | 12.00% | ~594 |
+| Augmented rat | 12.00% | ~594 |
+| Obstacle race | 12.00% | ~594 |
+| Doom and gloom | 11.00% | ~545 |
+| Precious! | 9.00% | ~446 |
+| Grizzled veteran | 7.00% | ~347 |
+| Pack leader | 7.00% | ~347 |
+| Pain is your friend | 7.00% | ~347 |
+| Play it again, Sam | 7.00% | ~347 |
+| Black death | 6.00% | ~297 |
+| Quad damage | 5.00% | ~248 |
+| Dungeon Veteran | 4.00% | ~198 |
+| Who's the Boss? | 4.00% | ~198 |
+| The Pro from Dover | 4.00% | ~198 |
+| Pretty lights! | 4.00% | ~198 |
+| Now you see me... | 4.00% | ~198 |
+| Power Up! | 3.00% | ~149 |
 | I hate portals | 2.00% | ~99 |
 | Merchant of doom | 2.00% | ~99 |
 | Caught off guard | 2.00% | ~99 |
 | Master Assassin | 2.00% | ~99 |
 | Grin and bear it | 2.00% | ~99 |
-| The Sniper | 1.00% | ~49 |
-| An axe to grind | 1.00% | ~49 |
-| Down the hatch | 0.90% | ~44 |
-| An eye for an eye | 0.90% | ~44 |
-| How to train your Drake | 0.80% | ~39 |
+| The Sniper | 1.00% | ~50 |
+| An axe to grind | 1.00% | ~50 |
+| Down the hatch | 0.90% | ~45 |
+| An eye for an eye | 0.90% | ~45 |
+| How to train your Drake | 0.80% | ~40 |
 | Add a bit of colour | 0.70% | ~35 |
 | The Rat King | 0.70% | ~35 |
 | The Cephalophore | 0.70% | ~35 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~5 |
 | Murder Death Kill | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,932 (Ranked 161)  
+Progressed: 4,951 (Ranked 161)  
 Completed: 1 (0.02%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,10 +78,10 @@ Completed: 1 (0.02%) (Ranked 264)
 | 2023-09-20 | 3,028 | 0 |
 | 2023-09-21 | 3,873 | 0 |
 | 2023-09-22 | 4,676 | 1 |
-| 2023-09-23 | 4,932 | 1 |
+| 2023-09-23 | 4,951 | 1 |
 ## Awards
 Max (Character Customization): 3,532  (Ranked 89)  
-Sum: 8,218 (Ranked 99)  
+Sum: 8,219 (Ranked 99)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): -10
 | This game is Highly Recommended | 537 |
 | This game is Extremely Fun | 529 |
 | This game is Relaxing | 481 |
-| This game has Amazing Characters | 480 |
+| This game has Amazing Characters | 481 |
 | This game has Quickly Understood Controls | 479 |
 | This game has Amazing Storytelling | 478 |
 | This game has Unique Visuals | 373 |
@@ -269,4 +269,4 @@ Diff (max vs sum): -10
 | 2023-09-19 | 4.47 | - | 3,525 | 8,204 |
 | 2023-09-20 | 4.47 | - | 3,527 | 8,211 |
 | 2023-09-21 | 4.47 | - | 3,529 | 8,214 |
-| 2023-09-23 | 4.47 | - | 3,532 | 8,218 |
+| 2023-09-23 | 4.47 | - | 3,532 | 8,219 |

@@ -7,22 +7,22 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,588 |
-| Ready for Winter | 64.00% | ~2,208 |
-| Ready for Summer | 52.00% | ~1,794 |
+| Ready for Winter | 64.00% | ~2,209 |
+| Ready for Summer | 52.00% | ~1,795 |
 | Cordon Bleu | 43.00% | ~1,484 |
-| Tapped! | 37.00% | ~1,276 |
+| Tapped! | 37.00% | ~1,277 |
 | Eureka | 32.00% | ~1,104 |
-| Scourge Slayer | 25.00% | ~862 |
+| Scourge Slayer | 25.00% | ~863 |
 | Exceptional Skill | 23.00% | ~794 |
 | Science, Troglodyte! | 23.00% | ~794 |
 | Home Sweet Home | 22.00% | ~759 |
 | Encyclopedic! | 20.00% | ~690 |
-| The Power of Family | 17.00% | ~586 |
+| The Power of Family | 17.00% | ~587 |
 | A Fortress Toppled! | 16.00% | ~552 |
 | Apex Predator | 16.00% | ~552 |
 | Strange amalgams | 12.00% | ~414 |
 | The Power of Faith | 12.00% | ~414 |
-| The Power of Freedom | 9.00% | ~310 |
+| The Power of Freedom | 9.00% | ~311 |
 | Ace Detective | 8.00% | ~276 |
 | Gift from the Ancestors | 8.00% | ~276 |
 | Magic is a science | 8.00% | ~276 |
@@ -41,15 +41,15 @@ Number of Ratings: 266  (23.09.2022)
 | Perfect Defense | 2.00% | ~69 |
 | Power! To! The People! | 2.00% | ~69 |
 | Your actions define you | 2.00% | ~69 |
-| The blood is life | 1.00% | ~34 |
-| They'll Tell Stories About This | 1.00% | ~34 |
-| Vanquisher of nightmares | 1.00% | ~34 |
+| The blood is life | 1.00% | ~35 |
+| They'll Tell Stories About This | 1.00% | ~35 |
+| Vanquisher of nightmares | 1.00% | ~35 |
 | Through fire and flame. | 0.80% | ~28 |
 | Legacy of a master hunter | 0.50% | ~17 |
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,450 (Ranked 175)  
+Progressed: 3,451 (Ranked 175)  
 Completed: 4 (0.12%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 4 (0.12%) (Ranked 223)
 | 2023-09-20 | 3,423 | 4 |
 | 2023-09-21 | 3,436 | 4 |
 | 2023-09-22 | 3,447 | 4 |
-| 2023-09-23 | 3,450 | 4 |
+| 2023-09-23 | 3,451 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 449)  
 Sum: 244 (Ranked 361)  

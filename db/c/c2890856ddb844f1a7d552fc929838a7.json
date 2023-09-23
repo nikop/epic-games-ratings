@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1743,17 +1743,17 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 515
     },
     {
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 490
+      "UsersEstimate": 498
     },
     {
       "ID": "AC08",
@@ -2039,9 +2039,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 423
     },
     {
       "ID": "AC44",
@@ -2072,8 +2072,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:03:46.1913607+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:04:43.9076217+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:59:04.5543185+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:03:46.1914008+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:58:38.1713483+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:04:43.9076669+00:00"
 }

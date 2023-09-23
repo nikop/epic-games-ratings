@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~47,316 |
-| INFUSED WITH LIGHT | 53.00% | ~36,879 |
-| FOXIN' AROUND | 29.00% | ~20,179 |
-| FETCH | 27.00% | ~18,787 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~47,318 |
+| INFUSED WITH LIGHT | 53.00% | ~36,881 |
+| FOXIN' AROUND | 29.00% | ~20,180 |
+| FETCH | 27.00% | ~18,788 |
 | BLOOMS OF LIGHT | 26.00% | ~18,092 |
-| AWAKEN | 22.00% | ~15,308 |
-| BEST FRIENDS | 22.00% | ~15,308 |
-| ERADICATE | 21.00% | ~14,612 |
-| SPIRIT BARK | 21.00% | ~14,612 |
+| AWAKEN | 22.00% | ~15,309 |
+| BEST FRIENDS | 22.00% | ~15,309 |
+| ERADICATE | 21.00% | ~14,613 |
+| SPIRIT BARK | 21.00% | ~14,613 |
 | GARDEN OF LIGHT | 18.00% | ~12,525 |
-| SPIRIT FORM | 16.00% | ~11,133 |
-| WRITTEN IN STONE | 16.00% | ~11,133 |
-| UPROOTING DARKNESS | 15.00% | ~10,437 |
+| SPIRIT FORM | 16.00% | ~11,134 |
+| WRITTEN IN STONE | 16.00% | ~11,134 |
+| UPROOTING DARKNESS | 15.00% | ~10,438 |
 | WEIGHTLESS | 12.00% | ~8,350 |
 | SPIRIT DASH | 11.00% | ~7,654 |
-| OLD COMPANION | 9.00% | ~6,262 |
+| OLD COMPANION | 9.00% | ~6,263 |
 | MATCH MAKER | 8.00% | ~5,567 |
 | PLAGUE DOCTOR | 8.00% | ~5,567 |
 | SPIRITED AWAY | 8.00% | ~5,567 |
 | NORTHERN LIGHTS | 7.00% | ~4,871 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,783 |
-| ANCIENT HISTORY | 3.00% | ~2,087 |
+| ANCIENT HISTORY | 3.00% | ~2,088 |
 | NONE FORGOTTEN | 2.00% | ~1,392 |
-| KINDRED SPIRITS | 0.60% | ~417 |
+| KINDRED SPIRITS | 0.60% | ~418 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,583 (Ranked 86)  
+Progressed: 69,586 (Ranked 86)  
 Completed: 362 (0.52%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 362 (0.52%) (Ranked 159)
 | 2023-09-20 | 69,388 | 360 |
 | 2023-09-21 | 69,469 | 361 |
 | 2023-09-22 | 69,547 | 362 |
-| 2023-09-23 | 69,583 | 362 |
+| 2023-09-23 | 69,586 | 362 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 485)  
 Sum: 114 (Ranked 415)  

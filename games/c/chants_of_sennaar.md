@@ -16,15 +16,15 @@
 | One last step | 31.00% | ~60 |
 | Cable guy | 30.00% | ~58 |
 | Champollion | 30.00% | ~58 |
+| Half the way | 29.00% | ~56 |
 | Peace walker | 28.00% | ~54 |
-| Half the way | 28.00% | ~54 |
 | In this together | 27.00% | ~52 |
 | Open door | 25.00% | ~48 |
 | Free at last | 23.00% | ~45 |
 | Feels like springtime | 23.00% | ~45 |
 | Rascal | 23.00% | ~45 |
 | Alchemists Express | 22.00% | ~43 |
-| A Link to the Past | 18.00% | ~35 |
+| A Link to the Past | 19.00% | ~37 |
 | A great audience | 15.00% | ~29 |
 | For its own good | 15.00% | ~29 |
 | I did it | 14.00% | ~27 |

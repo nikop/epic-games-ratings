@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4085,
+  "EOS_Progressed": 4086,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6700,6 +6700,11 @@
       "Time": "2023-09-23T07:03:33.2769198+00:00",
       "NumProgressed": 4085,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-23T10:03:53.3979677+00:00",
+      "NumProgressed": 4086,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6951,7 +6956,7 @@
       "Name": "Perfect Parry",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "Ach032",
@@ -7087,7 +7092,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "Ach049",
@@ -7278,13 +7283,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4085,
+      "Progressed": 4086,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2606,
+      "Progressed": 2607,
       "Completed": 1930
     }
   ],
@@ -7292,8 +7297,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:02:46.795972+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:03:53.3979672+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:13.117074+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:00:16.9941037+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:02:46.7960617+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:59:40.5764456+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:03:53.3980857+00:00"
 }

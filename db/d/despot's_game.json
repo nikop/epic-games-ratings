@@ -5,9 +5,9 @@
   "Ranking_Rating": 568,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 524,
-  "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,11 +35,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.8924559+00:00",
@@ -410,6 +410,11 @@
       "Time": "2023-08-27T13:07:45.9346362+00:00",
       "NumProgressed": 425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T10:03:07.0807746+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -421,7 +426,7 @@
       "Name": "Strength and Sorcery",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "assemble-team2",
@@ -469,7 +474,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "different-items1",
@@ -477,7 +482,7 @@
       "Name": "Party",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "different-items2",
@@ -491,9 +496,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 149
     },
     {
       "ID": "finished-quest-cube",
@@ -509,7 +514,7 @@
       "Name": "Great Flight",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "finished-quest-monster",
@@ -517,7 +522,7 @@
       "Name": "Campaigning",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "finished-quest-nurgle",
@@ -541,7 +546,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "finished-quest-reaper",
@@ -637,7 +642,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "win-first-level",
@@ -645,7 +650,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "win-koth-fights1",
@@ -653,7 +658,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "win-koth-fights2",
@@ -675,9 +680,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 179
     },
     {
       "ID": "win-with-3-cultists",
@@ -700,7 +705,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 1
     }
   ],
@@ -708,8 +713,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:01:51.4476447+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:03:07.080774+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:24.1872863+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:00:30.35088+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:01:51.4476701+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:59:50.6512061+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:03:07.0808084+00:00"
 }

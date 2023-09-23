@@ -3648,9 +3648,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88135,
+  "EOS_Progressed": 88143,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19798,6 +19798,11 @@
       "Time": "2023-09-23T09:02:33.1518246+00:00",
       "NumProgressed": 88135,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-23T10:03:41.7304601+00:00",
+      "NumProgressed": 88143,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19951,9 +19956,9 @@
       "ID": "ACH_0200",
       "SetID": "3kam13l",
       "Name": "First One\u2019s Free",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_0210",
@@ -20095,9 +20100,9 @@
       "ID": "ACH_0600",
       "SetID": "3kam13l",
       "Name": "Rockay Rex",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 264
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_1010",
@@ -20136,13 +20141,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88135,
+      "Progressed": 88143,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16482,
+      "Progressed": 16490,
       "Completed": 15529
     }
   ],
@@ -20150,8 +20155,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-22T23:57:40.0942997+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:02:33.1518243+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:03:41.7304595+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:52.1827853+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:57:48.7168093+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:02:33.1519245+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:57:30.1029166+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:03:41.7305899+00:00"
 }

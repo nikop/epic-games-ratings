@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,967 |
-| Un-Lonely Island | 47.00% | ~2,486 |
-| The Beginning of a Servantship | 45.00% | ~2,380 |
-| Trade Is My Trait | 37.00% | ~1,957 |
-| Number 18 | 24.00% | ~1,269 |
+| Just One...More...Term... | 75.00% | ~3,968 |
+| Un-Lonely Island | 47.00% | ~2,487 |
+| The Beginning of a Servantship | 45.00% | ~2,381 |
+| Trade Is My Trait | 37.00% | ~1,958 |
+| Number 18 | 24.00% | ~1,270 |
 | We Don't Have Time For That | 19.00% | ~1,005 |
 | The Legend of Langostino | 17.00% | ~899 |
 | The Governator | 17.00% | ~899 |
-| Caribbean Comrade | 16.00% | ~846 |
-| The Dreamer of Dreams | 15.00% | ~793 |
+| Caribbean Comrade | 16.00% | ~847 |
+| The Dreamer of Dreams | 15.00% | ~794 |
 | Go Sovereigns! | 11.00% | ~582 |
 | For Science! | 11.00% | ~582 |
 | Happy Ending? | 10.00% | ~529 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Don't Panic! | 6.00% | ~317 |
 | Computer Says "No" | 6.00% | ~317 |
 | Beware The Betman | 6.00% | ~317 |
-| Viva Tropico! | 5.00% | ~264 |
-| Watch The World Burn | 5.00% | ~264 |
-| Fairy Tale Come True | 5.00% | ~264 |
+| Viva Tropico! | 5.00% | ~265 |
+| Watch The World Burn | 5.00% | ~265 |
+| Fairy Tale Come True | 5.00% | ~265 |
 | Been there, Done That | 3.00% | ~159 |
 | Apocalypso | 3.00% | ~159 |
 | Narcissist | 3.00% | ~159 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,289 (Ranked 157)  
+Progressed: 5,291 (Ranked 157)  
 Completed: 2 (0.04%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 2 (0.04%) (Ranked 254)
 | 2023-09-20 | 5,235 | 2 |
 | 2023-09-21 | 5,255 | 2 |
 | 2023-09-22 | 5,282 | 2 |
-| 2023-09-23 | 5,289 | 2 |
+| 2023-09-23 | 5,291 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
 Sum: 688 (Ranked 281)  

@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~533,598 |
-| Every story has a beginning | 36.00% | ~240,119 |
-| The first of many | 31.00% | ~206,769 |
-| Positive word of mouth | 18.00% | ~120,060 |
-| Lawn in the U.S.A. | 15.00% | ~100,050 |
-| Blade Runner | 9.00% | ~60,030 |
-| Credible | 7.00% | ~46,690 |
-| Teamwork makes the dream work | 6.00% | ~40,020 |
-| Where there's muck there's brass | 4.00% | ~26,680 |
-| Bigger and better | 4.00% | ~26,680 |
-| Aggressive expansion | 4.00% | ~26,680 |
-| Size isn't everything | 3.00% | ~20,010 |
-| Close shave | 3.00% | ~20,010 |
-| Established | 3.00% | ~20,010 |
+| The dream begins | 80.00% | ~533,614 |
+| Every story has a beginning | 36.00% | ~240,126 |
+| The first of many | 31.00% | ~206,776 |
+| Positive word of mouth | 18.00% | ~120,063 |
+| Lawn in the U.S.A. | 15.00% | ~100,053 |
+| Blade Runner | 9.00% | ~60,032 |
+| Credible | 7.00% | ~46,691 |
+| Teamwork makes the dream work | 6.00% | ~40,021 |
+| Where there's muck there's brass | 4.00% | ~26,681 |
+| Bigger and better | 4.00% | ~26,681 |
+| Aggressive expansion | 4.00% | ~26,681 |
+| Size isn't everything | 3.00% | ~20,011 |
+| Close shave | 3.00% | ~20,011 |
+| Established | 3.00% | ~20,011 |
 | Fighting on all fronts | 2.00% | ~13,340 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,340 |
 | Every good deed… | 2.00% | ~13,340 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~667 |
 | Mo mowers, mo problems | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,998 (Ranked 23)  
+Progressed: 667,018 (Ranked 23)  
 Completed: 16 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 16 (0.00%) (Ranked 290)
 | 2023-09-20 | 666,352 | 16 |
 | 2023-09-21 | 666,580 | 16 |
 | 2023-09-22 | 666,878 | 16 |
-| 2023-09-23 | 666,998 | 16 |
+| 2023-09-23 | 667,018 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 284)  
 Sum: 980 (Ranked 244)  

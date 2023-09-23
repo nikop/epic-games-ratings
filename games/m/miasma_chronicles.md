@@ -53,7 +53,7 @@ Rating: 4.42 (Ranked 682)
 | Five Finger Deathcount | 1.00% | ~15 |
 | Shadow Boxin' | 1.00% | ~15 |
 | Alpha Editor | 0.90% | ~13 |
-| Fratricide | 0.80% | ~12 |
+| Fratricide | 0.90% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)

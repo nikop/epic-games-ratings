@@ -210,7 +210,7 @@
   "Tags": [],
   "EOS_Progressed": 1462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3492,9 +3492,9 @@
       "ID": "FRATRICIDE",
       "SetID": "9a4jnji",
       "Name": "Fratricide",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FROM_DARKNESS",
@@ -3709,8 +3709,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-23T02:13:50.9579032+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:03:53.3436302+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:04:49.8739079+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:35.650961+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:00:45.8201868+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:03:53.3436776+00:00"
+  "LastUpdate_Ratings": "2023-09-23T10:00:04.4236861+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:04:49.8739706+00:00"
 }

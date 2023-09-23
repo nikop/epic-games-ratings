@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1458,9 +1458,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "MILLS",
@@ -1747,8 +1747,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:05:24.7359609+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:06:06.1040651+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:51.0271956+00:00",
-  "LastUpdate_Ratings": "2023-09-23T09:01:08.4875284+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:05:24.7360298+00:00"
+  "LastUpdate_Ratings": "2023-09-23T10:00:21.6140162+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:06:06.1041573+00:00"
 }

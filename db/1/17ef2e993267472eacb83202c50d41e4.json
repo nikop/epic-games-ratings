@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6391,
+  "EOS_Progressed": 6393,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 1,
@@ -2356,6 +2356,11 @@
       "Time": "2023-09-23T09:06:32.2036677+00:00",
       "NumProgressed": 6391,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T10:08:11.2676375+00:00",
+      "NumProgressed": 6393,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2408,7 +2413,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "CreditsEarned50000",
@@ -2488,7 +2493,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "GamesPlayed10",
@@ -2512,7 +2517,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "GamesWon10",
@@ -2656,7 +2661,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "LaserUpgraded1",
@@ -2728,7 +2733,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "MaxTowersKilled3",
@@ -2752,7 +2757,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "MinionKills2000",
@@ -2792,7 +2797,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "PlayerKills10",
@@ -2896,7 +2901,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -2912,7 +2917,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "TGPurchased1",
@@ -2959,14 +2964,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6391,
+      "Progressed": 6393,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-23T09:06:32.2036673+00:00",
+  "LastChanged_Achievements": "2023-09-23T10:08:11.2676369+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-23T08:58:51.0064871+00:00",
-  "LastUpdate_Achievements": "2023-09-23T09:06:32.2037411+00:00"
+  "LastUpdate_Ratings": "2023-09-23T09:58:25.6783269+00:00",
+  "LastUpdate_Achievements": "2023-09-23T10:08:11.2677309+00:00"
 }

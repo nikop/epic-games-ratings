@@ -17,21 +17,22 @@
 | Almost There I | 19.00% | ~12 |
 | Stoic | 17.00% | ~11 |
 | Omicron Alpha | 14.00% | ~9 |
-| Galactic Cadet | 13.00% | ~8 |
-| Bronze Prince of Ball-air | 11.00% | ~7 |
-| Pacifist | 11.00% | ~7 |
-| Collateral Damage I | 11.00% | ~7 |
+| Galactic Cadet | 14.00% | ~9 |
+| Bronze Prince of Ball-air | 13.00% | ~8 |
+| Pacifist | 13.00% | ~8 |
+| Collateral Damage I | 13.00% | ~8 |
+| 25Gb HDD | 11.00% | ~7 |
+| Rambo II | 10.00% | ~6 |
 | Defrosted | 10.00% | ~6 |
-| 25Gb HDD | 10.00% | ~6 |
+| Unstoppable | 10.00% | ~6 |
+| Silver Prince of Ball-air | 10.00% | ~6 |
 | Sectoral Ensign | 8.00% | ~5 |
-| Rambo II | 8.00% | ~5 |
+| Hitchhiker | 8.00% | ~5 |
+| Hoarder | 8.00% | ~5 |
 | Golden Prince of Ball-air | 8.00% | ~5 |
 | Space Surfer | 8.00% | ~5 |
-| Unstoppable | 8.00% | ~5 |
-| Silver Prince of Ball-air | 8.00% | ~5 |
 | Merchant Prince II | 8.00% | ~5 |
-| Hitchhiker | 6.00% | ~4 |
-| Hoarder | 6.00% | ~4 |
+| Food Poisoning | 6.00% | ~4 |
 | Usurper I | 6.00% | ~4 |
 | Flower Power | 6.00% | ~4 |
 | Galactic Lieutenant | 6.00% | ~4 |
@@ -48,12 +49,12 @@
 | Omicron Beta | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |
 | Bird of Prey | 5.00% | ~3 |
-| Food Poisoning | 5.00% | ~3 |
 | Wicked Sick | 5.00% | ~3 |
 | Usurper II | 5.00% | ~3 |
 | 50Gb HDD | 5.00% | ~3 |
 | Silver Foundation | 5.00% | ~3 |
 | Silver Pest Control | 5.00% | ~3 |
+| Mysterious Skin | 5.00% | ~3 |
 | Fighting Fit II | 5.00% | ~3 |
 | Bronze BBQ | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
@@ -63,7 +64,6 @@
 | 80Gb HDD | 3.00% | ~2 |
 | Galactic Captain | 3.00% | ~2 |
 | System Captain | 3.00% | ~2 |
-| Mysterious Skin | 3.00% | ~2 |
 | Beetle | 3.00% | ~2 |
 | Anger Management | 3.00% | ~2 |
 | Almost There II | 3.00% | ~2 |

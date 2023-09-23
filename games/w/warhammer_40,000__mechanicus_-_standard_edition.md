@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 670)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,014 |
+| No aid from the Omnissiah | 26.00% | ~58,015 |
 | This is only the beginning | 19.00% | ~42,395 |
 | Knowledge is power | 12.00% | ~26,776 |
 | Power Ranger | 9.00% | ~20,082 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 670)
 | Perma-live | 0.10% | ~223 |
 | Purge the Heretek | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,131 (Ranked 59)  
+Progressed: 223,134 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,10 +196,10 @@ Completed: 5 (0.00%) (Ranked 290)
 | 2023-09-20 | 222,977 | 5 |
 | 2023-09-21 | 223,034 | 5 |
 | 2023-09-22 | 223,104 | 5 |
-| 2023-09-23 | 223,131 | 5 |
+| 2023-09-23 | 223,134 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 244)  
-Sum: 2,149 (Ranked 198)  
+Sum: 2,150 (Ranked 198)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -209,7 +209,7 @@ Diff (max vs sum): 46
 | This game has Diverse Characters | 265 |
 | This game has Amazing Characters | 260 |
 | This game has Amazing Storytelling | 244 |
-| This game is Relaxing | 239 |
+| This game is Relaxing | 240 |
 | This game has Unique Visuals | 210 |
 | This game has a Creative Community | 97 |
 | This game is Great for Beginners | 63 |
@@ -280,3 +280,4 @@ Diff (max vs sum): 46
 | 2023-09-20 | 4.43 | 283 | 2,144 |
 | 2023-09-21 | 4.43 | 283 | 2,146 |
 | 2023-09-22 | 4.43 | 283 | 2,149 |
+| 2023-09-23 | 4.43 | 283 | 2,150 |
