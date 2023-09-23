@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 524 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 524 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 0 | 524 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,615 | 121 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,618 | 121 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,275 | 94 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 524 |
 | 7 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.90 | 0 | 524 |
@@ -108,7 +108,7 @@
 | 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,408 | 103 |
 | 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,506 | 123 |
 | 102 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 39 | 432 |
-| 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 942 | 151 |
+| 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 945 | 151 |
 | 102 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 524 |
 | 102 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 472 |
 | 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 5,248 | 68 |
@@ -231,7 +231,7 @@
 | 220 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 524 |
 | 220 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 524 |
 | 220 | [Revita](games/r/revita.md) | 4.69 | 0 | 524 |
-| 220 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,446 | 35 |
+| 220 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,450 | 35 |
 | 220 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 54 | 398 |
 | 220 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 303 | 240 |
 | 220 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.69 | 0 | 524 |
@@ -495,7 +495,7 @@
 | 487 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 271 | 250 |
 | 487 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 155 | 301 |
 | 487 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 35 | 449 |
-| 487 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 942 | 151 |
+| 487 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 942 | 152 |
 | 487 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 88 | 359 |
 | 487 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 92 | 354 |
 | 487 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 524 |
@@ -679,7 +679,7 @@
 | 670 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 524 |
 | 670 | [STG Football](games/s/stg_football.md) | 4.43 | 45 | 420 |
 | 670 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 468 |
-| 670 | [Train Valley 2](games/t/train_valley_2.md) | 4.43 | 652 | 180 |
+| 670 | [Train Valley 2](games/t/train_valley_2.md) | 4.43 | 661 | 179 |
 | 670 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 283 | 244 |
 | 682 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 0 | 524 |
 | 682 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 226 | 262 |
@@ -957,7 +957,7 @@
 | 951 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,751 | 70 |
 | 956 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 524 |
 | 956 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 524 |
-| 956 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,678 | 85 |
+| 956 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,697 | 85 |
 | 956 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 524 |
 | 960 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 3.97 | 0 | 524 |
 | 961 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 420 |
