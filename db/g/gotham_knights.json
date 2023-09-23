@@ -3116,7 +3116,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72758,
+  "EOS_Progressed": 72760,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 4,
@@ -16391,6 +16391,11 @@
       "Time": "2023-09-23T17:05:47.6515213+00:00",
       "NumProgressed": 72758,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-23T18:06:55.8189004+00:00",
+      "NumProgressed": 72760,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16450,7 +16455,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16734
+      "UsersEstimate": 16735
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16506,7 +16511,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15279
+      "UsersEstimate": 15280
     },
     {
       "ID": "CLAYFACE_2",
@@ -16514,7 +16519,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13096
+      "UsersEstimate": 13097
     },
     {
       "ID": "CLAYFACE_3",
@@ -16602,7 +16607,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -16634,7 +16639,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15279
+      "UsersEstimate": 15280
     },
     {
       "ID": "FREEZE_2",
@@ -16706,7 +16711,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25465
+      "UsersEstimate": 25466
     },
     {
       "ID": "HARLEY_2",
@@ -16730,7 +16735,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11641
+      "UsersEstimate": 11642
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16746,7 +16751,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37834
+      "UsersEstimate": 37835
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16778,7 +16783,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20372
+      "UsersEstimate": 20373
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16786,7 +16791,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "MYSTERY_01",
@@ -16810,7 +16815,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16734
+      "UsersEstimate": 16735
     },
     {
       "ID": "MYSTERY_04",
@@ -16826,7 +16831,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13096
+      "UsersEstimate": 13097
     },
     {
       "ID": "MYSTERY_06",
@@ -16858,7 +16863,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8003
+      "UsersEstimate": 8004
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -16889,13 +16894,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72758,
+      "Progressed": 72760,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43038,
+      "Progressed": 43040,
       "Completed": 2667
     }
   ],
@@ -16903,8 +16908,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-23T13:08:05.8327884+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:05:47.6515209+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:06:55.8188997+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
   "LastUpdate_Ratings": "2023-09-23T17:03:14.1696743+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:05:47.6516298+00:00"
+  "LastUpdate_Achievements": "2023-09-23T18:06:55.8191305+00:00"
 }

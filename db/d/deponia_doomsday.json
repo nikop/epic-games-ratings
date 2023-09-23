@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -520,9 +520,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 251
     },
     {
       "ID": "dep4_achievement_29",
@@ -544,9 +544,9 @@
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "dep4_achievement_31",
@@ -657,8 +657,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-23T08:58:33.5454881+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:03:37.4766208+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:03:37.4962246+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.7249609+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:58:42.7855401+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:03:37.4766451+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:59:14.006588+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:03:37.4962734+00:00"
 }

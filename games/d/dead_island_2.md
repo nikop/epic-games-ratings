@@ -1,11 +1,11 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 506)  
+Rating: 4.54 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~20,548 |
+| Welcome To Hell-A | 3.00% | ~20,549 |
 | Dr. Reed, I Presume? | 2.00% | ~13,699 |
 | Git Gutte! | 2.00% | ~13,699 |
 | Bookworm | 2.00% | ~13,699 |
@@ -24,16 +24,16 @@ Rating: 4.54 (Ranked 506)
 | Stacking the Deck | 2.00% | ~13,699 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,699 |
 | This is My Weapon | 2.00% | ~13,699 |
-| Making Your Mark | 1.00% | ~6,849 |
-| Anger Management | 1.00% | ~6,849 |
-| Perks of the Job | 1.00% | ~6,849 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,849 |
-| Ooh, Shiny! | 1.00% | ~6,849 |
-| Humanity Distilled | 1.00% | ~6,849 |
-| I Am the Resurrection | 1.00% | ~6,849 |
-| Down with the Sickness | 1.00% | ~6,849 |
-| Our True Nature | 1.00% | ~6,849 |
-| Max Headroom | 0.90% | ~6,164 |
+| Making Your Mark | 1.00% | ~6,850 |
+| Anger Management | 1.00% | ~6,850 |
+| Perks of the Job | 1.00% | ~6,850 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,850 |
+| Ooh, Shiny! | 1.00% | ~6,850 |
+| Humanity Distilled | 1.00% | ~6,850 |
+| I Am the Resurrection | 1.00% | ~6,850 |
+| Down with the Sickness | 1.00% | ~6,850 |
+| Our True Nature | 1.00% | ~6,850 |
+| Max Headroom | 0.90% | ~6,165 |
 | Jumbo Keyring | 0.70% | ~4,795 |
 | Go, Bobcats! | 0.70% | ~4,795 |
 | Rising Star | 0.70% | ~4,795 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 506)
 | Donk! | 0.10% | ~685 |
 | Bucket List | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,935 (Ranked 22)  
-Completed: 2,167 (0.32%) (Ranked 186)  
+Progressed: 684,973 (Ranked 22)  
+Completed: 2,169 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,14 +207,14 @@ Completed: 2,167 (0.32%) (Ranked 186)
 | 2023-09-20 | 683,347 | 2,156 |
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
-| 2023-09-23 | 684,935 | 2,167 |
+| 2023-09-23 | 684,973 | 2,169 |
 ## Awards
-Max (Great Boss Battles): 6,156  (Ranked 57)  
-Sum: 9,159 (Ranked 93)  
-Diff (max vs sum): -36  
+Max (Great Boss Battles): 6,175  (Ranked 57)  
+Sum: 9,178 (Ranked 92)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,156 |
+| This game has Great Boss Battles | 6,175 |
 | This game is Great for Beginners | 429 |
 | This game has Diverse Characters | 416 |
 | This game has Quickly Understood Controls | 400 |
@@ -381,4 +381,4 @@ Diff (max vs sum): -36
 | 2023-09-20 | 4.54 | 6,126 | 9,094 |
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
 | 2023-09-22 | 4.54 | 6,156 | 9,150 |
-| 2023-09-23 | 4.54 | 6,156 | 9,159 |
+| 2023-09-23 | 4.54 | 6,175 | 9,178 |

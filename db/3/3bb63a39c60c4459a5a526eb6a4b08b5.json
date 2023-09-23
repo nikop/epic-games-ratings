@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2686,6 +2686,11 @@
       "Time": "2023-09-23T17:05:06.3120187+00:00",
       "NumProgressed": 733,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T18:05:59.6223036+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2735,9 +2740,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 139
     },
     {
       "ID": "Close",
@@ -2807,9 +2812,9 @@
       "ID": "Hundred",
       "SetID": "1e89b4i",
       "Name": "One Hundred",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 29
     },
     {
       "ID": "Incredible",
@@ -3032,14 +3037,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 734,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:05:06.3120183+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:05:59.6223031+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:48.9786266+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:59:06.4508599+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:05:06.3120577+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:59:45.8215332+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:05:59.6223681+00:00"
 }

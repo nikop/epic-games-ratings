@@ -6,22 +6,22 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,596 |
-| Ready for Winter | 64.00% | ~2,216 |
-| Ready for Summer | 52.00% | ~1,800 |
-| Cordon Bleu | 43.00% | ~1,489 |
-| Tapped! | 37.00% | ~1,281 |
+| Venture Outward | 75.00% | ~2,598 |
+| Ready for Winter | 64.00% | ~2,217 |
+| Ready for Summer | 52.00% | ~1,801 |
+| Cordon Bleu | 43.00% | ~1,490 |
+| Tapped! | 37.00% | ~1,282 |
 | Eureka | 32.00% | ~1,108 |
 | Scourge Slayer | 25.00% | ~866 |
-| Exceptional Skill | 23.00% | ~796 |
-| Science, Troglodyte! | 23.00% | ~796 |
+| Exceptional Skill | 23.00% | ~797 |
+| Science, Troglodyte! | 23.00% | ~797 |
 | Home Sweet Home | 22.00% | ~762 |
-| Encyclopedic! | 20.00% | ~692 |
+| Encyclopedic! | 20.00% | ~693 |
 | A Fortress Toppled! | 16.00% | ~554 |
 | Apex Predator | 16.00% | ~554 |
 | The Power of Family | 16.00% | ~554 |
-| Strange amalgams | 12.00% | ~415 |
-| The Power of Faith | 12.00% | ~415 |
+| Strange amalgams | 12.00% | ~416 |
+| The Power of Faith | 12.00% | ~416 |
 | The Power of Freedom | 9.00% | ~312 |
 | Ace Detective | 8.00% | ~277 |
 | Gift from the Ancestors | 8.00% | ~277 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | Blood and justice | 6.00% | ~208 |
 | Hold my Mead and Watch This | 6.00% | ~208 |
 | The stuff of legends. | 6.00% | ~208 |
-| Ancestor's Pride | 4.00% | ~138 |
-| For All Aurai | 4.00% | ~138 |
-| Memory of a legend | 4.00% | ~138 |
+| Ancestor's Pride | 4.00% | ~139 |
+| For All Aurai | 4.00% | ~139 |
+| Memory of a legend | 4.00% | ~139 |
 | Light of Levant | 3.00% | ~104 |
 | This was a mistake... | 3.00% | ~104 |
 | Crowd Pleaser. | 2.00% | ~69 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,462 (Ranked 175)  
+Progressed: 3,464 (Ranked 175)  
 Completed: 4 (0.12%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 4 (0.12%) (Ranked 224)
 | 2023-09-20 | 3,423 | 4 |
 | 2023-09-21 | 3,436 | 4 |
 | 2023-09-22 | 3,447 | 4 |
-| 2023-09-23 | 3,462 | 4 |
+| 2023-09-23 | 3,464 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 449)  
 Sum: 244 (Ranked 361)  

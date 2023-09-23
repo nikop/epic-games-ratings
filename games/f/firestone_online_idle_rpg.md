@@ -18,8 +18,8 @@ Rating: 4.02 (Ranked 946)
 | Full Party | 17.00% | ~334 |
 | Inspection | 17.00% | ~334 |
 | Miner Clicker | 17.00% | ~334 |
+| Dragon Master | 16.00% | ~314 |
 | Enlightenment | 16.00% | ~314 |
-| Dragon Master | 15.00% | ~294 |
 | Hero inspection | 15.00% | ~294 |
 | Lieutenant | 15.00% | ~294 |
 | Milestone collector | 14.00% | ~275 |

@@ -3,8 +3,8 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -1523,17 +1523,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1594,8 +1594,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:06:01.9010525+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:07:16.0188093+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:06.028915+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:58:50.138658+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:06:01.9010681+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:59:24.4109381+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:07:16.0188358+00:00"
 }

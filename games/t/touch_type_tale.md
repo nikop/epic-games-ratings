@@ -22,11 +22,11 @@
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~255 |
 | Damage Control | 7.00% | ~255 |
 | Master of the Brawl | 7.00% | ~255 |
+| A Secret Recipe | 6.00% | ~219 |
 | Your Biggest Fans | 5.00% | ~182 |
 | An Ally in Need | 5.00% | ~182 |
 | For the Queen | 5.00% | ~182 |
 | Not a Drop Wasted | 5.00% | ~182 |
-| A Secret Recipe | 5.00% | ~182 |
 | Reinforcements | 4.00% | ~146 |
 | Sweet Revenge | 4.00% | ~146 |
 | We Have the Technology | 4.00% | ~146 |
@@ -39,7 +39,7 @@
 | All Geared Up | 0.90% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,642 (Ranked 172)  
-Completed: 11 (0.30%) (Ranked 189)  
+Completed: 11 (0.30%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

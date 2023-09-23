@@ -5,9 +5,9 @@
   "Ranking_Rating": 471,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 120,
+  "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18110,
+  "EOS_Progressed": 18112,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10606,6 +10606,11 @@
       "Time": "2023-09-23T17:05:13.0953472+00:00",
       "NumProgressed": 18110,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-23T18:06:08.7883425+00:00",
+      "NumProgressed": 18112,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10681,7 +10686,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3984
+      "UsersEstimate": 3985
     },
     {
       "ID": "0010",
@@ -10801,7 +10806,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3803
+      "UsersEstimate": 3804
     },
     {
       "ID": "0025",
@@ -10831,9 +10836,9 @@
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4165
+      "UsersEstimate": 3985
     },
     {
       "ID": "0029",
@@ -10841,7 +10846,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "0030",
@@ -10904,7 +10909,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18110,
+      "Progressed": 18112,
       "Completed": 3
     }
   ],
@@ -10912,8 +10917,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:05:13.0953466+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:06:08.7883419+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:58:00.515742+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:05:13.0954145+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:58:16.8807383+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:06:08.7884583+00:00"
 }

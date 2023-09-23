@@ -5,29 +5,29 @@ Rating: 4.28 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 60.00% | ~610 |
-| MVP | 58.00% | ~589 |
-| Big Spender | 57.00% | ~579 |
-| Stud Finder | 48.00% | ~488 |
-| Dealmaker | 47.00% | ~478 |
-| ROTY | 38.00% | ~386 |
-| Roster Reshuffle | 33.00% | ~335 |
-| Future of the Franchise | 25.00% | ~254 |
-| Change of Scenery | 20.00% | ~203 |
-| Throwin’ Dots | 17.00% | ~173 |
-| Pro Bowler | 17.00% | ~173 |
-| Primetime | 15.00% | ~152 |
-| Already in Progress | 14.00% | ~142 |
-| Unblockable | 9.00% | ~91 |
-| Pocket Ace | 6.00% | ~61 |
-| Head-to-Head | 6.00% | ~61 |
+| Bragging Rights | 60.00% | ~621 |
+| MVP | 58.00% | ~600 |
+| Big Spender | 57.00% | ~590 |
+| Stud Finder | 48.00% | ~497 |
+| Dealmaker | 47.00% | ~486 |
+| ROTY | 38.00% | ~393 |
+| Roster Reshuffle | 33.00% | ~342 |
+| Future of the Franchise | 25.00% | ~259 |
+| Change of Scenery | 20.00% | ~207 |
+| Throwin’ Dots | 17.00% | ~176 |
+| Pro Bowler | 17.00% | ~176 |
+| Primetime | 14.00% | ~145 |
+| Already in Progress | 14.00% | ~145 |
+| Unblockable | 9.00% | ~93 |
+| Pocket Ace | 6.00% | ~62 |
+| Head-to-Head | 6.00% | ~62 |
 | Lockdown Corner | 4.00% | ~41 |
 | Gain Train | 1.00% | ~10 |
+| The Fortress | 0.60% | ~6 |
 | Ol' Reliable | 0.50% | ~5 |
-| The Fortress | 0.50% | ~5 |
-| Lockdown Leader | 0.40% | ~4 |
+| Lockdown Leader | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,016 (Ranked 228)  
+Progressed: 1,035 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,11 +35,11 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-20 | 422 | 0 |
 | 2023-09-21 | 660 | 0 |
 | 2023-09-22 | 855 | 0 |
-| 2023-09-23 | 1,016 | 0 |
+| 2023-09-23 | 1,035 | 0 |
 ## Awards
-Max (Diverse Characters): 26  (Ranked 486)  
+Max (Diverse Characters): 26  (Ranked 487)  
 Sum: 68 (Ranked 445)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 26 |

@@ -21,9 +21,9 @@ Rating: 4.38 (Ranked 733)
 | No need to call anyone | 39.00% | ~403 |
 | Big fortune | 32.00% | ~331 |
 | Still more work ahead | 29.00% | ~300 |
+| Aesop's fable | 27.00% | ~279 |
 | Hotel sleuthing | 27.00% | ~279 |
 | Kaboom | 26.00% | ~269 |
-| Aesop's fable | 26.00% | ~269 |
 | Nearly there | 25.00% | ~258 |
 | Broken heart | 23.00% | ~238 |
 | Island boy | 21.00% | ~217 |
@@ -33,7 +33,7 @@ Rating: 4.38 (Ranked 733)
 | King of hospitality | 11.00% | ~114 |
 | Top spot in town | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,033 (Ranked 227)  
+Progressed: 1,033 (Ranked 228)  
 Completed: 15 (1.45%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |

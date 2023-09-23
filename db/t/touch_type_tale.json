@@ -3,7 +3,7 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 3642,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4140,9 +4140,9 @@
       "ID": "scenario4",
       "SetID": "2h56gn1",
       "Name": "A Secret Recipe",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 219
     },
     {
       "ID": "scenario5",
@@ -4181,8 +4181,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:03:30.1548497+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:03:27.6147534+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.8597364+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:58:44.7989775+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:03:30.1548929+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:59:16.3202599+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:03:27.6148085+00:00"
 }

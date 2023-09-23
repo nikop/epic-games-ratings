@@ -13,7 +13,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic the Hedgehog 2 | 71.00% | ~361 |
 | Time Traveler | 67.00% | ~341 |
 | Ring Collector | 67.00% | ~341 |
-| Everyone's Hero | 63.00% | ~321 |
+| Everyone's Hero | 64.00% | ~326 |
 | Gallant Spin Dash | 60.00% | ~305 |
 | Miles "Tails" Prower | 60.00% | ~305 |
 | Easy Peasy with Shields | 59.00% | ~300 |

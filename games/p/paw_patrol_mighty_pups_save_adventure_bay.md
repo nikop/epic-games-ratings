@@ -16,13 +16,13 @@
 | Robot Out of Control | 33.00% | ~9 |
 | Break Time | 30.00% | ~8 |
 | Training Day | 30.00% | ~8 |
+| The Fastest | 30.00% | ~8 |
 | Master of the Rope | 26.00% | ~7 |
-| The Fastest | 26.00% | ~7 |
 | Clear the Road | 26.00% | ~7 |
+| In the Air | 22.00% | ~6 |
 | Never Miss | 22.00% | ~6 |
 | Animal Sighting | 22.00% | ~6 |
 | Adventure Bay’s Citizen | 22.00% | ~6 |
-| In the Air | 19.00% | ~5 |
 | You Have Been Everywhere | 19.00% | ~5 |
 | Don’t Miss Any | 19.00% | ~5 |
 | Everything Under Control | 15.00% | ~4 |

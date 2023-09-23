@@ -6,8 +6,8 @@ Rating: 4.76 (Ranked 117)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,604 |
-| First Class Student | 13.00% | ~38,632 |
-| Troll with the Punches | 13.00% | ~38,632 |
+| First Class Student | 13.00% | ~38,633 |
+| Troll with the Punches | 13.00% | ~38,633 |
 | A Keen Sense of Spell | 12.00% | ~35,661 |
 | A Talent for Spending | 11.00% | ~32,689 |
 | That's a Keeper | 11.00% | ~32,689 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 117)
 | Challenge Accepted | 10.00% | ~29,717 |
 | Loom for Improvement | 10.00% | ~29,717 |
 | Coasting Along | 10.00% | ~29,717 |
-| Followed the Butterflies | 9.00% | ~26,745 |
-| Rising From the Ashes | 9.00% | ~26,745 |
+| Followed the Butterflies | 9.00% | ~26,746 |
+| Rising From the Ashes | 9.00% | ~26,746 |
 | A Sallow Grave | 8.00% | ~23,774 |
 | The Spell Master | 8.00% | ~23,774 |
 | The Avenging Gazelle | 7.00% | ~20,802 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,172 (Ranked 44)  
+Progressed: 297,174 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 476 (0.16%) (Ranked 214)
 | 2023-09-20 | 297,027 | 476 |
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
-| 2023-09-23 | 297,172 | 476 |
+| 2023-09-23 | 297,174 | 476 |
 ## Awards
 Max (Character Customization): 22,951  (Ranked 17)  
-Sum: 44,055 (Ranked 30)  
+Sum: 44,064 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -221,8 +221,8 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,050 |
 | This game is Relaxing | 1,045 |
 | This game is Extremely Fun | 1,039 |
-| This game has Amazing Characters | 1,018 |
-| This game is Highly Recommended | 1,004 |
+| This game has Amazing Characters | 1,022 |
+| This game is Highly Recommended | 1,009 |
 | This game has Quickly Understood Controls | 949 |
 | This game has Beautiful Visuals | 875 |
 | This game has a Creative Community | 667 |
@@ -412,4 +412,4 @@ Diff (max vs sum): -13
 | 2023-09-20 | 4.77 | 22,886 | 43,852 |
 | 2023-09-21 | 4.77 | 22,886 | 43,899 |
 | 2023-09-22 | 4.77 | 22,916 | 43,979 |
-| 2023-09-23 | 4.76 | 22,951 | 44,055 |
+| 2023-09-23 | 4.76 | 22,951 | 44,064 |

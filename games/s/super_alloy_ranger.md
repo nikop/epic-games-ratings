@@ -14,8 +14,8 @@
 | Stop Right There | 31.00% | ~28 |
 | Get to the Point | 30.00% | ~27 |
 | Mr. Want It All | 19.00% | ~17 |
-| The Hidden Secret | 16.00% | ~14 |
-| Toe to Toe | 16.00% | ~14 |
+| The Hidden Secret | 17.00% | ~15 |
+| Toe to Toe | 17.00% | ~15 |
 | Phew! | 15.00% | ~13 |
 | The Abyss Conqueror | 12.00% | ~11 |
 | The Fortress Conqueror | 11.00% | ~10 |
@@ -28,11 +28,11 @@
 | The Deep Frozen Conqueror | 6.00% | ~5 |
 | The Infinite Train Conqueror | 6.00% | ~5 |
 | The Paradox Coordinate Conqueror | 6.00% | ~5 |
+| The Zero Dimensional Capital Conqueror | 6.00% | ~5 |
+| The Inactivated Frozen Conqueror | 6.00% | ~5 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~5 |
 | Hell of a Fight | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
-| The Zero Dimensional Capital Conqueror | 4.00% | ~4 |
-| The Inactivated Frozen Conqueror | 4.00% | ~4 |
 | Death Bringer Conqueror | 4.00% | ~4 |
 | Rapidfire | 4.00% | ~4 |
 | Air Interception | 4.00% | ~4 |

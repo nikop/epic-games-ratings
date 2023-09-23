@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -705,6 +705,11 @@
       "Time": "2023-09-23T11:04:53.7711187+00:00",
       "NumProgressed": 527,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-23T18:04:40.2106266+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -740,7 +745,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Doors_Closing",
@@ -836,7 +841,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Leisurely_Strol",
@@ -932,7 +937,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -947,7 +952,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 5
     }
   ],
@@ -955,8 +960,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:04:08.6731594+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:04:40.2106262+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.6418382+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:58:41.9117702+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:04:08.6731797+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:59:13.0262861+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:04:40.2106551+00:00"
 }

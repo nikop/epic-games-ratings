@@ -42,6 +42,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.70% | ~956 |
 | Tax not Included | 0.60% | ~820 |
 | Fated Encounters | 0.60% | ~820 |
+| For the Hoard! | 0.60% | ~820 |
 | Power of Love | 0.60% | ~820 |
 | Flawless Fusion | 0.60% | ~820 |
 | Trash to Treasure | 0.60% | ~820 |
@@ -52,7 +53,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.50% | ~683 |
 | The King's Caprice | 0.50% | ~683 |
 | Big Game Hunting | 0.50% | ~683 |
-| For the Hoard! | 0.50% | ~683 |
 | Scrapbooker | 0.50% | ~683 |
 | Locally Sourced | 0.50% | ~683 |
 | Flying off the Shelves | 0.50% | ~683 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,585 (Ranked 69)  
+Progressed: 136,588 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 153 (0.11%) (Ranked 229)
 | 2023-09-20 | 136,453 | 153 |
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
-| 2023-09-23 | 136,585 | 153 |
+| 2023-09-23 | 136,588 | 153 |
 ## Awards
 Max (Great for Beginners): 4,755  (Ranked 70)  
 Sum: 27,282 (Ranked 48)  

@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 506,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 93,
+  "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4720,18 +4720,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 9159,
       "NumberOfAwardsMax": 6156
+    },
+    {
+      "Time": "2023-09-23T18:02:12.4218995+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9178,
+      "NumberOfAwardsMax": 6175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9159,
-  "NumberOfAwardsMax": 6156,
+  "NumberOfAwards": 9178,
+  "NumberOfAwardsMax": 6175,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6156
+      "Count": 6175
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4782,10 +4788,10 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 684935,
-  "EOS_Completed": 2167,
-  "EOS_NewPlayers": 4089,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 684973,
+  "EOS_Completed": 2169,
+  "EOS_NewPlayers": 4079,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -22362,6 +22368,11 @@
       "Time": "2023-09-23T17:06:35.5956194+00:00",
       "NumProgressed": 684935,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-09-23T18:08:03.829694+00:00",
+      "NumProgressed": 684973,
+      "NumCompleted": 2169
     }
   ],
   "TotalAchievements": 45,
@@ -22381,7 +22392,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_ammo_ran",
@@ -22397,7 +22408,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -22421,7 +22432,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_bookworm",
@@ -22453,7 +22464,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -22589,7 +22600,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_magnum_opus",
@@ -22613,7 +22624,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_revival_tour",
@@ -22621,7 +22632,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_salvation",
@@ -22629,7 +22640,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_secrets_of_la",
@@ -22669,7 +22680,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6164
+      "UsersEstimate": 6165
     },
     {
       "ID": "ach_the_vcla",
@@ -22685,7 +22696,7 @@
       "Name": "Our True Nature",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -22709,7 +22720,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20548
+      "UsersEstimate": 20549
     },
     {
       "ID": "ach_well_known_survivor",
@@ -22732,22 +22743,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 684935,
-      "Completed": 2167
+      "Progressed": 684973,
+      "Completed": 2169
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 10476,
-      "Completed": 10476
+      "Progressed": 10514,
+      "Completed": 10514
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-23T17:00:46.1935743+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:06:35.5956189+00:00",
+  "LastChanged": "2023-09-23T18:02:12.4218993+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:08:03.8296935+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-23T17:00:46.1935748+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:06:35.5957304+00:00"
+  "LastUpdate_Ratings": "2023-09-23T18:02:12.4219001+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:08:03.8298766+00:00"
 }

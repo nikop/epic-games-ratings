@@ -1,7 +1,7 @@
 # Blood Bowl 3	
 [Store](https://store.epicgames.com/en-US/p/blood-bowl-3)  
 [View Rawdata](../../db/b/blood_bowl_3.json)  
-Rating: 3.74 (Ranked 988)  
+Rating: 3.77 (Ranked 986)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -34,3 +34,4 @@ Rating: 3.74 (Ranked 988)
 | 2023-09-13 | 3.69 | 0 | 0 |
 | 2023-09-21 | 3.72 | 0 | 0 |
 | 2023-09-22 | 3.74 | 0 | 0 |
+| 2023-09-23 | 3.77 | 0 | 0 |

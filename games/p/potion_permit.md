@@ -16,7 +16,7 @@ Rating: 3.83 (Ranked 977)
 | K.O.! | 44.00% | ~702 |
 | Intermediate Chemist | 40.00% | ~638 |
 | Decorative Mind | 32.00% | ~511 |
-| Lumber Specialist | 31.00% | ~495 |
+| Lumber Specialist | 32.00% | ~511 |
 | Kind-hearted | 25.00% | ~399 |
 | Catch of the Day | 25.00% | ~399 |
 | Amateur Chef | 22.00% | ~351 |
@@ -25,9 +25,9 @@ Rating: 3.83 (Ranked 977)
 | Community Helper | 17.00% | ~271 |
 | Expert Chemist | 14.00% | ~223 |
 | Stone Specialist | 14.00% | ~223 |
+| Sociable | 13.00% | ~207 |
 | Ablutomaniac | 13.00% | ~207 |
 | Line Cook | 12.00% | ~192 |
-| Sociable | 12.00% | ~192 |
 | Production Sorter | 11.00% | ~176 |
 | Good Samaritan | 10.00% | ~160 |
 | Acrobatic Adventurer | 9.00% | ~144 |

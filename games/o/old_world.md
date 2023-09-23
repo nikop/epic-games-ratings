@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 5.00% | ~703 |
 | Able | 4.00% | ~563 |
 | Architect | 4.00% | ~563 |
+| Enlightened | 4.00% | ~563 |
 | Good | 4.00% | ~563 |
 | Just | 4.00% | ~563 |
 | Learned | 4.00% | ~563 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 4.00% | ~563 |
 | Ambitious | 3.00% | ~422 |
 | Brilliant | 3.00% | ~422 |
-| Enlightened | 3.00% | ~422 |
 | Fountainhead | 3.00% | ~422 |
 | Glorious | 3.00% | ~422 |
 | Keystone | 3.00% | ~422 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,067 (Ranked 127)  
+Progressed: 14,069 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,14 +459,14 @@ Completed: 5 (0.04%) (Ranked 255)
 | 2023-09-20 | 14,017 | 5 |
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
-| 2023-09-23 | 14,067 | 5 |
+| 2023-09-23 | 14,069 | 5 |
 ## Awards
-Max (Relaxing): 221  (Ranked 265)  
-Sum: 1,816 (Ranked 207)  
-Diff (max vs sum): 58  
+Max (Relaxing): 222  (Ranked 264)  
+Sum: 1,817 (Ranked 207)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 221 |
+| This game is Relaxing | 222 |
 | This game has Diverse Characters | 209 |
 | This game is Extremely Fun | 209 |
 | This game is Highly Recommended | 209 |
@@ -611,4 +611,4 @@ Diff (max vs sum): 58
 | 2023-09-20 | 4.65 | - | 221 | 1,812 |
 | 2023-09-21 | 4.65 | - | 221 | 1,813 |
 | 2023-09-22 | 4.65 | - | 221 | 1,814 |
-| 2023-09-23 | 4.65 | - | 221 | 1,816 |
+| 2023-09-23 | 4.65 | - | 222 | 1,817 |

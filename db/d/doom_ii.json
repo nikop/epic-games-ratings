@@ -3,8 +3,8 @@
   "Name": "DOOM II",
   "ProductSlug": "doom-ii",
   "Ranking_Rating": 315,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 495,
+  "Ranking_Popularity": 478,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 407,
@@ -228,18 +228,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-09-23T17:57:25.7474671+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 27,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -254,8 +260,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-18T20:02:33.9663963+00:00",
   "FirstSeenRating": "2022-09-01T17:32:34.6447237+00:00",
-  "LastChanged": "2023-09-21T23:03:09.7149928+00:00",
+  "LastChanged": "2023-09-23T17:57:25.7474667+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:03.4960556+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:57:25.7142164+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:05:30.8561925+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:57:25.7474675+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:06:32.5036591+00:00"
 }

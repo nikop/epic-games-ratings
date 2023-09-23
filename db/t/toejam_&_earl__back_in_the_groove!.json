@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57024,
+  "EOS_Progressed": 57025,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9768,6 +9768,11 @@
       "Time": "2023-09-23T17:06:19.0231974+00:00",
       "NumProgressed": 57024,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-23T18:07:40.1180994+00:00",
+      "NumProgressed": 57025,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -9923,7 +9928,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "HarshLove",
@@ -10115,7 +10120,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "TimelySplash",
@@ -10170,7 +10175,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57024,
+      "Progressed": 57025,
       "Completed": 6
     }
   ],
@@ -10178,8 +10183,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-23T17:06:19.023197+00:00",
+  "LastChanged_Achievements": "2023-09-23T18:07:40.1180989+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:04.8622812+00:00",
-  "LastUpdate_Ratings": "2023-09-23T16:59:09.4292555+00:00",
-  "LastUpdate_Achievements": "2023-09-23T17:06:19.023275+00:00"
+  "LastUpdate_Ratings": "2023-09-23T17:59:50.447244+00:00",
+  "LastUpdate_Achievements": "2023-09-23T18:07:40.1182204+00:00"
 }
