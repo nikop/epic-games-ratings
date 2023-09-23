@@ -7,7 +7,7 @@ Number of Ratings: 33  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I will finish what you started | 28.00% | ~69,097 |
-| Powergamer | 27.00% | ~66,629 |
+| Powergamer | 27.00% | ~66,630 |
 | Barely scratched the surface | 25.00% | ~61,694 |
 | Write that down | 24.00% | ~59,226 |
 | Guns, lots of guns | 13.00% | ~32,081 |
@@ -17,8 +17,8 @@ Number of Ratings: 33  (23.09.2022)
 | Wake up! | 8.00% | ~19,742 |
 | It's honest work | 7.00% | ~17,274 |
 | Griever | 7.00% | ~17,274 |
-| Me smart | 6.00% | ~14,806 |
-| Trash compactor | 6.00% | ~14,806 |
+| Me smart | 6.00% | ~14,807 |
+| Trash compactor | 6.00% | ~14,807 |
 | Good listener | 5.00% | ~12,339 |
 | Valedictorian | 5.00% | ~12,339 |
 | BOY! | 4.00% | ~9,871 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,403 |
 | I like to sniff around | 3.00% | ~7,403 |
 | Mind reader | 3.00% | ~7,403 |
-| Catnip | 2.00% | ~4,935 |
-| Gentleman's classic | 2.00% | ~4,935 |
-| Is that a rift? | 2.00% | ~4,935 |
-| It's alive! | 2.00% | ~4,935 |
-| Enjoy the beach | 2.00% | ~4,935 |
-| Rinse and repeat | 2.00% | ~4,935 |
-| Mama, I'm a criminal | 2.00% | ~4,935 |
-| Never gonna give you up | 2.00% | ~4,935 |
+| Catnip | 2.00% | ~4,936 |
+| Gentleman's classic | 2.00% | ~4,936 |
+| Is that a rift? | 2.00% | ~4,936 |
+| It's alive! | 2.00% | ~4,936 |
+| Enjoy the beach | 2.00% | ~4,936 |
+| Rinse and repeat | 2.00% | ~4,936 |
+| Mama, I'm a criminal | 2.00% | ~4,936 |
+| Never gonna give you up | 2.00% | ~4,936 |
 | A muscle to rely on | 1.00% | ~2,468 |
 | A true blacksmith | 1.00% | ~2,468 |
 | I am in great pain, please help me | 1.00% | ~2,468 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~494 |
 | Memory 5 | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,774 (Ranked 51)  
+Progressed: 246,776 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 7 (0.00%) (Ranked 290)
 | 2023-09-20 | 246,587 | 7 |
 | 2023-09-21 | 246,683 | 7 |
 | 2023-09-22 | 246,774 | 7 |
+| 2023-09-23 | 246,776 | 7 |
 ## Awards
 Max (Character Customization): 81  (Ranked 365)  
 Sum: 81 (Ranked 432)  

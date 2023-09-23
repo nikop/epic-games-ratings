@@ -6,7 +6,7 @@
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
@@ -1313,9 +1313,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128529,
+  "EOS_Progressed": 128531,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16843,6 +16843,11 @@
       "Time": "2023-09-22T23:03:32.6127306+00:00",
       "NumProgressed": 128529,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-23T00:03:49.173139+00:00",
+      "NumProgressed": 128531,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -16886,7 +16891,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23135
+      "UsersEstimate": 23136
     },
     {
       "ID": "ACH_COP_BAD",
@@ -16934,7 +16939,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35988
+      "UsersEstimate": 35989
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -17173,15 +17178,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128529,
+      "Progressed": 128531,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-22T00:00:36.6014482+00:00",
-  "LastChanged_Achievements": "2023-09-22T23:03:32.6127295+00:00",
+  "LastChanged_Achievements": "2023-09-23T00:03:49.1731385+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:58:23.594769+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:02:15.0017833+00:00",
-  "LastUpdate_Achievements": "2023-09-22T23:03:32.6129412+00:00"
+  "LastUpdate_Ratings": "2023-09-23T00:03:04.2579691+00:00",
+  "LastUpdate_Achievements": "2023-09-23T00:03:49.1733199+00:00"
 }

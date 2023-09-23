@@ -3,7 +3,7 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6368,
+  "EOS_Progressed": 6370,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2316,6 +2316,11 @@
       "Time": "2023-09-22T23:08:07.0438934+00:00",
       "NumProgressed": 6368,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-23T00:08:47.8500473+00:00",
+      "NumProgressed": 6370,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2376,7 +2381,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "CreditsSpent50000",
@@ -2448,7 +2453,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "GamesPlayed10",
@@ -2544,7 +2549,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "HSUPurchased1",
@@ -2640,7 +2645,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "MaxDamageDone30000",
@@ -2696,7 +2701,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "MaxTowersKilled6",
@@ -2736,7 +2741,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "NeutralKills200",
@@ -2784,7 +2789,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "QAUpgraded1",
@@ -2800,7 +2805,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "RAPurchased1",
@@ -2824,7 +2829,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "SEUpgraded1",
@@ -2840,7 +2845,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "SOVUpgraded1",
@@ -2919,14 +2924,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6368,
+      "Progressed": 6370,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-22T23:08:07.0438927+00:00",
+  "LastChanged_Achievements": "2023-09-23T00:08:47.8500468+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-22T22:58:37.8922977+00:00",
-  "LastUpdate_Achievements": "2023-09-22T23:08:07.0440699+00:00"
+  "LastUpdate_Ratings": "2023-09-22T23:58:57.8965314+00:00",
+  "LastUpdate_Achievements": "2023-09-23T00:08:47.8501722+00:00"
 }

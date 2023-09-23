@@ -13518,9 +13518,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 422
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -14380,8 +14380,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-22T19:00:46.0476762+00:00",
-  "LastChanged_Achievements": "2023-09-22T23:03:44.126234+00:00",
+  "LastChanged_Achievements": "2023-09-23T00:04:02.3075846+00:00",
   "LastUpdate_AppInfo": "2023-09-16T11:57:22.4823712+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:00:29.4017627+00:00",
-  "LastUpdate_Achievements": "2023-09-22T23:03:44.12768+00:00"
+  "LastUpdate_Ratings": "2023-09-23T00:01:04.8865439+00:00",
+  "LastUpdate_Achievements": "2023-09-23T00:04:02.3087383+00:00"
 }

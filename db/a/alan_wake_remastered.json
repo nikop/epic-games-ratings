@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65981,
+  "EOS_Progressed": 65983,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15552,6 +15552,11 @@
       "Time": "2023-09-22T23:05:29.3969803+00:00",
       "NumProgressed": 65981,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-23T00:06:01.9518774+00:00",
+      "NumProgressed": 65983,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15563,7 +15568,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 27052
+      "UsersEstimate": 27053
     },
     {
       "ID": "02",
@@ -15571,7 +15576,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17155
+      "UsersEstimate": 17156
     },
     {
       "ID": "03",
@@ -15579,7 +15584,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16495
+      "UsersEstimate": 16496
     },
     {
       "ID": "04",
@@ -15683,7 +15688,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "17",
@@ -15691,7 +15696,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "18",
@@ -15731,7 +15736,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "23",
@@ -15771,7 +15776,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "28",
@@ -15811,7 +15816,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21114
+      "UsersEstimate": 21115
     },
     {
       "ID": "33",
@@ -15899,7 +15904,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "44",
@@ -16027,7 +16032,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "60",
@@ -16035,7 +16040,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "61",
@@ -16043,7 +16048,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "62",
@@ -16098,21 +16103,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65981,
+      "Progressed": 65983,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29449,
+      "Progressed": 29451,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-22T23:05:29.3969799+00:00",
+  "LastChanged_Achievements": "2023-09-23T00:06:01.9518769+00:00",
   "LastUpdate_AppInfo": "2023-09-16T10:57:30.6163294+00:00",
-  "LastUpdate_Ratings": "2023-09-22T22:59:53.2315205+00:00",
-  "LastUpdate_Achievements": "2023-09-22T23:05:29.397152+00:00"
+  "LastUpdate_Ratings": "2023-09-23T00:00:20.7851145+00:00",
+  "LastUpdate_Achievements": "2023-09-23T00:06:01.9520712+00:00"
 }

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wild Ox | 45.00% | ~134 |
+| Wild Ox | 46.00% | ~137 |
 | Magic Ball | 36.00% | ~107 |
 | Assailants | 27.00% | ~80 |
 | Prisoner | 24.00% | ~71 |
+| Adventurer | 21.00% | ~62 |
 | First Commander | 20.00% | ~59 |
-| Adventurer | 20.00% | ~59 |
 | Second Commander | 18.00% | ~53 |
 | Third Commander | 16.00% | ~48 |
 | Janken The Great | 11.00% | ~33 |

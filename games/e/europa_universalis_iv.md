@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,449 |
-| That's a Grand Army | 3.00% | ~12,337 |
-| That is mine! | 3.00% | ~12,337 |
-| Victorious! | 3.00% | ~12,337 |
+| Until death do us apart | 4.00% | ~16,451 |
+| That's a Grand Army | 3.00% | ~12,338 |
+| That is mine! | 3.00% | ~12,338 |
+| Victorious! | 3.00% | ~12,338 |
 | Brothers in Arms | 2.00% | ~8,225 |
 | For the Glory | 2.00% | ~8,225 |
 | That's a Grand Navy | 2.00% | ~8,225 |
 | Seriously?! | 2.00% | ~8,225 |
-| Cold War | 1.00% | ~4,112 |
-| Defender of the Faith | 1.00% | ~4,112 |
-| It's all about the money | 1.00% | ~4,112 |
-| The Princess is in this Castle | 1.00% | ~4,112 |
-| True Catholic | 1.00% | ~4,112 |
+| Cold War | 1.00% | ~4,113 |
+| Defender of the Faith | 1.00% | ~4,113 |
+| It's all about the money | 1.00% | ~4,113 |
+| The Princess is in this Castle | 1.00% | ~4,113 |
+| True Catholic | 1.00% | ~4,113 |
 | It's all about luck | 0.90% | ~3,701 |
 | Respected | 0.90% | ~3,701 |
 | Truly Divine Ruler | 0.90% | ~3,701 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.70% | ~2,879 |
 | Royal Authority | 0.70% | ~2,879 |
 | Total Control | 0.70% | ~2,879 |
-| My armies are invincible! | 0.60% | ~2,467 |
+| My armies are invincible! | 0.60% | ~2,468 |
 | Agressive Expander | 0.50% | ~2,056 |
 | City of Cities | 0.50% | ~2,056 |
 | Combined Arms | 0.50% | ~2,056 |
@@ -45,16 +45,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,234 |
 | The Five Colonies | 0.30% | ~1,234 |
 | Trustworthy | 0.30% | ~1,234 |
-| All belongs to Mother Russia | 0.20% | ~822 |
-| At every continent | 0.20% | ~822 |
-| Early-Modern Warfare | 0.20% | ~822 |
-| Electable! | 0.20% | ~822 |
-| Grand Coalition | 0.20% | ~822 |
-| One Family to Rule them All | 0.20% | ~822 |
-| Ruina Imperii | 0.20% | ~822 |
-| The pen is mightier than the sword | 0.20% | ~822 |
-| Time Bandit | 0.20% | ~822 |
-| Traditional Player | 0.20% | ~822 |
+| All belongs to Mother Russia | 0.20% | ~823 |
+| At every continent | 0.20% | ~823 |
+| Early-Modern Warfare | 0.20% | ~823 |
+| Electable! | 0.20% | ~823 |
+| Grand Coalition | 0.20% | ~823 |
+| One Family to Rule them All | 0.20% | ~823 |
+| Ruina Imperii | 0.20% | ~823 |
+| The pen is mightier than the sword | 0.20% | ~823 |
+| Time Bandit | 0.20% | ~823 |
+| Traditional Player | 0.20% | ~823 |
 | The 52 Garhs | 0.10% | ~411 |
 | I don't like sand | 0.10% | ~411 |
 | A Blessed Nation | 0.10% | ~411 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411,228 (Ranked 40)  
+Progressed: 411,264 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,6 +517,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 409,400 | 0 |
 | 2023-09-21 | 410,221 | 0 |
 | 2023-09-22 | 411,228 | 0 |
+| 2023-09-23 | 411,264 | 0 |
 ## Awards
 Max (Educational): 6,215  (Ranked 56)  
 Sum: 51,004 (Ranked 25)  

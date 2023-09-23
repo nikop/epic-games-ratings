@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1024,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -1677,6 +1677,11 @@
       "Time": "2023-09-22T16:04:26.0487369+00:00",
       "NumProgressed": 1024,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-23T00:04:32.1730396+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1704,15 +1709,15 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_DICE_WIN",
       "SetID": "7k95e4n",
       "Name": "Roll with it",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1776,7 +1781,7 @@
       "Name": "Memento",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1784,7 +1789,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1800,7 +1805,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1824,7 +1829,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1840,7 +1845,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_STAR_2",
@@ -1886,9 +1891,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1896,14 +1901,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1024,
+      "Progressed": 1025,
       "Completed": 15
     }
   ],
@@ -1911,8 +1916,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-19T13:03:28.3019162+00:00",
-  "LastChanged_Achievements": "2023-09-22T23:04:10.3950583+00:00",
+  "LastChanged_Achievements": "2023-09-23T00:04:32.1730391+00:00",
   "LastUpdate_AppInfo": "2023-09-16T09:57:32.1597615+00:00",
-  "LastUpdate_Ratings": "2023-09-22T22:59:22.2563137+00:00",
-  "LastUpdate_Achievements": "2023-09-22T23:04:10.3950904+00:00"
+  "LastUpdate_Ratings": "2023-09-22T23:59:45.8218164+00:00",
+  "LastUpdate_Achievements": "2023-09-23T00:04:32.1730719+00:00"
 }

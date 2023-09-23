@@ -5,29 +5,29 @@ Rating: 4.28 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 61.00% | ~522 |
-| MVP | 60.00% | ~513 |
-| Big Spender | 57.00% | ~487 |
-| Stud Finder | 50.00% | ~428 |
-| Dealmaker | 47.00% | ~402 |
-| ROTY | 38.00% | ~325 |
-| Roster Reshuffle | 33.00% | ~282 |
-| Future of the Franchise | 26.00% | ~222 |
-| Change of Scenery | 20.00% | ~171 |
-| Pro Bowler | 18.00% | ~154 |
-| Throwin’ Dots | 17.00% | ~145 |
-| Primetime | 14.00% | ~120 |
-| Already in Progress | 14.00% | ~120 |
-| Unblockable | 10.00% | ~86 |
-| Pocket Ace | 6.00% | ~51 |
-| Head-to-Head | 6.00% | ~51 |
-| Lockdown Corner | 4.00% | ~34 |
+| Bragging Rights | 61.00% | ~529 |
+| MVP | 60.00% | ~521 |
+| Big Spender | 57.00% | ~495 |
+| Stud Finder | 50.00% | ~434 |
+| Dealmaker | 48.00% | ~417 |
+| ROTY | 39.00% | ~339 |
+| Roster Reshuffle | 33.00% | ~286 |
+| Future of the Franchise | 27.00% | ~234 |
+| Change of Scenery | 21.00% | ~182 |
+| Pro Bowler | 18.00% | ~156 |
+| Throwin’ Dots | 16.00% | ~139 |
+| Primetime | 14.00% | ~122 |
+| Already in Progress | 13.00% | ~113 |
+| Unblockable | 10.00% | ~87 |
+| Pocket Ace | 6.00% | ~52 |
+| Head-to-Head | 6.00% | ~52 |
+| Lockdown Corner | 4.00% | ~35 |
 | Gain Train | 1.00% | ~9 |
 | Ol' Reliable | 0.60% | ~5 |
 | The Fortress | 0.50% | ~4 |
 | Lockdown Leader | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 855 (Ranked 233)  
+Progressed: 868 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,6 +35,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 422 | 0 |
 | 2023-09-21 | 660 | 0 |
 | 2023-09-22 | 855 | 0 |
+| 2023-09-23 | 868 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 485)  
 Sum: 68 (Ranked 445)  

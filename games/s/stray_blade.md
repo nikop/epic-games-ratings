@@ -13,8 +13,8 @@
 | Don't Cry Wolf | 25.00% | ~21 |
 | Freezing Cold | 19.00% | ~16 |
 | Expert | 18.00% | ~15 |
+| Nothing but the Truth | 15.00% | ~13 |
 | Searing Heat | 14.00% | ~12 |
-| Nothing but the Truth | 14.00% | ~12 |
 | The Golden Flash | 14.00% | ~12 |
 | The Power of the Mountains | 14.00% | ~12 |
 | Changing the World | 12.00% | ~10 |

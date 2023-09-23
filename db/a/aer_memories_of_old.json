@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -404,11 +404,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20626,
-  "EOS_Completed": 415,
-  "EOS_NewPlayers": 496,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 2.01,
+  "EOS_Progressed": 20629,
+  "EOS_Completed": 416,
+  "EOS_NewPlayers": 498,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -17049,6 +17049,11 @@
       "Time": "2023-09-22T23:04:23.2093705+00:00",
       "NumProgressed": 20626,
       "NumCompleted": 415
+    },
+    {
+      "Time": "2023-09-23T00:04:46.5268556+00:00",
+      "NumProgressed": 20629,
+      "NumCompleted": 416
     }
   ],
   "TotalAchievements": 20,
@@ -17060,7 +17065,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -17084,7 +17089,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -17156,7 +17161,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -17180,7 +17185,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15882
+      "UsersEstimate": 15884
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17188,7 +17193,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5775
+      "UsersEstimate": 5776
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17219,15 +17224,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20626,
-      "Completed": 415
+      "Progressed": 20629,
+      "Completed": 416
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-22T04:02:14.2892048+00:00",
-  "LastChanged_Achievements": "2023-09-22T23:04:23.2093698+00:00",
+  "LastChanged_Achievements": "2023-09-23T00:04:46.5268551+00:00",
   "LastUpdate_AppInfo": "2023-09-16T12:58:49.5426795+00:00",
-  "LastUpdate_Ratings": "2023-09-22T23:02:22.4795394+00:00",
-  "LastUpdate_Achievements": "2023-09-22T23:04:23.2095326+00:00"
+  "LastUpdate_Ratings": "2023-09-23T00:03:14.2397968+00:00",
+  "LastUpdate_Achievements": "2023-09-23T00:04:46.5270104+00:00"
 }

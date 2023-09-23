@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 3.00% | ~422 |
 | Lighthouse | 3.00% | ~422 |
 | Pyramids | 3.00% | ~422 |
+| Learn to Play 1 | 3.00% | ~422 |
 | Christianity | 3.00% | ~422 |
 | Judaism | 3.00% | ~422 |
 | Babylonian Paganism | 3.00% | ~422 |
@@ -67,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 2.00% | ~281 |
 | Musaeum | 2.00% | ~281 |
 | Necropolis | 2.00% | ~281 |
-| Learn to Play 1 | 2.00% | ~281 |
 | Learn to Play 2 | 2.00% | ~281 |
 | Greece | 2.00% | ~281 |
 | Manichaeism | 2.00% | ~281 |

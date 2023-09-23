@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "44",
       "SetID": "5e3maia",
       "Name": "Fan",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "45",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-22T23:07:33.7829083+00:00",
+  "LastChanged_Achievements": "2023-09-23T00:08:22.078974+00:00",
   "LastUpdate_AppInfo": "2023-09-15T23:57:08.5887194+00:00",
-  "LastUpdate_Ratings": "2023-09-22T22:58:32.9964849+00:00",
-  "LastUpdate_Achievements": "2023-09-22T23:07:33.7830372+00:00"
+  "LastUpdate_Ratings": "2023-09-22T23:58:51.6455804+00:00",
+  "LastUpdate_Achievements": "2023-09-23T00:08:22.0790813+00:00"
 }

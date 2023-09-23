@@ -5,23 +5,23 @@ Rating: 4.51 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~3,891 |
-| Stogie for Fogey | 27.00% | ~3,184 |
-| Captain Drummer | 26.00% | ~3,066 |
-| Martian Music | 25.00% | ~2,948 |
-| Spore Taste | 24.00% | ~2,830 |
-| Celebrations are in Order | 24.00% | ~2,830 |
-| The Pit and the Pirates | 21.00% | ~2,476 |
-| Drone Dodger | 21.00% | ~2,476 |
-| Doctor Approved | 19.00% | ~2,240 |
-| Thorston Mayer | 14.00% | ~1,651 |
-| Bottoms up! | 11.00% | ~1,297 |
-| Bosmang | 9.00% | ~1,061 |
-| Call it Even | 7.00% | ~825 |
-| Data Archivist | 6.00% | ~707 |
-| Data Logger | 6.00% | ~707 |
-| Heal Thy Medic | 6.00% | ~707 |
-| Data Master | 6.00% | ~707 |
+| Impossible Objects | 33.00% | ~3,897 |
+| Stogie for Fogey | 27.00% | ~3,188 |
+| Captain Drummer | 26.00% | ~3,070 |
+| Martian Music | 25.00% | ~2,952 |
+| Spore Taste | 24.00% | ~2,834 |
+| Celebrations are in Order | 24.00% | ~2,834 |
+| The Pit and the Pirates | 21.00% | ~2,480 |
+| Drone Dodger | 21.00% | ~2,480 |
+| Doctor Approved | 19.00% | ~2,244 |
+| Thorston Mayer | 14.00% | ~1,653 |
+| Bottoms up! | 11.00% | ~1,299 |
+| Bosmang | 9.00% | ~1,063 |
+| Call it Even | 7.00% | ~827 |
+| Data Archivist | 6.00% | ~708 |
+| Data Logger | 6.00% | ~708 |
+| Heal Thy Medic | 6.00% | ~708 |
+| Data Master | 6.00% | ~708 |
 | Khan's Revenge | 5.00% | ~590 |
 | Data Recoverer | 5.00% | ~590 |
 | Miraculous Maya | 4.00% | ~472 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 547)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,791 (Ranked 131)  
+Progressed: 11,808 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 290)
 | 2023-09-20 | 11,076 | 0 |
 | 2023-09-21 | 11,365 | 0 |
 | 2023-09-22 | 11,791 | 0 |
+| 2023-09-23 | 11,808 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

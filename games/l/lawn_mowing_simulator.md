@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~533,502 |
-| Every story has a beginning | 36.00% | ~240,076 |
-| The first of many | 31.00% | ~206,732 |
-| Positive word of mouth | 18.00% | ~120,038 |
-| Lawn in the U.S.A. | 15.00% | ~100,032 |
-| Blade Runner | 9.00% | ~60,019 |
-| Credible | 7.00% | ~46,681 |
+| The dream begins | 80.00% | ~533,512 |
+| Every story has a beginning | 36.00% | ~240,080 |
+| The first of many | 31.00% | ~206,736 |
+| Positive word of mouth | 18.00% | ~120,040 |
+| Lawn in the U.S.A. | 15.00% | ~100,034 |
+| Blade Runner | 9.00% | ~60,020 |
+| Credible | 7.00% | ~46,682 |
 | Teamwork makes the dream work | 6.00% | ~40,013 |
-| Where there's muck there's brass | 4.00% | ~26,675 |
-| Bigger and better | 4.00% | ~26,675 |
-| Aggressive expansion | 4.00% | ~26,675 |
-| Size isn't everything | 3.00% | ~20,006 |
-| Close shave | 3.00% | ~20,006 |
-| Established | 3.00% | ~20,006 |
+| Where there's muck there's brass | 4.00% | ~26,676 |
+| Bigger and better | 4.00% | ~26,676 |
+| Aggressive expansion | 4.00% | ~26,676 |
+| Size isn't everything | 3.00% | ~20,007 |
+| Close shave | 3.00% | ~20,007 |
+| Established | 3.00% | ~20,007 |
 | Fighting on all fronts | 2.00% | ~13,338 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,338 |
 | Every good deed… | 2.00% | ~13,338 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~667 |
 | Mo mowers, mo problems | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,878 (Ranked 23)  
+Progressed: 666,890 (Ranked 23)  
 Completed: 16 (0.00%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 16 (0.00%) (Ranked 290)
 | 2023-09-20 | 666,352 | 16 |
 | 2023-09-21 | 666,580 | 16 |
 | 2023-09-22 | 666,878 | 16 |
+| 2023-09-23 | 666,890 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 283)  
 Sum: 980 (Ranked 244)  
