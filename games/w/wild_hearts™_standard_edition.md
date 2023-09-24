@@ -35,10 +35,10 @@
 | Karakuri Isle | 36.00% | ~15 |
 | Jack of All Trades | 36.00% | ~15 |
 | Style Seeker | 33.00% | ~14 |
+| Unrivaled in Arms | 33.00% | ~14 |
 | Artful Assister | 33.00% | ~14 |
 | Karakuri Minato | 33.00% | ~14 |
 | Human Believer | 31.00% | ~13 |
-| Unrivaled in Arms | 31.00% | ~13 |
 | Threaded Harmony | 31.00% | ~13 |
 | Superlative View | 29.00% | ~12 |
 | Quintessence of Form | 29.00% | ~12 |

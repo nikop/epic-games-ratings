@@ -11,7 +11,7 @@ Rating: 4.82 (Ranked 64)
 | Pentakill | 78.00% | ~2,012 |
 | Dark Forest | 78.00% | ~2,012 |
 | The use of petricite | 75.00% | ~1,935 |
-| You can pet the dog | 61.00% | ~1,574 |
+| You can pet the dog | 62.00% | ~1,600 |
 | Big Helmet Bro | 38.00% | ~980 |
 | Clarion Cove | 38.00% | ~980 |
 | Thornbarrow | 37.00% | ~955 |
@@ -60,7 +60,7 @@ Rating: 4.82 (Ranked 64)
 | The Unshackled | 0.90% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,580 (Ranked 189)  
-Completed: 9 (0.35%) (Ranked 181)  
+Completed: 9 (0.35%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

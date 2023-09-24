@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1190,8 +1190,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:08:23.8397138+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:09:15.9271266+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:57:03.6360519+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:08:23.8397339+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:57:23.018574+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:09:15.9271505+00:00"
 }

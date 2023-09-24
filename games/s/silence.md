@@ -21,7 +21,7 @@
 | Like a moth in the Wind | 24.00% | ~29 |
 | Shadow on the wall | 23.00% | ~28 |
 | Bubblekillerfamily | 23.00% | ~28 |
-| Quite a buggy game | 21.00% | ~25 |
+| Quite a buggy game | 22.00% | ~27 |
 | Pacifist | 21.00% | ~25 |
 | Mirror mirror on the wall... | 21.00% | ~25 |
 | Fastidious Clown | 20.00% | ~24 |

@@ -46,6 +46,7 @@ Rating: 3.54 (Ranked 997)
 | I Spit On Your Grave | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
+| Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |
 | Empty Nest Syndrome | 0.10% | ~2 |
@@ -59,7 +60,6 @@ Rating: 3.54 (Ranked 997)
 | Good Samaritan | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Scream Team | 0.00% | ~0 |
-| Monster Hunters Club | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
 | Faith Healer | 0.00% | ~0 |
 | A Cry in the Dark | 0.00% | ~0 |

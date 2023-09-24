@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8070,9 +8070,9 @@
       "Count": 671
     }
   ],
-  "EOS_Progressed": 297267,
+  "EOS_Progressed": 297274,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25100,6 +25100,11 @@
       "Time": "2023-09-24T20:06:05.9071396+00:00",
       "NumProgressed": 297267,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-24T21:06:30.07634+00:00",
+      "NumProgressed": 297274,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25111,7 +25116,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41617
+      "UsersEstimate": 41618
     },
     {
       "ID": "PFA_10",
@@ -25157,9 +25162,9 @@
       "ID": "PFA_15",
       "SetID": "1hf4dep",
       "Name": "The Avenging Gazelle",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 20809
+      "UsersEstimate": 23782
     },
     {
       "ID": "PFA_16",
@@ -25183,7 +25188,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23781
+      "UsersEstimate": 23782
     },
     {
       "ID": "PFA_19",
@@ -25231,7 +25236,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35672
+      "UsersEstimate": 35673
     },
     {
       "ID": "PFA_24",
@@ -25295,7 +25300,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32699
+      "UsersEstimate": 32700
     },
     {
       "ID": "PFA_31",
@@ -25335,7 +25340,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26754
+      "UsersEstimate": 26755
     },
     {
       "ID": "PFA_36",
@@ -25391,7 +25396,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14863
+      "UsersEstimate": 14864
     },
     {
       "ID": "PFA_42",
@@ -25415,7 +25420,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23781
+      "UsersEstimate": 23782
     },
     {
       "ID": "PFA_45",
@@ -25439,7 +25444,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38645
+      "UsersEstimate": 38646
     },
     {
       "ID": "PFA_7",
@@ -25447,7 +25452,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38645
+      "UsersEstimate": 38646
     },
     {
       "ID": "PFA_8",
@@ -25455,7 +25460,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32699
+      "UsersEstimate": 32700
     },
     {
       "ID": "PFA_9",
@@ -25463,14 +25468,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26754
+      "UsersEstimate": 26755
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297267,
+      "Progressed": 297274,
       "Completed": 477
     }
   ],
@@ -25478,8 +25483,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-24T19:59:45.8092665+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:06:05.9071392+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:06:30.0763394+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:59:45.809267+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:06:05.9072461+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:59:56.1994074+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:06:30.0764839+00:00"
 }

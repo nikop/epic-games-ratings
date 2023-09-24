@@ -6,53 +6,53 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~2,321 |
-| A normal day in Gloomhaven | 31.00% | ~1,894 |
-| Overkill | 29.00% | ~1,772 |
-| Vaccine Incoming | 27.00% | ~1,649 |
-| Spread the plague | 25.00% | ~1,527 |
-| Get over here! | 22.00% | ~1,344 |
-| Just when I thought I was out... | 17.00% | ~1,039 |
-| Mine... All Mine... | 16.00% | ~977 |
-| Anatomy Lesson | 14.00% | ~855 |
-| Light of my life | 13.00% | ~794 |
-| You activated my trap card! | 12.00% | ~733 |
-| Augmented rat | 12.00% | ~733 |
-| Obstacle race | 12.00% | ~733 |
-| Doom and gloom | 11.00% | ~672 |
-| Precious! | 10.00% | ~611 |
-| Grizzled veteran | 8.00% | ~489 |
-| Pack leader | 7.00% | ~428 |
-| Pain is your friend | 7.00% | ~428 |
-| Play it again, Sam | 7.00% | ~428 |
-| Black death | 6.00% | ~367 |
-| Who's the Boss? | 5.00% | ~305 |
-| Quad damage | 5.00% | ~305 |
-| Dungeon Veteran | 4.00% | ~244 |
-| The Pro from Dover | 4.00% | ~244 |
-| Pretty lights! | 4.00% | ~244 |
-| Now you see me... | 4.00% | ~244 |
-| Power Up! | 3.00% | ~183 |
-| Merchant of doom | 2.00% | ~122 |
-| Caught off guard | 2.00% | ~122 |
-| Master Assassin | 2.00% | ~122 |
-| Grin and bear it | 2.00% | ~122 |
-| I hate portals | 1.00% | ~61 |
-| Down the hatch | 1.00% | ~61 |
-| An eye for an eye | 1.00% | ~61 |
-| The Sniper | 1.00% | ~61 |
-| An axe to grind | 1.00% | ~61 |
-| How to train your Drake | 0.90% | ~55 |
+| I'm not dead yet | 39.00% | ~2,403 |
+| A normal day in Gloomhaven | 31.00% | ~1,910 |
+| Overkill | 29.00% | ~1,787 |
+| Vaccine Incoming | 28.00% | ~1,725 |
+| Spread the plague | 26.00% | ~1,602 |
+| Get over here! | 22.00% | ~1,355 |
+| Just when I thought I was out... | 17.00% | ~1,047 |
+| Mine... All Mine... | 16.00% | ~986 |
+| Light of my life | 14.00% | ~863 |
+| Anatomy Lesson | 14.00% | ~863 |
+| You activated my trap card! | 12.00% | ~739 |
+| Augmented rat | 12.00% | ~739 |
+| Obstacle race | 12.00% | ~739 |
+| Doom and gloom | 11.00% | ~678 |
+| Precious! | 10.00% | ~616 |
+| Grizzled veteran | 8.00% | ~493 |
+| Pack leader | 7.00% | ~431 |
+| Pain is your friend | 7.00% | ~431 |
+| Play it again, Sam | 7.00% | ~431 |
+| Black death | 6.00% | ~370 |
+| Who's the Boss? | 5.00% | ~308 |
+| Quad damage | 5.00% | ~308 |
+| Dungeon Veteran | 4.00% | ~246 |
+| The Pro from Dover | 4.00% | ~246 |
+| Pretty lights! | 4.00% | ~246 |
+| Now you see me... | 4.00% | ~246 |
+| Power Up! | 3.00% | ~185 |
+| Merchant of doom | 2.00% | ~123 |
+| Caught off guard | 2.00% | ~123 |
+| Master Assassin | 2.00% | ~123 |
+| Grin and bear it | 2.00% | ~123 |
+| I hate portals | 1.00% | ~62 |
+| Down the hatch | 1.00% | ~62 |
+| An eye for an eye | 1.00% | ~62 |
+| The Sniper | 1.00% | ~62 |
+| An axe to grind | 1.00% | ~62 |
 | Add a bit of colour | 0.80% | ~49 |
-| The Cephalophore | 0.80% | ~49 |
+| How to train your Drake | 0.80% | ~49 |
+| New Blood | 0.80% | ~49 |
+| From Gloom, only greed and death emerges | 0.70% | ~43 |
 | The Rat King | 0.70% | ~43 |
-| New Blood | 0.70% | ~43 |
-| From Gloom, only greed and death emerges | 0.60% | ~37 |
+| The Cephalophore | 0.70% | ~43 |
 | Captain hooked | 0.50% | ~31 |
 | The Pacifist | 0.50% | ~31 |
-| Betray this | 0.40% | ~24 |
+| Betray this | 0.40% | ~25 |
+| A tough job | 0.40% | ~25 |
 | Spoiler police! | 0.30% | ~18 |
-| A tough job | 0.30% | ~18 |
 | Pull out the big guns | 0.30% | ~18 |
 | Crimson Tornado | 0.30% | ~18 |
 | Born Support | 0.30% | ~18 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~6 |
 | Murder Death Kill | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,109 (Ranked 154)  
+Progressed: 6,161 (Ranked 154)  
 Completed: 1 (0.02%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.02%) (Ranked 266)
 | 2023-09-21 | 3,873 | 0 |
 | 2023-09-22 | 4,676 | 1 |
 | 2023-09-23 | 5,424 | 1 |
-| 2023-09-24 | 6,109 | 1 |
+| 2023-09-24 | 6,161 | 1 |
 ## Awards
 Max (Character Customization): 3,533  (Ranked 89)  
 Sum: 8,226 (Ranked 99)  

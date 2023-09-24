@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 893,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 157,
@@ -760,7 +760,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5884,
+  "EOS_Progressed": 5885,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -7815,6 +7815,11 @@
       "Time": "2023-09-24T19:03:19.2898587+00:00",
       "NumProgressed": 5884,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T21:03:24.3965184+00:00",
+      "NumProgressed": 5885,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7826,7 +7831,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4648
+      "UsersEstimate": 4649
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7834,7 +7839,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7842,7 +7847,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7858,7 +7863,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7874,7 +7879,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2883
+      "UsersEstimate": 2884
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -7882,7 +7887,7 @@
       "Name": "Scaling up",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7930,7 +7935,7 @@
       "Name": "Goldfish?",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -8105,13 +8110,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5884,
+      "Progressed": 5885,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5256,
+      "Progressed": 5257,
       "Completed": 112
     }
   ],
@@ -8119,8 +8124,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-24T05:58:48.7914025+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:02:29.1202844+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:03:24.3965181+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.3965529+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:58:24.6834343+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:02:29.1203439+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:58:39.7864493+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:03:24.3965979+00:00"
 }

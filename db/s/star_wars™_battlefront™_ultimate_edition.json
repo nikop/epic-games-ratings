@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_19",
@@ -546,9 +546,9 @@
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_33",
@@ -570,9 +570,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_36",
@@ -618,9 +618,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_41",
@@ -865,8 +865,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:04:59.2151264+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:05:23.8152576+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:00:25.3740759+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:04:59.2151791+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:00:34.4915792+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:05:23.8153297+00:00"
 }

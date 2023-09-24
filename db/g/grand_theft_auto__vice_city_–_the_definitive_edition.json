@@ -676,9 +676,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 10331,
+  "EOS_Progressed": 10333,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10386,6 +10386,11 @@
       "Time": "2023-09-24T19:04:46.2785294+00:00",
       "NumProgressed": 10331,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-24T21:04:49.5087623+00:00",
+      "NumProgressed": 10333,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10477,7 +10482,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "ACH12",
@@ -10501,7 +10506,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4339
+      "UsersEstimate": 4340
     },
     {
       "ID": "ACH15",
@@ -10557,7 +10562,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "ACH22",
@@ -10565,7 +10570,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "ACH23",
@@ -10668,7 +10673,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10331,
+      "Progressed": 10333,
       "Completed": 58
     }
   ],
@@ -10676,8 +10681,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-24T12:00:28.8282064+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:04:24.5711868+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:04:49.5087618+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:00:51.2316906+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:04:24.57125+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:01:00.2345638+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:04:49.5088379+00:00"
 }

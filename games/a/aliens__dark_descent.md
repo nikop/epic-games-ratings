@@ -5,7 +5,7 @@ Rating: 4.49 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,748 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,781 |
 | Snatched Out | 74.00% | ~2,510 |
 | Keep 'Em Coming | 73.00% | ~2,476 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,273 |
@@ -27,7 +27,7 @@ Rating: 4.49 (Ranked 587)
 | The More The Merrier | 33.00% | ~1,119 |
 | The Darwin Era Was Here | 29.00% | ~984 |
 | Deep Into Insanity | 28.00% | ~950 |
-| The Passenger | 27.00% | ~916 |
+| The Passenger | 28.00% | ~950 |
 | Come on, You Wanna Live Forever? | 26.00% | ~882 |
 | The Spire | 25.00% | ~848 |
 | El Riesgo Siempre Vive | 23.00% | ~780 |

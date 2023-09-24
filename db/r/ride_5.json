@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1114,
+  "EOS_Progressed": 1115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1664,6 +1664,11 @@
       "Time": "2023-09-24T20:04:34.6546337+00:00",
       "NumProgressed": 1114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T21:04:59.9103445+00:00",
+      "NumProgressed": 1115,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1682,9 +1687,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "c7hf6a4",
       "Name": "Hear That Roar!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 413
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1748,7 +1753,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1764,7 +1769,7 @@
       "Name": "Legendary!!!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1778,9 +1783,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 190
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1884,7 +1889,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1972,7 +1977,7 @@
       "Name": "Eat My Dust",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2067,14 +2072,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1114,
+      "Progressed": 1115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:04:34.6546333+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:04:59.9103442+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:02:08.2114813+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:04:34.6546759+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:03:05.2048632+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:04:59.9103962+00:00"
 }

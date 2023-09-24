@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~138 |
+| New Recruit | 91.00% | ~139 |
 | Off to a good start | 71.00% | ~109 |
-| Do... or do not. There is no try | 47.00% | ~72 |
+| Do... or do not. There is no try | 48.00% | ~73 |
 | A good blaster at your side | 36.00% | ~55 |
 | Great shot, kid! | 27.00% | ~41 |
+| The power of the Force | 25.00% | ~38 |
 | Scrap collector | 25.00% | ~38 |
-| The power of the Force | 24.00% | ~37 |
 | Collector | 23.00% | ~35 |
 | I suggest a new strategy | 22.00% | ~34 |
 | Shoot first | 22.00% | ~34 |
 | Tell Jabba that I've got his money | 18.00% | ~28 |
+| All right, I'll give it a try | 18.00% | ~28 |
 | Together we can rule the galaxy | 17.00% | ~26 |
-| All right, I'll give it a try | 17.00% | ~26 |
 | A cunning warrior | 17.00% | ~26 |
 | What's the cargo? | 16.00% | ~24 |
 | Never tell me the odds! | 15.00% | ~23 |

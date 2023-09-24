@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -4003,9 +4003,9 @@
       "ID": "STB_PET_DOG",
       "SetID": "3pe2bac",
       "Name": "You can pet the dog",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1600
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4132,8 +4132,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:03:44.9047978+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:04:10.3386374+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:04.8253651+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:00:04.968733+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:03:44.90485+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:00:15.6748213+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:04:10.338698+00:00"
 }

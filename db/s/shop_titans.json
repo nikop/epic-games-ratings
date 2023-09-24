@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 955,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 69,
@@ -6238,9 +6238,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136659,
+  "EOS_Progressed": 136661,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22403,6 +22403,11 @@
       "Time": "2023-09-24T20:04:55.3420644+00:00",
       "NumProgressed": 136659,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-09-24T21:05:20.004589+00:00",
+      "NumProgressed": 136661,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 112,
@@ -22484,9 +22489,9 @@
       "ID": "ashley_a",
       "SetID": "anfd17p",
       "Name": "A Ronin Reborn",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 683
     },
     {
       "ID": "bigsale01",
@@ -23309,15 +23314,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136659,
+      "Progressed": 136661,
       "Completed": 154
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-24T15:01:39.0099523+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:04:55.3420637+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:05:20.0045885+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:00:35.5139387+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:04:55.3422583+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:00:45.762652+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:05:20.0048467+00:00"
 }

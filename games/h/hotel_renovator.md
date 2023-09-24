@@ -5,7 +5,7 @@ Rating: 4.39 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~792 |
+| Good start | 77.00% | ~802 |
 | And so it begins | 73.00% | ~761 |
 | No pressure | 70.00% | ~729 |
 | Memento | 62.00% | ~646 |
@@ -13,7 +13,7 @@ Rating: 4.39 (Ranked 723)
 | I think you dropped this | 55.00% | ~573 |
 | Soulmate? | 54.00% | ~563 |
 | Excellent service | 49.00% | ~511 |
-| Roll with it | 46.00% | ~479 |
+| Roll with it | 47.00% | ~490 |
 | Humble beginnings | 44.00% | ~458 |
 | Love is in the air | 44.00% | ~458 |
 | Fine, I'll do it myself | 43.00% | ~448 |

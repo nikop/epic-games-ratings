@@ -6,25 +6,25 @@ Rating: 4.56 (Ranked 471)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 29.00% | ~5,259 |
-| Mainframe Hacker | 22.00% | ~3,989 |
-| The Spy who eliminated me | 22.00% | ~3,989 |
+| Mainframe Hacker | 22.00% | ~3,990 |
+| The Spy who eliminated me | 22.00% | ~3,990 |
 | Tomorrow Never Dyes | 21.00% | ~3,808 |
-| Never Say Loser Again | 19.00% | ~3,445 |
+| Never Say Loser Again | 19.00% | ~3,446 |
 | From the Vault with Love | 18.00% | ~3,264 |
 | For your Eyes only | 18.00% | ~3,264 |
 | Assistant Accountant | 17.00% | ~3,083 |
 | Tailor-Made | 17.00% | ~3,083 |
-| You Only Live Twice | 16.00% | ~2,901 |
-| Fully Decked Out | 16.00% | ~2,901 |
-| A view to Win | 13.00% | ~2,357 |
+| You Only Live Twice | 16.00% | ~2,902 |
+| Fully Decked Out | 16.00% | ~2,902 |
+| A view to Win | 13.00% | ~2,358 |
 | Private Collection | 12.00% | ~2,176 |
 | Smells Like Trouble | 12.00% | ~2,176 |
 | The Living Portrait | 11.00% | ~1,995 |
 | My Motto, My Creed | 11.00% | ~1,995 |
 | Killer Looks | 11.00% | ~1,995 |
 | Hostile Takeover | 11.00% | ~1,995 |
-| Keycards Royale | 10.00% | ~1,813 |
-| Dr. No Kill | 10.00% | ~1,813 |
+| Keycards Royale | 10.00% | ~1,814 |
+| Dr. No Kill | 10.00% | ~1,814 |
 | In It to Win It | 9.00% | ~1,632 |
 | Security Supervisor | 6.00% | ~1,088 |
 | License to Thrill | 5.00% | ~907 |
@@ -36,13 +36,13 @@ Rating: 4.56 (Ranked 471)
 | PHD in VIP | 2.00% | ~363 |
 | The terminals are not enough | 1.00% | ~181 |
 | Lose Another Day | 1.00% | ~181 |
-| Chief Information Officer | 0.80% | ~145 |
 | Chairman of Deceive Inc. | 0.80% | ~145 |
+| Chief Information Officer | 0.70% | ~127 |
 | Masteries Are Forever | 0.40% | ~73 |
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,134 (Ranked 121)  
+Progressed: 18,135 (Ranked 121)  
 Completed: 3 (0.02%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 3 (0.02%) (Ranked 266)
 | 2023-09-21 | 18,082 | 3 |
 | 2023-09-22 | 18,098 | 3 |
 | 2023-09-23 | 18,118 | 3 |
-| 2023-09-24 | 18,134 | 3 |
+| 2023-09-24 | 18,135 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

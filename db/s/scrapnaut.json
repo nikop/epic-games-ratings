@@ -1256,9 +1256,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1481,8 +1481,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:03:41.8572769+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:04:07.2388486+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:18.5468177+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:57:05.5941016+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:03:41.8573035+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:57:24.6344849+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:04:07.2388768+00:00"
 }

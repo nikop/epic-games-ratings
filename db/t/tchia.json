@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7516,
+  "EOS_Progressed": 7518,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -7094,6 +7094,11 @@
       "Time": "2023-09-24T18:05:00.7688011+00:00",
       "NumProgressed": 7516,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-24T21:04:35.9284941+00:00",
+      "NumProgressed": 7518,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7161,7 +7166,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "FASHION_VICTIM",
@@ -7169,7 +7174,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -7209,7 +7214,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "LIBERATOR",
@@ -7257,7 +7262,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "THING",
@@ -7272,7 +7277,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7516,
+      "Progressed": 7518,
       "Completed": 33
     }
   ],
@@ -7280,8 +7285,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:04:11.0425548+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:04:35.9284938+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:07.4802166+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:59:39.6801018+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:04:11.0426038+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:59:49.501207+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:04:35.9285526+00:00"
 }

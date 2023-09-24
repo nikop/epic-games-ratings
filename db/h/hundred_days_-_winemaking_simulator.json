@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4831,
+  "EOS_Progressed": 4839,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1143,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4025,6 +4025,11 @@
       "Time": "2023-09-24T20:08:15.1862245+00:00",
       "NumProgressed": 4831,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-24T21:09:07.8756491+00:00",
+      "NumProgressed": 4839,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4037,7 +4042,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "a_10",
@@ -4085,7 +4090,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1742
     },
     {
       "ID": "a_19",
@@ -4093,7 +4098,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "a_2",
@@ -4125,7 +4130,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "a_23",
@@ -4141,7 +4146,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "a_26",
@@ -4181,7 +4186,7 @@
       "Name": "King of red wines",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_31",
@@ -4284,7 +4289,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4831,
+      "Progressed": 4839,
       "Completed": 6
     }
   ],
@@ -4292,8 +4297,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:08:15.186224+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:09:07.8756487+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:00:11.4065665+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:08:15.1862618+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:00:21.6786697+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:09:07.8756918+00:00"
 }

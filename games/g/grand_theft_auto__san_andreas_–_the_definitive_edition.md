@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,397 |
-| Pay 'n' Spray | 50.00% | ~6,418 |
-| All Dressed Up for San Fierro | 25.00% | ~3,209 |
-| The American Dream | 19.00% | ~2,439 |
-| School's Out | 18.00% | ~2,310 |
-| Smooth Moves | 17.00% | ~2,182 |
-| What happens in Las Venturas... | 15.00% | ~1,925 |
-| Today Was a Good Day | 15.00% | ~1,925 |
+| Getting Started | 81.00% | ~10,400 |
+| Pay 'n' Spray | 50.00% | ~6,420 |
+| All Dressed Up for San Fierro | 25.00% | ~3,210 |
+| The American Dream | 19.00% | ~2,440 |
+| School's Out | 18.00% | ~2,311 |
+| Smooth Moves | 17.00% | ~2,183 |
+| What happens in Las Venturas... | 15.00% | ~1,926 |
+| Today Was a Good Day | 15.00% | ~1,926 |
 | Horror of the Santa Maria | 11.00% | ~1,412 |
 | Liberty City State of Mind | 10.00% | ~1,284 |
 | The End of the Line | 8.00% | ~1,027 |
@@ -21,7 +21,7 @@ Rating: 4.56 (Ranked 471)
 | Saviour | 6.00% | ~770 |
 | They Can’t Stop All of Us | 5.00% | ~642 |
 | Rescue a Kitten Too? | 5.00% | ~642 |
-| What are the Odds | 4.00% | ~513 |
+| What are the Odds | 4.00% | ~514 |
 | Bike or Biker | 3.00% | ~385 |
 | What the City Needs | 3.00% | ~385 |
 | A Legitimate Business | 2.00% | ~257 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 471)
 | ...Here we go again | 0.50% | ~64 |
 | I Ain't No Buster | 0.30% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,836 (Ranked 133)  
-Completed: 45 (0.35%) (Ranked 181)  
+Progressed: 12,840 (Ranked 133)  
+Completed: 45 (0.35%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,11 +198,11 @@ Completed: 45 (0.35%) (Ranked 181)
 | 2023-09-21 | 12,641 | 45 |
 | 2023-09-22 | 12,700 | 45 |
 | 2023-09-23 | 12,771 | 45 |
-| 2023-09-24 | 12,836 | 45 |
+| 2023-09-24 | 12,840 | 45 |
 ## Awards
 Max (Great Boss Battles): 306  (Ranked 237)  
-Sum: 426 (Ranked 317)  
-Diff (max vs sum): -80  
+Sum: 426 (Ranked 318)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 306 |

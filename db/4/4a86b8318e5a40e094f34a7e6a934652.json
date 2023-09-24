@@ -3,9 +3,9 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.44,
+  "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -616,6 +616,11 @@
       "Time": "2023-09-24T20:03:45.1687251+00:00",
       "NumProgressed": 139,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T21:04:10.5434481+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -626,9 +631,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -636,7 +641,7 @@
       "Name": "Design Engineer",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "BRING_MARY",
@@ -666,7 +671,7 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
       "UsersEstimate": 76
     },
@@ -706,9 +711,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -748,7 +753,7 @@
       "Name": "Bridge Builder",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -756,7 +761,7 @@
       "Name": "Sleepyhead",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -772,29 +777,29 @@
       "Name": "Uppies!",
       "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-24T20:03:45.1687247+00:00",
+  "LastChanged_Achievements": "2023-09-24T21:04:10.5434473+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:59:20.6265839+00:00",
-  "LastUpdate_Achievements": "2023-09-24T20:03:45.1687397+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:59:33.2324544+00:00",
+  "LastUpdate_Achievements": "2023-09-24T21:04:10.5434888+00:00"
 }
