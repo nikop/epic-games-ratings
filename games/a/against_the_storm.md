@@ -47,8 +47,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 1.00% | ~167 |
 | Blood Flower Farmer | 1.00% | ~167 |
 | Victory through Prosperity | 1.00% | ~167 |
+| Lizard Utopia | 0.80% | ~134 |
 | Human Utopia | 0.70% | ~117 |
-| Lizard Utopia | 0.70% | ~117 |
 | Beaver Utopia | 0.60% | ~100 |
 | The Queen's Chosen | 0.60% | ~100 |
 | Harpy Utopia | 0.40% | ~67 |

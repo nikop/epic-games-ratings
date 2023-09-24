@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -414,9 +414,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246917,
+  "EOS_Progressed": 246918,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17839,6 +17839,11 @@
       "Time": "2023-09-24T01:49:02.5288913+00:00",
       "NumProgressed": 246917,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-24T02:21:34.95104+00:00",
+      "NumProgressed": 246918,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -18170,7 +18175,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61729
+      "UsersEstimate": 61730
     },
     {
       "ID": "ACH_SOREAD",
@@ -18265,7 +18270,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246917,
+      "Progressed": 246918,
       "Completed": 7
     }
   ],
@@ -18273,8 +18278,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:49:02.5288907+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:21:34.9510392+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:14.4356466+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:45:00.3861651+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:49:02.5291628+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:18:07.3257686+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:21:34.9512263+00:00"
 }

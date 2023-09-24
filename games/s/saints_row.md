@@ -6,15 +6,15 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~33,276 |
+| First F#@!ing Day | 46.00% | ~33,277 |
 | To The Nines | 42.00% | ~30,383 |
-| Optimized | 36.00% | ~26,042 |
-| Performance Review | 36.00% | ~26,042 |
+| Optimized | 36.00% | ~26,043 |
+| Performance Review | 36.00% | ~26,043 |
 | Making a Name | 34.00% | ~24,596 |
-| Tune Up | 33.00% | ~23,872 |
+| Tune Up | 33.00% | ~23,873 |
 | Landlord | 32.00% | ~23,149 |
-| The Side Job | 31.00% | ~22,425 |
-| Wet Work | 31.00% | ~22,425 |
+| The Side Job | 31.00% | ~22,426 |
+| Wet Work | 31.00% | ~22,426 |
 | Wrecking Ball | 27.00% | ~19,532 |
 | Food for Thought | 27.00% | ~19,532 |
 | Finders Keepers | 25.00% | ~18,085 |
@@ -23,12 +23,12 @@ Number of Ratings: 22,103  (23.09.2022)
 | Picking Fights | 19.00% | ~13,745 |
 | Quality Time | 18.00% | ~13,021 |
 | Power Players | 18.00% | ~13,021 |
-| Showdown | 16.00% | ~11,574 |
-| Et tu? | 16.00% | ~11,574 |
-| Took It to The Limit | 16.00% | ~11,574 |
+| Showdown | 16.00% | ~11,575 |
+| Et tu? | 16.00% | ~11,575 |
+| Took It to The Limit | 16.00% | ~11,575 |
 | Kitted Out | 14.00% | ~10,128 |
 | Masters of Santo Ileso | 12.00% | ~8,681 |
-| Hijacked | 11.00% | ~7,957 |
+| Hijacked | 11.00% | ~7,958 |
 | The Spins | 10.00% | ~7,234 |
 | The Mechanic | 10.00% | ~7,234 |
 | We could go home, or… | 7.00% | ~5,064 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~145 |
 | Fiesta Time | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,340 (Ranked 85)  
+Progressed: 72,341 (Ranked 85)  
 Completed: 49 (0.07%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 49 (0.07%) (Ranked 242)
 | 2023-09-21 | 71,970 | 48 |
 | 2023-09-22 | 72,126 | 48 |
 | 2023-09-23 | 72,319 | 49 |
-| 2023-09-24 | 72,340 | 49 |
+| 2023-09-24 | 72,341 | 49 |
 ## Awards
 Max (Extremely Fun): 1,067  (Ranked 141)  
 Sum: 8,648 (Ranked 97)  

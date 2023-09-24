@@ -613,9 +613,9 @@
       "ID": "ACHIEVEMENT036",
       "SetID": "dejhjd5",
       "Name": "First Time Hunting",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -741,8 +741,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:48:51.1709811+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:21:22.0078579+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.6096057+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:43:15.6327141+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:48:51.1710504+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:16:03.9015591+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:21:22.0079236+00:00"
 }

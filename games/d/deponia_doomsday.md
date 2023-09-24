@@ -5,31 +5,31 @@ Rating: 4.57 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~363 |
-| And again, and again, and... | 63.00% | ~260 |
-| Burn, Elysium, burn! | 62.00% | ~256 |
-| Kuvaq Minigame-Master | 61.00% | ~252 |
-| FunScore | 55.00% | ~227 |
+| Huzza, he's back. | 88.00% | ~364 |
+| And again, and again, and... | 63.00% | ~261 |
+| Burn, Elysium, burn! | 62.00% | ~257 |
+| Kuvaq Minigame-Master | 61.00% | ~253 |
+| FunScore | 55.00% | ~228 |
 | Funtime's over | 53.00% | ~219 |
-| Chunky | 50.00% | ~206 |
-| Shall we play a game? | 48.00% | ~198 |
-| Boat of love, boat of love | 48.00% | ~198 |
+| Chunky | 50.00% | ~207 |
+| Shall we play a game? | 48.00% | ~199 |
+| Boat of love, boat of love | 48.00% | ~199 |
 | School's out | 43.00% | ~178 |
-| Elysian Minigame-Master | 38.00% | ~157 |
 | Scaffolding Expert | 37.00% | ~153 |
+| Elysian Minigame-Master | 37.00% | ~153 |
 | Sole Music | 36.00% | ~149 |
 | No man left behind! | 29.00% | ~120 |
 | Portals come in packs | 29.00% | ~120 |
-| Photo Friend | 25.00% | ~103 |
+| Photo Friend | 25.00% | ~104 |
 | Brainfreeze | 21.00% | ~87 |
 | And everything comes full circle. | 20.00% | ~83 |
-| Masseltov | 19.00% | ~78 |
+| Masseltov | 19.00% | ~79 |
 | Quickdraw | 15.00% | ~62 |
-| Thuna...? | 15.00% | ~62 |
+| Thuna...? | 14.00% | ~58 |
 | Monstrous Harassment | 14.00% | ~58 |
 | Heading the inverter | 14.00% | ~58 |
 | Blast from the Past | 13.00% | ~54 |
-| Play it again, Ronny | 11.00% | ~45 |
+| Play it again, Ronny | 11.00% | ~46 |
 | Paradox! | 10.00% | ~41 |
 | Goat Team | 9.00% | ~37 |
 | Weapons 101 | 8.00% | ~33 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 450)
 | Every man for himself! | 5.00% | ~21 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 413 (Ranked 278)  
+Progressed: 414 (Ranked 278)  
 Completed: 6 (1.45%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 6 (1.45%) (Ranked 112)
 | 2023-09-21 | 406 | 6 |
 | 2023-09-22 | 408 | 6 |
 | 2023-09-23 | 413 | 6 |
+| 2023-09-24 | 414 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

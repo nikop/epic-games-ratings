@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
@@ -361,6 +361,11 @@
       "Time": "2023-09-23T21:02:32.8137906+00:00",
       "NumProgressed": 413,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-24T02:20:44.3875829+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -372,7 +377,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "dep4_achievement_10",
@@ -396,7 +401,7 @@
       "Name": "Masseltov",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "dep4_achievement_13",
@@ -412,7 +417,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "dep4_achievement_15",
@@ -444,7 +449,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "dep4_achievement_19",
@@ -452,7 +457,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "dep4_achievement_2",
@@ -460,7 +465,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "dep4_achievement_20",
@@ -476,7 +481,7 @@
       "Name": "Photo Friend",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "dep4_achievement_22",
@@ -498,9 +503,9 @@
       "ID": "dep4_achievement_24",
       "SetID": "5d32b60",
       "Name": "Thuna...?",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "dep4_achievement_25",
@@ -532,7 +537,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "dep4_achievement_29",
@@ -548,15 +553,15 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 153
     },
     {
       "ID": "dep4_achievement_31",
@@ -572,7 +577,7 @@
       "Name": "Play it again, Ronny",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "dep4_achievement_33",
@@ -620,7 +625,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "dep4_achievement_6",
@@ -659,7 +664,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 6
     }
   ],
@@ -667,8 +672,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-23T08:58:33.5454881+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:48:26.734812+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:20:44.3875823+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.7249609+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:43:32.8657588+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:48:26.7348544+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:16:22.3721228+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:20:44.3876145+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1766,
-  "EOS_Completed": 132,
+  "EOS_Completed": 133,
   "EOS_NewPlayers": 21,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.47,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 7.53,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -6139,6 +6139,11 @@
       "Time": "2023-09-24T01:51:48.4365278+00:00",
       "NumProgressed": 1766,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-09-24T02:24:46.62037+00:00",
+      "NumProgressed": 1766,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 5,
@@ -6164,9 +6169,9 @@
       "ID": "3",
       "SetID": "dg4cch5",
       "Name": "Jill the Brave",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 159
+      "UsersEstimate": 177
     },
     {
       "ID": "4",
@@ -6180,9 +6185,9 @@
       "ID": "5",
       "SetID": "dg4cch5",
       "Name": "Jill the Champion",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 124
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
@@ -6190,15 +6195,15 @@
       "ID": "dg4cch5",
       "IsBase": true,
       "Progressed": 1766,
-      "Completed": 132
+      "Completed": 133
     }
   ],
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:51:48.4365272+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:24:46.6203691+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.4099307+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:44:34.8530295+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:51:48.4366069+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:17:34.0129663+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:24:46.6204376+00:00"
 }

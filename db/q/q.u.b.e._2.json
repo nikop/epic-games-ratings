@@ -1816,9 +1816,9 @@
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1992,9 +1992,9 @@
       "ID": "ACH_REDEND",
       "SetID": "232494e",
       "Name": "The Truthful Enemy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_S1",
@@ -2048,8 +2048,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:49:47.9458932+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:22:27.9803478+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:44:42.0661871+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:49:47.9459254+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:17:41.9865958+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:22:27.9803998+00:00"
 }

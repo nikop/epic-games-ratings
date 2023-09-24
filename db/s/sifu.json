@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6510,9 +6510,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 715249,
+  "EOS_Progressed": 715251,
   "EOS_Completed": 12900,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -20885,6 +20885,11 @@
       "Time": "2023-09-24T01:48:40.9622509+00:00",
       "NumProgressed": 715249,
       "NumCompleted": 12900
+    },
+    {
+      "Time": "2023-09-24T02:21:10.4814818+00:00",
+      "NumProgressed": 715251,
+      "NumCompleted": 12900
     }
   ],
   "TotalAchievements": 60,
@@ -20912,7 +20917,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "04_Vengeance_H3",
@@ -20920,7 +20925,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "05_Vengeance_H4",
@@ -20928,7 +20933,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "06_Vengeance_H5",
@@ -20936,7 +20941,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "07_Wude_H1",
@@ -21000,7 +21005,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "15_Detective_H1",
@@ -21048,7 +21053,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -21064,7 +21069,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -21080,7 +21085,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "25_ShrineMind",
@@ -21096,7 +21101,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "27_ShrineBody",
@@ -21104,7 +21109,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -21144,7 +21149,7 @@
       "Name": "Old Child",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "33_BladeOneShot",
@@ -21176,7 +21181,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -21184,7 +21189,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -21375,21 +21380,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24550,
+      "Progressed": 24552,
       "Completed": 10654
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715249,
+      "Progressed": 715251,
       "Completed": 12900
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-24T00:03:06.7060225+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:48:40.9622503+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:21:10.4814811+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:35.3893321+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:47:23.1734509+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:48:40.9624243+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:20:04.5757851+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:21:10.4817409+00:00"
 }

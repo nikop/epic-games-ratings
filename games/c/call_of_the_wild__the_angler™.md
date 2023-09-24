@@ -6,28 +6,28 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,640 |
-| Hey Good Hookin | 69.00% | ~4,053 |
+| Fish Just Got Reel | 79.00% | ~4,641 |
+| Hey Good Hookin | 69.00% | ~4,054 |
 | I'm on a Boat! | 59.00% | ~3,466 |
 | Can you smell what the Rod is Hooking | 55.00% | ~3,231 |
 | Scaling up | 55.00% | ~3,231 |
-| More Fish in the Sea | 49.00% | ~2,878 |
+| More Fish in the Sea | 49.00% | ~2,879 |
 | Ready to Rod and Roll | 46.00% | ~2,702 |
 | Fish Out of Water | 35.00% | ~2,056 |
-| License to Gill | 33.00% | ~1,938 |
+| License to Gill | 33.00% | ~1,939 |
 | Things that go Splash in the Night | 31.00% | ~1,821 |
-| Goldfish? | 29.00% | ~1,703 |
-| Going for Gold | 26.00% | ~1,527 |
+| Goldfish? | 29.00% | ~1,704 |
+| Going for Gold | 26.00% | ~1,528 |
 | I'm Hooked! | 20.00% | ~1,175 |
 | Diamond in the Rough | 13.00% | ~764 |
 | More than a Tourist | 11.00% | ~646 |
-| School's Out for Summer | 10.00% | ~587 |
+| School's Out for Summer | 10.00% | ~588 |
 | Hook, Line and Sinker | 8.00% | ~470 |
 | Marathon | 8.00% | ~470 |
 | I'm the Captain Now | 6.00% | ~352 |
 | Big Fish Small Pond | 5.00% | ~294 |
 | Gonna Need a Bigger Boat | 3.00% | ~176 |
-| The Beetles | 2.00% | ~117 |
+| The Beetles | 2.00% | ~118 |
 | Rod and Troll | 2.00% | ~105 |
 | No Fin left to give | 1.00% | ~59 |
 | Taylor Made | 1.00% | ~59 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,874 (Ranked 155)  
+Progressed: 5,875 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 5,847 | 0 |
 | 2023-09-22 | 5,856 | 0 |
 | 2023-09-23 | 5,870 | 0 |
-| 2023-09-24 | 5,874 | 0 |
+| 2023-09-24 | 5,875 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 446)  
 Sum: 176 (Ranked 390)  

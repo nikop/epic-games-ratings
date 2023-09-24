@@ -3449,9 +3449,9 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 395
     },
     {
       "ID": "EXORCIST",
@@ -3714,8 +3714,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-23T02:13:50.9579032+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:50:14.8482246+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:22:58.3875109+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:51.2853046+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:45:49.0930567+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:50:14.8482897+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:19:04.0804632+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:22:58.3875988+00:00"
 }

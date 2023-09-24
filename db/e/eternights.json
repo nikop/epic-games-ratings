@@ -3,7 +3,7 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.95,
+  "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
       "Time": "2023-09-08T14:06:31.5856386+00:00",
@@ -631,6 +631,11 @@
       "Time": "2023-09-24T01:51:39.3346779+00:00",
       "NumProgressed": 211,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T02:24:36.2106885+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -641,9 +646,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -667,15 +672,15 @@
       "Name": "Expert Scavenger",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -707,7 +712,7 @@
       "Name": "Find myself",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -721,9 +726,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -761,9 +766,9 @@
       "ID": "ACHIEVEMENT_24_TentacleMan",
       "SetID": "9bke6f1",
       "Name": "TentacleMAN",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -793,9 +798,9 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -811,7 +816,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -842,14 +847,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:51:39.3346773+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:24:36.2106879+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:42:00.4092765+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:51:39.3347042+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:14:34.5535656+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:24:36.2107112+00:00"
 }

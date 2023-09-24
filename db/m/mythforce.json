@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 587,
+  "Ranking_Rating": 586,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 183,
@@ -695,7 +695,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3070,
+  "EOS_Progressed": 3072,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
@@ -5440,6 +5440,11 @@
       "Time": "2023-09-24T01:49:56.6010765+00:00",
       "NumProgressed": 3070,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T02:22:37.9485026+00:00",
+      "NumProgressed": 3072,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5492,7 +5497,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5500,7 +5505,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5604,7 +5609,7 @@
       "Name": "Spending Spree",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5612,7 +5617,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5620,7 +5625,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5635,15 +5640,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3070,
+      "Progressed": 3072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-24T01:47:09.2879439+00:00",
-  "LastChanged_Achievements": "2023-09-24T01:49:56.6010758+00:00",
+  "LastChanged_Achievements": "2023-09-24T02:22:37.9485019+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-24T01:47:09.2879447+00:00",
-  "LastUpdate_Achievements": "2023-09-24T01:49:56.601158+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:19:26.5594323+00:00",
+  "LastUpdate_Achievements": "2023-09-24T02:22:37.9485856+00:00"
 }

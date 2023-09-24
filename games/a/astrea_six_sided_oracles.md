@@ -11,8 +11,8 @@
 | Purification Pioneer | 100.00% | ~7 |
 | Sanctuary Guardian | 86.00% | ~6 |
 | Mind Illuminator | 71.00% | ~5 |
+| Stellar Dismantler | 71.00% | ~5 |
 | Wild's Keeper | 71.00% | ~5 |
-| Stellar Dismantler | 57.00% | ~4 |
 | Sentinelphobic | 43.00% | ~3 |
 | Skeptical | 43.00% | ~3 |
 | Stellar Haste | 43.00% | ~3 |

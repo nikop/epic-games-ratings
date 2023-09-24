@@ -29,7 +29,7 @@ Rating: 4.42 (Ranked 682)
 | Pushing Daisy | 32.00% | ~468 |
 | Experienced | 31.00% | ~454 |
 | Hold The Line | 31.00% | ~454 |
-| Endgame | 26.00% | ~380 |
+| Endgame | 27.00% | ~395 |
 | Savior | 26.00% | ~380 |
 | There Can Be Only One! | 25.00% | ~366 |
 | Chain Killer | 22.00% | ~322 |
