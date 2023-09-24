@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 90.58% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 90.50% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.96% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.80% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -25,12 +25,12 @@
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.90% |
 | 25 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
-| 26 | [Anna's Quest](games/a/anna's_quest.md) | 10.64% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.50% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.50% |
+| 27 | [Anna's Quest](games/a/anna's_quest.md) | 10.42% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.22% |
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.13% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.12% |
 | 32 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.89% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 34 | [Sonic Origins](games/s/sonic_origins.md) | 8.20% |
@@ -39,9 +39,9 @@
 | 37 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.63% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 39 | [Time Loader](games/t/time_loader.md) | 7.26% |
-| 40 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.14% |
-| 41 | [Scorn](games/s/scorn.md) | 7.05% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.97% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.19% |
+| 41 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.14% |
+| 42 | [Scorn](games/s/scorn.md) | 7.05% |
 | 43 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.52% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -64,7 +64,7 @@
 | 62 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.00% |
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.61% |
+| 65 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.63% |
 | 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.54% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -123,16 +123,16 @@
 | 121 | [Chorus](games/c/chorus.md) | 1.24% |
 | 122 | [Late Shift](games/l/late_shift.md) | 1.22% |
 | 123 | [Infindustry](games/i/infindustry.md) | 1.14% |
-| 124 | [Trifox](games/t/trifox.md) | 1.09% |
-| 125 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
-| 126 | [Adios](games/a/adios.md) | 1.04% |
-| 127 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.01% |
-| 127 | [Sable](games/s/sable.md) | 1.01% |
-| 129 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
-| 129 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
-| 129 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
-| 132 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 133 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
+| 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
+| 125 | [Trifox](games/t/trifox.md) | 1.09% |
+| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
+| 127 | [Adios](games/a/adios.md) | 1.04% |
+| 128 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.01% |
+| 128 | [Sable](games/s/sable.md) | 1.01% |
+| 130 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
+| 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
+| 130 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
+| 133 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 134 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 134 | [Eternights](games/e/eternights.md) | 0.93% |
 | 136 | [Hades](games/h/hades.md) | 0.91% |
@@ -144,7 +144,7 @@
 | 142 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 143 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 144 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
-| 144 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.69% |
+| 145 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.68% |
 | 146 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 146 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.65% |
 | 148 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.63% |
@@ -633,4 +633,4 @@
 | 292 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 292 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 292 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,287 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,288 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
