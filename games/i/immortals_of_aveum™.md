@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.00 (Ranked 947)  
+Rating: 4.00 (Ranked 948)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,19 +20,20 @@ Rating: 4.00 (Ranked 947)
 | The Means to Save It | 17.00% | ~2 |
 | Resilience to Sin | 17.00% | ~2 |
 | A Familiar Nest | 17.00% | ~2 |
+| Geas Aristeya | 17.00% | ~2 |
 | Socialite | 17.00% | ~2 |
 | Armsman | 17.00% | ~2 |
 | Periapt Alizarin | 17.00% | ~2 |
-| Geas Aristeya | 8.00% | ~1 |
+| Good Boy | 17.00% | ~2 |
 | A Perfect Cycle | 8.00% | ~1 |
 | Recruit | 8.00% | ~1 |
 | Lights Army | 8.00% | ~1 |
 | Scholar | 8.00% | ~1 |
 | Best Dressed | 8.00% | ~1 |
 | Armaments Azure | 8.00% | ~1 |
+| Armaments Gules | 8.00% | ~1 |
 | Periapt Cerulean | 8.00% | ~1 |
 | Periapt Viridian | 8.00% | ~1 |
-| Good Boy | 8.00% | ~1 |
 | Grand Magnus | 0.00% | ~0 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
@@ -40,7 +41,6 @@ Rating: 4.00 (Ranked 947)
 | Witch-Taker | 0.00% | ~0 |
 | Out of Time | 0.00% | ~0 |
 | Kitted Out | 0.00% | ~0 |
-| Armaments Gules | 0.00% | ~0 |
 | Armaments Vert | 0.00% | ~0 |
 | Veteran | 0.00% | ~0 |
 | Master of Ultramarine | 0.00% | ~0 |

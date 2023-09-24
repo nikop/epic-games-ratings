@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~534,025 |
-| Every story has a beginning | 36.00% | ~240,311 |
-| The first of many | 31.00% | ~206,935 |
-| Positive word of mouth | 18.00% | ~120,156 |
-| Lawn in the U.S.A. | 15.00% | ~100,130 |
-| Blade Runner | 9.00% | ~60,078 |
-| Credible | 7.00% | ~46,727 |
-| Teamwork makes the dream work | 6.00% | ~40,052 |
-| Where there's muck there's brass | 4.00% | ~26,701 |
-| Bigger and better | 4.00% | ~26,701 |
-| Aggressive expansion | 4.00% | ~26,701 |
-| Size isn't everything | 3.00% | ~20,026 |
-| Close shave | 3.00% | ~20,026 |
-| Established | 3.00% | ~20,026 |
+| The dream begins | 80.00% | ~534,042 |
+| Every story has a beginning | 36.00% | ~240,319 |
+| The first of many | 31.00% | ~206,941 |
+| Positive word of mouth | 18.00% | ~120,159 |
+| Lawn in the U.S.A. | 15.00% | ~100,133 |
+| Blade Runner | 9.00% | ~60,080 |
+| Credible | 7.00% | ~46,729 |
+| Teamwork makes the dream work | 6.00% | ~40,053 |
+| Where there's muck there's brass | 4.00% | ~26,702 |
+| Bigger and better | 4.00% | ~26,702 |
+| Aggressive expansion | 4.00% | ~26,702 |
+| Size isn't everything | 3.00% | ~20,027 |
+| Close shave | 3.00% | ~20,027 |
+| Established | 3.00% | ~20,027 |
 | Fighting on all fronts | 2.00% | ~13,351 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,351 |
 | Every good deed… | 2.00% | ~13,351 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~668 |
 | Mo mowers, mo problems | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,531 (Ranked 23)  
+Progressed: 667,552 (Ranked 23)  
 Completed: 16 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,18 +218,18 @@ Completed: 16 (0.00%) (Ranked 292)
 | 2023-09-21 | 666,580 | 16 |
 | 2023-09-22 | 666,878 | 16 |
 | 2023-09-23 | 667,285 | 16 |
-| 2023-09-24 | 667,531 | 16 |
+| 2023-09-24 | 667,552 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 284)  
-Sum: 981 (Ranked 244)  
-Diff (max vs sum): 40  
+Sum: 982 (Ranked 245)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |
 | This game is Extremely Fun | 169 |
 | This game is Great for Beginners | 166 |
 | This game is Relaxing | 165 |
-| This game is Highly Recommended | 157 |
+| This game is Highly Recommended | 158 |
 | This game has Amazing Storytelling | 142 |
 | This game has Obsessive Gameplay | 55 |
 | This game has Easy Combat | 41 |
@@ -324,3 +324,4 @@ Diff (max vs sum): 40
 | 2023-09-19 | 4.07 | - | 182 | 980 |
 | 2023-09-21 | 4.08 | - | 182 | 980 |
 | 2023-09-23 | 4.08 | - | 182 | 981 |
+| 2023-09-24 | 4.08 | - | 182 | 982 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,7 +319,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7216,
+  "EOS_Progressed": 7217,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -4449,6 +4449,11 @@
       "Time": "2023-09-24T15:08:22.298855+00:00",
       "NumProgressed": 7216,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-24T17:08:40.5732013+00:00",
+      "NumProgressed": 7217,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4460,7 +4465,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -4492,7 +4497,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4556,7 +4561,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4612,7 +4617,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4041
+      "UsersEstimate": 4042
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4628,7 +4633,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -4660,7 +4665,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -4675,15 +4680,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7216,
+      "Progressed": 7217,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:09:14.7659852+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:08:40.5732005+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:11.6542569+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:00:44.3649117+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:09:14.7660395+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:00:28.6942139+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:08:40.5732363+00:00"
 }

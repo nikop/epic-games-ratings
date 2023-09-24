@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 435,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 371,
   "RatingHistory": [
     {
@@ -658,6 +658,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 474,
       "NumberOfAwardsMax": 220
+    },
+    {
+      "Time": "2023-09-24T17:03:05.3976489+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 474,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
@@ -728,7 +734,7 @@
   ],
   "EOS_Progressed": 3233,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3710,9 +3716,9 @@
       "ID": "Kills_Exterminator",
       "SetID": "3jha1np",
       "Name": "Exterminator",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -4067,9 +4073,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2023-09-18T16:58:55.1300205+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:04:59.0172541+00:00",
+  "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:04:40.4486175+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:03:08.8793506+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:04:59.0173593+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:03:05.3976492+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:04:40.4486857+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 870)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| “Occupied!“ | 0.90% | ~15 |
+| “Occupied!“ | 1.00% | ~16 |
 | Worlds best dad | 0.90% | ~15 |
 | Resignation Reprise | 0.50% | ~8 |
 | Admiring the view | 0.50% | ~8 |

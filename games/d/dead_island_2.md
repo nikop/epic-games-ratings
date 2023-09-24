@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~20,569 |
+| Welcome To Hell-A | 3.00% | ~20,570 |
 | Dr. Reed, I Presume? | 2.00% | ~13,713 |
 | Git Gutte! | 2.00% | ~13,713 |
 | Bookworm | 2.00% | ~13,713 |
@@ -24,19 +24,19 @@ Rating: 4.54 (Ranked 508)
 | Stacking the Deck | 2.00% | ~13,713 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,713 |
 | This is My Weapon | 2.00% | ~13,713 |
-| Making Your Mark | 1.00% | ~6,856 |
-| Anger Management | 1.00% | ~6,856 |
-| Perks of the Job | 1.00% | ~6,856 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,856 |
-| Ooh, Shiny! | 1.00% | ~6,856 |
-| Humanity Distilled | 1.00% | ~6,856 |
-| I Am the Resurrection | 1.00% | ~6,856 |
-| Down with the Sickness | 1.00% | ~6,856 |
-| Our True Nature | 1.00% | ~6,856 |
+| Making Your Mark | 1.00% | ~6,857 |
+| Anger Management | 1.00% | ~6,857 |
+| Perks of the Job | 1.00% | ~6,857 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,857 |
+| Ooh, Shiny! | 1.00% | ~6,857 |
+| Humanity Distilled | 1.00% | ~6,857 |
+| I Am the Resurrection | 1.00% | ~6,857 |
+| Down with the Sickness | 1.00% | ~6,857 |
+| Our True Nature | 1.00% | ~6,857 |
 | Max Headroom | 0.90% | ~6,171 |
-| Jumbo Keyring | 0.70% | ~4,799 |
-| Go, Bobcats! | 0.70% | ~4,799 |
-| Rising Star | 0.70% | ~4,799 |
+| Jumbo Keyring | 0.70% | ~4,800 |
+| Go, Bobcats! | 0.70% | ~4,800 |
+| Rising Star | 0.70% | ~4,800 |
 | Smorgasbord | 0.60% | ~4,114 |
 | On Safari | 0.50% | ~3,428 |
 | Not Even My Final Form | 0.50% | ~3,428 |
@@ -47,11 +47,11 @@ Rating: 4.54 (Ranked 508)
 | LA Influential | 0.30% | ~2,057 |
 | Sole Survivor | 0.30% | ~2,057 |
 | Sharpest Tool in the Box | 0.30% | ~2,057 |
-| Survival Skills | 0.20% | ~1,371 |
+| Survival Skills | 0.30% | ~2,057 |
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,638 (Ranked 22)  
+Progressed: 685,673 (Ranked 22)  
 Completed: 2,172 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,10 +208,10 @@ Completed: 2,172 (0.32%) (Ranked 187)
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
-| 2023-09-24 | 685,638 | 2,172 |
+| 2023-09-24 | 685,673 | 2,172 |
 ## Awards
 Max (Great Boss Battles): 6,175  (Ranked 57)  
-Sum: 9,190 (Ranked 92)  
+Sum: 9,191 (Ranked 92)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -223,7 +223,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 360 |
 | This game is Extremely Fun | 347 |
 | This game is Highly Recommended | 341 |
-| This game has Amazing Characters | 335 |
+| This game has Amazing Characters | 336 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -383,4 +383,4 @@ Diff (max vs sum): -35
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
 | 2023-09-22 | 4.54 | 6,156 | 9,150 |
 | 2023-09-23 | 4.54 | 6,175 | 9,178 |
-| 2023-09-24 | 4.54 | 6,175 | 9,190 |
+| 2023-09-24 | 4.54 | 6,175 | 9,191 |

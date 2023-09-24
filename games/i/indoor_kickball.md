@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 84.00% | ~76 |
-| Accessory Unlocked | 82.00% | ~75 |
-| Character Unlocked | 78.00% | ~71 |
-| Homer | 76.00% | ~69 |
-| Butter Fingers | 74.00% | ~67 |
-| Settle Down | 71.00% | ~65 |
+| Hat Unlocked | 84.00% | ~77 |
+| Accessory Unlocked | 83.00% | ~76 |
+| Character Unlocked | 77.00% | ~71 |
+| Homer | 75.00% | ~69 |
+| Butter Fingers | 74.00% | ~68 |
+| Settle Down | 72.00% | ~66 |
 | Kickball Unlocked | 70.00% | ~64 |
-| Have a good trip! | 69.00% | ~63 |
-| Stay Hydrated | 65.00% | ~59 |
-| First Win | 63.00% | ~57 |
-| True Story! | 43.00% | ~39 |
-| Bedroom Secret Spot | 40.00% | ~36 |
+| Have a good trip! | 70.00% | ~64 |
+| Stay Hydrated | 65.00% | ~60 |
+| First Win | 63.00% | ~58 |
+| True Story! | 43.00% | ~40 |
+| Bedroom Secret Spot | 39.00% | ~36 |
 | Kick It | 32.00% | ~29 |
-| Classroom Secret Spot | 29.00% | ~26 |
-| Spooky | 29.00% | ~26 |
-| At least everyone still had fun | 29.00% | ~26 |
+| Classroom Secret Spot | 29.00% | ~27 |
+| Spooky | 28.00% | ~26 |
+| At least everyone still had fun | 28.00% | ~26 |
 | Grand Slam! | 26.00% | ~24 |
 | Save some water for the fishies | 24.00% | ~22 |
 | Angry Dad | 24.00% | ~22 |
 | Bathroom Secret Spot | 23.00% | ~21 |
 | Have Mercy | 22.00% | ~20 |
-| Living Room Secret Spot | 19.00% | ~17 |
-| Angry Mom | 19.00% | ~17 |
-| Hi Hungry, I'm Dad | 18.00% | ~16 |
+| Living Room Secret Spot | 20.00% | ~18 |
+| Angry Mom | 18.00% | ~17 |
+| Hi Hungry, I'm Dad | 17.00% | ~16 |
 | Just how we drew it up | 13.00% | ~12 |
 | Interference | 10.00% | ~9 |
 | You broke it, you bought it | 8.00% | ~7 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91 (Ranked 385)  
+Progressed: 92 (Ranked 383)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-19 | 89 | 0 |
 | 2023-09-21 | 90 | 0 |
 | 2023-09-23 | 91 | 0 |
+| 2023-09-24 | 92 | 0 |

@@ -13,7 +13,7 @@
 | The darkness | 37.00% | ~76 |
 | A good beginning | 35.00% | ~72 |
 | True G4M3R | 35.00% | ~72 |
-| One last step | 32.00% | ~66 |
+| One last step | 33.00% | ~68 |
 | Cable guy | 30.00% | ~62 |
 | Champollion | 30.00% | ~62 |
 | Half the way | 29.00% | ~60 |
@@ -24,10 +24,10 @@
 | Free at last | 23.00% | ~47 |
 | Rascal | 23.00% | ~47 |
 | Alchemists Express | 22.00% | ~45 |
-| A Link to the Past | 18.00% | ~37 |
+| A Link to the Past | 19.00% | ~39 |
 | I did it | 16.00% | ~33 |
 | A great audience | 16.00% | ~33 |
-| For its own good | 15.00% | ~31 |
+| For its own good | 16.00% | ~33 |
 | Fashion victim | 13.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 206 (Ranked 332)  

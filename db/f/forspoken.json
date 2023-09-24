@@ -382,7 +382,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40029,
+  "EOS_Progressed": 40030,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -8827,6 +8827,11 @@
       "Time": "2023-09-24T15:06:08.9671497+00:00",
       "NumProgressed": 40029,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-24T17:06:29.3873604+00:00",
+      "NumProgressed": 40030,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8998,7 +9003,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9054,7 +9059,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9094,7 +9099,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "MAGIC_IVY",
@@ -9261,22 +9266,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40029,
+      "Progressed": 40030,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4866,
-      "Completed": 4866
+      "Progressed": 4867,
+      "Completed": 4867
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:06:54.5412181+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:06:29.38736+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.3450357+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:02:53.8960065+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:06:54.5413384+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:02:18.6312083+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:06:29.3874352+00:00"
 }

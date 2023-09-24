@@ -1,7 +1,7 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.41 (Ranked 692)  
+Rating: 4.41 (Ranked 691)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.20% | ~1 |
 | Laser Sharp | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430 (Ranked 272)  
+Progressed: 430 (Ranked 274)  
 Completed: 1 (0.23%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |

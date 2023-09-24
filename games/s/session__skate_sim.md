@@ -205,8 +205,8 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-24 | 2,928 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 398)  
-Sum: 471 (Ranked 310)  
-Diff (max vs sum): 88  
+Sum: 472 (Ranked 309)  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 54 |
@@ -214,8 +214,8 @@ Diff (max vs sum): 88
 | This game has Realistic Visuals | 48 |
 | This game has Amazing Characters | 45 |
 | This game has a Creative Community | 44 |
+| This game is Relaxing | 42 |
 | This game has Amazing Storytelling | 42 |
-| This game is Relaxing | 41 |
 | This game is Extremely Fun | 41 |
 | This game has Diverse Characters | 40 |
 | This game has Quickly Understood Controls | 37 |
@@ -365,3 +365,4 @@ Diff (max vs sum): 88
 | 2023-09-21 | 4.69 | - | 53 | 467 |
 | 2023-09-22 | 4.69 | - | 54 | 470 |
 | 2023-09-23 | 4.69 | - | 54 | 471 |
+| 2023-09-24 | 4.69 | - | 54 | 472 |

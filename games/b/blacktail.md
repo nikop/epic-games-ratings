@@ -6,7 +6,7 @@ Rating: 4.68 (Ranked 244)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 26.00% | ~179 |
-| Dental maturity | 20.00% | ~137 |
+| Dental maturity | 20.00% | ~138 |
 | Devil's in the details | 15.00% | ~103 |
 | Uprooting | 14.00% | ~96 |
 | Forbidden techniques | 13.00% | ~89 |
@@ -22,8 +22,8 @@ Rating: 4.68 (Ranked 244)
 | The word around is... | 5.00% | ~34 |
 | The cycle acknowledged | 5.00% | ~34 |
 | Baba Yaga | 5.00% | ~34 |
-| Favorite | 4.00% | ~27 |
-| Queen | 4.00% | ~27 |
+| Favorite | 4.00% | ~28 |
+| Queen | 4.00% | ~28 |
 | Goal! | 3.00% | ~21 |
 | Both sides | 3.00% | ~21 |
 | Specialist | 3.00% | ~21 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 244)
 | Mushrooming enthusiast | 0.60% | ~4 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687 (Ranked 245)  
+Progressed: 688 (Ranked 245)  
 Completed: 1 (0.15%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.15%) (Ranked 219)
 | 2023-09-20 | 679 | 1 |
 | 2023-09-22 | 682 | 1 |
 | 2023-09-23 | 684 | 1 |
-| 2023-09-24 | 687 | 1 |
+| 2023-09-24 | 688 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

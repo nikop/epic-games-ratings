@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,988 |
-| Un-Lonely Island | 47.00% | ~2,499 |
-| The Beginning of a Servantship | 45.00% | ~2,393 |
-| Trade Is My Trait | 37.00% | ~1,967 |
-| Number 18 | 24.00% | ~1,276 |
-| We Don't Have Time For That | 19.00% | ~1,010 |
+| Just One...More...Term... | 75.00% | ~3,989 |
+| Un-Lonely Island | 47.00% | ~2,500 |
+| The Beginning of a Servantship | 45.00% | ~2,394 |
+| Trade Is My Trait | 37.00% | ~1,968 |
+| Number 18 | 24.00% | ~1,277 |
+| We Don't Have Time For That | 19.00% | ~1,011 |
 | The Legend of Langostino | 17.00% | ~904 |
 | The Governator | 17.00% | ~904 |
 | Caribbean Comrade | 16.00% | ~851 |
@@ -21,8 +21,8 @@ Number of Ratings: 398  (23.09.2022)
 | Happy Ending? | 10.00% | ~532 |
 | Of Seals And Men | 10.00% | ~532 |
 | Shackadelic | 10.00% | ~532 |
-| Double Trouble | 8.00% | ~425 |
-| Firestarter | 8.00% | ~425 |
+| Double Trouble | 8.00% | ~426 |
+| Firestarter | 8.00% | ~426 |
 | I Owe You Nothing | 7.00% | ~372 |
 | Make Tropico Great Again! | 7.00% | ~372 |
 | French Connection | 7.00% | ~372 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,317 (Ranked 159)  
+Progressed: 5,319 (Ranked 159)  
 Completed: 2 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2 (0.04%) (Ranked 256)
 | 2023-09-21 | 5,255 | 2 |
 | 2023-09-22 | 5,282 | 2 |
 | 2023-09-23 | 5,306 | 2 |
-| 2023-09-24 | 5,317 | 2 |
+| 2023-09-24 | 5,319 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
 Sum: 688 (Ranked 281)  

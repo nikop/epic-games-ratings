@@ -1777,9 +1777,9 @@
       "ID": "BeggarWomanFishGrilled",
       "SetID": "db30heh",
       "Name": "Tasty Alms",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "BeggarWomanHut",
@@ -1825,9 +1825,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     },
     {
       "ID": "DwarDevil",
@@ -1889,9 +1889,9 @@
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "HatFlower",
@@ -1905,9 +1905,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 187
     },
     {
       "ID": "PitSoul",
@@ -2025,9 +2025,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -2072,8 +2072,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:08:10.167933+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:07:39.9949329+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:00:10.6384781+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:08:10.1679907+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:59:59.9009267+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:07:39.9949689+00:00"
 }

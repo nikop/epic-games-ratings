@@ -97,11 +97,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 1.00% | ~141 |
 | Church of the Holy Sepulchre | 1.00% | ~141 |
 | Temple of Solomon | 1.00% | ~141 |
-| Adur Burzen-Mihr | 1.00% | ~141 |
 | Pantheon | 1.00% | ~141 |
 | Via Recta Souk | 1.00% | ~141 |
 | Learn to Play 3 | 1.00% | ~141 |
-| Carthage | 1.00% | ~141 |
 | Power to the People | 1.00% | ~141 |
 | Assyrian Paganism | 1.00% | ~141 |
 | Building Wonders | 1.00% | ~141 |
@@ -109,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 1.00% | ~141 |
 | Military Prestige | 1.00% | ~141 |
 | Dualism | 1.00% | ~141 |
-| Enlightenment | 1.00% | ~141 |
 | Gnosticism | 1.00% | ~141 |
 | Legalism | 1.00% | ~141 |
 | Redemption | 1.00% | ~141 |
@@ -124,8 +121,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.90% | ~127 |
 | Strong Difficulty | 0.90% | ~127 |
 | Hunters | 0.90% | ~127 |
+| Adur Burzen-Mihr | 0.90% | ~127 |
 | Babylonia | 0.90% | ~127 |
+| Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
+| Enlightenment | 0.90% | ~127 |
 | Kushite Cavalry | 0.90% | ~127 |
 | Turreted Elephant | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,104 (Ranked 128)  
+Progressed: 14,106 (Ranked 128)  
 Completed: 5 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -460,7 +460,7 @@ Completed: 5 (0.04%) (Ranked 256)
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
 | 2023-09-23 | 14,081 | 5 |
-| 2023-09-24 | 14,104 | 5 |
+| 2023-09-24 | 14,106 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 265)  
 Sum: 1,817 (Ranked 207)  

@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~109,940 |
-| Incurious | 16.00% | ~103,473 |
-| Stroller | 15.00% | ~97,006 |
-| Climate Change | 15.00% | ~97,006 |
-| Toy Train | 13.00% | ~84,072 |
-| Advanced Hiker | 12.00% | ~77,605 |
-| Hiker | 11.00% | ~71,138 |
-| Mojave Courier | 5.00% | ~32,335 |
-| Saved by Nausicaä | 5.00% | ~32,335 |
-| Voyager | 3.00% | ~19,401 |
-| Advanced Voyager | 3.00% | ~19,401 |
-| Expert Stroller | 3.00% | ~19,401 |
-| Orient Express | 3.00% | ~19,401 |
-| Expert Hiker | 2.00% | ~12,934 |
-| Marathon | 2.00% | ~12,934 |
-| Destructionist | 2.00% | ~12,934 |
-| Lost | 2.00% | ~12,934 |
+| Advanced Stroller | 17.00% | ~109,944 |
+| Incurious | 16.00% | ~103,477 |
+| Stroller | 15.00% | ~97,010 |
+| Climate Change | 15.00% | ~97,010 |
+| Toy Train | 13.00% | ~84,075 |
+| Advanced Hiker | 12.00% | ~77,608 |
+| Hiker | 11.00% | ~71,141 |
+| Mojave Courier | 5.00% | ~32,337 |
+| Saved by Nausicaä | 5.00% | ~32,337 |
+| Voyager | 3.00% | ~19,402 |
+| Advanced Voyager | 3.00% | ~19,402 |
+| Expert Stroller | 3.00% | ~19,402 |
+| Orient Express | 3.00% | ~19,402 |
+| Expert Hiker | 2.00% | ~12,935 |
+| Marathon | 2.00% | ~12,935 |
+| Destructionist | 2.00% | ~12,935 |
+| Lost | 2.00% | ~12,935 |
 | Rocketman | 0.70% | ~4,527 |
 | Shopaholic | 0.70% | ~4,527 |
 | Expert Voyager | 0.60% | ~3,880 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~647 |
 | 20 Miles under the Sea | 0.10% | ~647 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646,705 (Ranked 26)  
+Progressed: 646,732 (Ranked 26)  
 Completed: 11 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 11 (0.00%) (Ranked 292)
 | 2023-09-21 | 645,682 | 10 |
 | 2023-09-22 | 646,010 | 11 |
 | 2023-09-23 | 646,472 | 11 |
-| 2023-09-24 | 646,705 | 11 |
+| 2023-09-24 | 646,732 | 11 |
 ## Awards
 Max (Great for Beginners): 196  (Ranked 277)  
 Sum: 1,572 (Ranked 220)  

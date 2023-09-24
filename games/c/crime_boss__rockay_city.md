@@ -7,7 +7,7 @@ Rating: 3.93 (Ranked 966)
 | ---- | ---------- | ----- |
 | First One’s Free | 0.70% | ~618 |
 | Downed but Not Outed | 0.70% | ~618 |
-| Neophyte Ninja | 0.60% | ~529 |
+| Neophyte Ninja | 0.60% | ~530 |
 | Underworld Initiate | 0.50% | ~441 |
 | Too Old for This | 0.50% | ~441 |
 | Roid Ranger | 0.40% | ~353 |
@@ -21,12 +21,12 @@ Rating: 3.93 (Ranked 966)
 | Case Closed | 0.30% | ~265 |
 | True Player | 0.30% | ~265 |
 | Raider’s Ruin | 0.30% | ~265 |
-| I Like Trains | 0.20% | ~176 |
-| Freebooter | 0.20% | ~176 |
-| Headhunter | 0.20% | ~176 |
-| Moneybags | 0.20% | ~176 |
+| Imports and Exports | 0.20% | ~177 |
+| I Like Trains | 0.20% | ~177 |
+| Freebooter | 0.20% | ~177 |
+| Headhunter | 0.20% | ~177 |
+| Moneybags | 0.20% | ~177 |
 | Legend Looter | 0.10% | ~88 |
-| Imports and Exports | 0.10% | ~88 |
 | Rockay Raider | 0.10% | ~88 |
 | Rockay Knight | 0.10% | ~88 |
 | Savvy Seeker | 0.10% | ~88 |
@@ -47,7 +47,7 @@ Rating: 3.93 (Ranked 966)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,242 (Ranked 78)  
+Progressed: 88,253 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 46 (0.05%) (Ranked 252)
 | 2023-09-21 | 88,017 | 46 |
 | 2023-09-22 | 88,112 | 46 |
 | 2023-09-23 | 88,195 | 46 |
-| 2023-09-24 | 88,242 | 46 |
+| 2023-09-24 | 88,253 | 46 |
 ## Awards
 Max (Diverse Characters): 455  (Ranked 208)  
 Sum: 2,182 (Ranked 197)  

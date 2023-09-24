@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.59 (Ranked 418)  
+Rating: 4.58 (Ranked 435)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,13 +29,13 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 1.00% | ~32 |
 | Daemonkeeper | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
+| Exterminator | 0.80% | ~26 |
 | Only in Death | 0.80% | ~26 |
 | Junk Banishment | 0.80% | ~26 |
 | Long Distance Call | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
 | Tactical Sabotage | 0.80% | ~26 |
 | Fleetmaster | 0.70% | ~23 |
-| Exterminator | 0.70% | ~23 |
 | Mind Like a Fortress | 0.70% | ~23 |
 | Patron of Deimos | 0.60% | ~19 |
 | Preservationist | 0.60% | ~19 |
@@ -345,3 +345,4 @@ Diff (max vs sum): -41
 | 2023-08-23 | 4.58 | - | 220 | 473 |
 | 2023-09-05 | 4.58 | - | 220 | 474 |
 | 2023-09-18 | 4.59 | - | 220 | 474 |
+| 2023-09-24 | 4.58 | - | 220 | 474 |

@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.26,
+  "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -1321,6 +1321,11 @@
       "Time": "2023-09-24T16:05:19.5708436+00:00",
       "NumProgressed": 430,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-24T17:04:59.6233937+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 11,
@@ -1332,7 +1337,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "LEVEL_003",
@@ -1340,7 +1345,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "LEVEL_004",
@@ -1364,7 +1369,7 @@
       "Name": "Poultry house",
       "Percentage": 28,
       "XP": 95,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_017",
@@ -1419,14 +1424,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:05:19.5708427+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:04:59.6233932+00:00",
   "LastUpdate_AppInfo": "2023-09-18T22:57:19.1798454+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:00:49.2463742+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:05:19.5708609+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:00:34.1545273+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:04:59.6234088+00:00"
 }

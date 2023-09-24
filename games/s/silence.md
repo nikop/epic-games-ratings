@@ -20,14 +20,14 @@
 | Chapter III | 24.00% | ~29 |
 | Like a moth in the Wind | 24.00% | ~29 |
 | Shadow on the wall | 23.00% | ~28 |
-| Bubblekillerfamily | 22.00% | ~27 |
+| Bubblekillerfamily | 23.00% | ~28 |
 | Quite a buggy game | 21.00% | ~25 |
 | Pacifist | 21.00% | ~25 |
 | Mirror mirror on the wall... | 21.00% | ~25 |
 | Fastidious Clown | 20.00% | ~24 |
 | It's not easy being green! | 18.00% | ~22 |
 | Home is where the heart is | 18.00% | ~22 |
-| Master of Thermodynamics | 15.00% | ~18 |
+| Master of Thermodynamics | 16.00% | ~19 |
 | Death is a part of life | 15.00% | ~18 |
 | Unfullfilled dreams | 13.00% | ~16 |
 | To err is human... | 12.00% | ~15 |
@@ -35,7 +35,7 @@
 | Nothing can stop me | 10.00% | ~12 |
 | Mumbo Jumbo | 10.00% | ~12 |
 | Lollipop | 8.00% | ~10 |
-| Where there is life, there is hope | 7.00% | ~8 |
+| Where there is life, there is hope | 8.00% | ~10 |
 | It's nothing personal | 7.00% | ~8 |
 | Artistic master | 6.00% | ~7 |
 | The hands of a healer | 6.00% | ~7 |

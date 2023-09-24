@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1086,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-09-24T16:07:39.8258615+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T17:07:11.6088492+00:00",
+      "NumProgressed": 1086,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1901,9 +1906,9 @@
       "ID": "DIE_MAX_POWER",
       "SetID": "6ohhfoc",
       "Name": "Incredible Strength",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 33
     },
     {
       "ID": "ENDING_TRUE",
@@ -1957,9 +1962,9 @@
       "ID": "FIND_ATTACKS_SOURCE",
       "SetID": "6ohhfoc",
       "Name": "The City",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 98
     },
     {
       "ID": "GOLDMASTER",
@@ -1999,7 +2004,7 @@
       "Name": "We made it",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2125,16 +2130,16 @@
       "ID": "WINMATCH_DIFF_STANDARD",
       "SetID": "6ohhfoc",
       "Name": "Prophecy Fulfilled",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1086,
       "Completed": 0
     }
   ],
@@ -2142,8 +2147,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:07:39.8258606+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:07:11.6088487+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.2364181+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:01:26.3841132+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:07:39.8259183+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:01:09.2178259+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:07:11.6088869+00:00"
 }

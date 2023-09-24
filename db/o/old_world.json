@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1737,9 +1737,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14104,
+  "EOS_Progressed": 14106,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12147,6 +12147,11 @@
       "Time": "2023-09-24T16:03:27.3096767+00:00",
       "NumProgressed": 14104,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T17:03:22.6777831+00:00",
+      "NumProgressed": 14106,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13556,9 +13561,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
       "SetID": "9201eeb",
       "Name": "Adur Burzen-Mihr",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -13772,9 +13777,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -14124,9 +14129,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -14525,21 +14530,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14104,
+      "Progressed": 14106,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14104,
+      "Progressed": 14106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T18:01:38.9338052+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:03:27.309676+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:03:22.6777826+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:02:28.5508432+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:03:27.3108987+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:01:54.9168356+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:03:22.6786032+00:00"
 }

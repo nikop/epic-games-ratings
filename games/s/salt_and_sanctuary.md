@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~443,155 |
-| The Three | 64.00% | ~341,710 |
-| The Banquet | 40.00% | ~213,569 |
+| Find Sanctuary | 83.00% | ~443,157 |
+| The Three | 64.00% | ~341,711 |
+| The Banquet | 40.00% | ~213,570 |
 | Devara's Light | 31.00% | ~165,516 |
 | The Iron Ones | 18.00% | ~96,106 |
 | The Village | 16.00% | ~85,428 |
-| The Forest | 15.00% | ~80,088 |
+| The Forest | 15.00% | ~80,089 |
 | The Keep | 14.00% | ~74,749 |
 | Branded | 13.00% | ~69,410 |
 | The Imposter | 13.00% | ~69,410 |
-| The Castle | 11.00% | ~58,731 |
+| The Castle | 11.00% | ~58,732 |
 | The Dome | 9.00% | ~48,053 |
 | The Red Hall | 9.00% | ~48,053 |
 | The Sacrifice | 8.00% | ~42,714 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,678 |
 | Fading Fast | 1.00% | ~5,339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,922 (Ranked 31)  
+Progressed: 533,924 (Ranked 31)  
 Completed: 1,554 (0.29%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,20 +201,20 @@ Completed: 1,554 (0.29%) (Ranked 194)
 | 2023-09-21 | 533,704 | 1,553 |
 | 2023-09-22 | 533,774 | 1,553 |
 | 2023-09-23 | 533,868 | 1,554 |
-| 2023-09-24 | 533,922 | 1,554 |
+| 2023-09-24 | 533,924 | 1,554 |
 ## Awards
 Max (Challenging Combat): 283  (Ranked 245)  
-Sum: 1,957 (Ranked 204)  
+Sum: 1,959 (Ranked 204)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 283 |
-| This game has Quickly Understood Controls | 259 |
+| This game has Quickly Understood Controls | 260 |
 | This game is Highly Recommended | 258 |
 | This game has Diverse Characters | 240 |
 | This game is Extremely Fun | 239 |
 | This game has Amazing Storytelling | 231 |
-| This game has Amazing Characters | 226 |
+| This game has Amazing Characters | 227 |
 | This game has Unique Visuals | 221 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -383,3 +383,4 @@ Diff (max vs sum): 41
 | 2023-09-16 | 4.61 | - | 282 | 1,954 |
 | 2023-09-18 | 4.61 | - | 283 | 1,956 |
 | 2023-09-19 | 4.61 | - | 283 | 1,957 |
+| 2023-09-24 | 4.61 | - | 283 | 1,959 |

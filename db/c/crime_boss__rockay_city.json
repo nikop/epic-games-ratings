@@ -3678,9 +3678,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88242,
+  "EOS_Progressed": 88253,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19978,6 +19978,11 @@
       "Time": "2023-09-24T16:04:57.8952366+00:00",
       "NumProgressed": 88242,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-24T17:04:39.395875+00:00",
+      "NumProgressed": 88253,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19989,7 +19994,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_0011",
@@ -20035,9 +20040,9 @@
       "ID": "ACH_0016",
       "SetID": "3kam13l",
       "Name": "Imports and Exports",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_0021",
@@ -20069,7 +20074,7 @@
       "Name": "I Like Trains",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_0050",
@@ -20085,7 +20090,7 @@
       "Name": "Freebooter",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_0061",
@@ -20101,7 +20106,7 @@
       "Name": "Headhunter",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_0101",
@@ -20125,7 +20130,7 @@
       "Name": "Moneybags",
       "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_0200",
@@ -20316,13 +20321,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88242,
+      "Progressed": 88253,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16589,
+      "Progressed": 16600,
       "Completed": 15531
     }
   ],
@@ -20330,8 +20335,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-24T15:58:49.0793163+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:04:57.895236+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:04:39.3958745+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.9834817+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:58:49.0793171+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:04:57.8953967+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:58:39.3630399+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:04:39.3959789+00:00"
 }

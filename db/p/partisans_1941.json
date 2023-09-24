@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1433,
+  "EOS_Progressed": 1434,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2805,6 +2805,11 @@
       "Time": "2023-09-24T16:05:57.50642+00:00",
       "NumProgressed": 1433,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T17:05:35.914713+00:00",
+      "NumProgressed": 1434,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2896,7 +2901,7 @@
       "Name": "E1M1",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "Everyone_is_here",
@@ -3008,7 +3013,7 @@
       "Name": "Mosquito bite",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Scout",
@@ -3055,15 +3060,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1433,
+      "Progressed": 1434,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:05:57.506419+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:05:35.9147126+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:58:21.244337+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:05:57.5064575+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:58:14.765001+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:05:35.9147444+00:00"
 }

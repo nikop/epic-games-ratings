@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 90.00% | ~105 |
-| The Routine | 80.00% | ~94 |
+| Last Goodbye | 91.00% | ~106 |
+| The Routine | 81.00% | ~95 |
 | Mother | 79.00% | ~92 |
-| Failure | 76.00% | ~89 |
+| Failure | 77.00% | ~90 |
 | Replace Fuse | 67.00% | ~78 |
 | Alarm | 65.00% | ~76 |
 | Air Filtration | 63.00% | ~74 |
@@ -18,7 +18,7 @@
 | Cold Storage | 58.00% | ~68 |
 | Sam | 53.00% | ~62 |
 | Churchill | 52.00% | ~61 |
-| Commissioner | 51.00% | ~60 |
+| Commissioner | 52.00% | ~61 |
 | Leave | 50.00% | ~58 |
 | Engineer | 50.00% | ~58 |
 | Soldier | 49.00% | ~57 |

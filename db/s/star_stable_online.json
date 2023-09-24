@@ -2,9 +2,9 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 683,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 406,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -2036,18 +2036,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 1132,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2023-09-24T17:02:17.8009133+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 1134,
+      "NumberOfAwardsMax": 163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1132,
-  "NumberOfAwardsMax": 162,
+  "NumberOfAwards": 1134,
+  "NumberOfAwardsMax": 163,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2071,7 +2077,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 162
+      "Count": 163
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2127,8 +2133,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-09-22T19:01:09.9057148+00:00",
+  "LastChanged": "2023-09-24T17:02:17.8009132+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:54.2224249+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:02:53.1123143+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:05:21.4339815+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:02:17.8009136+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:05:01.3128858+00:00"
 }

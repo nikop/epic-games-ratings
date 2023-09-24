@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20766,
+  "EOS_Progressed": 20768,
   "EOS_Completed": 419,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -17250,6 +17250,11 @@
       "Time": "2023-09-24T16:05:39.8430473+00:00",
       "NumProgressed": 20766,
       "NumCompleted": 419
+    },
+    {
+      "Time": "2023-09-24T17:05:18.5441615+00:00",
+      "NumProgressed": 20768,
+      "NumCompleted": 419
     }
   ],
   "TotalAchievements": 20,
@@ -17261,7 +17266,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -17277,7 +17282,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -17381,7 +17386,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15990
+      "UsersEstimate": 15991
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17389,7 +17394,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5814
+      "UsersEstimate": 5815
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17397,7 +17402,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -17420,15 +17425,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20766,
+      "Progressed": 20768,
       "Completed": 419
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:05:39.8430465+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:05:18.5441611+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:57:26.2849584+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:05:39.8431934+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:57:24.2353142+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:05:18.5442498+00:00"
 }

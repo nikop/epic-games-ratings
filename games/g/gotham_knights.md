@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 889)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,853 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,478 |
-| Loose Ends | 34.00% | ~24,750 |
+| First Step Into the Knight | 52.00% | ~37,854 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,479 |
+| Loose Ends | 34.00% | ~24,751 |
 | To the Victor Go the Spoils | 29.00% | ~21,111 |
 | Knighthood | 28.00% | ~20,383 |
 | Get ReQ'd | 25.00% | ~18,199 |
@@ -23,18 +23,18 @@ Rating: 4.18 (Ranked 889)
 | The Show Mud Go On | 18.00% | ~13,103 |
 | From Inside Gotham's Walls | 18.00% | ~13,103 |
 | Protector of Gotham | 17.00% | ~12,375 |
-| Universal Health Scare | 16.00% | ~11,647 |
-| In Your Element | 15.00% | ~10,919 |
-| Voiceless | 15.00% | ~10,919 |
-| Rock and a Hard Place | 14.00% | ~10,191 |
-| Cooldown | 14.00% | ~10,191 |
-| Seeking Asylum | 14.00% | ~10,191 |
-| Not On My Watch | 13.00% | ~9,463 |
-| Shock Til They Drop | 13.00% | ~9,463 |
-| End of an Era | 12.00% | ~8,735 |
-| Bulldozed | 12.00% | ~8,735 |
-| Gotham Knight | 12.00% | ~8,735 |
-| Gotham City Confidential | 11.00% | ~8,007 |
+| Universal Health Scare | 16.00% | ~11,648 |
+| In Your Element | 15.00% | ~10,920 |
+| Voiceless | 15.00% | ~10,920 |
+| Rock and a Hard Place | 14.00% | ~10,192 |
+| Cooldown | 14.00% | ~10,192 |
+| Seeking Asylum | 14.00% | ~10,192 |
+| Not On My Watch | 13.00% | ~9,464 |
+| Shock Til They Drop | 13.00% | ~9,464 |
+| End of an Era | 12.00% | ~8,736 |
+| Bulldozed | 12.00% | ~8,736 |
+| Gotham Knight | 12.00% | ~8,736 |
+| Gotham City Confidential | 11.00% | ~8,008 |
 | Drone You Out | 10.00% | ~7,280 |
 | Out of Their League | 9.00% | ~6,552 |
 | Solid Alibi | 9.00% | ~6,552 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 889)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,795 (Ranked 84)  
+Progressed: 72,797 (Ranked 84)  
 Completed: 117 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,10 @@ Completed: 117 (0.16%) (Ranked 215)
 | 2023-09-21 | 72,719 | 116 |
 | 2023-09-22 | 72,737 | 116 |
 | 2023-09-23 | 72,766 | 117 |
-| 2023-09-24 | 72,795 | 117 |
+| 2023-09-24 | 72,797 | 117 |
 ## Awards
 Max (Great Boss Battles): 2,742  (Ranked 96)  
-Sum: 4,561 (Ranked 139)  
+Sum: 4,562 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -236,8 +236,8 @@ Diff (max vs sum): -43
 | This game is Extremely Fun | 233 |
 | This game is Relaxing | 231 |
 | This game has Diverse Characters | 229 |
+| This game has Amazing Storytelling | 225 |
 | This game is Highly Recommended | 225 |
-| This game has Amazing Storytelling | 224 |
 | This game has Amazing Characters | 222 |
 | This game is Great for Beginners | 222 |
 | This game is Great for Quick Sessions | 60 |
@@ -455,4 +455,4 @@ Diff (max vs sum): -43
 | 2023-09-21 | 4.18 | 2,725 | 4,532 |
 | 2023-09-22 | 4.18 | 2,731 | 4,543 |
 | 2023-09-23 | 4.18 | 2,731 | 4,548 |
-| 2023-09-24 | 4.18 | 2,742 | 4,561 |
+| 2023-09-24 | 4.18 | 2,742 | 4,562 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8064,9 +8064,9 @@
       "Count": 671
     }
   ],
-  "EOS_Progressed": 297243,
+  "EOS_Progressed": 297249,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25074,6 +25074,11 @@
       "Time": "2023-09-24T16:08:07.2068803+00:00",
       "NumProgressed": 297243,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-24T17:07:37.2417603+00:00",
+      "NumProgressed": 297249,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -25085,7 +25090,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41614
+      "UsersEstimate": 41615
     },
     {
       "ID": "PFA_10",
@@ -25093,7 +25098,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29724
+      "UsersEstimate": 29725
     },
     {
       "ID": "PFA_11",
@@ -25101,7 +25106,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29724
+      "UsersEstimate": 29725
     },
     {
       "ID": "PFA_12",
@@ -25109,7 +25114,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29724
+      "UsersEstimate": 29725
     },
     {
       "ID": "PFA_13",
@@ -25117,7 +25122,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29724
+      "UsersEstimate": 29725
     },
     {
       "ID": "PFA_14",
@@ -25141,7 +25146,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29724
+      "UsersEstimate": 29725
     },
     {
       "ID": "PFA_17",
@@ -25157,7 +25162,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23779
+      "UsersEstimate": 23780
     },
     {
       "ID": "PFA_19",
@@ -25189,7 +25194,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29724
+      "UsersEstimate": 29725
     },
     {
       "ID": "PFA_22",
@@ -25205,7 +25210,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35669
+      "UsersEstimate": 35670
     },
     {
       "ID": "PFA_24",
@@ -25213,7 +25218,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29724
+      "UsersEstimate": 29725
     },
     {
       "ID": "PFA_25",
@@ -25341,7 +25346,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29724
+      "UsersEstimate": 29725
     },
     {
       "ID": "PFA_4",
@@ -25389,7 +25394,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23779
+      "UsersEstimate": 23780
     },
     {
       "ID": "PFA_45",
@@ -25444,7 +25449,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297243,
+      "Progressed": 297249,
       "Completed": 476
     }
   ],
@@ -25452,8 +25457,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-24T16:01:10.4461362+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:08:07.2068795+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:07:37.2417599+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:01:10.4461373+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:08:07.2070573+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:00:55.2725589+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:07:37.2418752+00:00"
 }

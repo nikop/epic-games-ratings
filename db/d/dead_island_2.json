@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4750,10 +4750,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9190,
       "NumberOfAwardsMax": 6175
+    },
+    {
+      "Time": "2023-09-24T17:02:26.9818012+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9191,
+      "NumberOfAwardsMax": 6175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9190,
+  "NumberOfAwards": 9191,
   "NumberOfAwardsMax": 6175,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4791,7 +4797,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 335
+      "Count": 336
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4812,10 +4818,10 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 685638,
+  "EOS_Progressed": 685673,
   "EOS_Completed": 2172,
-  "EOS_NewPlayers": 4040,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 4028,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -22507,6 +22513,11 @@
       "Time": "2023-09-24T16:08:25.3650671+00:00",
       "NumProgressed": 685638,
       "NumCompleted": 2172
+    },
+    {
+      "Time": "2023-09-24T17:07:54.0888564+00:00",
+      "NumProgressed": 685673,
+      "NumCompleted": 2172
     }
   ],
   "TotalAchievements": 45,
@@ -22526,7 +22537,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_ammo_ran",
@@ -22542,7 +22553,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -22566,7 +22577,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_bookworm",
@@ -22598,7 +22609,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -22710,7 +22721,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "ach_knock_down",
@@ -22734,7 +22745,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_magnum_opus",
@@ -22758,7 +22769,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_revival_tour",
@@ -22766,7 +22777,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_salvation",
@@ -22774,7 +22785,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_secrets_of_la",
@@ -22804,9 +22815,9 @@
       "ID": "ach_survival_expert",
       "SetID": "7km39fm",
       "Name": "Survival Skills",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1371
+      "UsersEstimate": 2057
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -22822,7 +22833,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "ach_thesacrifice",
@@ -22830,7 +22841,7 @@
       "Name": "Our True Nature",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -22854,7 +22865,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20569
+      "UsersEstimate": 20570
     },
     {
       "ID": "ach_well_known_survivor",
@@ -22862,7 +22873,7 @@
       "Name": "Rising Star",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "ach_well_trained",
@@ -22877,22 +22888,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 685638,
+      "Progressed": 685673,
       "Completed": 2172
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 11179,
-      "Completed": 11179
+      "Progressed": 11214,
+      "Completed": 11214
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-24T09:00:48.4024846+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:08:25.3650665+00:00",
+  "LastChanged": "2023-09-24T17:02:26.9818011+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:07:54.0888561+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:03:01.7140772+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:08:25.3652177+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:02:26.9818015+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:07:54.0889695+00:00"
 }

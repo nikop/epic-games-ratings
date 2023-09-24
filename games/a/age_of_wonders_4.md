@@ -57,7 +57,7 @@ Rating: 4.60 (Ranked 399)
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,190 (Ranked 162)  
-Completed: 6 (0.12%) (Ranked 225)  
+Completed: 6 (0.12%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

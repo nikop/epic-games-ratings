@@ -3,11 +3,11 @@
   "Name": "Chorus",
   "ProductSlug": "chorus",
   "Ranking_Rating": 617,
-  "Ranking_Popularity": 461,
+  "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -278,18 +278,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 32,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-09-24T16:58:56.9875548+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 33,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32,
-  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 33,
+  "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 32
+      "Count": 33
     }
   ],
   "EOS_Progressed": 1207,
@@ -2355,9 +2361,9 @@
       "ID": "MissionTheiaStep1",
       "SetID": "a6c395p",
       "Name": "Origin",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 483
     },
     {
       "ID": "Overcharge",
@@ -2442,9 +2448,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
-  "LastChanged": "2023-09-20T15:02:51.9408959+00:00",
-  "LastChanged_Achievements": "2023-09-24T16:07:07.692279+00:00",
+  "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
+  "LastChanged_Achievements": "2023-09-24T17:06:41.8884942+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.4828325+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:59:06.3576252+00:00",
-  "LastUpdate_Achievements": "2023-09-24T16:07:07.6923352+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:58:56.987555+00:00",
+  "LastUpdate_Achievements": "2023-09-24T17:06:41.8885316+00:00"
 }

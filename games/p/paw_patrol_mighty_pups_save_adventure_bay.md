@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 75.00% | ~21 |
-| Grand Re-Opening | 61.00% | ~17 |
+| Grand Re-Opening | 64.00% | ~18 |
+| Summer Day | 64.00% | ~18 |
 | Pup Pup Boogie | 61.00% | ~17 |
-| Summer Day | 61.00% | ~17 |
 | Mr. Porter | 50.00% | ~14 |
-| Risky Rescue | 46.00% | ~13 |
+| Risky Rescue | 50.00% | ~14 |
 | Carlos Is Tangled | 43.00% | ~12 |
 | Mandy Family | 39.00% | ~11 |
 | Paw patrol member | 32.00% | ~9 |
@@ -17,16 +17,16 @@
 | Break Time | 29.00% | ~8 |
 | Training Day | 29.00% | ~8 |
 | The Fastest | 29.00% | ~8 |
+| Adventure Bay’s Citizen | 29.00% | ~8 |
 | Master of the Rope | 25.00% | ~7 |
 | Clear the Road | 25.00% | ~7 |
-| Adventure Bay’s Citizen | 25.00% | ~7 |
 | In the Air | 21.00% | ~6 |
 | Never Miss | 21.00% | ~6 |
 | Animal Sighting | 21.00% | ~6 |
 | Don’t Miss Any | 21.00% | ~6 |
 | You Have Been Everywhere | 18.00% | ~5 |
+| Mountain and Ice | 18.00% | ~5 |
 | Everything Under Control | 14.00% | ~4 |
-| Mountain and Ice | 14.00% | ~4 |
 | A Great Explorer | 11.00% | ~3 |
 | Nothing Can Stop You | 11.00% | ~3 |
 | King of the Mountain | 7.00% | ~2 |

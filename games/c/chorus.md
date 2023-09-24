@@ -26,7 +26,7 @@ Number of Ratings: 58  (23.09.2022)
 | Disruption | 43.00% | ~519 |
 | Phoenix | 43.00% | ~519 |
 | Cult Slayer | 40.00% | ~483 |
-| Origin | 39.00% | ~471 |
+| Origin | 40.00% | ~483 |
 | It Was An Accident | 39.00% | ~471 |
 | Set in Motion | 38.00% | ~459 |
 | In the Eye of the Storm | 37.00% | ~447 |
@@ -191,12 +191,12 @@ Completed: 15 (1.24%) (Ranked 121)
 | 2023-09-23 | 1,204 | 15 |
 | 2023-09-24 | 1,207 | 15 |
 ## Awards
-Max (Great Boss Battles): 32  (Ranked 461)  
-Sum: 32 (Ranked 481)  
-Diff (max vs sum): -20  
+Max (Great Boss Battles): 33  (Ranked 460)  
+Sum: 33 (Ranked 481)  
+Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 32 |
+| This game has Great Boss Battles | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -254,3 +254,4 @@ Diff (max vs sum): -20
 | 2023-07-09 | 4.45 | - | 32 | 32 |
 | 2023-08-19 | 4.46 | - | 32 | 32 |
 | 2023-09-20 | 4.47 | - | 32 | 32 |
+| 2023-09-24 | 4.47 | - | 33 | 33 |
