@@ -24,12 +24,12 @@ Rating: 4.45 (Ranked 643)
 | Apprentice | 41.00% | ~798 |
 | Access granted | 35.00% | ~681 |
 | Going once, going twice, sold | 35.00% | ~681 |
-| Bull and bear | 33.00% | ~642 |
+| Bull and bear | 34.00% | ~662 |
 | Stoker | 32.00% | ~623 |
 | Full Steam ahead | 32.00% | ~623 |
+| Financial Shark | 31.00% | ~603 |
 | All mine | 30.00% | ~584 |
 | Mole | 30.00% | ~584 |
-| Financial Shark | 30.00% | ~584 |
 | Socializer | 29.00% | ~564 |
 | General Manager | 27.00% | ~525 |
 | Country Life | 27.00% | ~525 |

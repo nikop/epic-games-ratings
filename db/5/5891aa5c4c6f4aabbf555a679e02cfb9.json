@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "b36c5kb",
       "Name": "Stick it in My Veins",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:04:46.4642155+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:04:25.4372286+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-24T05:59:35.0823751+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:04:46.4642674+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:59:16.9007862+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:04:25.4372734+00:00"
 }

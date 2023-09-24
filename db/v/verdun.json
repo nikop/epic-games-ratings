@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59078,
+  "EOS_Progressed": 59079,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18923,6 +18923,11 @@
       "Time": "2023-09-24T06:04:15.053282+00:00",
       "NumProgressed": 59078,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-24T07:03:58.9047559+00:00",
+      "NumProgressed": 59079,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -19166,7 +19171,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15360
+      "UsersEstimate": 15361
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -19198,7 +19203,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23631
+      "UsersEstimate": 23632
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -19222,7 +19227,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37219
+      "UsersEstimate": 37220
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -19270,7 +19275,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4136
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -19284,9 +19289,9 @@
       "ID": "VERDUN_ACH_MELEEKILLS2",
       "SetID": "dje9lo9",
       "Name": "Manual Labour II",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 2363
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS3",
@@ -19302,7 +19307,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 45490
+      "UsersEstimate": 45491
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -19318,7 +19323,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4136
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -19405,15 +19410,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59078,
+      "Progressed": 59079,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:04:15.0532811+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:03:58.9047553+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:03.9161751+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:02:15.9194894+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:04:15.0535112+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:01:34.7439096+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:03:58.9049159+00:00"
 }

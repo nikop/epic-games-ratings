@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 409,
+  "EOS_Progressed": 410,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2023-09-24T06:04:10.304784+00:00",
       "NumProgressed": 409,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T07:03:54.8051947+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1343,7 +1348,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "completeact3",
@@ -1375,7 +1380,7 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "scoreminrankrb2",
@@ -1454,7 +1459,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 409,
+      "Progressed": 410,
       "Completed": 2
     }
   ],
@@ -1462,8 +1467,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:04:10.3047833+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:03:54.8051941+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:03:05.6166874+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:04:10.3048089+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:03:09.5808625+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:03:54.8052135+00:00"
 }

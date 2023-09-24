@@ -4738,10 +4738,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9186,
       "NumberOfAwardsMax": 6175
+    },
+    {
+      "Time": "2023-09-24T07:01:32.9907577+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9188,
+      "NumberOfAwardsMax": 6175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9186,
+  "NumberOfAwards": 9188,
   "NumberOfAwardsMax": 6175,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4797,12 +4803,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 358
+      "Count": 360
     }
   ],
-  "EOS_Progressed": 685293,
+  "EOS_Progressed": 685313,
   "EOS_Completed": 2170,
-  "EOS_NewPlayers": 4076,
+  "EOS_NewPlayers": 4074,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22445,6 +22451,11 @@
       "Time": "2023-09-24T06:07:59.0511231+00:00",
       "NumProgressed": 685293,
       "NumCompleted": 2170
+    },
+    {
+      "Time": "2023-09-24T07:07:10.0798656+00:00",
+      "NumProgressed": 685313,
+      "NumCompleted": 2170
     }
   ],
   "TotalAchievements": 45,
@@ -22528,7 +22539,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3427
     },
     {
       "ID": "ach_defensive",
@@ -22592,7 +22603,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3427
     },
     {
       "ID": "ach_hazardous_materials",
@@ -22632,7 +22643,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3427
     },
     {
       "ID": "ach_investigator",
@@ -22815,22 +22826,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 685293,
+      "Progressed": 685313,
       "Completed": 2170
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 10834,
-      "Completed": 10834
+      "Progressed": 10854,
+      "Completed": 10854
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-24T04:01:45.8340778+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:07:59.0511227+00:00",
+  "LastChanged": "2023-09-24T07:01:32.9907576+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:07:10.079865+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:02:13.809963+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:07:59.0512898+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:01:32.9907585+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:07:10.0800124+00:00"
 }

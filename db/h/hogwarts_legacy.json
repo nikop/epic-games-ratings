@@ -7954,10 +7954,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44148,
       "NumberOfAwardsMax": 22986
+    },
+    {
+      "Time": "2023-09-24T07:00:07.5674209+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44151,
+      "NumberOfAwardsMax": 22986
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44148,
+  "NumberOfAwards": 44151,
   "NumberOfAwardsMax": 22986,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8025,7 +8031,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 949
+      "Count": 952
     },
     {
       "Text": "This game has a Creative Community",
@@ -8034,9 +8040,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297218,
+  "EOS_Progressed": 297220,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24999,6 +25005,11 @@
       "Time": "2023-09-24T06:07:40.3483938+00:00",
       "NumProgressed": 297218,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-24T07:06:54.2957653+00:00",
+      "NumProgressed": 297220,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -25082,7 +25093,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23777
+      "UsersEstimate": 23778
     },
     {
       "ID": "PFA_19",
@@ -25314,7 +25325,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23777
+      "UsersEstimate": 23778
     },
     {
       "ID": "PFA_45",
@@ -25338,7 +25349,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38638
+      "UsersEstimate": 38639
     },
     {
       "ID": "PFA_7",
@@ -25346,7 +25357,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38638
+      "UsersEstimate": 38639
     },
     {
       "ID": "PFA_8",
@@ -25369,16 +25380,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297218,
+      "Progressed": 297220,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-24T04:00:15.9228514+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:07:40.3483931+00:00",
+  "LastChanged": "2023-09-24T07:00:07.5674208+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:06:54.2957647+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:00:37.3470647+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:07:40.3486485+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:00:07.5674215+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:06:54.2958938+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,753 |
-| Let There Be Light | 34.00% | ~22,467 |
-| Float Like a Butterfly | 32.00% | ~21,145 |
+| Follow the Light | 42.00% | ~27,754 |
+| Let There Be Light | 34.00% | ~22,468 |
+| Float Like a Butterfly | 32.00% | ~21,146 |
 | Nordic Walking | 26.00% | ~17,181 |
 | Bright Falls' Finest | 25.00% | ~16,520 |
-| Under a Thin Layer of Skin | 22.00% | ~14,537 |
+| Under a Thin Layer of Skin | 22.00% | ~14,538 |
 | Paging Mr. Wake | 19.00% | ~12,555 |
-| Park Ranger | 18.00% | ~11,894 |
-| Back! Back, I Say! | 17.00% | ~11,233 |
-| Finders Keepers | 17.00% | ~11,233 |
+| Park Ranger | 18.00% | ~11,895 |
+| Back! Back, I Say! | 17.00% | ~11,234 |
+| Finders Keepers | 17.00% | ~11,234 |
 | Sound and Fury | 16.00% | ~10,573 |
 | Damn Good Cup of Coffee | 16.00% | ~10,573 |
 | Wheels Within Wheels | 15.00% | ~9,912 |
@@ -23,13 +23,13 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 15.00% | ~9,912 |
 | The Six-Gun Scribe | 14.00% | ~9,251 |
 | Collateral Carnage | 14.00% | ~9,251 |
-| Heavy Metal | 13.00% | ~8,590 |
-| Iron Horse | 13.00% | ~8,590 |
-| Perchance to Dream | 13.00% | ~8,590 |
-| Come One, Come All | 13.00% | ~8,590 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,929 |
-| Thunder and Lightning | 12.00% | ~7,929 |
-| Two For the Price of One | 12.00% | ~7,929 |
+| Heavy Metal | 13.00% | ~8,591 |
+| Iron Horse | 13.00% | ~8,591 |
+| Perchance to Dream | 13.00% | ~8,591 |
+| Come One, Come All | 13.00% | ~8,591 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,930 |
+| Thunder and Lightning | 12.00% | ~7,930 |
+| Two For the Price of One | 12.00% | ~7,930 |
 | Gatekeeper | 11.00% | ~7,269 |
 | The Lady of the Light | 11.00% | ~7,269 |
 | Energized! | 11.00% | ~7,269 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,079 (Ranked 89)  
+Progressed: 66,081 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 66 (0.10%) (Ranked 232)
 | 2023-09-21 | 65,931 | 66 |
 | 2023-09-22 | 65,981 | 66 |
 | 2023-09-23 | 66,060 | 66 |
-| 2023-09-24 | 66,079 | 66 |
+| 2023-09-24 | 66,081 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

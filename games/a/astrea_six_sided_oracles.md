@@ -24,6 +24,7 @@
 | Shard Spender | 29.00% | ~2 |
 | Arch-Oracle | 14.00% | ~1 |
 | Astral Adventurer | 14.00% | ~1 |
+| Can't touch this | 14.00% | ~1 |
 | Denying Destiny | 14.00% | ~1 |
 | Favored by the Cosmos | 14.00% | ~1 |
 | Heart Gate | 14.00% | ~1 |
@@ -53,7 +54,6 @@
 | Betting High | 0.00% | ~0 |
 | Blazing Prince | 0.00% | ~0 |
 | Boundless as Ocean | 0.00% | ~0 |
-| Can't touch this | 0.00% | ~0 |
 | Critical Twist | 0.00% | ~0 |
 | Eridanian Champion | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |

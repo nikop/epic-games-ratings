@@ -258,9 +258,9 @@
       "ID": "Canttouchthis",
       "SetID": "1jeo1g7",
       "Name": "Can\u0027t touch this",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CriticalTwist",
@@ -713,8 +713,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:05:27.7469423+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:05:00.8256047+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:01:42.914204+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:05:27.7471028+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:01:05.4652919+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:05:00.8256818+00:00"
 }

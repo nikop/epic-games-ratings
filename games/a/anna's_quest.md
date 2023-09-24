@@ -25,12 +25,12 @@
 | Little genius | 39.00% | ~18 |
 | GG | 37.00% | ~17 |
 | No posters allowed | 37.00% | ~17 |
+| Shattered | 35.00% | ~16 |
 | You've got mail! | 35.00% | ~16 |
 | Close the deal | 33.00% | ~15 |
-| Shattered | 33.00% | ~15 |
+| Memories | 33.00% | ~15 |
 | Beekeeper | 33.00% | ~15 |
 | Mischief maker | 33.00% | ~15 |
-| Memories | 30.00% | ~14 |
 | Pain in the hands | 30.00% | ~14 |
 | Turn the last page | 28.00% | ~13 |
 | Singstar | 28.00% | ~13 |

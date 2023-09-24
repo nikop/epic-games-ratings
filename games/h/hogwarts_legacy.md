@@ -6,8 +6,8 @@ Rating: 4.76 (Ranked 117)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,611 |
-| First Class Student | 13.00% | ~38,638 |
-| Troll with the Punches | 13.00% | ~38,638 |
+| First Class Student | 13.00% | ~38,639 |
+| Troll with the Punches | 13.00% | ~38,639 |
 | A Keen Sense of Spell | 12.00% | ~35,666 |
 | A Talent for Spending | 11.00% | ~32,694 |
 | That's a Keeper | 11.00% | ~32,694 |
@@ -21,8 +21,8 @@ Rating: 4.76 (Ranked 117)
 | Coasting Along | 10.00% | ~29,722 |
 | Followed the Butterflies | 9.00% | ~26,750 |
 | Rising From the Ashes | 9.00% | ~26,750 |
-| A Sallow Grave | 8.00% | ~23,777 |
-| The Spell Master | 8.00% | ~23,777 |
+| A Sallow Grave | 8.00% | ~23,778 |
+| The Spell Master | 8.00% | ~23,778 |
 | The Avenging Gazelle | 7.00% | ~20,805 |
 | Beast Friends | 7.00% | ~20,805 |
 | Flight the Good Flight | 7.00% | ~20,805 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,218 (Ranked 44)  
+Progressed: 297,220 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,10 +208,10 @@ Completed: 476 (0.16%) (Ranked 214)
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
-| 2023-09-24 | 297,218 | 476 |
+| 2023-09-24 | 297,220 | 476 |
 ## Awards
 Max (Character Customization): 22,986  (Ranked 17)  
-Sum: 44,148 (Ranked 30)  
+Sum: 44,151 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +224,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,044 |
 | This game has Amazing Characters | 1,022 |
 | This game is Highly Recommended | 1,009 |
-| This game has Quickly Understood Controls | 949 |
+| This game has Quickly Understood Controls | 952 |
 | This game has Beautiful Visuals | 875 |
 | This game has a Creative Community | 667 |
 ## Ratings History
@@ -414,4 +414,4 @@ Diff (max vs sum): -13
 | 2023-09-21 | 4.77 | 22,886 | 43,899 |
 | 2023-09-22 | 4.77 | 22,916 | 43,979 |
 | 2023-09-23 | 4.76 | 22,951 | 44,076 |
-| 2023-09-24 | 4.76 | 22,986 | 44,148 |
+| 2023-09-24 | 4.76 | 22,986 | 44,151 |

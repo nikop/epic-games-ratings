@@ -6,29 +6,29 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~394,111 |
-| Happy Returns | 78.00% | ~379,514 |
-| Hey! That's mine! | 78.00% | ~379,514 |
-| Field Promotion | 74.00% | ~360,052 |
-| Leadhead | 71.00% | ~345,455 |
-| Eradicator | 67.00% | ~325,993 |
-| Surplus | 65.00% | ~316,262 |
-| I Spy | 64.00% | ~311,396 |
+| First Blood | 81.00% | ~394,112 |
+| Happy Returns | 78.00% | ~379,515 |
+| Hey! That's mine! | 78.00% | ~379,515 |
+| Field Promotion | 74.00% | ~360,053 |
+| Leadhead | 71.00% | ~345,456 |
+| Eradicator | 67.00% | ~325,994 |
+| Surplus | 65.00% | ~316,263 |
+| I Spy | 64.00% | ~311,397 |
 | Burn Baby Burn | 59.00% | ~287,069 |
-| Yellow Beats Green | 55.00% | ~267,606 |
-| Salvage Rights | 53.00% | ~257,875 |
-| Close Call | 50.00% | ~243,278 |
-| Pew Pew | 50.00% | ~243,278 |
-| What IS that? | 50.00% | ~243,278 |
+| Yellow Beats Green | 55.00% | ~267,607 |
+| Salvage Rights | 53.00% | ~257,876 |
+| Close Call | 50.00% | ~243,279 |
+| Pew Pew | 50.00% | ~243,279 |
+| What IS that? | 50.00% | ~243,279 |
 | Penny Pincher | 49.00% | ~238,413 |
-| Arsenal | 46.00% | ~223,816 |
+| Arsenal | 46.00% | ~223,817 |
 | Boot Camp | 45.00% | ~218,951 |
 | Flawless Victory | 42.00% | ~204,354 |
-| Confident | 41.00% | ~199,488 |
+| Confident | 41.00% | ~199,489 |
 | Exterminator | 36.00% | ~175,161 |
-| Sharpshooter | 34.00% | ~165,429 |
+| Sharpshooter | 34.00% | ~165,430 |
 | Not So Fast | 33.00% | ~160,564 |
-| Great Ball of Fire | 32.00% | ~155,698 |
+| Great Ball of Fire | 32.00% | ~155,699 |
 | No Sale | 31.00% | ~150,833 |
 | Kaboom! | 30.00% | ~145,967 |
 | Liquidator | 29.00% | ~141,102 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~487 |
 | You Monster | 0.10% | ~487 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,557 (Ranked 35)  
+Progressed: 486,558 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 4 (0.00%) (Ranked 291)
 | 2023-09-21 | 486,411 | 4 |
 | 2023-09-22 | 486,463 | 4 |
 | 2023-09-23 | 486,542 | 4 |
-| 2023-09-24 | 486,557 | 4 |
+| 2023-09-24 | 486,558 | 4 |
 ## Awards
 Max (Great for Beginners): 248  (Ranked 259)  
 Sum: 1,689 (Ranked 213)  

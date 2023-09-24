@@ -248,11 +248,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1484,
+  "EOS_Progressed": 1485,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.72,
+  "EOS_Completed_Percentage": 4.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -2638,6 +2638,11 @@
       "Time": "2023-09-23T23:08:24.9064416+00:00",
       "NumProgressed": 1484,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-09-24T07:07:39.3308169+00:00",
+      "NumProgressed": 1485,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 11,
@@ -2647,9 +2652,9 @@
       "ID": "ACH_Appuntamento",
       "SetID": "7a9m7mj",
       "Name": "Cutepie",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 623
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -2713,7 +2718,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2721,7 +2726,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -2729,22 +2734,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1484,
+      "Progressed": 1485,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:08:33.353269+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:07:39.3308162+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:32.0080277+00:00",
-  "LastUpdate_Ratings": "2023-09-24T05:58:08.5671674+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:08:33.3532973+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:58:04.7014874+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:07:39.3308378+00:00"
 }

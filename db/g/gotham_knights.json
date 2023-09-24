@@ -3128,9 +3128,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72775,
+  "EOS_Progressed": 72776,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16463,6 +16463,11 @@
       "Time": "2023-09-24T06:06:53.7068651+00:00",
       "NumProgressed": 72775,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-24T07:06:14.3701139+00:00",
+      "NumProgressed": 72776,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16674,7 +16679,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4366
+      "UsersEstimate": 4367
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -16778,7 +16783,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25471
+      "UsersEstimate": 25472
     },
     {
       "ID": "HARLEY_2",
@@ -16818,7 +16823,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37843
+      "UsersEstimate": 37844
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16858,7 +16863,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4366
+      "UsersEstimate": 4367
     },
     {
       "ID": "MYSTERY_01",
@@ -16961,13 +16966,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72775,
+      "Progressed": 72776,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43055,
+      "Progressed": 43056,
       "Completed": 2667
     }
   ],
@@ -16975,8 +16980,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-24T03:57:16.0139151+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:06:53.7068647+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:06:14.370113+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-24T05:57:16.4341313+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:06:53.707007+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:57:18.5683156+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:06:14.3702382+00:00"
 }

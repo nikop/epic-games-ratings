@@ -5,9 +5,9 @@
   "Ranking_Rating": 693,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,11 +338,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -1798,6 +1798,11 @@
       "Time": "2023-09-23T23:05:26.5762998+00:00",
       "NumProgressed": 424,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T07:05:08.2712891+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1810,15 +1815,15 @@
       "Name": "Descendants",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1954,7 +1959,7 @@
       "Name": "Mission Success",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_HUB2",
@@ -1962,7 +1967,7 @@
       "Name": "Path to Salvation",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_OASIS",
@@ -1970,7 +1975,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_PEAK",
@@ -1986,7 +1991,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_REDEND",
@@ -1994,7 +1999,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_S1",
@@ -2002,7 +2007,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_S4",
@@ -2010,7 +2015,7 @@
       "Name": "Power Glove",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_S5",
@@ -2018,7 +2023,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2026,7 +2031,7 @@
       "Name": "Lost in Space",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_STATUE",
@@ -2041,15 +2046,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 426,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:05:36.2602053+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:05:08.2712885+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:00:37.6958782+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:05:36.2602467+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:00:07.8135984+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:05:08.2713193+00:00"
 }

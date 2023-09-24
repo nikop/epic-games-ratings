@@ -165,9 +165,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -251,8 +251,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:08:13.3041136+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:07:22.155225+00:00",
   "LastUpdate_AppInfo": "2023-09-19T15:57:15.1386888+00:00",
-  "LastUpdate_Ratings": "2023-09-24T05:58:21.8821461+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:08:13.3041338+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:58:17.6912921+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:07:22.1552374+00:00"
 }

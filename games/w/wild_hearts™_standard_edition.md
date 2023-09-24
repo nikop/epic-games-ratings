@@ -25,12 +25,12 @@
 | Axer of Auspice | 45.00% | ~15 |
 | Karakuri Trail | 42.00% | ~14 |
 | Artful Assister | 39.00% | ~13 |
+| Left Arm Leverager | 36.00% | ~12 |
 | Single Minded | 36.00% | ~12 |
 | Mighty Marmelizer | 36.00% | ~12 |
 | Kemono at Heart | 36.00% | ~12 |
 | Team Hunter | 36.00% | ~12 |
 | Reincarnation Cycle Stopper | 36.00% | ~12 |
-| Left Arm Leverager | 33.00% | ~11 |
 | Fair Means or Foul | 33.00% | ~11 |
 | Snare Specialist | 33.00% | ~11 |
 | Karakuri Isle | 30.00% | ~10 |

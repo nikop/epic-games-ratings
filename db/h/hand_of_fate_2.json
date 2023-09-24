@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662500,
+  "EOS_Progressed": 662501,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15703,6 +15703,11 @@
       "Time": "2023-09-24T05:04:39.8273739+00:00",
       "NumProgressed": 662500,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-24T07:05:05.0737594+00:00",
+      "NumProgressed": 662501,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15714,7 +15719,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477000
+      "UsersEstimate": 477001
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -15722,7 +15727,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384250
+      "UsersEstimate": 384251
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -15762,7 +15767,7 @@
       "Name": "Dungeon Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "Achievement_08_Card_Sharp",
@@ -15794,7 +15799,7 @@
       "Name": "Grifter",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Achievement_12_Jack_of_all_Trades",
@@ -15914,7 +15919,7 @@
       "Name": "Gamester",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4637
+      "UsersEstimate": 4638
     },
     {
       "ID": "Achievement_27_Money_Bags",
@@ -15930,7 +15935,7 @@
       "Name": "Unburdened",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Achievement_29_Focused",
@@ -15962,7 +15967,7 @@
       "Name": "Karma",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Achievement_33_Combat_Ready",
@@ -16058,7 +16063,7 @@
       "Name": "Miracle",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Achievement_45_Peaceful_Coast",
@@ -16090,22 +16095,22 @@
       "Name": "Blood Pact",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     }
   ],
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662500,
+      "Progressed": 662501,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:05:32.4310897+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:05:05.0737588+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.7823898+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:01:34.0363624+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:05:32.43123+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:00:57.6334089+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:05:05.0738759+00:00"
 }

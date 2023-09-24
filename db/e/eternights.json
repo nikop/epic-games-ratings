@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 213,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -691,9 +691,9 @@
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:07:46.125397+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:06:59.3882758+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-24T05:57:24.2127143+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:07:46.1254209+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:57:25.7066562+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:06:59.388296+00:00"
 }

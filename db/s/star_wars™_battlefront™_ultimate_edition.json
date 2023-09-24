@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -266,6 +266,11 @@
       "Time": "2023-09-24T06:06:08.4715961+00:00",
       "NumProgressed": 116,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T07:05:35.7576856+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -284,7 +289,7 @@
       "ID": "achievement_10",
       "SetID": "271ol84",
       "Name": "That got him!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -300,7 +305,7 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -348,7 +353,7 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -366,7 +371,7 @@
       "Name": "in a galaxy far, far away....",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_20",
@@ -374,7 +379,7 @@
       "Name": "Collector",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_21",
@@ -388,9 +393,9 @@
       "ID": "achievement_22",
       "SetID": "271ol84",
       "Name": "Distinguished",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_23",
@@ -428,9 +433,9 @@
       "ID": "achievement_27",
       "SetID": "271ol84",
       "Name": "Your journey has only started",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_28",
@@ -468,9 +473,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_32",
@@ -478,7 +483,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_33",
@@ -502,15 +507,15 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_37",
@@ -518,7 +523,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_38",
@@ -542,15 +547,15 @@
       "Name": "I suggest a new strategy",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_41",
@@ -566,13 +571,13 @@
       "Name": "Not bad for a little furball",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -582,7 +587,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_45",
@@ -590,13 +595,13 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_46",
       "SetID": "cemm4l8",
       "Name": "Patience you must have",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -606,7 +611,7 @@
       "Name": "Greed can be a very powerful ally",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_48",
@@ -630,7 +635,7 @@
       "Name": "Shoot first",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_50",
@@ -684,9 +689,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_57",
@@ -702,7 +707,7 @@
       "Name": "Alternative solution",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_59",
@@ -718,7 +723,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_60",
@@ -740,7 +745,7 @@
       "ID": "achievement_62",
       "SetID": "cemm4l8",
       "Name": "I never doubted you!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -750,15 +755,15 @@
       "Name": "Disturbed tranquility",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_8",
@@ -772,7 +777,7 @@
       "ID": "achievement_9",
       "SetID": "271ol84",
       "Name": "Crush them with one swift stroke\u2026",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -781,13 +786,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 118,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 116,
+      "Progressed": 118,
       "Completed": 1
     }
   ],
@@ -795,8 +800,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-24T06:06:08.4715953+00:00",
+  "LastChanged_Achievements": "2023-09-24T07:05:35.757685+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:01:30.3944186+00:00",
-  "LastUpdate_Achievements": "2023-09-24T06:06:08.4716693+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:00:54.0742728+00:00",
+  "LastUpdate_Achievements": "2023-09-24T07:05:35.757744+00:00"
 }
