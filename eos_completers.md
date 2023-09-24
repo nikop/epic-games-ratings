@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 91.73% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 91.72% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.45% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.02% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.41% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.25% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
@@ -37,7 +37,7 @@
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.75% |
 | 37 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.66% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.47% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
 | 39 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 40 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.14% |
 | 41 | [Scorn](games/s/scorn.md) | 7.05% |
@@ -92,12 +92,12 @@
 | 90 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
 | 92 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
-| 93 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 93 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 94 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 95 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.22% |
 | 96 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 97 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
-| 98 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.05% |
+| 98 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.04% |
 | 99 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.92% |
 | 101 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -131,14 +131,14 @@
 | 127 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
 | 130 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 132 | [Eternights](games/e/eternights.md) | 0.95% |
 | 132 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.95% |
-| 134 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.94% |
+| 133 | [Eternights](games/e/eternights.md) | 0.94% |
+| 133 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.94% |
 | 135 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 136 | [Hades](games/h/hades.md) | 0.90% |
-| 137 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.87% |
-| 138 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.85% |
+| 136 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.90% |
 | 138 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 139 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.84% |
 | 140 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 140 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 142 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.79% |
