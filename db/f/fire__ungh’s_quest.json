@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -767,9 +767,9 @@
       "ID": "Toad_exploded_in_003",
       "SetID": "6od1ndi",
       "Name": "BumBum",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -792,8 +792,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:04:54.0963009+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:04:13.6397629+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.6539902+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:59:20.6894997+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:04:54.0963273+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:58:33.4011752+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:04:13.6397847+00:00"
 }

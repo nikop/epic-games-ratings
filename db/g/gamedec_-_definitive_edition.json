@@ -414,9 +414,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 246945,
+  "EOS_Progressed": 246948,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17874,6 +17874,11 @@
       "Time": "2023-09-24T08:04:40.2760055+00:00",
       "NumProgressed": 246945,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-24T09:04:03.5519808+00:00",
+      "NumProgressed": 246948,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -17885,7 +17890,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66675
+      "UsersEstimate": 66676
     },
     {
       "ID": "ACH_AON",
@@ -18101,7 +18106,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59267
+      "UsersEstimate": 59268
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -18205,7 +18210,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61736
+      "UsersEstimate": 61737
     },
     {
       "ID": "ACH_SOREAD",
@@ -18300,7 +18305,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 246945,
+      "Progressed": 246948,
       "Completed": 7
     }
   ],
@@ -18308,8 +18313,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:04:40.276005+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:04:03.5519804+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:14.4356466+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:01:15.792374+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:04:40.2762177+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:59:53.9480191+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:04:03.5521349+00:00"
 }

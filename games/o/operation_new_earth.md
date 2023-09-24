@@ -12,10 +12,10 @@
 | Covert Operative | 11.00% | ~154 |
 | Lieutenant | 9.00% | ~126 |
 | Getting Deployment | 9.00% | ~126 |
-| Stocking Up | 9.00% | ~126 |
 | On Target | 9.00% | ~126 |
 | Fighting for Survival | 8.00% | ~112 |
 | Keeping Busy | 8.00% | ~112 |
+| Stocking Up | 8.00% | ~112 |
 | Infantry Reporting | 8.00% | ~112 |
 | Silver Competitor | 7.00% | ~98 |
 | Factory Expansion | 7.00% | ~98 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,400 (Ranked 215)  
+Progressed: 1,401 (Ranked 215)  
 Completed: 1 (0.07%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,4 +151,4 @@ Completed: 1 (0.07%) (Ranked 242)
 | 2023-09-21 | 1,376 | 1 |
 | 2023-09-22 | 1,383 | 1 |
 | 2023-09-23 | 1,397 | 1 |
-| 2023-09-24 | 1,400 | 1 |
+| 2023-09-24 | 1,401 | 1 |

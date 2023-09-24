@@ -8020,9 +8020,9 @@
       "ID": "ACHIEVEMENT_028",
       "SetID": "1a05lfd",
       "Name": "Golden Ridge Ranger",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -8099,8 +8099,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-24T05:58:48.7914025+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:03:51.0440583+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:03:36.211195+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.3965529+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:59:05.2260184+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:03:51.0441316+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:58:22.7154277+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:03:36.2112589+00:00"
 }

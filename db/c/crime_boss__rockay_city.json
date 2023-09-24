@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3672,9 +3672,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88216,
+  "EOS_Progressed": 88219,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19932,6 +19932,11 @@
       "Time": "2023-09-24T08:04:29.6546016+00:00",
       "NumProgressed": 88216,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-24T09:03:55.9671183+00:00",
+      "NumProgressed": 88219,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -20165,9 +20170,9 @@
       "ID": "ACH_0420",
       "SetID": "3kam13l",
       "Name": "King of the Hill",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_0430",
@@ -20270,13 +20275,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88216,
+      "Progressed": 88219,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16563,
+      "Progressed": 16566,
       "Completed": 15531
     }
   ],
@@ -20284,8 +20289,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-24T04:57:52.950262+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:04:29.654601+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:03:55.9671179+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.9834817+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:58:36.5418364+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:04:29.654951+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:57:59.3292639+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:03:55.9672548+00:00"
 }

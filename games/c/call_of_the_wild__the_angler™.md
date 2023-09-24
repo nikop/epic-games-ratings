@@ -34,8 +34,8 @@ Number of Ratings: 281  (23.09.2022)
 | Head for Heights | 0.60% | ~35 |
 | Fish upon a Star | 0.60% | ~31 |
 | Lake Me up Before You Go Go | 0.50% | ~29 |
+| Golden Ridge Ranger | 0.40% | ~24 |
 | Cache and Carry | 0.40% | ~21 |
-| Golden Ridge Ranger | 0.30% | ~18 |
 | Trollsporet Tale Teller | 0.30% | ~16 |
 | Buckaroo | 0.20% | ~12 |
 | Lost and Flounder | 0.10% | ~6 |

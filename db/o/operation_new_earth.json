@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1400,
+  "EOS_Progressed": 1401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5086,6 +5086,11 @@
       "Time": "2023-09-24T03:06:50.3420382+00:00",
       "NumProgressed": 1400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T09:06:12.2550283+00:00",
+      "NumProgressed": 1401,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5303,9 +5308,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5400,14 +5405,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1400,
+      "Progressed": 1401,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:07:43.5065959+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:06:12.2550277+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:59:46.90127+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:07:43.5066631+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:58:53.2220927+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:06:12.2550895+00:00"
 }

@@ -13,10 +13,10 @@ Rating: 3.97 (Ranked 960)
 | Initiate | 60.00% | ~6 |
 | Gravity-Challenged Rocks | 50.00% | ~5 |
 | Thrada-Kul | 40.00% | ~4 |
+| Soldier | 30.00% | ~3 |
+| All the Major Food Groups | 30.00% | ~3 |
 | Control is an Illusion | 20.00% | ~2 |
 | Socialite | 20.00% | ~2 |
-| Soldier | 20.00% | ~2 |
-| All the Major Food Groups | 20.00% | ~2 |
 | Beggars Would Ride | 20.00% | ~2 |
 | The Means to Save It | 10.00% | ~1 |
 | Resilience to Sin | 10.00% | ~1 |

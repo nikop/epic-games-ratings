@@ -18,16 +18,16 @@
 | The Golden Flash | 14.00% | ~12 |
 | The Power of the Mountains | 14.00% | ~12 |
 | Changing the World | 12.00% | ~10 |
+| Locked and Loaded | 10.00% | ~9 |
 | Witch | 10.00% | ~9 |
-| Locked and Loaded | 9.00% | ~8 |
 | The A-Team | 9.00% | ~8 |
 | Through Dangers Untold | 8.00% | ~7 |
 | Finally! | 8.00% | ~7 |
+| Mirror, Mirror on the Wall | 7.00% | ~6 |
 | Craftsmen | 7.00% | ~6 |
 | Defeat Tezuth | 7.00% | ~6 |
 | Defeat Uskol | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |
-| Mirror, Mirror on the Wall | 6.00% | ~5 |
 | Bringing guns to a sword fight | 6.00% | ~5 |
 | Ancient Powers | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
@@ -40,11 +40,11 @@
 | Sponsor | 2.00% | ~2 |
 | Mountain Lover | 2.00% | ~2 |
 | Forest Expert | 2.00% | ~2 |
+| Knowledge is King | 2.00% | ~2 |
 | Wizard | 2.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
 | Wasteland Connoisseur | 1.00% | ~1 |
 | Fashionista | 1.00% | ~1 |
-| Knowledge is King | 1.00% | ~1 |
 | Bookworm | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
 | Collector | 0.00% | ~0 |

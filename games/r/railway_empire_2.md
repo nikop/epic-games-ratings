@@ -10,7 +10,7 @@ Rating: 4.45 (Ranked 643)
 | Departure | 73.00% | ~1,421 |
 | From X to Y | 72.00% | ~1,401 |
 | Way of Iron | 70.00% | ~1,362 |
-| Mystery Tour | 68.00% | ~1,323 |
+| Mystery Tour | 69.00% | ~1,343 |
 | We brake for nobody | 67.00% | ~1,304 |
 | Brainstorm | 66.00% | ~1,284 |
 | Mind the Gap | 65.00% | ~1,265 |
@@ -31,8 +31,8 @@ Rating: 4.45 (Ranked 643)
 | All mine | 30.00% | ~584 |
 | Mole | 30.00% | ~584 |
 | Socializer | 29.00% | ~564 |
+| Country Life | 28.00% | ~545 |
 | General Manager | 27.00% | ~525 |
-| Country Life | 27.00% | ~525 |
 | Hostile Takeover | 25.00% | ~486 |
 | Seven at one stroke | 24.00% | ~467 |
 | Trailblazer | 21.00% | ~409 |

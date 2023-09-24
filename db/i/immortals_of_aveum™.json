@@ -360,9 +360,9 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_5",
@@ -480,9 +480,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_9",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-12T10:00:20.9972583+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:05:15.8180865+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:04:28.9595446+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.7860154+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:01:30.6433506+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:05:15.8181648+00:00"
+  "LastUpdate_Ratings": "2023-09-24T09:00:05.0718185+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:04:28.9595865+00:00"
 }

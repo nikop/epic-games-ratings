@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3474,
+  "EOS_Progressed": 3475,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4719,6 +4719,11 @@
       "Time": "2023-09-24T07:06:24.928505+00:00",
       "NumProgressed": 3474,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-24T09:05:44.5561941+00:00",
+      "NumProgressed": 3475,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4778,7 +4783,7 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Encyclopedic_30",
@@ -4898,7 +4903,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "PowerToThePeople",
@@ -4906,7 +4911,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ReadyforSummer_41",
@@ -4914,15 +4919,15 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2259
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4938,7 +4943,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4954,7 +4959,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5058,22 +5063,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3474,
+      "Progressed": 3475,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:07:03.4205851+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:05:44.5561937+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:02:04.4512758+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:07:03.4206667+00:00"
+  "LastUpdate_Ratings": "2023-09-24T09:00:32.044576+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:05:44.5562515+00:00"
 }

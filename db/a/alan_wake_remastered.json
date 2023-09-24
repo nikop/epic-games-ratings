@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66084,
+  "EOS_Progressed": 66085,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15707,6 +15707,11 @@
       "Time": "2023-09-24T08:06:29.7693298+00:00",
       "NumProgressed": 66084,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-24T09:05:20.8566817+00:00",
+      "NumProgressed": 66085,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15718,7 +15723,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27755
+      "UsersEstimate": 27756
     },
     {
       "ID": "02",
@@ -15750,7 +15755,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14538
+      "UsersEstimate": 14539
     },
     {
       "ID": "06",
@@ -15942,7 +15947,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10573
+      "UsersEstimate": 10574
     },
     {
       "ID": "30",
@@ -16078,7 +16083,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10573
+      "UsersEstimate": 10574
     },
     {
       "ID": "47",
@@ -16253,21 +16258,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66084,
+      "Progressed": 66085,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29552,
+      "Progressed": 29553,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:06:29.7693289+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:05:20.8566813+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:01:13.4265268+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:06:29.7695816+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:59:52.1532671+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:05:20.8568423+00:00"
 }

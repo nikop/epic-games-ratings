@@ -228,9 +228,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_16",
@@ -570,8 +570,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:03:37.9096308+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:03:25.9423672+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:01:19.8359405+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:03:37.9096793+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:59:57.0953516+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:03:25.942411+00:00"
 }

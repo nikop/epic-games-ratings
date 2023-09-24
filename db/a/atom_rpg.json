@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2745,9 +2745,9 @@
       "ID": "PARANOIA",
       "SetID": "bf13m8j",
       "Name": "Paranoia",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 196
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2865,8 +2865,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-24T08:05:55.2349866+00:00",
+  "LastChanged_Achievements": "2023-09-24T09:04:56.8715234+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:58:56.10263+00:00",
-  "LastUpdate_Achievements": "2023-09-24T08:05:55.2350398+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:58:14.1736629+00:00",
+  "LastUpdate_Achievements": "2023-09-24T09:04:56.8715644+00:00"
 }

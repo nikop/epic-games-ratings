@@ -9,8 +9,8 @@ Rating: 4.76 (Ranked 117)
 | First Class Student | 13.00% | ~38,639 |
 | Troll with the Punches | 13.00% | ~38,639 |
 | A Keen Sense of Spell | 12.00% | ~35,667 |
-| A Talent for Spending | 11.00% | ~32,694 |
-| That's a Keeper | 11.00% | ~32,694 |
+| A Talent for Spending | 11.00% | ~32,695 |
+| That's a Keeper | 11.00% | ~32,695 |
 | Grappling with a Graphorn | 10.00% | ~29,722 |
 | The One Who Mastered Memories | 10.00% | ~29,722 |
 | The Hallowed Hero | 10.00% | ~29,722 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,222 (Ranked 44)  
+Progressed: 297,224 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 476 (0.16%) (Ranked 214)
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
-| 2023-09-24 | 297,222 | 476 |
+| 2023-09-24 | 297,224 | 476 |
 ## Awards
 Max (Character Customization): 22,986  (Ranked 17)  
 Sum: 44,154 (Ranked 30)  

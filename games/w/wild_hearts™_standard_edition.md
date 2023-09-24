@@ -10,9 +10,9 @@
 | Commencing of Quests | 82.00% | ~27 |
 | Fusion Conjuror | 76.00% | ~25 |
 | Charmed by the Hunt | 76.00% | ~25 |
+| Memory Rouser | 70.00% | ~23 |
 | Man-Machine Master | 70.00% | ~23 |
 | Mountain Splitter | 70.00% | ~23 |
-| Memory Rouser | 67.00% | ~22 |
 | Master of the Skies | 64.00% | ~21 |
 | Kemono Hunter | 64.00% | ~21 |
 | Helpful Heart | 64.00% | ~21 |
