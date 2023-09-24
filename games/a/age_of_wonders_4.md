@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 399)  
+Rating: 4.60 (Ranked 398)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,6 +38,7 @@ Rating: 4.60 (Ranked 399)
 | The Goddess of Nature | 3.00% | ~156 |
 | Eternal Lord | 3.00% | ~156 |
 | Crimson Caldera | 3.00% | ~156 |
+| I've Got Everything I Need Right Here | 2.00% | ~104 |
 | The Magic That Empowers Me! | 2.00% | ~104 |
 | The Eternal Court | 2.00% | ~104 |
 | Jack of All Tomes | 2.00% | ~104 |
@@ -45,7 +46,6 @@ Rating: 4.60 (Ranked 399)
 | Grexolis | 2.00% | ~104 |
 | One for All, All for One | 2.00% | ~104 |
 | Duality | 2.00% | ~104 |
-| I've Got Everything I Need Right Here | 1.00% | ~52 |
 | Manufactured War | 1.00% | ~52 |
 | Snap Out of It! | 0.80% | ~42 |
 | Betrayal Most Foul | 0.50% | ~26 |

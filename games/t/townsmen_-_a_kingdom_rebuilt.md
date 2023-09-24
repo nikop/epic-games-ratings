@@ -81,13 +81,13 @@ Number of Ratings: 37  (23.09.2022)
 | The wood shortage | 0.70% | ~30 |
 | Craftsmen challenge | 0.60% | ~26 |
 | Impregnable | 0.60% | ~26 |
-| I've been everywhere III | 0.50% | ~21 |
-| Governor-elect | 0.50% | ~21 |
-| Little place in the country | 0.50% | ~21 |
-| Made my choice | 0.50% | ~21 |
-| An honorable departure | 0.50% | ~21 |
-| I've been everywhere VII | 0.50% | ~21 |
-| To serve and protect | 0.50% | ~21 |
+| I've been everywhere III | 0.50% | ~22 |
+| Governor-elect | 0.50% | ~22 |
+| Little place in the country | 0.50% | ~22 |
+| Made my choice | 0.50% | ~22 |
+| An honorable departure | 0.50% | ~22 |
+| I've been everywhere VII | 0.50% | ~22 |
+| To serve and protect | 0.50% | ~22 |
 | It went unnoticed | 0.40% | ~17 |
 | Brew master | 0.40% | ~17 |
 | Negotiator | 0.40% | ~17 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,299 (Ranked 168)  
+Progressed: 4,300 (Ranked 168)  
 Completed: 3 (0.07%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 3 (0.07%) (Ranked 243)
 | 2023-09-21 | 4,291 | 3 |
 | 2023-09-22 | 4,293 | 3 |
 | 2023-09-23 | 4,298 | 3 |
-| 2023-09-24 | 4,299 | 3 |
+| 2023-09-24 | 4,300 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

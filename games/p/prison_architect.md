@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~44,459 |
-| Get Busy Living | 16.00% | ~28,454 |
-| Samuel Norton | 9.00% | ~16,005 |
-| Spare The Rod | 5.00% | ~8,892 |
-| Don't Put Me In The Dark | 3.00% | ~5,335 |
-| Wait and Hope | 3.00% | ~5,335 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,335 |
+| Stone Walls | 25.00% | ~44,463 |
+| Get Busy Living | 16.00% | ~28,456 |
+| Samuel Norton | 9.00% | ~16,007 |
+| Spare The Rod | 5.00% | ~8,893 |
+| Don't Put Me In The Dark | 3.00% | ~5,336 |
+| Wait and Hope | 3.00% | ~5,336 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,336 |
 | Throw The Book At Them | 2.00% | ~3,557 |
 | Iron Bars | 2.00% | ~3,557 |
-| D.B. Cooper | 1.00% | ~1,778 |
+| D.B. Cooper | 1.00% | ~1,779 |
 | Reformation | 0.60% | ~1,067 |
 | Crowd Control | 0.50% | ~889 |
 | Freedom | 0.40% | ~711 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~178 |
 | ... It's What You Can Prove | 0.10% | ~178 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177,835 (Ranked 66)  
+Progressed: 177,851 (Ranked 66)  
 Completed: 8 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,17 +180,17 @@ Completed: 8 (0.00%) (Ranked 292)
 | 2023-09-21 | 176,793 | 8 |
 | 2023-09-22 | 177,112 | 8 |
 | 2023-09-23 | 177,523 | 8 |
-| 2023-09-24 | 177,835 | 8 |
+| 2023-09-24 | 177,851 | 8 |
 ## Awards
 Max (Extremely Fun): 510  (Ranked 200)  
-Sum: 4,380 (Ranked 141)  
-Diff (max vs sum): 59  
+Sum: 4,385 (Ranked 140)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 510 |
 | This game is Great for Beginners | 493 |
-| This game is Highly Recommended | 480 |
-| This game has Quickly Understood Controls | 477 |
+| This game is Highly Recommended | 482 |
+| This game has Quickly Understood Controls | 480 |
 | This game is Relaxing | 454 |
 | This game has Amazing Storytelling | 431 |
 | This game has Diverse Characters | 431 |
@@ -445,4 +445,4 @@ Diff (max vs sum): 59
 | 2023-09-21 | 4.61 | - | 509 | 4,356 |
 | 2023-09-22 | 4.61 | - | 509 | 4,368 |
 | 2023-09-23 | 4.61 | - | 510 | 4,374 |
-| 2023-09-24 | 4.61 | - | 510 | 4,380 |
+| 2023-09-24 | 4.61 | - | 510 | 4,385 |

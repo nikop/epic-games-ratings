@@ -58,6 +58,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 2.00% | ~282 |
 | Mighty | 2.00% | ~282 |
 | Valiant | 2.00% | ~282 |
+| Victorious | 2.00% | ~282 |
 | Legendary Cities | 2.00% | ~282 |
 | Just Difficulty | 2.00% | ~282 |
 | Artisans | 2.00% | ~282 |
@@ -84,7 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 1.00% | ~141 |
 | Ready | 1.00% | ~141 |
 | Subjugator | 1.00% | ~141 |
-| Victorious | 1.00% | ~141 |
 | Good Difficulty | 1.00% | ~141 |
 | Champions | 1.00% | ~141 |
 | Landowners | 1.00% | ~141 |
@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 1.00% | ~141 |
 | Military Prestige | 1.00% | ~141 |
 | Dualism | 1.00% | ~141 |
+| Enlightenment | 1.00% | ~141 |
 | Gnosticism | 1.00% | ~141 |
 | Legalism | 1.00% | ~141 |
 | Redemption | 1.00% | ~141 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.90% | ~127 |
 | Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
-| Enlightenment | 0.90% | ~127 |
 | Kushite Cavalry | 0.90% | ~127 |
 | Turreted Elephant | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.60% | ~85 |
 | The Eternal Treaty | 0.50% | ~71 |
 | Persia | 0.50% | ~71 |
+| Play a Free-For-All Game (>2 Players) | 0.50% | ~71 |
 | Capturing Cities | 0.50% | ~71 |
 | Ten Crowns | 0.50% | ~71 |
 | Three Man Chariot | 0.50% | ~71 |
@@ -155,7 +156,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.40% | ~56 |
 | Hatti | 0.40% | ~56 |
 | Pantheon of Gods | 0.40% | ~56 |
-| Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Siege Tower | 0.40% | ~56 |
 | Conquest Victory | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |

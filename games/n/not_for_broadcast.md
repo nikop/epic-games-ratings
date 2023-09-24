@@ -1,7 +1,7 @@
 # Not For Broadcast
 [Store](https://store.epicgames.com/en-US/p/not-for-broadcast-7e523f)  
 [View Rawdata](../../db/n/not_for_broadcast.json)  
-Rating: 4.74 (Ranked 146)  
+Rating: 4.74 (Ranked 147)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

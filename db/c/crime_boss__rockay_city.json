@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 967,
+  "Ranking_Rating": 968,
   "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3680,7 +3680,7 @@
   ],
   "EOS_Progressed": 88260,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20266,9 +20266,9 @@
       "ID": "ACH_0451",
       "SetID": "3kam13l",
       "Name": "Raider\u2019s Ruin",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_0452",
@@ -20345,8 +20345,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-24T15:58:49.0793163+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:04:10.0670233+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:03:48.7160037+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.9834817+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:58:24.396445+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:04:10.067125+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:58:00.8625546+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:03:48.7161108+00:00"
 }

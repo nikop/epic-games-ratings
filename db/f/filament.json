@@ -255,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202180,
+  "EOS_Progressed": 202184,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -17250,6 +17250,11 @@
       "Time": "2023-09-24T19:06:54.1761329+00:00",
       "NumProgressed": 202180,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-09-24T20:06:33.1106152+00:00",
+      "NumProgressed": 202184,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 29,
@@ -17285,7 +17290,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190049
+      "UsersEstimate": 190053
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17333,7 +17338,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -17429,7 +17434,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -17492,7 +17497,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202180,
+      "Progressed": 202184,
       "Completed": 505
     }
   ],
@@ -17500,8 +17505,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:06:54.1761325+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:06:33.1106144+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.1014806+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:57:40.7734168+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:06:54.1762258+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:57:17.6702717+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:06:33.1107071+00:00"
 }

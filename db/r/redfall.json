@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 996,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2429,17 +2429,17 @@
       "ID": "Achievement_022",
       "SetID": "6b34g18",
       "Name": "Bell-ringer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_023",
       "SetID": "6b34g18",
       "Name": "Silence Is Golden",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_024",
@@ -2573,9 +2573,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_041",
@@ -2661,9 +2661,9 @@
       "ID": "Achievement_053",
       "SetID": "6b34g18",
       "Name": "Harvest\u2019s End",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_055",
@@ -2733,9 +2733,9 @@
       "ID": "Achievement_063",
       "SetID": "6b34g18",
       "Name": "Helping Hand",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_064",
@@ -2806,8 +2806,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-09-23T22:00:03.5070604+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:08:43.0420694+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:02:24.7305478+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:38.6808071+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:00:57.4076136+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:08:43.0421353+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:00:35.3863895+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:02:24.7306279+00:00"
 }

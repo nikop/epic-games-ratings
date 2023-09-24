@@ -6,13 +6,13 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,626 |
+| First Step | 72.00% | ~6,627 |
 | Leader | 60.00% | ~5,522 |
 | Explorer | 53.00% | ~4,878 |
 | Healer | 52.00% | ~4,786 |
-| Aspiring Inventor | 44.00% | ~4,049 |
-| Adventurer | 41.00% | ~3,773 |
-| Famous Healer | 38.00% | ~3,497 |
+| Aspiring Inventor | 44.00% | ~4,050 |
+| Adventurer | 41.00% | ~3,774 |
+| Famous Healer | 38.00% | ~3,498 |
 | Local Leader | 35.00% | ~3,221 |
 | Famous Explorer | 34.00% | ~3,129 |
 | New Opportunities | 34.00% | ~3,129 |
@@ -35,11 +35,11 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 17.00% | ~1,565 |
 | Big Game Hunter | 17.00% | ~1,565 |
 | Spreading Influence | 17.00% | ~1,565 |
-| Around the World | 16.00% | ~1,472 |
-| Bookworm | 15.00% | ~1,380 |
-| Famous Adventurer | 14.00% | ~1,288 |
-| Prepared for Anything | 13.00% | ~1,196 |
-| Big Catastrofan | 13.00% | ~1,196 |
+| Around the World | 16.00% | ~1,473 |
+| Bookworm | 15.00% | ~1,381 |
+| Famous Adventurer | 14.00% | ~1,289 |
+| Prepared for Anything | 13.00% | ~1,197 |
+| Big Catastrofan | 13.00% | ~1,197 |
 | It's a Finnish Thing | 10.00% | ~920 |
 | Sky Burial | 10.00% | ~920 |
 | Trader | 9.00% | ~828 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,203 (Ranked 141)  
+Progressed: 9,204 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 9,129 | 0 |
 | 2023-09-22 | 9,141 | 0 |
 | 2023-09-23 | 9,173 | 0 |
-| 2023-09-24 | 9,203 | 0 |
+| 2023-09-24 | 9,204 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 337)  
 Sum: 702 (Ranked 280)  

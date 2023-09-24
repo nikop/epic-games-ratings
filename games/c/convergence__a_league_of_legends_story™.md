@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 399)  
+Rating: 4.60 (Ranked 398)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,11 +25,11 @@ Rating: 4.60 (Ranked 399)
 | The Betrayer | 18.00% | ~160 |
 | Golem Chaser | 18.00% | ~160 |
 | Right On Time | 17.00% | ~151 |
-| The Man Who Shattered Time | 17.00% | ~151 |
 | The Loose Cannon | 17.00% | ~151 |
 | Check Your Pulse | 17.00% | ~151 |
 | The Family Fortune | 17.00% | ~151 |
-| Street Style | 16.00% | ~142 |
+| The Man Who Shattered Time | 16.00% | ~143 |
+| Street Style | 15.00% | ~134 |
 | Treasure Trove | 14.00% | ~125 |
 | Cartographer | 14.00% | ~125 |
 | Whiz Kid | 13.00% | ~116 |
@@ -47,8 +47,8 @@ Rating: 4.60 (Ranked 399)
 | Cultivair Explorer | 8.00% | ~71 |
 | Entresol Explorer | 8.00% | ~71 |
 | Golem Hunter | 6.00% | ~53 |
-| Clovemary for Remembering | 5.00% | ~44 |
-| Rungs Was Right | 5.00% | ~44 |
+| Clovemary for Remembering | 5.00% | ~45 |
+| Rungs Was Right | 5.00% | ~45 |
 | Hexlock for Protection | 4.00% | ~36 |
 | Wunderkind | 2.00% | ~18 |
 | Fitting In | 2.00% | ~18 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 399)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 890 (Ranked 234)  
+Progressed: 891 (Ranked 234)  
 Completed: 5 (0.56%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 5 (0.56%) (Ranked 156)
 | 2023-09-21 | 885 | 5 |
 | 2023-09-22 | 887 | 5 |
 | 2023-09-23 | 889 | 5 |
-| 2023-09-24 | 890 | 5 |
+| 2023-09-24 | 891 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

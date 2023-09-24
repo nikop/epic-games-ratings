@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4299,
+  "EOS_Progressed": 4300,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1305,6 +1305,11 @@
       "Time": "2023-09-24T00:04:13.9009994+00:00",
       "NumProgressed": 4299,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-24T20:03:40.6215308+00:00",
+      "NumProgressed": 4300,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1780,7 +1785,7 @@
       "Name": "I\u0027ve been everywhere III",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ELECTION",
@@ -1788,7 +1793,7 @@
       "Name": "Governor-elect",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_FARMLAND",
@@ -1796,7 +1801,7 @@
       "Name": "Little place in the country",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_FESTIVITIES",
@@ -1828,7 +1833,7 @@
       "Name": "Made my choice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_INSURGENTS",
@@ -1860,7 +1865,7 @@
       "Name": "An honorable departure",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_MONEYBAGS",
@@ -1876,7 +1881,7 @@
       "Name": "I\u0027ve been everywhere VII",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_THE_BEAST",
@@ -1956,7 +1961,7 @@
       "Name": "To serve and protect",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_TAXES1",
@@ -2123,15 +2128,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4299,
+      "Progressed": 4300,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:04:01.7284819+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:03:40.6215304+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:43.2239811+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:01:01.3755978+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:04:01.7285902+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:00:39.4106774+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:03:40.6216467+00:00"
 }

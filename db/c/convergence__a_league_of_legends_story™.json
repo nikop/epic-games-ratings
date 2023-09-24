@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2265,6 +2265,11 @@
       "Time": "2023-09-24T10:05:36.3258587+00:00",
       "NumProgressed": 890,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T20:04:32.9399457+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2332,7 +2337,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2346,9 +2351,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 134
     },
     {
       "ID": "CultivairChests1",
@@ -2410,9 +2415,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 143
     },
     {
       "ID": "GadgetCompletion1",
@@ -2596,7 +2601,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SkillProgress1",
@@ -2699,7 +2704,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 5
     }
   ],
@@ -2707,8 +2712,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:04:54.6804994+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:04:32.9399453+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:58:08.7921351+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:04:54.6805508+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:57:47.2992568+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:04:32.9399924+00:00"
 }

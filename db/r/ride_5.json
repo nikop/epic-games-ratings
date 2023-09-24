@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1113,
+  "EOS_Progressed": 1114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1659,6 +1659,11 @@
       "Time": "2023-09-24T19:04:56.1028074+00:00",
       "NumProgressed": 1113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T20:04:34.6546337+00:00",
+      "NumProgressed": 1114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1671,7 +1676,7 @@
       "Name": "First Love",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1703,7 +1708,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1727,7 +1732,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -1773,9 +1778,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 201
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -2062,14 +2067,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1113,
+      "Progressed": 1114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:04:56.102807+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:04:34.6546333+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:01:22.6208886+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:04:56.1028587+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:02:08.2114813+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:04:34.6546759+00:00"
 }

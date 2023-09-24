@@ -2,13 +2,13 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467939,
+  "EOS_Progressed": 467941,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17089,6 +17089,11 @@
       "Time": "2023-09-24T19:05:06.7428004+00:00",
       "NumProgressed": 467939,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-24T20:04:45.3239984+00:00",
+      "NumProgressed": 467941,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -17116,7 +17121,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112305
+      "UsersEstimate": 112306
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -17188,7 +17193,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308840
+      "UsersEstimate": 308841
     },
     {
       "ID": "achievement_story_landa",
@@ -17252,7 +17257,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51473
+      "UsersEstimate": 51474
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -17284,7 +17289,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154420
+      "UsersEstimate": 154421
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17524,7 +17529,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205893
+      "UsersEstimate": 205894
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -17548,7 +17553,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51473
+      "UsersEstimate": 51474
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -17556,7 +17561,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182496
+      "UsersEstimate": 182497
     },
     {
       "ID": "achievement_win_run_hard",
@@ -17660,7 +17665,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -17731,21 +17736,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11873,
+      "Progressed": 11875,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467939,
+      "Progressed": 467941,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:05:06.7427998+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:04:45.323998+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.1528174+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:02:32.5131619+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:05:06.7430742+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:56:52.9021024+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:04:45.3241424+00:00"
 }

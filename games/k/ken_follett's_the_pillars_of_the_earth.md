@@ -6,10 +6,10 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,153 |
+| Tattletale | 40.00% | ~6,154 |
 | Man of politics | 35.00% | ~5,384 |
-| Friends of sorts | 33.00% | ~5,076 |
-| Yet another secret | 33.00% | ~5,076 |
+| Friends of sorts | 33.00% | ~5,077 |
+| Yet another secret | 33.00% | ~5,077 |
 | Let there be darkness | 32.00% | ~4,923 |
 | End of Book One | 30.00% | ~4,615 |
 | Wannabe knight | 24.00% | ~3,692 |
@@ -29,12 +29,12 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 11.00% | ~1,692 |
 | First profit | 11.00% | ~1,692 |
 | Team player | 10.00% | ~1,538 |
-| Skilled merchant | 9.00% | ~1,384 |
-| Nothing but make-believe | 9.00% | ~1,384 |
-| Brother Marcus | 9.00% | ~1,384 |
-| The oath | 9.00% | ~1,384 |
-| The truth revealed | 9.00% | ~1,384 |
-| The End. | 9.00% | ~1,384 |
+| Skilled merchant | 9.00% | ~1,385 |
+| Nothing but make-believe | 9.00% | ~1,385 |
+| Brother Marcus | 9.00% | ~1,385 |
+| The oath | 9.00% | ~1,385 |
+| The truth revealed | 9.00% | ~1,385 |
+| The End. | 9.00% | ~1,385 |
 | A cry for help | 7.00% | ~1,077 |
 | Silentium est aureum | 7.00% | ~1,077 |
 | Rebel without a cause | 6.00% | ~923 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~615 |
 | Self-defense | 4.00% | ~615 |
 | Countess Aliena | 4.00% | ~615 |
-| Care, like a brother cares | 3.00% | ~461 |
-| A brush with death | 3.00% | ~461 |
+| Care, like a brother cares | 3.00% | ~462 |
+| A brush with death | 3.00% | ~462 |
 | Boy of mystery | 2.00% | ~308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,383 (Ranked 126)  
+Progressed: 15,384 (Ranked 126)  
 Completed: 111 (0.72%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 111 (0.72%) (Ranked 143)
 | 2023-09-21 | 15,316 | 111 |
 | 2023-09-22 | 15,337 | 111 |
 | 2023-09-23 | 15,370 | 111 |
-| 2023-09-24 | 15,383 | 111 |
+| 2023-09-24 | 15,384 | 111 |
 ## Awards
 Max (Easy Puzzles): 150  (Ranked 303)  
 Sum: 191 (Ranked 384)  

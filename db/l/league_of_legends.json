@@ -2,13 +2,13 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
-  "Ranking_Rating": 870,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2009-10-27T16:30:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN, VN, TW, HK, MO, SG,MY, TH, ID, PH, KH, LA, MM, BN, TL"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "NumberOfRatings": 10796,
   "RatingHistory": [
     {
@@ -8962,6 +8962,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 18378,
       "NumberOfAwardsMax": 3861
+    },
+    {
+      "Time": "2023-09-24T19:58:31.696217+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 18378,
+      "NumberOfAwardsMax": 3861
     }
   ],
   "ReviewsDisabled": false,
@@ -9035,8 +9041,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-09-24T16:59:20.9223913+00:00",
+  "LastChanged": "2023-09-24T19:58:31.6962169+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:09.2650287+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:58:52.7891375+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:08:19.2559629+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:58:31.6962174+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:08:18.068986+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.19 (Ranked 877)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~6,682 |
-| Disposing of the Evidence | 38.00% | ~3,059 |
-| Without a Scratch | 34.00% | ~2,737 |
-| Wreckless Driving | 28.00% | ~2,254 |
-| A Marked Man | 25.00% | ~2,012 |
+| First Day on the Job | 83.00% | ~6,683 |
+| Disposing of the Evidence | 38.00% | ~3,060 |
+| Without a Scratch | 34.00% | ~2,738 |
+| Wreckless Driving | 28.00% | ~2,255 |
+| A Marked Man | 25.00% | ~2,013 |
 | Street Sweeper | 18.00% | ~1,449 |
-| Liberty City Minute | 17.00% | ~1,368 |
+| Liberty City Minute | 17.00% | ~1,369 |
 | Offshore Delivery | 14.00% | ~1,127 |
 | Dirty Money | 12.00% | ~966 |
 | By a Mile | 10.00% | ~805 |
@@ -24,19 +24,19 @@ Rating: 4.19 (Ranked 877)
 | Splish Splash | 2.00% | ~161 |
 | Playing Doctor | 2.00% | ~161 |
 | Liberty City Secrets | 2.00% | ~161 |
-| Escape Artist | 1.00% | ~80 |
-| Planned Ahead | 1.00% | ~80 |
-| Got This Figured Out | 1.00% | ~80 |
-| Wheels Up | 1.00% | ~80 |
-| Come Out to Play-y-y-y | 1.00% | ~80 |
-| Man Toyz | 1.00% | ~80 |
-| Going Rogue | 1.00% | ~80 |
-| Furious First Responder | 1.00% | ~80 |
+| Escape Artist | 1.00% | ~81 |
+| Planned Ahead | 1.00% | ~81 |
+| Got This Figured Out | 1.00% | ~81 |
+| Wheels Up | 1.00% | ~81 |
+| Come Out to Play-y-y-y | 1.00% | ~81 |
+| Man Toyz | 1.00% | ~81 |
+| Going Rogue | 1.00% | ~81 |
+| Furious First Responder | 1.00% | ~81 |
 | Is That All You've Got? | 0.90% | ~72 |
 | King of Liberty City | 0.60% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,050 (Ranked 145)  
-Completed: 52 (0.65%) (Ranked 146)  
+Progressed: 8,052 (Ranked 145)  
+Completed: 52 (0.65%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,7 +192,7 @@ Completed: 52 (0.65%) (Ranked 146)
 | 2023-09-21 | 7,951 | 51 |
 | 2023-09-22 | 7,975 | 52 |
 | 2023-09-23 | 8,023 | 52 |
-| 2023-09-24 | 8,050 | 52 |
+| 2023-09-24 | 8,052 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

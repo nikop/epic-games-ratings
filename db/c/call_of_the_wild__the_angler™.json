@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -762,7 +762,7 @@
   ],
   "EOS_Progressed": 5884,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8000,9 +8000,9 @@
       "ID": "ACHIEVEMENT_023",
       "SetID": "1a05lfd",
       "Name": "No Fin left to give",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -8119,8 +8119,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-24T05:58:48.7914025+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:03:19.2898583+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:02:29.1202844+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.3965529+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:58:45.779815+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:03:19.289923+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:58:24.6834343+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:02:29.1203439+00:00"
 }

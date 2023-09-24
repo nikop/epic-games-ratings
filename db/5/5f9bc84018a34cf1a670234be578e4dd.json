@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 244,
-  "EOS_Completed": 57,
+  "EOS_Completed": 58,
   "EOS_NewPlayers": 43,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 23.36,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 23.77,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1236,6 +1236,11 @@
       "Time": "2023-09-24T16:05:07.042989+00:00",
       "NumProgressed": 244,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-09-24T20:03:55.0181948+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1302,17 +1307,17 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "GasFound",
@@ -1342,17 +1347,17 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
@@ -1360,13 +1365,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 244,
-      "Completed": 57
+      "Completed": 58
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:04:16.3509475+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:03:55.0181944+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:59:20.3076239+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:04:16.3509627+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:58:56.6246983+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:03:55.018208+00:00"
 }

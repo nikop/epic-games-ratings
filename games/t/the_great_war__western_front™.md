@@ -1,6 +1,7 @@
 # The Great War: Western Front™
 [Store](https://store.epicgames.com/en-US/p/the-great-war-western-front)  
 [View Rawdata](../../db/t/the_great_war__western_front™.json)  
+Rating: 4.05 (Ranked 938)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,14 +11,14 @@
 | From the Pages of History | 8.00% | ~37 |
 | The Chemists' War | 6.00% | ~28 |
 | War with Friends | 3.00% | ~14 |
-| Nothing Can Stop Us! | 2.00% | ~9 |
+| Nothing Can Stop Us! | 1.00% | ~5 |
 | A Student of History | 0.90% | ~4 |
 | That's Not What Happened | 0.90% | ~4 |
 | Bombs Away! | 0.20% | ~1 |
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466 (Ranked 268)  
+Progressed: 467 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,8 +155,9 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 440 | 0 |
 | 2023-09-22 | 447 | 0 |
 | 2023-09-23 | 461 | 0 |
-| 2023-09-24 | 466 | 0 |
+| 2023-09-24 | 467 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
+| 2023-09-24 | 4.05 | 0 | 0 |

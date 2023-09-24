@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12827,9 +12827,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -13875,9 +13875,9 @@
       "ID": "ACHIEVEMENT_PLAY_FFA",
       "SetID": "9201eeb",
       "Name": "Play a Free-For-All Game (\u003E2 Players)",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_PLAY_HOTSEAT",
@@ -14139,9 +14139,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -14553,8 +14553,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T18:01:38.9338052+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:03:19.0694692+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:02:29.2519821+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:00:54.8113595+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:03:19.0702732+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:00:33.3327595+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:02:29.2527414+00:00"
 }

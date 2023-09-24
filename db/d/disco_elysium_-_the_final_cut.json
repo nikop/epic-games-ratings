@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1313,9 +1313,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128721,
+  "EOS_Progressed": 128723,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17053,6 +17053,11 @@
       "Time": "2023-09-24T19:04:00.1585826+00:00",
       "NumProgressed": 128721,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-24T20:03:39.0335312+00:00",
+      "NumProgressed": 128723,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17080,7 +17085,7 @@
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH_COP_APO",
@@ -17120,7 +17125,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30893
+      "UsersEstimate": 30894
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -17168,7 +17173,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20595
+      "UsersEstimate": 20596
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -17176,7 +17181,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25744
+      "UsersEstimate": 25745
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -17200,7 +17205,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20595
+      "UsersEstimate": 20596
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -17208,7 +17213,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14159
+      "UsersEstimate": 14160
     },
     {
       "ID": "ACH_CUNO",
@@ -17248,7 +17253,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH_HARDIE",
@@ -17368,7 +17373,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH_WHATBODY",
@@ -17383,15 +17388,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128721,
+      "Progressed": 128723,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-22T00:00:36.6014482+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:04:00.1585823+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:03:39.0335308+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:07.5946316+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:57:50.4664563+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:04:00.1586782+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:57:25.8815166+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:03:39.0336304+00:00"
 }

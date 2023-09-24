@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 571)  
+Rating: 4.50 (Ranked 572)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 571)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,012 (Ranked 111)  
+Progressed: 26,015 (Ranked 111)  
 Completed: 58 (0.22%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 58 (0.22%) (Ranked 206)
 | 2023-09-21 | 25,942 | 58 |
 | 2023-09-22 | 25,960 | 58 |
 | 2023-09-23 | 25,986 | 58 |
-| 2023-09-24 | 26,012 | 58 |
+| 2023-09-24 | 26,015 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 255)  
 Sum: 2,330 (Ranked 188)  

@@ -28,8 +28,8 @@ Number of Ratings: 281  (23.09.2022)
 | Big Fish Small Pond | 5.00% | ~294 |
 | Gonna Need a Bigger Boat | 3.00% | ~177 |
 | The Beetles | 2.00% | ~118 |
+| No Fin left to give | 2.00% | ~118 |
 | Rod and Troll | 2.00% | ~105 |
-| No Fin left to give | 1.00% | ~59 |
 | Taylor Made | 1.00% | ~59 |
 | Fish upon a Star | 0.70% | ~37 |
 | Head for Heights | 0.60% | ~35 |

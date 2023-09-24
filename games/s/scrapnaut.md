@@ -6,19 +6,19 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 62.00% | ~245 |
-| Scrap Gatherer | 58.00% | ~229 |
-| Mushroom Picker | 57.00% | ~225 |
+| My New Home | 62.00% | ~246 |
+| Scrap Gatherer | 58.00% | ~230 |
+| Mushroom Picker | 57.00% | ~226 |
 | Scrapper | 47.00% | ~186 |
 | Teleport | 45.00% | ~178 |
-| Cook | 44.00% | ~174 |
+| Cook | 43.00% | ~170 |
 | Scrap Master | 39.00% | ~154 |
-| Smelter | 36.00% | ~142 |
-| Electro-Scrap Gatherer | 34.00% | ~134 |
-| Digger | 33.00% | ~130 |
-| Survivor | 32.00% | ~126 |
-| Robot Destroyer | 31.00% | ~122 |
-| Lumberjack | 30.00% | ~118 |
+| Smelter | 36.00% | ~143 |
+| Electro-Scrap Gatherer | 34.00% | ~135 |
+| Digger | 33.00% | ~131 |
+| Survivor | 32.00% | ~127 |
+| Robot Destroyer | 31.00% | ~123 |
+| Lumberjack | 30.00% | ~119 |
 | Herbalist | 29.00% | ~115 |
 | Prepper | 26.00% | ~103 |
 | Electro-Scrap Master | 25.00% | ~99 |
@@ -27,8 +27,8 @@ Number of Ratings: 38  (23.09.2022)
 | Master Of Technology | 17.00% | ~67 |
 | Treasure Hunter | 16.00% | ~63 |
 | Mythical Smelter | 14.00% | ~55 |
-| Blacksmith | 12.00% | ~47 |
-| Master Of Management | 11.00% | ~43 |
+| Blacksmith | 12.00% | ~48 |
+| Master Of Management | 11.00% | ~44 |
 | Forest Lord | 10.00% | ~40 |
 | Fuel | 10.00% | ~40 |
 | Smelting Master | 10.00% | ~40 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~8 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395 (Ranked 281)  
+Progressed: 396 (Ranked 281)  
 Completed: 1 (0.25%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.25%) (Ranked 198)
 | 2023-09-21 | 388 | 1 |
 | 2023-09-22 | 390 | 1 |
 | 2023-09-23 | 393 | 1 |
-| 2023-09-24 | 395 | 1 |
+| 2023-09-24 | 396 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

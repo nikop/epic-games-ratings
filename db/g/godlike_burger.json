@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -1134,9 +1134,9 @@
       "ID": "GB_WITHOUT_BREAKING_A_SWEAT",
       "SetID": "8ga3kd9",
       "Name": "WITHOUT BREAKING A SWEAT",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     }
   ],
   "AchievementSets": [
@@ -1151,8 +1151,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:04:07.4531999+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:03:46.1542233+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4762104+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:01:02.437942+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:04:07.4532196+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:00:40.4220984+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:03:46.1542442+00:00"
 }

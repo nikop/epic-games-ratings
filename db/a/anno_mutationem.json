@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2023-09-18T13:10:59.264936+00:00",
       "NumProgressed": 671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T20:07:04.7409446+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -586,7 +591,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Fire in the hole!",
@@ -626,7 +631,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "In the smacker...I think",
@@ -698,15 +703,15 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "Thats_gotta_hurt",
       "SetID": "gl7plp",
       "Name": "That\u0027s gotta hurt",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 248
+      "UsersEstimate": 242
     },
     {
       "ID": "The Traveler",
@@ -754,7 +759,7 @@
       "Name": "The truth is out there",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "This_cant_be_right",
@@ -817,7 +822,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 0
     }
   ],
@@ -825,8 +830,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:07:16.3194963+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:07:04.7409442+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.538814+00:00",
-  "LastUpdate_Ratings": "2023-09-24T19:00:46.5429517+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:07:16.3195203+00:00"
+  "LastUpdate_Ratings": "2023-09-24T20:00:26.5936422+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:07:04.7409683+00:00"
 }

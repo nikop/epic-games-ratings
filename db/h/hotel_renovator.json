@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1041,
+  "EOS_Progressed": 1042,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
@@ -1748,6 +1748,11 @@
       "Time": "2023-09-24T17:05:07.0934757+00:00",
       "NumProgressed": 1041,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-24T20:04:09.8230316+00:00",
+      "NumProgressed": 1042,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1775,7 +1780,7 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1815,7 +1820,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1847,7 +1852,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1863,7 +1868,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1903,15 +1908,15 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_STAR_2",
@@ -1951,7 +1956,7 @@
       "Name": "Reunited",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -1959,7 +1964,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1974,7 +1979,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1041,
+      "Progressed": 1042,
       "Completed": 15
     }
   ],
@@ -1982,8 +1987,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-24T06:59:56.0745039+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:04:31.41891+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:04:09.8230311+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:14.2726698+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:59:59.3549823+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:04:31.4189332+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:59:34.0904095+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:04:09.8230535+00:00"
 }

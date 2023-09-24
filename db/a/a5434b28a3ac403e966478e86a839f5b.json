@@ -2,9 +2,9 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -242,6 +242,11 @@
       "Time": "2023-09-24T19:06:55.2533551+00:00",
       "NumProgressed": 161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T20:06:34.2278096+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -252,31 +257,31 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 43
     },
@@ -286,13 +291,13 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 40
     },
@@ -300,23 +305,23 @@
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 27
     },
@@ -342,7 +347,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 4,
       "XP": 120,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_xatrix",
@@ -350,21 +355,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 4,
       "XP": 120,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 167,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-24T19:06:55.2533547+00:00",
+  "LastChanged_Achievements": "2023-09-24T20:06:34.2278094+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:58:50.2177599+00:00",
-  "LastUpdate_Achievements": "2023-09-24T19:06:55.2533654+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:58:29.1302072+00:00",
+  "LastUpdate_Achievements": "2023-09-24T20:06:34.2278163+00:00"
 }

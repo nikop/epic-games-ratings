@@ -18,8 +18,8 @@
 | Perfectionist | 31.00% | ~69 |
 | Pragmatic | 22.00% | ~49 |
 | Calory burner | 19.00% | ~42 |
+| Snow digger | 15.00% | ~33 |
 | Pacifist | 15.00% | ~33 |
-| Snow digger | 14.00% | ~31 |
 | Model | 14.00% | ~31 |
 | Fire extinguisher | 11.00% | ~24 |
 | Hubworld fan | 11.00% | ~24 |

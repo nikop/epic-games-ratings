@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~9,882 |
-| Battering Crew | 20.00% | ~4,941 |
-| The Kingsroad | 18.00% | ~4,447 |
-| Well Stocked | 14.00% | ~3,459 |
+| Conqueror | 40.00% | ~9,884 |
+| Battering Crew | 20.00% | ~4,942 |
+| The Kingsroad | 18.00% | ~4,448 |
+| Well Stocked | 14.00% | ~3,460 |
 | Royal Fleet | 13.00% | ~3,212 |
-| The Kraken’s Grasp | 9.00% | ~2,223 |
-| Daggers in the Dark | 8.00% | ~1,976 |
-| Alliance | 8.00% | ~1,976 |
-| A Long Journey | 8.00% | ~1,976 |
-| Ours is the Fury | 7.00% | ~1,729 |
-| Winter is Coming | 7.00% | ~1,729 |
-| Oathkeeper | 7.00% | ~1,729 |
-| Influential | 7.00% | ~1,729 |
-| We Do Not Sow | 6.00% | ~1,482 |
-| Hear me Roar! | 6.00% | ~1,482 |
-| Defender of the Wall | 6.00% | ~1,482 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,235 |
-| Growing Strong | 5.00% | ~1,235 |
+| The Kraken’s Grasp | 9.00% | ~2,224 |
+| Daggers in the Dark | 8.00% | ~1,977 |
+| Alliance | 8.00% | ~1,977 |
+| A Long Journey | 8.00% | ~1,977 |
+| Ours is the Fury | 7.00% | ~1,730 |
+| Winter is Coming | 7.00% | ~1,730 |
+| Oathkeeper | 7.00% | ~1,730 |
+| Influential | 7.00% | ~1,730 |
+| We Do Not Sow | 6.00% | ~1,483 |
+| Hear me Roar! | 6.00% | ~1,483 |
+| Defender of the Wall | 6.00% | ~1,483 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,236 |
+| Growing Strong | 5.00% | ~1,236 |
 | What is Dead may Never Die | 3.00% | ~741 |
 | The Swift | 3.00% | ~741 |
 | King in the North | 2.00% | ~494 |
 | War of the Five Kings | 1.00% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,705 (Ranked 112)  
+Progressed: 24,711 (Ranked 112)  
 Completed: 60 (0.24%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 60 (0.24%) (Ranked 202)
 | 2023-09-21 | 24,452 | 58 |
 | 2023-09-22 | 24,537 | 59 |
 | 2023-09-23 | 24,640 | 60 |
-| 2023-09-24 | 24,705 | 60 |
+| 2023-09-24 | 24,711 | 60 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 320)  
 Sum: 786 (Ranked 268)  
