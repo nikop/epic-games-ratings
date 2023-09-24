@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,732 |
-| Basic in Bulk | 2.00% | ~2,732 |
-| Disintermediation | 2.00% | ~2,732 |
-| It's Free Real Estate | 2.00% | ~2,732 |
-| Tinkle of Coins | 2.00% | ~2,732 |
-| Capitalism Ho! | 2.00% | ~2,732 |
-| Titan's First Steps | 2.00% | ~2,732 |
+| Sponsored by Argon | 2.00% | ~2,733 |
+| Basic in Bulk | 2.00% | ~2,733 |
+| Disintermediation | 2.00% | ~2,733 |
+| It's Free Real Estate | 2.00% | ~2,733 |
+| Tinkle of Coins | 2.00% | ~2,733 |
+| Capitalism Ho! | 2.00% | ~2,733 |
+| Titan's First Steps | 2.00% | ~2,733 |
 | The Daily Grind | 1.00% | ~1,366 |
 | One Easy Payment | 1.00% | ~1,366 |
 | Some Assembly Required | 1.00% | ~1,366 |
@@ -78,28 +78,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.50% | ~683 |
 | Exotic Commodities | 0.50% | ~683 |
 | Complete Monopoly | 0.50% | ~683 |
-| Top of the World | 0.40% | ~546 |
-| Proud Paladin | 0.40% | ~546 |
-| Constellated | 0.40% | ~546 |
-| A Ronin Reborn | 0.40% | ~546 |
-| Thirst for Knowledge | 0.40% | ~546 |
-| Booty by the Boatload | 0.40% | ~546 |
-| Archivist | 0.40% | ~546 |
-| Fillin' the Bin | 0.40% | ~546 |
-| Industrial Evolution | 0.40% | ~546 |
-| Omae wa Mou Shindeiru | 0.40% | ~546 |
-| Ritualist | 0.40% | ~546 |
-| By Your Powers Combined... | 0.40% | ~546 |
-| A Legend is Born | 0.40% | ~546 |
-| Necromancer Queen | 0.40% | ~546 |
-| Item of Renown | 0.40% | ~546 |
-| Bountiful Harvest | 0.40% | ~546 |
-| Precision Engineering | 0.40% | ~546 |
-| Treasure Trove | 0.40% | ~546 |
-| King's Shadow | 0.40% | ~546 |
-| Master Recycler | 0.40% | ~546 |
-| Economy of Scarce | 0.40% | ~546 |
-| King's Blade | 0.40% | ~546 |
+| Top of the World | 0.40% | ~547 |
+| Proud Paladin | 0.40% | ~547 |
+| Constellated | 0.40% | ~547 |
+| A Ronin Reborn | 0.40% | ~547 |
+| Thirst for Knowledge | 0.40% | ~547 |
+| Booty by the Boatload | 0.40% | ~547 |
+| Archivist | 0.40% | ~547 |
+| Fillin' the Bin | 0.40% | ~547 |
+| Industrial Evolution | 0.40% | ~547 |
+| Omae wa Mou Shindeiru | 0.40% | ~547 |
+| Ritualist | 0.40% | ~547 |
+| By Your Powers Combined... | 0.40% | ~547 |
+| A Legend is Born | 0.40% | ~547 |
+| Necromancer Queen | 0.40% | ~547 |
+| Item of Renown | 0.40% | ~547 |
+| Bountiful Harvest | 0.40% | ~547 |
+| Precision Engineering | 0.40% | ~547 |
+| Treasure Trove | 0.40% | ~547 |
+| King's Shadow | 0.40% | ~547 |
+| Master Recycler | 0.40% | ~547 |
+| Economy of Scarce | 0.40% | ~547 |
+| King's Blade | 0.40% | ~547 |
 | The Free Encyclopedia | 0.30% | ~410 |
 | Thank You Tom Nook | 0.30% | ~410 |
 | Jackpot! | 0.30% | ~410 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,625 (Ranked 69)  
+Progressed: 136,626 (Ranked 69)  
 Completed: 154 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 154 (0.11%) (Ranked 229)
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
 | 2023-09-23 | 136,602 | 153 |
-| 2023-09-24 | 136,625 | 154 |
+| 2023-09-24 | 136,626 | 154 |
 ## Awards
 Max (Great for Beginners): 4,755  (Ranked 70)  
 Sum: 27,288 (Ranked 48)  

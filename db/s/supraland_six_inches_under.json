@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2150,9 +2150,9 @@
       "ID": "PickaxeWood",
       "SetID": "5lok9mm",
       "Name": "Pickaxe",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2133
     },
     {
       "ID": "Plumbster",
@@ -2174,9 +2174,9 @@
       "ID": "Revenge",
       "SetID": "5lok9mm",
       "Name": "Revenge",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2110
     },
     {
       "ID": "RocketLaunched",
@@ -2278,8 +2278,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-09-21T18:57:14.0312903+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:03:53.8260856+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:04:00.4814544+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:41.5945753+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:58:36.239639+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:03:53.826156+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:58:22.9163561+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:04:00.4814988+00:00"
 }

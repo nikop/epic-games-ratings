@@ -6,30 +6,30 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~21,531 |
-| The Evilest Evil | 58.00% | ~18,098 |
-| Twistram is devastated | 57.00% | ~17,786 |
-| The Gehenna Stones | 49.00% | ~15,290 |
-| No one has to die today! | 46.00% | ~14,354 |
-| Death and destruction! | 45.00% | ~14,042 |
-| The Swamplanders from the swamplands | 43.00% | ~13,418 |
+| The Shadow strikes | 69.00% | ~21,532 |
+| The Evilest Evil | 58.00% | ~18,099 |
+| Twistram is devastated | 57.00% | ~17,787 |
+| The Gehenna Stones | 49.00% | ~15,291 |
+| No one has to die today! | 46.00% | ~14,355 |
+| Death and destruction! | 45.00% | ~14,043 |
+| The Swamplanders from the swamplands | 43.00% | ~13,419 |
 | Rusty Steel | 41.00% | ~12,794 |
 | The One-Huge-Army-Building Evil | 40.00% | ~12,482 |
-| The last burger | 37.00% | ~11,545 |
-| Braiiiiins! | 37.00% | ~11,545 |
-| Hands off the Dungeonheart! | 36.00% | ~11,233 |
-| A trip on sea, what fun it can be | 34.00% | ~10,609 |
-| Damned good | 33.00% | ~10,297 |
-| Stock Market Crash | 31.00% | ~9,673 |
-| Factory farming | 31.00% | ~9,673 |
-| Not-So-Overproud | 30.00% | ~9,361 |
-| For a handfull of Catapults | 29.00% | ~9,049 |
-| Shadow hunter | 29.00% | ~9,049 |
-| Ogre Solo! | 28.00% | ~8,737 |
-| Thirst quencher | 27.00% | ~8,425 |
-| Destroy the thing | 26.00% | ~8,113 |
-| Tide Master | 26.00% | ~8,113 |
-| Difficult family relationships | 25.00% | ~7,801 |
+| The last burger | 37.00% | ~11,546 |
+| Braiiiiins! | 37.00% | ~11,546 |
+| Hands off the Dungeonheart! | 36.00% | ~11,234 |
+| A trip on sea, what fun it can be | 34.00% | ~10,610 |
+| Damned good | 33.00% | ~10,298 |
+| Stock Market Crash | 31.00% | ~9,674 |
+| Factory farming | 31.00% | ~9,674 |
+| Not-So-Overproud | 30.00% | ~9,362 |
+| For a handfull of Catapults | 29.00% | ~9,050 |
+| Shadow hunter | 29.00% | ~9,050 |
+| Ogre Solo! | 28.00% | ~8,738 |
+| Thirst quencher | 27.00% | ~8,426 |
+| Destroy the thing | 26.00% | ~8,114 |
+| Tide Master | 26.00% | ~8,114 |
+| Difficult family relationships | 25.00% | ~7,802 |
 | MASS-O-BOT | 24.00% | ~7,489 |
 | Prepare the grave | 24.00% | ~7,489 |
 | Angel of Fire | 24.00% | ~7,489 |
@@ -43,12 +43,12 @@ Number of Ratings: 1,635  (23.09.2022)
 | Flat as a pancake | 17.00% | ~5,305 |
 | Lifeguard | 17.00% | ~5,305 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,681 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~3,744 |
-| Then let them eat cake! | 12.00% | ~3,744 |
-| The White Knight | 10.00% | ~3,120 |
-| Please, no interruptions! | 10.00% | ~3,120 |
-| Use the terrain | 9.00% | ~2,808 |
-| Prison Break | 9.00% | ~2,808 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~3,745 |
+| Then let them eat cake! | 12.00% | ~3,745 |
+| The White Knight | 10.00% | ~3,121 |
+| Please, no interruptions! | 10.00% | ~3,121 |
+| Use the terrain | 9.00% | ~2,809 |
+| Prison Break | 9.00% | ~2,809 |
 | Hearts of Iron | 8.00% | ~2,496 |
 | Master of Traps | 8.00% | ~2,496 |
 | Ignore The Level Designer’s Plan | 8.00% | ~2,496 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~624 |
 | Sacrifices! | 2.00% | ~624 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,204 (Ranked 107)  
+Progressed: 31,206 (Ranked 107)  
 Completed: 257 (0.82%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 257 (0.82%) (Ranked 138)
 | 2023-09-21 | 30,969 | 253 |
 | 2023-09-22 | 31,046 | 253 |
 | 2023-09-23 | 31,170 | 256 |
-| 2023-09-24 | 31,204 | 257 |
+| 2023-09-24 | 31,206 | 257 |
 ## Awards
 Max (Great for Beginners): 351  (Ranked 228)  
 Sum: 2,652 (Ranked 175)  

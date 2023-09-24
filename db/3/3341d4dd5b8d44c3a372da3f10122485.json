@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -717,17 +717,17 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 75,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 80,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Konec",
@@ -741,9 +741,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 80,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Majak",
@@ -757,17 +757,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 75,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Poklop",
@@ -789,9 +789,9 @@
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 75,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Tuleni",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:03:56.1926364+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:04:02.531422+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.5559895+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:59:58.8939054+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:03:56.1926577+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:59:34.4491151+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:04:02.5314347+00:00"
 }

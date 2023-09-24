@@ -6,58 +6,58 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~2,237 |
-| A normal day in Gloomhaven | 31.00% | ~1,778 |
-| Overkill | 29.00% | ~1,663 |
-| Vaccine Incoming | 28.00% | ~1,606 |
-| Spread the plague | 25.00% | ~1,434 |
-| Get over here! | 22.00% | ~1,262 |
-| Just when I thought I was out... | 17.00% | ~975 |
-| Mine... All Mine... | 16.00% | ~918 |
-| Light of my life | 14.00% | ~803 |
-| Anatomy Lesson | 14.00% | ~803 |
-| You activated my trap card! | 12.00% | ~688 |
-| Augmented rat | 12.00% | ~688 |
-| Obstacle race | 12.00% | ~688 |
-| Doom and gloom | 11.00% | ~631 |
-| Precious! | 10.00% | ~574 |
-| Grizzled veteran | 8.00% | ~459 |
-| Pack leader | 7.00% | ~401 |
-| Pain is your friend | 7.00% | ~401 |
-| Play it again, Sam | 7.00% | ~401 |
-| Black death | 6.00% | ~344 |
-| Who's the Boss? | 5.00% | ~287 |
-| Quad damage | 5.00% | ~287 |
-| Dungeon Veteran | 4.00% | ~229 |
-| The Pro from Dover | 4.00% | ~229 |
-| Pretty lights! | 4.00% | ~229 |
-| Now you see me... | 4.00% | ~229 |
-| Power Up! | 3.00% | ~172 |
+| I'm not dead yet | 38.00% | ~2,187 |
+| A normal day in Gloomhaven | 31.00% | ~1,784 |
+| Overkill | 29.00% | ~1,669 |
+| Vaccine Incoming | 28.00% | ~1,612 |
+| Spread the plague | 25.00% | ~1,439 |
+| Get over here! | 22.00% | ~1,266 |
+| Just when I thought I was out... | 17.00% | ~979 |
+| Mine... All Mine... | 16.00% | ~921 |
+| Light of my life | 14.00% | ~806 |
+| Anatomy Lesson | 14.00% | ~806 |
+| You activated my trap card! | 12.00% | ~691 |
+| Augmented rat | 12.00% | ~691 |
+| Obstacle race | 12.00% | ~691 |
+| Doom and gloom | 11.00% | ~633 |
+| Precious! | 10.00% | ~576 |
+| Grizzled veteran | 8.00% | ~460 |
+| Pack leader | 7.00% | ~403 |
+| Pain is your friend | 7.00% | ~403 |
+| Play it again, Sam | 7.00% | ~403 |
+| Black death | 6.00% | ~345 |
+| Who's the Boss? | 5.00% | ~288 |
+| Quad damage | 5.00% | ~288 |
+| Dungeon Veteran | 4.00% | ~230 |
+| The Pro from Dover | 4.00% | ~230 |
+| Pretty lights! | 4.00% | ~230 |
+| Now you see me... | 4.00% | ~230 |
+| Power Up! | 3.00% | ~173 |
+| I hate portals | 2.00% | ~115 |
 | Merchant of doom | 2.00% | ~115 |
 | Caught off guard | 2.00% | ~115 |
 | Master Assassin | 2.00% | ~115 |
 | Grin and bear it | 2.00% | ~115 |
-| I hate portals | 1.00% | ~57 |
-| Down the hatch | 1.00% | ~57 |
-| An eye for an eye | 1.00% | ~57 |
-| The Sniper | 1.00% | ~57 |
-| An axe to grind | 1.00% | ~57 |
+| Down the hatch | 1.00% | ~58 |
+| An eye for an eye | 1.00% | ~58 |
+| The Sniper | 1.00% | ~58 |
+| An axe to grind | 1.00% | ~58 |
 | How to train your Drake | 0.80% | ~46 |
 | Add a bit of colour | 0.70% | ~40 |
 | The Rat King | 0.70% | ~40 |
 | The Cephalophore | 0.70% | ~40 |
 | New Blood | 0.70% | ~40 |
-| From Gloom, only greed and death emerges | 0.60% | ~34 |
+| From Gloom, only greed and death emerges | 0.60% | ~35 |
+| Betray this | 0.50% | ~29 |
 | Captain hooked | 0.50% | ~29 |
 | The Pacifist | 0.50% | ~29 |
-| Betray this | 0.40% | ~23 |
 | A tough job | 0.40% | ~23 |
 | Spoiler police! | 0.30% | ~17 |
 | Pull out the big guns | 0.30% | ~17 |
 | Born Support | 0.30% | ~17 |
-| Beware my power | 0.20% | ~11 |
-| The Jaws of victory! | 0.20% | ~11 |
-| Crimson Tornado | 0.20% | ~11 |
+| Beware my power | 0.20% | ~12 |
+| The Jaws of victory! | 0.20% | ~12 |
+| Crimson Tornado | 0.20% | ~12 |
 | A cult following | 0.10% | ~6 |
 | Over your dead body | 0.10% | ~6 |
 | The Guildmaster | 0.10% | ~6 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~6 |
 | Murder Death Kill | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,735 (Ranked 156)  
+Progressed: 5,756 (Ranked 156)  
 Completed: 1 (0.02%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.02%) (Ranked 265)
 | 2023-09-21 | 3,873 | 0 |
 | 2023-09-22 | 4,676 | 1 |
 | 2023-09-23 | 5,424 | 1 |
-| 2023-09-24 | 5,735 | 1 |
+| 2023-09-24 | 5,756 | 1 |
 ## Awards
 Max (Character Customization): 3,532  (Ranked 89)  
 Sum: 8,222 (Ranked 99)  

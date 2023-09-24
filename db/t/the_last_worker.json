@@ -4,8 +4,8 @@
   "ProductSlug": "the-last-worker-4fe58b",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-30T13:00:00+00:00",
     "PcReleaseDate": "2023-03-30T13:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:01:26.2893322+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:57:23.8689231+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:09:46.3692382+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:57:22.0794247+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:09:25.0103544+00:00"
 }

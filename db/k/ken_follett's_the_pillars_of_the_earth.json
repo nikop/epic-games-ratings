@@ -6,7 +6,7 @@
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
@@ -515,7 +515,7 @@
   ],
   "EOS_Progressed": 15376,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10758,9 +10758,9 @@
       "ID": "tpote_achievement_11",
       "SetID": "3jcf6c3",
       "Name": "Wannabe knight",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3690
     },
     {
       "ID": "tpote_achievement_12",
@@ -11078,8 +11078,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-23T22:58:53.6487582+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:05:15.281527+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:05:13.5993464+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:59:05.1186369+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:05:15.2817034+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:58:47.3990818+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:05:13.5994204+00:00"
 }

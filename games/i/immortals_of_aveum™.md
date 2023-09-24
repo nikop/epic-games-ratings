@@ -11,8 +11,8 @@ Rating: 3.97 (Ranked 960)
 | Unforeseen | 64.00% | ~7 |
 | Battlefields Have Memories | 64.00% | ~7 |
 | Initiate | 64.00% | ~7 |
+| Gravity-Challenged Rocks | 55.00% | ~6 |
 | Thrada-Kul | 45.00% | ~5 |
-| Gravity-Challenged Rocks | 45.00% | ~5 |
 | All the Major Food Groups | 36.00% | ~4 |
 | Soldier | 27.00% | ~3 |
 | Beggars Would Ride | 27.00% | ~3 |
@@ -26,6 +26,7 @@ Rating: 3.97 (Ranked 960)
 | A Perfect Cycle | 9.00% | ~1 |
 | Recruit | 9.00% | ~1 |
 | Lights Army | 9.00% | ~1 |
+| Scholar | 9.00% | ~1 |
 | Armaments Azure | 9.00% | ~1 |
 | Periapt Cerulean | 9.00% | ~1 |
 | Periapt Alizarin | 9.00% | ~1 |
@@ -37,7 +38,6 @@ Rating: 3.97 (Ranked 960)
 | Petite Bourgeoisie | 0.00% | ~0 |
 | Witch-Taker | 0.00% | ~0 |
 | Out of Time | 0.00% | ~0 |
-| Scholar | 0.00% | ~0 |
 | Kitted Out | 0.00% | ~0 |
 | Best Dressed | 0.00% | ~0 |
 | Armaments Gules | 0.00% | ~0 |

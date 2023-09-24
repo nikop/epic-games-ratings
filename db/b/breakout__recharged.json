@@ -3,9 +3,9 @@
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 367,
-  "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.85,
+  "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -236,6 +236,11 @@
       "Time": "2023-09-20T19:04:34.1526005+00:00",
       "NumProgressed": 108,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T11:06:21.6361564+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -287,7 +292,7 @@
       "Name": "Burning Bridges",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_CLUSTER_ONE",
@@ -317,7 +322,7 @@
       "ID": "ACH_ECHOES",
       "SetID": "5kae3ip",
       "Name": "Echoes",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 100,
       "UsersEstimate": 57
     },
@@ -325,7 +330,7 @@
       "ID": "ACH_GUNNERS_DREAM",
       "SetID": "5kae3ip",
       "Name": "The Gunner\u0027s Dream",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 45
     },
@@ -333,9 +338,9 @@
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_KING_BEE",
@@ -343,7 +348,7 @@
       "Name": "I\u0027m a King Bee",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_LAST_FEW_BRICK",
@@ -351,7 +356,7 @@
       "Name": "The Last Few Bricks",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_WHAT_DO",
@@ -366,7 +371,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 2
     }
   ],
@@ -374,8 +379,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:06:32.2454079+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:06:21.636156+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:08.2465657+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:00:13.4924094+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:06:32.2454393+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:59:48.1530013+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:06:21.6361671+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "larva-mortus-9d14c7",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-06-06T16:00:00+00:00",
     "PcReleaseDate": "2009-03-18T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.6349832+00:00",
   "LastChanged": "2023-03-31T05:58:16.6349833+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.8342208+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:59:56.9978393+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:09:06.3193389+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:59:32.8627618+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:08:37.2772468+00:00"
 }

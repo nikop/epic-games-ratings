@@ -5,10 +5,10 @@
   "Ranking_Rating": 436,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 102,
+  "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,7 +697,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37766,
+  "EOS_Progressed": 37768,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
@@ -16657,6 +16657,11 @@
       "Time": "2023-09-24T10:04:26.767441+00:00",
       "NumProgressed": 37766,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-24T11:04:30.2610423+00:00",
+      "NumProgressed": 37768,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16684,7 +16689,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6420
+      "UsersEstimate": 6421
     },
     {
       "ID": "ach_antiquarian10",
@@ -16876,7 +16881,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5287
+      "UsersEstimate": 5288
     },
     {
       "ID": "ach_legacysalvager",
@@ -17099,15 +17104,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37766,
+      "Progressed": 37768,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:04:26.7674402+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:04:30.2610419+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.9799405+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:58:27.2215641+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:04:26.7676161+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:58:15.7862205+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:04:30.2611582+00:00"
 }

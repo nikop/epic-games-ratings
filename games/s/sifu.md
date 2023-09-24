@@ -24,6 +24,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.20% | ~1,431 |
 | Path of the Prospect | 0.20% | ~1,431 |
 | Rumble in the Hangar | 0.20% | ~1,431 |
+| Take damage to save time | 0.20% | ~1,431 |
 | Project Arena | 0.20% | ~49 |
 | Martial Hub | 0.20% | ~49 |
 | Fight the way you practice | 0.20% | ~49 |
@@ -49,7 +50,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.10% | ~715 |
 | The Pit Protector | 0.10% | ~715 |
 | Be like water my friend | 0.10% | ~715 |
-| Take damage to save time | 0.10% | ~715 |
 | Warriors from the Mountain | 0.10% | ~715 |
 | Come Snap With Me | 0.10% | ~715 |
 | Bloody Sport | 0.10% | ~25 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,262 (Ranked 20)  
+Progressed: 715,264 (Ranked 20)  
 Completed: 12,901 (1.80%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,15 +224,15 @@ Completed: 12,901 (1.80%) (Ranked 105)
 | 2023-09-21 | 715,192 | 12,897 |
 | 2023-09-22 | 715,211 | 12,900 |
 | 2023-09-23 | 715,246 | 12,900 |
-| 2023-09-24 | 715,262 | 12,901 |
+| 2023-09-24 | 715,264 | 12,901 |
 ## Awards
 Max (Great Boss Battles): 6,579  (Ranked 53)  
-Sum: 11,373 (Ranked 81)  
+Sum: 11,375 (Ranked 81)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,579 |
-| This game has Diverse Characters | 606 |
+| This game has Diverse Characters | 608 |
 | This game has Challenging Combat | 567 |
 | This game has Quickly Understood Controls | 551 |
 | This game has Amazing Storytelling | 551 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -28
 | 2023-09-21 | 4.82 | - | 6,556 | 11,328 |
 | 2023-09-22 | 4.82 | - | 6,564 | 11,350 |
 | 2023-09-23 | 4.82 | - | 6,579 | 11,371 |
-| 2023-09-24 | 4.82 | - | 6,579 | 11,373 |
+| 2023-09-24 | 4.82 | - | 6,579 | 11,375 |

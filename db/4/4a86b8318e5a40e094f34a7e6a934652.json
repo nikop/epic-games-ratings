@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.46,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -606,6 +606,11 @@
       "Time": "2023-09-24T09:03:53.1005512+00:00",
       "NumProgressed": 137,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T11:04:30.6913128+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -640,9 +645,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -658,7 +663,7 @@
       "Name": "Fisherman",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -672,9 +677,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -728,9 +733,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -760,7 +765,7 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 104
     },
@@ -770,21 +775,21 @@
       "Name": "Strong Signal",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:04:27.0539003+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:04:30.6913125+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:00:24.9763088+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:04:27.0539209+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:59:59.7150668+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:04:30.6913269+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -791,9 +791,9 @@
       "ID": "Hacker",
       "SetID": "ek310c",
       "Name": "Everything Must Go!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "Headshot",
@@ -871,9 +871,9 @@
       "ID": "Missing_Shot",
       "SetID": "ek310c",
       "Name": "You Had One Job...",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "Neighbor",
@@ -960,8 +960,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:04:40.5587128+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:04:42.7109188+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.6418382+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:59:29.9770761+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:04:40.5587474+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:59:09.5425209+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:04:42.7109394+00:00"
 }

@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3265,
+  "EOS_Progressed": 3266,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 5.91,
   "EosHistory": [
@@ -5015,6 +5015,11 @@
       "Time": "2023-09-24T10:06:55.1998713+00:00",
       "NumProgressed": 3265,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2023-09-24T11:06:41.7227147+00:00",
+      "NumProgressed": 3266,
+      "NumCompleted": 193
     }
   ],
   "TotalAchievements": 24,
@@ -5042,7 +5047,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "12",
@@ -5122,7 +5127,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "21",
@@ -5130,7 +5135,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "22",
@@ -5138,7 +5143,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "23",
@@ -5162,7 +5167,7 @@
       "Name": "FRIENDLY",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "4",
@@ -5178,7 +5183,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "6",
@@ -5202,7 +5207,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "9",
@@ -5210,20 +5215,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3265,
+      "Progressed": 3266,
       "Completed": 193
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:06:55.1998707+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:06:41.7227143+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:57:29.2811114+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:06:55.1999245+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:57:26.9951959+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:06:41.7227506+00:00"
 }

@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86639,
+  "EOS_Progressed": 86643,
   "EOS_Completed": 400,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -17730,6 +17730,11 @@
       "Time": "2023-09-24T10:08:17.493976+00:00",
       "NumProgressed": 86639,
       "NumCompleted": 400
+    },
+    {
+      "Time": "2023-09-24T11:07:53.9946007+00:00",
+      "NumProgressed": 86643,
+      "NumCompleted": 400
     }
   ],
   "TotalAchievements": 10,
@@ -17765,7 +17770,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "Drawings04",
@@ -17773,7 +17778,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "DrawingsAll",
@@ -17805,7 +17810,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 30324
+      "UsersEstimate": 30325
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -17813,22 +17818,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9530
+      "UsersEstimate": 9531
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 86639,
+      "Progressed": 86643,
       "Completed": 400
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:08:17.4939754+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:07:53.9946004+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:07.215192+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:59:09.5321154+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:08:17.494139+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:58:51.3185806+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:07:53.9947011+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
     "PcReleaseDate": "2016-02-04T08:00:00+00:00",
@@ -7222,10 +7222,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 10457,
       "NumberOfAwardsMax": 1276
+    },
+    {
+      "Time": "2023-09-24T11:01:47.4021837+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 10461,
+      "NumberOfAwardsMax": 1276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10457,
+  "NumberOfAwards": 10461,
   "NumberOfAwardsMax": 1276,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -7251,7 +7257,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1211
+      "Count": 1215
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7301,8 +7307,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-09-24T04:01:33.1766743+00:00",
+  "LastChanged": "2023-09-24T11:01:47.4021835+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.5630274+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:02:30.617293+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:05:06.505485+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:01:47.4021841+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:05:05.7072164+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1423,
+  "EOS_Progressed": 1426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2780,6 +2780,11 @@
       "Time": "2023-09-24T08:05:29.6449784+00:00",
       "NumProgressed": 1423,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T11:05:30.6312843+00:00",
+      "NumProgressed": 1426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2839,7 +2844,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Defense_Common",
@@ -2847,7 +2852,7 @@
       "Name": "Unbreakable Wall",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Defense_Epic",
@@ -2871,7 +2876,7 @@
       "Name": "E1M1",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "Everyone_is_here",
@@ -2879,7 +2884,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Experienced_strategist",
@@ -2887,7 +2892,7 @@
       "Name": "Experienced Strategist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Game_Over",
@@ -2895,7 +2900,7 @@
       "Name": "Game Over",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Grenadier",
@@ -2903,7 +2908,7 @@
       "Name": "Grenadier",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "Hard_Serpent",
@@ -2919,7 +2924,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "High_noon",
@@ -2943,7 +2948,7 @@
       "Name": "Spice It Up",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "KillAllM2",
@@ -2983,7 +2988,7 @@
       "Name": "Mosquito bite",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Scout",
@@ -3005,9 +3010,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 556
     },
     {
       "ID": "We_were_not_here",
@@ -3023,22 +3028,22 @@
       "Name": "Your Answer",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1423,
+      "Progressed": 1426,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:05:34.3067305+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:05:30.631284+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:58:00.7156181+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:05:34.3068106+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:57:53.3229833+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:05:30.6313186+00:00"
 }

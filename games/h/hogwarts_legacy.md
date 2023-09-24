@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 117)
 | The Sort Who Makes an Entrance | 14.00% | ~41,612 |
 | First Class Student | 13.00% | ~38,640 |
 | Troll with the Punches | 13.00% | ~38,640 |
-| A Keen Sense of Spell | 12.00% | ~35,667 |
+| A Keen Sense of Spell | 12.00% | ~35,668 |
 | A Talent for Spending | 11.00% | ~32,695 |
 | That's a Keeper | 11.00% | ~32,695 |
 | Grappling with a Graphorn | 10.00% | ~29,723 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 117)
 | Challenge Accepted | 10.00% | ~29,723 |
 | Loom for Improvement | 10.00% | ~29,723 |
 | Coasting Along | 10.00% | ~29,723 |
-| Followed the Butterflies | 9.00% | ~26,750 |
-| Rising From the Ashes | 9.00% | ~26,750 |
+| Followed the Butterflies | 9.00% | ~26,751 |
+| Rising From the Ashes | 9.00% | ~26,751 |
 | A Sallow Grave | 8.00% | ~23,778 |
 | The Spell Master | 8.00% | ~23,778 |
 | The Avenging Gazelle | 7.00% | ~20,806 |
@@ -30,7 +30,7 @@ Rating: 4.76 (Ranked 117)
 | The Root of the Problem | 6.00% | ~17,834 |
 | Third Time's a Charm | 6.00% | ~17,834 |
 | Raising Expectations | 6.00% | ~17,834 |
-| The Ends Petrify the Means | 5.00% | ~14,861 |
+| The Ends Petrify the Means | 5.00% | ~14,862 |
 | The Toast of the Town | 4.00% | ~11,889 |
 | Going Through the Potions | 4.00% | ~11,889 |
 | Room with a View | 4.00% | ~11,889 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,227 (Ranked 44)  
+Progressed: 297,230 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,10 +208,10 @@ Completed: 476 (0.16%) (Ranked 214)
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
-| 2023-09-24 | 297,227 | 476 |
+| 2023-09-24 | 297,230 | 476 |
 ## Awards
 Max (Character Customization): 22,986  (Ranked 17)  
-Sum: 44,154 (Ranked 30)  
+Sum: 44,158 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -226,7 +226,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,009 |
 | This game has Quickly Understood Controls | 952 |
 | This game has Beautiful Visuals | 875 |
-| This game has a Creative Community | 667 |
+| This game has a Creative Community | 671 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -414,4 +414,4 @@ Diff (max vs sum): -13
 | 2023-09-21 | 4.77 | 22,886 | 43,899 |
 | 2023-09-22 | 4.77 | 22,916 | 43,979 |
 | 2023-09-23 | 4.76 | 22,951 | 44,076 |
-| 2023-09-24 | 4.76 | 22,986 | 44,154 |
+| 2023-09-24 | 4.76 | 22,986 | 44,158 |

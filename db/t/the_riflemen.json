@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12910,
+  "EOS_Progressed": 12925,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 1590,
-  "EOS_NewCompleters": 439,
-  "EOS_Completed_Percentage": 91.08,
+  "EOS_NewPlayers": 1587,
+  "EOS_NewCompleters": 421,
+  "EOS_Completed_Percentage": 90.98,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -3034,6 +3034,11 @@
       "Time": "2023-09-24T10:04:29.6232163+00:00",
       "NumProgressed": 12910,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-24T11:04:32.8939356+00:00",
+      "NumProgressed": 12925,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -3054,7 +3059,7 @@
       "Name": "First blood",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2973
     },
     {
       "ID": "grenadeKills",
@@ -3092,9 +3097,9 @@
       "ID": "knifeKills",
       "SetID": "b3jeemd",
       "Name": "Knife Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "matchesLost",
@@ -3157,13 +3162,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 12910,
+      "Progressed": 12925,
       "Completed": 11759
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:04:29.6232158+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:04:32.8939352+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.6814414+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:59:30.9125223+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:04:29.6232692+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:59:10.1294235+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:04:32.8939618+00:00"
 }

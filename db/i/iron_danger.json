@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.52,
   "EosHistory": [
@@ -536,6 +536,11 @@
       "Time": "2023-09-20T16:03:35.9783215+00:00",
       "NumProgressed": 263,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-24T11:05:04.7948441+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -609,9 +614,9 @@
       "ID": "ACH_HEALER_MET",
       "SetID": "ao59f0i",
       "Name": "Found the Healer",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -730,7 +735,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 4
     }
   ],
@@ -738,8 +743,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:05:05.477257+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:05:04.7948437+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.7974179+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:58:32.1288525+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:05:05.4773146+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:58:18.9054045+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:05:04.7948602+00:00"
 }

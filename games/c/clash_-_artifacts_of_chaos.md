@@ -14,8 +14,8 @@
 | Armored | 29.00% | ~31 |
 | Freedom | 27.00% | ~29 |
 | Winner | 24.00% | ~26 |
+| Omnia Vincit Amor | 22.00% | ~24 |
 | The Pride of Moozhaw | 21.00% | ~23 |
-| Omnia Vincit Amor | 21.00% | ~23 |
 | Stilt House | 18.00% | ~19 |
 | Corwid Hill | 15.00% | ~16 |
 | Armor Collector | 14.00% | ~15 |
@@ -26,7 +26,7 @@
 | Vivid Dreams | 3.00% | ~3 |
 | Broken Reflection | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 367)  
+Progressed: 108 (Ranked 368)  
 Completed: 1 (0.93%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |

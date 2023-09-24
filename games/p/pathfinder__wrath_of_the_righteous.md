@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 24.00% | ~2,734 |
+| Devoured by Darkness | 25.00% | ~2,848 |
 | A Spark | 18.00% | ~2,051 |
 | Burning City | 17.00% | ~1,937 |
 | Mythic Choices | 14.00% | ~1,595 |

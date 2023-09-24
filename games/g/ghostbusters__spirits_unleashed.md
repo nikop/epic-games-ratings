@@ -27,6 +27,7 @@ Rating: 4.50 (Ranked 570)
 | Right back at ya | 0.30% | ~78 |
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
+| Stunner | 0.30% | ~78 |
 | Summoner | 0.30% | ~78 |
 | Terrifying | 0.30% | ~78 |
 | Welcome to the Crew | 0.30% | ~78 |
@@ -40,7 +41,6 @@ Rating: 4.50 (Ranked 570)
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
 | Seasoned | 0.20% | ~52 |
-| Stunner | 0.20% | ~52 |
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 570)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,004 (Ranked 110)  
+Progressed: 26,005 (Ranked 110)  
 Completed: 58 (0.22%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 58 (0.22%) (Ranked 205)
 | 2023-09-21 | 25,942 | 58 |
 | 2023-09-22 | 25,960 | 58 |
 | 2023-09-23 | 25,986 | 58 |
-| 2023-09-24 | 26,004 | 58 |
+| 2023-09-24 | 26,005 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 255)  
 Sum: 2,330 (Ranked 188)  

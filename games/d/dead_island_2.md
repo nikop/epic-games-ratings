@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~20,561 |
+| Welcome To Hell-A | 3.00% | ~20,562 |
 | Dr. Reed, I Presume? | 2.00% | ~13,708 |
 | Git Gutte! | 2.00% | ~13,708 |
 | Bookworm | 2.00% | ~13,708 |
@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 508)
 | I Am the Resurrection | 1.00% | ~6,854 |
 | Down with the Sickness | 1.00% | ~6,854 |
 | Our True Nature | 1.00% | ~6,854 |
-| Max Headroom | 0.90% | ~6,168 |
+| Max Headroom | 0.90% | ~6,169 |
 | Jumbo Keyring | 0.70% | ~4,798 |
 | Go, Bobcats! | 0.70% | ~4,798 |
 | Rising Star | 0.70% | ~4,798 |
@@ -41,9 +41,9 @@ Rating: 4.54 (Ranked 508)
 | On Safari | 0.50% | ~3,427 |
 | Not Even My Final Form | 0.50% | ~3,427 |
 | Internet Famous | 0.50% | ~3,427 |
+| Variety is the Spice of Death | 0.50% | ~3,427 |
 | Make it So | 0.40% | ~2,742 |
 | Gore Horse | 0.40% | ~2,742 |
-| Variety is the Spice of Death | 0.40% | ~2,742 |
 | LA Influential | 0.30% | ~2,056 |
 | Sole Survivor | 0.30% | ~2,056 |
 | Sharpest Tool in the Box | 0.30% | ~2,056 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 508)
 | Donk! | 0.10% | ~685 |
 | Bucket List | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,378 (Ranked 22)  
+Progressed: 685,415 (Ranked 22)  
 Completed: 2,171 (0.32%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 2,171 (0.32%) (Ranked 186)
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
-| 2023-09-24 | 685,378 | 2,171 |
+| 2023-09-24 | 685,415 | 2,171 |
 ## Awards
 Max (Great Boss Battles): 6,175  (Ranked 57)  
 Sum: 9,190 (Ranked 92)  

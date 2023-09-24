@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4812,9 +4812,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 685378,
+  "EOS_Progressed": 685415,
   "EOS_Completed": 2171,
-  "EOS_NewPlayers": 4047,
+  "EOS_NewPlayers": 4053,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22477,6 +22477,11 @@
       "Time": "2023-09-24T10:08:10.9771657+00:00",
       "NumProgressed": 685378,
       "NumCompleted": 2171
+    },
+    {
+      "Time": "2023-09-24T11:07:48.038899+00:00",
+      "NumProgressed": 685415,
+      "NumCompleted": 2171
     }
   ],
   "TotalAchievements": 45,
@@ -22784,7 +22789,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "ach_the_vcla",
@@ -22814,9 +22819,9 @@
       "ID": "ach_weapon_wrangler",
       "SetID": "7km39fm",
       "Name": "Variety is the Spice of Death",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2742
+      "UsersEstimate": 3427
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -22824,7 +22829,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20561
+      "UsersEstimate": 20562
     },
     {
       "ID": "ach_well_known_survivor",
@@ -22847,22 +22852,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 685378,
+      "Progressed": 685415,
       "Completed": 2171
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 10919,
-      "Completed": 10919
+      "Progressed": 10956,
+      "Completed": 10956
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-24T09:00:48.4024846+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:08:10.9771651+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:07:48.0388986+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:02:45.832704+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:08:10.9773762+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:02:10.3103514+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:07:48.0390089+00:00"
 }

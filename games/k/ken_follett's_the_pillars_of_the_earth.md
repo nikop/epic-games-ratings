@@ -12,9 +12,9 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 33.00% | ~5,074 |
 | Let there be darkness | 32.00% | ~4,920 |
 | End of Book One | 30.00% | ~4,613 |
+| Wannabe knight | 24.00% | ~3,690 |
 | Garden of Eden | 24.00% | ~3,690 |
 | Full house | 24.00% | ~3,690 |
-| Wannabe knight | 23.00% | ~3,536 |
 | Help an old friend | 22.00% | ~3,383 |
 | Two of us | 20.00% | ~3,075 |
 | Negotiation skills | 18.00% | ~2,768 |
@@ -49,7 +49,7 @@ Number of Ratings: 368  (23.09.2022)
 | Boy of mystery | 2.00% | ~308 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,376 (Ranked 126)  
-Completed: 111 (0.72%) (Ranked 144)  
+Completed: 111 (0.72%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

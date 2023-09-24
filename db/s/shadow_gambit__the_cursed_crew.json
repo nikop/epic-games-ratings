@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1876,9 +1876,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 234
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2061,8 +2061,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:05:38.047551+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:05:33.921468+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:02:30.2121608+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:05:38.0475808+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:01:47.0187071+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:05:33.9214924+00:00"
 }

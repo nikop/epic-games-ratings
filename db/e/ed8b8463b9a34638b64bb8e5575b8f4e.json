@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-12T09:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "the_doctor",
       "SetID": "7i36ba9",
       "Name": "The Doctor",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 95,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "the_escape",
@@ -288,9 +288,9 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "who_is_d",
@@ -311,8 +311,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-09-24T10:07:14.4099317+00:00",
+  "LastChanged_Achievements": "2023-09-24T11:06:58.7875916+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.2852285+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:59:08.2831578+00:00",
-  "LastUpdate_Achievements": "2023-09-24T10:07:14.4099726+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:58:50.1395731+00:00",
+  "LastUpdate_Achievements": "2023-09-24T11:06:58.7876136+00:00"
 }
