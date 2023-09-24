@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 91.47% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 91.39% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.45% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.41% |
@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.33% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.24% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.67% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -97,8 +97,8 @@
 | 95 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.22% |
 | 96 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 97 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
-| 98 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.03% |
-| 99 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
+| 98 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
+| 98 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.02% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.92% |
 | 101 | [Night Book](games/n/night_book.md) | 1.86% |
 | 102 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.85% |
@@ -135,12 +135,12 @@
 | 133 | [Eternights](games/e/eternights.md) | 0.94% |
 | 134 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 135 | [Hades](games/h/hades.md) | 0.90% |
-| 136 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.89% |
-| 137 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.87% |
+| 136 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.88% |
+| 137 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.86% |
 | 138 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 139 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.83% |
-| 140 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
-| 140 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 139 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
+| 139 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 141 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.81% |
 | 142 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.79% |
 | 143 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 144 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -161,10 +161,10 @@
 | 159 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
 | 160 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
 | 160 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 162 | [It Takes Two](games/i/it_takes_two.md) | 0.49% |
 | 162 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.49% |
-| 163 | [Godlike Burger](games/g/godlike_burger.md) | 0.47% |
-| 163 | [It Takes Two](games/i/it_takes_two.md) | 0.47% |
-| 163 | [Them and Us](games/t/them_and_us.md) | 0.47% |
+| 164 | [Godlike Burger](games/g/godlike_burger.md) | 0.47% |
+| 164 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 166 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 168 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |

@@ -251,6 +251,7 @@
 | [Forklift Extreme - Deluxe Edition](../games/f/forklift_extreme_-_deluxe_edition.md) | 13 | 1,000 |
 | [Forspoken](../games/f/forspoken.md) | 53 | 1,000 |
 | [Fort Solis](../games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 20 | 1,000 |
+| [FRACTALS OF DESTINY](../games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 8 | 1,000 |
 | [Frogun](../games/f/frogun.md) | 31 | 1,000 |
 | [FRONT MISSION 1st: Remake](../games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 28 | 1,000 |
 | [Frontier Hunter: Erza's Wheel of Fortune](../games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 45 | 1,000 |
