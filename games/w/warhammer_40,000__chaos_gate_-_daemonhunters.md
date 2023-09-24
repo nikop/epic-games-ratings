@@ -30,13 +30,13 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
 | Only in Death | 0.80% | ~26 |
+| Junk Banishment | 0.80% | ~26 |
 | Long Distance Call | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
 | Tactical Sabotage | 0.80% | ~26 |
 | Fleetmaster | 0.70% | ~23 |
 | Exterminator | 0.70% | ~23 |
 | Mind Like a Fortress | 0.70% | ~23 |
-| Junk Banishment | 0.70% | ~23 |
 | Patron of Deimos | 0.60% | ~19 |
 | Preservationist | 0.60% | ~19 |
 | Engine Kill | 0.60% | ~19 |

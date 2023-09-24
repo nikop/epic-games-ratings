@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -294,9 +294,9 @@
       "ID": "aq_achievement_22",
       "SetID": "7jh86ne",
       "Name": "Makeover",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "aq_achievement_23",
@@ -503,8 +503,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:10:59.8254724+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:07:14.1438321+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:20.3456173+00:00",
-  "LastUpdate_Ratings": "2023-09-24T12:59:33.8251676+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:10:59.8255094+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:57:19.5562006+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:07:14.1438585+00:00"
 }

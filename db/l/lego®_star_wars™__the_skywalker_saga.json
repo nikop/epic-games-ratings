@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3186,18 +3186,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 6620,
       "NumberOfAwardsMax": 2410
+    },
+    {
+      "Time": "2023-09-24T13:59:20.6193403+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6621,
+      "NumberOfAwardsMax": 2411
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6620,
-  "NumberOfAwardsMax": 2410,
+  "NumberOfAwards": 6621,
+  "NumberOfAwardsMax": 2411,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2410
+      "Count": 2411
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3266,7 +3272,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51730,
+  "EOS_Progressed": 51731,
   "EOS_Completed": 235,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 3,
@@ -12286,6 +12292,11 @@
       "Time": "2023-09-24T12:03:26.2216192+00:00",
       "NumProgressed": 51730,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-09-24T14:03:09.9470343+00:00",
+      "NumProgressed": 51731,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12433,7 +12444,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24830
+      "UsersEstimate": 24831
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -12489,7 +12500,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29486
+      "UsersEstimate": 29487
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -12505,7 +12516,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -12537,7 +12548,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30003
+      "UsersEstimate": 30004
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12553,7 +12564,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -12561,7 +12572,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50178
+      "UsersEstimate": 50179
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12601,7 +12612,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36728
+      "UsersEstimate": 36729
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -12656,15 +12667,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51730,
+      "Progressed": 51731,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-09-24T10:59:41.5393503+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:05:30.2056578+00:00",
+  "LastChanged": "2023-09-24T13:59:20.6193401+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:03:09.9470339+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.4035697+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:02:06.291269+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:05:30.205768+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:59:20.6193408+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:03:09.9471202+00:00"
 }

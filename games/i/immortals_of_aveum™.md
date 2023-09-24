@@ -8,11 +8,11 @@ Rating: 3.97 (Ranked 960)
 | Maybe Engage a Little | 67.00% | ~8 |
 | No More Names | 67.00% | ~8 |
 | Enlisted | 67.00% | ~8 |
+| Initiate | 67.00% | ~8 |
 | Unforeseen | 58.00% | ~7 |
 | Battlefields Have Memories | 58.00% | ~7 |
-| Initiate | 58.00% | ~7 |
+| Thrada-Kul | 50.00% | ~6 |
 | Gravity-Challenged Rocks | 50.00% | ~6 |
-| Thrada-Kul | 42.00% | ~5 |
 | All the Major Food Groups | 33.00% | ~4 |
 | Soldier | 25.00% | ~3 |
 | Beggars Would Ride | 25.00% | ~3 |

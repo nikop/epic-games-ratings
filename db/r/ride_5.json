@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1093,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -1629,6 +1629,11 @@
       "Time": "2023-09-24T13:07:34.8982875+00:00",
       "NumProgressed": 1093,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T14:04:44.8149931+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1641,7 +1646,7 @@
       "Name": "First Love",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1649,7 +1654,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1665,7 +1670,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -1713,7 +1718,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1817,7 +1822,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -1849,7 +1854,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1897,7 +1902,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1929,7 +1934,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -1937,7 +1942,7 @@
       "Name": "Eat My Dust",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2032,14 +2037,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1093,
+      "Progressed": 1095,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:07:34.8982868+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:04:44.8149927+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:04:36.9395229+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:07:34.8983513+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:01:09.6253163+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:04:44.8150343+00:00"
 }

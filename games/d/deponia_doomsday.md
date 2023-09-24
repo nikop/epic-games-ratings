@@ -12,7 +12,7 @@ Rating: 4.57 (Ranked 450)
 | FunScore | 55.00% | ~228 |
 | Funtime's over | 53.00% | ~219 |
 | Chunky | 50.00% | ~207 |
-| Shall we play a game? | 48.00% | ~199 |
+| Shall we play a game? | 49.00% | ~203 |
 | Boat of love, boat of love | 48.00% | ~199 |
 | School's out | 43.00% | ~178 |
 | Scaffolding Expert | 37.00% | ~153 |
@@ -22,8 +22,8 @@ Rating: 4.57 (Ranked 450)
 | Portals come in packs | 29.00% | ~120 |
 | Photo Friend | 25.00% | ~104 |
 | Brainfreeze | 21.00% | ~87 |
+| Masseltov | 20.00% | ~83 |
 | And everything comes full circle. | 20.00% | ~83 |
-| Masseltov | 19.00% | ~79 |
 | Quickdraw | 15.00% | ~62 |
 | Thuna...? | 14.00% | ~58 |
 | Monstrous Harassment | 14.00% | ~58 |

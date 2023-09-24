@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 549)  
+Rating: 4.51 (Ranked 550)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,153 |
 | Exterminator | 13.00% | ~1,999 |
 | Whodunnit | 12.00% | ~1,845 |
+| Good midwife | 11.00% | ~1,691 |
 | Friar Tuck | 11.00% | ~1,691 |
 | First profit | 11.00% | ~1,691 |
-| Good midwife | 10.00% | ~1,538 |
 | Team player | 10.00% | ~1,538 |
 | Skilled merchant | 9.00% | ~1,384 |
 | Nothing but make-believe | 9.00% | ~1,384 |

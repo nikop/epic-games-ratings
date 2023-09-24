@@ -4,11 +4,11 @@
   "ProductSlug": "ark",
   "Ranking_Rating": 436,
   "Ranking_Popularity": 11,
-  "Ranking_PopularitySum": 11,
+  "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11619,10 +11619,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 269418,
       "NumberOfAwardsMax": 61405
+    },
+    {
+      "Time": "2023-09-24T14:01:10.3539549+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 249101,
+      "NumberOfAwardsMax": 61405
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 269418,
+  "NumberOfAwards": 249101,
   "NumberOfAwardsMax": 61405,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11710,8 +11716,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-09-24T11:03:04.9097278+00:00",
+  "LastChanged": "2023-09-24T14:01:10.3539547+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.4866423+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:04:38.2712575+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:11:03.1927288+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:01:10.3539553+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:07:16.0138492+00:00"
 }

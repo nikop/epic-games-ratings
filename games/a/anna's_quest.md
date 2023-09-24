@@ -35,9 +35,9 @@
 | Turn the last page | 28.00% | ~13 |
 | Singstar | 28.00% | ~13 |
 | Ring-a-ding-ding | 28.00% | ~13 |
+| Makeover | 26.00% | ~12 |
 | Bahahahaha... | 26.00% | ~12 |
 | Kill it! KILL IT! | 26.00% | ~12 |
-| Makeover | 23.00% | ~11 |
 | Guilty conscience | 21.00% | ~10 |
 | Cameodalic | 19.00% | ~9 |
 | Clever reference #451 | 17.00% | ~8 |

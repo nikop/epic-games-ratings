@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3186,
+  "EOS_Progressed": 3187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5089,6 +5089,11 @@
       "Time": "2023-09-24T06:06:28.9371215+00:00",
       "NumProgressed": 3186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T14:05:24.0989961+00:00",
+      "NumProgressed": 3187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5106,9 +5111,9 @@
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_BASE_11",
@@ -5484,7 +5489,7 @@
       "Name": "Hope Seeker",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_BASE_60",
@@ -5555,13 +5560,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1368,
+      "Progressed": 1369,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3186,
+      "Progressed": 3187,
       "Completed": 0
     }
   ],
@@ -5569,8 +5574,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:08:27.9554849+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:05:24.0989957+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:45.710163+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:04:12.913586+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:08:27.9555927+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:00:53.3247015+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:05:24.0990639+00:00"
 }

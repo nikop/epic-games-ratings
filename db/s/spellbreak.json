@@ -3,12 +3,12 @@
   "Name": "Spellbreak",
   "ProductSlug": "spellbreak",
   "Ranking_Rating": 333,
-  "Ranking_Popularity": 239,
+  "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -753,6 +753,6 @@
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
   "LastChanged": "2023-05-24T02:02:24.4459869+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:00.0937767+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:02:33.4881976+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:10:01.8823885+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:59:38.2924113+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:06:31.7117623+00:00"
 }

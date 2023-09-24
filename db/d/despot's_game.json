@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -496,9 +496,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 153
     },
     {
       "ID": "finished-quest-cube",
@@ -528,9 +528,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 94
     },
     {
       "ID": "finished-quest-pit",
@@ -656,9 +656,9 @@
       "ID": "win-koth-fights1",
       "SetID": "799afm0",
       "Name": "Rookie",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "win-koth-fights2",
@@ -713,8 +713,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:05:29.6642148+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:03:09.5394859+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.319837+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:04:00.3645806+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:05:29.664251+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:00:42.3752219+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:03:09.5395093+00:00"
 }

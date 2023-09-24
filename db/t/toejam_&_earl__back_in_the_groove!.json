@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57041,
+  "EOS_Progressed": 57044,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9823,6 +9823,11 @@
       "Time": "2023-09-24T12:06:15.1943624+00:00",
       "NumProgressed": 57041,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-24T14:06:12.8995017+00:00",
+      "NumProgressed": 57044,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -9978,7 +9983,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3422
+      "UsersEstimate": 3423
     },
     {
       "ID": "HarshLove",
@@ -10170,7 +10175,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3422
+      "UsersEstimate": 3423
     },
     {
       "ID": "TimelySplash",
@@ -10225,7 +10230,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57041,
+      "Progressed": 57044,
       "Completed": 6
     }
   ],
@@ -10233,8 +10238,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:09:36.0851647+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:06:12.8995014+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:04.8622812+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:02:10.8577127+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:09:36.0852819+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:59:23.5430171+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:06:12.8995809+00:00"
 }

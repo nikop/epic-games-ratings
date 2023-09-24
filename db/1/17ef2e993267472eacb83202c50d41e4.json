@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6470,
+  "EOS_Progressed": 6474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2482,6 +2482,11 @@
       "Time": "2023-09-24T13:05:25.3515791+00:00",
       "NumProgressed": 6470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T14:03:06.3814979+00:00",
+      "NumProgressed": 6474,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2606,7 +2611,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "GamesPlayed1",
@@ -2614,7 +2619,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "GamesPlayed10",
@@ -2638,7 +2643,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "GamesWon10",
@@ -2686,7 +2691,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "HAUpgraded1",
@@ -2700,9 +2705,9 @@
       "ID": "HGPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Healing Grenade",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 518
     },
     {
       "ID": "HSPurchased1",
@@ -2990,7 +2995,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "SEUpgraded1",
@@ -3078,14 +3083,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6470,
+      "Progressed": 6474,
       "Completed": 1
     }
   ],
@@ -3093,8 +3098,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-24T07:59:49.2549087+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:05:25.3515789+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:03:06.3814974+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:01:53.7036318+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:05:25.3516719+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:59:12.3698067+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:03:06.3815867+00:00"
 }

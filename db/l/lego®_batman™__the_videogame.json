@@ -2,13 +2,13 @@
   "ID": "843c8ce683474448bb104a9651e8f325",
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
   "ProductSlug": "lego-batman",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2008-09-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 523,
   "RatingHistory": [
     {
@@ -646,6 +646,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 192,
       "NumberOfAwardsMax": 192
+    },
+    {
+      "Time": "2023-09-24T14:00:02.5534934+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 192,
+      "NumberOfAwardsMax": 192
     }
   ],
   "ReviewsDisabled": false,
@@ -671,8 +677,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
-  "LastChanged": "2023-09-19T13:58:06.5726739+00:00",
+  "LastChanged": "2023-09-24T14:00:02.5534932+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.1815662+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:03:07.2054413+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:08:59.986397+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:00:02.5534936+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:05:47.1613914+00:00"
 }

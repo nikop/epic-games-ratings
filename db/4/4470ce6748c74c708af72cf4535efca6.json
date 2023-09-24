@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -265,9 +265,9 @@
       "ID": "12",
       "SetID": "5e3maia",
       "Name": "Stargazer",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "13",
@@ -545,9 +545,9 @@
       "ID": "46",
       "SetID": "5e3maia",
       "Name": "Historian",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "47",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:10:47.6709562+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:07:05.3010458+00:00",
   "LastUpdate_AppInfo": "2023-09-23T01:36:02.0816692+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:01:47.2505573+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:10:47.6710444+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:59:04.9663018+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:07:05.3011041+00:00"
 }

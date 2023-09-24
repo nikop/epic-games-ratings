@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.85,
+  "EOS_Completed_Percentage": 5.83,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -959,6 +959,11 @@
       "Time": "2023-09-24T10:09:50.2608399+00:00",
       "NumProgressed": 205,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-24T14:08:17.6526577+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 25,
@@ -978,7 +983,7 @@
       "Name": "In this together",
       "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "META_ALL_LINK",
@@ -986,7 +991,7 @@
       "Name": "Peace walker",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1008,9 +1013,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1024,9 +1029,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1056,9 +1061,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1090,7 +1095,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1112,9 +1117,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1138,7 +1143,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N3",
@@ -1152,9 +1157,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "PROGRESS_N5",
@@ -1169,14 +1174,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:11:30.2586003+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:08:17.6526573+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-24T12:59:23.4494043+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:11:30.2586315+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:57:12.5001555+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:08:17.6526755+00:00"
 }

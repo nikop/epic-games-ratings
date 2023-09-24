@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24677,
+  "EOS_Progressed": 24681,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -18115,6 +18115,11 @@
       "Time": "2023-09-24T13:09:53.8302056+00:00",
       "NumProgressed": 24677,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-09-24T14:06:25.8440611+00:00",
+      "NumProgressed": 24681,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 22,
@@ -18134,7 +18139,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "1017",
@@ -18158,7 +18163,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "1020",
@@ -18214,7 +18219,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "1027",
@@ -18230,7 +18235,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "1029",
@@ -18246,7 +18251,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "1031",
@@ -18262,7 +18267,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9871
+      "UsersEstimate": 9872
     },
     {
       "ID": "1033",
@@ -18278,7 +18283,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "1035",
@@ -18286,7 +18291,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "1036",
@@ -18301,15 +18306,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24677,
+      "Progressed": 24681,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:09:53.8302053+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:06:25.8440608+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:01:35.0307376+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:09:53.8303479+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:58:54.0702488+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:06:25.8441522+00:00"
 }

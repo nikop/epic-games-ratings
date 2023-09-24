@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -515,7 +515,7 @@
   ],
   "EOS_Progressed": 15377,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10747,9 +10747,9 @@
       "ID": "tpote_achievement_1",
       "SetID": "3jcf6c3",
       "Name": "Good midwife",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1691
     },
     {
       "ID": "tpote_achievement_10",
@@ -11083,8 +11083,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-23T22:58:53.6487582+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:07:13.0716873+00:00",
+  "LastChanged_Achievements": "2023-09-24T14:04:28.6596083+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:01:08.004573+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:07:13.0718063+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:58:32.9612153+00:00",
+  "LastUpdate_Achievements": "2023-09-24T14:04:28.6596832+00:00"
 }

@@ -17,11 +17,11 @@ Rating: 4.56 (Ranked 471)
 | The Ship of Theseus | 13.00% | ~414 |
 | Guy de Borderlands | 12.00% | ~382 |
 | Ain't Nobody Got Time for That | 12.00% | ~382 |
-| Hope Seeker | 11.00% | ~350 |
+| Hope Seeker | 11.00% | ~351 |
 | A Hunk of Junk | 10.00% | ~319 |
 | Exceeding Capacity | 10.00% | ~319 |
 | Breaking Protocol | 10.00% | ~319 |
-| Man's Best Friend | 8.00% | ~255 |
+| Man's Best Friend | 7.00% | ~223 |
 | Sightseeing | 7.00% | ~223 |
 | Power Outage | 7.00% | ~223 |
 | Convenient Transport | 7.00% | ~223 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 471)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,186 (Ranked 181)  
+Progressed: 3,187 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 3,179 | 0 |
 | 2023-09-22 | 3,181 | 0 |
 | 2023-09-23 | 3,185 | 0 |
-| 2023-09-24 | 3,186 | 0 |
+| 2023-09-24 | 3,187 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

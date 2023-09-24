@@ -6,15 +6,15 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,178 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,179 |
 | ''I don't like you either!'' | 79.00% | ~40,867 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~37,246 |
-| ''Impressive, most impressive'' | 71.00% | ~36,728 |
+| ''Impressive, most impressive'' | 71.00% | ~36,729 |
 | The Phantom Menace | 59.00% | ~30,521 |
-| ''Aggressive Negotiations'' | 58.00% | ~30,003 |
-| ''I can fly anything'' | 57.00% | ~29,486 |
+| ''Aggressive Negotiations'' | 58.00% | ~30,004 |
+| ''I can fly anything'' | 57.00% | ~29,487 |
 | ''And who gave you permission...?'' | 53.00% | ~27,417 |
-| A New Hope | 48.00% | ~24,830 |
+| A New Hope | 48.00% | ~24,831 |
 | Attack of the Clones | 46.00% | ~23,796 |
 | Revenge of the Sith | 40.00% | ~20,692 |
 | The Empire Strikes Back | 37.00% | ~19,140 |
@@ -26,8 +26,8 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''It's true... all of it'' | 19.00% | ~9,829 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,829 |
 | ''Raw, untamed power'' | 8.00% | ~4,138 |
-| Rishi Maze | 5.00% | ~2,586 |
-| ''Only one business in the Galaxy...'' | 5.00% | ~2,586 |
+| Rishi Maze | 5.00% | ~2,587 |
+| ''Only one business in the Galaxy...'' | 5.00% | ~2,587 |
 | ''You may fire when ready'' | 3.00% | ~1,552 |
 | ''What have you done with those plans?'' | 3.00% | ~1,552 |
 | ''GONK!'' | 3.00% | ~1,552 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~517 |
 | ''I've never seen a real one!'' | 0.90% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,730 (Ranked 94)  
+Progressed: 51,731 (Ranked 94)  
 Completed: 235 (0.45%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,14 +209,14 @@ Completed: 235 (0.45%) (Ranked 168)
 | 2023-09-21 | 51,716 | 232 |
 | 2023-09-22 | 51,718 | 233 |
 | 2023-09-23 | 51,727 | 234 |
-| 2023-09-24 | 51,730 | 235 |
+| 2023-09-24 | 51,731 | 235 |
 ## Awards
-Max (Great Boss Battles): 2,410  (Ranked 103)  
-Sum: 6,620 (Ranked 118)  
+Max (Great Boss Battles): 2,411  (Ranked 103)  
+Sum: 6,621 (Ranked 118)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,410 |
+| This game has Great Boss Battles | 2,411 |
 | This game is Great for Beginners | 500 |
 | This game has Diverse Characters | 499 |
 | This game has Amazing Characters | 486 |
@@ -444,4 +444,4 @@ Diff (max vs sum): -15
 | 2023-09-21 | 4.78 | - | 2,408 | 6,615 |
 | 2023-09-22 | 4.78 | - | 2,408 | 6,616 |
 | 2023-09-23 | 4.78 | - | 2,410 | 6,619 |
-| 2023-09-24 | 4.78 | - | 2,410 | 6,620 |
+| 2023-09-24 | 4.78 | - | 2,411 | 6,621 |
