@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 2,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -706,9 +706,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 80,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Intro",
@@ -722,17 +722,17 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 75,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 80,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Konec",
@@ -794,9 +794,9 @@
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 75,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Tuleni",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:03:49.7869345+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:04:08.1456812+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.5559895+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:59:15.3694589+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:03:49.7869503+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:00:00.1283837+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:04:08.1456945+00:00"
 }

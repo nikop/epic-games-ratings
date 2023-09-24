@@ -2,13 +2,13 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 398,
+  "Ranking_Rating": 399,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9856,10 +9856,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 32994,
       "NumberOfAwardsMax": 13952
+    },
+    {
+      "Time": "2023-09-24T22:00:30.8273831+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 33004,
+      "NumberOfAwardsMax": 13952
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32994,
+  "NumberOfAwards": 33004,
   "NumberOfAwardsMax": 13952,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9891,7 +9897,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1177
+      "Count": 1182
     },
     {
       "Text": "This game is Relaxing",
@@ -9909,7 +9915,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1214
+      "Count": 1219
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9947,8 +9953,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-09-24T20:59:37.9938826+00:00",
+  "LastChanged": "2023-09-24T22:00:30.8273829+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:06.8893113+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:59:37.9938832+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:04:32.6988584+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:00:30.8273835+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:05:03.2817085+00:00"
 }

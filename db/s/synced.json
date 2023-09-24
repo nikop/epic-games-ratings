@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 56881,
+  "EOS_Progressed": 56908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5937,
+  "EOS_NewPlayers": 5868,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2376,6 +2376,11 @@
       "Time": "2023-09-24T21:07:06.2524272+00:00",
       "NumProgressed": 56881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T22:08:20.12204+00:00",
+      "NumProgressed": 56908,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -2388,7 +2393,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 11376
+      "UsersEstimate": 11382
     },
     {
       "ID": "10",
@@ -2396,7 +2401,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "11",
@@ -2428,7 +2433,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "15",
@@ -2452,7 +2457,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6826
+      "UsersEstimate": 6829
     },
     {
       "ID": "3",
@@ -2460,7 +2465,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5691
     },
     {
       "ID": "4",
@@ -2468,7 +2473,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4550
+      "UsersEstimate": 4553
     },
     {
       "ID": "5",
@@ -2476,7 +2481,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "6",
@@ -2484,7 +2489,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "7",
@@ -2515,7 +2520,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 56881,
+      "Progressed": 56908,
       "Completed": 0
     }
   ],
@@ -2523,8 +2528,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-24T14:00:34.3528346+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:07:06.2524268+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:08:20.1220396+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:11.2762553+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:00:34.2377458+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:07:06.2524524+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:01:42.769031+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:08:20.1220588+00:00"
 }

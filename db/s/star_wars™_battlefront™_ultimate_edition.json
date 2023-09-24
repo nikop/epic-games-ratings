@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 79,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -336,6 +336,11 @@
       "Time": "2023-09-24T20:04:59.2151269+00:00",
       "NumProgressed": 153,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T22:06:07.9300344+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -354,7 +359,7 @@
       "ID": "achievement_10",
       "SetID": "271ol84",
       "Name": "That got him!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -370,7 +375,7 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -380,7 +385,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_14",
@@ -484,7 +489,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_26",
@@ -572,7 +577,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_36",
@@ -620,7 +625,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_41",
@@ -642,7 +647,7 @@
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -788,7 +793,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_60",
@@ -810,7 +815,7 @@
       "ID": "achievement_62",
       "SetID": "cemm4l8",
       "Name": "I never doubted you!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -842,7 +847,7 @@
       "ID": "achievement_9",
       "SetID": "271ol84",
       "Name": "Crush them with one swift stroke\u2026",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -851,13 +856,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 1
     }
   ],
@@ -865,8 +870,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:05:23.8152576+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:06:07.9300339+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:00:34.4915792+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:05:23.8153297+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:01:43.1232419+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:06:07.9300871+00:00"
 }

@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,574 |
-| Welcome To Hell-A | 3.00% | ~20,574 |
-| Dr. Reed, I Presume? | 2.00% | ~13,716 |
-| Git Gutte! | 2.00% | ~13,716 |
-| Bookworm | 2.00% | ~13,716 |
-| Break A Leg | 2.00% | ~13,716 |
-| But Doctor, I am Butcho | 2.00% | ~13,716 |
-| Slayer Squad | 2.00% | ~13,716 |
-| Can't Handle the Truth | 2.00% | ~13,716 |
-| Coup de Grâce | 2.00% | ~13,716 |
-| Like Riding a Bike | 2.00% | ~13,716 |
-| Hazardous Materials | 2.00% | ~13,716 |
-| Friends Like These | 2.00% | ~13,716 |
-| Apex Predator | 2.00% | ~13,716 |
-| Zombologist | 2.00% | ~13,716 |
-| A Patton Emerges | 2.00% | ~13,716 |
-| Stacking the Deck | 2.00% | ~13,716 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,716 |
-| This is My Weapon | 2.00% | ~13,716 |
+| Hotel California | 3.00% | ~20,575 |
+| Welcome To Hell-A | 3.00% | ~20,575 |
+| Dr. Reed, I Presume? | 2.00% | ~13,717 |
+| Git Gutte! | 2.00% | ~13,717 |
+| Bookworm | 2.00% | ~13,717 |
+| Break A Leg | 2.00% | ~13,717 |
+| But Doctor, I am Butcho | 2.00% | ~13,717 |
+| Slayer Squad | 2.00% | ~13,717 |
+| Can't Handle the Truth | 2.00% | ~13,717 |
+| Coup de Grâce | 2.00% | ~13,717 |
+| Like Riding a Bike | 2.00% | ~13,717 |
+| Hazardous Materials | 2.00% | ~13,717 |
+| Friends Like These | 2.00% | ~13,717 |
+| Apex Predator | 2.00% | ~13,717 |
+| Zombologist | 2.00% | ~13,717 |
+| A Patton Emerges | 2.00% | ~13,717 |
+| Stacking the Deck | 2.00% | ~13,717 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,717 |
+| This is My Weapon | 2.00% | ~13,717 |
 | Making Your Mark | 1.00% | ~6,858 |
 | Anger Management | 1.00% | ~6,858 |
 | Perks of the Job | 1.00% | ~6,858 |
@@ -34,7 +34,7 @@ Rating: 4.54 (Ranked 507)
 | Down with the Sickness | 1.00% | ~6,858 |
 | Our True Nature | 1.00% | ~6,858 |
 | Max Headroom | 0.90% | ~6,172 |
-| Go, Bobcats! | 0.80% | ~5,486 |
+| Go, Bobcats! | 0.80% | ~5,487 |
 | Jumbo Keyring | 0.70% | ~4,801 |
 | Rising Star | 0.70% | ~4,801 |
 | Smorgasbord | 0.60% | ~4,115 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,805 (Ranked 22)  
+Progressed: 685,828 (Ranked 22)  
 Completed: 2,172 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 2,172 (0.32%) (Ranked 188)
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
-| 2023-09-24 | 685,805 | 2,172 |
+| 2023-09-24 | 685,828 | 2,172 |
 ## Awards
 Max (Great Boss Battles): 6,188  (Ranked 57)  
 Sum: 9,204 (Ranked 92)  

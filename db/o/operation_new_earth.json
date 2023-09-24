@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1407,
+  "EOS_Progressed": 1409,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5121,6 +5121,11 @@
       "Time": "2023-09-24T20:06:09.8812332+00:00",
       "NumProgressed": 1407,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T22:07:38.2939898+00:00",
+      "NumProgressed": 1409,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5140,7 +5145,7 @@
       "Name": "Exterminator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_defeat_players_10",
@@ -5196,7 +5201,7 @@
       "Name": "Silver Competitor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -5236,7 +5241,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5268,7 +5273,7 @@
       "Name": "Captain",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -5308,7 +5313,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5380,7 +5385,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -5435,14 +5440,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1407,
+      "Progressed": 1409,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:06:34.131665+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:07:38.2939894+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:59:10.0528473+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:06:34.1317283+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:59:53.2451193+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:07:38.2940352+00:00"
 }

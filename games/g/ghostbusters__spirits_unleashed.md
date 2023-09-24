@@ -15,6 +15,7 @@ Rating: 4.50 (Ranked 572)
 | Teamwork | 0.50% | ~130 |
 | Vaporous Expansion | 0.50% | ~130 |
 | Whoopsie | 0.50% | ~130 |
+| Animated | 0.40% | ~104 |
 | Back Off | 0.40% | ~104 |
 | Clutch Capture | 0.40% | ~104 |
 | Cultured | 0.40% | ~104 |
@@ -22,7 +23,6 @@ Rating: 4.50 (Ranked 572)
 | Icing on the Cake | 0.40% | ~104 |
 | Swift Rift Removers | 0.40% | ~104 |
 | There you are! | 0.40% | ~104 |
-| Animated | 0.30% | ~78 |
 | Daily Dose | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
 | Right back at ya | 0.30% | ~78 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 572)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,015 (Ranked 111)  
+Progressed: 26,019 (Ranked 111)  
 Completed: 58 (0.22%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 58 (0.22%) (Ranked 206)
 | 2023-09-21 | 25,942 | 58 |
 | 2023-09-22 | 25,960 | 58 |
 | 2023-09-23 | 25,986 | 58 |
-| 2023-09-24 | 26,015 | 58 |
+| 2023-09-24 | 26,019 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 255)  
 Sum: 2,330 (Ranked 188)  

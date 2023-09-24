@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.35,
+  "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -527,6 +527,11 @@
       "Time": "2023-09-24T21:09:20.308122+00:00",
       "NumProgressed": 213,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T22:09:15.0779506+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -547,7 +552,7 @@
       "Name": "Holey Moley",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_11",
@@ -555,7 +560,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_12",
@@ -563,7 +568,7 @@
       "Name": "From Way Downtown",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_13",
@@ -595,15 +600,15 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_18",
@@ -627,7 +632,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_4",
@@ -659,15 +664,15 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 35,
-      "UsersEstimate": 132
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_9",
@@ -682,13 +687,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 5
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:09:20.3081216+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:09:15.0779501+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:58:35.6403672+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:09:20.3081364+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:59:05.8235804+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:09:15.0779652+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -300,9 +300,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 89,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "EndlessTricks",
@@ -420,17 +420,17 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 89,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 89,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MindIlluminator",
@@ -500,9 +500,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 89,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ReflexiveMind",
@@ -723,8 +723,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:04:53.8044502+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:05:30.2282827+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:00:44.9921369+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:04:53.8045386+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:01:55.3500113+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:05:30.2283501+00:00"
 }

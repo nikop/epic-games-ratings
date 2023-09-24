@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3140,7 +3140,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72806,
+  "EOS_Progressed": 72807,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 4,
@@ -16540,6 +16540,11 @@
       "Time": "2023-09-24T21:05:57.1121586+00:00",
       "NumProgressed": 72806,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-24T22:06:50.2221734+00:00",
+      "NumProgressed": 72807,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16599,7 +16604,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16745
+      "UsersEstimate": 16746
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16895,7 +16900,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37859
+      "UsersEstimate": 37860
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16959,7 +16964,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16745
+      "UsersEstimate": 16746
     },
     {
       "ID": "MYSTERY_04",
@@ -17038,13 +17043,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72806,
+      "Progressed": 72807,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43086,
+      "Progressed": 43087,
       "Completed": 2667
     }
   ],
@@ -17052,8 +17057,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-24T19:57:12.505905+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:05:57.1121581+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:06:50.2221727+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:57:32.2364196+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:05:57.1123022+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:57:40.8406742+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:06:50.2222816+00:00"
 }

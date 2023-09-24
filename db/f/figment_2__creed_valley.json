@@ -2,10 +2,10 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 495,
+  "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -130,9 +130,9 @@
       "ID": "fluff_hit_by_coco_bulb",
       "SetID": "7e96e7l",
       "Name": "Ouch, that hurt!",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "fluff_hit_worker_priciple_square",
@@ -251,8 +251,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:07:03.8420672+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:08:17.1035086+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.2885829+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:58:47.8255666+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:07:03.8420832+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:59:24.688995+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:08:17.1035199+00:00"
 }

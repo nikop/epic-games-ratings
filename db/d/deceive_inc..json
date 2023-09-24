@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18135,
+  "EOS_Progressed": 18136,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -10686,6 +10686,11 @@
       "Time": "2023-09-24T21:05:22.6581874+00:00",
       "NumProgressed": 18135,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-24T22:06:06.547869+00:00",
+      "NumProgressed": 18136,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10881,7 +10886,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3809
     },
     {
       "ID": "0025",
@@ -10984,7 +10989,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18135,
+      "Progressed": 18136,
       "Completed": 3
     }
   ],
@@ -10992,8 +10997,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:05:22.658187+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:06:06.5478685+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:58:15.7868323+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:05:22.6582829+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:58:39.2856028+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:06:06.5479367+00:00"
 }

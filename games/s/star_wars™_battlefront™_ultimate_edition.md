@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~139 |
+| New Recruit | 91.00% | ~140 |
 | Off to a good start | 71.00% | ~109 |
-| Do... or do not. There is no try | 48.00% | ~73 |
+| Do... or do not. There is no try | 48.00% | ~74 |
 | A good blaster at your side | 36.00% | ~55 |
-| Great shot, kid! | 27.00% | ~41 |
+| Great shot, kid! | 27.00% | ~42 |
 | The power of the Force | 25.00% | ~38 |
 | Scrap collector | 25.00% | ~38 |
 | Collector | 23.00% | ~35 |
@@ -18,11 +18,11 @@
 | All right, I'll give it a try | 18.00% | ~28 |
 | Together we can rule the galaxy | 17.00% | ~26 |
 | A cunning warrior | 17.00% | ~26 |
-| What's the cargo? | 16.00% | ~24 |
+| What's the cargo? | 16.00% | ~25 |
 | Never tell me the odds! | 15.00% | ~23 |
 | Survivor | 15.00% | ~23 |
 | Judge me by my size, do you? | 15.00% | ~23 |
-| A tremor in the Force | 14.00% | ~21 |
+| A tremor in the Force | 14.00% | ~22 |
 | "Gonk? Gonk!" | 13.00% | ~20 |
 | Best star-pilot in the galaxy | 13.00% | ~20 |
 | Impressive. Most impressive. | 13.00% | ~20 |
@@ -62,13 +62,13 @@
 | Don't get cocky | 1.00% | ~2 |
 | Master | 1.00% | ~2 |
 | Stay in attack formation | 1.00% | ~2 |
-| That got him! | 0.70% | ~1 |
-| Stay on target | 0.70% | ~1 |
-| Walker defender | 0.70% | ~1 |
-| I never doubted you! | 0.70% | ~1 |
-| Crush them with one swift stroke… | 0.70% | ~1 |
+| That got him! | 0.60% | ~1 |
+| Stay on target | 0.60% | ~1 |
+| Walker defender | 0.60% | ~1 |
+| I never doubted you! | 0.60% | ~1 |
+| Crush them with one swift stroke… | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 349)  
+Progressed: 154 (Ranked 348)  
 Completed: 1 (0.65%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 1 (0.65%) (Ranked 145)
 | 2023-09-21 | 2 | 0 |
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
-| 2023-09-24 | 153 | 1 |
+| 2023-09-24 | 154 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

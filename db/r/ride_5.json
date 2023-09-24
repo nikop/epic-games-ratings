@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1687,9 +1687,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "c7hf6a4",
       "Name": "Hear That Roar!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 424
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1855,9 +1855,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "c7hf6a4",
       "Name": "I\u0027m Here Too!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 256
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2078,8 +2078,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:04:59.9103442+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:05:37.1824367+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:03:05.2048632+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:04:59.9103962+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:02:20.3077238+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:05:37.1824797+00:00"
 }

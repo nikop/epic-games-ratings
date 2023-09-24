@@ -6,26 +6,26 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,546 |
-| That's a Grand Army | 3.00% | ~12,409 |
-| That is mine! | 3.00% | ~12,409 |
-| Victorious! | 3.00% | ~12,409 |
+| Until death do us apart | 4.00% | ~16,547 |
+| That's a Grand Army | 3.00% | ~12,410 |
+| That is mine! | 3.00% | ~12,410 |
+| Victorious! | 3.00% | ~12,410 |
 | Brothers in Arms | 2.00% | ~8,273 |
 | For the Glory | 2.00% | ~8,273 |
 | That's a Grand Navy | 2.00% | ~8,273 |
 | Seriously?! | 2.00% | ~8,273 |
-| Cold War | 1.00% | ~4,136 |
-| Defender of the Faith | 1.00% | ~4,136 |
-| It's all about the money | 1.00% | ~4,136 |
-| The Princess is in this Castle | 1.00% | ~4,136 |
-| True Catholic | 1.00% | ~4,136 |
+| Cold War | 1.00% | ~4,137 |
+| Defender of the Faith | 1.00% | ~4,137 |
+| It's all about the money | 1.00% | ~4,137 |
+| The Princess is in this Castle | 1.00% | ~4,137 |
+| True Catholic | 1.00% | ~4,137 |
 | It's all about luck | 0.90% | ~3,723 |
 | Respected | 0.90% | ~3,723 |
 | Truly Divine Ruler | 0.90% | ~3,723 |
 | Blockader | 0.80% | ~3,309 |
-| Double the Love | 0.70% | ~2,895 |
-| Royal Authority | 0.70% | ~2,895 |
-| Total Control | 0.70% | ~2,895 |
+| Double the Love | 0.70% | ~2,896 |
+| Royal Authority | 0.70% | ~2,896 |
+| Total Control | 0.70% | ~2,896 |
 | My armies are invincible! | 0.60% | ~2,482 |
 | Agressive Expander | 0.50% | ~2,068 |
 | City of Cities | 0.50% | ~2,068 |
@@ -297,6 +297,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sweet Harmony | 0.10% | ~414 |
 | Sweet Home Qaraqorum | 0.10% | ~414 |
 | Switzerlake | 0.10% | ~414 |
+| Sworn Fealty | 0.10% | ~414 |
 | Take that, von Habsburgs! | 0.10% | ~414 |
 | Tatarstan | 0.10% | ~414 |
 | Tear Down This Wall | 0.10% | ~414 |
@@ -357,11 +358,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | You Get A New Home, And You Get A New Home | 0.10% | ~414 |
 | No Trail of Tears | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
-| Sworn Fealty | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 413,640 (Ranked 40)  
+Progressed: 413,674 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 1 (0.00%) (Ranked 292)
 | 2023-09-21 | 410,221 | 0 |
 | 2023-09-22 | 411,228 | 0 |
 | 2023-09-23 | 412,558 | 0 |
-| 2023-09-24 | 413,640 | 1 |
+| 2023-09-24 | 413,674 | 1 |
 ## Awards
 Max (Educational): 6,250  (Ranked 56)  
 Sum: 51,334 (Ranked 24)  

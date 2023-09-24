@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1260,6 +1260,11 @@
       "Time": "2023-09-23T05:08:07.9091229+00:00",
       "NumProgressed": 525,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T22:08:53.5432161+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1287,7 +1292,7 @@
       "Name": "And now we wish...",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Chapter1",
@@ -1367,7 +1372,7 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Collectibles1",
@@ -1375,7 +1380,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Collectibles2",
@@ -1421,9 +1426,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "GollumChoices",
@@ -1527,7 +1532,7 @@
       "Name": "Ss ss ss...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Tasty",
@@ -1543,7 +1548,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "WelcomeToMordor",
@@ -1551,21 +1556,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:08:12.7643018+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:08:53.5432156+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.7265092+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:57:53.2064576+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:08:12.7643372+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:58:06.8616935+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:08:53.5432435+00:00"
 }

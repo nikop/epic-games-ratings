@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Black Hog Down | 33.00% | ~4 |
+| Ouch, that hurt! | 25.00% | ~3 |
 | Remembering of the past | 25.00% | ~3 |
-| Ouch, that hurt! | 17.00% | ~2 |
 | Fight like an idiot | 17.00% | ~2 |
 | Slam-KABAM | 8.00% | ~1 |
 | Heavy Thoughts | 8.00% | ~1 |
@@ -23,7 +23,7 @@
 | I'm Back at the Surface now | 0.00% | ~0 |
 | Repair the Mind Validation Machine | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 495)  
+Progressed: 12 (Ranked 496)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -17,11 +17,11 @@
 | Beginner Artificer | 54.00% | ~52 |
 | Seal Breaker | 49.00% | ~47 |
 | Handyman | 47.00% | ~45 |
-| Giant Lizard Killer | 45.00% | ~43 |
-| Nosebleeder | 44.00% | ~42 |
-| Guardian | 43.00% | ~41 |
+| Giant Lizard Killer | 46.00% | ~44 |
+| Nosebleeder | 45.00% | ~43 |
+| Guardian | 44.00% | ~42 |
 | Trader | 40.00% | ~38 |
-| Weapon Boost | 39.00% | ~37 |
+| Weapon Boost | 40.00% | ~38 |
 | Flying Kobold Killer | 34.00% | ~33 |
 | Youth Magnet | 34.00% | ~33 |
 | Lethal Blade Mantis Killer | 33.00% | ~32 |

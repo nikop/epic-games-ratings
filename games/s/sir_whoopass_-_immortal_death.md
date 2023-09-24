@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 92.00% | ~94 |
-| MLG 360 no scope kill! | 92.00% | ~94 |
-| Are you ready to rumble? | 92.00% | ~94 |
-| That's what cheese said! | 86.00% | ~88 |
-| I like you...but I have to kill you... | 85.00% | ~87 |
-| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~86 |
-| Not so hip anymore! | 84.00% | ~86 |
-| Nerd | 84.00% | ~86 |
+| Tastes just like chicken! | 92.00% | ~95 |
+| MLG 360 no scope kill! | 92.00% | ~95 |
+| Are you ready to rumble? | 92.00% | ~95 |
+| That's what cheese said! | 85.00% | ~88 |
+| I like you...but I have to kill you... | 84.00% | ~87 |
+| Nerd | 84.00% | ~87 |
+| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~85 |
+| Not so hip anymore! | 83.00% | ~85 |
 | Blurry depth perception | 82.00% | ~84 |
 | Up and down | 80.00% | ~82 |
-| Rolling, Rolling, Rolling | 75.00% | ~76 |
-| Fire-fighter! | 69.00% | ~70 |
-| Oh, you're up to no gouda! | 64.00% | ~65 |
-| Meat grinder | 62.00% | ~63 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~62 |
-| You're not going to blow me up! | 56.00% | ~57 |
-| Mushroom soup of the day | 53.00% | ~54 |
-| Honk honk! | 51.00% | ~52 |
-| Butcher | 51.00% | ~52 |
-| Spare Ribs | 51.00% | ~52 |
-| Cockadoodledoo! | 51.00% | ~52 |
+| Rolling, Rolling, Rolling | 74.00% | ~76 |
+| Fire-fighter! | 68.00% | ~70 |
+| Oh, you're up to no gouda! | 63.00% | ~65 |
+| Meat grinder | 61.00% | ~63 |
+| Make Love not War-Craft a Mistlefoe | 60.00% | ~62 |
+| You're not going to blow me up! | 55.00% | ~57 |
+| Mushroom soup of the day | 52.00% | ~54 |
+| Honk honk! | 50.00% | ~52 |
+| Butcher | 50.00% | ~52 |
+| Spare Ribs | 50.00% | ~52 |
+| Cockadoodledoo! | 50.00% | ~52 |
 | Thats disgusting! | 48.00% | ~49 |
 | My pants squeak when I walk | 45.00% | ~46 |
 | Self assessed tax return | 43.00% | ~44 |
@@ -40,16 +40,16 @@
 | I'm going to get a concussion | 30.00% | ~31 |
 | Another one bites the iron | 29.00% | ~30 |
 | A Megapint...? | 25.00% | ~26 |
-| Ripe Meat Off The Bone! | 25.00% | ~26 |
-| Hovering around | 25.00% | ~26 |
-| Kleptomaniac | 25.00% | ~26 |
-| You're not so Big anymore, Boi! | 23.00% | ~23 |
-| Your daily dose of Vitamin C. | 23.00% | ~23 |
-| I cant stand still! | 23.00% | ~23 |
-| Master Butcher | 18.00% | ~18 |
-| Slimy... yet satisfying | 18.00% | ~18 |
-| Just wing it! | 17.00% | ~17 |
-| Deal with it | 17.00% | ~17 |
+| Ripe Meat Off The Bone! | 24.00% | ~25 |
+| Hovering around | 24.00% | ~25 |
+| Kleptomaniac | 24.00% | ~25 |
+| You're not so Big anymore, Boi! | 22.00% | ~23 |
+| Your daily dose of Vitamin C. | 22.00% | ~23 |
+| I cant stand still! | 22.00% | ~23 |
+| Master Butcher | 17.00% | ~18 |
+| Just wing it! | 17.00% | ~18 |
+| Deal with it | 17.00% | ~18 |
+| Slimy... yet satisfying | 17.00% | ~18 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~14 |
 | Yeehaw!!! | 14.00% | ~14 |
 | You're looking mozzare-hella good! | 13.00% | ~13 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 373)  
+Progressed: 103 (Ranked 371)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,4 +125,4 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-19 | 99 | 0 |
 | 2023-09-20 | 100 | 0 |
 | 2023-09-21 | 101 | 0 |
-| 2023-09-24 | 102 | 0 |
+| 2023-09-24 | 103 | 0 |

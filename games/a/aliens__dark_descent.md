@@ -19,7 +19,7 @@ Rating: 4.49 (Ranked 587)
 | Colonial Barrels | 50.00% | ~1,696 |
 | Harper's Hell | 45.00% | ~1,526 |
 | Making a Stand | 43.00% | ~1,459 |
-| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,391 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,425 |
 | Where It All Begun | 40.00% | ~1,357 |
 | Recouped Investment | 38.00% | ~1,289 |
 | Omelette Du Fromage | 33.00% | ~1,119 |
@@ -33,10 +33,10 @@ Rating: 4.49 (Ranked 587)
 | El Riesgo Siempre Vive | 23.00% | ~780 |
 | Stuff Of Nightmares | 22.00% | ~746 |
 | Excavating The Truth | 21.00% | ~712 |
+| Abysmal Horrors | 21.00% | ~712 |
 | One For Every Occasion | 20.00% | ~678 |
 | Frontliner | 20.00% | ~678 |
 | The Cable Guy | 20.00% | ~678 |
-| Abysmal Horrors | 20.00% | ~678 |
 | Bandage Lover | 18.00% | ~611 |
 | Regicide | 15.00% | ~509 |
 | This Went Smoothly | 13.00% | ~441 |

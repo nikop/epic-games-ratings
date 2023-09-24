@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | First Love | 41.00% | ~457 |
 | Clean Race | 39.00% | ~435 |
-| Hear That Roar! | 37.00% | ~413 |
+| Hear That Roar! | 38.00% | ~424 |
 | Eat My Dust | 37.00% | ~413 |
 | Rivals to the End | 30.00% | ~334 |
 | We're Going to Need a Bigger Garage | 25.00% | ~279 |
+| I'm Here Too! | 23.00% | ~256 |
 | Bitter Rivalry | 23.00% | ~256 |
-| I'm Here Too! | 22.00% | ~245 |
 | Champagne Spray | 20.00% | ~223 |
 | Restored and Ready | 18.00% | ~201 |
 | I Want One Too! | 18.00% | ~201 |

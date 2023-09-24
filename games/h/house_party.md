@@ -18,8 +18,8 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 1.00% | ~63 |
 | IRL Let's Player | 1.00% | ~63 |
 | Newcomer: Vickie | 1.00% | ~63 |
+| Inspector | 0.90% | ~56 |
 | Social Butterfly | 0.90% | ~56 |
-| Inspector | 0.80% | ~50 |
 | The Muse: Madison | 0.80% | ~50 |
 | Amy | 0.70% | ~44 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,273 (Ranked 152)  
+Progressed: 6,274 (Ranked 152)  
 Completed: 3 (0.05%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 3 (0.05%) (Ranked 252)
 | 2023-09-21 | 6,240 | 3 |
 | 2023-09-22 | 6,253 | 3 |
 | 2023-09-23 | 6,265 | 3 |
-| 2023-09-24 | 6,273 | 3 |
+| 2023-09-24 | 6,274 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

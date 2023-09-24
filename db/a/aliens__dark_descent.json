@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -332,7 +332,7 @@
   ],
   "EOS_Progressed": 3392,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5039,9 +5039,9 @@
       "ID": "ACH_MISSION_12",
       "SetID": "816efe",
       "Name": "Abysmal Horrors",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -5087,9 +5087,9 @@
       "ID": "ACH_SECURE_MARINE",
       "SetID": "816efe",
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1425
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -5128,8 +5128,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:04:04.3031683+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:04:26.6483981+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:42.0106466+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:58:21.1162598+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:04:04.3032342+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:58:47.042024+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:04:26.6484452+00:00"
 }

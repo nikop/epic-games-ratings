@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -2849,9 +2849,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 411
     },
     {
       "ID": "Packing20",
@@ -3002,8 +3002,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:03:28.6779777+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:03:20.9487635+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.2940443+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:00:50.6635417+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:03:28.6780748+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:02:02.5947779+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:03:20.9488008+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
     "PcReleaseDate": "2023-08-31T16:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 621,
-  "EOS_Completed": 22,
+  "EOS_Completed": 23,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.54,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -1266,6 +1266,11 @@
       "Time": "2023-09-24T13:09:00.5899284+00:00",
       "NumProgressed": 621,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-24T22:06:56.6221785+00:00",
+      "NumProgressed": 621,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -1300,9 +1305,9 @@
       "ID": "Mission4",
       "SetID": "6igjng7",
       "Name": "Mission 3 clear",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 43
+      "UsersEstimate": 50
     },
     {
       "ID": "Mission5",
@@ -1318,13 +1323,13 @@
       "ID": "6igjng7",
       "IsBase": true,
       "Progressed": 621,
-      "Completed": 22
+      "Completed": 23
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-09-24T21:06:01.9144389+00:00",
+  "LastChanged_Achievements": "2023-09-24T22:06:56.6221779+00:00",
   "LastUpdate_AppInfo": "2023-09-18T10:57:05.3915372+00:00",
-  "LastUpdate_Ratings": "2023-09-24T20:59:06.6530814+00:00",
-  "LastUpdate_Achievements": "2023-09-24T21:06:01.9144536+00:00"
+  "LastUpdate_Ratings": "2023-09-24T21:59:48.9870766+00:00",
+  "LastUpdate_Achievements": "2023-09-24T22:06:56.6221898+00:00"
 }
